@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1128"
 - "6700007"
-ms.openlocfilehash: 233354386eb319860f25b3929b6be528438cc865
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 18a73fdb5a0b270b4343c408ef97fb18388b629bec63fc59fdfa674b763369be
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118573"
 ---
 # <a name="defer-windows-10-updates"></a>Zurückstellen von Windows 10-Updates
 

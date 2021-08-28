@@ -2,7 +2,7 @@
 title: Einwahlnummer für Teams-Konferenz entfernen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: 129913c77a9a603289b6e23e57b96aa4ff9628e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 062ade50a719b0477c39138f362daf7a23349eabb4d84fe0a54375326f25e3e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053213"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Einwahlnummer für Teams-Konferenz entfernen
 

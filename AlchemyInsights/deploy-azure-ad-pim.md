@@ -1,5 +1,5 @@
 ---
-title: Bereitstellen Azure AD privilegierten Identitätsverwaltung (PIM)
+title: Bereitstellen von Azure AD Privileged Identity Management (PIM)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003895"
 - "6949"
-ms.openlocfilehash: 6c9bbd7e55a283e421f76ebbda70aa579cb8b60c
-ms.sourcegitcommit: 2ff035d33e3277a268a5d88f1209dca77a87d689
+ms.openlocfilehash: e7e52ebf7fdb6a7cb07cf1d960fc14263ad0dbfab00ea9968feabbfa4b05c975
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49666162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914182"
 ---
-# <a name="deploy-azure-ad-privileged-identity-management-pim"></a>Bereitstellen Azure AD privilegierten Identitätsverwaltung (PIM)
+# <a name="deploy-azure-ad-privileged-identity-management-pim"></a>Bereitstellen von Azure AD Privileged Identity Management (PIM)
 
-Informationen zum Planen der Bereitstellung der privilegierten Identitätsverwaltung (PIM) in ihrer Azure Active Directory (Azure AD)-Organisation finden Sie unter [Deploy Azure AD Privileged Identity Management (PIM)](https://go.microsoft.com/fwlink/?linkid=2132095).
+Informationen zum Planen der Bereitstellung von Privileged Identity Management (PIM) in Ihrer Azure Active Directory (Azure AD)-Organisation finden Sie unter [Bereitstellen von Azure AD Privileged Identity Management (PIM).](https://go.microsoft.com/fwlink/?linkid=2132095)

@@ -2,7 +2,7 @@
 title: Installieren von SharePoint-Apps
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5796"
-ms.openlocfilehash: 5a8e374705d1d42bda96010e316859e801c234ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0857bd2476a1c08a940477a43865fad4aa02623faa4073f0b40f8ca5ecaed0e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969348"
 ---
 # <a name="install-sharepoint-apps"></a>Installieren von SharePoint-Apps
 
@@ -28,4 +28,4 @@ Apps für SharePoint sind kleine, benutzerfreundliche, eigenständige Anwendunge
 -   [Konfigurieren der SharePoint Store-Einstellungen](https://docs.microsoft.com/sharepoint/configure-sharepoint-store-settings) für jeden App-Kauf. Geben Sie an, ob Benutzer Apps aus dem SharePoint Store abrufen können.
 -   Wenn Probleme mit der App auftreten, können Sie versuchen, die App zu [entfernen](https://support.microsoft.com/office/03198d1b-c33b-498d-9469-af641a587d6c) und [erneut hinzuzufügen](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb).
 
-Weitere Informationen finden Sie unter [Hinzufügen einer App zu einer Website](https://support.microsoft.com/office/f9c0dbd-7fe1-4715-a1b0-fe3bc81317cb).
+Weitere Informationen finden Sie unter [Hinzufügen einer App zu einer Website](https://support.microsoft.com/office/add-an-app-to-a-site-ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb).

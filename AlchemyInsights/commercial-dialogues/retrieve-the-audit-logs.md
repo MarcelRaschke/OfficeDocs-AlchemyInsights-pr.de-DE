@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 88d28898923c1381c001c15445da90901b7e8761
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464552"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320442"
 ---
 # <a name="retrieve-the-audit-logs"></a>Abrufen der Überwachungsprotokolle
 
-Wenn Sie das Überwachungsprotokoll zum ersten Mal öffnen, ist es leer. Sie müssen eine Suche machen, um zu sehen, was da ist. Hier erfahren Sie, wie Sie eine allgemeine Suche für alle Aktivitäten machen:
+Wenn Sie das Überwachungsprotokoll zum ersten Mal öffnen, ist es leer. Sie müssen eine Suche durchführen, um zu sehen, was da ist. So führen Sie eine allgemeine Suche nach allen Aktivitäten durch:
 
-1. Wechseln Sie zur Seite [Überwachungsprotokollsuche](https://protection.office.com/#/unifiedauditlog) (oder navigieren Sie zu **Admin Center**  >  **Security & Compliance Center** Search &  >  **Investigation** Audit  >  **log search**).
-1. Übernehmen Sie **im** Feld Aktivitäten die Standardeinstellung Ergebnisse **für alle Aktivitäten anzeigen.**
-1. Geben Sie den Datumsbereich  an, und akzeptieren Sie im Feld Benutzer die Standardeinstellung, um Ergebnisse für alle Benutzer zurückzugeben, oder wählen Sie den Benutzernamen für den Benutzer aus, den Sie untersuchen möchten.
-1. Klicken Sie auf **Suchen**. Die Aktivitäten werden unter **Ergebnisse angezeigt.**
-1. Klicken Sie zum Anzeigen von Details auf eine Aktivität, und wählen Sie **dann Weitere Informationen aus.** Es werden weitere Informationen wie Client, Benutzer, der eine Aktion ausgeführt hat, usw. angezeigt.
+1. Führen Sie eine der folgenden Aktionen aus:
+   - Wechseln Sie im Microsoft 365 Compliance Center unter <https://compliance.microsoft.com> zu **"Lösungsüberwachung".** \>  Oder verwenden Sie , um direkt zur **Seite "Überwachung"** zu <https://compliance.microsoft.com/auditlogsearch> wechseln.
+   - Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> zu **"Überwachen".** Oder verwenden Sie , um direkt zur **Seite "Überwachung"** zu <https://security.microsoft.com/auditlogsearch> wechseln.
+
+2. Konfigurieren Sie auf der Registerkarte **"Suchen"** der **Überwachungsseite** die folgenden Einstellungen:
+   - **Datums- und Uhrzeitbereich:** Wählen Sie den Datums-/Uhrzeitbereich in den Feldern **Start** und Ende aus. 
+   - **Aktivitäten:** Überprüfen Sie, ob **die Ergebnisse für alle Aktivitäten** angezeigt werden.
+   - **Benutzer:** Akzeptieren Sie den leeren Standardwert, um Ergebnisse für alle Benutzer zurückzugeben, oder geben Sie einen oder mehrere Benutzer ein.
+
+3. Wenn Sie fertig sind, klicken Sie auf **Suchen.** Die Aktivitäten werden auf der neuen **Überwachungssuchseite** angezeigt.
+
+4. Wählen Sie eine Aktivität in den Ergebnissen aus, um das Detail-Flyout zu öffnen. Es werden weitere Informationen angezeigt, z. B. Client, Benutzer, der eine Aktion ausgeführt hat usw.
+
+Weitere Informationen finden Sie unter [Durchsuchen des Überwachungsprotokolls, um allgemeine Supportprobleme zu untersuchen.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

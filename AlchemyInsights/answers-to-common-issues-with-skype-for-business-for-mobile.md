@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5985"
 - "9003195"
-ms.openlocfilehash: e7e95cb26c847693982f376e6282bae5155f6c7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e1d7a044879287955044d91713dc35b9b7c1f635ef13c2802dbb09a36058442
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717756"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932745"
 ---
 # <a name="answers-to-common-issues-with-skype-for-business-for-mobile"></a>Antworten auf häufige Probleme mit Skype for Business auf Mobilgeräten
 

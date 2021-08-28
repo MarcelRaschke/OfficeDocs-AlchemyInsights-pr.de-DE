@@ -2,7 +2,7 @@
 title: Zum Entfernen markiert
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500020"
 - "4585"
-ms.openlocfilehash: 08320dd360239c32a19929ff562c8b99dd14a027
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4770b0fd737b4e8776b1f72e098210c223556d3e519f686e2881fa94e84748d1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945111"
 ---
 # <a name="marked-for-removal"></a>Zum Entfernen markiert
 

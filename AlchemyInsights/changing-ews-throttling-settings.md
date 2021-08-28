@@ -2,7 +2,7 @@
 title: Ändern der Einstellungen für die EWS-Drosselung
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 4f0bea884153dc1ed8699ce12e0d017d18f5e57c
-ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.openlocfilehash: f99bb449b542760c6c8d51ee399c774fbe36e3f7f40520b5eb23f39d9d7c08dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50075896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968376"
 ---
 # <a name="changing-ews-throttling-settings"></a>Ändern der Einstellungen für die EWS-Drosselung
 

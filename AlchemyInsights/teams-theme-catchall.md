@@ -2,7 +2,7 @@
 title: Einrichten von Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 34d77dac8da010c88d36a4ef84e86ab56ea40b365d2b7217efcd057df85738d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956442"
 ---
 # <a name="set-up-microsoft-teams"></a>Einrichten von Microsoft Teams
 

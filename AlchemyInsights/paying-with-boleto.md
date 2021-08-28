@@ -2,7 +2,7 @@
 title: Bezahlen mit Boleto
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: 1997b1e4f0240d132550de441affa3854c22cdc6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef68b2a98493b111a27fef9a5f55e2229ed6f998cc31c075fc6388aaeb7857c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960798"
 ---
 # <a name="como-pagar-com-boleto"></a>Como Pagar com Boleto
 

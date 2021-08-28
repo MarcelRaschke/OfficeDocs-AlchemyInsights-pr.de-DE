@@ -2,7 +2,7 @@
 title: Verwenden von Informationsbarrieren in Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002423"
 - "4701"
-ms.openlocfilehash: 79a338e278702bdcc752773c076452c062bdeff4
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 6884b1894552c1b2cd1eb07b3476298200019a96ddb80e71e4ab5138015b40ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653620"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998429"
 ---
 # <a name="using-information-barriers-in-microsoft-365"></a>Verwenden von Informationsbarrieren in Microsoft 365
 

@@ -2,7 +2,7 @@
 title: Der Akku wird nicht aufgeladen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: b15939c264a39687b4d93874553e5af7b3f7fe8d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fab76114044f71d60dbaf812cd2cd0cc75c8169c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686317"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820465"
 ---
 # <a name="battery-wont-charge"></a>Der Akku wird nicht aufgeladen
 
@@ -32,7 +32,7 @@ Wenn das Akkusymbol in der Taskleiste **Angeschlossen, aber wird nicht geladen**
 1. Schließen Sie Ihr Surface an.
 2. Geben Sie **Geräte-Manager** in das Suchfeld in der Taskleiste ein und wählen Sie dann **Geräte-Manager** aus der Ergebnisliste aus.
 3. Klicken Sie auf den Pfeil neben der **Akku**-Kategorie.
-4. Doppeltippen oder doppelklicken Sie auf ** Microsoft Surface ACPI-Compliant Control Method Battery**, wählen Sie die Registerkarte **Treiber** und klicken Sie auf **Deinstallieren> OK**.
+4. Doppeltippen oder doppelklicken Sie auf **Microsoft Surface ACPI-Compliant Control Method Battery**, wählen Sie die Registerkarte **Treiber** und klicken Sie auf **Deinstallieren> OK**.
 5. Wählen Sie den Computer oben in allen Kategorien aus, wählen Sie das Menü **Aktion** und klicken Sie dann auf **Nach Hardwareänderungen suchen**.
 6. Lassen Sie Ihr Surface angeschlossen.
 

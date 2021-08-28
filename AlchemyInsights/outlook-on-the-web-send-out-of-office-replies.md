@@ -2,7 +2,7 @@
 title: 'Outlook im Web: Senden von Abwesenheitsantworten'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: f9a33534000b6ceec2bd71e933b36c2af48816c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a436a4db9a6a2143f3fca77c29b2954caa5c8b9d2bc49b897d533104fc7ddde4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924732"
 ---
 # <a name="outlook-on-the-web-send-out-of-office-replies"></a>Outlook im Web: Senden von Abwesenheitsantworten
 

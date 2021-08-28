@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1701"
 - "9000165"
-ms.openlocfilehash: d38278f8aaffa030e66a561bbea912998b99937f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb1bb708facbcb0b210cbb61d3dae6ba68c035954a579a681d618f6bc16dd810
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779158"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015547"
 ---
 # <a name="how-to-set-up-configure-and-deploy-intune-for-education"></a>Einrichten, Konfigurieren und Bereitstellen von Intune for Education
 

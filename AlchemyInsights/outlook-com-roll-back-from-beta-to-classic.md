@@ -1,5 +1,5 @@
 ---
-title: Anforderung für ein Rollback von Outlook.com Beta auf den klassischen Outlook.com
+title: Anforderung zum Zurücksetzen von Outlook.com Beta auf klassische Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 0668e330897698481ce00ca331e183b0c1d44885
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53fe28be4f02087eba1ba096f165801d23e244ab95135564801f6e9dec231c9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723138"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961728"
 ---
 # <a name="the-new-outlookcom"></a>Die neue Outlook.com
 
-Es ist nicht mehr möglich, die neue Outlook.com-Benutzeroberfläche zu verlassen und zur klassischen Version von Outlook.com zurückzukehren.
+Es ist nicht mehr möglich, die neue Outlook.com-Oberfläche zu verlassen und zur klassischen Version von Outlook.com zurückzukehren.
 
-Wenn Sie Feedback zu den neuen Outlook.com geben möchten, wechseln Sie zum UserVoice- [Forum](https://go.microsoft.com/fwlink/p/?linkid=851599). Sie können über die Ideen oder Probleme abstimmen, die Sie sehen möchten, und wir werden direkt auf die wichtigsten Kommentare und Vorschläge Antworten.
+Wenn Sie Feedback zu der neuen Outlook.com geben möchten, wechseln Sie zum [UserVoice-Forum.](https://go.microsoft.com/fwlink/p/?linkid=851599) Sie können über die Ideen oder Probleme abstimmen, die Sie adressieren möchten, und wir reagieren direkt auf die wichtigsten Kommentare und Vorschläge.
 
-[Erhalten Sie Hilfe zu Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Hilfe zu Outlook.com erhalten.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

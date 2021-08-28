@@ -2,7 +2,7 @@
 title: Entfernen einer Domäne
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 5d83fc0d00d1c5b2d07040b31ba392cac2fc32c0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a8a859c1c4b3e001b7febeb67c4c201a70ff56b46ecb651cef69d88500846626
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502210"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891642"
 ---
 # <a name="trying-to-remove-your-domain"></a>Möchten Sie Ihre Domäne entfernen?
 

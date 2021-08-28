@@ -2,7 +2,7 @@
 title: Herunterladen von Microsoft Stream-Videos
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002470"
 - "4806"
-ms.openlocfilehash: 411aff253f3d72645f1fc69251d36485d63fe0be
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5905d8998fa0fb39da0928d940a0820520776199e04271430c36d3f7c1cd92fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057785"
 ---
 # <a name="download-microsoft-stream-videos"></a>Herunterladen von Microsoft Stream-Videos
 

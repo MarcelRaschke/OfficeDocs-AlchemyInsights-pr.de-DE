@@ -11,12 +11,12 @@ ms.custom: ''
 ms.assetid:
 - "9001733"
 - "4401"
-ms.openlocfilehash: 84ba2dcd6e83aa62223b7b62a0976aa20bd109dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 842a00da5eb4293c565258c82593d6e6ce76cc02e5ae475e8dd7f7613640d605
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718260"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933428"
 ---
 # <a name="allow-your-users-to-communicate-with-skype-consumer-users"></a>Die Kommunikation zwischen Ihren Benutzern und Benutzern von Skype Consumer zulassen
 

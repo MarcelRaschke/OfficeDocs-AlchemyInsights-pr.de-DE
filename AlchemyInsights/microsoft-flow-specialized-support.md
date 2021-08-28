@@ -1,5 +1,5 @@
 ---
-title: Microsoft Flow-spezieller Support
+title: Microsoft Flow Spezieller Support
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975928"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow-spezieller Support
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Spezieller Support
 
-Für eine spezielle Microsoft Flow-Unterstützung wechseln Sie zum neuen [Power Platform Admin Center](https://aka.ms/flowadminsupport). Das neue Portal bietet einen direkteren Pfad zu unterstützter Unterstützung, der für Microsoft Flow und andere Power Platform-Produkte optimiert ist.
+Spezielle Microsoft Flow Support finden Sie im neuen [Power Platform Admin Center.](https://aka.ms/flowadminsupport) Das neue Portal bietet einen direkteren Weg zum unterstützten Support, der für Microsoft Flow und andere Power-Plattformprodukte optimiert ist.
 
 Weitere Informationen:
-- [Informationen zu den kostenlosen Microsoft Flow-Lizenzen](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Ablauf in Ihrer Organisation – FAQ](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Microsoft 365-und Dynamics 365-Pläne, die Microsoft Flow umfassen](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Fragen zu Microsoft Flow-Abrechnung und-Messung](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [Informationen zu den Microsoft Flow Kostenlosen Lizenzen](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [häufig gestellte Fragen Flow in Ihrer Organisation](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 und Dynamics 365-Pläne, die Microsoft Flow enthalten](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Fragen zur Microsoft Flow Abrechnung und Messung](https://go.microsoft.com/fwlink/?linkid=2072612)

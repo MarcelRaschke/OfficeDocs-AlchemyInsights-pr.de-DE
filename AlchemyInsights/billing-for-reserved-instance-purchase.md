@@ -2,7 +2,7 @@
 title: Abrechnung des Kaufs reservierter Instanzen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 6cdcb5af27a475cc838eb434ff025eb18356360c
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 00565470de388165e64c45879c22fd5064b4adc695151edaf58878f38a481ff2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48816006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104019"
 ---
 # <a name="billing-for-reserved-instance-purchase"></a>Abrechnung des Kaufs reservierter Instanzen
 
@@ -37,7 +37,7 @@ Der Kauf reservierter Instanzen wird über die Zahlungsmethode abgerechnet, die 
 - **API / PS / CLI** Support steht nicht für Stornierung und Rückerstattungen zur Verfügung [Self-Service-Umtausche und Erstattungen für Azure-Reservierungen](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Self-Service Exchange- und Stornierungsmöglichkeit sind für Kunden von US Government Enterprise Agreement nicht verfügbar. Weitere US Government-Abonnementtypen einschließlich Nutzungsbasierte Zahlung und CSP werden unterstützt
 
-Weitere Informationen: [wie Rückgabe-und Exchange-Transaktionen verarbeitet werden](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) Weitere Informationen: [Exchange-und Erstattungsrichtlinien](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) weitere Fragen: [besuchen Sie reservierte Instanz-Dokumente](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Weitere Informationen: [Wie Rückgabe- und Austauschtransaktionen verarbeitet werden](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) Erfahren Sie mehr: Exchange und [Rückerstattungsrichtlinien](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) Weitere Fragen: [Besuchen Sie reservierte Instanz-Dokumente.](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Tauschen einer vorhandenen reservierten Instanz (Self-Service)**
 
@@ -45,8 +45,8 @@ Sie können eine Reservierung für eine andere Reservierung desselben Typs tausc
 
 In den folgenden Schritten wird beschrieben, wie Sie die Transaktion ausführen.
 
-1. Melden Sie sich bei Ihrem [Azure-Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)an. Wählen Sie die Reservierungen aus, die Sie zurückerstatten möchten, und klicken Sie auf **Exchange** 2. Wählen Sie das VM-Produkt aus, das Sie kaufen möchten, und geben Sie eine Menge ein. Stellen Sie sicher, dass die neue Einkaufssumme mehr ist, als die Rückgabe Summe [vor dem Kauf die richtige Größe bestimmt](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
-3. überprüfen und Abschließen der Transaktion
+1.Melden Sie sich bei Ihrem [Azure-Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)an. Wählen Sie die Reservierungen aus, die Sie zurückerstatten möchten, und klicken Sie auf **Exchange** 2.Wählen Sie das VM-Produkt aus, das Sie kaufen möchten, und geben Sie eine Menge ein. Stellen Sie sicher, dass die Summe der neuen Einkäufe größer als die Rückgabesumme [ist. Ermitteln Sie vor dem Kauf die richtige Größe.](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+3.Überprüfen und Abschließen der Transaktion
 
 **Rückerstattung für eine reservierte Instanz**
 
@@ -54,7 +54,7 @@ Wenn Sie eine Reservierung zurückerstatten möchten, wechseln Sie zu **Reservie
 
 **Anteilige Rückerstattung:**
 
-**Pro-ration-und mindestanforderungs Beispiele für Rückerstattung und Exchange** Beispiel für die Vorabreservierung:
+**Beispiele für Pro ration und Mindestanforderungen für Erstattung und Austausch** Vorabreservierungsbeispiel:
 
 - Sie kaufen einen RI-Jahreszeitraum für $120 am 1. Januar.
 - Am 7. April möchten Sie diese Reservierung zurückerstatten oder austauschen.
@@ -73,43 +73,43 @@ Wenn Sie eine Reservierung zurückerstatten möchten, wechseln Sie zu **Reservie
 
 **Rechnung für den letzten Abrechnungszeitraum kann nicht angezeigt werden**
 
-Einige mögliche Gründe, weshalb eine Rechnung möglicherweise nicht angezeigt wird:
+Einige mögliche Gründe, warum möglicherweise keine Rechnung angezeigt wird:
 
-- Sie haben einen monatlichen Kreditbetrag mit Ihrem Abonnement, den Sie nicht überschritten haben, oder Sie haben eine ﻿kostenlose Testversion. Eine Rechnung wird nur generiert, wenn Sie Geld Schulden.
-- Es ist weniger als 30 Tage nach dem Tag, an dem Sie Azure abonniert haben.
+- Sie haben einen monatlichen Kreditbetrag mit Ihrem Abonnement, den Sie nicht überschritten haben, oder Sie haben eine kostenlose Testversion. Eine Rechnung wird nur generiert, wenn Sie Geld abzahlen.
+- Es dauert weniger als 30 Tage ab dem Tag, an dem Sie Azure abonniert haben.
 - Die Rechnung wird noch nicht generiert. Warten bis zum Ende des Abrechnungszeitraums
-- Wenn Sie nicht der Konto Administrator sind, stehen Ihnen ältere Rechnungen möglicherweise nicht zur Verfügung.
+- Wenn Sie nicht der Kontoadministrator sind, stehen Ihnen möglicherweise ältere Rechnungen nicht zur Verfügung.
 
-**Laden Sie Ihre Rechnung aus dem Azure-Portal herunter (. pdf)**
+**Herunterladen Ihrer Rechnung aus dem Azure-Portal (.pdf)**
 
-- Wählen Sie Ihr Abonnement auf der Seite " [Abonnements](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) " im Azure-Portal als [Benutzer mit Zugriff auf Rechnungen](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support) aus.
-- **Rechnungen** auswählen
-- Klicken Sie auf **Rechnung herunterladen** , um eine Kopie Ihrer PDF-Rechnung anzuzeigen. Wenn die Meldung **nicht verfügbar** ist, finden Sie weitere Informationen unter [Warum wird für den letzten Abrechnungszeitraum keine Rechnung angezeigt?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- Wählen Sie Ihr Abonnement auf der Seite ["Abonnements"](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) im Azure-Portal als [Benutzer mit Zugriff auf Rechnungen](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support) aus.
+- **Auswählen von Rechnungen**
+- Klicken Sie auf **Rechnung herunterladen**, um eine Kopie Ihrer PDF-Rechnung anzuzeigen. Wenn **Nicht verfügbar** angezeigt wird, lesen Sie [Warum wird keine Rechnung für den letzten Abrechnungszeitraum angezeigt?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
 
-**Ihre Rechnung per e-Mail erhalten (. pdf)**
+**Empfangen Ihrer Rechnung per E-Mail (.pdf)**
 
-- Wählen Sie Ihr Abonnement auf der Seite [Abonnements](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) aus. Klicken Sie auf **Rechnungen** und dann auf meine Rechnung per e-Mail
-- Klicken Sie auf **Anmelden** und akzeptieren Sie die Bedingungen. Sie müssen sich für jedes Abonnement anmelden, das Sie besitzen.
+- Wählen Sie Ihr Abonnement auf der Seite ["Abonnements"](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) aus. Klicken Sie auf **"Rechnungen"** und dann auf "E-Mail an meine Rechnung senden".
+- Klicken Sie auf **"Anmelden",** und akzeptieren Sie die Bedingungen. Sie müssen sich für jedes Abonnement anmelden, das Sie besitzen.
 
-Hinweis: Wenn Sie keine e-Mails erhalten, nachdem Sie die folgenden Schritte ausgeführt haben, stellen Sie sicher, dass Ihre e-Mail-Adresse in den [Kommunikationseinstellungen in Ihrem Profil](https://account.windowsazure.com/profile) richtig ist.
+Hinweis: Wenn Sie nach dem Ausführen der Schritte keine E-Mail erhalten, stellen Sie sicher, dass Ihre E-Mail-Adresse in den [Kommunikationseinstellungen ihres Profils](https://account.windowsazure.com/profile) korrekt ist.
 
-**Herunterladen Ihrer Verwendungsdaten aus dem Azure-Portal**
+**Herunterladen Ihrer Nutzungsdaten aus dem Azure-Portal**
 
-- Melden Sie sich beim [Azure Account Center](https://account.windowsazure.com/Subscriptions) als [Konto Administrator](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) an.
-- Wählen Sie das Abonnement aus, für das die Rechnungs-und Nutzungsinformationen verwendet werden sollen.
-- **Abrechnungsverlauf** auswählen
-- Wählen Sie **aktuelle Anweisung anzeigen** aus, um eine Schätzung ihrer Gebühren zu dem Zeitpunkt anzuzeigen, zu dem die Schätzung generiert wurde.
-- Wählen Sie **Download Usage** aus, um die täglichen Nutzungsdaten als CSV-Datei herunterzuladen. Wenn zwei Versionen verfügbar sind, laden Sie Version 2 herunter.
+- Melden Sie sich beim [Azure-Kontocenter](https://account.windowsazure.com/Subscriptions) als [Kontoadministrator](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) an.
+- Wählen Sie das Abonnement aus, für das Sie die Rechnung und nutzungsinformationen benötigen.
+- **Auswählen des Abrechnungsverlaufs**
+- Wählen Sie **"Aktuelle Anweisung anzeigen" aus,** um eine Schätzung Ihrer Gebühren zum Zeitpunkt der Generierung der Schätzung anzuzeigen.
+- Wählen Sie **"Nutzung herunterladen"** aus, um die täglichen Nutzungsdaten als CSV-Datei herunterzuladen. Wenn zwei Versionen verfügbar sind, laden Sie Version 2 herunter.
 
 Weitere Fragen: [reservierte Instanzdokumente besuchen](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Empfohlene Dokumentationen**
+**Empfohlene Dokumente**
 
-- [Abrechnungsgrundlagen](https://docs.microsoft.com/partner-center/billing-basics/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Grundlegendes zur Anwendung des Rabatts für reservierte Instanzen](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Herunterladen oder Anzeigen Ihrer Azure-Abrechnungs Rechnung und der täglichen Nutzungsdaten](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Grundlegendes zur Anwendung des Rabatts für reservierte Instanzen](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Grundlegendes zur Verwendung von reservierten Instanzen für Ihr Pay-as-you-go-Abonnement](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Grundlegendes zur Verwendung reservierter Instanzen für Ihre Unternehmensregistrierung](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Windows-Software Kosten, die nicht in reservierten Instanzen enthalten sind](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Reservierte Instanzen im Partner Programm für den zentralen Cloud Solution Provider (CSP)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Grundlagen der Abrechnung](https://docs.microsoft.com/partner-center/billing-basics/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Verstehen, wie der Rabatt für reservierte Instanzen angewendet wird](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Herunterladen oder Anzeigen Ihrer Azure-Abrechnungsrechnung und der täglichen Nutzungsdaten](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Verstehen, wie der Rabatt für reservierte Instanzen angewendet wird](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Grundlegendes zur Verwendung von reservierten Instanzen für Ihr Abonnement für "Pay-As-You-Go"](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Grundlegendes zur Verwendung der reservierten Instanz für Ihre Enterprise-Registrierung](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Windows Softwarekosten, die nicht in reservierten Instanzen enthalten sind](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Reservierte Instanzen im Partner Central Cloud Solution Provider (CSP)-Programm](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)

@@ -2,7 +2,7 @@
 title: Häufige Probleme und Lösungen in Visio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 3c534ef21cdefd333d0d0305cd460a0542a63d4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 650872443ab1f94c970979e111a7ea2d287d7a7ddde1e5123a385edb48a0bb32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998158"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Häufige Probleme und Lösungen in Visio
 

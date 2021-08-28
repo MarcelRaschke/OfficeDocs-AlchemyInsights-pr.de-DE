@@ -1,8 +1,8 @@
 ---
-title: Weitere Hilfe zum Windows Defender-Client
+title: Weitere Hilfe zu Windows Defender Client
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: e39ba958540c85eab3b35e78bf75adf017773247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8143739d072ec7e0aff61352c929fb7ac8eca6a6eb9aeacf2162a995fc30a4d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708142"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068127"
 ---
-# <a name="for-more-help-with-windows-defender-client"></a>Weitere Hilfe zum Windows Defender-Client
+# <a name="for-more-help-with-windows-defender-client"></a>Weitere Hilfe zu Windows Defender Client
 
-Besuchen Sie das Microsoft [Security Documentation](https://docs.microsoft.com/security/#pivot=products&panel=products1) Center.
+Besuchen Sie das Microsoft [Security-Dokumentationscenter.](https://docs.microsoft.com/security/#pivot=products&panel=products1)

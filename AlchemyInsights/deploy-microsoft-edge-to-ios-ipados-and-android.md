@@ -13,19 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 524e87ab57e29823361053093708c83831f19687
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+- "13637"
+- "9008577"
+ms.openlocfilehash: 33a878f104fc0af7be59c59e0b860be173916bd2
+ms.sourcegitcommit: 2be4a0352cb84a703ebf12966e1c17b64df07364
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50178005"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58361957"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Bereitstellen von Microsoft Edge auf iOS, iPadOS und Android
 
 Das unten zusammengefasste geführte Szenario hilft Ihnen, Microsoft Edge Benutzern von iOS-, iPadOS- und Android-Geräten zuzuweisen.
 
-> [!NOTE]
-> Wenn Sie die Registrierung mobiler Geräten für Benutzer blockiert haben, funktioniert dieses geführte Szenario nicht, und die Benutzer müssen Microsoft Edge selbst installieren.
+**Hinweis**: Wenn Sie die Registrierung mobiler Geräte für Benutzer blockiert haben, funktioniert dieses geführte Szenario nicht, und die Benutzer müssen Microsoft Edge selbst installieren.
 
 Das geführte Szenario umfasst die folgenden Schritte:
 

@@ -13,15 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: ab370e992c1f58ff388e5d4db57245fe7fcbd682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448957"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316291"
 ---
 # <a name="set-up-exchange-online-protection"></a>Einrichten von Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) ist ein cloudbasierter E-Mail-Filterdienst zum Schutz vor Spam und Schadsoftware mit Features zum Schutz Ihrer Organisation vor Verstößen gegen Messagingrichtlinien.
+Microsoft Exchange Online Der Schutz (EOP) ist ein cloudbasierter E-Mail-Filterdienst zum Schutz vor Spam, Schadsoftware und Spoofing mit Features zum Schutz Ihrer Organisation vor Verstößen gegen Nachrichtenrichtlinien.
 
-Verwenden Sie das [Exchange Online Protection-Setuphandbuch](https://go.microsoft.com/fwlink/?linkid=2071067) zum Einrichten von EOP, indem Sie zwischen den drei Bereitstellungsszenarien auswählen – lokale Postfächer, Hybridpostfächer (Mischung aus lokalen und Cloud)-Postfächern oder alle Cloudpostfächer, die zu Ihrer Organisation passen. Das Handbuch enthält Informationen und Ressourcen zum Einrichten von EOP und zum Überprüfen der Lizenzierung Ihres Benutzers, zum Zuweisen von Berechtigungen im Microsoft 365 Admin Center und zum Konfigurieren der Anti-Malware- und Spamrichtlinien Ihrer Organisation im Security & Compliance Center.
+Verwenden Sie das [Exchange Online Protection Setuphandbuch,](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) um EOP einzurichten, indem Sie unter den drei Bereitstellungsszenarien auswählen, die am besten zu Ihrer Organisation passen:
+
+- Alle lokalen Postfächer.
+- Hybrid (Kombination aus lokalen und Cloudpostfächern
+- Alle Cloudpostfächer, die zu Ihrer Organisation passen.
+
+Das Handbuch enthält Informationen und Ressourcen, um EOP einzurichten und die Lizenzierung Ihres Benutzers zu überprüfen, Berechtigungen im Microsoft 365 Admin Center zuzuweisen und die Sicherheitsrichtlinien Ihrer Organisation zu konfigurieren.

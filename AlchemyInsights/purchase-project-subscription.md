@@ -1,8 +1,9 @@
 ---
 title: Project-Abonnement kaufen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9002424"
 - "4708"
-ms.openlocfilehash: 7d2739006249ee64209ee2ad39f996daf25968d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59d6b2b4cb1e83b5101eb1fccecdde01c36f102b
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693302"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450841"
 ---
 # <a name="purchase-project-subscription"></a>Project-Abonnement kaufen
 

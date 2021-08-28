@@ -2,7 +2,7 @@
 title: OneDrive-Speicherpläne
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002297"
 - "4450"
-ms.openlocfilehash: 90b47fe82de9d7760d85a72e7051b1537519e390
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db0cc383778a301b89e1d62babf2f2aa97e858a7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754230"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832777"
 ---
 # <a name="onedrive-storage-plans"></a>OneDrive-Speicherpläne
 

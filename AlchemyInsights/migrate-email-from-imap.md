@@ -12,12 +12,12 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: e59912d98125002cf97a6b4a5201c2c73421c98f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7bd898017c808daa07e26fd5489250966dfc68a33a69738da2b694b9af2fb74
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754842"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992506"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>Bei der Fehlermeldung „Keine akzeptierte Domäne“
 

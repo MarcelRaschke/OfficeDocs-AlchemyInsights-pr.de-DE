@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3787"
 - "9001707"
-ms.openlocfilehash: 42064703c997cdbda007bc07734c7453a54cbf21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfac32fb00b24fa743eae0ab1985ae9adc101c44a7dc7af2d7435c95913ce0a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013351"
 ---
 # <a name="issues-dialing-into-teams-in-china"></a>Probleme bei der Einwahl in Teams in China
 

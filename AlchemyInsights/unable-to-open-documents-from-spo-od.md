@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000104"
 - "7227"
-ms.openlocfilehash: dab30b9e4d726af426829e63c8475d7d1755a8ce
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: dc539bb822048eee77ee0babddf5e01c8a68e2e6034fbdf9c932eff2c0e3119a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972346"
 ---
 # <a name="unable-to-open-documents-from-sharepoint-or-onedrive"></a>Dokumente können über SharePoint oder OneDrive nicht geöffnet werden
 

@@ -2,7 +2,7 @@
 title: Support für Windows oder Azure erhalten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002474"
 - "4811"
-ms.openlocfilehash: 65263410c830df2d2aa7c432ad1396df66e830e8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2d334487935af3c211a405920756ee446447a324dc395b7dcca253675ca9088
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928044"
 ---
 # <a name="get-support-for-windows-or-azure"></a>Support für Windows oder Azure erhalten
 

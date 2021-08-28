@@ -2,7 +2,7 @@
 title: Verlängern des Apple APNS-Zertifikats
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3542"
-ms.openlocfilehash: 74d2e6ffa91be3caaa3e5b1104814870d05e404d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: abf1e723c0525286a54dfce0b6adc1a7d3997f4e7e99817573633f797ccf5d4e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053141"
 ---
 # <a name="renew-apple-apns-certificate"></a>Verlängern des Apple APNS-Zertifikats
 

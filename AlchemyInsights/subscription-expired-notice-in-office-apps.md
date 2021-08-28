@@ -2,7 +2,7 @@
 title: Hinweis "Abonnement abgelaufen" in Microsoft 365-Apps
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: b13d5befc85295f625d1af0680407af885b28039
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719412"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823570"
 ---
 # <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Hinweis "Abonnement abgelaufen" in Microsoft 365-Apps
 

@@ -12,12 +12,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2250b3a62de885789d5b2e38555359194f44e320
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d83dd6f96b0d8788ebd11d7f89fa07bf204604b6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737160"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322564"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Synchronisieren von SharePoint-Dateien mit dem neuen OneDrive-Synchronisierungsclient
 
@@ -27,8 +27,7 @@ ms.locfileid: "47737160"
     
 3. Wählen Sie für "Synchronisierungsclient für SharePoint" die Option **Neuen Client starten** aus.
     
-    > [!NOTE]
-    > Wenn diese Option nicht angezeigt wird, ist Ihre Organisation bereits so eingerichtet, dass der neue OneDrive-Synchronisierungsclient zum Synchronisieren von SharePoint-Dateien verwendet werden kann. 
+    **Hinweis**: Wenn diese Option nicht angezeigt wird, ist Ihre Organisation bereits so eingerichtet, dass der neue OneDrive-Synchronisierungsclient zum Synchronisieren von SharePoint-Dateien verwendet werden kann. 
   
 4. Klicken Sie auf **OK**.
     

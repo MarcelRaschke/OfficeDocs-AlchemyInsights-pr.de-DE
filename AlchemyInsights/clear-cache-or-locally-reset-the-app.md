@@ -1,8 +1,8 @@
 ---
-title: Leeren des Caches oder lokales Zurücksetzen der APP
+title: Löschen des Caches oder lokales Zurücksetzen der App
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001099"
 - "3060"
-ms.openlocfilehash: b9801dd7b3c831b485ada50c310c46580e1a1a85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 61280bc444f696e05813c79aa92f47145c2580381e77d0b26fe6fdca527647a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930574"
 ---
-# <a name="clear-the-cache-or-locally-reset-the-app"></a>Leeren des Caches oder lokales Zurücksetzen der APP
+# <a name="clear-the-cache-or-locally-reset-the-app"></a>Löschen des Caches oder lokales Zurücksetzen der App
 
-Wenn unvollständige oder falsche Daten angezeigt werden, schließen Sie die APP, und öffnen Sie Sie erneut.  Wenn das Problem dadurch nicht behoben wird, setzen Sie das Konto auf dem Gerät zurück: 
+Wenn unvollständige oder falsche Daten angezeigt werden, schließen Sie die App, und öffnen Sie sie erneut.  Wenn das Problem dadurch nicht behoben wird, setzen Sie das Konto auf dem Gerät zurück: 
 
-**Öffnen Sie unsere app > Einstellungen > wählen Sie das Konto e-Mail-Konto > zurücksetzen aus.**
+**Öffnen Sie unsere App > Einstellungen > Wählen Sie das E-Mail-Konto > Konto zurücksetzen aus.**

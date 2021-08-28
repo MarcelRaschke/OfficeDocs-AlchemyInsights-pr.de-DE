@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f4445b7635d45d8fae1aec58d981fb830f430ca7a92189d8c038e04a86ef67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912741"
 ---
-# <a name="increase-the-size-of-a-shared-mailbox"></a>Vergrößern der Größe eines freigegebenen Postfachs
+# <a name="increase-the-size-of-a-shared-mailbox"></a>Erhöhen der Größe eines freigegebenen Postfachs
 
-Sie können die Größe eines freigegebenen Postfachs von der Standardgröße von 50 GB auf 100 GB vergrößern, indem Sie dem freigegebenen Postfach eine Exchange Online P2-Lizenz zuweisen (die in den E3-und E5-Lizenzen enthalten ist). Wenn Sie die P2-Lizenz dem freigegebenen Postfach in [aktiven Benutzern](https://portal.office.com/adminportal/home)zuweisen, wird die Größe automatisch innerhalb von 15 Minuten erhöht.
+Sie können die Größe eines freigegebenen Postfachs von der Standardgröße von 50 GB auf 100 GB erhöhen, indem Sie dem freigegebenen Postfach eine Exchange Online P2-Lizenz zuweisen (die in E3- und E5-Lizenzen enthalten ist). Wenn Sie die P2-Lizenz dem freigegebenen Postfach in [aktiven Benutzern](https://portal.office.com/adminportal/home)zuweisen, wird die Größe innerhalb von 15 Minuten automatisch erhöht.

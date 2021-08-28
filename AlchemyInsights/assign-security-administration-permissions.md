@@ -1,5 +1,5 @@
 ---
-title: Zuweisen von Sicherheitsadministratorberechtigungen
+title: Zuweisen von eDiscovery-Administratorberechtigungen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 4f7dbb6e631688948b8eb7a5475e99323fdfe779
-ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
+ms.openlocfilehash: 94ed816b2062a2c471fa1b114d758ba3cf4955ef
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50509928"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327112"
 ---
-# <a name="assign-security-administration-permissions"></a>Zuweisen von Sicherheitsadministratorberechtigungen
+# <a name="assign-security-administrator-permissions"></a>Zuweisen von eDiscovery-Administratorberechtigungen
 
-Führen Sie die folgenden Schritte aus, um Sicherheitsadministratorberechtigungen zuzuweisen:
+Führen Sie die folgenden Schritte aus, um eDiscovery-Administratorberechtigungen zuzuweisen:
 
-1. Wählen Sie im [Office 365 Security & Compliance Center](https://sip.protection.office.com/homepage) die Option **Berechtigungen > Sicherheitsadministrator** aus.
-2. Klicken Sie im Bereich **Sicherheitsadministrator** neben **Mitglieder** auf **Bearbeiten**.
-3. Klicken Sie im Bereich **Mitgliederauswahl bearbeiten** auf **Mitglieder auswählen**.
-4. Klicken Sie im Bereich **Mitglieder auswählen** auf **+ Hinzufügen**, und wählen Sie dann die Namen der Benutzer aus.
-5. Wählen Sie **Hinzufügen > Fertig > Speichern** aus.
+1. Wählen Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> die Option **Berechtigungen und Rollen** \> **Rollen** im Abschnitt **E-Mails und Zusammenarbeit**. Oder verwenden Sie <https://security.microsoft.com/emailandcollabpermissions>, um direkt zur Seite **Berechtigungen** zu wechseln.
+2. Wählen Sie **Sicherheitsadministrator** aus der Liste der Rollengruppen aus.
+3. Scrollen Sie im angezeigten Flyout „Details“ nach unten zum Abschnitt **Mitglieder**, und klicken Sie dann auf **Bearbeiten**.
+4. Klicken Sie im der daraufhin angezeigten Flyout **Mitglieder auswählen bearbeiten** auf **Bearbeiten**.
+5. Klicken Sie im nun angezeigten Flyout **Mitglieder auswählen** auf **+ Hinzufügen**, und wählen Sie die Benutzernamen aus.
+6. Klicken Sie nach Abschluss des Vorgangs auf **Hinzufügen** \> **Fertig** \> **Speichern** \> **Schließen**.

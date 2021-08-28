@@ -2,7 +2,7 @@
 title: Migration zu Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001216"
 - "3188"
-ms.openlocfilehash: c2b474e2a12b4ad60ad95eab18b7f01d3c1933e1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33135ddab5d75df2de59cab058a439c6fc80af760a4b48260b2c67cda8c1af99
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674505"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026473"
 ---
 # <a name="migrating-to-microsoft-intune"></a>Migration zu Microsoft Intune
 

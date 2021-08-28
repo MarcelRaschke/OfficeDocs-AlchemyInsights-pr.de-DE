@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1561"
 - "9000085"
-ms.openlocfilehash: c6274560c475a5c4d6cb29e189b4f816d597456b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7435945975c34014f07c459dc2cdb45d45de777f2567b02769ee02783bea9b50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014179"
 ---
 # <a name="intune-and-jamf"></a>InTune und Jamf
 

@@ -12,19 +12,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb507bedd059b6baf23b471b0fc2d75234cfab4e41eba655a83a645c65669680
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919602"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Upgrade auf die Vollversion von Microsoft Teams
 
-Müssen Sie ein Upgrade von der kostenlosen auf die Vollversion von Microsoft Teams durchführen? Weitere Informationen finden Sie unter [Upgrade Microsoft Teams Free to Microsoft 365 Subscription Version](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Müssen Sie ein Upgrade von kostenlos auf die Vollversion von Microsoft Teams durchführen? Informationen zum [kostenlosen Upgrade Microsoft Teams auf Microsoft 365 Abonnementversion](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-Sie müssen diese Anforderungen erfüllen:
+Sie müssen die folgenden Anforderungen erfüllen:
 
-- Sie sind die Person, die sich für die aktuelle ﻿kostenlose Version von Teams angemeldet hat.
-- Wenn Sie über eine eigene Domäne verfügen, kann Sie nicht bereits Azure Active Directory zugeordnet werden.
-- Wenn Sie beim Upgrade Daten übertragen möchten, müssen Sie sich während des Upgradevorgangs anmelden. Wenn Sie ein Abonnement außerhalb des Upgradevorgangs erworben haben, können Sie keine Daten übertragen.
+- Sie sind die Person, die sich für die aktuelle kostenlose Version von Teams angemeldet hat.
+- Wenn Sie über eine eigene Domäne verfügen, kann sie nicht bereits Azure Active Directory zugeordnet werden.
+- Um Daten beim Upgrade zu übertragen, müssen Sie während des Upgradeprozesses abonnieren. Wenn Sie ein Abonnement außerhalb des Upgradeprozesses erworben haben, können Sie keine Daten übertragen.

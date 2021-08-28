@@ -13,12 +13,12 @@ ms.custom:
 - "5300030"
 - "2700"
 - "3179"
-ms.openlocfilehash: 9a555a18566e280ff32e74892c8fa3c38b42f7fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 901da763a9b13a034d882d974f6c56e012c1ebc4100768d5314a2e8fa80bdb31
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941567"
 ---
 # <a name="sharepoint-migration-performance-guidance"></a>Anleitung zur SharePoint-Migrationsleistung
 

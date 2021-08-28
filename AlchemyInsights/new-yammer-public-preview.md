@@ -2,7 +2,7 @@
 title: Öffentliche Vorschau der neuen Yammer-Version
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002877"
 - "5566"
-ms.openlocfilehash: 08228ed86b72414a16a3b6cd5873c1043e916fd4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e26450d7a19e03cb0ff239c00b3bce2b46d6d7aed8191e949ef6c0711aa9035
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065211"
 ---
 # <a name="new-yammer-public-preview"></a>Öffentliche Vorschau der neuen Yammer-Version
 

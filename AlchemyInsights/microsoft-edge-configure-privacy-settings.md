@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge Konfigurieren von Datenschutzeinstellungen
+title: Microsoft Edge Datenschutzeinstellungen konfigurieren
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114171"
 ---
-# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge Konfigurieren von Datenschutzeinstellungen
+# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge Datenschutzeinstellungen konfigurieren
 
-Wenn Microsoft Edge standardmäßig auf nicht-Windows-Plattformen bereitgestellt wird, werden keine Diagnosedaten und Website Informationen an Microsoft gesendet. Wenn Microsoft Edge jedoch unter Windows 10 bereitgestellt wird, werden Diagnosedaten und Website Informationen entsprechend den [Windows-Diagnosedaten Einstellungen](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)von Benutzern gesendet.
+Wenn Microsoft Edge auf Nicht-Windows-Plattformen bereitgestellt wird, werden Diagnosedaten und Websiteinformationen standardmäßig nicht an Microsoft gesendet. Wenn Microsoft Edge jedoch auf Windows 10 bereitgestellt wird, werden Diagnosedaten und Websiteinformationen gemäß den Einstellungen für [diagnosedaten der](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)Benutzer Windows gesendet.
 
-Verwenden Sie die folgenden Gruppenrichtlinien, um zu konfigurieren, wie die Datensammlung für Ihre Organisation von Microsoft Edge verarbeitet wird:
-- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): Diese Richtlinie ermöglicht das Melden von Verwendungs-und Absturz bezogenen Daten.
-- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): Diese Richtlinie sendet Standortinformationen, die zur Verbesserung von Microsoft-Diensten verwendet werden.
+Verwenden Sie die folgenden Gruppenrichtlinien, um zu konfigurieren, wie Microsoft Edge die Datensammlung für Ihre Organisation behandelt:
+- [MetricsReportingEnabled:](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled)Diese Richtlinie ermöglicht die Berichterstellung von Nutzungs- und Absturzdaten.
+- [SendSiteInfoToImproveServices:](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices)Diese Richtlinie sendet Websiteinformationen, die verwendet werden, um Microsoft-Dienste zu verbessern.
 
-Weitere Informationen finden Sie unter [configure Policy Settings](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).
+Weitere Informationen finden Sie unter [Konfigurieren von Richtlinieneinstellungen.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings)

@@ -1,8 +1,9 @@
 ---
 title: Erklärungen zu Ihrer Rechnung
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,15 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 4b194527e48ebe0c2735b0393c9b381e77541dee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 41fef2ca1d65b46e49b602b5cd03e19a4ab708fc
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689701"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451813"
 ---
 # <a name="understand-your-bill"></a>Erklärungen zu Ihrer Rechnung
 

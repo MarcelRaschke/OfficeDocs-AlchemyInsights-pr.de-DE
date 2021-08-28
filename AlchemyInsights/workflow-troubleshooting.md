@@ -1,5 +1,5 @@
 ---
-title: Workflow-Problembehandlung
+title: Workflowproblembehandlung
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,23 +13,23 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: 7bd210d6493569c28b9fd5abc05982f59e1ea34e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9deea782837098512bcec571415352927f431cfad294f0a15e89d777abea592a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688981"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072483"
 ---
-# <a name="workflow-troubleshooting"></a>Workflow-Problembehandlung
+# <a name="workflow-troubleshooting"></a>Workflowproblembehandlung
 
-Informationen zum Debuggen von SharePoint-Workflows finden Sie in den folgenden Themen:
-- Das Debuggen von Workflows ähnelt denen früherer Versionen.  Weitere Informationen finden Sie unter [Debuggen von SharePoint-Workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- Weitere Informationen zur Problembehandlung finden Sie unter [Problembehandlung bei SharePoint Server Workflow Validierungsfehlern](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Informationen zum Debuggen SharePoint Workflows:
+- Das Debuggen von Workflows ähnelt dem von früheren Versionen.  Weitere Informationen finden Sie unter [Debuggen SharePoint Workflows.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+- Weitere Informationen zur Problembehandlung finden Sie unter [Problembehandlung bei SharePoint Server-Workflowvalidierungsfehlern.](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
  
 
 ## <a name="related-topics"></a>Verwandte Themen
 Möchten Sie Microsoft Flow in SharePoint Online testen?
-- [Fluss erstellen](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [Erstellen Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint und Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

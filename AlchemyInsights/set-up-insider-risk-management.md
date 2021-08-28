@@ -2,7 +2,7 @@
 title: Einrichten des Insider-Risikomanagements
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 90655fea0b8a7debabdd986bf0f89244d509e8d9
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49951824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060855"
 ---
 # <a name="set-up-insider-risk-management"></a>Einrichten des Insider-Risikomanagements
 

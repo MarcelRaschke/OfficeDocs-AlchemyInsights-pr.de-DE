@@ -1,5 +1,5 @@
 ---
-title: Probleme-Sharing-with-Outlook-Customer-Manager
+title: Problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728250"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960114"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Probleme bei der Freigabe mit dem Outlook-Kunden Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Probleme beim Teilen mit Outlook Customer Manager
 
-Wenn Sie Probleme mit der Freigabe mit dem Outlook-Kunden Manager haben, empfehlen wir Ihnen zunächst, den Browsercache zu löschen. Beispielsweise in Internet Explorer würden Sie Folgendes tun:
+Wenn Sie Probleme mit der Freigabe mit Outlook Kunden-Manager haben, empfehlen wir, zuerst ihren Browsercache zu löschen. In Internet Explorer würden Sie beispielsweise Folgendes ausführen:
 
-1. Wechseln Sie zu **Einstellungen**  >  **Allgemein** > Einstellungen unter **Browserverlaufs**  >  **Caches und Datenbanken**.
+1. Wechseln Sie zu **Einstellungen**  >  **Allgemeine** > Einstellungen unter **Browserverlaufscaches**  >  **und Datenbanken.**
 2. Löschen Sie Cachedateien für die Website "outlookapps.com".
 3. Starten Sie Outlook neu.
 
-Weitere Informationen zur Freigabe finden Sie unter [Freigeben von Informationen im Outlook-Kunden Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Weitere Informationen zur Freigabe finden Sie unter [Freigeben von Informationen in Outlook Customer Manager.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)

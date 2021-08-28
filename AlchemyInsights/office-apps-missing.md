@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365-apps fehlen
+title: Microsoft 365 fehlen Apps
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2529"
 - "9000572"
-ms.openlocfilehash: 24ad5efafa7551e9d29c2b1f4a438bfb781a1417
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 442c7fd4da7d6419c255f37ee6ed66133b45b1e55ddcb27b2ba9b5697572ebd9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065031"
 ---
-# <a name="microsoft-365-apps-missing"></a>Microsoft 365-apps fehlen
+# <a name="microsoft-365-apps-missing"></a>Microsoft 365 fehlen Apps
 
-Wenn Sie nach einer Installation oder Aktualisierung keine Office-Anwendungen auf Ihrem Computer finden können, finden Sie weitere Informationen unter [Office-Anwendungen in Windows 10, Windows 8 oder Windows 7?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6). Wenn Sie die Office-Verknüpfungen nicht im Startmenü oder unter " **alle apps**" finden, finden Sie weitere Informationen unter [Microsoft 365-apps fehlen in allen apps unter Windows 10](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc). 
+If you are unable to locate Office applications on your computer after an install or update, see [Can't find Office applications in Windows 10, Windows 8, or Windows 7?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6). Wenn Sie die Office Verknüpfungen im Startmenü oder unter **"Alle Apps"** nicht finden können, finden Sie unter [Microsoft 365 apps are missing from all apps on Windows 10](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc). 
 
-Versuchen Sie, [eine Office-Anwendung zu reparieren](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) , wenn Office-Verknüpfungen nach der Anmeldung oder dem Neustart des Computers verschwunden sind. 
+Versuchen [Sie, eine Office Anwendung](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) zu reparieren, wenn Office Verknüpfungen nach der Anmeldung oder dem Neustart des Computers nicht mehr angezeigt wurden. 
 
-**Hinweis:** Wenn Microsoft 365-Apps für die Installation im Office-Portal fehlen, gehen Sie zur [Problembehandlung beim Installieren von Office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) und wechseln Sie zu **Office for Business**-  >  **häufige Probleme**, für die  >  **Sie Office nicht installieren**können. 
+**Hinweis:** Wenn Microsoft 365 Apps für die Installation im Office-Portal fehlen, wechseln Sie zu [Problembehandlung](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) bei der Installation Office und wechseln Sie zu **Office for Business** Common  >    >  **Probleme. Es wird keine Option zum Installieren Office angezeigt.** 

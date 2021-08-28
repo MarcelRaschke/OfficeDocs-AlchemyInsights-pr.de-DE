@@ -1,5 +1,5 @@
 ---
-title: Das Postfach des Benutzers wird erstellt.
+title: Das Postfach Ihres Benutzers wird erstellt.
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -11,15 +11,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 5e4903019f4ab1ec478ec8fb13bcfc6f4ed9f884
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a52cb63ec19bbf136ec7c499545770c8257cd807ec2c95389d19df455232c4a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997313"
 ---
-# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Die Erstellung von Benutzerpostfächern nimmt lange Zeit in Anspruch.
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Die Erstellung von Benutzerpostfächern dauert sehr lange
 
-Es kann bis zu 24 Stunden dauern, bis ein neues Postfach einsatzfähig ist.
+Es kann bis zu 24 Stunden dauern, bis ein neues Postfach einsatzbereit ist.
   
-Wenn das Postfach des Benutzers länger als eine Stunde lang "vorbereitet" wurde, versuchen Sie, die Exchange-Lizenz vom Benutzer zu entfernen und erneut hinzuzufügen, oder [wenden Sie sich an den Support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).
+Wenn das Postfach des Benutzers seit mehr als einer Stunde "vorbereitet" wurde, versuchen Sie, die Exchange-Lizenz vom Benutzer zu entfernen und sie wieder hinzuzufügen, oder [wenden Sie sich an den Support.](https://go.microsoft.com/fwlink/p/?linkid=518322)

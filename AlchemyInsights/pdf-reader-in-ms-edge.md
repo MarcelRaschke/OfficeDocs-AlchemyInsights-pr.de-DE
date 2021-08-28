@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003880"
 - "6933"
-ms.openlocfilehash: 920b052f1d4d5c84a01bfc72173e6c52a2e3764d
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+- "11940"
+- "9007101"
+ms.openlocfilehash: c7d13ac6a84dc95477b18bc460a98134b02efd6bae0096fe2038da13b5e3a07d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49606520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086883"
 ---
 # <a name="pdf-reader-in-microsoft-edge"></a>PDF-Reader in Microsoft Edge
 
-Die Popularität von PDF-Dateien unterstreicht die Notwendigkeit eines zuverlässigen, sicheren und leistungsfähigen PDF-Readers, der von Unternehmens Unternehmen übernommen werden kann. Der in Microsoft Edge integrierte Feature-Rich PDF Reader (Versionen 77 und höher) ist nur eine solche app. Es funktioniert in Windows und macOS und kann zum Öffnen und kommentieren von PDF-Dateien verwendet werden, die lokal, Online oder in Webseiten eingebettet sind.
+Die Beliebtheit von PDF-Dateien unterstreicht die Notwendigkeit eines zuverlässigen, sicheren und leistungsstarken PDF-Readers, der von Unternehmen eingesetzt werden kann. Der funktionsreiche PDF-Reader, der in Microsoft Edge (Versionen 77 und höher) integriert ist, ist eine solche App. Er funktioniert unter Windows und MacOS und kann zum Öffnen und Kommentieren von PDF-Dateien verwendet werden, die lokal, online oder in Webseiten eingebettet sind.
 
-Weitere Informationen finden Sie unter [PDF Reader in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
+Weitere Informationen finden Sie [im PDF-Reader in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).

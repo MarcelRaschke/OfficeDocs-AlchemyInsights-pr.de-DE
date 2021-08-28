@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8252"
 - "9004397"
-ms.openlocfilehash: 1198b79c3301bd2752a7385a6ba6746c8f0c2b5b
-ms.sourcegitcommit: 22eaf0a151ab95414476f596db8d318b6540ff31
+ms.openlocfilehash: d8a3c011a3a7cba6c0b1cd00ac0eb587b75bbb5b06d96ef9fd75313734e74fd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50162926"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925740"
 ---
 # <a name="issue-with-security-groups"></a>Problem mit Sicherheitsgruppen
 

@@ -1,5 +1,5 @@
 ---
-title: Aktivieren von gehosteter Voicemail
+title: So aktivieren Sie gehostete Voicemail
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4042e042554f78febff2073fde6f14db72a6d4e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608849"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318647"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Aktivieren von gehosteter Voicemail
+# <a name="how-to-enable-hosted-voicemail"></a>So aktivieren Sie gehostete Voicemail
 
-Um Voicemail zu aktivieren, muss **HostedVoicemail** auf $true festgelegt sein.
+Um Voicemail zu aktivieren, muss **HostedVoicemail** auf $true festgelegt werden.
 
-Die **HostedVoicemail** -Eigenschaft des Benutzers, der Remote-PowerShell (RPS) verwendet.
+Die **HostedVoicemail-Eigenschaft** für den Benutzer mithilfe von Remote PowerShell (RPS).
 
-Weitere Informationen zum Herstellen einer Verbindung mit RPS finden Sie unter [Microsoft Teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) für weitere Informationen zum Herstellen einer Verbindung mit RPS.
+Weitere Informationen zum Herstellen einer Verbindung mit RPS finden Sie [in Microsoft Teams PowerShell-Übersicht,](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) um weitere Informationen zum Herstellen einer Verbindung mit RPS zu finden.
 
-1. Der Microsoft Teams-Administrator sollte bei Remote-PowerShell für Teams angemeldet sein.
-1. Von der PowerShell-Eingabeaufforderung aus kann der Microsoft Teams-Administrator die **Csuser-user@contoso.com-HostedVoiceMail-$true** ausführen, in der der SIP-URI des betreffenden Benutzers vorliegt.
+1. Der Teams-Administrator sollte für Teams bei Remote-PowerShell angemeldet sein.
+1. Über powerShell-Aufforderung kann der Teams Administrator **set-csuser user@contoso.com -HostedVoiceMail $true** ausführen, wobei der SIP-URI des betreffenden Benutzers ist.
 
-> [!NOTE]
-> Änderungen an Richtlinien können bis zu 24 Stunden dauern, bis Sie repliziert werden.
+**Hinweis:** Es kann bis zu 24 Stunden dauern, bis Änderungen an Richtlinien repliziert wurden.

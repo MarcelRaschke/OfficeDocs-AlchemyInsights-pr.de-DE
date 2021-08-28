@@ -1,5 +1,5 @@
 ---
-title: 711 Erstellen einer Verteilerliste oder-Gruppe
+title: 711 Erstellen einer Verteilerliste oder -gruppe
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: 179b3738f65b08fc81cf224393445717e4d4773f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 023a7646430bbbe176f9675721a6154d62269bcb866aa5b7413f7e6973947ae1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090195"
 ---
 # <a name="create-distribution-groups"></a>Erstellen von Verteilergruppen
 
-Sie verwenden Verteilergruppen (auch als Verteilerlisten bezeichnet), um e-Mail-Nachrichten an Personengruppen innerhalb und außerhalb Ihrer Organisation zuzustellen. Sie zu erstellen ist einfach! Anweisungen finden Sie unter [Create Distribution Lists in the Microsoft 365 Admin Center](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists).
+Sie verwenden Verteilergruppen (auch bekannt als Verteilerlisten), um E-Mail-Nachrichten an Gruppen von Personen innerhalb und außerhalb Ihrer Organisation zu übermitteln. Das Erstellen ist einfach! Anweisungen finden Sie unter [Erstellen von Verteilerlisten im Microsoft 365 Admin Center](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists).
 
-**Hinweis**: ein Administrator muss die Mitgliedschaft einer Verteilergruppe verwalten. Wenn Sie möchten, dass Benutzer ihre eigenen Gruppenmitgliedschaftslisten verwalten können, sollten Sie stattdessen [Microsoft 365-Gruppen](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) in Frage stellen.
+**Hinweis:** Ein Administrator muss die Mitgliedschaft einer Verteilergruppe verwalten. Wenn Benutzer ihre eigenen Gruppenmitgliedschaftslisten verwalten sollen, sollten Sie stattdessen [Microsoft 365 Gruppen](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) in Betracht ziehen.

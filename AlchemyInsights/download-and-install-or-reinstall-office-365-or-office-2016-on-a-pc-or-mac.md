@@ -1,5 +1,5 @@
 ---
-title: Herunterladen und installieren oder Neuinstallieren von Office 365 oder Office 2016 auf einem PC oder Mac
+title: Herunterladen und Installieren oder erneutes Installieren von Office 365 oder Office 2016 auf einem PC oder Mac
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8d7abd5a-5004-4d16-aad9-8083df213ea3
-ms.openlocfilehash: 8306854ee90b0f804c83b27b58d870386673d5fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: afc82137854e6fb6cdd4cdefbc0c0f4000435a1b34891ddf2a029dcff2ceffa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712219"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004657"
 ---
-# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>Herunterladen und installieren oder Neuinstallieren von Office 365 oder Office 2016 auf einem PC oder Mac
+# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>Herunterladen und Installieren oder erneutes Installieren von Office 365 oder Office 2016 auf einem PC oder Mac
 
-Zum herunterladen und Installieren von Office-Produkten, die in Ihrem Abonnement enthalten sind, wechseln Sie zu [mein Software](https://portal.office.com/OLS/MySoftware.aspx) \> **Büro** , und klicken Sie auf **Installieren**. 
+Um Office in Ihrem Abonnement enthaltenen Produkte herunterzuladen und zu installieren, wechseln Sie zu ["Meine Software](https://portal.office.com/OLS/MySoftware.aspx) \> **Office",** und klicken Sie auf **"Installieren".** 
   
-Ausführliche Anweisungen finden Sie unter [herunterladen und installieren oder Neuinstallieren Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).
+Ausführliche Anweisungen finden Sie unter [Herunterladen und Installieren oder erneutes Installieren Office 365.](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch)
   
-Wenn Sie Office Offline installieren müssen, finden Sie weitere Informationen unter [use the Office 2016 Offline Installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).
+Wenn Sie Office offline installieren müssen, lesen [Sie das Offline-Installationsprogramm Office 2016.](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business)
   
 

@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online auf den klassischen Modus beschränken
+title: Einschränken SharePoint Online auf den klassischen Modus
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,26 +13,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 1887bf64df98bf90a1902250633d5774178dfa2f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6315a83ac825f96ceea60798d441de8e8e53336fe29eda4d0491dd8a6a43b352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751421"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958800"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>SharePoint Online auf den klassischen Modus beschränken
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>Einschränken SharePoint Online auf den klassischen Modus
 
-Einige Organisationen benötigen weiterhin die klassische Modus-Erfahrung. Es gibt zwar keine Pläne, den klassischen Modus auf granularer Ebene zu entfernen, es ist jedoch nicht mehr möglich, eine gesamte Organisation (einen Mandanten) auf den klassischen Modus für Listen und Bibliotheken zu beschränken.
+Einige Organisationen benötigen weiterhin den klassischen Modus. Es gibt zwar keine Pläne, den klassischen Modus auf granularer Ebene zu entfernen, es ist jedoch nicht mehr möglich, eine gesamte Organisation (mandant) auf den klassischen Modus für Listen und Bibliotheken zu beschränken.
 
-Der Administrator verfügt über die folgenden Optionen zum Verwalten einzelner Listen und Bibliotheken im klassischen Modus mithilfe von granularen Opt-out-Switches, die auf den folgenden Ebenen bereitgestellt werden:
+Der Administrator verfügt über die folgenden Optionen zum Verwalten einzelner Listen und Bibliotheken im klassischen Modus mit granularen Opt-Out-Switches, die wir auf den folgenden Ebenen bereitstellen:
 
 - Websitesammlung
 - Website
 - Liste
 - Bibliothek
 
-Außerdem werden Listen, die bestimmte Features und Anpassungen verwenden, die nicht von modern unterstützt werden, weiterhin automatisch in den klassischen Modus umgeschaltet.
+Darüber hinaus werden Listen, die bestimmte Features und Anpassungen verwenden, die nicht von der modernen Version unterstützt werden, weiterhin automatisch in den klassischen Modus umgeschaltet.
 
-Ab dem 1. April 2019 wird der Vorgang zum Deaktivieren der Mandantenebene aus modernen Listen und Bibliotheken gestartet und wird bis zum 31. Mai 2019 fortgesetzt.  Die Listen und Bibliotheken, die sich im klassischen Modus infolge eines Mandanten Abmeldens befinden, werden automatisch auf modern verschoben.
+Ab dem 1. April 2019 wird der Prozess zum Deaktivieren der Deaktivierung von modernen Listen und Bibliotheken auf Mandantenebene gestartet und bis zum 31. Mai 2019 fortgesetzt.  Die Listen und Bibliotheken, die sich aufgrund des Mandanten-Opt-Outs im klassischen Modus befinden, werden automatisch auf modern umgestellt.
 
-Wenn Sie den klassischen Modus benötigen, lesen Sie hier [Weitere Informationen und](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) hier finden Sie die PNP-PowerShell-Anweisung, in der Optionen und Tools beschrieben [werden, die](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) Sie heute verwenden können, um die klassische Benutzeroberfläche zu verwenden.
+Wenn Sie den klassischen Modus benötigen, finden Sie [hier](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) weitere Informationen und eine PnP Powershell-Anweisung, die Optionen und Tools beschreibt, die Sie heute für die Verwendung der klassischen Modusumgebung verwenden können. [](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout)

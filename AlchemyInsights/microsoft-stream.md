@@ -2,7 +2,7 @@
 title: Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "3569"
-ms.openlocfilehash: 81e34a10b1fa2a3fa9c08b796bab751bd91602bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b289e64427bf3e1417e5fe5f7ce601eec81d86386273b1a4f3d3c8723f5876f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674865"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066033"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -26,8 +26,8 @@ Microsoft Stream ist ein Enterprise-Videodienst, mit dem Personen in Ihrer Organ
 Weitere Informationen finden Sie unter:
 
 - [Was ist Microsoft Stream?](https://docs.microsoft.com/stream/overview)
-- [Office 365 Video Übergang zu Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
-- [Dienstaktualisierungen streamen](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
+- [Office 365 Videoübergang zu Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [Streamdienstupdates](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
 - [Gruppen und Kanäle in Microsoft Stream](https://docs.microsoft.com/stream/groups-channels-organization)
-- [Live-Ereignisse in Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview)
+- [Liveereignisse in Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview)
 - [Freigeben Ihrer Videos in Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)

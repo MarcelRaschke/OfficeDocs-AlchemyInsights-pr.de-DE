@@ -1,5 +1,5 @@
 ---
-title: Ausgehende e-Mails in Junk-e-Mail-Ordner
+title: Ausgehende E-Mails im Junk-E-Mail-Ordner
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52aa5aa86848fa92ac082e8f672f9f501cd97cf2f3db9c40fa745aa8ebccfbb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096657"
 ---
-# <a name="outbound-email-to-junk-email-folder"></a>Ausgehende e-Mails in Junk-e-Mail-Ordner
+# <a name="outbound-email-to-junk-email-folder"></a>Ausgehende E-Mails im Junk-E-Mail-Ordner
 
-Wenn Sie sehen, dass ausgehende Nachrichten als Junk markiert werden, führen Sie die folgenden Schritte aus:
+Wenn ausgehende Nachrichten als Junk gekennzeichnet werden, führen Sie die folgenden Schritte aus:
 
-- Wenn Sie dies noch nicht getan haben, sollten Sie die [Benachrichtigungen für ausgehende Spam Richtlinien konfigurieren](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
+- Falls noch nicht geschehen, sollten Sie die [Konfiguration ausgehender Spamrichtlinienbenachrichtigungen](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)in Betracht ziehen.
 
-- Verwenden Sie die [Nachrichtenablaufverfolgung](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) , um zu überprüfen, ob die ausgehende Nachricht den Ereignis Wert **Spam** mit dem zusätzlichen Detail: **use High Risk Delivery Pool**.
+- Verwenden Sie [die Nachrichtenablaufverfolgung,](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) um festzustellen, ob die ausgehende Nachricht den Ereigniswert **Spam** mit dem zusätzlichen Detail enthält: Verwenden Sie den **Übermittlungspool mit hohem Risiko.**
 
-  Überprüfen Sie für diese Nachrichten den Nachrichteninhalt, um zu sehen, was als Spam eingestuft werden kann. Beispielsweise können Signaturen für viele Benutzer manchmal Probleme verursachen.
+  Überprüfen Sie für diese Nachrichten den Nachrichteninhalt, um zu sehen, was als Spam betrachtet werden kann. Signaturen können beispielsweise für viele Benutzer manchmal Probleme verursachen.
 
-  Wenn Sie mehrere Beispiele für legitime ausgehende Nachrichten haben, die als Junk markiert sind, öffnen Sie ein Support Ticket, und bitten Sie den Support-Mitarbeiter, Ihre Nachrichten als falsch positive Ergebnisse an unsere Spam Analysten zu senden. Bereitstellen von Beispiel Nachrichten, die alle Nachrichtenkopfzeilen enthalten
+  Wenn Sie mehrere Beispiele für seriöse ausgehende Nachrichten haben, die als Junk gekennzeichnet sind, öffnen Sie ein Supportticket, und bitten Sie den Support-Agent, Ihre Nachrichten als falsch positive Ergebnisse an unsere Spamanalysten zu übermitteln. Stellen Sie Beispielnachrichten bereit, die alle Nachrichtenkopfzeilen enthalten.

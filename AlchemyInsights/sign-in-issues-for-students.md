@@ -2,7 +2,7 @@
 title: Anmeldeprobleme für Schüler/Studenten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9000744"
 - "3813"
 - "3818"
-ms.openlocfilehash: de2f7df9856a133bacca1c9983e0ab1deebe290e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55e50cce3a6d15fea45340d94ca9b62e19cfed65347cb4c7c3e30570d837260d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719808"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084678"
 ---
 # <a name="sign-in-issues-for-students"></a>Anmeldeprobleme für Schüler/Studenten
 

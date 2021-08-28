@@ -11,12 +11,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: dc12b16364ea157c5862d3e2c9ba9fd9438f1c84
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e6c07b00a87160ad34a7d8a855a911fd552f8d41b1911e0dc35109306d105977
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013603"
 ---
 # <a name="issue-with-skype-for-business"></a>Problem mit Skype for Business?
 

@@ -1,5 +1,5 @@
 ---
-title: AggregateGroupMailbox vollständiger NDR für e-Mails, die an die Microsoft 365-Gruppe gesendet wurden
+title: AggregateGroupMailbox vollständiger NDR, der für E-Mails empfangen wurde, die an Microsoft 365 Gruppe gesendet wurden
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004286"
 - "7656"
-ms.openlocfilehash: 9de09ab4cbd2f09648305b11da6273ed990907cf
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: ace8e256e3771f82512abcb9e20b832381eedf80
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715698"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315909"
 ---
-# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>AggregateGroupMailbox vollständiger NDR für e-Mails, die an die Microsoft 365-Gruppe gesendet wurden
+# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>AggregateGroupMailbox vollständiger NDR, der für E-Mails empfangen wurde, die an Microsoft 365 Gruppe gesendet wurden
 
-Verwenden Sie den folgenden Exo-Shell-Befehl, um eine Exchange-Transportregel zum automatischen ablegen von e-Mails zu erstellen, die an das Aggregat Gruppenpostfach gesendet werden:
+Verwenden Sie den folgenden EXO Shell-Befehl, um eine Exchange Transportregel zum automatischen Ablegen von E-Mails zu erstellen, die an das aggregierte Gruppenpostfach gesendet werden:
 
 `New-TransportRule -SentTo @("AggregateGroupMailbox.A.201708181918@contoso.onmicrosoft.com") -DeleteMessage:$true -Name 'Agg1' -StopRuleProcessing:$false -Mode 'Enforce' -Comments '' -RuleErrorAction 'Ignore' -SenderAddressLocation 'Header'`
 
-> [!NOTE]
-> Ersetzen Sie die SMTP-Adresse in **-SentTo** durch die SMTP-Adresse des Aggregat Gruppen Postfachs in Ihrem Mandanten. Sie können die SMTP-Adresse des Aggregat Gruppen Postfachs aus dem empfangenen Unzustellbarkeitsbericht abrufen.
+**Hinweis:** Ersetzen Sie die SMTP-Adresse in **"-SentTo"** durch die SMTP-Adresse des aggregierten Gruppenpostfachs in Ihrem Mandanten. Sie können die SMTP-Adresse des Aggregatgruppenpostfachs vom empfangenen NDR abrufen.
 
 
 

@@ -1,8 +1,10 @@
 ---
-title: Volumenlizenzierungsvereinbarung für Unternehmen, die auf falschem Konto aktiviert wurde
+title: Volumenlizenzvertrag für Unternehmen für falsches Konto aktiviert
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,16 +12,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "463"
 - "1500021"
-- commerce
-ms.openlocfilehash: 4a53be17f77b0aac20140848d8fce0a510bda246
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: e1885ffba9d1df1fba0fcca2f2b792bc218f7ab2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50468905"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323483"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Volumenlizenzierungsvereinbarung für Unternehmen, die für das falsche Konto aktiviert wurde oder Lizenzen von einem Konto auf ein anderes übertragen
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Volumenlizenzvertrag für Unternehmen, aktiviert für das falsche Konto oder Übertragen von Lizenzen von einem Konto auf ein anderes
 
-Wenn Sie feststellen, dass  Ihre Abonnements, die über eine Volumenlizenzierung erworben wurden,  Konzernvertrag für den falschen Mandanten aktiviert **wurden,** oder Sie Lizenzen von einem Mandanten in einen anderen übertragen möchten, wenden Sie sich bitte an den [Support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).
+Wenn Sie feststellen, dass Ihre Abonnements über eine **Volumenlizenzierung** erworben wurden Enterprise Agreement für den **falschen Mandanten** aktiviert wurden oder Sie Lizenzen von einem Mandanten auf einen anderen **übertragen** möchten, wenden Sie sich an den [Support.](https://go.microsoft.com/fwlink/p/?linkid=518322)

@@ -2,7 +2,7 @@
 title: QuickEdit
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003088"
 - "5841"
-ms.openlocfilehash: 5f5c1873e1abc351eb5b656c66846a8bd9a6b61e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74a78835090531e10a1331812f0a5202b4a252600c589e4f08ff891398a3cc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959574"
 ---
 # <a name="quick-edit"></a>QuickEdit
 

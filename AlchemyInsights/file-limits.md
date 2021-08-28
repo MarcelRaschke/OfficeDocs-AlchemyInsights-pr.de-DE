@@ -1,5 +1,5 @@
 ---
-title: Datei Grenzwerte
+title: Dateibeschränkungen
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
@@ -9,27 +9,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
-ms.openlocfilehash: d27c95b5cfae5f73aeb9027f4440b7ad1ea7f3f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6ce3151ee6ec7529a4eeb8e4fb85354777f8b93d3c90461a12518af680ae60f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100005"
 ---
-# <a name="file-upload-limits-in-sharepoint-online"></a>Grenzwerte für Dateiuploads in SharePoint Online
+# <a name="file-upload-limits-in-sharepoint-online"></a>Grenzwerte für den Dateiupload in SharePoint Online
 
 - Eine Bibliothek kann bis zu 30 Millionen Dateien und Ordner enthalten.
     
-- Die Gesamtlänge der URL, einschließlich des Datei namens, darf 400 Zeichen nicht überschreiten.
+- Die Gesamtlänge der URL, einschließlich des Dateinamens, darf 400 Zeichen nicht überschreiten.
     
-- Jeder Datei-Brei ist kleiner als 15 GB. An Listenelemente angefügte Dateien können bis zu 250 MB groß sein.
+- Jede Datei muss kleiner als 15 GB sein. An Listenelemente angefügte Dateien können bis zu 250 MB groß sein.
     
-- Für eine optimale Leistung, die mit dem neuen OneDrive-synchronisierungsclient synchronisiert wird, wird empfohlen, nicht mehr als 100.000 Dateien in einer Bibliothek zu speichern. 
+- Für eine optimale Leistungssynchronisierung mit dem neuen OneDrive-Synchronisation-Client wird empfohlen, nicht mehr als 100.000 Dateien in einer Bibliothek zu speichern. 
     
-[Zeichen, die in Dateinamen nicht verwendet werden können](https://go.microsoft.com/fwlink/?linkid=866430)
+[Zeichen, die nicht in Dateinamen verwendet werden können](https://go.microsoft.com/fwlink/?linkid=866430)
   
 [Dateitypen, die einer Liste oder Bibliothek nicht hinzugefügt werden können](https://go.microsoft.com/fwlink/?linkid=273757)
   
-[Weitere Informationen zu SharePoint Online Beschränkungen](https://go.microsoft.com/fwlink/?linkid=271273)
+[Weitere Informationen zu SharePoint Online-Grenzwerten](https://go.microsoft.com/fwlink/?linkid=271273)
   
 

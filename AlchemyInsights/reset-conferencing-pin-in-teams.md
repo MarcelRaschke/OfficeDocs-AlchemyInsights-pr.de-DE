@@ -2,7 +2,7 @@
 title: Zurücksetzen der Konferenz-PIN in Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5494"
-ms.openlocfilehash: ac3316bbfdbcce2f651e5803adc23c2c5d110164
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 785508ef9f20a36f62029e1eaaa70e4926a298e758951773d78ceef76ba80ae7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692114"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023737"
 ---
 # <a name="reset-conferencing-pin-in-teams"></a>Zurücksetzen der Konferenz-PIN in Microsoft Teams
 

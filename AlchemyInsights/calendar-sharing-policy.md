@@ -1,5 +1,5 @@
 ---
-title: 618 Kalenderfreigabe Richtlinie
+title: 618 Kalenderfreigaberichtlinie
 ms.author: chrisda
 author: chrisda
 manager: scotv
@@ -15,19 +15,19 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f1bfb0273301c05f5fe5f8af5fb9039328390d16305e33897680dce1c1977e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684229"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091602"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Richtlinienfehler beim Freigeben eines Kalenders
 
-1. Führen Sie entsprechend ihrer Situation eine der folgenden Aktionen aus:
-    - Stellen Sie mithilfe von Remote-PowerShell eine Verbindung zu Exchange Online her. Weitere Informationen finden Sie unter [Herstellen einer Verbindung mit Exchange Online mithilfe von Remote-PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
-    - Öffnen Sie auf dem lokalen Server das Exchange-Verwaltungsshell.
-2. Bestimmen Sie die Freigaberichtlinie, die dem Benutzer zugewiesen ist. Führen Sie dazu den folgenden Befehl aus, und beachten Sie die zurückgegebene Richtlinie:
+1. Führen Sie je nach Situation eine der folgenden Aktionen aus:
+    - Verbinden mithilfe von Remote-PowerShell zum Exchange Online. Weitere Informationen finden Sie unter [Verbinden zum Exchange Online mithilfe von Remote PowerShell.](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx)
+    - Öffnen Sie auf dem lokalen Server die Exchange Verwaltungsshell.
+2. Bestimmen Sie die Freigaberichtlinie, die dem Benutzer zugewiesen ist. Führen Sie dazu den folgenden Befehl aus, und notieren Sie sich die zurückgegebene Richtlinie:
 
     `
     Get-Mailbox User1 | fl *sharing*
@@ -35,7 +35,7 @@ ms.locfileid: "47684229"
 
 3. Aktualisieren Sie die Freigaberichtlinie für den Benutzer. Gehen Sie dazu wie folgt vor:
     - Öffnen Sie das Exchange Admin Center.
-    - Klicken Sie auf **Organisation**, und doppelklicken Sie dann auf die Richtlinie, die dem Benutzer unter **individuelle Freigabe**zugewiesen ist. Dies ist die Richtlinie, die in Schritt 2 zurückgegeben wurde.
-    - Wählen Sie auf der Seite Freigabe Regel die Kalenderfreigabe Ebene aus, die Sie zulassen möchten unter Geben Sie an, **welche Informationen Sie freigeben**möchten. Klicken Sie auf **Speichern**.
+    - Klicken Sie auf **"Organisation",** und doppelklicken Sie dann unter **"Individuelle Freigabe"** auf die Richtlinie, die dem Benutzer zugewiesen ist. Dies ist die Richtlinie, die in Schritt 2 zurückgegeben wurde.
+    - Wählen Sie auf der Seite "Freigaberegel" die Kalenderfreigabeebene aus, die Sie zulassen möchten, unter **"Angeben, welche Informationen Sie freigeben möchten".** Klicken Sie auf **"Speichern".**
 
-Weitere Informationen finden Sie unter: ["die Richtlinie erlaubt nicht das Erteilen von Berechtigungen auf dieser Ebene für einen oder mehrere Empfänger Fehler, wenn der Benutzer versucht, Kalender freizugeben](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).
+Weitere Informationen finden Sie unter: ["Richtlinie lässt nicht zu, dass einem oder mehreren der Empfänger Berechtigungen auf dieser Ebene gewährt werden", wenn der Benutzer versucht, Kalender freizugeben.](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue)

@@ -1,8 +1,8 @@
 ---
-title: Bericht über die Datei-und Ordnerfreigabe in SharePoint-Websites
+title: Bericht zur Datei- und Ordnerfreigabe in SharePoint Websites
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,18 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: f6c0e7d183ee7d656d0dd63ed7af621c03f3ce94
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7587eba7d69d532ab026db6b9c56f5fa6d7e7f8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692366"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319305"
 ---
-# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Bericht über die Datei-und Ordnerfreigabe in SharePoint-Websites
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Bericht zur Datei- und Ordnerfreigabe in SharePoint Websites
 
-Sie können eine CSV-Datei erstellen, in der jede eindeutige Datei, jeder Benutzer, jede Berechtigung und jeder Link auf einer bestimmten SharePoint-Website oder OneDrive-Bibliothek detailliert beschrieben wird. Auf diese Weise können Sie besser verstehen, wie die Freigabe verwendet wird und ob Dateien oder Ordner für Gäste freigegeben wurden.
+Sie können eine CSV-Datei erstellen, in der jede eindeutige Datei, jeder Benutzer, jede Berechtigung und jeder Link auf einer bestimmten SharePoint Website oder OneDrive Bibliothek angegeben wird. Auf diese Weise können Sie besser verstehen, wie die Freigabe verwendet wird und ob Dateien oder Ordner für Gäste freigegeben wurden.
 
-Weitere Informationen finden Sie unter [Bericht über die Datei-und Ordnerfreigabe auf einer SharePoint-Website](https://docs.microsoft.com/sharepoint/sharing-reports).
+For more information, [Report on file and folder sharing in a SharePoint site](https://docs.microsoft.com/sharepoint/sharing-reports).
 
-> [!NOTE]
-> Dieses Feature ist derzeit für die First Release-Mandanten bereitgestellt und wird schrittweise an alle Produktions Mandanten weitergegeben.
+**Hinweis:** Dieses Feature ist derzeit für First Release-Mandanten bereitgestellt und wird schrittweise für alle Produktionsmandanten bereitgestellt.

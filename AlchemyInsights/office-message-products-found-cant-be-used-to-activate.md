@@ -2,7 +2,7 @@
 title: 'Meldung in Microsoft 365-Apps: "Die in Ihrem Konto gefundenen Produkte können nicht zum Aktivieren verwendet werden"'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: 6345f3acabb73f283c918cf7f3ca0c5c055f6186
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ddb0a9c57464e22972fb435142ee51bc77da0fc10c5c5444894cdbeb35fb6d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802740"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076380"
 ---
 # <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Meldung in Microsoft 365-Apps: "Die in Ihrem Konto gefundenen Produkte können nicht zum Aktivieren verwendet werden"
 

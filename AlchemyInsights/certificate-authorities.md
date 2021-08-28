@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7835"
 - "9004340"
-ms.openlocfilehash: 3fb4920a962b8b975f0235fabaa0ae1b38ac7b09
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: 973f2263e40381dce76a4761233f6047517d98ae50ded8dfd75bffc4bbc68d2b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082617"
 ---
 # <a name="certificate-authorities"></a>Zertifizierungsstellen
 

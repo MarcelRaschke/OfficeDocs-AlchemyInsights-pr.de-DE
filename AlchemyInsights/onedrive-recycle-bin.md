@@ -2,7 +2,7 @@
 title: OneDrive-Papierkorb
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002305"
 - "4476"
-ms.openlocfilehash: 70c49b699e4875f949e09be8b4d79a7f8940ddaa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff96be2ca49ab091b150a4a5705b99eb003fd7ad6ca3dbbc12b47358bb04563f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754446"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984676"
 ---
 # <a name="onedrive-recycle-bin"></a>OneDrive-Papierkorb
 

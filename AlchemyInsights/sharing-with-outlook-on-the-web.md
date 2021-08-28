@@ -2,7 +2,7 @@
 title: Freigabe mit Outlook im Web
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "5699"
-ms.openlocfilehash: 74af770276711de42928b400173a7c378a2d4c40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c3c184de0778d989d2c1d6501a8c78ac4ecb343acb6cb3e5eb61288b4a50be01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107466"
 ---
 # <a name="sharing-with-outlook-on-the-web"></a>Freigabe mit Outlook im Web
 

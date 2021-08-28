@@ -2,7 +2,7 @@
 title: Aktualisieren von Kreditkarteninformationen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: 2c16f7afc44ff375ef26e809793edfc32c192429
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4c0b38762df505f9c59b1fd2a4ce380530b4598c4f8635f7c30c7fe277f56a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990922"
 ---
 # <a name="update-my-credit-card-information"></a>Aktualisieren von Kreditkarteninformationen
 

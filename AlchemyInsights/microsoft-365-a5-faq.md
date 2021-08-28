@@ -3,6 +3,7 @@ title: Häufig gestellte Fragen zu Microsoft 365 A5
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002872"
 - "5425"
-- commerce
-ms.openlocfilehash: ec5e0fa7c7656704995f2c04a5cf12076e1eb4fd
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 868807e87106ed2f5e8361cceec66bdbadfd7014
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469923"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452164"
 ---
 # <a name="microsoft-365-a5-faq"></a>Häufig gestellte Fragen zu Microsoft 365 A5
 
@@ -27,9 +28,9 @@ ms.locfileid: "50469923"
 - Um **Pläne zu ändern**, ziehen Sie [Upgrade auf einen anderen Plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) zurate.
 - Wenn Sie Benutzern A5-Lizenzen **zuweisen** möchten, navigieren Sie zu **Abrechnung > [Lizenzen](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Weitere Informationen finden Sie unter [Zuweisen von Lizenzen zu Benutzern](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Um A5-Lizenzen **zu kaufen oder zu entfernen**, navigieren Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Weitere Informationen finden Sie unter [Lizenzen kaufen oder entfernen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
-- Um ein A5-Abonnement zu **kündigen**, navigieren Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**, wählen Sie das Abonnement und dann im Abschnitt **Abonnement- und Zahlungseinstellungen** die Option **Abonnement kündigen** aus. Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Um ein A5-Abonnement zu **kündigen**, navigieren Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**, wählen das Abonnement und dann im Bereich **Abonnement- und Zahlungseinstellungen** die Option **Abonnement kündigen** aus. Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Informationen zum **Aktivieren** eines A5-Abonnements finden Sie unter [Aktivieren Ihres Abonnements](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Informationen zum **Reaktivieren** eines A5-Abonnements finden Sie unter [Reaktivieren Ihres Abonnements](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Informationen zum **Verlängern** einer A5-Testversion finden Sie unter[ Verlängern Ihrer Testversion](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
+- Informationen zum **Verlängern** einer A5-Testversion finden Sie unter [ Verlängern Ihrer Testversion](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
 Weitere Informationen finden Sie unter [Lizenzen kaufen oder entfernen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

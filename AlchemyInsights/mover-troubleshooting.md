@@ -1,8 +1,8 @@
 ---
-title: Problembehandlung bei Mover
+title: Mover-Problembehandlung
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "8000"
-ms.openlocfilehash: f2d870154f49215fe64d4193d590ba24b4930c0e
-ms.sourcegitcommit: 55d8b56bb8ab0ed07985ef2b5c48ffeb3440b5fc
+ms.openlocfilehash: 073d6508109d02938e684870c79a5b41d7a621fb10d5b131f0d9103901fce460
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50040215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986188"
 ---
 # <a name="mover-troubleshooting"></a>Problembehandlung von Mover
 
-Weitere Informationen zur Problembehandlung für Mover finden Sie unter:
+Informationen zur Problembehandlung von Mover finden Sie unter:
 
 - [Problembehandlung nach der Migration](https://docs.microsoft.com/sharepointmigration/mover-post-migration-troubleshooting)  
 - [Behandeln von Problemen bei der Mover-Migration](https://docs.microsoft.com/sharepointmigration/mover-error-faq)  

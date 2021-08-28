@@ -2,7 +2,7 @@
 title: Problembehandlung beim Drucker
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 9fd1dc7cfd9d866950a9252f760c2808dd8b5f55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6c5fe4f8b4480f34c30430195f9be91263a9011da6eccf2d3830fa5433d19e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020875"
 ---
 # <a name="troubleshoot-your-printer"></a>Problembehandlung beim Drucker
 

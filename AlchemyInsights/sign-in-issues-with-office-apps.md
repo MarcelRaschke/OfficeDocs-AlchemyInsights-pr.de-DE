@@ -2,7 +2,7 @@
 title: Probleme beim Anmelden bei Microsoft 365-Apps
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002389"
 - "4657"
-ms.openlocfilehash: 539373c7e66042258d1810de50dfb742788cc05d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b9bea4f7deb789dfc3ead76302bcd1bb9708e306d8fb9dac4a9e7b8631bf9ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050873"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Probleme beim Anmelden bei Microsoft 365-Apps
 

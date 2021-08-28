@@ -2,7 +2,7 @@
 title: Blockieren des Downloads für Freigabelinks
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: ddd74f3875a586b4fbf49db2f01c8efb180cb005
-ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
+ms.openlocfilehash: 0f3e4b6f497606f82699681d9249f0ff7bc847768e4ce11ce06586d3fdd3676b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49353469"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059883"
 ---
 # <a name="block-download-on-sharing-links"></a>Blockieren des Downloads für Freigabelinks
 

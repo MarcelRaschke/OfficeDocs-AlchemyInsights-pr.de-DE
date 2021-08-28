@@ -1,5 +1,5 @@
 ---
-title: Verwenden von Giphys in Microsoft Teams-Unterhaltungen
+title: Verwenden von Giphys in Teams Unterhaltungen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 296c2f80d35f1c93ab3c60e0be65fd96c953ca81
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947516"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323519"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>Verwenden von Giphys in Microsoft Teams-Unterhaltungen
+# <a name="using-giphys-in-teams-conversations"></a>Verwenden von Giphys in Teams Unterhaltungen
 
-Giphys-Zugriff in Microsoft Teams Chat ist standardmäßig aktiviert. Als Administrator können Sie steuern, ob Giphys für Benutzer verfügbar sind, indem Sie [eine Messagingrichtlinie festlegen](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) und sicherstellen, dass die **Verwendung von Giphys in Unterhaltungen** **eingeschaltet** ist.
+Der Giphys-Zugriff in Teams Chat ist standardmäßig aktiviert. Als Administrator können Sie steuern, ob Giphys für Benutzer verfügbar ist, indem Sie [eine Messagingrichtlinie festlegen](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) und sicherstellen, dass **Giphys in Unterhaltungen** verwendet **wird.**
 
-Wenn GIFs in Microsoft Teams-Unterhaltungen nicht erwartungsgemäß funktionieren, überprüfen Sie Folgendes:
+Wenn GIFs in Teams Unterhaltungen nicht wie erwartet funktionieren, überprüfen Sie:
 
-Die [Messagingrichtlinie](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) muss Giphys zulassen. So überprüfen Sie mithilfe von PowerShell-Cmdlets:
+Die [Messaging-Richtlinie](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) muss Giphys zulassen. So überprüfen Sie dies mithilfe von PowerShell-Cmdlets:
 
 - Stellen Sie sicher, dass Sie [Teams mit PowerShell verwalten](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell)können.
-- Führen Sie den PowerShell-Befehl [Get-CsTeamsMessagingPolicy-Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) aus, und stellen Sie sicher, dass **AllowGiphy** auf **true** festgelegt ist.
-- Wenn **AllowGiphy** auf **false** festgelegt ist, führen Sie den folgenden PowerShell-Befehlssatz aus [– CsTeamsMessagingPolicy-Identity Global-AllowGiphy $true](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
+- Führen Sie den [PowerShell-Befehl Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) aus, und stellen Sie sicher, dass **AllowGiphy** auf **TRUE** festgelegt ist.
+- Wenn **AllowGiphy** auf **FALSE** festgelegt ist, führen Sie den folgenden [PowerShell-Befehl Set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps)aus.
 
-[Optionale verbundene Benutzeroberflächen](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) müssen aktiviert sein, um den Zugriff auf die Giphy-URL zu ermöglichen.
+[Optionale verbundene Erfahrungen](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) müssen aktiviert sein, um den Zugriff auf die Giphy-URL zu ermöglichen.
 
-> [!NOTE]
-> Wenn Sie mehrere Teams-Messaging Richtlinien für Ihren Mandanten konfiguriert haben, können Sie die Identität der Richtlinie ermitteln, die dem betroffenen Benutzer mit dem PowerShell-Befehl [Get-CsOnlineUser-Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) | zugewiesen ist. <user@domain.com> Wählen Sie TeamsMessagingPolicy aus.
+**Hinweis:** Wenn Sie mehrere Teams Messagingrichtlinien für Ihren Mandanten konfiguriert haben, können Sie die Identität der Richtlinie ermitteln, die dem betroffenen Benutzer mit dem [PowerShell-Befehl Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Wählen Sie "TeamsMessagingPolicy" aus.

@@ -1,8 +1,8 @@
 ---
-title: InTune-und Geräteaktionen
+title: Intune- und Geräteaktionen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "7084"
 - "6700008"
-ms.openlocfilehash: ac8b489bc0f1799c13b7861ceb69dfc320cfc297
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 3446b7ed91af32f0cc9f301b492429f7781501f663f13ff5eb71374d23a65f83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947509"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926208"
 ---
-# <a name="intune-and-device-actions"></a>InTune-und Geräteaktionen
+# <a name="intune-and-device-actions"></a>Intune- und Geräteaktionen
 
-InTune gibt Administratoren die Möglichkeit, Geräteaktionen Remote auszuführen. Wenn Sie diese Remote Aktionen aus dem InTune-Portal verwenden, können Sie Geräte neu starten, Kennwörter zurücksetzen, verlorene oder gestohlene Geräte suchen und vieles mehr. Überprüfen Sie das [Geräte Aktions Portal](https://docs.microsoft.com/mem/intune/remote-actions/) , um weitere Informationen zu erhalten.
+Intune bietet Administratoren die Möglichkeit, Geräteaktionen remote auszuführen. Mithilfe dieser Remoteaktionen aus dem Intune-Portal können Sie Geräte neu starten, Passcodes zurücksetzen, verlorene oder gestohlene Geräte finden und vieles mehr. Weitere Informationen finden Sie im [Geräteaktionsportal.](https://docs.microsoft.com/mem/intune/remote-actions/)

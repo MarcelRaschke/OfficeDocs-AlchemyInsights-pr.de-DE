@@ -2,7 +2,7 @@
 title: 'Meldung in Microsoft 365-Apps: "Es ist ein Problem mit Ihrem Abonnement aufgetreten"'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 43a0bae34c22fc99b3bebdc4999f325d76f9d0c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c3881aca1030d59211b9ec5a51530b90767096c7cb313bba7ed161a1b1ec2e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974201"
 ---
 # <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Meldung in Microsoft 365-Apps: "Es ist ein Problem mit Ihrem Abonnement aufgetreten"
 

@@ -1,5 +1,5 @@
 ---
-title: Probleme mit dem bedingten Zugriff
+title: Probleme mit bedingtem Zugriff
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,39 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7768"
-ms.openlocfilehash: 7c20b26e3a038dc4392684ca410eba97cec2df30
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 85cbd89e461f36a51eed816619fd132ea60dfdb0014eb850c7ec3f38d41e1ca2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069963"
 ---
-# <a name="conditional-access-issues"></a>Probleme mit dem bedingten Zugriff
+# <a name="conditional-access-issues"></a>Probleme mit bedingtem Zugriff
 
 **Beheben von Problemen mit der Anmeldediagnose**
 
-Sie können schnell herausfinden, was passiert ist, oder Probleme im Zusammenhang mit der Benutzer anmeldung mithilfe der [Anmeldediagnose diagnostizieren:](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
+Mithilfe der [Anmeldediagnose](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)können Sie schnell herausfinden, was passiert ist, oder Probleme im Zusammenhang mit der Benutzeranmeldung diagnostizieren:
 
 1. Starten Sie die Anmeldediagnose.
 1. Suchen Sie das zu analysierende Ereignis, indem Sie die Details zu Benutzer, Anwendung, Zeitpunkt der Anmeldung, Anforderungs-ID oder Korrelations-ID eingeben.
-1. Überprüfen Sie die Diagnoseergebnisse, in denen die Details zu den Vorfall und die Aktionen angezeigt werden, die Sie ergreifen können, um Änderungen vorzunehmen (falls Änderungen erforderlich sind).
+1. Überprüfen Sie die Diagnoseergebnisse mit den Details der Ereignisse und der Aktionen, die Sie ausführen können, um Änderungen vorzunehmen (falls Änderungen erforderlich sind).
 
 **Schritte zur Problembehandlung bei einer Anmeldung** 
 
 1. Navigieren Sie zur Azure AD-Anmeldeseite.
-1. Filtern Sie Anmeldungen nach Benutzer, Zeitraum, Anwendung, Status, Client-App und so weiter.
-1. Wählen Sie ein Anmeldeereignis aus, und zeigen Sie die Registerkarte "Bedingter Zugriff" an, um zu sehen, welche Richtlinien ausgewertet wurden.
+1. Filtern von Anmeldungen nach Benutzer, Zeitraum, Anwendung, Status, Client-App usw.
+1. Wählen Sie ein Anmeldeereignis aus, und zeigen Sie die Registerkarte "Bedingter Zugriff" an, um anzuzeigen, welche Richtlinien ausgewertet wurden.
 1. Klicken Sie auf die Zeile einer Richtlinie, um die Richtliniendetails anzuzeigen und zu verstehen, warum sie angewendet wurde.
 
-**Tools zur Problembehandlung für eine Richtlinie für bedingten Zugriff**
+**Tools zur Problembehandlung einer Richtlinie für bedingten Zugriff**
 
-- Im Nur-Berichts-Modus können Sie eine Richtlinie auswerten, ohne sich auf die Benutzer auszu auswirken.
-- Mit dem Tool "Was-wäre-wenn" können Sie Anmeldeereignisse simulieren und sehen, welche Richtlinien gelten.
-- Die Arbeitsmappe "Einblicke und Berichterstellung" zeigt die Auswirkungen jeder Richtlinie in Echtzeit an.
+- Im Modus "Nur Bericht" können Sie eine Richtlinie auswerten, ohne die Benutzer zu beeinträchtigen.
+- Mit dem Was-wäre-wenn-Tool können Sie Anmeldeereignisse simulieren und sehen, welche Richtlinien gelten.
+- Insights und Berichtsarbeitsmappe zeigt die Auswirkungen jeder Richtlinie in Echtzeit an.
 
 **Grundlegende Schutzrichtlinien**
 
-Baseline Protection policies have been deprecated. Sie werden nicht mehr erzwungen und werden bald aus dem Azure-Portal entfernt. Es wird empfohlen, [Die Sicherheitseinstellungen zu aktivieren.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
+Baseline Protection-Richtlinien sind veraltet. Sie werden nicht mehr erzwungen und bald aus dem Azure-Portal entfernt. Es wird empfohlen, [die Sicherheitsstandards zu](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)aktivieren.
 
 Weitere Informationen zum bedingten Zugriff finden Sie unter:
 

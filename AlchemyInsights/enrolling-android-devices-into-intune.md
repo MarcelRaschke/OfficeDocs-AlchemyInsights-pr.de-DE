@@ -1,5 +1,5 @@
 ---
-title: Registrieren von Android-Geräten in InTune
+title: Registrieren von Android-Geräten bei Intune
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 97b83d0982f9556fd28a62cc12e3b89259686270c684a46721f0ef3d683e5ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090134"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>Registrieren von Android-Geräten in InTune
+# <a name="enrolling-android-devices-into-intune"></a>Registrieren von Android-Geräten bei Intune
 
-Wenn Sie Benutzer von der Registrierung eines Android-Geräte Administrators zu Android Enterprise migrieren möchten, lesen Sie bitte Folgendes: [verschieben Sie Android-Geräte vom Geräteadministrator in die Arbeitsprofil Verwaltung](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
+Wenn Sie Benutzer von der Registrierung des Android-Geräteadministrators zu Android Enterprise migrieren möchten, lesen Sie bitte: [Verschieben von Android-Geräten vom Geräteadministrator zum Arbeiten mit der Profilverwaltung.](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile)
 
-InTune unterstützt die Registrierung der folgenden Android-Geräte:  
+Intune unterstützt die Registrierung der folgenden Android-Geräte:  
 
-- [Samsung Knox, Zebra, Geräte Administrator](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
-- [Android Enterprise-Arbeitsprofil](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
-- [Android Enterprise dediziert](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Samsung Knox, Nokia, Geräteadministrator](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Arbeitsprofil für Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Dedizierte Android-Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
 - [Android Enterprise vollständig verwaltet](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Überprüfen Sie vor dem Einrichten der Registrierung für Android-Geräte [die Voraussetzungen](https://docs.microsoft.com/intune/enrollment/android-enroll).  
+Überprüfen Sie vor dem Einrichten der Registrierung für [Android-Geräte die Voraussetzungen.](https://docs.microsoft.com/intune/enrollment/android-enroll)  
 
-Informationen zur Problembehandlung bei der Geräteregistrierung im allgemeinen und zu einigen Android-Registrierungsfehlern finden Sie unter [Problembehandlung bei der Geräteregistrierung in Microsoft InTune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
+Informationen zur Problembehandlung bei der Geräteregistrierung im Allgemeinen und zu einigen Android-Registrierungsfehlern finden Sie unter Problembehandlung bei der [Geräteregistrierung in Microsoft Intune.](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
-Sie können auch die Inhalte zur Beschreibung des InTune-Problem Behandlungs Blatts verwenden, um zu ermitteln, welche Probleme bei der Registrierung von Benutzern auftreten.
+Sie können auch den Inhalt verwenden, der das Intune-Problembehandlungsblatt beschreibt, um zu ermitteln, welche Registrierungsprobleme Ihre Benutzer haben.

@@ -1,5 +1,5 @@
 ---
-title: Verzögerung bei der Postfachanmeldung
+title: Verzögerung bei der Postfachbereitstellung
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: 36fd55ece2d3edd605fecfd11ed5dfdb1f194633
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 047c7d854b1afeecaf47cfd7358dd219913f5354ad7ad329a33a795c75da5d7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912453"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Das Postfach des Benutzers wird erstellt.
+# <a name="your-users-mailbox-is-being-created"></a>Das Postfach Ihres Benutzers wird erstellt.
 
-Es kann bis zu einer Stunde dauern, bis ein neues Postfach einsatzfähig ist.
+Es kann bis zu einer Stunde dauern, bis ein neues Postfach verwendet werden kann.
   
-Wenn das Postfach eines Benutzers länger als eine Stunde lang "vorbereitet" wurde, können Sie versuchen, den Benutzer zu löschen und dann neu zu erstellen, oder die Option "Wir rufen Sie uns an" verwenden, um mit einem Supporttechniker zu sprechen.
+Wenn sich das Postfach eines Benutzers seit mehr als einer Stunde "vorbereitet" hat, können Sie versuchen, den Benutzer zu löschen und dann neu zu erstellen, oder die Option "Lassen Sie uns Sie anrufen" verwenden, um mit einem Supporttechniker zu sprechen.
   
 

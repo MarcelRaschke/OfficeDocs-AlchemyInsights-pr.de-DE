@@ -14,19 +14,19 @@ ms.custom:
 - "3173"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 7820c37d503baba8b8433b647576b194ce002905
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc65e5a5a4bb60ca0ece538186d394f06d000b60228b9dd0a5dfe0b7f0e7ad0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797763"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109743"
 ---
 # <a name="restore-deleted-files-or-folders-in-sharepoint"></a>Wiederherstellen gelöschter Dateien oder Ordner in SharePoint
 
-Wenn Sie versehentlich eine Datei oder einen Ordner in SharePoint gelöscht haben, können Sie Sie möglicherweise später aus dem Papierkorb wiederherstellen.
+Wenn Sie eine Datei oder einen Ordner versehentlich in SharePoint löschen, können Sie sie möglicherweise später aus dem Papierkorb wiederherstellen.
 
-* [Wiederherstellen gelöschter Dateien oder Ordner in SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+* [Wiederherstellen gelöschter Dateien oder Ordner in SharePoint](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
-Wenn viele Ihrer SharePoint-Dateien gelöscht, überschrieben, beschädigt oder von Schadsoftware infiziert werden, können Sie die gesamte SharePoint-Bibliothek in einer vorherigen Zeit wiederherstellen.
+Wenn viele Ihrer SharePoint Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie Die gesamte SharePoint Bibliothek auf ein früheres Mal wiederherstellen.
 
 * [Wiederherstellen einer Dokumentbibliothek](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

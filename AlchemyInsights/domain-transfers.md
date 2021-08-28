@@ -2,7 +2,7 @@
 title: Domänenübertragungen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: c2480a50c5cb017dfee4adda45704bf980080c6b
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 3348d2d2de46b65e94dbbb4b81dc909a2e86b5ae7686b4612d7b1364e7d76a5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949672"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101553"
 ---
 # <a name="domain-transfers"></a>Domänenübertragungen
 

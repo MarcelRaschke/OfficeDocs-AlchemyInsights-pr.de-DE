@@ -2,7 +2,7 @@
 title: Warum werden Softwareupdates nicht bereitgestellt?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 02b4f0c73e94a99598db65739ec4eb0f5bbe67b8a7063b7381b9e6f59efd8c12
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366517"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036923"
 ---
 # <a name="why-software-updates-are-not-being-deployed"></a>Warum werden Softwareupdates nicht bereitgestellt?
 

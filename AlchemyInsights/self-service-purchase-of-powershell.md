@@ -1,8 +1,8 @@
 ---
-title: Self-Service-Erwerb von PowerShell
+title: Self-Service-Kauf von PowerShell
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a187fec34ef3eae485a8a880127b5f82a028edb7f0e9a276a41b5e33cad25ead
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942834"
 ---
-# <a name="self-service-purchase-of-powershell"></a>Self-Service-Erwerb von PowerShell
+# <a name="self-service-purchase-of-powershell"></a>Self-Service-Kauf von PowerShell
 
-Um das MSCommerce PowerShell-Modul verwenden zu können, müssen Sie es auf einem Windows 10-Gerät mit TLS 1,2 (lokale Administratorberechtigungen erforderlich) installieren.  Importieren und verbinden Sie sich mit dem MSCommerce-Modul.  Wenn Sie zur Anmeldung aufgefordert werden, müssen Sie die Anmeldeinformationen für die Administratorrolle Global oder Billing verwenden.  
+Um das MSShell-PowerShell-Modul zu verwenden, müssen Sie es auf einem Windows 10 Gerät mit TLS 1.2 installieren (lokale Administratorberechtigungen erforderlich).  Importieren und Herstellen einer Verbindung mit dem MSModule-Modul.  Wenn Sie aufgefordert werden, sich anzumelden, müssen Sie die Anmeldeinformationen der globalen oder der Rechnungsadministratorrolle verwenden.  
 
-Wenn Sie nicht über TLS 1,2 verfügen, wird möglicherweise die folgende Fehlermeldung angezeigt, wenn Sie versuchen, die Richtlinie abzurufen oder zu aktualisieren:
+Wenn Sie nicht über TLS 1.2 verfügen, wird möglicherweise der folgende Fehler angezeigt, wenn Sie versuchen, die Richtlinie abzurufen oder zu aktualisieren:
 
-*ErrorMessage-die zugrunde liegende Verbindung wurde geschlossen: beim Senden ist ein unerwarteter Fehler aufgetreten*.
+*ErrorMessage - Die zugrunde liegende Verbindung wurde geschlossen: Beim Senden ist ein unerwarteter Fehler aufgetreten.*
 
 
 

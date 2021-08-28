@@ -3,6 +3,8 @@ title: Power BI-Lizenzverwaltung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9002564"
 - "4969"
-ms.openlocfilehash: 8e6efea39e32720a22ddb4337e7a23381cff4bb9
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 6f6c10d349f000874a1eece493b05ba5c220b8c9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50231934"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329605"
 ---
 # <a name="power-bi-license-management"></a>Power BI-Lizenzverwaltung
 

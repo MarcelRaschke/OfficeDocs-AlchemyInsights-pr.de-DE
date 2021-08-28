@@ -1,8 +1,8 @@
 ---
-title: Kontaktieren Sie uns, indem Sie auf die Schaltfläche Kopfhörer
+title: Kontaktieren Sie uns, indem Sie auf die Kopfhörertaste klicken.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad82ad2b88d24cb3e037e2ee844529d531f91ccd2f0b2c83b08ead9df889cc0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032896"
 ---
-# <a name="contact-us-by-clicking-the-headphone-button"></a>Kontaktieren Sie uns, indem Sie auf die Schaltfläche Kopfhörer
+# <a name="contact-us-by-clicking-the-headphone-button"></a>Kontaktieren Sie uns, indem Sie auf die Kopfhörertaste klicken.
 
-Wenn Sie sich an den Microsoft-Support wenden möchten, klicken Sie in der linken unteren Ecke dieser APP auf **Kontakt mit uns** . Innerhalb des ausklapp Fensters werden Sie nach Auswahl ihrer Produkt-und Problemkategorie zum richtigen Supportkanal geleitet.
+Wenn Sie sich an den Microsoft-Support wenden möchten, klicken Sie in der unteren linken Ecke dieser App auf **"Kontaktieren".** Im Fly-Out-Fenster werden Sie nach der Auswahl Ihres Produkts und der Problemkategorie zum richtigen Supportkanal geführt.
 
 ![Kontaktieren Sie uns, indem Sie auf das Kopfhörersymbol klicken.](media/contact-us-headphone-icon.png)
 
-Sie können die Interaktion mit dem Rest der APP auch dann fortsetzen, wenn Sie eine Kontakt Sitzung mit uns initiiert haben. Das Kontaktfeld kann vorübergehend minimiert werden, indem Sie auf eine beliebige Stelle in der APP klicken. Um zur gleichen Sitzung zurückzukehren, klicken Sie einfach auf **kontaktieren Sie uns** erneut.
+Sie können weiterhin mit dem Rest der App interagieren, auch nachdem Sie eine Kontaktsitzung initiiert haben. Der Bereich "Kontakt kontaktieren" kann vorübergehend minimiert werden, indem an einer anderen Stelle in der App geklickt wird. Um zur gleichen Sitzung zurückzukehren, klicken Sie einfach erneut auf **"Kontaktieren".**

@@ -1,8 +1,8 @@
 ---
-title: Teams-Client stürzt ab?
+title: Teams-Client stürzt ab
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 39310233eae83ceb18c6ff82451ae747f3c50048
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bef16351b55ac4765539d66ab86a71183f66f0dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691106"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321624"
 ---
-# <a name="teams-client-crashing"></a>Teams-Client stürzt ab?
+# <a name="teams-client-crashing"></a>Teams-Client stürzt ab
 
 Wenn Ihr Team-Client abstürzt, versuchen Sie bitte Folgendes:
 
@@ -29,22 +29,20 @@ Wenn Ihr Team-Client abstürzt, versuchen Sie bitte Folgendes:
 
 - Melden Sie sich mit Ihrem Mandanten-Administratorkonto an und überprüfen Sie in Ihrem [Dienststatus-Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health), ob ein Ausfall oder eine Verschlechterung des Dienstes eingetreten ist.
 
-- Deinstallieren und erneutes Installieren der Microsoft Teams-Anwendung (Link)
-    - Navigieren Sie zum Ordner „%appdata%\Microsoft\teams\“ auf Ihrem Computer, und löschen Sie alle Dateien in diesem Verzeichnis.
-    - [Laden Sie die Microsoft Teams-App herunter, und installieren Sie sie](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy). Installieren Sie Microsoft Teams dabei nach Möglichkeit als Administrator (Klicken Sie mit der rechten Maustaste auf das Installationsprogramm für Microsoft Teams, und wählen Sie, sofern verfügbar, "Als Administrator ausführen" aus).
+- Deinstallieren und erneutes Installieren der Microsoft Teams-Anwendung
+    - Navigieren Sie zum Ordner „%appdata%\Microsoft\Teams\“ auf Ihrem Computer, und löschen Sie alle Dateien in diesem Verzeichnis.
+    - [Laden Sie die Microsoft Teams-App herunter, und installieren Sie sie](https://www.microsoft.com/microsoft-teams/download-app). Installieren Sie Microsoft Teams dabei nach Möglichkeit als Administrator (Klicken Sie mit der rechten Maustaste auf das Installationsprogramm für Microsoft Teams, und wählen Sie, sofern verfügbar, **Als Administrator ausführen** aus).
 
-Wenn Ihr Microsoft Teams-Client weiterhin abstürzt, können Sie das Problem reproduzieren? Wenn ja, tun Sie Folgendes:
+Wenn Ihr Microsoft Teams-Client weiterhin abstürzt, versuchen Sie, das Problem zu reproduzieren. Wenn möglich:
 
 1. Erfassen Sie mithilfe des Steps Recorders Ihre Schritte.
     - Schließen Sie ALLE unnötigen oder vertraulichen Anwendungen.
     - Starten Sie den Steps Recorder, und reproduzieren Sie das Problem, während Sie in dem betroffenen Benutzerkonto angemeldet sind.
-    - [Sammeln Sie die Microsoft Teams-Protokolle, die die aufgezeichneten Reproduktionsschritte enthalten](https://docs.microsoft.com/microsoftteams/log-files). **Hinweis**: Vergewissern Sie sich, dass Sie die Anmeldeadresse des betroffenen Benutzers erfassen.
-    - Sammeln Sie die Abbild- und/oder Fehler-Bucket-Informationen (Windows). Starten Sie Windows PowerShell auf dem Computer, auf dem der Absturz erfolgt, und führen Sie die folgenden Befehle aus:
-
-        `
-        PS C:\Users\user01> cd $env:temp
-        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
-        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
-        `
+    - [Sammeln Sie die Microsoft Teams-Protokolle, die die aufgezeichneten Reproduktionsschritte enthalten](https://docs.microsoft.com/microsoftteams/log-files). 
     
-2. Fügen Sie die Datei an Ihren Supportfall an.
+    **Hinweis**: Vergewissern Sie sich, dass Sie die Anmeldeadresse des betroffenen Benutzers erfassen.
+    - Sammeln Sie die Abbild- und/oder Fehler-Bucket-Informationen (Windows). Starten Sie Windows PowerShell auf dem Computer, auf dem der Absturz erfolgt, und führen Sie die folgenden Befehle aus (drücken Sie nach jedem Befehl die Eingabetaste):
+
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt` `notepad .\FaultBuckets.txt`
+    
+2. Nachdem die Textdatei generiert wurde und auf dem Bildschirm angezeigt wird, speichern Sie die Datei, und fügen Sie sie an die Serviceanfrage an. 

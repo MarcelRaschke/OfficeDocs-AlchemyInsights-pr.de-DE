@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: ca4aa57acfa8f2ddfd5b8ddbaa6d7214cfbb9140
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6b05b39f6298eb6e05c4465584a884395c863a891ec525828f795809eeb787a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748288"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032809"
 ---
 # <a name="connected-experience-with-office-add-ins"></a>Verbundene Erfahrung mit Office-Add-Ins
 

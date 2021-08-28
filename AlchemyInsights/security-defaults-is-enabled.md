@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6006"
 - "1300007"
-ms.openlocfilehash: 78893d1ac260f9c9a2670969b4c50c8b911102c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 45154bceda45763a3cf9095c2df537070fa7d4774cdc248f72dc015d572da93b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740365"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942942"
 ---
 # <a name="security-defaults-is-enabled"></a>Sicherheitsstandardwerte sind aktiviert
 

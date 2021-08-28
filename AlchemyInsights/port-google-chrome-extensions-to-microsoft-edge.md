@@ -1,5 +1,5 @@
 ---
-title: Port Google Chrome Extensions to Microsoft Edge (Chrom)
+title: Porten von Google Chrome-Erweiterungen zu Microsoft Edge (Chromium)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004032"
 - "7102"
-ms.openlocfilehash: 2a20f258cbcbca7c8db4e38c52464fefb1b6f39d
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+- "8297"
+- "9004617"
+ms.openlocfilehash: 34ec7e71a2f27eb5b46395876a4d1c903189be1050e523796c9f2a817c20aaa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49600113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973696"
 ---
-# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Port Google Chrome Extensions to Microsoft Edge (Chrom)
+# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Porten von Google Chrome-Erweiterungen zu Microsoft Edge (Chromium)
 
-Es ist ganz einfach, [Google Chrome-Erweiterungen an Microsoft Edge (Chrom) zu portieren](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension). In den meisten Fällen sind nur minimale Änderungen erforderlich, um diese Erweiterungen auf Microsoft Edge auszuführen.
+Es ist einfach, [Google Chrome-Erweiterungen zu Microsoft Edge (Chromium) zu portieren.](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) In den meisten Fällen sind nur minimale Änderungen erforderlich, um diese Erweiterungen auf Microsoft Edge auszuführen.
 
-Die von Google Chrome unterstützten Erweiterungs-APIs und manifestschlüssel sind mit Microsoft Edge Code kompatibel. Microsoft Edge unterstützt jedoch nicht die Erweiterungs-APIs "Chrome. GCM", "Chrome. Identity. getaccounts", "Chrome. Identity. getAuthToken" und "Chrome. InstanceId".
+Die von Google Chrome unterstützten Erweiterungs-APIs und Manifestschlüssel sind codekompatibel mit Microsoft Edge. Microsoft Edge unterstützt jedoch nicht die Erweiterungs-APIs chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken und chrome.instanceID.

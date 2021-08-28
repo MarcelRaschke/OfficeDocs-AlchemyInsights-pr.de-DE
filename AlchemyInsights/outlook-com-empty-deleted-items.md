@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111795"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Leeren des Ordners "Gelöschte Elemente"
 
-1. Öffnen Sie den Ordner Gelöschte Elemente, und wählen Sie **leeren Ordner**aus.
-2. Wählen Sie wieder **herstellbare Elemente** oben auf der Seite aus, und wählen Sie erneut **leeren Ordner** aus.
+1. Öffnen Sie den Ordner "Gelöschte Elemente", und wählen Sie **"Leer" aus.**
+2. Wählen Sie oben auf der Seite **wiederherstellbare Elemente** aus, und wählen Sie erneut **"Leeren Ordner"** aus.
 
-**Der Ordner "Gelöschte Elemente" kann nicht geleert werden**
+**Ordner "Gelöschte Elemente" kann nicht geleert werden**
 
-- Wenn Sie viele e-Mails gelöscht haben, kann es einige Zeit dauern, bis diese Elemente in den Ordner "Gelöschte Elemente" wechseln oder aus diesem gelöscht werden. Lassen Sie das Browserfenster geöffnet, während das Löschen erfolgt.
-- Wenn die e-Mail immer noch nicht ordnungsgemäß gelöscht wird, wählen Sie einen kleineren zu löschenden Batch aus.
-- Wenn gelöschte e-Mails zurückkommen, kann dies daran liegen, dass Sie kürzlich viele e-Mails gelöscht haben. Versuchen Sie es bitte später erneut.
+- Wenn Sie viele E-Mails gelöscht haben, kann es einige Zeit dauern, bis diese Elemente in den Ordner "Gelöschte Elemente" verschoben oder aus dem Ordner "Gelöschte Elemente" gelöscht wurden. Lassen Sie das Browserfenster geöffnet, während das Löschen erfolgt.
+- Wenn die E-Mail weiterhin nicht ordnungsgemäß gelöscht werden kann, wählen Sie einen kleineren Batch aus, der gelöscht werden soll.
+- Wenn gelöschte E-Mails zurückkommt, kann dies daran liegt, dass Sie kürzlich viele E-Mails gelöscht haben. Versuchen Sie es später noch mal.

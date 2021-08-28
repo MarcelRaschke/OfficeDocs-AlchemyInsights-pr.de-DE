@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6024"
 - "9002913"
-ms.openlocfilehash: 693a1b0e8e06158691d5b23cb4bc2f4e3b828b71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c9d2d9a5c062fc6c90015a0c44911fb84414266c2560b3c17116a42d8a58df5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "49768371"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886394"
 ---
 # <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>Offboarding eines Computer vom Microsoft Defender ATP-Dienst
 

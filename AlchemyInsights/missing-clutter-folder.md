@@ -2,7 +2,7 @@
 title: Fehlender Ordner „Clutter“
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4855"
-ms.openlocfilehash: 98c6050c03fa86fd04ab1d04dabc45e8fd1afec6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3260e42f051254684644804971f2addd408c8bd361cb7a705f8712f5fa0b952e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674001"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012055"
 ---
 # <a name="missing-clutter-folder"></a>Fehlender Ordner „Clutter“
 

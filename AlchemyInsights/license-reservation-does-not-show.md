@@ -1,8 +1,8 @@
 ---
 title: Lizenzreservierung wird nicht angezeigt
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002575"
 - "5030"
-ms.openlocfilehash: e938d3a7bb6bc95f1946db14c3e36a9fb690ad8d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7250eea631c8abc11ea623ce1b7bd87b1338976c
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675981"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452317"
 ---
 # <a name="license-reservation-does-not-show"></a>Lizenzreservierung wird nicht angezeigt
 

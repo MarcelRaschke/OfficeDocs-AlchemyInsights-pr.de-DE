@@ -2,7 +2,7 @@
 title: Neu bei Microsoft Teams?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002403"
 - "4676"
-ms.openlocfilehash: 011a791faa51df19e375afbf6851259617b7fb79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a29b2dc8d2ea218c6fc187bd1d5c18a3137f3f9b54a903d6433063c233f1996c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769470"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011695"
 ---
 # <a name="new-to-teams"></a>Neu bei Microsoft Teams?
 

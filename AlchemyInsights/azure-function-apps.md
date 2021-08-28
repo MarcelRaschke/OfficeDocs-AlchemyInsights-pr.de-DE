@@ -1,5 +1,5 @@
 ---
-title: Azure-Funktions-Apps
+title: Azure Function Apps
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7843"
-ms.openlocfilehash: 11ccf3d819845383d06d25ff41c647fa456a3de1
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: bd5c16c68e69c8d9739bdc84d6d678681b5395fed3b90420d7b78cc47664eaed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979636"
 ---
-# <a name="azure-function-apps"></a>Azure-Funktions-Apps
+# <a name="azure-function-apps"></a>Azure Function Apps
 
-[Wenn Sie Ihre App Service-](https://docs.microsoft.com/azure/app-service/configure-authentication-provider-aad) oder Azure Functions-App für die Verwendung der Azure AD-Anmeldung konfigurieren, erfahren Sie, wie Sie Azure App Service oder Azure Functions für die Verwendung von Azure Active Directory (Azure AD) als Authentifizierungsanbieter konfigurieren.
+[Konfigurieren Ihrer App-Dienst- oder Azure Functions-App für die Verwendung der Azure AD-Anmeldung](https://docs.microsoft.com/azure/app-service/configure-authentication-provider-aad) zeigt Ihnen, wie Sie Azure App Service oder Azure Functions so konfigurieren, dass Azure Active Directory (Azure AD) als Authentifizierungsanbieter verwendet wird.

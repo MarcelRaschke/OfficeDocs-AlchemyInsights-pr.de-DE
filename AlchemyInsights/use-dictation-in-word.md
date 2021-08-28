@@ -2,7 +2,7 @@
 title: Verwenden der Diktatfunktion in Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002888"
 - "5513"
-ms.openlocfilehash: f91a455322b7f885f4edd3308e6fbd5d46522324
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f3b0bbc6c4434d22bbedaf5216b5e7f6a9fb4c2d8e569385796e0da6732fe21a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798483"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104631"
 ---
 # <a name="use-dictation-in-word"></a>Verwenden der Diktatfunktion in Word
 

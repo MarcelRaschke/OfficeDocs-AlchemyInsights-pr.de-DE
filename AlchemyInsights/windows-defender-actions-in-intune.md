@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1282"
 - "6700008"
-ms.openlocfilehash: 732b7450121f85416bb0f1868b3722899bee8194
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af9e8e16fe96b7460b19481900e4c46d0a2a27f73293f81b5af86131af40287a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699086"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047363"
 ---
 # <a name="windows-defender-actions-in-intune"></a>Windows Defender-Aktionen in Intune
 

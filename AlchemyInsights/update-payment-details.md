@@ -2,7 +2,9 @@
 title: Aktualisieren von Kreditkarteninformationen
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
+ms.date: ''
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 514bd6a448333c72776b387869c08915b637a3f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735054"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330667"
 ---
 # <a name="update-credit-card-information"></a>Aktualisieren von Kreditkarteninformationen
 
 1. Navigieren Sie im Microsoft 365 Admin Center zur Seite **Abrechnung** \> [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-    > [!NOTE]
-    > Sollten Sie in einer Schleife zur Admin-Startseite zurückgesendet werden, bevor Ihre Updates abgeschlossen sind, probieren Sie den InPrivate- oder Inkognito-Modus aus.
+    **Hinweis**: Sollten Sie in einer Schleife zur Admin-Startseite zurückgesendet werden, bevor Ihre Updates abgeschlossen sind, probieren Sie den InPrivate- oder Inkognito-Modus aus.
   
-2. Wählen Sie die Kreditkarte, die Sie aktualisieren möchten.
+2. Wählen Sie die Kreditkarte aus, die Sie aktualisieren möchten.
 
-    > [!NOTE]
-    > Wenn ein anderer Administrator die Zahlungsmethode hinzugefügt hat, können Sie die Kreditkarten- oder Bankkontoinformationen nicht aktualisieren. Falls die Kreditkarte bald abläuft und der andere Administrator sie nicht aktualisieren kann, können Sie eine Dienstunterbrechung verhindern, indem Sie eine andere Kreditkarte oder ein neues Bankkonto durch Wählen von **Zahlungsmethode hinzufügen** für das Abonnement hinzufügen.
+    **Hinweis**: Wenn ein anderer Administrator die Zahlungsmethode hinzugefügt hat, können Sie die Kreditkarten- oder Bankkontoinformationen dafür nicht aktualisieren. Falls die Kreditkarte bald abläuft und der andere Administrator sie nicht aktualisieren kann, können Sie eine Dienstunterbrechung verhindern, indem Sie unter **Zahlungsmethode hinzufügen** eine andere Kreditkarte oder ein neues Bankkonto für das Abonnement hinzufügen.
   
 3. Wählen Sie im Bereich **Details zur Zahlungsmethode** die Option **Bearbeiten** aus.
 

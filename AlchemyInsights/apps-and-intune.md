@@ -2,7 +2,7 @@
 title: Apps und Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "5764"
-ms.openlocfilehash: 81d0e5e774596065410873a244b345b56af46905
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f1e9f829645591f63bb73ea5ba10899ca84af7f78054bbf3c285cb1f24866ca3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716496"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969420"
 ---
 # <a name="apps-and-intune"></a>Apps und Intune
 

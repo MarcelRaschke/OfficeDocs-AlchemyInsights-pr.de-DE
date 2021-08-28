@@ -2,7 +2,7 @@
 title: Mehr Erreichen mit Multitasking in Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002958"
 - "5660"
-ms.openlocfilehash: 3efdd790d40dcf76b9815bcc63c150db9ab9a177
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f980b93337d2a0d3af06876ac14015546b850f80205d66cdb5c4a6fce162c2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679115"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947987"
 ---
 # <a name="do-more-with-multitasking-in-windows-10"></a>Mehr Erreichen mit Multitasking in Windows 10
 

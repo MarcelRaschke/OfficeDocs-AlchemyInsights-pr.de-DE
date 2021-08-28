@@ -2,7 +2,7 @@
 title: Handhabung von Ransomware in SharePoint Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: e9e69d846af13cd7260822a30fbbbfd7b1fb773a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0fe52c1ad62b218f1dbd43bb91acc6fe809e02d4caace87e59229b9fc9ec70c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705874"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067803"
 ---
 # <a name="handling-ransomware-in-sharepoint-online"></a>Handhabung von Ransomware in SharePoint Online
 

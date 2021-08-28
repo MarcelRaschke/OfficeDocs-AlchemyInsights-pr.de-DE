@@ -2,7 +2,7 @@
 title: Gemeinsame Themen und Lösungen in Project für das Web
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002603"
 - "5021"
-ms.openlocfilehash: 6b195b96ec80552c9564530d04bbb41a4ab974f7
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: ff0fd330bf205a19fbcbb008381d6e9ec8ddfd06ff2e084d708cffac9f16f079
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960078"
 ---
 # <a name="project-for-the-web-common-issues-and-resolutions"></a>Gemeinsame Themen und Lösungen in Project für das Web
 

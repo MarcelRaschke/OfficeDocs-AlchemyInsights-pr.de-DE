@@ -1,5 +1,5 @@
 ---
-title: Ändern des e-Mail-Namens in Outlook.com
+title: Ändern Des E-Mail-Namens in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,27 +13,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 17c75293103a924dd76fdaf171ad04f5b3252b23
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64b9cd0d61d07aeeb69c83f7f35086ec23fa917b2c90665c567245fe4915abe1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112515"
 ---
-# <a name="change-your-email-name"></a>Ändern des e-Mail-namens
+# <a name="change-your-email-name"></a>Ändern Des E-Mail-Namens
 
-Wenn Sie eine Outlook.com-e-Mail-Adresse haben und den Namen ändern möchten, werden Empfänger in ihren Nachrichten angezeigt:
+Wenn Sie über eine Outlook.com-E-Mail-Adresse verfügen und den Namen ändern möchten, werden die Empfänger in Ihren Nachrichten angezeigt:
   
-1. Wählen Sie in der rechten oberen Ecke der Seite das Bild für Ihr Konto aus.
-2. Wählen Sie **mein Profil**aus.
-3. Wählen Sie **Namen bearbeiten** aus, um Änderungen vorzunehmen, und wählen Sie **Speichern**aus.
+1. Wählen Sie ihr Kontobild in der oberen rechten Ecke der Seite aus.
+2. Wählen Sie **"Mein Profil"** aus.
+3. Wählen Sie **"Namen bearbeiten"** aus, um Änderungen vorzunehmen, und wählen Sie **"Speichern"** aus.
 
-Lassen Sie bitte bis zu 24 Stunden zu, bis Änderungen an Ihrem Profilnamen wirksam werden.
+Es kann bis zu 24 Stunden dauern, bis Änderungen an Ihrem Profilnamen wirksam werden.
   
-Wenn Sie mehr als einen e-Mail-Alias oder eine Adresse mit Ihrem Outlook.com-Konto verbunden haben, können Sie wählen, ob Sie e-Mails von ihren Adressen senden möchten.
+Wenn Sie mehr als einen E-Mail-Alias oder eine E-Mail-Adresse mit Ihrem Outlook.com-Konto verbunden haben, können Sie eine E-Mail von einer Beliebigen Ihrer Adressen senden.
   
-1. Wählen Sie beim Verfassen einer Nachricht "..." aus. am unteren Rand des Fensters verfassen.
-1. Wählen Sie **anzeigen aus** aus, um die von-Leiste anzuzeigen.
-1. Wählen Sie über der an-Linie aus, und wählen Sie die e-Mail-Adresse **aus** , die Sie verwenden möchten.
+1. Wählen Sie beim Verfassen einer Nachricht "..." aus. am unteren Rand des Fensters zum Verfassen.
+1. Wählen Sie **"Von anzeigen" aus,** um die Zeile "Von" anzuzeigen.
+1. Wählen Sie oberhalb der Zeile "An" **aus,** und wählen Sie aus, welche E-Mail-Adresse Sie verwenden möchten.
 
-Weitere Informationen finden Sie unter [Senden von e-Mails von einer anderen Adresse in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie unter [Senden von E-Mails von einer anderen Adresse in Outlook.com.](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)

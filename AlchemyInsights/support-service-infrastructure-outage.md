@@ -1,5 +1,5 @@
 ---
-title: Ausfall der Support Dienstinfrastruktur
+title: Dienstinfrastrukturausfall unterstützen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: a41cd828b41d871053e2fa78a3a706b6dedf26e5
-ms.sourcegitcommit: 201c70a805ee76a13f97696e5a07ba27d0ce70a7
+ms.openlocfilehash: 9cc999a288d7e08b83cb8a54720ff77286f645758ee42db14f68057b0edc3e46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "48355430"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998978"
 ---
-# <a name="support-service-infrastructure-outage"></a>Ausfall der Support Dienstinfrastruktur
+# <a name="support-service-infrastructure-outage"></a>Dienstinfrastrukturausfall unterstützen
 
-Wir erleben derzeit einen Ausfall in der Supportdienst Infrastruktur. Wir arbeiten daran, das Problem so schnell wie möglich zu lösen, aber in der Zwischenzeit können Sie Verzögerungen bei der Antwortzeit sehen, wenn Sie versuchen, Microsoft zu kontaktieren.
+Derzeit ist ein Ausfall der Supportdienstinfrastruktur aufgetreten. Wir arbeiten daran, das Problem so schnell wie möglich zu beheben, aber in der Zwischenzeit kann es zu Verzögerungen bei der Reaktionszeit kommen, wenn Sie versuchen, Microsoft zu kontaktieren.

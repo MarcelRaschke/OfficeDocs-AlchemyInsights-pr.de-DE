@@ -1,5 +1,5 @@
 ---
-title: Wie Sie das neue Outlook.com wie das alte aussehen lassen
+title: So stellen Sie sicher, dass die neue Outlook.com wie die alte aussieht
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: fcd3f66abed75fb938994821249cdb78fedf264a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ca5ff0ed1ab1d7aedb29390a843158912e25648106df8a2ce88a0b8458d62fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067083"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Vorgehensweise so, dass die neue Outlook.com wie die alte Version aussieht
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>So stellen Sie sicher, dass die neue Outlook.com wie die alte Version aussieht
 
 Hier sind einige Einstellungen, die Sie ändern können, damit die neue Outlook.com wie die alte Version aussieht:
 
-1. Wechseln Sie zu [Einstellungen des Layouts](https://outlook.live.com/mail/options/mail/layout).
-1. Wählen Sie unter **fokussierter Posteingang**die Option **Meine Nachrichten nicht sortieren**aus.
-1. Wählen Sie unter **Nachrichtenorganisation**die Option **neueste Nachrichten oben**aus.
-1. Wählen Sie unter **Absender Bild**die Option **Absender Bilder nicht anzeigen**aus.
-1. Wählen Sie unter **Lesebereich**die Option **Lesebereich ausblenden**aus.
-1. Wählen Sie unter **Nachrichtenvorschau Text**die Option **Vorschautext anzeigen**aus.
-1. Wählen Sie unter **Inline Vorschau**die Option **Anlagen in Nachrichtenliste nicht anzeigen**aus.
+1. Wechseln Sie zu [Layouteinstellungen.](https://outlook.live.com/mail/options/mail/layout)
+1. Wählen Sie **unter Posteingang** mit Relevanz die Option **"Nachrichten nicht sortieren"** aus.
+1. Wählen Sie unter **Nachrichtenorganisation** **oben "Neueste Nachrichten"** aus.
+1. Wählen Sie unter **"Absenderbild"** die Option **"Absenderbilder nicht anzeigen"** aus.
+1. Klicken Sie **im Lesebereich** auf **Lesebereich ausblenden.**
+1. Wählen Sie unter **Nachrichtenvorschautext** die Option **Vorschautext anzeigen** aus.
+1. Wählen Sie unter **Inlinevorschau** die Option **"Anlagen nicht anzeigen" in der Nachrichtenliste** aus.
 
-Wenn Sie Ihre e-Mail-Einstellungen so ändern möchten, dass Ihr Posteingang aussieht und sich so verhält, wie Sie es wünschen, finden Sie weitere Informationen unter [Ändern des Erscheinungsbild Ihres Postfachs in Outlook.com und des neuen Outlook im Internet](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Informationen zum Ändern ihrer E-Mail-Einstellungen, damit Ihr Posteingang so aussieht und sich so verhält, wie Sie es wünschen, finden Sie unter [Ändern des Erscheinungsbilds Ihres Postfachs in Outlook.com und im neuen Outlook im Web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -1,8 +1,8 @@
 ---
-title: Office kann nicht aktiviert werden
+title: Office kann nicht aktiviert werden
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: a057aaa2ddf8885b96c0fe0d5fa87d3a1b191af9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236088"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327845"
 ---
-# <a name="unable-to-activate-office"></a>Office kann nicht aktiviert werden
+# <a name="unable-to-activate-office"></a>Office kann nicht aktiviert werden
+
+**Hinweis**: Wenn Sie eine ältere Version von Windows verwenden (z. B. Windows 7), stellen Sie sicher, dass TLS 1.2 als Standard aktiviert ist. Weitere Informationen finden Sie unter [Update zum Aktivieren von TLS 1.1 und TLS 1.2 als sichere Standardprotokolle in WinHTTP unter Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
 
 - Überprüfen Sie, ob Ihr Abonnementstatus abgelaufen ist.
-- Stellen Sie sicher, dass Sie über ein Abonnement verfügen, das Clientlizenzen zulässt, z. B. Office 365 Business oder Business Premium, und [dass dem Benutzer eine Lizenz zugewiesen wurde](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Stellen Sie sicher, dass Sie über ein Abonnement verfügen, das Clientlizenzen zulässt, z. B. Office 365 Business oder Business Premium, und [dass dem Benutzer eine Lizenz zugewiesen wurde](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Stellen Sie sicher, dass sich der Benutzer bei Office mit dem gleichen Konto anmeldet, dem die Lizenz zugewiesen wurde.
 - Auf der Seite [Office 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health) werden mögliche bekannte Probleme mit dem Dienst angezeigt.
 - Überprüfen Sie Ihre Firewall-, Antivirensoftware- und Proxyeinstellungen, um sich zu vergewissern, dass sie nicht den Zugriff auf das Internet für Microsoft 365-Apps blockieren. Weitere Informationen finden Sie unter [Office 365-URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365-URLs und -IP-Adressbereiche").

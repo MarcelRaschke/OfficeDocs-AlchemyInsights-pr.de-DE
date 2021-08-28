@@ -13,23 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 6a1a1376758024339939d10a7d17520faa8505ea
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d6be4331967ed9ae362f5da85856b03cfa40b319
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464615"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317807"
 ---
 # <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Erfahren Sie, wer die Weiterleitung für ein Postfach eingerichtet hat und wie
 
-Wenn die externe Weiterleitung für ein Postfach festgelegt wurde, wird die Aktivität im Rahmen des cmdlets Set-Mailbox überwacht. So finden Sie die Aktivität im Überwachungsprotokoll:
+Wenn die externe Weiterleitung für ein Postfach festgelegt wurde, wird die Aktivität als Teil des **Cmdlets "Set-Mailbox"** überwacht. So finden Sie die Aktivität im Überwachungsprotokoll:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Wählen **Sie Suche** >  **Überwachungsprotokollsuche aus.**
-    > [!NOTE]
-    > Wenn Sie eine Benachrichtigung sehen, dass Sie die Überwachung aktivieren müssen, fahren Sie mit der Überwachung voran, und aktivieren Sie sie jetzt. Wenn dieses Feature nicht aktiviert ist, können Suchergebnisse keine Daten aus früheren Datumsangaben ziehen.
-1. Stellen Sie **sicher, dass das** Feld Aktivitäten auf Ergebnisse für alle Aktivitäten anzeigen festgelegt ist (Standardeinstellung).  Geben Sie den Datumsbereich an. Sie müssen keinen Benutzernamen angeben.
-1. Wählen Sie **Suchen aus.** Die Aktivitäten werden unter **Ergebnisse angezeigt.**
-1. Wählen **Sie Ergebnisse filtern** aus, und geben Sie dann **Set-mailbox** in das Feld **Aktivitätsfilter** ein. Dadurch werden alle **Set-Mailbox-Aktivitäten** zurückgegeben.
-1. Wählen Sie zum Anzeigen der Details eine Aktivität aus, und wählen Sie dann **Weitere Informationen aus.** Unter **Parametern** wird die Weiterleitungs-E-Mail-Adresse angezeigt, die für das Postfach festgelegt wurde. Die **UserID** stellt den Benutzer dar, der die externe Weiterleitung für das Postfach eingerichtet hat.
-Weitere Informationen finden Sie unter [Durchsuchen des Office 365-Überwachungsprotokolls zur Problembehandlung gängiger Szenarien.](https://go.microsoft.com/fwlink/?linkid=2103944)
+1. Führen Sie eine der folgenden Aktionen aus:
+   - Wechseln Sie im Microsoft 365 Compliance Center unter <https://compliance.microsoft.com> zu **"Lösungsüberwachung".** \>  Oder verwenden Sie , um direkt zur **Seite "Überwachung"** zu <https://compliance.microsoft.com/auditlogsearch> wechseln.
+   - Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> zu **"Überwachen".** Oder verwenden Sie , um direkt zur **Seite "Überwachung"** zu <https://security.microsoft.com/auditlogsearch> wechseln.
+
+   **Hinweis:** Wenn Eine Benachrichtigung angezeigt wird, dass Sie die Überwachung aktivieren müssen, fahren Sie fort, und aktivieren Sie sie jetzt. Wenn dieses Feature nicht aktiviert ist, können Suchergebnisse keine Daten aus früheren Datumsangaben abrufen.
+
+2. Überprüfen Sie auf der Seite **"Überwachung",** ob die Registerkarte **"Suchen"** ausgewählt ist, und konfigurieren Sie dann die folgenden Einstellungen:
+   - Wählen Sie den Datums-/Uhrzeitbereich in den Feldern **Start** und Ende aus. 
+   - Überprüfen Sie, ob das Feld **"Aktivitäten"** **die Ergebnisse für alle Aktivitäten** enthält.
+
+3. Wenn Sie fertig sind, klicken Sie auf **Suchen.** Die Aktivitäten werden auf der neuen **Überwachungssuchseite** angezeigt.
+
+4. Klicken Sie in den Ergebnissen auf die Spalte **"Aktivität",** um die Ergebnisse zu sortieren, und suchen Sie nach **"Set-Mailbox"-Einträgen.**
+
+5. Wählen Sie eine Aktivität in den Ergebnissen aus, um das Detail-Flyout zu öffnen. Sie müssen sich die Details jedes Überwachungsdatensatzes ansehen, um festzustellen, ob die Aktivität mit der E-Mail-Weiterleitung zusammenhängt:
+   - **ObjectId**: Der Aliaswert des Postfachs, das geändert wurde.
+   - **Parameter:** _ForwardingSmtpAddress_ gibt die E-Mail-Zieladresse an.
+   - **UserId**: Der Benutzer, der die E-Mail-Weiterleitung für das Postfach im **Feld ObjectId** konfiguriert hat.
+
+Weitere Informationen finden Sie unter [Ermitteln, wer die E-Mail-Weiterleitung für ein Postfach eingerichtet hat.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

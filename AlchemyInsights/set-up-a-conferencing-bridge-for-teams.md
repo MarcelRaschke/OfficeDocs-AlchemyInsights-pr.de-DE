@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002264"
 - "4385"
-ms.openlocfilehash: 93167e4bbbfe0ff87f26714f55c539d796ea5737
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d13147da50af293e08839252617977ea731a1103e4b1732268aff645721d5f73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060819"
 ---
 # <a name="set-up-a-conferencing-bridge-for-teams"></a>Einrichten einer Konferenzbrücke für Teams
 
-Sie müssen Audiokonferenzen nur für Personen einrichten, die Besprechungen planen oder leiten möchten. Um die Einrichtung des Telefonsystems abzuschließen, steht ein Schritt-für-Schritt-Prozess zur Verfügung. Bitte lesen Sie [Einrichten des Telefonsystems in Ihrer Organisation](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).
+Sie müssen Audiokonferenzen nur für Personen einrichten, die Besprechungen planen oder leiten möchten. Um die Einrichtung des Telefonsystems abzuschließen, steht ein Schritt-für-Schritt-Prozess zur Verfügung. Lesen Sie [Einrichten von Microsoft Teams Telefon in Ihrer Organisation](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).

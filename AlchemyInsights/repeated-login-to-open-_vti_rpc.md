@@ -15,14 +15,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 1ef60f663a04045e4cd00463e59dcbf1f2f92122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 019fb0675a4a8b38e4d9a4012b8398291150940b34fcc81a2bbf96942d3fa9ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053033"
 ---
 # <a name="repeated-login-to-open-_vti_rpc"></a>Wiederholte Anmeldung zum Öffnen _vti_rpc
 
-Wenn Sie mit Office 2016 auf OneDrive-Dateien arbeiten, wird möglicherweise die folgende Meldung angezeigt: "teilen Sie uns das Konto mit, das Sie zum Öffnen von _vti_rpc verwenden möchten." Dieses Problem wurde in Version 1708 (16.0.8431.2094) behoben. Um dies zu beheben, aktualisieren Sie auf die neueste Version von Office. Wählen Sie Update Optionen für **Datei** \> **Konten** \> **Update Options** \> **Jetzt aktualisieren**aus.
+Beim Arbeiten mit OneDrive Dateien mit Office 2016 wird möglicherweise die Meldung angezeigt: "Teilen Sie uns das Konto mit, das Sie zum Öffnen _vti_rpc verwenden möchten." Dieses Problem wurde in Version 1708 (16.0.8431.2094) behoben. Um dies zu beheben, aktualisieren Sie auf die neueste Version von Office. Wählen Sie **"Dateikontoaktualisierungsoptionen** \>  \> jetzt  \> **aktualisieren"** aus.
   

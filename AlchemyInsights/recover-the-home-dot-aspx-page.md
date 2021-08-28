@@ -2,7 +2,7 @@
 title: Wiederherstellen der Seite Start.aspx
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002970"
 - "5683"
-ms.openlocfilehash: 32e600a4a3bb98fb5d31a7de4923b16c43db9205
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b49e00d00fc692353f99803cc47ff02c2729cab9c8a9a9bfa3ff4674d785bda5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095001"
 ---
 # <a name="recover-the-homeaspx-page"></a>Wiederherstellen der Seite Start.aspx
 

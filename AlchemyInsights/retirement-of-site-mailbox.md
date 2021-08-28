@@ -1,5 +1,5 @@
 ---
-title: Ruhestand des websitepostfachs
+title: Einstellung des Websitepostfachs
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004319"
 - "7703"
-ms.openlocfilehash: 9077fe8bb6744d42195e4a46b8492c498159d5d6
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: daea50e36ee672b119b5a351e04b1aba18c31754a06b2e59c792e2c748cfcca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755866"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074653"
 ---
-# <a name="retirement-of-site-mailbox"></a>Ruhestand des websitepostfachs
+# <a name="retirement-of-site-mailbox"></a>Einstellung des Websitepostfachs
 
-Die Website Postfächer wurden in [2017](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/deprecation-of-site-mailboxes/ba-p/93028) veraltet, und die Erstellung neuer Website Postfächer und der Benutzer Zugriff auf Website Postfächer wurden mit nachfolgenden Ankündigungen angehalten. Nun wurde der Vorgang zum Zurückziehen der Website Postfächer gestartet. Auf [dieser](https://aka.ms/SiteMailboxRetirement) Seite finden Sie weitere Details und Aktionen.
+Die Websitepostfächer sind seit [2017](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/deprecation-of-site-mailboxes/ba-p/93028) veraltet, und die Erstellung neuer Websitepostfächer und des Benutzerzugriffs auf Websitepostfächer wurde mit nachfolgenden Ankündigungen beendet. Nun hat der Prozess zum Zurückziehen der Websitepostfächer begonnen. Besuchen Sie [diese](https://aka.ms/SiteMailboxRetirement) Seite, um weitere Details und Aktionen zu erhalten.

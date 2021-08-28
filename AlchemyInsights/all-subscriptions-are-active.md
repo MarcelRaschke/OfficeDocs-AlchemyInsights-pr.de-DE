@@ -2,7 +2,8 @@
 title: Alle Abonnements sind aktiv
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,18 +12,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: bfe51559421c94cda4d3aa53c9baf5265af57224
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: 003ebe35594a522151b1fa2dbc30e0419113a7f987ace1c6dcf01e2ba733dde8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348700"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933464"
 ---
 # <a name="all-subscriptions-are-active"></a>Alle Abonnements sind aktiv
 
-Ihre Abonnements sind aktiv. Dies kann überprüft werden, indem Sie auf die Seite **Fakturierung** \> [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) wechseln. Ihre Abonnements werden auf der Registerkarte **Produkte** aufgeführt, und der Status für jedes Abonnement wird in der Spalte **Abonnementstatus** angezeigt. Um weitere Informationen zu erhalten, wählen Sie ein Abonnement aus, um die Seite Abonnementdetails anzuzeigen.
+Ihre Abonnements sind aktiv. Dies kann überprüft werden, indem Sie zur Seite **"Abrechnung** \> [Für Ihre Produkte"](https://go.microsoft.com/fwlink/p/?linkid=842054) wechseln. Ihre Abonnements sind auf der Registerkarte **"Produkte"** aufgeführt, und der Status für jedes Abonnement wird in der Spalte **"Abonnementstatus"** angezeigt. Wählen Sie für weitere Informationen ein Abonnement aus, um die Seite mit den Abonnementdetails anzuzeigen.
   
-Wenn Sie Ihre aktiven Abonnements entfernen oder Ihr Konto schließen möchten, finden Sie weitere Informationen unter [How to Close Your Account](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).
+Wenn Sie Ihre aktiven Abonnements entfernen oder Ihr Konto schließen möchten, lesen Sie [informationen zum Schließen Ihres Kontos.](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide)

@@ -1,8 +1,8 @@
 ---
-title: Verwenden Sie den Setup-und Wiederherstellungs-Assistenten zur Problembehandlung OneDrive für Unternehmen
+title: Verwenden des Setup- und Wiederherstellungs-Assistenten zur Problembehandlung OneDrive for Business
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: c687718de8ca78e1e1b896adc08368248fe4e0df
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 46b0f5eefb3ba6170f39263b81d0d59d66622644df0cfa3871b1ce4cdd214818
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749333"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037823"
 ---
 # <a name="fix-onedrive-sync-problems"></a>Beheben von Problemen bei der OneDrive-Synchronisation
 
-Die Support-und Wiederherstellungs-Assistenten-App kann Ihnen helfen, häufige Probleme beim Synchronisieren von OneDrive-Dateien zu identifizieren und zu beheben. 
+Die Support- und Wiederherstellungs-Assistent-App kann Ihnen dabei helfen, häufige Probleme beim Synchronisieren OneDrive Dateien zu erkennen und zu beheben. 
   
-[Laden Sie den Support-und Wiederherstellungs-Assistenten herunter](https://aka.ms/sara), melden Sie sich mit ihrem geschäftlichen oder Schulkonto an, und befolgen Sie die Anweisungen in der APP, um OneDrive für Unternehmen zu beheben. 
+[Laden Sie die Support- und Wiederherstellungs-Assistent](https://aka.ms/sara)herunter, melden Sie sich mit Ihrem Geschäfts-, Schul- oder Unikonto an, und folgen Sie den Anweisungen in der App, um Probleme mit OneDrive for Business zu beheben. 
   
 [Weitere Schritte zur Problembehandlung](https://go.microsoft.com/fwlink/?linkid=872097)
   

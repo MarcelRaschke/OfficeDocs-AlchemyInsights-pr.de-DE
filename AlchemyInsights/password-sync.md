@@ -1,5 +1,5 @@
 ---
-title: Überprüfen des Status der Kennwortsynchronisierung
+title: So überprüfen Sie den Kennwortsynchronisierungsstatus
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66920e7bcc6880892cf1b3c3f34e7298dd6491cc79b5fd8ea6540ee10339f33e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665645"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960870"
 ---
-# <a name="enable-password-sync"></a>Aktivieren der Kennwortsynchronisierung
+# <a name="enable-password-sync"></a>Kennwortsynchronisierung aktivieren
 
-1.  Wählen Sie auf der Startseite von Microsoft 365 Admin Center die Option **Dirsync-Status** aus. 
+1.  Wählen Sie auf der Microsoft 365 Admin Center Startseite den **DirSync-Status** aus. 
     
-     *Alternativ können Sie zu " **Benutzer** \> **aktive**Benutzer" wechseln und auf der Seite "aktive Benutzer" **Weitere** \> **Verzeichnis Synchronisierungen auswählen.*** 
+     *Alternativ können Sie zu **"Aktive** \> **Benutzer"** wechseln und auf der Seite "Aktive Benutzer" die Option **"Weitere** \> **Verzeichnissynchronisierung" auswählen.*** 
     
-2. Wählen Sie im Bereich Verzeichnissynchronisierung die Option **zu Dirsync-Verwaltung wechseln**aus. 
+2. Wählen Sie im Bereich "Verzeichnissynchronisierung" die Option **"Zur DirSync-Verwaltung wechseln"** aus. 
     
 3. Jetzt sehen Sie Ihren Status und nehmen Änderungen vor:
     
-    **Kennwortsynchronisierung aktiviert:** (true oder false). Gibt an, ob die Kennwortsynchronisierung zwischen lokal und Ihrem Mandanten aktiviert ist. 
+    **Kennwortsynchronisierung aktiviert:** (True oder False). Gibt an, ob die Kennwortsynchronisierung zwischen der lokalen Umgebung und Ihrem Mandanten aktiviert ist. 
     
-    **Letzte Kennwortsynchronisierung:** (letzte Zeit, zu der die Kennwortsynchronisierung ausgeführt wurde). Dadurch wird eine Warnung und ein Link zu einem Tool zur Problembehandlung angezeigt, wenn die letzte Synchronisierung vor mehr als drei Tagen stattfand. 
+    **Last Password Sync:** (Last time password sync ran). Dadurch werden eine Warnung und ein Link zu einem Problembehandlungstool angezeigt, wenn die letzte Synchronisierung vor mehr als drei Tagen erfolgte. 
     
 

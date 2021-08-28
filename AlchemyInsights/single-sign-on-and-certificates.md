@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7809"
-ms.openlocfilehash: 7bf21eec26e7f44641faa0735cc91dec10551b6b
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: b247b6bcc24a8ed040343f22ac1b6247c76f5eb06e9111e85ba8f3d1a5fb8158
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107205"
 ---
 # <a name="seamless-single-sign-on-sso-and-certificates"></a>Nahtloses Single Sign-on (SSO) und Zertifikate
 

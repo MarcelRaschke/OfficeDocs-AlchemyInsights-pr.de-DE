@@ -2,7 +2,7 @@
 title: EDU-Überprüfung
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 309575a86155d416d587ee034fb7efe2c807e3f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a9cd94272f4103fe404bf86e519582138e6b37734e11715b72ebcd2de9d5cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710338"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946724"
 ---
 # <a name="edu-verification"></a>EDU-Überprüfung
 

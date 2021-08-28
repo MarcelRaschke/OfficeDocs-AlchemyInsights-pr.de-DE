@@ -2,7 +2,7 @@
 title: Einschränken, wer Kanäle in Microsoft Stream erstellen kann
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002650"
 - "5102"
-ms.openlocfilehash: 72c7bb969e3599f8ea87bcf11e11de5ddbb95412
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa3bf364e6303c9abcd627ee5582e88538d93b36944c2b5e5a6e1bedeee630cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958692"
 ---
 # <a name="restrict-who-can-create-channels-in-microsoft-stream"></a>Einschränken, wer Kanäle in Microsoft Stream erstellen kann
 

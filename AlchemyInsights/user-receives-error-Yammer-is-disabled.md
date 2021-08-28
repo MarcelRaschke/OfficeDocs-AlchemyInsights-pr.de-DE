@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6010"
 - "9003111"
-ms.openlocfilehash: 3a3a1b531f3d775f7e5150ce86733a3012df8d0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2e23d63338ece5332ad4fd2b2d59021eb45d9bf32632d3cc23089c919d4e402
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971230"
 ---
 # <a name="user-receives-error-aadsts7000112-yammer-is-disabled"></a>Benutzer erhält den Fehler: AADSTS7000112 Yammer ist deaktiviert
 

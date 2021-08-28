@@ -2,7 +2,7 @@
 title: Update zum Posteingang mit Relevanz und zu unseren Plänen für Clutter
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4854"
-ms.openlocfilehash: c2a9da8977ffd82829f0ea799052cf3389d6afc7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd6e1fa7ec44f79257459b3934e43c16ffc224ad32c6325347fd7fb4a19e5312
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797115"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105021"
 ---
 # <a name="update-on-focused-inbox-and-our-plans-for-clutter"></a>Update zum Posteingang mit Relevanz und zu unseren Plänen für Clutter
 

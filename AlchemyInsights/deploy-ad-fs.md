@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1300012"
 - "7420"
-ms.openlocfilehash: a304504f7483036884878639dfa6ebfc3cdfcac8
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: c4059364cd8aba920dba833c88a69413bad95a2c3b895599d9f6895b50ff73d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50165252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079629"
 ---
 # <a name="deploy-ad-fs"></a>Bereitstellen von AD FS
 
-Eine Active Directory Federation Services (AD FS)-Bereitstellung verwendet Ihre lokale Infrastruktur, um Benutzer für Office 365-Dienste zu authentifizieren. Mit der Verbund-Anmeldung können Sie Benutzern die Anmeldung bei Office 365-Diensten und Software as a Service (SAAS)-Anwendungen ermöglichen, die in Azure Active Directory (Azure AD) integriert sind. Bei der Verbund-Anmeldung werden Benutzer über AD FS bei Ihrem lokalen Active Directory authentifiziert. Außerdem müssen Benutzer im Unternehmensnetzwerk ihre Kennwörter nicht erneut einsenken.
+Eine Active Directory-Verbunddienste (AD FS)-Bereitstellung verwendet Ihre lokale Infrastruktur, um Benutzer für Office 365 Dienste zu authentifizieren. Mit der Verbundanmeldung können Sie Benutzern die Anmeldung bei Office 365 Diensten und SAAS-Anwendungen (Software as a Service) ermöglichen, die in Azure Active Directory (Azure AD) integriert sind. Die Verbundanmeldung authentifiziert Benutzer gegenüber Ihrem lokalen Active Directory über AD FS. Außerdem müssen Benutzer im Unternehmensnetzwerk ihre Kennwörter nicht erneut eingeben.
 
-Der AD FS-Bereitstellungsratgeber bietet Eine schrittweise Anleitung zur Bereitstellung einer lokalen AD FS-Infrastruktur, die Benutzer für Microsoft 365- und Office 365-Dienste authentifiziert. [](https://go.microsoft.com/fwlink/?linkid=2071178) Mit diesem Leitfaden kann Ihre Organisation AD FS-Komponenten und -Anforderungen überprüfen, für die Bereitstellung erforderliche SSL-Zertifikate erwerben und installieren sowie einen erforderlichen Webanwendungsproxyserver installieren.
+Der [AD FS-Bereitstellungsratgeber](https://go.microsoft.com/fwlink/?linkid=2071178) bietet Ihnen schrittweise Anleitungen zur Bereitstellung einer lokalen AD FS-Infrastruktur, die Benutzer für Microsoft 365 und Office 365 Dienste authentifiziert. Mit diesem Leitfaden kann Ihre Organisation AD FS-Komponenten und -Anforderungen überprüfen, SSL-Zertifikate erwerben und installieren, die für die Bereitstellung erforderlich sind, und einen erforderlichen Webanwendungsproxyserver installieren.

@@ -1,5 +1,5 @@
 ---
-title: Assistent für die Hybrid Konfiguration (HCW) Fehler ACSTS50011
+title: HCW-Fehler (Hybrid Configuration Wizard) ACSTS50011
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: 2b08a0f532d948c4417c6ddc67251ec9cb0bcc8b
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: f075c95dc831a46d313d6534e078cb298fa2212fd7cffed75a2953e7e80603a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715695"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055949"
 ---
-# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>Assistent für die Hybrid Konfiguration (HCW) Fehler ACSTS50011
+# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>HCW-Fehler (Hybrid Configuration Wizard) ACSTS50011
 
-Wenn Sie einen Assistenten für die Hybrid Konfiguration (HCW) ausführen und den Fehler **ADSTS50011 erhalten: die in der Anforderung angegebene Antwort-URL stimmt nicht mit den für die Anwendung konfigurierten Antwort-URLs überein: "a0c73c16-a7e3-4564-9a95-2bdf47383716**, Upgrade auf die neueste Version von HCW unter https://aka.ms/hybridwizard .
+Wenn Sie einen Hybridkonfigurations-Assistenten (Hybrid Configuration Wizard, HCW) ausführen und den Fehler **ADSTS50011 erhalten: Die in der Anforderung angegebene Antwort-URL stimmt nicht mit den für die Anwendung konfigurierten Antwort-URLs überein: 'a0c73c16-a7e3-4564-9a95-2bdf47383716**, upgrade to the latest version of HCW at https://aka.ms/hybridwizard .
 
 
 

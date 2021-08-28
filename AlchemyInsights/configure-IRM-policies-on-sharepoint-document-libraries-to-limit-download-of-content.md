@@ -2,7 +2,7 @@
 title: Konfigurieren von IRM-Richtlinien in SharePoint-Dokumentbibliotheken zum Einschränken des Downloads von Inhalten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5712"
-ms.openlocfilehash: 5da849e8986db271fa7ae7f0d1a99074410107b3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eacab5a9cb713250e30a6a5c0fe542d250e292f0dc29a1f890f9cf7c7fb8344c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033637"
 ---
 # <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>Konfigurieren von IRM-Richtlinien in SharePoint-Dokumentbibliotheken zum Einschränken des Downloads von Inhalten
 

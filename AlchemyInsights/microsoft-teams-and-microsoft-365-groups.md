@@ -2,7 +2,7 @@
 title: Microsoft Teams und Microsoft 365-Gruppen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002534"
 - "5126"
-ms.openlocfilehash: 43ded6946336d4bb1209fd7c1a45736de1403fd0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 54440f395c77867d458621cfeae6c2246fedcf508af089aafe2a78b63fe8a5b9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674901"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975496"
 ---
 # <a name="microsoft-teams-and-microsoft-365-groups"></a>Microsoft Teams und Microsoft 365-Gruppen
 

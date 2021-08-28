@@ -1,8 +1,9 @@
 ---
 title: Zahlungsmethoden hinzufügen, aktualisieren oder entfernen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "1500001"
 - "4858"
-ms.openlocfilehash: d4bc9fde2821a4f0d70d65617bae3998fd4c8a6b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99fe735c1976716a723f5d11792548aa79acfa1f
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714399"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451957"
 ---
 # <a name="add-update-or-remove-your-payment-methods"></a>Zahlungsmethoden hinzufügen, aktualisieren oder entfernen
 

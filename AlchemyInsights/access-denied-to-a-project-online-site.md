@@ -1,5 +1,5 @@
 ---
-title: Zugriff auf eine Project Web App Website verweigert
+title: Zugriff auf eine Project Web App-Website verweigert
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e242b42e76f234eb3287001e7ed3800f08b114f09aa93362eea215109ea7bac5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955344"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Erteilen von Berechtigungen für Benutzer in Project Online
+# <a name="give-users-permissions-in-project-online"></a>Erteilen von Benutzerberechtigungen in Project Online
 
-Erteilen Sie Benutzern den Zugriff auf eine Project Web App Website mithilfe des SharePoint-Berechtigungsmodus:
+Ermöglichen Sie Benutzern den Zugriff auf eine Project Web App-Website mit SharePoint Berechtigungsmodus:
 
-1. Melden Sie sich bei Project Online als Administrator an.
-2. Wählen Sie auf der Project Web App Startseite in der oberen rechten Ecke **Freigeben** aus.
-3. Geben Sie im Dialogfeld **Freigabe Project Web App** im Feld **Personen einladen** den Benutzernamen der Person ein, der Sie Zugriff gewähren möchten.
-4. Wählen Sie **Optionen anzeigen**aus, und wählen Sie im Menü **Berechtigungsstufe auswählen** die Option **Projektmanager für Project Web App**aus.
+1. Melden Sie sich als Administrator bei Project Online an.
+2. Wählen Sie auf der Startseite Project Web App in der oberen rechten Ecke **"Freigeben"** aus.
+3. Geben Sie im Dialogfeld **"Project Web App freigeben"** den Benutzernamen der Person ein, auf die Sie Zugriff gewähren möchten, im Feld **"Personen einladen".**
+4. Wählen Sie **Optionen anzeigen** aus, und wählen Sie im Menü **"Berechtigungsstufe auswählen"** **Project Manager für Project Web App** aus.
 5. Wählen Sie **Freigeben** aus.
 
-Wenn Sie den Project-Berechtigungsmodus verwenden oder weitere Informationen finden Sie unter [Hinzufügen von Personen zu Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Wenn Sie Project Berechtigungsmodus verwenden oder weitere Informationen finden Sie unter [Hinzufügen von Personen zu Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

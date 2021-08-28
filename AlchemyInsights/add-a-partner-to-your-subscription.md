@@ -2,7 +2,7 @@
 title: Hinzufügen eines Partners zu Ihrem Abonnement
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5066"
-ms.openlocfilehash: 3a876b70a739788768bfbabf7777d727f0a5e748
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ddd749863061e7a3a302794e874bc1e6d2588d9d589912ccc32eb37cd953d406
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936488"
 ---
 # <a name="add-a-partner-to-your-subscription"></a>Hinzufügen eines Partners zu Ihrem Abonnement
 

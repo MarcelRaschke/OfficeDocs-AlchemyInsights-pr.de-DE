@@ -2,7 +2,7 @@
 title: Grundrisse
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 33711a2f0e7b8d5e26fe8ac5f9d7c5f704f76faf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 330d778f54567ada5a2408a4e6ca1984f4380e37948e98e9ccda7c3f1c8cb30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992875"
 ---
 # <a name="floor-plans"></a>Grundrisse
 
-Informationen zu den **Microsoft-Such**  Bodenplänen finden Sie in den folgenden Supportartikeln:
-- [Bewährte Methoden für Microsoft Search-Grundrisse](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
-- [Verwalten von Grundrissen](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- Informationen zum Erstellen eines Grundrisses in  **Visio**finden Sie unter [Create a Floor Plan](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)
+Informationen zu **Microsoft Search** Grundrissen finden Sie in den folgenden Supportartikeln:
+- [Bewährte Methoden für Microsoft Search Grundrisse](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+- [Verwalten von Grundrissenplänen](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
+- Informationen zum Erstellen eines Grundrisses in Visio finden **Sie** unter ["Erstellen eines Grundrisses"](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)

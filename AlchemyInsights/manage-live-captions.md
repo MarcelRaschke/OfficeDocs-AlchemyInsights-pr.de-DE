@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6141"
 - "9003263"
-ms.openlocfilehash: 09e08aaae09811a5f60da3015c923ddd3dccf6a1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3e20411a12b0b18370283b7e167b1a5c6f0340c1e71896199805f0db6d0c0c6c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777934"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911985"
 ---
 # <a name="manage-live-captions"></a>Live-Untertitel verwalten
 

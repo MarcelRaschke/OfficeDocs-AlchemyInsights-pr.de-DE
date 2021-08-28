@@ -14,12 +14,12 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 6b4db67aab55f309c83aeddf7744cbd047881bea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ffa499fc9f645d22390cd63a994204dc5857eb02b2a0793e700d3a3e2ef50546
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011407"
 ---
 # <a name="open-and-use-a-shared-mailbox-in-outlook"></a>Öffnen und Verwenden eines geteilten Postfachs in Outlook
 

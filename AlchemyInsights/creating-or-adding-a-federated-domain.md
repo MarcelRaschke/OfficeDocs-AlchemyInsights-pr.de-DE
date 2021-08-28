@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6160"
 - "9003238"
-ms.openlocfilehash: adaf30f1426d73dd843fbc9bb1c571599f5ef394
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d2b317921303a62c83969d811ddbd0d8254a28185773778cd0432e7d5ce7eb4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103263"
 ---
 # <a name="creating-or-adding-a-federated-domain"></a>Erstellen oder Hinzufügen einer Verbunddomäne
 

@@ -1,5 +1,5 @@
 ---
-title: Haben Sie Probleme bei der Self-Service-Kennwortzurücksetzung (SSPR)?
+title: Haben Sie Probleme mit der Self-Service-Kennwortzurücksetzung (SSPR) ?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "7663"
-ms.openlocfilehash: 4f1f94be299c980a6a359d727fb24f411f98b785
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: bd76ae6b2ce140fd8feb490a5fffe1baa36598e7650107f176baec30d71b8628
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49715687"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945849"
 ---
-# <a name="having-self-service-password-reset-sspr-problems"></a>Haben Sie Probleme bei der Self-Service-Kennwortzurücksetzung (SSPR)?
+# <a name="having-self-service-password-reset-sspr-problems"></a>Haben Sie Probleme mit der Self-Service-Kennwortzurücksetzung (SSPR) ?
 
-Häufige Probleme bei der Self-Service-Kennwortzurücksetzung (SSPR) in Hybrid Cloud und lokalen Umgebungen:
+Häufige Probleme bei der Self-Service-Kennwortzurücksetzung (Self-Service Password Reset, SSPR) in hybriden Cloud- und lokalen Umgebungen sind:
 
-- [SSPR Kenn Wort Rückschreibefunktion nicht aktiviert](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
+- [SSPR-Kennwortrückschreiben nicht aktiviert](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
 - [Azure AD Premium-Lizenz nicht zugewiesen](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
-- [Azure AD Verbindungsprobleme](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) oder [Netzwerkprobleme](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
+- [Azure AD Verbinden Probleme](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) oder [Netzwerkprobleme](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
 - [SSPR-Authentifizierungsmethoden nicht registriert](https://mysignins.microsoft.com/security-info)
-- Nicht [unterstützte Rück schreibe Szenarien](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) wie Microsoft 365 Admin Center oder Administratoren, die SSPR verwenden
+- [Nicht unterstützte Rückschreibszenarien](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) wie Microsoft 365 Admin Center oder Administratoren, die SSPR verwenden
 
 
 Weitere Informationen finden Sie unter:

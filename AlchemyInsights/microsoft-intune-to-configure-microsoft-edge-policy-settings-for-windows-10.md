@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren von Microsoft-Edge-Richtlinieneinstellungen für Windows 10 mithilfe von Microsoft InTune
+title: Verwenden von Microsoft Intune zum Konfigurieren Microsoft Edge Richtlinieneinstellungen für Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,18 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003843"
+- "9004632"
 - "7096"
-ms.openlocfilehash: e526d25aeb70ca7d89225c7f8db87f465afc903b
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8365"
+ms.openlocfilehash: 7b044a17c06522bd0cc97eef10841754833f7ae04fb25e9951c1d9df7e93f6f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617541"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114135"
 ---
-# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Konfigurieren von Microsoft-Edge-Richtlinieneinstellungen für Windows 10 mithilfe von Microsoft InTune
+# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>Verwenden von Microsoft Intune zum Konfigurieren Microsoft Edge Richtlinieneinstellungen für Windows 10
 
-Sie können Microsoft-Edge-Richtlinien und-Einstellungen konfigurieren, indem Sie Microsoft InTune ein Geräte Konfigurationsprofil hinzufügen. Dies entspricht dem Konfigurieren von Microsoft Azure Active Directory Gruppenrichtlinien oder Gruppenrichtlinienobjekteinstellungen (GPO) auf den Benutzergeräten.
+Sie können Microsoft Edge Richtlinien und Einstellungen konfigurieren, indem Sie ein Gerätekonfigurationsprofil zu Microsoft Intune hinzufügen. Dies entspricht der Konfiguration von Microsoft Azure Active Directory Gruppenrichtlinien oder lokalen Gruppenrichtlinienobjekteinstellungen (GPO) auf Benutzergeräten.
 
 Weitere Informationen finden Sie unter [Erstellen eines Profils zum Verwalten von Einstellungen in Microsoft Edge für Windows 10](https://go.microsoft.com/fwlink/?linkid=2133700).
 
-Dieser Artikel bezieht sich auf Microsoft-Edge-Versionen 77 und höher.
+Dieser Artikel bezieht sich auf Microsoft Edge Versionen 77 und höher.

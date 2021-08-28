@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7931"
 - "9004400"
-ms.openlocfilehash: 51e0bd78240627876721cbce654188afac1ee365
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
+ms.openlocfilehash: cf8ea7d73adf36f71ae92abad48ef9b664eb0c96094a38750c86cf42958b5323
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49884592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994756"
 ---
 # <a name="unable-to-enable-aad-ds-or-deployment-is-failing"></a>AAD-DS kann nicht aktiviert werden oder die Bereitstellung schlägt fehl
 

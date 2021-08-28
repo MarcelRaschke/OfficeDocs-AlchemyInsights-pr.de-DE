@@ -2,7 +2,7 @@
 title: Rechtschreibprüfung für Dokumente
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002912"
 - "5590"
-ms.openlocfilehash: 7a811473a6653c066b402f466abb99591dd6e1d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0db7c6bfd6b73c8cf8642493ea1c2c55fa238b20b7f9e029d290339b9b30c126
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758207"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909861"
 ---
 # <a name="spell-check-documents"></a>Rechtschreibprüfung für Dokumente
 

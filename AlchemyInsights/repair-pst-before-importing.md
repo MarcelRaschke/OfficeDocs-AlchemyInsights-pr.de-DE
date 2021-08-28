@@ -1,5 +1,5 @@
 ---
-title: PST-Datei vor dem Import reparieren
+title: Reparieren von PST- oder OST-Dateien
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,25 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 1ed37192a6b054b745fd48fbc01a6b00fa7074ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a676953f5757a9e474ce0b65c2ddcf921322ba47ab93016aa05f23c8a70d8d24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799095"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053105"
 ---
-# <a name="repair-pst-file-before-importing"></a>PST-Datei vor dem Import reparieren
+# <a name="repair-pst-or-ost-files"></a>Reparieren von PST- oder OST-Dateien
 
-Überprüfen Sie vor dem Importieren einer PST-Datei in Outlook, ob die Datei nicht beschädigt ist, indem Sie die Datei reparieren:
+Stellen Sie sicher, dass die Datei nicht beschädigt ist, indem Sie die Datei reparieren:
 
 1. Beenden Sie Outlook.
 
-2. Suchen und Ausführen `Scanpst.exe` im Office-Programmordner (c:\Program Files (x86) \Microsoft Office\root\Office \<Version\> oder c:\Program Files\Microsoft Office\root\Office \<Version\> ).
+2. Suchen und ausführen `Scanpst.exe` im Office Programmordner (C:\Programme (x86)\Microsoft Office\root\Office oder \<Version\> C:\Programme\Microsoft Office\Root\Office \<Version\> ).
 
-3. Klicken Sie im **Microsoft Outlook Posteingangsreparatur**auf **Durchsuchen** , um die PST-Datei zu suchen (beispielsweise in C:\Users \\<username \> \AppData\Local\Microsoft\Outlook). Wählen Sie die PST-Datei aus, und klicken Sie dann auf **Öffnen**.
+3. Klicken Sie im **Microsoft Outlook Posteingangsreparaturtool** auf **"Durchsuchen",** um die PST- oder OST-Datei zu suchen (z. B. unter "C:\Benutzer \\<Benutzername \> \AppData\Local\Microsoft\Outlook"). Wählen Sie die Datei aus, und klicken Sie dann auf **"Öffnen".**
 
-4. Klicken Sie auf **Start** , um die Überprüfung zu starten.
+4. Klicken Sie auf **"Start",** um mit der Überprüfung zu beginnen.
 
-5. Wenn in der Datei Fehler gefunden werden, klicken Sie auf **Reparieren**, und klicken Sie dann auf **OK** , wenn die Reparatur abgeschlossen ist.
+5. Wenn Fehler in der Datei gefunden werden, klicken Sie auf **"Reparieren"** und dann auf **"OK",** wenn die Reparatur abgeschlossen ist.
 
-6. Versuchen Sie erneut, die PST-Datei in Outlook zu importieren.
-
-Weitere Informationen finden Sie unter [Reparieren von Outlook-Datendateien](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) und [Beheben von Problemen beim Importieren einer PST-Datei in Outlook.](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
+Weitere Informationen finden Sie unter [Reparieren Outlook Datendateien](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) und [Beheben von Problemen beim Importieren einer Outlook PST-Datei.](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)

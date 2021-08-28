@@ -1,5 +1,5 @@
 ---
-title: 2637 umgehen der Spamfilterung zum Zulassen bestimmter Nachrichten?
+title: 2637 Spamfilterung umgehen, um bestimmte Nachrichten zuzulassen?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa9ee7cd7710517dfcc441cd931b9f427474869ad49ed0fa0a91a06e06682ed7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684877"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059559"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Spamfilterung umgehen, um bestimmte Nachrichten zuzulassen?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Umgehen der Spamfilterung, um bestimmte Nachrichten zuzulassen?
 
-Es wird empfohlen, beim Erstellen einer Zulassungsliste [Vorsicht walten](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) zu lassen. Wenn Sie beispielsweise Ihre eigene Domäne zulassen, können böswillige Absender Spoofing als Ihre Domäne senden und diese senden.  Stattdessen wird dieser Leitfaden zur [Fehlerbehebung bei falsch positiven Lösungen](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)empfohlen, mit dem Sie ermitteln können, warum eine legitime Nachricht als Spam markiert wurde, und wie Sie die Zustellung der Nachricht sicher zuzulassen haben.
+Es wird [Vorsicht](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) empfohlen, wenn Sie eine Zulassungsliste erstellen. Wenn Sie beispielsweise Ihre eigene Domäne zulassen, können böswillige Absender spoofen und als Domäne senden.  Stattdessen empfehlen wir diese Anleitung zur [Problembehandlung](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)mit falsch positiven Ergebnissen, die Ihnen hilft zu bestimmen, warum eine seriöse Nachricht als Spam gekennzeichnet wurde und was Sie tun können, um die Zustellung der Nachricht sicher zuzulassen.

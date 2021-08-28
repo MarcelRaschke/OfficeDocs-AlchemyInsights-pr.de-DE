@@ -2,7 +2,7 @@
 title: Freigeben Ihrer Videos in Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 622431bc1a06a4f0f919df840320890f99f3eb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8c3a460495eec8b813effa6afef97f75f25545c5ba89e76c123b6273e1a9025
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727314"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108159"
 ---
 # <a name="share-your-videos-in-microsoft-stream"></a>Freigeben Ihrer Videos in Microsoft Stream
 
-Möglicherweise möchten Sie Videos in Microsoft Stream für Personen freigeben, die sonst keinen Zugriff haben. Es gibt verschiedene Möglichkeiten, Ihre Videos freizugeben:
+Möglicherweise möchten Sie Videos in Microsoft Stream für Personen freigeben, die ansonsten keinen Zugriff haben. Es gibt verschiedene Möglichkeiten, Ihre Videos freizugeben:
 
 - [Freigeben Ihrer Videos in Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
 

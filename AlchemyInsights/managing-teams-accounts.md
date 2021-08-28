@@ -2,7 +2,7 @@
 title: Teams-Konten verwalten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003572"
 - "6659"
-ms.openlocfilehash: 227bddf2d37190f0b70092b4169349fbe5386c3c
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 9b6f07569bcf5bab3f39f813fb6c6818882335ecab1fe09a1e65f2e06ff2edd5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334108"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066651"
 ---
 # <a name="managing-teams-accounts"></a>Teams-Konten verwalten
 

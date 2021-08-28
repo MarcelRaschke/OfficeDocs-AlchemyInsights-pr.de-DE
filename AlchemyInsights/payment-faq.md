@@ -3,21 +3,23 @@ title: Häufig gestellte Fragen – Zahlung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
-- commerce
+- commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 6368b0c19b84cfb9b55de2993a7beadd32d383fa
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152460"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895706"
 ---
 # <a name="payment-faq"></a>Häufig gestellte Fragen – Zahlung
 

@@ -1,5 +1,5 @@
 ---
-title: Probleme beim Zugriff auf Bereiche des Microsoft Defender ATP-Portals
+title: Probleme beim Zugriff auf Abschnitte des Microsoft Defender für Office 365-Portals
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49c04aae6f4c6b270fe274b9911ddfa263495891
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "49768392"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323075"
 ---
-# <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a>Probleme beim Zugriff auf Bereiche des Microsoft Defender ATP-Portals
+# <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a>Probleme beim Zugriff auf Abschnitte des Microsoft Defender für Office 365-Portals
 
 Wenn im Dashboard des Portals und anderen Bereichen eine Fehlermeldung wie „Daten sind derzeit nicht verfügbar“ angezeigt werden, ist es wahrscheinlich, dass bestimmte URL-Domänen und alle Subdomänen in Ihrer Organisation erlaubt und für die Kommunikation offen sind. 
 

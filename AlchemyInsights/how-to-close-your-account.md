@@ -1,7 +1,8 @@
 ---
 title: So schließen Sie Ihr Konto
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+ms.reviewer: jkinma, jmueller
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,14 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
+- commerce_subscriptions
 - "9002317"
 - "4502"
-ms.openlocfilehash: ea6a54b8eb64b54def4d8b8360f3f7cafba88afc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 09/14/2020
+ms.openlocfilehash: 32d8cc921204d040ace8a6edcdd1b072b564829d
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780814"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451021"
 ---
 # <a name="how-to-close-your-account"></a>So schließen Sie Ihr Konto
 

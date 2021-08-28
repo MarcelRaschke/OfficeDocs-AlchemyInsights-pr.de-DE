@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: ea4e9f4f41629f4207be6ff56f3ff8f7a4989cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f48e158e8ddf682df8d8748b929b3d4d687d5b183254c64116834210a238020d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915334"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Das Feld "Notizen" für einen Kontakt in Outlook kann nicht bearbeitet werden.
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Das Notizenfeld für einen Kontakt kann in Outlook
 
-Dies ist ein bekanntes Problem. Wir arbeiten daran, es zu beheben, und Sie können den aktuellen Status unter [kann das Feld Notizen für einen Kontakt nicht bearbeiten](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)angezeigt werden.
+Dies ist ein bekanntes Problem. We're working to fix it and you can see the latest status at [Can't edit the notes field for a contact](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
 
-**Problemumgehung**: Wenn Sie ein Microsoft 365-oder ein Outlook.com-Konto verwenden, können Sie Ihre Kontakte über das Internet bearbeiten. Wenn Sie ein IMAP-oder POP-Konto verwenden, ist zu diesem Zeitpunkt keine Problemumgehung verfügbar.
+**Problemumgehung:** Wenn Sie ein Microsoft 365- oder ein Outlook.com-Konto verwenden, können Sie Ihre Kontakte mithilfe des Webs bearbeiten. Wenn Sie ein IMAP- oder POP-Konto verwenden, ist derzeit keine Problemumgehung verfügbar.

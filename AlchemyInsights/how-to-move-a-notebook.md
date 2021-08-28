@@ -1,8 +1,8 @@
 ---
-title: Vorgehensweise zum Verlegen eines Notizbuchs
+title: So verschieben Sie ein Notizbuch
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2495"
 - "9000580"
-ms.openlocfilehash: d6cc387f5d1cd8293ce85b65d4a0e5b024c71daf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2846a1102e4d6441f6fe288a338190a98ad568e0204835f0c1e1f4ea634cf56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043025"
 ---
-# <a name="how-to-move-a-onenote-notebook"></a>Vorgehensweise zum Migrieren eines OneNote-Notizbuchs
+# <a name="how-to-move-a-onenote-notebook"></a>So verschieben Sie ein OneNote Notizbuch
 
-* Um ein OneNote-Notizbuch in OneDrive zu migrieren, wechseln Sie zu **Datei**  >  **Freigabe**-Arbeits  >  **Mappen** in OneNote 2016. Weitere Informationen finden Sie unter [Migrieren eines OneNote-Notizbuchs zu OneDrive](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) .
+* Um ein OneNote Notizbuch in OneDrive zu verschieben, wechseln Sie  >  zu "Verschieben von Notizbüchern mit **Dateifreigabe"**  >   in OneNote 2016. Weitere Informationen finden Sie unter [Verschieben eines OneNote Notizbuchs in OneDrive.](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082)
 
-* Weitere Informationen zu bewährten Methoden beim Vorbereiten des Verschiebe-Notebooks finden Sie unter [OneNote syncing Best Practices](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices).
+* Weitere Informationen zu bewährten Methoden beim Vorbereiten des Verschiebens von Notizbüchern finden Sie [unter OneNote Synchronisierung bewährter Methoden.](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices)
 
-* [Verschieben eines OneNote für Windows-Notizbuch, das Sie für andere Personen freigegeben haben](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) Weitere Informationen zum Verschieben freigegebener Notizbücher.
+* [Das Verschieben eines OneNote für Windows Notizbuch, das Sie für andere freigegeben haben,](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) bietet weitere Informationen zum Verschieben freigegebener Notizbücher.

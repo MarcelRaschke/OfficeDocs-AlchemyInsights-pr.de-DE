@@ -2,7 +2,7 @@
 title: Hinweis "Produkt deaktiviert" in Microsoft 365-Apps
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: f9dfc189bb2e0319f87164d2ae2ea30c47a1a94a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ce04d7e30a7c46312d06eb1e2a15e267a93a8494
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805678"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800537"
 ---
 # <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Hinweis "Produkt deaktiviert" in Microsoft 365-Apps
 

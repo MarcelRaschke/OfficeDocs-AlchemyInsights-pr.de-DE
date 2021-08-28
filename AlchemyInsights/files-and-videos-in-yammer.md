@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6040"
 - "9003112"
-ms.openlocfilehash: c5f2b7f6ac4686bc9ef81c38525994d032a57f78
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5b58ffe7669a08fab9f4e1c4fdf8d9415b66bd3355608d474f8c3fc398b1e7d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745201"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117123"
 ---
 # <a name="files-and-videos-in-yammer"></a>Dateien und Videos in Yammer
 

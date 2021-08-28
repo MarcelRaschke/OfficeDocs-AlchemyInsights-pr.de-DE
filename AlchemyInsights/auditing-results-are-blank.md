@@ -12,23 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: c72d3623dc2deaf28892513e268db4e1a8d8f228
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d63158872c817ea6b856378367acc6f41f41e055
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715236"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313841"
 ---
 # <a name="auditing-results-are-blank"></a>Überwachungsergebnisse sind leer
 
- **Überwachungsberichte für klassische Websites**
+**Überwachungsberichte für klassische Websites**
   
-Wenn Sie einen Überwachungsbericht für eine SharePoint-Websitesammlung anzeigen möchten, müssen Sie ein Administrator für die Websitesammlung sein. Wenn Sie sich selbst als Administrator hinzufügen möchten, lesen Sie [Hinzufügen von Websitesammlungsadministratoren als globaler oder SharePoint](https://go.microsoft.com/fwlink/?linkid=869390)-Administrator. Informationen zum Arbeiten mit dem Überwachungsprotokoll finden Sie unter [View Audit Log Reports](https://go.microsoft.com/fwlink/?linkid=395237). 
+Um einen Überwachungsbericht für eine SharePoint Websitesammlung anzuzeigen, müssen Sie ein Administrator für die Websitesammlung sein. Informationen zum Hinzufügen als Administrator finden Sie unter [Verwalten von Websiteadministratoren.](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators) Informationen zum Arbeiten mit dem Überwachungsprotokoll finden Sie unter Anzeigen von [Überwachungsprotokollberichten.](https://support.microsoft.com/office/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
   
- **Durchsuchen des Überwachungsprotokolls**
+**Durchsuchen des Überwachungsprotokolls**
   
-Sie müssen ein globaler Administrator sein, um mit dem Überwachungsprotokoll im [Security &amp; Compliance Center](https://protection.office.com)arbeiten zu können. Aktivieren Sie zunächst die Überwachungsprotokollierung. Anschließend können Sie eine Überwachungsprotokoll Suche ausführen. 
+Sie müssen ein globaler Administrator sein, um mit dem Überwachungsprotokoll im Microsoft 365 Compliance Center at oder im portal Microsoft 365 Defender unter zu <https://compliance.microsoft.com/auditlogsearch> <https://security.microsoft.com/auditlogsearch> arbeiten. Bevor Sie beginnen, aktivieren Sie die Überwachungsprotokollierung. Anschließend können Sie eine Überwachungsprotokollsuche ausführen.
   
-[Hier erfahren Sie, wie Sie das Überwachungsprotokoll durchsuchen](https://go.microsoft.com/fwlink/?linkid=708432).
-  
-
+[Erfahren Sie, wie Sie das Überwachungsprotokoll durchsuchen.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)

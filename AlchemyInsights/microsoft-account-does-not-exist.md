@@ -2,7 +2,7 @@
 title: Microsoft-Konto ist nicht vorhanden
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "5071"
-ms.openlocfilehash: 6cc56c62ef9c7d61e121d9236ef58f090287991e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef3833f52081ed954867cdbb9a8e98cbea267e1f3d6bc88eff93c09550a00805
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098241"
 ---
 # <a name="microsoft-account-does-not-exist"></a>Microsoft-Konto ist nicht vorhanden
 

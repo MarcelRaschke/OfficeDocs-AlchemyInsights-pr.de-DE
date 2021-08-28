@@ -1,8 +1,8 @@
 ---
-title: Blockieren der Legacy Authentifizierung für Azure AD mit bedingtem Zugriff
+title: Blockieren der Legacyauthentifizierung bei Azure AD mit bedingtem Zugriff
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5906"
 - "9003122"
-ms.openlocfilehash: a0bbea487d2ea34c2e4987218eea1276bc34b243
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29630b707a7f391b5a42dfc02e802f7d5f69d1a11137a6cb1b3413aa7e35ec3c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685489"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968916"
 ---
-# <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a>Blockieren der Legacy Authentifizierung für Azure AD mit bedingtem Zugriff
+# <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a>Blockieren der Legacyauthentifizierung bei Azure AD mit bedingtem Zugriff
 
 Empfohlene Dokumente:
 
-- [Blockieren der Legacy Authentifizierung für Azure AD mit bedingtem Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication#next-steps)
-- [Blockieren des Zugriffs beim Erkennen eines Sitzungs Risikos mit Azure Active Directory bedingtem Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)
+- [Blockieren der Legacyauthentifizierung bei Azure AD mit bedingtem Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication#next-steps)
+- [Zugriff blockieren, wenn ein Sitzungsrisiko mit Azure Active Directory bedingten Zugriff erkannt wird](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)

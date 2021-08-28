@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365-falsche Dashboard-Shows in Dynamics 365 Unified Interface
+title: Dynamics 365 – Falsche Dashboard-Shows in Dynamics 365 Unified Interface
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,35 +10,35 @@ localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1edb2a7e9e0c270c7e98eb43d2f6514d70c39a19ea97d189322ca387b6842a18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711274"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101481"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Falsche Dashboard-Anzeige in Dynamics 365 Unified Interface
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Falsches Dashboard in der einheitlichen Dynamics 365-Schnittstelle
 
-Es gibt mehrere Gründe, aus denen Sie ein anderes Dashboard als das erwartete anzeigen können:
+Es gibt mehrere Gründe, warum Sie möglicherweise ein anderes Dashboard sehen als das, das Sie erwarten:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Der Benutzer hat ein Standarddashboard für Benutzer festgelegt. 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Der Benutzer hat ein Benutzerstandarddashboard festgelegt. 
 
-Normalerweise können Sie angeben, dass ein Benutzer Standarddashboard festgelegt wird, wenn die Schaltfläche **als Standard festlegen** in der Befehlsleiste des Dashboards nicht angezeigt wird. Das Standarddashboard des Benutzers setzt alle anderen Standard Dashboards außer Kraft, auch wenn sich das Standarddashboard des Benutzers nicht in der aktuellen App befindet.
+In der Regel können Sie festlegen, dass ein Benutzerstandarddashboard festgelegt ist, wenn die Schaltfläche **"Als Standard festlegen"** nicht in der Dashboard-Befehlsleiste angezeigt wird. Das Standarddashboard des Benutzers überschreibt alle anderen Standarddashboards, auch wenn sich das Standarddashboard des Benutzers nicht in der aktuellen App befindet.
 
-Verwenden Sie die folgende Problemumgehung, um Ihr Standarddashboard zu löschen.
+Verwenden Sie die folgende Problemumgehung, um das Standarddashboard aufzuheben.
 
 1. Erstellen Sie ein neues persönliches Dashboard.
 
-2. Legen Sie das neue Dashboard als Benutzer Standard fest.
+2. Legen Sie dieses neue Dashboard als Benutzerstandard fest.
 
-3. Löschen Sie das Dashboard.
+3. Löschen Sie dieses Dashboard.
 
 ## <a name="the-dashboard-is-set-in-the-sitemap"></a>Das Dashboard wird in der Sitemap festgelegt.
 
-Sie haben möglicherweise ein Standarddashboard für die Organisation festgelegt, indem Sie ein Dashboard auswählen und "als Standard festlegen" unter "System anpassen" auswählen. Das im Sitemap-Designer definierte Dashboard hat jedoch Vorrang vor diesem Dashboard, wenn der Benutzer darauf zugreifen kann.
+Möglicherweise haben Sie ein Standarddashboard der Organisation festgelegt, indem Sie ein Dashboard und unter "System anpassen" die Option "Als Standard festlegen" ausgewählt haben. Das im Sitemap-Designer definierte Dashboard hat jedoch Vorrang vor diesem Dashboard, wenn der Benutzer Darauf zugreifen kann.
 
-Um Benutzern das als Organisationsstandard festgelegte Dashboard anzuzeigen, können Sie entweder:
+Damit Benutzern das Dashboard angezeigt wird, das Sie als Standard für die Organisation festgelegt haben, können Sie die folgenden Aktionen ausführen:
 
-* Festlegen des Dashboards in der Sitemap
+* Festlegen dieses Dashboards in der Sitemap
 
-* Entfernen des Zugriffs auf das definierte Sitemap-Dashboard für diese Benutzer
+* Entfernen des Zugriffs auf das von sitemap definierte Dashboard für diese Benutzer

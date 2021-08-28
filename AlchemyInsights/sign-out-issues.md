@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7793"
 - "9004355"
-ms.openlocfilehash: 794e5c43340ba4b5c653eda4c11b4480cd3fa710
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: 938db30acc4a26bd3d0e585090c2f4ba55403b987114ef139fa74d4c2433a219
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886845"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050729"
 ---
 # <a name="sign-out-issues"></a>Abmeldeprobleme
 

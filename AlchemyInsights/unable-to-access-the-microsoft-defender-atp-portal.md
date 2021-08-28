@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6030"
 - "9001222"
-ms.openlocfilehash: 1f8c52b4de1e5972c52428e947aac72bfd25426d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7c89101624deec1aed566e833634917207204ad04021175a131a0f14f79317f6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757687"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899279"
 ---
 # <a name="unable-to-access-the-microsoft-defender-atp-portal"></a>Auf das Microsoft Defender ATP-Portal kann nicht zugegriffen werden
 

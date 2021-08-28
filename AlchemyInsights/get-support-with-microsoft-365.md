@@ -2,7 +2,7 @@
 title: Anfordern von Support für Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "4503"
 - "9002471"
 - "4818"
-ms.openlocfilehash: c925d1dd6d11f1fbd31eaa05a2d876c84b3e23b7
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 55f420ce477e4c22eba15e3eccd0db8647c17d29e20ccf39ee01f62f151db5c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993568"
 ---
 # <a name="get-support-with-microsoft-365"></a>Anfordern von Support für Microsoft 365
 

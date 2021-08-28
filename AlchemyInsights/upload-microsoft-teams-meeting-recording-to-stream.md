@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6184"
 - "9002643"
-ms.openlocfilehash: 5c03d4863916c18cc25983b260d15e73c90530c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c77d02ed2833c75763be355dfbc7c3777f667aeadc2efa2795afaf3f6d5445e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971770"
 ---
 # <a name="upload-a-microsoft-teams-meeting-recording-to-stream-a1"></a>Hochladen einer Microsoft Teams-Besprechungsaufzeichnung in Stream (A1)
 

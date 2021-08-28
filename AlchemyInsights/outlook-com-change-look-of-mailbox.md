@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Ändern des Erscheinungsbild Ihres Postfachs
+title: Outlook.com ändern Sie das Erscheinungsbild Ihres Postfachs.
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802560"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096477"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Ändern des Erscheinungsbild Ihres Outlook.com-Postfachs
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Ändern des Aussehens Ihres Outlook.com-Postfachs
 
 Sie können die Darstellung der Nachrichtenliste und des Lesebereichs in Outlook.com ändern.
 
-- Um das Layout des Nachrichtenfensters zu ändern, öffnen Sie die [Lesebereich](https://outlook.live.com/mail/options/mail/layout/readingPane) -Optionen.
-- Um zu ändern, wie Ihre e-Mail sortiert wird, wählen Sie oben in der Nachrichtenliste **Filter**  >  **Sortieren nach** aus, und wählen Sie aus, wie Ihre e-Mails sortiert werden sollen.
-- Wenn Sie Ihre Nachrichten nach Unterhaltung gruppieren möchten, öffnen Sie die Optionen für die [Nachrichtenorganisation](https://outlook.live.com/mail/options/mail/layout/conversations) .
-- Wenn Sie den fokussierten Posteingang aktivieren oder deaktivieren möchten, öffnen Sie die [Layoutoptionen](https://outlook.live.com/mail/options/mail/layout/focused) .
+- Um das Layout des Nachrichtenfensters zu ändern, öffnen Sie die [Lesebereichsoptionen.](https://outlook.live.com/mail/options/mail/layout/readingPane)
+- Um zu ändern, wie Ihre E-Mail sortiert wird, wählen Sie oben in der Nachrichtenliste die Option   >  **"Filtern sortieren" aus,** und wählen Sie aus, wie Sie Ihre E-Mail sortieren möchten.
+- Um Ihre Nachrichten nach Unterhaltung zu gruppieren, öffnen Sie die Optionen Ihrer [Nachrichtenorganisation.](https://outlook.live.com/mail/options/mail/layout/conversations)
+- Um den Posteingang mit Relevanz zu aktivieren oder zu deaktivieren, öffnen Sie Ihre [Layoutoptionen.](https://outlook.live.com/mail/options/mail/layout/focused)

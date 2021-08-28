@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1862"
 - "9000263"
-ms.openlocfilehash: 1870f46d80f6cb7fa54f8a3ed4ceb942d74723ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 22ae3b33610ef0338a246e3c70aab0fd7de2664d5b0cc93ad80abb329430c14a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914542"
 ---
 # <a name="data-streamer-add-in-for-excel"></a>Datenstreamer-Add-In für Excel
 

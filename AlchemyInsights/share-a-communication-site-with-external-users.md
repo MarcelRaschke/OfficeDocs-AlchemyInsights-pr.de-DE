@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d91b7a6ec18764ca194e42b90741c01699fddf8d068826fbdba8a1daee5da4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108303"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>Freigeben einer Kommunikationswebsite für externe Benutzer
 
-Führen Sie die folgenden Schritte aus, um die externe Benutzer Freigabe für Kommunikationswebsites zu aktivieren: 
+Gehen Sie folgendermaßen vor, um die Freigabe externer Benutzer für Kommunikationswebsites zu aktivieren: 
   
-1. Öffnen Sie das **moderne Admin Center** -Wenn Sie sich im klassischen Admin Center befinden, sehen Sie **es jetzt testen** oder * * testen Sie die Vorschau * *-Schaltfläche von oben rechts. Dadurch gelangen Sie zum modernen Admin Center. 
+1. Öffnen Sie das **moderne Admin Center** – Wenn Sie sich im klassischen Admin Center befinden, wird die Schaltfläche **"Jetzt testen"** angezeigt, oder ** "Vorschau testen" von oben rechts. Dadurch gelangen Sie zum modernen Admin Center. 
   
-2. Wählen Sie **aktive Websites aus.**
+2. Wählen Sie **"Aktive Websites" aus.**
   
-3. Wählen Sie eine Website mit einer **Kommunikationswebsite Vorlage**aus. 
+3. Wählen Sie eine Website mit einer **Kommunikationswebsitevorlage** aus. 
   
-4. Wählen Sie im oberen Menü die Schaltfläche **Freigabe** aus. 
+4. Wählen Sie im oberen Menü die Schaltfläche **"Freigabe"** aus. 
   
- **Hinweis:** Wenn Sie mehr als eine Website ausgewählt haben, wird die **Freigabe** Schaltfläche deaktiviert angezeigt. Wählen Sie nur einen Standort aus. 
+ **Hinweis:** Wenn Sie mehrere Websites ausgewählt haben, wird die Schaltfläche **"Freigabe"** deaktiviert angezeigt. Wählen Sie nur eine Website aus. 
   
 

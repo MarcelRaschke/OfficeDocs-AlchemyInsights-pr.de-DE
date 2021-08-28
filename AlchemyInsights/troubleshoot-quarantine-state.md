@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7853"
 - "9004348"
-ms.openlocfilehash: 3ee932b7788f4aff3c8bc762c5c917124edfe065
-ms.sourcegitcommit: 953a8567ebcd9835f8c5c49472b223107c92549b
+ms.openlocfilehash: f68ae572f9236a296d84636ece2277f5bac2648c60ad1a79839a9163e200080b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49935372"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105711"
 ---
 # <a name="troubleshoot-quarantine-state"></a>Problembehandlung des Quarantänestatus
 

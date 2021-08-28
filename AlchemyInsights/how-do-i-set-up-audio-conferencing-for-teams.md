@@ -2,7 +2,7 @@
 title: Einrichten von Audiokonferenzen für Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 61312e3b74e41c4474ac89eeeee8bc6e75372fa8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ad0a26430168ea26ad08a5faf911c0fc439588f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781534"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333066"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Audiokonferenzen
 
@@ -40,4 +40,4 @@ Wenn [Lizenzen erworben wurden](https://docs.microsoft.com/microsoftteams/set-up
 
 7. Wählen Sie den betreffenden Benutzer aus, und vergewissern Sie sich, dass er über eine **gebührenpflichtige Standardnummer** verfügt.
 
-Wenn Sie weitere Hilfe beim Erwerb von Lizenzen für **Microsoft 365-Audiokonferenz** benötigen, rufen Sie den [Microsoft Support für Abrechnungen](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support) an.
+Wenn Sie weitere Hilfe beim Erwerb von Lizenzen für **Microsoft-Audiokonferenzen** benötigen, wenden Sie sich an den [Microsoft Support für Abrechnungen](https://go.microsoft.com/fwlink/p/?linkid=518322).

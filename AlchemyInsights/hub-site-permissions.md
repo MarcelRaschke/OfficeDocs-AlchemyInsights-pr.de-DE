@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6871"
 - "5300012"
-ms.openlocfilehash: 7c59df81f99084d0388e1683afef17781966090d
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 281d4b4d878e5c128e27ef2f586521d7d81744e5a43c88ceef52c6aceeabf0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791539"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078297"
 ---
 # <a name="hub-site-permissions"></a>Hubwebsite-Berechtigungen
 

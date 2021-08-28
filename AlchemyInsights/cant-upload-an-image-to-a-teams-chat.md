@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49936216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930800"
 ---
 # <a name="cant-upload-an-image-to-a-teams-chat"></a>Ein Bild kann nicht in einen Teams-Chat hochgeladen werden
 
 Vorschläge zur Problembehandlung:
 
-- Wenn Sie Teams im Web verwenden, probieren Sie einen anderen Browser aus. Eine Liste der unterstützten Browser finden Sie im Abschnitt "Browser" in den Grenzwerten und Spezifikationen [für Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)
-- Überprüfen Sie die Kompatibilität der Hardware und des Betriebssystems. Weitere Informationen finden Sie unter [Hardwareanforderungen für Microsoft Teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
-- Überprüfen Sie, ob Sie über die neueste Version von Teams verfügen. Weitere Informationen finden Sie im [Updateprozess für Teams.](https://docs.microsoft.com/microsoftteams/teams-client-update)
+- Wenn Sie Teams im Web verwenden, versuchen Sie einen anderen Browser. Eine Liste der unterstützten Browser finden Sie im Abschnitt "Browser" der [Grenzwerte und Spezifikationen für Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)
+- Überprüfen Sie die Kompatibilität ihrer Hardware und Ihres Betriebssystems. Weitere Informationen finden Sie unter [Hardwareanforderungen für Microsoft Teams.](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app)
+- Überprüfen Sie, ob Sie über die neueste Teams Version verfügen. Weitere Informationen finden Sie unter [Teams Updateprozess.](https://docs.microsoft.com/microsoftteams/teams-client-update)

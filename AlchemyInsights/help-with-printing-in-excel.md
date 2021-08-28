@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2715"
 - "9000773"
-ms.openlocfilehash: 53eada8da3f9695e067aa45d7db6e98080e7a33c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4771cd514e467f002c4517789a4ef8f1f77822b0b4d0884632cafb98b60e470
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015835"
 ---
 # <a name="help-with-printing-in-excel"></a>Hilfe beim Drucken in Excel
 

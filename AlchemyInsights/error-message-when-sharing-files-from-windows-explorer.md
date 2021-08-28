@@ -12,20 +12,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516f72930765cfc5a48ad4f9182b1e90f342d8866ecb03767772f47676911d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783838"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030091"
 ---
 # <a name="error-message-when-sharing-files-from-windows-explorer"></a>Fehlermeldung beim Freigeben von Dateien aus Windows Explorer
 
-Beim Versuch, aus Windows Explorer freizugeben, wird möglicherweise die folgende Fehlermeldung angezeigt:
+Wenn Sie versuchen, Windows Explorer freizugeben, wird möglicherweise die folgende Fehlermeldung angezeigt:
   
-"Es tut uns leid, wir können den Server jetzt nicht erreichen. Versuchen Sie es später erneut. "
+"Leider können wir den Server derzeit nicht erreichen. Versuchen Sie es später erneut".
   
-Um die Fehlermeldung zu beheben, klicken Sie unter Internet Explorer wechseln Sie zu **Extras** \> **Internet Optionen** \> auf die Registerkarte **erweitert** , und deaktivieren Sie dann das Kontrollkästchen **verschlüsselte Seiten nicht speichern auf dem Datenträgerspeichern**.
+Um die Fehlermeldung **zu** beheben, wechseln Sie von Internet Explorer zu \> **"Extras Internetoptionen"** auf die Registerkarte \> **"Erweitert",** und deaktivieren Sie dann das Kontrollkästchen **"Verschlüsselte Seiten nicht auf Datenträger speichern"** deaktivieren.
   
- **Hinweis**: möglicherweise müssen Sie den Browser neu starten, damit die Einstellung wirksam wird. Weitere Informationen finden Sie unter ["Fehler beim Erreichen des Servers im Moment" beim Freigeben von Dateien](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Hinweis:** Möglicherweise müssen Sie Ihren Browser neu starten, damit die Einstellung wirksam wird. Weitere Informationen finden Sie unter ["Beim Freigeben von Dateien kann der Server derzeit nicht erreicht werden".](https://go.microsoft.com/fwlink/?linkid=2022914)
   

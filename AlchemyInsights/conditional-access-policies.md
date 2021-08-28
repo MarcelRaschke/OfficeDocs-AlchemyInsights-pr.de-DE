@@ -2,7 +2,7 @@
 title: Richtlinien für bedingten Zugriff
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 25dc98397920e4fbf28895f5961f154381e11c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a518d70f03f3034a60f0c9ded40ee6ab5140a5163021337c3a2aee7f18575c3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033709"
 ---
 # <a name="conditional-access-policies"></a>Richtlinien für bedingten Zugriff
 

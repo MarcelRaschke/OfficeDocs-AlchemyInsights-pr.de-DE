@@ -1,5 +1,5 @@
 ---
-title: Aktualisieren von e-Mail-Einstellungen in Outlook für PC
+title: Aktualisieren von E-Mail-Einstellungen in Outlook für PCs
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,28 +12,27 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: 7b98d6d7fcc3b8b59207c868c606730828d677c8
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: 538c79344fc9a10b3400a79c2d2aa1b0e6d99fe2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598278"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318379"
 ---
-# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Aktualisieren von e-Mail-Einstellungen in Outlook für PC
+# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Aktualisieren von E-Mail-Einstellungen in Outlook für PCs
 
-1. Öffnen Sie Outlook, und wählen Sie **Datei > Kontoeinstellungen > Kontoeinstellungen** aus.
+1. Öffnen Sie Outlook, und wählen Sie **"Datei > Konto Einstellungen > Konto Einstellungen"** aus.
 
-2. Wählen Sie das e-Mail-Konto aus, das Sie ändern möchten, und klicken Sie dann auf **ändern**. 
+2. Wählen Sie das E-Mail-Konto aus, das Sie ändern möchten, und klicken Sie dann auf **"Ändern".** 
 
-3. Aktualisieren Sie auf der Seite **Einstellungen** nach Bedarf Ihre Namen für ein-und ausgehende Server, Ihre e-Mail-Adresse, Ihren Namen, Ihren Benutzernamen und Ihr Kennwort. Wenn Sie die SSL-Einstellungen oder die Porteinstellungen ändern möchten, klicken Sie auf **Weitere Einstellungen**. Die am häufigsten zu aktualisierenden Einstellungen befinden sich auf der Registerkarte **Postausgangs Server** und der Registerkarte **erweitert** .
+3. Aktualisieren **Sie** auf der Einstellungen Seite ihre Namen für eingehende und ausgehende Server, Ihre E-Mail-Adresse, Ihren Namen, Ihren Benutzernamen und Ihr Kennwort nach Bedarf. Wenn Sie Ihre SSL-Einstellungen oder Porteinstellungen ändern müssen, klicken Sie auf **Weitere Einstellungen.** Die am häufigsten zu aktualisierenden Einstellungen befinden sich auf der Registerkarte **"Ausgehender Server"** und auf der Registerkarte **"Erweitert".**
 
-4. Wenn beim Senden von e-Mails Probleme auftreten oder Nachrichten über den Postausgangsserver empfangen werden, stellen Sie sicher, dass das Kontrollkästchen **meine Postausgangsserver (SMTP) erfordert Authentifizierung** aktiviert ist.
+4. Wenn Beim Senden von E-Mails Probleme auftreten oder Nachrichten über Ihren ausgehenden Server empfangen werden, stellen Sie sicher, dass das **Kontrollkästchen "Meine ausgehenden Server (SMTP) die Authentifizierung erfordert"** aktiviert ist.
 
-5. Wenn Sie die Ports für einen eingehenden oder ausgehenden Server oder die SSL-Einstellungen aktualisieren müssen, wechseln Sie zur Registerkarte **erweitert** , und nehmen Sie die gewünschten Änderungen vor.
+5. Wenn Sie Ihre ein- oder ausgehenden Serverports oder SSL-Einstellungen aktualisieren müssen, wechseln Sie zur Registerkarte **"Erweitert",** und nehmen Sie die gewünschten Änderungen vor.
 
-> [!NOTE]
-> **Für AOL-und Verizon-Kunden**: beim Auswählen von **SSL/TLS** aus dem Dropdownfeld unter " **eingehende und ausgehende Server verschlüsselte Verbindungen** " wird sichergestellt, dass Sie nach dem 7. November 2017 weiterhin e-Mails senden und empfangen können.
+    **Hinweis:** **Für AOL- und Verizon-Kunden:** Wenn Sie **SSL/TLS** im Dropdownfeld unter **"Verschlüsselte Verbindungen mit eingehenden und ausgehenden Servern"** auswählen, wird sichergestellt, dass Sie auch nach dem 7. November 2017 weiterhin E-Mails senden und empfangen können.
 
-6. Wenn Sie mit dem Aktualisieren der Einstellungen fertig sind, klicken Sie auf **OK**, dann auf **weiter** und dann auf **Fertig stellen**.
+6. Wenn Sie die Aktualisierung Ihrer Einstellungen abgeschlossen haben, klicken Sie auf **OK,** klicken Sie auf **"Weiter"** und dann auf **"Fertig stellen".**
 
 

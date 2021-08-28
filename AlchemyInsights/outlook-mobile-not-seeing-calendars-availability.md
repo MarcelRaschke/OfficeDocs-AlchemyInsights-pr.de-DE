@@ -1,5 +1,5 @@
 ---
-title: Outlook Mobile-Kalender werden nicht angezeigt, wenn Sie die Verfügbarkeit auswählen
+title: Outlook Mobiles Gerät sieht keine Kalender bei auswahl der Verfügbarkeit
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3070"
 - "9001109"
-ms.openlocfilehash: e0523100caead474b63ef8ddfcd4622ccbd3669c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 150d0f470571a5e78124634f190ea61f2c5debbd13925af133c83b351bb6c6f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000319"
 ---
-# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Die Kalender, die ich erwarte, wenn ich meine Verfügbarkeit wähle, werden nicht angezeigt.
+# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Ich sehe nicht die Kalender, die ich bei der Auswahl meiner Verfügbarkeit erwartet
 
-Wenn Sie die erwarteten Kalender nicht sehen, gehen Sie zu Kalender, tippen Sie auf die Schaltfläche Menü in der oberen linken Ecke des Bildschirms, und stellen Sie sicher, dass die erwarteten Kalender ausgewählt sind. Nur in diesem Menü aktivierte Kalender werden angezeigt, wenn Sie Zeiten für die Verfügbarkeit des Sende zeitwahls auswählen.
+Wenn Die erwarteten Kalender nicht angezeigt werden, wechseln Sie zu "Kalender", tippen Sie auf die Menüschaltfläche in der oberen linken Ecke des Bildschirms, und stellen Sie sicher, dass die kalender, die Sie erwarten, ausgewählt sind. Es werden nur Kalender angezeigt, die in diesem Menü aktiviert sind, wenn Die Zeiten für die Sendeverfügbarkeit ausgewählt werden.

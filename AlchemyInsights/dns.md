@@ -2,7 +2,7 @@
 title: DNS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5625"
-ms.openlocfilehash: 4d7965ecd23afb899a3b5bc46ce22acddc1cd40f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fe5e7cd2f8d020192b7d60702f02608f7adb3ab5ea85fbec99326921bbb26cd8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004873"
 ---
 # <a name="dns"></a>DNS
 

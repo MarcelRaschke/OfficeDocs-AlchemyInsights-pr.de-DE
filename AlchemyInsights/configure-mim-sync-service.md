@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8472"
 - "9004688"
-ms.openlocfilehash: 48e9a0e8c26088b690092bfaedfba641841739f6
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: f834bead0b6f22dcadc808d45dcefe7f6571ef62c74b7fd97355157ca49542af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978484"
 ---
 # <a name="configure-mim-sync-service"></a>Konfigurieren des MIM Sync-Diensts
 

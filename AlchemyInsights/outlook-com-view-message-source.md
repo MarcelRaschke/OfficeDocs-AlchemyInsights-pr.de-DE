@@ -1,5 +1,5 @@
 ---
-title: 8000092 Outlook.com-Nachrichtenquelle anzeigen
+title: 8000092 Outlook.com Nachrichtenquelle anzeigen
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom:
 - "1424"
 - "8000092"
-ms.openlocfilehash: 8fb0ac32732325cdb791e106fa23ab76dc50f63b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b80a31aef657f7fe0b68371503673ec9efd7dc2727ed2f1360d47e4be3b2e612
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772117"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924948"
 ---
-# <a name="how-to-view-outlookcom-message-headers-or-message-source"></a>Anzeigen von Outlook.com-Nachrichtenkopfzeilen oder-Nachrichtenquellen
+# <a name="how-to-view-outlookcom-message-headers-or-message-source"></a>Anzeigen Outlook.com-Nachrichtenkopfzeilen oder Nachrichtenquelle
 
-Wenn Sie die Kopfzeilen und andere Details in einer e-Mail anzeigen möchten, wählen Sie die drei Punkte <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- Wählen Sie in der oberen Ecke des Lesebereichs die Option **Nachrichtenquelle anzeigen**aus.
+Um die Kopfzeilen und andere Details in einer E-Mail anzuzeigen, wählen Sie die drei Punkte aus. <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ in der oberen Ecke des Lesebereichs, und wählen Sie **Nachrichtenquelle anzeigen** aus.

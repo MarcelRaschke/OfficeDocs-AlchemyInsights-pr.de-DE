@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: b84527f58cfd5101c5a63510cc46bb115ab862cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0b797e22a95a5ea532cd6497dd647adf608e52d09bdaf2a13124ecdfe15d5bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982660"
 ---
-# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Umgang mit Phishing-e-Mails in Outlook im Internet
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Umgang mit einer Phishing-E-Mail in Outlook im Web
 
-Bei einem Phishing-Betrug handelt es sich um eine e-Mail-Nachricht, die legitim erscheint, aber tatsächlich versucht, persönliche Informationen oder Geld zu stehlen. Betrüger können auch eine Technik namens Spoofing verwenden, um es so aussehen zu lassen, als hätten Sie eine e-Mail von sich selbst erhalten.
+Ein Phishing-Betrug ist eine E-Mail, die legitim erscheint, aber tatsächlich versucht, Ihre persönlichen Informationen oder Ihr Geld zu stehlen. Betrüger können auch eine Technik namens Spoofing verwenden, damit sie so angezeigt wird, als hätten Sie eine E-Mail von sich selbst erhalten.
 
-Wenn Sie eine e-Mail erhalten, die wie ein Phishing-Betrug aussieht, können Sie Sie melden, indem Sie die Nachricht auswählen und dann **Junk**-  >  **Phishing**auswählen.
+Wenn Sie eine E-Mail erhalten, die wie ein Phishing-Betrug aussieht, können Sie sie melden, indem Sie die Nachricht auswählen und dann  >  **Junk-Phishing** auswählen.
 
-*Hinweis:* Wenn Sie eine Nachricht als Phishing markieren, meldet Sie nur den Absender.Es blockiert nicht, dass der Absender Ihnen Nachrichten zukünftig sendet. Um den Absender zu blockieren, müssen Sie den Absender der Liste blockierter Absender hinzufügen. Weitere Informationen finden Sie unter Blockieren von Absendern [oder unblocken von Absendern in Outlook im Internet](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
+*Hinweis:* Wenn Sie eine Nachricht als Phishing markieren, meldet sie nur den Absender. Es verhindert nicht, dass dieser Absender Ihnen in Zukunft Nachrichten sendet. Um den Absender zu blockieren, müssen Sie den Absender zur Liste der blockierten Absender hinzufügen. Weitere Informationen finden Sie unter [Blockieren von Absendern oder Aufheben der Blockierung von Absendern in Outlook im Web](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
 
-Erfahren Sie mehr über [das Identifizieren von verdächtigen Nachrichten in Outlook im Internet](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).
+Erfahren Sie mehr darüber, wie Sie [verdächtige Nachrichten in Outlook im Web identifizieren.](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206)

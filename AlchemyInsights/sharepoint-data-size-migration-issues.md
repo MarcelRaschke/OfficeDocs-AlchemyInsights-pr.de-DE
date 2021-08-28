@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ddf21cc963297095fbe5cda36178b12c103cfeb0e4103a05c39f23ee634f158
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942096"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Probleme beim Migrieren von Daten zu SharePoint Online
 
-**Migrieren von 100TB Daten**
+**Migrieren von mehr als 100 TB An Daten**
 
-Es wird angezeigt, dass Sie über 100TB Daten zu SharePoint Online migrieren. Führen Sie die folgenden Schritte aus, damit wir Ihnen so schnell wie möglich behilflich sein können. 
+Es scheint, als migrieren Sie mehr als 100 TB Daten zu SharePoint Online. Führen Sie die nachstehenden Schritte aus, damit wir Sie so schnell wie möglich unterstützen können. 
 
-1. Wählen Sie **Neue Dienstanforderung**und dann **Neue Dienstanforderung**aus. 
-2. Lassen Sie den Titel und die Beschreibung als **SharePoint-Migration über 100TB**.
-3. Sobald das Ticket übermittelt wurde, aktualisieren Sie es mit den folgenden Informationen: 
+1. Wählen Sie **"Support kontaktieren"** und dann **"Neue Serviceanfrage"** aus. 
+2. Behalten Sie den Titel und die Beschreibung **SharePoint Migration über 100 TB** bei.
+3. Nachdem das Ticket übermittelt wurde, aktualisieren Sie es mit den folgenden Informationen: 
 
     - die geschätzte Größe Ihrer Migration.
     - eine Schätzung der Zeitpunkte, zu denen Sie die Migration beginnen und abschließen möchten.
-    - Beschreiben Sie, wo Sie Ihre Inhalte migrieren, beispielsweise SharePoint Server, Box, GDrive, Dateifreigaben usw.
+    - Beschreiben, von wo Sie Ihre Inhalte migrieren, z. B. SharePoint Server, Box, GDrive, Dateifreigaben usw.

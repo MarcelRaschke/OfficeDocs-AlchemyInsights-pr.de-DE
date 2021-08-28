@@ -2,7 +2,7 @@
 title: COVID-19 – Abrechnungs- und Lizenzfragen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,12 +16,12 @@ ms.custom:
 - "5113"
 - "9002647"
 - "5091"
-ms.openlocfilehash: 083a4047f86bf315702a90822eaefa5a5d2bf72a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79ab97bbd788a84372a3ad7614f92f9a84a5c1cc6efbf9cc1d838858672a9ef9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747550"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929340"
 ---
 # <a name="covid-19-billing-and-license-questions"></a>COVID-19 – Abrechnungs- und Lizenzfragen
 

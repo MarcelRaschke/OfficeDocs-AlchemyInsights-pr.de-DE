@@ -1,5 +1,5 @@
 ---
-title: Deinstallieren von Visio
+title: Deinstallieren Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: c341061e0909e1091071b16e62a2fef69c9e621d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4eedc7853097a393282d13ad2864c19efb324edc31cff456e815180133dd30f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658040"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020011"
 ---
-# <a name="uninstall-visio"></a>Deinstallieren von Visio
+# <a name="uninstall-visio"></a>Deinstallieren Visio
 
 Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) herunter, und installieren Sie ihn.
   
-1. Wenn es geöffnet wird, wählen Sie unter **Office-Produkte deinstallieren** die Version von Visio aus, die Sie deinstallieren möchten, und wählen Sie **weiter**aus. 
+1. Wenn es geöffnet wird, wählen Sie unter **"Deinstallieren Office Produkte"** die Version von Visio aus, die Sie deinstallieren möchten, und wählen Sie **"Weiter"** aus. 
     
 2. Klicken Sie sich durch die Bildschirme, und starten Sie Ihren Computer bei entsprechender Aufforderung neu.
     
-    Nach dem Neustart wird der Support-und Wiederherstellungs-Assistent automatisch erneut geöffnet, um den Deinstallationsvorgang abzuschließen.
+    Nach dem Neustart wird die Support- und Wiederherstellungs-Assistent automatisch erneut geöffnet, um den Deinstallationsprozess abzuschließen.
     
-3. Befolgten verbleibenden Ansagen, und wenn Sie ein Abonnement für Visio Online haben, können Sie Visio aus dem Microsoft 365- [Konto Portal](https://portal.office.com/account#installs)erneut installieren. Weitere Hilfe oder Hilfe beim Installieren von Visio-fremden Versionen wie Visio Professional finden Sie unter [install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
+3. Folgen Sie den verbleibenden Eingabeaufforderungen, und wenn Sie über ein Abonnement für Visio Online verfügen, können Sie Visio über das Microsoft 365 [Kontoportal](https://portal.office.com/account#installs)neu installieren. Weitere Hilfe oder Hilfe zum Installieren von Nicht-Abonnement-Versionen von Visio wie Visio Professional finden Sie unter [Installieren Visio.](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936) 
     
-Eine Liste mit anderen Deinstallationsoptionen finden Sie unter [Deinstallieren von Office auf einem PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).
+Wählen Sie für eine Liste anderer Deinstallationsoptionen die Option ["Deinstallieren Office" auf einem PC aus.](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936)

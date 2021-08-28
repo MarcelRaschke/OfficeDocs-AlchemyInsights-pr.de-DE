@@ -1,5 +1,5 @@
 ---
-title: Anleitung zum Upgrade von Teams
+title: Teams Upgradeanleitung
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 57164d972780830087bb85f9cd809d290446fa3e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333927"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324315"
 ---
-# <a name="microsoft-teams-upgrade"></a>Microsoft Teams-Upgrade
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams Upgrade
 
-**Wichtig**: Wenn Sie ein Upgrade von Skype for Business Online auf Microsoft Teams im nur-Teams-Modus durchgeführt haben, aber noch nicht fertig sind, können wir Ihnen bei der Problembehebung helfen, indem Sie eine Support Diagnose verwenden. Stellen Sie sicher, dass Sie das neue Admin Center verwenden, indem Sie die Umschaltfläche in der oberen rechten Ecke verschieben, in der das **neue Admin Center**auf der rechten Seite steht. Wenn Sie das neue Admin Center verwenden, klicken Sie auf das Widget " **Hilfe benötigen?** ", geben Sie "**Teams-Upgrade**" ein, und führen Sie dann die Anweisungen aus, um die Diagnose auszuführen.
-
-Ganz gleich, ob Sie neu bei Microsoft Teams sind, Microsoft Teams bereits zusammen mit Skype for Business verwenden oder bereit für das Upgrade sind – wir möchten sicherstellen, dass Sie alles haben, was Sie für eine erfolgreiche Umstellung auf Microsoft Teams benötigen. Weitere Informationen finden Sie unter den Links unten.
+Ganz gleich, ob Sie neu bei Microsoft Teams sind, Microsoft Teams bereits zusammen mit Skype for Business verwenden oder bereit für das Upgrade sind – wir möchten sicherstellen, dass Sie alles haben, was Sie für eine erfolgreiche Umstellung auf Microsoft Teams benötigen. Weitere Informationen finden Sie unter den links unten.
 
 [Erste Schritte mit dem Upgrade von Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
 [Planen des Upgrades](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[Grundlegendes zu Microsoft Teams und Skype for Business Koexistenz](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Grundlegendes zur Koexistenz von Microsoft Teams und Skype for Business](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Durchführen des Upgrades von Skype for Business Online auf Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+[Durchführen des Upgrades von Skype for Business Online auf Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Durchführen des Upgrades von Skype for Business lokal in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Durchführen des Upgrades von Skype for Business lokalen zu Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Überprüfen des Status von Skype for Business Online auf Microsoft Teams-Upgrade mit PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Überprüfen des Status von Skype for Business Online zum Teams Upgrade mit PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

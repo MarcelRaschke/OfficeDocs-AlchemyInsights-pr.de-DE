@@ -2,7 +2,7 @@
 title: Planner kann nicht zu einem privaten Teams-Kanal hinzugefügt werden
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000727"
 - "4976"
-ms.openlocfilehash: 63786ebf9ad8c595acfab86e08bb52b0605bae39
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e9cf47f02d313e81eea6db576cb8bb74afaf0e4b11399ec0557bd771709491a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735414"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920178"
 ---
 # <a name="unable-to-add-planner-to-a-teams-private-channel"></a>Planner kann nicht zu einem privaten Teams-Kanal hinzugefügt werden
 

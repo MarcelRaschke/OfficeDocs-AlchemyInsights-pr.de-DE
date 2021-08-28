@@ -1,5 +1,5 @@
 ---
-title: 126 Fehler beim Aufrufen eines Postfachs in OWA gefunden?
+title: 126 Fehler beim Abrufen eines Postfachs in OWA nicht gefunden?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,17 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 9a8897767ebfebac5807116251634c615ef6767d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706749"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522353"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Fehler beim Aufrufen eines Postfachs nicht gefunden in Outlook im Internet?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Fehlermeldung "Postfach nicht gefunden" in Outlook im Web erhalten?
 
-Wenn Sie Outlook im Internet verwenden und ein Postfach wegen eines Fehlers **nicht gefunden werden konnte** , hat das Konto, das Sie zum Herstellen einer Verbindung mit Outlook im Internet verwendet haben, keine Exchange Online Lizenz und daher ist dem Konto kein Postfach zugeordnet. Ihr Administrator kann Ihrem Konto eine Lizenz zuweisen, indem Sie die folgenden Schritte ausführen:
+Wenn Sie einen OWA-Fehler (Outlook Web App) erhalten: "Ein Postfach konnte für *Benutzer* nicht gefunden werden", bedeutet dies, dass der angemeldete Benutzer nicht über eine Exchange Onlince-Lizenz und sp verfügt, Exchange Online Postfach diesem Benutzerkonto zugeordnet ist. 
 
-1. Öffnen Sie das [Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/homepage) , und wechseln Sie zu **aktive Benutzer** im Abschnitt **Benutzer** , und wählen Sie den Benutzer aus, der den Fehler sieht.
+Ein Organisationsadministrator kann dem Benutzer über die Microsoft 365 Admin Center eine Exchange Lizenz zuweisen, indem er die folgenden Schritte ausführt:
 
-2. Wechseln Sie auf der Seite Benutzer, die geöffnet wird, zum Abschnitt **Lizenzen und apps** , wählen Sie den entsprechenden **Standort** Wert aus, und weisen Sie eine Lizenz zu, die Exchange Online enthält (erweitern Sie die Lizenz, um die Details anzuzeigen). Klicken Sie nach Abschluss des Vorgangs auf **Änderungen speichern**.
+1. Wechseln Sie zu ["Aktive Benutzer",](https://portal.office.com/adminportal/home#/users)wählen Sie den Benutzer aus, und wählen Sie **"Produktlizenzen**  >  **bearbeiten"** aus. 
+1. Legen Sie den erforderlichen Speicherort fest.
+1. Weisen Sie eine Lizenz zu, die über einen Exchange Online Serviceplan verfügt.

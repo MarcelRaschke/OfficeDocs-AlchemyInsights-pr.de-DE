@@ -1,5 +1,5 @@
 ---
-title: Einchecken mehrerer Dateien gleichzeitig
+title: Gleichzeitiges Einchecken mehrerer Dateien
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,25 +13,25 @@ ms.custom:
 - "5300029"
 - "1688"
 - "986"
-ms.openlocfilehash: 6172168af77a72a362318bb9d411646a718f2477
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9fcb8b39e2debf8e312a24242c47bfe4b4c5d53488d09cd5ad33d54ae109b10b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006421"
 ---
-# <a name="check-in-several-files-at-once"></a>Einchecken mehrerer Dateien gleichzeitig
+# <a name="check-in-several-files-at-once"></a>Gleichzeitiges Einchecken mehrerer Dateien
 
-Das ein-und Auschecken von Dateien in einer SharePoint-Bibliothek ist eine hervorragende Möglichkeit zum Nachverfolgen und Steuern, wie Inhalte aktualisiert werden. Wenn Sie Änderungen an einer Datei auf einer Website vornehmen möchten und Sie sicherstellen möchten, dass Sie von keiner anderen Person bearbeitet werden kann, lesen Sie die Datei aus. Wenn Sie die Datei ausgecheckt haben, können Sie Sie online oder offline bearbeiten und bei Bedarf mehrmals speichern.
+Das Ein- und Auschecken von Dateien in eine SharePoint Bibliothek ist eine hervorragende Möglichkeit, um die Aktualisierung von Inhalten nachzuverfolgen und zu steuern. Wenn Sie Änderungen an einer Datei auf einer Website vornehmen möchten und sicherstellen möchten, dass sie von keinem anderen Benutzer bearbeitet werden kann, sehen Sie sich die Datei an. Wenn Sie die Datei ausgecheckt haben, können Sie sie online oder offline bearbeiten und bei Bedarf mehrmals speichern.
 
-Im folgenden finden Sie einige hilfreiche Links zu dieser Funktion.
+Nachfolgend finden Sie einige hilfreiche Links zu diesem Feature.
 
-- [Vorgehensweise zum Auschecken, Einchecken oder Verwerfen von Änderungen an Dateien](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Aus- und Einchecken von Dateien und Verwerfen von Änderungen an Dateien](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [Wichtige Fragen zum Auschecken, Einchecken und Versionen](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
+- [Die wichtigsten Fragen zu den Themen Auschecken, Einchecken und Versionen](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 
-- [Einchecken mehrerer Dateien gleichzeitig](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Einchecken von mehreren Dateien gleichzeitig](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [Aktivieren oder Deaktivieren der Versionsverwaltung/Auschecken in einer Bibliothek](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
+- [Aktivieren oder Deaktivieren von Versionsverwaltung/Auschecken für eine Bibliothek](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
 
   

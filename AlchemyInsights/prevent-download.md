@@ -1,5 +1,5 @@
 ---
-title: Verhindern, dass Dateien aus SharePoint oder OneDrive heruntergeladen werden
+title: Verhindern, dass Dateien von SharePoint oder OneDrive heruntergeladen werden
 ms.author: pebaum
 author: pebaum
 manager: matteva
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: 3ada8657ebe4cd29d1390f9c30f75d1b0b95056a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d492f26584199f76531f0c1afe026b4754383a1457b33c2e4c643fb13977b319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741554"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063051"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Verhindern, dass Dateien aus SharePoint oder OneDrive heruntergeladen werden
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Verhindern, dass Dateien von SharePoint oder OneDrive heruntergeladen werden
 
-Es gibt verschiedene Methoden, die verwendet werden können, um das Auftreten von Downloads zu verhindern oder zu blockieren. Die entsprechenden Methoden finden Sie unter den folgenden Links:
+Es gibt verschiedene Methoden, die verwendet werden können, um Downloads zu verhindern oder zu blockieren. Die entsprechenden Methoden finden Sie unter den nachstehenden Links:
 
-- [Blockieren des Dateidownloads mit Azure AD bedingten Zugriff](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Blockieren des Dateidownloads mit bedingtem Azure AD-Zugriff](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
 - [Steuern des Zugriffs von nicht verwalteten Geräten](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [Konfigurieren von IRM-Richtlinien für SharePoint-Dokumentbibliotheken zum Begrenzen des Herunterladens von Inhalten](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
+- [Konfigurieren von IRM-Richtlinien für SharePoint Dokumentbibliotheken, um das Herunterladen von Inhalten einzuschränken](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)

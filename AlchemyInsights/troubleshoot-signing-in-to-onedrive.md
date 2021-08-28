@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: a3ad6d9769dab948cb83c04232bb3d8e937a5dc2
-ms.sourcegitcommit: 6900c2b7208ca51a9873dfc2e00be6f66cb25e3c
+ms.openlocfilehash: 7e08dbb4bbc0a1bbaef5e90e4fc21ee87ae90b80
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50243908"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330861"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>Problembehandlung beim Anmelden bei OneDrive
 
@@ -29,6 +29,7 @@ In diesem Artikel werden folgende Szenarien beschrieben:
 
 **Fehlerbehebung beim Anmelden am OneDrive-Synchronisierungsclient**
 
+- Schritte zum Beheben des Fehlercodes 0x004de40 finden Sie unter [Fehlercodecode 0x8004de40 bei der Anmeldung bei OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive).
 - Melden Sie sich bei OneDrive oder der SharePoint-Website an, indem Sie die Website besuchen, und klicken Sie auf die Schaltfläche **Synchronisieren** oben in der Menüleiste der Website. 
 - Stellen Sie sicher, dass Sie sich bei OneDrive for Business anmelden, nicht bei OneDrive.com. Wenn die von Ihnen besuchte URL mit onedrive.live.com beginnt, ist dies nicht der Speicherort für Ihr OneDrive for Business. Eine einfache Möglichkeit, um sicherzustellen, dass Sie sich bei OneDrive for Business anmelden, ist dieser Link: https://portal.office.com/onedrive, dann verwenden Sie Ihr Geschäfts-, Schul- oder Unikonto, um sich anzumelden.
 - Wenn Sie weiterhin Probleme haben, denken Sie daran, [OneDrive zurückzusetzen](https://support.microsoft.com/office/reset-onedrive-34701e00-bf7b-42db-b960-84905399050c).

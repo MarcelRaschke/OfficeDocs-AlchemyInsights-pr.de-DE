@@ -1,8 +1,8 @@
 ---
-title: Problembehandlung beim Setup für die Stream-API-Verfügbarkeit
+title: Problembehandlung beim Setup für Stream – API-Verfügbarkeit
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2800001"
 - "1338"
-ms.openlocfilehash: d25849c36eda0f286e7758955104e8df2ed46d76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd2e910792f0c10ffd116695070d0c31a23ee7e26a8612334ef5d520d4a2b544
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007825"
 ---
 # <a name="api-availability"></a>API-Verfügbarkeit
 
-APIs für Stream stehen heute nicht zur Verfügung.
-Weitere Informationen:https://stream.microsoft.com/support/
+APIs für Stream sind heute nicht verfügbar.
+Weitere Informationen: https://stream.microsoft.com/support/

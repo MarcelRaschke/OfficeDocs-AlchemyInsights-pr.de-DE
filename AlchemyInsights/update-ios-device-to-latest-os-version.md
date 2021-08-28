@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1124"
 - "6700007"
-ms.openlocfilehash: ee2fb1df35168d5febbac0ae302106eef9d1d18d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd796440a0d4bedc83b99e83e92eece6f62f81cc8d346cd88d19de34221046db
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991174"
 ---
 # <a name="update-ios-device-to-latest-os-version"></a>Aktualisieren Sie Ihr iOS-Gerät auf die aktuelle Version des Betriebssystems
 
@@ -31,5 +31,5 @@ Wenn Ihre Geräte die Versionsanforderungen erfüllen, verifizieren Sie Folgende
 So aktualisieren Sie Ihr iOS:
 
 1. Melden Sie sich beim Azure-Portal an.
-2. Wählen Sie **Alle Dienste** > **Intune**aus.
-3. Wählen Sie im Bereich Intune **Softwareupdates** > **Updaterichtlinien für iOS**aus.
+2. Wählen Sie **Alle Dienste** > **Intune** aus.
+3. Wählen Sie im Bereich Intune **Softwareupdates** > **Updaterichtlinien für iOS** aus.

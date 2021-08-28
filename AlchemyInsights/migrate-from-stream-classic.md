@@ -1,8 +1,8 @@
 ---
-title: Migrieren von Microsoft Stream (klassisch) zum neuen Microsoft-Datenstrom
+title: Migrieren von Microsoft Stream (klassisch) zum neuen Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "6450"
-ms.openlocfilehash: df9dab8a28ae0ca663279aa8805091c7076e3cbd
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: fe37c6012b1587f802b7aa410a5ba07de90673bb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236251"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322784"
 ---
-# <a name="migrate-from-microsoft-stream-classic-to-the-new-microsoft-stream"></a>Migrieren von Microsoft Stream (klassisch) zum neuen Microsoft-Datenstrom
+# <a name="migrate-from-microsoft-stream-classic-to-the-new-microsoft-stream"></a>Migrieren von Microsoft Stream (klassisch) zum neuen Microsoft Stream
 
-Weitere Informationen zum Migrieren von einem klassischen Stream zu einem neuen Stream finden Sie unter [Migrieren von Microsoft Stream (klassisch) zum neuen Microsoft](https://docs.microsoft.com/stream/classic-migration) -Stream.
+Weitere Informationen zum Migrieren vom klassischen Stream zum neuen Stream finden Sie unter [Übersicht über die Migration von Microsoft Stream (klassisch) zu Stream (basierend auf SharePoint).](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)

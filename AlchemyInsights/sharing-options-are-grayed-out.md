@@ -2,7 +2,7 @@
 title: Freigabelinks sind ausgegraut
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: ba13b6d734f1db7ef240480b9d1d752a2fa3ae11
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9778f01e39795cbfce8b1fa546157a798154e86ac40c361df041edbd2797c2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758424"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022315"
 ---
 # <a name="sharing-links-are-grayed-out"></a>Freigabelinks sind ausgegraut
 

@@ -1,5 +1,5 @@
 ---
-title: Unterstützung für IOS-Registrierung
+title: Hilfe zur iOS-Registrierung
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 967088dfda5445d4c77f51eb177dbbb721f8a775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c4249b81e218b5d7d133c9d96b34fd5051277fb7ed849b0f6e90b2c18fb0e0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001399"
 ---
-# <a name="ios-enrollment-help"></a>Unterstützung für IOS-Registrierung
+# <a name="ios-enrollment-help"></a>Hilfe zur iOS-Registrierung
 
-Wir haben bemerkt, dass Sie möglicherweise ein Problem mit der IOS-Registrierung haben. Hier sind einige Artikel, die wir denken könnten helfen: 
+Wir haben festgestellt, dass sie möglicherweise ein Problem mit der iOS-Registrierung haben. Hier sind einige Artikel, die unserer Meinung nach hilfreich sein könnten: 
 
-[Häufige Fehler und Lösungen für IOS-Registrierungen](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
+[Häufige iOS-Registrierungsfehler und -lösungen](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
 
-[Erste Schritte mit InTune und IOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Erste Schritte mit Intune und iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
 [Allgemeine Problembehandlung bei der Registrierung](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Verwenden des InTune-Problem Behandlungs Portals zum Diagnostizieren und Beheben allgemeiner Registrierungsfehler](https://docs.microsoft.com/intune/help-desk-operators)
+[Verwenden des Intune-Problembehandlungsportals zum Diagnostizieren und Beheben häufiger Registrierungsfehler](https://docs.microsoft.com/intune/help-desk-operators)

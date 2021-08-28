@@ -1,5 +1,5 @@
 ---
-title: Alchemie – erstellen und Hinzufügen einer Signatur zu Nachrichten in Outlook
+title: Alemy – Erstellen und Hinzufügen von Signaturen zu Nachrichten in Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 933533b2c1065a96786522eee481abf859186342
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c676c03834f5d1b1740addd6ad108ee1176faa19e4b0a5b8927ac1e600810d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718815"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934178"
 ---
-# <a name="creating-email-signatures"></a>Erstellen von e-Mail-Signaturen
+# <a name="creating-email-signatures"></a>Erstellen von E-Mail-Signaturen
 
-Diese Artikel sollen Ihnen helfen, e-Mail-Signaturen in Outlook zu erstellen.
+Diese Artikel sollten Ihnen beim Erstellen von E-Mail-Signaturen in Outlook helfen.
   
-- Ich möchte eine e-Mail-Signatur mit Outlook unter Windows erstellen: [Erstellen und Hinzufügen einer Signatur zu Nachrichten](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
+- Ich möchte eine E-Mail-Signatur mithilfe von Outlook auf Windows: [Erstellen und Hinzufügen einer Signatur zu Nachrichten](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) erstellen und hinzufügen
   
-- Ich möchte eine e-Mail-Signatur mithilfe von Outlook im Internet erstellen: [Erstellen und Hinzufügen einer e-Mail-Signatur in Outlook im Internet](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
+- Ich möchte eine E-Mail-Signatur mit Outlook im Web erstellen: [Erstellen und Hinzufügen einer E-Mail-Signatur in Outlook im Web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
 
-- Ich möchte eine e-Mail-Signatur mithilfe von Outlook.com erstellen: [Erstellen und Hinzufügen einer e-Mail-Signatur in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
+- Ich möchte eine E-Mail-Signatur mit Outlook.com erstellen: [Erstellen und Hinzufügen einer E-Mail-Signatur in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Ich möchte eine globale e-Mail-Signatur für alle von meinem Unternehmen gesendeten e-Mails erstellen: [Erstellen von organisationsweiten Signaturen und Haftungsausschlüssen](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
+- Ich möchte eine globale E-Mail-Signatur für alle E-Mails erstellen, die von meinem Unternehmen gesendet werden: [Organisationsweite Signaturen und Haftungsausschlüsse erstellen](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
 
  **Tipp:** Organisationsweite Signaturen werden als "Haftungsausschlüsse" bezeichnet.
   

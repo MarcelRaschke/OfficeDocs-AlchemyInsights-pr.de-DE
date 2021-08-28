@@ -11,12 +11,12 @@ ms.assetid: ''
 ms.custom:
 - "9000738"
 - "4367"
-ms.openlocfilehash: a6df1b780d36e73b8c06603a6a92976bac7b5993
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c41ab0552985681f14090cc049f8bd77b8b49242823a418822674cd21dea0f77
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669558"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908988"
 ---
 # <a name="teams-chat-functionality"></a>Teams-Chatfunktion
 

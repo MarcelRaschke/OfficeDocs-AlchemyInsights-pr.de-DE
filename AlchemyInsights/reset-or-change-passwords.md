@@ -2,7 +2,7 @@
 title: Zurücksetzen oder Ändern von Kennwörtern
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e5f1a81aea51384a1e10a3b83f4cb59703c9ff0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692150"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328473"
 ---
 # <a name="reset-or-change-passwords"></a>Zurücksetzen oder Ändern von Kennwörtern
 
-Ein Benutzer kann sein eigenes Kennwort von **meinem Konto**  >  [Sicherheit & Datenschutz](https://portal.office.com/account/#security)ändern.
+Ein Benutzer kann sein eigenes Kennwort ändern, indem er sein Benutzerfoto oder die Initialen > **Konto anzeigen** auswählt.
   
-Wenn der Benutzer sein Kennwort vergessen hat, kann ein Administrator das Kennwort zurücksetzen, indem er zu **Benutzer**  >  [aktiven Benutzern](https://portal.office.com/adminportal/home#/users)wechseln, die Benutzer auswählen und auf **Kennwort zurücksetzen**klicken.
+Wenn der Benutzer sein Kennwort vergessen hat, kann ein Administrator das Kennwort zurücksetzen, indem er zu  >  ["Aktive Benutzer"](https://portal.office.com/adminportal/home#/users)wechselt, die Benutzer auswählt und auf **"Kennwort zurücksetzen"** klickt.
   
-[Klicken Sie hier, um weitere Informationen zu erhalten](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)oder Benutzer ihre vergessenen Kennwörter zurücksetzen zu lassen.
+Weitere Informationen zu Kennwörtern und zur Möglichkeit, dass Benutzer ihre eigenen Kennwörter zurücksetzen können, finden Sie unter [Zurücksetzen von Kennwörtern.](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)

@@ -1,5 +1,5 @@
 ---
-title: Blockieren der Anmeldung für alle Benutzer
+title: Anmeldung für alle Benutzer blockieren
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003536"
 - "6445"
-ms.openlocfilehash: b1596fdf463413a5b6714c48f4097e9552948070
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 90d29fe284e70959e8e2c85e15667269517dc9c3eaf75688bc4750d8767fa2fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48785591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019255"
 ---
-# <a name="block-sign-in-for-all-users"></a>Blockieren der Anmeldung für alle Benutzer
+# <a name="block-sign-in-for-all-users"></a>Anmeldung für alle Benutzer blockieren
 
-Führen Sie die folgenden Schritte aus, um zu verhindern, dass alle Benutzer sich bei Office anmelden:
+Führen Sie die folgenden Schritte aus, um zu verhindern, dass sich jeder bei Office anmeldet:
 
-1. Wechseln Sie im Admin Center zu [ **Benutzer**  >  **aktive Benutzer**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-2. Wählen Sie alle Benutzer aus, indem Sie auf das Häkchen neben **Anzeige Name** klicken. Stellen Sie sicher, dass Sie das Administratorkonto deaktivieren, mit dem Sie angemeldet sind.
-3. Klicken Sie auf **"..."** neben **Exportieren von Benutzern**  >  **Bearbeiten des Anmeldestatus** , und wählen Sie dann **Benutzer von der Anmeldung blockieren aus** . Die neuen Anmeldungen werden sofort blockiert. Wenn ein Benutzer bereits angemeldet war, wird der Benutzer in 60 Minuten automatisch von allen Microsoft-Diensten abgemeldet.
+1. Wechseln Sie im Admin Center zu [   >  **"Aktive Benutzer".**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+2. Wählen Sie alle Benutzer aus, indem Sie auf das Häkchen neben dem **Anzeigenamen** klicken. Stellen Sie sicher, dass Sie das Administratorkonto deaktivieren, mit dem Sie angemeldet sind.
+3. Klicken Sie neben dem Anmeldestatus **"Benutzer bearbeiten"** auf **"...",**  >  und wählen Sie dann **"Benutzer am Anmelden blockieren" aus.** Die neuen Anmeldungen werden sofort blockiert. Wenn ein Benutzer bereits angemeldet war, wird der Benutzer innerhalb von 60 Minuten automatisch von allen Microsoft-Dienste abgemeldet.

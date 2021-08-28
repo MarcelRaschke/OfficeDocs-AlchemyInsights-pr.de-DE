@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6433"
 - "9003531"
-ms.openlocfilehash: d41c4a77bf8874f462a0a20f0d86806f1d6fc85b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f6c0f9877b945d6ad6a397ae053509d5edc90c20b72c6567e867268ee1eda04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795154"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971698"
 ---
 # <a name="use-inbox-rules-in-outlookcom"></a>Verwenden von Posteingangsregeln in Outlook.com
 

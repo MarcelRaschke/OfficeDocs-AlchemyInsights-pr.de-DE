@@ -10,23 +10,23 @@ localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d24696b63663c69b22c783072141af62ecf124dba7b49bca827381f39f88640e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031981"
 ---
 # <a name="creating-aip-label-policies"></a>Erstellen von AIP-Bezeichnungsrichtlinien
 
-AIP-Bezeichnungen (Azure Information Protection) können mit dem vollständigen Datenbereich verwendet werden, den eine Organisation normalerweise erstellt, und speichert von der niedrigsten Klassifizierung der personenbezogenen Daten bis hin zur höchsten Klassifizierung streng vertraulicher Daten. Azure Information Protection-Richtlinien gelten für den Azure Information Protection (AIP) Classic-Client und nicht für den  [AIP Unified Labeling-Client](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). Sie können mehrere Elemente in einer AIP-Richtlinie konfigurieren, einschließlich Optionen wie:
+Azure Information Protection(AIP)-Bezeichnungen können mit dem gesamten Datenbereich verwendet werden, den eine Organisation normalerweise erstellt und speichert– von der niedrigsten Klassifizierung personenbezogener Daten bis hin zur höchsten Klassifizierung streng vertraulicher Daten. Azure Information Protection-Richtlinien gelten für den klassischen Azure Information Protection(AIP)-Client und nicht für den [AIP Unified Labeling-Client.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Sie können mehrere Elemente in einer AIP-Richtlinie konfigurieren, einschließlich Optionen wie:
 
-- Option für das Label lässt Administratoren oder Benutzer klassifizieren und schützen (optional) Dokumente und e-Mails
-- Option zum Erzwingen der Klassifizierung, wenn Benutzer Dokumente speichern und e-Mails senden
-- Option zum automatischen beschriften einer e-Mail-Nachricht basierend auf ihren Anlagen.
-- Option zum Steuern, ob die Informationsschutz Leiste in Office-Anwendungen angezeigt wird
+- Option, mit der Administratoren oder Benutzer Dokumente und E-Mails klassifizieren und schützen können (optional).
+- Option zum Erzwingen der Klassifizierung, wenn Benutzer Dokumente speichern und E-Mails senden
+- Option zum automatischen Bezeichnen einer E-Mail-Nachricht basierend auf ihren Anlagen.
+- Option zum Steuern, ob die Informationsschutzleiste in Office Anwendungen angezeigt wird
 
-Weitere Optionen und Informationen zu Azure Information Protection-Richtlinien finden Sie unter: [Overview of the Azure Information Protection Policy](https://docs.microsoft.com/azure/information-protection/overview-policy).  
+Weitere Optionen und Informationen zu Azure Information Protection-Richtlinien finden Sie unter: [Übersicht über die Azure Information Protection-Richtlinie.](https://docs.microsoft.com/azure/information-protection/overview-policy)  
 
 Weitere hilfreiche Ressourcen zu AIP-Richtlinien finden Sie unter:
 

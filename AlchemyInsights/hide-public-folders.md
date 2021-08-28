@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "8417"
-ms.openlocfilehash: 70179296e9c1bb7391535f55796bc5af80b825f8
-ms.sourcegitcommit: a019bd8b0244914edb59e124bc6538cdc5c158f9
+ms.openlocfilehash: 66c76947d553c32475ebe7a11e69246b5b3a2882bb3d022873d85b93b3e87887
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50294642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945741"
 ---
 # <a name="hide-public-folders"></a>Öffentliche Ordner ausblenden
 

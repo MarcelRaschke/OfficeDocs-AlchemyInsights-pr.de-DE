@@ -2,7 +2,7 @@
 title: Erste Schritte mit Skype for Business
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002421"
 - "4698"
-ms.openlocfilehash: e609d8e58d6024355ef7e0a281755bb3215c6b0c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bf6a09de069057b625c1f392bc3d3d5a15b7665cec0775493e38fd47fbcf3f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706486"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088935"
 ---
 # <a name="getting-started-using-skype-for-business"></a>Erste Schritte mit Skype for Business
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7833"
 - "9004340"
-ms.openlocfilehash: 072334eedaf7b2b7ed24e6ae5f758870dbe17673
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: 83eaf17f83219ba34c2ea0c2769eb91db42787b2609c01c39cd67100638289eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950717"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106251"
 ---
 # <a name="tls-certificates"></a>TLS-Zertifikate
 

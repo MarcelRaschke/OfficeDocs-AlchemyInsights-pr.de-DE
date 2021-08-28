@@ -2,7 +2,7 @@
 title: Microsoft 365 für Bildungseinrichtungen – genehmigt
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 324b941f3814876ac28b37aa09737c861e68fe99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0efffdf37118aec0abeaf47107d3cf120082cc9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693410"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826810"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 für Bildungseinrichtungen – genehmigt
 
@@ -30,7 +30,7 @@ Ihr Einsatz von Office 365 Education wurde genehmigt.  So kaufen Sie es:
 
 3. Zeigen Sie auf das Abonnement, das Sie kaufen möchten, und klicken Sie auf **Jetzt kaufen**.
 
-4. [Richten Sie Ihren Microsoft 365 Education-Mandanten](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) ein.
+4. [Richten Sie Ihren Microsoft 365 Education-Mandanten](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) ein.
 
 **Aktivieren von Teams**
 

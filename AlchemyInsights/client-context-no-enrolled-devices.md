@@ -1,5 +1,5 @@
 ---
-title: Client Kontext – keine registrierten Geräte
+title: Clientkontext – keine registrierten Geräte
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "2630"
-ms.openlocfilehash: 99e882467bdfceab4226399d3bea3950192817d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a5738d933ebe63d6ffb7e1a1008b6e3d5ea2ad47f453a4aa0028e566f344ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681331"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930538"
 ---
-# <a name="client-context---no-enrolled-devices"></a>Client Kontext – keine registrierten Geräte
+# <a name="client-context---no-enrolled-devices"></a>Clientkontext – keine registrierten Geräte
 
-Ihr Mandant verfügt über keine Mobile Geräteverwaltung (MDM)-registrierter Geräte mit InTune. Wenn Sie Ihre Geräte über InTune MDM registrieren und verwalten möchten, lesen Sie die Dokumentation [hier](https://docs.microsoft.com/intune/device-enrollment) für die gewünschte Plattform. Wenn Sie eine MDM-oder nur App-Schutzfunktion eines Drittanbieters verwenden, ist möglicherweise keine Aktion erforderlich. 
+Ihr Mandant verfügt über keine für die Verwaltung mobiler Geräte (Mobile Device Management, MDM) registrierten Geräte bei Intune. Wenn Sie Ihre Geräte über Intune MDM registrieren und verwalten möchten, lesen Sie die [hier](https://docs.microsoft.com/intune/device-enrollment) aufgeführte Dokumentation für die gewünschte Plattform. Wenn Sie ein MDM eines Drittanbieters oder nur App Protection-Features verwenden, ist möglicherweise keine Aktion erforderlich. 

@@ -1,5 +1,5 @@
 ---
-title: Die Besprechungsaufzeichnung von Teams kann nicht finden werden
+title: Teams Besprechungsaufzeichnung nicht gefunden
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 5dcc66617eff38aa340019ac01fc8ccde933324a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50257595"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321472"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Die Besprechungsaufzeichnung für Teams kann nicht finden
+# <a name="cant-find-the-teams-meeting-recording"></a>Teams Besprechungsaufzeichnung nicht gefunden
 
-Wenn Sie eine Besprechungsaufzeichnung von Teams nicht finden oder nicht finden können, lesen Sie die folgende Problembehandlungsdokumentation:
+Wenn Sie eine Teams Besprechungsaufzeichnung nicht finden oder finden können, führen Sie zuerst die Diagnose "Fehlende Besprechungsaufzeichnung" aus, indem Sie **"Diag: Fehlende Aufzeichnung"** im obigen Feld eingeben. 
 
-[Behandeln von Problemen bei der Aufzeichnung von Besprechungen in Teams – Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Aufzeichnungen werden in Stream, OneDrive oder SharePoint gefunden, je nachdem, wie Ihr Mandant konfiguriert ist und ob die Aufzeichnung für eine Kanalbesprechung war. Anweisungen zum manuellen Auffinden der Besprechungsaufzeichnung finden Sie unter: 
 
-Ihre Besprechungsaufzeichnung befindet sich entweder in Stream, OneDrive oder SharePoint, je nachdem, wie Ihr Mandant konfiguriert ist.
+[Problem 2: Der Link zur Besprechungsaufzeichnung ist in einem Chatfenster nicht sichtbar](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Anweisungen zum Suchen der Besprechungsaufzeichnung finden Sie unter:
-
-**[Problem 2: Der Link zur Besprechungsaufzeichnung ist in einem Chatfenster nicht sichtbar](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Weitere Informationen finden Sie unter [Probleme mit Besprechungsaufzeichnungen.](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)

@@ -1,8 +1,9 @@
 ---
-title: Kündigen Ihres Microsoft 365-Abonnements?
+title: Kündigen Ihres Microsoft 365 Abonnements?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 6ede93972410f77addda2a3ce40ff564284a5b53
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232006"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324091"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Kündigen Ihres Microsoft 365-Abonnements?
+# <a name="canceling-your-microsoft-365-subscription"></a>Kündigen Ihres Microsoft 365 Abonnements?
 
-We'reorry to see you go!
+Es tut uns leid, dass Sie losgehen!
   
-Basierend auf den Daten Ihrer Organisation sind wir davon überzeugt, dass alle Ihre aktuellen Abonnements über mehr als 25 zugewiesene Lizenzen verfügen. Bevor Sie abbrechen können:
+Basierend auf Ihren Organisationsdaten gehen wir davon aus, dass alle Ihre aktuellen Abonnements über mehr als 25 zugewiesene Lizenzen verfügen. Bevor Sie abbrechen können:
 
 1. Entfernen Sie Lizenzen von Benutzern, bis Sie weniger als 25 lizenzierte Benutzer haben.
-2. Wechseln Sie zur **Seite "Abrechnung** \> **[Ihrer Produkte".](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-3. Suchen Sie **auf** der Registerkarte "Produkte" das Abonnement, das Sie kündigen möchten, wählen Sie weitere Aktionen **(drei** Punkte) aus, und wählen Sie dann Abonnement **kündigen aus.**
+2. Wechseln Sie zur Seite **"Abrechnung** \> **[Für Ihre Produkte".](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+3. Suchen Sie auf der Registerkarte **"Produkte"** das Abonnement, das Sie kündigen möchten, wählen Sie die drei Punkte (weitere Aktionen) und dann **"Abonnement kündigen"** aus.
 
 **Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
 

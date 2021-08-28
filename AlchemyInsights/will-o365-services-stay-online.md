@@ -1,5 +1,5 @@
 ---
-title: Werden Office 365 Dienste online bleiben?
+title: Bleiben Office 365 Dienste online?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49666657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036851"
 ---
-# <a name="will-office-365-services-stay-online"></a>Werden Office 365 Dienste online bleiben?
+# <a name="will-office-365-services-stay-online"></a>Bleiben Office 365 Dienste online?
 
-Ja. Wir haben diese Dienste mit Flexibilität im Hinterkopf entwickelt. Jeder der Dienste führt mehrere Instanzen gleichzeitig aus, auch wenn eine Instanz Probleme hat, sind unsere Kunden davon nicht betroffen. Jeder Dienst ist ebenfalls enthalten, wenn also ein Problem mit einem Dienst eingeht, wird es nicht auf die restlichen Dienste verteilt. Schließlich wurden Sicherheitsvorkehrungen in den Code jedes Diensts integriert, um Probleme beim kaskadieren durch den Dienst zu vermeiden.
+Ja. Wir haben diese Dienste unter Berücksichtigung der Resilienz entwickelt. Jeder der Dienste führt mehrere Instanzen gleichzeitig aus. Selbst wenn eine Instanz Probleme hat, sind unsere Kunden nicht betroffen. Jeder Dienst ist ebenfalls enthalten, wenn also ein Problem mit einem Dienst auftritt, wird es nicht auf die restlichen Dienste verteilt. Schließlich wurden Sicherheitsvorkehrungen in den Code jedes Diensts integriert, um zu verhindern, dass Probleme über den Dienst kaskadiert werden.
 
-Weitere Informationen zu unseren Bemühungen, unsere Dienste stabil zu halten, finden Sie unter [Enterprise Business Continuity Management (EBCM) mit Cloud Services](https://go.microsoft.com/fwlink/?linkid=2124377).
+Weitere Informationen zu unseren Anstrengungen, unsere Dienste stabil zu halten, finden Sie [unter Enterprise Business Continuity Management (EBCM) mit Clouddiensten.](https://go.microsoft.com/fwlink/?linkid=2124377)
 
-Wir freuen uns über Ihr Feedback, wählen Sie also bitte **Ja** / **Nein** , um die Frage, die angezeigt wird, und bewerten Sie dann Ihre Erfahrung.
+Wir freuen uns über Ihr Feedback. Wählen Sie daher **"Ja** / **Nein"** für die angezeigte Frage aus, und bewerten Sie dann Ihre Erfahrung.

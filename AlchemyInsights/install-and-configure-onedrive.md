@@ -1,5 +1,5 @@
 ---
-title: Installieren und Konfigurieren von OneDrive
+title: Installieren und Konfigurieren OneDrive
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078117"
 ---
-# <a name="install-and-configure-onedrive"></a>Installieren und Konfigurieren von OneDrive
+# <a name="install-and-configure-onedrive"></a>Installieren und Konfigurieren OneDrive
 
-Der OneDrive-synchronisierungsclient ist mit Windows 10 bereits vorinstalliert. Um OneDrive für Windows 7 oder Mac zu installieren oder um die Mobile App für Ihr Telefon oder Tablet zu erhalten, wechseln Sie zu [https://onedrive.com/download](https://onedrive.com/download) .
+Der OneDrive-Synchronisation-Client ist mit Windows 10 vorinstalliert. Um OneDrive für Windows 7 oder Mac zu installieren oder die mobile App für Ihr Smartphone oder Tablet zu erhalten, wechseln Sie zu [https://onedrive.com/download](https://onedrive.com/download) .
   
-Informationen zum Einrichten des OneDrive-Synchronisierungs Clients in Windows finden Sie unter:
+Informationen zum Einrichten des OneDrive-Synchronisation-Clients in Windows finden Sie unter:
   
-- [OneDrive Einrichten der Anleitung](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) für die ersten Schritte mit OneDrive Dateispeicherung, Freigabe, Zusammenarbeit und Synchronisierungsfunktionen.
+- OneDrive Anleitung für die ersten Schritte mit OneDrive Dateispeicherung, Freigabe, Zusammenarbeit und Synchronisierungsfunktionen [einrichten.](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide)
 
-- [Einrichten des Computers für die Synchronisierung Ihrer OneDrive für Unternehmen Dateien](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Einrichten des Computers zum Synchronisieren der OneDrive for Business Dateien](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [Synchronisieren von SharePoint-Dateien mit dem neuen OneDrive-Synchronisierungsclient](https://go.microsoft.com/fwlink/?linkid=871666)

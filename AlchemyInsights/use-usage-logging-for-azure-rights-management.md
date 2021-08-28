@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5506"
 - "9002281"
-ms.openlocfilehash: f1483e177ec6fcdd39d0aae481d3b329b11577d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 083617154231d2315c78ed970ef8b5aa4f0276d14ff254a8f89eac1d53059b42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104246"
 ---
 # <a name="use-usage-logging-for-azure-rights-management"></a>Verwenden der Verwendungsprotokollierung für Azure Rights Management
 

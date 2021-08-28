@@ -11,12 +11,12 @@ ms.custom:
 - "9002239"
 - "4348"
 ms.assetid: ''
-ms.openlocfilehash: 13478e3b991f9abe38a39f9c5cf93a45379a53ff
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e696ef434e8017e84b75632845eb20fdf201ccb7e80a5b07864b8848b891c69
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008545"
 ---
 # <a name="teams-emergency-calling"></a>Teams-Notrufe
 

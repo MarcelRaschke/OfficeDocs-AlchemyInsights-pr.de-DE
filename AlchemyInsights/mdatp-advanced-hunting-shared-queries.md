@@ -1,5 +1,5 @@
 ---
-title: 9001220 mdatp Advanced Hunting Shared Queries
+title: 9001220 mdatp advanced hunting shared queries
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3201"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7f535f5aaa42071c81cbae5df51efba1a28fe070c13ef1bf21a78b23c10f6bbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48278501"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042125"
 ---
-# <a name="sharing-advanced-hunting-queries"></a>Weiterleiten von erweiterten Jagd Abfragen
+# <a name="sharing-advanced-hunting-queries"></a>Freigeben erweiterter Suchabfragen
 
-Erweiterte Suchabfragen können von Benutzern in der gleichen Organisation gemeinsam verwendet werden. Sie können öffentlich freigegebene Abfragen auch auf GitHub finden. Mit diesen Abfragen können Sie bestimmte Bedrohungsszenarien schnell verfolgen, ohne dass Sie Abfragen von Grund auf neu erstellen müssen.
+Erweiterte Suchabfragen können für Benutzer in derselben Organisation freigegeben werden. Sie können öffentlich freigegebene Abfragen auch auf GitHub finden. Mit diesen Abfragen können Sie bestimmte Bedrohungsszenarien schnell verfolgen, ohne dass Sie Abfragen von Grund auf neu erstellen müssen.
   
-Ausführliche Informationen finden Sie unter [use Shared Queries in Advanced Hunting](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
+Ausführliche Informationen finden Sie unter [Verwenden freigegebener Abfragen in der erweiterten Suche.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries)

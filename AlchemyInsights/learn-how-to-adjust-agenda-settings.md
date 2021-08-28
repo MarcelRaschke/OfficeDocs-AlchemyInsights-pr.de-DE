@@ -1,5 +1,5 @@
 ---
-title: 603 Informationen zum Anpassen von Tages Ordnungs Einstellungen
+title: 603 Erfahren Sie, wie Sie agenda-Einstellungen anpassen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: 1dac3f87e47eb791add54015673fb3ba1ae0c3b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10aa9b32c50763d6d8c4a5db793204a7993a8498e5589312b54e2d02a14d7dcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054113"
 ---
-# <a name="learn-how-to-configure-agenda-settings"></a>Informationen zum Konfigurieren von Tages Ordnungs Einstellungen
+# <a name="learn-how-to-configure-agenda-settings"></a>Erfahren Sie, wie Sie Agendaeinstellungen konfigurieren
 
-Die Tages Ordnungs Einstellungen befinden sich in den **Kalender** Einstellungen in Outlook im Internet. Weitere Informationen finden Sie unter [Kalendereinstellungen in Outlook im Internet](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
+Agenda-Einstellungen befinden sich in den **Kalendereinstellungen** in Outlook im Web. Weitere Informationen finden Sie unter [Kalendereinstellungen in Outlook im Web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
 
-Administratoren können das Cmdlet " **CalendarNotification** " in Exchange Online PowerShell zum Konfigurieren von Tages Ordnungs Einstellungen verwenden. Weitere Informationen finden Sie unter [Sets-CalendarNotification](https://technet.microsoft.com/library/dd351284).
+Administratoren können das Cmdlet **"Set-CalendarNotification"** in Exchange Online PowerShell verwenden, um Agendaeinstellungen zu konfigurieren. Weitere Informationen finden Sie unter ["Set-CalendarNotification".](https://technet.microsoft.com/library/dd351284)

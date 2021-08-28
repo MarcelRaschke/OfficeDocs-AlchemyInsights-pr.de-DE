@@ -1,8 +1,8 @@
 ---
-title: Aktivieren von Microsoft Teams
+title: Aktivieren Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -16,15 +16,15 @@ ms.custom:
 - "9000725"
 - "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: b29db4001f0e60bf714a856d80bb1eca19db3d93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 161e7e1b4a682b2e60c40b2a53b5b10da2904b351de40803f8b9d8a580fc49af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710014"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002947"
 ---
 # <a name="enable-and-use-microsoft-teams"></a>Aktivieren und Verwenden von Microsoft Teams
 
-Wenn Sie keinen Zugriff auf Microsoft Teams haben, sehen Sie sich an, [wie ich Zugriff auf Microsoft Teams erhalte](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
+Wenn Sie überhaupt keinen Zugriff auf Microsoft Teams haben, sehen Sie sich an, [wie ich Zugriff auf Microsoft Teams erhalte.](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
 
-Wenn Sie bereits über Microsoft Teams verfügen und wissen müssen, wie es konfiguriert und verwaltet wird, finden Sie weitere Informationen unter [Verwalten von Microsoft Teams-Einstellungen für Ihre Organisation](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).
+Wenn Sie bereits über Microsoft Teams verfügen und wissen müssen, wie Sie sie konfigurieren und verwalten können, lesen Sie die Informationen unter [Verwalten Microsoft Teams Einstellungen für Ihre Organisation.](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)

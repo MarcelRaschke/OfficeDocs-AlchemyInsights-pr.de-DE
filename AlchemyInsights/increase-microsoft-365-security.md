@@ -2,7 +2,7 @@
 title: Erhöhte Microsoft 365 Security
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9001681"
 - "3746"
 - "3821"
-ms.openlocfilehash: 89756a8266ec80766a01bcc2f17d5540b8591de2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e6bef7e17a1647073f9dcda06f152ba0d32be5e082d89f7fff714561babeacff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756138"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912777"
 ---
 # <a name="increase-microsoft-365-security"></a>Erhöhte Microsoft 365 Security
 

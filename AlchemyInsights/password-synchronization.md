@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8619"
-ms.openlocfilehash: 601649f6e5212ca03df5fcc32cd1d02c133e9170
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 3cdde086e535d2397b4d1a8a66903121a5217015ca055fb9f8d025b0842f044b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50449140"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960834"
 ---
 # <a name="password-synchronization"></a>Kennwortsynchronisierung
 
@@ -26,27 +26,27 @@ ms.locfileid: "50449140"
 
 Einige häufige Probleme, die Kunden auftreten, wenn die Kennworthashsynchronisierung nicht funktioniert, sind:
 
-- Das active Directory-Konto, das von Azure AD Connect für  die Kommunikation mit lokalem Active Directory verwendet wird, erhält keine Replikation von Verzeichnisänderungen und Verzeichnisänderungen **Replizieren Alle** Berechtigungen, die für die Kennwortsynchronisierung erforderlich sind. Sie müssen dies beheben, indem Sie dem Active Directory-Konto diese Berechtigungen erteilen.
-- Die Kennworthashsynchronisierung wird deaktiviert, nachdem ein  Administrator die User Sign-In-Methode von der Kennwortsynchronisierung in eine andere Option wie  den Verbund mit **AD FS** im Azure AD Sign-In geändert hat. Sie können dies beheben, indem Sie das Feature für die Kennworthashsynchronisierung im Azure AD #A1 erneut aktivieren.
-- Verbindungsproblem mit lokalem Active Directory. Beispielsweise kann azure AD Connect nicht auf einige [](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) Domänencontroller zugreifen, oder die erforderlichen Ports werden von der Firewall blockiert. Sie müssen dies beheben, indem Sie sicherstellen, dass die Verbindung zwischen dem Azure AD Connect-Server und dem lokalen Active Directory ordnungsgemäß funktioniert.
-- Azure AD #A0 befindet sich derzeit im Stagingmodus, was dazu führt, dass der Server nicht in der Lage ist, die Kennworthashes zu verwenden. Führen Sie zur Problembehandlung die im Abschnitt Problembehandlung bei der Kennwortsynchronisierung mit azure AD Connect-Synchronisierung beschriebenen Schritte aus: Keine Kennwörter werden [synchronisiert.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
+- Dem Active Directory-Konto, das von Azure AD Verbinden für die Kommunikation mit lokalem Active Directory verwendet wird, werden keine Berechtigungen zum **Replizieren** von Verzeichnisänderungen und **Zum Replizieren von Verzeichnisänderungen gewährt,** die für die Kennwortsynchronisierung erforderlich sind. Sie müssen dies beheben, indem Sie diese Berechtigungen dem Active Directory-Konto erteilen.
+- Die Kennworthashsynchronisierung ist deaktiviert, nachdem ein Administrator die Benutzer-Sign-In-Methode von **der Kennwortsynchronisierung** in eine andere Option wie **Partnerverbund mit AD FS** im Azure AD Verbinden-Assistenten geändert hat. Sie können dies beheben, indem Sie das **Kennworthashsynchronisierungsfeature** im Azure AD Verbinden-Assistenten erneut aktivieren.
+- Konnektivitätsproblem mit lokalem Active Directory. Beispielsweise sind einige Domänencontroller für Azure AD-Verbinden nicht zugänglich, oder die [erforderlichen Ports](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) werden durch firewall blockiert. Sie müssen dies beheben, indem Sie sicherstellen, dass die Konnektivität zwischen dem Azure AD Verbinden-Server und dem lokalen Active Directory ordnungsgemäß funktioniert.
+- Azure AD Verbinden Server, der sich derzeit im Stagingmodus befindet, was dazu führt, dass der Server nicht in der Lage ist, die Kennworthashes zu verwenden. Um das Problem zu beheben, führen Sie die Schritte aus, die im Abschnitt ["Problembehandlung bei der Kennwortsynchronisierung mit Azure AD Verbinden Synchronisierung"](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)beschrieben sind . Es werden keine Kennwörter synchronisiert.
 
 **Kennworthashsynchronisierung funktioniert für einige meiner Benutzer nicht**
 
-1. Wenn Sie festgestellt haben, dass der Kennworthash  für einen Benutzer nicht synchronisiert wird, verwenden Sie die Problembehandlungsaufgabe in Azure AD Connect, um das Problem zu untersuchen und zu beheben. Führen Sie die folgenden Aufgaben aus:
+1. Wenn Sie bemerkt haben, dass der Kennworthash für einen Benutzer nicht synchronisiert wird, verwenden Sie die **Problembehandlungsaufgabe** im Azure AD-Verbinden, um das Problem zu untersuchen und zu beheben. Führen Sie die folgenden Aufgaben aus:
 
     a. [Ausführen der Problembehandlungsaufgabe im Assistenten](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
 
-    b. [Verwenden des Cmdlets zur Problembehandlung, um das Problem der Kennworthashsynchronisierung für eine bestimmte Verwendung zu untersuchen](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
+    b. [Verwenden des Cmdlets zur Problembehandlung, um das Problem bei der Kennworthashsynchronisierung für eine bestimmte Verwendung zu untersuchen](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
-2. Das lokale Active Directory User-Objekt ist für Benutzer aktiviert, um das Kennwort bei der **nächsten Anmeldeoption zu** ändern. Wenn diese Option aktiviert ist, wird dem Benutzer ein temporäres Kennwort zugewiesen, und er wird aufgefordert, das Kennwort bei der nächsten Anmeldung zu ändern. Azure AD Connect synchronisiert keine temporären Kennwörter mit Azure AD.
+2. Das lokale Active Directory-Benutzerobjekt ist für Benutzer aktiviert und **muss bei der nächsten Anmeldeoption das Kennwort ändern.** Wenn diese Option aktiviert ist, wird dem Benutzer ein temporäres Kennwort zugewiesen, und er wird aufgefordert, das Kennwort bei der nächsten Anmeldung zu ändern. Azure AD Verbinden synchronisiert keine temporären Kennwörter mit Azure AD.
 
 Führen Sie eine der folgenden Aufgaben aus, um das oben beschriebene Problem zu beheben:
 
-- Bitten Sie den Benutzer, sich bei der lokalen Anwendung (z. B. Windows Desktop) zu anmelden und das Kennwort zu ändern. Das neue Kennwort wird mit Azure AD synchronisiert.
-- Ein Administrator muss das Kennwort des Benutzers aktualisieren, ohne die Option Benutzer muss das Kennwort bei der nächsten Anmeldung ändern **und** das neue Kennwort für den Benutzer freigeben.
+- Bitten Sie den Benutzer, sich bei der lokalen Anwendung (z. B. Windows Desktop) anzumelden und das Kennwort zu ändern. Das neue Kennwort wird mit Azure AD synchronisiert.
+- Lassen Sie einen Administrator das Kennwort des Benutzers aktualisieren, ohne die Option zu **aktivieren, muss** der Benutzer das Kennwort bei der nächsten Anmeldung ändern und das neue Kennwort für den Benutzer freigeben.
 
-3. Das lokale Active Directory User-Objekt ist **nicht ordnungsgemäß** für die Objektsynchronisierung oder Kennwortsynchronisierung konfiguriert. Um dieses Problem zu beheben, führen Sie die unter Problembehandlung der Kennworthashsynchronisierung mit [Azure AD Connect-Synchronisierung](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)beschriebenen Schritte aus.
+3. Das lokale Active Directory-Benutzerobjekt ist für die Objektsynchronisierung oder Kennwortsynchronisierung **nicht ordnungsgemäß konfiguriert.** Um dieses Problem zu beheben, führen Sie die Schritte aus, die in der Problembehandlung bei der [Kennworthashsynchronisierung mit Azure AD Verbinden Synchronisierung](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)beschrieben sind.
 
 
 

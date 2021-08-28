@@ -1,5 +1,5 @@
 ---
-title: Outlook.com personalisierte e-Mail-Adresse wird nicht gesendet oder empfangen
+title: Outlook.com personalisierte E-Mail-Adresse sendet oder empfängt nicht
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
-ms.openlocfilehash: cf35047c58e9b41359a5b1a92f3be494eefde455
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59ffadb8ef79594c1e0a1933038cc8c923594a30a67678aed36aa62cf174c3aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096009"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Meine personalisierte Outlook.com-e-Mail-Adresse wird nicht gesendet oder empfangen
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Meine personalisierte Outlook.com-E-Mail-Adresse sendet oder empfängt nicht
 
-Wählen Sie das Diamant Symbol in der Symbolleiste aus, um das Premium Dashboard zu öffnen.
+Wählen Sie das Rautensymbol auf der Symbolleiste aus, um das Premium-Dashboard zu öffnen.
 
-Wenn in Ihrem Posteingang kein Diamant Symbol angezeigt wird (und Sie anzeigen sehen), bedeutet dies, dass Ihr Microsoft 365-Abonnement abgelaufen ist. Wechseln Sie zu,  [https://account.microsoft.com/services](https://account.microsoft.com/services) um Ihr Abonnement erneut zu aktivieren, und verbinden Sie dann Ihre Domäne mit den Schritten in "erste Schritte".
+Wenn in Ihrem Posteingang kein Rautensymbol angezeigt wird (und Anzeigen angezeigt werden), bedeutet dies, dass Ihr Microsoft 365 Abonnement abgelaufen ist. Wechseln [https://account.microsoft.com/services](https://account.microsoft.com/services) Sie, um Ihr Abonnement erneut zu aktivieren, und verbinden Sie dann Ihre Domäne mithilfe der Schritte unter "Erste Schritte".
 
-Wenn die Registerkarte "personalisierte e-Mail-Adresse" über eine rote Statusleiste verfügt, ist Ihre Domäne möglicherweise abgelaufen.
+Wenn die Registerkarte "Personalisierte E-Mail-Adresse" eine rote Statusleiste aufweist, ist Ihre Domäne möglicherweise abgelaufen.
 
-Lesen Sie weitere Schritte zur Problembehandlung [in personalisierten e-Mail-Adressen in Microsoft 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Schritte zur Problembehandlung für [personalisierte E-Mail-Adressen finden](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy)Sie in Microsoft 365.

@@ -1,8 +1,9 @@
 ---
 title: Kündigen, Erstatten oder Schließen Ihres Microsoft 365-Abonnements
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002914"
 - "5614"
-ms.openlocfilehash: 4c9ef57546b2dabecd15f1cad47f918d4a0aeda0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b0edc8f3cf3c61e0b16983e171456cc5126f2b27
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683509"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450985"
 ---
 # <a name="cancelrefundclose-your-microsoft-365-subscription"></a>Kündigen/Erstatten/Schließen Ihres Microsoft 365-Abonnements
 

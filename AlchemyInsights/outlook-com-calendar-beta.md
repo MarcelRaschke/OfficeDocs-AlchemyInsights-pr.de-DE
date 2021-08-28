@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064563"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Neue Kalender Erlebnisse kommen zu Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Neue Kalendererfahrungen, die auf Outlook.com verfügbar sind
 
-Das neue Erscheinungsbild bringt die besten Designs und Lernfunktionen aus der e-Mail-Umgebung in den Kalender.
+Der neue Look bringt die besten Designs und Erkenntnisse aus der E-Mail-Erfahrung in den Kalender.
 
-Sie verfügen über ein modernes Design, das die Übersichtlichkeit reduziert und ihnen schnellere Möglichkeiten zum Navigieren in Ihrem Kalender bietet. Es ist auch einfacher, interessante Kalender für Ihre bevorzugten Aktivitäten zu finden – von TV-Sendungen über Sportteams bis hin zu Ereignissen.
+Sie werden ein modernes Design genießen, das die visuelle Unübersichtlichkeit reduziert und Ihnen schnellere Möglichkeiten bietet, in Ihrem Kalender zu navigieren. Es ist auch einfacher, interessante Kalender für Ihre bevorzugten Aktivitäten zu finden – von TV-Shows bis hin zu Sportteams und Veranstaltungen.
 
-Wir haben unsere Sammlung von Ereignis Symbolen erweitert und das Aussehen und Verhalten von vorhandenen aktualisiert – und wir fügen jetzt automatisch relevante Symbole zu ihren Ereignissen hinzu, sodass Sie ganz einfach sehen können, was auf einen Blick vor sich geht.
+Wir haben unsere Sammlung von Ereignissymbolen erweitert und das Erscheinungsbild vorhandener Symbole aktualisiert– und wir fügen nun automatisch relevante Symbole zu Ihren Ereignissen hinzu, damit Sie auf einen Blick sehen können, was passiert.
 
-Sie können über den [Outlook.com-Kalender UserVoice-Kanal](https://go.microsoft.com/fwlink/?linkid=2103075)Feedback zu neuen Features geben.
+Sie können Feedback zu neuen Features über den [Outlook.com-Kanal "Calendar UserVoice"](https://go.microsoft.com/fwlink/?linkid=2103075)geben.

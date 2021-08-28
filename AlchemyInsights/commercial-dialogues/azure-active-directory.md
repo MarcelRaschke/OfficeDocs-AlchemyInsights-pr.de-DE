@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0a82646b18b51cf198c287990e5ce447619aac20
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: be92d2397c7088020cc8bea5101acf6717af4db82a785f71d55ec5aff9061b1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059189"
 ---
 # <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft Azure Active Directory (Azure AD) ist ein cloudbasierter Identitäts- und Zugriffsverwaltungsdienst, mit dem Mitarbeiter sich extern und intern anmelden und auf Ressourcen zugreifen können. Weitere Informationen finden Sie in den folgenden Ressourcen:
+Microsoft Azure Active Directory (Azure AD) ist ein cloudbasierter Identitäts- und Zugriffsverwaltungsdienst, der Mitarbeitern hilft, sich sowohl extern als auch intern anzumelden und auf Ressourcen zuzugreifen. Weitere Informationen finden Sie in den folgenden Ressourcen:
 
 - [Was ist Azure Active Directory?](https://go.microsoft.com/fwlink/?linkid=2081145)
 - [Azure-Integration in Office 365](https://go.microsoft.com/fwlink/?linkid=2081218)
-- [Kostenlose Testversion von Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2081144)
+- [Azure Active Directory kostenlose Testversion](https://go.microsoft.com/fwlink/?linkid=2081144)

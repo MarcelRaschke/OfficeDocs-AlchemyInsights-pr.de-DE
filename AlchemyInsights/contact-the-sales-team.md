@@ -2,7 +2,7 @@
 title: Kontaktaufnahme mit dem Vertriebsteam
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
-ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.openlocfilehash: 7072b5291505a2393bff815442a815638205484c7ecacc284a6fc52229fee470
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49529017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914974"
 ---
 # <a name="contact-the-sales-team"></a>Kontaktaufnahme mit dem Vertriebsteam
 

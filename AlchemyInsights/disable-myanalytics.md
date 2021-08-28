@@ -1,8 +1,8 @@
 ---
-title: MyAnalytics deaktivieren
+title: Deaktivieren von MyAnalytics
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001697"
 - "5887"
-ms.openlocfilehash: 1175fdc35d5af7f7a63674cd6004b98b28b6b8aa
-ms.sourcegitcommit: 2fc3f2a83aee6ef290a1ffddc0312877f07b231d
+ms.openlocfilehash: faa48500e46b37bb7b1528292821a4b3b41964fe0459e69028f990aa10a81fd8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47943297"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928738"
 ---
-# <a name="disable-myanalytics"></a>MyAnalytics deaktivieren
+# <a name="disable-myanalytics"></a>Deaktivieren von MyAnalytics
 
-Zum Deaktivieren von myAnalytics siehe [Opt-out von myAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya). 
+Informationen zum Deaktivieren von MyAnalytics finden Sie unter ["Abmelden von MyAnalytics".](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya) 
 
-Weitere Informationen zu myAnalytics finden Sie unter [myAnalytics-Einführung](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page).
+Weitere Informationen zu MyAnalytics finden Sie in der [Einführung in MyAnalytics.](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page)

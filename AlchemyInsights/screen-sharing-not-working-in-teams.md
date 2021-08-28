@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003304"
 - "6207"
-ms.openlocfilehash: 6412791dbd2c9a4c604c114574a00c9b80dfd332
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: bee7d313ccb56aad7ccdd5d20a55a843f069cdaa01c23e763a253c54a2ad55ce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277872"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109095"
 ---
 # <a name="screen-sharing-not-working-in-teams"></a>Bildschirmfreigabe in Teams funktioniert nicht
 

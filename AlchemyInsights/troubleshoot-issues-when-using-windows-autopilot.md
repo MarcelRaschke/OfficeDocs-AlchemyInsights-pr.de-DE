@@ -1,5 +1,5 @@
 ---
-title: Behandeln von Problemen bei der Verwendung von Windows Autopilot
+title: Behandeln von Problemen bei der Verwendung von Windows AutoPilot
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: b86230d1073f2423a6abf694d5330dd72fec7912
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 8fb28280952522ede040441c20434e34c19695aba00889e2978ed98ef1544819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949744"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008329"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Behandeln von Problemen bei der Verwendung von Windows Autopilot
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Behandeln von Problemen bei der Verwendung von Windows AutoPilot
 
-Wenn Sie ein Problem mit Autopilot haben, lesen Sie die Seite [Autopilot Troubleshooting](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) and [Known Issues](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) .
+Wenn Ein Problem mit AutoPilot auftritt, lesen Sie die Seite ["Autopilot-Problembehandlung"](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) und ["Bekannte Probleme".](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues)
 
-Wenn Sie ein Problem mit dem Windows Autopilot-anhalten während einer Phase der Registrierungs Status Seite (ESP) haben, lesen Sie das folgende Dokument, um Hinweise zur Problembehandlung zu erhalten. [Verstehen und Problembehandlung der Registrierungs Status Seite](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
+Wenn ein Problem mit Windows AutoPilot während einer Phase der Registrierungsstatusseite (ESP) auftritt, finden Sie im folgenden Dokument Hinweise zur Problembehandlung. [Grundlegendes zur Registrierungsstatusseite und Problembehandlung](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
 
-Wenn Sie Autopilot mit Hololens 2-Geräten ausprobieren möchten, lesen Sie unbedingt die Dokumentation "[Windows Autopilot for Hololens 2](https://docs.microsoft.com/hololens/hololens2-autopilot) ". Dies hilft Ihnen, die Voraussetzungen und empfohlenen Schritte für die Registrierung von Hololens 2 mithilfe von Autopilot zu verstehen.  
+Wenn Sie Autopilot mit Hololens 2-Geräten ausprobieren möchten, stellen Sie sicher, dass Sie die Dokumentation["Windows Autopilot für HoloLens 2"](https://docs.microsoft.com/hololens/hololens2-autopilot) lesen. Dies hilft Ihnen, die Voraussetzungen und empfohlenen Schritte für die Registrierung von Hololens 2 mitHilfe von Autopilot zu verstehen.  
 
-Weitere Informationen zum Einrichten von Windows Autopilot finden Sie unter [Registrieren von Windows-Geräten in InTune mithilfe von Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)
+Weitere Informationen zum Einrichten Windows Autopilot finden Sie unter [Registrieren Windows Geräte in Intune mithilfe von Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)

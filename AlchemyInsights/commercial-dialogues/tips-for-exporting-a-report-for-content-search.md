@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464555"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978880"
 ---
 # <a name="tips-for-exporting-a-report-for-content-search"></a>Tipps zum Exportieren eines Berichts für die Inhaltssuche
 
 Möglicherweise müssen Sie einen Bericht einer Inhaltssuche anzeigen, anstatt die vollständigen Suchergebnisse zu exportieren. Wenn ja, können Sie nur einen Bericht der Suchergebnisse exportieren. Hier finden Sie einige Tipps:
 
-- Stellen Sie sicher, dass Ihrem Konto die Verwaltungsrolle Compliancesuche zugewiesen ist.
-- Stellen Sie sicher, dass Ihr Computer alle [voraussetzungen erfüllt hat.](https://go.microsoft.com/fwlink/?linkid=2102407) Nicht alle Browser werden unterstützt, z. B. Chrome.
-- Sie können die Exportergebnisse auf weniger als 20 TB einenknen, damit der Export nicht fehlschlägt. Versuchen Sie, einen kleineren Datumsbereich oder weniger Suchstandorte zu verwenden.
-- Das Exportieren eines Berichts gilt für die maximale Anzahl von Berichten, die gleichzeitig ausgeführt werden können.
+- Stellen Sie sicher, dass Ihrem Konto die Verwaltungsrolle "Compliancesuche" zugewiesen ist.
+- Stellen Sie sicher, dass Ihr Computer alle [Voraussetzungen](https://go.microsoft.com/fwlink/?linkid=2102407)erfüllt hat. Nicht alle Browser werden unterstützt, z. B. Chrome.
+- Beschränken Sie ihre Exportergebnisse auf weniger als 20 TB, damit der Export nicht fehlschlägt. Versuchen Sie, einen kleineren Datumsbereich oder weniger Suchspeicherorte zu verwenden.
+- Das Exportieren eines Berichts zählt mit der maximalen Anzahl von Berichten, die gleichzeitig ausgeführt werden können.
 
-Weitere Informationen finden Sie unter [Exportieren eines Inhaltssuchberichts.](https://go.microsoft.com/fwlink/?linkid=2102409)
+Weitere Informationen finden Sie unter ["Exportieren eines Inhaltssucheberichts"](https://go.microsoft.com/fwlink/?linkid=2102409)

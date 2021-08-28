@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: f086bd7312772b399146cd81261f147364d64665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd3cb78ca96953403bd0acc7e36e8466face0efd230d64dabcf055185c8ab12a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095289"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Funktionsweise von Berechtigungsvererbung in SharePoint
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Funktionsweise der Vererbung von Berechtigungen in SharePoint
 
-Standardmäßig werden Berechtigungen in SharePoint von oben in der Hierarchie vererbt. Eine Datei erbt also Ihre Berechtigungen aus dem Ordner, der Ihre Berechtigungen von der Bibliothek erbt, die ihre Berechtigungen von der Website erbt, die ihre Berechtigungen von der Websitesammlung erbt.
+Standardmäßig werden Berechtigungen in SharePoint von höher nach oben in der Hierarchie geerbt. Eine Datei erbt also ihre Berechtigungen vom Ordner, der ihre Berechtigungen von der Bibliothek erbt, die ihre Berechtigungen von der Website erbt, die ihre Berechtigungen von der Websitesammlung erbt.
   
-Informationen zum Entfernen eindeutiger Berechtigungen und zum Wiederherstellen der Vererbung finden Sie unter [Bearbeiten und Verwalten von Berechtigungen für eine Liste oder Bibliothek](https://go.microsoft.com/fwlink/?linkid=869946).
+Informationen zum Entfernen eindeutiger Berechtigungen und Wiederherstellen der Vererbung finden Sie unter [Bearbeiten und Verwalten von Berechtigungen für eine Liste oder Bibliothek.](https://go.microsoft.com/fwlink/?linkid=869946)
   
 

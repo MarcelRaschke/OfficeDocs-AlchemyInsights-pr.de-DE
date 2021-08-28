@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 568ac18e98e49524832c144164c2fef7915f73bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c78095a5d5aac4015e4826c78136db3b7ffda95872024a0058a7e8f8b2ccef4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675765"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986701"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Dateien, die nicht in SharePoint Online hochgeladen werden können
 
-Wenn eine Datei nicht in SharePoint Online hochgeladen wird, stellen Sie sicher:
+Wenn eine Datei nicht in SharePoint Online hochgeladen wird, stellen Sie Folgendes sicher:
   
-- Die Größe ist kleiner als 15 GB.
+- Die Größe beträgt weniger als 15 GB.
     
-- Der gesamte Pfad, einschließlich des Datei namens, beträgt weniger als 400 Zeichen.
+- Der gesamte Pfad einschließlich des Dateinamens beträgt weniger als 400 Zeichen.
     
-- Der Dateiname enthält nicht die Zeichen " \* : \< \> ? / \ | und steht nicht in der Liste der [ungültigen Namen](https://go.microsoft.com/fwlink/?linkid=866430).
+- Der Dateiname enthält nicht die Zeichen " \* : \< \> ? / \ | und nicht in der Liste [ungültiger Namen](https://go.microsoft.com/fwlink/?linkid=866430)enthalten ist.
     
-Wenn Sie versuchen, die Datei mithilfe der OneDrive-Desktop-App hochzuladen, finden Sie unter [Einschränkungen und Einschränkungen beim Synchronisieren von Dateien und Ordnern](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) oder [Beheben von OneDrive-Synchronisierungsproblemen](https://go.microsoft.com/fwlink/?linkid=866431).
+Wenn Sie versuchen, die Datei mithilfe der OneDrive Desktop-App hochzuladen, lesen Sie Einschränkungen und Einschränkungen beim Synchronisieren von [Dateien und Ordnern](https://go.microsoft.com/fwlink/p/?LinkID=717734) oder [beheben sie OneDrive-Synchronisation Probleme.](https://go.microsoft.com/fwlink/?linkid=866431)
   
 

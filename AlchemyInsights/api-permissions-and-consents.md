@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49951894"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932096"
 ---
 # <a name="api-permissions-and-consent"></a>API-Berechtigungen und Zustimmung
 
-Anwendungen, die mit Microsoft Identity Platform integriert werden, folgen einem Autorisierungsmodell, mit dem Benutzer und Administratoren steuern können, wie auf Daten zugegriffen werden kann. Die Implementierung des Autorisierungsmodells wurde auf dem Microsoft Identity Platform-Endpunkt aktualisiert. Es ändert die Art und Weise, wie eine App mit der Microsoft Identity Platform interagieren muss. [Berechtigungen und Zustimmungen im Microsoft Identity](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) Platform-Endpunkt umfassen die grundlegenden Konzepte dieses Autorisierungsmodells, einschließlich Bereiche, Berechtigungen und Zustimmung.
+Anwendungen, die in Microsoft Identity Platform integriert werden, folgen einem Autorisierungsmodell, das Benutzern und Administratoren die Kontrolle darüber gibt, wie auf Daten zugegriffen werden kann. Die Implementierung des Autorisierungsmodells wurde auf dem Microsoft Identity Platform Endpunkt aktualisiert. Es ändert, wie eine App mit dem Microsoft Identity Platform interagieren muss. [Berechtigungen und Zustimmung im Microsoft Identity Platform Endpunkt](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) umfassen die grundlegenden Konzepte dieses Autorisierungsmodells, einschließlich Bereichen, Berechtigungen und Zustimmung.
 
-Das [Azure Active Directory (Azure AD)-Zustimmungsframework](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) erleichtert die Entwicklung von mehr mandanteneigenen Web- und systemeigenen Clientanwendungen. Diese Anwendungen ermöglichen die Anmeldung über Benutzerkonten von einem Azure AD-Mandanten, der sich von dem, in dem die Anwendung registriert ist, unterscheiden. Sie müssen möglicherweise zusätzlich zu Ihren eigenen Web-APIs auch auf Web-APIs wie die Microsoft Graph-API (für den Zugriff auf Azure AD, Intune und Dienste in Microsoft 365) und die APIs anderer Microsoft-Dienste zugreifen.
+Das [Azure Active Directory (Azure AD)-Zustimmungsframework](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) erleichtert die Entwicklung von mehrinstanzenfähigen Web- und systemeigenen Clientanwendungen. Diese Anwendungen ermöglichen die Anmeldung von Benutzerkonten von einem Azure AD-Mandanten, der sich von dem unterscheidet, in dem die Anwendung registriert ist. Sie müssen möglicherweise auch auf Web-APIs wie die Microsoft Graph-API (um auf Azure AD, Intune und Dienste in Microsoft 365 zuzugreifen) und andere APIs der Microsoft-Dienste zugreifen, zusätzlich zu Ihren eigenen Web-APIs.
 

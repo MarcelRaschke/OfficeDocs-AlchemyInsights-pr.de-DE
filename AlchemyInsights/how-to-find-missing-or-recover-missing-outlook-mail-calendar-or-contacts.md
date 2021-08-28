@@ -1,5 +1,5 @@
 ---
-title: 204 suchen nach fehlenden oder wiederhergestellten fehlenden Outlook-Nachrichten, Kalendern oder Kontakten
+title: 204 Suchen nach fehlenden oder fehlenden Outlook E-Mails, Kalendern oder Kontakten
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,25 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7693ec5585ce7562f2feeacc94c592885ccc2ec2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780346"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323157"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Vorgehensweise suchen und Wiederherstellen fehlender Nachrichten, Kontakte oder Kalenderelemente in Outlook
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Suchen und Wiederherstellen fehlender Nachrichten, Kontakte oder Kalenderelemente in Outlook
 
-1. Wechseln Sie in Outlook zu Ihrer Liste e-Mail-Ordner, und wählen Sie dann **Gelöschte Elemente**aus. **Wichtig**: Wenn Sie den Ordner " **Gelöschte Elemente** " nicht sehen, sondern stattdessen den Ordner " **Trash** " sehen, unterstützt Ihr Konto nicht die Rückgewinnung eines Elements, das sich nicht mehr im Ordner " **Gelöschte Elemente** " befindet.
+1. Wechseln Sie in Outlook zu Ihrer E-Mail-Ordnerliste, und wählen Sie dann **gelöschte Elemente aus.** 
 
-2. Klicken Sie im Menü **Start** auf **Gelöschte Elemente aus dem Server wiederherstellen**. **Wichtig**: Wenn im Menü kein Befehl **Gelöschte Elemente aus dem Server wiederherstellen** vorhanden ist, wird das Wiederherstellen eines Elements, das sich nicht mehr im Ordner " **Gelöschte Elemente** " befindet, von Ihrem Konto nicht unterstützt.
+    **Wichtig:** Wenn der Ordner **"Gelöschte Elemente"** nicht angezeigt wird, sondern der **Ordner "Papierkorb",** unterstützt Ihr Konto nicht die Wiederherstellung eines Elements, das sich nicht mehr im Ordner **"Gelöschte Elemente"** befindet.
 
-3. Wählen Sie die Elemente aus, die Sie wiederherstellen möchten, klicken Sie auf **ausgewählte Elemente wiederherstellen**, und klicken Sie dann auf **OK**.
+2. Klicken Sie im Menü **"Start"** auf **"Gelöschte Elemente vom Server wiederherstellen".** 
 
-**Wo werden wiederhergestellte Elemente hin?** Wenn Sie Elemente aus dem Ordner "Wiederherstellbare Elemente" wiederherstellen, werden Sie in den Ordner " **Gelöschte Elemente** " verschoben. Nachdem Sie ein Element wiederhergestellt haben, können Sie es im Ordner " **Gelöschte Elemente** " suchen und dann in einen anderen Ordner verschoben werden.
+    **Wichtig:** Wenn im Menü kein Befehl **"Gelöschte Elemente vom Server wiederherstellen"** vorhanden ist, unterstützt Ihr Konto nicht das Wiederherstellen eines Elements, das sich nicht mehr im Ordner **"Gelöschte Elemente"** befindet.
 
-Sie können auch das [Tool ich habe Probleme beim Senden, empfangen oder suchen von e-Mail-Nachrichten](https://aka.ms/SaRA-OutlookSendReceive) **auf dem betroffenen Computer**verwenden. Dieses Tool prüft eine Reihe von Problemen und schlägt mögliche Lösungen vor.
+3. Wählen Sie die Elemente aus, die Sie wiederherstellen möchten, klicken Sie auf **"Ausgewählte Elemente wiederherstellen"** und dann auf **"OK".**
+
+**Wohin gehen wiederhergestellte Elemente?** Wenn Sie Elemente aus dem Ordner "Wiederherstellbare Elemente" wiederherstellen, werden sie in den Ordner **"Gelöschte Elemente"** verschoben. Nachdem Sie ein Element wiederhergestellt haben, finden Sie es im Ordner **"Gelöschte Elemente",** und dann können Sie es in einen anderen Ordner verschieben.
+
+Sie können auch das Tool zum Senden, Empfangen oder Suchen von [E-Mail-Nachrichten](https://aka.ms/SaRA-OutlookSendReceive) **auf dem betroffenen Computer** verwenden. Dieses Tool sucht nach einer Reihe von Problemen und schlägt mögliche Lösungen vor.

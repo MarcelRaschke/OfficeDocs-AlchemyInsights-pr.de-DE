@@ -3,6 +3,7 @@ title: Übertragung von Lizenzen zwischen Mandanten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,15 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "1500021"
 - "4689"
-- commerce
-ms.openlocfilehash: d2372ac81c1da25d8f024a91bb7d0e0cefb480b6
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.date: 08/27/2021
+ms.openlocfilehash: bd928d945072eeebb4fd47d61982e75b0d317f66
+ms.sourcegitcommit: 44081ba551e0424c7b78ba2304c5705b38567f3d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50468941"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58679334"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Übertragung von Lizenzen zwischen Mandanten
 

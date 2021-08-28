@@ -1,5 +1,5 @@
 ---
-title: Ausgefallene Formatierung für Ihre E-Mail-Signatur und Haftungsausschluss
+title: Ausgefallene Formatierung für Ihre E-Mail-Signatur und den Haftungsausschluss
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f179ff22dea8d5460e2a0604be9071747383e05b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: b202d2812516ebc283075f6c626ef4ecbc382135a5265985ef61aab1c4eedca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058685"
 ---
-# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>Ausgefallene Formatierung für Ihre E-Mail-Signatur und Haftungsausschluss
-Informationen zu ausgefallenen Formatierungen (z. B. hinzufügen von Symbolen, Bildern und Links zu sozialen Medien zu Ihrem Unternehmensausschluss), Informationen zur Kompatibilität mit mobilen Geräten und vieles mehr.
+# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>Ausgefallene Formatierung für Ihre E-Mail-Signatur und den Haftungsausschluss
+Informationen zu ausgefallener Formatierung (z. B. hinzufügen von Symbolen, Bildern und Links zu Ihrem Unternehmen haftungsausschluss für soziale Medien), Informationen zur Kompatibilität mit mobilen Geräten und vieles mehr.
 
-Suchen Sie im Internet nach **E-Mail-Signaturressourcen.** Mehrere Unternehmen, die Informationen und Tools bereitstellen, sind Microsoft Gold Partner.
+Suchen Sie im Internet nach Ressourcen für **E-Mail-Signaturen.** Mehrere Unternehmen, die Informationen und Tools bereitstellen, sind Microsoft Gold-Partner.

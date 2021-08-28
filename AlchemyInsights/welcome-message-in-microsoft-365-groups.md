@@ -2,7 +2,7 @@
 title: Begrüßungsnachricht in Microsoft 365-Gruppen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5685"
-ms.openlocfilehash: de16ca6021441bf6cb781106b7f3da8eed86b0f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81127b79d4e5a16686ca46d67bfac73c15891938491a702219cd73757c4e106c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725838"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997709"
 ---
 # <a name="welcome-message-in-microsoft-365-groups"></a>Begrüßungsnachricht in Microsoft 365-Gruppen
 

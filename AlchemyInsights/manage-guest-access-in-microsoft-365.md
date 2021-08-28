@@ -2,7 +2,7 @@
 title: Verwalten des Gastzugriffs in Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001728"
 - "3826"
-ms.openlocfilehash: d30cead9ff4cead5efeb6bd0eda77c4bc7e20e89
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fef28f0ef63c4c143761c6b1c8f9e9e122db2dffaf63f5ec01c914f89c9a7592
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912021"
 ---
 # <a name="manage-guest-access-in-microsoft-365"></a>Verwalten des Gastzugriffs in Microsoft 365
 

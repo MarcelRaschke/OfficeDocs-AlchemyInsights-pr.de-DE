@@ -1,5 +1,5 @@
 ---
-title: Vorbereiten der Umgebung für Microsoft 365-und Office 365-Dienste
+title: Vorbereiten der Umgebung für Microsoft 365- und Office 365-Dienste
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004182"
 - "7361"
-ms.openlocfilehash: ff96f2cdd52a54afd579e7c0e7db1b2a69825bb7
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: f22eafc68eac3e68ddf831d5a728b004590ee8aaa7da22e508716ceb257250b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49665581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040289"
 ---
-# <a name="prepare-your-environment-for-microsoft-365-and-office-365-services"></a>Vorbereiten der Umgebung für Microsoft 365-und Office 365-Dienste
+# <a name="prepare-your-environment-for-microsoft-365-and-office-365-services"></a>Vorbereiten der Umgebung für Microsoft 365- und Office 365-Dienste
 
-Das [Handbuch prepare your environment](https://go.microsoft.com/fwlink/?linkid=2005213) hilft Ihnen beim Vorbereiten der Umgebung Ihrer Organisation für Microsoft 365 und Office 365-Dienste. Unabhängig von ihren Zielen gibt es Aufgaben, die Sie durchführen müssen, um eine erfolgreiche Bereitstellung sicherzustellen.
+Der [Leitfaden "Vorbereiten ihrer Umgebung"](https://go.microsoft.com/fwlink/?linkid=2005213) hilft Ihnen bei der Vorbereitung der Umgebung Ihrer Organisation auf Microsoft 365 und Office 365 Dienste. Unabhängig von Ihren Zielen gibt es Aufgaben, die Sie ausführen müssen, um eine erfolgreiche Bereitstellung sicherzustellen.
 
-Um Probleme beim Vorbereiten Ihrer Umgebung zu vermeiden, werden Sie mit Schritt-für-Schritt-Anleitungen zum Verbinden Ihrer Domäne, Hinzufügen von Benutzern, Zuweisen von Lizenzen, Einrichten von e-Mails mit Exchange Online und installieren oder Bereitstellen von Office-Apps bereitgestellt.
+Um Probleme bei der Vorbereitung Ihrer Umgebung zu vermeiden, erhalten Sie schrittweise Anweisungen zum Verbinden Ihrer Domäne, zum Hinzufügen von Benutzern, zum Zuweisen von Lizenzen, zum Einrichten von E-Mails mit Exchange Online und zum Installieren oder Bereitstellen Office Apps.

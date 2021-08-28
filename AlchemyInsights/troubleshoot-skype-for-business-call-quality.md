@@ -11,12 +11,12 @@ ms.custom:
 - "9002263"
 - "4364"
 ms.assetid: ''
-ms.openlocfilehash: 088c1cc7b1951bc9b67ffa5b511eec68b7938409
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e7c7fc8cdc50c186d48779e9be740807d40993020cff9c4e7794ceaf1f81443
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664817"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039209"
 ---
 # <a name="troubleshoot-skype-for-business-call-quality"></a>Behandeln von Problemen mit der Skype for Business-Anrufqualität
 

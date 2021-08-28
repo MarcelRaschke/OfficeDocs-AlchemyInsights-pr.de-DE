@@ -2,7 +2,7 @@
 title: Analysen and Yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000311"
 - "1935"
-ms.openlocfilehash: 51ce0519cbeb3728ce92e1a9c605413b775c5471
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8cbdd01f69d198ad2e7660b88fb6525eafe9b765664c3a0a8f958bb713566d1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932924"
 ---
 # <a name="analytics-and-yammer"></a>Analysen and Yammer
 

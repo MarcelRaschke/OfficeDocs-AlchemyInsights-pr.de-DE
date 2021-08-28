@@ -1,5 +1,5 @@
 ---
-title: Allgemeine Outlook-Add-ins-Informationen
+title: Allgemeine Informationen Outlook Add-Ins
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 308c53545a73b5c2ea9052e04a29773b586dc86b
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 790de41737c2915969a7a5a2300213559f08b2ae2f9c3e900b96e0e25fb9c06a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49652182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116943"
 ---
-# <a name="general-outlook-add-ins-information"></a>Allgemeine Outlook-Add-ins-Informationen
+# <a name="general-outlook-add-ins-information"></a>Allgemeine Informationen Outlook Add-Ins
 
-Besuchen Sie diese Website für Ihre all-in-Dokumentationsressourcen zum [Erstellen von Outlook-Add-ins](https://docs.microsoft.com/office/dev/add-ins/outlook/).
+Besuchen Sie diese Website, um Ihre gesamten Dokumentationsressourcen zum [Erstellen Outlook-Add-Ins zu finden.](https://docs.microsoft.com/office/dev/add-ins/outlook/)
 
-Weitere Ressourcen zur Verwaltung, Bereitstellung und Aktivierung von Add-Ins finden Sie unter:
+Weitere Ressourcen zum Verwalten, Bereitstellen und Aktivieren von Add-Ins finden Sie unter:
 
-- [Bestimmen Sie, ob die zentrale Bereitstellung von Add-Ins für Ihre Organisation funktioniert](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
+- [Ermitteln Sie, ob die zentrale Bereitstellung von Add-Ins für Ihre Organisation funktioniert.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins)
 - [Verwalten der Bereitstellung von Add-Ins im Microsoft 365 Admin Center](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
 - [Festlegen der Administratoren und Benutzer, die Add-Ins für Outlook installieren und verwalten dürfen](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

@@ -1,8 +1,8 @@
 ---
-title: Hinterlassen einer Feature-oder Feedback-Anforderung im App-Design
+title: Hinterlassen sie eine Featureanfrage oder Feedback zum App-Design.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1dde197b08328206e19e9943a56c06d9942cbaec9c04c97a18dcc821c822ff16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042809"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Hinterlassen einer Feature-oder Feedback-Anforderung im App-Design
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Hinterlassen sie eine Featureanfrage oder Feedback zum App-Design.
 
-Wir freuen uns, dass Sie Ihre Gedanken teilen, da wir weiterhin an Outlook arbeiten. *UserVoice* ist ein Forum, in dem Sie Feedback hinterlassen und über die Ideen anderer abstimmen können.  
+Wir freuen uns, dass Sie Uns Ihre Meinung mitteilen, während wir weiterhin an Outlook arbeiten. *UserVoice* ist ein Forum, in dem Sie Feedback abgeben und über die Ideen anderer abstimmen können.  
 
-Um uns eine Idee zu hinterlassen: 
+So lassen Sie uns eine Idee: 
 
-**Einstellungen > Hilfe & Feedback > vorschlagen einer Funktion > Beitrag eine Idee** 
+**Einstellungen > Hilfe & Feedback > Vorschlagen eines Features > Bereitstellen einer Idee** 
 
-**Wie wird Ihr Name/Ihre e-Mail-Anzeige angezeigt?**
+**Achten Sie darauf, wie Ihr Name/Ihre E-Mail angezeigt wird?**
 
-Wenn Sie einer vorhandenen Feature-Anfrage einen Kommentar hinzufügen, wird die APP automatisch Ihren Namen oder Ihre e-Mail-Adresse von Ihrem primären Konto auffüllen, das in der APP eingerichtet wurde. Um auszuwählen, welcher Name angezeigt wird, müssen Sie eine **neue** Feature-Anfrage übermitteln. 
+Wenn Sie einer vorhandenen Featureanforderung einen Kommentar hinzufügen, füllt die App automatisch Ihren Namen oder Ihre E-Mail-Adresse von Ihrem primären Konto aus, das in der App eingerichtet ist. Um auszuwählen, welcher Name angezeigt wird, müssen Sie eine **NEUE** Featureanforderung senden. 
 
-Das Senden einer Anforderung erfolgt in einem einfachen dreistufigen Prozess. Auf der dritten und letzten Seite sehen Sie eine Reihe für Ihre e-Mail-Adresse (erforderlich) und eine Textreihe für Ihren Namen. Hier können Sie auswählen, wie Ihr Name angezeigt wird, oder Sie können die Idee anonym übermitteln. 
+Das Senden einer Anforderung ist ein einfacher 3-Schritt-Prozess. Auf der dritten und letzten Seite sehen Sie eine Zeile für Ihre E-Mail-Adresse (erforderlich) und eine Zeile für Ihren Namen. Hier können Sie auswählen, wie Ihr Name angezeigt wird, oder Sie können die Idee anonym übermitteln. 
 
-**Hinweis:** Möglicherweise müssen Sie auch ändern, welche e-Mail-Adresse auf dieser Seite automatisch aufgefüllt wird. Wenn Ihr Name auf eine bestimmte Weise innerhalb der Einstellungen Ihres e-Mail-Clients eingerichtet ist, kann das Ändern der Feedback Übermittlung in Anonymous von Ihren Einstellungen außer Kraft gesetzt werden. 
+**Hinweis:** Möglicherweise müssen Sie auch ändern, welche E-Mail-Adresse automatisch auf dieser Seite aufgefüllt wird. Wenn Ihr Name in den Einstellungen Ihres E-Mail-Clients auf eine bestimmte Weise eingerichtet ist, wird die Änderung der Feedbackübermittlung in anonym möglicherweise durch Ihre Einstellungen außer Kraft gesetzt. 

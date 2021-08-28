@@ -1,5 +1,5 @@
 ---
-title: Informationen über Progressive-Webanwendungen (PWAs) auf Microsoft Edge (Chrom)
+title: Erfahren Sie mehr über Progressive Web Apps (PWAs) auf Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617292"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101445"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Informationen über Progressive-Webanwendungen (PWAs) auf Microsoft Edge (Chrom)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Erfahren Sie mehr über Progressive Web Apps (PWAs) auf Microsoft Edge (Chromium)
 
-PWAs sind Websites, die schrittweise erweitert werden, um wie Native apps auf Plattformen zu funktionieren, die Sie unterstützen. PWAs kombiniert die besten Eigenschaften von Webanwendungen und systemeigenen apps.
+PWAs sind Websites, die schrittweise so erweitert werden, dass sie wie systemeigene Apps auf Plattformen funktionieren, die sie unterstützen. PWAs kombinieren die besten Eigenschaften von Web- und nativen Apps.
 
-Aus der Perspektive einer Webplattform basieren [PWAs auf Microsoft Edge (Chrom)](https://go.microsoft.com/fwlink/?linkid=2135193) auf Standards. Benutzer können apps direkt im Browser installieren und benötigen keine Microsoft Store-basierte Bereitstellung oder Registrierung. Desktop PWAs werden auf jeder Plattform unterstützt, auf der Microsoft Edge (Chrom) verfügbar ist.
+Aus Sicht einer Webplattform basieren [PWAs auf Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) auf Standards. Sie ermöglichen Benutzern die Installation von Apps direkt im Browser und erfordern keine Microsoft Store-basierte Bereitstellung oder Registrierung. Desktop-PWAs werden auf jeder Plattform unterstützt, auf der Microsoft Edge (Chromium) verfügbar ist.

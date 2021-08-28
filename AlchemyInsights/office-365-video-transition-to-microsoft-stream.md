@@ -1,8 +1,8 @@
 ---
-title: Office 365 Video Übergang zu Microsoft Stream
+title: Office 365 Videoübergang zu Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "3568"
-ms.openlocfilehash: b975c5eb6f0fc1e04984912ba323d673ac231279
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ffe6f9c939115bdeb67dac5bce5afa84e2afcea0bbc296f09bbe7b15eebf282d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096801"
 ---
-# <a name="office-365-video-transition-to-microsoft-stream"></a>Office 365 Video Übergang zu Microsoft Stream
+# <a name="office-365-video-transition-to-microsoft-stream"></a>Office 365 Videoübergang zu Microsoft Stream
 
 Ausführliche Informationen zur Migration von Office 365 Video zu Microsoft Stream finden Sie unter:
 

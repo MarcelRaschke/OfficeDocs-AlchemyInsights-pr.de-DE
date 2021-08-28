@@ -2,7 +2,7 @@
 title: Mover
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 43868418752d9274aa0b30fc32fd233224a3bc61
-ms.sourcegitcommit: 41ddd8e65e9bfdacb6d8a96e0d42426998ffd2d0
+ms.openlocfilehash: 7bdf9b4fb0249084e081e57542c4a7365c1e84b8e5947c1e5aa90c3118f3930f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "49986297"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992038"
 ---
 # <a name="mover"></a>Mover
 

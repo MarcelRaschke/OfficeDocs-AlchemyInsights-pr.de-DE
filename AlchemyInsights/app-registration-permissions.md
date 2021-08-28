@@ -1,5 +1,5 @@
 ---
-title: Berechtigungen für die App-Registrierung
+title: App-Registrierungsberechtigungen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7781"
-ms.openlocfilehash: 607d2a4405f22d9b154adfe7fdf14cfa273ee8fb
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: abd4d2600a29506efe74079709d6a974a6169260b74eb147a7787722c4b799c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49888298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951060"
 ---
-# <a name="app-registration-permissions"></a>Berechtigungen für die App-Registrierung
+# <a name="app-registration-permissions"></a>App-Registrierungsberechtigungen
 
-[Anwendungsregistrierungsberechtigungen](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions)für benutzerdefinierte Rollen in Azure Active Directory: Dieser Artikel enthält die derzeit verfügbaren Berechtigungen für die App-Registrierung für benutzerdefinierte Rollendefinitionen in Azure Active Directory (Azure AD).
+[Anwendungsregistrierungsberechtigungen für benutzerdefinierte Rollen in Azure Active Directory:](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions)Dieser Artikel enthält die derzeit verfügbaren App-Registrierungsberechtigungen für benutzerdefinierte Rollendefinitionen in Azure Active Directory (Azure AD).

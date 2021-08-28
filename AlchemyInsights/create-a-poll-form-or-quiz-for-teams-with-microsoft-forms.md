@@ -2,7 +2,7 @@
 title: Erstellen einer Umfrage, eines Formulars oder einer Prüfung für Teams mit Microsoft Forms
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001726"
 - "3825"
-ms.openlocfilehash: 10a05bc4753f9f3bcb97b4535e15f3181980f469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b13aac8deff4da1377dab5e287e7d251053accc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806974"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816307"
 ---
 # <a name="create-a-poll-form-or-quiz-for-teams-with-microsoft-forms"></a>Erstellen einer Umfrage, eines Formulars oder einer Prüfung für Teams mit Microsoft Forms
 

@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5cf5a16b4975b6307631858dfa934ff85376561d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2828594b2a1ceff3eea7aeb0eb9e160b222bdd96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464676"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318755"
 ---
 # <a name="run-a-message-trace"></a>Ausführen einer Nachrichtenablaufverfolgung
 
-Nachrichtenablaufverfolgungen werden im Abschnitt Nachrichtenfluss des Office 365 Security & Compliance Center ausgeführt.
+Sie können eine Nachrichtenablaufverfolgung aus **Exchange Nachrichtenablaufverfolgung** im Microsoft 365 Defender Portal unter <https://security.microsoft.com> ausführen.
 
-Informationen zum Ausführen einer Nachrichtenverfolgung finden Sie unter [Nachrichtenverfolgung im Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2103855).
+Weitere Informationen finden Sie unter [Nachrichtenablaufverfolgung im Microsoft 365 Defender Portal](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)

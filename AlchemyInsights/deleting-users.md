@@ -2,7 +2,7 @@
 title: Löschen von Benutzern
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: b14c1f32ccfb5eda2345b302edeef1ff817cfe42
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c41c5b3992b9e162a1946354e3b16a72c0ff4a062e56733758f5a888231b866
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031513"
 ---
 # <a name="deleting-users"></a>Löschen von Benutzern
 
-Wenn Sie den Benutzer Zugriff sofort blockieren und seine Informationen beibehalten möchten, lesen Sie den Hinweis zum [Blockieren des Zugriffs auf Microsoft 365-Daten durch einen ehemaligen Mitarbeiter](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data).
+Wenn Sie den Benutzerzugriff sofort blockieren möchten und deren Informationen aufbewahren müssen, lesen Sie bitte ["Zugriff eines ehemaligen Mitarbeiters auf Microsoft 365 Daten blockieren".](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee#block-a-former-employees-access-to-microsoft-365-data)
   
-Wenn Sie den Benutzer lediglich löschen möchten und keine Daten betreffen, lesen Sie bitte [Löschen eines Benutzers aus Ihrer Organisation](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). Dadurch wird die Lizenz sofort freigegeben.
+Wenn Sie einfach nur den Benutzer löschen möchten und sich nicht um seine Daten kümmern, lesen Sie bitte ["Löschen eines Benutzers aus Ihrer Organisation".](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) Dadurch wird die Lizenz sofort freigegeben.
   

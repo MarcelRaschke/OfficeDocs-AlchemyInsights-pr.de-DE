@@ -1,5 +1,5 @@
 ---
-title: 1800018 suchen ihrer Pop-und IMAP-Servereinstellungen
+title: 1800018 Suchen der POP- und IMAP-Servereinstellungen
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/01/2020
@@ -12,15 +12,15 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: 7c444ce7a77fa34ac678de40b36c1c7e27cd1b47
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1f26a1e411e27916ceb32409982c9e9ec5133975e527793657160b598f7da892
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099933"
 ---
-# <a name="find-your-pop-or-imap-server-settings"></a>Suchen Ihrer POP-oder IMAP-Servereinstellungen
+# <a name="find-your-pop-or-imap-server-settings"></a>Suchen der POP- oder IMAP-Servereinstellungen
 
-Wenn Sie nicht wissen, welche Einstellungen Sie zum Hinzufügen Ihres POP-oder IMAP-Kontos zu Outlook benötigen, können Sie diese in unseren [Pop-und IMAP-e-Mail-Einstellungen für Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)nachschlagen.
+Wenn Sie nicht wissen, welche Einstellungen Sie zum Hinzufügen Ihres POP- oder IMAP-Kontos zu Outlook benötigen, können Sie diese in den [POP- und IMAP-E-Mail-Einstellungen für Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)nachschlagen.
   
  

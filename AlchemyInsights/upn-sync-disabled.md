@@ -2,7 +2,7 @@
 title: UPN-Synchronisierung deaktiviert
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 31947d7c491e4116ffdb9baadf286cd4fbb50f2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc163fae4d348d7c7cf117bd457f999b42f96bec7c1eb9aa1435e346131d06de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038111"
 ---
 # <a name="upn-sync-disabled"></a>UPN-Synchronisierung deaktiviert
 
-Wenn Sie mit der Synchronisierung mit Azure AD vor dem 30. März 2016 begonnen haben, führen Sie das folgende Azure AD PowerShell-Cmdlet aus, um UPN Soft Match nur für Ihre Organisation zu aktivieren:
+Wenn Sie vor dem 30. März 2016 mit der Synchronisierung mit Azure AD begonnen haben, führen Sie das folgende Azure AD PowerShell-Cmdlet aus, um nur die upn soft match für Ihre Organisation zu aktivieren:
   
- **Festlegen-MsolDirSyncFeature-Feature EnableSoftMatchOnUpn-enable $true**
+ **Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Enable $True**
   
-UPN Soft Match wird automatisch für Organisationen aktiviert, die mit der Synchronisierung mit Azure AD begonnen haben oder nach dem 30. März 2016.
+Upn soft match is automatically turned for organizations that started syncing to Azure AD on or after March 30, 2016.
   
-Weitere Informationen zum Aktivieren von Soft Match unter UPN und anderen Synchronisierungsfeatures finden Sie unter [Azure AD Connect Sync Service Features](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Weitere Informationen zum Aktivieren der Soft-Match für UPN und andere Synchronisierungsfeatures finden Sie unter [Azure AD Verbinden Synchronisierungsdienstfeatures.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 

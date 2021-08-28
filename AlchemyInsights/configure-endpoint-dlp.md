@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: d0363d6bdecdb266a5f4a3a14bd496ede6bb9931
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
+ms.openlocfilehash: 97a8d4e7db9aac65e6a505c0bef8b41d2ea23353
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48305442"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323917"
 ---
 # <a name="configure-endpoint-dlp"></a>Konfigurieren von Endpunkt-DLP
 
@@ -27,18 +27,20 @@ Microsoft Endpunkt-DLP bietet Ihnen die Möglichkeit, Schutz- und Überwachungsf
 So führen Sie die ersten Schritte mit Endpunkt-DLP aus
 
 - Stellen Sie sicher, dass Sie über die geeignete SKU/Abonnementlizenzierung verfügen. Weitere Informationen finden Sie unter [SKU/Abonnement-Lizenzierung](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing).
-- Überprüfen Sie die Berechtigungen, die erforderlich sind, um die Geräteverwaltung zu aktivieren, auf die Onboardingseite zuzugreifen oder die Geräteüberwachung ein- und auszuschalten. Weitere Informationen finden Sie unter [Berechtigungen](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
-- Führen Sie ein Onboarding der Geräte in die Geräteverwaltung aus, indem Sie dem Verfahren für das Onboarding von Geräten folgen. Wenn Sie die Option "Geräte-Onboarding (Vorschau)" unter M365 Compliance > **Einstellungen** vermissen, überprüfen Sie, ob Sie über die entsprechende Lizenz und die entsprechenden Berechtigungen verfügen, auf die oben verwiesen wird. Weitere Informationen finden Sie unter [Onboarding von Geräten](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
+- Überprüfen Sie die erforderlichen Berechtigungen, um die Geräteverwaltung zu aktivieren, auf die Onboardingseite zuzugreifen oder die Geräteüberwachung zu aktivieren/zu deaktivieren. Weitere Informationen finden Sie unter [Berechtigungen](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
+- Führen Sie ein Onboarding der Geräte in die Geräteverwaltung aus, indem Sie dem Verfahren für das Onboarding von Geräten folgen. Weitere Informationen finden Sie unter [Onboarding von Geräten](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
 - Erstellen Sie DLP-Richtlinien zum Schutz Ihrer vertraulichen Elemente. Informationen hierzu finden Sie unter [Szenarien für Endpunkt-DLP-Richtlinien](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
 
 Weitere Informationen zu Microsoft Endpunkt-DLP finden Sie unter [Informationen zu Microsoft 365 Endpunkt-DLP (Data Loss Prevention, Verhinderung von Datenverlust) (Vorschau)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
 
 **Wichtige Datenerfassungsschritte, falls Support benötigt wird:**
 
-1. MDATP Client Analyzer-Vorschauversion von [http://aka.ms/betamdatpanalyzer](http://aka.ms/betamdatpanalyzer "http://aka.ms/betamdatpanalyzer") herunterladen
-2. Führen Sie das Tool über das CMD-Fenster als Administrator aus:
-3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
-4. Wenn Sie mit "Geben Sie die Anzahl der Minuten ein, in denen die Ablaufverfolgungen erfasst werden soll" aufgefordert werden, geben Sie Dauer, die für die Ausführung des Szenarios erforderlich ist, in Minuten ein.
-5. Ausführen des Szenarios
+1. [MDATP Client Analyzer-Vorschauversion](https://aka.ms/betamdatpanalyzer) herunterladen.
+1. Führen Sie das Tool über das CMD-Fenster als Administrator aus:
+
+    **MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t**
+
+1. Wenn Sie mit **Geben Sie die Anzahl der Minuten ein, in denen die Ablaufverfolgungen erfasst werden soll** aufgefordert werden, geben Sie Dauer, die für die Ausführung des Szenarios erforderlich ist, in Minuten ein.
+1. Führen Sie das Szenario aus.
 
 Erfassen Sie die ZIP-Dateiausgabe, um sie dem Supportmitarbeiter zu übergeben.

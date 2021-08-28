@@ -1,9 +1,9 @@
 ---
-title: Überprüfen oder Handeln einer Warnung
+title: Überprüfen oder Reagieren auf eine Warnung
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 5ea8434eb7fca9b11ffec1cc563c8e194e1443ba
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3342b24c744a6a3990aaa397abdfab36bfc4ebcf
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464561"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319693"
 ---
-# <a name="review-or-act-on-an-alert"></a>Überprüfen oder Handeln einer Warnung
+# <a name="review-or-act-on-an-alert"></a>Überprüfen oder Reagieren auf eine Warnung
 
-Führen Sie die folgenden Schritte aus:
+Gehen Sie wie folgt vor:
 
-1. Wechseln Sie zum [Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Klicken Sie **auf**  >  **[Warnungen Anzeigen von Warnungen](https://go.microsoft.com/fwlink/?linkid=2103301)**.
-1. Klicken Sie auf eine Warnung. Zeigen Sie im Detailbereich an, was die Warnung ausgelöst hat.
-1. Klicken Sie in der Nähe der Details auf den bereitgestellten Link, wenn Sie Maßnahmen für die Warnung ergreifen möchten.
-1. Klicken **Sie auf Auflösen,** wenn Sie die Warnung schließen möchten.
+1. Führen Sie eine der folgenden Aktionen aus:
+   - Wechseln Sie im Microsoft 365 Compliance Center unter <https://compliance.microsoft.com> zu **"Warnungen".** Oder öffnen Sie die Seite direkt unter <https://compliance.microsoft.com/compliancealerts> .
+   - Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> zu **"Warnungen".** Oder öffnen Sie die Seite direkt unter <https://security.microsoft.com/alerts> .
+2. Wählen Sie eine Warnung aus. Zeigen Sie im angezeigten Detail-Flyout an, was die Warnung ausgelöst hat.
+3. Klicken Sie auf den bereitgestellten Link, wenn Sie Maßnahmen für die Warnung ergreifen möchten.
+4. Klicken Sie auf **"Auflösen",** wenn Sie die Warnung schließen möchten.
 
-Weitere Informationen zum Verwalten von Warnungen finden Sie unter [Warnungsrichtlinien im Security and Compliance Center](https://go.microsoft.com/fwlink/?linkid=2103211).
-
+Weitere Informationen zum Verwalten von Warnungen finden Sie [unter Warnungsrichtlinien in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).

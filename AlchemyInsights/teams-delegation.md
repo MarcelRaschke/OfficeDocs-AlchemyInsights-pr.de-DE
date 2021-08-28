@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6181"
 - "9003115"
-ms.openlocfilehash: a127d46edd669fa9c34b42b930f3d631ecff9f37
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 98e2b9c6877f2079d6b630adf65ccbf8105c739ed64691151df2cf2e75fc139b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940602"
 ---
 # <a name="teams-delegation"></a>Teams-Delegierung
 

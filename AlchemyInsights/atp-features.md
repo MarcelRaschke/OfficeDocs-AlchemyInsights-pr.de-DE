@@ -2,7 +2,7 @@
 title: ATP-Features
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "3455"
-ms.openlocfilehash: 339d0d9342fad9da851ec565f65b95cb53c21716
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64c27ad48b676cda8b466f09452bc53838c430717919b421dd287063aabc8c75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715596"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046643"
 ---
-# <a name="whats-new-in-atp"></a>Neuerungen in ATP
+# <a name="whats-new-in-atp"></a>Neuigkeiten in ATP
 
-Informationen zu den neuesten Verbesserungen an Windows Defender Advanced Threat Protection finden Sie unter [What es New in Windows Defender ATP](https://www.microsoft.com/security/blog/2018/11/15/whats-new-in-windows-defender-atp/).
+Informationen zu den neuesten Verbesserungen für Windows Defender Advanced Threat Protection finden Sie [unter Neuigkeiten in Windows Defender ATP.](https://www.microsoft.com/security/blog/2018/11/15/whats-new-in-windows-defender-atp/)

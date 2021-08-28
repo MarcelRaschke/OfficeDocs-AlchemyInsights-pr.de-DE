@@ -2,7 +2,7 @@
 title: 'AIP: Richtlinien zeigen nicht das erwartete Verhalten'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 0dfaae776ec551fe12919e8a8e69f2e7a58d67d0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90448bf57297ce59ba222efd1927b5de588bfbfdb1206b6403764d7f43fed690
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663188"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934292"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: Richtlinien zeigen nicht das erwartete Verhalten
 

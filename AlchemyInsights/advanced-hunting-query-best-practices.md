@@ -2,7 +2,7 @@
 title: Bewährte Methoden für Erweiterte Suchanfragen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2871c0d78721eb5c544fe5583ccfd7264b3af853a7184da292dff47289700d8e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696656"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889009"
 ---
 # <a name="advanced-hunting-query-best-practices"></a>Bewährte Methoden für Erweiterte Suchanfragen
 
-Ausführliche Empfehlungen und Anleitungen zu folgenden Themen finden Sie im vollständigen Artikel [Advanced Hunting Query Best Practices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) .
+Detaillierte Empfehlungen und Anleitungen zu den folgenden Themen finden Sie im vollständigen Artikel ["Advanced hunting query best practices":](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance)
 - Optimieren der Abfrageleistung.
-- Abfrage Tipps und Fallstricke.
+- Abfragetipps und Fallstricke.
 - Abfragen mit Befehlszeilen.
 
 

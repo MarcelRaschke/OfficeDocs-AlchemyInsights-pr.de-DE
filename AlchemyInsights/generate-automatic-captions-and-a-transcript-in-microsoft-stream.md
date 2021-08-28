@@ -1,8 +1,8 @@
 ---
-title: Generieren automatischer Beschriftungen und eines Transkripts in Microsoft Stream
+title: Generieren automatischer Beschriftungen und einer Transkription in Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37d0194ab8e5def8a9cb9dabe629ecbbf95118160aebc85f734a838cdc0c1893
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116871"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Generieren automatischer Beschriftungen und eines Transkripts in Microsoft Stream
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Generieren automatischer Beschriftungen und einer Transkription in Microsoft Stream
 
-Stream kann automatisch Beschriftungen mithilfe der automatischen Spracherkennungs-Technologie generieren, und Sie können ein Fenster Scrolling Transcript anzeigen, um ganz einfach zu navigieren und zusammen mit dem gesprochenen Inhalt eines Videos zu folgen.
+Stream kann Untertitel automatisch mithilfe der automatischen Spracherkennungstechnologie generieren, und Sie können ein Bildlauf-Transkriptfenster anzeigen, um einfach zu navigieren und den gesprochenen Inhalten eines Videos zu folgen.
 
-- [Generieren automatischer Beschriftungen und eines Transkripts für Ihre Microsoft Stream-Videos](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Automatisches Generieren von Liveuntertiteln und eines Transkripts für Ihre Microsoft Stream-Videos](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Anzeigen eines Fensters für die Bild Lauf Aufzeichnung für ein Video in Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Anzeigen eines Bildlauf-Transkriptfensters für ein Video in Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)

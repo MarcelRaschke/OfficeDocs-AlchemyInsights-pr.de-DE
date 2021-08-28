@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6173"
 - "9003233"
-ms.openlocfilehash: 4ca19b53c836e4349b840d7837150f9dc6dde641
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd24507f46baf7d1686bf392f089c01c1b70a661e9926200095cfcbb7cdc9cee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794528"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962922"
 ---
 # <a name="manage-a-domain"></a>Domäne verwalten
 

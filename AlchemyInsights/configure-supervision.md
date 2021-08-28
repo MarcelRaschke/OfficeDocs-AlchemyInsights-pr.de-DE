@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren der Überwachung
+title: Konfigurieren der Aufsicht
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915442"
 ---
 # <a name="configure-supervision-policies"></a>Konfigurieren von Aufsichtsrichtlinien
 
-Mit Aufsichtsrichtlinien in Microsoft 365 können Sie Exchange-e-Mails, Skype for Business Online, Microsoft Teams und Drittanbieter Kommunikationen überwachen, die innerhalb und außerhalb Ihrer Organisation gesendet werden. Designierte Bearbeiter können überwachte Nachrichten überprüfen, um sicherzustellen, dass Sie mit den Richtlinien Ihrer Organisation, dem Risikomanagement und den Standards für die Einhaltung gesetzlicher Vorschriften konform sind und diese mit einem Klassifizierungs lösen.
+Aufsichtsrichtlinien in Microsoft 365 ermöglichen es Ihnen, Exchange E-Mail-, Skype for Business Online-, Microsoft Teams- und Drittanbieterkommunikationen zu überwachen, die innerhalb und außerhalb Ihrer Organisation gesendet werden. Designierte Prüfer können überwachte Nachrichten überprüfen, um sicherzustellen, dass sie den Richtlinien, dem Risikomanagement und den Compliancestandards Ihrer Organisation entsprechen, und sie mit einem Klassifizierungstyp auflösen.
 
-Um Aufsichtsrichtlinien in Ihrer Organisation zu verwenden, müssen Sie Folgendes tun:
+Um Aufsichtsrichtlinien in Ihrer Organisation zu verwenden, müssen Sie:
 
 - Bestimmen Sie die zu überwachende Kommunikation.
-- Entscheiden Sie, wer die Überprüfung der Kommunikation durchführt.
+- Entscheiden Sie, wer die Kommunikationsüberprüfung durchführen soll.
 - Einrichten von Aufsichtsrichtlinien
 
 Weitere Informationen:

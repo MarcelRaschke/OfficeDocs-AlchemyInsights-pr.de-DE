@@ -1,8 +1,8 @@
 ---
-title: XLS-Datei wurde bei Doppelklick nicht geöffnet
+title: XLS-Datei beim Doppelklicken nicht geöffnet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4c17329db92eb08b7bec43fd7b0d0191e7bce2b8ae030c210b46baf6b76e9bbf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796323"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047147"
 ---
-# <a name="excel-file-doesnt-open"></a>Excel-Datei wird nicht geöffnet
+# <a name="excel-file-doesnt-open"></a>Excel Datei nicht geöffnet
 
-Versuchen Sie einen der folgenden Vorschläge:
+Probieren Sie einen der folgenden Vorschläge aus:
 
-**Auswählen von Excel als Standard**
+**Standardeinstellung für Excel**
 
-* Klicken Sie mit der rechten Maustaste auf das Arbeitsblatt, wählen Sie **Öffnen mit**aus, und wählen Sie dann **Excel**
+* Klicken Sie mit der rechten Maustaste auf das Arbeitsblatt, wählen Sie **"Öffnen mit"** und dann **Excel**
 
 **Ausführen einer Schnellreparatur**
 
 1. Wechseln Sie zu **Systemsteuerung > Programme > Programme und Funktionen**.
 
-2. Wählen Sie das Office-Produkt aus, das Sie reparieren möchten, und wählen Sie dann **ändern**aus.
+2. Wählen Sie das Office Produkt aus, das Sie reparieren möchten, und wählen Sie dann **Ändern** aus.
 
-3. Wählen Sie die Option **Schnellreparatur** aus, und wählen Sie dann **Reparieren**aus.
+3. Wählen Sie die Option **"Schnellreparatur"** und dann **"Reparieren"** aus.
 
-**Deinstallieren von Office-Versionen, die Sie nicht verwenden**
+**Deinstallieren von Versionen von Office, die Sie nicht verwenden**
 
-1. Wechseln Sie zur Systemsteuerung, um **ein Programm > deinstallieren**, und wählen Sie dann die Office-Version aus, die Sie entfernen möchten.
+1. Wechseln Sie zur **Systemsteuerung > Programm deinstallieren,** und wählen Sie dann die Version von Office aus, die Sie entfernen möchten.
 
-2. Klicken Sie auf **deinstallieren**.
+2. Klicken Sie auf **Deinstallieren**.
 
 3. Restart your computer.
 
-**Ausführen dieser Problembehandlung zum Festlegen von Office-Dateierweiterungen zum Öffnen in Office**
+**Führen Sie diese Problembehandlung aus, um Office Dateierweiterungen festzulegen, die in Office**
 
 1. Führen Sie diese Problembehandlung aus: https://aka.ms/diag_officefile .
 
-2. Je nach Browser **Öffnen** oder **Speichern** Sie die Problembehandlung auf dem Desktop, und **führen** Sie Sie dann aus.
+2. **Öffnen** oder **speichern Sie** die Problembehandlung je nach Browser auf Ihrem Desktop, und führen Sie sie dann **aus.**

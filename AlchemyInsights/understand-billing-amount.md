@@ -2,7 +2,7 @@
 title: Informationen zum Abrechnungsbetrag
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791538"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304332"
 ---
 # <a name="understand-billing-amount"></a>Informationen zum Abrechnungsbetrag
 
@@ -28,7 +28,7 @@ ms.locfileid: "48791538"
 - Informationen zu Begriffen im Zusammenhang mit Azure-Nutzungsgebühren: [Erläuterung von Nutzungsbegriffen](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Um eine PDF-Version Ihrer Rechnung sowie eine Kopie der Datei mit detaillierten täglichen Nutzungsdaten (.CSV) zu erhalten: [Abrufen von Rechnungen und Nutzungsdaten](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Hinweis** : Wenn Sie Ihr Abonnement/Ihre Ressource während eines Abrechnungszyklus kündigen, wird ggf. ein Betrag angezeigt, der sich auf die Nutzung im Vormonat bezieht. Wenn Ihr Abrechnungszyklus beispielsweise vom 26. eines jeden Monats bis zum 25. des darauffolgenden Monats lief und Sie das Abonnement am 23. Juni anhalten (also am 28. Tag des Abrechnungszyklus für diesen Monat), wird möglicherweise ein Betrag für die Nutzung während dieser 28 Tage angezeigt. Wenn trotz Kündigung eines Abonnements ein Betrag angezeigt wird, überprüfen Sie, ob keine weiteren Supportpläne aktiv sind, die zu der Gebühr führen. Wenn dies der Fall ist, kündigen Sie den Plan.
+**Hinweis**: Wenn Sie Ihr Abonnement/Ihre Ressource während eines Abrechnungszyklus kündigen, wird ggf. ein Betrag angezeigt, der sich auf die Nutzung im Vormonat bezieht. Wenn Ihr Abrechnungszyklus beispielsweise vom 26. eines jeden Monats bis zum 25. des darauffolgenden Monats lief und Sie das Abonnement am 23. Juni anhalten (also am 28. Tag des Abrechnungszyklus für diesen Monat), wird möglicherweise ein Betrag für die Nutzung während dieser 28 Tage angezeigt. Wenn trotz Kündigung eines Abonnements ein Betrag angezeigt wird, überprüfen Sie, ob keine weiteren Supportpläne aktiv sind, die zu der Gebühr führen. Wenn dies der Fall ist, kündigen Sie den Plan.
 
 **Microsoft-Kundenvereinbarung (MCA, Microsoft Customer Agreement):**
 
@@ -52,9 +52,9 @@ ms.locfileid: "48791538"
 Überprüfen von Rechnungen für Dienstüberschreitung:
 
 - Melden Sie sich beim **Enterprise-Portal** an. Wählen Sie **Berichte** aus.
-- Wechseln Sie in der oberen rechten Ecke der Registerkarte von der Ansicht **M** zu **C** , und passen Sie den Zeitraum an jenen auf der Rechnung an.
-- Der Gesamtbetrag für die **Nutzung** sollte mit dem **Erweitert** -Gesamtbetrag auf Ihrer Rechnung für die Dienstüberschreitung übereinstimmen.
-- Wechseln Sie zu **Nutzungsdaten herunterladen > Erweiterten Bericht herunterladen** , um weitere Informationen zu den berechneten Gebühren zu erhalten. **Hinweis** : Dieser Bericht beinhaltet keine Steuern, Gebühren für Reservierungen oder Marketplace-Gebühren.
+- Wechseln Sie in der oberen rechten Ecke der Registerkarte von der Ansicht **M** zu **C**, und passen Sie den Zeitraum an jenen auf der Rechnung an.
+- Der Gesamtbetrag für die **Nutzung** sollte mit dem **Erweitert**-Gesamtbetrag auf Ihrer Rechnung für die Dienstüberschreitung übereinstimmen.
+- Wechseln Sie zu **Nutzungsdaten herunterladen > Erweiterten Bericht herunterladen**, um weitere Informationen zu den berechneten Gebühren zu erhalten. **Hinweis**: Dieser Bericht beinhaltet keine Steuern, Gebühren für Reservierungen oder Marketplace-Gebühren.
 
 **Azure Marketplace**
 
@@ -65,9 +65,11 @@ ms.locfileid: "48791538"
 Vergleichen Sie den Gesamtbetrag Ihrer Azure Marketplace-Rechnung unter Berichte > Nutzungsübersicht im Enterprise-Portal mit Ihrer Marketplace-Rechnung. Die Marketplace-Rechnung bezieht sich nur auf Azure Marketplace-Käufe und -Nutzung. Die Beträge in der Nutzungsübersicht enthalten keine Steuern.
 
 - Melden Sie sich beim **Enterprise-Portal** an. Wählen Sie **Berichte** aus.
-- Wechseln Sie in der oberen rechten Ecke der Registerkarte von der Ansicht **M** zu **C** , und passen Sie den Zeitraum an jenen auf der Rechnung an.
-- Der **Azure Marketplace** -Gesamtbetrag sollten dem **Gesamtumsatz** auf Ihrer Marketplace-Rechnung entsprechen.
-- Wechseln Sie zu **Nutzungsdaten herunterladen** , um weitere Informationen zu den berechneten nutzungsbasierten Gebühren zu erhalten. Wählen Sie unter **Marketplace-Gebühren** die Option **Herunterladen** . **Hinweis** : Dieser Bericht beinhaltet keine Steuern oder einmalige Käufe.
+- Wechseln Sie in der oberen rechten Ecke der Registerkarte von der Ansicht **M** zu **C**, und passen Sie den Zeitraum an jenen auf der Rechnung an.
+- Der **Azure Marketplace**-Gesamtbetrag sollten dem **Gesamtumsatz** auf Ihrer Marketplace-Rechnung entsprechen.
+- Wechseln Sie zu **Nutzungsdaten herunterladen**, um weitere Informationen zu den berechneten nutzungsbasierten Gebühren zu erhalten. Wählen Sie unter **Marketplace-Gebühren** die Option **Download** aus. 
+
+**Hinweis**: Dieser Bericht enthält weder Steuern noch einmalige Käufe.
 
 **Cloud Solution Provider (CSP)**
 

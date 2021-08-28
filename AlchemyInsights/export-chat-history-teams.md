@@ -1,5 +1,5 @@
 ---
-title: Exportieren von Chat Verlauf in Microsoft Teams
+title: Exportieren des Chatverlaufs in Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom:
 - "9003839"
 - "6887"
-ms.openlocfilehash: afce8ac024a03d51473cfdad0131be0556915cdb
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: dfa1d13f863a913e2c6de6111a2946b0a95ad8038b7b4ab15091ca3e1271e7a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48840604"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100473"
 ---
-# <a name="export-chat-history-in-teams"></a>Exportieren von Chat Verlauf in Microsoft Teams
+# <a name="export-chat-history-in-teams"></a>Exportieren des Chatverlaufs in Teams
 
-- Das exportieren, sichern, Drucken und Archivieren des Unterhaltungsverlaufs steht Benutzern derzeit nicht direkt in Microsoft Teams zur Verfügung. Stimmen Sie über diese Funktion in [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20)ab.
-- Als Administrator oder eDiscovery-Manager können Sie eine [Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search?view=o365-worldwide)  im Microsoft 365 Compliance Center erstellen, um nach und dann Chat Unterhaltungen in Ihrer Organisation zu exportieren. Weitere Informationen finden Sie unter [Exportieren von Inhalts Suchergebnissen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide).
+- Das Exportieren, Sichern, Drucken und Archivieren des Unterhaltungsverlaufs steht Benutzern derzeit nicht direkt aus Microsoft Teams zur Verfügung. Bitte stimmen Sie über diese Funktion in [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20)ab.
+- Als Administrator oder eDiscovery-Manager können Sie eine [Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search?view=o365-worldwide) in der Microsoft 365 Compliance Center erstellen, nach der gesucht werden soll, und dann Chatunterhaltungen in Ihrer Organisation exportieren. Weitere Informationen finden Sie unter Exportieren von [Inhaltssuchergebnissen.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide)

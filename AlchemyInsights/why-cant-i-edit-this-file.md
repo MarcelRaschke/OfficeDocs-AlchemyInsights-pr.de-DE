@@ -2,7 +2,7 @@
 title: Warum kann ich diese Datei nicht bearbeiten?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5634"
-ms.openlocfilehash: 7510871335fbb6fafc7b27423a89e44bcac76ec1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ec30beaade3de09b5ffa5c01a3e928fd9fd9f0447790ad22c98848271f11235
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001111"
 ---
 # <a name="why-cant-i-edit-this-file"></a>Warum kann ich diese Datei nicht bearbeiten?
 

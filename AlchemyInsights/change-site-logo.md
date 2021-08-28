@@ -2,7 +2,7 @@
 title: Websitelogo ändern
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9002502"
 - "4869"
 - "4870"
-ms.openlocfilehash: 44dd76383b2ca6b071c9f7cbbc9166509ff808fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 140a8951d1268065642a81539d9fbf15db19edef8aa6fa4d6f1fd809c843d109
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070971"
 ---
 # <a name="change-site-logo"></a>Websitelogo ändern
 

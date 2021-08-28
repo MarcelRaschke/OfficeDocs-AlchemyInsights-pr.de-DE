@@ -2,7 +2,7 @@
 title: Multi-Geo-Funktionen in OneDrive und SharePoint Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5694"
-ms.openlocfilehash: c6d3818171d010f6cc3f0870b8390e42974aea86
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b8bee5912846b0e4c3f8076572ca1f5059e63f0443461892d4e2d3041913288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011947"
 ---
 # <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>Multi-Geo-Funktionen in OneDrive und SharePoint Online
 

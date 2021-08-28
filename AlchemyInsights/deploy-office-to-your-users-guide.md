@@ -1,5 +1,5 @@
 ---
-title: Bereitstellen von Office für Benutzerhandbuch
+title: Bereitstellen von Office für Ihre Benutzer – Leitfaden
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448678"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948090"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Bereitstellen von Office für Benutzerhandbuch
+# <a name="deploy-office-to-your-users-guide"></a>Bereitstellen von Office für Ihre Benutzer – Leitfaden
 
-Bereitstellen von Office-Apps aus der Cloud mit der Möglichkeit, Ihre Installation mithilfe des Office-Bereitstellungstools anzupassen.
+Stellen Sie Office Apps aus der Cloud bereit, mit der Möglichkeit, Ihre Installation mithilfe des Office-Bereitstellungstools anzupassen.
 
-Das [Handbuch Bereitstellen von Office für](https://go.microsoft.com/fwlink/?linkid=2146451) Ihre Benutzer hilft Ihnen, eine angepasste Office-Konfiguration mit erweiterten Einstellungen zu erstellen, oder Sie können eine vordefinierte empfohlene Konfiguration verwenden. Unabhängig davon, ob Ihre Benutzer eine Selbstinstallation durchführen oder sie einzeln oder massenig für Ihre Benutzer bereitstellen, bietet ihnen dieser erweiterte Assistent schritt-für-Schritt-Anweisungen, um Benutzern eine auf Ihre Organisation zugeschnittene Office-Installation zu ermöglichen.
+Das Handbuch ["Bereitstellen Office für Ihre Benutzer"](https://go.microsoft.com/fwlink/?linkid=2146451) hilft Ihnen beim Erstellen einer angepassten Office-Konfiguration mit erweiterten Einstellungen, oder Sie können eine vordefinierte empfohlene Konfiguration verwenden. Unabhängig davon, ob Ihre Benutzer eine Selbstinstallation durchführen oder ob Sie sie einzeln oder als Massenbereitstellung für Ihre Benutzer bereitstellen, bietet Ihnen dieser erweiterte Assistent Schritt-für-Schritt-Anleitungen, um Benutzern eine Office Installation bereitzustellen, die auf Ihre Organisation zugeschnitten ist.

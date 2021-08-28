@@ -11,12 +11,12 @@ ms.custom:
 - "9002245"
 - "4349"
 ms.assetid: ''
-ms.openlocfilehash: 342c700d40a119a0103893a6e51cfa61ece41ff9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6c7e3717ceb9690db6dc7dacbe7469a698d2ed128deb5843291687814ba302e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996737"
 ---
 # <a name="buy-a-domain-name-in-microsoft-365"></a>Erwerben eines Domänennamens in Microsoft 365
 

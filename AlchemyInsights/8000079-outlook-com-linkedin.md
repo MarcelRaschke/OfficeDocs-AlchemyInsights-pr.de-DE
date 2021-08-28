@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
-ms.openlocfilehash: 7ae1291cce01d56db59dfd2ae21ba6a31ef1d5c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c61eac61c8cb516e61f5d0c71713bd48b2c943a8a6b4cbcfddafb81016b4780
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918864"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Probleme mit Junk-e-Mail, die behaupten, von LinkedIn zu sein
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Probleme mit Junk-E-Mails, die von LinkedIn stammen sollen
 
-Wenn Sie Junk-e-Mails erhalten, die angeblich von LinkedIn sind, können Sie eine Regel erstellen, um diese e-Mails zu filtern.
-Weitere Informationen finden Sie unter [Verwenden von Posteingangsregeln in Outlook.com](https://aka.ms/OutlookComInboxRules) .
+Wenn Sie Junk-E-Mails erhalten, die von LinkedIn stammen sollen, können Sie eine Regel zum Filtern dieser E-Mails erstellen.
+Weitere Informationen finden [Sie unter Verwenden von Posteingangsregeln in Outlook.com.](https://aka.ms/OutlookComInboxRules)
 
 

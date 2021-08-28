@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3781"
 - "9001223"
-ms.openlocfilehash: 56021a335c64810700913cf08519b95f24a7a17d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33bf8a5cdc3a8e8da78c9d02e11387a778a7acce483e4485f595d9e05b344433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948270"
 ---
 # <a name="delete-a-teams-private-channel"></a>Löschen eines privaten Teams-Kanals
 

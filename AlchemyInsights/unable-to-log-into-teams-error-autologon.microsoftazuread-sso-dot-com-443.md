@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001686"
 - "3750"
-ms.openlocfilehash: 649124db135805d8101b43dbead63860d36853ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6671a63d97f24fadc9b34907d75600a3c0ad1c9990a4a8f8d32034c11e8a952e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799959"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038399"
 ---
 # <a name="unable-to-log-into-teams-due-to-error-autologonmicrosoftazuread-sso-dot-com443"></a>Die Anmeldung bei Teams ist aufgrund des Fehlers „autologon.microsoftazuread-sso dot com:443“ nicht möglich.
 
@@ -27,7 +27,7 @@ Sehen Sie sich die Checkliste unter [Problembehandlung beim nahtlosen einmaligen
 
 Befolgen Sie diese Schritte, um eine URL zur Liste der Intranetsites hinzuzufügen:
 
-1. Öffnen Sie Internet Explorer, indem Sie auf die Schaltfläche**Start** klicken. Geben Sie im Suchfeld „Internet Explorer“ ein, und klicken Sie dann in der Liste der Ergebnisse auf **Internet Explorer**.
+1. Öffnen Sie Internet Explorer, indem Sie auf die Schaltfläche **Start** klicken. Geben Sie im Suchfeld „Internet Explorer“ ein, und klicken Sie dann in der Liste der Ergebnisse auf **Internet Explorer**.
 2. Klicken Sie auf **Extras**, und klicken Sie anschließend auf **Internetoptionen**.
 3. Klicken Sie auf die Registerkarte **Sicherheit**.
 4. Klicken Sie nun auf **Lokales Intranet** und dann auf die Schaltfläche **Sites** und auf **Erweitert**.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: 5b5fd0d976934de21f338bb88f96d4a9429f1d82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3d95448e432110749b49e004575d6d17267cb0f9055a35480d227ff5c5a49
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673424"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901335"
 ---
 # <a name="onboarding-microsoft-defender-atp"></a>Onboarding Microsoft Defender ATP
 
@@ -28,6 +28,6 @@ Ressourcen zum Integrieren von Microsoft Defender ATP für Windows 10, Windows-S
 
 - **Windows-Server** zur Integration von Microsoft Defender ATP für Ihre Windows Server-Version finden Sie unter [Serverintegration für den Microsoft Defender ATP-Service](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
 
-- **Nicht-Windows-Endpunkte** Bevor Sie ein nicht-Windows-System integrieren, müssen Sie die Systemanforderungen für [Mac ](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) oder [Linux ](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)erfüllen.
+- **Nicht-Windows-Endpunkte** Bevor Sie ein nicht-Windows-System integrieren, müssen Sie die Systemanforderungen für [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) oder [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)erfüllen.
 
     Nach Bestätigung Ihrer Systemanforderungen lesen Sie [Integration von nicht-Windows-Geräten](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).

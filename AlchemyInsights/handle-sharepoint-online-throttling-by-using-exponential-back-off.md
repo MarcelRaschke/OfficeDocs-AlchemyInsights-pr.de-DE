@@ -2,7 +2,7 @@
 title: Behandeln von Einschränkungen in SharePoint Online mit exponentiellem Backoff
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: c57040a7e7f3b083088ea82af261e61579b5a759
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5cef5125e13cfe351d5909332212906e642a8c9bb840835f909fa3a6cdd7a441
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043538"
 ---
 # <a name="handle-sharepoint-online-throttling-by-using-exponential-back-off"></a>Behandeln von Einschränkungen in SharePoint Online mit exponentiellem Backoff
 

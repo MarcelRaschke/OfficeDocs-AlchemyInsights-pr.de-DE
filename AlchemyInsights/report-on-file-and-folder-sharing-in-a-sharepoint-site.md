@@ -2,7 +2,7 @@
 title: Berichte zur Datei- und Ordnerfreigabe auf einer SharePoint-Website
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "3049"
 - "9000191"
 - "3050"
-ms.openlocfilehash: ec87417f071eb779cf1bb95bbbf013e1672496fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a9db9984b5e7f95ace5d1ba0676399777c835ad9dffd8836276a07ed7e850262
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692474"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959313"
 ---
 # <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Berichte zur Datei- und Ordnerfreigabe auf einer SharePoint-Website
 

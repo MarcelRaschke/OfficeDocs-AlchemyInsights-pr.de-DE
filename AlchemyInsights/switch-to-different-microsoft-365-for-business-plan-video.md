@@ -1,8 +1,9 @@
 ---
 title: Wechseln zu einem anderen Plan
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002608"
 - "7594"
-ms.openlocfilehash: 342c7334716d9e1a905b7ecec862119147bf7786
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: a1aaea58fb28ec6c25343a46047086e87fddf9f8
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683967"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450805"
 ---
 # <a name="switch-to-a-different-plan"></a>Wechseln zu einem anderen Plan
 

@@ -2,7 +2,7 @@
 title: HIPPA-Compliance und Office 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002430"
 - "4720"
-ms.openlocfilehash: ea0d01150f7dbf4d9788deb3430bc27862a54c45
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 04c86c943956d70111c3183353e36c6aec275a6c7cc703aaa704de7b16298945
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782161"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927828"
 ---
 # <a name="hippa-compliance-and-office-365"></a>HIPPA-Compliance und Office 365
 

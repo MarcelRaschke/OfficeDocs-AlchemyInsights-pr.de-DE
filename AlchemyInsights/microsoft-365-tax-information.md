@@ -2,7 +2,7 @@
 title: Microsoft 365-Steuerinformationen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4896"
-ms.openlocfilehash: 1a0b4ed082fad56dba324e112bce48eb94371ab0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8482500972167da0eb25eaeb4ed0381a4485e6b8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742526"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829924"
 ---
 # <a name="microsoft-365-tax-information"></a>Microsoft 365-Steuerinformationen
 

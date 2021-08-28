@@ -1,8 +1,8 @@
 ---
-title: Problembehandlung bei Aktualisierungsszenarien – Kachel Fehler
+title: Problembehandlung bei Aktualisierungsszenarien – Kachelfehler
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1387f249aff02b4aa521edca42b25d2778aeb7dacf27884160ae3a252959f6c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008401"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Problembehandlung bei Aktualisierungsszenarien – Kachel Fehler
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Problembehandlung bei Aktualisierungsszenarien – Kachelfehler
 
-Wenn im Power BI-Dienstfehler bei der Kachel Aktualisierung auftreten, warten Sie bitte etwa 10-15 Minuten, bis die Aktualisierung in den Dashboard-Kacheln reflektiert wird. Wenn dies immer noch nicht angezeigt wird, fixieren Sie die Visualisierung erneut an das Dashboard.
+Wenn im Power BI Dienst Kachelaktualisierungsfehler auftreten, warten Sie ca. 10-15 Minuten, bis die Aktualisierung in den Dashboardkacheln angezeigt wird. Wenn dies immer noch nicht angezeigt wird, fixieren Sie die Visualisierung erneut an das Dashboard.
 
 Weitere Informationen: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

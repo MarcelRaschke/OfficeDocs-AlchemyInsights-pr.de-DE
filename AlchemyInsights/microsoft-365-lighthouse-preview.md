@@ -1,5 +1,5 @@
 ---
-title: Willkommen bei der privaten Vorschau von Microsoft 365
+title: Willkommen bei Microsoft 365 Lighthouse Private Preview
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004405"
 - "7958"
-ms.openlocfilehash: cca5f2200d9a43ee35bd15262e5e2b8913d21d8f
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: c68747fbea80732f80d7537e123eae95e52e02548a37c899350a5d1f9f5cd53d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232717"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114243"
 ---
-# <a name="welcome-to-the-microsoft-365-lighthouse-private-preview"></a>Willkommen bei der privaten Vorschau von Microsoft 365
+# <a name="welcome-to-the-microsoft-365-lighthouse-private-preview"></a>Willkommen bei Microsoft 365 Lighthouse Private Preview
 
-Sie nehmen an der privaten Vorschau für Microsoft 365-2013 teil. Wenn Sie Feedback zu Microsoft 365 Indy geben möchten, posten Sie Details auf unserer [User Voice-Website.](https://aka.ms/M365Lighthouseuservoice) Wenn Sie eine Frage haben oder bei der Verwendung von Microsoft 365 Faro ein Problem haben, erstellen Sie eine Supportanfrage für weitere Unterstützung.
+Sie nehmen an der privaten Vorschau für Microsoft 365 Lighthouse teil. Wenn Sie Feedback zu Microsoft 365 Lighthouse geben möchten, veröffentlichen Sie Details auf unserer [User Voice-Website.](https://aka.ms/M365Lighthouseuservoice) Wenn Sie bei der Verwendung von Microsoft 365 Lighthouse eine Frage haben oder mit einem Problem konfrontiert sind, erstellen Sie bitte eine Supportanfrage für weitere Unterstützung.

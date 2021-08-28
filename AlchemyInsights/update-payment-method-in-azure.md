@@ -12,23 +12,23 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6860"
-ms.openlocfilehash: 6a08916c67e0a14d6781be7c3c6874115a0df3b9
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 6f6898f4cb56e1b1027bab03a4ba9046edfb59864d4f3cfdf8057a18d737f6e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791458"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007249"
 ---
 # <a name="update-payment-details-in-azure"></a>Aktualisieren von Zahlungsdetails in Azure
 
-Wenn Ihre Kreditkarte erneuert wird und die Nummer gleich bleibt, aktualisieren Sie die vorhandenen Kreditkartendetails wie das Ablaufdatum. Wenn sich Ihre Kreditkartennummer ändert, da die Karte verloren geht, gestohlen oder abgelaufen ist, befolgen Sie die Schritte im Abschnitt [Hinzufügen einer Kreditkarte als Zahlungsmethode](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) . Sie müssen die CVV nicht aktualisieren.
+Wenn Ihre Kreditkarte verlängert wird und die Nummer unverändert bleibt, aktualisieren Sie die vorhandenen Kreditkartendetails wie das Ablaufdatum. Wenn sich Ihre Kreditkartennummer ändert, weil die Karte verloren geht, gestohlen oder abgelaufen ist, führen Sie die Schritte im Abschnitt ["Kreditkarte als Zahlungsmethode hinzufügen"](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) aus. Sie müssen den CVV nicht aktualisieren.
 
-Sie müssen der Konto Administrator sein, um die Kreditkarte zu ändern oder zu aktualisieren. Führen Sie die folgenden Schritte aus, um die Kreditkarten-/Zahlungsmethode zu aktualisieren.
+Sie müssen der Kontoadministrator sein, um die Kreditkarte zu ändern oder zu aktualisieren. Führen Sie die folgenden Schritte aus, um die Kreditkarte/Zahlungsmethode zu aktualisieren.
 
-1. Melden Sie sich als Konto Administrator beim [Azure-Portal](https://portal.azure.com/) an.
-2. Suchen Sie nach **Kosten Management + Abrechnung** .
+1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) als Kontoadministrator an.
+2. Suchen Sie nach **Kostenverwaltung und Abrechnung**.
 3. Wählen Sie das Abonnement aus, dem Sie die Kreditkarte hinzufügen möchten.
 4. Wählen Sie **Zahlungsmethoden** aus.
-5. Wählen Sie die Kreditkarte aus, die Sie bearbeiten möchten. Ein Kreditkartenformular wird auf der rechten Seite angezeigt.
+5. Wählen Sie die Kreditkarte aus, die Sie bearbeiten möchten. Rechts wird ein Kreditkartenformular angezeigt.
 6. Aktualisieren Sie die Kreditkartendetails.
-7. Wählen Sie **Speichern** .
+7. Wählen Sie **Speichern**.

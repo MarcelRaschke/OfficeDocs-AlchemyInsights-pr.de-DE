@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6113"
 - "9003233"
-ms.openlocfilehash: d8934aa3cc077a17acd7a0c0fc93a69492de89e5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68815f4623d10b3b3eb187d2adaa9cb43d8af0a14f03c78e88ef6ebb52ed586d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796539"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072879"
 ---
 # <a name="verify-your-domain-in-azure-ad"></a>Überprüfen Ihrer Domäne in Azure AD
 

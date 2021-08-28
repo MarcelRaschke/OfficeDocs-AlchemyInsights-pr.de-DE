@@ -1,8 +1,8 @@
 ---
-title: Office-Produkte, die für die Mac-Plattform nicht verfügbar sind
+title: Office Produkte, die für die Mac-Plattform nicht verfügbar sind
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -15,14 +15,14 @@ ms.custom:
 - "756"
 - "755"
 - "2000016"
-ms.openlocfilehash: 312ef6de211f972173eab6071bd5f8e44fc40bf3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8de790de60a3d656f46248a73e56fbd195018bbec9bc234a39bca5a162e9b21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802668"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076236"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a>Office-Produkte, die für die Mac-Plattform nicht verfügbar sind
+# <a name="office-products-not-available-for-the-mac-platform"></a>Office Produkte, die für die Mac-Plattform nicht verfügbar sind
 
-Visio, Project, Publisher und Access sind für die Mac-Plattform nicht verfügbar, Visio Online und Project online sind jedoch verfügbar und können auf allen Plattformen verwendet werden.
+Visio, Project, Publisher und Access sind für die Mac-Plattform nicht verfügbar, Visio Online und Project Online sind jedoch verfügbar und funktionieren auf allen Plattformen.
   

@@ -2,7 +2,7 @@
 title: Verwenden von SaRA zur Diagnose und Behebung von Problemen mit der Outlook-Authentifizierung
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002370"
 - "4605"
-ms.openlocfilehash: 85438f6e4fde8679ae125ce7c89dfbfb0c8cb035
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa8f4db495e702694322e2c939aa907e7c8a54a9bb160c39d8bd5f49a32bcb01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795171"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980428"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Verwenden von SaRA zur Diagnose und Behebung von Problemen mit der Outlook-Authentifizierung
 

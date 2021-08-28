@@ -1,5 +1,5 @@
 ---
-title: Problem mit AAD Connect Health
+title: Problem mit AAD Verbinden Health
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004649"
 - "8427"
-ms.openlocfilehash: f5624069a2e96fde8aed08965ca6b753f3aad1e8
-ms.sourcegitcommit: 5763fedfd5dd459249c81cdbb4af34181a757bd5
+ms.openlocfilehash: 82cfcc6132549b52278b174fce3173f5566268864a207882a4dd639cb8024ee3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50453293"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923751"
 ---
-# <a name="problem-with-aad-connect-health"></a>Problem mit AAD Connect Health
+# <a name="problem-with-aad-connect-health"></a>Problem mit AAD Verbinden Health
 
-- Stellen Sie sicher, dass Sie autorisiert sind, den Vorgang durchzuführen. Globale Administratoren haben standardmäßig Zugriff. Darüber hinaus können Sie die rollenbasierte [Zugriffssteuerung verwenden,](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) um die Registrierungsberechtigung an den Mitwirkenden zu delegieren.
-- Stellen Sie sicher, dass die erforderlichen Endpunkte aktiviert und aufgrund der Firewall nicht blockiert werden. Weitere Informationen finden Sie unter [Requirements](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
-- Die Registrierung kann fehlschlagen, da ausgehende Kommunikation von der Netzwerkschicht einer SSL-Überprüfung unterzogen wird.
-- Stellen Sie sicher, dass Sie die Benachrichtigungseinstellungen für Azure AD Connect Health überprüft haben. Überprüfen Sie ihre Einstellung. In [diesem Handbuch](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) erfahren Sie, wie Sie die Benachrichtigungseinstellungen für Azure AD Connect-Integritätsbenachrichtigungen konfigurieren.
-- Weitere Informationen zum AAD Connect Health-Synchronisierungsbericht und zum Herunterladen finden Sie unter [Synchronisierungsbericht auf Objektebene.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync)
+- Stellen Sie sicher, dass Sie zum Ausführen des Vorgangs autorisiert sind. Globale Administratoren haben standardmäßig Zugriff. Darüber hinaus können Sie die [rollenbasierte Zugriffssteuerung](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) verwenden, um die Registrierungsberechtigung an den Mitwirkenden zu delegieren.
+- Stellen Sie sicher, dass die erforderlichen Endpunkte aktiviert sind und nicht aufgrund einer Firewall blockiert werden. Ausführliche Informationen finden Sie unter ["Anforderungen".](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install)
+- Die Registrierung kann fehlschlagen, da die ausgehende Kommunikation einer SSL-Überprüfung durch die Netzwerkschicht unterzogen wird.
+- Stellen Sie sicher, dass Sie die Benachrichtigungseinstellungen für Azure AD Verbinden Health überprüft haben. Überprüfen Sie Ihre Einstellung. In diesem [Leitfaden](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) erfahren Sie, wie Sie die Benachrichtigungseinstellungen für Azure AD Verbinden Integritätsbenachrichtigungen konfigurieren.
+- Weitere Informationen zum AAD-Verbinden Integritätssynchronisierungsbericht und zum Herunterladen finden Sie im [Synchronisierungsbericht auf Objektebene.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync)
 
-Zur Problembehandlung bei AAD Connect Health-Warnungen folgen Sie dem Problembehandlungshandbuch für [AAD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) Integritätsdaten-Warnungen und häufig gestellte Fragen unter [Common AAD Connect Health installations questions](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
+Informationen zur Problembehandlung bei AAD Verbinden Integritätswarnungen finden Sie [im Handbuch zur Problembehandlung für AAD Verbinden Integritätsdaten-Aktualitätswarnungen.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) Häufig gestellte Fragen finden Sie unter [Common AAD Verbinden Health installation questions.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)

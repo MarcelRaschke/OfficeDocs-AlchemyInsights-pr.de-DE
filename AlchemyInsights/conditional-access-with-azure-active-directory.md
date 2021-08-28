@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001672"
 - "3739"
-ms.openlocfilehash: 19f32103379aa8c22d0c45ef84b114dadf8f3046
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff850d7bb87506c585f0c7a837a31d3b4ff3d76c6d67a4d6788c2b27c9f0a6c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812222"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994802"
 ---
 # <a name="conditional-access-with-azure-active-directory"></a>Bedingter Zugriff mit Azure Active Directory
 

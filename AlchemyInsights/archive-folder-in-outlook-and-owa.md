@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1903"
 - "3100008"
-ms.openlocfilehash: 57a72758e4b00a6822e834b2b8dfda2d079eebf5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c74f3c395baac3acb06517a0a7abeda20b264b925b569e7ddef16efbbafa8e25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989662"
 ---
 # <a name="archive-folder-in-outlook-and-owa"></a>Ordner „Archiv“ in Outlook und OWA
 

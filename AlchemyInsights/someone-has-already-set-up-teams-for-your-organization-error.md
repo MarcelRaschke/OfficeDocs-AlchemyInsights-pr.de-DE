@@ -2,7 +2,7 @@
 title: 'Fehler: Jemand hat Teams bereits für Ihre Organisation eingerichtet'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002343"
 - "5063"
-ms.openlocfilehash: 47b33ac875ddcdb6979dfdb11c02978032917a1f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a22b8d7a64645b57eb813fb2cfc7c45cc90f556a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758459"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835306"
 ---
 # <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>Fehler "Jemand hat Teams bereits für Ihre Organisation eingerichtet"
 

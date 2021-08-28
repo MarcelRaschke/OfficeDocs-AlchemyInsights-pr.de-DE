@@ -2,7 +2,7 @@
 title: Ändern der Kontoinformationen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002605"
 - "5022"
-ms.openlocfilehash: e888eb597d4290314c41ef691598c25a2126ccd8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e3e5ba459aa0ff47eccabfe200c7970fe5798731e1f94f91f6f9b059b74ffde
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793973"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018499"
 ---
 # <a name="change-billing-account-information"></a>Ändern der Kontoinformationen
 

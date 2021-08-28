@@ -1,8 +1,8 @@
 ---
-title: ASMs-Test Lösung
+title: ASMS-Testlösung
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003544"
 - "6460"
-ms.openlocfilehash: 7bca50d709f139d87105a3622ea7a85f92afb899
-ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
+ms.openlocfilehash: f8f3de5a391d818447883cb8dbba2052c048fd5639c5f54c921ef5247dc6d6a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48296272"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950880"
 ---
-# <a name="asms-test-solution"></a>ASMs-Test Lösung
+# <a name="asms-test-solution"></a>ASMS-Testlösung
 
-Azure-Kunden mit einer Azure Enterprise-Vereinbarung (EA), Microsoft-Kundenvereinbarung (MCA) oder Microsoft Partner Agreement (MPa) können Ihre Preise im Azure-Portal anzeigen und herunterladen.
+Azure-Kunden mit einem Azure Enterprise Agreement (EA), einem Microsoft-Kundenvertrag (MCA) oder einem Microsoft Partner Agreement (MPA) können ihre Preise im Azure-Portal anzeigen und herunterladen.

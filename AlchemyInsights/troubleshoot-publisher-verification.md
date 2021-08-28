@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004323"
 - "7712"
-ms.openlocfilehash: d4d0a78256a869ef4c1e19fe1ceb590824b10817
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: eb406eef2ac4e1bcebffcca91ec8706ac3c7a7f1b4c58a5da3a4e386b55700fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007979"
 ---
 # <a name="issues-related-to-publisher-verification-for-developers"></a>Probleme bei der Publisher-Überprüfung für Publisher
 

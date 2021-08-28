@@ -1,5 +1,5 @@
 ---
-title: 1221-Import-Export-Outlook-e-Mail-Contacts-Calendar
+title: 1221-import-export-outlook-email-contacts-calendar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,12 +14,12 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 6aec4ba38e90ef120542e1b30855a232a59db6ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb9bf34c5f185848a3cf4de7e5035c09ec6a24d0b5b84e065fcc9cd16e7e276d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778942"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987358"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importieren und Exportieren von Outlook-E-Mails, -Kontakten und -Kalenderelementen
 
@@ -29,6 +29,6 @@ ms.locfileid: "47778942"
 
     Hiermit wird der Import/Export-Assistent geöffnet.
 
-Einen vollständigen Satz von Import-und Export Anweisungen für Outlook finden Sie in  [diesem Artikel](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Eine vollständige Reihe von Import- und Exportanweisungen für Outlook finden Sie in [diesem Artikel.](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)
 
-Wenn Sie Administrator sind und mehrere PST-Dateien in Microsoft 365-Postfächer Massenimportieren möchten, lesen Sie [diesen Artikel](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+Wenn Sie Administrator sind und mehrere PST-Dateien in Microsoft 365 Postfächer importieren möchten, lesen Sie [diesen Artikel.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)

@@ -1,5 +1,5 @@
 ---
-title: Dienst Vorfall wird ausgeführt
+title: Dienstvorfall wird ausgeführt
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -19,19 +19,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: d2f3d1f75c61100b3b3892d286db7af91a618ba2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ea17addde1b98b6f8b33909e126078266992a55e7eb6932443fc8f9d213c04a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751386"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061359"
 ---
-# <a name="service-incident-in-progress"></a>Dienst Vorfall wird ausgeführt
+# <a name="service-incident-in-progress"></a>Dienstvorfall wird ausgeführt
 
-Möglicherweise sind Sie von einem Dienst Vorfall oder einer Empfehlung betroffen, die derzeit untersucht wird. Sie können den neuesten Status überprüfen, indem Sie zur Seite [Dienst Integrität](https://admin.microsoft.com/adminportal/home#/servicehealth) wechseln.
+Möglicherweise sind Sie von einem Dienstvorfall oder einer Empfehlung betroffen, die derzeit untersucht wird. Sie können den aktuellen Status überprüfen, indem Sie zur Seite ["Dienststatus"](https://admin.microsoft.com/adminportal/home#/servicehealth) wechseln.
   
-Nachfolgend finden Sie eine Zusammenfassung dieses Vorfalls:
+Aus Gründen der Einfachheit finden Sie unten eine Zusammenfassung dieses Vorfalls:
   
-> **Vorfallnummer:**[{Vorfall](https://admin.microsoft.com/adminportal/home#/servicehealth) -ID}
+> **Vorfallnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Beschreibung der Auswirkung: {ImpactDescription}

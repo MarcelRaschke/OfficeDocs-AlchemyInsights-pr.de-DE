@@ -1,5 +1,5 @@
 ---
-title: Probleme mit dem Onboarding-Computern
+title: Probleme beim Onboarding von Computern in Microsoft Defender für Endpunkt
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f2ed08e32694a6d7293abbabb1eddd3d251ceddbd9debf6ec3143bb4fed86db
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054689"
 ---
-# <a name="issues-with-onboarding-machines"></a>Probleme mit dem Onboarding-Computern
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Probleme beim Onboarding von Computern in Microsoft Defender für Endpunkt
 
-Möglicherweise haben Sie Probleme mit Onboarding-Computern beim MDATP-Dienst. Wenn Sie auf den Endbenutzercomputer zugreifen können, führen Sie die folgenden Schritte aus:
+Möglicherweise haben Sie Probleme beim Onboarding von Computern in den MDE-Dienst. Wenn Sie auf den Endbenutzercomputer zugreifen können, führen Sie die folgenden Schritte aus:
 
-1. Laden Sie das [Clientverbindungsuntersuchung](https://aka.ms/mdatpanalyzer)-Diagnosetool herunter.
-2. Extrahieren Sie MDATPAnalyzer.cmd, und führen Sie es aus.
-3. Suchen Sie das Diagnoseprotokoll im Ordner „MDATPClientAnalyzerResult“, dem gleichen Ordner, in dem das Untersuchungstool heruntergeladen wird.
-4. Überprüfen Sie die Protokolldatei „MDATPClientAnalyzer.txt“, um Probleme mit der Verbindung oder Internetproxyeinstellungen zu finden.
+1. Laden Sie die neueste Vorschauversion des Diagnosetools zur [MDE-Clientanalyse](https://aka.ms/betamdeanalyzer) herunter.
+2. Klicken Sie mit der rechten Maustaste auf **MDEClientAnalyzer.cmd** und wählen Sie „Als Administrator ausführen“ aus.
+3. Befolgen Sie alle Hilfestellungen, die Ihnen in **MDEClientAnalyzer.htm** vorgeschlagen werden.
+4. Weitere ausführliche Protokolle finden Sie im erstellten Unterordner namens **MDEClientAnalyzerResult**.
+5. Wenn zusätzliche Anleitung nötig ist, wenden Sie sich an den [Support für Microsoft Defender für Endpunkt](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) und stellen Sie die resultierende Datei „MDEClientAnalyzerResult.zip“ zur Analyse zur Verfügung.

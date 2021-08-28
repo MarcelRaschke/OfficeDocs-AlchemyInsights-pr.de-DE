@@ -1,5 +1,5 @@
 ---
-title: Verbessern der Produktivität von Microsoft 365
+title: Verbessern Microsoft 365 Produktivität
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004612"
 - "8268"
-ms.openlocfilehash: 599b914e15e86e7899988a0178864b24d1782af1
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 4a7aae1a1e95aa6e8d35a57ed7a7de692cf85901fc6879bcaa8dade37456eba3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50255157"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002191"
 ---
-# <a name="help-improve-microsoft-365-productivity"></a>Verbessern der Produktivität von Microsoft 365
+# <a name="help-improve-microsoft-365-productivity"></a>Verbessern Microsoft 365 Produktivität
 
-Die Produktivitätswertung unterstützt die digitale Transformation Ihrer Organisation mit Einblicken über die Verwendung von Microsoft 365-Produkten und die Technologieerfahrungen hinter ihnen.
+Die Produktivitätsbewertung unterstützt die digitale Transformation Ihrer Organisation mit Einblicken darüber, wie Microsoft 365 Produkte verwendet werden und welche Technologieerfahrungen dahinter stehen.
 
 Weitere Informationen finden Sie unter:
 
-- [Berechnung der Bewertung](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [Interpretieren der Bewertung Ihrer Organisation](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [Datenschutzsteuerelemente für die Produktivitätsergebnis](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
+- [Wie das Ergebnis berechnet wird](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+- [So interpretieren Sie die Bewertung Ihrer Organisation](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+- [Datenschutzsteuerelemente für die Produktivitätsbewertung](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
 
 Weitere Informationen finden Sie unter [Microsoft Productivity Score Overview](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score).

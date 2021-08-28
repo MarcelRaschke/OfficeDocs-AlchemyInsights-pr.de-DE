@@ -15,15 +15,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 1aae4246168f76c1c9f263d99359c223a55a7bfc
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: e83f74c7d362578dff21b7fb1f6474d13911d006a8f32f85ae30bce73bf8fd52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452083"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983416"
 ---
 # <a name="read-receipts"></a>Lesebestätigungen
 
-Sie können keine Lesebestätigung in Outlook.com anfordern, aber Sie können Lesebestätigungen für Outlook.com-Nachrichten anfordern, die mit Outlook für Windows gesendet wurden. Weitere Informationen dazu finden Sie unter [Hinzufügen und Anfordern von Lesebestätigungen und Zustellungsbenachrichtigungen](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
+Sie können keinen Lesebeleg in Outlook.com anfordern, aber Sie können Lesebestätigungen für Outlook.com-Nachrichten anfordern, die mit Outlook für Windows gesendet werden. Weitere Informationen hierzu finden Sie unter Hinzufügen und Anfordern von [Lesebestätigungen und Übermittlungsbenachrichtigungen.](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)
   
-Wechseln Sie zu [Lese Bestätigungseinstellungen](https://outlook.live.com/mail/options/mail/handling/readReceipts), um zu entscheiden, wie Outlook.com auf Lese Bestätigungsanforderungen reagiert.
+Wenn Sie auswählen möchten, wie Outlook.com auf Lesebestätigungsanforderungen antwortet, wechseln Sie zu ["Lesebestätigungseinstellungen".](https://outlook.live.com/mail/options/mail/handling/readReceipts)

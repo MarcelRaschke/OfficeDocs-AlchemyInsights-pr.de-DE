@@ -2,7 +2,7 @@
 title: In OneDrive fehlen Daten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002302"
 - "4464"
-ms.openlocfilehash: c9e2ed9668fbbe447d20855e280efe6912179fa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be95ee335940c9b27bd0788563267394f4503a08e687858bd7fb0800730f4de2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076092"
 ---
 # <a name="onedrive-is-missing-data"></a>In OneDrive fehlen Daten
 

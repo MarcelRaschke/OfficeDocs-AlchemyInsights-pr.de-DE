@@ -1,5 +1,5 @@
 ---
-title: 911 Deaktivieren des fokussierten Posteingangs im Client
+title: 911 Deaktivieren des Posteingangs mit Relevanz im Client
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 7d9d065c3b95f5fe75eca5df844fbe7a9f3e6de9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df283ec7aab493dcca684426606b54fdb08a2fa94d2e17845cefc028ed4407c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795207"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092481"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a>Deaktivieren des Posteingangs mit Fokus in e-Mail-Clients
+# <a name="turn-off-focused-inbox-in-email-clients"></a>Deaktivieren des Posteingangs mit Relevanz in E-Mail-Clients
 
-Informationen zum Deaktivieren des Posteingangs in Outlook 2016, Outlook im Internet, Outlook.com/hotmail.com, Outlook 2016 für Mac oder e-Mail für Windows 10 finden Sie unter [Turn Off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
+Informationen zum Deaktivieren des Posteingangs mit Relevanz in Outlook 2016, Outlook im Web, Outlook.com/Hotmail.com, Outlook 2016 für Mac oder Mail für Windows 10 finden Sie unter [Deaktivieren des Posteingangs](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)mit Relevanz.
 
-Informationen zum Deaktivieren des Posteingangs für alle Benutzer in der Organisation finden Sie unter [configure Focused inbox for everyone in your organization](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
+Informationen zum Deaktivieren des Posteingangs mit Relevanz für alle Benutzer in der Organisation finden Sie unter Konfigurieren des [Posteingangs mit Relevanz für alle Benutzer in Ihrer Organisation.](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)

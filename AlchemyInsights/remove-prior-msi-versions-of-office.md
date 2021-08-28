@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003886"
 - "6940"
-ms.openlocfilehash: 26ab610cb204149536bd23c830a1b8558892a7c0
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 45e3cac521bc1c2a90dc7d3ddd4958233c3cf7bbd2ea007e581f343bca7b5631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680607"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023773"
 ---
 # <a name="remove-prior-msi-versions-of-office"></a>Entfernen früherer MSI-Versionen von Office
 
-Es wird empfohlen, frühere Windows Installer (MSI)-Versionen von Office vor der Installation von Office 365 ProPlus zu entfernen. Gehen Sie dazu wie folgt vor:
+Es wird empfohlen, vor der Installation von Office 365 ProPlus frühere Versionen von Office Windows Installer (MSI) zu entfernen. So gehen Sie wie folgt vor:
 
-1. Wenn Sie MSI zum Installieren von Office verwendet haben, können Sie Office mithilfe des Office-Bereitstellungstools (ODT) deinstallieren. Sie können das RemoveMSI-Element in Ihrer **configuration.xml** Datei verwenden.
+1. Wenn Sie MSI zum Installieren von Office verwendet haben, können Sie das Office Deployment Tool (ODT) verwenden, um Office zu deinstallieren. Sie können das RemoveMSI-Element in Ihrer **configuration.xml-Datei** verwenden.
 1. Befolgen Sie die Anweisungen in diesem Artikel: [Office 365 Security & Compliance Center.](https://go.microsoft.com/fwlink/p/?linkid=2077143)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7219"
 - "9003265"
-ms.openlocfilehash: 6877804b2cef0c40af4f4a0b4a88c824499f302a
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 462d755576a4435049aa8a1fce3bf727d233b86acf2752a84fa034cf7be2bab7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086255"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929232"
 ---
 # <a name="create-a-shared-library-in-onedrive"></a>Erstellen einer freigegebenen Bibliothek in OneDrive
 

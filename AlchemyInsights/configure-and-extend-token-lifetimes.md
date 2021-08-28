@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7778"
 - "9004351"
-ms.openlocfilehash: 505e79ae9a163b89a6df2a7085480728bb0f1051
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: ce100fcc2c62d62477f78e10b3cc9233fc2f5c5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911996"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329085"
 ---
 # <a name="configure-and-extend-token-lifetimes"></a>Konfigurieren und Verlängern der Tokengültigkeitsdauer
 
@@ -34,8 +34,7 @@ Der Artikel [Konfigurieren des Sitzungsverhaltens in Azure Active Directory B2C]
 
 Die Tokengültigkeitsdauer beträgt 1 Stunde und die Sitzungsgültigkeitsdauer beträgt 24 Stunden. Das bedeutet, dass Sie sich erneut anmelden müssen, bevor Sie ein neues Token anfordern können, wenn innerhalb von 24 Stunden keine Anforderung erfolgt ist.
 
-> [!NOTE]
-> Nach dem 30. Mai 2020 können neue Mandanten die Richtlinie „Gültigkeitsdauer konfigurierbarer Token“ nicht mehr verwenden, um Sitzungs- und Aktualisierungstoken zu konfigurieren. Die Einstellung erfolgt in den nächsten Monaten, was bedeutet, dass bestehende Richtlinien für Sitzungs- und Aktualisierungstokens nicht mehr berücksichtigt werden. Sie können die Gültigkeitsdauer von Token auch nach der Einstellung noch konfigurieren.
+**Hinweis**: Nach dem 30. Mai 2020 können neue Mandanten die Richtlinie „Gültigkeitsdauer konfigurierbarer Token“ nicht mehr verwenden, um Sitzungs- und Aktualisierungstoken zu konfigurieren. Die Einstellung erfolgt in den nächsten Monaten, was bedeutet, dass bestehende Richtlinien für Sitzungs- und Aktualisierungstokens nicht mehr berücksichtigt werden. Sie können die Gültigkeitsdauer von Token auch nach der Einstellung noch konfigurieren.
 
 
 

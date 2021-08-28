@@ -1,8 +1,8 @@
 ---
-title: E-Mail an Microsoft 365
+title: Verschieben von E-Mails in Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: abe11201d2c6dc4c517231b191f22e8ed2038411
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94c762cb8fbca608b06464f79f04d0a81fa37ca1fa10204b405a18bd79f4bade
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986296"
 ---
-# <a name="move-email-to-microsoft-365"></a>E-Mail an Microsoft 365
+# <a name="move-email-to-microsoft-365"></a>Verschieben von E-Mails in Microsoft 365
 
-Sie haben mehrere Optionen für die Migration von e-Mails zu Microsoft 365. Der [Microsoft 365 Mail Migration Advisor](https://aka.ms/alchemyinsight-mailmigrationadvisor) unterstützt Sie bei der Auswahl der besten für Ihre Umgebung und führt Sie auch durch die e-Mail-Migration.
+Sie haben mehrere Optionen für die Migration von E-Mails zu Microsoft 365. Der ratgeber für [die Microsoft 365 E-Mail-Migration](https://aka.ms/alchemyinsight-mailmigrationadvisor) hilft Ihnen bei der Auswahl des besten E-Mail-Migrationsberaters für Ihre Umgebung und führt Sie durch die E-Mail-Migration.
   
-Informationen zu Ihren Optionen, ohne die Migration zu starten, finden Sie unter [beschließen eines Migrationspfads](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
+Informationen zu Ihren Optionen, ohne die Migration zu starten, finden Sie unter ["Entscheiden über einen Migrationspfad".](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path)
 
-Überprüfen Sie auch die Seite [Microsoft 365 mit](https://www.microsoft.com/fasttrack/microsoft-365/office-365) kurzschlag annehmen, um unterstützte Hilfe bei der Migration zu erhalten, sofern berechtigt.
+Bitte überprüfen Sie auch die Seite ["Adopt Microsoft 365 with FastTrack",](https://www.microsoft.com/fasttrack/microsoft-365/office-365) um hilfeunterstützte Hilfe bei der Migration zu erhalten, falls berechtigt.
   

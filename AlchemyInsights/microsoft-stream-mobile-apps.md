@@ -14,16 +14,16 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9001509"
 - "8646"
-ms.openlocfilehash: 0c6846d4c0f6e85ee245985a2b849f982030e470
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 0e3b29e16991b4792186a52e9b093c6031450405210ec139d9ff7edcc706284e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50449132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066183"
 ---
 # <a name="microsoft-stream-mobile-apps"></a>Mobile Microsoft Stream-Apps
 
 Microsoft Stream ist über mobile iOS- und Android-Apps auf Smartphones und Tablets verfügbar, damit Sie unterwegs Videos ansehen können.
 
 - [Mobile Microsoft Stream-Apps](https://docs.microsoft.com/stream/mobile-apps-overview)
-- [Mobile Microsoft Stream-Apps herunterladen](https://docs.microsoft.com/stream/mobile-get-apps)
+- [Abrufen mobiler Microsoft Stream-Apps](https://docs.microsoft.com/stream/mobile-get-apps)

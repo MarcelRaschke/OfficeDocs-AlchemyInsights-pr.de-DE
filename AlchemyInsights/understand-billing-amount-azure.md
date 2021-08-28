@@ -2,7 +2,7 @@
 title: Erklärungen zu Ihrer Rechnung
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791531"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317139"
 ---
 # <a name="understand-billing-amount"></a>Informationen zum Abrechnungsbetrag
 
@@ -54,7 +54,7 @@ Es besteht eine Beschränkung von einem kostenlosen Azure-Konto-Abonnement pro K
 
 **Wie funktioniert das kostenlose Azure-Konto für Enterprise Agreement (EA)-Kunden?**  
 
-Dieses Angebot gilt nicht für EA-Kunden. Wenn ein Kunde jedoch über ein kostenloses Konto verfügt und später zu einer EA-Stufe wechselt, sind die Vorteile des kostenlosen Kontos 12 Monate ab dem Zeitpunkt der Registrierung für das kostenlose Konto nutzbar.
+Dieses Angebot steht EA-Kunden nicht zur Verfügung. Wenn ein Kunde jedoch über ein kostenloses Konto verfügt und später zu einer EA-Stufe wechselt, sind die Vorteile des kostenlosen Kontos 12 Monate ab dem Zeitpunkt der Registrierung für das kostenlose Konto nutzbar.
 
 **Wird für die Nutzung der im kostenlosen Angebot inbegriffenen Dienste das anfängliche Guthaben von 200 USD verwendet?**  
 
@@ -70,7 +70,9 @@ Nein. Kunden erhalten eine feststehende Anzahl kostenloser Dienste und ein Gutha
 
 **Wie kann ich überprüfen, ob ﻿kostenlose Dienste aktiv sind oder wann sie ablaufen?**
 
-Scrollen Sie unter "Ibiza-Portal > Abonnement > Übersicht" nach unten zu "12 Monate lang kostenlose Dienste", und klicken Sie auf das "Infosymbol". Dadurch wird das Datum angezeigt, an dem die kostenlosen Dienste ablaufen. **Hinweis** : Zu den im kostenlosen Azure-Konto inbegriffenen Diensten gehören keine V1-Dienste. Die aktuellste Liste der kostenlosen Dienste finden Sie unter [Welche Produkte für 12 Monate kostenlos sind](http://www.microsoftazuresponsorships.com/).
+Scrollen Sie unter "Ibiza-Portal > Abonnement > Übersicht" nach unten zu "12 Monate lang kostenlose Dienste", und klicken Sie auf das "Infosymbol". Hier wird das Datum angezeigt, an dem die kostenlosen Dienste ablaufen
+
+**Hinweis**: Keine V1-Dienste sind Teil von Azure Free Inclusive Services. Die aktuellste Liste der kostenlosen Dienste finden Sie unter [Welche Produkte für 12 Monate kostenlos sind](http://www.microsoftazuresponsorships.com/).
 
 Weitere häufig gestellte Fragen (FAQ): [Häufig gestellte Fragen zu kostenlosen Konten](https://azure.microsoft.com/free/free-account-faq/)
 

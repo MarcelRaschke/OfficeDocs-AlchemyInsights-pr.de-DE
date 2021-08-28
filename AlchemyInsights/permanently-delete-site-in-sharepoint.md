@@ -11,12 +11,12 @@ ms.custom: ''
 ms.assetid:
 - "5200006"
 - "4391"
-ms.openlocfilehash: bde31f9b197118467ed96d665a9c8edf6b789965
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f461963c4a5719957258349d667731231023721ab3ee4641538c94371bf3f56d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944310"
 ---
 # <a name="permanently-delete-a-site-in-sharepoint"></a>Endgültiges Löschen einer Site in SharePoint
 

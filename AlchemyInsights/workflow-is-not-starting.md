@@ -13,39 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e3b8777ed74b812b31338784999eea43a95d3456
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 77a3c022a9a3a82041b4a4a70c72c2e0940c0fba27f296f07881e3abebf1e464
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907737"
 ---
 # <a name="workflow-is-not-starting"></a>Workflow wird nicht gestartet
 
-- SharePoint 2010-und SharePoint 2013-Workflows werden nicht gestartet.
+- SharePoint 2010- und SharePoint 2013-Workflows werden nicht gestartet.
 
-    - Wenn Ihr Workflow nicht gestartet wird, kann es zu einem temporären Dienst Problem kommen, bei dem Benutzer gelegentlich Verzögerungen mit dem Workflowfortschritt auftreten können. Überprüfen Sie das [Dienststatus-Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) , um zu sehen, ob Ihre Organisation betroffen ist.
+    - Wenn Ihr Workflow nicht gestartet wird, kann es zu einem temporären Dienstproblem kommen, bei dem Es bei Benutzern zu zeitweiligen Verzögerungen beim Workflowfortschritt kommen kann. Überprüfen Sie das [Dienststatus-Dashboard,](https://admin.microsoft.com/AdminPortal/Home/servicehealth) um festzustellen, ob Ihre Organisation betroffen ist.
 
-    - Wenn seit dem ersten Auftreten dieses Problems mehr als 24 Stunden vergangen sind, melden Sie sich ein Support Ticket an. In vielen Fällen arbeiten wir bereits an einer Lösung. Geben Sie uns mindestens 24 Stunden, um eine Lösung zu vervollständigen.
+    - Wenn seit dem ersten Auftreten dieses Problems mehr als 24 Stunden vergangen sind, melden Sie sich bitte ein Supportticket an. In vielen Fällen arbeiten wir bereits an einer Lösung. Bitte geben Sie uns mindestens 24 Stunden Zeit, um eine Lösung abzuschließen.
 
-- SharePoint 2010-Workflows werden beim Start verzögert.
+- SharePoint 2010-Workflows wurden beim Start verzögert.
 
-    - Dies tritt auf, wenn der Workflow in großen Batches ausgelöst wird. (beispielsweise, wenn mehrere Elemente gleichzeitig hinzugefügt werden).
+    - Dies tritt auf, wenn der Workflow in großen Batches ausgelöst wird. (z. B. wenn mehrere Elemente gleichzeitig hinzugefügt werden).
 
-    - Workflows sind nicht für die Ausführung in Echtzeit vorgesehen, daher ist eine Verzögerung das Entwurfsverhalten.
+    - Workflows sind nicht für die Ausführung in Echtzeit ausgelegt, daher ist eine Verzögerung das Entwurfsverhalten.
 
-   -  Wenn es sich bei dem Workflow um eine komplexe eXtensible Object Markup Language (XMol) handelt, kann die Kompilierung langsam sein. Lesen Sie [diesen](https://support.microsoft.com//kb/3043697) Artikel.
+   -  Wenn der Workflow eine komplexe Extensible Object Markup Language (XSTYLE) ist, kann die Kompilierung langsam sein. Lesen Sie [diesen](https://support.microsoft.com//kb/3043697) Artikel.
 
-    - Sie sollten den Workflow vereinfachen oder ihn mit dem Microsoft SharePoint 2013 Workflow Platt Form neu entwerfen.
+    - Sie sollten den Workflow vereinfachen oder mithilfe des Microsoft SharePoint 2013-Workflowplattformtyps neu entwerfen.
 
-    - Wenn Ihr Workflowverlauf groß geworden ist, können Sie die Elemente löschen oder eine neue Verlaufsliste erstellen.
+    - Wenn ihr Workflowverlauf sehr umfangreich ist, können Sie die Elemente löschen oder eine neue Verlaufsliste erstellen.
 
-        Weitere Informationen: [Workflow Verlauf löschen](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Weitere Informationen: [Löschen des Workflowverlaufs](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Verwandte Themen
 Möchten Sie Microsoft Flow in SharePoint Online testen?
-- [Fluss erstellen](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [Erstellen Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint und Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
-
-

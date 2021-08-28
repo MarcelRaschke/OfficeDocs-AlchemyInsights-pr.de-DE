@@ -3,34 +3,33 @@ title: Kündigen Ihres Abonnements?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+ms.reviewer: jkinma, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscription
 - "4"
 - "1400001"
-ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348664"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330171"
 ---
 # <a name="canceling-your-subscription"></a>Kündigen Ihres Abonnements?
 
-Es tut uns leid, dass Sie gehen, aber wenn Sie Ihr Abonnement kündigen möchten, finden Sie hier die folgenden Optionen:
+Es tut uns leid, dass Sie gehen, aber wenn Sie Ihr Abonnement kündigen möchten, finden Sie hier Ihre Optionen:
   
-- Wenn Sie ein Test Kunde sind, gibt es nichts zu kündigen. Testabonnements laufen automatisch ab, es sei denn, Sie geben eine Zahlungsmethode an.
-- Wenn Sie weniger als 25 zugewiesene Lizenzen haben, können Sie Ihr Abonnement Online kündigen. Wechseln Sie zur Seite **Fakturierung** \> [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) , und suchen Sie nach dem Abonnement, das Sie stornieren möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) und dann **Abonnement kündigen** aus.
-- Wenn Sie mehr als 25 Lizenzen für Benutzer zugewiesen haben, [rufen Sie den Support an, um Ihr Abonnement zu kündigen](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- Wenn Ihnen weniger als 25 Lizenzen zugewiesen sind, können Sie Ihr Abonnement online kündigen. Wechseln Sie zur Seite **"Abrechnung** \> **[Für Ihre Produkte",](https://go.microsoft.com/fwlink/p/?linkid=842054)** und suchen Sie das Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Abonnement kündigen** aus.
+- Wenn Sie benutzern mehr als 25 Lizenzen zugewiesen haben, reduzieren Sie diese auf weniger als 25, um das Abonnement zu kündigen oder [den Support anzurufen, um Ihr Abonnement zu kündigen.](https://docs.microsoft.com/microsoft-365/business-video/get-help-support)
   
-**Rückerstattung: jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.**
+**Rückerstattung: Jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.**
 
-> [!NOTE]
-> Wenn die Option zum Abbrechen nicht angezeigt wird, wählen Sie das Abonnement aus, um die Seite Details anzuzeigen. Wählen Sie im Abschnitt **Abonnement-und Zahlungseinstellungen** die Option **Abonnement kündigen** aus.
+**Hinweis:** Wenn die Option zum Kündigen nicht angezeigt wird, wählen Sie das Abonnement aus, um die Detailseite anzuzeigen. Wählen Sie im Abschnitt **"Abonnement- und Zahlungseinstellungen"** die Option **"Abonnement kündigen"** aus.
 
-Weitere Informationen finden Sie unter [kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -1,5 +1,5 @@
 ---
-title: Fehlercode 30125-4 oder 30125-1011 bei der Installation von Office
+title: Fehlercode 30125-4 oder 30125-1011 beim Installieren von Office
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,26 +12,26 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: 26e4ba40a5517212fbd82308668e5a57e8d5be51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbb11eb5b4b8c0489cf0b496decdf7493f5b545656a38806a29a0a252903e000
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784090"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100689"
 ---
-# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Fehlercode 30125-4 oder 30125-1011 bei der Installation von Office
+# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Fehlercode 30125-4 oder 30125-1011 beim Installieren von Office
 
-Dieser Fehler wird möglicherweise angezeigt, wenn Sie von Ihrer Antiviren-Software, Ihrer Firewall, ihren Proxyeinstellungen oder ihrer Verbindung keine Office-Installation verhindern. Hier sind einige Dinge, die Sie versuchen können, das Problem zu beheben:
+Dieser Fehler wird möglicherweise angezeigt, wenn Ihre Antivirensoftware, Firewall, Proxyeinstellungen oder Verbindung sie daran hindern, Office zu installieren. Hier sind einige Dinge, die Sie versuchen können, das Problem zu beheben:
   
-- Neustarten des Computers und erneutes Installieren von Office
+- Starten Sie Ihren Computer neu, und installieren Sie Office neu.
 
-- Installieren von Office mithilfe des [Office-Offline Installationsprogramms](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- Installieren Office mit dem [Office Offline-Installationsprogramm](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Vorübergehendes Deaktivieren von Proxyeinstellungen
+- Proxyeinstellungen vorübergehend deaktivieren
 
-- Vorübergehendes Deaktivieren der Antivirus-Software
+- Vorübergehendes Deaktivieren von Antivirensoftware
 
-- Vorübergehendes Deaktivieren der Firewall
+- Firewall vorübergehend deaktivieren
 
-Weitere Informationen finden Sie unter [Fehlercode 30125-4 oder 30125-1011 bei der Installation von Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA) .
+Weitere Informationen finden Sie [unter Fehlercode 30125-4 oder 30125-1011 beim Installieren von Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
   

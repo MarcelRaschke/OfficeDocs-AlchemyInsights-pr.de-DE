@@ -2,7 +2,7 @@
 title: Erstellen eines organisationsweiten Teams, das alle Personen in Ihrer Organisation enthält.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001731"
 - "3830"
-ms.openlocfilehash: b22990f11bd229f206aa67f8793df3b605a4ba43
-ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
+ms.openlocfilehash: d69837f186df478b85797b59494ba3d4ee25d71d9e2224ac1803fc835da33fd9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50291755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994648"
 ---
 # <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>Erstellen eines organisationsweiten Teams, das alle Personen in Ihrer Organisation enthält.
 

@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: 05fb43133bc68b71ccdbab44d28679a1f659e762
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5866d182cb2e97e37bc6df87e05fb6ef55bfed1d36f9daa95b7b8993a509e2dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011911"
 ---
 # <a name="multiple-objects-have-the-same-email-address-as-identity"></a>Mehrere Objekte haben die gleiche E-Mail-Adresse als Identität
 
 **Mehrere Objekte**
 
-Einer häufiger Grund für diesen Fehler ist, dass eine Outlook Web Access-Anforderung bei Vorhandensein mehrerer Objekte mit derselben E-Mail-Adresse als Identität nicht korrekt weitergeleitet werden kann. Um diese Objekte zu finden, führen Sie die folgenden Befehle aus:
+Einer der häufigsten Gründe für diesen Fehler ist, dass eine Outlook Web Access-Anfrage nicht richtig weitergeleitet werden kann, wenn mehrere Objekte vorhanden sind, die dieselbe E-Mail-Adresse als Identität haben. Um diese Objekte zu finden, führen Sie die folgenden Befehle aus:
 
 · Get-Recipient <email address>
 

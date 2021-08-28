@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b076ec5dca070555ce51b88631fb6bd619ed9269e59ccc799b23b8b95547c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955200"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Zugriff verweigert beim Anzeigen eines Workflows
 
-SharePoint 2013 Workflows, die versuchen, eine e-Mail an eine SharePoint-Gruppe zu senden, können mit der Fehlermeldung "Zugriff verweigert" fehlschlagen, wenn die Mitgliedschaft in der SharePoint-Gruppe nicht auf jeder festgelegt ist.
+SharePoint 2013 workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.
   
  **Führen Sie die folgenden Schritte aus, um dieses Problem zu beheben:**
   
- 1. Lassen Sie alle Mitglieder der SharePoint-Gruppe anzeigen.
+ 1. Zulassen, dass jeder die Mitglieder der SharePoint Gruppe sehen kann.
   
- 2. Entfernen Sie die SharePoint-Gruppe aus der an-oder CC-Zeile der e-Mail.
+ 2. Entfernen Sie die SharePoint Gruppe aus der Zeile "An" oder "CC" der E-Mail.
   
- 3. Fügen Sie die Benutzer explizit zur Zeile "an" oder "CC" hinzu, wenn die Mitgliedschafts Sichtbarkeit für SharePoint-Gruppe nicht geändert werden kann.
+ 3. Fügen Sie die Benutzer explizit zur Zeile "An" oder "CC" hinzu, wenn die Sichtbarkeit der Mitgliedschaft für SharePoint Gruppe nicht geändert werden kann.
   
-Weitere Informationen finden Sie unter [http Authorized to/_vti_bin/Client.svc/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Weitere Details finden Sie unter [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

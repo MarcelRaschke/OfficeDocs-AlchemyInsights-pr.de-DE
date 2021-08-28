@@ -1,5 +1,5 @@
 ---
-title: Verwenden von Configuration Manager zum Bereitstellen, aktualisieren und Verwalten von Microsoft Edge unter Windows
+title: Verwenden von Configuration Manager zum Bereitstellen, Aktualisieren und Verwalten von Microsoft Edge unter Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004030"
 - "7100"
-ms.openlocfilehash: ee978146ff0964e9ebd9f476f9c92d1f97aa042c
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: 226878c7ce12a9cdc9c6b24a1b05cdbf39ed67ad631b3a7dc02bbe0d7d6b91a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49600109"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919537"
 ---
-# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Verwenden von Configuration Manager zum Bereitstellen, aktualisieren und Verwalten von Microsoft Edge unter Windows
+# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Verwenden von Configuration Manager zum Bereitstellen, Aktualisieren und Verwalten von Microsoft Edge unter Windows
 
-Ab der Configuration Manager-Version 1910 können Sie Microsoft Edge (Versionen 77 und höher) über ein PowerShell-Skript bereitstellen. Das Skript deaktiviert die automatischen Updates, sodass Sie die Updates über Configuration Manager verwalten können. Weitere Informationen zu diesen und anderen Vorteilen der Verwendung von Configuration Manager finden Sie unter [Microsoft Edge Management](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?).
+Ab Configuration Manager Version 1910 können Sie Microsoft Edge (Version 77 und höher) über ein PowerShell-Skript bereitstellen. Das Skript deaktiviert die automatischen Updates, sodass Sie die Updates über Configuration Manager verwalten können. Weitere Informationen zu diesem und anderen Vorteilen der Verwendung von Configuration Manager finden Sie unter [Microsoft Edge-Verwaltung](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?).

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8212"
 - "9003230"
-ms.openlocfilehash: 39de45a1c51a35e8592d11f70d9daa3f081817f6
-ms.sourcegitcommit: 23e778f7414e5f1a98cc786146fe76d622b458bc
+ms.openlocfilehash: 70211a090879f8f072683ea880df46d6228ef55f7c01e0600f41836142d3f4cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177316"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066717"
 ---
 # <a name="management-of-enterprise-apps"></a>Verwaltung von Unternehmens-Apps
 

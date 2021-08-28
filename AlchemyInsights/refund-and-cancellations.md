@@ -2,7 +2,7 @@
 title: Erstattungen und Kündigungen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002295"
 - "4445"
-ms.openlocfilehash: e8cd887099f6bbbf130531d98f539e95ad13e120
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0045b5ed586ac9a6931c17a0eee8ab47c1ce027
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721041"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799628"
 ---
 # <a name="refunds-and-cancellations"></a>Erstattungen und Kündigungen
 

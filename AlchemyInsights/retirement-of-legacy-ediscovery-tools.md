@@ -1,8 +1,8 @@
 ---
-title: Ruhestand von vorversions-eDiscovery-Tools
+title: Einstellung von Legacy-eDiscovery-Tools
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,44 +12,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 2315c4c651a83f0ecc78c0171f32aba13bc93f8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e7f898ac1a9e9469f633192be18e2a3a362023c83c9e510593196b5a4a0daf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074673"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Ruhestand von vorversions-eDiscovery-Tools
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Einstellung von Legacy-eDiscovery-Tools
 
-Aufgrund der neuen und verbesserten eDiscovery-Funktionalität im Microsoft 365 Compliance Center werden die folgenden Legacy-eDiscovery-Tools und Cmdlets in den nächsten Monaten zurückgezogen:
+Aufgrund der neuen und verbesserten eDiscovery-Funktionen im Microsoft 365 Compliance Center werden die folgenden eDiscovery-Tools und -Commandlets der Vorversion in den kommenden Monaten eingestellt:
 
-- In [-Place-eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) und [in-Place-](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) Speicher in der Exchange-Verwaltungskonsole.
+- [In-Situ-eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) und [In-Situ-Speicher](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) im Exchange Admin Center.
 
-- Die Exchange Online PowerShell-Cmdlets, die in-Place-eDiscovery und in-Place-Aufbewahrungen unterstützen. (Diese Cmdlets werden gemeinsam als *-MailboxSearch-Cmdlets identifiziert.) Dies umfasst die folgenden Cmdlets:
+- Die Exchange Online PowerShell-Cmdlets, die In-Place eDiscovery- und In-Place-Haltebereiche unterstützen. (Diese Cmdlets werden gemeinsam als *-MailboxSearch-Cmdlets identifiziert.) Dazu gehören die folgenden Cmdlets:
 
     - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
     - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
     - [Stop-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Gruppe-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- Das Cmdlet [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) in Exchange Online PowerShell.
-- Die folgenden Vorgänge in der Exchange Webdienste-API:
+- Das Cmdlet ["Search-Mailbox"](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) in Exchange Online PowerShell.
+- Die folgenden Vorgänge in der Exchange-Webdienst-API:
     - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Erweiterte eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Advanced eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Zeitachse für den Ruhestand**:
-- **1. Juli 2020** Sie können keine neuen suchen und Aufbewahrungen mehr erstellen, aber Sie können vorhandene Suchvorgänge auf eigenes Risiko ausführen, bearbeiten und löschen. Der Microsoft-Support unterstützt keine Compliance-eDiscovery-& mehr in der Exchange-Verwaltungskonsole.
+**Zeitachse für die Einstellung:**
+- **1. Juli 2020** Sie können keine neuen Suchvorgänge und Haltebereiche mehr erstellen, sondern vorhandene Suchen auf eigenes Risiko ausführen, bearbeiten und löschen. Der Microsoft-Support unterstützt In-Place eDiscovery-&-Haltebereiche im EAC nicht mehr.
     
-- **1. Oktober 2020** In-situ-eDiscovery-& die Funktionen in der Exchange-Verwaltungskonsole enthalten, werden in den schreibgeschützten Modus versetzt, sodass Sie nur vorhandene suchen und Haltestatus entfernen können.
+- **Am 1. Oktober 2020** wird In-Place eDiscovery & Haltebereichsfunktionen im EAC im schreibgeschützten Modus platziert, sodass Sie nur vorhandene Suchvorgänge und Haltebereiche entfernen können.
 
-**Weitere Informationen finden Sie unter**:
+**Weitere Informationen finden Sie unter:**
 
- - [Migrieren von Legacy-eDiscovery-suchen und-Archiven zum Microsoft 365 Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Migrieren von eDiscovery-Legacysuchen und -haltebereichen zum Microsoft 365 Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
  - [Einstellung älterer eDiscovery-Tools](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [FAQs zu Compliance-eDiscovery und in-Place-Archiven](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Häufig gestellte Fragen zu In-Place eDiscovery und In-Place-Haltebereichen](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 

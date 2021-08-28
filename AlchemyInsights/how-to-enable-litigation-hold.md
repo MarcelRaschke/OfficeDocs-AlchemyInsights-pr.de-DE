@@ -1,5 +1,5 @@
 ---
-title: 976-How-to-enable-Litigation-Hold
+title: 976-how-to-enable-litigation-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,17 +14,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 47d5a0866a6e92da2a3abb377a5e93918b5a1c9d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbc3460dde8030238d56d054af7e4ee13d655d7d54f65c3275a73e899dd6f813
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067515"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Aufbewahrungspflicht für ein Postfach
+# <a name="place-a-mailbox-on-legal-hold"></a>Platzieren eines Postfachs in die gesetzliche Aufbewahrungspflicht
 
-- Wenn Sie ein Postfach in einem Beweissicherungsverfahren oder in-situ-Speicher platzieren möchten, ist eine Lizenz für Exchange Online Plan 2 [Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich. Wenn einem Postfach eine Plan 1-Lizenz zugewiesen ist, können Sie eine separate Exchange Online Archivierungs-Add-on-Lizenz [Exchange Online Archivierungs-Add-on-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)zuweisen.
+- Um ein Postfach für das Beweissicherungsverfahren oder In-Place sperren zu können, ist eine Exchange Online Plan [2-Lizenz Exchange Online Plan 2-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich. Wenn einem Postfach eine Plan 1-Lizenz zugewiesen ist, können Sie eine separate Exchange Online-Archivierung Add-On-Lizenz [Exchange Online-Archivierung Add-On-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)zuweisen.
 
-- [Führen Sie die folgenden Schritte](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)aus, um das Beweissicherungsverfahren für einen einzelnen Benutzer zu aktivieren. Wenn das Beweissicherungsverfahren aktiviert ist, bleiben alle Inhalte im Postfach erhalten.
+- Führen Sie die [folgenden Schritte](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)aus, um das Beweissicherungsverfahren für einen einzelnen Benutzer zu aktivieren. Wenn die Beweissicherung für juristische Zwecke aktiviert ist, bleiben alle Inhalte im Postfach erhalten.
 
-- Um Inhalte in allen Postfächern in Ihrer Organisation beizubehalten oder andere Aufbewahrungs Typen zu erstellen, verwenden Sie eine Aufbewahrungsrichtlinie oder Bezeichnungen. Beachten Sie, dass für organisationsweite Aufbewahrungsrichtlinien neue Benutzer automatisch der Richtlinie zugewiesen werden. Weitere Informationen finden Sie unter Informationen [zu Aufbewahrungsrichtlinien und Aufbewahrungs Bezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
+- Verwenden Sie eine Aufbewahrungsrichtlinie oder Bezeichnung, um Inhalte in allen Postfächern In Ihrer Organisation beizubehalten oder andere Arten von Aufbewahrungsarchiven zu erstellen. Beachten Sie, dass für organisationsweite Aufbewahrungsrichtlinien neue Benutzer automatisch der Richtlinie zugewiesen werden. Weitere Informationen finden Sie unter [Informationen zu Aufbewahrungsrichtlinien und Aufbewahrungsbezeichnungen.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations) 

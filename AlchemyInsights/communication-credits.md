@@ -2,7 +2,7 @@
 title: Kommunikationsguthaben
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: e35454836320c5aee23f80aa6f6c04414fb127ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad38513dbb177d36df1164a316710b5f6bfe79bfdeb694fe04b6df9ff4949f20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966468"
 ---
 # <a name="communication-credits"></a>Kommunikationsguthaben
 

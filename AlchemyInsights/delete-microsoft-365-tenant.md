@@ -11,12 +11,12 @@ ms.custom:
 - "9002250"
 - "4355"
 ms.assetid: ''
-ms.openlocfilehash: 554f7275dd881e9dce6377ecf0dcd3d190483cd9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e50562c52325d3b4e938716833647dac0616b4e0fb2e643367a697e13f0b9ab2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102678"
 ---
 # <a name="delete-microsoft-365-tenant"></a>Löschen des Microsoft 365-Mandanten
 

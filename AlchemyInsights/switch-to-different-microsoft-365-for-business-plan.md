@@ -1,8 +1,9 @@
 ---
 title: Wechseln zu einem anderen Microsoft 365 Business-Plan
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,6 +11,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "1400007"
 - "4548"
 - "9002424"
@@ -18,12 +20,12 @@ ms.custom:
 - "5160"
 - "9002663"
 - "5168"
-ms.openlocfilehash: 605e4cd00287178455877c8652af2034147e1ade
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eaa14aa85989cca00f43a862d7687b3c35b2b2e47562d498b630139985eaef6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909177"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>Wechseln zu einem anderen Microsoft 365 Business-Plan
 

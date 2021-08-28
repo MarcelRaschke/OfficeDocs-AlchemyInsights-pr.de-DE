@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1741"
 - "9000140"
-ms.openlocfilehash: 9f6a812def2b46bf32d836781d0336aea5ba3ed1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b4ca6d0160215dd788a8bb918e6a6af36a811427ed594885843140cc1727c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727818"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074427"
 ---
 # <a name="roll-back-to-an-earlier-build-of-office"></a>Ausführen eines Rollbacks auf eine frühere Version von Office
 

@@ -2,7 +2,7 @@
 title: Postfachspeicher
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002330"
 - "4993"
-ms.openlocfilehash: b649be24594b87560a88c0e7f677c5690852a277
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f52af45dd527e878f533e4e2b181f512f9bbbc631b9d67c58c5ec1ffcd19ea84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794729"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027859"
 ---
 # <a name="mailbox-storage"></a>Postfachspeicher
 

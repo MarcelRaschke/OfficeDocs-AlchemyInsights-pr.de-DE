@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1729"
 - "9000183"
-ms.openlocfilehash: 76891b3abe156b736c3bb6da0f6cd1135346dbe2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3088a7b939e7b88319ff688ea94fa71d7fa540787cde31cfd864551113caf149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798663"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020227"
 ---
 # <a name="unable-to-change-username"></a>Benutzername (UserName) kann nicht geändert werden
 

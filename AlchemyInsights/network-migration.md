@@ -1,5 +1,5 @@
 ---
-title: Netzwerk Migration
+title: Netzwerkmigration
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,27 +12,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 6f026f932bb35d12d32ce7eddf49e49a44db7f31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f63ce1641faf3cb2a29fd954624d25f5e1e37f135ec361ac09668086d78aa3e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799563"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113199"
 ---
-# <a name="network-migration"></a>Netzwerk Migration
+# <a name="network-migration"></a>Netzwerkmigration
 
-Ihr O365-Mandant ist möglicherweise mehreren Jammer Netzwerken in einem 1-Mandanten zugeordnet: Viele Netzwerkkonfigurationen. Ab dem 16. Oktober 2018 unterstützt jammern nicht mehr mehrere Jammer Netzwerke, die einem Mandanten zugeordnet sind. Sie können eine Netzwerk Migration durchführen, um eine bevorzugte 1:1-Konfiguration zu erhalten.
+Ihr O365-Mandant ist möglicherweise mehreren Yammer Netzwerken in einem 1-Mandanten zugeordnet: viele Netzwerkkonfigurationen. Ab dem 16. Oktober 2018 werden Yammer nicht mehr mehrere Yammer Netzwerke unterstützen, die einem Mandanten zugeordnet sind. Sie können eine Netzwerkmigration durchführen, um zu einer bevorzugten 1:1-Konfiguration zu gelangen.
   
-- Um eine Liste der Netzwerke anzuzeigen, die Ihrem Mandanten zugeordnet sind, melden Sie sich bei jammern als globaler Administrator an, und navigieren Sie zu **Netzwerkadministrator**und dann zur **Netzwerk Migration**. Wählen Sie **Weiter** aus.
+- Um eine Liste der Netzwerke anzuzeigen, die Ihrem Mandanten zugeordnet sind, melden Sie sich bei Yammer als globaler Administrator an, und navigieren Sie zum **Netzwerkadministrator** und dann zur **Netzwerkmigration.** Wählen Sie **Weiter** aus.
 
-- Wenn Sie mehrere Netzwerke in Schritt 2 von 3 aufgelistet sehen, haben Sie mehrere Jammer Netzwerke, die mit Ihrem O365-Mandanten verknüpft sind.
+- Wenn in Schritt 2 von 3 mehrere Netzwerke aufgeführt sind, sind Ihrem O365-Mandanten mehrere Yammer Netzwerke zugeordnet.
 
-- Um die Konfiguration in einer 1:1-Konfiguration zu korrigieren, fahren Sie mit dem Netzwerk Migrationstool fort.
+- Um die Konfiguration auf eine 1:1-Konfiguration zu korrigieren, verwenden Sie weiterhin das Netzwerkmigrationstool.
 
-- Weitere Informationen zur Netzwerk Migration finden Sie unter [Netzwerk Migration: Konsolidieren von mehreren Jammer Netzwerken](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+- Weitere Informationen zur Netzwerkmigration finden Sie unter [Netzwerkmigration: Konsolidieren mehrerer Yammer Netzwerke.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
 
 Bitte beachten Sie:
   
-- **Bei einer Netzwerk Migration werden nur die aktiven und ausstehenden Benutzer migriert.** Zusammen mit den aktiven Benutzern werden die Benutzerinformationen wie Name und Profilbild ebenfalls migriert. Alle Netzwerk Inhalte, einschließlich Gruppen, werden nicht migriert.
+- **Bei einer Netzwerkmigration werden nur die aktiven und ausstehenden Benutzer migriert.** Zusammen mit den aktiven Benutzern werden auch die Informationen der Benutzer, z. B. Name und Profilbild, migriert. Alle Netzwerkinhalte, einschließlich Gruppen, werden nicht migriert.
 
-- **Die Netzwerkmigration kann nicht rückgängig gemacht werden.** Sie können nach der Migration nicht auf Ihr Tochter Netzwerk und dessen Inhalte zugreifen. Bevor Sie also eine Migration in Frage stellen, möchten Sie sorgfältig planen.
+- **Die Netzwerkmigration kann nicht rückgängig gemacht werden.** Sie können nach der Migration nicht auf Ihr Zweigstellennetzwerk und dessen Inhalte zugreifen. Bevor Sie also eine Migration in Betracht ziehen, sollten Sie sorgfältig planen.

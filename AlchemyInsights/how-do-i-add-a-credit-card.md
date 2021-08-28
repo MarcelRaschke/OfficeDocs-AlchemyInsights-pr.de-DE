@@ -2,8 +2,9 @@
 title: Wie füge ich eine Kreditkarte hinzu?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,15 +12,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 2db7b38a495d38d0da980100e51cb2754d7fb860
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6af7a3ac9554e48b83e2582f3724577273104a5b8b7fefdc41b15977ec0e1abb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782038"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896558"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Wie füge ich eine Kreditkarte hinzu?
 

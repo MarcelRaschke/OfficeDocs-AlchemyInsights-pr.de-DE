@@ -11,12 +11,12 @@ ms.custom: ''
 ms.assetid:
 - "9002312"
 - "4497"
-ms.openlocfilehash: 1259bb936e7789b784c5d7c5dc715801bf860a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4af4323e0a51c69f5689483508ff3196519030824806cb24a1157b61daefa2cf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004045"
 ---
 # <a name="editing-documents-in-teams"></a>Bearbeiten von Dokumenten in Teams
 

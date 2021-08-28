@@ -2,7 +2,7 @@
 title: Für die Wiedergabe von Videos verwendetes CDN
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5146"
-ms.openlocfilehash: 6bc87783375a206a84c96eb7ddd58db5bfd31728
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 399be421994437d4cd2df644531334c58d177ec3293e7e379d84cd8326823a63
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071115"
 ---
 # <a name="cdn-used-for-video-playback"></a>Für die Wiedergabe von Videos verwendetes CDN
 

@@ -2,7 +2,7 @@
 title: Zugriff auf OneDrive-Website verweigert
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000150"
 - "1663"
-ms.openlocfilehash: d2fb80ab82cff4a24fd46966d38f2ffb89505038
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c12af2769036d0c5f220e82f18fb3bd5b6217b79ec5987250b61ea195d7836aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663620"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955272"
 ---
 # <a name="access-denied-to-onedrive-site"></a>Zugriff auf OneDrive-Website verweigert
 

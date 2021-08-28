@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7556"
 - "9004252"
-ms.openlocfilehash: 253e6c1652e318263d99023330e563b8bff9b6c8
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: 0d7dc6017d85f9fba88e75ec370d676379f731dde9acd2e7aef8090d99c8f0f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886830"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006529"
 ---
 # <a name="cannot-complete-upgrade-to-teamsonly"></a>Upgrade auf TeamsOnly kann nicht abgeschlossen werden
 

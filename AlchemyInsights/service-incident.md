@@ -1,5 +1,5 @@
 ---
-title: Neu auftretende Probleme
+title: Neu auftretendes Problem
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34ed86c3044a0b73bc2cc94a7032b8f2c99dd643a497eadfdf3b26172c1200df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797691"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108951"
 ---
-# <a name="emerging-issue"></a>Neu auftretende Probleme
+# <a name="emerging-issue"></a>Neu auftretendes Problem
 
-Mehrere Kunden haben sich über ein ähnliches Problem wie das, was Sie melden, beklagt. Wir betrachten dieses Problem.
+Mehrere Kunden haben sich über ein Problem geklagt, ähnlich dem, was Sie melden. Wir befassen uns mit diesem Problem.
 
-Überprüfen Sie das [Service-Integritäts Dashboard](https://admin.microsoft.com/adminportal/home#/servicehealth) , um über alle Beeinträchtigungen des Diensts informiert zu bleiben.
+Überprüfen Sie das [Dienststatus-Dashboard,](https://admin.microsoft.com/adminportal/home#/servicehealth) um über Vorfälle mit Auswirkungen auf den Dienst auf dem Laufenden zu bleiben.

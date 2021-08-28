@@ -3,6 +3,7 @@ title: Häufig gestellte Fragen zu Business-Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,6 +11,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002875"
 - "5445"
 - "9002874"
@@ -20,13 +22,12 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-- commerce
-ms.openlocfilehash: 80191be73c91faa9fe0fce12eed4c9a6f9ab8507
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 4f059459ea1c0867ae972f154f082b183040f4040a81e7cb42cf00e493bfcf6b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072123"
 ---
 # <a name="business-subscription-faq"></a>Häufig gestellte Fragen zu Business-Abonnements
 
@@ -35,7 +36,7 @@ ms.locfileid: "50469005"
 - Um **Pläne zu ändern**, ziehen Sie [Upgrade auf einen anderen Plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) zurate.
 - Wenn Sie Benutzern Lizenzen **zuweisen** möchten, navigieren Sie zu **Abrechnung > [Lizenzen](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Weitere Informationen finden Sie unter [Zuweisen von Lizenzen zu Benutzern](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Um Lizenzen **zu kaufen oder zu entfernen**, navigieren Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Weitere Informationen finden Sie unter [Lizenzen kaufen oder entfernen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
-- Um ein Abonnement zu **kündigen**, navigieren Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**, wählen Sie das Abonnement und dann im Abschnitt **Abonnement- und Zahlungseinstellungen** die Option **Abonnement kündigen** aus. Weitere Informationen finden Sie unter [Ihr Abonnement kündigen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Um ein Abonnement zu **kündigen**, navigieren Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**, wählen das Abonnement und dann im Bereich **Abonnement- und Zahlungseinstellungen** die Option **Abonnement kündigen** aus. Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Informationen zum **Aktivieren** des Abonnements finden Sie unter [Aktivieren Ihres Abonnements](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Informationen zum **Reaktivieren** des Abonnements finden Sie unter [Reaktivieren Ihres Abonnements](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Informationen zum **Verlängern** Ihrer Testversion finden Sie unter [Verlängern Ihrer Testversion](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).

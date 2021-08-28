@@ -2,7 +2,7 @@
 title: Ändern des Organisationsnamens für den OneDrive-Synchronisierungsclient
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: 8e474276633bba2895338fd0c0a5903df1ddf637
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 217998f1c2912d74c89c676e4375769d2c0eb3f5b8e5df303071bc3c51ef74d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756714"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916846"
 ---
 # <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Ändern des Organisationsnamens für den OneDrive-Synchronisierungsclient
 

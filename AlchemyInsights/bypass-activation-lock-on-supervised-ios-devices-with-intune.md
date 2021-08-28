@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1277"
 - "6700008"
-ms.openlocfilehash: 743b5917c08b0a49a8c5791bdeb59a1672dd0fc7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de52ba77d3155d957372c31d465881fc7e8fcbbe657dfa35dedfee2be52e5a52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757299"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046499"
 ---
 # <a name="bypass-activation-lock-on-supervised-ios-devices-with-intune"></a>Umgehen der Aktivierungssperre für überwachte iOS-Geräte mit Intune
 

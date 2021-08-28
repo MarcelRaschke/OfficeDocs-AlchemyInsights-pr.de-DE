@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 510228c48532b762c3fce836d9358c46ca48cdb5
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 7751a8ba22713998f09d12a184abe2e20178579e93bd7d6aefe5c8d7a9f847d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599019"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116331"
 ---
 # <a name="help-with-apple-dep"></a>Hilfe zu Apple DEP
 
-Wenn ein DEP-Gerät nicht registriert werden kann und MFA (Multi-Factor Authentication) aktiviert ist, deaktivieren Sie MFA. MFA wird derzeit nicht für die DEP-Registrierung unterstützt.
+Wenn sich ein DEP-Gerät nicht registrieren kann und MFA (Multi-Factor Authentication) aktiviert ist, deaktivieren Sie die MFA. MFA wird derzeit nicht für die DEP-Registrierung unterstützt.
 
-[Erste Schritte mit InTune und Apples Geräte Registrierungsprogramm (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Erste Schritte mit Intune und apples Geräteregistrierungsprogramm (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Häufige Fehler und Lösungen für IOS-Registrierungen](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Häufige iOS-Registrierungsfehler und -lösungen](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Sicherungs-und Wiederherstellungsszenarien für eingeschriebene IOS/iPad-Geräte](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
+[Sicherungs- und Wiederherstellungsszenarien für registrierte iOS-/iPadOS-Geräte](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
 
 [Allgemeine Problembehandlung bei der Registrierung](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Verwenden des InTune-Problem Behandlungs Portals zum Diagnostizieren und Beheben allgemeiner Registrierungsfehler](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Verwenden des Intune-Problembehandlungsportals zum Diagnostizieren und Beheben häufiger Registrierungsfehler](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)

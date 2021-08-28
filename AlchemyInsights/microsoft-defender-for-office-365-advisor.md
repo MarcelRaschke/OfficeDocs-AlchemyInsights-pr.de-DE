@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004191"
 - "7372"
-ms.openlocfilehash: cb916a79ddd4b882ea5b892cfc4c2133c924df5d
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e8071de43932bc4f5ca6691a48b92768df18fab47ef6e6112ecc8604678b6408
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609609"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098107"
 ---
 # <a name="microsoft-defender-for-office-365-advisor"></a>Microsoft Defender für Office 365 Advisor
 
-Der [Microsoft Defender für Office 365 Advisor](https://go.microsoft.com/fwlink/?linkid=2146614) schützt Ihre Organisation vor böswilligen Bedrohungen, denen Ihre Umgebung möglicherweise über e-Mail-Nachrichten, Links und Tools für die Zusammenarbeit von Drittanbietern begegnet. Dieses Handbuch enthält die Ressourcen und Informationen, die Sie bei der Vorbereitung und Identifizierung eines Microsoft Defender-Plans entsprechend den Anforderungen Ihrer Organisation unterstützen.
+Der [Ratgeber für Microsoft Defender für Office 365](https://go.microsoft.com/fwlink/?linkid=2146614) schützt Ihre Organisation vor bösartigen Bedrohungen, auf die Ihre Umgebung möglicherweise durch E-Mail-Nachrichten, Links und Tools für die Zusammenarbeit von Drittanbietern stößt. Dieses Handbuch enthält die Ressourcen und Informationen, die Ihnen helfen, einen Microsoft Defender-Plan vorzubereiten und zu identifizieren, der den Anforderungen Ihrer Organisation entspricht.

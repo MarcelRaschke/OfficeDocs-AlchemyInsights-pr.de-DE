@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47941514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924529"
 ---
 # <a name="overview-of-microsoft-graph-connectors"></a>Übersicht über Microsoft Graph-Connectors
 
-Informationen zum Planen von Microsoft Graph-Connectors finden Sie unter  [Connectors Overview](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Informationen zum Planen von Microsoft Graph Connectors finden Sie in der [Connectors-Übersicht.](https://docs.microsoft.com/microsoftsearch/connectors-overview)
 
-- Siehe [Connectors by Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) oder  [Connectors by Partners](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
-- [Verwalten des Connectors für Microsoft Search](https://docs.microsoft.com/microsoftsearch/manage-connector).
+- Siehe [Connectors von Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) oder Connectors von [Partnern.](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Verwalten Des Connectors für Microsoft Search](https://docs.microsoft.com/microsoftsearch/manage-connector).
 
-Informationen zur Planung von Microsoft Search finden Sie in der  [Übersicht über die Microsoft-Suche](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Informationen zum Planen von Microsoft Search finden Sie in der [Übersicht über Microsoft Search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).

@@ -1,5 +1,5 @@
 ---
-title: Alchemy-Outlook-Suche nicht idexing
+title: Alchemy – Outlook Suche nicht idexing
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: b13fed75dd4ebf9cbad2ca71b350ff7805ecfd27
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1fab34bea6d9034e6a26168ed36046f64eb4a93cd4bbc09cb94a60c85f5585d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933572"
 ---
-# <a name="outlook-search-not-indexing"></a>Outlook-Suche nicht indiziert
+# <a name="outlook-search-not-indexing"></a>Outlook Suche ohne Indizierung
 
-Wir sind uns der Outlook-Suchprobleme im Zusammenhang mit aktuellen Sicherheitsupdates für Windows bewusst.
+Wir sind uns der Outlook Suchprobleme im Zusammenhang mit aktuellen Sicherheitsupdates für Windows bewusst.
   
-Bei der Suche in Outlook erhalten Sie möglicherweise einen der folgenden Fehler: Es ist **etwas schief gelaufen, und die Suche konnte nicht abgeschlossen werden**, oder die **Suchergebnisse sind möglicherweise unvollständig, da Elemente noch indiziert**werden. Das Update wurde als optionales Windows-Update ausgegeben. Installieren Sie den entsprechenden Eintrag für die Windows-Version, auf der dieses Problem angezeigt wird: 
+Bei der Suche in Outlook erhalten Sie möglicherweise einen der folgenden Fehler: **Es ist ein Fehler aufgetreten, und Die Suche konnte nicht abgeschlossen werden,** oder die Suchergebnisse sind **unvollständig, da elemente noch indiziert werden.** Der Fix wurde als optionales Windows Update ausgegeben. Installieren Sie die Version, die der Version von Windows dieses Problem angezeigt wird: 
   
-> [Windows 7-Juni 27, 2017 Update](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows Update vom 7. bis 27. Juni 2017](https://support.microsoft.com/topic/june-27-2017-kb4022168-preview-of-monthly-rollup-b8e847d5-3b84-367e-4dcb-cc7a25f06d40)
     
-> [Windows 8.1-Juni 27, 2017 Update](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8.1 – Update vom 27. Juni 2017](https://support.microsoft.com/topic/june-27-2017-kb4022720-preview-of-monthly-rollup-b98970bb-6f11-46c3-8681-a6b85d5d8eb4)
     
-> [Windows 10-Version 1703-Juni 27, 2017 Update](https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10 Update version 1703 – 27. Juni 2017](https://support.microsoft.com/topic/compatibility-update-for-upgrading-to-windows-10-version-1703-june-27-2017-32a45f84-19d8-2535-029c-d083b5f6765e)
     
-Die neuesten Informationen finden Sie im Artikel: [bekannte Probleme in Outlook im 2017-Problem mit Sicherheitsupdates im Juni](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) #5. 
+Die neuesten Informationen finden Sie im Artikel: Outlook bekannte Probleme im #5 von [Sicherheitsupdates vom Juni 2017.](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) 
   
 

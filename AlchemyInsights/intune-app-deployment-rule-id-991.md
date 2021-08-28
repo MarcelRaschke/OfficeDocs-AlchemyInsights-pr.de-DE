@@ -1,5 +1,5 @@
 ---
-title: InTune-App-bereitstellungsregel ID 991
+title: Intune App-Bereitstellungsregel-ID 991
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: 90e8b8f2d66046f1e74d051343d8dded9d5c8f95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 561ff3a3a70029a6c53776176602f6de10a6637f8ab66c0189d7584220316e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014107"
 ---
-# <a name="intune-app-deployment"></a>InTune-App-Bereitstellung
+# <a name="intune-app-deployment"></a>Intune-App-Bereitstellung
 
-Das Bereitstellen von Anwendungen mit InTune ist ein dreistufiger Prozess:
+Die Bereitstellung von Anwendungen mit Intune ist ein dreistufiger Prozess:
   
-1. **Hinzufügen einer APP** -Sie können eine App Store-App hinzufügen oder eine APP für eine Geschäfts Reihe hochladen.
+1. **Hinzufügen einer App** – Sie können eine App Store App hinzufügen oder eine Branchen-App hochladen.
 
-2. **Zuweisen einer APP** -bestimmen des Bereitstellungsumfangs der Anwendung.
+2. **Zuweisen einer App** – Bestimmen des Umfangs der Bereitstellung der Anwendung.
 
-3. Über **Wachen von apps** : Anzeigen des Installationsstatus von apps, auflisten entdeckter apps und Verwalten von apps, die in App Stores erworben wurden.
+3. **Überwachen von Apps** – Anzeigen des Installationsstatus von Apps, Auflisten ermittelter Apps und Verwalten von Apps, die in App Stores erworben wurden.
 
-Lesen Sie [Was ist InTune-App-Verwaltung](https://docs.microsoft.com/intune/app-management) für Exemplarische Vorgehensweisen und Informationen zum Konfigurieren und schützen von Anwendungen.
+Unter ["Was ist Intune App Management"](https://docs.microsoft.com/intune/app-management) finden Sie exemplarische Vorgehensweisen und Informationen zum Konfigurieren und Schützen von Anwendungen.
   

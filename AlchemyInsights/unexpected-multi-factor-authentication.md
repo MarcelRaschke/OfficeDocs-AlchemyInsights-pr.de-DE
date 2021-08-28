@@ -11,12 +11,12 @@ ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: 48303d5b408cbdb243ec45dc4c80ac9a83f273a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2b97175049bd9732b7444b029f7ea8610c3d5a2c02878ec5f20ded916baadd5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991138"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>Unerwartete mehrstufige Authentifizierung
 

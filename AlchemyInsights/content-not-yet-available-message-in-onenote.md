@@ -2,7 +2,7 @@
 title: Meldung „Inhalt noch nicht verfügbar“ in OneNote
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002541"
 - "4908"
-ms.openlocfilehash: c0035dcd2360fab8a52e77e4da73987f9d8f437e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c2c304af3c8e0ee9c8cd57ee884978e26ff55e55f8ccd00c4f72966186fcd3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929844"
 ---
 # <a name="content-not-yet-available-message-in-onenote"></a>Meldung „Inhalt noch nicht verfügbar“ in OneNote
 

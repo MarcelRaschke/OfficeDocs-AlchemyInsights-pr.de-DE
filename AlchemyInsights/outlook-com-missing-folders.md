@@ -1,5 +1,5 @@
 ---
-title: Outlook.com fehlende Ordner
+title: Outlook.com Fehlende Ordner
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,19 +16,19 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 5ebabab51cceb9750ebc592218074c9c6604d7ca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ede5d5a7dede4356e20af57740440ce8773d27ddc97de699466ad05c1c7a4bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984064"
 ---
 # <a name="find-missing-folders"></a>Suchen nach fehlenden Ordnern
 
-Einige Benutzer können den linken Ordnerbereich beim Anzeigen auf einem kleinen Bildschirm möglicherweise nicht sehen.
+Einige Benutzer können den linken Ordnerbereich möglicherweise nicht sehen, wenn sie auf einem kleinen Bildschirm angezeigt werden.
 
-- Wenn Sie den Ordnerbereich nicht sehen können, maximieren Sie Ihr Browserfenster, oder Scrollen Sie nach links, um die Ordnerliste anzuzeigen.
-- Erweitern Sie den Ordnerbereich nur, wenn Sie ihn benötigen. Wählen Sie das Symbol für drei Leitungen in der linken Seitenleiste aus, um Ordner anzuzeigen oder auszublenden.
-- Öffnen Sie [Layouteinstellungen](https://outlook.live.com/mail/options/mail/layout) , und wählen Sie **Lesebereich ausblenden** und dann **Speichern**aus. Dadurch erhält der Bildschirm mehr Speicherplatz zum Anzeigen von Ordnern.
+- Wenn der Ordnerbereich nicht angezeigt wird, maximieren Sie Das Browserfenster, oder scrollen Sie nach links, um die Ordnerliste anzuzeigen.
+- Erweitern Sie den Ordnerbereich nur, wenn Sie ihn benötigen. Wählen Sie das dreizeiligen Symbol in der linken Seitenleiste aus, um Ordner anzuzeigen oder auszublenden.
+- Öffnen Sie [layouteinstellungen,](https://outlook.live.com/mail/options/mail/layout) und wählen **Sie Lesebereich ausblenden** und dann **speichern**. Dadurch erhält der Bildschirm mehr Platz zum Anzeigen von Ordnern.
 
-Wenn Sie einen Ordner versehentlich löschen, können Sie ihn wiederherstellen, wenn er sich noch im Ordner "Gelöschte Elemente" befindet. Weitere Informationen finden Sie unter [Wiederherstellen gelöschter e-Mail-Nachrichten in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
+Wenn Sie versehentlich einen Ordner löschen, können Sie ihn wiederherstellen, wenn er sich noch im Ordner "Gelöschte Elemente" befindet. Weitere Informationen finden Sie unter [Wiederherstellen gelöschter E-Mail-Nachrichten in Outlook.com.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)

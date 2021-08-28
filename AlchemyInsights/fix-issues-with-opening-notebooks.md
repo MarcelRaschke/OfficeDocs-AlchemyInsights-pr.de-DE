@@ -2,7 +2,7 @@
 title: Beheben von Problemen beim Öffnen von Notizbüchern
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002359"
 - "4718"
-ms.openlocfilehash: b7628cdbb7cd3bc60b97339cb59854fc73f0139e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1015b3a82fa4e90c66ca05cf528167d0a0e120e8e6833d1b0c21948f453436b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744769"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057065"
 ---
 # <a name="fix-issues-with-opening-notebooks"></a>Beheben von Problemen beim Öffnen von Notizbüchern
 

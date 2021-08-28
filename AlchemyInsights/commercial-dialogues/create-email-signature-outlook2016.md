@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f7e91169f06c5c0242cb7aaa0e1a0c266b5b30dc
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 54f813eed229661e49058b46f2cc73c5900b506a4e72f6b4a6818603f18dbd29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045239"
 ---
 # <a name="create-an-email-signature-in-outlook-2016"></a>Erstellen einer E-Mail-Signatur in Outlook 2016
 
 In Outlook kann Ihre E-Mail-Signatur Text, Bilder, Ihre elektronische Visitenkarte, ein Logo oder sogar ein Bild Ihrer handschriftlichen Signatur enthalten.
 
 1. Öffnen Sie in Outlook eine neue E-Mail-Nachricht.
-2. Wählen Sie **auf der** Registerkarte Nachricht **Signatursignaturen**  >  **aus.**
-3. Wählen **Sie unter Zu bearbeitende Signatur auswählen** die Option **Neu** aus, und geben Sie dann einen Namen für die Signatur ein.
-4. Verfassen **Sie unter** Signatur bearbeiten Ihre Signatur.
+2. Klicken Sie auf der Registerkarte **"Nachricht"** auf   >  **Signatursignaturen.**
+3. Wählen Sie unter **"Signatur zum Bearbeiten auswählen"** die Option **"Neu"** aus, und geben Sie dann einen Namen für die Signatur ein.
+4. Verfassen Sie unter **Signatur bearbeiten** Ihre Signatur.

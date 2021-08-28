@@ -2,7 +2,7 @@
 title: Ersetzen der SharePoint-Stammwebsite
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 3f0c621d14c4dd5ca9bcd2dbbea0a9059ca55933
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 45a38259c399eda0ccd79a34af6499cdede8d142f72e7050ee2f774292a62971
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052889"
 ---
 # <a name="replace-the-sharepoint-root-site"></a>Ersetzen der SharePoint-Stammwebsite
 Wenn Sie Ihre Stammwebsite mit einer bestehenden Website modernisieren oder einfach eine andere Website auf der Ebene der Stammwebsite haben möchten, können Sie sich dafür entscheiden, Websites zu ersetzen (auszutauschen).

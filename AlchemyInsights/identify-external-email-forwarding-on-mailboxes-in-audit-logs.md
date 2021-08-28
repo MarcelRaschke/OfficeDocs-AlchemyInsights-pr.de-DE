@@ -1,5 +1,5 @@
 ---
-title: Identifizieren der externen e-Mail-Weiterleitung für Postfächer in Überwachungsprotokollen
+title: Identifizieren der externen E-Mail-Weiterleitung für Postfächer in Überwachungsprotokollen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,31 +13,33 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696296"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331158"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Ermitteln, wann externe e-Mail-Weiterleitung für Postfächer konfiguriert ist
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Ermitteln, wann die externe E-Mail-Weiterleitung für Postfächer konfiguriert ist
 
-Wenn ein Microsoft 365-Benutzer die externe e-Mail-Weiterleitung für ein Postfach konfiguriert, wird die Aktivität im Rahmen des Cmdlets "Set **-Mailbox** " überwacht. Sie können die Aktivität mithilfe der Überwachungsprotokoll Suche im Security & Compliance Center anzeigen.
+Wenn ein Microsoft 365 Benutzer die externe E-Mail-Weiterleitung für ein Postfach konfiguriert, wird die Aktivität als Teil des Cmdlets **"Set-Mailbox"** überwacht. Sie können die Aktivität mithilfe der Überwachungsprotokollsuche anzeigen. Hier erfahren Sie, wie Sie dies tun.
 
-1. Melden Sie sich beim [Microsoft 365 Security & Compliance Center](https://protection.office.com/)an.
+1. Führen Sie einen der folgenden Schritte aus:
+   - Wechseln Sie im Microsoft 365 Compliance Center unter <https://compliance.microsoft.com> zu **"Lösungsüberwachung".** \>  Oder verwenden Sie , um direkt zur **Seite "Überwachung"** zu <https://compliance.microsoft.com/auditlogsearch> wechseln.
+   - Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> zu **"Überwachen".** Oder verwenden Sie , um direkt zur **Seite "Überwachung"** zu <https://sip.security.microsoft.com/auditlogsearch> wechseln.
 
-2. Wechseln Sie zur **Search**  >  Suchseite**Überwachungsprotokoll** suchen.
+2. Überprüfen Sie auf der Seite **"Überwachung",** ob die Registerkarte **"Suchen"** ausgewählt ist, und konfigurieren Sie dann die folgenden Einstellungen:
+   - Wählen Sie den Datums-/Uhrzeitbereich in den Feldern **Start** und Ende aus. 
+   - Überprüfen Sie, ob das Feld **"Aktivitäten"** **die Ergebnisse für alle Aktivitäten** enthält.
 
-3. Wählen Sie den Datumsbereich in den Feldern **Start Datum** und **Enddatum** aus. Sie müssen keinen Benutzernamen angeben. Stellen Sie sicher, dass das Feld **Aktivitäten** auf **Ergebnisse für alle Aktivitäten anzeigen**festgelegt ist.
+3. Wenn Sie fertig sind, klicken Sie auf **Suchen.** Die Aktivitäten werden auf der neuen **Überwachungssuchseite** angezeigt.
 
-4. Klicken Sie auf **Suchen**.
+4. Klicken Sie in den Ergebnissen auf **"Ergebnisse filtern",** und geben **Sie "Set-Mailbox"** im Aktivitätsfilterfeld ein.
 
-Klicken Sie in den Ergebnissen auf **Filterergebnisse** , und geben Sie im Feld Aktivitäts Filter den Text **Satz-Postfach** ein. Wählen Sie einen Überwachungseintrag in den Ergebnissen aus. Klicken Sie im **Detail** Flyout auf **Weitere Informationen**. Sie müssen sich die Details jedes Überwachungsdatensatzes ansehen, um festzustellen, ob die Aktivität mit der e-Mail-Weiterleitung zusammenhängt.
+5. Wählen Sie einen Überwachungsdatensatz in den Ergebnissen aus. Klicken Sie im **Flyout "Details"** auf **"Weitere Informationen".** Sie müssen sich die Details jedes Überwachungsdatensatzes ansehen, um festzustellen, ob die Aktivität mit der E-Mail-Weiterleitung zusammenhängt.
 
-- **ObjectID**: der Alias Wert des Postfachs, das geändert wurde.
+   - **ObjectId**: Der Aliaswert des Postfachs, das geändert wurde.
+   - **Parameter:** _ForwardingSmtpAddress_ gibt die E-Mail-Zieladresse an.
+   - **UserId**: Der Benutzer, der die E-Mail-Weiterleitung für das Postfach im **Feld ObjectId** konfiguriert hat.
 
-- **Parameter**: _ForwardingSmtpAddress_ gibt die Ziel-e-Mail-Adresse an.
-
-- **UserID**: der Benutzer, der die e-Mail-Weiterleitung für das Postfach im Feld **objectID** konfiguriert hat.
-
-Weitere Informationen finden Sie unter [bestimmen der Personen, die die e-Mail-Weiterleitung für ein Postfach eingerichtet](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)haben.
+Weitere Informationen finden Sie unter [Ermitteln, wer die E-Mail-Weiterleitung für ein Postfach eingerichtet hat.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

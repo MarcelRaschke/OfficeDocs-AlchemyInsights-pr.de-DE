@@ -1,8 +1,8 @@
 ---
-title: Übersicht über den Uploadprozess in Microsoft Stream
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+title: Hochladen Prozessübersicht in Microsoft Stream
+ms.author: pebaum
+author: pebaum
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5095"
-ms.openlocfilehash: b86d899a58279697aab8ca1a6ec4ceba13105df6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2bbf6dcdb743cc5c04ccf57fc8d344ac62db80d5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798591"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317879"
 ---
-# <a name="upload-process-overview-in-microsoft-stream"></a>Übersicht über den Uploadprozess in Microsoft Stream
+# <a name="upload-process-overview-in-microsoft-stream"></a>Hochladen Prozessübersicht in Microsoft Stream
 
-Jedes Mal, wenn Sie ein Video hochladen, wird es von Microsoft Stream automatisch in mehrere Bitraten codiert, sodass das Video mithilfe der adaptiven Bitraten-Übertragung gestreamt werden kann. Microsoft Stream optimiert die Bitrate und Qualität des wiedergegebenen Videos basierend auf der verfügbaren Bandbreite des Betrachters.
+Wenn Sie ein Video hochladen, codiert Microsoft Stream es automatisch in mehrere Bitraten, damit das Video mit adaptivem Bitratenstreaming gestreamt werden kann. Microsoft Stream optimiert die Bitrate und Qualität des wiedergegebenen Videos basierend auf der verfügbaren Bandbreite des Betrachters.
 
-- [Übersicht über den Uploadprozess in Microsoft Stream](https://docs.microsoft.com/stream/upload-process-overview)
+- [Hochladen Prozessübersicht in Microsoft Stream](https://docs.microsoft.com/stream/upload-process-overview)

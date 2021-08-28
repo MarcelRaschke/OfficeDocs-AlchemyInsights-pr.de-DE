@@ -1,8 +1,9 @@
 ---
-title: Automatische Verlängerung verwalten
+title: Verwalten der automatischen Verlängerung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,17 +12,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: d26d9976fa4ebcd98ee4a8a0547f706293e78f9a
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: bc6f6104afbde2424696e1f30f0a873216393ed609b7d6e6f8a651f30c01b7eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488808"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099105"
 ---
-# <a name="manage-recurring-billing"></a>Verwalten von wiederkehrenden Rechnungen
+# <a name="manage-recurring-billing"></a>Verwalten der wiederkehrenden Abrechnung
 
 Sie können die wiederkehrende Abrechnung im Microsoft 365 Admin Center aktivieren oder deaktivieren.
   

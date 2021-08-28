@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6005"
 - "9003203"
-ms.openlocfilehash: ccdca6bde14980970af5e00798872e53c9b632dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f8167a354c2759e2b883eafd81a6c26b083535afa89503d701b600792f47ff1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990238"
 ---
 # <a name="view-display-settings-in-windows-10"></a>Windows 10-Anzeigeeinstellungen anzeigen
 
 - Wählen Sie **Start**  > **Einstellungen**  > **System** > **Anzeige**.
-    -  Wenn Sie die Größe von Text und Apps ändern möchten, wählen Sie eine Option aus dem Dropdownmenü unter **Skalierung und Anordnung**aus.
+    -  Wenn Sie die Größe von Text und Apps ändern möchten, wählen Sie eine Option aus dem Dropdownmenü unter **Skalierung und Anordnung** aus.
     - Um die Bildschirmauflösung zu ändern, verwenden Sie das Dropdownmenü unter **Bildschirmauflösung**.
      
       **Hinweis**: Vermeiden Sie verschwommene oder verpixelte Inhalte vermeiden, indem Sie die empfohlene Auflösung verwenden.

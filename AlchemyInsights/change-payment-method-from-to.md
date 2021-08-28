@@ -3,21 +3,23 @@ title: Ändern der Zahlungsmethode
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
-- commerce
+- commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: a99f93ef4858a19de2d134a882a34867795afd4e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152593"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327066"
 ---
 # <a name="change-payment-method-fromto"></a>Ändern der Zahlungsmethode von/zu
 

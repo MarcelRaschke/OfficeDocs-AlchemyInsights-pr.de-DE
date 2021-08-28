@@ -1,8 +1,8 @@
 ---
-title: Ändern der Anforderung für sicheres Kennwort
+title: Ändern der Anforderung für sichere Kennwörter
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: 8ce331275e066b5a4f177ae27178ec726f90762f
-ms.sourcegitcommit: aa35d2e1829f7d07f64fb891bf73b1fd80f0864c
+ms.openlocfilehash: 8a82c002bd64a33556b632545e98355e860848d845e122bfea06fbc5ee5dcb90
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48804422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070683"
 ---
-# <a name="change-strong-password-requirement"></a>Ändern der Anforderung für sicheres Kennwort
+# <a name="change-strong-password-requirement"></a>Ändern der Anforderung eines sicheren Kennworts
 
 Microsoft erfordert standardmäßig sichere Kennwörter.
 

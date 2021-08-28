@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5070"
 - "9002278"
-ms.openlocfilehash: 6bacfd0e383c1a7c02b50e60f9626a733ee68cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9347eb827c5225042b4c84a4a324c8dcba2b5403bf033b86b498047ba696bfce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745786"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031801"
 ---
 # <a name="decommission-azure-rights-management-service-rms"></a>Abschalten des Azure Rights Management Service (RMS)
 

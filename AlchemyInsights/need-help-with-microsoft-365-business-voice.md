@@ -1,8 +1,8 @@
 ---
-title: Benötigen Sie Hilfe mit Microsoft 365 Business Premium Voice?
+title: Benötigen Sie Hilfe bei Microsoft 365 Business Premium Voice?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 8ebede67f5414234553968b0a275d984f87800b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f8b02eb71adf56fe221d9ae7e9ace4c3566da0bdc03a93698746e938a36a283
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077253"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Benötigen Sie Hilfe mit Microsoft 365 Business Premium Voice?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Benötigen Sie Hilfe bei Microsoft 365 Business Premium Voice?
 
-Mit Microsoft 365 Business Premium Voice können kleine und mittelständische Unternehmen Microsoft Teams in ein leistungsfähiges und flexibles Telefonsystem umwandeln. Weitere Informationen zu Business Voice finden Sie unter [Was ist Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Business Premium VoIP erleichtert es kleinen und mittleren Organisationen, Microsoft Teams in ein leistungsfähiges und flexibles Telefonsystem umzuwandeln. Weitere Informationen zu Business Voice finden Sie unter [Was ist Microsoft 365 Business Premium VoIP?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-Wenn Sie Microsoft 365 Business Premium Voice bereits erworben haben, kann Ihnen der [Erste Schritte-Assistent](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) helfen, die Dinge in Gang zu bringen. 
+Wenn Sie bereits Microsoft 365 Business Premium Voice erworben haben, können Sie mit dem [Assistenten für erste Schritte](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) loslegen. 

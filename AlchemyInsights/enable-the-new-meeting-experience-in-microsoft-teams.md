@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6188"
 - "9003281"
-ms.openlocfilehash: 6c814eccb6e6327e81f10fe015df789204ac2297
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28cd62ae14b9d2e8f2ca1486636015e49308f32360a0f7cf42694d1133bac53b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806326"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117843"
 ---
 # <a name="enable-the-new-meeting-experience-in-microsoft-teams"></a>Aktivieren der neuen Besprechungsumgebung in Microsoft Teams
 

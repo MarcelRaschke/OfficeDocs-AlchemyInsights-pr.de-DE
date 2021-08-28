@@ -1,8 +1,9 @@
 ---
 title: Löschen eines Partners aus einem Abonnement
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9001683"
 - "5064"
-ms.openlocfilehash: a1b9872f53fba2b8d7f633a27b2516b8cc267cb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676b4d0bfcb8575f026c03dcc4dcfd03b74bfd05
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801363"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450769"
 ---
 # <a name="remove-a-partner-from-a-subscription"></a>Löschen eines Partners aus einem Abonnement
 

@@ -2,7 +2,7 @@
 title: 'Microsoft Teams: Häufige Probleme bei Kunden in Bildungseinrichtungen'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9dc01109d0f036c567243a8833a845f074097e39de4e1cfc1ba38da61b8f97ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049235"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Microsoft Teams: Häufige Probleme bei Kunden in Bildungseinrichtungen
 
@@ -46,7 +46,7 @@ Wenn Sie Hilfe bei der Bereitstellung von Teams zur Unterstützung von Fernunter
     6. Klicken Sie im Skype for Business Admin Center auf **Audiokonferenzen** und dann auf **Benutzer**.
     7. Wählen Sie den betreffenden Nutzer aus, und vergewissern Sie sich, dass er über eine gebührenpflichtige Standardnummer verfügt.
 
-    Weitere Informationen finden Sie unter [Anrufpläne](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365). Sie können sich auch an das Microsoft Commerce-Abrechnungsteam wenden, um Fragen zur Lizenzierung zu beantworten.
+    Weitere Informationen finden Sie unter [Microsoft Teams-Anrufpläne](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365). Sie können sich auch an das Microsoft Commerce-Abrechnungsteam wenden, um Fragen zur Lizenzierung zu beantworten.
 
     Weitere Ressourcen
 
@@ -89,4 +89,4 @@ Wenn Sie Hilfe bei der Bereitstellung von Teams zur Unterstützung von Fernunter
     - Stellen Sie sicher, dass dem Benutzer ein [Anrufplan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) zugewiesen wurde.
     - Aktivieren Sie die Benutzer für [Enterprise-VoIP](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 
-- **Problembehandlung bei Teams-Anmeldung:** Stellen Sie zuerst sicher, dass der[Microsoft Teams-Dienst fehlerfrei funktioniert](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Überprüfen Sie dann, ob häufige Fehlercodes vorhanden sind, und lesen Sie [Warum habe ich Probleme beim Anmelden bei Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f) Möglicherweise müssen Sie auch [Identitätsmodelle und Authentifizierung in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication) überprüfen.
+- **Problembehandlung bei Teams-Anmeldung:** Stellen Sie zuerst sicher, dass der [Microsoft Teams-Dienst fehlerfrei funktioniert](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Überprüfen Sie dann, ob häufige Fehlercodes vorhanden sind, und lesen Sie [Warum habe ich Probleme beim Anmelden bei Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f) Möglicherweise müssen Sie auch [Identitätsmodelle und Authentifizierung in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication) überprüfen.

@@ -1,5 +1,5 @@
 ---
-title: Android-App-Schutzrichtlinien Einstellungen in Microsoft InTune
+title: Richtlinieneinstellungen für Android-Apps in Microsoft Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003997"
 - "7057"
-ms.openlocfilehash: 327df6e0a901037cd929cb845f805466d9bd4eff
-ms.sourcegitcommit: 81c86027933c06db08d264918f2698d9c9a1659a
+ms.openlocfilehash: ff253ad4b2ba12e25a786b5aa5bac76ae4765206a2e12880a0673ce5fcbf30c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49373945"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951636"
 ---
-# <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>Android-App-Schutzrichtlinien Einstellungen in Microsoft InTune
+# <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>Richtlinieneinstellungen für Android-Apps in Microsoft Intune
 
-Es gibt drei Kategorien von App-Schutzrichtlinien Einstellungen für Android-Geräte:
+Es gibt drei Kategorien von App-Schutzrichtlinieneinstellungen für Android-Geräte:
 
-Mit dem **Datenschutz** wird gesteuert, wie Unternehmensdaten verarbeitet werden, beispielsweise ob Daten in eine andere APP kopiert oder eingefügt werden können oder ob ein Screenshot der app ausgeführt werden kann. Die Einstellungen erzwingen auch die Verschlüsselung von Unternehmensdaten und verwalten, ob bestimmte Daten mit den systemeigenen Geräte-apps synchronisiert werden können, wie beispielsweise die Kontaktliste oder der Webbrowser. Weitere Informationen finden Sie unter [Datenschutz](https://go.microsoft.com/fwlink/?linkid=2135259).
+**Der Datenschutz** steuert, wie Unternehmensdaten behandelt werden, z. B. ob Daten in eine andere App kopiert oder eingefügt werden können oder ob ein Screenshot der App erstellt werden kann. Die Einstellungen erzwingen auch die Verschlüsselung von Unternehmensdaten und verwalten, ob bestimmte Daten mit den nativen Geräte-Apps wie der Kontaktliste oder dem Webbrowser synchronisiert werden können. Weitere Informationen finden Sie unter ["Datenschutz".](https://go.microsoft.com/fwlink/?linkid=2135259)
 
-**Access Requirements** führt dazu, wie Benutzer auf eine App zugreifen können. Beispielsweise kann eine APP festlegen, dass der Benutzer eine PIN oder einen Fingerabdruck eingeben muss, um darauf zuzugreifen. Weitere Informationen finden Sie unter [Access Requirements](https://go.microsoft.com/fwlink/?linkid=2135260).
+**Bei den Zugriffsanforderungen wird** erläutert, wie Benutzer auf eine App zugreifen können. Eine App kann beispielsweise erfordern, dass der Benutzer eine PIN oder einen Fingerabdruck eingibt, um darauf zuzugreifen. Weitere Informationen finden Sie unter ["Zugriffsanforderungen".](https://go.microsoft.com/fwlink/?linkid=2135260)
 
-Der **bedingte Start** steuert die Anmelde Sicherheitseinstellungen für eine APP, beispielsweise die maximalen Pin-Versuche vor der Sperrung oder das minimale Betriebssystem, das zum Ausführen der APP benötigt wird. Weitere Informationen finden Sie unter [bedingter Start](https://go.microsoft.com/fwlink/?linkid=2135507).
+**Der bedingte Start** steuert die Anmeldesicherheitseinstellungen für eine App, z. B. die maximalen PIN-Versuche vor der Sperre oder das mindeste Betriebssystem, das zum Ausführen der App erforderlich ist. Weitere Informationen finden Sie unter ["Bedingter Start".](https://go.microsoft.com/fwlink/?linkid=2135507)

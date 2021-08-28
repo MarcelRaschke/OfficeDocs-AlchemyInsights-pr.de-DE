@@ -2,7 +2,7 @@
 title: Einrichten eines Microsoft 365 Business-Abonnements
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4776"
-ms.openlocfilehash: 16cf26135c45b4a395dd7fb826f67394ae2b0da9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43c078a6aed2582196e90b4da38859ceec06014a268dd31e6d8ba381cc45f4a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085911"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>Einrichten eines Microsoft 365 Business-Abonnements
 

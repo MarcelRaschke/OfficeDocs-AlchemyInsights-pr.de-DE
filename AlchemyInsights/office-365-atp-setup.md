@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender für Office 365-Setup (ATP)
+title: Microsoft Defender für Office 365 Setup
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bd04535c1b740651196c0b40015a722ef0c922d5
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 54de480a828fda3c936bb3a8604243f4bc3a90e5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801074"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332744"
 ---
-# <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender für Office 365 (ATP)
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender für Office 365
 
-Office 365 ATP umfasst [sichere Anhänge](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [sichere Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [erweitertes Anti-Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)und vieles mehr. 
+Microsoft Defender für Office 365 umfasst [Tresor Anlagen,](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) [Tresor Links,](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) [erweiterte Antiphishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)und vieles mehr. 
 
-ATP ist in Abonnements enthalten, wie Office 365 Enterprise E5, Office 365 Education a5 und Microsoft 365 Business Premium. Wenn Ihr Abonnement nicht ATP umfasst, können Sie ATP als Add-on möglicherweise erwerben. Weitere Informationen finden Sie unter [Office 365 ATP-Dienstbeschreibung](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+Microsoft Defender für Office 365 ist in Abonnements wie Office 365 Enterprise E5, Office 365 Education A5 und Microsoft 365 Business Premium enthalten. Wenn Ihr Abonnement es nicht enthält, können Sie es möglicherweise als Add-On erwerben. Weitere Informationen finden Sie unter [Microsoft Defender for Office 365 Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
 
-## <a name="set-up-office-365-atp"></a>Einrichten Office 365 ATP
+## <a name="set-up-microsoft-defender-for-office-365"></a>Einrichten von Microsoft Defender für Office 365
 
-Damit ATP Protection wirksam ist, müssen Sie Richtlinien konfigurieren. Weitere Informationen finden Sie unter [schnell Start Handbuch: Einrichten von Microsoft Defender für Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Damit Microsoft Defender für Office 365 Schutz wirksam wird, müssen Sie Richtlinien konfigurieren. Siehe [Schnellstarthandbuch: Einrichten von Microsoft Defender für Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
 

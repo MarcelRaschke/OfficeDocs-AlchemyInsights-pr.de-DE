@@ -1,5 +1,5 @@
 ---
-title: Microsoft Viva Learning Availability
+title: Microsoft Viva Learning-Verfügbarkeit
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8339"
-ms.openlocfilehash: d74b6bd000be6a8a93978b5e5f737e97ef3c0833
-ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
+ms.openlocfilehash: 27cd7ccd9cbd5afe5ca41177723a99a0f6a71aa720c9ebea1d3889bcbb140d20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50295447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097917"
 ---
-# <a name="microsoft-viva-learning-availability"></a>Microsoft Viva Learning Availability
+# <a name="microsoft-viva-learning-availability"></a>Microsoft Viva Learning-Verfügbarkeit
 
-Ab Februar 2021 sehen wir uns die App "Viva Learning" für Teams mit einer kleinen Anzahl von Kunden und Partnern in der Vorschau an und erwarten, sie später in diesem Jahr allgemein verfügbar zu machen. Wir empfehlen Ihnen, [sich hier zu registrieren,](https://aka.ms/VivaLearningSignup) um mehr über Viva Learning zu erfahren, einschließlich weiterer Details zu neuen Erfahrungen, sobald diese verfügbar werden.
+Ab Februar 2021 beginnen wir eine Vorschau der Viva Learning-App für Teams für eine kleine Anzahl von Kunden und Partnern und werden sie voraussichtlich noch in diesem Jahr allgemein verfügbar machen. Wir empfehlen Ihnen, sich [hier anzumelden](https://aka.ms/VivaLearningSignup), um mehr über Viva Learning zu erfahren, einschließlich weiterer Details zu neuen Erfahrungen, sobald diese verfügbar werden.
 
-Weitere Informationen finden Sie unter [Ankündigung der privaten Microsoft Viva Learning-Vorschau](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023).
+Weitere Informationen finden Sie unter [Ankündigung der privaten Vorschau von Microsoft Viva Learning](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023).

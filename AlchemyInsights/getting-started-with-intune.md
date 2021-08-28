@@ -2,7 +2,7 @@
 title: Erste Schritte mit Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5cd07d74139cff81b36504d2fa69a1e56334a58c72a041d965a1d80c55ee3d7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706342"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088827"
 ---
 # <a name="getting-started-with-intune"></a>Erste Schritte mit Intune
 
-Eine kurze Übersicht über InTune und die Verwaltungskonsole finden Sie unter [Exemplarische Vorgehensweise von InTune im Azure-Portal](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
+Eine kurze Übersicht über Intune und die Verwaltungskonsole finden Sie in der [exemplarischen Vorgehensweise zu Intune im Azure-Portal.](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager)
 
-Wenn Sie InTune testen oder eine Testversion einrichten möchten, lesen Sie den Artikel [Quick Start: Testen Sie Microsoft InTune kostenlos](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
+Wenn Sie Intune ausprobieren oder eine Testversion einrichten möchten, lesen Sie [die Schnellstartanleitung: Testen Sie kostenlos Microsoft Intune.](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up)
 
-Wenn Sie bereits über InTune verfügen und mit der Verwendung dieser Funktion beginnen möchten, lesen Sie unsere Anleitung zum [Einrichten von InTune](https://docs.microsoft.com/intune/fundamentals/setup-steps) . 
+Wenn Sie bereit sind, Intune zu verwenden, lesen Sie ["Einrichten von Intune".](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps) Eine anleitungsgesteuerte Einrichtung finden Sie im [Intune-Setuphandbuch.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide)

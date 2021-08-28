@@ -1,5 +1,5 @@
 ---
-title: Schreibgeschützt für Wartungs Nachrichten beim Versuch, SharePoint oder OneDrive zu verwenden
+title: Read-Only für Wartungsnachricht bei dem Versuch, SharePoint oder OneDrive zu verwenden
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,31 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 376b653b18857103586e25edd0ad6801a7bbe0a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670831"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329447"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Schreibgeschützt für Wartungs Nachrichten beim Versuch, SharePoint oder OneDrive zu verwenden
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only für Wartungsnachricht bei dem Versuch, SharePoint oder OneDrive zu verwenden
 
-Benutzer erhalten möglicherweise eine **schreibgeschützte Nachricht für die Wartung** , wenn Sie versuchen, SharePoint oder OneDrive für eines der folgenden Szenarien zu verwenden. 
+Benutzer erhalten möglicherweise eine Meldung **"Schreibgeschützt für Wartung",** wenn sie versuchen, SharePoint oder OneDrive für eines der folgenden Szenarien zu verwenden. 
 
--   Eine geplante oder aktive Wartungs Aktivität.  Überprüfen Sie diese, indem Sie zum [Nachrichten Center](https://portal.office.com/adminportal/home#/messagecenter)navigieren.
--   Ein aktiver Dienst Vorfall mit hoher Priorität, der möglicherweise auftritt. Suchen Sie nach Warnungen/Vorfällen, indem Sie zum [Dienststatus](https://portal.office.com/adminportal/home#/servicehealth)navigieren.
--   Ein kleines Wiederherstellungsszenario, das aufgrund unerwarteter Ereignisse auf den Servern möglicherweise nicht mehr als 30 Minuten dauern kann. 
+-   Eine geplante oder aktive Wartungsaktivität.  Suchen Sie nach diesen, indem Sie zum [Nachrichtencenter](https://portal.office.com/adminportal/home#/messagecenter)navigieren.
+-   Ein Aktiver Dienstvorfall mit hoher Priorität, der möglicherweise auftritt. Suchen Sie nach Empfehlungen/Vorfällen, indem Sie zu [Dienststatus](https://portal.office.com/adminportal/home#/servicehealth)navigieren.
+-   Ein kleines Wiederherstellungsszenario für die automatische Wiederherstellung, das aufgrund unerwarteter Ereignisse auf den Servern auftreten könnte, die möglicherweise weniger als 30 Minuten dauern. 
     
-    Es gibt keine Nachrichten Center-oder Dienst Integritäts Beiträge für diese kleinen Wiederherstellungen, aber Sie sollten bald wieder ganz normal sein.
+    Es gibt keine Nachrichtencenter- oder Dienststatusbeiträge für diese geringfügigen Wiederherstellungen, aber Sie sollten sehr bald wieder zur Normalität zurückkehren.
 
-In sehr seltenen Fällen haben wir festgestellt, dass eines der drei oben aufgelisteten Szenarien die Ursache war, und der Dienst wurde wiederhergestellt, aber der Browsercache für Benutzer wurde nicht gelöscht.
+In sehr wenigen Fällen haben wir festgestellt, dass eines der drei oben aufgeführten Szenarien die Ursache war, und der Dienst wurde wiederhergestellt, aber der Browsercache des Benutzers wurde nicht gelöscht.
 
 Versuchen Sie, den Browsercache zu löschen, bevor Sie zur Website navigieren.
 
-1. Wählen Sie in Ihrem Microsoft Edge-Browser **Einstellungen**aus, und wählen Sie dann **Datenschutz und Sicherheit**aus.
-2. Wählen Sie unter **Browser löschen** **die Option zu Lösch**Ende Elemente auswählen aus.
-3. Wählen Sie **Cookies und gespeicherte Website Daten**aus, und wählen Sie **Löschen**aus.
+1. Wählen Sie in Ihrem Microsoft Edge Browser **Einstellungen** aus, und wählen Sie dann **"Datenschutz und Sicherheit"** aus.
+2. Wählen Sie unter **"Browser löschen"** die Option **aus, was gelöscht werden soll.**
+3. Wählen Sie **Cookies und gespeicherte Websitedaten** aus, und wählen Sie **"Löschen"** aus.
 
->[!Note] 
-> Diese Schritte können unterschiedlich sein, wenn Sie andere Browser wie Mozilla Firefox oder Google Chrome verwenden.
+**Hinweis:** Diese Schritte können sich unterscheiden, wenn Sie andere Browser wie Mozilla Firefox oder Google Chrome verwenden.
 
->[!Note] 
-> Eine weitere Option besteht darin, Ihre SharePoint-Website oder OneDrive in einem neuen InPrivate-Fenster zu öffnen.
+**Hinweis:** Eine weitere Möglichkeit besteht darin, Ihre SharePoint Website oder OneDrive in einem neuen InPrivate-Fenster zu öffnen.

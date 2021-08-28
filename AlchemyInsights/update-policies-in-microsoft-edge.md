@@ -1,5 +1,5 @@
 ---
-title: Verwenden von Update bezogenen Gruppenrichtlinien, die in Microsoft Edge verfügbar sind
+title: Verwenden von updatebezogenen Gruppenrichtlinien, die in Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,14 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003843"
+- "9004632"
 - "7092"
-ms.openlocfilehash: 506681be0666c8091b86c173635f6eaa9552432d
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8359"
+ms.openlocfilehash: 85eff448dbf6cecd80ea870739c1223b10fbe6894462226c19fd9aae26faad6b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571872"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007141"
 ---
-# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Verwenden von Update bezogenen Gruppenrichtlinien, die in Microsoft Edge verfügbar sind
+# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Verwenden von updatebezogenen Gruppenrichtlinien, die in Microsoft Edge
 
-Verwenden Sie die in Microsoft Edge (Version 77 oder höher) verfügbaren [Richtlinien](https://go.microsoft.com/fwlink/?linkid=2134862) , um zu steuern, wie und wann Microsoft Edge aktualisiert wird.
+Verwenden Sie die in Microsoft Edge (Version 77 oder höher) verfügbaren [Richtlinien,](https://go.microsoft.com/fwlink/?linkid=2134862) um zu steuern, wie und wann Microsoft Edge aktualisiert wird.

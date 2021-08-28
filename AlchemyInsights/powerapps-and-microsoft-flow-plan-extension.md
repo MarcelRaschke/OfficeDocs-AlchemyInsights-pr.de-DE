@@ -1,5 +1,5 @@
 ---
-title: 1575-PowerApps und Microsoft Flow Plan Extension
+title: 1575-PowerApps und Microsoft Flow-Planerweiterung
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728394"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960438"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps und Microsoft Flow Plan Extension
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps und Microsoft Flow-Planerweiterung
 
-Wenn Sie beabsichtigen, eine Plan Erweiterung für **Microsoft Flow** oder **PowerApps** anzufordern, und Ihr Mandant bereits über eine der folgenden Funktionen verfügt, müssen Sie keine Supportanfrage einreichen.
+Wenn Sie eine Planerweiterung für **Microsoft Flow** oder **PowerApps** anfordern möchten und Ihr Mandant bereits über aktive Benutzer eines der folgenden Features verfügt, müssen Sie keine Supportanfrage stellen.
 
 - Erstellen und Veröffentlichen von benutzerdefinierten Connectors in PowerApps und Microsoft Flow
-- In Flow außerhalb von SharePoint und OneDrive integrierte HTTP-benutzerdefinierte Aktionen
-- Integration von lokalen Daten über das lokale Daten Gateway
+- In Flow außerhalb SharePoint und OneDrive integrierte benutzerdefinierte HTTP-Aktionen
+- Integration von lokalen Daten über das lokale Datengateway
 
-Kunden mit aktiven Benutzern dieser Features erhalten eine automatische Erweiterung bis zum 31. Januar 2020 oder den Ablauf des vorhandenen Microsoft 365-Abonnementzeitraums, je nachdem, welcher Zeitraum länger ist.
+Kunden mit aktiven Benutzern dieser Features erhalten eine automatische Erweiterung bis zum 31. Januar 2020 oder den Ablauf ihrer vorhandenen Microsoft 365 Abonnementlaufzeit, je nachdem, welcher Zeitraum länger ist.

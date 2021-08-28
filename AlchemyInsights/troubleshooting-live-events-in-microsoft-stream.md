@@ -1,8 +1,8 @@
 ---
-title: Problembehandlung bei Live Ereignissen in Microsoft Stream
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+title: Problembehandlung bei Liveereignissen in Microsoft Stream
+ms.author: pebaum
+author: pebaum
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,13 +13,13 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9001511"
 - "5097"
-ms.openlocfilehash: 18ffe57c251db9c36f8c7ab56633fe3772f8aa4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34e0e45fdbe78071a801b85c1f0d6f5807a353bf9fc11e31d412fe662438c630
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749838"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894774"
 ---
-# <a name="troubleshooting-live-events-in-microsoft-stream"></a>Problembehandlung bei Live Ereignissen in Microsoft Stream
+# <a name="troubleshooting-live-events-in-microsoft-stream"></a>Problembehandlung bei Liveereignissen in Microsoft Stream
 
-Es gibt verschiedene Bereiche, die überprüft werden, um sicherzustellen, dass Microsoft Stream Live-Ereignisse reibungslos ausgeführt werden. Weitere Informationen finden Sie unter [Troubleshooting Live Events in Microsoft Stream](https://docs.microsoft.com/stream/live-event-troubleshooting).
+Es gibt verschiedene Bereiche, die Sie überprüfen müssen, um sicherzustellen, dass Microsoft Stream-Liveereignisse reibungslos ausgeführt werden. Weitere Informationen finden Sie unter [Problembehandlung bei Liveereignissen in Microsoft Stream.](https://docs.microsoft.com/stream/live-event-troubleshooting)

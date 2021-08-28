@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1280"
 - "6700008"
-ms.openlocfilehash: 220f42d3005cdef272ed3e74a1101a52a9b47a8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e72728c1fb5f79a67c13e5f66c8fa3a2094299be3fa721dd043e549fe0dff278
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698933"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047291"
 ---
 # <a name="windows-fresh-start"></a>Windows-Neustart
 

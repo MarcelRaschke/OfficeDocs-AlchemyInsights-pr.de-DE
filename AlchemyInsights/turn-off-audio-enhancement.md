@@ -1,8 +1,8 @@
 ---
-title: Deaktivieren der Audioverbesserung
+title: Audioverbesserung deaktivieren
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 110b604be9285126cd436a27de1f053dcfd7b63c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3988cee3abf809d4a4b2eeb990372ac6765d0797a5ba735ab1c089abb6e81bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920286"
 ---
-# <a name="turn-off-audio-enhancement"></a>Deaktivieren der Audioverbesserung
+# <a name="turn-off-audio-enhancement"></a>Audioverbesserung deaktivieren
 
 Führen Sie die folgenden Schritte aus:
 
-1. Wechseln Sie zu **Start**, geben Sie **Sound**ein, und wählen Sie **Sound Control Panel** aus, oder ändern Sie die **Systemsounds** aus der Ergebnisliste.
+1. Wechseln Sie zu **"Start",** geben Sie **"Sound"** ein, und wählen Sie **"Soundsystemsteuerung"** oder **"Systemsound ändern"** aus der Liste der Ergebnisse aus.
 
-2. Klicken Sie auf der Registerkarte **Wiedergabe** mit der rechten Maustaste auf das Standardgerät (oder tippen und halten Sie dieses), und wählen Sie **Eigenschaften**aus.
+2. Klicken Sie auf der Registerkarte **"Wiedergabe"** mit der rechten Maustaste auf das Standardgerät (oder tippen und halten Sie es gedrückt), und wählen Sie **"Eigenschaften"** aus.
 
-3. Aktivieren Sie auf der Registerkarte **Verbesserungen** das Kontrollkästchen **alle Soundeffekte deaktivieren** , und versuchen Sie, Ihr Audiogerät wiederzugeben. Wenn dies nicht funktioniert, wählen Sie **Abbrechen** aus, und wählen Sie auf der Registerkarte **Wiedergabe** ein anderes Standardgerät (falls vorhanden) aus, aktivieren Sie das Kontrollkästchen **alle Soundeffekte deaktivieren** , und versuchen Sie erneut, Audio wiederzugeben. Tun Sie dies für jedes Standardgerät.
+3. Aktivieren Sie auf der Registerkarte **"Verbesserungen"** das Kontrollkästchen **"Alle Soundeffekte deaktivieren",** und versuchen Sie, Ihr Audiogerät wiederzugeben. Wenn dies nicht funktioniert, wählen Sie **"Abbrechen"** und auf der Registerkarte **"Wiedergabe"** ein anderes Standardgerät aus (falls vorhanden), aktivieren Sie das Kontrollkästchen **"Alle Soundeffekte deaktivieren",** und versuchen Sie erneut, Audio wiederzugeben. Führen Sie dies für jedes Standardgerät aus.

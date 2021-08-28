@@ -1,5 +1,5 @@
 ---
-title: Ruhestand "Access Services"
+title: Ausmusterung von Access-Diensten
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,26 +11,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 943066d5ac76c0630554ee724bbab9a94086fae4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32da879de230dc0ed99563ad881ab5b2479b8453933a127961a26d619e108ab9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698681"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938694"
 ---
-# <a name="access-services-retirement"></a>Ruhestand "Access Services"
+# <a name="access-services-retirement"></a>Ausmusterung von Access-Diensten
 
-Wie wir ursprünglich in MC97576 angekündigt haben, im März 2017, und weiterhin im vergangenen Jahr kommuniziert haben Access Services werden ausgemustert. Die nächste Phase in diesem Prozess wird das Entfernen von Access-Webdatenbanken sein, die SharePoint-Listen als zugrunde liegender Datenspeicher verwenden.
+Wie ursprünglich in MC97576 im März 2017 angekündigt, kommunizierten wir im letzten Jahr weiterhin, Access Services eingestellt werden. Die nächste Phase in diesem Prozess ist das Entfernen von Access-Webdatenbanken, die SharePoint Listen als zugrunde liegende Datenspeicherung verwenden.
 
 **Wie wirkt sich dies auf mich aus?**
 
-Ab Juni 2019 werden wir die Erstellung neuer Access-Datenbanken in SharePoint Online beenden und den Dienst und alle verbleibenden apps bis April 2020 Herunterfahren.
+Ab Juni 2019 beenden wir die Erstellung neuer Access-Datenbanken in SharePoint Online und beenden den Dienst und alle verbleibenden Apps bis April 2020.
 
-**Was muss ich tun, um diese Änderung vorzubereiten?**
+**Was muss ich tun, um mich auf diese Änderung vorzubereiten?**
 
-Wir empfehlen Ihnen, einen Übergangsplan für die Access-Webdatenbanken Ihrer Organisation zu erstellen. Administratoren können den [SharePoint Access-App-Scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) verwenden, um eine Bestandsaufnahme der Access-apps zu erhalten, die von Websites verwendet werden.
+Wir empfehlen Ihnen, einen Übergangsplan für die Access-Webdatenbanken Ihrer Organisation zu erstellen. Administratoren können den [SharePoint Access-App-Scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) verwenden, um eine Bestandsaufnahme der von Websites verwendeten Access-Apps abzurufen.
 
-Es gibt verschiedene Möglichkeiten zum Migrieren von Access-Daten Bank Datenbanken:
+Es gibt mehrere Möglichkeiten zum Migrieren von Access-Webdatenbankdaten:
 
-- Importieren in eine lokale Access-Datenbank (. ACCDB) oder in eine Excel-Datei.
-- Außerdem wird empfohlen, Microsoft PowerApps als Alternative Plattform zum Erstellen von codelosen Geschäftslösungen für das Internet und mobile Geräte zu erforschen.
+- Importieren in eine lokale Access-Datenbank (. ACCDB) oder einer Excel-Datei.
+- Wir empfehlen außerdem, Microsoft PowerApps als alternative Plattform zu untersuchen, um codelose Geschäftslösungen für Web- und mobile Geräte zu erstellen.

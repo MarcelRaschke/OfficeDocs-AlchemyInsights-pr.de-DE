@@ -2,7 +2,7 @@
 title: Fehler beim Öffnen oder Speichern von Dateien
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: ce9e160272d96f40a6ba30b1527bde1aed1b8d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13a75338e3784d3df2ec93e8096380f85494317b7161040c7ad60ad830f9211d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978088"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Beheben von Fehlern beim Öffnen oder Speichern von Word-Dateien
 
-Wenn beim Öffnen oder Speichern von Word-Dokumenten Probleme auftreten, versuchen Sie Folgendes:
+Wenn Beim Öffnen oder Speichern von Word-Dokumenten Probleme auftreten, versuchen Sie Folgendes:
 
-- [Installieren von Office-Updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5) Eine Liste der neuesten Office-Updates finden Sie unter [Latest Updates](https://docs.microsoft.com/officeupdates/office-updates-msi).
+- [Installieren sie Office Updates.](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5) Eine Liste der neuesten Office Updates finden Sie unter ["Neueste Updates".](https://docs.microsoft.com/officeupdates/office-updates-msi)
 - [Problembehandlung bei beschädigten Dokumenten in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
-- [Reparieren einer Office-Anwendung](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Wenn das Dokument nachverfolgte Änderungen enthält, verwenden Sie die Vorschläge in [Word verlangsamt oder reagiert nicht mehr, wenn übermäßige nachverfolgte Änderungen oder Kommentare](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) zur Behebung des Problems vorliegen.
+- [Reparieren sie eine Office Anwendung.](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- Wenn das Dokument Überarbeitungen enthält, verwenden Sie die Vorschläge in [Word langsam oder reagiert nicht mehr, wenn es übermäßige Überarbeitungen oder Kommentare](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) gibt, um das Problem zu beheben.
 
-Wenn Sie einen Fehler wie den folgenden erhalten haben, verwenden Sie die Vorschläge in [Fehlermeldung in Office, wenn eine Datei durch Registrierungsrichtlinieneinstellungen blockiert wird](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
+Wenn Sie einen Fehler wie einen der folgenden erhalten haben, verwenden Sie die Vorschläge in der [Fehlermeldung in Office, wenn eine Datei durch Registrierungsrichtlinieneinstellungen blockiert wird:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)
 
 - Sie versuchen, einen Dateityp zu öffnen, der durch die Registrierungsrichtlinieneinstellung blockiert wird.
 - Sie versuchen, den Dateityp **\<File Type\>** zu öffnen, der durch Ihre Einstellungen für den Zugriffsschutz im Trust Center blockiert wurde.
 - Sie versuchen, eine Datei zu öffnen, die in einer früheren Version von Microsoft Office erstellt wurde. Das Öffnen dieses Dateityps in dieser Version wird durch die Registrierungsrichtlinieneinstellung blockiert.
 - Sie versuchen, einen Dateityp zu speichern, der durch die Registrierungsrichtlinieneinstellung blockiert wird.
-- Sie versuchen, einen Dateityp zu speichern, der durch die Einstellungen für den Datei Block im Vertrauensstellungs Center blockiert wurde.
+- Sie versuchen, einen Dateityp zu speichern, der durch Ihre Einstellungen für den Dateiblock im Sicherheitscenter blockiert wurde.
 
 Wenn Sie Probleme beim Öffnen von Office-Dateien aus SharePoint- oder OneDrive-Dokumentbibliotheken haben, probieren Sie Folgendes aus:
 

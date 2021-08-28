@@ -1,8 +1,8 @@
 ---
 title: Hochladen eines Videos in Microsoft Stream
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: pebaum
+author: pebaum
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5093"
-ms.openlocfilehash: 95db3ee93cdd615d94facfad9b18ce1fb122e725
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e21dfa025271726b00cb60f50634cd92f50b531
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811856"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315403"
 ---
 # <a name="upload-a-video-to-microsoft-stream"></a>Hochladen eines Videos in Microsoft Stream
 

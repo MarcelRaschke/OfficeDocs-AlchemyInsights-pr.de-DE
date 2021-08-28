@@ -2,7 +2,7 @@
 title: Aktivieren von Microsoft 365-Apps
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 0e4fe5401663eaf7a332b7dac6a786a05656f63f
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236052"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314239"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivieren von Microsoft 365-Apps
+
+**Hinweis**: Wenn Sie eine frühere Version von Windows verwenden (z. B. Windows 7 SP1, Windows Server 2008 R2), aktivieren Sie TLS 1.2 standardmäßig mithilfe von [Easy Fix](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi). Weitere Informationen finden Sie unter [Update zum Aktivieren von TLS 1.1 und TLS 1.2 als sichere Standardprotokolle in WinHTTP unter Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
 
 So aktivieren Sie Office:
 
@@ -36,7 +38,7 @@ Behandeln von Office-Aktivierungsproblemen:
 
 - [Was Sie versuchen können, wenn Sie Office für Mac nicht installieren oder aktivieren können](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Tipp** Auf Windows-Computern können wir mehrere häufige Probleme bei der Anmeldung bei Office für Sie diagnostizieren und automatisch beheben. Laden Sie den **[Microsoft Support- und Wiederherstellungs-Assistent](https://aka.ms/SaRA-OfficeSignInScenario)** herunter.
+**Tipp**: Auf Windows-Computern können einige gängige Office-Anmeldeprobleme für Sie diagnostiziert und automatisch behoben werden. Laden Sie den **[Microsoft Support- und Wiederherstellungs-Assistent](https://aka.ms/SaRA-OfficeSignInScenario)** herunter.
 
 Wenn Sie sich bei Microsoft 365-Apps nicht anmelden können, führen Sie die folgenden Schritte aus:
 

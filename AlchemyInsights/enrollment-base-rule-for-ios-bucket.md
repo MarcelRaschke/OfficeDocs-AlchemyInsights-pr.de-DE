@@ -1,5 +1,5 @@
 ---
-title: Registrierungsbasis Regel für IOS Bucket
+title: Registrierungsbasisregel für iOS-Bucket
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65919ac1f6c9a0314cf67b74137d3635a25313cefe7582f905466e2e31387842
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030055"
 ---
-# <a name="intune-device-enrollment"></a>InTune-Geräteregistrierung
+# <a name="intune-device-enrollment"></a>Intune-Geräteregistrierung
 
 [Informationen zur Geräteregistrierung mit InTune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-[Einrichten der Registrierung von IOS-Geräten bei InTune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Einrichten der iOS-Geräteregistrierung mit Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Einrichten der Registrierung von Android-Geräten bei InTune](https://docs.microsoft.com/intune/android-enroll)
+[Einrichten der Registrierung von Android-Geräten mit Intune](https://docs.microsoft.com/intune/android-enroll)
 
-[Einrichten der Windows-Geräteregistrierung bei InTune](https://docs.microsoft.com/intune/windows-enroll)
+[Einrichten Windows Geräteregistrierung mit Intune](https://docs.microsoft.com/intune/windows-enroll)
 
 Problembehandlung bei der Geräteregistrierung
 
-1. Verwenden Sie das [InTune-Problem Behandlungs Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)   , um häufige Registrierungsfehler zu diagnostizieren und zu beheben. Lesen Sie [Dieses Dokument](https://docs.microsoft.com/intune/help-desk-operators) , um weitere Details zu erfahren.
+1. Verwenden Sie das [Intune-Problembehandlungsportal,](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) um häufige Registrierungsfehler zu diagnostizieren und zu beheben. Weitere Informationen finden Sie in [diesem Dokument.](https://docs.microsoft.com/intune/help-desk-operators)
 
-2. Lesen Sie diese Dokumente, um eine Liste der häufigsten Fehler zu finden, die die Registrierung und Auflösungen verhindern:
-    - [Leitfaden zur Problembehandlung](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - [Problembehandlung bei doc](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. Überprüfen Sie diese Dokumente auf eine Liste häufiger Fehler, die die Registrierung und Lösungen verhindern:
+    - [Problembehandlungshandbuch](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
+    - [Problembehandlungsdokument](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).

@@ -2,7 +2,7 @@
 title: 'Fehlersuche: Probleme mit der Überprüfung'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002657"
 - "5619"
-ms.openlocfilehash: 9eb1ec0364ce0a3e44dc898464d65d2ef587e9c0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b439ec3ec305df37095cb2013f62742d13170bad5bfd1ebb3d8967fc4ca02af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092877"
 ---
 # <a name="troubleshoot-verification-issues"></a>Fehlersuche: Probleme mit der Überprüfung
 

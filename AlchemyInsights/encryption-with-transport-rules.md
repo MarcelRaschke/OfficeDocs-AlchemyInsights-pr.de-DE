@@ -2,7 +2,7 @@
 title: Verschlüsselung mit Transportregeln
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5154"
-ms.openlocfilehash: 4c43fc16db84832c4e2aa3b6483632de6861b877
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e1f8227047daede71d0fa3b3557db0d95a379b99b76ab0c2fe1d6ed8cc213d4a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784342"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079449"
 ---
 # <a name="encryption-with-transport-rules"></a>Verschlüsselung mit Transportregeln
 

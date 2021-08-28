@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Entfernen von Skype
+title: Outlook.com entfernen Skype
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 03a866ac063d6136a5069b22216a9f3bf43a1202f9020f16ac5edb7cf89ce9ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723317"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962094"
 ---
 # <a name="skype-icon-missing"></a>Skype-Symbol fehlt
 
-Wir haben das Skype-Symbol aus Outlook.com vorübergehend als Teil einer Entwurfs Aktualisierung und eines Funktionsupdates entfernt, die wir mit Begeisterung für das Rollout bereitstellen möchten. Wir freuen uns über Ihre Geduld, während wir eine neue und verbesserte Erfahrung für Sie vorbereiten.
+Wir haben das symbol Skype vorübergehend aus Outlook.com entfernt, als Teil einer Designaktualisierung und eines Funktionsupdates, für die wir uns freuen, das Rollout durchzuführen. Wir freuen uns über Ihre Geduld, während wir eine neue und verbesserte Erfahrung für Sie vorbereiten.
 
-Sie können Skype weiterhin über Ihren Browser unter [Web.Skype.com](https://web.skype.com/)verwenden.
+Sie können weiterhin Skype über Ihren Browser unter [web.skype.com](https://web.skype.com/)verwenden.

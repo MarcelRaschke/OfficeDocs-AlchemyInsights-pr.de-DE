@@ -2,7 +2,7 @@
 title: Optimieren von Stream in meinem lokalen Netzwerk
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5145"
-ms.openlocfilehash: 2666ee08e25dfbfb2fe9abba7cc4061587f9738a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52499bb34d1bda1bfc9e712b2d950f18d16b41f8ef0e721c96b189b07f1cd461
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694383"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112839"
 ---
 # <a name="optimizing-stream-within-my-local-network"></a>Optimieren von Stream in meinem lokalen Netzwerk
 

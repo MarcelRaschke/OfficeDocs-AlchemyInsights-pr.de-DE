@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: a8ece1151885f6905b00dbd0daf7b18fdff60b29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d8d652e991c0ebaae6a79230a5fd0fcacf8ce6bbdf2622dfdcc448cc7e2353c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947262"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Webressourcen Einschränkungen für Webseiten (HTML)
+# <a name="webpage-html-web-resources-limitations"></a>Einschränkungen von Webressourcen für Webseiten (HTML)
 
-* Eine HTML-Webressource darf keinen Code enthalten, der auf dem Server ausgeführt werden muss. ASP.NET-Seiten können nicht als HTML-Webressourcen hochgeladen werden.
+* Eine HTML-Webressource darf keinen Code enthalten, der auf dem Server ausgeführt werden muss. ASP.NET Seiten können nicht als HTML-Webressourcen hochgeladen werden.
 
-* HTML-Webressourcen können nur eine beschränkte Anzahl von Abfragezeichenfolgen-Parametern akzeptieren. Weitere Informationen: [übergeben von Parametern an HTML-Webressourcen](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* HTML-Webressourcen können nur eine begrenzte Anzahl von Abfragezeichenfolgenparametern akzeptieren. Weitere Informationen: [Übergeben von Parametern an HTML-Webressourcen](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Webseiten Ressourcen (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Webressourcen für Webseiten (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

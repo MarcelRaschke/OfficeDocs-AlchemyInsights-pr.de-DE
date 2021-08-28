@@ -2,7 +2,7 @@
 title: Verwenden von DLP in Transportregeln
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5153"
-ms.openlocfilehash: 00ea5e67d1277e4a2a73d616b1f90d6e4bc5b54f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ebc0fb718eb0572e849c5d780977deaee480a00c2825c18a12e4d2212342f17a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084093"
 ---
 # <a name="using-dlp-in-transport-rules"></a>Verwenden von DLP in Transportregeln
 

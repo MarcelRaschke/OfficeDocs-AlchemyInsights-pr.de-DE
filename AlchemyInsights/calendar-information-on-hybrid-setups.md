@@ -14,15 +14,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: beeaeeacffc8e56f7b25458a9978d0bdfe954af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e946c6594f0244706835f13bbee1594a7e705306740e20ce599cad18d70fb79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989554"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Frei/Gebucht-Kalender Probleme in Hybrid Umgebungen
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Frei/Gebucht-Kalenderprobleme in Hybridumgebungen
 
-Wenn Benutzer Probleme beim Anzeigen von Kalender Frei/Gebucht-Informationen in Hybrid Umgebungen haben, führen Sie den Assistenten für die Hybrid Konfiguration erneut aus. Weitere Informationen zum Assistenten für die Hybrid Konfiguration finden Sie unter [Hybrid Configuration Wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Wenn Benutzer Probleme beim Anzeigen von Frei/Gebucht-Kalenderinformationen in Hybridumgebungen haben, führen Sie den Assistenten für die Hybridkonfiguration erneut aus. Weitere Informationen zum Assistenten für die Hybridkonfiguration finden Sie im [Assistenten für die Hybridkonfiguration.](https://go.microsoft.com/fwlink/p/?linkid=528149)
 
-Informationen zur Problembehandlung für Schritte in Hybrid Umgebungen finden Sie unter [Problembehandlung bei einer hybridbereitstellung](https://technet.microsoft.com/library/jj659053.aspx).
+Informationen zur Problembehandlung in Hybridumgebungen finden Sie unter [Problembehandlung bei einer Hybridbereitstellung.](https://technet.microsoft.com/library/jj659053.aspx)

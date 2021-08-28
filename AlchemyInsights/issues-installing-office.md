@@ -2,7 +2,7 @@
 title: Lösungen für Probleme beim Installieren von Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 4b309039dc920089d966e3bbe45dcea874668597
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b6155ce38cd2703a4bf406d73ebbc59eb4c9034
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695504"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320754"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Lösungen für Probleme beim Installieren von Office
 
@@ -30,7 +30,7 @@ Probieren Sie eine der folgenden Lösungen zur Behebung des Office-Fehlers:
 - Bereinigen Sie alle vorherigen Ablaufverfolgungen von Office und installieren Sie es mithilfe des Support- und Wiederherstellungs-Assistenten (SaRA) neu. 
 
     - Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) herunter, und installieren Sie ihn. Wenn er geöffnet wurde, wählen Sie unter **Office-Produkte deinstallieren** die Version aus, die Sie deinstallieren möchten (sofern vorhanden), und klicken Sie auf **Weiter**. Klicken Sie sich durch die Bildschirme, und starten Sie Ihren Computer bei entsprechender Aufforderung neu. Nach dem Neustart wird der SaRA automatisch erneut geöffnet, um den Deinstallationsvorgang auszuführen.
-    - Verwenden Sie den SaRA, um [Office erneut zu installieren](https://aka.ms/sara-officeinstall). **Hinweis**: zum Einrichten von Visio oder Project mit SaRA verwenden Sie [Installieren von Visio](https://aka.ms/SaRA-VisioSetupScenario) oder [Installieren von Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Verwenden Sie SaRA für die [Neuinstallation von Office](https://aka.ms/sara-officeinstall). **Hinweis**: Zum Einrichten von Visio oder Project mit SaRA ziehen Sie [Installieren von Visio](https://aka.ms/SaRA-VisioSetupScenario) oder [Installieren von Project](https://aka.ms/SaRA-ProjectSetupScenario) zurate.  
 
 - [Verwenden Sie das Office-Offlineinstallationsprogramm](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA), um Office zu installieren.
 

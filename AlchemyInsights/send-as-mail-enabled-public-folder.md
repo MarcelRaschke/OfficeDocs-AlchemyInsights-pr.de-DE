@@ -1,5 +1,5 @@
 ---
-title: Öffentlichen Ordner "als e-Mail-aktiviert senden" in Exo
+title: Senden als E-Mail aktivierter öffentlicher Ordner in EXO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: ed62c6d7db0ae532f806ce4fdc48f42623bcd545
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 22aa3e8f46c2ff4f62cb520b9498041dffb9d3a3eb607d788cc97b10bf32dbb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052565"
 ---
-# <a name="sendas-mail-enabled-public-folder"></a>E-Mail-aktivierter Öffentlicher Ordner für Absender
+# <a name="sendas-mail-enabled-public-folder"></a>SendAs-E-Mail-aktivierter öffentlicher Ordner
 
-Im folgenden Beispiel wird dem Benutzer Jason die Berechtigung "Senden als" für den e-Mail-aktivierten Öffentlichen Ordner NewPF1 zugewiesen.
+Im folgenden Beispiel werden dem Benutzer "Send As" Berechtigungen für den E-Mail-aktivierten öffentlichen Ordner "NewPF1" zugewiesen.
 
-Add-RecipientPermission-Identity ' NewPF1 ' – Trustee "Jason" – AccessRights ' Sends '
+Add-RecipientPermission -Identity 'NewPF1' -Trustee "Maustaste" -AccessRights 'SendAs'
 
-Ausführliche Informationen zu Syntax und Parametern finden Sie unter Zuweisen von " [Senden als"-oder "Senden im Auftrag von"-Berechtigungen für e-Mail-aktivierte Öffentliche Ordner](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
+Ausführliche Informationen zu Syntax und Parametern finden Sie unter ["Senden als" oder "Senden im Auftrag von" Berechtigungen für E-Mail-aktivierte öffentliche Ordner.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs)
 

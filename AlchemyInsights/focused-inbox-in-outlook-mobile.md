@@ -1,5 +1,5 @@
 ---
-title: 1800019 fokussierter Posteingang in Outlook Mobile
+title: 1800019 Posteingang mit Relevanz in Outlook Mobile
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744406"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117051"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a>Fokussierter Posteingang für Outlook Mobile
+# <a name="focused-inbox-for-outlook-mobile"></a>Posteingang mit Relevanz für Outlook Mobile
 
-[Was ist ein fokussierter Posteingang?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[Was ist Posteingang mit Relevanz?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[Wie bearbeite ich die Regeln, die meine e-Mails in einen fokussierten Posteingang verschieben?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[Wie bearbeite ich die Regeln, die meine E-Mails in den Posteingang mit Relevanz verschieben?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[Wie deaktiviere ich den fokussierten Posteingang oder ändere, ob meine Badge-Anzahl und Benachrichtigungen mit fokussiertem Posteingang synchronisiert werden?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[Wie kann ich den Posteingang mit Relevanz deaktivieren oder ändern, ob meine Signalanzahl und Benachrichtigungen mit dem Posteingang mit Relevanz synchronisiert werden?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[Wie deaktiviere ich den fokussierten Posteingang oder ändere, ob Benachrichtigungen mit fokussiertem Posteingang synchronisiert werden?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[Wie kann ich den Posteingang mit Relevanz deaktivieren oder ändern, ob Benachrichtigungen mit dem Posteingang mit Relevanz synchronisiert werden?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[Wie kann ich zwischen dem fokussierten und dem anderen wechseln?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[Wie schalte ich zwischen "Focused" und "Other" um?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-Weitere Informationen: [Get in-App Help for Outlook for Ios and Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
+Weitere Informationen: [In-App-Hilfe für Outlook für iOS und Android erhalten](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   

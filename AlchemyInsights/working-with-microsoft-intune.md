@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "862"
 - "670000"
-ms.openlocfilehash: 8d900198114703fb31157fa9724f4f9711b7b8c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1aa04add46978836c83afbd1c85c58df59fd2966806b0b2b1be5bd8cb5774d47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907665"
 ---
 # <a name="working-with-microsoft-intune"></a>Verwenden von Microsoft Intune
 

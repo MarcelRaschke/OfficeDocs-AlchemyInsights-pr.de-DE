@@ -2,7 +2,7 @@
 title: Ihre Hand in Teams heben
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002646"
 - "5086"
-ms.openlocfilehash: d90356ceaca90d065676be48aa922425c2f2c779
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f9f584019726f5d30d384044b3c11ac215ca371c06f6472a8d479b38ccaf537
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798015"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111039"
 ---
 # <a name="raise-your-hand-in-teams"></a>Heben Sie Ihre Hand in Teams!
 

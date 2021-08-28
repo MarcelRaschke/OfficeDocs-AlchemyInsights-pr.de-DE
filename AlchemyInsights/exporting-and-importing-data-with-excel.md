@@ -2,7 +2,7 @@
 title: Exportieren und Importieren von Daten mit Excel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000777"
 - "2718"
-ms.openlocfilehash: 7abc416b8d4322ed6fdcde9e1943c625f3833363
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dc660d0b51a4bd104c25ee8315182eea6db3385e87034226dfc759b2f556728
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708754"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978016"
 ---
 # <a name="exporting-and-importing-data-with-excel"></a>Exportieren und Importieren von Daten mit Excel
 

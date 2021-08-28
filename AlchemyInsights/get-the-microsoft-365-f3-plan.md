@@ -2,7 +2,7 @@
 title: Microsoft 365 F3-Plan erhalten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5465"
-ms.openlocfilehash: 984dfa90d6cb65199afea78563d4f97e994baa68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e5586c1e55c109fff7469dd31e24355999505f7f7182e47188af10db1b8bd772
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706918"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089403"
 ---
 # <a name="get-the-microsoft-365-f3-plan"></a>Microsoft 365 F3-Plan erhalten
 

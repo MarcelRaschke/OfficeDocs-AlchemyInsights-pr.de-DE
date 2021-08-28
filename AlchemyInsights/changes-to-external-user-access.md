@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
-ms.openlocfilehash: 1be2a05efdf46a1ec05992963a3e03519dc2c3d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3c3ccbd8dd4f43a5f927f727e8757ded3612c630158cf045b4e6c0f93bb75ad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714327"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045671"
 ---
 # <a name="changes-to-external-user-access"></a>Änderungen am Zugriff durch externe Benutzer
 
-Ab dem 23. März 2018 werden externe Benutzer nicht mehr in der Lage sein, auf Inhalte zuzugreifen, die für alle Benutzer, alle authentifizierten Benutzer oder alle Formular Benutzer freigegeben wurden, auch wenn Sie autorisierten Gruppen eingeladen oder hinzugefügt wurden. Externe Benutzer können nur auf Inhalte zugreifen, die für den Benutzer oder mit Gruppen freigegeben wurden, zu denen der Benutzer gehört. Wenn Sie Ihre vorhandenen Einstellungen beibehalten möchten, lesen Sie Folgendes: https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
+Ab dem 23. März 2018 können externe Benutzer nicht mehr auf Inhalte zugreifen, die für alle, alle authentifizierten Benutzer oder alle Formularbenutzer freigegeben wurden, auch wenn sie eingeladen oder autorisierten Gruppen hinzugefügt wurden. Externe Benutzer können nur auf Inhalte zugreifen, die für den Benutzer oder für Gruppen freigegeben wurden, zu denen der Benutzer gehört. Wenn Sie Ihre vorhandenen Einstellungen beibehalten möchten, lesen Sie Folgendes: https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
   
 

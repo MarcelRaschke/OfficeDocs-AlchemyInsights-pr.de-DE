@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5611"
 - "9002930"
-ms.openlocfilehash: e499a439e7cf7e9ecbb6566f9f089f3b7b82f48e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68ba6caf602a5cf60e2c96c80703f19dd07c3b6430c2a66f40fea4a2f3d06e75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793757"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950079"
 ---
 # <a name="chart-shows-different-number-of-records-in-grid"></a>Diagramm mit einer unterschiedlichen Anzahl von Datensätzen im Raster
 

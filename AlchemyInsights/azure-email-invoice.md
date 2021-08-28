@@ -2,7 +2,7 @@
 title: Azure-E-Mail-Rechnungsstellung
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 5dc4bcd7a3f81d5130fdb9330280f46d87fff1a1
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: dec7454258f1f7e0244569a036cdda805da72012c02e0e17b3c1d192f0a2639e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48840598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997025"
 ---
 # <a name="azure-email-invoicing"></a>Azure-E-Mail-Rechnungsstellung
 

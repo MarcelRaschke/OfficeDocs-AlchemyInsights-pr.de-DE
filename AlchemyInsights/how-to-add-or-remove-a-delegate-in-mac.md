@@ -1,5 +1,5 @@
 ---
-title: Vorgehensweise hinzufügen oder Entfernen einer Stellvertretung in Mac
+title: Hinzufügen oder Entfernen eines Delegaten in Mac
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7336"
-ms.openlocfilehash: 631a1202eca985db93c31dbedca520674b06095e
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 90f9083d65a93cb6fc4f5ea3b8c1b378e209dc3a4500a29dbab04ef958ea93c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576462"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945372"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Vorgehensweise hinzufügen oder Entfernen einer Stellvertretung in Mac
+# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Hinzufügen oder Entfernen eines Delegaten in Mac
 
-Gehen Sie wie folgt vor, um eine Stellvertretung in Mac hinzuzufügen oder zu entfernen:
+Gehen Sie folgendermaßen vor, um einen Delegaten in Mac hinzuzufügen oder zu entfernen:
 
-**Vorgehensweise Hinzufügen einer Stellvertretung in Mac**:
+**So fügen Sie einen Delegaten in Mac hinzu:**
 
-1. Klicken Sie im Menü **Extras** auf **Konten**.
-1. Wählen Sie das Exchange-Konto aus, das für den Zugriff auf die Delegierten Elemente verwendet werden soll, klicken Sie auf **erweitert**, und klicken Sie dann auf **Stellvertretungen**.
-1. Klicken Sie unter **Personen, für die ich Stellvertreter bin** auf **Hinzufügen**. .
-1. Geben Sie den Namen der Person ein, die Sie als Stellvertreter hinzugefügt hat.
-1. Wählen Sie den Namen der Person in den Suchergebnissen aus, und klicken Sie dann auf **Hinzufügen**.
+1. Wählen Sie im Menü **"Extras"** die Option **"Konten"** aus.
+1. Wählen Sie das Exchange Konto aus, mit dem Sie auf die delegierten Elemente zugreifen, klicken Sie auf **"Erweitert"** und dann auf **"Stellvertretungen".**
+1. Klicken Sie unter **"Personen, für die ich ein Delegat bin"** auf **"Hinzufügen".** .
+1. Geben Sie den Namen der Person ein, die Sie als Stellvertretung hinzugefügt hat.
+1. Wählen Sie den Namen der Person in den Suchergebnissen aus, und klicken Sie dann auf **"Hinzufügen".**
  
-**Vorgehensweise Entfernen eines Stellvertreters in Mac**:
+**So entfernen Sie einen Delegaten in Mac:**
 
-1. Klicken Sie im Menü **Extras** auf **Konten**.
-1. Wählen Sie das Exchange-Konto aus, das Sie ändern möchten, klicken Sie auf **erweitert**, und klicken Sie dann auf * * * * delegierte (Registerkarte).
-1. Wählen Sie unter **Personen, für die ich Stellvertreter** ist die Person aus, für die Sie die Stellvertretung beenden möchten, und klicken Sie dann auf **Entfernen**.
+1. Wählen Sie im Menü **"Extras"** die Option **"Konten"** aus.
+1. Wählen Sie das Exchange Konto aus, das Sie ändern möchten, klicken Sie auf **"Erweitert"** und dann auf die Registerkarte "Stellvertretungen".
+1. Wählen Sie unter **"Personen, für die ich Stellvertretung bin"** die Person aus, für die Sie nicht mehr Stellvertretung sein möchten, und klicken Sie dann auf **"Entfernen".**

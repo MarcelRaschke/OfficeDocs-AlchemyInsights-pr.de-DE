@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1790"
 - "9000214"
-ms.openlocfilehash: 4255f656ea2eadaf3ad44826e4a04f21718c50a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8319f0783acae6ed93bc5e1e5eecd5ed43008bd3cfd433a15e912e175a522f9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097881"
 ---
 # <a name="mobile-device-management-in-microsoft-365"></a>Verwaltung mobiler Geräte in Microsoft 365
 

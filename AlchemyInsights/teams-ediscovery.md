@@ -2,7 +2,7 @@
 title: Teams eDiscovery
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002981"
 - "5702"
-ms.openlocfilehash: 699fe660bb1d103b3ae5181ddb2265991c1a691c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e41b625883af1b757f44c9acafc056b21226986c5c73ed1765ebe0e0d213aaad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736754"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048875"
 ---
 # <a name="teams-ediscovery"></a>Teams eDiscovery
 

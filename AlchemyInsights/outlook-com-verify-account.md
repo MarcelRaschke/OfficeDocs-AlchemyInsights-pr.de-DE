@@ -1,5 +1,5 @@
 ---
-title: Überprüfen Ihres Outlook.com-Kontos
+title: So überprüfen Sie Ihr Outlook.com-Konto
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,24 +14,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d65ee2ec5507e3a691c5db6c44e5790ca60c47ac9b52e04f4c9052bf9503402d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961590"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Überprüfen Ihres Outlook.com-Kontos
+# <a name="how-to-verify-your-outlookcom-account"></a>So überprüfen Sie Ihr Outlook.com-Konto
 
-Die Überprüfung in zwei Schritten schützt Sie, indem Sie es für eine andere Person erschwert, sich bei Ihrem Microsoft-Konto anzumelden. Es werden zwei unterschiedliche Identitätsformen verwendet: Ihr Kennwort und eine Kontaktmethode (auch bekannt als Sicherheitsinfo).
+Die zweistufige Überprüfung trägt dazu bei, Sie zu schützen, da es für eine andere Person schwieriger wird, sich bei Ihrem Microsoft-Konto anzumelden. Es verwendet zwei verschiedene Formen der Identität: Ihr Kennwort und eine Kontaktmethode (auch als Sicherheitsinformationen bezeichnet).
   
-So aktivieren oder deaktivieren Sie die Überprüfung in zwei Schritten:
+So aktivieren oder deaktivieren Sie die zweistufige Überprüfung:
   
-1. Wechseln Sie zur [Seite Sicherheitsgrundlagen](https://go.microsoft.com/fwlink/?linkid=842325) , und melden Sie sich mit Ihrem Microsoft-Konto an.
-2. Wählen Sie **Weitere Sicherheitsoptionen**aus.
-3. Wählen Sie unter über **Prüfung in zwei Schritten**die Option zweistufige über **Prüfung einrichten** aus, und befolgen Sie die Anweisungen.
+1. Wechseln Sie zur Seite "Grundlagen der [Sicherheit",](https://go.microsoft.com/fwlink/?linkid=842325) und melden Sie sich mit Ihrem Microsoft-Konto an.
+2. Wählen Sie **weitere Sicherheitsoptionen aus.**
+3. Wählen Sie unter **"Zweistufige Überprüfung"** die Option **"Zweistufige Überprüfung einrichten"** aus, und befolgen Sie die Anweisungen.
 
-Wenn Sie die Überprüfung in zwei Schritten aktivieren, benötigen Sie immer zwei Arten von Identifikation. Wenn Sie Ihre Kontaktmethode verlieren, werden Sie allein mit Ihrem Kennwort nicht wieder in Ihr Konto zurückkehren, und es kann 30 Tage dauern, bis der Zugriff wiederhergestellt wird.
+Wenn Sie die zweistufige Überprüfung aktivieren, benötigen Sie immer zwei Formen der Identifizierung. Wenn Sie Ihre Kontaktmethode verlieren, gelangen Sie mit Ihrem Kennwort allein nicht wieder in Ihr Konto – und es kann 30 Tage dauern, bis Sie wieder zugriffen können.
   
-Erfahren Sie mehr über die [Prüfung in zwei Schritten](https://go.microsoft.com/fwlink/?linkid=872270).
+Erfahren Sie mehr über [die zweistufige Überprüfung.](https://go.microsoft.com/fwlink/?linkid=872270)
   

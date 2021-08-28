@@ -1,8 +1,8 @@
 ---
-title: IOS 13 – iPad
+title: iOS 13 – iPadOS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: 747c24250b911f30176ff03ed623ae38488ab57f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c20e1a100f34aaea49fd0bfea513583ed45c91963751459ac229a265929f3fd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695936"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054869"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>IOS 13 +/iPads-Updates für die Richtlinie für bedingten Zugriff
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>iOS 13+ / iPadOS-Updates für Richtlinien für bedingten Zugriff
 
-Wenn Probleme im Zusammenhang mit dem bedingten Zugriff auf iPads auftreten, die auf "iPad" (IOS 13 oder höher) aktualisiert wurden, lesen Sie den folgenden Artikel aus dem AAD-Team bezüglich der Änderungen, die Sie möglicherweise vornehmen müssen, um sicherzustellen, dass der bedingte Zugriff wie gewünscht weiter funktioniert:
+Wenn Probleme im Zusammenhang mit bedingtem Zugriff auf Ipads auftreten, die auf iPadOS (iOS 13 oder höher) aktualisiert wurden, lesen Sie den folgenden Artikel des AAD-Teams zu Änderungen, die Sie möglicherweise vornehmen müssen, um sicherzustellen, dass der bedingte Zugriff weiterhin wie gewünscht funktioniert:
 
-[Erforderliche Aktion: auswerten und Aktualisieren von Richtlinien für bedingten Zugriff in Vorbereitung auf die Version von iPads](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
+[Aktion erforderlich: Auswerten und Aktualisieren von Richtlinien für bedingten Zugriff in Vorbereitung auf die iPadOS-Version](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)

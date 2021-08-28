@@ -11,12 +11,12 @@ ms.custom: ''
 ms.assetid:
 - "9002254"
 - "4358"
-ms.openlocfilehash: da0259043dba88445f77a096e23e360343d103cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd57ded1f8a06215590fd54fa1c84801ab1e4ace3629dbffa2d08026139a96fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774134"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086487"
 ---
 # <a name="screen-sharing-with-teams"></a>Bildschirmfreigabe für Teams
 

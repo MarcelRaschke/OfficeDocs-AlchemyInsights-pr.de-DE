@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
-ms.openlocfilehash: 623c86238a36fe2505c8587c599785ea8a87b47e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fdeab6a96effc41728e935e209474d564955b34795d22e94227ca741368462b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747442"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965820"
 ---
 # <a name="create-apps-with-powerapps"></a>Erstellen von Apps mit PowerApps
 

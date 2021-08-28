@@ -1,5 +1,5 @@
 ---
-title: OneDrive Site-prozielierung
+title: OneDrive Websitebereitstellung
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: ea4968de39f6a620a7e9ba2cbf6e41ac17522003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1285968f3d0a53aebf88e91aefdc0b0b6b5e2020f8959aa42e85151a800c68ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754374"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075903"
 ---
-# <a name="onedrive-site-provisioning"></a>OneDrive Site-prozielierung
+# <a name="onedrive-site-provisioning"></a>OneDrive Websitebereitstellung
 
-Bei neu erstellten Konten müssen sich die Benutzer beim Microsoft 365 Admin Center mit Ihrem eigenen Konto anmelden und auf das OneDrive-Symbol klicken, um die Provision für die OneDrive-Website manuell zu starten.
-Befolgter [Leitfaden zur Problembehandlung](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) für Hilfe
+Bei neu erstellten Konten müssen sich Benutzer mit ihrem eigenen Konto beim Microsoft 365 Admin Center anmelden und auf das Symbol OneDrive klicken, um die Bereitstellung der OneDrive Website manuell zu starten.
+Befolgen Sie diese Anleitung zur [Problembehandlung, um](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) Hilfe zu finden.
 
-Wenn der Benutzer jedoch bereits auf das OneDrive-Symbol geklickt hat und seine persönliche Website nicht innerhalb von 24 Stunden bereitgestellt wurde, melden Sie sich ein Support Ticket an, um weitere Unterstützung zu erhalten.
+Wenn der Benutzer jedoch bereits auf das Symbol OneDrive geklickt hat und seine persönliche Website nicht innerhalb von 24 Stunden bereitgestellt wird, protokollieren Sie ein Supportticket für weitere Unterstützung.
 

@@ -2,7 +2,7 @@
 title: Hinweismeldungen zum Abonnement in Microsoft 365-Apps
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 964059ea464ac9d796731e943cb1d814743524a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a09075b4092573054c594224387980598b6f8a1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659237"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832453"
 ---
 # <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Hinweismeldungen zum Abonnement in Microsoft 365-Apps
 

@@ -2,7 +2,7 @@
 title: Einschränken der Freigabe in Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002461"
 - "5577"
-ms.openlocfilehash: 819323c7a5bfc135c3e382887e3ec3e924c559f2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b651af2a2b74647625adfc7af3a90f90808d1e51d0ec9f04c73313fd7232c4ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067047"
 ---
 # <a name="limit-sharing-in-microsoft-teams"></a>Einschränken der Freigabe in Microsoft Teams
 

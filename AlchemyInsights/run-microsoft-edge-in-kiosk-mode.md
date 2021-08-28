@@ -1,5 +1,5 @@
 ---
-title: Ausführen von Microsoft Edge im Kiosk-Modus
+title: Ausführen Microsoft Edge im Kioskmodus
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 634b2f3cabe4a802db740ecf7fc265cb42a88e61
-ms.sourcegitcommit: 2ff035d33e3277a268a5d88f1209dca77a87d689
+- "11118"
+ms.openlocfilehash: 12f8aabae40fc1caa3e27a62f14b8b60b73d83d95d7ce95a7101bcc4379e4fbf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49666169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922214"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a>Ausführen von Microsoft Edge im Kiosk-Modus
+# <a name="run-microsoft-edge-in-kiosk-mode"></a>Ausführen Microsoft Edge im Kioskmodus
 
-Sie können den Kioskmodus in Microsoft Edge-Versionen 77 und höher sowie in Microsoft Edge-Legacy Versionen 45 und früher konfigurieren.
+Sie können den Kioskmodus in Microsoft Edge Versionen 87 und höher sowie in Vorgängerversion von Microsoft Edge Versionen 45 und früheren Versionen konfigurieren. Weitere Informationen finden Sie unter [Konfigurieren Microsoft Edge Kioskmodus.](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode)
 
-Sie können Geräte, die unter Windows 10 ausgeführt werden, so konfigurieren, dass Sie [im Einzel-oder Multi-App-Kioskmodus ausgeführt](https://go.microsoft.com/fwlink/?linkid=2133659)werden.
+Sie können Geräte, die auf Windows 10 ausgeführt werden, so konfigurieren, dass sie [im Einzel-App- oder Multi-App-Kioskmodus ausgeführt werden.](https://go.microsoft.com/fwlink/?linkid=2133659)
 
-Weitere Informationen zum Einrichten des Kioskmodus in der aktuellen Version des Microsoft Edge stable-Kanals und in Microsoft Edge Legacy finden Sie unter:
+Weitere Informationen zum Einrichten des Kioskmodus in der neuesten Version des Microsoft Edge Stable-Kanals und in Vorgängerversion von Microsoft Edge finden Sie unter:
 
-- [Microsoft Edge mit zugewiesenem Zugriff](https://go.microsoft.com/fwlink/?linkid=2133494)
-- [Microsoft Edge "– Kiosk"-Befehlszeilenparameter](https://go.microsoft.com/fwlink/?linkid=2133724)
-- [Unterstützung für den Microsoft Edge-Legacy-Kioskmodus](https://go.microsoft.com/fwlink/?linkid=2133725)
+- [Microsoft Edge mit zugewiesenem Zugriff](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [Microsoft Edge Befehlszeilenparameter "--kiosk"](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [Unterstützung für Vorgängerversion von Microsoft Edge Kioskmodus](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)

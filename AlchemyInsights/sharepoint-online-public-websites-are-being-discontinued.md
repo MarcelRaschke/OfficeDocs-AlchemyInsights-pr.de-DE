@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online öffentliche Websites werden nicht mehr unterstützt
+title: SharePoint Öffentliche Onlinewebsites werden eingestellt
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051269"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Online öffentliche Websites werden nicht mehr unterstützt
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Öffentliche Onlinewebsites werden eingestellt
 
-Wenn Sie eine SharePoint Online öffentliche Website erstellt haben, können Sie Sie bis zum 31. März 2018 weiter verwenden. Wenn Sie weiterhin eine öffentliche Website haben möchten, müssen Sie eine neue mit einem neuen Anbieter erstellen. Die Inhalte auf Ihrer SharePoint Online öffentlichen Website werden gelöscht, Sie müssen also alle Inhalte kopieren, die Sie behalten möchten.
+Wenn Sie eine SharePoint öffentlichen Onlinewebsite erstellt haben, können Sie sie bis zum 31. März 2018 weiterhin verwenden. Wenn Sie weiterhin eine öffentliche Website haben möchten, müssen Sie eine neue mit einem neuen Anbieter erstellen. Die Inhalte auf Ihrer SharePoint öffentlichen Online-Website werden gelöscht, sodass Sie alle Inhalte kopieren müssen, die Sie behalten möchten.
   
-Ein Banner wird nun oben auf Ihrer SharePoint Online öffentlichen Website als Benachrichtigung angezeigt, dass die Website entfernt wird. Sie können dieses Banner nicht deaktivieren. Informationen zum Speichern und Kopieren von Inhalten auf einer Partnerwebsite finden Sie unter [Details zum Feature-Abbruchvorgang](https://go.microsoft.com/fwlink/?linkid=866980).
+Ein Banner wird nun oben auf Ihrer öffentlichen SharePoint Onlinewebsite angezeigt, um zu benachrichtigen, dass die Website entfernt wird. Sie können dieses Banner nicht deaktivieren. Informationen zum Speichern und Kopieren von Inhalten auf einer Partnerwebsite finden Sie unter [Details zum Featureeinstellungsprozess.](https://go.microsoft.com/fwlink/?linkid=866980)
   

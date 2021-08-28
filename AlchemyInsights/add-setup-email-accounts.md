@@ -1,5 +1,5 @@
 ---
-title: 764 hinzufügen/Einrichten von e-Mail-Konten
+title: 764 E-Mail-Konten hinzufügen/einrichten
 ms.author: pdigia
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: b33bbb346fdbfe3a27512b3dfaf6e3c07e5a7b04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d7e015bd79addc9a1abe1a9a7973fe923c934bf60c2891f4454c13622a2b8a9f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935516"
 ---
-# <a name="set-up-email-accounts"></a>Einrichten von e-Mail-Konten
+# <a name="set-up-email-accounts"></a>Einrichten von E-Mail-Konten
 
-1. Klicken Sie in Outlook auf **Datei**  >  **Info**  >  **Konto hinzufügen**.
+1. Klicken Sie in Outlook auf **"Dateiinformationen**  >    >  **Konto hinzufügen".**
 
-2. Geben Sie Ihre e-Mail-Adresse ein, und klicken Sie auf **verbinden**.
+2. Geben Sie Ihre E-Mail-Adresse ein, und klicken Sie dann auf **Verbinden**.
 
-3. Geben Sie Ihr Kennwort ein, und klicken Sie auf **OK**.
+3. Geben Sie Ihr Kennwort ein, und klicken Sie auf **"OK".**
 
 4. Sie können diese Schritte wiederholen, um mehrere Konten hinzuzufügen.
 
-**Hinweis**: bei einigen e-Mail-Konten wie Gmail, Yahoo und icloud müssen Sie die zweistufige Authentifizierung einrichten, um Outlook zum Senden und empfangen von e-Mails verwenden zu können. Weitere Informationen finden Sie unter [Hinzufügen eines e-Mail-Kontos zu Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
+**Hinweis:** Für einige E-Mail-Konten wie Gmail, Yahoo und iCloud müssen Sie die zweistufige Authentifizierung einrichten, um Outlook zum Senden und Empfangen von E-Mails zu verwenden. Weitere Informationen finden Sie unter [Hinzufügen eines E-Mail-Kontos zu Outlook.](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)
   

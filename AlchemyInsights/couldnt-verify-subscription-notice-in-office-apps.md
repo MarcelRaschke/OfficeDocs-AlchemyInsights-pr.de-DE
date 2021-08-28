@@ -2,7 +2,7 @@
 title: Die Benachrichtigung "Abonnement konnte nicht überprüft werden" in Microsoft 365-Apps
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 45a5ed79feb2e489af5b93caee29ca4709181d79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1f53154421592bd39a132671adab0b1b920b5480c9d027dd5f46b7e9b9139cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929412"
 ---
 # <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Die Benachrichtigung "Abonnement konnte nicht überprüft werden" in Microsoft 365-Apps
 

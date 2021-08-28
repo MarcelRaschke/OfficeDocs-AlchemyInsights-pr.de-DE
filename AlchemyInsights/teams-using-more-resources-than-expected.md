@@ -1,5 +1,5 @@
 ---
-title: Anleitung zum Upgrade von Teams
+title: Anleitung zum Teams Upgrade
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334261"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998690"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>Microsoft Teams verwendet mehr Computerressourcen als erwartet
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams verwendet mehr Computerressourcen als erwartet
 
-Großartige Leistung und Benutzerfreundlichkeit sind wichtige Probleme bei Microsoft. Die Startzeit von Teams wurde verbessert, und wir werden die Teams weiter verbessern, einschließlich des gesamten Ressourcenverbrauchs.  
+Eine hohe Leistung und Benutzerfreundlichkeit sind bei Microsoft die wichtigsten Überlegungen. Teams Startzeit wurde verbessert, und wir werden die Teams weiter verbessern, einschließlich des allgemeinen Ressourcenverbrauchs.  
 
-Informationen zu Teams und Ressourcenverwendung finden Sie unter [How Microsoft Teams Memory](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  und  [Teams verwendet wird, während Videobesprechungen auf Laptops angedockt an 4K/HDR-Monitore langsam](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+Informationen zum Teams und zur Ressourcennutzung finden Sie unter ["Wie Microsoft Teams Speicher verwendet](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) und [Teams während Videobesprechungen auf Laptops, die an 4K/HDR-Monitore angedockt sind, langsam ist.](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k)

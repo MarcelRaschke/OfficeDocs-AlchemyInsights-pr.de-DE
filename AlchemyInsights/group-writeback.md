@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8305"
 - "9003234"
-ms.openlocfilehash: 8d1d32875f0f1890f03defbfb3b483500ff1c653
-ms.sourcegitcommit: ee1cff8e7e6b52a33fce7c17783de65aa79ad25a
+ms.openlocfilehash: 31e2d5d0a8982488df81f09ffa5bb2f5832e7506f7759d494fa484c629dbbc0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50254556"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056345"
 ---
 # <a name="group-writeback"></a>Gruppenrückschreiben
 

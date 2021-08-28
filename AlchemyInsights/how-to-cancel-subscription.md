@@ -1,8 +1,9 @@
 ---
-title: Abbrechen eines Abonnements
+title: So kündigen Sie ein Abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,28 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9003797"
 - "6836"
-ms.openlocfilehash: af5b16a55afd7e26601e8ffa6288a72c94b9b1fb
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 7c25c2b782bdffadd5239aeeb7e0aba5386aeef42a7b5236c7d282ac3ba26a55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086256"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029335"
 ---
-# <a name="how-to-cancel-a-subscription"></a>Abbrechen eines Abonnements
+# <a name="how-to-cancel-a-subscription"></a>So kündigen Sie ein Abonnement
 
-Sie können ein Azure-Abonnement nur im Azure-Portal abbrechen, wenn Sie der Konto Administrator oder das Abonnement sind. Führen Sie die folgenden Schritte aus.
+Sie können ein Azure-Abonnement im Azure-Portal nur kündigen, wenn Sie der Kontoadministrator oder das Abonnement sind. Führen Sie die folgenden Schritte aus.
 
 1. Wählen Sie Ihr Abonnement über die Seite [Abonnements im Azure-Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)aus.
 2. Wählen Sie das Abonnement aus, das Sie stornieren möchten.
-3. Wählen Sie **Übersicht** aus und wählen Sie dann **Abonnement kündigen** aus.
+3. Wählen Sie **Übersicht** und dann **Abonnement kündigen** aus.
 
 **Was geschieht nach der Kündigung meines Abonnements?**
 
-Nachdem Sie Ihr Abonnement gekündigt haben, wird die Abrechnung sofort beendet. Es kann jedoch bis zu 10 Minuten dauern, bis die Kündigung im Portal angezeigt wird. Wenn Sie Ihr Abonnement in der Mitte eines Abrechnungszeitraums kündigen, senden wir die abschließende Rechnung auf Ihrem typischen Rechnungsdatum nach Ablauf des Zeitraums.
+Nachdem Sie Ihr Abonnement gekündigt haben, wird die Abrechnung sofort beendet. Es kann jedoch bis zu 10 Minuten dauern, bis die Kündigung im Portal angezeigt wird. Wenn Sie Ihr Abonnement in der Mitte eines Abrechnungszeitraums kündigen, senden wir die endgültige Rechnung am typischen Rechnungsdatum nach Ablauf des Zeitraums.
 
-Nach der Kündigung sind ihre Dienste deaktiviert. Dies bedeutet, dass Ihre virtuellen Computer nicht zugewiesen werden, temporäre IP-Adressen freigegeben und der Speicher schreibgeschützt ist.
+Nach der Kündigung sind ihre Dienste deaktiviert. Dies bedeutet, dass die Zuordnung Ihrer virtuellen Computer aufgehoben wird, temporäre IP-Adressen freigegeben werden und der Speicher schreibgeschützt ist.
 
-Nach dem Abbruch Ihres Abonnements wartet Microsoft 30-90 Tage vor dem endgültigen Löschen Ihrer Daten für den Fall, dass Sie darauf zugreifen müssen, oder Sie ändern ihre Meinung. Es gibt keine Gebühr für die Aufbewahrung der Daten. Weitere Informationen finden Sie unter [Microsoft Trust Center – so verwalten Sie Ihre Daten](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Nachdem Ihr Abonnement gekündigt wurde, wartet Microsoft 30-90 Tage, bevor die Daten endgültig gelöscht werden, für den Fall, dass Sie darauf zugreifen müssen oder Sie es sich anders überlegen. Für die Aufbewahrung der Daten wird keine Gebühr erhoben. Weitere Informationen finden Sie unter [Microsoft Trust Center – Wie wir Ihre Daten verwalten.](https://www.microsoft.com/trust-center/privacy/data-management#leave)
 

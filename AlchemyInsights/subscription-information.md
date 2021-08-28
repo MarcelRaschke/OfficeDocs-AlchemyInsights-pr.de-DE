@@ -3,6 +3,7 @@ title: Abonnementinformationen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,28 +12,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: f328c870d2fcd8093c2fd10bb26ca0326ddf2ccd
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 9ea0d1b5eaafbd177badd78b86405ab272997ccaf527fea2df739cc98ce1a9f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286993"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049937"
 ---
 # <a name="subscription-information"></a>Abonnementinformationen
 
-Informationen zu den Abonnements, die Sie besitzen, finden Sie auf der Seite **Fakturierung** \> [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Informationen zu den Abonnements, die Sie besitzen, können Sie auf der Seite **"Abrechnung** \> [Für Ihre Produkte"](https://go.microsoft.com/fwlink/p/?linkid=842054) abrufen.
   
-In der Tabelle sind die folgenden wichtigen Informationen zu den einzelnen Abonnements aufgeführt:
+Die Tabelle enthält die folgenden wichtigen Informationen zu den einzelnen Abonnements:
   
 - Produktname
 - Zugewiesene Lizenzen
 - Erworbene Lizenzen
 - Status
-- Erneuerungs-oder Ablaufdatum
+- Verlängerung oder Ablaufdatum
 - Zahlungsmethode
 - Abrechnungskonto (falls zutreffend)
  
-Wählen Sie **Spalten auswählen**aus, um Spalten hinzuzufügen oder zu entfernen.
+Wenn Sie Spalten hinzufügen oder entfernen möchten, wählen **Sie "Spalten auswählen" aus.**

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8211"
 - "9003230"
-ms.openlocfilehash: a44cb484b6d89e6d5f67b2900c38dde3610b0e23
-ms.sourcegitcommit: 23e778f7414e5f1a98cc786146fe76d622b458bc
+ms.openlocfilehash: c86f869ccb22e4e8ec86e74b23534b50675806bc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177309"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318287"
 ---
 # <a name="manage-a-user-assigned-managed-identity"></a>Verwalten einer benutzerseitig zugewiesenen verwalteten Identität
 
@@ -34,5 +34,4 @@ Weitere Informationen zu den oben genannten Aufgaben erhalten Sie in den folgend
 - [Löschen einer benutzerseitig zugewiesenen verwalteten Identität](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/how-to-manage-ua-identity-portal) – zum Löschen einer benutzerseitig zugewiesenen verwalteten Identität
 - [Auflisten einer benutzerseitig zugewiesenen verwalteten Identität](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/how-to-manage-ua-identity-portal) – zum Auflisten einer benutzerseitig zugewiesenen verwalteten Identität
 
-> [!NOTE]
-> Prüfen Sie, ob Ihnen die Rolle **Mitwirkender für verwaltete Identität** zugewiesen ist. Diese Rolle ist erforderlich, um benutzerseitig zugewiesene verwaltete Identitäten zu erstellen oder löschen.
+**Hinweis**: Prüfen Sie, ob Ihnen die Rolle **Mitwirkender für verwaltete Identität** zugewiesen ist. Diese Rolle ist erforderlich, um benutzerseitig zugewiesene verwaltete Identitäten zu erstellen oder löschen.

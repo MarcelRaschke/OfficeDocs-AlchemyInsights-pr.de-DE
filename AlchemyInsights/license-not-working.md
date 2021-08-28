@@ -1,8 +1,8 @@
 ---
 title: Die Lizenz funktioniert nicht
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "4764"
-ms.openlocfilehash: 78a42b389b9f1d417db6a6602f3a3c1072f9c1f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bde8395d78951087e482848c823d985163b9de3a
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676233"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58452209"
 ---
 # <a name="license-not-working"></a>Die Lizenz funktioniert nicht
 

@@ -1,8 +1,8 @@
 ---
-title: Vorgehensweise Wiederherstellen eines gelöschten Teams oder Kanals
+title: Wie kann ich ein gelöschtes Team oder einen gelöschten Kanal wiederherstellen?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,20 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.openlocfilehash: d82a1f0ac2007e2c7472fc486754a7b144a8927d17ab0e6ffe0fed6fd2ddf4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726423"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927252"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Wiederherstellen eines gelöschten Teams oder Kanals
 
 Gelöschte Kanäle innerhalb eines Teams können bis zu 21 Tage nach dem Löschen des Kanals wiederhergestellt werden.
 
-Um einen gelöschten Kanal wiederherzustellen, kann der Teambesitzer folgende Aktionen ausführen:
+Um einen gelöschten Kanal wiederherzustellen, kann der Teambesitzer folgendermaßen vorgehen:
 
-1. Öffnen Sie die Team Einstellungen, indem Sie die drei Punkte rechts neben dem Namen des Teams auswählen.
-2. Wählen Sie **Team**  >  **Kanäle** verwalten  >  **gelöscht** aus, und klicken Sie dann auf der rechten Seite auf **Wiederherstellen** .
+1. Öffnen Sie die Teameinstellungen, indem Sie die drei Punkte rechts neben dem Teamnamen auswählen.
+2. Wählen Sie **"Gelöschte**  >  **Teamkanäle verwalten"**  >  und dann auf der rechten Seite **"Wiederherstellen"** aus.
 
-Weitere Informationen zum Wiederherstellen eines Teams finden Sie unter [archivieren oder Löschen eines Teams in Microsoft Teams-Microsoft Teams | Microsoft-Dokumente](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
+Weitere Informationen zum Wiederherstellen eines Teams finden Sie unter [Archivieren oder Löschen eines Teams in Microsoft Teams – Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).

@@ -1,8 +1,8 @@
 ---
-title: Aktivierungsproblem – das Konto erlaubt nicht die Bearbeitung auf dem Mac
+title: Aktivierungsproblem – Konto lässt keine Bearbeitung auf dem Mac zu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: b4304f73ccad60f84c5cc6111de1e425695898e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3dd2e149c89b2bc6d080462bb2618eb8343c1ad4d110d1155c76bc41462efbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046823"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Beheben der Microsoft 365-Apps "Ihr Konto erlaubt nicht die Bearbeitung auf einem Mac"-Nachricht
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Korrigieren der Microsoft 365-Apps "Ihr Konto lässt keine Bearbeitung auf einem Mac zu"
 
-Wenn Sie diese Meldung erhalten, versuchen Sie Folgendes:
+Wenn Sie diese Nachricht erhalten, versuchen Sie Folgendes:
 
 - Stellen Sie sicher, dass Sie über ein Abonnement verfügen, das Clientlizenzen zulässt, und [stellen Sie sicher, dass dem Benutzer eine Lizenz zugewiesen wurde](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Laden Sie das [Tool zum Entfernen von Lizenzen](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193) herunter, und führen Sie es aus.

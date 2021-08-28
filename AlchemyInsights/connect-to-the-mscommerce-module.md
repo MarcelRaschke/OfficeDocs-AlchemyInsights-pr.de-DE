@@ -1,8 +1,8 @@
 ---
-title: Herstellen einer Verbindung mit dem MSCommerce-Modul
+title: Verbinden zum MSModule-Modul
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 41dd044d99d14f25ea15699bfb74f7c37e3928c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df427f1d0fbda46f17a62ad2122b8773b546f0a00ec91ba312c609e4a670870f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032911"
 ---
-# <a name="connect-to-the-mscommerce-module"></a>Herstellen einer Verbindung mit dem MSCommerce-Modul
+# <a name="connect-to-the-mscommerce-module"></a>Verbinden zum MSModule-Modul
 
-Sie müssen mit dem MSCommerce-Modul verbunden sein, bevor Sie die AllowSelfServicePurchase-Richtlinie anzeigen oder festlegen können.  
+Sie müssen mit dem MSPolicy-Modul verbunden sein, bevor Sie die AllowSelfServicePurchase-Richtlinie anzeigen oder festlegen können.  
 
-Um eine Verbindung mit dem MSCommerce-Modul herzustellen, geben Sie an der PowerShell-Eingabeaufforderung (PS C:) \) den folgenden Befehl ein:
+Um eine Verbindung mit dem MSModule herzustellen, geben Sie an der PowerShell-Eingabeaufforderung (PS C: \) ) den folgenden Befehl ein:
 
 `Connect-MSCommerce`
 
-Dadurch wird ein Anmeldedialogfeld geöffnet. Geben Sie Ihren Benutzernamen und Ihr Kennwort ein, um sich anzumelden.
+Dadurch wird ein Anmeldedialogfeld geöffnet. Geben Sie Ihren Benutzernamen und Ihr Kennwort für die Anmeldung ein.
 
-**Hinweis:** &nbsp; &nbsp; Das Konto, das für die Anmeldung verwendet wird, muss ein Unternehmen oder ein Abrechnungs Administrator sein.
+**HINWEIS:** &nbsp; &nbsp; Das Konto, das für die Anmeldung verwendet wird, muss ein Unternehmen oder ein Abrechnungsadministrator sein.

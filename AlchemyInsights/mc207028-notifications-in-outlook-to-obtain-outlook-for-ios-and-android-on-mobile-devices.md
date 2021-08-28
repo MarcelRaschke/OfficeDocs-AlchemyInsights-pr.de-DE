@@ -2,7 +2,7 @@
 title: MC207028 – Benachrichtigungen in Outlook, um Outlook für iOS und Android auf mobilen Geräten zu erhalten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "4992"
 - "9002628"
 - "5047"
-ms.openlocfilehash: 68dae32e63ff6b73654b0e6dccf96a7cef81e100
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4545a578154edac69acac6097d4a259299c5303a5a0b254c7fe0c57869b7bcab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807406"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945075"
 ---
 # <a name="mc207028---notifications-in-outlook-to-obtain-outlook-for-ios-and-android-on-mobile-devices"></a>MC207028 – Benachrichtigungen in Outlook, um Outlook für iOS und Android auf mobilen Geräten zu erhalten
 

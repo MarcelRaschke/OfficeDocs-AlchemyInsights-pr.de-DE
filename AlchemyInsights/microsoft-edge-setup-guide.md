@@ -1,5 +1,5 @@
 ---
-title: Starten der Verwendung von Microsoft Edge
+title: Beginnen Sie mit der Verwendung von Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+- "13635"
+- "9008577"
+ms.openlocfilehash: 1d04f1d70bfedaf54c4365cd63b8c8231299c302
+ms.sourcegitcommit: 2be4a0352cb84a703ebf12966e1c17b64df07364
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617856"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58361921"
 ---
-# <a name="start-using-microsoft-edge"></a>Starten der Verwendung von Microsoft Edge
+# <a name="start-using-microsoft-edge"></a>Beginnen Sie mit der Verwendung von Microsoft Edge
 
-Microsoft hat den neuen Microsoft-Edge-Server veröffentlicht, der die nächste Generation seines Webbrowsers ist. Es basiert auf dem Chromium Open-Source-Fundament und wurde für die Arbeit mit Microsoft-Produkten wie SharePoint und OneDrive optimiert.
+Microsoft hat die neue Microsoft Edge veröffentlicht, bei der es sich um die nächste Generation des Webbrowsers handelt. Es basiert auf der Chromium Open Source Foundation und wurde für die Arbeit mit Microsoft-Produkten wie SharePoint und OneDrive optimiert.
 
-Wenn Probleme mit Google Chrome, Mozilla Firefox oder Safari auftreten, empfehlen wir die Verwendung von Microsoft Edge.
+Wenn Sie Probleme mit Google Chrome, Mozilla Firefox oder Safari haben, empfehlen wir die Verwendung von Microsoft Edge.
 
-Wenn Sie ein Administrator einer großen Organisation sind, verwenden Sie unser [Microsoft-Edge-Setup-Handbuch](https://go.microsoft.com/fwlink/?linkid=2142423) für erste Schritte.
+Wenn Sie ein Administrator einer großen Organisation sind, verwenden Sie unsere [Microsoft Edge Einrichtungshandbuch](https://go.microsoft.com/fwlink/?linkid=2142423) für die ersten Schritte.
 
-Um Microsoft Edge auf einem Gerät gleichzeitig herunterzuladen, wechseln Sie zur [Einführung des neuen Microsoft-Edges](https://go.microsoft.com/fwlink/?linkid=2141049).
+Wenn Sie Microsoft Edge auf jeweils einem Gerät herunterladen möchten, wechseln Sie zu ["Einführung in die neue Microsoft Edge".](https://go.microsoft.com/fwlink/?linkid=2141049)

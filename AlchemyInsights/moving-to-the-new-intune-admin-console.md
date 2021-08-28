@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1791"
 - "9000214"
-ms.openlocfilehash: e99d107bd6d69fd16200e11cd48eacef5a10da23
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad1a51eae1e0b5d06067beb4a1a9e604e08b3d8e8d2d815c702c6ab05668dc9f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986116"
 ---
 # <a name="moving-to-the-new-intune-admin-console"></a>Umstieg auf die neue Intune-Verwaltungskonsole
 

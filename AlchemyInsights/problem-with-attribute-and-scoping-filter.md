@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8470"
 - "9004687"
-ms.openlocfilehash: 78df24c0d8a670d678e26879cf81476f1ae9b92d
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: 51ed0fabe220d0069d721ec64d049787bacd5b094e19f0c1996a28e07bb56f03
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960186"
 ---
 # <a name="problem-with-attribute-and-scoping-filter"></a>Problem mit Attribut- und Bereichsdefinitionsfilter
 

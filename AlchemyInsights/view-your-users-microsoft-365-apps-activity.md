@@ -2,7 +2,7 @@
 title: Microsoft 365 App-Aktivitäten Ihrer Benutzer anzeigen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -18,12 +18,12 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: 3e8878ae08ede1193e532aba6cc4b901c131327d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 93a49d9c4276140abb9b33f857621bd917b7b4fb77a262a002ce96a6e6124fb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664637"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037103"
 ---
 # <a name="view-your-users-microsoft-365-apps-activity"></a>Microsoft 365 App-Aktivitäten Ihrer Benutzer anzeigen
 

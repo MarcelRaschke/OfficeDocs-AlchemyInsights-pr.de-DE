@@ -1,5 +1,5 @@
 ---
-title: Microsoft Search-Setuphandbuch
+title: Microsoft Search Einrichtungshandbuch
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004591"
 - "8203"
-ms.openlocfilehash: 681fc808a167f365ce017df6a5cafcb1744c4d41
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: f61d90967af882ef5b9871e8535704e112e26125878e6540b772f2ae54e83d37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50417301"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975798"
 ---
-# <a name="microsoft-search-setup-guide"></a>Microsoft Search-Setuphandbuch
+# <a name="microsoft-search-setup-guide"></a>Microsoft Search Einrichtungshandbuch
 
-Verwenden Sie das [Microsoft Search-Setuphandbuch](https://go.microsoft.com/fwlink/?linkid=2153798) zum Einrichten und Konfigurieren von Microsoft Search. Unabhängig davon, ob Sie es für eine Gruppe von Benutzern piloten oder für alle Benutzer in Ihrer Organisation rollouten möchten. Sie weisen Suchadministratoren und Sucheditoren zu und passen dann die Sucherfahrung für Ihre Benutzer mit Antworten und zusätzlichen Optionen an, z. B. hinzufügen der Bing-Erweiterung zu Chrome oder Festlegen von Bing als Standardsuchmaschine.
+Verwenden Sie das [Microsoft Search Setuphandbuch,](https://go.microsoft.com/fwlink/?linkid=2153798) um Microsoft Search einzurichten und zu konfigurieren. Ob Sie es für eine Gruppe von Benutzern testen oder für alle Benutzer in Ihrer Organisation bereitstellen möchten. Sie weisen Suchadministratoren und Such-Editoren zu und passen dann die Suchumgebung für Ihre Benutzer mit Antworten und zusätzlichen Optionen an, z. B. hinzufügen der Bing-Erweiterung zu Chrome oder Festlegen Bing als Standardsuchmaschine.

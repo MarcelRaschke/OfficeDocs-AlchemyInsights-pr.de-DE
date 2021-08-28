@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7815"
 - "9004358"
-ms.openlocfilehash: 914d5682a403197a8569bb75fda8a77449f485f6
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: 2117550e731ec22e7aef5321891836d455bcc222ab0ecff19d4ff12ab5bbfa7c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920934"
 ---
 # <a name="troubleshoot-owner-issues"></a>Problembehandlung von Besitzerproblemen
 

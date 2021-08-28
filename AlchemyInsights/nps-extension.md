@@ -1,5 +1,5 @@
 ---
-title: Network Policy Server-Erweiterung
+title: Netzwerkrichtlinienservererweiterung
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "8603"
-ms.openlocfilehash: 6e4b4a0f9f891bbe6bc5140e119b55a802bcd7a5
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 26350d0adc665334163c5eff5f27b227bbf4c9312d76c441b2057471e99e0b30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50417099"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985900"
 ---
-# <a name="network-policy-server-extension"></a>Network Policy Server-Erweiterung
+# <a name="network-policy-server-extension"></a>Netzwerkrichtlinienservererweiterung
 
-Die Network Policy Server (NPS)-Erweiterung für azure AD Multi-Factor Authentication fügt ihrer Authentifizierungsinfrastruktur mithilfe Ihrer vorhandenen Server cloudbasierte MFA-Funktionen hinzu. Mit der NPS-Erweiterung können Sie Ihrem vorhandenen Authentifizierungsfluss Telefonanrufe, SMS oder App-Überprüfungen hinzufügen, ohne neue Server installieren, konfigurieren und warten zu müssen.
+Die Netzwerkrichtlinienservererweiterung (Network Policy Server, NPS) für die mehrstufige Azure AD-Authentifizierung fügt Ihrer Authentifizierungsinfrastruktur cloudbasierte MFA-Funktionen hinzu, die Ihre vorhandenen Server verwenden. Mit der NPS-Erweiterung können Sie Ihrem vorhandenen Authentifizierungsfluss eine Telefonanruf-, SMS- oder Telefon-App-Überprüfung hinzufügen, ohne neue Server installieren, konfigurieren und verwalten zu müssen.
 
-Die NPS-Erweiterung fungiert als Adapter zwischen RADIUS und cloudbasierter Azure AD-mehrstufiger Authentifizierung, um einen zweiten Authentifizierungsfaktor für Verbundbenutzer oder synchronisierte Benutzer zu bieten.
+Die NPS-Erweiterung fungiert als Adapter zwischen RADIUS und cloudbasierter mehrstufiger Azure AD-Authentifizierung, um einen zweiten Authentifizierungsfaktor für Verbundbenutzer oder synchronisierte Benutzer bereitzustellen.
 
-Weitere Informationen zur Funktionsweise der NPS-Erweiterung finden Sie unter Integrieren der vorhandenen [Netzwerkrichtlinienserverinfrastruktur (Network Policy Server, NPS) in die Azure AD Multi-Factor Authentication](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension).
+Weitere Informationen zur Funktionsweise der NPS-Erweiterung finden Sie unter [Integrieren Ihrer vorhandenen Netzwerkrichtlinienserverinfrastruktur (Network Policy Server, NPS) in die mehrstufige Azure AD-Authentifizierung.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension)

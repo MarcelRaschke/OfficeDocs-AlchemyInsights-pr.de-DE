@@ -1,8 +1,8 @@
 ---
-title: Aktualisieren des Kennworts für Ihr e-Mail-Konto
+title: Aktualisieren des Kennworts ihres E-Mail-Kontos
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001098"
 - "3059"
-ms.openlocfilehash: 99383ea671e22f85e969a2e5467315fa4d7ec572
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b297aff26d3e194c642d9f3b42dff5a2e387feea0709bb23fcc8182360453307
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734874"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104847"
 ---
-# <a name="updating-your-email-account-password"></a>Aktualisieren des Kennworts für Ihr e-Mail-Konto
+# <a name="updating-your-email-account-password"></a>Aktualisieren des Kennworts ihres E-Mail-Kontos
 
 Wenn Sie Ihr Kennwort ändern, sollten Sie von unserer App aufgefordert werden, Ihr neuestes Kennwort einzugeben.
 
-Sie können die Kennwörter für ihre jeweiligen Konten an Ihren Anbieter Standorten ändern:
+Sie können die Kennwörter für Ihre jeweiligen Konten an den Jeweiligen Anbieterstandorten ändern:
 
-- [iCloud](https://support.apple.com/HT201487)
+- [Icloud](https://support.apple.com/HT201487)
 
 - [Outlook, Live, Hotmail](https://account.live.com/password/reset)
 
-- [O365](https://passwordreset.microsoftonline.com) (wenn Ihr IT-Administrator das Zurücksetzen von Self-Service-Kennwörtern zugelassen hat.)
+- [O365](https://passwordreset.microsoftonline.com) (Wenn Ihr IT-Administrator die Self-Service-Kennwortzurücksetzung zugelassen hat.)
 
 - [Yahoo](https://login.yahoo.com/account/challenge/username?done=https%3A%2F%2Fwww.yahoo.com%2F&authMechanism=secondary&chllngnm=base&sessionIndex=QQ--)
 
@@ -37,4 +37,4 @@ Sie können die Kennwörter für ihre jeweiligen Konten an Ihren Anbieter Stando
 
 - Exchange: Sie müssen sich an Ihren IT-Administrator wenden.
 
-- IMAP: Ihr IMAP-Anbieter verfügt möglicherweise über einen Link auf Ihrer Seite, oder Sie müssen sich möglicherweise an Ihren IMAP-Anbieter wenden.
+- IMAP: Ihr IMAP-Anbieter hat möglicherweise einen Link auf seiner Seite, oder Sie müssen sich an Ihren IMAP-Anbieter wenden.

@@ -1,5 +1,5 @@
 ---
-title: Hinzufügen einer Gruppe zu einer SharePoint-Website
+title: Hinzufügen einer Gruppe zu einer SharePoint Website
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,38 +12,38 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 07850bc8c496df180d2e3c85dfbfc999231f6a54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8dee2986c98b0ebf5eae6222a652fc999287b6efa3fe5a9099134c44dddf670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697340"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936956"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Hinzufügen einer Gruppe zu einer SharePoint-Website
+# <a name="add-a-group-to-a-sharepoint-site"></a>Hinzufügen einer Gruppe zu einer SharePoint Website
 
-Einige SharePoint-Teamwebsites (einschließlich der in Microsoft Teams erstellten) werden von Microsoft 365-Gruppenbesitzern verwaltet. SharePoint-Websites und-Inhalte können auch mit Microsoft 365-Gruppen und SharePoint-Gruppen gemeinsam verwendet werden. Eine SharePoint-Gruppe ist eine Sammlung von Benutzern, die alle über die gleichen Berechtigungen für Websites und Inhalte verfügen. Bei klassischen Websites wird empfohlen, dass Sie Gruppen verwenden, um die gleiche Berechtigungsstufe für viele Personen gleichzeitig zuzuweisen, anstatt Berechtigungen jeweils jeweils einer Person zuzuweisen.
+Einige SharePoint Teamwebsites (einschließlich der in Microsoft Teams erstellten) werden von Microsoft 365 Gruppenbesitzern verwaltet. SharePoint Websites und Inhalte können auch für Microsoft 365 Gruppen und für SharePoint Gruppen freigegeben werden. Eine SharePoint-Gruppe ist eine Sammlung von Benutzern, die alle über die gleichen Berechtigungen für Websites und Inhalte verfügen. Bei klassischen Websites wird empfohlen, dass Sie Gruppen verwenden, um vielen Personen die gleiche Berechtigungsstufe auf einmal zuzuweisen, anstatt Berechtigungen jeweils einer Person zuzuweisen.
   
-Verwalten von Microsoft 365-Gruppenmitgliedern:
+Verwalten Microsoft 365 Gruppenmitglieder:
   
 1. Wechseln Sie zur [Seite "Gruppen" im Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/groups).
     
-2. Wählen Sie eine Gruppe aus, um deren Besitzer und Mitglieder anzuzeigen. Klicken Sie zum Hinzufügen oder Entfernen von Personen auf den Link **Bearbeiten** in der Zeile **Besitzer** oder **Mitglieder** . 
+2. Wählen Sie eine Gruppe aus, um deren Besitzer und Mitglieder anzuzeigen. Um Personen hinzuzufügen oder zu entfernen, klicken Sie auf den Link **"Bearbeiten"** in der Zeile **"Besitzer"** oder **"Mitglieder".** 
     
-Freigeben einer Kommunikationswebsite mit einer Microsoft 365-Gruppe:
+Freigeben einer Kommunikationswebsite für eine Microsoft 365 Gruppe:
   
-1. Wechseln Sie zu der Website in einem Browser, und klicken Sie auf **Website freigeben** in der oberen rechten Ecke. 
+1. Wechseln Sie in einem Browser zur Website, und klicken Sie oben rechts auf **"Website freigeben".** 
     
-2. Geben Sie den Gruppennamen ein, und wählen Sie dann die Berechtigungsstufe (lesen, bearbeiten oder Vollzugriff) aus.
+2. Geben Sie den Gruppennamen ein, und wählen Sie dann die Berechtigungsstufe (Lesen, Bearbeiten oder Vollzugriff) aus.
     
-Erstellen einer SharePoint-Gruppe für die Verwendung mit einer klassischen Website:
+Erstellen Sie eine SharePoint Gruppe, die mit einer klassischen Website verwendet werden soll:
   
-1. Wechseln Sie zu der Website in einem Browser, und klicken Sie auf das Symbol "Einstellungen" in der oberen rechten Ecke.
+1. Wechseln Sie in einem Browser zur Website, und klicken Sie oben rechts auf das Symbol Einstellungen.
     
-2. Klicken Sie auf **Websiteeinstellungen**, und klicken Sie dann unter **Benutzer und Berechtigungen**auf **Websiteberechtigungen**.
+2. Klicken Sie auf **"Websiteeinstellungen",** und klicken Sie dann unter **"Benutzer und Berechtigungen"** auf **"Websiteberechtigungen".**
     
 3. Klicken Sie auf der Registerkarte Berechtigungen auf **Gruppe erstellen**.
     
-[Verbinden einer klassischen Teamwebsite mit einer neuen Microsoft 365-Gruppe](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Verbinden einer klassischen Teamwebsite zu einer neuen Microsoft 365 Gruppe](https://go.microsoft.com/fwlink/?linkid=2008654)
   
 [Weitere Informationen zum Arbeiten mit SharePoint-Gruppen](https://go.microsoft.com/fwlink/?linkid=874658)
   

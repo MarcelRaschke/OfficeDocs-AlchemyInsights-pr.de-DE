@@ -2,7 +2,7 @@
 title: Installieren von Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: dffc58ee2a01157dca0b365d5419c571f2e545f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 188063432bec2e1bdec07c11cbaf6731ab6046d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779842"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328947"
 ---
 # <a name="how-to-install-office"></a>Installieren von Office
 
-Zum Installieren der Office-Client-Apps stellen Sie sicher, dass Sie über ein Business-Abonnement verfügen, z. B. Microsoft 365 Business Premium Standard, Microsoft 365 Apps for Business oder Office 365 Education.
+Zum Installieren der Office-Client-Apps stellen Sie sicher, dass Sie über ein Business-Abonnement verfügen, z. B. Microsoft 365 Business Standard, Microsoft 365 Apps for Business oder Office 365 Education.
   
-*HINWEIS: [Office Home and Business](https://products.office.com/home-and-business) ist ein [Office Home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)-Produkt und nicht Teil eines Business-Abonnements. Konkrete Anweisungen zu Visio oder Projekt finden Sie unter [Installieren von Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) oder [Installieren von Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
+**Hinweis**: [Office Home and Business](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) ist ein [Office Home](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia)-Produkt und nicht Teil eines Business-Abonnements. Konkrete Anweisungen zu Visio oder Projekt finden Sie unter [Installieren von Visio](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) oder [Installieren von Project](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).
 
 Erstellen Sie die Benutzerkonten, und fügen Sie Ihre Domäne hinzu. Stellen Sie sicher, dass der Benutzer über eine [zugewiesene Lizenz](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) verfügt.
 

@@ -1,8 +1,8 @@
 ---
-title: Arbeiten mit SharePoint-Berechtigungsstufen
+title: Arbeiten mit SharePoint Berechtigungsstufen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: db92439091859e828d658c383be71aedc876100c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90d3cf37230afaa34cfe8d2cccf9a06323c8ddc486481aace514086cd4fa19ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732498"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994324"
 ---
-# <a name="working-with-sharepoint-permission-levels"></a>Arbeiten mit SharePoint-Berechtigungsstufen
+# <a name="working-with-sharepoint-permission-levels"></a>Arbeiten mit SharePoint Berechtigungsstufen
 
-SharePoint enthält Standardberechtigungsstufen, die Sie verwenden können, beispielsweise **Contribute** und **View Only**. Wenn eine dieser Anforderungen jedoch nicht Ihren Anforderungen entspricht, können Sie eine neue Berechtigungsstufe erstellen. Beachten Sie, dass es einfacher ist, die Berechtigungsstufen nachzuverfolgen, wenn Sie die Standardeinstellungen nicht ändern.
+SharePoint verfügen über Standardberechtigungsstufen, die Sie verwenden können, **z. B. "Nur beitragen"** und **"Anzeigen".** Wenn eine dieser Berechtigungen jedoch nicht Ihren Anforderungen entspricht, können Sie eine neue Berechtigungsstufe erstellen. Beachten Sie, dass es einfacher ist, Berechtigungsstufen nachzuverfolgen, wenn Sie die Standardwerte nicht ändern.
 
 [Erstellen und Bearbeiten von Berechtigungsstufen](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1702"
 - "5300025"
-ms.openlocfilehash: 569c31f91ec65584ec4382dc2dacfa6e1d927387
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 41b41d4c8875270e4e14da58ddce3363b0e6ca3352617926e5dbfa2352c3b843
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030568"
 ---
 # <a name="document-versioning"></a>Versionsverwaltung von Dokumenten
 

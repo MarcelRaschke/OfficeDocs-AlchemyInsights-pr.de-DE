@@ -1,5 +1,5 @@
 ---
-title: Verzögertes empfangen von Updates an Microsoft 365-Apps für Unternehmen
+title: Verzögern des Empfangs von Updates für Microsoft 365 Apps for Enterprise
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003964"
 - "7020"
-ms.openlocfilehash: 249b28c5917121b7a3665cc2ed1ca5fb8da32bd3
-ms.sourcegitcommit: 91fb078f07e258eb19bf82cbdad4095e62bf77a1
+ms.openlocfilehash: 543abbe20a3aa24476e6a616b29a9be6e952dc116b267b965597006d9413e02c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49705645"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102858"
 ---
-# <a name="delay-receiving-updates-to-microsoft-365-apps-for-enterprise"></a>Verzögertes empfangen von Updates an Microsoft 365-Apps für Unternehmen
+# <a name="delay-receiving-updates-to-microsoft-365-apps-for-enterprise"></a>Verzögern des Empfangs von Updates für Microsoft 365 Apps for Enterprise
 
-Wenn Sie eine bestimmte geschäftliche Notwendigkeit haben, das Empfangen von Feature-Updates vom Semi-Annual Kanal zu verzögern, können Sie apps so konfigurieren, dass diese Feature-Updates nicht empfangen werden, sondern immer noch die aktuellsten Sicherheitsupdates erhalten.
+Wenn Sie den Empfang von Funktionsupdates aus dem Semi-Annual Kanal in Unternehmen verzögern müssen, können Sie Apps so konfigurieren, dass diese Featureupdates nicht empfangen werden, aber dennoch die aktuellsten Sicherheitsupdates erhalten.
 
-Weitere Informationen finden Sie unter [Delay empfangen von Feature-Updates von Semi-Annual Kanal für Microsoft 365 apps for Enterprise](https://go.microsoft.com/fwlink/?linkid=2109533).
+Weitere Informationen finden Sie unter ["Verzögerter Empfang von Funktionsupdates von Semi-Annual Channel" für Microsoft 365 Apps for Enterprise](https://go.microsoft.com/fwlink/?linkid=2109533).

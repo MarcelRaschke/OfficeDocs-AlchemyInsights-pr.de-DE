@@ -1,5 +1,5 @@
 ---
-title: Hinzufügen oder Aktualisieren der Bestellnummer – ältere WD – empfohlene Schritte
+title: Hinzufügen oder Aktualisieren der Po-Nummer – Legacy-WD – empfohlene Schritte
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7338"
-ms.openlocfilehash: 524a5d9b376632482d5c4ca235789caab958eb9a
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 022743b5d61c139d96f5b9f682f0a3b9cf87a077
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617268"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338887"
 ---
-# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Hinzufügen oder Aktualisieren der Bestellnummer – ältere WD – empfohlene Schritte
+# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Hinzufügen oder Aktualisieren der Po-Nummer – Legacy-WD – empfohlene Schritte
 
-Das Hinzufügen einer Bestellnummer (PO) wird nur für Kunden unterstützt, die per Scheck oder Überweisung per [Rechnung bezahlen](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) . Anweisungen zum Aktualisieren der Bestellnummer sind von Ihrem [Abrechnungs Kontotyp](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)abhängig.
+Das Hinzufügen einer Auftragsnummer wird nur für Kunden unterstützt, die [per Rechnung](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) per Überweisung bezahlen. Anweisungen zum Aktualisieren der Po-Nummer hängen von Ihrem [Abrechnungskontotyp](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)ab.
 
-Sie müssen über eine [Konto Administrator](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) Rolle verfügen, um eine Bestellnummer zu bearbeiten.
+Sie müssen über eine [Kontoadministratorrolle](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) verfügen, um eine Po-Nummer zu bearbeiten.
 
-1. Wählen Sie Ihr Abonnement auf der [Seite Abonnements](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) aus.
-2. Klicken Sie auf der linken Seite auf **Zahlungsmethoden** .
-3. Klicken Sie in der Tabelle **Zahlungsmethoden** auf **Rechnung**. 
-4. Geben Sie Ihre neue Bestellnummer ein, und klicken Sie dann auf **Speichern**.
+1. Wählen Sie Ihr Abonnement auf der [Seite "Abonnements"](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) aus.
+2. Klicken Sie auf der linken Seite auf **"Zahlungsmethoden".**
+3. Klicken Sie in der Tabelle **"Zahlungsmethoden"** auf **"Rechnung".** 
+4. Geben Sie Ihre neue Po-Nummer ein, und klicken Sie dann auf **"Speichern".**
 
 **Empfohlene Dokumente**
 
-- [Unterstützte Länder/Regionen und Währungen](https://azure.microsoft.com/en-us/pricing/faq/) 
-- [Bezahlung per Rechnung](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
-- [Verwalten von Kontaktinformationen für das Azure-Abrechnungskonto](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
+- [Unterstützte Länder/Regionen und Währungen](https://azure.microsoft.com/pricing/faq/) 
+- [So bezahlen Sie per Rechnung](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
+- [Verwalten der Kontaktinformationen des Azure-Abrechnungskontos](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
 
 
