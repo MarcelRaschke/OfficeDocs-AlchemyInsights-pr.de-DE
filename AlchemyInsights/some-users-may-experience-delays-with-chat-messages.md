@@ -12,15 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000738"
 - "8431"
-ms.openlocfilehash: ec2adfdcfd4145a187cb1a1e816594a19f825fe84619c4972be73ee565befe77
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 08675d419ed25c31ad35c2432be83ca943a2fd3f
+ms.sourcegitcommit: ae8fed7a78ea7c8680d8348b05400dd31f3bde91
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54021667"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60370757"
 ---
 # <a name="some-users-may-experience-delays-with-chat-messages"></a>Bei einigen Benutzern kann es zu Verzögerungen bei Chatnachrichten kommen.
 
-Microsoft ist sich eines Problems bewusst, bei dem Es bei Benutzern beim Senden und Empfangen von Chatnachrichten zu Verzögerungen kommen kann, wenn Teams verwendet wird.
+Bei einigen Microsoft Teams Benutzern können fehlende Nachrichten oder Verzögerungen beim Senden und Empfangen von Chatnachrichten auftreten.
 
-Die neuesten Informationen finden Sie unter [https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM240228](https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM240228)
+Überprüfen Sie im Microsoft Admin Center > [**Dienststatus,**](https://admin.microsoft.com/servicehealth) ob kein aktives Problem für Microsoft Teams vorliegt.
+
+Überprüfen Sie, ob das Problem für [Teams im Web](https://teams.microsoft.com/)weiterhin besteht. Wenn das Problem nur für die Teams Desktopversion auftritt:
+
+1. Melden Sie sich von Teams auf dem Desktop ab.
+
+1. Löschen Sie den Cache. Auf einem Windows Desktop:
+
+    1. Halten Sie auf der Tastatur die Windows Taste gedrückt, und drücken Sie **R.**
+
+    1. **%appdata%\Microsoft\Teams** ausschneiden und einfügen > **OK** auswählen.
+    1. Löschen Sie den Inhalt dieser Ordner: BLOB-Speichercachedatenbanken GPUCache IndexedDB Local Storage tmp
+
+3. Starten Sie Microsoft Teams > Anmelden neu.
+
+Weitere Informationen zu Teams Clientupdates und zur Problembehandlung Microsoft Teams Installation finden Sie unter:
+
+- [Teams Aktualisierungsprozess](https://docs.microsoft.com/microsoftteams/teams-client-update)
+- [Problembehandlung bei Microsoft Teams Installations- und Updateproblemen bei Windows](https://docs.microsoft.com/microsoftteams/troubleshoot-installation)
+
+
