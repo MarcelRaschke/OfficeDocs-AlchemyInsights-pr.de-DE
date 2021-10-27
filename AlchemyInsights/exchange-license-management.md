@@ -14,13 +14,13 @@ ms.custom:
 - commerce_licensing
 - "9002548"
 - "5149"
-ms.date: 08/10/2021
-ms.openlocfilehash: 2eabbd09c47713694bd806f98fc0ed6b6a091090
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.date: 10/26/2021
+ms.openlocfilehash: 11119eb7ecfb1ab5775e51b955d82c4a88c7081e
+ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58842585"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60583770"
 ---
 # <a name="exchange-license-management"></a>Exchange-Lizenzverwaltung
 
@@ -32,5 +32,7 @@ Die Verwaltung von Exchange-Lizenzen kann im **Microsoft 365 Admin Center** erfo
 - Wenn Sie Benutzern Lizenzen **zuweisen** möchten, navigieren Sie zu **Abrechnung > [Lizenzen](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Weitere Informationen finden Sie unter [Zuweisen von Lizenzen zu Benutzern](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Um Lizenzen **zu kaufen oder zu entfernen**, navigieren Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Weitere Informationen finden Sie unter [Lizenzen kaufen oder entfernen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 - Um ein Abonnement zu **kündigen**, navigieren Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**, wählen das Abonnement und dann im Bereich **Abonnement- und Zahlungseinstellungen** die Option **Abonnement kündigen** aus. Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+
+**HINWEIS:** Für einige Abonnements können Sie das Abonnement nur in einem begrenzten Zeitraum kündigen, nachdem Sie Ihr Abonnement gekauft oder verlängert haben. Wenn das Kündigungsfenster abgelaufen ist, deaktivieren Sie die fortlaufende Abrechnung, um das Abonnement am Ende der Laufzeit zu kündigen.
 
 Weitere Informationen finden Sie unter [Lizenzen kaufen oder entfernen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
