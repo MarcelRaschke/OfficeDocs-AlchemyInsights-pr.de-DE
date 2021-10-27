@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
-ms.date: 08/11/2021
+ms.date: 10/26/2021
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: ca706a13805ba837128664de1dcf3794e1875380
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: b6726036096ba346232f2bf8aedbaff52db8d19d
+ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58845429"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60584094"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Kündigen Ihres Microsoft 365 Abonnements?
 
@@ -28,6 +28,8 @@ Es tut uns leid, dass Sie gehen, aber wenn Sie Ihr Abonnement kündigen möchten
 - Wenn Sie ein Testkunde sind, gibt es nichts zu stornieren. Testabonnements laufen automatisch ab, es sei denn, Sie stellen eine Zahlungsmethode bereit.
 - Wenn Ihnen weniger als 25 Lizenzen zugewiesen sind, können Sie Ihr Abonnement online kündigen. Wechseln Sie zur Seite **"Abrechnung** \> [Für Ihre Produkte",](https://go.microsoft.com/fwlink/p/?linkid=842054) und suchen Sie das Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Abonnement kündigen** aus.
 - Wenn Sie mehr als 25 Lizenzen für Benutzer zugewiesen haben, [rufen Sie den Support an, um Ihr Abonnement zu kündigen](https://go.microsoft.com/fwlink/p/?linkid=518322).
+
+**HINWEIS:** Für einige Abonnements können Sie das Abonnement nur in einem begrenzten Zeitraum kündigen, nachdem Sie Ihr Abonnement gekauft oder verlängert haben. Wenn das Kündigungsfenster abgelaufen ist, deaktivieren Sie die fortlaufende Abrechnung, um das Abonnement am Ende der Laufzeit zu kündigen.
 
 **Rückerstattung: Jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.**
 

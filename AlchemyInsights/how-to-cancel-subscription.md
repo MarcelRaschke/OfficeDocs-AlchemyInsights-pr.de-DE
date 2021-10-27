@@ -14,13 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9003797"
 - "6836"
-ms.date: 07/30/2021
-ms.openlocfilehash: 7c3d346826f6ab0385fde20b97e36f1ef6febdc6
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.date: 10/26/2021
+ms.openlocfilehash: 5fb7115e80ed3e37a005aeef6119c3779c174865
+ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843665"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60583662"
 ---
 # <a name="how-to-cancel-a-subscription"></a>So kündigen Sie ein Abonnement
 
@@ -30,6 +30,8 @@ Sie können ein Azure-Abonnement im Azure-Portal nur kündigen, wenn Sie der Kon
 2. Wählen Sie das Abonnement aus, das Sie stornieren möchten.
 3. Wählen Sie **Übersicht** und dann **Abonnement kündigen** aus.
 
+**HINWEIS:** Für einige Abonnements können Sie das Abonnement nur in einem begrenzten Zeitraum kündigen, nachdem Sie Ihr Abonnement gekauft oder verlängert haben. Wenn das Kündigungsfenster abgelaufen ist, deaktivieren Sie die fortlaufende Abrechnung, um das Abonnement am Ende der Laufzeit zu kündigen.
+
 **Was geschieht nach der Kündigung meines Abonnements?**
 
 Nachdem Sie Ihr Abonnement gekündigt haben, wird die Abrechnung sofort beendet. Es kann jedoch bis zu 10 Minuten dauern, bis die Kündigung im Portal angezeigt wird. Wenn Sie Ihr Abonnement in der Mitte eines Abrechnungszeitraums kündigen, senden wir die endgültige Rechnung am typischen Rechnungsdatum nach Ablauf des Zeitraums.
@@ -37,4 +39,3 @@ Nachdem Sie Ihr Abonnement gekündigt haben, wird die Abrechnung sofort beendet.
 Nach der Kündigung sind ihre Dienste deaktiviert. Dies bedeutet, dass die Zuordnung Ihrer virtuellen Computer aufgehoben wird, temporäre IP-Adressen freigegeben werden und der Speicher schreibgeschützt ist.
 
 Nachdem Ihr Abonnement gekündigt wurde, wartet Microsoft 30-90 Tage, bevor die Daten endgültig gelöscht werden, für den Fall, dass Sie darauf zugreifen müssen oder Sie es sich anders überlegen. Für die Aufbewahrung der Daten wird keine Gebühr erhoben. Weitere Informationen finden Sie unter [Microsoft Trust Center – Wie wir Ihre Daten verwalten.](https://www.microsoft.com/trust-center/privacy/data-management#leave)
-

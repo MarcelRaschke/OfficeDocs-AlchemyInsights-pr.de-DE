@@ -14,13 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.date: 08/10/2021
-ms.openlocfilehash: 657eabbadfe7a03c80123f7c3cb0756b562c9e7c
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.date: 10/26/2021
+ms.openlocfilehash: dbde5aed115877370424a6ad42347802363e578d
+ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843521"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60584130"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Abbrechen von Advanced Threat Protection
 
@@ -30,6 +30,8 @@ Administratoren können das Advanced Threat Protection-Abonnement für ihre Orga
 2. Suchen Sie auf der Registerkarte **"Produkte"** den Advanced Threat Protection-Plan, den Sie abbrechen möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Abonnement kündigen** aus.
 3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund für Ihre Kündigung aus. Geben Sie optional Feedback.
 4. Wählen Sie **Speichern** aus.
+
+**HINWEIS:** Für einige Abonnements können Sie das Abonnement nur in einem begrenzten Zeitraum kündigen, nachdem Sie Ihr Abonnement gekauft oder verlängert haben. Wenn das Kündigungsfenster abgelaufen ist, deaktivieren Sie die fortlaufende Abrechnung, um das Abonnement am Ende der Laufzeit zu kündigen.
 
 **Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
 

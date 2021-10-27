@@ -14,13 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.date: 08/10/2021
-ms.openlocfilehash: 697cd622573ae5536363a9bfefa63dfc14b4f2d0
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.date: 10/26/2021
+ms.openlocfilehash: 6fd495f49c70f64d5a03cb366038936a53ce4488
+ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58842621"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60584382"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Kündigen Ihres Microsoft 365 Abonnements?
 
@@ -31,6 +31,8 @@ Basierend auf Ihren Organisationsdaten gehen wir davon aus, dass alle Ihre aktue
 1. Entfernen Sie Lizenzen von Benutzern, bis Sie weniger als 25 lizenzierte Benutzer haben.
 2. Wechseln Sie zur Seite **"Abrechnung** \> **[Für Ihre Produkte".](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 3. Suchen Sie auf der Registerkarte **"Produkte"** das Abonnement, das Sie kündigen möchten, wählen Sie die drei Punkte (weitere Aktionen) und dann **"Abonnement kündigen"** aus.
+
+**HINWEIS:** Für einige Abonnements können Sie das Abonnement nur in einem begrenzten Zeitraum kündigen, nachdem Sie Ihr Abonnement gekauft oder verlängert haben. Wenn das Kündigungsfenster abgelaufen ist, deaktivieren Sie die fortlaufende Abrechnung, um das Abonnement am Ende der Laufzeit zu kündigen.
 
 **Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
 

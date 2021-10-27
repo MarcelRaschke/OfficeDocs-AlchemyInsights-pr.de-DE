@@ -14,13 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.date: 08/10/2021
-ms.openlocfilehash: 3f1e6e729d47bee0ff8c69b938883c32102d046c
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.date: 10/26/2021
+ms.openlocfilehash: 658ce7718e948539b6995162cf28f0fc6ab73723
+ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58841648"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60584058"
 ---
 # <a name="cancel-project-subscription"></a>Kündigen Project Abonnements
 
@@ -30,6 +30,8 @@ Administratoren können das Project-Abonnement für ihre Organisation im Microso
 2. Suchen Sie auf der Registerkarte **"Produkte"** das Project Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Abonnement kündigen** aus.
 3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund für Ihre Kündigung aus. Geben Sie optional Feedback.
 4. Wählen Sie **Speichern** aus.
+
+**HINWEIS:** Für einige Abonnements können Sie das Abonnement nur in einem begrenzten Zeitraum kündigen, nachdem Sie Ihr Abonnement gekauft oder verlängert haben. Wenn das Kündigungsfenster abgelaufen ist, deaktivieren Sie die fortlaufende Abrechnung, um das Abonnement am Ende der Laufzeit zu kündigen.
 
 **Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
 
