@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8232"
 - "9004597"
-ms.openlocfilehash: 0cbdf5031de899ecb9d3c78016148c581f2da0c8
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: dd58aa72d504db7da058816b866e8b09f92f2a58
+ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320560"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60584310"
 ---
 # <a name="auto-apply-labeling"></a>Bezeichnung automatisch anwenden
 
@@ -26,7 +26,7 @@ Sie können automatisch Vertraulichkeitsbezeichnungen für E-Mails oder Dateien 
 
 So wenden Sie Bezeichnungen automatisch auf Inhalte in Office-Apps an: 
 
-1. Bearbeiten Sie Ihre Vertraulichkeitsbezeichnung, indem Sie zum M365 Compliance Center wechseln, > **Information Protection** > **Bezeichnungen** auswählen. 
+1. Bearbeiten Sie Ihre Vertraulichkeitsbezeichnung, indem Sie zum M365 Compliance Center wechseln, > **Information Protection** > [**Bezeichnungenauswählen**](https://compliance.microsoft.com/informationprotection?viewid=sensitivitylabels). 
 1. Wählen Sie im Assistenten unter **Definieren des Bereichs für diese Bezeichnung** **Dateien & E-Mails** aus. 
 1. Führen Sie die Schritte im Assistenten aus, und konfigurieren Sie dann die Einstellungen für die automatische Bezeichnung für Dateien und E-Mails. 
 
