@@ -12,19 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002921"
 - "5673"
-ms.openlocfilehash: afc865a7b91036bd2d982e21dce059a87e109e3e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 44a0d0cdc47b3c80873f614a97f6c117a9086136
+ms.sourcegitcommit: 7d6400bbde052481a61de6a8e4067ce1f1b1e247
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58319947"
+ms.lasthandoff: 11/06/2021
+ms.locfileid: "60799290"
 ---
 # <a name="need-to-mark-a-domain-or-email-sender-safe"></a>Sie möchten eine Domäne oder einen E-Mail-Absender als sicher kennzeichnen?
 
-- Die Verwendung von **Listen sicherer Absender wird nicht empfohlen**, da diese Methode Ihre Organisation für Spam-, Phishing- und Spoofing-Angriffe anfällig macht.
-- Ist dies für Ihr Unternehmen jedoch erforderlich, **empfehlen** wir, **[Regeln zur Nachrichtenübermittlung](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide#recommended-use-mail-flow-rules)** einzurichten. Unsere Anleitung garantiert die Absenderauthentifizierung (stellt sicher, dass die Absenderdomäne nicht verschleiert wurde). 
+- **Es wird nicht empfohlen, Listen sicherer Absender zu verwenden**, da diese Ihre Organisation für Spam-, Phishing- und Spoofingangriffe öffnen.
+- Wenn Sie in Ihrem Unternehmen jedoch die Filterung nach bestimmten Nachrichten umgehen müssen, **empfehlen** wir die Verwendung von **[Nachrichtenflussregeln](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365#recommended-use-mail-flow-rules)** (auch als Transportregeln bezeichnet). Unsere Anleitung garantiert die Absenderauthentifizierung (stellt sicher, dass die Absenderdomäne nicht verschleiert wurde).
+
     **Hinweis**: Es wird nicht empfohlen, falsche Positivmeldungen mithilfe von Listen sicherer Absender zu verwalten, da Ausnahmen der Spamfilterung Ihre Organisation anfällig für Sicherheitsangriffe machen können. Wenn Ihr(e) Benutzer Nachrichten empfangen, die fälschlicherweise als Spam oder Junk-E-Mail gekennzeichnet sind, sollten Sie diese **[Nachrichten und Dateien an Microsoft melden](https://protection.office.com/reportsubmission)**.
-- Sichere Absender in Outlook, Liste zulässiger Absender, oder Liste zulässiger Domänen in Antispamrichtlinien **sollten vermieden werden**, da diese Absender alle Schutzmaßnahmen gegen Spam, Spoofing und Phishing sowie die Absenderauthentifizierung umgehen (SPF, DKIM, DMARC). Diese Methode eignet sich nur für temporäre Tests.
-- Die Überprüfung, ob eine bestimmte E-Mail die Antispam-Auswertung umgangen hat, kann durch Überprüfen des Nachrichtenkopfs „X-Forefront-Antispam-Report“ (SFV:SFE, SFV:SKA, SFV:SKN) erfolgen, schauen Sie unter **[Antispam-Nachrichtenkopfzeilen](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-message-headers)**.
-- Um seine Kunden [standardmäßig zu schützen](https://docs.microsoft.com/microsoft-365/security/office-365-security/secure-by-default#exceptions), wendet Microsoft einige Mandantenaußerkraftsetzungen nicht für Schadsoftware und Phishing mit hohem Konfidenzrisiko an. Zu diesen Außerkraftsetzungen gehören: o    Listen zulässiger Absender oder Listen zulässiger Domänen (Antispamrichtlinien) o    Outlook-Richtlinien für sichere Absendender o    Listen zugelassener IP-Adressen (Verbindungsfilterung) 
-- Die einzige Außerkraftsetzung, die es Phishing-Nachrichten mit hohem Konfidenzrisiko ermöglicht, die Filterung zu umgehen, sind Exchange-Nachrichtenflussregeln (auch als Transportregeln bezeichnet). Informationen zum Verwenden von Nachrichtenflussregeln zum Umgehen der Filterung finden Sie unter **[Verwenden von Nachrichtenflussregeln zum Festlegen des Spam Confidence Levels (SCL) in Nachrichten](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-mail-flow-rules-to-set-the-spam-confidence-level-scl-in-messages)**.
+
+- Sichere Absender in Outlook, Listen zulässiger Absender oder zulässiger Domänen in Anti-Spam-Richtlinien **sollten vermieden werden**, da diese Absender alle Schutzmaßnahmen zu Spam, Spoofing und Phishing sowie die Absenderauthentifizierung umgehen (SPF, DKIM, DMARC). Diese Methoden werden am besten nur für temporäre Tests verwendet.
+- Sie können überprüfen, ob eine Antispam-Auswertung für Nachrichten erfolgt, indem Sie den Nachrichtenkopf **X-Forefront-Antispam-Report** (`SFV:SFE`, `SFV:SKA`, `SFV:SKN`) überprüfen. Weitere Informationen finden Sie unter [Antispam-Nachrichtenkopfzeilen](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-message-headers).
+- Um seine Kunden [standardmäßig zu schützen](https://docs.microsoft.com/microsoft-365/security/office-365-security/secure-by-default#exceptions), lässt Microsoft einige Außerkraftsetzungen für E-Mails mit hoher Schadsoftware- oder Phishingwahrscheinlichkeit nicht zu. Zu diesen Außerkraftsetzungen gehören:
+  - Listen zulässiger Absender oder Listen zulässiger Domänen (Antispamrichtlinien).
+  - Outlook Safe Senders (Sichere Absender in Outlook).
+  - Liste zugelassener IP-Adressen (Verbindungsfilterrichtlinien).
+- Die einzige Außerkraftsetzung, die es E-Mails mit hoher Phishingwahrscheinlichkeit ermöglicht, die Filterung zu umgehen, sind Nachrichtenflussregeln. Informationen zum Verwenden von Nachrichtenflussregeln zum Umgehen der Filterung finden Sie unter [Verwenden von Nachrichtenflussregeln zum Festlegen des Spam Confidence Levels (SCL) in Nachrichten](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/use-rules-to-set-scl).

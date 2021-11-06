@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10964"
 - "3100005"
-ms.openlocfilehash: ac2e5eafbb92b234697c22f73cd565af9d7c3508
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d94cd0791d55b6355cbb56549bf8861156d0ebc8
+ms.sourcegitcommit: 7d6400bbde052481a61de6a8e4067ce1f1b1e247
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329493"
+ms.lasthandoff: 11/06/2021
+ms.locfileid: "60799830"
 ---
 # <a name="retrieve-the-audit-logs"></a>Abrufen der Überwachungsprotokolle
 
@@ -37,4 +37,4 @@ Wenn Sie das Überwachungsprotokoll zum ersten Mal öffnen, ist es leer. Sie mü
 
 4. Klicken Sie in den Ergebnissen auf **Ergebnisse filtern**, und geben Sie **Set-Mailbox** in das Aktivitätsfilterfeld ein.
 
-5. Wählen Sie in den Ergebnissen einen Überwachungsdatensatz aus. Klicken Sie im Flyout **Details** auf **Weitere Informationen**, um weitere Informationen anzuzeigen, z. B. den Client, den Benutzer, der eine Aktion ausgeführt hat, und so weiter.
+5. Wählen Sie in den Ergebnissen einen Überwachungsdatensatz aus. Im angezeigten Detailflyout können Sie weitere Informationen anzeigen, z. B. den Client, den Benutzer, der eine Aktion ausgeführt hat, und so weiter.
