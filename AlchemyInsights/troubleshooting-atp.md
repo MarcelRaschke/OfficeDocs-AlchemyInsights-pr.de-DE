@@ -11,25 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5614deae44c08b2a5f9786b26bdbdcfa4daed15d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1b441a14faafe0757f36647a935c4938c3c21139
+ms.sourcegitcommit: 7d6400bbde052481a61de6a8e4067ce1f1b1e247
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330815"
+ms.lasthandoff: 11/06/2021
+ms.locfileid: "60799110"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Problembehandlung bei Microsoft Defender für Office 365
 
-- **Bemerken Sie Verzögerungen bei der Nachrichtenübermittlung?** Verwenden Sie die Option ["Dynamische Zustellung"](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) in Ihrer Richtlinie für Microsoft Defender für Office 365 Tresor Anlagen. Dadurch werden Nachrichtenverzögerungen vermieden, während Empfänger vor schädlichen Dateien geschützt werden.
-
-- **Möchten Sie falsch positive oder falsch negative Ergebnisse an Microsoft melden?** Verwenden Sie [den Übermittlungs-Explorer.](https://protection.office.com/reportsubmission)
-
--** Wissen Sie, dass Sie Tresor Linksschutz für interne E-Mails aktivieren können, die zwischen Empfängern innerhalb Ihrer Organisation gesendet werden?** Führen Sie die folgenden Schritte aus:
-
-  1. Wechseln Sie zu [https://protection.office.com](https://protection.office.com) einem globalen Administrator- oder Sicherheitsadministratorkonto, und melden Sie sich an.
-
-  2. Wählen Sie im linken Navigationsbereich unter **Bedrohungsverwaltung** **"Richtlinie** \> **Tresor Links"** aus.
-
-  3. Wählen Sie im Abschnitt **"Richtlinien", der für den gesamten Organisationsabschnitt gilt,** die Richtlinie aus, und klicken Sie auf **"Bearbeiten".**
-
-  4. Aktivieren Sie unter **Einstellungen** die Option **"Sichere Links auf Innerhalb der Organisation gesendete Nachrichten anwenden".**
+- **Beachten Sie Verzögerungen bei der Zustellung von E-Mail-Nachrichten?** Erwägen Sie die Verwendung der [dynamischen Zustellung](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#dynamic-delivery-in-safe-attachments-policies) in Ihren Tresor Anlagenrichtlinien. Mit dieser Aktion werden Verzögerungen bei der Zustellung von E-Mails vermieden, während Empfänger vor schädlichen Dateien geschützt werden.
+- **Möchten Sie falsch positive oder falsch negative Ergebnisse melden?** Verwenden Sie die Seite **"Übermittlungen"** im Microsoft 365 Defender Portal unter <https://sip.security.microsoft.com/reportsubmission?viewid=admin> .
+- **Wissen Sie, dass Sie Tresor Linksschutz für E-Mails aktivieren können, die zwischen Personen in Ihrer Organisation gesendet werden?** Führen Sie die folgenden Schritte aus:
+  1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com/> **"E-Mail-&** \> **Zusammenarbeitsrichtlinien & Bedrohungsrichtlinien** für Regeln \>  \> **Tresor Links"** im Abschnitt **"Richtlinien".** Oder wechseln Sie direkt zu <https://security.microsoft.com/safelinksv2> .
+  2. Führen Sie auf der Seite **Tresor Links** einen der folgenden Schritte aus:
+     - **Neu:** Klicken Sie auf **"Erstellen",** und rufen Sie die Seite **"Schutzeinstellungen"** des Assistenten zum Erstellen von Richtlinien auf.
+     - **Ändern:** Wählen Sie eine vorhandene Richtlinie aus, indem Sie auf den Namen klicken. In the details flyout that appears, fin the **Protection settings** section, and then click Edit **protection settings**.
+  3. Konfigurieren Sie auf der Seite **"Schutzeinstellungen"** die folgenden Einstellungen:
+       - **Wählen Sie die Aktion für unbekannte potenziell schädliche URLs in Nachrichten** aus: **Aktivieren**.
+       - Wählen Sie **"Anwenden Tresor Links auf E-Mail-Nachrichten, die innerhalb der Organisation gesendet werden"** aus.
+  4. Speichern Sie die Richtlinie, und lassen Sie bis zu 30 Minuten zu, bis Ihre Änderungen übernommen werden.
