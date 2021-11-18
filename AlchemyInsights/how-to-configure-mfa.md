@@ -11,16 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "955"
 - "1300007"
-ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 962a3dca9174f785bf273bddde4dd8bc826a8674
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ffd9b761c23c8800f10ca6ca23b3ad62876128f6
+ms.sourcegitcommit: c13989ab93de284a64e734e69928f325f5458978
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324488"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61066119"
 ---
 # <a name="configure-multifactor-authentication"></a>Konfigurieren der mehrstufigen Authentifizierung
 
-Informationen zum Konfigurieren von MFA finden Sie unter Einrichten der [mehrstufigen Authentifizierung,](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) oder verwenden Sie das [Microsoft 365 Admin Center Setuphandbuchs.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide)
-
-**Hinweis:** Sie müssen ein globaler Administrator sein, um MFA zu aktivieren und zu konfigurieren.
+Um MFA zu konfigurieren, verwenden Sie den Assistenten zum Konfigurieren der [mehrstufigen Authentifizierung (MFA).](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/mfasetupguide) Weitere Informationen finden Sie unter [Einrichten der mehrstufigen Authentifizierung.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) Sie müssen ein globaler Administrator sein, um MFA zu aktivieren und zu konfigurieren.
