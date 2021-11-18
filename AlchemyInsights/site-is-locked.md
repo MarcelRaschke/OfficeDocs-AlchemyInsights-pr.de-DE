@@ -3,7 +3,6 @@ title: Website ist gesperrt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 10/14/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,15 +13,17 @@ ms.custom:
 - "14131"
 - "11654"
 - "9006819"
-ms.openlocfilehash: 3456911af820a7a3eb0ef8de29970d86905133e0
-ms.sourcegitcommit: ae8fed7a78ea7c8680d8348b05400dd31f3bde91
+ms.openlocfilehash: ea351e1ddcd98b5c9713ab1c18c9b61ba3b20b8e
+ms.sourcegitcommit: 9209e36093fe5fa44663098b2a761196105e4d31
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "60371527"
+ms.lasthandoff: 11/17/2021
+ms.locfileid: "61056644"
 ---
 # <a name="site-is-locked"></a>Website ist gesperrt
 
 Als globaler oder SharePoint-Administrator in Microsoft 365 können Sie den Zugriff auf eine Website blockieren oder eine Website mithilfe von Microsoft PowerShell mit einem Lesezugriff konfigurieren, um den Sperrstatus der Website zu ändern.
 
 Weitere Informationen finden Sie unter [Sperren und Entsperren von Websites](https://docs.microsoft.com/sharepoint/manage-lock-status).
+
+Informationen zur Problembehandlung von Websites, die sich möglicherweise in einem gesperrten oder archivierten Zustand befinden, finden Sie unter [Schreibgeschützte SharePoint- oder OneDrive-Fehlermeldungen](https://docs.microsoft.com/sharepoint/troubleshoot/sites/site-is-read-only).
