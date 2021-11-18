@@ -1,5 +1,5 @@
 ---
-title: Read-Only für Wartungsnachricht bei dem Versuch, SharePoint oder OneDrive zu verwenden
+title: Read-Only für Wartungsnachricht beim Versuch, SharePoint oder OneDrive zu verwenden
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,31 +13,15 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 376b653b18857103586e25edd0ad6801a7bbe0a1
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ca2304abdeb49eccac33beca606586e8cda475b4
+ms.sourcegitcommit: 9209e36093fe5fa44663098b2a761196105e4d31
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329447"
+ms.lasthandoff: 11/17/2021
+ms.locfileid: "61056423"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only für Wartungsnachricht bei dem Versuch, SharePoint oder OneDrive zu verwenden
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only für Wartungsnachricht beim Versuch, SharePoint oder OneDrive zu verwenden
 
-Benutzer erhalten möglicherweise eine Meldung **"Schreibgeschützt für Wartung",** wenn sie versuchen, SharePoint oder OneDrive für eines der folgenden Szenarien zu verwenden. 
+Es gibt viele Szenarien, die während SharePoint Wartungsereignissen schreibgeschützte Nachrichten verursachen können, die häufigste Ursache ist jedoch, dass die Website gesperrt oder geschlossen wurde.
 
--   Eine geplante oder aktive Wartungsaktivität.  Suchen Sie nach diesen, indem Sie zum [Nachrichtencenter](https://portal.office.com/adminportal/home#/messagecenter)navigieren.
--   Ein Aktiver Dienstvorfall mit hoher Priorität, der möglicherweise auftritt. Suchen Sie nach Empfehlungen/Vorfällen, indem Sie zu [Dienststatus](https://portal.office.com/adminportal/home#/servicehealth)navigieren.
--   Ein kleines Wiederherstellungsszenario für die automatische Wiederherstellung, das aufgrund unerwarteter Ereignisse auf den Servern auftreten könnte, die möglicherweise weniger als 30 Minuten dauern. 
-    
-    Es gibt keine Nachrichtencenter- oder Dienststatusbeiträge für diese geringfügigen Wiederherstellungen, aber Sie sollten sehr bald wieder zur Normalität zurückkehren.
-
-In sehr wenigen Fällen haben wir festgestellt, dass eines der drei oben aufgeführten Szenarien die Ursache war, und der Dienst wurde wiederhergestellt, aber der Browsercache des Benutzers wurde nicht gelöscht.
-
-Versuchen Sie, den Browsercache zu löschen, bevor Sie zur Website navigieren.
-
-1. Wählen Sie in Ihrem Microsoft Edge Browser **Einstellungen** aus, und wählen Sie dann **"Datenschutz und Sicherheit"** aus.
-2. Wählen Sie unter **"Browser löschen"** die Option **aus, was gelöscht werden soll.**
-3. Wählen Sie **Cookies und gespeicherte Websitedaten** aus, und wählen Sie **"Löschen"** aus.
-
-**Hinweis:** Diese Schritte können sich unterscheiden, wenn Sie andere Browser wie Mozilla Firefox oder Google Chrome verwenden.
-
-**Hinweis:** Eine weitere Möglichkeit besteht darin, Ihre SharePoint Website oder OneDrive in einem neuen InPrivate-Fenster zu öffnen.
+Weitere Informationen und Lösungsschritte finden Sie [unter SharePoint oder OneDrive schreibgeschützten Fehlermeldungen.](https://docs.microsoft.com/sharepoint/troubleshoot/sites/site-is-read-only)
