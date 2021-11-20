@@ -1,5 +1,5 @@
 ---
-title: OL Microsoft 365-Dienste – Office 2007
+title: Microsoft 365-Dienste – Office 2007
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - solution
 - 93fb0eb0-b08a-4e7b-8442-9abfba6edf28
 ms.date: 10/29/2021
-ms.openlocfilehash: 43ff9edb807837ca990f79b11517f6c30d323cdf
-ms.sourcegitcommit: afc40a028eb988495c0f50ef4e409b3c8d088d43
+ms.openlocfilehash: 8110e344f68428399e4bea548d364b7e53975793
+ms.sourcegitcommit: 9835dc62e377605ba506967793f688a9a53e41be
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60677373"
+ms.lasthandoff: 11/20/2021
+ms.locfileid: "61129821"
 ---
-# <a name="ol-microsoft-365-services---office-2007"></a>OL Microsoft 365-Dienste – Office 2007
+# <a name="microsoft-365-services---office-2007"></a>Microsoft 365-Dienste – Office 2007
 
 Verwenden Sie für Office 2007 die [Roadmap für das Ende des Supports Office 2007,](https://docs.microsoft.com/deployoffice/endofsupport/office-2007-end-support-roadmap) um zu Microsoft 365 Apps zu wechseln.
 

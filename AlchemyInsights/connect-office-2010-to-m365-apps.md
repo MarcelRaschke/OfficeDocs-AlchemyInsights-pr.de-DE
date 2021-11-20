@@ -1,5 +1,5 @@
 ---
-title: OL Microsoft 365-Dienste – Office 2010
+title: Microsoft 365-Dienste – Office 2010
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - solution
 - e8a01744-aa9a-4339-aba2-94c7e08fa957
 ms.date: 10/29/2021
-ms.openlocfilehash: d0c2751070091753f40b496e93327d7930024397
-ms.sourcegitcommit: afc40a028eb988495c0f50ef4e409b3c8d088d43
+ms.openlocfilehash: e15b0a8d396d4e00cc4f8f86abc9411d3ed27b15
+ms.sourcegitcommit: 9835dc62e377605ba506967793f688a9a53e41be
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60677387"
+ms.lasthandoff: 11/20/2021
+ms.locfileid: "61129802"
 ---
-# <a name="ol-microsoft-365-services---office-2010"></a>OL Microsoft 365-Dienste – Office 2010
+# <a name="microsoft-365-services---office-2010"></a>Microsoft 365-Dienste – Office 2010
 
-Verwenden Sie für Office 2010 die [Roadmap zum Ende des Supports Office 2010,](https://docs.microsoft.com/deployoffice/endofsupport/office-2010-end-support-roadmap) um zu Microsoft 365 Apps zu wechseln.
+Verwenden Sie für Office 2010 die [Roadmap für das Ende des Supports Office 2010,](https://docs.microsoft.com/deployoffice/endofsupport/office-2010-end-support-roadmap) um zu Microsoft 365 Apps zu wechseln.
 
 Wenn Ihre Organisation stark reguliert ist oder Geräte verwendet, die keine Updates durchführen können, sollten Sie Office 2019 in Betracht ziehen.
 
