@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: c579e14aef1b9ffe1bd0022236e94881ba4487e6
-ms.sourcegitcommit: 5f0c413ba20440f4034e60d1ca4b0c1dc8fc3ad4
+ms.openlocfilehash: 09c08e06b68e949c1a76a58f868ed5de41368a45
+ms.sourcegitcommit: 9835dc62e377605ba506967793f688a9a53e41be
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2021
-ms.locfileid: "61124518"
+ms.lasthandoff: 11/20/2021
+ms.locfileid: "61129765"
 ---
 # <a name="change-default-domain"></a>Ändern der Standarddomäne
 
@@ -30,6 +30,6 @@ Nach dem Hinzufügen einer benutzerdefinierten Domäne mithilfe des [Assistenten
 
 - Um die Domäne zu ändern oder einen Alias für einen einzelnen Benutzer hinzuzufügen, wählen Sie auf der Seite [Aktive Benutzer](https://admin.microsoft.com/Adminportal/Home#/users) den Benutzernamen und dann **Benutzernamen und E-Mail verwalten** aus.
 
-- Die .Onmicrosoft.com-Umbenennung, einschließlich der Umbenennung für SharePoint-Websites und OneDrive, befindet sich derzeit in der öffentlichen Vorschau – [SPO-Mandant-Umbenennung ](https://supportability.visualstudio.com/M365%20Release%20Announcements/_wiki/wikis/M365-Product-Updates.wiki/377897/SPO-Tenant-Rename-Public-Preview).
+- Die .onmicrosoft.com-Umbenennung, einschließlich der Umbenennung für SharePoint-Websites und OneDrive, befindet sich derzeit in der öffentlichen Vorschau. Ausführliche Anweisungen finden Sie unter [Umbenennung des SPO-Mandanten](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name).
 
-- Die .Onmicrosoft.com-Umbenennung erfolgt auch im Microsoft 365 Admin Center zwischen Ende 2021 bis Anfang 2022 unter **Einstellungen** > [**Domänen**](https://portal.microsoft.com/Adminportal/Home#/Domains) > Ihre .onmicrosoft.com-Domänendetailseite. Diese Methode unterstützt derzeit jedoch keine Umbenennung für SharePoint-Websites oder OneDrive. Wenn die Option „onmicrosoft.com-Domäne hinzufügen“ nicht angezeigt wird, schauen Sie zu einem späteren Zeitpunkt noch einmal nach.
+- Die .onmicrosoft.com-Umbenennung wird auch im Microsoft 365 Admin Center zwischen Ende 2021 und Anfang 2022 unter **Einstellungen** > [**Domänen**](https://portal.microsoft.com/Adminportal/Home#/Domains) > „Ihre .onmicrosoft.com-Domänendetailseite“ verfügbar gemacht. Wenn die Option „onmicrosoft.com-Domäne hinzufügen“ nicht angezeigt wird, schauen Sie zu einem späteren Zeitpunkt noch einmal nach. Bitte beachten Sie, dass diese Admin Center-Option die Umbenennung für SharePoint und OneDrive noch nicht unterstützt.
