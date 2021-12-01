@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11228"
 - "9005470"
-ms.openlocfilehash: f7811c15af21d8e7790e6686bb8ba9e5de3659d9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1122eb6eb73c9813727a2c65034b75ba95455527
+ms.sourcegitcommit: 6753264c3805098c0eba62cdcaa9120d44593b20
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318995"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61241870"
 ---
 # <a name="attack-surface-reduction-rules"></a>Regeln zur Verringerung der Angriffsfläche
 
@@ -63,5 +63,3 @@ Weitere Informationen finden Sie unter:
 1. Sammeln Sie Supportdaten, um einen Supportfall mit diesem Befehl zu öffnen:
     
    ** MDEClientAnalyzer.cmd -v**
-
-    Weitere Informationen finden Sie unter [Probleme mit Onboarding-Computern in Microsoft Defender für Endpunkte](issues-with-onboarding-machines.md).

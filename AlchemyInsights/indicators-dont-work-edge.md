@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: 2a48a49ec52a585e450edf448bc9203cd9c3f935
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0949049e9b61b64c75d79e33b64c13c7b2bd3fc4
+ms.sourcegitcommit: 6753264c3805098c0eba62cdcaa9120d44593b20
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58326260"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61241906"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Indikatoren funktionieren nicht im Edge-Browser
 
@@ -41,6 +41,6 @@ Nachdem Sie einen Indikator erstellt haben, wird er von Edge (Smartscreen) nicht
 
 ## <a name="step-3-collect-data"></a>Schritt 3: Sammeln Sie Daten
 
-- Sammeln Sie **MDEClientAnalyzer** Diagnosedaten. Anweisungen finden Sie unter [Probleme beim Onboarding von Microsoft Defender für Endpunkt auf Computern](issues-with-onboarding-machines.md).
+- Sammeln Sie **MDEClientAnalyzer** Diagnosedaten. Anweisungen finden Sie unter [Ausführen des Client Analyzer unter Windows](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/run-analyzer-windows).
 - Wenn Sie mit dem Installieren und Sammeln einer Fiddler-Ablaufverfolgung vertraut sind, lesen Sie [Telerik Fiddler](http://www.telerik.com/fiddler).
 - Wenn Sie die Anleitung vom Microsoft-Support bevorzugen, wählen Sie das Supportsymbol unten aus, um einen Support-Fall zu öffnen.
