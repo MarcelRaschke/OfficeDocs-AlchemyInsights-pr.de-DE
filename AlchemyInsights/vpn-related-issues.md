@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1545"
 - "9000076"
-ms.openlocfilehash: 1d9c34350d16d96329d1ed56666119dba0433c93ccb7547da5dba4894531e1b4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 72014262c39762dfcec6dd50852675ff8c5e1e55
+ms.sourcegitcommit: 6753264c3805098c0eba62cdcaa9120d44593b20
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53970978"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61241942"
 ---
 # <a name="vpn-related-issues"></a>Probleme mit dem VPN
 
@@ -27,7 +27,8 @@ Die erfolgreiche Implementierung von VPN-Konnektivität für MDM-Clients hängt 
 [Geräteeinstellungen für Windows 10 und Windows Holographic zum Hinzuzufügen von VPN-Verbindungen mithilfe von Intune](https://docs.microsoft.com/intune/vpn-settings-windows-10)  
 [Hinzufügen von VPN-Einstellungen auf iOS- und iPadOS-Geräten in Microsoft Intune](https://docs.microsoft.com/intune/vpn-settings-ios)  
 [Android-Geräteeinstellungen zur VPN-Konfiguration in Intune](https://docs.microsoft.com/intune/vpn-settings-android)  
-[Hinzufügen von VPN-Einstellungen macOS-Geräten in Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-macos)
+[Hinzufügen von VPN-Einstellungen auf macOS-Geräten in Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-macos)
+[Verwenden einer VPN- und app-basierten VPN-Richtlinie auf Android-Enterprise-Geräten in Microsoft Intune](https://docs.microsoft.com/mem/intune/apps/app-configuration-vpn-ae)
 
 Wenn Ihr VPN-Profil zertifikatsbasierte Authentifizierung verwendet, stellen Sie sicher, dass die mit dem VPN-Profil verknüpften Stammzertifikat- und Clientauthentifizierungszertifikat-Profile erfolgreich bereitgestellt werden.
 
@@ -39,7 +40,7 @@ Der Status "Erfolgreich" bedeutet, dass Intune das Profil wie konfiguriert erfol
 
 **Wenn ich ein benutzerdefiniertes VPN für iOS konfiguriere, wird das Feature "Pro-App-VPN" nicht zur Verfügung gestellt.**
 
-Pro-App-VPN für iOS-Geräte in Intune steht derzeit für eine bestimmte Liste von Anbietern und Partnern zur Verfügung, die vor der Konfiguration eines Pro-App-VPNs auch die Zertifikatvoraussetzungen erfüllen müssen. Weitere Informationen finden Sie unter [Einrichten eines Pro-App-VPN für iOS/iPadOS-Geräte in Intune](https://docs.microsoft.com/intune/vpn-setting-configure-per-app) einrichten. 
+Pro-App-VPN für iOS-Geräte in Intune steht derzeit für eine bestimmte Liste von Anbietern und Partnern zur Verfügung, die vor der Konfiguration eines Pro-App-VPNs auch die Zertifikatvoraussetzungen erfüllen müssen. Weitere Informationen finden Sie unter [Einrichten eines Pro-App-VPN für iOS/iPadOS-Geräte in Intune](https://docs.microsoft.com/intune/vpn-setting-configure-per-app) einrichten.
 
 Weitere Informationen zu allen VPN-Verbindungstypen in Intune finden Sie unter [Erstellen von VPN-Profilen zum Herstellen einer Verbindung mit VPN-Servern in Intune](https://docs.microsoft.com/intune/vpn-settings-configure).  
 
@@ -47,7 +48,7 @@ Weitere Informationen zu allen VPN-Verbindungstypen in Intune finden Sie unter [
 
 Um die automatischen VPN-Einstellungen zu testen, legen Sie die folgenden Werte fest:
 
-Ich möchte Folgendes tun: **Jeden Verbindungsversuch auswerten** 
+Ich möchte Folgendes tun: **Jeden Verbindungsversuch auswerten**
 
 Auswählen, ob eine Verbindung hergestellt werden soll: **Verbinden, falls erforderlich**
 
