@@ -1,5 +1,5 @@
 ---
-title: Wechseln zu .onmicrosoft.com Domäne
+title: Wechseln zu onmicrosoft.com Domäne
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003196"
 - "15619"
-ms.openlocfilehash: 009197bdb7c9b63d087d3904ffc2f710fdba60fa
-ms.sourcegitcommit: 3939c466c6d4ad94af1f2ba12b784ca703ec75b7
+ms.openlocfilehash: b1c62bc91dfb6328b0fa7814eb67e73114910c5f
+ms.sourcegitcommit: c781f9a9d8d144a27eb5ebdc33404a1a1224746b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/07/2021
-ms.locfileid: "61320903"
+ms.lasthandoff: 12/14/2021
+ms.locfileid: "61440082"
 ---
-# <a name="change-to-onmicrosoftcom-domain"></a>Wechseln zu .onmicrosoft.com Domäne
+# <a name="change-to-onmicrosoftcom-domain"></a>Wechseln zu onmicrosoft.com Domäne
 
 - Die .onmicrosoft.com-Umbenennung, einschließlich der Umbenennung für SharePoint-Websites und OneDrive, befindet sich derzeit in der öffentlichen Vorschau. Ausführliche Anweisungen finden Sie unter [Ändern ihres SharePoint Domänennamens (Vorschau).](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name)
-- .onmicrosoft.com Umbenennen wird ende 2021 – Anfang 2022 auch im Microsoft Admin Center unter **Einstellungen**  >  [**Domänen**](https://go.microsoft.com/fwlink/p/?linkid=834818) > Seite mit den Domänendetails ihrer .onmicrosoft.com-Domäne angezeigt. Wenn die Option zum **Hinzufügen onmicrosoft.com Domäne** nicht angezeigt wird, überprüfen Sie zu einem späteren Zeitpunkt erneut. Beachten Sie, dass die Admin Center-Option die Umbenennung für SharePoint und OneDrive noch nicht unterstützt.
+- .onmicrosoft.com Umbenennen kann auch in der Microsoft 365 Admin Center unter **Einstellungen** Domänen > Seite  >  [](https://go.microsoft.com/fwlink/p/?linkid=834818) ".onmicrosoft.com Domänendetails" erfolgen. Beachten Sie, dass die Admin Center-Option die Umbenennung für SharePoint und OneDrive noch nicht unterstützt.
