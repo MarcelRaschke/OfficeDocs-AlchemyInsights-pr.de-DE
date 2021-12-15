@@ -1,7 +1,7 @@
 ---
 title: Herunterladen von Besuchsberichten in Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,26 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 7792f50c4949a21a2b31fb29b2af709be1febe1f
-ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
+ms.openlocfilehash: 1c98e9eb2cd17892e2701902d04b4b2f9ee6d149
+ms.sourcegitcommit: c781f9a9d8d144a27eb5ebdc33404a1a1224746b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58339067"
+ms.lasthandoff: 12/14/2021
+ms.locfileid: "61440118"
 ---
 # <a name="download-attendance-reports-in-teams"></a>Herunterladen von Besuchsberichten in Teams
 
-Besprechungsorganisatoren können Besuchsberichte während Besprechungen herunterladen.Als Administrator können Sie steuern, ob Besprechungsorganisatoren Besuchsberichte herunterladen, indem Sie eine Besprechungsrichtlinie für Teams festlegen. 
+Besprechungsorganisatoren können während und nach Besprechungen Anwesenheitsberichte herunterladen. Besprechungsteilnehmer haben nicht die Möglichkeit, Anwesenheitsberichte herunterzuladen.
+  
+Standardmäßig ist die Option zum Herunterladen des Berichts deaktiviert. Ein Administrator muss diese Besprechungsrichtlinieneinstellung aktivieren, wenn Besprechungsorganisatoren Zugriff auf Anwesenheitsberichte benötigen:
+  
+1. Navigieren Sie zum [Teams Admin Center](https://admin.teams.microsoft.com/policies/meetings).  
+2. Wählen Sie die **Globale Richtlinie (organisationsweiter Standard)** oder eine andere spezifische Richtlinie aus.  
+3. Wechseln Sie unter **Allgemein** zur Einstellung **Mitwirkungsbericht zulassen**, und wählen Sie dann **Aktiviert** aus.  
 
-Standardmäßig ist die Option zum Herunterladen des Berichts deaktiviert. 
+Als Administrator können Sie den Anwesenheitsbericht für Besprechungen, die Sie nicht organisieren, nicht anzeigen. Sie können jedoch die Teilnehmerdetails für eine bestimmte Besprechung innerhalb von 24 Stunden nach dieser Besprechung anzeigen:
 
-So aktivieren Sie Besuchsberichte: 
-1.  Navigieren Sie zum [Teams Admin Center](https://admin.teams.microsoft.com/policies/meetings).
-1.  Wählen Sie die **Globale Richtlinie (organisationsweiter Standard)** oder eine andere spezifische Richtlinie aus.
-1.  Wechseln Sie unter **Allgemein** zur Einstellung **Mitwirkungsbericht zulassen**, und wählen Sie dann **Aktivieren** aus.
+1. Navigieren Sie zum [Teams Admin Center](https://admin.teams.microsoft.com/users).
+1. Wählen Sie im linken Menü  **Benutzer** > **Benutzer verwalten** aus.  
+1. Wählen Sie den Anzeigenamen für den Besprechungsorganisator aus.  
+1. Wählen Sie die Registerkarte **Besprechungen und Anrufe** aus, und dann die entsprechende Besprechungs- oder Anruf-ID aus.  
+1. Wählen Sie Teilnehmerdetails aus.  
+  
+Weitere Informationen zum Anzeigen und Herunterladen von Besprechungsteilnahmeberichten in Teams, einschließlich bekannter Probleme, finden Sie unter [Anzeigen und Herunterladen von Besprechungsteilnahmeberichten in Teams](https://support.microsoft.com/office/view-and-download-meeting-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310).  
 
-Weitere Informationen zu Besuchsberichten finden Sie unter:
-
-- [Besprechungsrichtlinieneinstellungen – Besuchsbericht zu einer Besprechung](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report)
-- [Herunterladen von Besuchsberichten in Teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) 
-- [Microsoft Teams-Besuchsberichte zu einer Besprechung](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)
+Um einen Teilnehmer-Mitwirkungsbericht für ein Teams-Liveereignis zu erhalten, müssen Sie beim Planen des Live-Ereignisses die Option **Teilnehmer-Mitwirkungsbericht** auswählen. Weitere Informationen finden Sie unter [Abrufen eines Teilnehmer-Mitwirkungsberichts für ein Teams-Liveereignis](https://support.microsoft.com/office/get-an-attendee-engagement-report-for-a-teams-live-event-b3101733-2eda-48a6-aeb3-de2f2bfecb3a).
