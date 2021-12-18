@@ -1,7 +1,7 @@
 ---
-title: Umgehen des Wartebereichs
-ms.author: pebaum
-author: pebaum
+title: Steuern der Lobbyeinstellungen und des Umfangs der Teilnahme an Teams
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,36 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: dac6690b66181455a1c9c0f40a642b71f2af3516d91ea0853d06564b017b03a2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5e36794183b5453c326a5ecfa29630dc2482aad5
+ms.sourcegitcommit: 8515ab69b43b47aaf3c5d1901fc398e8e26e618c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059595"
+ms.lasthandoff: 12/17/2021
+ms.locfileid: "61558814"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Steuern der Lobbyeinstellungen und des Grads der Teilnahme an Teams
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Steuern der Lobbyeinstellungen und des Umfangs der Teilnahme an Teams
 
-Wenn Sie zulassen möchten, dass jeder, einschließlich Einwahl, externer und anonymer Benutzer, **den Wartebereich umgehen** kann, verwenden Sie PowerShell, um diese Aufgabe zu erledigen. Hier ist ein Beispiel zum Ändern der globalen Besprechungsrichtlinie für Ihre Organisation.
+Zwei Steuerungsebenen bestimmen die Lobbyumgebung für Teams Besprechungsteilnehmer: Besprechungsrichtlinien pro Organisator und Besprechungsoptionen.  
 
-`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+Administratoren verwenden die folgenden organisatorbasierten Richtlinien, um zu steuern, welche Besprechungsteilnehmer im Wartebereich warten, bevor sie zur Besprechung zugelassen werden:
 
-Dieses Cmdlet erfordert derzeit die Verwendung Skype for Business PowerShell-Moduls. Informationen zum Einrichten der Verwendung dieses Cmdlets finden Sie unter [Verwalten von Richtlinien über PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
+- [Personen automatisch zulassen](https://docs.microsoft.com/microsoftteams/meeting-policies-participants-and-guests#automatically-admit-people)
+- [Anonymen Personen das Starten einer Besprechung gestatten](https://docs.microsoft.com/microsoftteams/meeting-policies-participants-and-guests#let-anonymous-people-start-a-meeting)
+- [Einwählbenutzern das Umgehen des Wartebereichs gestatten](https://docs.microsoft.com/microsoftteams/meeting-policies-participants-and-guests#allow-dial-in-users-to-bypass-the-lobby)  
 
-Nachdem Sie eine Richtlinie eingerichtet haben, müssen Sie sie auf Benutzer anwenden. oder wenn Sie die globale Richtlinie geändert haben, gilt sie automatisch für Benutzer. Für jede Richtlinienänderung müssen Sie mindestens **4 Stunden bis zu 24 Stunden** warten, bis die Richtlinien wirksam werden. 
+Administratoren können diese Einstellungen im Teams Admin Center oder über PowerShell aktivieren. Weitere Informationen finden Sie unter [Aktivieren von Besprechungsrichtlinieneinstellungen.](https://docs.microsoft.com/microsoftteams/meeting-policies-participants-and-guests#enable-meeting-policy-settings)  
 
-Überprüfen Sie unbedingt die nachstehende Dokumentation, bevor Sie diese Änderungen vornehmen, um genau zu verstehen, was dies zulässt.
+Nachdem Sie eine Richtlinie eingerichtet und auf Benutzer angewendet haben, müssen Sie 4 bis 24 Stunden warten, bis die Richtlinien wirksam werden.  
 
-
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Grundlegendes zu richtliniensteuerungen für Teams Besprechungslobby
-
-Diese Einstellungen steuern, welche Besprechungsteilnehmer im Wartebereich warten, bevor sie zur Besprechung zugelassen werden, und welche Teilnahmestufe sie an einer Besprechung haben. Sie können PowerShell verwenden, um Besprechungsrichtlinieneinstellungen zu aktualisieren, die noch nicht im Teams Admin Center implementiert wurden (mit der Bezeichnung "in Kürze verfügbar"). Ein Beispiel für ein PowerShell-Cmdlet, mit dem alle Benutzer den Wartebereich umgehen können, finden Sie unten.
-
-- ["Personen automatisch zulassen"](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) ist eine organisatorspezifische Richtlinie, die steuert, ob Personen direkt an einer Besprechung teilnehmen oder im Wartebereich warten, bis sie von einem authentifizierten Benutzer zugelassen werden.
-
-- [Anonymen Personen das Starten einer Besprechung zu gestatten,](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) ist eine organisatorspezifische Richtlinie, die steuert, ob anonyme Personen, einschließlich B2B- und Verbundbenutzer, an der Besprechung des Benutzers teilnehmen können, ohne dass ein authentifizierter Benutzer aus der Organisation anwesend ist.
-
-- [Allow dial-in users to bypass the lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) ( coming **soon**) is a pro-organizer policy that controls whether people who dial in by phone join the meeting directly or wait in the lobby regardless of the Automatically **admit people** setting.
-
-- Zulassen, dass Organisatoren Lobbyeinstellungen außer Kraft setzen (**in Kürze verfügbar)** ist eine organisatorspezifische Richtlinie, die steuert, ob der [Besprechungsorganisator](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) die Lobbyeinstellungen außer Kraft setzen kann, die ein Administrator unter **"Personen automatisch zulassen"** und **Einwahlbenutzern die Umgehung des Wartebereichs gestatten** kann, wenn sie eine neue Besprechung planen.
-
-**Hinweis:** Eine vollständige Übersicht über Microsoft Teams Besprechungsrichtlinien finden Sie unter Verwalten von [Besprechungsrichtlinien in Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
+Besprechungsorganisatoren können **steuern, Wer den Wartebereich umgehen können,** und **Anrufer den Wartebereich immer** über **Besprechungsoptionen** pro Besprechung umgehen lassen. Mit diesen Besprechungsoptionen können Besprechungsorganisatoren die Richtlinie **"Personen automatisch zulassen"** außer Kraft setzen, und die **Einwahlbenutzer können die Lobbyrichtlinie** für eine bestimmte Besprechung umgehen. Weitere Informationen finden Sie unter [Ändern der Teilnehmereinstellungen für eine Teams Besprechung.](https://support.microsoft.com/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e)
