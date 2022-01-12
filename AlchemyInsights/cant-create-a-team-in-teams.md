@@ -1,7 +1,7 @@
 ---
 title: In Teams kann kein Team erstellt werden
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003306"
 - "6201"
-ms.openlocfilehash: e4298bbdb4d9e3f606c5bdf2bd0511ad56809bf616f1b02242519b2172c64e36
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: acf33e0c5ca691128177b9dbce6462cb9acbdace
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54035545"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61874827"
 ---
 # <a name="cant-create-a-team-in-teams"></a>In Teams kann kein Team erstellt werden
 

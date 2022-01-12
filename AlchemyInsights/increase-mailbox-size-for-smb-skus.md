@@ -1,7 +1,7 @@
 ---
 title: Erhöhen der Postfachgröße für SMB-SKUs
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: bf7dcad56ffa438df6528cc77e4c8e145e98cb002bbc22ff04d8f08dc7d37232
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fb6ca4c0b174344d8d1df8d56fb17449c4f1e742
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913173"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61862942"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>Upgradepläne zur Erhöhung der Postfachgröße
 
-Wenn die Postfachgröße 50 GB beträgt, können Sie die Postfachgröße auf 100 GB erhöhen, indem Sie auf [Office 365 E3,](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab) [Microsoft 365 E3,](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab) [Office 365 E5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab)oder [Microsoft 365 E5](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab)aktualisieren. Hier sind die Schritte zum Upgrade auf ein anderes Abonnement:
+Wenn die Postfachgröße 50 GB beträgt, können Sie die Postfachgröße auf 100 GB erhöhen, indem Sie ein Upgrade auf [Office 365 E3](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab), [Microsoft 365 E3](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab), [Office 365 E5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab)oder [Microsoft 365 E5 durchführen.](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab) Hier sind die Schritte zum Upgrade auf ein anderes Abonnement:
   
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Wählen Sie auf der Registerkarte **"Produkte"** das Abonnement aus, das Sie aktualisieren möchten.

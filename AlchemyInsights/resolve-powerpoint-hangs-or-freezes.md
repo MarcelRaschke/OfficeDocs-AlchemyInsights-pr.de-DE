@@ -1,7 +1,7 @@
 ---
 title: Beheben von „PowerPoint hängt oder reagiert nicht“
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5474"
-ms.openlocfilehash: 04922be009d5ddc1eb5084f4f6e4cd56024fa987d2da6ddbf9115aecfa5fd9e0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 04ef6bf42f68aba1bad43bd3dbf4cb7beb88fada
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54110391"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860973"
 ---
 # <a name="resolve-powerpoint-hangs-or-freezes"></a>Beheben von „PowerPoint hängt oder reagiert nicht“
 

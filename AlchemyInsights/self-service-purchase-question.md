@@ -1,7 +1,7 @@
 ---
 title: Frage zum Self-Service-Kauf
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 75a9d02793498715a0f75528ef01fb59d5015f72ea11949267f2a7d36ff19550
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2a9dffcb12fa3d94b4611889e66c82abd407e92a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54074319"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860512"
 ---
 # <a name="self-service-purchase"></a>Self-Service Purchase
 

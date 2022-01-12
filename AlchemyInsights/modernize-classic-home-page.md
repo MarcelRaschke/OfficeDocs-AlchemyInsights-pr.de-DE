@@ -1,8 +1,8 @@
 ---
 title: Modernisieren der klassischen Startseite
-ms.author: v-miegge
-author: v-miegge
-manager: v-cojank
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: bd26e9e923061e9bf88d8cd2c60164b95ec9cf3a671130960c0412e3f31acbaf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8e87a2f759e2b1c4cfef6f9125e005c2a7eadb30
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026077"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61871676"
 ---
 # <a name="modernize-the-classic-home-page"></a>Modernisieren der klassischen Startseite
 
-Ein kürzlich durchgeführtes Update auf die Homepage der klassischen SharePoint Teamwebsite wirkt sich auf die Startseite klassischer Teamwebsites (STS#0) aus, wenn eine Startseite *nur standardmäßige Standardwebparts* wie erste Schritte, Dokumentbibliothek und Newsfeed enthält.
+Ein kürzlich durchgeführtes Update auf den klassischen SharePoint Teamwebsite-Homepages wirkt sich auf die Startseite klassischer Teamwebsites (STS#0) aus, wenn eine Startseite *nur standardmäßige Standardwebparts* wie erste Schritte, Dokumentbibliothek und Newsfeed enthält.
 
 Sehen Sie sich [hier](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)einen exemplarischen Überblick über die Änderung an. 
 

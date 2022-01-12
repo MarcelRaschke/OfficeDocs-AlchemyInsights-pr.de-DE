@@ -1,7 +1,7 @@
 ---
 title: Aktualisieren meiner Profilinformationen oder Ändern meines Bilds
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: c6155eb09a4051b145cd1002c7be3a811e6e1224d88daf48dccbb4e059475081
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35b68ed73f75efa46e8282821fdc37566e5e83ec
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038183"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61874683"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>Aktualisieren meiner Profilinformationen oder Ändern meines Bilds
 
@@ -27,8 +27,8 @@ Sie können Ihr Profil entweder in Outlook für Windows oder Outlook im Web (OWA
 
 **Outlook für Windows:** 
 
-- **Datei**  >  **Office Konto**  >  **Benutzerinformationen**  >  **Über mich** (bringt Sie zu Microsoft 365 Profil online) > **Profil aktualisieren** oder auf das Kamerasymbol klicken, um Ihr Foto zu ändern  
+- **Datei**  >  **Office**  >  **Kontobenutzerinformationen**  >  **über mich** (führt Sie online zu Microsoft 365 Profil) > Profil **aktualisieren** oder auf das Kamerasymbol klicken, um Ihr Foto zu ändern  
   
-**Outlook im Web (OWA)**: 
+**Outlook im Web (OWA):** 
 
 - **Profilbild**  >  **Mein Profil**  >  **Profil aktualisieren**

@@ -1,8 +1,8 @@
 ---
-title: Einstellungen für Outlook.com
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+title: einstellungen für Outlook.com
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -10,16 +10,16 @@ ms.service: o365-administration
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1d0fa87db304c2935f60848bf69c0fcc2217ac4414abd53718f418785e8804c5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e22d133102612c2ce0e638099a96ef3e7929b175
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54095253"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61871568"
 ---
 # <a name="settings-in-outlookcom"></a>Einstellungen in Outlook.com
 
-Wenn der Empfänger intern oder extern für Ihre Organisation ist UND ein Office 365- oder Outlook.com-E-Mail-Konto verwendet, sollten die folgenden Clients nichts Besonderes tun müssen, um die Nachricht zu öffnen: **Outlook 2016, Outlook im Web/ Outlook Web App Outlook mobile App**
+Wenn der Empfänger intern oder extern für Ihre Organisation ist UND ein Office 365- oder Outlook.com-E-Mail-Konto verwendet, sollten die folgenden Clients nichts Besonderes tun müssen, um die Nachricht zu öffnen: **Outlook 2016, Outlook im Web/Outlook Web App, Outlook mobile App**
 
 **Stellvertretungen** von Benutzern, an die geschützte E-Mails gesendet wurden, können keine geschützten Nachrichten öffnen. Nur die ursprünglichen Empfänger (Person, an die eine geschützte E-Mail gesendet wurde) können die Informationen in der E-Mail anzeigen.
 

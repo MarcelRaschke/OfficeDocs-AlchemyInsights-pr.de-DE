@@ -1,7 +1,7 @@
 ---
 title: Kaufen von Anrufplänen für Inlandsanrufe
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002447"
 - "5526"
-ms.openlocfilehash: 8cb430a214ac22890d509a25a0f0f735cbe492be1b56ec4d3ddfbb3f15ff476d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9de99bad51bfe6d7cb103999f6181c4118f32371
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53943590"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61868232"
 ---
 # <a name="purchase-domestic-calling-plans"></a>Kaufen von Anrufplänen für Inlandsanrufe
 

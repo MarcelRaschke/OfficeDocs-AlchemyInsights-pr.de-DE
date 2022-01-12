@@ -1,7 +1,8 @@
 ---
 title: Versionsverwaltung in SharePoint und OneDrive
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +14,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5a796b9b808c873df56363a74df50a546a42fd13
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58328371"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860176"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Versionsverwaltung in SharePoint und OneDrive 
 

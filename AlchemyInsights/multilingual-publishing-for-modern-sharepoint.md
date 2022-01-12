@@ -1,7 +1,7 @@
 ---
 title: Mehrsprachige Veröffentlichung für das moderne SharePoint
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002551"
 - "4925"
-ms.openlocfilehash: 053c2ce3999adbf66ce46a7953ae299a6e57919c549e53899c83840dfb5922cb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ad2023a6361676fb053a612602950849832cd634
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025861"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61871604"
 ---
 # <a name="multilingual-publishing-for-modern-sharepoint"></a>Mehrsprachige Veröffentlichung für das moderne SharePoint
 

@@ -1,7 +1,7 @@
 ---
 title: Zugriff auf Benutzerdaten über das Microsoft Teams Admin Center nicht möglich
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/30/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11116"
 - "9000701"
-ms.openlocfilehash: 55c6ac4de6f6d00e76b5f5257c823108f324d994bd2a926cd52ba6dfa6158b4a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9c5e9b3aa3bbd4d076cc8464b62d47158b6fdac8
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059333"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61874863"
 ---
 # <a name="cant-access-user-data-via-the-microsoft-teams-admin-center"></a>Zugriff auf Benutzerdaten über das Microsoft Teams Admin Center nicht möglich
 

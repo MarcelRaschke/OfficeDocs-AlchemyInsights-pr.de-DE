@@ -1,7 +1,7 @@
 ---
 title: Microsoft Stream Storage
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 9e09537aa8976f05b62236cf427976fc7b433fcf9d3156a5b81009c6b60a0db1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: af37e45d44d8326c20528b5933475b3486263a37
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54066147"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61872016"
 ---
 # <a name="microsoft-stream-storage"></a>Microsoft Stream Storage
 

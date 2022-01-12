@@ -1,7 +1,7 @@
 ---
 title: Nachricht zum Ausführen von Enable-OrganizationCustomization
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/25/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13726"
 - "9008593"
-ms.openlocfilehash: 3a191ccb77db07482cf441962bd8b6b1b5cae825
-ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
+ms.openlocfilehash: d376f97f9c5121bbdabd6539a7688f7f6a2a5a09
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58522444"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61872112"
 ---
 # <a name="message-to-run-enable-organizationcustomization"></a>Nachricht zum Ausführen von Enable-OrganizationCustomization
 

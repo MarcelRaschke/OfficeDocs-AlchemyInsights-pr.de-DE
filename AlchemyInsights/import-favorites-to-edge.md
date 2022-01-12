@@ -1,7 +1,7 @@
 ---
 title: Importieren von Favoriten aus Google Chrome oder Mozilla Firefox in Microsoft Edge
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 03/30/2021
 ms.audience: Admin
@@ -15,12 +15,12 @@ ms.custom:
 - "11023"
 - "9005491"
 - "9006474"
-ms.openlocfilehash: 72e73cf4ff806b1aaedd231a85074492885aae0eb41a33e4a2906cf15fda877a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b47d366d42f3e3bcb17033c78ccb63c5820dd603
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54115575"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61862978"
 ---
 # <a name="import-favorites-from-google-chrome-or-mozilla-firefox-to-microsoft-edge"></a>Importieren von Favoriten aus Google Chrome oder Mozilla Firefox in Microsoft Edge
 
