@@ -1,7 +1,7 @@
 ---
 title: Windows Defender-Aktionen in Intune
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1282"
 - "6700008"
-ms.openlocfilehash: af9e8e16fe96b7460b19481900e4c46d0a2a27f73293f81b5af86131af40287a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 214cf44edbe9a64a6a2fc93335583146612b9037
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54047363"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61792823"
 ---
 # <a name="windows-defender-actions-in-intune"></a>Windows Defender-Aktionen in Intune
 

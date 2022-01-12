@@ -1,8 +1,8 @@
 ---
 title: Wo befindet sich PowerPivot?
-ms.author: pebaum
-author: pebaum
-manager: jecon
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 4e50382496c5f1040f3e7f149e4781392b8b48c59d0619b74a20ea324ebc8995
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0a64a0ceef02ddfd63ce8f72aa472095005c0b75
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53907878"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61792895"
 ---
 # <a name="where-is-power-pivot"></a>Wo befindet sich PowerPivot?
 
@@ -36,7 +36,7 @@ Wenn Sie in einer Version von Excel arbeiten, die PowerPivot unterstützt, über
   
 1. Wählen  Sie \>  Dateioptionen-Add-Ins \> **aus.**
 
-2. Wählen Sie im Dropdownfeld **Verwalten** **COM-Add-Ins aus,** und klicken Sie auf **Los .**
+2. Wählen Sie im Dropdownfeld **Verwalten** **COM-Add-Ins aus,** und klicken Sie auf **Los.**
 
 3. Aktivieren Sie im Dialogfeld **Com-Add-Ins** das Kontrollkästchen neben **Microsoft Power Pivot für Excel,** und klicken Sie dann auf **OK.**
 

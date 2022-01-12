@@ -1,7 +1,7 @@
 ---
 title: Fehlerbehandlung bei OneDrive-Abstürzen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003084"
 - "5885"
-ms.openlocfilehash: d5982bafbb8aaa1d240a34c071efe37e92c2ec5c5170dc59337df9a5435e22e1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 00e20266e719815d8fb1ae7b14fe72426ef6e2bf
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53921006"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61827119"
 ---
 # <a name="troubleshoot-onedrive-crashes"></a>Fehlerbehandlung bei OneDrive-Abstürzen
 

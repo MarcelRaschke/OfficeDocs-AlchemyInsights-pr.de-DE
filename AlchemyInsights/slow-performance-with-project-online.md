@@ -1,7 +1,7 @@
 ---
 title: Geringe Leistung mit Project Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2588"
 - "9000668"
-ms.openlocfilehash: 2333dcfb13083157e7752901755b6715fee52a47
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33c43c6b79b4850948d96739564a725f714d5bd4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770478"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61854470"
 ---
 # <a name="slow-performance-with-project-online"></a>Geringe Leistung mit Project Online
 

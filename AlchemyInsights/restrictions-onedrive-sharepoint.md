@@ -1,7 +1,7 @@
 ---
 title: Einschränkungen und Begrenzungen in OneDrive und SharePoint
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 05/27/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11470"
 - "9000292"
-ms.openlocfilehash: a4121216c36e6ae8714a62d1b5e4589ca4d6423fac947ec74257cfcad9b9e65d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 55e7b78028243399af466a39021701addd03d822
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53958620"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860845"
 ---
 # <a name="restrictions-and-limitations-in-onedrive-and-sharepoint"></a>Einschränkungen und Begrenzungen in OneDrive und SharePoint
 

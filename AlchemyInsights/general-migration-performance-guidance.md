@@ -1,7 +1,8 @@
 ---
 title: Anleitung zur allgemeinen Migrationsleistung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 91ad4d5457040fe6f705fab212acfd0f610f1c41eea9c01d9cab80439607292c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cc2ea3692db3c5f59ece3042b4c0c974ca7ba3ac
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54057029"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61863337"
 ---
 # <a name="general-migration-performance-guidance"></a>Anleitung zur allgemeinen Migrationsleistung
 

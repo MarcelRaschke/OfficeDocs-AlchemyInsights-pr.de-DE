@@ -1,7 +1,7 @@
 ---
 title: Sparen von Speicherplatz mit OneDrive-Dateien bei Bedarf für Mac
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003530"
 - "6878"
-ms.openlocfilehash: e5f3b268867637a6a9d4d753a77dd599dab495aab53bb143f4bb74b35487d7e3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 18a6165a271e575830415c4513f2c47b1527e4b5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54074355"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860766"
 ---
 # <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Sparen von Speicherplatz mit OneDrive-Dateien bei Bedarf für Mac
 

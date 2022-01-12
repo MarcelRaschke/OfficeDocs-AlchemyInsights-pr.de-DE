@@ -1,7 +1,7 @@
 ---
 title: Häufige Probleme und Lösungen in Visio
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 650872443ab1f94c970979e111a7ea2d287d7a7ddde1e5123a385edb48a0bb32
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: aca69fb421bc2c54458a4f18717a35f04d8d52fd
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998158"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61805435"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Häufige Probleme und Lösungen in Visio
 

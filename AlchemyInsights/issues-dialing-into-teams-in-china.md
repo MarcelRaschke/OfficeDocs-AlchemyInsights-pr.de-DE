@@ -1,7 +1,7 @@
 ---
 title: Probleme bei der Einwahl in Teams in China
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3787"
 - "9001707"
-ms.openlocfilehash: cfac32fb00b24fa743eae0ab1985ae9adc101c44a7dc7af2d7435c95913ce0a2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0107ef7ab0306d5d032441074354dab5c57194d1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013351"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61862706"
 ---
 # <a name="issues-dialing-into-teams-in-china"></a>Probleme bei der Einwahl in Teams in China
 

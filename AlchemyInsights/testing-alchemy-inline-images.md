@@ -1,7 +1,8 @@
 ---
 title: Testen von Alemy-Inlinebildern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.assetid: 28d8036f-9df2-4dff-835b-9424bfe988a2
 ms.custom:
 - "273"
 - "1500006"
-ms.openlocfilehash: 01a08834a569a00203114d9c1ad4e3e4f1f503252d61db9843b31654aad78019
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 10360b8bfa7ec27ff9ae58d5e90397a8cb000f6e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998331"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61837761"
 ---
 # <a name="access-the-domains-page"></a>Zugreifen auf die Seite "Domänen"
 

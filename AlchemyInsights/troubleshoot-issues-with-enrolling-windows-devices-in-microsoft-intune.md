@@ -1,7 +1,7 @@
 ---
-title: Problembehandlung bei der Registrierung von Windows Geräten in Microsoft Intune
-ms.author: pebaum
-author: pebaum
+title: Problembehandlung bei der Registrierung Windows Geräten in Microsoft Intune
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: ITPro
 ms.topic: article
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 66de74cab5972ffc4318965ede4f7b84721541ba
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53981040"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61831670"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Problembehandlung bei der Registrierung von Windows Geräten in Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Problembehandlung bei der Registrierung Windows Geräten in Microsoft Intune
 
 Überprüfen Sie die unten aufgeführten Ressourcen, um Ihr Problem jetzt zu beheben.
   
@@ -31,7 +31,7 @@ Einige häufige Fehlermeldungen und Lösungsschritte:
   
 -  Der Benutzer verfügt über mehr registrierte Geräte als das Gerätelimit. Überprüfen Sie diese Dokumente, um [ein Gerät](https://docs.microsoft.com/intune/devices-wipe) zu entfernen oder das Gerätelimit zu [ändern.](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)
 
--  "Benutzer können Geräte mit Azure AD verknüpfen" ist auf "keine" festgelegt. Legen Sie es auf alle oder ausgewählte Benutzer fest. Weitere Informationen hierzu in [dieser Dokumentation.](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)
+-  "Benutzer können Geräte mit Azure AD verbinden" ist auf "none" festgelegt. Legen Sie es auf alle oder ausgewählte Benutzer fest. Weitere Informationen hierzu in [dieser Dokumentation.](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)
 
 -  Das Gerät ist bereits von einem anderen Benutzer registriert. Wenn dies der Fall ist, entfernen Sie das Gerät aus der Azure Intune-Konsole, oder heben Sie die Registrierung des Geräts manuell auf, bevor Sie es erneut versuchen.
 

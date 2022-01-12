@@ -1,7 +1,7 @@
 ---
 title: Teams-Client stürzt ab
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: bef16351b55ac4765539d66ab86a71183f66f0dd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5a8f637febf026e073f1af5f4b41e79aae6e5daa
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321624"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61841728"
 ---
 # <a name="teams-client-crashing"></a>Teams-Client stürzt ab
 

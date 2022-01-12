@@ -1,7 +1,8 @@
 ---
 title: Haben Sie Probleme beim Herstellen Outlook zum Herstellen einer Verbindung?
-ms.author: pebaum
-author: CrystalThomasMS
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: 566f8d2e046430ee5e9ac1500e9abed86d1d2ef9bb630c2f28a98d4a922f60d0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e7d5a3ff476fb1ba3c312c2dc880fa35bcc696bd
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056309"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61863300"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Haben Sie Probleme beim Herstellen Outlook zum Herstellen einer Verbindung?
 

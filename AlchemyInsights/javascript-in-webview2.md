@@ -1,7 +1,7 @@
 ---
 title: Verwenden von JavaScript in WebView2
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/22/2021
 audience: Admin
@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "12051"
 - "9007100"
-ms.openlocfilehash: a2a3d9c46c152e0505f158d7833ba23de76f4487
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: b205317976184d338826acb4ba0fcfc96328790b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58331076"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61862577"
 ---
 # <a name="use-javascript-in-webview2"></a>Verwenden von JavaScript in WebView2
 

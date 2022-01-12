@@ -1,7 +1,7 @@
 ---
 title: Probleme beim Installieren von Microsoft Defender auf Mac oder unter Linux
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: defc11265caf371ce0a62a10a5de1d8ff88a8e11
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 77f24bf41e76618e6875c1c64b13761a9866a51d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325248"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61862656"
 ---
 # <a name="issues-installing-microsoft-defender-on-mac-or-linux"></a>Probleme beim Installieren von Microsoft Defender auf Mac oder unter Linux
 

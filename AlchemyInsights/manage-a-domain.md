@@ -1,7 +1,7 @@
 ---
 title: Domäne verwalten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/10/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6173"
 - "9003233"
-ms.openlocfilehash: cd24507f46baf7d1686bf392f089c01c1b70a661e9926200095cfcbb7cdc9cee
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e1b6a26276c615984dcfa17145b11f983ff1e1fc
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53962922"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61862298"
 ---
 # <a name="manage-a-domain"></a>Domäne verwalten
 

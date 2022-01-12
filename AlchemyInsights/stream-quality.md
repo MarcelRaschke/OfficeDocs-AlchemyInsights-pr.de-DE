@@ -1,7 +1,7 @@
 ---
 title: Qualität von Stream
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5104"
-ms.openlocfilehash: 36397e42ea55d32e510b49ac70c4371de8914465
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 05fea75e4e0b9ce23e6d0cecba0917ade3d1657e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825046"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61842793"
 ---
 # <a name="stream-quality"></a>Qualität von Stream
 

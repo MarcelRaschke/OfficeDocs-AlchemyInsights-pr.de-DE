@@ -1,7 +1,7 @@
 ---
 title: 'Meldung in Microsoft 365-Apps: Leider ist ein anderes Konto aus Ihrer Organisation auf diesem Computer bereits angemeldet.'
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9b469824d3e4689d94bfd5804526c67fac25a373
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836242"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61861657"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Meldung in Microsoft 365-Apps: Leider ist ein anderes Konto aus Ihrer Organisation auf diesem Computer bereits angemeldet.
 

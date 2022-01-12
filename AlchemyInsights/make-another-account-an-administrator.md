@@ -1,7 +1,7 @@
 ---
 title: Ein anderes Konto als Administrator festlegen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 94a5d0347172ace52a874ada19b20e61f48f8cc43e5f849d4a8400a2288aeb88
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7ee48a8c2e1d68cd24d88a9782c35d9b654c3dcf
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53993208"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61862362"
 ---
 # <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Ändern eines Standardbenutzerkontos in einen Administrator in Windows 10
 

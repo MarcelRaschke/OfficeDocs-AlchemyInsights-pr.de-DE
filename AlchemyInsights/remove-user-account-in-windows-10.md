@@ -1,7 +1,7 @@
 ---
 title: Entfernen eines Benutzerkontos in Windows 10
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 7e994388f685f1f9980c10daac48ca4facb0ca542ea352e8fbd31bf451cff305
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 301096773de350d2ca652834f91c3cf09df0a3bb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54094605"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61861133"
 ---
 # <a name="remove-an-account-in-windows-10"></a>Entfernen eines Kontos in Windows 10
 

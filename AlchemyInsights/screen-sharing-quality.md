@@ -1,7 +1,7 @@
 ---
 title: Bildschirmfreigabequalität
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/26/2021
 ms.audience: Admin
@@ -15,12 +15,12 @@ ms.custom:
 - "11062"
 - "9002254"
 - "9002536"
-ms.openlocfilehash: 9dbdb47092640b97444923a5d332cdbd303e36346723ce87ff39afee19ee1e9d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 266d2ee4fd3a96287c65ce70ad2b170e9cc5ab36
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54061575"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860591"
 ---
 # <a name="screen-sharing-quality"></a>Bildschirmfreigabequalität
 

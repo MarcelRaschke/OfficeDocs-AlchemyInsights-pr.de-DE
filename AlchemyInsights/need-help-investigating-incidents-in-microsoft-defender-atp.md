@@ -1,7 +1,7 @@
 ---
 title: Brauchen Sie Hilfe bei der Untersuchung von Vorfällen in Microsoft Defender ATP?
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6025"
 - "9001221"
-ms.openlocfilehash: 39f563e43bf1a315768d3ef198340914142cb75d
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 146fe130998d6239e47753ad77f84afde14993d3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801262"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61861923"
 ---
 # <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>Brauchen Sie Hilfe bei der Untersuchung von Vorfällen in Microsoft Defender ATP?
 

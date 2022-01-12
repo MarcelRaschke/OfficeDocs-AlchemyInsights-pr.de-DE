@@ -1,7 +1,7 @@
 ---
 title: Problembehandlung bei der Bereitstellung von Clientauthentifizierungszertifikaten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a92be59ad13bfe04605283ac97cbae4ec53b0af
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658985"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61826795"
 ---
 # <a name="troubleshooting-client-authentication-certificate-deployment"></a>Problembehandlung bei der Bereitstellung von Clientauthentifizierungszertifikaten
 

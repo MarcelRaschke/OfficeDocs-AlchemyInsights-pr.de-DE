@@ -1,7 +1,7 @@
 ---
 title: Einrichten eines externen Monitors
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 0bf4ae49aee6b1ccfcd1c7a55daef92f6f1eb6375017f24f715264235460c3ef
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cc15204082e0319e156eb0fc72051e3aa60b6942
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051773"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860255"
 ---
 # <a name="set-up-one-monitor"></a>Einrichten eines Monitors
 

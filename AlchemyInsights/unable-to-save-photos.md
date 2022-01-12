@@ -1,7 +1,7 @@
 ---
 title: Benutzerfotos können nicht gespeichert werden
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 06/08/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11618"
 - "9001499"
-ms.openlocfilehash: 53cb5b223536cee2fbd5c896f38ed8d1938d615200f9151170070422da229448
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d8cb079c665191781b57c0328db6eb0758d6f2c0
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54091702"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61821683"
 ---
 # <a name="unable-to-save-user-photos"></a>Benutzerfotos können nicht gespeichert werden
 

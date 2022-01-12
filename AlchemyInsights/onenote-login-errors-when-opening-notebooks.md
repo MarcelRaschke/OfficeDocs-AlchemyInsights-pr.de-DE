@@ -1,7 +1,7 @@
 ---
 title: OneNote – Anmeldefehler beim Öffnen von Notizbüchern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: f7e2757b776e2eca7d0521a7ecf98e0003416595ca4ad46c57d70974acba98ad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c8c7c7c2c18b248978d03ccaba8e181f9ba1eb3e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54075687"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61861556"
 ---
 # <a name="issues-signing-in-to-onenote-notebooks"></a>Probleme beim Anmelden bei OneNote Notizbüchern
 
 Wenn beim Versuch, Ihr Notizbuch zu öffnen, Anmelde- oder Kennwortfehler angezeigt werden, versuchen Sie Folgendes:
 
-- Wenn das Notizbuch, das nicht geöffnet wird, in OneDrive oder SharePoint Online gespeichert ist, versuchen Sie, das Notizbuch in OneNote für das Web (unter www.onenote.com) zu öffnen. Wenn das Notizbuch nicht aufgelistet ist, verfügen Sie möglicherweise nicht über die entsprechenden Berechtigungen. Wenn es sich um ein freigegebenes Notizbuch handelt, bitten Sie den Besitzer, es für Sie freizugeben, und stellen Sie sicher, dass Sie das richtige Konto für die Anmeldung verwenden.
+- Wenn das Notizbuch, das nicht geöffnet wird, auf OneDrive oder SharePoint Online gespeichert ist, versuchen Sie, das Notizbuch in OneNote für das Web (bei www.onenote.com) zu öffnen. Wenn das Notizbuch nicht aufgelistet ist, verfügen Sie möglicherweise nicht über die entsprechenden Berechtigungen. Wenn es sich um ein freigegebenes Notizbuch handelt, bitten Sie den Besitzer, es für Sie freizugeben, und stellen Sie sicher, dass Sie das richtige Konto für die Anmeldung verwenden.
 
 - Wenn Sie das Notizbuch in OneNote für das Web öffnen möchten, stellen Sie sicher, dass Sie sich mit den aktuellen Anmeldeinformationen bei OneNote anmelden. 
 

@@ -1,7 +1,8 @@
 ---
 title: Veröffentlichungsinfrastruktur mit einer Kommunikationswebsite
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: ff67f100052c5dfc844a27757a0ad4983c8d732ec199c601260206b1b621a085
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 849dfdddb57efac1508d11914c0e89fd6999d0ef
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54075363"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61861391"
 ---
 # <a name="publishing-infrastructure-with-a-communication-site"></a>Veröffentlichungsinfrastruktur mit einer Kommunikationswebsite
 

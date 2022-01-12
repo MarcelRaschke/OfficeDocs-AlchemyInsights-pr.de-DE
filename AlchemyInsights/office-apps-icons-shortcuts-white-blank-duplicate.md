@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365-Apps Symbole/Verknüpfungen weiß, leer oder duplizieren
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 965a3a3e9769694666a961531ac55b31b1da4b7c64eb4700199df8cbcf2152d7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8ba1f56f7fbd71cbeb149853c611a2fbe3a57119
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065175"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61861693"
 ---
 # <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a>Office-App Symbole oder Verknüpfungen weiß, leer oder dupliziert sind
 

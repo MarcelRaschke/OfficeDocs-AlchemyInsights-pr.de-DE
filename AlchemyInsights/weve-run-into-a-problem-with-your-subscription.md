@@ -1,7 +1,7 @@
 ---
 title: Beheben der Apps, bei denen ein Problem mit Ihrer Abonnementnachricht aufgetreten ist
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3419"
 - "9001427"
-ms.openlocfilehash: cd7d14dedb0d9c3dd16df885a31b99e60d87aa19b43e8ca2b5f46e6ce7b5e035
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a2384bc0f6e9100f93e0f79e766cdd1edcfad50f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072807"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61793003"
 ---
 # <a name="fixing-the-microsoft-365-apps-weve-run-into-a-problem-with-your-subscription-message"></a>Beheben der Microsoft 365-Apps "Es ist ein Problem mit Ihrem Abonnement aufgetreten"
 

@@ -1,7 +1,7 @@
 ---
 title: Einheitliche Aufbewahrungsrichtlinien im Security & Compliance Center
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 5c71106ed819aacd95e1b9ecf25f177f3596d44a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 3cad3930b279b04287fdf28389a7091ec4d3606a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58327214"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61816838"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>Einheitliche Aufbewahrungsrichtlinien im Security & Compliance Center
 

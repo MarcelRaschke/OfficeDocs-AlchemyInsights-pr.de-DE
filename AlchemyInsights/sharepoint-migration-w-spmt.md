@@ -1,7 +1,7 @@
 ---
 title: SharePoint Migration mit SPMT
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 04716e85da6432703f25bf37f253d7d4553ecc4c68123a21b46fbb4501bccf2d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0f63081ec169647e19d9cbac23e31ba6bc131d6d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085767"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61859926"
 ---
 # <a name="sharepoint-migration-with-spmt"></a>SharePoint Migration mit SPMT
 

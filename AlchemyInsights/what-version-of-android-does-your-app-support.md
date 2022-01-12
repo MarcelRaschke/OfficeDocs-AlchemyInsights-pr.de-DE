@@ -1,7 +1,7 @@
 ---
 title: Welche Version von Android unterstützt Ihre App?
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: 3ad25cd49fb37a34afe4d65106d0f881fb051224ed0a7e2a27a1fd2f52645433
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b438e37f92e8a0af74e75c4061abeae8c567fa5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53970726"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61792932"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>Welche Version von Android unterstützt Ihre App?
 

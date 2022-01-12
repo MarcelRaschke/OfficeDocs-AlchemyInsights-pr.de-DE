@@ -1,7 +1,7 @@
 ---
 title: Mover
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 7bdf9b4fb0249084e081e57542c4a7365c1e84b8e5947c1e5aa90c3118f3930f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 771e866c72cce30bc83b6d393b55009cf83a4848
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53992038"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61862009"
 ---
 # <a name="mover"></a>Mover
 

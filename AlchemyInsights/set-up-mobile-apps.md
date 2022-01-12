@@ -1,7 +1,7 @@
 ---
 title: Einrichten mobiler Apps für Office 365 und Microsoft 365
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/7/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9712"
 - "9003952"
-ms.openlocfilehash: 51277f655c963976dd4c00f895589d532092926f6105ce1c060bd33be9df6f94
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e094342d734e6cb650f8840c38d5e1d377fbbcf4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051953"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860291"
 ---
 # <a name="set-up-mobile-apps-for-office-365-and-microsoft-365"></a>Einrichten mobiler Apps für Office 365 und Microsoft 365
 

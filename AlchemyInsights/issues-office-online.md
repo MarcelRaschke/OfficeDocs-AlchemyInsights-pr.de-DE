@@ -1,7 +1,7 @@
 ---
 title: Probleme im Zusammenhang mit Office Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 09/17/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13881"
 - "5300014"
-ms.openlocfilehash: 62f76e54b8115ad591d8036c4ea64adc963692b3
-ms.sourcegitcommit: 1e174b64d290ffa99d400480efe5d63ed846581c
+ms.openlocfilehash: ae1ba21ab0a12573d1a3308256b13397a5510f83
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59447125"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61862620"
 ---
 # <a name="issues-related-to-office-online"></a>Probleme im Zusammenhang mit Office Online
 

@@ -1,7 +1,7 @@
 ---
 title: Öffentliche Vorschau der neuen Yammer-Version
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002877"
 - "5566"
-ms.openlocfilehash: 7e26450d7a19e03cb0ff239c00b3bce2b46d6d7aed8191e949ef6c0711aa9035
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7c885293022a3160bb07e05425682dcf9e3265d5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065211"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61861793"
 ---
 # <a name="new-yammer-public-preview"></a>Öffentliche Vorschau der neuen Yammer-Version
 

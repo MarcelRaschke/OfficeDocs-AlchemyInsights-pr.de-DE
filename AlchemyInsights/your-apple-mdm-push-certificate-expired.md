@@ -1,7 +1,7 @@
 ---
 title: Ihr Apple MDM-Pushzertifikat ist abgelaufen.
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: a349b0c4a7a0b7fe8e28ab0ba107ed16cccf81638544a5009e93fab66094fac4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c7a355e1136e556616e5751436ac52bec22ca0f1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53997421"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61792643"
 ---
 # <a name="your-apple-mdm-push-certificate-has-expired"></a>Ihr Apple MDM-Pushzertifikat ist abgelaufen.
 
 Das Apple MDM-Push-Zertifikat gilt für ein Jahr und muss jährlich verlängert werden, um die Verwaltung von iOS-und macOS-Geräten aufrechtzuerhalten. Wenn Ihr Zertifikat abläuft, können registrierte Apple-Geräte nicht kontaktiert werden, und neue Geräte können nicht registriert werden.
 
-Die Schritte zum Verlängern Ihres Apple MDM-Pushzertifikats finden Sie unter Erneuern des [Apple MDM-Pushzertifikats.](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate)
+Schritte zum Verlängern Ihres Apple MDM Push-Zertifikats finden Sie unter Erneuern des [Apple MDM-Pushzertifikats.](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate)

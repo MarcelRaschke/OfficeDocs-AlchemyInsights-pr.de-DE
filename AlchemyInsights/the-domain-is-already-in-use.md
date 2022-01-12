@@ -1,7 +1,8 @@
 ---
 title: Die Domäne wird bereits verwendet
-ms.author: pebaum
-author: CrystalThomasMS
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.custom:
 - "29"
 - "10"
-ms.openlocfilehash: 49104a6a8860b3520cc85747a5e702c1521a062f6b50ccf09738c4f0343d528e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ce4d6a81356d33444bfe633918d28c61fe4eec47
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54048659"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61834607"
 ---
 # <a name="the-domain-is-already-in-use"></a>Die Domäne wird bereits verwendet
 

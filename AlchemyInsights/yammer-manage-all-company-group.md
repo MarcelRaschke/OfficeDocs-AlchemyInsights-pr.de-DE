@@ -1,7 +1,7 @@
 ---
 title: Yammer Verwalten der gesamten Unternehmensgruppe
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 8974f730fb2dbeba47812daed26cb753dfce165c6ae79dbd7e630e6f195b278a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f1080c8382b907f3c33cbb02c2d185f147e0655b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53997457"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61792715"
 ---
 # <a name="all-company-group"></a>Gesamte Unternehmensgruppe
 

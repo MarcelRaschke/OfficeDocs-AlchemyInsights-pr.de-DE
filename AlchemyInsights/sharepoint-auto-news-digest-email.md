@@ -1,7 +1,7 @@
 ---
-title: SharePoint Automatische Digest-E-Mail
-ms.author: pebaum
-author: pebaum
+title: SharePoint AutoDigest-E-Mail
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 6f724b73c292ca85d694eee715d435556d9cdfc9af3c9b99ddea1e094f3d16a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8763ecc8e358a50c5c3f63565557f4da3c84d4aa
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53942168"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860219"
 ---
-# <a name="sharepoint-auto-digest-email"></a>SharePoint Automatische Digest-E-Mail
+# <a name="sharepoint-auto-digest-email"></a>SharePoint AutoDigest-E-Mail
 
-SharePoint Auto-News Digest sendet automatisierte E-Mails an Benutzer in Ihrem Unternehmen über die neuesten Nachrichtenbeiträge, die sie noch nicht gelesen haben, die für sie relevant sind.
+SharePoint Auto News Digest sendet automatisierte E-Mails an Benutzer in Ihrem Unternehmen über die neuesten Nachrichtenbeiträge, die sie noch nicht gelesen haben, die für sie relevant sind.
 
 Weitere Informationen finden Sie unter [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 

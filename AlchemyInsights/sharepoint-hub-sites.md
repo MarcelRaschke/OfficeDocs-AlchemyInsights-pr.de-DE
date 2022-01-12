@@ -1,7 +1,8 @@
 ---
 title: SharePoint-Hubwebsites – Übersicht
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,16 +12,16 @@ ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
 ms.custom:
 - "1591"
 - "5300012"
-ms.openlocfilehash: d95c282ef6b6fb33736cce1bd8112476639cb0ecacc04a99e06869bf3feb830f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd92b11b71d87a54ac7d1515b7ad3c70b0fd6763
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54093750"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61860054"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>SharePoint-Hubwebsites – Übersicht
 
-SharePoint Hubwebsites helfen Ihnen, die Anforderungen Ihrer Organisation zu erfüllen, indem Sie Websites basierend auf Projekt, Abteilung, Abteilung, Region usw. verbinden und organisieren. Dies erleichtert Folgendes:
+SharePoint Hubwebsites helfen Ihnen dabei, die Anforderungen Ihrer Organisation zu erfüllen, indem Sie Websites basierend auf Projekt, Abteilung, Abteilung, Region usw. verbinden und organisieren. Dies erleichtert Folgendes:
 
 - Verwandte Inhalte wie News und andere Websiteaktivitäten ermitteln
 

@@ -1,7 +1,7 @@
 ---
 title: Upgrade von Windows 10 Home auf Windows 10 Pro mit Product Key
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 03/29/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10116"
 - "9005600"
-ms.openlocfilehash: e1afdf755e6b8cd8a65ba753a6a9d2f2bf064d8fb7fbb1543848f29ac499d17a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f42882aaf3cdc750d36afc750894d20e6d609178
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908385"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61810921"
 ---
 # <a name="use-a-product-key-to-upgrade-windows-10-home-to-windows-10-pro"></a>Upgrade von Windows 10 Home auf Windows 10 Pro mit Product Key
 

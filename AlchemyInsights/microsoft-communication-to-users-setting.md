@@ -1,7 +1,7 @@
 ---
 title: Einstellung für Microsoft-Kommunikation mit Benutzern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/13/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007598"
 - "12622"
-ms.openlocfilehash: 4c5a36d1e081940967032ddd62e062d4f5f9e02b
-ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
+ms.openlocfilehash: 8867df8e9632012a67aedbc52c0836f87aae5f50
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58357564"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61862262"
 ---
 # <a name="microsoft-communication-to-users-setting"></a>Einstellung für Microsoft-Kommunikation mit Benutzern
 

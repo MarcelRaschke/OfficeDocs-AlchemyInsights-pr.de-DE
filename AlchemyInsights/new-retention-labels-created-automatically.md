@@ -1,8 +1,8 @@
 ---
 title: Automatisch erstellte neue Aufbewahrungsbezeichnungen
-ms.author: pebaum
-author: pebaum
-manager: laurawi
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: b6cf95d51c7cd4914f6a69588fbf78ea0ba023b3ce8921b6efef6d97ab8bf66c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cbe8027839d053011393634cbcb808ea936320f5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54097515"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61861829"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Automatisch erstellte neue Aufbewahrungsbezeichnungen
 
