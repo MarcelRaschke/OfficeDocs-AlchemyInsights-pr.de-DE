@@ -1,7 +1,7 @@
 ---
 title: Word – Konvertieren in XPS oder PDF
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: c2fb5d7ca8e074e69dbb7c35aab35754c14508a5d91b12a1fc943fadda242040
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fb07ca5e18af9f69d63569a1813768a90f00b0ab
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54047219"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61865344"
 ---
 # <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Beheben von Problemen beim Konvertieren eines Word-Dokuments in XPS oder PDF
 

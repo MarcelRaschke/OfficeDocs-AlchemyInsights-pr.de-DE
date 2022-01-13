@@ -1,7 +1,7 @@
 ---
 title: Übertragen des Formularbesitzes an einen anderen Benutzer
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2548"
 - "9000672"
-ms.openlocfilehash: 73520a72a95c0b41bf0792234eac387c55788e686774f96322b202fb82b12eb6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0a3bee06d5aada062a18a1bd96d7c90db481916d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54106215"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61865746"
 ---
 # <a name="transfer-ownership-of-a-microsoft-form"></a>Übertragen des Besitzes eines Microsoft-Formulars
 

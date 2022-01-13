@@ -1,7 +1,7 @@
 ---
 title: Informieren Sie sich über Assure und Premium assistierten Software-Support
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 03/29/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: a3a72aaed68f0bb19479d2ca28f4aabb7467bd8c3576b56c6c3a51acf62159b4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2fbc3850edc1c526f72c65163b9aeab05e9a3596
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964488"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61912452"
 ---
 # <a name="get-info-about-premium-assisted-software-support"></a>Informieren Sie sich über Premium assistierten Software-Support
 

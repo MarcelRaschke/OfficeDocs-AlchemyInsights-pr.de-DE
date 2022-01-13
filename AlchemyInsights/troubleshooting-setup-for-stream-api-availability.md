@@ -1,7 +1,7 @@
 ---
 title: Problembehandlung beim Setup für Stream – API-Verfügbarkeit
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2800001"
 - "1338"
-ms.openlocfilehash: fd2e910792f0c10ffd116695070d0c31a23ee7e26a8612334ef5d520d4a2b544
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6121a24e1eaf1bd9d4f9e09f00f944c9fb9c63c7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54007825"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61865710"
 ---
 # <a name="api-availability"></a>API-Verfügbarkeit
 

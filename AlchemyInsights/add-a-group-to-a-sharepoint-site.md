@@ -1,7 +1,7 @@
 ---
 title: Hinzufügen einer Gruppe zu einer SharePoint Website
-ms.author: mikeplum
-author: MikePlumleyMSFT
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: e8dee2986c98b0ebf5eae6222a652fc999287b6efa3fe5a9099134c44dddf670
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: df87e3d0b508b52869febcf9d4322021f0064426
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53936956"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61864912"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Hinzufügen einer Gruppe zu einer SharePoint Website
 

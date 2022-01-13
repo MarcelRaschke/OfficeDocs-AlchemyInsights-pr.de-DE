@@ -1,7 +1,7 @@
 ---
 title: Update zum Posteingang mit Relevanz und zu unseren Plänen für Clutter
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4854"
-ms.openlocfilehash: cd6e1fa7ec44f79257459b3934e43c16ffc224ad32c6325347fd7fb4a19e5312
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f61af58ad7e5b7edd7cd147d3bd629d48697d270
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105021"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61865602"
 ---
 # <a name="update-on-focused-inbox-and-our-plans-for-clutter"></a>Update zum Posteingang mit Relevanz und zu unseren Plänen für Clutter
 

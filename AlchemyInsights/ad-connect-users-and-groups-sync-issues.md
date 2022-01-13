@@ -1,7 +1,7 @@
 ---
 title: Probleme bei der Synchronisierung von AD Connect-Benutzern und Gruppen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6119"
 - "9003245"
-ms.openlocfilehash: d23046cc4c68e82d1ffff128b4b60928239f28c6801f8c0c9fe01f0db063b0e1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c5afebb6c9fe118950ab1ae974158b3d6ab62f8d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937064"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61864984"
 ---
 # <a name="ad-connect-users-and-group-sync-issues"></a>Probleme bei der Synchronisierung von AD Connect-Benutzern und Gruppen
 

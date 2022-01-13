@@ -1,7 +1,8 @@
 ---
 title: Begriffe, die in SharePoint Online-Ausdrucks-Store fehlen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: c596cf02128cbe58cd97ea802bf9ca1d0ce5b3b0a4334c4423754d86661c525a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6e1ae01448bac7c4a7b95b86fce6f0479c49db42
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54039605"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61865927"
 ---
 # <a name="terms-missing-from-sharepoint-online-term-store"></a>Begriffe, die in SharePoint Online-Ausdrucks-Store fehlen
 

@@ -1,7 +1,7 @@
 ---
 title: Aktivierungs-/Anmeldeproblem – ein anderes Konto ist bereits angemeldet
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3407"
 - "9001422"
-ms.openlocfilehash: 72af15ab8481a5661a0ec201c64d5ad21687744f949d0e555da21baf269a780f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 32000345fa5999fa6fcafc56b8599d072b36ac04
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937208"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61865164"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Beheben der Meldung "Leider ist ein anderes Konto aus Ihrer Organisation bereits angemeldet" Microsoft 365 Apps
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Beheben der Microsoft 365-Apps mit der Meldung "Leider ist ein anderes Konto aus Ihrer Organisation bereits angemeldet"
 
 Um diesen Fehler zu beheben, versuchen Sie Folgendes:
 
 1. Öffnen Sie eine Office-App, und [melden Sie sich von vorhandenen Benutzerkonten ab](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071).   
-2. Entfernen Sie mithilfe Windows **Einstellungen**  >    >  **Konten E-Mail-& Konten** alle Geschäftskonten mit Ausnahme des betroffenen Kontos. 
+2. Entfernen Sie mithilfe **Windows Einstellungen**  >    >  **Konten E-Mail-& Konten** alle Geschäftskonten mit Ausnahme des betroffenen Kontos. 
 3. Trennen Sie mit Windows **Einstellungen**  >  **Konten**  >  **auf Geschäfts-, Schul- oder Unikonten** zugreifen, alle Geschäftskonten außer dem betroffenen Konto. 
 4. Setzen Sie den Office-Aktivierungsstatus zurück. [Anleitung](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).

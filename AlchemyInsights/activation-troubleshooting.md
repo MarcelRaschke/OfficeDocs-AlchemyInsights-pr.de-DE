@@ -1,7 +1,8 @@
 ---
 title: Problembehandlung bei der Aktivierung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,20 +13,20 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: ebd41479e74341decf818533c05c47f4121718e6ec3404df90ab28c5ca59f65d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: dcaa844761bf54d938d53601f24892639b8129c7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937136"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61865056"
 ---
 # <a name="activation-troubleshooting"></a>Problembehandlung bei der Aktivierung
 
-Suchen Sie **in den Systemsteuerungsprogrammen** \> **und -features** nach Office. Sie sollten Microsoft 365 Apps for Enterprise oder Microsoft 365 Apps for Business sehen. Ist mehr als eine Office-Version aufgelistet, deinstallieren Sie die Version, die Sie nicht verwenden.
+Suchen Sie **in den Systemsteuerungsprogrammen** \> **und -features** nach Office. Es sollte Microsoft 365 Apps for Enterprise oder Microsoft 365 Apps for Business angezeigt werden. Ist mehr als eine Office-Version aufgelistet, deinstallieren Sie die Version, die Sie nicht verwenden.
   
 Wenn Sie die Deinstallation mithilfe der Systemsteuerung nicht erfolgreich durchführen können, verwenden Sie die [Support- und Wiederherstellungs-Assistent,](https://aka.ms/SARA-OfficeUninstall-Alchemy) um die nicht verwendete Version zu deinstallieren.
   
-Wenn Office noch nicht lizenziert ist, wechseln Sie zurück zu den **Systemsteuerungsprogrammen** \> **und -features.** Klicken Sie mit der rechten Maustaste auf die verbleibende Office installieren, wählen **Sie "Ändern"** (oder "Ändern") und dann **"Onlinereparatur"** aus. Die Onlinereparatur kann eine Weile dauern. Starten Sie Office anschließend neu, und melden Sie sich mit Ihrem Geschäfts-, Schul- oder Unikonto an.
+Wenn Office noch nicht lizenziert ist, wechseln Sie zurück zu den **Systemsteuerungsprogrammen** \> **und -features.** Klicken Sie mit der rechten Maustaste auf die verbleibenden Office installieren, wählen **Sie Ändern** (oder Ändern) aus, und wählen Sie dann **Onlinereparatur** aus. Die Onlinereparatur kann eine Weile dauern. Starten Sie Office anschließend neu, und melden Sie sich mit Ihrem Geschäfts-, Schul- oder Unikonto an.
   
 Wenn Office noch nicht lizenziert ist, laden Sie die [Aktivierungsproblembehandlung](https://aka.ms/SARA-OfficeActivation-Alchemy) herunter, und führen Sie sie auf dem betroffenen Computer aus, um die Aktivierungsprobleme zu beheben.
   

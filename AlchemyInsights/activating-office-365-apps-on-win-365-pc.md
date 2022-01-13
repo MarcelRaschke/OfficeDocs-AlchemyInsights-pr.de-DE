@@ -1,7 +1,7 @@
 ---
 title: Office 365-Anwendungen werden auf Windows 365-PCs aktiviert
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/26/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
-ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.openlocfilehash: 3e5db92d9499cb205a02bf24e82143452132d436
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/07/2021
-ms.locfileid: "58923517"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61865308"
 ---
 # <a name="activating-office-365-applications-on-windows-365-pcs"></a>Office 365-Anwendungen werden auf Windows 365-PCs aktiviert
 

@@ -1,7 +1,7 @@
 ---
 title: Aktivieren von Microsoft 365-Apps
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 157dd0dffa523bef593c15b933c2ec031162da76
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314239"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61865272"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivieren von Microsoft 365-Apps
 

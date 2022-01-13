@@ -1,7 +1,7 @@
 ---
 title: Update auf Office 2019
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1746"
 - "9000140"
-ms.openlocfilehash: 718a5233c6600c90edd39d537a6ade7360859ba4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e18aba00d8035c42c181f731948d2082b0e6df66
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805894"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61865566"
 ---
 # <a name="update-to-office-2019"></a>Update auf Office 2019
 

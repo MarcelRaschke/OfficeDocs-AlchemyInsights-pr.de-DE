@@ -1,7 +1,7 @@
 ---
 title: Warum ist die Schaltfläche "Budget hinzufügen" für mich deaktiviert?
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 1263662184948ed1e77e3abacd17babf4aa033ed1ecec29b4c4afc26d6da56f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9d8872cc7b25b02b88485e7ac66d2bb79e80fdb1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53954670"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61865092"
 ---
 # <a name="why-is-the-add-budget-button-disabled-for-me"></a>Warum ist die Schaltfläche "Budget hinzufügen" für mich deaktiviert?
 
@@ -27,7 +27,7 @@ Um ein Budget zu erstellen, benötigen Sie eine der folgenden Berechtigungen:
 - Kostenverwaltungsmitwirkender
 - Besitzer
 - Contributor
-- Enterprise Nur Kunde: Registrierung, Abteilung, Kontobereiche
+- nur Enterprise Kunde: Registrierung, Abteilung, Kontobereiche
 - Registrierungsadministrator (budget at Enrollment scope festlegen)
 - Abteilungsadministrator (Budget auf Abteilungsbereich festlegen)
 - Kontobesitzer (Budget auf Kontoebene festlegen)
@@ -66,7 +66,7 @@ Es gibt mehrere Gründe, warum die Prognostizierung in der Kostenanalyse für Si
 3. Wenn Ihr Konto mehrere Währungen aufweist, projiziert das Prognosediagramm nur die Kosten für "Alle Kosten in USD".
 
 **Warum ändert sich die Prognose nicht, wenn ich Änderungen an meinen Ressourcen vorstelle?**  
-Das Prognosemodell erfordert ein paar Tage, um Änderungen am Konto zu berücksichtigen, und erstellt keine sofortigen Projektionen basierend auf Änderungen an Ressourcen  
+Das Prognosemodell erfordert ein paar Tage, um Änderungen am Konto zu berücksichtigen, und erstellt keine sofortigen Projektionen basierend auf änderungen an Ressourcen  
 Bei größeren Schritten zur Erhöhung oder Reduzierung von Ressourcen dauert es etwas länger, bis das Modell sich an diese Änderungen anpasst, um Anomalien zu berücksichtigen.
 
 **Warum erhöht sich meine Prognose, nachdem ich eine Reservierung oder einen Marketplace-Kauf vorgenommen habe?**  
@@ -75,7 +75,7 @@ Das Prognosemodell berücksichtigt Ihre "aktuellen Kosten" und berücksichtigt d
 **Ich möchte Vorschauen für eine einzelne Dimension anzeigen (z. B. Meter)**  
 Die Prognose unterstützt derzeit Projektionen der Gesamtkosten und nicht für einzelne Meter. Wenn eine Dimension "gruppiert nach" ist, sind die Projektionen daher für die Summe aller Elemente in der Dimension
 
-**Empfohlene Dokumente**
+**Empfohlene Dokumentationen**
 
 - [Was ist Azure Cost Management?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Bewährte Methoden für Azure Cost Management](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)

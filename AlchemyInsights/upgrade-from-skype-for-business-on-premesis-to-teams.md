@@ -1,7 +1,7 @@
 ---
 title: Upgrade von Skype for Business lokal auf Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 5bf8d952441ff5fe1e6fae5b517aa0ad83b8bb79f5e49256e8ebcedbc086c3d1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e90df9e139e7e62f98eab9221508783d895c0233
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919668"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61865530"
 ---
 # <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Upgrade von Skype for Business lokal auf Teams
 

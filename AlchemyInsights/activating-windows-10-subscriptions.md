@@ -1,7 +1,7 @@
 ---
 title: Aktivieren von Windows 10-Abonnements
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002307"
 - "4480"
-ms.openlocfilehash: ad236140ebb398b269ab6b28a4ecd4544fb7d2fff2d7541e7ce481c13fd7afa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 87b46732c52607a36110d933e86c74bee7e0db54
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937249"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61865200"
 ---
 # <a name="activating-windows-10-subscriptions"></a>Aktivieren von Windows 10-Abonnements
 
