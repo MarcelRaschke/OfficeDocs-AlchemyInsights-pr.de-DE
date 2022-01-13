@@ -1,7 +1,7 @@
 ---
 title: Deaktivieren des Chats
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: 17c9f214deaaa1d9c2a8989f01e2678556e12e8e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 916775263280f10ea7f06d6d38c40e1c6f123744
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330325"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61863832"
 ---
 # <a name="disable-chat"></a>Deaktivieren des Chats
 

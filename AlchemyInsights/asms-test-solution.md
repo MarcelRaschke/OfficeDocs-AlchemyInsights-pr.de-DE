@@ -1,7 +1,7 @@
 ---
 title: ASMS-Testlösung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003544"
 - "6460"
-ms.openlocfilehash: f8f3de5a391d818447883cb8dbba2052c048fd5639c5f54c921ef5247dc6d6a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae61502949955554ab66878d896455a15895c90b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950880"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61864264"
 ---
 # <a name="asms-test-solution"></a>ASMS-Testlösung
 

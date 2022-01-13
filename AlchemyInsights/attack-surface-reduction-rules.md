@@ -1,7 +1,7 @@
 ---
 title: Regeln zur Verringerung der Angriffsfläche
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 05/25/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11228"
 - "9005470"
-ms.openlocfilehash: 1122eb6eb73c9813727a2c65034b75ba95455527
-ms.sourcegitcommit: 6753264c3805098c0eba62cdcaa9120d44593b20
+ms.openlocfilehash: da2c9b3b1c729ab2fe4c4388287d56a4f7c39912
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2021
-ms.locfileid: "61241870"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61864228"
 ---
 # <a name="attack-surface-reduction-rules"></a>Regeln zur Verringerung der Angriffsfläche
 

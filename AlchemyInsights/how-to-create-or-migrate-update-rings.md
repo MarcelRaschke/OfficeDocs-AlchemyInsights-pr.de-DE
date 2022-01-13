@@ -1,7 +1,8 @@
 ---
 title: Erstellen oder Migrieren von Updateringen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "6718"
 - "9003773"
-ms.openlocfilehash: 08e1163adf8624e79a430cb84938ed4ba5baa82e42bd9612bde8ad18efd0b3cb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0e5ede9f0e6f89f1dec057f824bcfcdea42386ae
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54078801"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61863136"
 ---
 # <a name="how-to-create-or-migrate-update-rings"></a>Erstellen oder Migrieren von Updateringen
 

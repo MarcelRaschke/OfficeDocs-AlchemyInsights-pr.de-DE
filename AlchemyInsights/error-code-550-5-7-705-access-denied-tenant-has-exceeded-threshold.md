@@ -2,6 +2,7 @@
 title: Fehlercode 550 5.7.705 Zugriff verweigert, Mandant hat Schwellenwert überschritten
 ms.author: chrisda
 author: chrisda
+manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +14,12 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9f35aaccb0bc80ddcb46e37533ee36c35b8cf520421786a809b28cfa70e16391
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e6f35d84bc9adda888b23a9ec8248d8a217098c9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54044195"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61863495"
 ---
 # <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Zugriff verweigert, Mandant hat Schwellenwert überschritten
 

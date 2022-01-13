@@ -1,8 +1,8 @@
 ---
 title: 'Fehler: Wir haben Probleme, Ihr Konto auf diesem Computer zu überprüfen.'
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9824"
 - "9005394"
-ms.openlocfilehash: fa58a718d6bd4983b8255d263bc203fc295b00309e835dbcf7423143cbda64c7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: dd4e22ada2379256125fdc8d6e5f8f090643a2cd
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53946542"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61863459"
 ---
 # <a name="error-were-having-trouble-verifying-your-account-on-this-computer"></a>Fehler: Wir haben Probleme, Ihr Konto auf diesem Computer zu überprüfen.
 

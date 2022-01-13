@@ -1,7 +1,8 @@
 ---
 title: Verify your domain
-ms.author: pebaum
-author: CrystalThomasMS
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
 ms.custom:
 - "7"
 - "7593"
-ms.openlocfilehash: 85780ca5e90db3b4c6d04b5bacd7874b8bce0c519642b893d34bc873dc689c83
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a8e0c9fc091780f78ed03c3d48781143efe8938f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53993388"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61863028"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 

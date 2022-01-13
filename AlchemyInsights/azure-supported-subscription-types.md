@@ -1,7 +1,7 @@
 ---
 title: Unterstützte Abonnementtypen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: f11eabdc18f708e34a6a10c67bc3e7416330cbf34aec20209b42252ffa0ab018
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cfca9034689cd65b6acdb8a0a84744eeb91fbe3d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072159"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61864192"
 ---
 # <a name="supported-subscription-types"></a>Unterstützte Abonnementtypen
 

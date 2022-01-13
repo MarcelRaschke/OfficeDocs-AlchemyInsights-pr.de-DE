@@ -1,8 +1,8 @@
 ---
 title: Kostenlose Microsoft Office-Optionen
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9827"
 - "9005684"
-ms.openlocfilehash: 5dca3e02dfdb72c6232658c32f0b269f602d8903
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 48ff5f25f80e825cff9cedcd303ac1ae090e15af
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898339"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61863387"
 ---
 # <a name="free-microsoft-office-options"></a>Kostenlose Microsoft Office-Optionen
 

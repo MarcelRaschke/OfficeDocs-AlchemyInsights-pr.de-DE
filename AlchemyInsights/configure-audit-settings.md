@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren von Überwachungseinstellungen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 464c0e8a37b5f572db319ee6f304bb2c6858f748ce8e6d58d155e458ce8517a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c051f70ee0e8c39ac78fa1704a3bc9839d4034c0
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53915478"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61863940"
 ---
 # <a name="configure-sharepoint-audit-settings"></a>Konfigurieren SharePoint Überwachungseinstellungen
 
@@ -25,7 +25,7 @@ SharePoint Websitesammlungsadministratoren können Benutzeraktionen für Inhalte
   
 1. Öffnen Sie die SharePoint Website.
     
-2. Klicken Sie auf das Symbol Einstellungen und dann auf **"Websiteeinstellungen".** Wenn "Websiteeinstellungen" nicht angezeigt wird, klicken Sie auf **"Websiteinformationen"** und dann auf **"Alle Websiteeinstellungen anzeigen".**
+2. Klicken Sie auf das Symbol Einstellungen, und klicken Sie dann auf **"Websiteeinstellungen".** Wenn "Websiteeinstellungen" nicht angezeigt wird, klicken Sie auf **"Websiteinformationen"** und dann auf **"Alle Websiteeinstellungen anzeigen".**
     
 3. Wählen Sie unter **Websitesammlungsverwaltung** **die Websitesammlungsüberwachungseinstellungen** aus. (Wenn sie nicht angezeigt wird, klicken Sie zuerst auf **"Zu Websiteeinstellungen auf oberster Ebene** wechseln".) 
     

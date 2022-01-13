@@ -1,7 +1,7 @@
 ---
 title: EndPoint Manager – Sicherheitsbasispläne
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 03/29/2021
 ms.audience: Admin
@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
-ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.openlocfilehash: 18e9c6102f895d473265da0136e7e1b8c95fc838
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/07/2021
-ms.locfileid: "58923553"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61863688"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – Sicherheitsbasispläne
 

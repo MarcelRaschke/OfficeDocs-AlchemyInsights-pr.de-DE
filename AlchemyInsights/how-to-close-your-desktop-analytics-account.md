@@ -1,7 +1,7 @@
 ---
 title: So schließen Sie Ihr Desktop Analytics-Konto
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 6b90247c239282ace5feac6b4d5cd903b7492f9257e1e88b32f0716d0cd1c03f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae36ac83b0294e0b3bc2bf5a5a11d4820f88cf0a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913245"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61863179"
 ---
 # <a name="how-to-close-your-desktop-analytics-account"></a>So schließen Sie Ihr Desktop Analytics-Konto
 

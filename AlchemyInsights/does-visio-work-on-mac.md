@@ -1,8 +1,8 @@
 ---
 title: Funktioniert Visio auf einem Mac
-ms.author: janellem
-author: janellemcintosh-msft
-manager: eliree
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1799"
 - "9000201"
-ms.openlocfilehash: 8a6f8925d89582942c05596ea0431eee3fc71c9e8c15fdc555dbbeaa7790d976
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a85b37d0820aaec72e777470be12c397860692bb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53965208"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61863796"
 ---
 # <a name="does-visio-work-on-a-mac"></a>Funktioniert Visio auf einem Mac?
 
