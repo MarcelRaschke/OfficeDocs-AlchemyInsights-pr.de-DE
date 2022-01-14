@@ -1,7 +1,7 @@
 ---
 title: Rolle "Moderner Commercebenutzer"
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 07f93f4d9ffc300d19e38e771a512f0bd1db9cda10d1648e789917d85a1a39df
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 585c0b5f979b58a821e22bef644a6cfaf4b3adcf
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012019"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61941391"
 ---
 # <a name="modern-commerce-user-role"></a>Rolle "Moderner Commercebenutzer"
 

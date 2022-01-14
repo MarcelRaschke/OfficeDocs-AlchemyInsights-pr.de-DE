@@ -1,7 +1,7 @@
 ---
-title: OneNote Probleme mit Kursnotizbüchern
-ms.author: pebaum
-author: pebaum
+title: Probleme mit OneNote Kursnotizbuch
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000676"
 - "2577"
-ms.openlocfilehash: 05bfa570535c6f08f21df955ae0c842c1c9d24e8981bdfec6642c1a1729d68f8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c1134c9ee8fd147ff7e6f2a8dfbe2e51fffdc7c5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53944670"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61941259"
 ---
-# <a name="onenote-class-notebook-issues-and-resolutions"></a>OneNote Probleme und Lösungen für Kursnotizbücher
+# <a name="onenote-class-notebook-issues-and-resolutions"></a>Probleme und Lösungen für OneNote Kursnotizbuch
 
 Hier sind einige häufig angeforderte Themen und Problembehandlungen für Kursnotizbücher.
 

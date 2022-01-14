@@ -1,7 +1,7 @@
 ---
 title: Verhindern, dass Teams automatisch gestartet werden
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: 0e35a182fb8ffbb48e5c3bff72881c2cd14d778f83c759efc99c372900de6991
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: df714df48a1d83d9a3aa875d3c26a4cbc6b7eca5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53923791"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987213"
 ---
 # <a name="prevent-teams-from-starting-automatically"></a>Verhindern, dass Teams automatisch gestartet werden
 

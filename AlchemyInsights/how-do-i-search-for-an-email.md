@@ -1,7 +1,7 @@
 ---
 title: Wie suche ich nach einer E-Mail?
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: 40bb32851d4b09f2d06e0aaabe84f980ec40d763415dde4f90b5120c242e4bb2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 22fe19dc1c18d7d7e5459988e38778ade40e72fa
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53927108"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61963303"
 ---
 # <a name="how-do-i-search-for-an-email"></a>Wie suche ich nach einer E-Mail?
 

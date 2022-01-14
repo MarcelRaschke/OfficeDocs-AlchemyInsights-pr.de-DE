@@ -1,7 +1,7 @@
 ---
 title: Microsoft Forms catchall
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2549"
 - "9000672"
-ms.openlocfilehash: 877ff19f68fc6e741f63132d9ecd23fdac6839884c1153ad60dd2ec6f0b6adc6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0f33b6bda1bfa288c525ec81dd6ef20c7b03fd35
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53975964"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61986528"
 ---
 # <a name="get-information-about-microsoft-forms"></a>Abrufen von Informationen zu Microsoft Forms
 

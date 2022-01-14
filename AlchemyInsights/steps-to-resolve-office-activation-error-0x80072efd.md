@@ -1,7 +1,8 @@
 ---
 title: Schritte zum Beheben Office Aktivierungsfehlers 0x80072EFD
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.custom:
 - "915"
 - "2000021"
 ms.assetid: d071ce0c-c29e-4917-8860-950e5efd26af
-ms.openlocfilehash: 46821b7847d67874e42d3f07adbbce43be37190d7229ac886595d03c43cbfeb6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d7ab0647566488e6742d71988660f5103adcead
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54021271"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61964040"
 ---
 # <a name="steps-to-resolve-office-activation-error-0x80072efd"></a>Schritte zum Beheben Office Aktivierungsfehlers 0x80072EFD
 

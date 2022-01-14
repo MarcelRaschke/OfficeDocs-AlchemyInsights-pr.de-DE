@@ -1,8 +1,8 @@
 ---
 title: 'Fehler: Problem beim Überprüfen des Lizenzstatus des Geräts.'
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9810"
 - "9005394"
-ms.openlocfilehash: e418fde16e546f8aa49235c873f836d79080e012b3a7463e56d88d1641a0db7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: aa881ce829f65848b5873d68db5122a687958a48
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54043727"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61963339"
 ---
 # <a name="error-there-was-a-problem-checking-this-devices-license-status"></a>Fehler: Problem beim Überprüfen des Lizenzstatus des Geräts.
 

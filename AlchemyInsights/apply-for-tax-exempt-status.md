@@ -1,7 +1,7 @@
 ---
 title: Beantragen des Status einer Steuerbefreiung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 71a9a5a89f6434949da12dd70055e9cc902e4eb1
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 514720c9fa9a1ff102dcbbeaabf1da55ce342da9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324203"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61864300"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Beantragen des Status einer Steuerbefreiung
 

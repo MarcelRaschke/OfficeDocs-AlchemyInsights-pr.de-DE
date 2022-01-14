@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 Apps-Integritätsdashboard im Microsoft 365 Admin Center
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/6/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O364
 ms.custom:
 - "9003533"
 - "10879"
-ms.openlocfilehash: 5b8c568f2e6080d57dd8e6db0feea18c685ab857
-ms.sourcegitcommit: 326c10f16cf15e823cc97cb4c6a7153343f88f93
+ms.openlocfilehash: b390e4f980efd162856cef77ef1eaf5970b7d111
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51596731"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61900658"
 ---
 # <a name="microsoft-365-apps-health-dashboard-in-the-microsoft-365-apps-admin-center"></a>Microsoft 365 Apps-Integritätsdashboard im Microsoft 365 Admin Center
 

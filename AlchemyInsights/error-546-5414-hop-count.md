@@ -1,7 +1,7 @@
 ---
 title: Fehler 5.4.6 oder 5.4.14 bezogen auf „Hop-Anzahl überschritten“
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 05/13/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11224"
 - "9006572"
-ms.openlocfilehash: e4638771bf0b4ffcb8254edd43cea3484bb95d39
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 95da5638474b816e570535c4a7d86dd124460ca0
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316771"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61963375"
 ---
 # <a name="error-546-or-5414-related-to-hop-count-exceeded"></a>Fehler 5.4.6 oder 5.4.14 bezogen auf „Hop-Anzahl überschritten“
 

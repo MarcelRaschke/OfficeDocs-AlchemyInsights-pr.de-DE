@@ -1,7 +1,7 @@
 ---
 title: Setzen Sie Ihren PC zurück oder stellen Sie ihn wieder her
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: e1f2d494f965d2d9fb1bcfcd8e4e224d9e68e7c2
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 3b5c94de4c2b7996b8b58fc6d10023e814372698
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58322682"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61941101"
 ---
 # <a name="reset-or-recover-your-pc"></a>Setzen Sie Ihren PC zurück oder stellen Sie ihn wieder her
 

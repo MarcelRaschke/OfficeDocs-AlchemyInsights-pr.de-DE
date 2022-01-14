@@ -1,19 +1,20 @@
 ---
-title: Suchen in SharePoint Online
-ms.author: pebaum
-author: pebaum
+title: Onlinesuche in SharePoint
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: daf21e311d29b801bd04e48adfba9446abf78de9377d2a029aebccbac3910c62
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fcddf5586924ee13fddee62410347f5a185a5d84
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54022801"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61963519"
 ---
 # <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Durchforsten und Indizieren von Inhalten in SharePoint Online
 
@@ -29,7 +30,7 @@ Inhalte müssen durchforstet und dem Suchindex hinzugefügt werden, damit Benutz
 
 - Wenn mehr als 24 Stunden vergangen sind, seit Sie die Durchforstung initiiert haben und den vollständigen Neuindex vorgenommen haben, protokollieren Sie bitte einen Supportfall. In vielen Fällen arbeiten wir bereits an einer Lösung. Bitte geben Sie uns mindestens 24 Stunden Zeit, um eine Lösung abzuschließen.
 
-**Wichtig:** Wenn eine Website, ein Dokument (eine Bibliothek) oder eine Liste gelöscht wurde und weiterhin in den Suchergebnissen angezeigt wird, sollten Benutzer beim Versuch, darauf zuzugreifen, eine **Fehler-404-Datei** erhalten, die nicht gefunden wurde. Dieses Problem sollte als Supportfall für weitere Untersuchungen protokolliert werden.
+**Wichtig:** Wenn eine Website, ein Dokument (eine Bibliothek) oder eine Liste gelöscht wurde und weiterhin in den Suchergebnissen angezeigt wird, sollten Benutzer beim Versuch, darauf zuzugreifen, eine **Fehlermeldung 404-Datei** erhalten, die nicht gefunden wurde. Dieses Problem sollte als Supportfall für weitere Untersuchungen protokolliert werden.
 
 
 

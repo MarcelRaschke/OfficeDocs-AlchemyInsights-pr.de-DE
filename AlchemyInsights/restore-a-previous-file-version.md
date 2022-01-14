@@ -1,7 +1,7 @@
 ---
 title: Wiederherstellen einer früheren Dateiversion
-ms.author: toresing
-author: tomresing
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 6e2a728b80d7c175682f17117cc1e61c109f56eb987483be12187d048467a4c4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 124ba663c2c389c2bd02dc9af74074f684a1132c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54039569"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987141"
 ---
 # <a name="restore-a-previous-file-version"></a>Wiederherstellen einer früheren Dateiversion
 

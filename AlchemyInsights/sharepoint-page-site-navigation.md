@@ -1,8 +1,8 @@
 ---
 title: Erste Schritte mit SharePoint Online
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 4ba34694f0551ade14efd902cfbefc4a7f7d5a62b8d2ea4dbc70424efd772798
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5f4918b09034d50aa4ca08f994104eb0e0b07155
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107682"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61963447"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>Website- und Seitennavigation in SharePoint Websites
 

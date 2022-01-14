@@ -1,7 +1,8 @@
 ---
 title: Empfohlene Lösungen für Dynamics 365 Storage Probleme
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -14,16 +15,16 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 6b164968b32727e320ba7a6a40b0de22ad88681881464d42e6eb553d714506d3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 82a67134a629ed8e686b8dbac8424533636f74ce
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062439"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61941211"
 ---
 # <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Empfohlene Lösungen für Dynamics 365-Speicherprobleme
 
-* [App: In Bezug auf die Suche werden keine Suchergebnisse zurückgegeben.](https://support.microsoft.com/help/4489111)
+* [App: Keine Suchergebnisse in Bezug auf die Suche zurückgegeben](https://support.microsoft.com/help/4489111)
 
 * [App: Fehler beim Öffnen der App für Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007021)
 
@@ -37,7 +38,7 @@ ms.locfileid: "54062439"
 
 * [Vollständiger Client: Diagnostizieren von D365 für Outlook Probleme](https://go.microsoft.com/fwlink/p/?linkid=2007024)
 
-* [App: Problembehandlung bei der D365-App für Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
+* [App: Problembehandlung für die D365-App für Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
 * [App: Bereitstellen](https://docs.microsoft.com/dynamics365/outlook-app/deploy-dynamics-365-app-for-outlook)
 

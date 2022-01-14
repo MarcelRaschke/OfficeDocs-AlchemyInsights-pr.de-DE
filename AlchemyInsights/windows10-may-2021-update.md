@@ -1,7 +1,7 @@
 ---
 title: Holen Sie sich das Windows 10 Update vom Mai 2021
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/28/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006487"
 - "11085"
-ms.openlocfilehash: 9a4b84f8ad8d805934e4df7f2e450428fa659b70fb532d3e912c5fd9e422f66e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 467b444a7eac3f64e467bd9bcb919559ac98e25a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54036599"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987393"
 ---
 # <a name="get-the-windows-10-may-2021-update"></a>Holen Sie sich das Windows 10 Update vom Mai 2021
 

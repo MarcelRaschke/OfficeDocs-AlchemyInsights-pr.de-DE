@@ -1,7 +1,7 @@
 ---
 title: Stream-Rauschunterdrückung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/20/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6068"
 - "9003225"
-ms.openlocfilehash: b49a39adeb38f9508004853713cac68af4aec90793b74ae66c603ad6fb62c994
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 99c3bda40485c654a30b08682b499e8391e29471
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53991318"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987105"
 ---
 # <a name="stream-noise-suppression"></a>Stream-Rauschunterdrückung
 

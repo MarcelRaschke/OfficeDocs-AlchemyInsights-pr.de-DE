@@ -1,7 +1,7 @@
 ---
 title: Löschen einer gesendeten Nachricht in Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 09/02/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13808"
 - "9000738"
-ms.openlocfilehash: 4e0d4a6dfc260f3b3975346ffc3b731665023a45
-ms.sourcegitcommit: 9209e36093fe5fa44663098b2a761196105e4d31
+ms.openlocfilehash: 825e4b49a483f8500145eba64ac82f9e05ea3628
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2021
-ms.locfileid: "61056572"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61964328"
 ---
 # <a name="delete-a-sent-message-in-teams"></a>Löschen einer gesendeten Nachricht in Teams
 

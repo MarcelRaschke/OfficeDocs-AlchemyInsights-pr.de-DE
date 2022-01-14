@@ -1,7 +1,7 @@
 ---
 title: Kommunikationsguthaben
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: ad38513dbb177d36df1164a316710b5f6bfe79bfdeb694fe04b6df9ff4949f20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9356b0cd7d9c21c23bbae14abdcfb45a43ab3fbb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966468"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61963963"
 ---
 # <a name="communication-credits"></a>Kommunikationsguthaben
 

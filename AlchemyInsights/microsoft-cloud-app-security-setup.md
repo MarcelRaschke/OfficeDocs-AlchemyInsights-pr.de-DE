@@ -1,7 +1,7 @@
 ---
 title: Microsoft Cloud App Security-Setup
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/30/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12313"
 - "9007389"
-ms.openlocfilehash: daa25ea431c604296dd84f1bd423c43fa0930a91
-ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
+ms.openlocfilehash: b6fe8a38399606f28c5b86d06b59cf134fa04d33
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58744710"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61942027"
 ---
 # <a name="microsoft-cloud-app-security-setup"></a>Microsoft Cloud App Security-Setup
 

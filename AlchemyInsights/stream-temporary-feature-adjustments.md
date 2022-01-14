@@ -1,7 +1,7 @@
 ---
 title: Temporäre Feature-Anpassungen streamen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4510"
-ms.openlocfilehash: e9f542cdb5300a9403f4037ebc16eb4af9db4bd143de176594efb0c3bee00f55
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2291457702ecf1175e4422c638659aad5266e77a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53941295"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61941991"
 ---
 # <a name="stream-temporary-feature-adjustments"></a>Temporäre Feature-Anpassungen streamen
 

@@ -1,7 +1,8 @@
 ---
 title: Ein Add-In für Outlook für Windows deaktivieren?
-ms.author: pebaum
-author: CrystalThomasMS
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "9003117"
 - "5896"
-ms.openlocfilehash: c5f76ce38552c9b305acec4a8ddfea1ee7ae5a0016bf8c67aed1d7e7c2c3449b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 145780a2ff0a391f0f078ab9eb8736f081605fc7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038732"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61986925"
 ---
 # <a name="turn-an-add-in-off-for-outlook-for-windows"></a>Deaktivieren eines Add-Ins für Outlook für Windows
 

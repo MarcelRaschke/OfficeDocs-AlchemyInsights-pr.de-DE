@@ -1,7 +1,7 @@
 ---
 title: 'Outlook Desktop: Senden von Abwesenheitsantworten'
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: d19bbbcf4fd131b3fb71645a2a0af7cac8a2fffb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: e48e162355336202e636a21cf533997dc267addb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58322718"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61964112"
 ---
 # <a name="outlook-desktop-send-out-of-office-replies"></a>Outlook Desktop: Senden von Abwesenheitsantworten
 

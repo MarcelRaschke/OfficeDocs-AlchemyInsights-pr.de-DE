@@ -1,7 +1,7 @@
 ---
 title: Kachelfehler
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 880002a3aba20d363e892a8adafcc9b469f9c748
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e7bb9f5c9722338fde671608978325bc3bfd596
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805642"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987501"
 ---
 # <a name="tile-errors"></a>Kachelfehler
 

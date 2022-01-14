@@ -1,7 +1,7 @@
 ---
 title: Aktivieren und Deaktivieren der externen Freigabe für SharePoint Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: 35cc955f3f6412f985f74d785d81815ae93a1ab5a719bf9b4de9154c024a2979
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 932c1272443cfa20eabc5db1a7e33be4c4e0c275
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53920394"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61986889"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>Aktivieren und Deaktivieren der externen Freigabe für SharePoint Online
 

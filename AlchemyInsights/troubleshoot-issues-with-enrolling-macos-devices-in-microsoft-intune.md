@@ -1,7 +1,7 @@
 ---
 title: Problembehandlung bei der Registrierung von macOS-Geräten in Microsoft Intune
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
@@ -13,12 +13,12 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: f89ecc2cffde920feda46090658b938101e0d6027492949dd03612c2b0811555
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2710bb92af1328ceba2f64fec7654f23a3be8fd0
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53939192"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987033"
 ---
 # <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Problembehandlung bei der Registrierung von macOS-Geräten in Microsoft Intune
 

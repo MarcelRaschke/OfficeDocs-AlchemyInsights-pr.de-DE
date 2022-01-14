@@ -1,7 +1,7 @@
 ---
 title: Erste Schritte mit Microsoft Search
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11046"
-ms.openlocfilehash: b68ebf4c3f70821c67420b1785eb4547fe7ef210bb277720fadc26309872467e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7c4932efe04f78bd761546ab9ac68fc5e1891c63
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025969"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987321"
 ---
 # <a name="get-started-with-microsoft-search"></a>Erste Schritte mit Microsoft Search
 

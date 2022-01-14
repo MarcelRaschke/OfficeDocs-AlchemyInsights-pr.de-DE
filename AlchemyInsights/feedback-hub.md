@@ -1,8 +1,8 @@
 ---
 title: Feedback über Feedback Hub an Microsoft senden
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/01/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9951"
 - "9005721"
-ms.openlocfilehash: db5637da389bc5b583ea996a034e4664986b1275e06d8952c1a64d6f8aa302d8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1445d0918b5df1bd3cde9387e54bd1ea475fdb67
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54089655"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61964220"
 ---
 # <a name="send-feedback-to-microsoft-with-feedback-hub"></a>Feedback über Feedback Hub an Microsoft senden
 

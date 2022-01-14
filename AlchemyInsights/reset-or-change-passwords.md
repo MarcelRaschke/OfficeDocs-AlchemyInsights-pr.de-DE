@@ -1,7 +1,7 @@
 ---
 title: Zurücksetzen oder Ändern von Kennwörtern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -16,12 +16,12 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 2e5f1a81aea51384a1e10a3b83f4cb59703c9ff0
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 8caff3d1954379012b2be9074db8032d1f86c61e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58328473"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61941151"
 ---
 # <a name="reset-or-change-passwords"></a>Zurücksetzen oder Ändern von Kennwörtern
 

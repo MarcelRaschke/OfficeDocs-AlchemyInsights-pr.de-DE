@@ -1,7 +1,7 @@
 ---
 title: Ausblenden, Einblenden oder Zurücksetzen der Sprachenleiste
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002950"
 - "5647"
-ms.openlocfilehash: 87f8c2d9e52cc9aad1cede226daf3527882ef9e737685a67d671978c05c5a822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e9f1d1f10e764159686d2a749021fe1f6e53b917
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055755"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61986564"
 ---
 # <a name="hide-display-or-reset-the-language-bar"></a>Ausblenden, Einblenden oder Zurücksetzen der Sprachenleiste
 

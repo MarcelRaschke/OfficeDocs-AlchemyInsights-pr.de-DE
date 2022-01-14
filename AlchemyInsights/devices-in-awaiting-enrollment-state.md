@@ -1,7 +1,7 @@
 ---
 title: Geräte befinden sich im Status "Awaiting Enrollment"
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 068e6dc7fae7221add027d335854b708ccc963532fda53be9d8f54bc578abab6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 763db034d74995205a96db70d3d7a108d257d766
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031045"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61963927"
 ---
 # <a name="devices-are-in-awaiting-enrollment-state"></a>Geräte befinden sich im Status "Awaiting Enrollment"
 

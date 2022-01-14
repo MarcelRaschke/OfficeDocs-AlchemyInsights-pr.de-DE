@@ -1,7 +1,7 @@
 ---
 title: Deaktivieren von MyAnalytics
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001697"
 - "5887"
-ms.openlocfilehash: faa48500e46b37bb7b1528292821a4b3b41964fe0459e69028f990aa10a81fd8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a4469743cc2d37a699c503461e5c3301fc74beb3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53928738"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61941679"
 ---
 # <a name="disable-myanalytics"></a>Deaktivieren von MyAnalytics
 

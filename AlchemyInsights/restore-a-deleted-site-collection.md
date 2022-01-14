@@ -1,7 +1,7 @@
 ---
 title: Wiederherstellen einer gelöschten Website
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 8f9a5f78c1a0eae2632fbf7c5132e520847feef415f7b6887d5d7796af720304
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 375a2819f58bc5aa9080b92355602722d7922469
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53958836"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61907132"
 ---
 # <a name="restore-a-deleted-site"></a>Wiederherstellen einer gelöschten Website
 

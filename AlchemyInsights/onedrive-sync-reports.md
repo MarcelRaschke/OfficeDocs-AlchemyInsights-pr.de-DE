@@ -1,7 +1,7 @@
 ---
 title: OneDrive-Synchronisierungsberichte im App Admin Center
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006594"
 - "11275"
-ms.openlocfilehash: 188151385ac4c3296998fcb04d045556ccb117e0
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5f14e11e2a2b055dd8d3fa4e8b60941f8688d90e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325014"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61941295"
 ---
 # <a name="onedrive-sync-reports-in-the-app-admin-center"></a>OneDrive-Synchronisierungsberichte im App Admin Center
 

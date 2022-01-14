@@ -1,7 +1,7 @@
 ---
 title: So installieren Sie Office auf einem iPad
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
@@ -13,12 +13,12 @@ ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.custom:
 - "649"
 - "2000016"
-ms.openlocfilehash: 8762321c9cd758b96ee6d2dce62d1c31cacc45c71a43cdc5f454ea04fe6a24f2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8846079baaa93783585ce7c1b7b427252e33f19b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54078837"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61963747"
 ---
 # <a name="how-to-install-office-on-an-ipad"></a>So installieren Sie Office auf einem iPad
 
