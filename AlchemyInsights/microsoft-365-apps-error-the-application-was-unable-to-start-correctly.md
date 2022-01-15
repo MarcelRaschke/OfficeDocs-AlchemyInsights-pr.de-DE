@@ -1,7 +1,7 @@
 ---
 title: 'Microsoft 365 Apps-Fehler: Die Anwendung konnte nicht ordnungsgemäß gestartet werden (0xc0000142)'
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/13/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6177"
 - "9003283"
-ms.openlocfilehash: b97ab936ff43ee9d4e67309c09cc8dc4c0dd91bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b77dcfba086a22089617c0741b21f932046f30a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743464"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61989339"
 ---
 # <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly-0xc0000142"></a>Microsoft 365 Apps-Fehler: Die Anwendung konnte nicht ordnungsgemäß gestartet werden (0xc0000142)
 

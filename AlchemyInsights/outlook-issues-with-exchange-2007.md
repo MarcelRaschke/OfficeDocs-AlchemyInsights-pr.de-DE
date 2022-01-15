@@ -1,7 +1,7 @@
 ---
-ms.author: pebaum
 title: Outlook Probleme mit Exchange 2007
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: be1c062d4f8d4fce889564f77de9558b16e26b76482f9af8c3a6b5e20966445a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ecee6bbd8037b4aacd810a26d6ef81e7b9ebac1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53983308"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944406"
 ---
 # <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Lösung für Fehler "Sie können keine E-Mails von einem aktuellen Postfach empfangen"
 Sie erhalten die folgenden Fehler, wenn Sie versuchen, Outlook 365/2016 mit einem Exchange 2007-Server zu verwenden:

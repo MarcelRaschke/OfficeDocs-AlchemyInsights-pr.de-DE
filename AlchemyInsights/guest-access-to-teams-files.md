@@ -1,7 +1,8 @@
 ---
 title: Gastzugriff auf Teams-Dateien
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.custom:
 - "6500001"
 - "4353"
 ms.assetid: ''
-ms.openlocfilehash: 8176ac9b9baf5c83de06469aa97fe55bd0465fde2609975db90e361fb88343f9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5dc01957b2a86bf9d88d3a06ebc568cb2e4b6856
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088635"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61966524"
 ---
 # <a name="guest-access-to-teams-files"></a>Gastzugriff auf Teams-Dateien
 

@@ -1,7 +1,7 @@
 ---
 title: Zurücksetzen des Administratorkennworts
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 26cb1ca85b63e5d99ce9a86c800d2b076eb6f441
-ms.sourcegitcommit: 3654e244361988ae92a16087d00a458277aff439
+ms.openlocfilehash: 6e403c10ca45dcc041596aa0d9d9988c1f8715a9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "58422479"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944730"
 ---
 # <a name="admin-password-reset"></a>Zurücksetzen des Administratorkennworts
 

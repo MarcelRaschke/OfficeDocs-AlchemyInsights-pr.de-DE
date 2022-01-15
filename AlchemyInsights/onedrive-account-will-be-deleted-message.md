@@ -1,7 +1,8 @@
 ---
 title: Meldung "OneDrive Konto wird gelöscht"
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: a77fa39829a550935882f05ea174f9c9be942b074183aaef9c0e464c94cfb4ba
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f9b04f459aadf357cccd4fbd8f8684e605c09504
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985144"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61989051"
 ---
 # <a name="onedrive-account-will-be-deleted-message"></a>Meldung "OneDrive Konto wird gelöscht"
 

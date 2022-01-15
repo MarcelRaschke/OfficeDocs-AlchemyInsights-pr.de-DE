@@ -1,7 +1,7 @@
 ---
 title: Hinzufügen von Bookings zu Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: 73df6cdd12dc2c219bd93bed868af6dd80455c3f65b5984ad7dbc65682b54bf2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3353bce4c30f212c118d41507b3ffcd8c1fd1b6b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53934940"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944898"
 ---
 # <a name="adding-bookings-to-teams"></a>Hinzufügen von Bookings zu Teams
 

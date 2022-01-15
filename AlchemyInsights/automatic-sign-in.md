@@ -1,7 +1,7 @@
 ---
 title: Automatische Anmeldung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/28/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10989"
 - "9006449"
-ms.openlocfilehash: 9452d9274bc05222cf927bd4c79deabf7825b70447f6c5387d65e1a37f8f2db5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1acbcd2e97255c976647119c37d2cc2fe571667a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54091797"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61966056"
 ---
 # <a name="automatic-sign-in"></a>Automatische Anmeldung
 

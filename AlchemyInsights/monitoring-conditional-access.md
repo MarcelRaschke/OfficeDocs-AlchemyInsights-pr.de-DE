@@ -1,7 +1,8 @@
 ---
 title: Überwachen des bedingten Zugriffs
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: 80e8cc72db8ae32445d48e5c8a411d5ccd538626653260b3dbd28a247561e888
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5db355fc754b0a11ec14255913d58a12d0ee883d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53975100"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61988762"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Überwachen des bedingten Zugriffs auf Exchange
 
@@ -32,7 +33,7 @@ Benutzer, die auf bedingten Zugriff abzielen, erhalten eine Benachrichtigungs-E-
 3. Klicken Sie auf "Benutzer und Gruppen".
 4. Wenn Sie eine bestimmte Richtlinie an jemanden adressieren möchten, fügen Sie sie der Include-Liste hinzu. Um sicherzustellen, dass eine Person aus der Richtlinie weggelassen wird, fügen Sie sie der Liste "Ausschließen" hinzu.
 
-Hilfreiche Links:
+Nützliche Links:
 
 [Übersicht über die Gerätekompatibilität](https://docs.microsoft.com/intune/device-compliance-get-started)
 
@@ -42,4 +43,4 @@ Hilfreiche Links:
 
 [Überwachen der Intune-Gerätekompatibilität](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Hinweis: Diese Schritte sind nur bei der Problembehandlung für die Azure Active Directory Feature bedingter Zugriff hilfreich. Es ist auch möglich, ein Gerät, das den E-Mail-Zugriff blockiert, mit Exchange Richtlinie unter Quarantäne zu stellen. Weitere Informationen zu Exchange Geräteverwaltung finden Sie [hier]( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .
+Hinweis: Diese Schritte sind nur bei der Problembehandlung für die Azure Active Directory Feature bedingter Zugriff hilfreich. Es ist auch möglich, ein Gerät unter Quarantäne zu stellen, das den E-Mail-Zugriff mit Exchange Richtlinie blockiert. Weitere Informationen zur Exchange Geräteverwaltung finden Sie [hier]( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .

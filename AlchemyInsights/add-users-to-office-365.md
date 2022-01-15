@@ -1,7 +1,7 @@
 ---
 title: Hinzufügen von Benutzern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: 73198c74b5c4a250a3f3e74d35dde7331d2085d0
-ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
+ms.openlocfilehash: 90bd5c1dc42d5932522d445e3c983032b09de138
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59327777"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944970"
 ---
 # <a name="add-a-user"></a>Hinzufügen eines Benutzers
 

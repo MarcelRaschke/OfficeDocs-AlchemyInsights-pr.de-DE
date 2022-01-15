@@ -2,6 +2,7 @@
 title: 414 Sucherfahrung aktualisiert
 ms.author: chrisda
 author: chrisda
+manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +15,12 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: 3c0386b821e16226a50e49410fdbd23a8da02ac74b4967adf7409f93c49d8068
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 068870f8de6dbeace9f34c5fbc35a0acc8a460b6
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53958548"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944334"
 ---
 # <a name="search-experience-updated"></a>Suchoberfläche aktualisiert
 

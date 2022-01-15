@@ -1,7 +1,7 @@
 ---
 title: Einstellungen für Besprechungsrichtlinien
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 06395bcc1a631adeaa8abb5ad63b971639f226c19e48203078ba1097d43a50f8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ff2d0a75164d637e9ab8517a073c80d0facca1f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53925164"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61943611"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Verwalten von Besprechungsrichtlinien in Microsoft Teams
 
 **Hinweis: Es kann bis zu 24 Stunden dauern, bis Richtlinienänderungen für Benutzer wirksam werden.** Möglicherweise können Sie änderungen an neu erstellten Richtlinien nicht sofort vornehmen. warten Sie 4 Stunden, und versuchen Sie erneut, eine neu erstellte Richtlinie zu ändern.
 
-Besprechungsrichtlinien werden verwendet, um die Features zu steuern, die Besprechungsteilnehmern für Besprechungen, die von Benutzern in Ihrer Organisation geplant werden, zur Verfügung stehen. Einige Features von Besprechungsrichtlinien sind möglicherweise noch nicht im Teams Admin Center implementiert (diese werden in der Dokumentation als "bald verfügbar" bezeichnet). In diesem Fall oder wenn Sie im Microsoft Teams Admin Center einen Fehler wie "Wir können die Richtlinie derzeit nicht aktualisieren, aber später erneut versuchen" erhalten, empfehlen wir, PowerShell zum Erstellen oder Ändern Teams Besprechungsrichtlinien zu verwenden. 
+Besprechungsrichtlinien werden verwendet, um die Features zu steuern, die Besprechungsteilnehmern für Besprechungen, die von Benutzern in Ihrer Organisation geplant werden, zur Verfügung stehen. Einige Features von Besprechungsrichtlinien sind möglicherweise noch nicht im Teams Admin Center implementiert (diese werden in der Dokumentation als "bald verfügbar" bezeichnet). In diesem Fall oder wenn Sie im Microsoft Teams Admin Center einen Fehler wie "Wir können die Richtlinie nicht aktualisieren, sondern später erneut versuchen" erhalten, empfehlen wir, PowerShell zum Erstellen oder Ändern Teams Besprechungsrichtlinien zu verwenden. 
 
 Weitere Informationen zu Besprechungsrichtlinien finden Sie in den folgenden Ressourcen:
 

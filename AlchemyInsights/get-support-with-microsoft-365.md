@@ -1,7 +1,7 @@
 ---
 title: Anfordern von Support für Microsoft 365
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "4503"
 - "9002471"
 - "4818"
-ms.openlocfilehash: 55f420ce477e4c22eba15e3eccd0db8647c17d29e20ccf39ee01f62f151db5c9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff509b4370c4bab66b68869a24c485728c193519
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53993568"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61966560"
 ---
 # <a name="get-support-with-microsoft-365"></a>Anfordern von Support für Microsoft 365
 

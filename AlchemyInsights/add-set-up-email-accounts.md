@@ -1,7 +1,7 @@
 ---
 title: 1800018 E-Mail-Konten hinzufügen/einrichten
-ms.author: pdigia
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,16 +14,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: efd74173e62a5d2204641d0594e0e39587bbef869cb1ee7590a3db824a705bd2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 69a00a1f123f17bdf433e88bf7f0f7ba57b46bb4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53935552"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944046"
 ---
 # <a name="problems-setting-up-an-email-account-in-outlook"></a>Probleme beim Einrichten eines E-Mail-Kontos in Outlook
 
-Wenn Sie Probleme beim Einrichten eines Exchange Kontos in Outlook haben, können Sie das [Setuptool für Outlook Konto](https://aka.ms/SaRA-OutlookSetupProfile) auf dem betroffenen Computer ausführen. Es führt verschiedene Prüfungen durch und bietet mögliche Lösungen für das Problem mit der Kontoeinrichtung.
+Wenn Sie Probleme beim Einrichten eines Exchange Kontos in Outlook haben, können Sie das [Outlook Kontoeinrichtungstool](https://aka.ms/SaRA-OutlookSetupProfile) auf dem betroffenen Computer ausführen. Es führt verschiedene Prüfungen durch und bietet mögliche Lösungen für das Problem mit der Kontoeinrichtung.
   
-Wenn weiterhin Probleme auftreten, lesen [Sie, Outlook kein neues Profil mithilfe Exchange AutoErmittlung für ein Exchange Online Postfach einrichten können.](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)
+Wenn weiterhin Probleme auftreten, lesen [Sie, Outlook kein neues Profil mithilfe Exchange AutoErmittlung für ein Exchange Online Postfach einrichten kann.](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)
   

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Information Governance
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/08/2021
 ms.audience: Admin
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007400"
 - "12355"
-ms.openlocfilehash: b668483e9911615c3c85f54361be7767794f2af5d4271c1950b01b401a2e2ef2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 22655060c1c759588101e2e5b95fbffd414ca7a3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53992833"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61989303"
 ---
 # <a name="microsoft-information-governance"></a>Microsoft Information Governance
 
-Informationsgovernance ist erforderlich, um Ihre Organisationsdaten zu klassifizieren und wie lange sie aufbewahrt werden. Verwenden Sie den [Einrichtungsleitfaden für Die Informationsgovernance](https://admin.microsoft.com/AdminPortal/Home#/modernonboarding/migsetupguide) von Microsoft, um Anleitungen zum Einrichten der Governancestrategie für ihre wiederverwendbaren Inhalte und Compliancedatensätze zu erhalten. Durch das Erstellen von E-Mail- und Dokumentbezeichnungen, Bezeichnungsrichtlinien und Aufbewahrungsrichtlinien verwalten Sie den Lebenszyklus Ihrer Organisationsdaten.
+Informationsgovernance ist erforderlich, um Ihre Organisationsdaten zu klassifizieren und wie lange sie aufbewahrt werden. Verwenden Sie den [Einrichtungsleitfaden für Die Informationsgovernance](https://admin.microsoft.com/AdminPortal/Home#/modernonboarding/migsetupguide) von Microsoft, um Anleitungen zum Einrichten der Governancestrategie für Ihre wiederverwendbaren Inhalte und Compliancedatensätze zu erhalten. Durch das Erstellen von E-Mail- und Dokumentbezeichnungen, Bezeichnungsrichtlinien und Aufbewahrungsrichtlinien verwalten Sie den Lebenszyklus Ihrer Organisationsdaten.
 

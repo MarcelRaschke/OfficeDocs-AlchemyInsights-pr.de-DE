@@ -1,7 +1,7 @@
 ---
 title: Installieren und Verwenden von Publisher
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002627"
 - "5045"
-ms.openlocfilehash: 69086372b44f524072968cbeb1762301d37cf434
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1e7e3c18dbbce51393349eac6755ac60eb9b57c3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58319993"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61990062"
 ---
 # <a name="install-and-use-publisher"></a>Installieren und Verwenden von Publisher
 

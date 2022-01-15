@@ -1,7 +1,7 @@
 ---
 title: Trennen und erneutes Verbinden der Kamera
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 48b63bab69eac91942fc1b0f3fe63f6d004992bb49757de8df6e3bdcf9d447d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 73c7e52308471eccaad99526e248dbbfad9b30e7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54073743"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61966164"
 ---
 # <a name="unplug-and-reconnect-camera"></a>Trennen und erneutes Verbinden der Kamera
 

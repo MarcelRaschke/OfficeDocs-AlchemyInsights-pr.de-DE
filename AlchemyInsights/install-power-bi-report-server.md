@@ -1,7 +1,7 @@
 ---
 title: Installieren Power BI-Berichtsserver
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 01cc2efc2dacc2fdf0b7b7f036bc18e1c75fd515348b72d5c4dde96949a51a2d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b4efc43d722bea05c3d86b2c83e4266877c4853a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028579"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61990026"
 ---
 # <a name="install-power-bi-report-server"></a>Installieren Power BI-Berichtsserver
 
 1. Suchen Sie den Speicherort der PowerBIReportServer.exe, und starten Sie das Installationsprogramm.
 
-2. Wählen Sie **Power BI-Berichtsserver installieren** aus.
+2. Wählen Sie **"Power BI-Berichtsserver installieren"** aus.
 
 3. Wählen Sie eine zu installierende Edition aus, und wählen Sie dann **"Weiter"** aus.
 

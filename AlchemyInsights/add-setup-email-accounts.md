@@ -1,7 +1,8 @@
 ---
 title: 764 E-Mail-Konten hinzufügen/einrichten
-ms.author: pdigia
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: d7e015bd79addc9a1abe1a9a7973fe923c934bf60c2891f4454c13622a2b8a9f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 199c0dd3a478c4bbb879fca9e7f7fa1b5cb06c02
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53935516"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61945006"
 ---
 # <a name="set-up-email-accounts"></a>Einrichten von E-Mail-Konten
 

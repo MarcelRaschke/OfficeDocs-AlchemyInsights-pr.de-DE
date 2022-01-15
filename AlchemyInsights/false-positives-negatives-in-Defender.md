@@ -1,7 +1,7 @@
 ---
 title: Beheben von falsch positiven/negativen Ergebnissen in Microsoft Defender für Endpunkt
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/21/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007385"
 - "12446"
-ms.openlocfilehash: b595cd789ac593ee2f48752ac3e483280350018d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 18714db06d3b59fed2ea3d69e29d3b43f2c9a7e4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313248"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61966598"
 ---
 # <a name="address-false-positivesnegatives-in-microsoft-defender-for-endpoint"></a>Beheben von falsch positiven/negativen Ergebnissen in Microsoft Defender für Endpunkt
 

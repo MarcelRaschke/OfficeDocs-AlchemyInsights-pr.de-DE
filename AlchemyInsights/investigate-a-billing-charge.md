@@ -1,7 +1,7 @@
 ---
 title: Untersuchen einer Abrechnungsgebühr von Microsoft oder MSbill dot info
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 2a6edab560edf98ff77a8cfad8582d8010f32e180a5868cab720aae6751f0c14
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 96d22529d9e1d9afc07c4ecd122ef6995a3e2df2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054971"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61989414"
 ---
 # <a name="investigate-a-billing-charge-from-microsoft-or-msbill-dot-info"></a>Untersuchen einer Abrechnungsgebühr von Microsoft oder MSbill dot info
 

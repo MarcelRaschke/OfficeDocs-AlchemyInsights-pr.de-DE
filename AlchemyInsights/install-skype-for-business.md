@@ -1,7 +1,7 @@
 ---
 title: Installieren Skype for Business
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +15,12 @@ ms.custom:
 - "9000741"
 - "2669"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: 1f24aaf32def8f500900437c848f2076491131ff615d874deb685ccb8c5f3271
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e32665ae8824daf665a87eaec0120323760cce48
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014431"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61989954"
 ---
 # <a name="install-skype-for-business"></a>Installieren Skype for Business
 

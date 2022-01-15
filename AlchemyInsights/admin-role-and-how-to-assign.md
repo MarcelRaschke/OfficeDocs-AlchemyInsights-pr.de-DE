@@ -1,7 +1,7 @@
 ---
 title: Administratorrolle und deren Zuweisung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 9c343fa9f092f80c2497e1b0dc76f193b62a01aa4dac7b2be6f1c916e611abbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78f7249012481a8e91f814662b9fd9186f32fc6a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952536"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61943974"
 ---
 # <a name="admin-roles"></a>Administratorrollen
 

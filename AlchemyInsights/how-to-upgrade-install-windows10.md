@@ -1,7 +1,7 @@
 ---
 title: Aktualisieren oder Installieren von Windows 10
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 03/29/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10141"
 - "9005600"
-ms.openlocfilehash: 884df8142fe580cb8e283ec96c31a21d79e9250a
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 43e0c8aace7817756be90a8be6cb691e016e0303
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426846"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61990098"
 ---
 # <a name="how-to-upgrade-or-install-windows-10"></a>Aktualisieren oder Installieren von Windows 10
 

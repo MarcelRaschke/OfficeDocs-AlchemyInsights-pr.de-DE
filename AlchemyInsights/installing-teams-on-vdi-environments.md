@@ -1,7 +1,7 @@
 ---
 title: Installieren von Teams in VDI-Umgebungen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 1843caac062824ee531abda8e443903b98d94b4948759a0f63741ae17062bf8e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a3a7f79c397f4f6c1ab3afba87bdb11a7f2b82de
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088143"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61989882"
 ---
 # <a name="installing-teams-on-vdi-environments"></a>Installieren von Teams in VDI-Umgebungen
 

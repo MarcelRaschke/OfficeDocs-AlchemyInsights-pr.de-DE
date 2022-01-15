@@ -1,7 +1,8 @@
 ---
 title: Aktualisieren von Abrechnungsinformationen im Rahmen des Azure Enterprise-Vertrags
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6861"
-ms.openlocfilehash: 2ea154ef1ef0b5c5a2a489ebeaf74b1dc6e8b04b7c05e1064869cc99262c9823
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 38a945e1e1fe57cfdaf90b372b3cfb9c1ce04dc9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53953940"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944154"
 ---
 # <a name="update-billing-info-under-azure-enterprise-agreement"></a>Aktualisieren von Abrechnungsinformationen im Rahmen des Azure Enterprise-Vertrags
 

@@ -1,7 +1,7 @@
 ---
 title: Die Kamera in Teams funktioniert nicht.
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
@@ -15,12 +15,12 @@ ms.custom:
 - "6210"
 - "9003562"
 - "6663"
-ms.openlocfilehash: 8a64714bf2a651d49b182afda6bf0a4534de98198742c2833f7ba9deb93e1c38
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 74409e26f54c3d174e99b997df7f005008d218b5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071835"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944694"
 ---
 # <a name="camera-isnt-working-in-teams"></a>Die Kamera in Teams funktioniert nicht.
 

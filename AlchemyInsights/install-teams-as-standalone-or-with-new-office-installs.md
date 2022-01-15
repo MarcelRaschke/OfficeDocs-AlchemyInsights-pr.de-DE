@@ -1,7 +1,7 @@
 ---
 title: Eigenständige Installation von Teams oder zusammen mit neuen Office-Installationen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "5706"
-ms.openlocfilehash: 42d1bb1fed4286e088f76be8385ded01e83696499918df94ec438ae84fbede7c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee004da604342d403a1647fa9602d87a8b346a61
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014323"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61989918"
 ---
 # <a name="install-teams-as-standalone-or-with-new-office-installs"></a>Eigenständige Installation von Teams oder zusammen mit neuen Office-Installationen
 

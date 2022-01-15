@@ -1,7 +1,8 @@
 ---
 title: Microsoft Teams – Gastzugriff
-ms.author: heidip
-author: microsoftheidi
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +13,12 @@ ms.custom:
 - "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 96a57d523c75a2e0b3cebff6abe23377fa7d2525ce00cedeb1a16c6669255c8e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 583add1f20f39ad353cfca5ba9f4fa0e4fc5dbf4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026869"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944586"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams – Gastzugriff
 

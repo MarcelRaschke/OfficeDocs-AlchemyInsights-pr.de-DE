@@ -1,7 +1,7 @@
 ---
-title: Co-Management
-ms.author: pebaum
-author: pebaum
+title: Mitverwaltung
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: b8a2806a6d828b8ef7ee4e6dff05dcc496857b8ca8f76c777c39ff3155809668
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 06b92ba0b14040fbb653335dbe573cac359a69c9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54006385"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61943683"
 ---
-# <a name="co-management"></a>Co-Management
+# <a name="co-management"></a>Mitverwaltung
 
 **Voraussetzungen für die Migration von Config Manager Hybrid zu Intune**
 

@@ -1,7 +1,7 @@
 ---
 title: Datenstreamer-Add-In für Excel
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1862"
 - "9000263"
-ms.openlocfilehash: 22ae3b33610ef0338a246e3c70aab0fd7de2664d5b0cc93ad80abb329430c14a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 665892f0fd2a7726e644dd66463765a2f76a374c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914542"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61966742"
 ---
 # <a name="data-streamer-add-in-for-excel"></a>Datenstreamer-Add-In für Excel
 

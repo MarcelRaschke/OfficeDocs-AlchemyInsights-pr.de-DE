@@ -1,7 +1,7 @@
 ---
 title: Globaler und SharePoint-Administrator
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5674"
-ms.openlocfilehash: 03a76d22f1370234442afe455b4b898a37dd796b7d795c7ab1190ddd3102ae11
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf755ce34d807388543f79aa24ac928b34f09016
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056417"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61965804"
 ---
 # <a name="global-and-sharepoint-admin"></a>Globaler und SharePoint-Administrator
 

@@ -1,7 +1,8 @@
 ---
 title: Bericht über automatisch weitergeleitete Nachrichten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: fdae2acc4d1b78edfdf9fa49cc6711e6f87ea0a3
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 58874c872229bd09b1e9769540e356536f5b1bfc
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58327881"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944658"
 ---
 # <a name="auto-forwarded-messages-report"></a>Bericht über automatisch weitergeleitete Nachrichten
 

@@ -1,7 +1,7 @@
 ---
 title: FAILED_TO_AUTO_DISCOVER_DOMAIN
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001721"
 - "3816"
-ms.openlocfilehash: 248a1baac87b09b4c6f29c160beadb52ed0d3983
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c242c4071a7aa529783028f57a4bb6379a7635e5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813255"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61965840"
 ---
 # <a name="failed_to_auto_discover_domain"></a>FAILED_TO_AUTO_DISCOVER_DOMAIN
 

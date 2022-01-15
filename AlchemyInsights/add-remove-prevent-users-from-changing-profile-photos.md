@@ -1,7 +1,7 @@
 ---
 title: Hinzufügen, Entfernen oder Verhindern, dass Benutzer Profilfotos ändern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: b4e4529a3d3a3a7245763b1676e722eaba34bb37
-ms.sourcegitcommit: 5f0c413ba20440f4034e60d1ca4b0c1dc8fc3ad4
+ms.openlocfilehash: a9e45b608fa9a17b238f7a9c83feeab8c983c6c5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2021
-ms.locfileid: "61124482"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944082"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Hinzufügen, Entfernen oder Verhindern, dass Benutzer Profilfotos ändern
 

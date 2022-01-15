@@ -1,7 +1,7 @@
 ---
 title: 606 Informationen zur Delegierung
 ms.author: pdigia
-author: pebaum
+author: cmcatee-MSFT
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
@@ -13,19 +13,19 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 2e2c6b17807fe8ecab0b9685f981beda20c122143d1036a9c03075552c5ca897
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 12abd43a9c04570c97b51afad8290a2dde7aacf3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088215"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61988798"
 ---
 # <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Problembehandlung bei delegierung in Outlook und Outlook im Web
 
 **Problembehandlung mit dem SaRA-Tool:**
 
 1. Laden Sie hier SaRA Tool herunter, und installieren Sie [es.](https://aka.ms/SaRA-SkypeForBusinessSignIn)
-1. Wählen Sie **Outlook** aus, dann **habe ich Probleme mit meinem Kalender.**
+1. Wählen Sie **Outlook** aus, dann **treten Probleme mit meinem Kalender** auf.
 1. Sagen Sie **"Ja"** für den betroffenen Computer.
 1. Fügen Sie die E-Mail-Adresse des betroffenen Benutzers hinzu.
 1. Wählen Sie **aus, dass probleme mit Stellvertretungsberechtigungen auftreten.**

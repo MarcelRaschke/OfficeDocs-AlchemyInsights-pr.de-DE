@@ -1,7 +1,7 @@
 ---
 title: Vorschläge zum Beheben von "Nicht lizenzierten Produktfehlern"
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
 ms.audience: ITPro
@@ -13,12 +13,12 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 4982ba5bf5edd402041b90f397dc5b971d15af6334d3a9882b59de182fec8c7a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bab389b0e550351c7ce329109ee4af1dc401236
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909753"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61988906"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Vorschläge zum Beheben von Fehlern beim "nicht lizenzierten Produkt"
 

@@ -1,7 +1,7 @@
 ---
 title: Das Dashboard zeigt keine Änderungen nach der Aktualisierung an
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/20/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1318"
 - "2500002"
-ms.openlocfilehash: 4d87ebaabb83db7b95182ea5b062fdef15da4263a68f47b31d262893570c3617
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5d13111e7a976e1efcb5b25cd30d395ce52fc772
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005665"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61943647"
 ---
 # <a name="dashboard-doesnt-reflect-changes-after-refresh"></a>Das Dashboard zeigt keine Änderungen nach der Aktualisierung an
 

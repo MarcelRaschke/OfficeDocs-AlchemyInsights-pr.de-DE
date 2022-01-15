@@ -1,7 +1,7 @@
 ---
 title: Microsoft Viva Insights
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/30/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13759"
 - "9004616"
-ms.openlocfilehash: 350a8dfb58d54a63082411d35967c9d4965f4bdf
-ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
+ms.openlocfilehash: 4de5b28f01ffb1d5d7357e38982e755c8a1e492f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58744705"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944442"
 ---
 # <a name="microsoft-viva-insights"></a>Microsoft Viva Insights
 

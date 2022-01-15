@@ -1,7 +1,7 @@
 ---
 title: Upn ändern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 68c4a2e0899f7402c63937b0d71f7b43a77388ac
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332434"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61966020"
 ---
 # <a name="change-a-users-email-address"></a>Ändern der E-Mail-Adresse eines Benutzers
 
 Das Ändern der E-Mail-Adresse einer Person ist einfach! Führen Sie einfach die folgenden Schritte aus:
   
-1. Wechseln Sie im Microsoft 365 Admin Center zur Seite ["Benutzer",](https://go.microsoft.com/fwlink/p/?linkid=834822) oder wählen Sie **"Aktive** \> **Benutzer"** aus.
+1. Wechseln Sie im Microsoft 365 Admin Center zur Seite ["Benutzer",](https://go.microsoft.com/fwlink/p/?linkid=834822) oder wählen Sie  \> **"Aktive Benutzer"** aus.
     
 2. Wählen Sie den Benutzer aus.
     

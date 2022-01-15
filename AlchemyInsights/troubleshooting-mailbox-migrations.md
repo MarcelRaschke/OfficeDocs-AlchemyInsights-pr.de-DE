@@ -1,7 +1,7 @@
 ---
 title: Problembehandlung bei Postfachmigrationen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6042"
 - "3500008"
-ms.openlocfilehash: 2082af3df60cfe52ee33937f0ed2cd8b7d2436d4ac294c6b8b641dc4aea2ee61
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a440e0af1a796715af74a7e55161b99d2fb17a98
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53955929"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61966200"
 ---
 # <a name="troubleshooting-mailbox-migrations"></a>Problembehandlung bei Postfachmigrationen
 

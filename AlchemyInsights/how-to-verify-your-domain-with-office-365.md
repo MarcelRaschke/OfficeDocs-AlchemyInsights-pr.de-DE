@@ -1,7 +1,8 @@
 ---
 title: 'So überprüfen Sie Ihre Domäne '
-ms.author: pebaum
-author: CrystalThomasMS
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +14,12 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: eb0225b9826f4c1ccd7b2e3ff84898b6596d7d41
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0d550be5a41e00ffa340bb8e141ec9189b71ea68
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318323"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61988834"
 ---
 # <a name="how-to-verify-your-domain"></a>So überprüfen Sie Ihre Domäne
 

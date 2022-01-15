@@ -1,7 +1,7 @@
 ---
 title: Freigeben Ihrer Videos in Microsoft Stream
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: d8c3a460495eec8b813effa6afef97f75f25545c5ba89e76c123b6273e1a9025
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b21e9e19e58c76573209fa6c1d2e80b784ff8cb7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54108159"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61990134"
 ---
 # <a name="share-your-videos-in-microsoft-stream"></a>Freigeben Ihrer Videos in Microsoft Stream
 

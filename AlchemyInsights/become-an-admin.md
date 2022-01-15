@@ -1,7 +1,8 @@
 ---
 title: Administrator werden
-ms.author: pebaum
-author: CrystalThomasMS
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +14,12 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: db534de825d9b77882d4b37396b266ba6a28e49d4287ab1555500b4e54d8c10b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f45ae06b6d821acd3fc6e0509ecb3ae56c769eee
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53969289"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61943865"
 ---
 # <a name="become-an-admin"></a>Administrator werden
 

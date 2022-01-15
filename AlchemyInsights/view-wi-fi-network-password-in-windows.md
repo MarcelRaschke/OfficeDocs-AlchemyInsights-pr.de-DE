@@ -1,7 +1,7 @@
 ---
 title: Anzeigen Wi-Fi Netzwerkkennworts in Windows 10
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: 91fa09c3d90db6d313a811c2b78a2feda4b001f48f7914c0d6e2b81627400fbc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b00e275714f7c6a1a04026f154d34fbd5d90a64f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53990116"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61989231"
 ---
 # <a name="view-wi-fi-network-password-in-windows-10"></a>Anzeigen Wi-Fi Netzwerkkennworts in Windows 10
 
@@ -35,7 +35,7 @@ ms.locfileid: "53990116"
 
     Klicken Sie auf den Namen des Drahtlosnetzwerks, um das Fenster Wi-Fi Status zu öffnen. 
 
-5. Klicken Sie im Fenster Wi-Fi Status auf **Drahtloseigenschaften,** klicken Sie auf die Registerkarte **"Sicherheit",** und aktivieren Sie die **Zeichen anzeigen.**
+5. Klicken Sie im Fenster Wi-Fi Status auf **"Drahtloseigenschaften",** klicken Sie auf die Registerkarte **"Sicherheit",** und aktivieren Sie **"Zeichen anzeigen".**
 
     ![Anzeigen Wi-Fi Kennwortzeichen.](media/show-password-characters.png)
 

@@ -1,7 +1,7 @@
 ---
 title: Hinzufügen eines SharePoint Kalenders
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 0694d68be73eb7b3cf46b933a3fd263800b82f7657823703b2a6bf175eca6409
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8e132453351c960c7377a51cd6a29b671015249c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53935156"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944010"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Hinzufügen eines SharePoint Kalenders
 
@@ -30,5 +30,5 @@ Führen Sie die folgenden Schritte aus, um einen SharePoint Kalender zu erstelle
 2.  Geben Sie im Suchfeld "App suchen" **"Kalender"** **ein,** und drücken Sie die EINGABETASTE.
 3.  Wählen Sie die App mit dem Titel **"Kalender"** aus, und geben Sie dann einen Namen für Ihren Kalender ein.
 
-Weitere Informationen zu Microsoft 365 Gruppen finden Sie unter [Informationen zu Microsoft 365-Gruppen.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
+Weitere Informationen zu Microsoft 365-Gruppen finden Sie unter [Informationen zu Microsoft 365-Gruppen.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
 

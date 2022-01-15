@@ -1,7 +1,8 @@
 ---
 title: Microsoft 365 Defender
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 075811418fc697bffdc9d9bfa2d8c4527b1cc7f91bf5892447d099f1c5ee6140
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fe3c2987c09dd8e4121895e3bdce528ab8e12289
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012163"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944514"
 ---
 # <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do mandantenübergreifende Freigabe
 

@@ -1,7 +1,7 @@
 ---
 title: Teams-Kontaktsynchronisierung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004610"
 - "11540"
-ms.openlocfilehash: efc1f29c6e2f76d763f2f8102db7e9f6afb1f1be
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 54bcb00965c790232ab06c3b2aad95a6fd3816c1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58327332"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61989522"
 ---
 # <a name="teams-contacts-sync"></a>Teams-Kontaktsynchronisierung
 

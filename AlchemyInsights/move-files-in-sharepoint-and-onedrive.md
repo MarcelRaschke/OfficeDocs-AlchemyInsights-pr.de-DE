@@ -1,7 +1,7 @@
 ---
 title: Verschieben von Dateien in SharePoint und OneDrive
-ms.author: toresing
-author: tomresing
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 7c30a914bb276527d15604c4fc4f6457a5be260f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: f28d0fa711ca708a92bf2d8b6372197ee7a8c018
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325202"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61910594"
 ---
 # <a name="move-files-in-sharepoint-and-onedrive"></a>Verschieben von Dateien in SharePoint und OneDrive
 

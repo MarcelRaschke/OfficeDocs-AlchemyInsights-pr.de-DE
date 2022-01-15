@@ -1,7 +1,7 @@
 ---
 title: Teams kann nicht gestartet werden
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/4/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12673"
 - "9007646"
-ms.openlocfilehash: ebfabf667092850e5045c56e34e355739944ba44
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7e5e63e64a322e4d6a1720707471887153f6ab84
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329325"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61989486"
 ---
 # <a name="teams-doesnt-launch"></a>Teams kann nicht gestartet werden
 

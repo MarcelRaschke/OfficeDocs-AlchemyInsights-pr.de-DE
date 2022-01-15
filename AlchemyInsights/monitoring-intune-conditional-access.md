@@ -1,7 +1,8 @@
 ---
 title: Überwachen des bedingten Zugriffs auf Intune
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: c7855d8dac488fe62d8e0ad8ee2ad46e615ea031fc535eb54dfde9512c8921ea
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8974334e64106340952821de530cdbe44ea48a11
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54113379"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61988726"
 ---
 # <a name="troubleshoot-issues-with-microsoft-intune"></a>Behandeln von Problemen mit Microsoft Intune
 

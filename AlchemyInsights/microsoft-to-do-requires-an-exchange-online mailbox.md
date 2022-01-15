@@ -1,7 +1,7 @@
 ---
 title: Microsoft To Do erfordert ein Exchange Online-Postfach
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/10/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5751"
 - "9003043"
-ms.openlocfilehash: 10ea96671133724dea312ef6b51a4a0ceb974050d8bd0dbdd9e89b895e76e671
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cdd92464cda4a6c402fd5d6be1b9b9a987451f53
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54113955"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944478"
 ---
 # <a name="microsoft-to-do-requires-an-exchange-online-mailbox"></a>Microsoft To Do erfordert ein Exchange Online-Postfach
 

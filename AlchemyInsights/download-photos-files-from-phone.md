@@ -1,8 +1,8 @@
 ---
 title: Versuchen Sie Fotos und Dateien von Ihrem Smartphone herunterzuladen?
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9795"
 - "9005496"
-ms.openlocfilehash: 2d397e135a87b78f9ee9ab3015e0a941be08d75544468066b6f8f9857b7db016
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5fc54892cd61b66ed46d3303d29076fb5073e9ca
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964812"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61966670"
 ---
 # <a name="are-you-trying-to-download-photos-and-files-from-your-phone"></a>Versuchen Sie Fotos und Dateien von Ihrem Smartphone herunterzuladen?
 

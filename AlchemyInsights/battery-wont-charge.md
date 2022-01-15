@@ -1,7 +1,7 @@
 ---
 title: Der Akku wird nicht aufgeladen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: fab76114044f71d60dbaf812cd2cd0cc75c8169c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d12ae3d14016026f32d202e2549fee47334e39f3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820465"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61943901"
 ---
 # <a name="battery-wont-charge"></a>Der Akku wird nicht aufgeladen
 

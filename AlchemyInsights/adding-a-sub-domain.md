@@ -1,7 +1,7 @@
 ---
 title: Hinzufügen einer Unterdomäne
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7"
 - "13902"
-ms.openlocfilehash: ea39984a54a15ae6167363eb5855943c8ab1120d
-ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
+ms.openlocfilehash: 46c67c2c22c221e9f8487daab9b2aef7788ac6c1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2021
-ms.locfileid: "59475953"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61944934"
 ---
 # <a name="adding-a-sub-domain"></a>Hinzufügen einer Unterdomäne
 
