@@ -1,7 +1,7 @@
 ---
-title: Microsoft 365 Sprach-Einstellungen
-ms.author: pebaum
-author: pebaum
+title: Microsoft 365 Language Einstellungen
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000298"
 - "5899"
-ms.openlocfilehash: c3f6d8406982e8d304a49885e47a9af6d7105f09fb7934715b29777069d52726
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 67b8dbd0e36c75232da6a8c4401803d60f85e6dd
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012847"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61943455"
 ---
-# <a name="microsoft-365-language-settings"></a>Microsoft 365 Sprach-Einstellungen
+# <a name="microsoft-365-language-settings"></a>Microsoft 365 Language Einstellungen
 
 Ermitteln Sie, ob Sie die Anzeigesprache und andere Einstellungen für Benutzer oder für den gesamten Mandanten ändern möchten.
 

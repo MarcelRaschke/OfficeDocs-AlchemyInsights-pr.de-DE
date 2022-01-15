@@ -1,7 +1,7 @@
 ---
 title: Benutzername (UserName) kann nicht geändert werden
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1729"
 - "9000183"
-ms.openlocfilehash: 3088a7b939e7b88319ff688ea94fa71d7fa540787cde31cfd864551113caf149
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee0d4c22c1f58eab7b3f01377bfbd4ab3a143a90
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020227"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61988329"
 ---
 # <a name="unable-to-change-username"></a>Benutzername (UserName) kann nicht geändert werden
 
@@ -32,4 +32,4 @@ PS C:\> Set-MsolUserPrincipalName -UserPrincipalName "davidc@contoso.com" -NewUs
 
 Mit diesem Befehl wird "davidc@contoso.com" in "davidchew@contoso.com" umbenannt.
 
-Weitere Informationen finden Sie unter [Set-MsolUserPrincipalName](https://docs.microsoft.com/powershell/module/msonline/set-msoluserprincipalname?view=azureadps-1.0).
+Weitere Informationen finden Sie unter [Set-MsolUserPrincipalName](https://docs.microsoft.com/powershell/module/msonline/set-msoluserprincipalname?view=azureadps-1.0&preserve-view=true).

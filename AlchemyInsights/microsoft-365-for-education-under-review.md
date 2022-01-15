@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 für Bildungseinrichtungen – wird derzeit überprüft
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5544"
-ms.openlocfilehash: 30500eaa6417ab63c6fe4fb2fc5f11b8487f13ec108c9752390825a36e3adc6b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5431b5fa9fe3ca49b4acf43cbb5e38b2940268b6
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53924984"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61965732"
 ---
 # <a name="microsoft-365-for-education---under-review"></a>Microsoft 365 für Bildungseinrichtungen – wird derzeit überprüft
 

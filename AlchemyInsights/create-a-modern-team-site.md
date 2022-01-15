@@ -1,7 +1,8 @@
 ---
 title: Erstellen einer modernen Teamwebsite
-ms.author: clake
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: 410f835c85d7c9f8ec5197a3d06ff591626cd990
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: edc46a1ff156836ccd4eb7dcd5bf49f3245a8ddd
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323841"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61964904"
 ---
 # <a name="create-a-microsoft-365-group-connected-team-site"></a>Erstellen einer Microsoft 365 mit einer Gruppe verbundenen Teamwebsite
 

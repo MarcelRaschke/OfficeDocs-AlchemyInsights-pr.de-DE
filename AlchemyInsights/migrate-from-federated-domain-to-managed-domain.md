@@ -1,7 +1,7 @@
 ---
 title: Migrieren von einer Verbunddomäne zu einer verwalteten Domäne
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/06/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6117"
 - "9003238"
-ms.openlocfilehash: 0d986436b0ac10cf8e8f4dd78d1f70662dd8c0e9ce2b1c109191851fe9dd18e9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 109516d38fa47e3ca6715c979d71209ff673e36a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54113595"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987753"
 ---
 # <a name="migrate-from-federated-domain-to-managed-domain"></a>Migrieren von einer Verbunddomäne zu einer verwalteten Domäne
 

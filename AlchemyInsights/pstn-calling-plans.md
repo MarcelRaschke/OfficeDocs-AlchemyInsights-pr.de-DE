@@ -1,7 +1,7 @@
 ---
 title: Pläne für PSTN-Anrufe
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 5371f41f5becd50eb19bd3359e82e171cdf7f80d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e7b948c6f57c827712fae5a0f59fa482caf478c1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835918"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61965696"
 ---
 # <a name="pstn-calling-plans"></a>Pläne für PSTN-Anrufe
 

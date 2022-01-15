@@ -1,7 +1,7 @@
 ---
 title: So erstellen Sie eine Dateianforderung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: 01124fa426d2f2beaed81d646773efdf155f5f0d45a9c585f80913b111fa9598
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7a125416ef1c5d239f65d05942838c80d9fb42af
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016267"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61942903"
 ---
 # <a name="how-to-create-a-file-request"></a>So erstellen Sie eine Dateianforderung
 

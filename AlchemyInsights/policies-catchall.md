@@ -1,7 +1,7 @@
 ---
 title: Richtlinien catchall
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 5f7a08f4f4b75612c6d11920d0e7d5cc48f106c695a73d2cf5461af8fa881634
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4d3d25ad480799f55ee88119f011ca0ace24a0cf
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973777"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987681"
 ---
-# <a name="teams-policies"></a>Teams-Richtlinien
+# <a name="teams-policies"></a>Teams Richtlinien
 
 Microsoft Teams Einstellungen werden durch Richtlinien gesteuert. Um eine Änderung vorzunehmen, müssen Sie die entsprechende Richtlinie konfigurieren und sie dann auf die Benutzer anwenden. Die schnellste Möglichkeit, dies für alle Benutzer zu tun, besteht darin, die Standardrichtlinie namens "Global" zu ändern. 
 
@@ -28,8 +28,8 @@ Microsoft Teams Einstellungen werden durch Richtlinien gesteuert. Um eine Änder
 Teams Richtlinien sind in die folgenden Bereiche unterteilt:
 
 - [Teams Richtlinien](https://docs.microsoft.com/MicrosoftTeams/teams-policies) steuern die Benutzerermittlung privater Teams bei der Suche und Erstellung privater Kanäle.  
-- [Besprechungsrichtlinien](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) steuern, was Benutzer mit Teams Besprechungen tun können, einschließlich der Steuerung des Wartebereichs. Hilfe zu Lobbyproblemen, z. B. das Konfigurieren von Teams, um alle personen zuzulassen, finden Sie unter ["Einstellungen für den Wartebereich steuern" und "Teilnahmestufen".](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
+- [Besprechungsrichtlinien](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) steuern, was Benutzer mit Teams Besprechungen tun können, einschließlich der Steuerung des Wartebereichs. Hilfe zu Lobbyproblemen, z. B. das Konfigurieren von Teams, um alle Personen zuzulassen, finden Sie unter ["Einstellungen für den Wartebereich steuern" und "Teilnahmestufen".](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
 - [Messagingrichtlinien](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) steuern, was Benutzer mit Chats und Nachrichten tun können, einschließlich aktivieren oder deaktivieren, Löschen von Chats, Anfordern von Lesebestätigungen, Verwenden von Giphys und Aufklebern und vieles mehr.
 - [App-Setuprichtlinien](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) steuern, welche Apps für Benutzer verfügbar sind, einschließlich benutzerdefinierter und Drittanbieter-Apps, sowie die Reihenfolge, in der sie angezeigt werden.  
 - [Datenaufbewahrungsrichtlinien](https://docs.microsoft.com/microsoftteams/retention-policies) für Teams finden Sie im Microsoft 365 Security and Compliance Center.
-- Teams Adressbuchrichtlinien werden über [die bereichsbezogene Verzeichnissuche](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)festgelegt.
+- Teams Adressbuchrichtlinien werden über [die Bereichsverzeichnissuche](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)festgelegt.

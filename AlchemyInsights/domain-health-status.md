@@ -1,7 +1,7 @@
 ---
 title: Domänen-Integritätsstatus
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 05/27/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11443"
 - "100001"
-ms.openlocfilehash: e71a60aea8936fd1134c6c78b24ccb02c6ca73c0
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 31bc5a95276a93e9b1fc3e3841c7ce2c45953ab1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325498"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61942195"
 ---
 # <a name="domain-health-status"></a>Domänen-Integritätsstatus
 

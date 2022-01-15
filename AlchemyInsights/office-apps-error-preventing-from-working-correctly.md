@@ -1,7 +1,7 @@
 ---
 title: 'Microsoft 365 App-Fehler: Bei der App ist ein Fehler aufgetreten, der verhindert, dass sie ordnungsgemäß funktioniert'
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 1110269061d6ac39cbe39d56c22d4f03ece8d5f5bfeba01949899bccc724bf45
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 74e178c0dde647c35a8eb27b3c5445add450699e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065247"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987717"
 ---
 # <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Microsoft 365 App-Fehler: Bei der App ist ein Fehler aufgetreten, der verhindert, dass sie ordnungsgemäß funktioniert.
 

@@ -1,7 +1,7 @@
 ---
 title: Planen Sie Ihre kennwortlose Bereitstellung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/14/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10394"
 - "9005762"
-ms.openlocfilehash: 01ae0eda39a22fa0be217aade1c960914cb9e3e2646ec66ff24a2b8a87272d10
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a7bf8a194a0af39c5ee2ca244c6ad60f5eb3c3b5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54086631"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61964724"
 ---
 # <a name="plan-your-passwordless-deployment"></a>Planen Sie Ihre kennwortlose Bereitstellung
 

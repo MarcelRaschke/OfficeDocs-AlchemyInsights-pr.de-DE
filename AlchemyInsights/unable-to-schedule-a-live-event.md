@@ -1,7 +1,7 @@
 ---
 title: Planen eines Liveereignisses nicht möglich
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6139"
 - "9000208"
-ms.openlocfilehash: 8a1beee8c6a108ade8c27ae9a20750f13c472c6913240a432bfb0599a1a715b6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d19ba9d6e1dcd6097c7723ca4572eb05750a1d32
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54073779"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61942375"
 ---
 # <a name="unable-to-schedule-a-live-event"></a>Planen eines Liveereignisses nicht möglich
 

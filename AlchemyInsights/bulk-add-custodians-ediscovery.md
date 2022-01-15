@@ -1,7 +1,7 @@
 ---
 title: Massenhinzufügen von Verwahrer in Advanced eDiscovery
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/05/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12623"
-ms.openlocfilehash: f95b4506078256d1752b0b5f3451a75354fc0115
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 974e0ac1e2d6028fb6776123be8c9125c5a29407
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58322436"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61942939"
 ---
 # <a name="bulk-add-custodians-in-advanced-ediscovery"></a>Massenhinzufügen von Verwahrer in Advanced eDiscovery
 

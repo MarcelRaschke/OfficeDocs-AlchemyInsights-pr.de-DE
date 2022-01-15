@@ -1,7 +1,7 @@
 ---
 title: Aufzeichnen in Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: d9f6d700ad3fe35c10bcee198ee46cc7892c09eb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: e393d64e81bf301c291188fe7b34ec8542a01ffb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329549"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61988473"
 ---
 # <a name="recording-in-teams"></a>Aufzeichnen in Teams
 

@@ -1,7 +1,7 @@
 ---
 title: Teams-Profilbild kann nicht hinzugefügt oder geändert werden
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003303"
 - "6208"
-ms.openlocfilehash: be7e09770e68684063e4925cdca471ccb766f4c94d9ac20c92852fd0a2f0a00b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 10131469fe8085bb6ed3778e2f0af6545595e767
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53995765"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61964976"
 ---
 # <a name="cant-add-or-change-teams-profile-picture"></a>Teams-Profilbild kann nicht hinzugefügt oder geändert werden
 

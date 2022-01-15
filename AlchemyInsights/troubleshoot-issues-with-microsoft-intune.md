@@ -1,7 +1,8 @@
 ---
 title: Behandeln von Problemen mit Microsoft Intune
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 7ec91ffe6069f7fccff8459ef145e7da775158160976ece5b4745499ac5e1fa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 797e0e735d67521ac099af7a65064e9e2ce78e20
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53980572"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61988401"
 ---
 # <a name="troubleshoot-issues-with-microsoft-intune"></a>Behandeln von Problemen mit Microsoft Intune
 

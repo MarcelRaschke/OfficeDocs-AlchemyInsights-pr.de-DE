@@ -1,7 +1,7 @@
 ---
 title: FAILED_TO_AUTO_DISCOVER_DOMAIN
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001721"
 - "4341"
-ms.openlocfilehash: 308ab6028962564f10f44e60654ac1dbfeac766a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea449bf0be918ba4cb7e0ff3eba09c43ed3635fe
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791375"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61965192"
 ---
 # <a name="no-access-to-teams-admin-center"></a>Kein Zugriff auf Teams Admin Center
 

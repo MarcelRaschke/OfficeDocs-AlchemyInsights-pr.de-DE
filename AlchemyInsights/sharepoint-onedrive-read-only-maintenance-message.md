@@ -1,8 +1,8 @@
 ---
-title: Read-Only für Wartungsnachricht beim Versuch, SharePoint oder OneDrive zu verwenden
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+title: Read-Only für Wartungsnachricht bei dem Versuch, SharePoint oder OneDrive zu verwenden
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: ca2304abdeb49eccac33beca606586e8cda475b4
-ms.sourcegitcommit: 9209e36093fe5fa44663098b2a761196105e4d31
+ms.openlocfilehash: 614d62daa1e7c620cbce81f091651e808e3800d1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2021
-ms.locfileid: "61056423"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61942639"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only für Wartungsnachricht beim Versuch, SharePoint oder OneDrive zu verwenden
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only für Wartungsnachricht bei dem Versuch, SharePoint oder OneDrive zu verwenden
 
-Es gibt viele Szenarien, die während SharePoint Wartungsereignissen schreibgeschützte Nachrichten verursachen können, die häufigste Ursache ist jedoch, dass die Website gesperrt oder geschlossen wurde.
+Es gibt viele Szenarien, die während SharePoint Wartungsereignissen schreibgeschützte Meldungen verursachen können, die häufigste Ursache ist jedoch, dass die Website gesperrt oder geschlossen wurde.
 
 Weitere Informationen und Lösungsschritte finden Sie [unter SharePoint oder OneDrive schreibgeschützten Fehlermeldungen.](https://docs.microsoft.com/sharepoint/troubleshoot/sites/site-is-read-only)

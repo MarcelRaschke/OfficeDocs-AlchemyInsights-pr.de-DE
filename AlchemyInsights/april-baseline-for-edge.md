@@ -1,7 +1,7 @@
 ---
 title: Anzeigen des Basisplans für April 2020 für Microsoft Edge Versionen 80 und höher
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 06/04/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11139"
-ms.openlocfilehash: 1a2d86ea8c54899c7d41f063ec706fb60bb14af2
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 19796dbde8cf197a39d14e89d412e10e3e1bfb93
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58327168"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61942999"
 ---
 # <a name="view-the-april-2020-baseline-for-microsoft-edge-versions-80-and-later"></a>Anzeigen des Basisplans für April 2020 für Microsoft Edge Versionen 80 und höher
 

@@ -1,7 +1,7 @@
 ---
 title: Indikatoren funktionieren nicht im Edge-Browser
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 05/25/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: 0949049e9b61b64c75d79e33b64c13c7b2bd3fc4
-ms.sourcegitcommit: 6753264c3805098c0eba62cdcaa9120d44593b20
+ms.openlocfilehash: 7bb5e952da251fe60082af5b81f410f77fe1b2ea
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2021
-ms.locfileid: "61241906"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61988005"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Indikatoren funktionieren nicht im Edge-Browser
 

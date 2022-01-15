@@ -1,7 +1,7 @@
 ---
 title: Beheben von Problemen mit der Synchronisierung in Microsoft Edge
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/26/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9128"
 - "9004429"
-ms.openlocfilehash: 499f8e2473848834ae03da69cb98ab844c344e32
-ms.sourcegitcommit: e9fcd72e64d35f5ba14dfa0fbde39eae20d86cfe
+ms.openlocfilehash: c94669fb952cab67e6acf8a4024c1c5450b52ee2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53603255"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61988365"
 ---
 # <a name="troubleshoot-problems-with-sync-in-microsoft-edge"></a>Beheben von Problemen mit der Synchronisierung in Microsoft Edge
 

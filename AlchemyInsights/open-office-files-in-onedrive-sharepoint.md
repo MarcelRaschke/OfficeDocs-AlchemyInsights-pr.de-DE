@@ -1,8 +1,8 @@
 ---
 title: Probleme beim Öffnen von Dateien aus SharePoint oder OneDrive
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 26581af10790f2835b77ec08c9651d694523f686c9ed9f0cd3330b631cde4dc9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e763a30566ee9afe895085bbcf854777e34497aa
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53944634"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987861"
 ---
 # <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Probleme beim Öffnen von Dateien aus SharePoint oder OneDrive 
 

@@ -1,7 +1,7 @@
 ---
 title: SharePoint Zeitzoneneinstellungen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/27/2021
 ms.audience: ITPro
@@ -14,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "9007080"
 - "12471"
-ms.openlocfilehash: 81c947514c011a754812cae3955588bf68d33fc28dd2535d1ed3d180cb89a08a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e4e7baae047e838bf2d9ca3b747759194779a536
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54022748"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61942531"
 ---
 # <a name="sharepoint-time-zone-settings"></a>SharePoint Zeitzoneneinstellungen
 

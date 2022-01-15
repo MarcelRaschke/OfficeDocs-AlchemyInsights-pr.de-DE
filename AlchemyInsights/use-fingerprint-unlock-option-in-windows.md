@@ -1,7 +1,7 @@
 ---
 title: Verwenden der Fingerabdruck-Entsperrungsoption in Windows 10
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: a171d889705a0035981465bdaa5a8f07b9d2eb7200ba4c948f2aaccbf2cc0a21
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0abac39384a4ad09c5d7cea51663d453ffe4be51
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53971902"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61988113"
 ---
 # <a name="use-fingerprint-unlock-option-in-windows-10"></a>Verwenden der Fingerabdruck-Entsperrungsoption in Windows 10
 
 **Aktivieren Windows Hello Fingerabdrucks**
 
-Um Windows 10 mit ihrem Fingerabdruck zu entsperren, müssen Sie Windows Hello Fingerabdruck einrichten, indem Sie mindestens einen Finger hinzufügen (damit Windows lernen können, sie zu erkennen). 
+Um Windows 10 mit ihrem Fingerabdruck zu entsperren, müssen Sie Windows Hello Fingerabdruck einrichten, indem Sie mindestens einen Finger hinzufügen (damit Windows lernen, sie zu erkennen). 
 
 1. Wechseln Sie zu **Einstellungen > Konten > Anmeldeoptionen** (oder klicken Sie [hier).](ms-settings:signinoptions?activationSource=GetHelp) Verfügbare Anmeldeoptionen werden aufgelistet. Beispiel:
 
@@ -37,7 +37,7 @@ Um Windows 10 mit ihrem Fingerabdruck zu entsperren, müssen Sie Windows Hello F
 
 **Windows Hello Fingerabdruck nicht als Anmeldeoption verfügbar**
 
-Wenn Windows Hello Fingerabdruck nicht als Option in **den Anmeldeoptionen** angezeigt wird, bedeutet dies, dass Windows keinen Fingerabdruckleser/Scanner erkennt, der an Ihren PC angefügt ist, oder dass eine Systemrichtlinie die Verwendung verhindert (z. B. wenn Ihr PC von Ihrem Arbeitsplatz verwaltet wird). So beheben Sie Probleme: 
+Wenn Windows Hello Fingerabdruck in **den Anmeldeoptionen** nicht als Option angezeigt wird, bedeutet dies, dass Windows keinen Fingerabdruckleser/Scanner erkennt, der an Ihren PC angefügt ist, oder dass eine Systemrichtlinie die Verwendung verhindert (z. B. wenn Ihr PC von Ihrem Arbeitsplatz verwaltet wird). So beheben Sie Probleme: 
 
 1. Wählen Sie die **Startschaltfläche** in der Taskleiste aus, und suchen Sie nach **Device Manager.**
 

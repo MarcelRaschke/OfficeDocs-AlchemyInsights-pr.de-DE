@@ -1,7 +1,7 @@
 ---
 title: Nicht lizenzierte Features für Benutzer von Business Standard deaktiviert
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 9dd07f2914aa78ef17ef889ced9a5de849f4c6d8175866b8ed4a41cbd28b9510
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 81dbcee8e1c94175c1e2bc210b2e987ebf11880a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908565"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61943131"
 ---
 # <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Nicht lizenzierte Features für Benutzer von Business Standard deaktiviert
 

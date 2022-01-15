@@ -1,7 +1,7 @@
 ---
 title: Aktivieren von SMTP-Authentifizierung und Problembehandlung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1bb5a08ab36c4264662c73ccbde69f1cc4f46de6
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321752"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61965120"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Aktivieren von SMTP-Authentifizierung und Problembehandlung
 

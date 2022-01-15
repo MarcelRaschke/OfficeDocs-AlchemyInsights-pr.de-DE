@@ -1,7 +1,8 @@
 ---
 title: Dynamics 365-Portale Empfohlene Lösungen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +13,12 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 701e7e74648ce09927f41b70945c7a2e9ba89e5d96a088343984c2054fda2343
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 29f6fb27cb9c4ead5c8d560747600360d2c9d8f1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53911049"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61988582"
 ---
 # <a name="dynamics-365-portals-recommended-solutions"></a>Empfohlene Lösungen für Dynamics 365-Portale
 

@@ -1,7 +1,7 @@
 ---
 title: In E-Mails nicht angezeigte Bilder
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/14/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6180"
 - "9003285"
-ms.openlocfilehash: e1dcb3e7564f4da95bff3d5c5083672030af4abd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba2bdd4cf8913dd06eb698f80afa58c0b4e186ac
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667805"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61964832"
 ---
 # <a name="images-not-showing-in-emails"></a>In E-Mails nicht angezeigte Bilder
 

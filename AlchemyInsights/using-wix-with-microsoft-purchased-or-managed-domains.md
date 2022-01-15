@@ -1,7 +1,7 @@
 ---
 title: Verwenden einer Wix-Website mit von Microsoft gekauften oder verwalteten Domänen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/05/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: dd0f8beb8f1871c2c43ac14a7f6d1cce79386fcc353bb2a690ba184904ca5857
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 996019590f9c98ece0dbeca85c4d82af8bdbf5fb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54083733"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61965048"
 ---
 # <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Verwenden einer Wix-Website mit von Microsoft gekauften oder verwalteten Domänen
 

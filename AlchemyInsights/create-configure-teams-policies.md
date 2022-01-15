@@ -1,7 +1,7 @@
 ---
 title: Erstellen und Konfigurieren von Teams-Richtlinien
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/06/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12851"
 - "9000734"
-ms.openlocfilehash: 397f545127af3b9569dceb5cfe2eec39931e67a5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 6f1776453ad71bd84e0e0b6af9104784f77e383b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321156"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61965372"
 ---
 # <a name="create-and-configure-teams-policies"></a>Erstellen und Konfigurieren von Teams-Richtlinien
 

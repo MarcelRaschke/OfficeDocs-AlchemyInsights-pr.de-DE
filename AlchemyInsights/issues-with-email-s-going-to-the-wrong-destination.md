@@ -2,6 +2,7 @@
 title: 324 Probleme mit E-Mails, die an das falsche Ziel gehen
 ms.author: chrisda
 author: chrisda
+manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 324
 ms.assetid: 5f6ae28e-cd87-4265-9ad4-d13c201c12da
-ms.openlocfilehash: 9f42bd7b1342c50a189b5aaea9ed90dfa6ae8c10ce2721110c69d636de0f6181
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee5c5379a6c7891df8e3397b94b016b16450277f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012955"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987897"
 ---
 # <a name="email-messages-are-going-to-the-wrong-destination"></a>E-Mail-Nachrichten werden an das falsche Ziel geleitet
 

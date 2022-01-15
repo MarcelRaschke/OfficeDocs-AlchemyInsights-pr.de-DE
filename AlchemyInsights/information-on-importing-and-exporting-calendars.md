@@ -1,8 +1,8 @@
 ---
 title: 609 Informationen zum Importieren und Exportieren von Kalendern
-ms.author: pdigia
-author: pebaum
-manager: jackiesm
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "609"
 - "3800007"
 ms.assetid: 916ccbdb-439b-4cf8-a0d2-258c8c8b1130
-ms.openlocfilehash: c85b27eb4484ba02a3d3d39c7a0b5d39304674181c4e68c1fb8a54e9e8d6560e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 742d103957897e1a316649fb8f449424829c5d08
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54115467"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987933"
 ---
 # <a name="importing-and-exporting-calendars"></a>Importieren und Exportieren von Kalendern
 

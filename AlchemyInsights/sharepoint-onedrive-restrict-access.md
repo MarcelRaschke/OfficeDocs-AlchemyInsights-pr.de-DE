@@ -1,7 +1,8 @@
 ---
 title: Einschränken des Zugriffs in SharePoint oder OneDrive
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: fc6731d5a7747bb4fc8d6cef1b6ac0045d11917d7f97abbb21eea9613b1b1aa2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 938ebb61c4d33dc409c205afd4e46b5e68f50087
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54093827"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987609"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Einschränken des Zugriffs in SharePoint oder OneDrive
 
@@ -40,9 +41,8 @@ Als IT-Administrator können Sie den Zugriff auf SharePoint und OneDrive Ressour
 
 **Einschränkung der Websitesperre** 
 
-In SharePoint Online haben Sie die Möglichkeit, eine Websitesammlung zu sperren, sodass niemand Zugriff hat. Dies wird über PowerShell und die [SharePoint Onlineverwaltungsshell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) mithilfe der [Set-SPOSite -LockState-Eigenschaft](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) festgelegt.
+Innerhalb SharePoint Online haben Sie die Möglichkeit, eine Websitesammlung zu sperren, sodass niemand Zugriff hat. Dies wird über PowerShell und die [SharePoint Online-Verwaltungsshell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true) mithilfe der [Set-SPOSite -LockState-Eigenschaft](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps&preserve-view=true) festgelegt.
 
 **Benutzer am Erstellen von Websites oder Unterwebsites hindern**
 
 Als SharePoint Administrator oder globaler Administrator können Sie Ihren Benutzern erlauben, ihre eigenen SharePoint Websites zu erstellen und zu verwalten, zu bestimmen, welche Art von Websites sie erstellen können, und den Speicherort der Websites angeben. Weitere Informationen finden Sie unter [Verwalten der Websiteerstellung in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
-

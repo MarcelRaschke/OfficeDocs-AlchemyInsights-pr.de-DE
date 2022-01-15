@@ -1,7 +1,7 @@
 ---
 title: Azure AD Connect-Synchronisierungsfehler
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6120"
 - "9003245"
-ms.openlocfilehash: 879b2cf442f80c005395eb61c933df9975cc6186a373b1119348b9b1d4e7a9c5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e3fecb51aa779ef31bd96fa14dd96a41c3c6fae1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54104127"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61964544"
 ---
 # <a name="azure-ad-connect-sync-errors"></a>Azure AD Connect-Synchronisierungsfehler
 

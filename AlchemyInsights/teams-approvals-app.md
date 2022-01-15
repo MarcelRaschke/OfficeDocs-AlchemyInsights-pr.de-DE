@@ -1,7 +1,7 @@
 ---
 title: Teams-Genehmigungs-App
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 09/22/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13990"
 - "9005793"
-ms.openlocfilehash: 2f53ab12b46be76e941947dfa0967491a4d57c70
-ms.sourcegitcommit: cce7932374d1b8ad5806a28bff2b4bac4702852d
+ms.openlocfilehash: 198b6a22b37a43b67e7612e83e27c069624c88ea
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59482698"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987573"
 ---
 # <a name="teams-approvals-app"></a>Teams-Genehmigungs-App
 

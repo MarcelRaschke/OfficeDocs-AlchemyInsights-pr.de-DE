@@ -1,8 +1,8 @@
 ---
 title: Outlook.com kann keine E-Mails senden
-ms.author: pebaum
-author: pebaum
-manager: joallard
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "9000251"
 - "1845"
 - "1841"
-ms.openlocfilehash: 0852df594e4c87d2fb2c766c52ec0aa41d3fc1e89029c1ee4417cfffebbe7352
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ee156bd3988d23e776018657eef19fa99e36f11
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54064455"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61964760"
 ---
 # <a name="unable-to-send-email-in-outlookcom"></a>E-Mails können nicht in Outlook.com gesendet werden
 

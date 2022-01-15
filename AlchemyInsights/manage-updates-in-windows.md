@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Updates in Windows 10
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3583"
-ms.openlocfilehash: f18c97ba9c374e44b2561e87e57bbd2d2a025e48
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c5858d052c7769cec175821ecbc70169d46ff6ca
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332780"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61988185"
 ---
 # <a name="manage-updates-in-windows-10"></a>Verwalten von Updates in Windows 10
 

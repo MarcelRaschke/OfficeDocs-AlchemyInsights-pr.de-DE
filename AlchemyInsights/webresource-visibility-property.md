@@ -1,7 +1,7 @@
 ---
 title: Sichtbarkeitseigenschaft der Webressource
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1952"
 - "9000326"
-ms.openlocfilehash: c8d3ff0002b8523cb5cecc16861e2f5504f3866d36d051ecec1592dba64fd423
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 28733b93d4c1f6b0db6cd13243ac32e510946763
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53997853"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61987825"
 ---
 # <a name="webresource-visibility-property"></a>Sichtbarkeitseigenschaft der Webressource
 
