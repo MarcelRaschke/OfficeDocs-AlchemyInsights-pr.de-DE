@@ -1,7 +1,7 @@
 ---
 title: Erste Schritte mit Teams Webinaren
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: a82695d81db634cfd12971a9b6521ae1de56360a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 118d92e634d7d2aceb078d0c045bdf5e100f781f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317649"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61981895"
 ---
 # <a name="getting-started-with-teams-webinars"></a>Erste Schritte mit Teams Webinaren
 

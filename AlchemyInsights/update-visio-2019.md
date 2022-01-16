@@ -1,8 +1,8 @@
 ---
 title: Upgrade auf Visio 2019
-ms.author: janellem
-author: janellemcintosh-msft
-manager: eliree
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 4a2c424f696d0f078962804b54da35579d079e5052e8e76ad7803b093e0f6d7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2aa1f11469d654e77ee974e828d1ace4b934b2f8
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54007105"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959835"
 ---
 # <a name="upgrade-to-visio-2019"></a>Upgrade auf Visio 2019
 
-Benutzer, die die Visio Desktop-App als Teil eines Visio Online-Abonnements installiert haben, verfügen bereits über die neueste Version. 
+Benutzer, die die Visio-Desktop-App als Teil eines Visio Onlineabonnements installiert haben, verfügen bereits über die neueste Version. 
 
 Um eine Nichtabonnementversion wie Visio 2016 zu aktualisieren, müssen Sie ein Visio Onlineabonnement oder einen einmaligen Kauf von Visio Standard oder Vision Professional 2019 erwerben. Weitere Informationen finden Sie [unter Vergleichen Visio Optionen.](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options)
 

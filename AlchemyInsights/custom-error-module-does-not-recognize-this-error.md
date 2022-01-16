@@ -1,7 +1,7 @@
 ---
 title: Beim Abrufen eines benutzerdefinierten Fehlermoduls wird dieser Fehler beim Herunterladen einer Nachrichtenablaufverfolgung nicht erkannt?
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: d686e38e171e215055f6c5200f02bf52ad4ebc1c0fb502e86c9515a8658e0904
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 937bf1b5070261c2b0d55ff867a4fe2e91ddfef9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914752"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959439"
 ---
 # <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Wenn Sie beim Herunterladen einer Nachrichtenablaufverfolgung "benutzerdefiniertes Fehlermodul erkennt diesen Fehler nicht" erhalten?
 

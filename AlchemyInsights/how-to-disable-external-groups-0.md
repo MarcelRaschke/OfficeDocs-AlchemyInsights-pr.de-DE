@@ -1,7 +1,8 @@
 ---
 title: So deaktivieren Sie externe Gruppen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: b7c020aa02a9ffbc10e4e52717e0005a3bbbe2b721380183a3a0c90387b1dd4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 211eb849c10a6739b9b1e84fab930adc5b30e8a0
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54015655"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959727"
 ---
 # <a name="how-to-give-access-to-external-users-in-yammer"></a>So gewähren Sie externen Benutzern in Yammer
 

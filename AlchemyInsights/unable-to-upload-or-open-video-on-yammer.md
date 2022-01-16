@@ -1,7 +1,7 @@
 ---
 title: Video kann nicht in Yammer hochgeladen oder geöffnet werden
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/15/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5999"
 - "9003112"
-ms.openlocfilehash: 8ca05e1ab33f507117c14290e688b5a6dde6f126f95640cae9df2f27cf5e768c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9fc672922b117f0804805b17014e389fbb5cc13e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53991210"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959223"
 ---
 # <a name="unable-to-upload-or-open-video-on-yammer"></a>Video kann nicht in Yammer hochgeladen oder geöffnet werden
 

@@ -1,7 +1,7 @@
 ---
 title: Mover-Problembehandlung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "8000"
-ms.openlocfilehash: 073d6508109d02938e684870c79a5b41d7a621fb10d5b131f0d9103901fce460
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 98acf178c0f9d7da06f9f00381ab68334032f604
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53986188"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61981859"
 ---
 # <a name="mover-troubleshooting"></a>Problembehandlung von Mover
 

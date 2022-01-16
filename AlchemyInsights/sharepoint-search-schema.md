@@ -1,25 +1,26 @@
 ---
 title: Verwalten des Suchschemas in SharePoint Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 8eb0e93ea5bbf2154213274041b28a3c908090dae724b8f8e55fa2fb05f16d86
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c6534ce70b6c7c23db358b08bf5f90835c2f5f70
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085083"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982311"
 ---
 # <a name="manage-search-schema-in-sharepoint-online"></a>Verwalten des Suchschemas in SharePoint Online
 
 Das Suchschema steuert, wonach Benutzer suchen können, wie Benutzer sie durchsuchen können und wie Sie die Ergebnisse auf Ihren Suchwebsites präsentieren können. 
 
-Weitere Informationen finden Sie unter [Verwalten des Suchschemas in SharePoint Online:](https://docs.microsoft.com/sharepoint/manage-search-schema) 
+Informationen zum Folgenden finden Sie [unter Verwalten des Suchschemas in SharePoint Online:](https://docs.microsoft.com/sharepoint/manage-search-schema) 
 - Ändern Sie das Suchschema.
 - Erstellen sie verwaltete Eigenschaften.
 - Ordnen Sie durchforstete kartendurchforstete Eigenschaften verwalteten Eigenschaften zu.

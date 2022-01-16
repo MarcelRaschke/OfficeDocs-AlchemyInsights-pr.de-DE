@@ -1,7 +1,8 @@
 ---
 title: Empfohlene Maßnahmen bei einem kompromittierten Konto
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +11,12 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 18cd624d36584be1f157dd6c039d14f3ffaf839f
-ms.sourcegitcommit: 7d6400bbde052481a61de6a8e4067ce1f1b1e247
+ms.openlocfilehash: 27b68c2c67db7d8c0dfbccfde654d0dc0934f36a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2021
-ms.locfileid: "60800010"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61981426"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Empfohlene Maßnahmen bei einem kompromittierten Konto
 

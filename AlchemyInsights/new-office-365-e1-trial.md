@@ -1,7 +1,7 @@
 ---
 title: Testversion für neue Office 365 E1
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: 53be3bad8018b434bdac15ea953d3ccf5a83f59377f19bb2441247ee4892e26c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: aa2e04ee391a102fa4bbf29016bc8e3939baa742
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025429"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982529"
 ---
 # <a name="new-office-365-e1-trial"></a>Testversion für neue Office 365 E1
 

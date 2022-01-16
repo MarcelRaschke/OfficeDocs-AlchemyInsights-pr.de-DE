@@ -2,6 +2,7 @@
 title: 412-Richtlinienfehler beim Freigeben des Kalenders
 ms.author: chrisda
 author: chrisda
+manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 412
 ms.assetid: 15cd5fd8-6e4d-4e65-9507-5f605cb8db38
-ms.openlocfilehash: fe59130a3bc8250ab61c898d5badae9f560c469028a273ada9576109e18c330a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f0f97d8e57edc6be9ef62d0ef4cce5e7cef83685
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973732"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982455"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Richtlinienfehler beim Freigeben eines Kalenders
 

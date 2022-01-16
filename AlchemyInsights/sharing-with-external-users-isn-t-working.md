@@ -1,7 +1,7 @@
 ---
 title: Freigabe für externe Benutzer funktioniert nicht
-ms.author: mikeplum
-author: MikePlumleyMSFT
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 02d79c1b1e112eb41e8c60ffa2ef28e429f76ada
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 81327ca6414cc217755b133f63805ebf1ed364fd
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58304368"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959871"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Beheben von Problemen bei der Freigabe von SharePoint Inhalten für externe Benutzer
 

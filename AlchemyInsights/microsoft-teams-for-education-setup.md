@@ -1,7 +1,7 @@
 ---
 title: Microsoft Teams Education-Setup
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 09/13/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13729"
 - "9008595"
-ms.openlocfilehash: 4a6b440078ddb4b73d8de1b0d0e7d260e5854eaf
-ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
+ms.openlocfilehash: 9941f5fdf6d7155a5fb3748ce96a880cfca019b3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59334392"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959979"
 ---
 # <a name="microsoft-teams-for-education-setup"></a>Microsoft Teams Education-Setup
 

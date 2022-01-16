@@ -1,7 +1,7 @@
 ---
 title: Verwahrer in Advanced eDiscovery
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/05/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12580"
-ms.openlocfilehash: d0d9d0ee49e9d929c5a16ad5a2e25aa708d2b2ce
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 72504d3727d4ff34abaa9bc13aadbff9001d3c47
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320193"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959475"
 ---
 # <a name="custodians-in-advanced-ediscovery"></a>Verwahrer in Advanced eDiscovery
 

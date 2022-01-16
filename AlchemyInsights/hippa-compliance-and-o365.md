@@ -1,7 +1,7 @@
 ---
 title: HIPPA-Compliance und Office 365
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002430"
 - "4720"
-ms.openlocfilehash: 04c86c943956d70111c3183353e36c6aec275a6c7cc703aaa704de7b16298945
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1babb0bc9da944c1d68c97e7599ddb6b09c53427
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53927828"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959403"
 ---
 # <a name="hippa-compliance-and-office-365"></a>HIPPA-Compliance und Office 365
 
@@ -25,9 +25,9 @@ Möchten Sie mehr darüber erfahren, wie Sie die Clouddienste von Microsoft nutz
 
 In den folgenden Ressourcen finden Sie zusätzliche Informationen:
 
-- Für einen **Überblick über das HIPAA und das HITECH-Gesetz** siehe [Health Insurance Portability and Accountability (HIPAA) und HITECH Act](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide).
+- Für einen **Überblick über das HIPAA und das HITECH-Gesetz** siehe [Health Insurance Portability and Accountability (HIPAA) und HITECH Act](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech).
 
-- **Verwenden der [Compliancebewertung](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide#use-microsoft-compliance-score-to-assess-your-risk)** zur Beurteilung Ihres Risikos.
+- **Verwenden der [Compliancebewertung](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech#use-microsoft-compliance-score-to-assess-your-risk)** zur Beurteilung Ihres Risikos.
 
 - **Office 365-Complianceangebote-Dokument**, siehe [Office 365, Office 365 U.S. Government und Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751).
 

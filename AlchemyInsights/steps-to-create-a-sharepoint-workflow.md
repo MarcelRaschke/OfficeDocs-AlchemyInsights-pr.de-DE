@@ -1,7 +1,8 @@
 ---
 title: Schritte zum Erstellen eines SharePoint Workflows
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 9c90ba1467e3259334932938e7d647b7054970a75a78f86e76e503d7295670df
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2627aeab1ac9819482cac4c82bb505f6129a0339
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54021379"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61981751"
 ---
 # <a name="steps-to-create-a-sharepoint-workflow"></a>Schritte zum Erstellen eines SharePoint Workflows
 

@@ -1,7 +1,7 @@
 ---
 title: Hybrid- und Verbundsuche
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 283d85678d8dae8e2d26a7a3ca74ae309c5313df89c163b26efa0e2c4b3393ba
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3475aad0f803aac0148f0b630484edadca097da0
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926532"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958863"
 ---
 # <a name="hybrid-and-federated-searches"></a>Hybrid- und Verbundsuchen 
 

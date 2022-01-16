@@ -1,7 +1,8 @@
 ---
 title: Erhalten von Non-Profit-Angeboten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "1500010"
 - "3819"
-ms.openlocfilehash: cd8777d29b3db623d715552a1e3939ccbf4d0454
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51634d3f165a7f73e02b01e8075124fc97e54f4f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780382"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959367"
 ---
 # <a name="how-to-get-nonprofit-offers"></a>Erhalten von Non-Profit-Angeboten
 

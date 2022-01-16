@@ -1,8 +1,8 @@
 ---
 title: Weitere Informationen zu Aufbewahrungsrichtlinien
-ms.author: pebaum
-author: pebaum
-manager: laurawi
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: c1c4584a5850c2a11401c4f5bd1c04da3e9b23d6
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 234798a83d5340ab6d4f82e28efe34384fb86e5f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58331892"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959655"
 ---
 # <a name="more-info-about-retention-policies"></a>Weitere Informationen zu Aufbewahrungsrichtlinien
 
@@ -30,7 +30,7 @@ Für die meisten Organisationen nimmt das Volumen und die Komplexität ihrer Dat
 - Wechseln Sie zu "Sicherheit und Compliance > Datengovernance > Aufbewahrung"
   - Weitere Informationen finden Sie [in diesem](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) Artikel.
 
-- Wechseln Sie zu Security and Compliance > eDiscovery> Advanced eDiscovery 
+- Wechseln Sie zu "Security and Compliance > eDiscovery> Advanced eDiscovery 
   - Weitere Informationen finden Sie [in diesem](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) Artikel.
 
 - Wechseln Sie zu "Sicherheits- und Compliance-> Klassifizierungen > Aufbewahrung"

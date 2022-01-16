@@ -1,7 +1,7 @@
 ---
 title: Lösungen für Fehler 30015-4
-ms.author: janellem
-author: janellem
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
@@ -14,16 +14,16 @@ ms.custom:
 - "834"
 - "2000020"
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: 34dbeb3bcfffe7ff79a8ee753f5187abdb5c58891f93bfac5fd8acb794f4f5da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8326f1d0b1368f2dc1f7285b7e2253b1553bc228
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54050261"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959259"
 ---
 # <a name="solutions-for-error-30015-4"></a>Lösungen für Fehler 30015-4
 
-- Starten Sie Ihren Computer neu, und [versuchen Sie, Office](https://portal.office.com/OLS/MySoftware.aspx)zu installieren.
+- Starten Sie Ihren Computer neu, und [versuchen Sie, Office zu installieren.](https://portal.office.com/OLS/MySoftware.aspx)
 
 - Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) herunter, und installieren Sie ihn.
 

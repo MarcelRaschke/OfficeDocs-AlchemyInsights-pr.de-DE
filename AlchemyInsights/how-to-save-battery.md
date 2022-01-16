@@ -1,7 +1,7 @@
 ---
 title: Sparen von Akku-Energie
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/25/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6021"
 - "9003211"
-ms.openlocfilehash: b558570fd680b9368305dfffe1060f671aa12ae3d74286825775f55ef1002c70
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62105217c893f6ee51f9b1520fd4fe88a198554d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54078585"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61981534"
 ---
 # <a name="how-to-save-battery"></a>Sparen von Akku-Energie
 

@@ -1,19 +1,20 @@
 ---
 title: Einschränken des Zugriffs in SharePoint oder OneDrive
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 71cfef0cedcc17833b19ed5f050a6510fe1371b58de9054eace2f29a46b3e06d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3fa144112f0ab4f4df6754a3ca9a11899817b649
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53942132"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982383"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>IRM-Schutz zum SharePoint von Dateien
 
@@ -24,7 +25,7 @@ Weitere Informationen finden Sie unter:
 
 - [Wie Office Anwendungen und Dienste Azure Rights Management unterstützen.](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)
 
-- [Richten Sie die Verwaltung von Informationsrechten (Information Rights Management, IRM) im SharePoint Admin Center](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)ein.
+- [Richten Sie IRM (Information Rights Management) im SharePoint Admin Center ein.](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
 
 - [IRM-enable SharePoint Dokumentbibliotheken und -listen.](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)
 

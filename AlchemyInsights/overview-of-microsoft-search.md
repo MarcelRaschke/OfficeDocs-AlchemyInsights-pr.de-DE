@@ -1,7 +1,7 @@
 ---
 title: 'Übersicht über Microsoft Search '
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "6443"
 - "9003287"
-ms.openlocfilehash: 00eb6c5fdabc56a7d81b27c48bdc1f1e562cbac9bfb6046b9ea7c2c0f4920800
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e6f43af7566bbf34910192cf9c77bcf16f29d8a5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53924528"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61981823"
 ---
 # <a name="overview-of-microsoft-search"></a>Übersicht über Microsoft Search 
 

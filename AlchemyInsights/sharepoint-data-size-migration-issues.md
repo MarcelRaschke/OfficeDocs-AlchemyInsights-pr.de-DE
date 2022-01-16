@@ -1,7 +1,8 @@
 ---
 title: Probleme beim Migrieren von Daten zu SharePoint Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 6ddf21cc963297095fbe5cda36178b12c103cfeb0e4103a05c39f23ee634f158
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b52d7dddd920915850894ea5582611238082821e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53942096"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982347"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Probleme beim Migrieren von Daten zu SharePoint Online
 
@@ -26,9 +27,9 @@ ms.locfileid: "53942096"
 Es scheint, als migrieren Sie mehr als 100 TB Daten zu SharePoint Online. Führen Sie die nachstehenden Schritte aus, damit wir Sie so schnell wie möglich unterstützen können. 
 
 1. Wählen Sie **"Support kontaktieren"** und dann **"Neue Serviceanfrage"** aus. 
-2. Behalten Sie den Titel und die Beschreibung **SharePoint Migration über 100 TB** bei.
+2. Belassen Sie den Titel und die Beschreibung als **SharePoint Migration über 100 TB.**
 3. Nachdem das Ticket übermittelt wurde, aktualisieren Sie es mit den folgenden Informationen: 
 
     - die geschätzte Größe Ihrer Migration.
     - eine Schätzung der Zeitpunkte, zu denen Sie die Migration beginnen und abschließen möchten.
-    - Beschreiben, von wo Sie Ihre Inhalte migrieren, z. B. SharePoint Server, Box, GDrive, Dateifreigaben usw.
+    - Beschreiben Sie, von wo Sie Ihre Inhalte migrieren, z. B. SharePoint Server, Box, GDrive, Dateifreigaben usw.

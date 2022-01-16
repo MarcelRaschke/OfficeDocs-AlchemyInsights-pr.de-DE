@@ -1,7 +1,7 @@
 ---
 title: Ändern des Domänennamens oder der E-Mail-Adresse einer Ressource
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 10/01/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "14027"
 - "9003196"
-ms.openlocfilehash: 014e6d50c1734827cd65647b4332673b45a13d0f
-ms.sourcegitcommit: b0797aa003b6bffad09fca6360941236c1b2ef0c
+ms.openlocfilehash: 52abb4b02e44d42d698dbfddcd1558009423b982
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60074386"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959079"
 ---
 # <a name="change-the-domain-name-or-email-address-of-a-resource"></a>Ändern des Domänennamens oder der E-Mail-Adresse einer Ressource
 

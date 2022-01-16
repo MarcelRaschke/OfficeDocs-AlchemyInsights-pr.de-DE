@@ -1,19 +1,20 @@
 ---
 title: Synchronisieren des Profilbilds eines Benutzers
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 55460bbf1f676b20836c0518de3f13bfab16ee8c26cc461c1569ae4f750080ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8a1d3cd8af3fd4618f755d9ba113e91a418eef35
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54011443"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959691"
 ---
 # <a name="sync-a-users-profile-picture"></a>Synchronisieren des Profilbilds eines Benutzers
 

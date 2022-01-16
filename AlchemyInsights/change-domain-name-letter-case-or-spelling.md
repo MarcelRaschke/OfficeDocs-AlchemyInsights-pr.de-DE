@@ -1,7 +1,7 @@
 ---
 title: Ändern der Groß-/Kleinschreibung oder Schreibweise eines Domänennamens
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/13/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5996"
 - "9003201"
-ms.openlocfilehash: 81467d0af12e98774b7d04c70f82f4c8fbd4b8c39295f7eaa925cbfe14042f9e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d44aaad9b18e8fd08cae4df97ea9d9a6ee0e2efb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045815"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959115"
 ---
 # <a name="change-a-domain-name-letter-case-or-spelling"></a>Ändern der Groß-/Kleinschreibung oder Schreibweise eines Domänennamens
 
@@ -26,7 +26,7 @@ Um die Schreibweise eines benutzerdefinierten Domänennamens zu ändern, z. B. 
 
 1. Wählen Sie auf der Seite [Domänen](https://admin.microsoft.com/Adminportal#/Domains) die Domäne und dann **entfernen** aus.</br>
 
-    Ausführlichere Anweisungen finden Sie unter [Entfernen einer Domäne](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide).
+    Ausführlichere Anweisungen finden Sie unter [Entfernen einer Domäne](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain).
 
 2. Verwenden Sie den [Assistenten zum Hinzufügen von Domänen](https://admin.microsoft.com/Adminportal#/Domains/Wizard), um die Domäne mit der korrekten Schreibweise und Groß-/Kleinschreibung erneut hinzuzufügen.
 

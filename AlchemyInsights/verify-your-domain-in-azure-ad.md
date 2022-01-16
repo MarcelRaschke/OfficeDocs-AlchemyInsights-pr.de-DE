@@ -1,7 +1,7 @@
 ---
 title: Überprüfen Ihrer Domäne in Azure AD
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6113"
 - "9003233"
-ms.openlocfilehash: 68815f4623d10b3b3eb187d2adaa9cb43d8af0a14f03c78e88ef6ebb52ed586d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 94ad6ed4f8160dade7cefa1d8e5bb36fce9c349d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072879"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61981642"
 ---
 # <a name="verify-your-domain-in-azure-ad"></a>Überprüfen Ihrer Domäne in Azure AD
 

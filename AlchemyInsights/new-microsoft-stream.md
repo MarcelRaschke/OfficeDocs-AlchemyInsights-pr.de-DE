@@ -1,7 +1,7 @@
 ---
 title: Migrieren von Microsoft Stream (klassisch) zum neuen Microsoft Stream
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: a88d4beab4d3749d622f200f7b4117e7ed4a80f9
-ms.sourcegitcommit: cce7932374d1b8ad5806a28bff2b4bac4702852d
+ms.openlocfilehash: 035239f05ca348b256a6e3476bbff7e4bb286bd7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59482667"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982601"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 

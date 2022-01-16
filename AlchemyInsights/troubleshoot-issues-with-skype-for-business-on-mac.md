@@ -1,7 +1,7 @@
 ---
 title: Behandeln von Problemen mit Skype for Business auf dem Mac
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/30/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5984"
 - "9003195"
-ms.openlocfilehash: b2bfe1f4291a7703a94582cdfe381ffbf02797a8b7a785e6ac9d74cf04290707
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 94d4aa2848b379407d55f1379875c027881676af
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53980536"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61981390"
 ---
 # <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Behandeln von Problemen mit Skype for Business auf dem Mac
 

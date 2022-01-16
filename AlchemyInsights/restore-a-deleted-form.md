@@ -1,7 +1,7 @@
 ---
 title: Wiederherstellen eines gelöschten Formulars
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 186da6e95b6c5806de855e7e38cbf31c1d52f148935532658fae0cc3fe111f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 61dd6b12049673a811e1636c2f850fa8b7eb6f09
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54109779"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982003"
 ---
 # <a name="restore-a-deleted-form"></a>Wiederherstellen eines gelöschten Formulars
 

@@ -1,7 +1,7 @@
 ---
 title: Hilfe für Windows 10-Desktop abrufen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005616"
 - "9928"
-ms.openlocfilehash: 9d3c16ee5b8e2f1a9bca4688df5232a9e36f2535f2cf1eb7e7fa3f64c5e674ec
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 604bce5dfd8f10a991018d5859d3161d4c1e42da
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54079377"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61981606"
 ---
 # <a name="get-help-with-windows-10-desktop"></a>Hilfe für Windows 10-Desktop abrufen
 

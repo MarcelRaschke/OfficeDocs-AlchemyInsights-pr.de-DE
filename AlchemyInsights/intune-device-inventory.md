@@ -1,7 +1,7 @@
 ---
 title: Intune-Gerätebestand
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bbb0150baecacff5850141934f96171fc13d9728
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667877"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982129"
 ---
 # <a name="intune-device-inventory"></a>Intune-Gerätebestand
 

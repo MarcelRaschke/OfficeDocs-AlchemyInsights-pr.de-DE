@@ -1,7 +1,7 @@
 ---
-title: 1800014 Erhalten von In-App-Unterstützung für die Outlook mobile App
-ms.author: pebaum
-author: pebaum
+title: 1800014 Erhalten von In-App-Unterstützung für die mobile Outlook-App
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,16 +14,16 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: 7a2ae310c08c72d87658481c23f5cae46a796fe0adeb81985fc333343326d256
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1ee756be99dc6a664443adf883dce1ee63b15a53
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54079341"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958899"
 ---
 # <a name="get-in-app-support-for-the-outlook-mobile-app"></a>In-App-Unterstützung für die Outlook mobile App erhalten
 
-1. Öffnen Sie in der mobilen App Outlook **menü**.
+1. Öffnen Sie in der mobilen App Outlook das **Menü.**
 
 2. Wählen Sie das Fragezeichen aus, um den **Hilfefeedback-Bildschirm &amp;** zu öffnen.
 

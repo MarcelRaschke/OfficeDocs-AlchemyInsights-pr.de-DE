@@ -1,7 +1,7 @@
 ---
 title: Behandeln von Problemen beim Laden von Bildern in Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/15/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6000"
 - "9003112"
-ms.openlocfilehash: 11315fd84f92251e435320f4550286fb2db4b0128f7ac85c0f79972e3f7fd203
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78eea4cf0b1afcf9369fb20d1f7bb9b57c85f0aa
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53939234"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982239"
 ---
 # <a name="troubleshoot-image-loading-issues-in-yammer"></a>Behandeln von Problemen beim Laden von Bildern in Yammer
 

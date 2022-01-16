@@ -1,7 +1,7 @@
 ---
 title: Erstellen einer Website in SharePoint Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 0ab24766fb3685a90bd29b66168364b7451e1c98685ed792eb595bec9cb1b0ac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1af564196b9a471f52c36de04d51ef495a264e09
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54032233"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958971"
 ---
 # <a name="create-a-site"></a>Erstellen einer Website
 

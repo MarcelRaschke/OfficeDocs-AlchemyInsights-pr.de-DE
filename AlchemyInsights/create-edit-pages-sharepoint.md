@@ -1,7 +1,8 @@
 ---
 title: Erstellen und Bearbeiten moderner Seiten auf einer SharePoint Website
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
 ms.custom:
 - "2407"
 - "9000246"
-ms.openlocfilehash: b31c708141dd7a16db09a6556bb1f2e982288d098984c13141a7b929c95c0b17
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5e139eb2aa9bc679b8b40622e3e1fb3a7a2c1522
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53965676"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61959799"
 ---
 # <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>Erstellen und Bearbeiten moderner Seiten auf einer SharePoint Website
 
