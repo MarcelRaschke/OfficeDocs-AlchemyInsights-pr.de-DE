@@ -2,6 +2,7 @@
 title: 399-Kalender – Stellvertretung
 ms.author: chrisda
 author: chrisda
+manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 399
 ms.assetid: 4b6e1dfd-dcdf-4f7c-8249-be2bd2e1f936
-ms.openlocfilehash: 8aba87a4f75171ce3473ff2cf0608ac7ea0e1c79023f7dc35566f023864c008e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae37dd3398cb06b4a6b83692299ef7c6f3672f3e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950340"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961169"
 ---
 # <a name="configure-mail-and-calendar-delegates"></a>Konfigurieren von E-Mail- und Kalenderdelegats
 

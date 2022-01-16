@@ -1,7 +1,8 @@
 ---
 title: Netzwerkmigration
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,16 +13,16 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 9f63ce1641faf3cb2a29fd954624d25f5e1e37f135ec361ac09668086d78aa3e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 46029ae4365bbce814c6adc2e52d6c6763abc248
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54113199"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982709"
 ---
 # <a name="network-migration"></a>Netzwerkmigration
 
-Ihr O365-Mandant ist möglicherweise mehreren Yammer Netzwerken in einem 1-Mandanten zugeordnet: viele Netzwerkkonfigurationen. Ab dem 16. Oktober 2018 werden Yammer nicht mehr mehrere Yammer Netzwerke unterstützen, die einem Mandanten zugeordnet sind. Sie können eine Netzwerkmigration durchführen, um zu einer bevorzugten 1:1-Konfiguration zu gelangen.
+Ihr O365-Mandant ist möglicherweise mehreren Yammer Netzwerken in einem 1-Mandanten zugeordnet: viele Netzwerkkonfigurationen. Ab dem 16. Oktober 2018 unterstützt Yammer nicht mehr mehrere Yammer Netzwerke, die einem Mandanten zugeordnet sind. Sie können eine Netzwerkmigration durchführen, um zu einer bevorzugten 1:1-Konfiguration zu gelangen.
   
 - Um eine Liste der Netzwerke anzuzeigen, die Ihrem Mandanten zugeordnet sind, melden Sie sich bei Yammer als globaler Administrator an, und navigieren Sie zum **Netzwerkadministrator** und dann zur **Netzwerkmigration.** Wählen Sie **Weiter** aus.
 

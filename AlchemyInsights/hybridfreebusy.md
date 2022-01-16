@@ -2,6 +2,7 @@
 title: 401 Hybrid – FreeBusy
 ms.author: chrisda
 author: chrisda
+manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 401
 ms.assetid: 13bb2a1b-6433-4249-8b0f-c01e23e5d7f1
-ms.openlocfilehash: aae8b25d4dd96ca63327a27e84b443a7e682fc6516b2f6b76820da6b125dc1f4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea85c94bbd428c977e724ff68bb8ee6bca9fc775
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53945300"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982925"
 ---
 # <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Frei/Gebucht-Kalenderprobleme in Hybridumgebungen
 

@@ -1,7 +1,8 @@
 ---
 title: Zuordnen einer Hubwebsite
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: f9cc6512e50a7f2c49013d6b6659240e240141337396c961edc04225e130f54b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b113ad1b224807f3edc5cfa2cb20085d6071c64
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53989626"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61960123"
 ---
 # <a name="associate-existing-site-with-a-hub-site"></a>Zuordnen einer vorhandenen Website zu einer Hubwebsite
 

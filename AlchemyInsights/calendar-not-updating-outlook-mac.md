@@ -1,7 +1,7 @@
 ---
 title: Der Kalender wird für Outlook für Mac nicht aktualisiert
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/14/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 04e2339a08fe3ad9850e21e2cef8a91d62d0acbb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 60c7b767f46bb007b5e866cd4b7e8d42b68ce832
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819935"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61960087"
 ---
 # <a name="calendar-not-updating-outlook-for-mac"></a>Der Kalender wird für Outlook für Mac nicht aktualisiert
 

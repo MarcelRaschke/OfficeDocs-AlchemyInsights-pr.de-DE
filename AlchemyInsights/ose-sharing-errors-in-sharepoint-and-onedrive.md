@@ -1,7 +1,8 @@
 ---
 title: OSE-Freigabefehler in SharePoint und OneDrive
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: c54483916b2391b3723f0199627ebad8778ee8f15d6884b6d19b1f59f7093918
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d5e599dd0dd32e099daf34ba5d34aaff9af3e97
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54075399"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61984366"
 ---
 # <a name="ose-sharing-errors"></a>OSE-Freigabefehler
 

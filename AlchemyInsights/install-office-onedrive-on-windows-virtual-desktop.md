@@ -1,7 +1,7 @@
 ---
 title: Installieren von Office und OneDrive auf Windows Virtual Desktop
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/5/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "10871"
-ms.openlocfilehash: fb38f46cced928e33e16e8e83ad740dd83aea622
-ms.sourcegitcommit: 254b25150fa326628084d08479b0e7dd8b7d479a
+ms.openlocfilehash: bcac970daa39225b2b5f285dd0ba5e9b7ed68d86
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51590294"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61960737"
 ---
 # <a name="install-office-and-onedrive-on-windows-virtual-desktop"></a>Installieren von Office und OneDrive auf Windows Virtual Desktop
 

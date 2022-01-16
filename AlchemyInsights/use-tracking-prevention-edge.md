@@ -1,7 +1,7 @@
 ---
 title: Verwenden Sie die Tracking-Verhinderung in Microsoft Edge (Chromium).
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 03/29/2021
 ms.audience: Admin
@@ -15,12 +15,12 @@ ms.custom:
 - "10979"
 - "9004625"
 - "9006450"
-ms.openlocfilehash: ae8fc8dc329bb631db313cd576a0f121e7a7179a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 547611b8764f2fb84c974f03a05cbaa1cca4ca15
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330631"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61984582"
 ---
 # <a name="use-tracking-prevention-in-microsoft-edge-chromium"></a>Verwenden Sie die Tracking-Verhinderung in Microsoft Edge (Chromium).
 

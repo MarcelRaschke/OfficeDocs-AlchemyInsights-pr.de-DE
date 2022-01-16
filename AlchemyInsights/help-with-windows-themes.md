@@ -1,7 +1,7 @@
 ---
 title: Hilfe für Windows-Designs
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005404"
 - "9935"
-ms.openlocfilehash: 6d7fc6ec34fb7daacc6a07de31851630a10d75f06f0ed4a91565330e9eb9ff4e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 20697af0f53a2de0dd29dfddd1902d9b3166fde8
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088687"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61983861"
 ---
 # <a name="help-with-windows-themes"></a>Hilfe für Windows-Designs
 

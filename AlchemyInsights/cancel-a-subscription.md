@@ -1,7 +1,7 @@
 ---
 title: Beendigung von Abonnements durch den Besitzer
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6838"
-ms.openlocfilehash: f1441a62005153a38267f62751bf00fa916c08d70bf6eb7ad31135a262bd5363
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bc1f855cf8fea058ed761c5113591c66e7e5af4c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045911"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61960485"
 ---
 # <a name="cancellation-of-a-subscription-by-owner"></a>Beendigung von Abonnements durch den Besitzer
 

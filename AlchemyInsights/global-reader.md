@@ -1,7 +1,7 @@
 ---
 title: Globale Leseberechtigung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5672"
-ms.openlocfilehash: 2a8b053f493488a1ab6740cc2433d18f61729fe65959cbd1903ad689000113b2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 576b64b335e50d167be4444930c37832d0d7beb1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056453"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61984546"
 ---
 # <a name="global-reader"></a>Globale Leseberechtigung
 

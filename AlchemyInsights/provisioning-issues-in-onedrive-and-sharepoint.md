@@ -1,18 +1,19 @@
 ---
 title: Bereitstellungsprobleme in OneDrive und SharePoint
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: d5b416da323c1c02bde2a85b52027ba582aca7dc49bcf4db7fcede5100d0ed7a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c0878d79b75e03fab2ea6fa0237d85d30c8b5baf
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53943770"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961421"
 ---
 # <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Bereitstellungsprobleme in OneDrive und SharePoint
 

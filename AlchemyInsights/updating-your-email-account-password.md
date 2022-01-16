@@ -1,7 +1,7 @@
 ---
 title: Aktualisieren des Kennworts ihres E-Mail-Kontos
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001098"
 - "3059"
-ms.openlocfilehash: b297aff26d3e194c642d9f3b42dff5a2e387feea0709bb23fcc8182360453307
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: af095bd1b9819b127bfd2ab38e3fad55399e57c7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54104847"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61983069"
 ---
 # <a name="updating-your-email-account-password"></a>Aktualisieren des Kennworts ihres E-Mail-Kontos
 

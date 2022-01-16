@@ -1,7 +1,7 @@
 ---
 title: Erste Schritte mit Microsoft WebView2
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/22/2021
 audience: Admin
@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "11938"
 - "9007100"
-ms.openlocfilehash: a2c2901f78742e41578b557e8685aa1e350fcbfa
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 6aa2bb891c1e6fa214f41c512044007a85c9e46b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316557"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61960989"
 ---
 # <a name="get-started-with-microsoft-webview2"></a>Erste Schritte mit Microsoft WebView2
 

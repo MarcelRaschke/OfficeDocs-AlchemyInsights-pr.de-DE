@@ -1,7 +1,7 @@
 ---
 title: Problembehandlung bei Aktualisierungsszenarien – Kachelfehler
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 1387f249aff02b4aa521edca42b25d2778aeb7dacf27884160ae3a252959f6c9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c506cd5ef2dc214bc92e709d31d46eaef777aaa5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54008401"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61983357"
 ---
 # <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Problembehandlung bei Aktualisierungsszenarien – Kachelfehler
 

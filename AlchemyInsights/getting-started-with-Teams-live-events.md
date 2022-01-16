@@ -1,7 +1,7 @@
 ---
 title: Erste Schritte mit Live-Veranstaltungen in Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 82d9194aa8023c2ed81c2ef0bc8846ac14ff23dc
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58333158"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61983933"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Erste Schritte mit Live-Veranstaltungen in Teams
 

@@ -1,7 +1,8 @@
 ---
 title: Bedingter Zugriff mit Azure Active Directory
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001672"
 - "3739"
-ms.openlocfilehash: ff850d7bb87506c585f0c7a837a31d3b4ff3d76c6d67a4d6788c2b27c9f0a6c8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2750b04a9e71995fd2e637275d62a19397c8648c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994802"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61960449"
 ---
 # <a name="conditional-access-with-azure-active-directory"></a>Bedingter Zugriff mit Azure Active Directory
 

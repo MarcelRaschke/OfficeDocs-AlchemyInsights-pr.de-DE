@@ -1,7 +1,7 @@
 ---
 title: Verwalten der Webinarregistrierung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 06/02/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: 8970a7510d803025757d27a71daf5670906d20ed
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c3ba1c92c794a4ae62bd32e8eaa13c30ab9c2070
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318251"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61983249"
 ---
 # <a name="manage-webinar-registration"></a>Verwalten der Webinarregistrierung
 

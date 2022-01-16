@@ -1,7 +1,7 @@
 ---
 title: Probleme mit SharePoint auf Windows 7-Rechnern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006484"
 - "11070"
-ms.openlocfilehash: 6cdc946c44bcabfd0ee3d6c0641adb1bd1d97127f6c0c4f196c9f93139e2fa27
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 07852ad8a7b8694bb26768084f7062fae6d0beca
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53925632"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61960377"
 ---
 # <a name="issues-with-sharepoint-on-windows-7-machines"></a>Probleme mit SharePoint auf Windows 7-Rechnern
 

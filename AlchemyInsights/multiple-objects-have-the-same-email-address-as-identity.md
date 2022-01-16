@@ -1,7 +1,7 @@
 ---
 title: Mehrere Objekte haben die gleiche E-Mail-Adresse als Identität
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: 5866d182cb2e97e37bc6df87e05fb6ef55bfed1d36f9daa95b7b8993a509e2dd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 933a284e37cffb4bc175be6c9090ab3fb2fe0c64
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54011911"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982853"
 ---
 # <a name="multiple-objects-have-the-same-email-address-as-identity"></a>Mehrere Objekte haben die gleiche E-Mail-Adresse als Identität
 
@@ -26,19 +26,13 @@ ms.locfileid: "54011911"
 
 Einer der häufigsten Gründe für diesen Fehler ist, dass eine Outlook Web Access-Anfrage nicht richtig weitergeleitet werden kann, wenn mehrere Objekte vorhanden sind, die dieselbe E-Mail-Adresse als Identität haben. Um diese Objekte zu finden, führen Sie die folgenden Befehle aus:
 
-· Get-Recipient <email address>
-
-· Get-User <email address>
-
-· Get-User <email address> -SoftDeletedUser
-
-· Get-Contact <email address>
-
-· Get-Mailbox <email address> -PublicFolder
-
-· Get-Mailbox <email address> -IncludeSoftDeletedMailbox
-
-· Get-Mailbox <email address> -InactiveMailboxOnly
+- `Get-Recipient <email address>`
+- `Get-User <email address>`
+- `Get-User <email address> -SoftDeletedUser`
+- `Get-Contact <email address>`
+- `Get-Mailbox <email address> -PublicFolder`
+- `Get-Mailbox <email address> -IncludeSoftDeletedMailbox`
+- `Get-Mailbox <email address> -InactiveMailboxOnly`
 
 Um das Problem zu beheben, entfernen Sie mehrere Objekte mit derselben E-Mail-Identität, und stellen Sie sicher, dass es immer nur ein einziges Objekt mit einer bestimmten E-Mail-Identität gibt und dass sein Empfängertyp "UserMailbox" ist.
 

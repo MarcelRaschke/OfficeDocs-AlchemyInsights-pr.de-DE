@@ -2,6 +2,7 @@
 title: Manuelle Anmeldung bei Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
+manager: dansimp
 ms.date: 12/03/2020
 ms.audience: ITPro
 ms.topic: article
@@ -15,12 +16,12 @@ ms.custom:
 - "6893"
 - "8332"
 - "9004625"
-ms.openlocfilehash: f9aa27a585d805360e1fadecfd0db3b11d15a3594ed5bd5dc6c68cec37a4d6a2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0fd80c43f5751e9068b18803424c34dfcc82bd05
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54050765"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61960701"
 ---
 # <a name="sign-in-to-microsoft-edge-manually"></a>Manuelle Anmeldung bei Microsoft Edge
 

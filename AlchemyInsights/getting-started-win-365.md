@@ -1,7 +1,7 @@
 ---
 title: Erste Schritte mit Windows 365
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/20/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13666"
 - "9008586"
-ms.openlocfilehash: 23af3ab1efb5e2e72e31f643c3d18faf17328904
-ms.sourcegitcommit: 071ba3a6b6257dddee5e84af44e5bc45dedd78fb
+ms.openlocfilehash: 24efda9b8d6b593477d9632c09f062ba5696edc1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "58418187"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61983609"
 ---
 # <a name="getting-started-with-windows-365"></a>Erste Schritte mit Windows 365
 

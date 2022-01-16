@@ -1,7 +1,7 @@
 ---
 title: Behandlung von häufigen Problemen beim Empfangen von E-Mails
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 05/03/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11135"
 - "3100010"
-ms.openlocfilehash: e86450be8285138887b187460817ad251336ff6e2c88b155a38f0a716b01a921
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8fd54977355c55ef7a75735c96cefe38b4ea60f7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092841"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61960881"
 ---
 # <a name="troubleshooting-common-email-receiving-issues"></a>Behandlung von häufigen Problemen beim Empfangen von E-Mails
 

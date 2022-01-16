@@ -1,7 +1,7 @@
 ---
 title: Microsoft Defender für Endpunkt erfordert Microsoft-Volumenlizenzierung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 05/03/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11129"
 - "9005486"
-ms.openlocfilehash: 52e859922453e7996bc1e2da9c989bf2bde946d815f5b432cc079d94feca4b9b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 36666a69dc40ea160423284b1a7918b12f4c5eb4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994144"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961097"
 ---
 # <a name="microsoft-defender-for-endpoint-requires-microsoft-volume-licensing"></a>Microsoft Defender für Endpunkt erfordert Microsoft-Volumenlizenzierung
 

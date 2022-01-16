@@ -1,7 +1,7 @@
 ---
 title: Starten eines SharePoint-Portals mit 100.000 Benutzern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 05/27/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11468"
 - "9006707"
-ms.openlocfilehash: 7d6936c885f9fbfbf036a9036bcd6eef0013174de150da1737df69a6fa3d2834
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 09311f28f052cf49e10d1c078ccade3b5467e987
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54077973"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61960665"
 ---
 # <a name="launch-sharepoint-portal-with-100k-users"></a>Starten eines SharePoint-Portals mit 100.000 Benutzern
 

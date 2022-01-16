@@ -1,7 +1,7 @@
 ---
 title: Basisregel
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: e2bc74fb2b38140114455f9a923a07b5a5403aa49abca28432dd617db965b294
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c79c0fb8a5a435ff689baf045cab6131c286019e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54046535"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61960557"
 ---
 # <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Behandeln von Problemen mit MDM-Autoritäten in Microsoft Intune
 

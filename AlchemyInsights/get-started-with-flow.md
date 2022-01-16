@@ -1,7 +1,8 @@
 ---
 title: Erste Schritte mit Flow
-ms.author: toresing
-author: tomresing
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
-ms.openlocfilehash: 52bb7980243cd4eedca500c4809bf49e9f578cf3dd36ea5d543f0780c4606ff2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6e8920d6902e7bb9bf6486d3042cf38187091421
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964335"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61960953"
 ---
 # <a name="get-started-with-microsoft-flow"></a>Erste Schritte mit Microsoft Flow
 

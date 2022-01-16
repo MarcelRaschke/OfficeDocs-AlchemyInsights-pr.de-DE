@@ -1,7 +1,7 @@
 ---
 title: Absender wegen des Versands von zu viel Spam eingeschränkt
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/14/2021
 audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: cc891926259d4527b0d35f6e78b5418b0ce8f6af015f79be01866ffe088704c7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: efa2efa4f14c49c4624116c2f1a3959c4c10f639
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53942870"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61983537"
 ---
 # <a name="account-is-restricted-for-sending-too-much-spam"></a>Konto wegen des Versands von zu viel Spam eingeschränkt
 

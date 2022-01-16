@@ -1,7 +1,7 @@
 ---
 title: OneDrive- und PST-Dateien
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6002"
 - "9003081"
-ms.openlocfilehash: de6de2c7483280143b8bed51d0af1048d39137a5c72a22c09131d32326b8e447
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: dfff982e47bb44097bf8975c03a6f2e9b47f8d90
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53984856"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61984438"
 ---
 # <a name="onedrive-and-pst-files"></a>OneDrive- und PST-Dateien 
 

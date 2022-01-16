@@ -1,7 +1,7 @@
 ---
 title: Sie möchten eine Domäne oder einen E-Mail-Absender als sicher kennzeichnen?
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002921"
 - "5673"
-ms.openlocfilehash: 44a0d0cdc47b3c80873f614a97f6c117a9086136
-ms.sourcegitcommit: 7d6400bbde052481a61de6a8e4067ce1f1b1e247
+ms.openlocfilehash: 8825d789a3bb0826921adb5c0d6ed1d3b47af71d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2021
-ms.locfileid: "60799290"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982745"
 ---
 # <a name="need-to-mark-a-domain-or-email-sender-safe"></a>Sie möchten eine Domäne oder einen E-Mail-Absender als sicher kennzeichnen?
 

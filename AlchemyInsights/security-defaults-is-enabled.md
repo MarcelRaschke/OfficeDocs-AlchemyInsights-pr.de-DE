@@ -1,7 +1,7 @@
 ---
 title: Sicherheitsstandardwerte sind aktiviert
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6006"
 - "1300007"
-ms.openlocfilehash: 45154bceda45763a3cf9095c2df537070fa7d4774cdc248f72dc015d572da93b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 883165b7203e78986d608f781f64bac45ec883bd
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53942942"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61960304"
 ---
 # <a name="security-defaults-is-enabled"></a>Sicherheitsstandardwerte sind aktiviert
 

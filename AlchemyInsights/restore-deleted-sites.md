@@ -1,7 +1,7 @@
 ---
 title: Wiederherstellen von gelöschten Websites
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4836"
-ms.openlocfilehash: e018f80fdd69205fc13f06228df30d145fc5a5287c9795e986e96cdee3e7a67c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f45f3945dbafc21d21d956ae7ea0e138fa631df1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53991246"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61984618"
 ---
 # <a name="restore-deleted-sites"></a>Wiederherstellen von gelöschten Websites
 

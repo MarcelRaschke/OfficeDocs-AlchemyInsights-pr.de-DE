@@ -1,7 +1,8 @@
 ---
 title: Modernisieren Der klassischen SharePoint
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 3a6ea80b64d98f8def1831297768a33e65d0b3891bce564385631ad01a5a2602
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e0b77ac9da30d7bfd6cf06d9f3a465aafa40699d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085443"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61984186"
 ---
 # <a name="modernize-your-classic-sharepoint-experience"></a>Modernisieren Der klassischen SharePoint
 
@@ -29,6 +30,6 @@ Um zur modernen Benutzeroberfläche zu wechseln, überprüfen Sie die folgenden 
 
 Zusätzliche Informationen:
 
-- Eine schrittweise Übersicht über die Modernisierung Ihrer klassischen SharePoint auf die moderne Benutzeroberfläche finden Sie unter ["Modernisieren Ihrer klassischen SharePoint".](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
+- Eine schrittweise Übersicht über die Modernisierung Ihrer klassischen SharePoint auf die moderne Benutzeroberfläche finden Sie unter [Modernisieren Ihrer klassischen SharePoint.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
 - Sehen Sie sich einen Leitfaden zur [modernen Benutzeroberfläche](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)an.
 - Weitere Informationen finden Sie [unter SharePoint klassischen und modernen Umgebungen.](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f)

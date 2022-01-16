@@ -1,7 +1,7 @@
 ---
-title: Upgrade Windows 10 Home auf Windows 10 Pro
-ms.author: pebaum
-author: pebaum
+title: Windows 10 Home auf Windows 10 Pro Upgraden
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001443"
 - "3443"
-ms.openlocfilehash: 5d760314d17888ac4fdc3d85b0a2511437953d9b9126845169acd3fe486e55b6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 69d765978f74e35a1261c45637e1fc1762511d72
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54073527"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961313"
 ---
 # <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>Upgrade mit einem Product Key oder einer digitalen Lizenz
 

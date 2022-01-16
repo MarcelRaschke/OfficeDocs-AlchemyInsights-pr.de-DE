@@ -1,7 +1,7 @@
 ---
 title: Abrufen der Microsoft 365 Education-Pläne
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4979"
-ms.openlocfilehash: 004ec67e57da98917d2c7a9924310233cb271041d2b7bedbc288dc9cbff26385
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e9cdb7eee94e46135b46a81955f85e85604e2299
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029443"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982997"
 ---
 # <a name="get-the-microsoft-365-education-plans"></a>Abrufen der Microsoft 365 Education-Pläne
 

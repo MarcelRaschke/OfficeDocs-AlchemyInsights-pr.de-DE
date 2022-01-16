@@ -1,7 +1,7 @@
 ---
 title: Sichern Ihrer Dokumente, Bilder und Desktopordner mit OneDrive
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003078"
 - "5853"
-ms.openlocfilehash: 059432ade8db04355261e4611fc59d450d625ef3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8f540a9dce1a19ce20eeb55ee2d5f478799e7098
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820645"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961205"
 ---
 # <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Sichern Ihrer Dokumente, Bilder und Desktopordner mit OneDrive
 

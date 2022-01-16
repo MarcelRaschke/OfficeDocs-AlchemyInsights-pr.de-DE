@@ -1,7 +1,7 @@
 ---
 title: Aktualisierung mithilfe des Webconnectors funktioniert nicht ordnungsgemäß
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: ff44f18e55cc905c4e65fa18c777af3812409ea6f6c26bacb24a7758c2749b5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 17d8de04ef4d6f25e2bdce76384708e48e3efc3f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54106035"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61983393"
 ---
 # <a name="refresh-using-web-connector-doesnt-work-properly"></a>Aktualisierung mithilfe des Webconnectors funktioniert nicht ordnungsgemäß
 

@@ -1,7 +1,7 @@
 ---
 title: Mehr Teilnehmer in einer großen Besprechung sehen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003565"
 - "6665"
-ms.openlocfilehash: 261e28e9fac66eace63d7d41fdad21c0354b5930826bd28b659ce5e3d159655f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5e36b033527e647acd8bdaab51fc0fbce4c1f00d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54022243"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61984150"
 ---
 # <a name="see-more-participants-in-a-large-meeting"></a>Mehr Teilnehmer in einer großen Besprechung sehen
 

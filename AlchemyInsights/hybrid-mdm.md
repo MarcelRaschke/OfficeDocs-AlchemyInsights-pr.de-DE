@@ -1,7 +1,7 @@
 ---
 title: Hybrid MDM
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6739"
 - "9003778"
-ms.openlocfilehash: 468a7ff6cb65fb0027f4937dfe9f99fca381c76789ae1772d0054c8a02d68db9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3cb23bf3beea78260da1af520c5f099f579c72f6
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088179"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61982961"
 ---
 # <a name="hybrid-mdm"></a>Hybrid MDM
 

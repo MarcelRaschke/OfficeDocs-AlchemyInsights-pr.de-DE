@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Fragen zur Rechnung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500005"
 - "5110"
-ms.openlocfilehash: 80007315ccb868bb8c001cd21bb7c4ec53bba1d5e3a0106ebef557ede0398a96
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43a20037cba5d03516869ac381aad25d9d43c101
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54080817"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961133"
 ---
 # <a name="covid-19-invoice-questions"></a>COVID-19 Fragen zur Rechnung
 

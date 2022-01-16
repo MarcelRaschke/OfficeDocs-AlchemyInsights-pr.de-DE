@@ -1,7 +1,7 @@
 ---
 title: Identifizieren von Problemen mit Windows Virtual Desktop
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/5/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O364
 ms.custom:
 - "9004219"
 - "10871"
-ms.openlocfilehash: 1e55d9d579c389dfe731f887a2a08c6234de2787
-ms.sourcegitcommit: 254b25150fa326628084d08479b0e7dd8b7d479a
+ms.openlocfilehash: f1c7252b87fce473685fb364d4001de67c36fa6f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51590295"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61983321"
 ---
 # <a name="identify-windows-virtual-desktop-issues"></a>Identifizieren von Problemen mit Windows Virtual Desktop
 

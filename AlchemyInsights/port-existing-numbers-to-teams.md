@@ -1,7 +1,7 @@
 ---
 title: Portieren bestehender Nummern zu Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4365"
-ms.openlocfilehash: 89fc424c9e958971f1f51d43a52790bbe12b464f088895d152bfd00f41dd3561
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 261daa10e21e6875e56c8bf46ebed5d6034ef92f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973660"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61984330"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Portieren bestehender Nummern zu Teams
 
