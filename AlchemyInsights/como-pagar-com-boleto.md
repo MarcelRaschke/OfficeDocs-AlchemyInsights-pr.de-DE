@@ -1,7 +1,7 @@
 ---
 title: Como Pagar com Boleto
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: 5f7924508121226c0676105b18314e026658c6fcb0afb7b1e8df6d28fb0622cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9119f1d90d6b7817d00daf4d240fac12f137b95f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966432"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61980994"
 ---
 # <a name="como-pagar-com-boleto"></a>Como Pagar com Boleto
 

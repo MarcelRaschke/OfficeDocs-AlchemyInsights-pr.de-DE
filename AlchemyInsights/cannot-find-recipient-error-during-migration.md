@@ -1,7 +1,7 @@
 ---
 title: Der Fehler "Empfänger mit Postfach-GUID kann nicht gefunden werden" ist während der Migration aufgetreten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 09/03/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13811"
 - "3500008"
-ms.openlocfilehash: f44b3fa3d988cc778c2f1539706292329491a996
-ms.sourcegitcommit: 1761960d03b3df7783b744ee539a7e6dbabae90c
+ms.openlocfilehash: d156e4b182fe7730f8fde1c618b3da2dc7f97d90
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58884156"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61956264"
 ---
 # <a name="cannot-find-a-recipient-that-has-mailbox-guid-error-during-migration"></a>Der Fehler "Empfänger mit Postfach-GUID kann nicht gefunden werden" ist während der Migration aufgetreten
 

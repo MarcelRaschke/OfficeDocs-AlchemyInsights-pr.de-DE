@@ -1,7 +1,7 @@
 ---
 title: Gruppenrichtlinien in Microsoft Edge
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 06/07/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11108"
-ms.openlocfilehash: c7067ddf57eb7229a4e114eb74ff8306a4a9318a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: a484af3bfdf3c1cebe1efe40109cc65296092da7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58331234"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958106"
 ---
 # <a name="group-policies-in-microsoft-edge"></a>Gruppenrichtlinien in Microsoft Edge
 

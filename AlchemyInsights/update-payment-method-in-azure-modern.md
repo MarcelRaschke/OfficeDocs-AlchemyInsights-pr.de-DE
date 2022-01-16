@@ -1,7 +1,8 @@
 ---
 title: Aktualisieren von Zahlungsdetails in Azure (Modern)
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6857"
-ms.openlocfilehash: 39f77710d25add89d1bb9610ae1875784b538ad68512a4db29c1388e53e0fd75
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e796c4ef042459035bb999943095850e61a18691
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54007321"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61957564"
 ---
 # <a name="update-payment-details-in-azure"></a>Aktualisieren von Zahlungsdetails in Azure
 

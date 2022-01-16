@@ -1,7 +1,7 @@
 ---
 title: Box mit dem Migration Manager zu Microsoft 365 migrieren
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/14/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10933"
 - "5300030"
-ms.openlocfilehash: 011c9a522dba991deb02797b894a53ea989240c354d219133ab909a2baceb61a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8918b677b64629036f2ad46771932dc3b5973326
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53992542"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61957166"
 ---
 # <a name="migrate-box-to-microsoft-365-with-migration-manager"></a>Box mit dem Migration Manager zu Microsoft 365 migrieren
 

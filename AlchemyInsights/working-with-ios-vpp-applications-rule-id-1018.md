@@ -1,7 +1,8 @@
 ---
 title: Arbeiten mit iOS VPP-Anwendungsregel-ID 1018
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,16 +13,16 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: f693d12ff0f9c193cba0c6a6802b22d7acd37532c65986e5f6613e18c021f06b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 049174158007b703fa09a01a4b64fb2f4a044d86
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54083013"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61980309"
 ---
 # <a name="working-with-ios-vpp-applications"></a>Arbeiten mit iOS-VPP-Anwendungen
 
-Lesen [Sie, wie Sie iOS-Apps verwalten, die über ein Volumenkaufprogramm mit Microsoft Intune erworben wurden,](https://docs.microsoft.com/intune/vpp-apps-ios) um mehr über Features, Einschränkungen und Schritte zur Nutzung des Apple Volume Purchase-Programms und deren Unterstützung in Microsoft Intune zu erfahren.
+Lesen [Sie, wie Sie iOS-Apps verwalten, die über ein Volumenkaufprogramm mit Microsoft Intune erworben wurden,](https://docs.microsoft.com/intune/vpp-apps-ios) um mehr über Features, Einschränkungen und Schritte zur Nutzung des Apple Volume Purchase-Programms und den Support dafür in Microsoft Intune zu erfahren.
   
  **Häufige Probleme:** "Ich habe meinen Benutzern eine iOS-VPP-App zugewiesen, aber die Installation ist fehlgeschlagen."
   

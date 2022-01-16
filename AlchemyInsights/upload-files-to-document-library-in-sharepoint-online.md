@@ -1,8 +1,8 @@
 ---
 title: Hochladen Von Dateien zu OneDrive oder SharePoint
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: ace337c536b7691edafbed72115b10904eb5f6943434ad716e6d7d948e625a47
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 49d28ec9b4bf7dee1eecc3f15f4b5ad2a13e372d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038219"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958683"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Hochladen Von Dateien zu OneDrive oder SharePoint
 

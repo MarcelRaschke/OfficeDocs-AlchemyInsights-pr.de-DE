@@ -1,7 +1,7 @@
 ---
 title: Importieren der Favoriten aus Internet Explorer in Microsoft Edge
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 03/30/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9449"
 - "9005491"
-ms.openlocfilehash: 9748ffa06ed4d5911a73c4fd512957ca132cb9dbcba4c666e263d332a50ac727
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b51e2497b8a24f187ac07df4f10d5148e905460
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54115683"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61957311"
 ---
 # <a name="import-favorites-from-internet-explorer-to-microsoft-edge"></a>Importieren der Favoriten aus Internet Explorer in Microsoft Edge
 

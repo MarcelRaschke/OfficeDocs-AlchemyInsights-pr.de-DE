@@ -1,7 +1,7 @@
 ---
 title: Zuweisen einer kostenfreien Rufnummer zu Ihrer Audiokonferenzbrücke
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 9a68cc443b0f7dd2a706718cef1073bdf1a4ecd9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5ab75622dfe1d057d90ed0ba8ecc536dfcdce5e3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329269"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958647"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Zuweisen einer kostenfreien Rufnummer zu Ihrer Audiokonferenzbrücke
 

@@ -1,7 +1,8 @@
 ---
 title: Tastenkombinationen für bearbeitbare Raster in Dynamics 365
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1708"
 - "6200013"
-ms.openlocfilehash: 8d2dd0b2ff1b848f0c33d6488138e90474ca891b047b750361ea509ddc5f535f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ed8634d25ed9d52ac99e5ff084dfcdfb0758965d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004081"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958467"
 ---
 # <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a>Dynamics 365 Bearbeitbare Rastertastaturverknüpfungen
 

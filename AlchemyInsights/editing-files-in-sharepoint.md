@@ -1,7 +1,8 @@
 ---
 title: Bearbeiten von Dateien in SharePoint
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 2ad98cb08bf930a5fa663cedcd028e9a2a1cd517f33dfa718dfb7bbad6607d89
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cf43deeb8e4d390acb1ca329f01d558d8f8e8704
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003685"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958142"
 ---
 # <a name="editing-files-in-sharepoint"></a>Bearbeiten von Dateien in SharePoint
 

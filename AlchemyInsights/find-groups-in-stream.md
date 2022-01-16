@@ -1,7 +1,7 @@
 ---
 title: Suchen von Gruppen in Microsoft Stream
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6453"
-ms.openlocfilehash: 549dd1b0357bbe35c7a71c2b3fec16a6fea0520275f35845525aa28f8e7980c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5a7b5d04c2a4af25dadb50ba114b13d5db7cd3fb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53977404"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61956877"
 ---
 # <a name="find-groups-in-microsoft-stream"></a>Suchen von Gruppen in Microsoft Stream
 

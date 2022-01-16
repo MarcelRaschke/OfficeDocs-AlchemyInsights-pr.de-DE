@@ -1,21 +1,22 @@
 ---
-title: Dokumente können in SharePoint nicht geöffnet werden
-ms.author: pebaum
-author: pebaum
+title: Dokumente in SharePoint können nicht geöffnet werden
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: d83c88f507938963e18559e1f5d0facd0c6c7aaa503b2fa2faf3531ca3a57ebf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d22d3dd3c2bdaf77fc0baedd809ff7088cce80d9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038291"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61956336"
 ---
-# <a name="unable-to-open-documents-in-sharepoint"></a>Dokumente können in SharePoint nicht geöffnet werden
+# <a name="unable-to-open-documents-in-sharepoint"></a>Dokumente in SharePoint können nicht geöffnet werden
 
 Wenn Sie Probleme beim Öffnen Office Dateien und Dokumente aus SharePoint oder OneDrive Dokumentbibliotheken haben, finden Sie hier einige Vorschläge, mit denen Sie diese beheben können:
 

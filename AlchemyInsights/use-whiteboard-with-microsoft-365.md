@@ -1,7 +1,7 @@
 ---
 title: Verwenden von Whiteboard mit Microsoft 365
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002354"
 - "4581"
-ms.openlocfilehash: 9d14c7fa063efed6ed65061a76f3e818b675fc3d470fce0e4ecc9fb5aa247a30
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 73ef90e79076df8cc17d799f71e44cd827af7a62
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53980248"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61980345"
 ---
 # <a name="use-whiteboard-with-microsoft-365"></a>Verwenden von Whiteboard mit Microsoft 365
 

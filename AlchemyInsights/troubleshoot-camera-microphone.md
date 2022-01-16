@@ -1,7 +1,7 @@
 ---
 title: Behandlung von Problemen mit Kamera oder Mikrofon
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 06/28/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12086"
 - "9007198"
-ms.openlocfilehash: bb0782bffccfe9a46fb42e0649ac98e1a03bf8a499726875ae606c6b1452ccc2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a16ccc7f14814e0fbb53c692af0e0c36497db786
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54008473"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61979552"
 ---
 # <a name="troubleshoot-your-camera-or-microphone"></a>Behandlung von Problemen mit Kamera oder Mikrofon
 

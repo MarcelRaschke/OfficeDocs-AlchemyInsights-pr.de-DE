@@ -1,7 +1,8 @@
 ---
 title: Beheben OneDrive-Synchronisation Probleme auf einem Mac
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "9000178"
 - "1723"
-ms.openlocfilehash: 6f70613f210c36b263b9cadc03a2beb011290d96354f1262eca9dd87c0ff28fd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 94c650fd80952120cc68bb485fd68bff2ab307fb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53928404"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61979264"
 ---
 # <a name="fix-onedrive-sync-issues-on-a-mac"></a>Beheben OneDrive-Synchronisation Probleme auf einem Mac
 

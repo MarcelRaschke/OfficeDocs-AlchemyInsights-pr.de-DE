@@ -1,7 +1,7 @@
 ---
-title: Hilfe bei der SharePoint und Microsoft Teams Interaktion
-ms.author: pebaum
-author: pebaum
+title: Hilfe zu der SharePoint und Microsoft Teams Interaktion
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/27/2021
 ms.audience: ITPro
@@ -14,14 +14,14 @@ ms.assetid: ''
 ms.custom:
 - "9007084"
 - "11929"
-ms.openlocfilehash: f60b07d1f39cce07fc64e1029398633582997dee
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2b3673bb55b210664ab1bd9f5f95b03c2e4f3b27
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315475"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61956372"
 ---
-# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Hilfe bei der SharePoint und Microsoft Teams Interaktion
+# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Hilfe zu der SharePoint und Microsoft Teams Interaktion
 
 Jedes Team in Microsoft Teams verfügt über eine Teamwebsite in SharePoint, und jeder Standardkanal in einem Team erhält einen Ordner in der Standarddokumentbibliothek der Teamwebsite. Jeder private Kanal erhält eine eigene, separate SharePoint Website. Weitere Informationen:
 

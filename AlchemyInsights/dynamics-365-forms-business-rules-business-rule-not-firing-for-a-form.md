@@ -1,7 +1,8 @@
 ---
 title: Dynamics 365 Forms Business Rules – Geschäftsregel wird nicht für ein Formular ausgelöst
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 085656b40cab5c918e58a821db9ad8399aa37cda871c00a7ed51411c4b733576
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d0e4c6c85cd2e33f18c4ca5ccaa6d92eca169d12
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53947226"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958359"
 ---
 # <a name="business-rule-not-firing-for-a-form"></a>Geschäftsregel wird nicht für ein Formular ausgelöst
 

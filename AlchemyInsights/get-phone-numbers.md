@@ -1,7 +1,7 @@
 ---
 title: Beziehen von Telefonnummern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "5613"
-ms.openlocfilehash: 29b216c18b99f451d438c347dea670c712083a81
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 82e7f9e3c1649d6b62d419829c1ef7c4c73738fc
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812211"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61980886"
 ---
 # <a name="get-phone-numbers"></a>Beziehen von Telefonnummern
 

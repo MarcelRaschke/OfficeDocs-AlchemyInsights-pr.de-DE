@@ -1,7 +1,7 @@
 ---
 title: Wartungsprofile im Microsoft 365 Apps Admin Center
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003533"
 - "13814"
-ms.openlocfilehash: fa6d78f0af06b65a56f9b243a35843f7ae71f7dc
-ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.openlocfilehash: 2081a97927cd27d4d5ee8ebdcde538a1a0bad2f0
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/07/2021
-ms.locfileid: "58923975"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61979948"
 ---
 # <a name="servicing-profiles-in-microsoft-365-apps-admin-center"></a>Wartungsprofile im Microsoft 365 Apps Admin Center
 

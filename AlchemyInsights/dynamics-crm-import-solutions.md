@@ -1,7 +1,8 @@
 ---
 title: Dynamics CRM-Importlösungen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +13,12 @@ ms.custom:
 - "1077"
 - "1078"
 - "6200003"
-ms.openlocfilehash: a2db0671d2d7caa1540704e74a8330e0791f68f1dfc2a5b3bf9988f8d716b684
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3fd67b546ebf18cef9d37fd3e2eeb293a62a602b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118491"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958286"
 ---
 # <a name="dynamics-crm-import-solutions"></a>Dynamics CRM-Importlösungen
 

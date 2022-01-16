@@ -1,7 +1,7 @@
 ---
 title: Bereitstellen von Office für Remotebenutzer
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007387"
 - "12310"
-ms.openlocfilehash: 51afa8c1ff92263382c8da50a0de77a3c2bfeee5
-ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.openlocfilehash: 1d18109e6ea0845dfa78583cb27abb2e867a868f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/07/2021
-ms.locfileid: "58923964"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61979300"
 ---
 # <a name="deploy-office-to-remote-users"></a>Bereitstellen von Office für Remotebenutzer
 
-Erstellen Sie eine [grundlegende Installation von Office](https://admin.microsoft.com/Adminportal/Home#/officeremoteinstall) für Benutzer, die sie in Ihrer Organisation bereitstellen und damit beginnen können. Erstellen Sie Gruppen basierend auf den Anforderungen der Benutzer, Produkten, Anwendungen und Sprachen. Sie können beliebig viele Gruppen erstellen und dann ein PowerShell-Skript für jede Gruppe mit Anweisungen verwenden, die Sie an Benutzer senden können.
+Erstellen Sie eine [grundlegende Installation von Office](https://admin.microsoft.com/Adminportal/Home#/officeremoteinstall) für Benutzer, die sie bereitstellen und in Ihrer Organisation starten können. Erstellen Sie Gruppen basierend auf den Anforderungen der Benutzer, Produkten, Anwendungen und Sprachen. Sie können beliebig viele Gruppen erstellen und dann ein PowerShell-Skript für jede Gruppe mit Anweisungen verwenden, die Sie an Benutzer senden können.

@@ -1,7 +1,7 @@
 ---
 title: Verwenden von Befehlszeilenoptionen zum Konfigurieren von Proxyeinstellungen in Microsoft Edge
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 06/08/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8024"
 - "9004430"
-ms.openlocfilehash: 2b28a5cce29dd3956bb3891cae0f11d1c0fb874a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: de0c9df97e77868bc4d5e82cf4bcf3e9ed3968b6
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329121"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61956589"
 ---
 # <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Verwenden von Befehlszeilenoptionen zum Konfigurieren von Proxyeinstellungen in Microsoft Edge
 

@@ -1,7 +1,7 @@
 ---
 title: Farbfilter aktivieren und deaktivieren
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005665"
 - "9926"
-ms.openlocfilehash: 69edaed056670a3d67cc0aba982b9d2528dbae936b209022733205efcf421062
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 89c248371f9d40d6276dbc6224676ff99537c57d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020587"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61978831"
 ---
 # <a name="turn-on-and-off-color-filter"></a>Farbfilter aktivieren und deaktivieren
 

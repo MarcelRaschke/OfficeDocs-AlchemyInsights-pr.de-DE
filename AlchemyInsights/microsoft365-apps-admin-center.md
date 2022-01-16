@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 Apps Admin Center
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/6/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O364
 ms.custom:
 - "9003533"
 - "10882"
-ms.openlocfilehash: faa6757e52df3af2314daf58c534ac2a9b9e98c71276f9e9b02c02f8d9cc88d0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9b2ce98488dac474075065a2552b2183d5d5dd92
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54113631"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61957203"
 ---
 # <a name="microsoft-365-apps-admin-center"></a>Microsoft 365 Apps Admin Center
 

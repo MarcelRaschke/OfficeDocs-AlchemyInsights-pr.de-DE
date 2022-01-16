@@ -1,7 +1,8 @@
 ---
 title: Aktivieren der mehrstufigen Authentifizierung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -16,12 +17,12 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 4de9a1baf12fad1de21af9c5739c1538e5ee7e176757fa8ce7586aa3a7f2b71f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b5d554ff684949780b791b4644ead54488776c6f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54002911"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61956192"
 ---
 # <a name="enable-multi-factor-authentication"></a>Aktivieren der mehrstufigen Authentifizierung
 

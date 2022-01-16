@@ -1,7 +1,7 @@
 ---
 title: Einladungen zu Teams-Besprechungen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 452444aec11c001728c9d8de32ee0883e4d92dcafee6294b90f481dc9531ed53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ba2d5678a14a668701c581679ccc88c6cac015e5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54048695"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61957600"
 ---
 # <a name="teams-meeting-invitations"></a>Einladungen zu Teams-Besprechungen
 

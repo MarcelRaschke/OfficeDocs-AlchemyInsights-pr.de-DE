@@ -1,7 +1,8 @@
 ---
 title: Einrichten von Informationsverwaltungsrichtlinien
-ms.author: pebaum
-author: bentoncity
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: d0e3de5591c064f7e121c206180b34ee34e985f872a5ee6209889ecad6eaa32c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1cd9ab703b2525c34c26f358a2595a61e6db09b7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53921654"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61979012"
 ---
 # <a name="set-up-information-management-policies"></a>Einrichten von Informationsverwaltungsrichtlinien
 

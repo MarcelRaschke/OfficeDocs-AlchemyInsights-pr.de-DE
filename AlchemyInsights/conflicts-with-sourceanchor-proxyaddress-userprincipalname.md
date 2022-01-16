@@ -1,7 +1,7 @@
 ---
 title: Konflikte mit SourceAnchor, ProxyAddress wurde, UserPrincipalName
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/20/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1699"
 - "1300022"
-ms.openlocfilehash: 2d58078fcabb416c418b67a2f2ce2eba679a18c6ecf3846c534bde74188d7827
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8821222a65b7cf7c1cd87971ca0dca40246d8dcf
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54033061"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61957456"
 ---
 # <a name="conflicts-with-sourceanchor-proxyaddress-userprincipalname"></a>Konflikte mit SourceAnchor, ProxyAddress wurde, UserPrincipalName
 

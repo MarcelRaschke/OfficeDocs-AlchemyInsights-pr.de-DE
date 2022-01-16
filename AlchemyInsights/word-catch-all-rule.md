@@ -1,7 +1,7 @@
 ---
 title: Word Catch-All-Regel
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3481"
 - "9001466"
-ms.openlocfilehash: dfe6ed1a1ca2fd7975840853c18dcee681ead28fba2b22092ca7edee925c8a62
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2c804c7534bc69208f4c1cc6ddc893214c11197b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54047255"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61981030"
 ---
 # <a name="common-issues-and-resolutions-with-word"></a>Häufige Probleme und Lösungen mit Word
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Defender for Identity
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/09/2021
 ms.audience: Admin
@@ -15,12 +15,12 @@ ms.custom:
 - "12322"
 - "12354"
 - "9007399"
-ms.openlocfilehash: 184d69cf38cff0e7952b889a31b14e2d2944b7f9a659b13a6a417c0184557a36
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 75146b2a0d474edda835847b7c4dce0f7ee38281
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012703"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61956841"
 ---
 # <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
 

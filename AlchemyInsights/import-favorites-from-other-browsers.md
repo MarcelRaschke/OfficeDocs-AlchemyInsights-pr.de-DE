@@ -1,7 +1,7 @@
 ---
 title: Importieren von Favoriten aus einem anderen Browser als Internet Explorer, Google Chrome oder Mozilla Firefox
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 03/30/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9450"
 - "9005491"
-ms.openlocfilehash: 1a40e87d293e8f48650f3a6b8933c36cadd45b2290e3a074a499c964a274d59b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d24fb489786224320f0b98352f4fb4c62320f474
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014935"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61957275"
 ---
 # <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a>Importieren von Favoriten aus einem anderen Browser als Internet Explorer, Google Chrome oder Mozilla Firefox
 

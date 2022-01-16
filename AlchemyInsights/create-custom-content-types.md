@@ -1,7 +1,8 @@
 ---
 title: Erstellen von benutzerdefinierten Inhaltstypen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
 ms.custom:
 - "5792"
 - "9003050"
-ms.openlocfilehash: 43ec70733c141dcedac97ba9ea2c4672734c0cbfe0ef425b180bd5cd5fa1fd5f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 777ae079579e2007838664b557ab19c1907cc7a4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914866"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61979372"
 ---
 # <a name="create-custom-content-types"></a>Erstellen von benutzerdefinierten Inhaltstypen
 

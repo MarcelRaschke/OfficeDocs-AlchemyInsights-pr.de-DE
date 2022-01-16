@@ -1,7 +1,7 @@
 ---
 title: Erste Schritte mit Teams-Kanälen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5036"
-ms.openlocfilehash: c599fd1f9cd8d16c31715c2acb690dbc9fd8db0b504c333436e43634c747f2d8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3fd57cec7b7cc49e7fe68459ea0ad72f023b11f3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54089475"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61957383"
 ---
 # <a name="get-started-with-teams-channels"></a>Erste Schritte mit Teams-Kanälen
 

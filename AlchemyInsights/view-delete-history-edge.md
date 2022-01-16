@@ -1,7 +1,7 @@
 ---
 title: Anzeigen und Löschen des Browserverlaufs in Microsoft Edge
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 03/29/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9423"
 - "9005491"
-ms.openlocfilehash: 6f2810c893995634abd12d69fd98566ea1f97db2
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.openlocfilehash: 8205d4754f5e5386f56ff6db68041acb163af423
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51441163"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61978795"
 ---
 # <a name="view-and-delete-browsing-history-in-microsoft-edge"></a>Anzeigen und Löschen des Browserverlaufs in Microsoft Edge
 

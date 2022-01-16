@@ -1,7 +1,7 @@
 ---
 title: Externe Einstellungen verwalten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 02/10/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8322"
 - "9003227"
-ms.openlocfilehash: 7caf46f9988ddbcbb16c0a2751dbda85bd7da34c
-ms.sourcegitcommit: 616ae0cbd5769e12ae428e00088840cf05e52b6a
+ms.openlocfilehash: 97cf6ef818ba45ffcb0f165fd52aa73910a16963
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50282836"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61980201"
 ---
 # <a name="managing-external-settings"></a>Externe Einstellungen verwalten
 

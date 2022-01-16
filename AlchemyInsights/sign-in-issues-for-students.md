@@ -1,7 +1,7 @@
 ---
 title: Anmeldeprobleme für Schüler/Studenten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "9000744"
 - "3813"
 - "3818"
-ms.openlocfilehash: 55e50cce3a6d15fea45340d94ca9b62e19cfed65347cb4c7c3e30570d837260d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9a3426227162d8d22b559b21ed02252e1688b545
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54084678"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958791"
 ---
 # <a name="sign-in-issues-for-students"></a>Anmeldeprobleme für Schüler/Studenten
 

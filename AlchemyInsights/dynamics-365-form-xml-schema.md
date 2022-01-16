@@ -1,7 +1,8 @@
 ---
 title: Dynamics 365-Formular-XML-Schema
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1471"
 - "6200019"
-ms.openlocfilehash: 2605fa2490e8cd3ac5ed930970f637eaec68ebdc0250a3918bc40a1a2d467b7a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f830896477b13bc14f3d3991a50ce0fd71dd8d02
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53947370"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958395"
 ---
 # <a name="dynamics-365-form-xml-schema"></a>Dynamics 365-Formular-XML-Schema
 

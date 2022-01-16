@@ -1,7 +1,7 @@
 ---
 title: Fehlende Visitenkarteninformationen in Skype for Business
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001685"
 - "4534"
-ms.openlocfilehash: 4170ec65c3b74c23b274b97c4ebbc162510be028da085d077c8bc69d5c6ba227
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b422bf68cefb2f24bcaf1c85c2eb5cb8592e2beb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53975280"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61980814"
 ---
 # <a name="missing-contact-card-information-in-skype-for-business"></a>Fehlende Visitenkarteninformationen in Skype for Business
 

@@ -1,8 +1,8 @@
 ---
 title: Benutzern Zugriff auf SharePoint und OneDrive gewähren
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 5153bdc2946648419650935550d2b5716b02ab5f06afce37809f8df75d363a9f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f8efc57653c08eec233d46bfa81556e11b7c89a9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54022684"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61979624"
 ---
 # <a name="sharing-and-permission-methods-to-provide-or-restrict-user-access-to-sharepoint-site"></a>Freigabe- und Berechtigungsmethoden zum Bereitstellen oder Einschränken des Benutzerzugriffs auf SharePoint Website
 

@@ -1,7 +1,7 @@
 ---
 title: Optionen für Audiokonferenzen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002334"
 - "4542"
-ms.openlocfilehash: 046a927248ca32f174c2664f37c153c286d2cdc982019116868bd0c2e85fe063
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 494192fa04c7855292d6764521f15f706c9f6411
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54096693"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61957129"
 ---
 # <a name="options-for-audio-conferencing"></a>Optionen für Audiokonferenzen
 

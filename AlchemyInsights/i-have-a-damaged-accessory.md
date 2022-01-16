@@ -1,7 +1,7 @@
 ---
 title: Ich habe ein beschädigtes Microsoft-Zubehörteil
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 03/29/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10103"
 - "9005694"
-ms.openlocfilehash: 776c457607a44bf689a200f4fbbc9cb33cfd9276c29891459ffb4d8a77a3c266
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 44c0336e16ff0e2f0fb9e7884b3f964d116e4dab
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54115611"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958070"
 ---
 # <a name="i-have-a-damaged-microsoft-accessory"></a>Ich habe ein beschädigtes Microsoft-Zubehörteil
 

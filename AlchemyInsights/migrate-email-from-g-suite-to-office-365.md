@@ -1,7 +1,7 @@
 ---
 title: Migrieren von E-Mails von G Suite zu Microsoft 365
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 8ac14dd4bf73f69ab340ceb7ae1dbeeb7c8b8c021d4a3a53151ab8c62eb268f8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88fb2035784b0199979e006e485dd8deaca15d15
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54066013"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61980850"
 ---
 # <a name="migrate-email-from-g-suite-to-microsoft-365"></a>Migrieren von E-Mails von G Suite zu Microsoft 365
 

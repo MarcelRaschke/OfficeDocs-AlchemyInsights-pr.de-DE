@@ -1,7 +1,7 @@
 ---
 title: Veraltete Extraktion von Firmennamen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: 15943bdc6e8d69e6a48cc0dd081afdee150e95a34823657156fd9abe111824d5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b7d34e1421c62461d2f4e08343c61fcf4615816c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978772"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61980958"
 ---
 # <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Änderungen an der Firmennamenextraktion in SharePoint Online
 

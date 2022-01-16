@@ -1,7 +1,8 @@
 ---
 title: Aktivieren der externen Freigabe in SharePoint Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 631102eb8a52746b2411000376d8434997eea2d92d2b95b0f102acf2a75f9d2d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0f790435be98186bc557ffabc64c914620eaa397
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54093761"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61980634"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Aktivieren der externen Freigabe in SharePoint Online
 
-Wenn Ihre Organisation Aufgaben ausführt, die die Freigabe von Dokumenten oder die direkte Zusammenarbeit mit Lieferanten, Clients oder Kunden umfassen, können Sie die [externen Freigabefeatures von SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) verwenden, um Inhalte für Personen außerhalb Ihrer Organisation freizugeben.
+Wenn Ihre Organisation Aufgaben ausführt, die das Freigeben von Dokumenten oder die direkte Zusammenarbeit mit Lieferanten, Clients oder Kunden umfassen, können Sie die [externen Freigabefeatures von SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) verwenden, um Inhalte für Personen außerhalb Ihrer Organisation freizugeben.
 
 Weitere Informationen zur externen Freigabe (Gäste) finden Sie unter den folgenden Links.
 
@@ -44,8 +45,8 @@ Weitere Informationen zur externen Freigabe (Gäste) finden Sie unter den folgen
 
 Überprüfen Sie die links unten. 
 
-- [OSE-Freigabefehler in SharePoint oder OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE-Freigabefehler in Sharepoint oder OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [Fehlermeldung, wenn ein externer Benutzer eine SharePoint Onlineeinladung mit einem anderen Konto akzeptiert](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Fehlermeldung, wenn ein externer Benutzer eine SharePoint Online-Einladung mithilfe eines anderen Kontos akzeptiert](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
 - [Zugriff auf einen freigegebenen Ordner verweigert](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

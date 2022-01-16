@@ -1,7 +1,8 @@
 ---
 title: Verwalten von Yammer Benutzern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: db84609e28283da902d4a299bbf1fe164b74366f3818510eba5f10d2ebbdf4f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bdb4c6bc641a0f0a8d54845c767098df6729bda5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53992911"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61978507"
 ---
 # <a name="managing-yammer-users"></a>Verwalten von Yammer Benutzern
 
@@ -29,7 +30,7 @@ ms.locfileid: "53992911"
 
   - Verwalten von Yammer Benutzern über Microsoft 365
 
-2. Informationen zum Verwalten von Benutzern über die Yammer Admin-Konsole finden Sie unter [Hinzufügen, Blockieren oder Entfernen](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) von Yammer Benutzern. Dies umfasst Folgendes:
+2. Informationen zum Verwalten von Benutzern aus der Yammer Admin-Konsole finden Sie unter [Hinzufügen, Blockieren oder Entfernen](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) Yammer Benutzern. Dies umfasst Folgendes:
 
   - Einladen oder Entfernen von Benutzern
 

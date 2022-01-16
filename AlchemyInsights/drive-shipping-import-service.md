@@ -1,7 +1,7 @@
 ---
 title: Laufwerkversand im Microsoft 365-Importdienst
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 06/01/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11514"
 - "9003046"
-ms.openlocfilehash: 1f286896f80a6bbabd4810f10fb0b8284fd13aba
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 3406ca826ae849efab4b6cb6fac63cc7a19a781c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311362"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958575"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>Laufwerkversand im Microsoft 365-Importdienst
 

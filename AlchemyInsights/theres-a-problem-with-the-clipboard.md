@@ -1,7 +1,7 @@
 ---
 title: Es liegt ein Problem mit der Zwischenablage vor.
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: c8c6d80d6ec4efc77eed254103ffa52be4ab82a825a3902d490f7059708e76e8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8764510731db1ceb7a614067484094effedfbdfe
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908673"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61980453"
 ---
 # <a name="resolving-excel-clipboard-error"></a>Beheben Excel Zwischenablagefehlers
 
-Wenn in Excel eine Fehlermeldung mit der Meldung "Es liegt ein Problem mit der Zwischenablage vor, Aber Sie können Ihre Inhalte trotzdem in diese Arbeitsmappe einfügen" angezeigt wird, deaktivieren Sie das Live Preview-Feature, indem Sie die folgenden Schritte ausführen:
+Wenn in Excel ein Fehler mit der Meldung "Es liegt ein Problem mit der Zwischenablage vor, Aber Sie können Ihre Inhalte trotzdem in diese Arbeitsmappe einfügen" angezeigt wird, deaktivieren Sie die Live Preview-Funktion, indem Sie die folgenden Schritte ausführen:
 
 1. Klicken Sie in Excel auf **"Dateioptionen".**  >  
 3. Wählen Sie im Dialogfeld **Excel Optionen** die Option **"Allgemein"** aus.

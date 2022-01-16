@@ -1,7 +1,7 @@
 ---
 title: Beheben des Office-Aktivierungsfehlers 0xD000000C
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: c10caf49bb2937ff80f403bd7ff3d57a47205dc11d8e295b2a34ddacf0eacfad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: be99d30d468bbd85c32e5d912c5121acf14a5bf8
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53959241"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61956445"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Beheben des Office-Aktivierungsfehlers 0xD000000C
 

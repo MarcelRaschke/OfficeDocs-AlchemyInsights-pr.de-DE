@@ -1,7 +1,7 @@
 ---
 title: Nachrichtenflussregeln in Exchange Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5068"
-ms.openlocfilehash: 737e0f2db14a766db1c21720a936c2dd4645aef3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8d11de5744267116cfc6afe29c6676e70814f445
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810555"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61979120"
 ---
 # <a name="mail-flow-transport-rules-in-exchange-online"></a>Nachrichtenflussregeln (Transportregeln) in Exchange Online
 

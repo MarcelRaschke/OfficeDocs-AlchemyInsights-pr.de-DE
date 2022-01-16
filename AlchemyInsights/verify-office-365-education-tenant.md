@@ -1,7 +1,8 @@
 ---
 title: Verifizieren des Office 365 Education-Mandanten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002258"
 - "4360"
-ms.openlocfilehash: 587afe4d41081ccd52c6c046ecbbc69c1e528a8022ef9b09db396d9b34b2e323
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 63a38a18a053aab1603bf410a05c2ab6cc6ff8e5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54037499"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61978327"
 ---
 # <a name="verify-office-365-education-tenant"></a>Verifizieren des Office 365 Education-Mandanten
 

@@ -1,7 +1,7 @@
 ---
 title: Apps auf dem Desktop platzieren
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: fef1b01647ca0a2828f6b1f09bc9850b54da777edd04d2fd76e6c79579fbefcc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c6988443ddf96efac297846bd40bf40e2954f140
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54075123"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61981282"
 ---
 # <a name="put-apps-on-the-desktop"></a>Apps auf dem Desktop platzieren
 

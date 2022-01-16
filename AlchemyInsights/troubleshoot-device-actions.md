@@ -1,7 +1,7 @@
 ---
 title: Behandeln von Problemen mit der Geräteaktionen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "9002274"
 - "4388"
 - "4389"
-ms.openlocfilehash: e57d24bf9c1c0f8c6307308cc8d8cb8fd06d6a48f0462dc504e0f54eb2844718
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e4e3a0bc16f1d3386dc157379c7582ec226b97ef
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54106071"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61979516"
 ---
 # <a name="troubleshoot-device-actions"></a>Behandeln von Problemen mit der Geräteaktionen
 

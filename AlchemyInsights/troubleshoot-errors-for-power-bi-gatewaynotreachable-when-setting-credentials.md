@@ -1,7 +1,7 @@
 ---
 title: GatewayNotReachable beim Festlegen von Anmeldeinformationen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1321"
 - "2500002"
-ms.openlocfilehash: bda457a8b8960e884bf378a919da096ad44752da447d346be7f0b1c435a9dcb0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4b3ae5f9005152bab1875b2ee04eed97d29e6fc5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53939414"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61981138"
 ---
 # <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable beim Festlegen von Anmeldeinformationen
 

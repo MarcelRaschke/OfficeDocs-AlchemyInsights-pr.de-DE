@@ -1,7 +1,7 @@
 ---
-title: SharePoint großer Listen
-ms.author: toresing
-author: tomresing
+title: SharePoint große Listen
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: c67632e323f2068faba06779b94ba4fd8e9f319e18cefb7977bd3038ca770210
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 09dff8362631ee8fabc4a6661b918e3e1aaeabcb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53941590"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61957021"
 ---
 # <a name="work-with-large-lists-and-libraries-in-sharepoint"></a>Arbeiten mit großen Listen und Bibliotheken in SharePoint
 

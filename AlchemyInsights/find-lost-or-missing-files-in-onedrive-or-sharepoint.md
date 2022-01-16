@@ -1,7 +1,7 @@
 ---
 title: Suchen nach verlorenen oder fehlenden Dateien in OneDrive oder SharePoint
-ms.author: matteva
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: b82e3f14fa61ed9b439aa2991be18cf7a064c4a20a02f914176b1afe6eb0f83b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a9f3b7b7985841eb293cdd086972af8060ad359a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53977368"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61979768"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Suchen nach verlorenen oder fehlenden Dateien in OneDrive oder SharePoint
 
-- Überprüfen Sie den Papierkorb, indem Sie zu Ihrem OneDrive oder der SharePoint-Website im Web navigieren und im linken Bereich auf den Papierkorb klicken. (Wenn im linken Bereich kein Papierkorb angezeigt wird, klicken Sie auf das Symbol Einstellungen, und wählen Sie dann **Websiteinhalte** aus. **Der Papierkorb** befindet sich ganz rechts auf der Befehlsleiste oben.) 
+- Überprüfen Sie den Papierkorb, indem Sie zu Ihrem OneDrive oder der SharePoint-Website im Web navigieren und im linken Bereich auf den Papierkorb klicken. (Wenn im linken Bereich kein Papierkorb angezeigt wird, klicken Sie auf das symbol Einstellungen, und wählen Sie dann **Websiteinhalte** aus. **Der Papierkorb** befindet sich ganz rechts auf der Befehlsleiste oben.) 
     
 - Wenn Sie die Dateien auf Ihrem Computer synchronisieren, überprüfen Sie den Papierkorb auf Ihrem Computer. 
     

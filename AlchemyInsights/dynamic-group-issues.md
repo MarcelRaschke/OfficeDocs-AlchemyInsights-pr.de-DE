@@ -1,7 +1,7 @@
 ---
 title: Probleme bei dynamischen Gruppen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/10/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6174"
 - "9003234"
-ms.openlocfilehash: 18c1943b7dd7ee0a979b4a95807322aec9d2197270019217c5d17aec319c1426
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d8b8b2d4101b17f773d42c594a4f6862106fb8b2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118455"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958539"
 ---
 # <a name="dynamic-group-issues"></a>Probleme bei dynamischen Gruppen
 

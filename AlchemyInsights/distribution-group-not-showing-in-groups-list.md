@@ -1,7 +1,7 @@
 ---
 title: Verteilergruppe wird in Gruppenliste nicht angezeigt
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "13"
 - "2"
 ms.assetid: 7d193eb3-dfaf-4be8-a03c-151905a1e9f1
-ms.openlocfilehash: 1b430d86a9384005ca389ec2e98708ea2be15beb8c0549093acb829f90189d38
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 926c08fa47b8d9f444af1a79a0249217225eeb78
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978196"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61978615"
 ---
 # <a name="distribution-group-not-showing-in-groups-list"></a>Verteilergruppe wird in Gruppenliste nicht angezeigt
 

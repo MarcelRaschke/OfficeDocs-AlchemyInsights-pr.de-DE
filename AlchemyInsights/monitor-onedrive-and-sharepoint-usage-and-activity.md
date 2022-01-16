@@ -1,7 +1,8 @@
 ---
 title: Überwachen OneDrive und SharePoint Nutzung und Aktivität
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.custom:
 - "865"
 - "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: e0a74d150be81d4684e481a76eb4b1d93fcc8b70997d513c9230406f520d1ec2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a3e08ded7587454d98920c89d8fdcd8330c0793f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54113343"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958034"
 ---
 # <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Anzeigen von Berichten zu OneDrive und SharePoint Aktivitäten und Nutzung
 

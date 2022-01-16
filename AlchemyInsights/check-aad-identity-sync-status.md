@@ -1,7 +1,7 @@
 ---
-title: Überprüfen des AAD-Identitätssynchronisierungsstatus
-ms.author: pebaum
-author: pebaum
+title: Überprüfen AAD Identitätssynchronisierungsstatus
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,14 +14,14 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: d060791e8981576c526885f171ab592f96c98783a061acbf41e659b1f896b8cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0c807bd7fd8c1b3b5e63bbe99145d5c2358d4d5d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930764"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61978759"
 ---
-# <a name="check-aad-identity-sync-status"></a>Überprüfen des AAD Identity Sync-Status
+# <a name="check-aad-identity-sync-status"></a>Überprüfen AAD Identitätssynchronisierungsstatus
 
 Das Überprüfen des Synchronisierungsstatus ist einfach:
   
@@ -31,5 +31,5 @@ Das Überprüfen des Synchronisierungsstatus ist einfach:
 
 - Wählen Sie im Bereich "Verzeichnissynchronisierung" die Option "Zur DirSync-Verwaltung wechseln" aus.
 
-Wenn ein Problem mit der Verzeichnissynchronisierung vorliegt, werden die Fehler auf dieser Seite aufgelistet. Weitere Informationen zu verschiedenen Fehlern, die auftreten können, finden Sie unter Anzeigen von [Verzeichnissynchronisierungsfehlern.](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors)
+Wenn ein Problem mit der Verzeichnissynchronisierung vorliegt, werden die Fehler auf dieser Seite aufgeführt. Weitere Informationen zu verschiedenen Fehlern, die auftreten können, finden Sie unter Anzeigen von [Verzeichnissynchronisierungsfehlern.](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors)
   

@@ -1,7 +1,8 @@
 ---
 title: Aufgaben- und Kalenderereignisliste in der modernen Benutzeroberfläche
-ms.author: v-miegge
-author: v-miegge
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: f229837492d9ed8ca6f28e1dc4bc01f5ebec30438a868c1c9c25640e4003ccc8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 33667115a9bdd9910968ed06b9c70ae8f2308035
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53941331"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61956408"
 ---
 # <a name="task-and-calendar-event-list-in-modern-ui"></a>Aufgaben- und Kalenderereignisliste in der modernen Benutzeroberfläche
 

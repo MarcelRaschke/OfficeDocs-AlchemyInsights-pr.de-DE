@@ -1,7 +1,8 @@
 ---
 title: Problem mit Skype for Business?
-ms.author: pebaum
-author: CrystalThomasMS
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: e6c07b00a87160ad34a7d8a855a911fd552f8d41b1911e0dc35109306d105977
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 15c6466c111e69e15b12ab97e2a3afd22f2f8907
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013603"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61979192"
 ---
 # <a name="issue-with-skype-for-business"></a>Problem mit Skype for Business?
 

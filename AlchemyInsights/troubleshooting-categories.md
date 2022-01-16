@@ -1,7 +1,7 @@
 ---
 title: 604 Problembehandlungskategorien
 ms.author: pdigia
-author: pebaum
+author: cmcatee-MSFT
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: e2ca842df04a7d4b702606d57757192ffe328cad79f3f5a07abc450f8ff92288
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4fe6840956901ef233b23263716ab0a04b0f35b8
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972526"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61980381"
 ---
 # <a name="outlook-categories"></a>Outlook Kategorien
 

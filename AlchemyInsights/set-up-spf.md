@@ -1,7 +1,8 @@
 ---
 title: Einrichten von SPF
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 38aace122acb013be7786b3394990f12f47e0cb9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0df4f1ea8f8b7818d3d5abcee37bd839dface04a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316205"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61980742"
 ---
 # <a name="set-up-spf"></a>Einrichten von SPF
 

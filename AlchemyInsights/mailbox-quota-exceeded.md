@@ -1,7 +1,7 @@
 ---
 title: Postfachkontingent überschritten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 9cd70f3be9ec2925e3796a74582ca8adc3d5142e657be38b95e694e43db670c0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d4b5e3fe0677ec7c8c76a2bb79b010d463906ce
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53925524"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61979696"
 ---
 # <a name="mailbox-quota-exceeded"></a>Postfachkontingent überschritten
 

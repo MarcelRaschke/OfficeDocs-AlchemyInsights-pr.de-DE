@@ -1,7 +1,7 @@
 ---
 title: OneDrive-Synchronisierungsleistung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5840"
-ms.openlocfilehash: e20cb167f00e71a4dabb89b6679283d7e1aeaad68ca56a87222fb3d61f7dc6f5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 006a3f7b71e8015e816a016944ed6384adf05a20
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54075795"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61956805"
 ---
 # <a name="onedrive-sync-performance"></a>OneDrive-Synchronisierungsleistung
 

@@ -1,7 +1,8 @@
 ---
 title: Deaktivieren OneDrive
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: ff05cbfe55642243cff035c63db1ec7b541324b5f3685cacbf2877e22445e8cd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 082a51903187aa706e1dd9b356b4eb3b1486a4b9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53928620"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61956517"
 ---
 # <a name="disable-onedrive"></a>Deaktivieren OneDrive
 

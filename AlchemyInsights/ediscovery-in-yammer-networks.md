@@ -1,7 +1,7 @@
 ---
 title: eDiscovery in Yammer Netzwerken
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: f5e2f29e30db5ee2b042b43dc4737c90198ebd7025b9e1637f922b655a1a3f83
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d630a42ec427b6ab2ac456c435991e739d84f632
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118383"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61958214"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery in Yammer Netzwerken
 

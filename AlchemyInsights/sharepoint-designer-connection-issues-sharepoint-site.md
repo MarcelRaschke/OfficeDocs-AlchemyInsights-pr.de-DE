@@ -1,8 +1,8 @@
 ---
-title: SharePoint Probleme mit der Designerverbindung
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+title: SharePoint Designer-Verbindungsprobleme
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: d55f7c1902bb623900fa74bdae70695b6e04ad84ce7b6ea314db614283ec436d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35f905f08543aeb0fc81fa7b5ea8b3d811d96c59
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53942024"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61981102"
 ---
-# <a name="sharepoint-designer-connection-issues"></a>SharePoint Probleme mit der Designerverbindung 
+# <a name="sharepoint-designer-connection-issues"></a>SharePoint Designer-Verbindungsprobleme 
 
 Wenn SharePoint Designer Verbindungsprobleme mit SharePoint Websites hat, probieren Sie die folgenden allgemeinen Lösungen aus.
 
