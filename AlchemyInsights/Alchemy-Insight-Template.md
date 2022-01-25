@@ -13,20 +13,20 @@ ms.custom:
 - (bucket id)
 - (rule id)
 ms.date: (publish date)
-ms.openlocfilehash: 3ddf7f6b6e0e4c1239303f7cacc0f0e596f9f0e0
-ms.sourcegitcommit: 5dcbecdebbf5042db0c86a12149ddd537d766c91
+ms.openlocfilehash: 381520f2163c036742ca4962f741e4356873a2fd
+ms.sourcegitcommit: 77dad4c3ffa2f43116c42b70909ecdf3e4ef1b55
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62185204"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62193123"
 ---
 # <a name="required-alchemy-header-h1"></a>"Erforderlicher Alchimy-Header H1"
 
 Bewährte Methoden und Richtlinien für die Alchemy-Erstellung:
 
 1. **Schachteln Sie Alchemy-Insights nicht in Ordnern:** Dadurch wird die URL-Struktur beschädigt.
-1. Dateien im Ordner **"AlchemyInsights"** müssen Dateinamen mit Bindestrichen für Leerzeichen in Kleinbuchstaben schreiben. Beispiel: **_how-to-enable-litigation-hold.md_**.
-1. Fügen Sie die Bucket-ID und die Regel-ID aus dem [Alchemy Partner-Portal](https://alchemyportal.azurewebsites.net) in das Feld "ms.custom" ein. Zum Beispiel:
+2. Dateien im Ordner **"AlchemyInsights"** müssen Dateinamen in Kleinbuchstaben mit Bindestrichen für Leerzeichen verwenden. Beispiel: **_how-to-enable-litigation-hold.md_**.
+3. Fügen Sie die Bucket-ID und die Regel-ID aus dem [Alchemy Partner-Portal](https://alchemyportal.azurewebsites.net) in das Feld "ms.custom" ein. Zum Beispiel:
 
 ```
     ms.custom:
@@ -34,12 +34,12 @@ Bewährte Methoden und Richtlinien für die Alchemy-Erstellung:
     - 1234
 ```
 
-1. Verwenden Sie die restlichen Metadaten oben in dieser Datei als Vorlage.
-1. Öffnen Sie im [Portal "Alchemy Partner"](https://alchemyportal.azurewebsites.net) die Seite "Alchemy-Regel", und scrollen Sie nach unten zum **Abschnitt Insights.** Suchen Sie den **Lösungstitel,** und verwenden Sie diesen als Ausgangspunkt für Ihre Titelmetadaten und den H1-Titel. Je nachdem, wie die ursprüngliche Zeichenfolge geschrieben wird, müssen Sie sie möglicherweise zur besseren Lesbarkeit bearbeiten.
+4. Verwenden Sie die restlichen Metadaten oben in dieser Datei als Vorlage.
+5. Öffnen Sie im [Portal "Alchemy Partner"](https://alchemyportal.azurewebsites.net) die Seite "Alchemy-Regel", und scrollen Sie nach unten zum **Abschnitt Insights.** Suchen Sie den **Lösungstitel,** und verwenden Sie diesen als Ausgangspunkt für Ihre Titelmetadaten und den H1-Titel. Je nachdem, wie die ursprüngliche Zeichenfolge geschrieben wird, müssen Sie sie möglicherweise zur besseren Lesbarkeit bearbeiten.
 
 **Hinweis** Alchemy Insights DARF nur einen einzelnen H1 oben haben, sonst werden sie in der Produktion beschädigt.
 
-1. Füllen Sie als Nächstes den Textkörper "Insight" mithilfe des Entwurfsmaterials im Abschnitt **"Kundenlösung"** der Seite "Alchemy-Regel" aus.
+6. Füllen Sie als Nächstes den Textkörper "Insight" mithilfe des Entwurfsmaterials im Abschnitt **"Kundenlösung"** der Seite "Alchemy-Regel" aus.
 
    - **Verwenden Sie keine H2s** Sie werden nicht gerendert. Verwenden Sie daher **fett oder** andere Konventionen, um separate Abschnitte zu kennzeichnen.
    - **Verwenden Sie keinen HTML-Code** Verwenden Sie nur einfaches Markdown.
