@@ -1,7 +1,7 @@
 ---
 title: Warnungen vom Typ „Nachrichten wurden verzögert“
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/21/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12450"
 - "3100012"
-ms.openlocfilehash: 62df1d6bcbc142d81d2c05fe142d6a6421cf7904
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5899adf625b6e32da350980e274f77ccee7e9fe6
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314735"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61962763"
 ---
 # <a name="messages-have-been-delayed-alerts"></a>Warnungen vom Typ „Nachrichten wurden verzögert“
 

@@ -1,7 +1,7 @@
 ---
 title: PSTN-Konferenzen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: 028e4623b7db7c0ee7a8eaab2e8971587d8cf0318c7c918ba6621f0d57b116be
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 04bad3b5c2c4cf5fdb1d99ded23e5dfb59061e4e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53943626"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61945294"
 ---
 # <a name="pstn-calling-with-skype-for-business-online"></a>PSTN-Anrufe mit Skype for Business Online
 

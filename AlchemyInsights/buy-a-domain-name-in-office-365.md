@@ -1,7 +1,8 @@
 ---
 title: Erwerben eines Domänennamens in Microsoft 365
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.custom:
 - "9002245"
 - "4349"
 ms.assetid: ''
-ms.openlocfilehash: b6c7e3717ceb9690db6dc7dacbe7469a698d2ed128deb5843291687814ba302e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 49e4c6222f30503d282eb9c8d2ebbde93d98a363
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53996737"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961962"
 ---
 # <a name="buy-a-domain-name-in-microsoft-365"></a>Erwerben eines Domänennamens in Microsoft 365
 
@@ -28,6 +29,6 @@ Sie können einen Domänennamen von Microsoft im Admin Center kaufen unter [Dom�
 
 - Bei Bedarf sind Domänenübertragungen zu einer anderen Registrierungsstelle bis zu 60 Tage nach dem Kauf der Domäne zulässig.
 
-Weitere Informationen finden Sie unter [Erwerben eines Domänennamens in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name?view=o365-worldwide).
+Weitere Informationen finden Sie unter [Erwerben eines Domänennamens in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
 
 Lesen Sie außerdem [Aktualisieren von DNS-Einträgen, um die Website beim aktuellen Hostinganbieter zu belassen](https://docs.microsoft.com/alchemyinsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-0).

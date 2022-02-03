@@ -1,7 +1,7 @@
 ---
 title: Problembehandlung bei der Registrierung von Android-Geräten in Microsoft Intune
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
@@ -13,12 +13,12 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 0ae926e6b31493e7359981c621fd27e8f53d49a17bdf107173b087fe6cc688fa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a86198cb2a7fbd929ec4265f3e55e61381675c24
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54008077"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61874611"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Problembehandlung bei der Registrierung von Android-Geräten in Microsoft Intune
 
@@ -30,7 +30,7 @@ Einige häufige Probleme und Lösungsschritte:
   
  **Geräte können beim Intune-Dienst nicht einchecken oder in der Intune-Verwaltungskonsole als "Fehlerhaft" angezeigt werden:** Einige Samsung 4.4- und 5.5-Geräte werden möglicherweise nicht in den Dienst eingecheckt. Es gibt drei mögliche Lösungen für dieses Problem:
   
-1. Öffnen Sie manuell die Intune-Unternehmensportal App, die automatisch eine Gerätesynchronisierung initiiert.
+1. Öffnen Sie manuell die Intune-Unternehmensportal-App, die automatisch eine Gerätesynchronisierung initiiert.
 
 2. Aktualisieren Sie das Gerät auf Android 6.0 oder höher.
 

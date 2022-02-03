@@ -1,7 +1,7 @@
 ---
 title: Die Bearbeitung von Excel- oder Word-Dateien wurde gesperrt
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5635"
-ms.openlocfilehash: 42b484c54815df013c292483859e6dcdc20c4fac752f38c5a2820332a5c990ba
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7dcde3100b9519f1ec52664f8805085838fcb383
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978052"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61962835"
 ---
 # <a name="excel-or-word-files-are-locked-for-editing"></a>Die Bearbeitung von Excel- oder Word-Dateien wurde gesperrt
 

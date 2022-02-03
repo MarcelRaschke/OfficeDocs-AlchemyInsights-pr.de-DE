@@ -1,7 +1,7 @@
 ---
-title: Hinzufügen von Benutzern zu einer SharePoint Gruppe
-ms.author: pebaum
-author: pebaum
+title: Hinzufügen von Benutzern zu einer SharePoint-Gruppe
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3199"
-ms.openlocfilehash: bec5c47b149329f9fa0a6110c6340a1271620787062b7fbdf2d8d4b96b97b202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c6aa4b169d889a2d13dc053d5a41115385f28ed8
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53953184"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61945978"
 ---
-# <a name="add-users-to-a-sharepoint-group"></a>Hinzufügen von Benutzern zu einer SharePoint Gruppe
+# <a name="add-users-to-a-sharepoint-group"></a>Hinzufügen von Benutzern zu einer SharePoint-Gruppe
 
 Eine SharePoint-Gruppe ist eine Sammlung von Benutzern, die alle über die gleichen Berechtigungen für Websites und Inhalte verfügen. Anstatt Berechtigungen Personen jeweils einzeln zuzuweisen, können Sie mithilfe von Gruppen vielen Personen gleichzeitig bequem die gleiche Berechtigungsstufe zuweisen.
 

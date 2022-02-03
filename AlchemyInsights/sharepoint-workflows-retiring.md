@@ -1,7 +1,7 @@
 ---
 title: SharePoint-Workflows werden eingestellt
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: cf85e4c45f1d88c3a643e298fac5d539cd127fdf
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: e52b2bdd5d8aaa6a20a5205676dc560f5a364c3a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477455"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61947635"
 ---
 # <a name="sharepoint-workflows-retiring"></a>SharePoint-Workflows werden eingestellt
 

@@ -1,7 +1,8 @@
 ---
 title: Fehler 0-1036 bei der Installation von Office
-ms.author: janellem
-author: janellem
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,22 +13,22 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: f0779ef2460059d5469fc3e7c3ace6f57ce137559ca782152c8c312eb1a5b07d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b8fc9252e96e11ff8dea4823a025479d7c218b7b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54057173"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61945510"
 ---
 # <a name="error-0-1036-when-installing-office"></a>Fehler 0-1036 bei der Installation von Office
 
 Versuchen Sie diese Lösungen, um ihren Office Fehler 0-1036 zu beheben:
   
-- Starten Sie Ihren Computer neu, und versuchen Sie [erneut, Office](https://portal.office.com/OLS/MySoftware.aspx) zu installieren.
+- Starten Sie Ihren Computer neu, und [installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx) erneut.
 
 - Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) herunter, und installieren Sie ihn.
 
-1. Wenn sie geöffnet wird, wählen Sie unter **"Deinstallieren Office Produkte"** die Version aus, die Sie deinstallieren möchten, und wählen Sie **"Weiter"** aus.
+1. Wenn sie geöffnet wird, wählen Sie unter **"Deinstallieren Office Produkte** die Version aus, die Sie deinstallieren möchten, und wählen Sie **"Weiter"** aus.
 
 2. Klicken Sie sich durch die Bildschirme, und starten Sie Ihren Computer bei entsprechender Aufforderung neu.
 

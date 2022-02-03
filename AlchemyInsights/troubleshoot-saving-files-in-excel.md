@@ -1,7 +1,7 @@
 ---
 title: Problembehandlung beim Speichern von Dateien in Excel
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000703"
 - "2608"
-ms.openlocfilehash: 2bc46157a4c129fb41c098dc89e56dff810a67ff191c22b1fcfad045077d4519
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 125c6d103d911ff8832a8a3508e04f0bfe166f1a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54039317"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61946086"
 ---
 # <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a>Problembehandlung für Fehler beim Speichern von Excel-Arbeitsmappen
 
-Wenn Beim Speichern einer Arbeitsmappe in Excel Probleme auftreten, finden Sie informationen [zum Beheben von Fehlern beim Speichern Excel Arbeitsmappen.](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)
+Wenn Beim Speichern einer Arbeitsmappe in Excel Probleme auftreten, finden Sie Informationen [zum Beheben von Fehlern beim Speichern Excel Arbeitsmappen.](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)

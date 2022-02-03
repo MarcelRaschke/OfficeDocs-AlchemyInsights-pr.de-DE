@@ -1,8 +1,8 @@
 ---
 title: 'Fehler: Die meisten Features sind deaktiviert, weil eine gemeinsam genutzte Computerlizenz...'
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9811"
 - "9005394"
-ms.openlocfilehash: 2e0968cd870f068beb7a6c0f6135ca218899a73bb68840b983f515bbc760b3ab
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8ab91fe42348519e15d12dd2885382f8f9c2a80e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090051"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961709"
 ---
 # <a name="error-most-features-are-turned-off-because-a-shared-computer-license"></a>Fehler: Die meisten Features sind deaktiviert, weil eine gemeinsam genutzte Computerlizenz...
 

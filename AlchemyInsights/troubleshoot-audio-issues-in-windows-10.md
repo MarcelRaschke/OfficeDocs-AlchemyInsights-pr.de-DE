@@ -1,7 +1,7 @@
 ---
 title: Behandeln von Audioproblemen in Windows 10
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 382eb2def9dbaae87a37ec81af75713889acb925
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54039425"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61963051"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Behandeln von Audioproblemen in Windows 10
 
@@ -63,4 +63,4 @@ Wenn Sie nicht über den Geräte-Manager aktualisieren oder einen neuen Treiber 
 
 1. Klicken Sie im Geräte-Manager mit der rechten Maustaste auf den Audiotreiber (oder halten Sie den Audiotreiber gedrückt), und wählen Sie **"Deinstallieren" aus.** Starten Sie Ihr Gerät neu, und Windows versucht, den Treiber neu zu installieren.
 
-2. Wenn die Neuinstallation des Treibers nicht funktioniert, versuchen Sie, den generischen Audiotreiber zu verwenden, der im Lieferumfang Windows enthalten ist. Klicken Sie im Geräte-Manager mit der rechten Maustaste auf Ihren Audiotreiber > **Updatetreibersoftware**  >  **Suchen Sie auf meinem Computer nach Treibersoftware.**  >  **Wählen Sie aus einer Liste der Gerätetreiber auf meinem Computer** aus, wählen Sie **"High Definition Audio Device"** aus, wählen Sie **"Weiter"** aus, und folgen Sie den Anweisungen zur Installation.
+2. Wenn die Neuinstallation des Treibers nicht funktioniert, versuchen Sie, den generischen Audiotreiber zu verwenden, der im Lieferumfang Windows enthalten ist. Klicken Sie im Geräte-Manager mit der rechten Maustaste auf Ihren Audiotreiber > **Updatetreibersoftware**  >  **Suchen Sie meinen Computer nach Treibersoftware.**  >  **Wählen Sie aus einer Liste der Gerätetreiber auf meinem Computer** aus, wählen Sie **"High Definition Audio Device"** aus, wählen Sie **"Weiter"** aus, und folgen Sie den Anweisungen zur Installation.

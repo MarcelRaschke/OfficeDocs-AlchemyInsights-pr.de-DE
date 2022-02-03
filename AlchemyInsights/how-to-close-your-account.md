@@ -2,6 +2,7 @@
 title: So schließen Sie Ihr Konto
 ms.author: cmcatee
 author: cmcatee-MSFT
+manager: scotv
 ms.reviewer: jkinma, jmueller
 ms.audience: ITPro
 ms.topic: article
@@ -14,12 +15,12 @@ ms.assetid:
 - "9002317"
 - "4502"
 ms.date: 09/14/2020
-ms.openlocfilehash: 32d8cc921204d040ace8a6edcdd1b072b564829d
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.openlocfilehash: c56bbfa68e8c4df5355dc1892953cc93ac7da59a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451021"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61873460"
 ---
 # <a name="how-to-close-your-account"></a>So schließen Sie Ihr Konto
 

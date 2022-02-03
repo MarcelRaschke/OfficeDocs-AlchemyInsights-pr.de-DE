@@ -1,7 +1,7 @@
 ---
 title: Teams-Besprechungsaufzeichnungen auf OneDrive
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003835"
 - "6853"
-ms.openlocfilehash: 9a0b610ed3101cef90c9685f5ca34c6245e86ae9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8e5d3e8c47e787db33015397c1c4f49342226942
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810267"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61867332"
 ---
 # <a name="teams-meeting-recordings-to-onedrive"></a>Teams-Besprechungsaufzeichnungen auf OneDrive
 

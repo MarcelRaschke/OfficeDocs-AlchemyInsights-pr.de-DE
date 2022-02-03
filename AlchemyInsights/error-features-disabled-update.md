@@ -1,8 +1,8 @@
 ---
 title: 'Fehler: Die meisten Features wurden deaktiviert, da für dieses Produkt ein Update erforderlich ist.'
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9826"
 - "9005394"
-ms.openlocfilehash: efa38413c3081f4a8ad94d5ec56a951dc967028e096c5f7978251ddf33bfe13c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d866b4774e3db74ef7c7b9e7a8ff1f3234e09678
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54043763"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961745"
 ---
 # <a name="error-most-of-the-features-have-been-disabled-because-this-product-requires-an-update"></a>Fehler: Die meisten Features wurden deaktiviert, da für dieses Produkt ein Update erforderlich ist.
 

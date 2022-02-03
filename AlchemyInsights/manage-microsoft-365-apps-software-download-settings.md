@@ -1,7 +1,7 @@
 ---
 title: Verwalten der Softwaredownloadeinstellungen für Microsoft 365-Apps
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "5733"
-ms.openlocfilehash: 479c4fbfb46479af01d9b9dbc4b7a994ab27bc5bd8a8b8751f3dc9d203a60313
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9094e3a8fadcc67641416c29a121ae44fc85a293
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054041"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61962292"
 ---
 # <a name="manage-office-installation-options"></a>Verwalten der Office-Installationsoptionen
 

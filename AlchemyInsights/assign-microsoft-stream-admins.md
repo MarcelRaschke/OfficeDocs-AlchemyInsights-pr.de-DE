@@ -1,7 +1,7 @@
 ---
 title: Zuweisen von Microsoft Stream-Administratoren
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002469"
 - "4805"
-ms.openlocfilehash: 2e324ec4c48dfa63b419d214f26c1f8f4bdcbb0b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 475ed9a143d6fb4360a315ad0d975d4b84f12c4c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821077"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61962436"
 ---
 # <a name="assign-microsoft-stream-admins"></a>Zuweisen von Microsoft Stream-Administratoren
 

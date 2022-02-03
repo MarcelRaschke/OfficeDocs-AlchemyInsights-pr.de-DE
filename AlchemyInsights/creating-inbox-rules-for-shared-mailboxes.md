@@ -1,7 +1,8 @@
 ---
 title: Erstellen von Posteingangsregeln für freigegebene Postfächer
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +14,12 @@ ms.custom:
 - "1800021"
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: 6e5e4a0aabb76123ea98b91f84a76d56132695c2361f125b769a6f7fff7bdbaa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b6c17f8fbc000e679d3fcafeb19d5f298b6d451
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929268"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61962400"
 ---
 # <a name="creating-inbox-rules-for-shared-mailboxes"></a>Erstellen von Posteingangsregeln für freigegebene Postfächer
 

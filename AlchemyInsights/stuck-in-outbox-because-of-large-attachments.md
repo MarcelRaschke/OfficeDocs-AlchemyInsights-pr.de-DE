@@ -1,7 +1,7 @@
 ---
 title: Im Posteingang aufgrund großer Anlagen hängen geblieben
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: dde5238e6185fe991a16bdbf16f5ca8ee25e813f7159103f4efbba2d2cd9d7c5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3dbe305af80e352282677b92f9360039c046c7ea
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940962"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61947599"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Beheben von Nachrichten, die im Posteingang mit SaRA hängen bleiben
 

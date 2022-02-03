@@ -1,7 +1,7 @@
 ---
 title: Beheben von Problemen beim Herunterladen, Installieren und Aktualisieren von Microsoft Edge
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/26/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9128"
 - "9004429"
-ms.openlocfilehash: 10bc99634879bdbea5791ef194ab6a38ebf3db87
-ms.sourcegitcommit: e9fcd72e64d35f5ba14dfa0fbde39eae20d86cfe
+ms.openlocfilehash: 6aa928ee5001906c900492f3f262700e4da827c7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53603251"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61946878"
 ---
 # <a name="fix-problems-with-the-download-installation-and-update-of-microsoft-edge"></a>Beheben von Problemen beim Herunterladen, Installieren und Aktualisieren von Microsoft Edge
 

@@ -1,7 +1,7 @@
 ---
 title: Anwenden von Updates für Office-Apps
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1747"
 - "9000140"
-ms.openlocfilehash: 418c1166560b33c445d7ec452caadaa2295b87cc4766e7d36b7d711abb81a48e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7e615adb1319a9fb446a6090caf8b8a1a431f6a9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53969384"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61932508"
 ---
 # <a name="apply-updates-for-office-apps"></a>Anwenden von Updates für Office-Apps
 

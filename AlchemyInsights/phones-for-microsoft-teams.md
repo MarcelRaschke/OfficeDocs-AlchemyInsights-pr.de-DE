@@ -1,7 +1,7 @@
 ---
 title: Telefone für Microsoft Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1786"
 - "9000170"
-ms.openlocfilehash: 40f6e8c6c8c271936bd33ae01d882bbcc2d40560e8fbe5b06bf9d12788f116d4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d6f97d7959704ae49905e89fcdf960b10f3eab3d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53911805"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961493"
 ---
-# <a name="are-you-looking-for-phones-that-are-compatible-with-teams"></a>Sind Sie auf der Suche nach Telefonen, die mit Teams kompatibel sind?
+# <a name="are-you-looking-for-phones-that-are-compatible-with-teams"></a>Suchen Sie Telefone, die mit Teams kompatibel sind?
 
 Als Administrator verwalten Sie [alle Geräte,](https://docs.microsoft.com/microsoftteams/device-management) die mit Teams in Ihrer Organisation verwendet werden, über die Microsoft 365 Admin Center. Weitere Informationen: 
 

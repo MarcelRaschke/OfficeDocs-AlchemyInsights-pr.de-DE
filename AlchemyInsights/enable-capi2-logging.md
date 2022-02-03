@@ -1,7 +1,7 @@
 ---
 title: CAPI2-Protokollierung aktivieren
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/30/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12458"
 - "9007450"
-ms.openlocfilehash: 5c759ba600de95b1f70c87956432e81d4f28ba6e6bb2c2339557676bc18f61af
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bc8f49752585c96e072efdba7b5e7c1b16d0c59f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003596"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61916818"
 ---
 # <a name="enable-capi2-logging"></a>CAPI2-Protokollierung aktivieren
 

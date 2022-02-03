@@ -1,7 +1,8 @@
 ---
 title: Fragen im Zusammenhang mit Office 2019
-ms.author: janellem
-author: janellem
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,20 +13,20 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 60136dd385320760595bd061b226f5649b2c6ca9953ea87aa743dcf4156759a5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd102ec2d657d063b7772dba3f93e90648842471
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53911085"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61867368"
 ---
 # <a name="about-office-2019"></a>Informationen Office 2019
 
-Office 2019 ist für Kunden vorgesehen, die noch nicht für die Cloud bereit sind oder eine spezifische Notwendigkeit für die lokale oder Hybridbereitstellung Office haben. Es enthält eine sinnvolle Teilmenge von Features, die Microsoft 365 in den letzten drei Jahren bereits hinzugefügt wurden, aber nicht Teil von Microsoft 365 ist.
+Office 2019 ist für Kunden vorgesehen, die noch nicht für die Cloud bereit sind oder eine spezifische Notwendigkeit für die lokale oder Hybridbereitstellung Office haben. Es enthält eine sinnvolle Teilmenge von Features, die in den letzten drei Jahren bereits Microsoft 365 hinzugefügt wurden, aber nicht Teil der Microsoft 365 sind.
   
 Microsoft 365 Apps for Enterprise, die mit der Cloud verbundene Version von Office, bietet die produktivste und sicherste Office Erfahrung. Es bietet Zugriff auf eine Suite von Diensten, die über die lokalen Versionen hinausgehen, und erhält fortlaufend neue Featureupdates.
   
-Wenn Sie also die Office Desktop-Apps als Teil Ihres Microsoft 365-Abonnements haben, verfügen Sie bereits über die neueste Version von Office.
+Wenn Sie also über die Office Desktop-Apps als Teil Ihres Microsoft 365-Abonnements verfügen, verfügen Sie bereits über die neueste Version von Office.
   
 Weitere Informationen finden Sie unter:
   

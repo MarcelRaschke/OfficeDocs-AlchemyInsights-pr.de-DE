@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Prüfdateisätzen in Advanced eDiscovery
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/23/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11937"
 - "9007099"
-ms.openlocfilehash: 5e51a2d00ac9aa2f5d93a91036e69bc2218eacdb
-ms.sourcegitcommit: 4b92c2648ddba3ad3bc61a22771c59ed5fc76303
+ms.openlocfilehash: c0242846d44d03589d78ebfa6e9825448484a7c0
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58370202"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61947707"
 ---
 # <a name="managing-review-sets-in-advanced-ediscovery"></a>Verwalten von Prüfdateisätzen in Advanced eDiscovery
 

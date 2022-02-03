@@ -1,7 +1,7 @@
 ---
 title: Excel abstürzen?
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: reference
@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 8210e8b5f2bd484ddd862d0d6ae2c2de91e9a729
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312758"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61933115"
 ---
 # <a name="frequent-excel-crashes"></a>Häufige Excel Abstürze?
 

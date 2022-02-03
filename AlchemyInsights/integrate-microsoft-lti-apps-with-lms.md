@@ -1,7 +1,7 @@
 ---
 title: Integrieren von Microsoft LTI-Apps in Ihr LMS
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 09/09/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13728"
 - "9008594"
-ms.openlocfilehash: 8a218417f294703b4f03fee9ebf183ee4b2e6abe
-ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
+ms.openlocfilehash: 2d26c7ece99a0ea071851be66c4347d324b4fcf9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59334377"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61872460"
 ---
 # <a name="integrate-microsoft-lti-apps-with-your-lms"></a>Integrieren von Microsoft LTI-Apps in Ihr LMS
 

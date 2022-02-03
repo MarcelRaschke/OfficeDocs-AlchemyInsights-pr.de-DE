@@ -1,7 +1,8 @@
 ---
 title: Installieren von Office auf einem Terminalserver – Nicht lizenziert
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,16 +12,16 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 35ef317ea87fedd01c08fee5b370e3c81e515c27
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5da6a56d98a7775b2e72af95c9bf38a88a9f8f9d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321998"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61872592"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Installieren von Office auf einem Terminalserver
 
-Für die Bereitstellung von Microsoft 365 Apps for Enterprise auf einem Windows Server mitHilfe von Remotedesktopdiensten (RDS), früher Terminaldienste genannt:
+Für die Bereitstellung von Microsoft 365 Apps for Enterprise auf einem Windows-Server mithilfe von Remotedesktopdiensten (RDS), früher Terminaldienste genannt:
   
 - Sie müssen über ein Microsoft 365 Abonnement verfügen, das Microsoft 365 Apps for Enterprise enthält, z. B. Office 365 Enterprise E3 oder Enterprise E5. Die Pläne für Microsoft 365 Apps for Business und Microsoft 365 Apps for Business Premium enthalten keine Microsoft 365 Apps for Enterprise.
 
@@ -28,9 +29,9 @@ Für die Bereitstellung von Microsoft 365 Apps for Enterprise auf einem Windows 
 
 Wenn Sie Microsoft 365 Apps for Enterprise auf RDS aus dem Microsoft 365 Admin Center installieren möchten, ***das die Standardinstallationseinstellungen verwendet,*** führen Sie die folgenden Schritte aus.
 
-    **Tip**: You can also download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) to install Microsoft 365 Apps for enterprise in shared computer activation mode.
+**Tipp:** Sie können die [Microsoft-Support- und Wiederherstellungs-Assistent](https://aka.ms/SaRA_OfficeSCA_M365Portal) auch herunterladen und ausführen, um Microsoft 365 Apps for Enterprise im Aktivierungsmodus für gemeinsam genutzte Computer zu installieren.
   
-1. Überprüfen Sie, über welches Microsoft 365 Abonnement Sie verfügen. [Anleitung](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
+1. Überprüfen Sie, welche Microsoft 365 Abonnement Sie haben. [Anleitung](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
 2. Wechseln Sie bei Bedarf zu einem anderen Microsoft 365 Abonnement. [Anleitung](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
@@ -50,7 +51,7 @@ Wenn Sie Microsoft 365 Apps for Enterprise auf RDS aus dem Microsoft 365 Admin C
 
 7. Melden Sie sich auf dem RDS-Server ***als Endbenutzer an,*** und [stellen Sie sicher, dass die Aktivierung freigegebener Computer für Microsoft 365 Apps for Enterprise aktiviert ist.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
 
-Weitere Informationen zu den Voraussetzungen, Setupanweisungen und Anleitungen zu angepassten Installationen mithilfe des Office-Bereitstellungstools finden Sie unter [Bereitstellen von Microsoft 365 Apps for Enterprise mithilfe von Remotedesktopdiensten.](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
+Weitere Informationen zu den Voraussetzungen, Setupanweisungen und Anleitungen für angepasste Installationen mithilfe des Office-Bereitstellungstools finden Sie unter [Bereitstellen von Microsoft 365 Apps for Enterprise mithilfe von Remotedesktopdiensten.](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
   
-Informationen zum Beheben von Fehlern im Zusammenhang mit der Aktivierung freigegebener Computer finden Sie unter Problembehandlung bei der [Aktivierung freigegebener Computer für Microsoft 365 Apps for Enterprise.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
+Informationen zum Beheben von Fehlern im Zusammenhang mit der Aktivierung gemeinsam genutzter Computer finden Sie unter Problembehandlung bei der [Aktivierung freigegebener Computer für Microsoft 365 Apps for Enterprise.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
   

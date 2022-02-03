@@ -1,7 +1,7 @@
 ---
 title: ATP-Features
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "3455"
-ms.openlocfilehash: 64c27ad48b676cda8b466f09452bc53838c430717919b421dd287063aabc8c75
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 22d549958786604a8bc6f1903be8de8c7107d887
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54046643"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61932116"
 ---
 # <a name="whats-new-in-atp"></a>Neuigkeiten in ATP
 

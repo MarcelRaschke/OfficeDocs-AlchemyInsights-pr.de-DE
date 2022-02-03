@@ -1,7 +1,7 @@
 ---
 title: 'AIP-Scanner: Installation und Konfiguration'
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5119"
-ms.openlocfilehash: 75fd61e18503292bd5fa9e48c7cdba7692282925a419b3230d17448eab928ba0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5f6378052e90632bdeaee0dae1fa81b67d88ee3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53934256"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61946374"
 ---
 # <a name="aip-scanner-installation-and-configuration"></a>AIP-Scanner: Installation und Konfiguration
 
@@ -35,7 +35,7 @@ ms.locfileid: "53934256"
 1. Navigieren Sie unterhalb des Benutzerkontexts, in dem der Scannerdienst ausgeführt wird, zu %localappdata%\Microsoft\MSIP.
 2. Komprimieren Sie alle Inhalte im Ordner "MSIP".
 3. Speichern Sie die Protokolle an einem beliebigen Ort, und fügen Sie sie an Ihre Serviceanfrage an.
-4. Sie können auch [Export-AIPLogs -OnBehalfOf](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps) verwenden.
+4. Sie können auch [Export-AIPLogs -OnBehalfOf](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps&preserve-view=true) verwenden.
 
 **Weitere Informationen finden Sie unter**:
 - [Bereitstellen des Azure Information Protection-Scanners zum automatischen Klassifizieren und Schützen von Dateien](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)

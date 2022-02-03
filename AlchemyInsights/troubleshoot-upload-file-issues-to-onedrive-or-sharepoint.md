@@ -1,7 +1,7 @@
 ---
 title: Behandeln von Problemen beim Hochladen von Dateien auf OneDrive oder SharePoint.
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4447"
-ms.openlocfilehash: 4bf0e1c568fe3524b6b3f1d4f98a152b3f22fdbf211d6075caf594c56d3b25e0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d57517bbf518ae3adeb3b87885f2a5f414eee131
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54007861"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61945114"
 ---
 # <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a>Behandeln von Problemen beim Hochladen von Dateien auf OneDrive oder SharePoint.
 

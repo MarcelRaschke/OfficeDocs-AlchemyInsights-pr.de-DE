@@ -1,8 +1,8 @@
 ---
-title: Verhindern, dass Dateien von SharePoint oder OneDrive heruntergeladen werden
-ms.author: pebaum
-author: pebaum
-manager: matteva
+title: Verhindern, dass Dateien aus SharePoint oder OneDrive heruntergeladen werden
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: d492f26584199f76531f0c1afe026b4754383a1457b33c2e4c643fb13977b319
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6ffcbae5cba31ec057b5624491caae3880a98166
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54063051"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61946158"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Verhindern, dass Dateien von SharePoint oder OneDrive heruntergeladen werden
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Verhindern, dass Dateien aus SharePoint oder OneDrive heruntergeladen werden
 
 Es gibt verschiedene Methoden, die verwendet werden können, um Downloads zu verhindern oder zu blockieren. Die entsprechenden Methoden finden Sie unter den nachstehenden Links:
 
@@ -27,4 +27,4 @@ Es gibt verschiedene Methoden, die verwendet werden können, um Downloads zu ver
 
 - [Steuern des Zugriffs von nicht verwalteten Geräten](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [Konfigurieren von IRM-Richtlinien für SharePoint Dokumentbibliotheken, um das Herunterladen von Inhalten einzuschränken](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
+- [Konfigurieren von IRM-Richtlinien für SharePoint Dokumentbibliotheken, um den Download von Inhalten einzuschränken](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)

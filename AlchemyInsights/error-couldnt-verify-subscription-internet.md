@@ -1,8 +1,8 @@
 ---
 title: 'Fehler: Ihr Abonnement konnte nicht überprüft werden. Stellen Sie sicher, dass eine Internetverbindung besteht.'
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9823"
 - "9005394"
-ms.openlocfilehash: 962ba829ab770c3b4d51262a2bc123399cce0a03c585e886d1aa5701da284c7d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9875c84335c314370a2e70096324e048b38bdc14
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54043835"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961818"
 ---
 # <a name="error-we-couldnt-verify-your-subscription-please-make-sure-that-youre-connected-to-the-internet"></a>Fehler: Ihr Abonnement konnte nicht überprüft werden. Stellen Sie sicher, dass eine Internetverbindung besteht.
 

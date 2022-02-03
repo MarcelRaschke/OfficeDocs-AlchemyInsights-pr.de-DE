@@ -2,6 +2,7 @@
 title: 323 Probleme mit Verzögerungen in E-Mails
 ms.author: chrisda
 author: chrisda
+manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +14,12 @@ ms.custom:
 - "323"
 - "3100002"
 ms.assetid: a825b451-9746-4ab5-bc31-7679b3a48d5e
-ms.openlocfilehash: 5cdae61ad9fabadf88e61ae3badbb3b7bb8891371120413926060142c7ff24f4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 70d354ac91efb22bc85e7ac8222ae9efa2539d09
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53986854"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61945402"
 ---
 # <a name="delays-in-email-message-delivery"></a>Verzögerungen bei der Zustellung von E-Mail-Nachrichten
 

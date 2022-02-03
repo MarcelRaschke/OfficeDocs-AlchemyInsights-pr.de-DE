@@ -1,7 +1,7 @@
 ---
 title: Aufzeichnen von Transkriptionen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 09/21/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13988"
 - "14"
-ms.openlocfilehash: a0d74d6df2c50dd11f005735ac8a3dcfa8be9fc5
-ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
+ms.openlocfilehash: fee5f2b85abbaf4566a07e658b21b63f84d5c5e2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2021
-ms.locfileid: "59481866"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61867296"
 ---
 # <a name="recording-transcriptions"></a>Aufzeichnen von Transkriptionen
 

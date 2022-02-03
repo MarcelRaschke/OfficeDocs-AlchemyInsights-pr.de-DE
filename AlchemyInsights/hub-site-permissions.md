@@ -1,7 +1,7 @@
 ---
 title: Hubwebsite-Berechtigungen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/15/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6871"
 - "5300012"
-ms.openlocfilehash: 281d4b4d878e5c128e27ef2f586521d7d81744e5a43c88ceef52c6aceeabf0a0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 15c7ec41a82801692dd26f13135943df5ce6b676
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54078297"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61873424"
 ---
 # <a name="hub-site-permissions"></a>Hubwebsite-Berechtigungen
 

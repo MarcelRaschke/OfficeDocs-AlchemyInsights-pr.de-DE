@@ -1,7 +1,8 @@
 ---
 title: Erstellen von AIP-Bezeichnungsrichtlinien
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: d24696b63663c69b22c783072141af62ecf124dba7b49bca827381f39f88640e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b0d7bfc2912fb357f3eade0d5c968b239abf4ddd
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031981"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61962907"
 ---
 # <a name="creating-aip-label-policies"></a>Erstellen von AIP-Bezeichnungsrichtlinien
 

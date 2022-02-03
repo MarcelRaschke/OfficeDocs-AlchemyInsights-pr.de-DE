@@ -1,7 +1,7 @@
 ---
 title: Warnungen fehlen auf der Registerkarte "Warnungen"
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 8/16/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007647"
 - "12732"
-ms.openlocfilehash: 9fbd9a32e40d858f0ba49931c723a824478aaa12
-ms.sourcegitcommit: 2be4a0352cb84a703ebf12966e1c17b64df07364
+ms.openlocfilehash: a7af19f281ba6bae9425f9acd4fee2bae7ea1ce7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58362387"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61947491"
 ---
 # <a name="alerts-missing-from-alerts-tab"></a>Warnungen fehlen auf der Registerkarte "Warnungen"
 

@@ -1,7 +1,7 @@
 ---
 title: Verwenden von Microsoft Intune
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/17/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "862"
 - "670000"
-ms.openlocfilehash: 1aa04add46978836c83afbd1c85c58df59fd2966806b0b2b1be5bd8cb5774d47
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a8e9a261595b498e802422dac38b06ae27d5644d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53907665"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61962472"
 ---
 # <a name="working-with-microsoft-intune"></a>Verwenden von Microsoft Intune
 

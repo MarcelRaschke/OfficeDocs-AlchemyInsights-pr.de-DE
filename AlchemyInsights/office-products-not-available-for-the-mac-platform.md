@@ -1,7 +1,7 @@
 ---
 title: Office Produkte, die für die Mac-Plattform nicht verfügbar sind
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: ITPro
 ms.topic: article
@@ -15,12 +15,12 @@ ms.custom:
 - "756"
 - "755"
 - "2000016"
-ms.openlocfilehash: d8de790de60a3d656f46248a73e56fbd195018bbec9bc234a39bca5a162e9b21
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: dbd4811455db4f67ea64d99c03590026ceeed78a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076236"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61946194"
 ---
 # <a name="office-products-not-available-for-the-mac-platform"></a>Office Produkte, die für die Mac-Plattform nicht verfügbar sind
 

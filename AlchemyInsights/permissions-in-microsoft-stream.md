@@ -1,7 +1,7 @@
 ---
 title: Berechtigungen in Microsoft Stream
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: a3b9fc034087db3e0c3910ae13a1af8c2e8f153e272f5f90d8b2efcc6afb8dbe
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 63c09473127c9276a43c8ea07f631a3054ef6fa3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53944274"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61874647"
 ---
 # <a name="permissions-in-microsoft-stream"></a>Berechtigungen in Microsoft Stream
 

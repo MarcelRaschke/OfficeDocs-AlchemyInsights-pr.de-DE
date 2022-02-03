@@ -1,7 +1,7 @@
 ---
 title: 'AIP: Kopf- und Fußzeilen werden nicht erwartungsgemäß angezeigt'
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: e3a0e5caccba87ddd8e4c786b5c8918494e709b6f4d5d60e7c31215a60b1d5d6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2549f876c6c3d1541900515ada95922d5b9a0163
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53951780"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61946446"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: Kopf- und Fußzeilen werden nicht erwartungsgemäß angezeigt
 

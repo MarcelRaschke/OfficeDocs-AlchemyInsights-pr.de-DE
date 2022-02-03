@@ -1,7 +1,7 @@
 ---
 title: Verwaltungseinheiten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 05/17/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11254"
 - "1200008"
-ms.openlocfilehash: d9eab39763b92aa4c4e1beb759edfd9f041fc6d0
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 812a42c58625ccb925202984144a8d11e9bf1450
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313995"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61945834"
 ---
 # <a name="administrative-units"></a>Verwaltungseinheiten
 

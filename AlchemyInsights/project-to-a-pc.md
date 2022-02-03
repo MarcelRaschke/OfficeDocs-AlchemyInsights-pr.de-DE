@@ -1,7 +1,7 @@
 ---
 title: Auf einen PC projizieren
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001520"
 - "5610"
-ms.openlocfilehash: 27775e3521cdad926f26e8d34738e8c7129fb8d9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9887bb10947e5e882274c5abb4adca26c27fab51
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809943"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61962178"
 ---
 # <a name="project-to-a-pc"></a>Auf einen PC projizieren
 

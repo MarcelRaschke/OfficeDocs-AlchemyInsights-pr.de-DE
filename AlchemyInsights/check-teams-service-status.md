@@ -1,7 +1,7 @@
 ---
 title: Überprüfen des Teams-Dienststatus
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "4392"
 - "9001703"
-ms.openlocfilehash: ffc3d65cd9f2fb0116ef14f9ab3105686cfbad34125379d6b5b9db355712a507
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a69b0e6a49deb493a1dd4e22390f1ca2895a169c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930620"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61945690"
 ---
 # <a name="check-teams-service-status"></a>Überprüfen des Teams-Dienststatus
 

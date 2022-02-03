@@ -1,7 +1,8 @@
 ---
 title: Sie erhalten zu viel Spam oder Phishing-Mails in Ihrem Posteingang?
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +11,12 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: f98bcfa73c043b2426c38099bf80208165455bc823301fc0d296cc32200e539a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e1e2bda9bdbb81a34f97804f65f1cfc37017aea6
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53951096"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61962070"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Sie erhalten zu viel Spam oder Phishing-Mails in Ihrem Posteingang?
 

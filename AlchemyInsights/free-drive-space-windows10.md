@@ -1,8 +1,8 @@
 ---
 title: Freigeben von Speicherplatz in Windows 10
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +15,12 @@ ms.custom:
 - "9774"
 - "9005390"
 - "9005403"
-ms.openlocfilehash: c7d29ab718be8dbdcde61a7de2f158fb3bbd722d2964d8b13cde9936dd1e5ee1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d449d0955eb74ba3ad411f0e6db71eb7e5e7ff2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53928080"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61946842"
 ---
 # <a name="free-up-drive-space-in-windows-10"></a>Freigeben von Speicherplatz in Windows 10
 

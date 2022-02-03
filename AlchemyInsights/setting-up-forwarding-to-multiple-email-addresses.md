@@ -1,7 +1,8 @@
 ---
 title: Einrichten der Weiterleitung an mehrere E-Mail-Adressen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.custom:
 - "837"
 - "1200004"
 ms.assetid: 81205bed-e32a-468d-9d4c-9e881622908b
-ms.openlocfilehash: 964285715720ee852ddb537ddfbaf1c6fb6bd3363eec83ffadc881b741035cad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bc467219cb6798d82cd803e02306078f86a30bbc
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53958116"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61946734"
 ---
 # <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Einrichten der Weiterleitung an mehrere E-Mail-Adressen
 

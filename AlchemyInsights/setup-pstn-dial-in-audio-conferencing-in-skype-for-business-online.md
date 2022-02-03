@@ -1,7 +1,7 @@
 ---
 title: Einrichten von PSTN-Einwahlaudiokonferenzen in Skype for Business Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: f88489850f30efd31af5f9ccb67edb309f45cb8e123c94befc70fdd72ee98450
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d5fdc4ed470bdc11fd30d8d7e4b4cd9ed3d16fd0
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54094389"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61963159"
 ---
 # <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Einrichten von PSTN-Einwahlaudiokonferenzen in Skype for Business Online
 
@@ -30,4 +30,4 @@ Wenn Sie Audiokonferenzen für Skype for Business Online einrichten möchten, m�
 
 - Abrufen und Zuweisen von Servicenummern.
 
-- Füllen Sie die Prüfliste unter ["Einrichten von Audiokonferenzen für Skype for Business"](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)aus.
+- Füllen Sie die Prüfliste unter ["Einrichten von Audiokonferenzen für Skype for Business" aus.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)

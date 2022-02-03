@@ -1,7 +1,7 @@
 ---
 title: Automatische Antworten in Outlook.com
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6435"
 - "9003532"
-ms.openlocfilehash: 31553430a17ccc281ce7404a7f95114a8cfe4500b194f895b5290268e22be383
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ae646896aceb4e78e898fee72e56447c097296a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54091690"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61947058"
 ---
 # <a name="automatic-replies-in-outlookcom"></a>Automatische Antworten in Outlook.com
 

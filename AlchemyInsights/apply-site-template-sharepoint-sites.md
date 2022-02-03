@@ -1,7 +1,7 @@
 ---
 title: Anwenden einer Websitevorlage auf SharePoint-Websites
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 03/29/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10184"
 - "9000094"
-ms.openlocfilehash: 502279487063b863d90390997f76d3d304fae9ae
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
+ms.openlocfilehash: a2cad5db96b4bf072f77c42d59033c111b9b6b2b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408753"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61947455"
 ---
 # <a name="apply-site-template-to-sharepoint-sites"></a>Anwenden einer Websitevorlage auf SharePoint-Websites
 

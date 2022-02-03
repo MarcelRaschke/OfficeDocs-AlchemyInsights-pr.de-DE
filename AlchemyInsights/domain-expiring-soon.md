@@ -1,7 +1,7 @@
 ---
 title: Ablauf der Domänenregistrierung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/14/2021
 audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "10933"
 - "9006437"
 - "5300030"
-ms.openlocfilehash: 9462deefe62f2fb6fffd1703d4cca84a83c84eef
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 01ce1d4a181e30e05c0c551f05552d9bfeeb3383
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325546"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61929602"
 ---
 # <a name="domain-registration-expiration"></a>Ablauf der Domänenregistrierung
 

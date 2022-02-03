@@ -1,7 +1,7 @@
 ---
 title: Keine Option zum Installieren von Office, Visio oder Project
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: d4dc3fffaf3959c2ee2a9a661f507b3058c002bf8b52a46430a6011bbce3a9e9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0b67d418206dee4b075e940d62e31ca2c882f898
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53974488"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961601"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Keine Option zum Installieren von Office, Visio oder Project
 

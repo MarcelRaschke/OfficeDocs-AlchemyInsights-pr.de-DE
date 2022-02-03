@@ -1,7 +1,7 @@
 ---
 title: Problembehandlung von eDiscovery-Exportproblemen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/19/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12336"
 - "3200003"
-ms.openlocfilehash: 6a6f587eed94164d9eef8ae6e3fef0bfb4e6f1758f36f8942fd3db25a4549408
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: e14b4493e73d1654f256b19aaf5a7fb0db0db70c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900607"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61946662"
 ---
 # <a name="troubleshooting-ediscovery-export-issues"></a>Problembehandlung von eDiscovery-Exportproblemen
 

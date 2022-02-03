@@ -1,7 +1,8 @@
 ---
 title: Anzeigen des Versionsverlaufs
-ms.author: toresing
-author: tomresing
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 34c73c42-e4a0-41ab-8eb8-a834d4bb04c4
-ms.openlocfilehash: 8a50b491ee0601b6d48b0986ce8c51081549ad80516b2fc9d52f1bf6e7c025cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c08d3fa9680caff6b5eb2f203f52a8875db9f5c5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54037139"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61962544"
 ---
 # <a name="view-version-history-of-a-file-or-list-item"></a>Anzeigen des Versionsverlaufs einer Datei oder eines Listenelements
 
@@ -25,5 +26,3 @@ ms.locfileid: "54037139"
 3. Zeigen Sie im Dialogfeld "Versionsverlauf" auf die gewünschte Version, und klicken Sie auf der rechten Seite auf den Pfeil nach unten, um eine Liste der Optionen abzurufen. Klicken Sie auf **"Anzeigen".**
     
 [Weitere Informationen zum Versionsverlauf](https://go.microsoft.com/fwlink/?linkid=875709)
-  
-

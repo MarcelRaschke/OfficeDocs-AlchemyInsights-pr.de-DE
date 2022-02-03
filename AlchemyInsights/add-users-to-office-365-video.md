@@ -1,7 +1,7 @@
 ---
 title: So fügen Sie einen Benutzer hinzu
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7592"
 - "1200022"
-ms.openlocfilehash: accb0057c1955cf5fdf24fcd71df186697a572f7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 05ced74b969139ac9933954e6163148b40c86c67
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822274"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61932917"
 ---
 # <a name="how-to-add-a-user"></a>So fügen Sie einen Benutzer hinzu
 

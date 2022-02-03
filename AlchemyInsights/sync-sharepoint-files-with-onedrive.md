@@ -1,8 +1,8 @@
 ---
 title: Behandeln von Problemen bei "Mit Explorer öffnen" in SharePoint Online
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "6462"
 - "9003546"
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 538cc24c091d42a8f7a8998ce1d18b61ac0b689c
-ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
+ms.openlocfilehash: 3addcd1f65ae122a44a4135d73cad8836706db83
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2021
-ms.locfileid: "59475468"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61946122"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Behandeln von Problemen bei "Mit Explorer öffnen" in SharePoint Online
 

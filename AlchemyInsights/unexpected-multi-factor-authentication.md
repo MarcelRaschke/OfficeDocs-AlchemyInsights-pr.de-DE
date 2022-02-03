@@ -1,7 +1,8 @@
 ---
 title: Unerwartete mehrstufige Authentifizierung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: d2b97175049bd9732b7444b029f7ea8610c3d5a2c02878ec5f20ded916baadd5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b101683d2e1167c589a2287591f643fd5f0b32c5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53991138"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61962106"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>Unerwartete mehrstufige Authentifizierung
 

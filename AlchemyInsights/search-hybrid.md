@@ -1,7 +1,8 @@
 ---
 title: Suche und Hybrid
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 6e04e1f6dd0d3be08f2698ddb907a5c58ee07e38f8403926188006f799537026
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 77ac5d81a4dcf2282f3facaf2633d56c93216629
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54109023"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61945186"
 ---
 # <a name="search-and-hybrid"></a>Suche und Hybrid
 

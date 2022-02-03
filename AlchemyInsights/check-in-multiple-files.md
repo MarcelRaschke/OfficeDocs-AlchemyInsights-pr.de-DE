@@ -1,8 +1,8 @@
 ---
 title: Gleichzeitiges Einchecken mehrerer Dateien
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "5300029"
 - "1688"
 - "986"
-ms.openlocfilehash: 9fcb8b39e2debf8e312a24242c47bfe4b4c5d53488d09cd5ad33d54ae109b10b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 23379fab53ba1524e838ca01f9ff41e84f22056d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54006421"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61945726"
 ---
 # <a name="check-in-several-files-at-once"></a>Gleichzeitiges Einchecken mehrerer Dateien
 

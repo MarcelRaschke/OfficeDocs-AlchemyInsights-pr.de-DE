@@ -1,7 +1,7 @@
 ---
 title: Ablauf des ADFS-Verbundzertifikats
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,18 +14,18 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: 48d4ccbbc0ed3dc54cbcd17ae7b9040bfd9ecc426897c06b653bf40bc7d5e9b2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76a74fc3326a150d60fe90caa5ec796babf47f05
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952968"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61932722"
 ---
 # <a name="adfs-federation-certificate-expiring"></a>Ablauf des ADFS-Verbundzertifikats
 
-Führen Sie die folgenden Schritte aus, um dieses Problem zu beheben:
+Gehen Sie folgendermaßen vor, um dieses Problem zu beheben:
   
-1. Installieren Sie das Microsoft Azure Active Directory Modul für Windows PowerShell auf dem Computer (wenn das Modul noch nicht installiert ist). Wechseln Sie dazu zu ["Azure AD mithilfe von Windows PowerShell verwalten".](https://aka.ms/aadposh)
+1. Installieren Sie das Microsoft Azure Active Directory Modul für Windows PowerShell auf dem Computer (wenn das Modul noch nicht installiert ist). Wechseln Sie dazu zu [Azure AD mithilfe von Windows PowerShell](https://aka.ms/aadposh)verwalten.
 
 2. Führen Sie die Schritte im Abschnitt "Szenario 1: Das AD FS-Tokensignaturzertifikat ist abgelaufen" unter ["Fehler beim Zugriff auf die Website" von AD FS aus aus, wenn sich ein Verbundbenutzer bei Microsoft 365, Azure oder Intune anmeldet.](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
 

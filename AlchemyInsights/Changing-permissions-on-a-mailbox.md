@@ -1,7 +1,7 @@
 ---
 title: Ändern von Berechtigungen für ein Postfach
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: reference
@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: cb645d58f41e095def09dbbe61bd6264f621b82c0f42c428a5a88e702c0c950b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f856cec04acf3424895a1aeeae5ff4b87ed8eb2c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918574"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61933185"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Ändern von Berechtigungen für ein Postfach
 

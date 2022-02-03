@@ -1,7 +1,7 @@
 ---
 title: Herstellen einer Verbindung zwischen einer SharePoint-Website und einer Gruppe
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cb9f06411b360a6e63b2cf41ccb349831a9dd3b4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53915406"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61945618"
 ---
 # <a name="connect-a-sharepoint-site-to-a-group"></a>Herstellen einer Verbindung zwischen einer SharePoint-Website und einer Gruppe
 

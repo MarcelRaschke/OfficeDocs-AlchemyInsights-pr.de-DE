@@ -1,7 +1,7 @@
 ---
 title: Zusammenführen von Microsoft-Konten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "5072"
-ms.openlocfilehash: c26bcab9e3726c5d43f4126e088c7025623d7a40b66f0700c8d5e7edf1261986
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 96c15971de5b732b7897fdbd956d723c77302e3a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041693"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61872148"
 ---
 # <a name="merge-microsoft-accounts"></a>Zusammenführen von Microsoft-Konten
 

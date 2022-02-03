@@ -1,7 +1,7 @@
 ---
 title: Office-Cloudrichtliniendienst für Microsoft 365 Apps for Enterprise
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/6/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O364
 ms.custom:
 - "9003533"
 - "10880"
-ms.openlocfilehash: 99d1c9e1e175335ca3118e659d283aa04c5d5212a0628393d87114c834685d0e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 320f2112bf74eb952bdbfa1a1bd031382d4c32d1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54064936"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961998"
 ---
 # <a name="office-cloud-policy-service-for-microsoft-365-apps-for-enterprise"></a>Office-Cloudrichtliniendienst für Microsoft 365 Apps for Enterprise
 

@@ -1,7 +1,7 @@
 ---
 title: Erstellen eines E-Mail-Catch-All
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 0d20f7bcffa3be43fc6186a938bf4a7338722f5cd225b860da6357398db26a69
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 613b6bcc21d70be59dc4b55b8b729f1f5c9ff2eb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54080745"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61961926"
 ---
 # <a name="create-an-email-catch-all"></a>Erstellen eines E-Mail-Catch-All
 
