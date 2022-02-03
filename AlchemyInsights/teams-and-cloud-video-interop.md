@@ -1,7 +1,7 @@
 ---
 title: Teams and Cloud-Video-Interoperabilität
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002894"
 - "5540"
-ms.openlocfilehash: ee886742e6ef642c2f826aafcbe904001a83eb16b498d9bc4a39ae4297a3ccfb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4db651b57165e541c69a3d3fd22bc266d091a45d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940566"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61866215"
 ---
 # <a name="teams-and-cloud-video-interop-cvi"></a>Teams and Cloud-Video-Interoperabilität (CVI)
 

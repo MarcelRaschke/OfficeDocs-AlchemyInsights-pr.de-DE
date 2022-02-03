@@ -1,7 +1,7 @@
 ---
 title: Hinzufügen von Kontakten zur Schnellwahl
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6658"
 - "9003570"
-ms.openlocfilehash: d40b9f116efb1d4e929f2d5a90625751cf647c5a153eef74fe49ae09f1202263
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9c442a99a42285849e1248a352000a855200adaf
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53954552"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61864624"
 ---
 # <a name="add-contacts-to-speed-dial"></a>Hinzufügen von Kontakten zur Schnellwahl
 

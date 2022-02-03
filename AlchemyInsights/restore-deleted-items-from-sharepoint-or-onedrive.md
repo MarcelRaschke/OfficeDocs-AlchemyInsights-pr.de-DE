@@ -1,7 +1,7 @@
 ---
 title: Wiederherstellen gelöschter Elemente aus SharePoint oder OneDrive
-ms.author: pebaum
-author: bentoncity
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: d015b6a479e6045eac59c13a430ca903c497a84b12ddaeaa22aeec9fae88f4e0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 05e0f2094b1ee34b5b621c485e787ac46757491e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922302"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61866863"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Wiederherstellen gelöschter Elemente aus SharePoint oder OneDrive
 
-1. Wechseln Sie zu Ihrem OneDrive oder der SharePoint-Website.
+1. Wechseln Sie zu Ihrer OneDrive oder der SharePoint-Website.
     
 2. Klicken Sie im linken Bereich auf **"Papierkorb".** 
     

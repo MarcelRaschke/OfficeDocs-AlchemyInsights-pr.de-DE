@@ -1,7 +1,7 @@
 ---
 title: Hilfe zu Add-Ins
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000776"
 - "2717"
-ms.openlocfilehash: 9d4bca606f41d78dc9f6c4d462822e7db14fa877e4bc4635d0cfb05230541661
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d16353da1c64b31ac2524f7ea3a64c9773998b4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53954516"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61864588"
 ---
 # <a name="add-in-help"></a>Hilfe zu Add-Ins
 

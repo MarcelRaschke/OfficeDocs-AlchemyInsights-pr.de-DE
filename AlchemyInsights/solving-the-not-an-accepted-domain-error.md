@@ -1,7 +1,8 @@
 ---
 title: Beheben des Fehlers "Keine akzeptierte Domäne"
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.custom:
 - "839"
 - "1"
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
-ms.openlocfilehash: a7ea5ebefb0c9a68af5883d7d2f9bed0f4100a53200e30e859d6f90ee519779f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4e04277db68996007e40d9598d7e773adad9ff0c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54093057"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61866395"
 ---
 # <a name="got-a-parameter-cannot-be-found-error"></a>Wurde der Fehler "Parameter kann nicht gefunden werden" angezeigt?
 

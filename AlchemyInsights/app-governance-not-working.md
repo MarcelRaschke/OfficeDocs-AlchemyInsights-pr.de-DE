@@ -1,7 +1,7 @@
 ---
 title: App-Governance funktioniert nicht
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 8/16/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007647"
 - "12676"
-ms.openlocfilehash: 661c2206fa51796c86e168af7c6ef6bf5e76092c
-ms.sourcegitcommit: 2be4a0352cb84a703ebf12966e1c17b64df07364
+ms.openlocfilehash: 1982a6b3c8d768b63b2a235d5fd27f35706dc6d5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58362390"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61864372"
 ---
 # <a name="app-governance-is-not-working"></a>App-Governance funktioniert nicht
 
@@ -40,4 +40,4 @@ App-Governance ist jetzt für die öffentliche Vorschau verfügbar. Wenn Problem
 
     1. Wenn Ihnen keine entsprechende Rolle zugewiesen ist, bitten Sie Ihren Administrator um eine berechtigte Rollenzuweisung.
 
-Weitere Informationen zu den ersten Schritten mit App Governance finden Sie unter [Erste Schritte mit App-Governance (in der Vorschau).](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started)
+Weitere Informationen zu den ersten Schritten mit App-Governance finden Sie unter [Erste Schritte mit App-Governance (in der Vorschau).](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started)

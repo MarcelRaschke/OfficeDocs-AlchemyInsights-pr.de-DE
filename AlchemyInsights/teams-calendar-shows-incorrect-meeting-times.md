@@ -1,7 +1,7 @@
 ---
 title: Teams-Kalender zeigt falsche Besprechungszeiten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003305"
 - "6206"
-ms.openlocfilehash: b295faad4a0dbe6a10b17587e34c93e7658cb9cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8a0d57949c0302e32856eeff8f311f856d2be15
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669537"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61866179"
 ---
 # <a name="teams-calendar-shows-incorrect-meeting-times"></a>Teams-Kalender zeigt falsche Besprechungszeiten
 

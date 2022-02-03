@@ -1,7 +1,7 @@
 ---
 title: Kreditanfrage aufgrund eines Dienstausfalls
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 62ec3e9861270afd79d5c585ed3cc2993590e556fc3cc509bfda3e5d28850f0c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2574431331f7eb121309c875601251a6dee8749a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54050297"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61866503"
 ---
 # <a name="credit-request-due-to-a-service-outage"></a>Kreditanfrage aufgrund eines Dienstausfalls
 

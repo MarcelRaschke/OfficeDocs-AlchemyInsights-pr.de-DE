@@ -1,7 +1,7 @@
 ---
 title: Favoriten in Microsoft Edge zurücksetzen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/23/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11937"
 - "9007099"
-ms.openlocfilehash: 59baa6550167692ad3c8974d070c5048d05c315d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ecfa7a3682ac5c3566bcbb38045d8b1cc3249ce5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58319269"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61867007"
 ---
 # <a name="reset-favorites-in-microsoft-edge"></a>Favoriten in Microsoft Edge zurücksetzen
 

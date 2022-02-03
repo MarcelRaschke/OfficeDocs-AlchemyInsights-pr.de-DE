@@ -1,7 +1,7 @@
 ---
 title: Microsoft Teams-Besprechungen und Einwahl
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: b51a0365e60d467bdea1af460c0282ee9b9c41608f16cc9821e90f5372c3d928
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6158765a429f637daff5f79246c03af60399cad7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53956586"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61866071"
 ---
 # <a name="microsoft-teams-meetings-and-dial-in"></a>Microsoft Teams-Besprechungen und Einwahl
 

@@ -1,7 +1,7 @@
 ---
 title: Synchronisieren einer SharePoint-Bibliothek mit OneDrive Sync
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5797"
-ms.openlocfilehash: 83f3793f4feadc68160046680d8291a259da3b417049be743f14a0f0784f4246
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 667ed9903393211dc888af5adfc1735c56c1ed0d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54049460"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61866359"
 ---
 # <a name="sync-a-sharepoint-library-with-onedrive-sync"></a>Synchronisieren einer SharePoint-Bibliothek mit OneDrive Sync
 

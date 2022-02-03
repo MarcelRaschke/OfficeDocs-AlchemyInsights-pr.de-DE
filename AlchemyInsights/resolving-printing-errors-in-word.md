@@ -1,7 +1,7 @@
 ---
 title: Beheben von Druckfehlern in Word
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: 5b3aee7d7beae7629fa73b9ee4d80aefb995cf2121b45ebec8e224c28c99489e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e019b0fb72067fb9585b0466cd189b3ddad5f46b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54109959"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61866971"
 ---
 # <a name="resolving-print-failures-in-word"></a>Beheben von Druckfehlern in Word
 

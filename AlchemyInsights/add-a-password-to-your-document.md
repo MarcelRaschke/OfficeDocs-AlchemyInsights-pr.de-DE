@@ -1,7 +1,7 @@
 ---
 title: Hinzufügen eines Kennworts zu Ihrem Dokument
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001454"
 - "3464"
-ms.openlocfilehash: 5f2923a164e67b9b3abf07b9c2327b650eeb14d872c4b4f037e0c82a209c5728
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ab6aa513961971dda3760430f11a083e4d6619fe
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53936452"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61864768"
 ---
 # <a name="add-a-password-to-a-word-document"></a>Hinzufügen eines Kennworts zu einem Word-Dokument
 

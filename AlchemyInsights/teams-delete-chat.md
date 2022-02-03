@@ -1,7 +1,7 @@
 ---
 title: 'Teams: Chat löschen'
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000743"
 - "2680"
-ms.openlocfilehash: eee41e85c9c4b3fe7e5a78901b4b055ed470c3c7
-ms.sourcegitcommit: 9209e36093fe5fa44663098b2a761196105e4d31
+ms.openlocfilehash: f6a36e48b05e621f11611abc19760c7e3a5d5dbd
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2021
-ms.locfileid: "61056464"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61866107"
 ---
 # <a name="delete-a-chat-in-microsoft-teams"></a>Löschen eines Chats in Microsoft Teams
 
-Um mehr darüber zu erfahren, wie einzelne Benutzer Nachrichten bearbeiten oder löschen können, können [Sie eine gesendete Nachricht in Teams bearbeiten oder löschen.](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263)
+Um mehr darüber zu erfahren, wie einzelne Benutzer Nachrichten bearbeiten oder löschen können, können Sie [eine gesendete Nachricht in Teams bearbeiten oder löschen.](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263)
 
 Zu den Löschoptionen gehören:
 

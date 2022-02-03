@@ -1,7 +1,7 @@
 ---
 title: Eine benutzerdefinierten Rolle hinzufügen oder entfernen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/10/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6176"
 - "9003232"
-ms.openlocfilehash: 6e1f3867f11b11c192f9942bc90d50f68ac24e5585aeb85b930b7c264f282d07
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 439881e4c9d6a3e33465812bc49899f9ee6814ce
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53954336"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61864516"
 ---
 # <a name="add-or-remove-a-custom-role"></a>Eine benutzerdefinierten Rolle hinzufügen oder entfernen
 

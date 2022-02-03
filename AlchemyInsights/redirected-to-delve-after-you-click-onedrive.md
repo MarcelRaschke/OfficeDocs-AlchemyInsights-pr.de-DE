@@ -1,7 +1,7 @@
 ---
 title: OneDrive for Business Web OneDrive leitet zu Delve
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 295dea987cd14ea848d2bf802f57429642d554b9661dc4dbfc805a447b7d0ede
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: aeb9d288eed5d1d05e3c208a1cbe2186ac216f5c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922986"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61867223"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>Umgeleitet zu Delve, nachdem Sie auf OneDrive geklickt haben
 
@@ -33,6 +33,6 @@ Führen Sie die folgenden Schritte aus, um dieses Recht zu gewähren:
 
 3. Fügen Sie Benutzer hinzu, die Berechtigungen zum Erstellen ihrer Website "Meine Websites" benötigen. Standardmäßig ist diese Einstellung auf **"Jeder"** mit Ausnahme externer Benutzer festgelegt.
 
-4. Nachdem Sie den Benutzer, die Benutzer oder die Gruppe hinzugefügt haben, stellen Sie sicher, dass der hinzugefügte Benutzer, die Benutzer oder die Gruppe ausgewählt ist, scrollen Sie zum **Berechtigungsbereich,** und aktivieren Sie dann das Kontrollkästchen neben **"Persönliche Website erstellen" (erforderlich für persönlichen Speicher, Newsfeed und gefolgte Inhalte).**
+4. Nachdem Sie den Benutzer, die Benutzer oder die Gruppe hinzugefügt haben, stellen Sie sicher, dass der hinzugefügte Benutzer, benutzer oder die Gruppe ausgewählt ist, scrollen Sie zum **Berechtigungsbereich,** und aktivieren Sie dann das Kontrollkästchen neben **"Persönliche Website erstellen" (erforderlich für persönlichen Speicher, Newsfeed und gefolgte Inhalte).**
 
 5. Klicken Sie auf **"OK",** und lassen Sie den Benutzer zur OneDrive Seite navigieren, um die Website zu erstellen.

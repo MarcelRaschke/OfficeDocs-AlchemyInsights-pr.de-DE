@@ -1,7 +1,8 @@
 ---
 title: Hinzufügen oder Entfernen eines E-Mail-Alias für einen Benutzer
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: a1559d0f1c87481ae55d29940c23c4532bd7ae3a
-ms.sourcegitcommit: 68b50235d10ebb92b594ac3224c55cf0e8452ac9
+ms.openlocfilehash: 8c9cf330437572944a263e993db0738995340328
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/07/2021
-ms.locfileid: "60226127"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61864444"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>Hinzufügen oder Entfernen einer E-Mail-Adresse für einen Benutzer
 

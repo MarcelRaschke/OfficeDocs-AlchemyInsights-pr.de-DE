@@ -1,8 +1,8 @@
 ---
-title: SharePoint Allgemeine Onlineprobleme und -lösungen
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+title: SharePoint Allgemeine Probleme und Lösungen für Online
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: a0e43dc115578746c91faf66423b2145b3dbb093ee9d6148a3fe28cc42f2d396
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: aca781e5434def9be738f876bf7b9c9a248d0890
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085803"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61866755"
 ---
-# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Allgemeine Onlineprobleme und -lösungen
+# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Allgemeine Probleme und Lösungen für Online
 
 Hier sind einige häufig angeforderte Themen für SharePoint Onlineprobleme:
 
@@ -34,6 +34,6 @@ Hier sind einige häufig angeforderte Themen für SharePoint Onlineprobleme:
 
 - **Mandanten-Umbenennen:** Weitere Informationen finden Sie unter [Ändern ihres SharePoint Domänennamens.](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name)
 
-- **Modernisieren sie SharePoint:** Lesen Sie den [Leitfaden zur modernen Benutzeroberfläche in SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) und modernisieren Sie Ihre [klassischen SharePoint-Websites,](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) um mit der Verschiebung zu beginnen.
+- **Modernisieren sie SharePoint:** Lesen Sie den [Leitfaden zur modernen Benutzeroberfläche in SharePoint,](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) und [modernisieren Sie Ihre klassischen SharePoint Websites,](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) um mit der Verschiebung zu beginnen.
 
-**Hinweis:** Eine ausführlichere Antwort zu einem SharePoint Problem finden Sie in einer kurzen Rephrase Ihrer Frage, und schließen Sie etwaige Fehler oder Features ein, die Sie verwenden.
+**Hinweis:** Eine ausführlichere Antwort zu einem SharePoint Problem erhalten Sie, indem Sie Ihre Frage kurz umformulieren und alle Fehler oder Features, die Sie verwenden, einschließen.

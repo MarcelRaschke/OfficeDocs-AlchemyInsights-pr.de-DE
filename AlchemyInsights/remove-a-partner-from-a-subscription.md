@@ -15,12 +15,12 @@ ms.custom:
 - "9001683"
 - "5064"
 ms.date: 04/14/2021
-ms.openlocfilehash: 444911e00ed47cf095dd707a20c1f26e6e240859
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: d9cbb17c42a537420e69233a5c4d6dd407f622bb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58845657"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61867187"
 ---
 # <a name="remove-a-partner-from-a-subscription"></a>Löschen eines Partners aus einem Abonnement
 
@@ -33,4 +33,4 @@ Partner können aus Ihrem Abonnement im **Microsoft 365 Admin Center** gelöscht
 3. Klicken Sie unter der **Partner-ID** auf die Option **Registrierten Abonnementberater (Partner of Record) bearbeiten**.
 4. Deaktivieren Sie auf der Seite **Partnerinformationen** das Kontrollkästchen **Partner-ID**, und klicken Sie dann auf **Absenden**.
 
-Weitere Informationen finden Sie unter [Hinzufügen, Ändern oder Löschen eines Abonnementberaterpartners](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).
+Weitere Informationen finden Sie unter [Hinzufügen, Ändern oder Löschen eines Abonnementberaterpartners](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner).
