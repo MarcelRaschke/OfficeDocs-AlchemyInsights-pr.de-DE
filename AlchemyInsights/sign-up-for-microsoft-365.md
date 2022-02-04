@@ -1,24 +1,19 @@
 ---
 title: Registrieren für Microsoft 365
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9002572"
-- "5031"
-ms.openlocfilehash: ddca43516586c6ba49d87cbb23d9dff77cf2e4517d8b6ce3a46d00e535b59afb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54084714"
+  - 9002572
+  - 5031
 ---
+
 # <a name="sign-up-for-microsoft-365"></a>Registrieren für Microsoft 365
 
 Nachstehend finden Sie Links für die direkte Registrierung für verschiedene kostenlose oder kostenpflichtige Microsoft 365- und Office 365-Pläne:

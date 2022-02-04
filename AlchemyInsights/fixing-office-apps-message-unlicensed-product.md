@@ -1,24 +1,19 @@
 ---
 title: Office kann nicht aktiviert werden
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "2000023"
-- "3509"
-ms.openlocfilehash: a057aaa2ddf8885b96c0fe0d5fa87d3a1b191af9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58327845"
+  - 2000023
+  - 3509
 ---
+
 # <a name="unable-to-activate-office"></a>Office kann nicht aktiviert werden
 
 **Hinweis**: Wenn Sie eine ältere Version von Windows verwenden (z. B. Windows 7), stellen Sie sicher, dass TLS 1.2 als Standard aktiviert ist. Weitere Informationen finden Sie unter [Update zum Aktivieren von TLS 1.1 und TLS 1.2 als sichere Standardprotokolle in WinHTTP unter Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).

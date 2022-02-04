@@ -1,29 +1,25 @@
 ---
 title: 959 Anzeigename ändern
-ms.author: pdigia
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.custom:
-- "959"
-- "1800022"
+  - 959
+  - 1800022
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: cbaebcf71380d558d6d34237373d07aa59584623
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321350"
 ---
+
 # <a name="change-your-display-name"></a>Ändern des Anzeigenamens
   
 Führen Sie die folgenden Schritte aus, um den Anzeigenamen in Outlook zu ändern.
   
-1. Wählen Sie in  Outlook \> **Dateikonto Einstellungen** \> **Konto Einstellungen** aus.
+1. Wählen Sie in Outlook  \> **dateikonto Einstellungen** \> **Konto Einstellungen** aus.
 
 2. Wählen Sie das E-Mail-Konto aus, und wählen Sie dann **"Ändern"** aus.
 

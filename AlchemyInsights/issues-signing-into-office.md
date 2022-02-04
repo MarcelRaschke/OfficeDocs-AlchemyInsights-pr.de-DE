@@ -1,24 +1,19 @@
 ---
-title: Probleme beim Anmelden bei Microsoft 365 Apps
-ms.author: pebaum
-author: pebaum
+title: Probleme bei der Anmeldung bei Microsoft 365 Apps
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9000571"
-- "2574"
-ms.openlocfilehash: f8f2824cc4a575ab7d7c9adec5b75e5955ec9fb5
-ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58744635"
+  - 9000571
+  - 2574
 ---
+
 # <a name="issues-signing-into-microsoft-365-apps"></a>Probleme bei der Anmeldung bei Microsoft 365 Apps
 
 Hinweis: Wenn Sie eine ältere Version von Windows verwenden (z. B. Windows 7 SP1, Windows Server 2008 R2), verwenden Sie die [einfache Korrektur,](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) um TLS 1.2 standardmäßig zu aktivieren. Weitere Informationen finden Sie unter [Update zum Aktivieren von TLS 1.1 und TLS 1.2 als sichere Standardprotokolle in WinHTTP unter Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).

@@ -1,24 +1,19 @@
 ---
 title: Häufige Probleme und Lösungen zur Compliance
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9000722"
-- "4812"
-ms.openlocfilehash: 5d328c1d494a978b424a4f9932ec9145637b766c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58319627"
+  - 9000722
+  - 4812
 ---
+
 # <a name="compliance-common-issues-and-resolutions"></a>Häufige Probleme und Lösungen zur Compliance
 
 Hilfe zum Anzeigen von Warnungen finden Sie unter [Warnungsrichtlinien im Security & Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).

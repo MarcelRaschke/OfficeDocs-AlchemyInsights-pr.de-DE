@@ -1,25 +1,20 @@
 ---
 title: Löschen der auf Ihrem Gerät gespeicherten Browserdaten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 03/29/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9424"
-- "9005491"
-ms.openlocfilehash: b40b651edf6254960497b20fa26ef06a9ec0963d
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51441164"
+  - 9424
+  - 9005491
 ---
+
 # <a name="clear-the-browsing-data-stored-on-your-computer"></a>Löschen der auf Ihrem Gerät gespeicherten Browserdaten
 
 1. Deaktivieren Sie die Synchronisierung, damit die Browserdaten nicht auf allen Geräten gelöscht werden, auf denen die Synchronisierung aktiviert ist.

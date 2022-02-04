@@ -1,25 +1,20 @@
 ---
 title: Verwenden von Posteingangsregeln in Outlook.com
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "6433"
-- "9003531"
-ms.openlocfilehash: 4f6c0f9877b945d6ad6a397ae053509d5edc90c20b72c6567e867268ee1eda04
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53971698"
+  - 6433
+  - 9003531
 ---
+
 # <a name="use-inbox-rules-in-outlookcom"></a>Verwenden von Posteingangsregeln in Outlook.com
 
 Mithilfe von Regeln können Sie bei E-Mail-Nachrichten in Ihrem Posteingang bestimmte Aktionen automatisch ausführen lassen.

@@ -1,24 +1,19 @@
 ---
 title: Benötigen Sie Hilfe bei der E-Mail-Quarantäne?
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9002531"
-- "5679"
-ms.openlocfilehash: f1b7dc5a648e2782ce0350cf75c0f4f0980b418d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314663"
+  - 9002531
+  - 5679
 ---
+
 # <a name="need-help-with-email-quarantine"></a>Benötigen Sie Hilfe bei der E-Mail-Quarantäne?
 
 - Um **als Endbenutzer E-Mail-Nachrichten aus der Quarantäne anzuzeigen und zu teilen**, rufen Sie die Seite **Quarantäne** im Microsoft 365 Defender-Portal unter **Überprüfen** \> der **Quarantäne** oder direkt unter <https://security.microsoft.com/quarantine> auf. Ausführliche Anweisungen finden Sie unter [Anzeigen Ihrer in Quarantäne befindlichen Nachrichten](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user#view-your-quarantined-messages).

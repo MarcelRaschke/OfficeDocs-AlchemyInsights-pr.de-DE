@@ -1,24 +1,19 @@
 ---
 title: Kommentare in Microsoft Planner
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9001717"
-- "3810"
-ms.openlocfilehash: 0d87d8c9fafe49de02b9c0158144287c77339886cdb910e006296eac73a2c497
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53995506"
+  - 9001717
+  - 3810
 ---
+
 # <a name="comments-in-microsoft-planner"></a>Kommentare in Microsoft Planner
 
 Kommentare zu Aufgaben innerhalb eines Plans werden im Exchange Online-Postfach für die dem Plan zugeordnete Microsoft 365-Gruppe gespeichert.  Wenn Sie einen Kommentar zu einer Aufgabe posten, wird eine E-Mail-Benachrichtigung an den Posteingang der Gruppe gesendet, und Sie erhalten eine E-Mail für jeden nachfolgenden Kommentar zu dieser Aufgabe.

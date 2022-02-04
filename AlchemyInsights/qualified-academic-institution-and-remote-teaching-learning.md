@@ -1,23 +1,19 @@
 ---
 title: Microsoft qualifizierte Bildungseinrichtung und Fernstudium (Lehren und Lernen)
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
-ms.custom: ''
+ms.custom: null
 ms.assetid:
-- "1500009"
-- "4495"
-ms.openlocfilehash: e475a796a8835b9b123c2a12602de1f363cbd1184190941d24893211c350872b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53959934"
+  - 1500009
+  - 4495
 ---
+
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Microsoft qualifizierte Bildungseinrichtung und Fernstudium (Lehren und Lernen)
 
 Für die ersten Schritte mit Office 365 for Education besuchen Sie diese [Website](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) und registrieren Sie sich.

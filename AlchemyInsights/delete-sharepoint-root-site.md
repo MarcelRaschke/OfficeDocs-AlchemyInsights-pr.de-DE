@@ -1,24 +1,19 @@
 ---
 title: Löschen der SharePoint-Stammwebsite
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9003017"
-- "5727"
-ms.openlocfilehash: 4965e38f69c9d7f3a5c1facd23a0ee487e499f55f5779672808a54b86c90aeaa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54102250"
+  - 9003017
+  - 5727
 ---
+
 # <a name="delete-the-sharepoint-root-site"></a>Löschen der SharePoint-Stammwebsite
 
 Das Löschen der SharePoint-Stammwebsite wird **nicht unterstützt**.

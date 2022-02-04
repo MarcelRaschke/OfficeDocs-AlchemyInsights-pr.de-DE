@@ -1,25 +1,20 @@
 ---
 title: So wird eine Vertraulichkeitsbezeichnung erstellt
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "11014"
-- "9000181"
-ms.openlocfilehash: ff7078f3d1604fa34533b8eb0c0b9430ba3637ed
-ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2021
-ms.locfileid: "59475252"
+  - 11014
+  - 9000181
 ---
+
 # <a name="how-to-create-a-sensitivity-label"></a>So wird eine Vertraulichkeitsbezeichnung erstellt
 
 1. Wechseln Sie zum Microsoft 365 Compliance Center > **Information Protection** > **Bezeichnungen**.

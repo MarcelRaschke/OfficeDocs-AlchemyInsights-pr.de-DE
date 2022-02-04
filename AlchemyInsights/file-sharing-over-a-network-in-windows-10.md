@@ -1,27 +1,22 @@
 ---
 title: Dateifreigabe über ein Netzwerk in Windows 10
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9001476"
-- "3507"
-ms.openlocfilehash: 52b398388410eb63c05ae7cdd8d2ca6f16d74a69a44f25a5c38e95bf163e9e02
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54117287"
+  - 9001476
+  - 3507
 ---
+
 # <a name="file-sharing-over-a-network-in-windows-10"></a>Dateifreigabe über ein Netzwerk in Windows 10
 
-**Hinweis:** Wenn Sie die Heimnetzgruppe zuvor für die Dateifreigabe verwendet haben, beachten Sie, dass die Heimnetzgruppe aus Windows 10 (Version 1803) entfernt wurde. Sie können jetzt Drucker und Dateien freigeben, indem Sie integrierte Features in Windows 10 verwenden.
+**Hinweis:** Wenn Sie die Heimnetzgruppe zuvor für die Dateifreigabe verwendet haben, beachten Sie, dass die Heimnetzgruppe aus Windows 10 entfernt wurde (Version 1803). Sie können jetzt Drucker und Dateien freigeben, indem Sie integrierte Features in Windows 10 verwenden.
 
 **So geben Sie Dateien oder Ordner über ein Netzwerk frei**
 

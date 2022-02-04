@@ -1,24 +1,19 @@
 ---
 title: Verwenden von Planner mit Microsoft Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2653"
-- "9000727"
-ms.openlocfilehash: 96f88e51c03c147eff23ab402139a2ede1b185c9438cc9b2de3613d91e4363f2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54047939"
+  - 2653
+  - 9000727
 ---
+
 # <a name="using-planner-with-microsoft-teams"></a>Verwenden von Planner mit Microsoft Teams
 
 Organisieren Sie Ihre Aufgaben, indem Sie eine oder mehrere Planner-Registerkarten zu einem Teams Kanal hinzufügen: 

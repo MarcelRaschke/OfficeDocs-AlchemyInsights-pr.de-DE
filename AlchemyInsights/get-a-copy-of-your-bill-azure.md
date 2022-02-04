@@ -1,24 +1,19 @@
 ---
 title: Benötigen Sie eine Kopie Ihrer Rechnung oder Nutzung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9003801"
-- "6804"
-ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54116907"
+  - 9003801
+  - 6804
 ---
+
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Abrufen einer Kopie Ihrer Rechnung oder Nutzung
 
 **Azure-Rechnung herunterladen (PDF)**
@@ -70,7 +65,7 @@ Einige mögliche Gründe, warum möglicherweise keine Rechnung angezeigt wird:
 - Wenn Sie nicht der Kontoadministrator sind, stehen Ihnen ältere Rechnungen möglicherweise nicht zur **Verfügung. Hinweis:** Microsoft stellt azure-CSP-Kunden keine Nutzungsberichte oder Verbrauchsdaten zur Verfügung. Partner Center-Nutzungsdaten sind partnergerichtet
 - Erfahren Sie mehr über AIO (Azure in open) Abrechnung und Nutzung: [Azure in Open](https://azure.microsoft.com/offers/ms-azr-0111p/)
 
-**Empfohlene Dokumente**
+**Empfohlene Dokumentationen**
 
 - [Warum wird möglicherweise keine Rechnung angezeigt?](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 - [Anfordern/Herunterladen/Anzeigen Ihrer Azure-Abrechnungsrechnung und Nutzungsdaten](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)

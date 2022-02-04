@@ -1,31 +1,26 @@
 ---
 title: Fehler beim Öffnen oder Speichern von Dateien
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9000583"
-- "2685"
-ms.openlocfilehash: 13a75338e3784d3df2ec93e8096380f85494317b7161040c7ad60ad830f9211d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978088"
+  - 9000583
+  - 2685
 ---
+
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Beheben von Fehlern beim Öffnen oder Speichern von Word-Dateien
 
 Wenn Beim Öffnen oder Speichern von Word-Dokumenten Probleme auftreten, versuchen Sie Folgendes:
 
 - [Installieren sie Office Updates.](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5) Eine Liste der neuesten Office Updates finden Sie unter ["Neueste Updates".](https://docs.microsoft.com/officeupdates/office-updates-msi)
 - [Problembehandlung bei beschädigten Dokumenten in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
-- [Reparieren sie eine Office Anwendung.](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [Reparieren einer Office Anwendung.](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 - Wenn das Dokument Überarbeitungen enthält, verwenden Sie die Vorschläge in [Word langsam oder reagiert nicht mehr, wenn es übermäßige Überarbeitungen oder Kommentare](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) gibt, um das Problem zu beheben.
 
 Wenn Sie einen Fehler wie einen der folgenden erhalten haben, verwenden Sie die Vorschläge in der [Fehlermeldung in Office, wenn eine Datei durch Registrierungsrichtlinieneinstellungen blockiert wird:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)

@@ -1,24 +1,19 @@
 ---
 title: 1703 Informationen zu Teams und Polycom-Telefonen benötigt
-ms.author: heidip
-author: microsoftheidi
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "1703"
-- "9000170"
-ms.openlocfilehash: a2796e46a624ed389453789c5a84be8709569891
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799635"
+  - 1703
+  - 9000170
 ---
+
 # <a name="need-information-on-teams-and-polycom-phones"></a>Informationen zu Teams und Polycom-Telefonen benötigt
 
 Detailliertere Informationen zu Polycom-Telefonen finden Sie in den [häufig gestellten Fragen zu Polycom-Telefonen und Microsoft Teams](https://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf). Sie können auch Folgendes tun: 

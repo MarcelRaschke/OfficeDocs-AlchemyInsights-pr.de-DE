@@ -1,24 +1,19 @@
 ---
 title: Compliancebewertung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9001483"
-- "3519"
-ms.openlocfilehash: c5a7afaa9dbcb7f648f75f9a12fbcae295d59879b374721f5f7156b2d8c06d62
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966252"
+  - 9001483
+  - 3519
 ---
+
 # <a name="compliance-score"></a>Compliancebewertung
 
 Die Microsoft Compliancebewertung (Vorschau) ist ein Feature in Microsoft 365, mit dem Sie den Compliancestatus Ihrer Organisation messen können. Es verwendet eine risikobasierte Bewertung basierend auf Ihrem Fortschritt bei der Implementierung von Compliance-bezogenen Aktionen.   Die Compliancebewertung ist eine vereinfachte Version des [Compliance-Managers](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) und bietet eine einfachere Möglichkeit, Ihre Compliance-Integrität zu untersuchen und Maßnahmen zur Verbesserung zu implementieren. 

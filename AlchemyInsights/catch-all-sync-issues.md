@@ -1,27 +1,22 @@
 ---
 title: Erfassen aller Synchronisierungsprobleme
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9000037"
-- "1674"
-- "9000241"
-- "1951"
-ms.openlocfilehash: 16240588ac763c9da180dad94cb1dcc3eb1ecdf3b65eff99aadf478331b91d59
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53979600"
+  - 9000037
+  - 1674
+  - 9000241
+  - 1951
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Grundlegende Problembehandlung bei Outlook Synchronisierung
+
+# <a name="basic-outlook-sync-troubleshooting"></a>Grundlegende Problembehandlung bei der Outlook-Synchronisierung
 
 Wenn Synchronisierungsprobleme auftreten, versuchen Sie Folgendes:
 

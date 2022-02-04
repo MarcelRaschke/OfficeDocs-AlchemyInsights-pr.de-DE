@@ -1,24 +1,19 @@
 ---
 title: Verwenden des MIP-SDKs
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9002266"
-- "5631"
-ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770954"
+  - 9002266
+  - 5631
 ---
+
 # <a name="using-mip-skd"></a>Verwenden des MIP-SDKs
 
 Zum Verwenden des MIP-SDKs müssen Sie einige Schritte ausführen, um Ihr Office 365-Abonnement und die Clientarbeitsstation zu konfigurieren und zu konfigurieren. In diesen Schritten erfolgt Folgendes:

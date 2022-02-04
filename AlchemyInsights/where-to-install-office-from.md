@@ -1,23 +1,19 @@
 ---
 title: Ort der Installation von Office
-ms.author: janellem
-author: janellem
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.custom:
-- "913"
-- "2000023"
+  - 913
+  - 2000023
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 6b38246a350fb0a2ad0c73ed7e126e8addf97eb008a3130954a2c01ecc8f4eaf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54083265"
 ---
+
 # <a name="install-office"></a>Office installieren
 
 Um Office zu installieren, müssen Benutzer über ein [Microsoft 365 für Geschäftsprodukt](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) verfügen, das die Desktopanwendungen und eine [zugewiesene Lizenz](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)enthält.

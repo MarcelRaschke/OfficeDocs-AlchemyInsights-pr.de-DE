@@ -1,24 +1,19 @@
 ---
 title: Abonnement in Azure kündigen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9003797"
-- "6786"
-ms.openlocfilehash: b6a9a18287f548f4782f83ce8aaf3274c1b090f12ad723e81b72b40aec47d812
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071367"
+  - 9003797
+  - 6786
 ---
+
 # <a name="cancel-subscription"></a>Abonnement kündigen
 
 Wenn Sie Ihr Azure-Abonnement nicht mehr benötigen, können Sie es im Azure-Portal kündigen. Azure-Abonnements können nur vom Kontoadministrator oder von Benutzern mit Besitzerrechten für das Abonnement gekündigt werden.

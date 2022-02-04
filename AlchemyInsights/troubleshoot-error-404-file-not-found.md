@@ -1,20 +1,16 @@
 ---
-title: Problembehandlung Fehler 404, Datei nicht gefunden
-ms.author: pebaum
-author: pebaum
+title: 'Problembehandlung Fehler 404, Datei nicht gefunden'
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 5c65aabf41ca17c9164e3f167346d314bc4e92d47f5fc17c188f12819b0a2cfa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54048551"
 ---
+
 # <a name="troubleshoot-error-404-file-not-found"></a>Problembehandlung Fehler 404, Datei nicht gefunden
 
 Fehler 404 wird empfangen, wenn Benutzer versuchen, auf eine Website oder Datei in SharePoint oder OneDrive zuzugreifen. Dies wird häufig dadurch verursacht, dass eine Website oder Datei oder Gruppe umbenannt, verschoben oder gelöscht wird. Beispiel: Bei Benutzern tritt ein 404-Fehler auf, der versucht, auf die Stammwebsitesammlung zuzugreifen, und er wurde gelöscht.
@@ -23,7 +19,7 @@ So beheben Sie Fehler 404 für eine Website, die umbenannt, verschoben oder gel�
 
 Informationen zu klassischen Websites, die im klassischen Admin Center vorhanden sind, finden Sie unter [Wiederherstellen einer gelöschten Websitesammlung.](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-Moderne Websites (Kommunikation, gruppenverbundene oder andere Websites), die im neuen SharePoint Admin Center vorhanden sind, finden Sie unter [Anzeigen und Wiederherstellen gelöschter Websites im neuen SharePoint Admin Center.](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+Informationen zu modernen Websites (Kommunikation, gruppenverbundene oder andere Websites), die im neuen SharePoint Admin Center vorhanden sind, finden Sie unter [Anzeigen und Wiederherstellen gelöschter Websites im neuen SharePoint Admin Center.](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
 So beheben Sie Fehler 404 für eine Datei (oder ein anderes Element), die umbenannt, verschoben oder gelöscht wurde:
 

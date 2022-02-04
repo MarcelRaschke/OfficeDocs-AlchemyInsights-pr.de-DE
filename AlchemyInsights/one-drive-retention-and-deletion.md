@@ -1,25 +1,21 @@
 ---
 title: Aufbewahrung und Löschung in OneDrive
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
+ms.assetid: null
 ms.custom:
-- "9000596"
-- "2440"
-ms.openlocfilehash: ed62445ffbac108bba6e7b8b8f4d8fcbcb3777d199e2a183fa457949cfe830a0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985360"
+  - 9000596
+  - 2440
 ---
+
 # <a name="onedrive-retention-and-deletion"></a>Aufbewahrung und Löschung in OneDrive
 
 - Sie können gelöschte Benutzer OneDrive sich selbst [wiederherstellen.](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) Sie befinden sich 93 Tage im Papierkorb.

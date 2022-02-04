@@ -1,24 +1,20 @@
 ---
 title: Aktualisieren von DNS-Einträgen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "39"
-- "41"
-- "100001"
-ms.openlocfilehash: 3528176b79400ae40ae25935d554666696751fcbce688a9f4edcb926e777fb7f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54007537"
+  - 39
+  - 41
+  - 100001
 ---
+
 # <a name="update-dns-records"></a>Aktualisieren von DNS-Einträgen
 
 Das Einrichten der DNS-Einträge ist wichtig, damit Ihr Abonnement mit Ihrem benutzerdefinierten Domänennamen funktioniert. Verwenden Sie die nachstehenden Links zum Hinzufügen oder Aktualisieren Ihrer DNS-Einträge.
