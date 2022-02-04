@@ -1,27 +1,22 @@
 ---
 title: Hinterlassen sie eine Featureanfrage oder Feedback zum App-Design.
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9001108"
-- "3069"
-ms.openlocfilehash: 1dde197b08328206e19e9943a56c06d9942cbaec9c04c97a18dcc821c822ff16
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54042809"
+  - 9001108
+  - 3069
 ---
+
 # <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Hinterlassen sie eine Featureanfrage oder Feedback zum App-Design.
 
-Wir freuen uns, dass Sie Uns Ihre Meinung mitteilen, während wir weiterhin an Outlook arbeiten. *UserVoice* ist ein Forum, in dem Sie Feedback abgeben und über die Ideen anderer abstimmen können.  
+Wir freuen uns, dass Sie Ihre Meinung teilen, während wir weiterhin an Outlook arbeiten. *UserVoice* ist ein Forum, in dem Sie Feedback abgeben und über die Ideen anderer abstimmen können.  
 
 So lassen Sie uns eine Idee: 
 

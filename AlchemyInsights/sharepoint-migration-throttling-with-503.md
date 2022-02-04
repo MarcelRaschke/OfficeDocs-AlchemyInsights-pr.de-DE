@@ -1,25 +1,21 @@
 ---
 title: SharePoint Migrationseinschränkung mit 503 Fehlern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
+ms.assetid: null
 ms.custom:
-- "9000136"
-- "2541"
-ms.openlocfilehash: 4e11cfddf5f2a684ba19d78ba825384853bec310f3301f1177971c0a04548c05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53941403"
+  - 9000136
+  - 2541
 ---
+
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint Migrationseinschränkung mit 503 Fehlern
 
 Es sieht so aus, als ob Sie zu SharePoint Online migrieren und 503 Fehler erhalten. Führen Sie die nachstehenden Schritte aus, damit wir Sie so schnell wie möglich unterstützen können.

@@ -1,25 +1,20 @@
 ---
 title: Browserdaten für alle Ihre Geräte synchronisieren
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/01/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "8206"
-- "9004431"
-ms.openlocfilehash: 4601c751d1039a1f19915e03ffec3fa22ce2864a096ff4a7d1f6aa321a0a4f88
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998835"
+  - 8206
+  - 9004431
 ---
+
 # <a name="sync-your-browsing-data-across-your-devices"></a>Browserdaten für alle Ihre Geräte synchronisieren
 
 Verwenden Sie die Synchronisierungsfunktion von Microsoft Edge auf jedem Ihrer Geräte, um Ihre Favoriten zu organisieren und dort weiterzusurfen, wo Sie aufgehört haben.

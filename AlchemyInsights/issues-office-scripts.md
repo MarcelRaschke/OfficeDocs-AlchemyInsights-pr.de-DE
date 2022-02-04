@@ -1,25 +1,20 @@
 ---
 title: Probleme im Zusammenhang mit Office-Skripts
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 06/24/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "12064"
-- "9006408"
-ms.openlocfilehash: e876d5c15832d9f0e9a9cd9d1b1f10b1f3c8d661
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323039"
+  - 12064
+  - 9006408
 ---
+
 # <a name="issues-related-to-office-scripts"></a>Probleme im Zusammenhang mit Office-Skripts
 
 Um Office-Skripts verwenden zu können, müssen Benutzer in Ihrer Organisation über eine gültige Lizenz für einen kommerziellen Microsoft 365- oder Office 365- oder EDU-Plan verfügen, der den Zugriff auf Office-Desktop-Apps umfasst:

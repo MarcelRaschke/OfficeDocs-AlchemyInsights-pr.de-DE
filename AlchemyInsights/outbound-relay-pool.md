@@ -1,25 +1,20 @@
 ---
 title: Ausgehender Relaypool
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/08/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "3000003"
-- "12315"
-ms.openlocfilehash: 7e5bb1fda1dec0c0f72d1944d54b6f2747a6e909
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58326076"
+  - 3000003
+  - 12315
 ---
+
 # <a name="outbound-relay-pool"></a>Ausgehender Relaypool
 
 Microsoft unternimmt einige Änderungen an der Konfiguration für das Weiterleiten oder Weiterleiten von E-Mails über Microsoft 365. Nachrichten in bestimmten Szenarien werden über Microsoft 365 mithilfe eines speziellen Relaypools weitergeleitet oder weitergeleitet. Nachrichten, die mithilfe des Relaypools gesendet werden, können im Junk-E-Mail-Ordner des Empfängers enden. Weitere Informationen finden Sie unter "Pools für [ausgehende Übermittlungen"](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)

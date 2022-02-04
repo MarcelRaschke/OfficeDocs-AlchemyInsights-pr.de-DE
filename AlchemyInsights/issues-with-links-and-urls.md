@@ -7,19 +7,14 @@ ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "7720"
-- "9004329"
-ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321906"
+  - 7720
+  - 9004329
 ---
+
 # <a name="issues-with-links-and-urls"></a>Probleme mit Links und URLs
 
 Umleitungs-URI/Antwort-URLs (beide Ausdrücke sind austauschbar) sind die URLs, die von Microsoft Identity Platform verwendet werden, um von der App angeforderte Token zurückzugeben. Informationen zu diesen URLs finden Sie in den folgenden Artikeln:
@@ -29,7 +24,7 @@ Umleitungs-URI/Antwort-URLs (beide Ausdrücke sind austauschbar) sind die URLs, 
 
 **Ich weiß nicht, wie der richtige Umleitungs-URI/die richtige Antwort-URL für meine App registriert wird**
 
-Wenn bei der Anmeldung bei der App, die Sie entwickeln, im Anmeldedialogfeld **AADSTS50011: The reply url specified in the request does not match the reply urls configured for the application (Die in der Anforderung angegebene Antwort-URL stimmt nicht mit den für diese App konfigurierten Antwort-URLs überein)<your app ID>** angezeigt wird, müssen Sie Ihrer Anwendungsregistrierung den Umleitungs-URI hinzufügen, den Ihr Code in der Tokenanforderung an die Microsoft-Identitätsplattform verwendet hat.
+Wenn bei der Anmeldung bei der App, die Sie entwickeln, im Anmeldedialogfeld **AADSTS50011: The reply url specified in the request does not match the reply urls configured for the application (Die in der Anforderung angegebene Antwort-URL stimmt nicht mit den für diese App konfigurierten Antwort-URLs überein)\<your app ID\>** angezeigt wird, müssen Sie Ihrer Anwendungsregistrierung den Umleitungs-URI hinzufügen, den Ihr Code in der Tokenanforderung an die Microsoft-Identitätsplattform verwendet hat.
 
 Wechseln Sie zum Hinzufügen einer Antwort-URL im Azure-Portal auf der **Anwendungsregistrierungsseite** zur Registerkarte **Authentifizierung**, und fügen Sie im Abschnitt **Umleitungs-URIs** einen Eintrag hinzu. Der Wert, den Sie eingeben müssen, hängt von der Art der von Ihnen erstellten Anwendung ab, wie nachstehend beschrieben:
 

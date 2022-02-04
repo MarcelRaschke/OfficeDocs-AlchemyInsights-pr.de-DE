@@ -1,25 +1,20 @@
 ---
 title: Onboarding Microsoft Defender ATP
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "6022"
-- "9002913"
-ms.openlocfilehash: 78d3d95448e432110749b49e004575d6d17267cb0f9055a35480d227ff5c5a49
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901335"
+  - 6022
+  - 9002913
 ---
+
 # <a name="onboarding-microsoft-defender-atp"></a>Onboarding Microsoft Defender ATP
 
 Ressourcen zum Integrieren von Microsoft Defender ATP für Windows 10, Windows-Server sowie Mac- und Linux-Computern finden Sie unter: 

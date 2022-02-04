@@ -1,25 +1,20 @@
 ---
 title: Nach dem Upgrade auf macOS 11.6 Big Sur kann kein Konto hinzugefügt werden
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 09/15/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "13840"
-- "9008627"
-ms.openlocfilehash: 91cb402e63b68de4a08f6dcb80807ff2e01300c9
-ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2021
-ms.locfileid: "59475127"
+  - 13840
+  - 9008627
 ---
+
 # <a name="unable-to-add-an-account-after-upgrading-to-macos-116-big-sur"></a>Nach dem Upgrade auf macOS 11.6 Big Sur kann kein Konto hinzugefügt werden
 
 Nach dem Upgrade auf macOS 11.6 wird Ihr OneDrive für Geschäfts-, Schul- oder Ihr persönliches Konto möglicherweise nicht in Ihrer Kontenliste angezeigt, und Sie können sich möglicherweise nicht bei einem zweiten Konto in der App anmelden.

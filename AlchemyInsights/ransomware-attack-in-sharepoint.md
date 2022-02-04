@@ -1,33 +1,29 @@
 ---
 title: Ransomware-Angriff in SharePoint oder OneDrive
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
-ms.assetid: ''
+ms.assetid: null
 ms.collection: Adm_O365
 ms.custom:
-- "9000650"
-- "2487"
-ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58327520"
+  - 9000650
+  - 2487
 ---
+
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware-Angriff in SharePoint oder OneDrive
 
-1.  Wenn Sie Hilfe dazu suchen, was Sie tun können, wenn eine schädliche Datei auf Ihrem OneDrive oder SharePoint Oder Teams gefunden wird, finden Sie weitere [Informationen, wenn eine schädliche Datei gefunden wird.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
+1.  Wenn Sie Hilfe dazu suchen, was Sie tun können, wenn eine schädliche Datei auf Ihrem OneDrive oder SharePoint Oder Teams gefunden wird, lesen Sie [die Vorgehensweise, wenn eine schädliche Datei gefunden wird.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
 2. Wenn Sie suchen, wie Sie Ihre Daten vor Ransomware schützen können, lesen Sie:
     - [Schützen Ihrer Daten in SharePoint und OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
     - [Ransomware Threat Protection](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Sind alle Dateien auf Ihrem OneDrive oder SharePoint von Ransomware oder Schadsoftware oder Kryptoviren betroffen? 
+3.  Sind alle Dateien auf Ihrem OneDrive oder SharePoint von Ransomware oder Schadsoftware oder Krypto-Virus betroffen? 
 
 Beenden/unterbrechen Sie sofort die OneDrive Synchronisierung (sofern vorhanden), oder trennen Sie die Explorer-Ansicht, die der Bibliothek vom betroffenen Computer zugeordnet ist (sofern vorhanden), und dann können Sie die gesamte OneDrive oder SharePoint Bibliothek mithilfe der Dateiwiederherstellungsfunktion auf ein früheres Mal wiederherstellen. 
 

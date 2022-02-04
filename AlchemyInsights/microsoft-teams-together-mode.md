@@ -1,25 +1,20 @@
 ---
 title: Zusammenarbeiten in Microsoft Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "6036"
-- "9003218"
-ms.openlocfilehash: 94730df24a4fa025cfaa226a56e25beb8bc9c88fc1b6f8ea77bc6e97ee7c73f8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012235"
+  - 6036
+  - 9003218
 ---
+
 # <a name="microsoft-teams-together-mode"></a>Zusammenarbeiten in Microsoft Teams
 
 Im Modus „Zusammenarbeit“ werden jahrzehntelange Forschung und Produktentwicklungen sichtbar, indem die Teilnehmer eines Videoanrufs sich gemeinsam in einem virtuellen Raum wie einem Hörsaal, einem Konferenzraum oder einem Café zu befinden schienen. 

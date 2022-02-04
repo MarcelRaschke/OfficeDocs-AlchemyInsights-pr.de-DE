@@ -1,24 +1,19 @@
 ---
 title: Starteinstellungen in Windows 10
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9001691"
-- "3768"
-ms.openlocfilehash: 526b92013f26675b5bf42077271ae7dc7003af31fa8f605d76aea92e0ccabfa1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909825"
+  - 9001691
+  - 3768
 ---
+
 # <a name="startup-settings-in-windows-10"></a>Starteinstellungen in Windows 10
 
 **Ändern, welche Apps beim Start automatisch ausgeführt werden**
@@ -33,7 +28,7 @@ ms.locfileid: "53909825"
 
 2. Klicken Sie mit der rechten Maustaste auf die App, klicken Sie auf **"Mehr",** und klicken Sie dann auf **"Dateispeicherort öffnen".** Dadurch wird der Speicherort geöffnet, an dem die Verknüpfung mit der App gespeichert wird. Wenn keine Option für den Dateispeicherort "Öffnen" vorhanden ist, bedeutet dies, dass die App beim Start nicht ausgeführt werden kann.
 
-3. Wenn der Dateispeicherort geöffnet ist, drücken Sie die **Windows Logo-Taste + R**, geben Sie **shell:startup** ein, und klicken Sie dann auf **OK**. Dadurch wird der Startordner geöffnet.
+3. Wenn der Speicherort der Datei geöffnet ist, drücken Sie die **Windows Logo-TASTE + R**, geben Sie **shell:startup ein,** und klicken Sie dann auf **OK**. Dadurch wird der Startordner geöffnet.
 
 4. Kopieren Sie die Verknüpfung, und fügen Sie sie aus dem Dateispeicherort in den Startordner in die App ein.
 
@@ -51,4 +46,4 @@ ms.locfileid: "53909825"
 
     - Klicken Sie zum Eingeben der UEFI-Einstellungen (manchmal als BIOS-Setup bezeichnet) auf **Problembehandlung > Erweiterten Optionen > UEFI Firmware Einstellungen.** 
 
-    - Um in den Tresor Modus zu wechseln oder erweiterte Starteinstellungen zu ändern, klicken Sie auf **"Problembehandlung > Erweiterte Optionen > Start Einstellungen"** und dann auf **"Neu starten".** Möglicherweise werden Sie aufgefordert, Ihren [BitLocker-Wiederherstellungsschlüssel](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key)einzugeben. Klicken Sie nach dem neustarten des PCs auf die Starteinstellung, die Sie verwenden möchten.
+    - Um Tresor Modus einzugeben oder erweiterte Starteinstellungen zu ändern, klicken Sie auf **"Problembehandlung > Erweiterte Optionen > Start Einstellungen"** und dann auf **"Neu starten".** Möglicherweise werden Sie aufgefordert, Ihren [BitLocker-Wiederherstellungsschlüssel](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key)einzugeben. Klicken Sie nach dem neustarten des PCs auf die Starteinstellung, die Sie verwenden möchten.

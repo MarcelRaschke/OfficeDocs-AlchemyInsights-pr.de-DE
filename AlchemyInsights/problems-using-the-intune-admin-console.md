@@ -1,25 +1,20 @@
 ---
 title: Probleme beim Verwenden der Intune-Verwaltungskonsole
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/29/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "1790"
-- "9000214"
-ms.openlocfilehash: 10b37b2ffda50dc77396039a9e0e443ad81aef72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728286"
+  - 1790
+  - 9000214
 ---
+
 # <a name="problems-using-the-intune-admin-console"></a>Probleme beim Verwenden der Intune-Verwaltungskonsole
 
 **"Zugriff verweigert" beim Navigieren im Intune-Verwaltungsportal.**
@@ -44,7 +39,7 @@ Weitere Informationen über Bereichsgruppen finden Sie unter [Rollenbasierte Zug
 
 **Ich habe einen Benutzer zu einer Intune-Rolle hinzugefügt, aber er hat immer noch vollen Zugriff auf die Intune-Verwaltungskonsole.**
 
-Navigieren Sie im Azure-Portal zu Intune > **Benutzer**dem Benutzer keine der folgenden Rollen im Azure-Portal zugewiesen ist:
+Navigieren Sie im Azure-Portal zu Intune > **Benutzer** dem Benutzer keine der folgenden Rollen im Azure-Portal zugewiesen ist:
 
 - Globaler Administrator
 - Intune-Dienstadministrator

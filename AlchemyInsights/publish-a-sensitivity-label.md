@@ -1,25 +1,20 @@
 ---
 title: So wird eine Vertraulichkeitsbezeichnung veröffentlicht
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "11015"
-- "9000181"
-ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
-ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2021
-ms.locfileid: "59475216"
+  - 11015
+  - 9000181
 ---
+
 # <a name="how-to-publish-a-sensitivity-label"></a>So wird eine Vertraulichkeitsbezeichnung veröffentlicht
 
 1. Wechseln Sie zum Microsoft 365 Compliance Center > **Information Protection** > **Bezeichnungsrichtlinien**.

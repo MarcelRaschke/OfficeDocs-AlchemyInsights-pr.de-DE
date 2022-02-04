@@ -1,25 +1,20 @@
 ---
 title: Weiterleiten von E-Mails über Microsoft 365
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "154"
-- "3000003"
+  - 154
+  - 3000003
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 7897661204ca6bce5c2ac2450a153c222809c6ab
-ms.sourcegitcommit: 7d6400bbde052481a61de6a8e4067ce1f1b1e247
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2021
-ms.locfileid: "60799146"
 ---
+
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>Einrichten eines Multifunktionsgeräts oder einer Anwendung zum Senden von E-Mails
 
 Weitere Informationen zu den verfügbaren Optionen und erforderlichen Schritten finden Sie unter [Einrichten eines Multifunktionsgeräts oder einer Anwendung zum Senden von E-Mails mithilfe von Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).

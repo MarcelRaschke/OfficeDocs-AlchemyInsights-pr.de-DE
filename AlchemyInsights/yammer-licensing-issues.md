@@ -1,25 +1,20 @@
 ---
 title: Probleme mit Yammer-Lizenzen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "5900"
-- "9003071"
-ms.openlocfilehash: 3ec764ece9cb7be933e9e2cd002379898522790528b0fa586ab501424b00cd7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53989728"
+  - 5900
+  - 9003071
 ---
+
 # <a name="yammer-licensing-issues"></a>Probleme mit Yammer-Lizenzen
 
 Jeder Benutzer muss über eine Lizenz verfügen, um den Yammer Enterprise-Dienst zu nutzen, aber Yammer verlangt nicht standardmäßig, dass Benutzer eine Lizenz für den Zugriff auf den Dienst haben. Wenn ein Administrator die Einstellung ändert, um Microsoft 365-Benutzer ohne Yammer-Lizenzen zu blockieren, können Benutzer, denen keine Yammer Enterprise-Lizenz zugewiesen wurde, auf den Yammer-Dienst nicht zugreifen. Weitere Informationen finden Sie unter [Verwalten von Yammer-Benutzerlizenzen in Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365). 
