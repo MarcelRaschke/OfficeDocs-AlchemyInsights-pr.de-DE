@@ -1,7 +1,8 @@
 ---
 title: Aktivieren der Versionsverwaltung in einer Liste oder Bibliothek
-ms.author: toresing
-author: tomresing
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: 2b91da1e856d694ee872159bd4534f88391ce4a4a79655537c3c69b1910d9b37
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5e9451aef9b081ad8f04b02ee2af591fd1d118b6
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964560"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61951724"
 ---
 # <a name="enable-versioning-for-a-list-or-library"></a>Aktivieren der Versionsverwaltung für eine Liste oder Bibliothek
 

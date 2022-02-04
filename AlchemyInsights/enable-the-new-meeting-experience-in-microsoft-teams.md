@@ -1,7 +1,7 @@
 ---
 title: Aktivieren der neuen Besprechungsumgebung in Microsoft Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/18/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6188"
 - "9003281"
-ms.openlocfilehash: 28cd62ae14b9d2e8f2ca1486636015e49308f32360a0f7cf42694d1133bac53b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b3b8eff8f8176e8c2f5cf2e0627c541d6b366769
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54117843"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61951760"
 ---
 # <a name="enable-the-new-meeting-experience-in-microsoft-teams"></a>Aktivieren der neuen Besprechungsumgebung in Microsoft Teams
 

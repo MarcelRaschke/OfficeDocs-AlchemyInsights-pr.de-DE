@@ -1,7 +1,8 @@
 ---
-title: SharePoint Online – Einschränkung
+title: SharePoint Online – Drosselung
 ms.author: v-smandalika
 author: v-smandalika
+manager: dansimp
 ms.date: 01/05/2021
 ms.audience: ITPro
 ms.topic: article
@@ -13,12 +14,12 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 38cd588e9f5388579e4e8c2064d1390091425254effd3aa7c50c4f2cbc80ce53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 326fd62a72df6942c0cd3e5eccee697713f71931
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051485"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61939124"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Onlinedrosselung
 

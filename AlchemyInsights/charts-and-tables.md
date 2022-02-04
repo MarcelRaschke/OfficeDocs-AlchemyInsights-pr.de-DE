@@ -1,7 +1,7 @@
 ---
 title: Diagramme und Tabellen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3047"
 - "9000592"
-ms.openlocfilehash: 82d66d8f3d5cc016a88715ee72c329b2d8a72039571f5025d267339e9f3126a6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2dffa34cd0c1e4f76cbed23369231011cde2547b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949674"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61951868"
 ---
 # <a name="common-issues-with-tables"></a>Häufige Probleme mit Tabellen 
 

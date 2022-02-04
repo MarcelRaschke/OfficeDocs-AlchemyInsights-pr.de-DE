@@ -1,7 +1,7 @@
 ---
 title: Überprüfen der AADConnect-Dienstkonten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1726"
 - "9000180"
-ms.openlocfilehash: 4c18ddc19c60075cbea4edce95ebbf6491778b41
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 147059f4554ac51456f37e385718ed1878d910fa
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714030"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61970707"
 ---
 # <a name="check-the-aadconnect-service-accounts"></a>Überprüfen der AADConnect-Dienstkonten
 

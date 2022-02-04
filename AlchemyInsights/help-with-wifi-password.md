@@ -1,8 +1,8 @@
 ---
 title: Hilfe benötigt mit "mein WLAN-Passwort"
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9799"
 - "9005399"
-ms.openlocfilehash: 31ec4f543d6b6bd0ae7e88911b6c3de4e46206b0
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: b67f0f5e6a19bfd51ede79b85d8d6ec0df1aa2d1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898331"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61952264"
 ---
 # <a name="need-help-with-my-wi-fi-password"></a>Hilfe benötigt mit "mein WLAN-Passwort"
 

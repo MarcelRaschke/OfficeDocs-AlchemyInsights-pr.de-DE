@@ -1,7 +1,7 @@
 ---
 title: SharePoint Admin Center
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001459"
 - "5639"
-ms.openlocfilehash: 70a35a4cfe7422b700820c27baeb5c93ebd5437c739690d0a86714e7697c92ac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 56e3abe70cb9657daba4fea1f1c36a717af9d245
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910473"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61939076"
 ---
 # <a name="sharepoint-admin-center"></a>SharePoint Admin Center
 

@@ -1,7 +1,7 @@
 ---
 title: 'Defender-Clientmanipulationsschutz '
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: b058ea036bbe2f2a955df322d80d7cc263937e903b12226e204b24432035f06e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5d06299a2225a6b38d3fcf9a7785b08ab2ce7a1d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031621"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61938451"
 ---
 # <a name="defender-tamper-protection"></a>Defender-Manipulationsschutz 
 

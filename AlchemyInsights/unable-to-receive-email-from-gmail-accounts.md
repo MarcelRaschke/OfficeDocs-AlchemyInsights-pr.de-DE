@@ -1,7 +1,7 @@
 ---
 title: E-Mails von Gmail-Konten können nicht empfangen werden
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: 2742b0d85a80bcca91997adf2b95f1e6b9f5a1a796d8111a961f545f2364613d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c753d0bd5e89d8e98fa8db35e84a7e9158a0249d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060675"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61937587"
 ---
 # <a name="unable-to-receive-email-from-gmail-accounts"></a>E-Mails von Gmail-Konten können nicht empfangen werden
 
-**Problem**
+**PROBLEM**
 
 Wir sind uns bewusst, dass einige Benutzer möglicherweise keine E-Mails von Gmail-Konten empfangen können. Wir untersuchen ein mögliches Problem.
 
-**Problemumgehung**
+**PROBLEMUMGEHUNG**
 
 Überprüfen Sie, ob Sie die Gmail-Domäne nicht versehentlich blockiert haben, wenn Sie einen Gmail-Benutzer blockieren.
 

@@ -1,7 +1,7 @@
 ---
 title: Live-Ereignisse in Yammer erstellen und abhalten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002495"
 - "4834"
-ms.openlocfilehash: 646fcb992ce43666bdf89c5de09924b736a2a8e19eab1771fb6b320b22310eb6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 857b7b479104cd6305ff25c6d7d3a5b7e5165ada
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54080385"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61939568"
 ---
 # <a name="create-and-run-live-events-in-yammer"></a>Live-Ereignisse in Yammer erstellen und abhalten
 

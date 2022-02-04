@@ -1,7 +1,8 @@
 ---
 title: Benutzerberechtigungen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: c7dc21b2ae82809e02fe46d3f2410498b0ef3b6c6d75baaae1361b29a4d387d6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8cd440d62a875a6f0a3917ed0973748eff14cca7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54022765"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61970635"
 ---
 # <a name="user-permissions-in-sharepoint"></a>Benutzerberechtigungen in SharePoint
 

@@ -1,7 +1,7 @@
 ---
 title: Zurücksetzen von Kennwörtern durch den Benutzer
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 40c443711d4974a41ff3a3848ceabd4d068f845d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: e069f29136d65dca2b997b42a2409f91d1fb5158
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332592"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61940193"
 ---
 # <a name="self-service-password-reset-sspr"></a>Zurücksetzen von Kennwörtern durch den Benutzer (Self-Service Password Reset, SSPR)
 

@@ -1,7 +1,7 @@
 ---
 title: Erstellen einer Gruppe
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: 4530abb3bf597458ea22441203a0db24b4b109f0760258310072891014c4b454
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4e88ba91cb49add9cb1ebd26b990ec7c65003ddc
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929304"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61938511"
 ---
 # <a name="create-a-group"></a>Erstellen einer Gruppe
 
@@ -29,10 +29,10 @@ Stellen Sie sicher, dass Sie berechtigt sind, eine neue Gruppe zu erstellen. Glo
 
 **Verwalten von Gruppenerstellungsberechtigungen**
 
-1. Globale Administratoren können Gruppenerstellungsberechtigungen (aus sicherheitsbezogenen Gründen) oder Office 365 Gruppen verwalten, die im Azure-Portal oder im Zugriffsbereich erstellt wurden, indem sie in **"Benutzer** können Sicherheitsgruppen in Azure-Portalen erstellen" oder "Benutzer können Office 365 Gruppen in Azure-Portalen erstellen" in "Alle Gruppen  >  **allgemein (Einstellungen)**" auswählen.
+1. Globale Administratoren können Gruppenerstellungsberechtigungen (aus sicherheitsbezogenen Gründen) oder Office 365 Gruppen verwalten, die im Azure-Portal oder im Zugriffsbereich erstellt wurden, indem sie in "Benutzer können Sicherheitsgruppen in Azure-Portalen erstellen" oder "Benutzer können Office 365 Gruppen in Azure-Portalen erstellen" in **"Alle Gruppen**  >  **allgemein (Einstellungen)**" auswählen.
 2. Sie können die Gruppenerstellung auch einschränken, um eine Gruppe von Benutzern auszuwählen, wenn Sie über eine Azure Active Directory P1-Premium-Lizenz verfügen.
 
-**Deaktivieren der Willkommensbenachrichtigung für neue Office 365 Gruppenmitglieder**
+**Deaktivieren der Willkommensbenachrichtigung für neue Office 365-Gruppenmitglieder**
 
 Die Willkommensbenachrichtigung, die an Benutzer gesendet wird, die Office 365 Gruppen hinzugefügt werden, kann deaktiviert werden, indem **UnifiedGroupWelcomeMessageEnabled** in PowerShell auf "False" festgelegt wird. Erfahren Sie [hier](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true) mehr über diese Einstellung.
 

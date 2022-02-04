@@ -1,7 +1,7 @@
 ---
 title: Ändern der Yammer-Standarddomäne
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002662"
 - "5162"
-ms.openlocfilehash: dd29f2dc044fe4ee7f50acc6f0ca491d0ceb80bc360534de10d4010230614f80
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 13e1ab408690446de972d992b3d6fcce818e880c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950115"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61951904"
 ---
 # <a name="changing-the-defaultprimary-yammer-domain"></a>Ändern der standardmäßigen/primären Yammer-Domäne
 

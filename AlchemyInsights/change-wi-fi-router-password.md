@@ -1,7 +1,7 @@
 ---
 title: W-Fi-Routerkennwort ändern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: a216d0e06a3e6865ca0ed157d976e5623ddbd9b02624e387a2f9755315f913bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5b6e6cdfea792ffd1f130c25dd212928b1189973
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54119607"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61950641"
 ---
 # <a name="change-your-wi-fi-router-password"></a>Ändern ihres Wi-Fi Routerkennworts
 

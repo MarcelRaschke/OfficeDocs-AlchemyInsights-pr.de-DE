@@ -1,7 +1,7 @@
 ---
 title: Ändern meiner Microsoft-Kontoinformationen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002956"
 - "5658"
-ms.openlocfilehash: 48f82edcc8cb0d948a4f3055ed34f764f6d2eef5c5a82e5bc87d50993825704d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1f64d61d00bae1a49639b5d433f95a11e8744314
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017856"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61952408"
 ---
 # <a name="change-my-microsoft-account-information"></a>Ändern meiner Microsoft-Kontoinformationen
 

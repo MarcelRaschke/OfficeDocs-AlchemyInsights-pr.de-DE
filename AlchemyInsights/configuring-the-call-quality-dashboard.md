@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren des Anrufqualitätsdashboards
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 09/23/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "14001"
 - "9001504"
-ms.openlocfilehash: 2b432aa1794a1cb067e91360970f6e3da2585098
-ms.sourcegitcommit: 91df232c90aa05f4cf0890cd966a307e5bc2ab93
+ms.openlocfilehash: ba62357661b4f55897f91a4bea971e7126f16cfd
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59489346"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61940096"
 ---
 # <a name="configuring-the-call-quality-dashboard"></a>Konfigurieren des Anrufqualitätsdashboards
 

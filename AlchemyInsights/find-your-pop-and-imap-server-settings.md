@@ -2,6 +2,7 @@
 title: 1800018 Suchen der POP- und IMAP-Servereinstellungen
 ms.author: v-smandalika
 author: v-smandalika
+manager: dansimp
 ms.date: 12/01/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: 1f26a1e411e27916ceb32409982c9e9ec5133975e527793657160b598f7da892
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a8a64ffc3ec84c8ad1923b68022e4fdd6430ecbf
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54099933"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61938091"
 ---
 # <a name="find-your-pop-or-imap-server-settings"></a>Suchen der POP- oder IMAP-Servereinstellungen
 

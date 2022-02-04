@@ -1,8 +1,8 @@
 ---
 title: Ändern des Schriftgrads in einer Nachricht
-ms.author: pebaum
-author: pebaum
-manager: jackiesm
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003564"
 - "6664"
-ms.openlocfilehash: 6b3c56e1dab9603e51e8888de69e15fac2c8d5b6662d297aa86eb714978c05e7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6d5f9e4edef3e920543e6d5d9c34a93040884f51
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53916918"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61950677"
 ---
 # <a name="change-the-font-size-in-a-message"></a>Ändern des Schriftgrads in einer Nachricht
 

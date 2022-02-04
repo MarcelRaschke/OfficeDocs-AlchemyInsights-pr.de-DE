@@ -1,7 +1,8 @@
 ---
 title: Verwalten von Suchwörterbüchern in SharePoint Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +13,12 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: ff6764bd770bbb74e857c6264cddceecee9c96c888bb983292398522f5e90a5c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9aa9f1b2db8044b81ba1d7b528850fde9e60b7e4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976612"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61939316"
 ---
 # <a name="manage-search-dictionaries"></a>Verwalten von Suchwörterbüchern
 

@@ -1,7 +1,7 @@
 ---
 title: Informationen zum Abrechnungsbetrag
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c2f22acdff3ace933ace0ba82620c7a96c4812eb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58304332"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61970527"
 ---
 # <a name="understand-billing-amount"></a>Informationen zum Abrechnungsbetrag
 

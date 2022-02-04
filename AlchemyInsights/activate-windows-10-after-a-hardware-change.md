@@ -1,7 +1,7 @@
 ---
 title: Aktivieren Windows 10 nach einer Hardwareänderung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3484"
 - "9001418"
-ms.openlocfilehash: c97e54e41394b00d505dc51a4b44623a481070036fe371c66c4bba5afd362663
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8b1a5e456a26cc8b4243ad1ae80ad8e0b633f7f9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937820"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61938775"
 ---
 # <a name="reactivating-windows-10-after-a-hardware-change"></a>Reaktivieren von Windows 10 nach einer Hardwareänderung
 

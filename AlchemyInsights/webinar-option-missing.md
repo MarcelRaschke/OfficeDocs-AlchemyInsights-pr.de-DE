@@ -1,7 +1,7 @@
 ---
 title: Webinaroption fehlt in der Dropdownliste "Neue Besprechung"
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 06/04/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11545"
-ms.openlocfilehash: c4807b4e055bf57e3393310d0e144798599c29366c0649aac989b1f802f51c76
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 60a801626e4123a52caa6435d1acc43990f55e34
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53970762"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61939040"
 ---
 # <a name="webinar-option-missing-in-new-meeting-drop-down"></a>Webinaroption fehlt in der Dropdownliste "Neue Besprechung"
 

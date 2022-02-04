@@ -1,7 +1,7 @@
 ---
 title: Freigeben OneDrive Dateien für externe Benutzer
-ms.author: mikeplum
-author: MikePlumleyMSFT
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: a5736bace6ef36dd5d0ac4f5ad874a9546b23b6e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: b29824460394371e89a0e217479f7decb9acec63
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320596"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61951184"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Freigeben von Dateien in OneDrive für Personen außerhalb Ihrer Organisation
 
 1. Verwenden Sie das App-Startfeld, um zu OneDrive in Ihrem Webbrowser zu wechseln. 
     
-2. Wählen Sie die Datei oder den Ordner aus, den Sie freigeben möchten, und wählen Sie dann **"Freigeben"** aus. 
+2. Wählen Sie die Dateien oder Ordner aus, die Sie freigeben möchten, und wählen Sie dann **Freigeben** aus. 
     
 3. Wenn der Linktyp auf "Personen in" festgelegt \<your organization\> ist, klicken Sie auf den Pfeil nach unten, und wählen Sie eine der folgenden Optionen aus: 
     

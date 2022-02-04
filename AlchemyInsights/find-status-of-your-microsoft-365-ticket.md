@@ -1,7 +1,7 @@
 ---
 title: Überprüfen des Status Ihres Microsoft 365-Tickets
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002251"
 - "4362"
-ms.openlocfilehash: e574fd9edda3547e9257741d99f370449e2c171369fc5ef941cadc4e70060f0d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fcf39f18156ced5466e4442a3db7fac67e68d2b9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54089616"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61938271"
 ---
 # <a name="find-the-status-of-your-microsoft-365-ticket"></a>Überprüfen des Status Ihres Microsoft 365-Tickets
 

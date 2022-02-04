@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren von Berechtigungen für Benutzer- und Systemdiagramme
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002928"
 - "5607"
-ms.openlocfilehash: 3f8197d57707c774b64528993797949b23f420c1443d975fb676e3cc43b40faf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ac748c5074170b64d86c86321855ac8753cd55f8
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54069675"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61939664"
 ---
 # <a name="configure-privilege-for-user-and-system-chart"></a>Konfigurieren von Berechtigungen für Benutzer- und Systemdiagramme
 

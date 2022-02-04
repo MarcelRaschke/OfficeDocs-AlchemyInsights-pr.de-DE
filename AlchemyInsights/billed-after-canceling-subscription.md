@@ -1,7 +1,7 @@
 ---
 title: In Rechnung gestellt nach Kündigung des Abonnements
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500019"
 - "5584"
-ms.openlocfilehash: 89f50fa6575b7729f6aeccdc07654765a46230b40f238346285acfa9431138e0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3988d6f879601c4bb908f58879e2e43f2d36632d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53917494"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61939856"
 ---
 # <a name="billed-after-canceling-subscription"></a>In Rechnung gestellt nach Kündigung des Abonnements
 

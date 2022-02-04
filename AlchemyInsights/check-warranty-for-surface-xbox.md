@@ -1,8 +1,8 @@
 ---
 title: Überprüfen Sie den Garantiestatus für ein Surface- oder Xbox-Gerät
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: add41d938619c5744fbd08a15cd497ff2a41a486
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: d860db8fbe83a75b93b9223a1ea27bc986d4d72f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505319"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61952336"
 ---
 # <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Überprüfen Sie den Garantiestatus für ein Surface- oder Xbox-Gerät
 

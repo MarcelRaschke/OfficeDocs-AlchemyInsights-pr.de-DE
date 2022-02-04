@@ -1,7 +1,7 @@
 ---
 title: Zugreifen auf Dateien in Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2675"
 - "9000710"
-ms.openlocfilehash: 1c2e787bb6be02faea59adbe8b5236897789637696db0e9c48a5d13e9b9a92c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 50cf20207ec45d2df503942fd3fff020e586cf73
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53938586"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61938884"
 ---
 # <a name="accessing-files-in-microsoft-teams"></a>Zugreifen auf Dateien in Microsoft Teams
 
-Wenn Benutzer Schwierigkeiten beim Zugriff auf eine Datei in Microsoft Teams haben, bestimmen Sie zunächst, ob die Datei an einen privaten Chat oder eine Kanalunterhaltung angefügt ist. Teamkanäle sind Orte, an denen jeder im Team öffentlich Unterhaltungen führen kann. Private Chats sind nur für diese Personen im Chat sichtbar (und Dateien, die Sie in einem Chat freigeben, werden in OneDrive for Business gespeichert).
+Wenn Benutzer Schwierigkeiten beim Zugriff auf eine Datei in Microsoft Teams haben, bestimmen Sie zuerst, ob die Datei an einen privaten Chat oder eine Kanalunterhaltung angefügt ist. Teamkanäle sind Orte, an denen jeder im Team öffentlich Unterhaltungen führen kann. Private Chats sind nur für personen im Chat sichtbar (und Dateien, die Sie in einem Chat freigeben, werden in OneDrive for Business gespeichert).
 
 Wenn Benutzer Dateien in privaten Chats freigeben, wird die Datei im OneDrive for Business des Freigabebenutzers gespeichert. Wenn ein Benutzer zu einem vorhandenen privaten Chat hinzugefügt wurde, kann er nur dann auf die Dateien zugreifen, wenn der ursprüngliche Besitzer die Datei erneut freigibt.    
 

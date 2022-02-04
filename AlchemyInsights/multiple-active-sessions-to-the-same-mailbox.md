@@ -1,7 +1,7 @@
 ---
 title: Mehrere aktive Sitzungen mit demselben Postfach
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1836"
 - "9000248"
-ms.openlocfilehash: 933f977a09b013778799e0dc0c40c2959824cfbe6aa766495f7d1e1aab242878
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35a4058be21175f99a9e03393be174a1cc7a7bea
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54097557"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61951508"
 ---
 # <a name="multiple-active-sessions-to-the-same-mailbox"></a>Mehrere aktive Sitzungen mit demselben Postfach
 

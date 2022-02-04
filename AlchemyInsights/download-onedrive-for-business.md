@@ -1,7 +1,7 @@
 ---
 title: Herunterladen von OneDrive for Business
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003082"
 - "5904"
-ms.openlocfilehash: 8e95c9b10bb4689dba90ee4231dd2a8d07259d450dd26f952446edb6ef89eb8b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1d99abb252fea119f88e6ccdcfcb695e22cd658a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964992"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61938343"
 ---
 # <a name="download-onedrive-for-business"></a>Herunterladen von OneDrive for Business
 

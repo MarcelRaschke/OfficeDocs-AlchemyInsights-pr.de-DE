@@ -1,7 +1,7 @@
 ---
 title: FastTrack-Unterstützung bei der Datenmigration
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 09/01/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13247"
 - "9004145"
-ms.openlocfilehash: d057a62da89a6b2bbe4e68f1748bba16d54a5985
-ms.sourcegitcommit: 773b8f1057882488ec3578a76e7167dc67c416ae
+ms.openlocfilehash: 75e3f4ca9f9ead8875ac402ee07ecda991e4188b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2021
-ms.locfileid: "58850109"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61950965"
 ---
 # <a name="fasttrack-assistance-with-data-migration"></a>FastTrack-Unterstützung bei der Datenmigration
 

@@ -1,11 +1,11 @@
 ---
 title: 1800014 Einrichten von E-Mails in der mobilen Outlook-App
-ms.author: anahitab
-author: anahitab
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
-ms.topic: get-started-article
+ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
@@ -16,16 +16,16 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 6bc0d854d7033657bba8f0b72a379f82411dabc1c77d58007b8b93f8179daf5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88aba2af3f25a8a5f26eb1b4fec98cefcb1d89ce
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54073903"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61940060"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Einrichten von E-Mails in der Outlook mobilen App
 
-1. Wählen Sie **Erste Schritte** aus, wenn Sie zum ersten Mal E-Mails in der mobilen App einrichten. Tippen Sie andernfalls auf **Menü** und dann **auf Einstellungen** \> **Konto** \> **hinzufügen E-Mail-Konto hinzufügen.**
+1. Wählen Sie **Erste Schritte** aus, wenn Sie zum ersten Mal E-Mails in der mobilen App einrichten. Andernfalls tippen Sie auf **Menü** und dann **auf Einstellungen** \> **Konto** \> **hinzufügen E-Mail-Konto hinzufügen.**
 
 2. Geben Sie Ihre vollständige E-Mail-Adresse ein, und tippen Sie auf **"Weiter"** oder **"Konto hinzufügen".**
 

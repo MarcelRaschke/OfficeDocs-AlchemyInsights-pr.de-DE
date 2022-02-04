@@ -1,7 +1,7 @@
 ---
 title: So schließen Sie Ihr Desktop Analytics-Konto
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: e69c0fdb2439053d3a5248a2d3dc8411c8f49a895a786327ed6e1775448751f6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ed54a163f2a31ff1f19c30fcc27bbb2f27fa3863
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072411"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61939976"
 ---
 # <a name="working-with-desktop-analytics"></a>Arbeiten mit Desktop Analytics
 
@@ -26,4 +26,4 @@ Es sieht so aus, als fragt man nach Desktop Analytics. Möglicherweise können w
 - [Was ist Desktop Analytics?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
 - [Einrichten von Desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
 - [Häufig gestellte Fragen](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [Problembehandlung für Desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Problembehandlung von Desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

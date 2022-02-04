@@ -1,18 +1,19 @@
 ---
 title: Microsoft Search in Bing und Microsoft 365 Apps for Enterprise
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: 10174582fca204d0fa44af23feba0f9412e99890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79c8682ee3974164b962812e6c3f48681dfb55ba
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755058"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61951544"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsoft Search in Bing und Microsoft 365 Apps for Enterprise
 

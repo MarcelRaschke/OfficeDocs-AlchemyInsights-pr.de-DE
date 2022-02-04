@@ -1,7 +1,7 @@
 ---
 title: Ersetzen eines Worts oder einer Phrase
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001453"
 - "3465"
-ms.openlocfilehash: c45a129b5d98bcd472e586034ce49aef090d4a8bfccf74097f6df8b0f5379184
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3772627799f75b612161ba3eb748565d6ee383c6
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54052925"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61952084"
 ---
 # <a name="replace-a-word-or-phrase"></a>Ersetzen eines Worts oder einer Phrase
 

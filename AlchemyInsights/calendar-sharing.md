@@ -1,8 +1,8 @@
 ---
 title: 611 Kalenderfreigabe
-ms.author: pdigia
-author: pebaum
-manager: jackiesm
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "611"
 - "3800009"
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: e7bc10eda1ebf95fe0529e8b19f62571d11ee532836984eb18c5fa9b4647ca3d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 91c744c66abe1dff81660c6e92c3f1c843ae88ce
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54035951"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61970779"
 ---
 # <a name="calendar-sharing-in-outlook"></a>Kalenderfreigabe in Outlook
 

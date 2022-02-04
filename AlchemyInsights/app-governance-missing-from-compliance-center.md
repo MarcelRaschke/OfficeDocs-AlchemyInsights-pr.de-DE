@@ -1,7 +1,7 @@
 ---
 title: App-Governance fehlt im Microsoft 365 Compliance Center
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 09/02/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12678"
 - "9007647"
-ms.openlocfilehash: 887990e8fcab621ba332e3748af974d9bdecbc07
-ms.sourcegitcommit: 744f03d1c3e6e22975fb96396686b112e385a82d
+ms.openlocfilehash: b18707f761f3e0e4d1b73cef6dbf5dbbce81ff94
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58867025"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61938739"
 ---
 # <a name="app-governance-missing-from-microsoft-365-compliance-center"></a>App-Governance fehlt im Microsoft 365 Compliance Center
 

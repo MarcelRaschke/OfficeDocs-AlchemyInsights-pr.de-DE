@@ -1,7 +1,7 @@
 ---
 title: Suchen Sie die E-Mail-Adresse eines Teams-Kanals
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5580"
-ms.openlocfilehash: 9042d372e88391b02b91f9eee2121963c60a437abfc39c818adcfcb76a17357b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b4a3860b52cf6f115c7ce9fb3ca4617c58ab9ae3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988178"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61938235"
 ---
 # <a name="find-the-email-address-for-a-teams-channel"></a>Suchen Sie die E-Mail-Adresse eines Teams-Kanals
 

@@ -1,7 +1,7 @@
 ---
 title: Öffnen eines Dokuments in schreibgeschütztem Modus
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
@@ -15,12 +15,12 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: f286aff794325b82679e59cd152189dc65b23e4d3c06b0b3da65851cd767bbaa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 299f3c1099089a073395e62e6f53824bf471cb2d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030354"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61939376"
 ---
 # <a name="documents-opening-in-read-only"></a>Öffnen von Dokumenten in schreibgeschütztem Modus
 

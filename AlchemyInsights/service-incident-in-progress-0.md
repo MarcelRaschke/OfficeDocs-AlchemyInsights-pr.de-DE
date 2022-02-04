@@ -1,7 +1,8 @@
 ---
 title: Dienstvorfall wird ausgeführt
-ms.author: pebaum
-author: CrystalThomasMS
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -18,12 +19,12 @@ ms.custom:
 - "1600014"
 - "1600017"
 - "1600018"
-ms.openlocfilehash: a4e89801d500b4d75680ac2a973a7ef3adef16e414bdc0636c222dde6e462cd7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 825d095e78cde4cc55cc40df16d0fc65f6b624fc
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54052205"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61951364"
 ---
 # <a name="service-incident-in-progress"></a>Dienstvorfall wird ausgeführt
 

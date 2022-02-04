@@ -1,7 +1,7 @@
 ---
 title: Action Pack-Lizenzen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002542"
 - "4909"
-ms.openlocfilehash: 5d0ba481144c132174411ba24fc6c821f84164f412ea9d02359e520e33187862
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 87d5d40655a2fdf6b98164cd0b4f273b5591bd78
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53938514"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61938848"
 ---
 # <a name="action-pack-licenses"></a>Action Pack-Lizenzen
 

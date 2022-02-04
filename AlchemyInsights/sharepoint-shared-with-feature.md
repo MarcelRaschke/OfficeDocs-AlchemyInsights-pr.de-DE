@@ -1,7 +1,7 @@
 ---
-title: SharePoint Funktion "Freigegeben mit"
-ms.author: pebaum
-author: pebaum
+title: Feature "SharePoint Freigegeben für"
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/27/2021
 ms.audience: ITPro
@@ -14,14 +14,14 @@ ms.assetid: ''
 ms.custom:
 - "9000192"
 - "12469"
-ms.openlocfilehash: 201ec54b870a5f4c169e7e85c759d0e23cbfd7cd6dbe61e43eb0c6b536510e20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: befec0d642781e00e415f74b32599262b855b838
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54084994"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61950821"
 ---
-# <a name="sharepoint-shared-with-feature"></a>SharePoint Funktion "Freigegeben mit"
+# <a name="sharepoint-shared-with-feature"></a>Feature "SharePoint Freigegeben für"
 
 Sie können jederzeit sehen, für wen ein OneDrive für Arbeit, Schule, SharePoint oder Teams Datei oder Ordner freigegeben wurde.
 

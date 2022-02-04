@@ -1,7 +1,8 @@
 ---
 title: Von Dynamics Server empfohlene Lösungen für die Synchronisierung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +13,12 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 6c27f5261de7724373e414fea4ce59625b1b046f444076fe11bc7c16a194464d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5055d5166211892e3506f3757b823d240d85986c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53991858"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61951400"
 ---
 # <a name="dynamics-server-side-sync-recommended-solutions"></a>Von Dynamics Server empfohlene Lösungen für die Synchronisierung
 

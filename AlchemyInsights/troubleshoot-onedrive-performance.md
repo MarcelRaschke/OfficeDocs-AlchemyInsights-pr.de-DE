@@ -1,7 +1,8 @@
 ---
 title: Problembehandlung bei OneDrive Leistung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 15d9067e6b55b91af312671db9209f93ffc58859aaf69d63c84dbc354aff3dd3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3e0ee0d40dc1e578feb25c334f5d07984b5d6166
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53939126"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61940024"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>Problembehandlung bei OneDrive Leistung
 
@@ -29,6 +30,6 @@ Wenn eine langsamere Synchronisierung als erwartet oder ähnliche Leistungsprobl
 
 - [Maximieren Sie die Upload- und Downloadgeschwindigkeit,](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)insbesondere, wenn Sie ein Gerät zum ersten Mal synchronisieren.
 
-- Wenn Sie eine Bibliothek mit mehr als 100.000 Elementen synchronisieren, scheint OneDrive-Synchronisation möglicherweise lange hängen zu bleiben, oder der Status zeigt die Verarbeitung von 0 KB xMB an." [Erfahren Sie mehr über das Synchronisieren von mehr als 100.000 Dateien](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) sowie [OneDrive unterstützten Grenzwert von 300.000 Dateien.](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- Wenn Sie eine Bibliothek mit mehr als 100.000 Elementen synchronisieren, scheint OneDrive-Synchronisation möglicherweise lange hängen zu bleiben, oder der Status zeigt die Verarbeitung von 0 KB xMB an." Erfahren Sie mehr über die [Synchronisierung von mehr als 100.000 Dateien](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) sowie [OneDrive unterstützten Grenzwert von 300.000 Dateien.](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
 - Wenn ein Benutzer Einschränkungen überschreitet, anforderungsdrosselungen SharePoint Online keine weiteren Anforderungen von mit dem Benutzerkonto für kurze Zeit. Alle Benutzeraktionen Drosselungen während der Drosselung aktiviert ist.
