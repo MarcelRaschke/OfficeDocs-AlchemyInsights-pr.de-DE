@@ -1,7 +1,7 @@
 ---
 title: AntiSpam 5.4.1 DBEB catch-all
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: e0e9b4fec0615943227f40043aeed842e8ee556c5916a59f65e79ce121ec9547
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: eef1e7a863ccd03a0467840c20a55c27fec55ab6
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53932276"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953416"
 ---
 # <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Beheben von Zustellungsproblemen bei Fehlercode 550 5.4.1 Relay-Zugriff verweigert
 

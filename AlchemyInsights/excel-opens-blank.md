@@ -1,7 +1,7 @@
 ---
 title: Excel wird leer geöffnet
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: 49ea6d553c844d0b655695736f5c492f9884b288b5ce642c21859f2a3a235268
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 94d96e7489918df5a85899c53eeae011aa511007
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029767"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954966"
 ---
 # <a name="excel-opens-blank"></a>Excel wird leer geöffnet
 
-Wenn Excel startet, aber einen leeren Bildschirm anzeigt, auf dem die Datei angezeigt werden soll, finden Sie weitere Informationen unter [Problembehandlung Excel Öffnen leer, wenn Sie auf ein Dateisymbol oder einen Dateinamen doppelklicken.](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)
+Wenn Excel startet, aber einen leeren Bildschirm anzeigt, auf dem die Datei angezeigt werden soll, lesen Sie [Problembehandlung Excel Öffnen leer, wenn Sie auf ein Dateisymbol oder einen Dateinamen doppelklicken.](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)

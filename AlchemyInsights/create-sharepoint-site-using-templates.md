@@ -1,8 +1,8 @@
 ---
 title: Erstellen einer Website in SharePoint Online
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: eaf09aebad5568aab3a716ce28c8ce3357c9f43175e1b1458bfcd43fd95a71fa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d12b0aa45aaa7a98dbe7ee6b42f9af3f458db1f9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54057965"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953272"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Erstellen SharePoint Websites mithilfe von Vorlagen
 

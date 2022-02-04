@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9890"
-ms.openlocfilehash: 6a772d7bad7f00940ee45a2a2e6860321cefe331
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 089a92756e0832656c5e866a8b72cc35bb1324e3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58331494"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61940825"
 ---
 # <a name="azure-active-directory-join"></a>Azure Active Directory Beitreten
 
-1. Wenn Sie geräteregistrierungen zum ersten Mal einrichten, stellen Sie sicher, dass Sie die Einführung in die [Geräteverwaltung in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview) überprüft haben, die Sie darüber informieren, wie Sie Geräte unter die Kontrolle von Azure AD bringen. 
+1. Wenn Sie Geräteregistrierungen zum ersten Mal einrichten, stellen Sie sicher, dass Sie die Einführung in die [Geräteverwaltung in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview) überprüft haben, die Sie darüber informieren, wie Sie Geräte unter die Kontrolle Azure AD. 
 1. Wenn Sie Geräte direkt bei Azure AD registrieren und sie bei Intune registrieren, müssen Sie sicherstellen, dass Sie [Intune konfiguriert](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment) und die [Lizenzierung](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign) zuerst eingerichtet haben.
 1. Stellen Sie sicher, dass Sie berechtigt sind, Vorgänge in Azure AD auszuführen. Nur ein globaler Administrator in Azure AD kann Einstellungen für Geräteregistrierungen verwalten.
-1. Informationen zur Implementierung des Azure AD-Beitritts finden Sie unter Planen des [Azure AD-Beitritts.](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan)
+1. Informationen zu Azure AD Implementierung des Beitritts finden Sie unter [Plan Azure AD Join](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan).
 
-Weitere Informationen zum Beheben allgemeiner Probleme bei der Azure AD-Verknüpfung finden Sie unter [Azure Ad Join FAQ](https://docs.microsoft.com/azure/active-directory/devices/faq) und für Windows 10 Pro-Gerät finden Sie unter ["Nicht in der Lage, Windows 10 Pro Computer mit Azure AD zu verknüpfen – Upgrade auf – Microsoft Community](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900).
+Weitere Informationen zum Beheben häufiger Probleme mit Azure AD Verknüpfung finden Sie in den [häufig gestellten Fragen](https://docs.microsoft.com/azure/active-directory/devices/faq) zum Beitritt zu Azure Ad und zu Windows 10 Pro-Gerät finden Sie unter ["Nicht in der Lage, Windows 10 Pro Computer mit Azure AD](https://answers.microsoft.com/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)– Upgrade auf – Microsoft Community " zu verknüpfen.

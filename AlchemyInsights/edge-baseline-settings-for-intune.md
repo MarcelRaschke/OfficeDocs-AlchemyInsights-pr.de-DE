@@ -1,7 +1,7 @@
 ---
 title: Verwenden Microsoft Edge Basiseinstellungen für Microsoft Intune
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 06/04/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11141"
-ms.openlocfilehash: 4dfa7abf4f5a21f0a6c9bcf46574176e142e9b6de00df701c1a0d3178ac58bd0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31e25927d3f19cff08c37ece5fcd676ae1cc7d73
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030382"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953921"
 ---
 # <a name="use-microsoft-edge-baseline-settings-for-microsoft-intune"></a>Verwenden Microsoft Edge Basiseinstellungen für Microsoft Intune
 

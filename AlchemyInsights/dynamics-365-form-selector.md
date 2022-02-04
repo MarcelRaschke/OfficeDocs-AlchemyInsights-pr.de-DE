@@ -1,7 +1,8 @@
 ---
 title: Dynamics 365-Formularauswahl
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1469"
 - "6200014"
-ms.openlocfilehash: c79de9c4b70f96389fcb5c75f93c0418d08dadc0fbcbf40d8d0dc13143853087
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5755d30bdd8b04c44e67f0b1c7d0f3b180064aa2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53947334"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954065"
 ---
 # <a name="dynamics-365-form-selector"></a>Dynamics 365-Formularauswahl
 

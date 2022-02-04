@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "14097"
 - "3100006"
-ms.openlocfilehash: 7209896962e8888725ffd07f5174e4c7535be581
-ms.sourcegitcommit: ae8fed7a78ea7c8680d8348b05400dd31f3bde91
+ms.openlocfilehash: c413895117a59f5db156b94d1471a40359089ff2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "60371522"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61940609"
 ---
 # <a name="changes-to-auto-expanding-archives"></a>Änderungen an Automatisch erweiternden Archiven
 
@@ -27,7 +27,7 @@ Wie im Beitrag des Nachrichtencenters „MC288051: (Aktualisiert) Anstehende Än
 Hier finden Sie weitere Informationen und Tipps:
 
 - So überprüfen Sie die Gesamtgröße der Archive/Hilfsarchive:
-    1. Herstellen einer Verbindung mit [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps).
+    1. Herstellen einer Verbindung mit [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true).
     1. Führen Sie das folgende Cmdlet aus: Get-MailboxStatistics -Archive |fl displayname,totalitemsize:
 
 - Benutzer müssen möglicherweise Speicherplatz freimachen, indem sie Inhalte aus dem Archiv löschen. Wenden Sie sich an Ihren Complianceadministrator, um die spezifischen Anforderungen für Ihre Organisation zu ermitteln.
@@ -38,5 +38,4 @@ Hier finden Sie weitere Informationen und Tipps:
 
 Weitere Informationen zum Archivierungsfeature finden Sie unter [Übersicht zur automatische erweiternden Archivierung ](https://docs.microsoft.com/microsoft-365/compliance/autoexpanding-archiving)
 
-Informationen zum Abrufen von Informationen zu den Ordnern in einem angegebenen Postfach finden Sie unter [Get-MailboxFolderStatistics](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderstatistics?view=exchange-ps).
-
+Informationen zum Abrufen von Informationen zu den Ordnern in einem angegebenen Postfach finden Sie unter [Get-MailboxFolderStatistics](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderstatistics?view=exchange-ps&preserve-view=true).

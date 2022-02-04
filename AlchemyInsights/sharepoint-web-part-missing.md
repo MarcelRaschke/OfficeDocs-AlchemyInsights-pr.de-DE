@@ -1,8 +1,8 @@
 ---
 title: Inhalts-Editor- oder Skript-Editor-Webparts fehlen
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000207"
 - "1911"
-ms.openlocfilehash: a99f367396ce93e62ad677784d4aba033bb48a4d0442f593b81dfaa607739403
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b34dff422a13ff6eb5704dafe17e15896329632a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54022606"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61952696"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Inhalts-Editor- oder Skript-Editor-Webparts fehlen
 

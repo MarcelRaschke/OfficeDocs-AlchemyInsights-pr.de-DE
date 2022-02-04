@@ -1,7 +1,7 @@
 ---
 title: Doppelter Gerätedatensatz im Portal
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001495"
 - "4386"
-ms.openlocfilehash: 7eb642f85f437fe216c49ce6b060c9061b477629fbd45f50ca0ef315b8cd32d3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e1ef066abc044f0726c138653c3bf888a8687b78
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004153"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954101"
 ---
 # <a name="duplicate-device-record-in-the-portal"></a>Doppelter Gerätedatensatz im Portal
 

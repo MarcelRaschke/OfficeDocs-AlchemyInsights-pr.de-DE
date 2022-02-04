@@ -1,7 +1,7 @@
 ---
 title: Vererbung von Berechtigungen
-ms.author: mikeplum
-author: MikePlumleyMSFT
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: cd3cb78ca96953403bd0acc7e36e8466face0efd230d64dabcf055185c8ab12a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 73f13ca4923eaff3ae19896095c850de69c94617
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54095289"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954353"
 ---
 # <a name="how-permissions-inheritance-works-in-sharepoint"></a>Funktionsweise der Vererbung von Berechtigungen in SharePoint
 

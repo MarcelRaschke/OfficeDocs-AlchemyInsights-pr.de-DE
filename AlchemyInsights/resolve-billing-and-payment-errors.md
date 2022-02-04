@@ -1,7 +1,7 @@
 ---
 title: Beheben von Fehlern bei Abrechnung und Zahlung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003021"
 - "5757"
-ms.openlocfilehash: 1c126a088b79bc8ad415a5679e18d4da3fde8b15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a26729effc55bff8165dc3627c02665668fd02e6
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830702"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61941029"
 ---
 # <a name="resolving-billing-and-payment-errors"></a>Beheben von Fehlern bei Abrechnung und Zahlung
 
@@ -31,5 +31,5 @@ Nachfolgend finden Sie einige häufige Szenarien im Zusammenhang mit Fehlern bei
 - Sie haben **Probleme beim Verarbeiten einer Kreditkartenzahlung**.
 - Navigieren Sie im **Admin Center** zur Seite **Abrechnung**  >  **Rechnungen und Zahlungen**  >  **[Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806)**. Wählen Sie Ihre Zahlungsmethode aus, und vergewissern Sie sich, dass Name, Ablaufdatum und Adresse korrekt sind. Weitere Informationen hierzu finden Sie unter [Problembehebung bei Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).
 
-- Sie möchten die **Zahlungsmethode ändern**. Sie können eine Zahlungsmethode [hinzufügen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#add-a-payment-method), [aktualisieren](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#update-payment-method-details), [ersetzen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#replace-a-payment-method) oder [löschen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#delete-a-payment-method). Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+- Sie möchten die **Zahlungsmethode ändern**. Sie können eine Zahlungsmethode [hinzufügen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method), [aktualisieren](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details), [ersetzen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method) oder [löschen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method). Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 - 

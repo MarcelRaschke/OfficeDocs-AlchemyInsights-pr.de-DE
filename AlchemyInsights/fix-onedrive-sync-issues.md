@@ -1,7 +1,8 @@
 ---
 title: Beheben von OneDrive-Synchronisierungsproblemen
-ms.author: matteva
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
 ms.custom:
 - "824"
 - "5800003"
-ms.openlocfilehash: e5928cbe81e7e61d10aa70ac9ed7e7662ff9e59700fbde7819f707a1f4b5325d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9502e4ce7877a1266b35e662ec2dd8edab89dc8
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988123"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953164"
 ---
 # <a name="fix-onedrive-sync-problems"></a>Beheben von Problemen bei der OneDrive-Synchronisation
 

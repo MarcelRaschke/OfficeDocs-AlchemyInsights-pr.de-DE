@@ -1,7 +1,7 @@
 ---
 title: Wie wird Outlook mit meinen Android-Kontakten synchronisiert?
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: f6f33ee5b131b6c0bf0aa1f07c6da9ada4f9c69eea949d55858f549b43ebd29a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1a220add44de59cfd98eae59644ca8b9c679845f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926964"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954497"
 ---
 # <a name="how-does-outlook-sync-with-my-android-contacts"></a>Wie wird Outlook mit meinen Android-Kontakten synchronisiert?
 
@@ -31,4 +31,4 @@ Wenn Sie eine E-Mail in Outlook verfassen, suchen wir sowohl aus Ihrem Android-A
 
 3. Schalten Sie den **Schieberegler "Kontakte synchronisieren"** ein.
  
-**Hinweis:** Wenn Sie versuchen, die Kontaktesynchronisierung in Microsoft Outlook für Android zu aktivieren, wird möglicherweise eine Meldung mit dem Text angezeigt, wenn die Umschaltfläche für **Synchronisierungskontakte** deaktiviert ist. Die Kontaktesynchronisierung ist in den *Systemeinstellungen nicht aktiviert.* Dies kann darauf zurückzuführen sein, dass die Option "Daten automatisch **synchronisieren"** in den Systemeinstellungen deaktiviert ist. Um dieses Problem zu beheben, aktivieren Sie die automatische Synchronisierung von Daten im Menü **"Konten"** im **Android-System** **Einstellungen**. Diese Option befindet sich in der Regel in vertikalen Auslassungspunkten (⋮) oder einem Dreierbalken (⫼). Das Menü  **"Konten"** kann sich je nach Gerät und Android-Version an unterschiedlichen Speicherorten befinden. In den meisten neueren Modellen können **Konten** in **Einstellungen** nach Konten gesucht werden.
+**Hinweis:** Wenn Sie versuchen, die Kontaktesynchronisierung in Microsoft Outlook für Android zu aktivieren, wird bei deaktivierter Umschaltoption für **Synchronisierungskontakte** möglicherweise eine Meldung mit dem Text angezeigt. Die Kontaktesynchronisierung ist in den *Systemeinstellungen nicht aktiviert.* Dies kann darauf zurückzuführen sein, dass die Option "Daten automatisch **synchronisieren"** in den Systemeinstellungen deaktiviert ist. Um dieses Problem zu beheben, aktivieren Sie die automatische Synchronisierung von Daten im Menü **"Konten"** im **Android-System** **Einstellungen.** Diese Option befindet sich in der Regel in vertikalen Auslassungspunkten (⋮) oder einem Dreierbalken (⫼). Das Menü  **"Konten"** kann sich je nach Gerät und Android-Version an unterschiedlichen Speicherorten befinden. In den meisten neueren Modellen können **Konten** in **Einstellungen** nach Konten gesucht werden.

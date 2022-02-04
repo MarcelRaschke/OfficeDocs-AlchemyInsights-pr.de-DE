@@ -1,7 +1,7 @@
 ---
 title: Mikrofon funktioniert nicht in Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003568"
 - "6654"
-ms.openlocfilehash: 2e734506a97f68509a3b41529bbdde07917472c10a24c1d40305fdad7feff41a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3ac13c8115cfc51f18457a74dc3d5923dd8ca577
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53944706"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954425"
 ---
 # <a name="microphone-isnt-working-in-teams"></a>Mikrofon funktioniert nicht in Teams
 

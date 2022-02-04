@@ -1,7 +1,7 @@
 ---
 title: Ändern des Desktophintergrunds und der Farben
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 8dce08c019e3f49fb6254dbd98d792c107e4c96dbd36a0cf11aff70e171e7649
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a92bc3c078561585070879ab394344996b3538bc
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045727"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61940705"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Ändern des Desktophintergrunds und der Farben
 
-Wenn Sie Ihre Farbeinstellung ändern möchten, wechseln **Sie** zu  >  **"Start Einstellungen**  >  **Personalization**  >  **Colors",** und wählen Sie dann Ihre eigene Farbe aus, oder lassen Sie Windows eine Akzentfarbe aus dem Hintergrund ziehen.
+Wechseln Sie zum Ändern der Farbeinstellung zu **"Start**  >  **Einstellungen**  >  **Personalization**  >  **Colors",** und wählen Sie dann Ihre eigene Farbe aus, oder lassen Sie Windows eine Akzentfarbe aus dem Hintergrund ziehen.
 
 ![Personalisieren Sie Ihre Farben in Windows.](media/windows-personalization-colors.png)
 
-Um den Desktophintergrund zu ändern, wechseln **Sie** zu  >  **"Start Einstellungen**  >  **Personalization**  >  **Background",** und wählen Sie dann ein Bild, eine Volltonfarbe oder eine Bildschirmpräsentation mit Bildern aus. 
+Wechseln Sie zum Ändern des Desktophintergrunds zu  >  **"Start Einstellungen**  >  **Personalization**  >  **Background",** und wählen Sie dann ein Bild, eine Volltonfarbe oder eine Bildschirmpräsentation mit Bildern aus. 
 
 ![Ändern Sie ihren Windows Desktophintergrund.](media/windows-desktop-background.png)
 

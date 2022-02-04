@@ -1,7 +1,7 @@
 ---
 title: Beheben von Problemen mit USB-Druckern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 750a4f7ac0cd36476b0f682dd8b72ee6da4df0ba6879e1f9dad32dbcea15053e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 275391a147930e40d4e22a0c27ec63ebb17fcf44
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54068451"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954605"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>Beheben von Problemen mit der USB-Druckerverbindung
 
@@ -27,11 +27,11 @@ Führen Sie die folgenden Schritte zur **Problembehandlung** aus, um ihren USB-D
 2. Überprüfen Sie das Kabel, um sicherzustellen, dass kein Schaden vorliegt.
 3. Schließen Sie das Kabel wieder an Ihren PC und Drucker an.
 
-Wenn dies nicht funktioniert, versuchen Sie, **ihren USB-Drucker** zu entfernen und neu zu installieren:
+Wenn dies nicht funktioniert, versuchen Sie, **ihren USB-Drucker zu entfernen und neu zu installieren:**
 
 1. Entfernen Sie den Drucker in Einstellungen:
     1. Trennen Sie das USB-Kabel des Druckers vom PC.
-    2. Wählen Sie  >  **"Einstellungen**  >    >  **Gerätedrucker & Scanner starten" aus.**
+    2. Wählen Sie  >  **"Start Einstellungen**  >    >  **Gerätedrucker & Scanner" aus.**
     3. Wählen Sie unter **"Drucker & Scanner"** den Drucker aus, den Sie beheben möchten. Wählen Sie **"Gerät entfernen" aus.** Folgen Sie den Anweisungen, um den Drucker vollständig zu entfernen.
 2. Entfernen Sie alle Druckerherstellersoftware von Drittanbietern:
     1. Wählen Sie  >  **"Start Einstellungen**  >  **Apps" aus.**

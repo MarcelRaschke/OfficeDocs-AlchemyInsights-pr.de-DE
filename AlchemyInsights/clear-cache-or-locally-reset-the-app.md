@@ -1,7 +1,7 @@
 ---
 title: Löschen des Caches oder lokales Zurücksetzen der App
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001099"
 - "3060"
-ms.openlocfilehash: 61280bc444f696e05813c79aa92f47145c2580381e77d0b26fe6fdca527647a6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a121e58c0edab44451500bbf6543b19ab2d86717
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930574"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953308"
 ---
 # <a name="clear-the-cache-or-locally-reset-the-app"></a>Löschen des Caches oder lokales Zurücksetzen der App
 

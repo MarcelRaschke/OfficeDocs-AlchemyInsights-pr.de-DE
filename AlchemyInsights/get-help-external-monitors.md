@@ -1,8 +1,8 @@
 ---
 title: Hilfe für externe Monitore anfordern
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9748"
 - "9005385"
-ms.openlocfilehash: 2bafc33d0c6942fdea976af947b74939f0d60fe612f5796bd80e2ed8fce8b2e1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a266e9ba0f7b62165809968b471347152de56a89
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53928008"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954894"
 ---
 # <a name="get-help-with-external-monitors"></a>Hilfe für externe Monitore anfordern
 

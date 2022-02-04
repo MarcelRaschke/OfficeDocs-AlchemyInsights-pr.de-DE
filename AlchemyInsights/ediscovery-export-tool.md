@@ -1,7 +1,7 @@
 ---
 title: eDiscovery-Exporttool
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 42790043458010fa179cd9d4802405dbad200d96
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54101301"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953885"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kann das eDiscovery-Exporttool nicht installiert oder ausgeführt werden?
 
@@ -48,4 +48,4 @@ Wenn Sie das eDiscovery-Exporttool nicht installieren oder ausführen können, u
 
 Weitere Informationen finden Sie unter Exportieren von [Inhaltssuchergebnissen.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 
-Wenn Sie mehr als 100.000 Postfächer exportieren, müssen Sie die folgende PowerShell verwenden, um die Exportergebnisse herunterzuladen: [Exportieren von Ergebnissen aus mehr als 100.000 Postfächern.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)
+Wenn Sie mehr als 100.000 Postfächer exportieren, müssen Sie die folgende PowerShell verwenden, um die Exportergebnisse herunterzuladen: [Exportieren von Ergebnissen aus mehr als 100.000 Postfächern.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results%23exporting-results-from-more-than-100000-mailboxes)

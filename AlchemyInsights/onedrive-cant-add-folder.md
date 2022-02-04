@@ -1,7 +1,7 @@
 ---
 title: OneDrive kann Ihren Ordner im Moment nicht hinzufügen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 05/13/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11234"
 - "9006575"
-ms.openlocfilehash: d0f2faef81cac521f7890e9dd80e298c8581423bfbd531357d22f9e30ac89898
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d9965eba08f5a54db44bfe0266d9b47ecd671c9c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53984892"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954461"
 ---
 # <a name="onedrive-cant-add-your-folder-right-now"></a>OneDrive kann Ihren Ordner im Moment nicht hinzufügen
 

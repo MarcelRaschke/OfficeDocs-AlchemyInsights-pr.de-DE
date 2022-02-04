@@ -1,7 +1,7 @@
 ---
 title: Teams-Benachrichtigungen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: 1f01e98ec970005446150d393f8c04725050991c2a011fad98f22113f2246681
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 26e3906203cffcfc72132de2f0afac9d16910c8a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54106539"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61952660"
 ---
 # <a name="teams-notifications-faq"></a>Teams-Benachrichtigungen – Häufig gestellte Fragen
 

@@ -1,7 +1,7 @@
 ---
 title: Intune Win32 App-Bereitstellung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6446"
 - "6700004"
-ms.openlocfilehash: d169dc0dd4e3cd9d94681d7db16ce3051677b708df02d3c9bd461855daabb295
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d77e5bbc17ec4b87b5469edd42f4219b1b863d7f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53925884"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954858"
 ---
 # <a name="intune-win32-app-deployment"></a>Intune Win32 App-Bereitstellung
 

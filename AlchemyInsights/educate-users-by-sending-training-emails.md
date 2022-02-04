@@ -1,7 +1,7 @@
 ---
 title: Benutzer durch das Senden von Schulungs-E-Mails schulen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 09/13/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12307"
 - "9007384"
-ms.openlocfilehash: 774aed038e654136912c70331054f5bdc21ad125
-ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
+ms.openlocfilehash: b8dbb536d84ef6956d71a21dc0d1d03f89ec6412
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59334385"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953777"
 ---
 # <a name="educate-users-by-sending-training-emails"></a>Benutzer durch das Senden von Schulungs-E-Mails schulen
 

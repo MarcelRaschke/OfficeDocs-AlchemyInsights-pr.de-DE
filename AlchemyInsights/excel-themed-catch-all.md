@@ -1,7 +1,7 @@
 ---
 title: Excel designed catch all
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2723"
 - "9000779"
-ms.openlocfilehash: 199db9cd2cc8e2c39bc7aa1e749d1b29f47f3b3fdb02d07edc2b7dc10c19dbbd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 38033bb41c20a1a40ab8a0a49fffc782e9b69bd3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53946470"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954930"
 ---
 # <a name="commonly-requested-content-for-excel"></a>Häufig angeforderte Inhalte für Excel
 
-Um eine präzisere Antwort auf Ihre Excel Frage zu geben, müssen Sie die Frage kurz umformulieren, um Ihr Problem zu beschreiben, einschließlich etwaiger Fehler, features, die Sie verwenden usw. 
+Um eine präzisere Antwort auf Ihre Excel Frage zu geben, müssen Sie die Frage kurz umformulieren, um Ihr Problem zu beschreiben, einschließlich aller Fehler, Features, die Sie verwenden usw. 
 
 Hier sind einige häufig angeforderte Excel Themen:
 

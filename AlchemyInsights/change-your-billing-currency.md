@@ -1,7 +1,7 @@
 ---
 title: Ändern der Microsoft 365-Abrechnungswährung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 06/04/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11544"
 - "9001671"
-ms.openlocfilehash: 4238abfa07f301988b781ef3f72458d9e9d0a263
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: f92c9cc721b3709d35430e691d7cc70970b9c200
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58327030"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953344"
 ---
 # <a name="change-your-microsoft-365-billing-currency"></a>Ändern der Microsoft 365-Abrechnungswährung
 

@@ -1,7 +1,7 @@
 ---
 title: Organisieren von Gruppen und Kanälen in Microsoft Stream
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6451"
-ms.openlocfilehash: fcded92364237f43bc45896a028c2100532979d467cee05f3166118a02894831
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1b92c576e0fd074592c7e79ec83db88297311aae
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041657"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953633"
 ---
 # <a name="organize-groups-and-channels-in-microsoft-stream"></a>Organisieren von Gruppen und Kanälen in Microsoft Stream
 

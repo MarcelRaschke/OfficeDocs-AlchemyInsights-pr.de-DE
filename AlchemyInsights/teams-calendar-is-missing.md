@@ -1,7 +1,7 @@
 ---
 title: Der Teams-Kalender fehlt
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/18/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6191"
 - "9003307"
-ms.openlocfilehash: 2fc10c6b9a959adb8dd90c710859e82bd086493bd76ef30a9f6239713ec32109
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afbd18bdc592fd8c321fefc510d421ba63352c2c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909024"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61955362"
 ---
 # <a name="teams-calendar-is-missing"></a>Der Teams-Kalender fehlt
 

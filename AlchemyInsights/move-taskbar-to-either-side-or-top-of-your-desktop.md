@@ -1,7 +1,7 @@
 ---
 title: Verschieben der Taskleiste entweder zur Seite oder an den oberen Rand Ihres Desktops
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002939"
 - "5632"
-ms.openlocfilehash: ad28cbcdf877f13131cae75f4b366a7403cda5455c79a7ce12a0ed0e484ba6d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0c2fe97a0edb61823e1dddb51a7f54cb86fdc2c3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53992151"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953669"
 ---
 # <a name="move-the-taskbar-to-either-side-or-the-top-of-your-desktop"></a>Verschieben der Taskleiste entweder zur Seite oder an den oberen Rand Ihres Desktops
 

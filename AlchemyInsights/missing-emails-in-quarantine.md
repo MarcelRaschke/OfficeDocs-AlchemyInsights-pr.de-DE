@@ -1,7 +1,7 @@
 ---
 title: Fehlende E-Mails in Quarantäne
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: c77da6716c0755d6ed4911f490e000bd74d08f92
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: b94981c055b8c67de59c83233c5df32966ea16d4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329661"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953020"
 ---
 # <a name="missing-emails-in-quarantine"></a>Fehlende E-Mails in Quarantäne
 

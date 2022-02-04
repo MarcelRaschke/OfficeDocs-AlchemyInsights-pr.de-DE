@@ -1,7 +1,7 @@
 ---
 title: App-Konfigurationsrichtlinien für Microsoft Intune
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "1030"
 - "9003770"
 - "6709"
-ms.openlocfilehash: fc23546a6287300075f0dcbc120e4e09dded2b8e03899e98d8c27ff6c94b737e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8274c2a487fb50d3b35c03ada7a447d8e2f9166f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53931988"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61955760"
 ---
 # <a name="app-configuration-policies-for-microsoft-intune"></a>App-Konfigurationsrichtlinien für Microsoft Intune
 

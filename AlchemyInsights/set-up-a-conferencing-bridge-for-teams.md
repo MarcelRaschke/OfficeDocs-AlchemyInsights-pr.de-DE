@@ -1,7 +1,8 @@
 ---
 title: Einrichten einer Konferenzbrücke für Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002264"
 - "4385"
-ms.openlocfilehash: d13147da50af293e08839252617977ea731a1103e4b1732268aff645721d5f73
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b670ad917f256f050e8f4abfe2d9918e84c098cb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060819"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61955904"
 ---
 # <a name="set-up-a-conferencing-bridge-for-teams"></a>Einrichten einer Konferenzbrücke für Teams
 

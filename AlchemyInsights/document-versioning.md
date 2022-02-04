@@ -1,7 +1,7 @@
 ---
 title: Versionsverwaltung von Dokumenten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1702"
 - "5300025"
-ms.openlocfilehash: 41b41d4c8875270e4e14da58ddce3363b0e6ca3352617926e5dbfa2352c3b843
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 260cc5122a58db57c4c67470d7c5a7777f78413b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030568"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61940429"
 ---
 # <a name="document-versioning"></a>Versionsverwaltung von Dokumenten
 

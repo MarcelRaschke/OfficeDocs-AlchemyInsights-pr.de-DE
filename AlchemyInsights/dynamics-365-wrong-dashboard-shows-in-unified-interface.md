@@ -1,7 +1,8 @@
 ---
 title: Dynamics 365 – Falsche Dashboard-Shows in Dynamics 365 Unified Interface
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 1edb2a7e9e0c270c7e98eb43d2f6514d70c39a19ea97d189322ca387b6842a18
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3119e793ab1dd4aaa480c73ef2fdbadfe57bf270
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54101481"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953957"
 ---
 # <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Falsches Dashboard in der einheitlichen Dynamics 365-Schnittstelle
 

@@ -1,7 +1,7 @@
 ---
 title: Bildlauf der AutoVervollständigen-Liste vom Bildschirm in Outlook Desktop
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 05/06/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: 576659b8fc984d7c2aaabb9ffc8c54e980d9bb55
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: e6753dec934f8f6883d3447e0d75825cee007e3a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58328065"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61955110"
 ---
 # <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>Bildlauf der AutoVervollständigen-Liste vom Bildschirm in Outlook Desktop
 

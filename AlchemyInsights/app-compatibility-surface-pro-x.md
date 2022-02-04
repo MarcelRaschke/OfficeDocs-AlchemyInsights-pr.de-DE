@@ -1,7 +1,7 @@
 ---
 title: App-Kompatibilität mit Microsoft Surface Pro X
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/14/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7009"
 - "9003951"
-ms.openlocfilehash: 8f353d1337415183db1df168406b33594fb5fdb0aac3f13d0afe3e682fa6e3f3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 01f7f19538e85fea03e9d78c260a201daafadb2e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53932024"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61955218"
 ---
 # <a name="app-compatibility-with-microsoft-surface-pro-x"></a>App-Kompatibilität mit Microsoft Surface Pro X
 

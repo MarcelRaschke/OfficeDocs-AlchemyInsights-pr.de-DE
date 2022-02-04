@@ -1,7 +1,7 @@
 ---
 title: Antispam - 5.7.23
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: cb9073306c65b09813290d6c8470d14395d2836fa3048f8ce0ecb8b06e71a010
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c40053e413f09abc7e0ec80f7412e316ff10a9c2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53932168"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61952588"
 ---
 # <a name="fix-email-delivery-issues-for-error-code-5723"></a>Beheben von Problemen bei der E-Mail-Zustellung für Fehlercode 5.7.23
 
 Überprüfen Sie den SPF-DNS-Eintrag für Ihre Domäne bei einer öffentlich verfügbaren SPF- oder DNS-Eintragsprüfung im Web.
 
-Stellen Sie sicher, dass die ausgehende Nachricht von Microsoft nicht als Spam identifiziert und über den [Übermittlungspool](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages)mit hohem Risiko weitergeleitet wurde. Nachrichten im Übermittlungspool mit hohem Risiko bestehen keine SPF-Prüfungen und werden daher von der E-Mail-Zielorganisation nicht akzeptiert.
+Stellen Sie sicher, dass die ausgehende Nachricht von Microsoft nicht als Spam identifiziert und über den [Übermittlungspool](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages)mit hohem Risiko weitergeleitet wurde. Nachrichten im Übermittlungspool mit hohem Risiko bestehen keine SPF-Prüfungen und werden daher von der Ziel-E-Mail-Organisation nicht akzeptiert.
 
 Wenn das Problem weiterhin besteht, müssen Sie sich möglicherweise an den Administrator des E-Mail-Hosts wenden, an den Sie E-Mails senden möchten. Notieren Sie sich den detaillierten externen Fehler, der in der Unzustellbarkeitsnachricht verfügbar ist. Der Microsoft-Support kann möglicherweise nicht weiter helfen.

@@ -1,8 +1,8 @@
 ---
 title: Öffnen einer SharePoint bibliothek im Datei-Explorer
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 8a6099eea91289ac6b40a54cb1130e039ac5156fef454a9b48299c5a15d6c4ed
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0e81c0ec11f66299dd1624c902bb83d5d041d6d4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085263"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61955434"
 ---
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-library"></a>Office Dokumente können nicht in SharePoint oder OneDrive Dokumentbibliothek gespeichert werden.
 

@@ -1,7 +1,8 @@
 ---
 title: Dynamics 365 Forms Business Rules – Geschäftsregel wird nicht für ein Formular ausgelöst
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1926"
 - "6200018"
-ms.openlocfilehash: 8425918950e1ef6c44f2866e6fa8987fe165536ae21e08ea6a1da880f761d512
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8667d34be0f9020d41edd8bb8295a13fc32a1c11
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53947298"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953993"
 ---
 # <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>OnChange-Ereignis tritt nicht auf, wenn das Feld programmgesteuert geändert wird
 

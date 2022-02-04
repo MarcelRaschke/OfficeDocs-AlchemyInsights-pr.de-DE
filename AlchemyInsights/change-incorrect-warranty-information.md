@@ -1,8 +1,8 @@
 ---
 title: Ändern der falschen Garantieinformationen
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9755"
 - "9005679"
-ms.openlocfilehash: a5f239b7ecf9ddee88e3da083325b62d485ec8b06f0de32128fc6a750044af36
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf115be86131ce32362426f222efef098c9cdc22
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54018247"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954317"
 ---
 # <a name="change-incorrect-warranty-information"></a>Ändern der falschen Garantieinformationen
 

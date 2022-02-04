@@ -1,7 +1,7 @@
 ---
 title: Deaktivieren von TLS 1.0 und TLS 1.1 für die SMTP-AUTH-Clientübermittlung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/17/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13649"
 - "9005383"
-ms.openlocfilehash: 6751f4e8a177958fdec674899606252a4ae40a72
-ms.sourcegitcommit: d9e6f700cd73a61c109e2a99bc71e559dba34722
+ms.openlocfilehash: a7ee7c2c4544a2b7d1979a23416f92d6b7bb45f9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58380672"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61955650"
 ---
 # <a name="disabling-tls10-and-tls-11-for-smtp-auth-client-submission"></a>Deaktivieren von TLS 1.0 und TLS 1.1 für die SMTP-AUTH-Clientübermittlung
 

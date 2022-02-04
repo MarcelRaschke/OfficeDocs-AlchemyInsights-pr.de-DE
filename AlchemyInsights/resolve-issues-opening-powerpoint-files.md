@@ -1,7 +1,7 @@
 ---
 title: Beheben von Problemen beim Öffnen von PowerPoint-Dateien
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5144"
-ms.openlocfilehash: 5297e429e346c1f84e7ecf8fdb99bf0236382da2cb484668dd4b560027736979
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5725252d52e8a4707027b64ddc4ae9760283421d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922446"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61940993"
 ---
 # <a name="resolve-issues-opening-powerpoint-files"></a>Beheben von Problemen beim Öffnen von PowerPoint-Dateien
 

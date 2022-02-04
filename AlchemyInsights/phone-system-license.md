@@ -1,7 +1,7 @@
 ---
 title: Lizenz für Microsoft Teams Telefon
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "4559"
-ms.openlocfilehash: e77d876c7368c5a2e2a895da3fc5c33546a0e5a1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e3e13d05e0b0ab1a2fde7961708dbdc07d3dabf2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836062"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61953597"
 ---
 # <a name="microsoft-teams-phone-license"></a>Lizenz für Microsoft Teams Telefon
 

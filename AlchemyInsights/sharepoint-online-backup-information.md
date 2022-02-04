@@ -1,7 +1,7 @@
 ---
 title: SharePoint Online-Sicherungsinformationen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000277"
 - "4838"
-ms.openlocfilehash: 0c3cbe2d796f275d1fc58d890d15882043d91c1a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 77ad37806832d1c1aa411d9f6f3bba410e0f4832
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321788"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61952768"
 ---
 # <a name="sharepoint-online-backup-information"></a>SharePoint Online-Sicherungsinformationen
 

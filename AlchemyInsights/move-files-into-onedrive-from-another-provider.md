@@ -1,7 +1,7 @@
 ---
 title: Verschieben von Dateien von einem anderen Cloudanbieter in OneDrive for Business
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003086"
 - "5851"
-ms.openlocfilehash: fe549e85c469938dd609eb8754160b00c8544ad73a563a5ec80a918ceec508c6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b5b314a6f569aa8908c75026daaee7ca49878683
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53986260"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954822"
 ---
 # <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>Verschieben von Dateien von einem anderen Cloudanbieter in OneDrive for Business
 

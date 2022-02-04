@@ -1,7 +1,7 @@
 ---
 title: Ändern der Einstellungen für die EWS-Drosselung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: f99bb449b542760c6c8d51ee399c774fbe36e3f7f40520b5eb23f39d9d7c08dd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 08706956c07a59b473970f0ac4240e1edef16e9e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53968376"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61940465"
 ---
 # <a name="changing-ews-throttling-settings"></a>Ändern der Einstellungen für die EWS-Drosselung
 

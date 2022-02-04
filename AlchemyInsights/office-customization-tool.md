@@ -1,7 +1,7 @@
 ---
 title: Office-Anpassungstool
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/6/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O364
 ms.custom:
 - "9003533"
 - "10881"
-ms.openlocfilehash: 18a48f0f342d16d7efea1e03f25486761eb3b4818a6082412f24309af983d6fe
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3e5fd3340f408c15cf935797efdb7031f68cfb96
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54096765"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61952948"
 ---
 # <a name="office-customization-tool"></a>Office-Anpassungstool
 

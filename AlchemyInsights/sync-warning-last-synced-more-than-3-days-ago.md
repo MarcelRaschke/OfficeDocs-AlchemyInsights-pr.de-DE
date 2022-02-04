@@ -1,7 +1,7 @@
 ---
 title: 'Synchronisierungswarnung: Letzte Synchronisierung vor mehr als 3 Tagen'
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: 6cf365b671deef671902b501fd427d697762942741dc2b30efc97b953c5e1878
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2510cceb292369f3bcc2f074652357ab19f6049
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909141"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61954678"
 ---
 # <a name="sync-warning-last-synced-more-than-3-days-ago"></a>Synchronisierungswarnung: Letzte Synchronisierung vor mehr als 3 Tagen
 
