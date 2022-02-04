@@ -1,7 +1,7 @@
 ---
 title: Kopieren von Dateien in OneDrive
-ms.author: toresing
-author: tomresing
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7542"
 - "5300013"
-ms.openlocfilehash: 82bdd22545d93f8a03d84eafc23d2f1bd298e8bd806b06fd7ec9450943bcfb8d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: adf60012082253f83ee66d42fbcbff0cbe67f46f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929476"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61972761"
 ---
 # <a name="copy-files-to-onedrive"></a>Kopieren von Dateien in OneDrive
 

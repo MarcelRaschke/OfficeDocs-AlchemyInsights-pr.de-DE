@@ -1,7 +1,7 @@
 ---
 title: Löschen von Benutzern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: 2c41c5b3992b9e162a1946354e3b16a72c0ff4a062e56733758f5a888231b866
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5a3ed502da3d464da4aad39fd563d7b77e32c769
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031513"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61971320"
 ---
 # <a name="deleting-users"></a>Löschen von Benutzern
 

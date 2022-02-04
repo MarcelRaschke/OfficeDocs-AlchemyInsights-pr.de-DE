@@ -1,7 +1,7 @@
 ---
 title: Behandlung von Problemen mit dem APNs-Zertifikat
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2511"
 - "9000770"
-ms.openlocfilehash: 50caf07024345b99d2f8d5c2746fb8d90990b0302cf777030f1b2af109f4cf4f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a81e8c971c71d994fb9305f15321b08de07e4354
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53956037"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61971465"
 ---
 # <a name="troubleshooting-issues-with-apns-certificate"></a>Behandlung von Problemen mit dem APNs-Zertifikat
 

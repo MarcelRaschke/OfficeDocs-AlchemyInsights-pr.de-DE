@@ -1,7 +1,7 @@
 ---
 title: COVID-19 – Abrechnungs- und Lizenzfragen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -16,12 +16,12 @@ ms.custom:
 - "5113"
 - "9002647"
 - "5091"
-ms.openlocfilehash: 79ab97bbd788a84372a3ad7614f92f9a84a5c1cc6efbf9cc1d838858672a9ef9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d5870b8ac94c1960289ddcf1bf390fc7f527596
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929340"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61972653"
 ---
 # <a name="covid-19-billing-and-license-questions"></a>COVID-19 – Abrechnungs- und Lizenzfragen
 

@@ -1,7 +1,7 @@
 ---
 title: Hybrid-Verbindung mit Windows-Altgeräten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6137"
 - "9003244"
-ms.openlocfilehash: b4b5fdf79fc7eb4cc9124ef740a68d3425f2c9b023b792f3d2538a29dd1ad7c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c6d5f5e6f91e0e57aa7ce8804c85a9915245110
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54015007"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61971645"
 ---
 # <a name="hybrid-join-with-windows-legacy-devices"></a>Hybrid-Verbindung mit Windows-Altgeräten
 

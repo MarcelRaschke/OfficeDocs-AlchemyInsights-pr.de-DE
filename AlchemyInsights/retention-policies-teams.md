@@ -1,7 +1,7 @@
 ---
 title: Aufbewahrungsrichtlinien in Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/18/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13650"
 - "9000734"
-ms.openlocfilehash: a2b9204d800e2ddeec4cb6ee93bc810296b86d75
-ms.sourcegitcommit: f0321e5b414c16a15a97bef7e3333adf5d57128a
+ms.openlocfilehash: 60bd363a0421271a0ba28a38b2ad2f1cb23e46fd
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58391256"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61971176"
 ---
 # <a name="retention-policies-in-teams"></a>Aufbewahrungsrichtlinien in Teams
 

@@ -1,7 +1,7 @@
 ---
 title: Aktivierungsproblem – Konto lässt keine Bearbeitung auf dem Mac zu
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: a3dd2e149c89b2bc6d080462bb2618eb8343c1ad4d110d1155c76bc41462efbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6f1a61a89a15ce0b338e636caf2e717e2b4ef0d3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54046823"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61972077"
 ---
 # <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Korrigieren der Microsoft 365-Apps "Ihr Konto lässt keine Bearbeitung auf einem Mac zu"
 

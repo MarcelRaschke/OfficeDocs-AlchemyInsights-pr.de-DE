@@ -1,7 +1,7 @@
 ---
 title: Steuern der Erstellung von Gruppen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 85e18428ecda4cb5872238e636e6d51236f716fff84b6a3bb7a84e97eca3bdf8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f04a285deb79cdd16bc6b19d7cfc2205d0fe62a5
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53965928"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61972941"
 ---
 # <a name="control-creation-of-microsoft-365-groups"></a>Steuern der Erstellung von Microsoft 365-Gruppen
 

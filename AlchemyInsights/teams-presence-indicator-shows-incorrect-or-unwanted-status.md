@@ -1,7 +1,7 @@
 ---
 title: Die Anwesenheitsanzeige für Teams zeigt einen falschen oder unerwünschten Status an
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003301"
 - "6205"
-ms.openlocfilehash: ee870e4b47da5bf1fbe4bc9248fc3e36273c2c87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 98be11e7ac9a96442416bede6b399f865e962540
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735918"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61972185"
 ---
 # <a name="teams-presence-indicator-shows-incorrect-or-unwanted-status"></a>Die Anwesenheitsanzeige für Teams zeigt einen falschen oder unerwünschten Status an
 

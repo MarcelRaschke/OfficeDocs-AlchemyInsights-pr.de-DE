@@ -1,7 +1,7 @@
 ---
 title: Exportieren eines Notizbuchs
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000739"
 - "4709"
-ms.openlocfilehash: 2dd837d9b71c96ae8aa03def91eae46bde4cfb6cb9f425fdbe4d7c61917bf0cd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8aedd586c311161da47ae302625beceacf67ee3f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100509"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61971897"
 ---
 # <a name="export-a-notebook"></a>Exportieren eines Notizbuchs
 

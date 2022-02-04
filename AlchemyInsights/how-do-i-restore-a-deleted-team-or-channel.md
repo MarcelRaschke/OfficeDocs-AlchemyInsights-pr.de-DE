@@ -1,7 +1,7 @@
 ---
 title: Wie kann ich ein gelöschtes Team oder einen gelöschten Kanal wiederherstellen?
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: d82a1f0ac2007e2c7472fc486754a7b144a8927d17ab0e6ffe0fed6fd2ddf4e4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3e314bd7b4a3c1cd74c45da4d9cbb0903b1a35cf
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53927252"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61973229"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Wiederherstellen eines gelöschten Teams oder Kanals
 

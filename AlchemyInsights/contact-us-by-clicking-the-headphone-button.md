@@ -1,7 +1,7 @@
 ---
 title: Kontaktieren Sie uns, indem Sie auf die Kopfhörertaste klicken.
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: ad82ad2b88d24cb3e037e2ee844529d531f91ccd2f0b2c83b08ead9df889cc0f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 08116bbc15060d0c08b2fcd313161c5f0587f0d6
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54032896"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61973049"
 ---
 # <a name="contact-us-by-clicking-the-headphone-button"></a>Kontaktieren Sie uns, indem Sie auf die Kopfhörertaste klicken.
 

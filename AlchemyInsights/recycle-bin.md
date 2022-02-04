@@ -1,7 +1,7 @@
 ---
 title: Papierkorb
-ms.author: pebaum
-author: bentoncity
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 1a4843f43e1f5a261b06a0beca1231380a25c302605a2a82ef7143791f2964e5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d145b22d328265e710f42ae00a53c15a638e414
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53991641"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61973157"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Wiederherstellen von Elementen in SharePoint Online
 
@@ -25,7 +25,7 @@ Wenn Sie Elemente in SharePoint Online löschen, werden sie insgesamt 93 Tage la
   
 1. Wechseln Sie zur Website, und klicken Sie im linken Bereich auf **"Papierkorb".** 
     
-    Wenn im linken Bereich kein **Papierkorb** angezeigt wird, klicken Sie oben rechts auf das symbol Einstellungen, und klicken Sie dann auf **Websiteinhalte.** Der Papierkorb befindet sich ganz rechts auf der Befehlsleiste oben.
+    Wenn im linken Bereich kein **Papierkorb** angezeigt wird, klicken Sie oben rechts auf das Symbol Einstellungen, und klicken Sie dann auf **Websiteinhalte.** Der Papierkorb befindet sich ganz rechts auf der Befehlsleiste oben.
     
 2. Wählen Sie auf der Seite **"Papierkorb"** die Elemente aus, die Sie wiederherstellen möchten, indem Sie auf sie zeigen und auf das angezeigte Häkchensymbol klicken. 
     

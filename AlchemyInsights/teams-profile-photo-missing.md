@@ -1,7 +1,7 @@
 ---
 title: Das Teams-Profilfoto fehlt oder kann nicht aktualisiert werden.
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/23/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13260"
 - "9008207"
-ms.openlocfilehash: c0f8a6895299524e86f5519907b8d7c4bd9a9d42
-ms.sourcegitcommit: 3986fa5377895cfc9fd98aca0739e599ebafb712
+ms.openlocfilehash: 8f065ea190a5fe8a980bec581737344ea888c7aa
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58467384"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61972149"
 ---
 # <a name="teams-profile-photo-is-missing-or-cant-be-updated"></a>Das Teams-Profilfoto fehlt oder kann nicht aktualisiert werden.
 

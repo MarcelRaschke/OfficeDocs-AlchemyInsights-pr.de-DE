@@ -1,7 +1,7 @@
 ---
 title: Steuern, wer Microsoft 365-Gruppen und Microsoft Teams erstellen kann
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "168"
 - "1200029"
-ms.openlocfilehash: bc2df360a6c262d9c4578805efdd4d300a650bd21a4af769098e8ee67e1de835
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c47120e1942b31b27084fd333c927add284a20e4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948846"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61972869"
 ---
 # <a name="control-who-creates-microsoft-365-groups-and-microsoft-teams"></a>Steuern, wer Microsoft 365-Gruppen und Microsoft Teams erstellen kann
 

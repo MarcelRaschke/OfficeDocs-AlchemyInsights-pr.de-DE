@@ -1,7 +1,7 @@
 ---
 title: Hilfe zur Anwesenheit in Microsoft Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/27/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 4588b9a967dc51098be39906d0909e2a729e186a9943ee79e71d6ab50a666107
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 37e79639fad104e900063261d25eb65b47392c6d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088681"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61971681"
 ---
 # <a name="help-with-presence-in-microsoft-teams"></a>Hilfe zur Anwesenheit in Microsoft Teams
 

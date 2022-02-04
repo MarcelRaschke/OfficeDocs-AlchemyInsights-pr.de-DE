@@ -1,7 +1,7 @@
 ---
 title: Aktivieren Microsoft Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -16,12 +16,12 @@ ms.custom:
 - "9000725"
 - "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 161e7e1b4a682b2e60c40b2a53b5b10da2904b351de40803f8b9d8a580fc49af
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4313ee32a054d066d2140777147c9f37cbdcbcb7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54002947"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61971933"
 ---
 # <a name="enable-and-use-microsoft-teams"></a>Aktivieren und Verwenden von Microsoft Teams
 

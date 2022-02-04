@@ -1,7 +1,7 @@
 ---
 title: Auflösen fehlender Daten in OneNote
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2500"
-ms.openlocfilehash: 732e6ec9dc3750b9e05f1ad1e2bbfb10f9f8abdd8f407f1a6f82eca3a7f34872
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f2be842f18ccbe5bede83d7c557a4a6bd652a946
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54109995"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61971501"
 ---
 # <a name="resolving-missing-data-in-onenote"></a>Auflösen fehlender Daten in OneNote
 
@@ -25,7 +25,7 @@ ms.locfileid: "54109995"
 
 - Wenn das Notizbuch auf OneDrive versehentlich gelöscht wurde, können Sie es wiederherstellen, indem Sie die Schritte unter ["Wiederherstellen gelöschter Dateien oder Ordner in OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 - Sie können das Notizbuch in einem gelöschten OneDrive standardmäßig innerhalb von 30 Tagen wiederherstellen, indem Sie die Schritte unter ["Wiederherstellen eines gelöschten OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
-- OneNote verwenden möglicherweise ein anderes Konto als erwartet. Wenn Sie zusätzlich zu Ihrem persönlichen Microsoft-Konto über ein Geschäfts-, Schul- oder Unikonto verfügen, müssen Sie Ihr anderes Konto hinzufügen, um alle Ihre Notizbücher anzuzeigen (anweisungen zum Hinzufügen eines [Kontos in OneNote.](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)
+- OneNote verwenden möglicherweise ein anderes Konto als erwartet. Wenn Sie zusätzlich zu Ihrem persönlichen Microsoft-Konto über ein Geschäfts-, Schul- oder Unikonto verfügen, müssen Sie Ihr anderes Konto hinzufügen, um alle Ihre Notizbücher anzuzeigen (siehe Anweisungen zum Hinzufügen eines [Kontos in OneNote.](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)
 
 **Fehlende Notizen im Notizbuch**
 
@@ -35,7 +35,7 @@ Eine der häufigsten Ursachen für fehlende Seiten oder Abschnitte in einem Noti
 - Klicken Sie in OneNote 2016 mit der rechten Maustaste auf den Notizbuchnamen unterhalb des Menübands, und klicken Sie auf "Notizbuch-Synchronisierungsstatus".
 - Suchen Sie in OneNOte für Mac nach einem gelben Ausrufezeichen in der Nähe des Notizbuchsymbols.
 - Navigieren Sie in OneNote für iPhone zu Ihrem Notizbuch, und klicken Sie auf die Aktionsschaltfläche in der oberen rechten Ecke.
-- Navigieren Sie in OneNote für Android zu "Weitere Notizbücher >Anzeigen von Synchronisierungsfehlern".
+- Navigieren Sie in OneNote für Android zu "Weitere Notizbücher >Synchronisierungsfehler anzeigen"
 
 Führen Sie die Schritte unter ["Meine verlorenen Notizen suchen"](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) aus, um Ihre Datei zu durchsuchen, zu synchronisieren oder Ihre Notizen wiederherzustellen.
 

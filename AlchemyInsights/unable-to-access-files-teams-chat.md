@@ -1,8 +1,8 @@
 ---
 title: Zugriff auf freigegebene Dateien im Teams-Chat nicht möglich
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/01/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10825"
 - "9003042"
-ms.openlocfilehash: 42731693c062b961bdd3bf7b728ea64f705765e539ee751903dd57f263d11ae0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4f420d014150acb76bf6231583a453ff72be1bf0
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092439"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61973482"
 ---
 # <a name="unable-to-access-files-shared-in-teams-chat"></a>Zugriff auf freigegebene Dateien im Teams-Chat nicht möglich
 

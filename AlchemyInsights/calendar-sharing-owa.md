@@ -1,8 +1,8 @@
 ---
 title: 616 Kalenderfreigabe
-ms.author: pdigia
-author: pebaum
-manager: jackiesm
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: 0f21000033715dd1ea1637289ffe3527759b8ad03593e01ecee1a01369421f55
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 51777d047d42614b26fb23bde5b9678726cdf9b9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54119912"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61971429"
 ---
 # <a name="troubleshooting-issues-with-calendar-sharing"></a>Problembehandlung bei der Kalenderfreigabe
 
-- Um Berechtigungsprobleme zu diagnostizieren, verwenden Sie [Exchange Remote Connectivity Analyzer Free Busy](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy), das sehr spezifische Fehlermeldungen liefert.
+- Verwenden Sie zum Diagnostizieren von Berechtigungsproblemen [Exchange Frei/Gebucht-Remoteverbindungsanalyse,](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy)die sehr spezifische Fehlermeldungen liefert.
 - Sie können auch die [Microsoft Support- und Wiederherstellungs-Assistent für Microsoft 365](https://diagnostics.office.com/) verwenden, um eine Vielzahl von anderen Kalenderproblemen zu diagnostizieren. 
-- Wenn der Benutzer über Desktop-Outlook verfügt, kann das [Kalenderprüfungstool für Outlook](https://www.microsoft.com/download/details.aspx?id=28786) potenzielle Probleme lösen.
+- Wenn der Benutzer über Desktop-Outlook verfügt, kann das [Kalenderüberprüfungstool für Outlook](https://www.microsoft.com/download/details.aspx?id=28786) potenzielle Probleme lösen.
 
 Weitere Vorgehensweisen:
 

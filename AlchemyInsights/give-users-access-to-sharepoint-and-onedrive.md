@@ -1,7 +1,7 @@
 ---
 title: Benutzern Zugriff auf SharePoint und OneDrive gewähren
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 8c27997b1bca1d47ad876a0a6941607517912333
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: b4475071857965c83e499f48cbecf0166cbf1e6b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58333122"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61971717"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>Benutzern Zugriff auf SharePoint und OneDrive gewähren
 

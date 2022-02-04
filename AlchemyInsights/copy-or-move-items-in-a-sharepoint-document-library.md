@@ -1,7 +1,7 @@
 ---
 title: Kopieren oder Verschieben von Elementen in einer SharePoint Dokumentbibliothek
-ms.author: toresing
-author: tomresing
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: c32ec198c6f00cd8cee2eed9ade62f7632eb5114
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0726ef44adfde5e54b2872b2cb89e46d9c119e35
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325684"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61972725"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopieren oder Verschieben von Elementen in einer SharePoint Dokumentbibliothek
 

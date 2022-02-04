@@ -1,8 +1,8 @@
 ---
 title: 'Fehler: Sie benötigen Windows 10, um den Vorgang fortzusetzen.'
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9797"
 - "9005484"
-ms.openlocfilehash: 4cd2191c46a4724750cc297f0fa59418ef82f3e0
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: cf175491a1e48f5c9cc06050b6d331f6dfe34a21
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897623"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61972545"
 ---
 # <a name="error-you-need-windows-10-to-continue"></a>Fehler: Sie benötigen Windows 10, um den Vorgang fortzusetzen.
 

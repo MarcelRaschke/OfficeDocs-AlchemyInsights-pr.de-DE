@@ -1,7 +1,7 @@
 ---
 title: Verwenden von Microsoft Edge zum Löschen der von Internet Explorer gespeicherten Browserdaten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 03/30/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9426"
 - "9005491"
-ms.openlocfilehash: 739018e54a3ff9c426891b392cac3a64064e9bad1b2753a5b003a383a7d73077
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0fd43ba9a4943693c7f1da72afdccb745bfd616c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54073203"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61937515"
 ---
 # <a name="use-microsoft-edge-to-clear-the-browsing-data-stored-by-internet-explorer"></a>Verwenden von Microsoft Edge zum Löschen der von Internet Explorer gespeicherten Browserdaten
 

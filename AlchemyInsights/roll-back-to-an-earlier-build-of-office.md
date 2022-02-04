@@ -1,7 +1,7 @@
 ---
 title: Ausführen eines Rollbacks auf eine frühere Version von Office
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1741"
 - "9000140"
-ms.openlocfilehash: 8b4ca6d0160215dd788a8bb918e6a6af36a811427ed594885843140cc1727c16
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 018d3d849abc9020d945637a5a702d38161f8bae
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54074427"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61971104"
 ---
 # <a name="roll-back-to-an-earlier-build-of-office"></a>Ausführen eines Rollbacks auf eine frühere Version von Office
 

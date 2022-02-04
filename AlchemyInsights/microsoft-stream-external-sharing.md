@@ -1,7 +1,7 @@
 ---
-title: Externe Freigabe von Microsoft Stream
-ms.author: pebaum
-author: pebaum
+title: Microsoft Stream (klassisch) Externe Freigabe
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 52c7da05678204658ae2a685be4a2dbc7356e34ab2985e2e5821972c7d96ebf4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6cb7a667dddee7679d1a4d2b96066bc455e8b4a1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53975676"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61972365"
 ---
-# <a name="microsoft-stream-external-sharing"></a>Externe Freigabe von Microsoft Stream
+# <a name="microsoft-stream-classic-external-sharing"></a>Microsoft Stream (klassisch) Externe Freigabe
 
-Microsoft Stream unterstützt noch keine externen Freigabeszenarien für Gäste oder Personen außerhalb Ihrer Organisation. Wir wissen, dass diese Features dringend benötigt werden, und wir arbeiten an Plänen für die Erstellung dieser Features.
+Microsoft Stream (klassisch) unterstützt keine externen Freigabeszenarien für Gäste oder Personen außerhalb Ihrer Organisation. Wir wissen, dass diese Features dringend benötigt werden, und wir arbeiten an Plänen, wie diese Features in den neuen Stream integriert werden können, der auf SharePoint basiert.
 
-- [Externe Freigabe in Stream](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
-
-- [Freigeben Ihrer Videos in Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
+- [Externe Freigabe in Stream](https://docs.microsoft.com/stream/portal-share-video#external-sharing) (klassisch)
+- [Freigeben Ihrer Videos in Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video) (klassisch)
+- [Freigabe in Stream basierend auf SharePoint](https://docs.microsoft.com/stream/streamnew/features-new-version-stream#sharing)

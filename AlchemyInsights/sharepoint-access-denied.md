@@ -1,7 +1,8 @@
 ---
 title: Problembehandlung bei Zugriff verweigerten Nachrichten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -9,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: af0bc0215f8feacc28a0b9bdf6b2659778736d669f7a3ff17628401e23d5fb6f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78d52f161de1792eb3ef4d01c050cdb94340b992
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53957972"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61973121"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Problembehandlung bei Zugriff verweigerten Nachrichten
 
@@ -26,7 +27,7 @@ Stellen Sie sicher, dass Sie [Benutzern in Microsoft 365 for Business Lizenzen z
 
 **Zuweisen von Berechtigungen**
 
-Wenn dem Benutzer eine SharePoint-Lizenz zugewiesen wurde und immer noch eine Nachricht mit verweigertem Zugriff angezeigt wird, stellen Sie sicher, dass ihm die [entsprechende Berechtigungsstufe zugewiesen](https://docs.microsoft.com/sharepoint/understanding-permission-levels)wurde.
+Wenn dem Benutzer eine SharePoint-Lizenz zugewiesen wurde und immer noch eine Nachricht mit verweigertem Zugriff angezeigt wird, stellen Sie sicher, dass ihm die [entsprechende Berechtigungsstufe zugewiesen wurde.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
 **Erwägen der Verwendung des Zugriffsanforderungsfeatures**
 

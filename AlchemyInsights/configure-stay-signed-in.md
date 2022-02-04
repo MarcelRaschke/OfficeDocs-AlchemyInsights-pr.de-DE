@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren von „Angemeldet bleiben“ für Konten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 05/27/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11467"
 - "9006706"
-ms.openlocfilehash: 8fad71f2cf5ba51ef762af1783c1d33cccb43aa0
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: e0f25b3c7dfbff702e495553c9562c531327ff4c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329003"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61973337"
 ---
 # <a name="configure-stay-signed-in-for-accounts"></a>Konfigurieren von „Angemeldet bleiben“ für Konten
 
