@@ -1,7 +1,7 @@
 ---
 title: Entfernen einer Domäne
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: reference
@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 288a6f683ec51e7d0937d3a91522a841b59b12fd
-ms.sourcegitcommit: 9209e36093fe5fa44663098b2a761196105e4d31
+ms.openlocfilehash: b3625600c614e22038899c78fd1ec1de0d795caa
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2021
-ms.locfileid: "61056387"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61937395"
 ---
 # <a name="trying-to-remove-your-domain"></a>Möchten Sie Ihre Domäne entfernen?
 

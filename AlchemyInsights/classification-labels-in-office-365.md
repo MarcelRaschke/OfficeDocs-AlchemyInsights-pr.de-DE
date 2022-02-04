@@ -1,19 +1,20 @@
 ---
 title: Klassifizierungsbezeichnungen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6bfa1924-ec45-42b7-b1e3-10093e4e446f
-ms.openlocfilehash: 95fa99cc80f9b132d7d9f8a0f009f8f2998015a0ab25153c150c4f9e7f9291dc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd59aa2cfe81497e4d4a5a8c764e21533a0511dc
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54119463"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61949111"
 ---
 # <a name="classification-labels"></a>Klassifizierungsbezeichnungen
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 10-Anzeigeeinstellungen anzeigen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6005"
 - "9003203"
-ms.openlocfilehash: 3f8167a354c2759e2b883eafd81a6c26b083535afa89503d701b600792f47ff1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5b5002ecb43692b1e7851bd6ab373443152e4fab
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53990238"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61968619"
 ---
 # <a name="view-display-settings-in-windows-10"></a>Windows 10-Anzeigeeinstellungen anzeigen
 

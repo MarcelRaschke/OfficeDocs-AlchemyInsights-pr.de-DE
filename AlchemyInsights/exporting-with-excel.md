@@ -1,7 +1,7 @@
 ---
 title: Exportieren mit Excel
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006404"
 - "13986"
-ms.openlocfilehash: 8443329f0a417d432c5a718e57d7eb178b52b325
-ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
+ms.openlocfilehash: 95eea73950b41cdf1edec71abb03b3922d5f1ebf
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2021
-ms.locfileid: "59476029"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61967682"
 ---
 # <a name="exporting-with-excel"></a>Exportieren mit Excel
 
-Wenn Sie die Option **"Exportieren in Excel"** in Microsoft Office SharePoint Online verwenden, können gelegentlich Probleme auftreten.
+Wenn Sie die Option **"Exportieren zum Excel"** in Microsoft Office SharePoint Online verwenden, können gelegentlich Probleme auftreten.
 
 Informationen zur Problembehandlung finden Sie unter ["Exportieren in Excel aus SharePoint Online" nicht](https://docs.microsoft.com/office/troubleshoot/excel/cannot-export-to-excel)möglich.

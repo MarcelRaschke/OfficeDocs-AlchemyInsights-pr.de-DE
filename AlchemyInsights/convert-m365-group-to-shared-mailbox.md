@@ -1,7 +1,7 @@
 ---
-title: Konvertierung von Microsoft 365 Gruppen- und freigegebenen Postfächern
-ms.author: pebaum
-author: pebaum
+title: Konvertierung von Microsoft 365 Gruppenpostfächern und freigegebenen Postfächern
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "624"
 - "3500003"
-ms.openlocfilehash: dc50957b472817dc0d18782a812c8763e8ec630cba72724464a920596abaf950
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 039824c21068628c89caa085c24d137dda57ce1c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081105"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61969915"
 ---
-# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Konvertierung von Microsoft 365 Gruppen- und freigegebenen Postfächern
+# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Konvertierung von Microsoft 365 Gruppenpostfächern und freigegebenen Postfächern
 
-Es gibt derzeit keine Möglichkeit, zwischen dem Microsoft 365-Gruppenpostfach und einem freigegebenen Postfach zu konvertieren.
+Es gibt derzeit keine Möglichkeit, zwischen dem Microsoft 365 Gruppenpostfach und einem freigegebenen Postfach zu konvertieren.
 
 Bitte stimmen Sie [hier](https://aka.ms/M365GroupToShared)für dieses Feature ab.

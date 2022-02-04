@@ -1,7 +1,7 @@
 ---
 title: 5.1.90 Ihre Nachricht kann nicht gesendet werden, weil Sie Ihren täglichen Empfängerratengrenzwert erreicht haben.
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 09/02/2021
 audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "13778"
 - "13779"
 - "9008610"
-ms.openlocfilehash: 866ac5add3c32bd8cdce722716576cc6fb8500d0
-ms.sourcegitcommit: 744f03d1c3e6e22975fb96396686b112e385a82d
+ms.openlocfilehash: a0b5ee1d3fb4c446822ead74867f1f6c014a77a6
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58867022"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61933498"
 ---
 # <a name="5190-your-message-cant-be-sent-because-youve-reached-your-daily-limit-for-message-recipients"></a>5.1.90 Ihre Nachricht kann nicht gesendet werden, weil Sie Ihren täglichen Empfängerratengrenzwert erreicht haben.
 

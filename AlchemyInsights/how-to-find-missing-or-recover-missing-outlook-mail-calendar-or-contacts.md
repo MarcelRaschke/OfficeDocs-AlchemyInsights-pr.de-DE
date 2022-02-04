@@ -1,8 +1,8 @@
 ---
 title: 204 Suchen nach fehlenden oder fehlenden Outlook E-Mails, Kalendern oder Kontakten
-ms.author: pdigia
-author: pebaum
-manager: jackiesm
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 7693ec5585ce7562f2feeacc94c592885ccc2ec2
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: fc31a33e9750b7582fa63a371b2c743424b6e334
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323157"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61950389"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Suchen und Wiederherstellen fehlender Nachrichten, Kontakte oder Kalenderelemente in Outlook
 

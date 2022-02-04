@@ -1,7 +1,7 @@
 ---
 title: Microsoft und Geschäftskonten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "4747"
-ms.openlocfilehash: 3785b8b56647945884ee25b0b96c21009c9b68117557ce6dd0d049b9d2eeb9eb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88bb1d21451e1f4d1dda337df76fa411169b7ee9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54098205"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61967465"
 ---
 # <a name="microsoft-and-business-accounts"></a>Microsoft und Geschäftskonten
 

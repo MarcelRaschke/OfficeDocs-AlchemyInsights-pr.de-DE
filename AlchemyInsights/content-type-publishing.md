@@ -1,7 +1,7 @@
 ---
 title: Veröffentlichen von Inhaltstypen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003050"
 - "5793"
-ms.openlocfilehash: 37e21ada4c5a8d8fa5f59dd9434b725566b00f794da1f56f705e1b9d0b8cfa5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: aa204bd1808140e7f6af08433e5419f88d261b6a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54032701"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61948175"
 ---
 # <a name="content-type-publishing"></a>Veröffentlichen von Inhaltstypen
 

@@ -1,7 +1,7 @@
 ---
 title: Verteilerlisten werden nicht angezeigt
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
-ms.openlocfilehash: d47241f92f5ead7d6e1e8ad78e64dbccd780b437da757d6d273778fcc5372378
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3206d1f687bb74d4b92f340098f077ea56197b55
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53947946"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61935120"
 ---
 # <a name="distribution-group-not-showing-in-groups-list"></a>Verteilergruppe wird in Gruppenliste nicht angezeigt
 

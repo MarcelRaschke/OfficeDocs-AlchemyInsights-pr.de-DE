@@ -1,7 +1,7 @@
 ---
 title: Löschen von Elementen in SharePoint
-ms.author: pebaum
-author: bentoncity
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
-ms.openlocfilehash: 8318327bd9bea5de4e9e90709ce0f6ce9b060d6f88692f6e25921d863931c2e7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 092103b59abf572f0def5629da924280b9b0154f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54102642"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61935325"
 ---
 # <a name="delete-items-in-sharepoint"></a>Löschen von Elementen in SharePoint
 

@@ -1,7 +1,7 @@
 ---
 title: Fehlt – dupliziert
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: 4a42eff05c07645eb4b691134ffa410fedcbbfabe904a74a9827fc4e1934d7a4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: be9402a0a3199870b733356fd327fb1cccf629af
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53975146"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61934124"
 ---
 # <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>Problembehandlung bei fehlenden und doppelten Kalenderelementen
 

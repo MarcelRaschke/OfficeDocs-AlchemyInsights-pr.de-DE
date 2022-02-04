@@ -1,7 +1,7 @@
 ---
 title: Ablaufdatum des Teams und der zugrunde liegenden Gruppe stimmt nicht überein
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 76bf82780ad74c4ecc7077b26d3bd9c88f3957842685bcd683d7b2bbaf3a26fa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e651185bb2f50e5c5c3a1cb8a60e8e5950b51fe1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54117735"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61934316"
 ---
 # <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Ablaufdatum des Teams und der zugrunde liegenden Gruppe stimmt nicht überein
 

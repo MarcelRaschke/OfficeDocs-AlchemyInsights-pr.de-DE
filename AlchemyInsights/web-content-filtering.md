@@ -1,7 +1,7 @@
 ---
 title: Webinhaltsfilterung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/14/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12383"
 - "9005487"
-ms.openlocfilehash: 4d88f86ad0fa51e44e43220217c8c25f2004c5a4
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 4cc6d13206910582be4d42443c2724f549f50701
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330243"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61933738"
 ---
 # <a name="web-content-filtering"></a>Webinhaltsfilterung
 

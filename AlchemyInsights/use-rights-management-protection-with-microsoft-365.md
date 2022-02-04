@@ -1,7 +1,7 @@
 ---
 title: Verwenden von Rights Management Protection mit Microsoft 365
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: 723d5d273a844bb5a53e9447ba6b1e9c1bd7ec04
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: b8e47a9f318d8f716e50f6892584f291307d63b1
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324269"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61937431"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Verwenden von Rights Management Protection mit Microsoft 365
 

@@ -1,7 +1,7 @@
 ---
 title: Ordner „Archiv“ in Outlook und OWA
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1903"
 - "3100008"
-ms.openlocfilehash: c74f3c395baac3acb06517a0a7abeda20b264b925b569e7ddef16efbbafa8e25
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2cdf2659e2d9a61fc41715db9c9050ab7c8feadf
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53989662"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61935724"
 ---
 # <a name="archive-folder-in-outlook-and-owa"></a>Ordner „Archiv“ in Outlook und OWA
 

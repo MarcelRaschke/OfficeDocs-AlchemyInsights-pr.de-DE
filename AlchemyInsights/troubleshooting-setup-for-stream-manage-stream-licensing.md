@@ -1,7 +1,7 @@
 ---
 title: Problembehandlung beim Setup für Stream – Verwalten der Stream-Lizenzierung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 2d3b906de6ebc9190acc947846f8c3f260f8ccd2197dd5cb04daa9c2dffbac97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 479039b403ee24339d57696be2fd7ded6a5de899
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53955893"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61969303"
 ---
 # <a name="managing-microsoft-stream-licenses"></a>Verwalten von Microsoft Stream-Lizenzen
 

@@ -1,8 +1,8 @@
 ---
 title: Microsoft Edge-Synchronisierung konfigurieren
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/01/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9137"
 - "9004431"
-ms.openlocfilehash: 3a858dcda2df3d6148ca49aac6bc7384e810d34c00735deba74dfe9dd31f5656
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 059c79de094a6f81593484160d1f5b3b72fb3e87
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54033565"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61949075"
 ---
 # <a name="configure-microsoft-edge-sync"></a>Microsoft Edge-Synchronisierung konfigurieren
 

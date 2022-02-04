@@ -1,7 +1,7 @@
 ---
 title: Abonnement kündigen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "6837"
 - "9003797"
 - "6839"
-ms.openlocfilehash: c4fc2f27afd623218ad413d8738ba9d9ea8d6115
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4301c091f9272a7df4efa35b2bd6e56dc7e71739
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819619"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61948427"
 ---
 # <a name="cancel-subscription"></a>Abonnement kündigen
 

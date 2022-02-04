@@ -1,7 +1,7 @@
 ---
 title: Generieren automatischer Beschriftungen und einer Transkription in Microsoft Stream
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: 37d0194ab8e5def8a9cb9dabe629ecbbf95118160aebc85f734a838cdc0c1893
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c049557cfda11df5228cbff361c0cfd823153ac7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54116871"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61947815"
 ---
 # <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Generieren automatischer Beschriftungen und einer Transkription in Microsoft Stream
 

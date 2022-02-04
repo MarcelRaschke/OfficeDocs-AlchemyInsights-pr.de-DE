@@ -1,7 +1,7 @@
 ---
-title: Gelöschten Benutzer wiederherstellen
-ms.author: pebaum
-author: pebaum
+title: Wiederherstellen eines gelöschten Benutzers
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 60c39466457e5f5fabfd02fae9b4192cdd27ded423a99ce5149b1c102e138097
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 80a206de78d5375ab937a43b743642fbaf36bebd
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53982012"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61948679"
 ---
 # <a name="restore-a-deleted-user"></a>Wiederherstellen eines gelöschten Benutzers
 

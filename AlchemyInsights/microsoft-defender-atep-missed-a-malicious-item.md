@@ -1,7 +1,7 @@
 ---
 title: Microsoft Defender ATP hat ein bösartiges Element übersehen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3203"
 - "9001221"
-ms.openlocfilehash: 2d86532f53dbbdd6957f52c855f242c9e994c8e236e69b3ac40800e4bce97d85
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 58c27893a81a5ac5c434cfebd00dd00a528fe3a2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891073"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61936517"
 ---
 # <a name="microsoft-defender-atp-missed-a-malicious-item"></a>Microsoft Defender ATP hat ein bösartiges Element übersehen
 

@@ -1,7 +1,7 @@
 ---
 title: Häufige Probleme und Lösungen für Planner
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "3193"
-ms.openlocfilehash: 30e8e9f83cddccc85dbebf7bedb3ee0d4ad523a81ecbce039208c400f7c87a8b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d754cd8ab2e1fa775d79c86416ae9172a977bfb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53960726"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61963195"
 ---
 # <a name="planner-common-issues-and-resolutions"></a>Häufige Probleme und Lösungen für Planner
 
@@ -27,7 +27,7 @@ Hier sind einige häufig angeforderte Themen mit Microsoft Planner.
 
 - **Verwenden von Planner in Teams:** Eine allgemeine Übersicht über die Planner-Integration in Microsoft Teams finden Sie unter [Verwenden von Planner in Microsoft Teams.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)
 
-     - [Fügen Sie einem Teamkanal eine Planner-Registerkarte hinzu.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel) Der Benutzer, der die Registerkarte hinzufügt, muss ein Mitglied des Teams sein, nicht nur ein Besitzer. Sie können den Benutzer als Mitglied über die Teams-Schnittstelle hinzufügen. Sie können auch [einen vorhandenen Plan zu Microsoft Teams hinzufügen.](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)
+     - [Fügen Sie einem Teamkanal eine Planner-Registerkarte hinzu.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel) Der Benutzer, der die Registerkarte hinzufügt, muss Ein Mitglied des Teams sein, nicht nur ein Besitzer. Sie können den Benutzer über die Teams-Schnittstelle als Mitglied hinzufügen. Sie können auch [einen vorhandenen Plan zu Microsoft Teams hinzufügen.](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)
 
     - [Entfernen Sie eine Planner-Registerkarte, oder löschen Sie einen Plan.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan) Gelöschte Pläne können in Teams nicht wiederhergestellt werden. Wenn eine Gruppe bereits gelöscht wurde, können Sie [gelöschte Pläne und Gruppen wiederherstellen.](https://techcommunity.microsoft.com/t5/planner-blog/microsoft-planner-now-you-can-recover-deleted-plans-and-groups/ba-p/362242
 )

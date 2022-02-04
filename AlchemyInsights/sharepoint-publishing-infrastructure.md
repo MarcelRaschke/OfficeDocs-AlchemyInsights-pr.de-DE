@@ -1,7 +1,8 @@
 ---
-title: SharePoint Veröffentlichungsinfrastruktur
-ms.author: pebaum
-author: pebaum
+title: SharePoint-Veröffentlichungsinfrastruktur
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,14 +12,14 @@ ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms-custom:
 - "1846"
 - "9000253"
-ms.openlocfilehash: 341a77e9a6738cd96a8b4587e52e633be0176010
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d7fd576c29e8018486a5999386fca0a7ea21e3d2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318087"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61950191"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a>SharePoint Veröffentlichungsinfrastruktur
+# <a name="sharepoint-publishing-infrastructure"></a>SharePoint-Veröffentlichungsinfrastruktur
 
 **Wichtig:** Moderne Kommunikationswebsites unterstützen nicht die klassischen Veröffentlichungsfunktionen, die als SharePoint Server Publishing Infrastructure bezeichnet werden. Wenn Sie versuchen, das Feature für eine moderne Kommunikationswebsite zu aktivieren, erhalten Sie einen Fehler. Moderne Kommunikationswebsites bieten standardmäßig eine neuere Alternative.
 

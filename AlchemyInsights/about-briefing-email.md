@@ -1,7 +1,7 @@
 ---
 title: Informationen zu Briefing-E-Mails
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/14/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6179"
 - "9003284"
-ms.openlocfilehash: d1c7027eeba1d156ed2b7b68502504f9eb0b940519d43ac84df1c94435260101
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6b0ed4e5ed8cdc9de3c7f2f30dede7070464a745
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53955857"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61935976"
 ---
 # <a name="about-briefing-email"></a>Informationen zu Briefing-E-Mails
 

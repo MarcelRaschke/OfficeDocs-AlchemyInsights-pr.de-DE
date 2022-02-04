@@ -1,7 +1,8 @@
 ---
 title: Bearbeiten von Dokumenten in Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.custom: ''
 ms.assetid:
 - "9002312"
 - "4497"
-ms.openlocfilehash: 4af4323e0a51c69f5689483508ff3196519030824806cb24a1157b61daefa2cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2a1449171747da28c41e544aba83245d6187918b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004045"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61936709"
 ---
 # <a name="editing-documents-in-teams"></a>Bearbeiten von Dokumenten in Teams
 

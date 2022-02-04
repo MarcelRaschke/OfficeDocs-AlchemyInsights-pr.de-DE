@@ -1,7 +1,7 @@
 ---
 title: Häufig gestellte Fragen (FAQ) zu Windows 11
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12068"
 - "9007192"
-ms.openlocfilehash: 5f75c9442fbf5fa59c0eb94ae8ecd28bd7772e92
-ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
+ms.openlocfilehash: ba0492da2e49a32e94d0a93b06ec10b00c4af25b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53118168"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61934592"
 ---
 # <a name="windows-11-frequently-asked-questions-faq"></a>Häufig gestellte Fragen (FAQ) zu Windows 11
 

@@ -1,7 +1,7 @@
 ---
 title: Informationen zur Bedrohungsanalyse
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/08/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 6121be582c52a0e708cb845af5dde64de7f1cef6
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1ce0e3e41911bc8a91eb128b2053e7eddd5b2bc4
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312614"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61937311"
 ---
 # <a name="about-threat-analytics"></a>Informationen zur Bedrohungsanalyse
 

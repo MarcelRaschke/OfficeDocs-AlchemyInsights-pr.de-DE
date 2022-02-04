@@ -1,7 +1,7 @@
 ---
 title: Vorbereiten von TLS 1.2 in Office 365
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 05/13/2021
 ms.audience: ITPro
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "11220"
 - "9006570"
-ms.openlocfilehash: 34976cdfb35943d5dbcc3ab924b1a0c996ac7643
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: b3ad9b2e721ecd5e6c8847226100a7ce9f47ef5c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58319387"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61968258"
 ---
 # <a name="preparing-for-tls-12-in-office-365"></a>Vorbereiten von TLS 1.2 in Office 365
 
-Um unseren Kunden die erstklassige Verschlüsselung bereitzustellen, wird Microsoft die Tls-Versionen 1.0 und 1.1 (Transport Layer Security) in Office 365 und Office 365 GCC nicht mehr verwenden. 
+Um unseren Kunden die erstklassige Verschlüsselung bereitzustellen, wird Microsoft die TLS-Versionen 1.0 und 1.1 (Transport Layer Security) in Office 365 und Office 365 GCC als veraltet festlegen. 
 
 Weitere Informationen finden Sie unter:
 

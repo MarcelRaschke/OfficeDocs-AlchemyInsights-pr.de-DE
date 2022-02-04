@@ -1,7 +1,7 @@
 ---
 title: Lösungen für Probleme beim Installieren von Office
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 0b6155ce38cd2703a4bf406d73ebbc59eb4c9034
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 9a352ef5d0a004dbb48307e109ac6465fef88427
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320754"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61948103"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Lösungen für Probleme beim Installieren von Office
 

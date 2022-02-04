@@ -1,7 +1,7 @@
 ---
 title: Kopieren von Dateien in SharePoint und OneDrive
-ms.author: toresing
-author: tomresing
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: f65b7934be0a6cc8b0e8daf5ad46c7232f25c715
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 70a74d9a37854e4040a7d458305d68499baab92a
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325720"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61969879"
 ---
 # <a name="copy-files-in-sharepoint-and-onedrive"></a>Kopieren von Dateien in SharePoint und OneDrive
 
@@ -27,4 +27,4 @@ Sie können Dateien aus dem Webbrowser an verschiedene Speicherorte innerhalb Sh
 
 Weitere Informationen finden Sie unter [Verschieben oder Kopieren.](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)
 
-**Hinweis:** **Copy to** isn't available if you are using the classic experience of SharePoint Online.
+**Hinweis:** **Kopieren in** ist nicht verfügbar, wenn Sie die klassische Benutzeroberfläche von SharePoint Online verwenden.

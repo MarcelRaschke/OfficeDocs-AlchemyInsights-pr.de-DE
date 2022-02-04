@@ -1,7 +1,7 @@
 ---
 title: Sprach- und Anrufrichtlinien
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/18/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13651"
 - "9000734"
-ms.openlocfilehash: 43a859b2cd8311976ed1b9ace7918cf8a9fb6dee
-ms.sourcegitcommit: f0321e5b414c16a15a97bef7e3333adf5d57128a
+ms.openlocfilehash: a36575c5ec60a4ed8cbed965b29f7ae92fc9b891
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58391264"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61968583"
 ---
 # <a name="voice-and-calling-policies"></a>Sprach- und Anrufrichtlinien
 

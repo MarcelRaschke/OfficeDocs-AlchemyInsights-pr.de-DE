@@ -1,7 +1,7 @@
 ---
 title: Zugriff verweigert beim Zuordnen eines Laufwerks zu SharePoint
-ms.author: toresing
-author: tomresing
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 1ed67ec926c3e73f7a16b927729255505dfe93a0ae442a5dff9400afafb41d8e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff75b0e50c543076cd2ab262e804786514319454
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53938730"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61935772"
 ---
 # <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Beheben von Problemen mit SharePoint Bibliotheken, die Netzwerklaufwerken zugeordnet sind
 

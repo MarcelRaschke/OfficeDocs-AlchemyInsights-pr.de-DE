@@ -1,8 +1,8 @@
 ---
 title: SharePoint nicht zugestellte Benachrichtigungen
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -14,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0b9d4559b7b97ad1679ed80941ef84a2d0d4f60f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53957900"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61948607"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint nicht zugestellte Benachrichtigungen
 
@@ -28,7 +28,7 @@ ms.locfileid: "53957900"
 Ermitteln Sie, ob **nicht alle Warnungen übermittelt werden** oder ob eine einzelne **Warnung** aus einer bestimmten Datei oder Bibliothek nicht übermittelt wird.
 
 - **Einzelne Warnungen werden nicht übermittelt:** Wenn eine einzelne Warnung aus einer bestimmten Datei oder Bibliothek nicht übermittelt wird, können Sie versuchen, sie zu löschen und neu zu erstellen. Weitere Informationen finden Sie unter [Verwalten, Anzeigen oder Löschen SharePoint Warnungen,](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) um die Warnung neu zu erstellen.
-- **Alle Warnungen werden nicht übermittelt:** Wenn alle Warnungen aus mehreren Dateien oder Bibliotheken nicht übermittelt werden, besuchen Sie das [Dienststatus-Dashboard,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) um nach Empfehlungen/Vorfällen zu suchen, die mit SharePoint oder Exchange auftreten können. Das Problem kann mit der SharePoint Benachrichtigungsfunktion oder Verzögerungen in E-Mails über Exchange auftreten. Es ist auch wichtig zu beachten, ob andere E-Mails zugestellt werden. Andernfalls liegt das Problem wahrscheinlich bei Exchange Verzögerungen.
+- **Alle Warnungen werden nicht übermittelt:** Wenn alle Warnungen aus mehreren Dateien oder Bibliotheken nicht übermittelt werden, besuchen Sie das [Dienststatus-Dashboard,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) um nach Empfehlungen/Vorfällen zu suchen, die mit SharePoint oder Exchange auftreten können. Das Problem kann mit der SharePoint Benachrichtigungsfunktion oder Verzögerungen in E-Mails über Exchange auftreten. Es ist auch wichtig zu beachten, ob andere E-Mails zugestellt werden, und wenn nicht, ist das Problem wahrscheinlich mit Exchange Verzögerungen verbunden.
 
 Häufig gestellte Fragen zu Warnungen:
 

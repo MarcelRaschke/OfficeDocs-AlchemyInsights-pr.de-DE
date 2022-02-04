@@ -1,7 +1,7 @@
 ---
 title: Debuggen von WebView2-Apps
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/22/2021
 audience: Admin
@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "11941"
 - "9007100"
-ms.openlocfilehash: aed0b49213cfd7b81684aa56655b3a8069b739ab
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: cf0968f2a4934317989870121af53fd1b7cdfa38
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58331270"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61969087"
 ---
 # <a name="debug-webview2-apps"></a>Debuggen von WebView2-Apps
 

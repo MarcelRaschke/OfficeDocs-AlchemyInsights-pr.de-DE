@@ -1,7 +1,7 @@
 ---
 title: Synchronisieren von SharePoint-Dateien mit dem neuen OneDrive-Synchronisierungsclient
-ms.author: matteva
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: d83dd6f96b0d8788ebd11d7f89fa07bf204604b6
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 06d7903b67eecf96a0a47465afceb645e4495444
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58322564"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61933906"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Synchronisieren von SharePoint-Dateien mit dem neuen OneDrive-Synchronisierungsclient
 

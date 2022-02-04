@@ -1,7 +1,7 @@
 ---
 title: Cal-Syn-Regel
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3416"
 - "9001435"
-ms.openlocfilehash: 78c3c0d1fa2847178c7f731f26b02f31435225ea6f31a11141197294a283fd0b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: dc6af0dacd0843e41e9a3efcfc19f27832318683
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54046463"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61934400"
 ---
 # <a name="problems-syncing-calendar-and-contacts-on-phone-or-tablet"></a>Probleme beim Synchronisieren von Kalender und Kontakten auf Telefonen oder Tablets
 

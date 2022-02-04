@@ -1,7 +1,7 @@
 ---
 title: So passen Sie SharePoint Websiteberechtigungen über SharePoint-Gruppen an
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3165"
-ms.openlocfilehash: b17c6f5798542c8b890332c1b3e5e3712fb484483b6dc461b7fa9fbcc757106d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 46d1081e0436bca179b69b88a35221b280cade07
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54079917"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61949615"
 ---
 # <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>So passen Sie SharePoint Websiteberechtigungen über SharePoint-Gruppen an 
 

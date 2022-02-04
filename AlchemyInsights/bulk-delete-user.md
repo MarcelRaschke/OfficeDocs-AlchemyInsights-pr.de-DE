@@ -1,7 +1,7 @@
 ---
 title: Massenlöschung von Benutzern
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6112"
 - "9003231"
-ms.openlocfilehash: 3f78bc03fde1984ecfd813449e034a9deaf6e4ca4ed1257c89137590e5e55f3c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f4f7ac3941af3e3ee26520e5d3f97dae29dd930b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53996701"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61970131"
 ---
 # <a name="bulk-delete-user"></a>Massenlöschung von Benutzern
 

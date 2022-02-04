@@ -1,7 +1,8 @@
 ---
 title: Lösungen für Probleme bei der Installation von Office
-ms.author: janellem
-author: janellem
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -12,18 +13,18 @@ ms.custom:
 - "852"
 - "2000020"
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: fa364306ca2eda7097bf1098ebcd690bd0808a78c39f6657b4049b8e85897dac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5336ae768ede25c08cc5aad8aca74576e63c1b83
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54021775"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61949831"
 ---
 # <a name="solutions-for-issues-while-installing-office"></a>Lösungen für Probleme bei der Installation von Office
 
 Probieren Sie eine der folgenden Lösungen zur Behebung des Office-Fehlers:
   
-- Starten Sie Ihren Computer neu, und [versuchen Sie, Office](https://portal.office.com/OLS/MySoftware.aspx)zu installieren.
+- Starten Sie Ihren Computer neu, und [versuchen Sie, Office zu installieren.](https://portal.office.com/OLS/MySoftware.aspx)
 
 - Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) herunter, und installieren Sie ihn.
 

@@ -1,7 +1,7 @@
 ---
 title: Fehlendes ‚LocalizedNames‘ im Element ‚savedquery‘
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/21/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: 122904b1eb2d1c20fd26bb6a388aa50ced766cec9649fce15c0fae7f6b322832
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0645ca63c65c7cb9752853a1f20249a0d70d765f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065607"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61968402"
 ---
 # <a name="missing-localizednames-in-element-savedquery"></a>Fehlendes ‚LocalizedNames‘ im Element ‚savedquery‘
 

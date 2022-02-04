@@ -1,7 +1,7 @@
 ---
 title: Anwesenheitsbericht – bekannte Probleme und Einschränkungen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "13979"
-ms.openlocfilehash: 0aa7c111f12365bbb3ef843f4c34abd3235fee79
-ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
+ms.openlocfilehash: ff71a33209352509c78d26f953d6f7445d14c365
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2021
-ms.locfileid: "59475964"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61935688"
 ---
 # <a name="attendance-report-known-issues-and-limitations"></a>Anwesenheitsbericht – bekannte Probleme und Einschränkungen
 

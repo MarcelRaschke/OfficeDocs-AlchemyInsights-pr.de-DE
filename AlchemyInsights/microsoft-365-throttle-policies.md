@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365-Drosselungsrichtlinien
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002322"
 - "4506"
-ms.openlocfilehash: 78013788db0a685253c8575514aaab2bebe1f8b1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 53c2faddf19b119e64e2e06365c04bf1b64fdb4e
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829888"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61968438"
 ---
 # <a name="microsoft-365-throttle-policies"></a>Microsoft 365-Drosselungsrichtlinien
 

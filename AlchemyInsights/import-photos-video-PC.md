@@ -1,8 +1,8 @@
 ---
 title: Importieren Sie Fotos und Videos auf Ihren PC
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9822"
 - "9005408"
-ms.openlocfilehash: 8d593c8a7299dec6b9c8668d19f5924b16e34f83fb64e82190dcf4d2666fecb6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 53552b6b9b44cf9ed372ad01a511aef9d696c8b3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54115539"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61948787"
 ---
 # <a name="import-photos-and-videos-to-your-pc"></a>Importieren Sie Fotos und Videos auf Ihren PC
 

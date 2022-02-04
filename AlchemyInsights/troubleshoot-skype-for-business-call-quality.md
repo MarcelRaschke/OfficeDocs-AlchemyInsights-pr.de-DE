@@ -1,7 +1,8 @@
 ---
 title: Behandeln von Problemen mit der Skype for Business-Anrufqualität
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.custom:
 - "9002263"
 - "4364"
 ms.assetid: ''
-ms.openlocfilehash: 2e7c7fc8cdc50c186d48779e9be740807d40993020cff9c4e7794ceaf1f81443
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e239e409ef36218dd159facb5d835f908db25253
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54039209"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61967211"
 ---
 # <a name="troubleshoot-skype-for-business-call-quality"></a>Behandeln von Problemen mit der Skype for Business-Anrufqualität
 

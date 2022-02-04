@@ -1,7 +1,7 @@
 ---
 title: Dateiwiederherstellungsfeature
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4837"
-ms.openlocfilehash: 168860aaa34f39eddb3e7d7073ca108f882f2e79
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b9db6c57a95598d70e01be20e0665fc7df66d700
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813111"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61967646"
 ---
 # <a name="files-restore-feature"></a>Dateiwiederherstellungsfeature
 

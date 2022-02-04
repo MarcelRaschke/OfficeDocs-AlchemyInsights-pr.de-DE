@@ -1,8 +1,8 @@
 ---
 title: Was ist AutoSpeichern?
-ms.author: pebaum
-author: pebaum
-manager: jecon
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 4792cff9989feb672784ae9bf1534a35a7535f21177c6cd41169796536fb41ce
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c5244e04eaa04bdc210b668609aa3323a3dbba3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54069279"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61969663"
 ---
 # <a name="what-is-autosave"></a>Was ist AutoSpeichern?
 

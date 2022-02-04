@@ -1,7 +1,7 @@
 ---
 title: A1-Lizenz für Office 365
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 87f4b73432e242f21373696d2a06404fd76dc921c8c80e65c91e230cf0212ccc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 85c15495bac4576589c3aec34337278f496a1415
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53917746"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61936036"
 ---
 # <a name="a1-license-for-office-365"></a>A1-Lizenz für Office 365
 

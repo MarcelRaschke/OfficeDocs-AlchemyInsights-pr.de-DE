@@ -1,7 +1,7 @@
 ---
 title: von Teams unterstützte Webbrowser
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 05b765d53a0e432993f405fc5ea7ab86597d1e7c830251a77f4167a536d2b7dc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c541f17b7caa0b0d0fbc72ce627d191da2b93558
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53981220"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61968727"
 ---
 # <a name="teams-supported-web-browsers"></a>von Teams unterstützte Webbrowser
 

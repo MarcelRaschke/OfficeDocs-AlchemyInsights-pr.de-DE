@@ -1,25 +1,26 @@
 ---
 title: Übersicht über die Verhinderung von Datenverlust (Data Loss Prevention, DLP)
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: cc372aef88ebdca81bb217283dce0806888d4b4795f88e4b28bd36cc2c6f1c5f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b3e77a5c24a33247664a33a258e22881cbe93d7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005557"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61935580"
 ---
 # <a name="data-loss-prevention-dlp-overview"></a>Übersicht über die Verhinderung von Datenverlust (Data Loss Prevention, DLP)
 
 Eine DLP-Richtlinie bietet Ihnen folgende Möglichkeiten:
 
-- Identifizieren Sie vertrauliche Informationen an vielen Speicherorten, z. B. Exchange Online, SharePoint Online und OneDrive for Business.
+- Identifizieren vertraulicher Informationen an vielen Standorten, z. B. Exchange Online, SharePoint Online und OneDrive for Business.
 
 
 Beispielsweise können Sie alle Dokumente ermitteln, die eine Kreditkartennummer enthalten und auf einer OneDrive for Business-Website gespeichert sind. Sie können auch nur die OneDrive-Websites bestimmter Personen überwachen.

@@ -1,7 +1,7 @@
 ---
 title: Probleme mit dem VPN
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1545"
 - "9000076"
-ms.openlocfilehash: 72014262c39762dfcec6dd50852675ff8c5e1e55
-ms.sourcegitcommit: 6753264c3805098c0eba62cdcaa9120d44593b20
+ms.openlocfilehash: 53ff9e81c20f481bad4fe006083d64f059b9e4cd
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2021
-ms.locfileid: "61241942"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61934220"
 ---
 # <a name="vpn-related-issues"></a>Probleme mit dem VPN
 

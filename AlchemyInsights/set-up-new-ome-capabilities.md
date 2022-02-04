@@ -1,7 +1,7 @@
 ---
 title: Einrichten neuer OME-Funktionen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "11216"
-ms.openlocfilehash: f5edc0cf39ae17724383432a770846ac3f8c3f97
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: e01a65ac8e6004f23be41e3ba02defb379f53048
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58322610"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61936421"
 ---
 # <a name="set-up-new-ome-capabilities"></a>Einrichten neuer OME-Funktionen
 
@@ -27,4 +27,4 @@ Office 365-Nachrichtenverschlüsselung (OME) wird als Teil von Office 365 Enterp
 
 - Weitere Abonnementdetails und häufig gestellte Fragen finden Sie unter [Häufig gestellte Fragen zur Nachrichtenverschlüsselung](https://docs.microsoft.com/microsoft-365/compliance/ome-faq#what-subscriptions-do-i-need-to-use-the-new-ome-capabilities-).
 
-- Informationen zu Problemen beim Öffnen verschlüsselter Nachrichten in Outlook finden Sie unter [Senden, Anzeigen und Beantworten verschlüsselter Nachrichten in Outlook für PC](https://support.microsoft.com/en-us/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980?ui=en-us&rs=en-us&ad=us).
+- Informationen zu Problemen beim Öffnen verschlüsselter Nachrichten in Outlook finden Sie unter [Senden, Anzeigen und Beantworten verschlüsselter Nachrichten in Outlook für PC](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980?ui=en-us&rs=en-us&ad=us).

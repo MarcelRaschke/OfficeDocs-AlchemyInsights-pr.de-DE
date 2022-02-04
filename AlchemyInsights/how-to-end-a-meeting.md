@@ -1,7 +1,7 @@
 ---
 title: Formelles Beenden einer Besprechung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 3ef93e2f94ffe0768c9da3a740a865dfd36952e6d908a36670275297aed39913
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d7fea03cd1bc5fc824f5643f4dc7cb63f3f60ab9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963282"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61950461"
 ---
 # <a name="how-to-formally-end-a-meeting"></a>Formelles Beenden einer Besprechung
 

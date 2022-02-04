@@ -1,7 +1,7 @@
 ---
 title: Integrität des Microsoft 365-Diensts
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 649c36d848223613c6188f600bb8f041fd205078c2a2d3ce66cb3387a4f84bd7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4394b2cebc5a67b52ec5488015249a78dd33c4e8
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54098457"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61936625"
 ---
 # <a name="microsoft-365-service-health"></a>Integrität des Microsoft 365-Diensts
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 Apps nicht gestartet/gestartet werden
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2531"
 - "9000572"
-ms.openlocfilehash: e3bca1ede7a2dbaef73f08323db2f3a66289006da126aa5827cff6c78cf20128
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1a44eb88268b558df5786e841273d99a4d24a6c7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985616"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61968294"
 ---
 # <a name="microsoft-365-apps-crash-stop-responding-or-dont-launch"></a>Microsoft 365 Apps abstürzt, nicht mehr reagiert oder nicht gestartet wird
 
 Um zu beheben, Microsoft 365 Apps hängen oder abstürzt, versuchen Sie die folgenden Optionen:
 
-- [Untersuchen möglicher Probleme mit installierten Add-Ins](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d#bkmk_addins) für Office
+- Untersuchen möglicher Probleme mit für Office [installierten Add-Ins](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d#bkmk_addins)
 - Überprüfen Sie, ob Antivirensoftware mit Microsoft 365-Apps [in Konflikt steht.](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID#bkmk_conflict)
 - Überprüfen oder [Installieren der neuesten Updates für Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)
 - [Reparieren Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) mithilfe der Systemsteuerung

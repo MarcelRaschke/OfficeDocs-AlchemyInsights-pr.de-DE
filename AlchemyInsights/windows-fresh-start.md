@@ -1,7 +1,7 @@
 ---
 title: Windows-Neustart
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1280"
 - "6700008"
-ms.openlocfilehash: e72728c1fb5f79a67c13e5f66c8fa3a2094299be3fa721dd043e549fe0dff278
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6a05d77c559ffd89e9571879897ea60d782cb4fb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54047291"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61949219"
 ---
 # <a name="windows-fresh-start"></a>Windows-Neustart
 

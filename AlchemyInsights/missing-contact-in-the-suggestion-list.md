@@ -1,7 +1,7 @@
 ---
 title: Fehlender Kontakt in Vorschlagsliste beim Verfassen von E-Mails
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "1060"
-ms.openlocfilehash: ae6e347c315af0e987b3fb1323b3a4a39ecc484f15eaeba75840b5ab134cc4d1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8f53d4bfcdc629186188aef6ca6ad0847968a989
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53975208"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61934880"
 ---
 # <a name="missing-contact-in-suggestion-list-while-composing-mail"></a>Fehlender Kontakt in Vorschlagsliste beim Verfassen von E-Mails
 

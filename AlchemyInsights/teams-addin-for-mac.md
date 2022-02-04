@@ -1,7 +1,7 @@
 ---
 title: Teams-Add-in für Mac
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/10/2020
 ms.audience: Admin
@@ -15,12 +15,12 @@ ms.custom:
 - "6166"
 - "9003233"
 - "9002573"
-ms.openlocfilehash: c9c4eb811c93f6d11ebf606ba4bd20cddc2901d6616700ebfe6ef597dd8dc006
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c6023f24307dd237f342d8f9a07cf2bc2d81079
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940674"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61970311"
 ---
 # <a name="teams-add-in-for-mac"></a>Teams-Add-in für Mac
 

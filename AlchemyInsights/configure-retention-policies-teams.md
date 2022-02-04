@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren von Aufbewahrungsrichtlinien für Teams Speicherorte
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 06/23/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12063"
 - "9000273"
-ms.openlocfilehash: 4f7c7ad539a90204256911017bfd68a1f77b0072
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: a58c80016d87745aa8d8ae2cd3921d0bc872980b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321192"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61970023"
 ---
 # <a name="configure-retention-policies-for-teams-locations"></a>Konfigurieren von Aufbewahrungsrichtlinien für Teams Speicherorte
 
@@ -36,5 +36,5 @@ So konfigurieren Sie Aufbewahrungsrichtlinien für Teams:
 
 Hinweis: Nachrichten im privaten Kanal werden derzeit nicht von Aufbewahrungsrichtlinien unterstützt.
 
-Weitere Informationen zur Teamaufbewahrung und bekannten Konfigurationsprobleme finden Sie unter [Aufbewahrungsrichtlinien für Teams Speicherorte.](https://docs.microsoft.com/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
+Weitere Informationen zur Teamaufbewahrung und zu bekannten Konfigurationsprobleme finden Sie unter [Aufbewahrungsrichtlinien für Teams Speicherorte](https://docs.microsoft.com/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
 

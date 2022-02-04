@@ -1,7 +1,7 @@
 ---
 title: Bitlocker-Wiederherstellungsschlüssel
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 325ad2539fce0575c4f2d885ac6e3f236313e143
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060063"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61950047"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Zugreifen auf Bitlocker-Wiederherstellungsschlüssel
 
-Beim Konfigurieren von BitLocker-Einstellungen intune Endpoint Protection Richtlinie ist es möglich, zu definieren, ob Bitlocker-Wiederherstellungsinformationen in Azure Active Directory gespeichert werden sollen.
+Beim Konfigurieren von BitLocker-Einstellungen intune Endpoint Protection-Richtlinie ist es möglich zu definieren, ob Bitlocker-Wiederherstellungsinformationen in Azure Active Directory gespeichert werden sollen.
 
 Wenn diese Einstellung konfiguriert ist, sollten die gespeicherten Wiederherstellungsdaten einem Intune-Administrator als Teil des Blatts "Gerätedatensatz" auf dem Blatt "Intune-Geräte" auf zwei Arten angezeigt werden:
 
-Geräte – Azure AD-Geräte – > "Gerät" oder Geräte – > Alle Geräte – > "Gerät" – > Wiederherstellungsschlüssel
+Geräte – Azure AD Geräte – > "Gerät" oder Geräte – > Alle Geräte – > "Gerät" – > Wiederherstellungsschlüssel
 
 Wenn administrativer Zugriff auf das Gerät selbst besteht, kann der Wiederherstellungsschlüssel (Kennwort) auch angezeigt werden, indem Der folgende Befehl an einer Eingabeaufforderung mit erhöhten Rechten ausgeführt wird:
 

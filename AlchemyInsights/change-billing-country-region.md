@@ -1,7 +1,7 @@
 ---
 title: Ändern des Abrechnungsland oder der Abrechnungsregion
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002555"
 - "11177"
-ms.openlocfilehash: 57c3a83aa8db8a4969579ea536f2843f506d70b9ce9669e0518ebd6f6e98acbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 11f64cdf32a7f9889646b9cd0da1954cf2f722f2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54018427"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61969231"
 ---
 # <a name="change-billing-country-or-region"></a>Ändern des Abrechnungsland oder der Abrechnungsregion
 

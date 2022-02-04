@@ -1,7 +1,7 @@
 ---
 title: Inventar im Microsoft 365 Apps Admin Center
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003533"
 - "13813"
-ms.openlocfilehash: eded65973cf1c8a64f66633089ca8641a91f6196
-ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.openlocfilehash: a57e0bc298971983524585517e93bdb59588ecef
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/07/2021
-ms.locfileid: "58923965"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61966958"
 ---
 # <a name="inventory-in-microsoft-365-apps-admin-center"></a>Inventar im Microsoft 365 Apps Admin Center
 

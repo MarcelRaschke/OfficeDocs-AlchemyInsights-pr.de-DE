@@ -1,7 +1,8 @@
 ---
 title: Einrichten eines Verbunds in Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001733"
 - "4340"
-ms.openlocfilehash: 8907498faf18b2661d12812a5bf587123c7314f02ffae32a1df9d073e6767401
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 632375c36aa5e75ca010ba14f76108e7e61bb134
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53921510"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61966850"
 ---
 # <a name="set-up-teams-federation"></a>Einrichten eines Verbunds in Teams
 

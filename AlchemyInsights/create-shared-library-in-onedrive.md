@@ -1,7 +1,7 @@
 ---
 title: Erstellen einer freigegebenen Bibliothek in OneDrive
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7219"
 - "9003265"
-ms.openlocfilehash: 462d755576a4435049aa8a1fce3bf727d233b86acf2752a84fa034cf7be2bab7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ac9493d1baa553339e441e25239a4ecef76f0119
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929232"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61936745"
 ---
 # <a name="create-a-shared-library-in-onedrive"></a>Erstellen einer freigegebenen Bibliothek in OneDrive
 

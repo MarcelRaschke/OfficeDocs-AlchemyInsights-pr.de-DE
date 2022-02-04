@@ -1,7 +1,7 @@
 ---
 title: Übersicht über die Microsoft Stream-Lizenzierung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: e4aa70aa22696bea42516b698d109a0c115d024468d4d8ab070b9c337c3e91fe
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 390653c3c3acbb2a05dbb36d41f6172691f9a725
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54066219"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61969519"
 ---
 # <a name="microsoft-stream-licensing-overview"></a>Übersicht über die Microsoft Stream-Lizenzierung
 

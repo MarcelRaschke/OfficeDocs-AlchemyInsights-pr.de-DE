@@ -1,7 +1,7 @@
 ---
 title: 'Azure Information Protection: AIP-Clientinstallation'
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: f4c260ecdae40125e1fcdb3b15c2ba0ce4c67fa019350fba7413d9db9b53d070
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 955fdd6f6262944bf19f9a3b8f1d4c40667f9519
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53917674"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61967174"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: AIP-Clientinstallation
 

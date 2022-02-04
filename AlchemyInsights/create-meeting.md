@@ -1,7 +1,7 @@
 ---
 title: Planen einer Besprechung in Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 4e46bc1384051ff184a2ead669c495ea455b226263e0be30b37a339151d810a4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62034f8312e2460286b0eebe55b3931448ce9234
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090339"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61967066"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Planen einer Besprechung in Teams
 
-**Wichtig** Wenn Sie Probleme beim Erstellen einer Besprechung haben oder die Besprechungsoption in Teams nicht finden können, stellen Sie sicher, dass betroffene Benutzer über ein aktiviertes Exchange Postfach für eine unterstützte Version für Microsoft Teams verfügen. Während Exchange Online empfohlen wird, werden Exchange lokale Postfächer auf Exchange Server 2016 CU3 oder höher unterstützt, wobei OAuth erfolgreich zwischen Online und lokal konfiguriert wurde. Weitere Informationen finden Sie unter [Erstellen von Benutzerpostfächern in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) und Anforderungen für lokal [gehostete Postfächer.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises) 
+**Wichtig** Wenn Sie Probleme beim Erstellen einer Besprechung haben oder die Besprechungsoption in Teams nicht finden können, stellen Sie sicher, dass betroffene Benutzer über ein aktiviertes Exchange Postfach für eine unterstützte Version für Microsoft Teams verfügen. Während Exchange Online empfohlen wird, werden Exchange lokalen Postfächer auf Exchange Server 2016 CU3 oder höher unterstützt, wobei OAuth erfolgreich zwischen Online und lokal konfiguriert wurde. Weitere Informationen finden Sie unter [Erstellen von Benutzerpostfächern in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) und Anforderungen für lokal [gehostete Postfächer.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises) 
 
 1. Sie können eine Besprechung planen, indem Sie Folgendes auswählen:
 
@@ -35,6 +35,6 @@ ms.locfileid: "54090339"
 
 Weitere Informationen zum Erstellen und Planen von Besprechungen in Microsoft Teams finden Sie unter [Planen einer Besprechung in Teams.](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)
 
-Weitere Informationen zu Grenzwerten und Spezifikationen für Besprechungen finden Sie unter [Grenzwerte und Spezifikationen für Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Weitere Informationen zu Grenzwerten und Spezifikationen für Besprechungen finden Sie unter [Grenzwerte und Spezifikationen für Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)
 
-Hilfe bei der Problembehandlung bei Teams und Exchange Interaktionen, insbesondere bei Terminplanungsproblemen bei Stellvertretungen, finden Sie unter [Problembehandlung bei Microsoft Teams und Exchange Server Interaktionsproblemen.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+Hilfe bei der Problembehandlung bei Teams und Exchange Interaktionen, insbesondere bei Stellvertretungsplanungsproblemen, finden Sie unter [Problembehandlung bei Microsoft Teams und Exchange Server Interaktionsproblemen.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

@@ -1,8 +1,8 @@
 ---
 title: Hochladen eines Ordners oder von Dateien in eine Dokumentbibliothek
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 31688d9a091780cfc7df30ddaf56626015c13d97ba6d6d344cf93b3536c2e0e7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 81832896256f0d6d5addb19759b234c122b78eb0
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910509"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61967247"
 ---
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a>Office Dokumente können nicht in SharePoint oder OneDrive Dokumentbibliotheken gespeichert werden.
 

@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren des Migrations-Managers
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5670"
-ms.openlocfilehash: e5133f0fedbc5fe8feb25aa0e869234619bd5b94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9422f5f74fce016d79a21fa882d35616ae46595c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817099"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61949003"
 ---
 # <a name="configuring-migration-manager"></a>Konfigurieren des Migrations-Managers
 

@@ -1,7 +1,7 @@
 ---
 title: SharePoint-Dokumenten können auf dem lokalen Client nicht geöffnet werden
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000131"
 - "1827"
-ms.openlocfilehash: e63cadee448eca3e0c25a8b584883fe158b1e170cebf07d32301ac9cede51ab2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5d7ca475efca9aa80d1a11f268205ff65757e4eb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060639"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61967970"
 ---
 # <a name="unable-to-open-sharepoint-documents-in-local-client"></a>SharePoint-Dokumenten können auf dem lokalen Client nicht geöffnet werden
 

@@ -1,7 +1,7 @@
 ---
 title: Aktivieren Windows 10 zum ersten Mal oder nach der Neuinstallation
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: fc10b443ef420184281a6872887ea0b9571c7dfb88c684d8399ca0c85e9f4ab3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 54758817d88ee4dc0556d270fe73b842f8e788bb
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937784"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61936805"
 ---
 # <a name="activate-windows-10"></a>Aktivieren Windows 10
 
 **So aktivieren Sie Windows 10 nach der erstmaligen Installation:**
 
-- Sie müssen einen gültigen Product Key verwenden, um Windows 10 auf einem Gerät zu aktivieren, auf dem noch nie eine aktivierte Kopie von Windows 10 war.
+- Sie müssen einen gültigen Product Key verwenden, um Windows 10 auf einem Gerät zu aktivieren, auf dem noch nie eine kopie von Windows 10 aktiviert wurde.
 - Sie benötigen auch einen gültigen Product Key, wenn Sie eine Edition von Windows 10 installieren, die zuvor nicht auf dem Gerät aktiviert wurde. Um beispielsweise Windows 10 Pro auf einem Gerät zu installieren und zu aktivieren, auf dem Windows 10 Home installiert ist, benötigen Sie einen gültigen Windows 10 Pro Product Key.
-- Während der Installation werden Sie aufgefordert, einen gültigen Product Key einzugeben. Nach Abschluss der Installation wird Windows 10 automatisch online aktiviert. Um den Aktivierungsstatus in Windows 10 zu überprüfen, wählen Sie >  **Einstellungen**  >  **&**  >  **Sicherheitsaktivierung** starten aus.
+- Während der Installation werden Sie aufgefordert, einen gültigen Product Key einzugeben. Nach Abschluss der Installation wird Windows 10 automatisch online aktiviert. Um den Aktivierungsstatus in Windows 10 zu überprüfen, wählen Sie >  **"Start Einstellungen**  >  **Update & Security**  >  **Activation"** aus.
 
 **So aktivieren Sie nach der Neuinstallation Windows 10:**
 

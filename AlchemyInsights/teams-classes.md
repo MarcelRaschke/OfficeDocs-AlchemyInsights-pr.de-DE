@@ -1,7 +1,7 @@
 ---
 title: Teams Kurse
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001725"
 - "3829"
-ms.openlocfilehash: 582d5080a826edc23894e29ce3e40083058cc862eb4316ca1c6fa220d751a438
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9473e07a352f0219a0e7bd5f12be35272805f502
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54106764"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61948535"
 ---
 # <a name="teams-classes"></a>Teams Kurse
 

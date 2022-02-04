@@ -1,7 +1,7 @@
 ---
 title: Implementieren von QoS und Überwachen der Anrufqualität in Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 3e333394d3cb3f91ad48f3b443987fba23c7c2a5245b31555ef07ccf09e46be4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd6dd91a8321d8898b15323a24d85aa407ca3f7b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926424"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61969015"
 ---
 # <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implementieren von QoS und Überwachen der Anrufqualität in Teams
 

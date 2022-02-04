@@ -1,7 +1,7 @@
 ---
 title: Aktualisieren der Datenschutz-Einstellungen Ihrer Kamera
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 1d1b5a08ac612b548fb196cf8deaa20fa23218bd94ee9440024d7b1b7561c7b1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5f25a15dcad50c8548c84376ccd9bd65fd65037f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53990742"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61948499"
 ---
 # <a name="update-your-cameras-privacy-settings"></a>Aktualisieren der Datenschutz-Einstellungen Ihrer Kamera
 

@@ -1,7 +1,7 @@
 ---
 title: Datenschutzeinstellungen der Kamera
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005372"
 - "9311"
-ms.openlocfilehash: 885c9b0b08a0040779aee7b2aba7ecceb4e30cc761e6c5a8c8d5d13dde4a2430
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ce7b5b9f1883720c9aa2eac8b4e20964202d594b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071799"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61949975"
 ---
 # <a name="camera-privacy-settings"></a>Datenschutzeinstellungen der Kamera
 

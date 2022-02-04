@@ -1,7 +1,7 @@
 ---
 title: DataProtection – Bitlocker
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 3f6e48b9d2f7562d74d60c2901759a7ab359e5c67bd4aa2d556d941a41ab680c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9728528b9f43922c8fa8a4c1c778c6c67ff51381
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118592"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61969123"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivieren der Bitlocker-Verschlüsselung mit Intune
 
 Intune Endpoint Protection-Richtlinie kann verwendet werden, um BitLocker-Verschlüsselungseinstellungen für Windows Geräte zu konfigurieren. Weitere Informationen finden Sie unter [Windows 10 (und höher) Einstellungen zum Schützen von Geräten mit Intune.](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
 
-Zusätzlich zur Endpoint Protection-Richtlinie gibt es auch einen Verschlüsselungsbericht, der eine detailliertere Ansicht des Verschlüsselungsstatus für Geräte bietet. Auf diesen Bericht kann über das MEM-Portal unter **"Geräte > Überwachen"** zugegriffen werden, und wählen Sie dann unter **"Konfiguration"** den [Bericht "Verschlüsselung"](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)aus.
+Neben der Endpoint Protection-Richtlinie gibt es auch einen Verschlüsselungsbericht, der eine detailliertere Ansicht des Verschlüsselungsstatus für Geräte bietet. Auf diesen Bericht kann über das MEM-Portal unter **"Geräte > Monitor"** zugegriffen werden, und dann unter **"Konfiguration** wählen [Verschlüsselungsbericht"](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)aus.
 
-Wenn Sie feststellen, dass BitLocker nicht wie erwartet aktiviert werden kann oder dass sich das Profil, das zum Aktivieren von BitLocker verwendet wird, in einem Fehlerzustand befindet, lesen Sie den Verschlüsselungsbericht, um ein besseres Verständnis dafür zu erhalten, warum das Verhalten auftritt.
+Wenn Sie feststellen, dass Bitlocker nicht wie erwartet aktiviert werden kann oder dass sich das Profil, das zum Aktivieren von BitLocker verwendet wird, in einem Fehlerzustand befindet, lesen Sie den Verschlüsselungsbericht, um ein besseres Verständnis des Verhaltens zu erhalten.
 
 Ausführliche Informationen zur Interpretation des Berichts einschließlich der verschiedenen Verschlüsselungsstatuswerte finden Sie unter Überwachen der [Geräteverschlüsselung mit Intune.](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)
 

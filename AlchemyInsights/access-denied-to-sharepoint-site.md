@@ -1,7 +1,7 @@
 ---
 title: " Zugriff auf SharePoint-Website verweigert"
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "9000150"
 - "1666"
 - "1806"
-ms.openlocfilehash: 8cd2b110b749a0813b006792e16f1dec770eb5eb357f9dcbaceb74dbf4c2dfb4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 60479496bab235430e13330dec3f230ff219c62f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53955236"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61937191"
 ---
 # <a name="access-denied-to-sharepoint-site"></a>Zugriff auf SharePoint-Website verweigert
 

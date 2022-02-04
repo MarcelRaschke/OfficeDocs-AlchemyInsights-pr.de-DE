@@ -1,5 +1,5 @@
 ---
-title: Outlook Desktoprückruf oder Ersetzen einer E-Mail-Nachricht
+title: Outlook Desktop-Rückruf oder Ersetzen einer E-Mail-Nachricht
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,12 +10,12 @@ ms.service: o365-administration
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 33fe7ebd53d7ff11dbab54ce589aaf58e68c633be4d83a3cdfb00edc7752430e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 23be48ec1e1ae7107e5896e690f3a259dbecb8b3
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918394"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61934556"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Rückruf oder Ersetzen einer Outlook E-Mail-Nachricht
 
@@ -36,6 +36,6 @@ Suchen nach und Löschen von E-Mail-Nachrichten in der Organisation
 
 - Wenn Sie kein globaler Administrator sind, muss Ihr Konto der Rolle "eDiscovery-Manager" oder der Verwaltungsrolle "Compliancesuche" hinzugefügt werden, um nach Nachrichten zu suchen. Um Nachrichten zu löschen, müssen Sie der Rollengruppe "Organisationsverwaltung" oder der Verwaltungsrolle "Suchen und Löschen" beitreten. Berechtigungen für diese Rollen werden im [Security and Compliance Center](https://go.microsoft.com/fwlink/?linkid=2083731)zugewiesen.
 - [Erstellen Sie eine Inhaltssuche,](https://docs.microsoft.com/microsoft-365/compliance/content-search) um die zu löschende Nachricht zu finden.
-- [Verbinden zu Security and Compliance Center PowerShell.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)
+- [Verbinden zu Security and Compliance Center PowerShell.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps&preserve-view=true)
 
-Wenn Sie die mehrstufige Authentifizierung verwenden, lesen Sie [Verbinden zum Microsoft 365 Security and Compliance Center PowerShell mithilfe der mehrstufigen Authentifizierung.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)
+Wenn Sie die mehrstufige Authentifizierung verwenden, lesen Sie [Verbinden zum Microsoft 365 Security and Compliance Center PowerShell mithilfe der mehrstufigen Authentifizierung.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps&preserve-view=true)

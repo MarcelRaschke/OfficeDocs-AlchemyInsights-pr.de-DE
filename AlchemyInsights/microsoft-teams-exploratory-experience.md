@@ -1,7 +1,7 @@
 ---
-title: Microsoft Teams Explorative Erfahrung
-ms.author: pebaum
-author: pebaum
+title: Microsoft Teams Exploratory-Umgebung
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,14 +13,14 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: 96bcd589e03a67acd61e231e777f0d26aae9687dd2c9284babe3e2669343ca5e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5662e1f740bda9ef06aa0a7039f30e3897deb800
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54027049"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61967429"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams Explorative Erfahrung
+# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams Exploratory-Umgebung
 
 - Was ist [Teams Exploratory?](https://docs.microsoft.com/microsoftteams/teams-exploratory) Mit der Microsoft Teams Exploratory-Umgebung können Benutzer in Ihrer Organisation, die nicht für Teams lizenziert sind, eine explorative Teams initiieren. Weitere Informationen finden Sie [in der Teams Exploratory-Umgebung.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
 - [Wie lange dauert die Teams Exploratory-Umgebung?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Die Microsoft Teams Exploratory-Umgebung ist ohne zusätzliche Kosten für 12 Monate (ab der ersten Benutzeranmeldung) plus einer zusätzlichen Karenzzeit von 30 Tagen verfügbar.

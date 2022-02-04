@@ -1,7 +1,7 @@
 ---
 title: Lösungen für Fehler 30088-4
-ms.author: janellem
-author: janellem
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
@@ -13,18 +13,18 @@ ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.custom:
 - "829"
 - "2000020"
-ms.openlocfilehash: ecaad00644fbdf4f8a2658cfe85120bcef7c45fcdfb4e7d1320234c69f9fac80
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6e84fcc2d399ee77c7afab8178a5cc2f3f222dbc
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54050189"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61948571"
 ---
 # <a name="solutions-for-error-30088-4"></a>Lösungen für Fehler 30088-4
 
 Versuchen Sie diese Lösungen, um Fehler [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)zu beheben:
   
-- Starten Sie Ihren Computer neu, und [versuchen Sie, Office](https://portal.office.com/OLS/MySoftware.aspx)zu installieren.
+- Starten Sie Ihren Computer neu, und [versuchen Sie, Office zu installieren.](https://portal.office.com/OLS/MySoftware.aspx)
 
 - Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) herunter, und installieren Sie ihn.
 

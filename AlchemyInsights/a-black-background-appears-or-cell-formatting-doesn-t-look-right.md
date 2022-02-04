@@ -1,8 +1,8 @@
 ---
 title: Ein schwarzer Hintergrund wird angezeigt, oder die Zellenformatierung sieht nicht richtig aus.
-ms.author: pebaum
-author: pebaum
-manager: jecon
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: dd6832e559e721a41b7afaebe97ec551d297a8b99bf1b323a5a5680365eacfac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e470e8086e3e238785e7ac8a6e5a31874b71d4f9
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53917854"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61936132"
 ---
 # <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Ein schwarzer Hintergrund wird angezeigt, oder die Zellenformatierung sieht nicht richtig aus.
 

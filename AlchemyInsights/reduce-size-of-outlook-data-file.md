@@ -1,7 +1,7 @@
 ---
 title: Verringern der Größe ihrer Outlook-Datendatei
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 8/16/2021
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "13636"
-ms.openlocfilehash: 5b0b6ef11f8ae232f3b94d5aae13eb93fd060497
-ms.sourcegitcommit: 2be4a0352cb84a703ebf12966e1c17b64df07364
+ms.openlocfilehash: f3e40006c52f84f428185411e7b298ba35c3d187
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58362382"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61948715"
 ---
 # <a name="reduce-the-size-of-your-outlook-data-file"></a>Verringern der Größe ihrer Outlook-Datendatei
 

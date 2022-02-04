@@ -1,7 +1,7 @@
 ---
 title: Angemeldet bleiben
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/21/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003320"
 - "6216"
-ms.openlocfilehash: 0932e184998f31b2c140a37a6709cf3221a25ae53064f09b484836ea4f29c9fb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c7e94920677ec7c8f06f52b080a89c688b79689c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54021343"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61969375"
 ---
 # <a name="staying-signed-in"></a>Angemeldet bleiben
 

@@ -1,7 +1,7 @@
 ---
 title: Ändern des Namens eines lokalen Kontos oder eines Microsoft-Kontos
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f6463d568fb9ea37e1db27fa8d840d0dec38ddf0
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017815"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61970059"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Ändern des Namens eines lokalen Kontos oder eines Microsoft-Kontos
 

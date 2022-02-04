@@ -1,8 +1,8 @@
 ---
 title: Erstellen einer E-Mail-Signatur in Outlook für Windows
-ms.author: pebaum
-author: pebaum
-manager: dansimp
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9808"
 - "9005728"
-ms.openlocfilehash: 8a1f8d0b1bb0ab38c3facf63c01a5c2ed68ca96d
-ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.openlocfilehash: 4a474fd423cc217ab2d34400284aed871157023f
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/07/2021
-ms.locfileid: "58923769"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61969699"
 ---
 # <a name="create-an-email-signature-in-outlook-for-windows"></a>Erstellen einer E-Mail-Signatur in Outlook für Windows
 

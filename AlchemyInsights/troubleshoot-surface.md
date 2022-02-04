@@ -1,7 +1,7 @@
 ---
 title: Problembehandlung bei Surface
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/14/2021
 audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10024"
 - "9003951"
-ms.openlocfilehash: 7c90dd73c4c552b1e83f494daee0838639ee4e61abf97d5d576f88ded9a4c631
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2c53000fc63a7faae02e1b0662d7aac28aa388b2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038885"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61949255"
 ---
 # <a name="troubleshoot-surface"></a>Problembehandlung bei Surface
 

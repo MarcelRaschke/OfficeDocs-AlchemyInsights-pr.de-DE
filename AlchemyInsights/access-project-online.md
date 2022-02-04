@@ -1,7 +1,7 @@
 ---
 title: Auf Project Online zugreifen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "5723"
-ms.openlocfilehash: 803c72aac296c1610702cf6bd31cc8b3fa50d0ffa5321a8637186992bd51de3f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35a20d6140054f4dde4b6cc5f8c26d1131462307
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53955128"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61937143"
 ---
 # <a name="access-project-online"></a>Auf Project Online zugreifen
 

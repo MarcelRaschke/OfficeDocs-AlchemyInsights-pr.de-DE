@@ -15,12 +15,12 @@ ms.custom:
 - "9002459"
 - "4764"
 ms.date: 04/14/2021
-ms.openlocfilehash: 9d090a74293dd45b4468731f847e9347ba00c440
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 30d704eacde47180df3d8ab119fa535daf21b0b0
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844997"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61967502"
 ---
 # <a name="license-not-working"></a>Die Lizenz funktioniert nicht
 
@@ -30,7 +30,7 @@ Im Folgenden werden einige Validierungen aufgeführt, die Sie ausprobieren könn
 
 - Versuchen Sie, die Produktlizenz zu aktivieren und zu deaktivieren, und schauen Sie, ob das Problem dadurch behoben wird. 
 
-- Wenn Sie keine zugewiesene Lizenz sehen, stellen Sie sicher, dass den Benutzern Lizenzen zugewiesen sind; siehe [Zuweisen von Lizenzen an Benutzer](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Wenn Sie keine zugewiesene Lizenz sehen, stellen Sie sicher, dass den Benutzern Lizenzen zugewiesen sind; siehe [Zuweisen von Lizenzen an Benutzer](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 - Überprüfen Sie, ob Ihr Abonnement abgelaufen ist, und verlängern Sie es gegebenenfalls; siehe [Reaktivieren Sie Ihr Abonnement](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription). 
 

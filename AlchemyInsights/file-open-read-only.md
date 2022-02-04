@@ -1,7 +1,7 @@
 ---
 title: Datei schreibgeschützt öffnen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b4baf5c1799ae7cc70255c2a881dec156b4d735b
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029803"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61968474"
 ---
 # <a name="file-open-read-only"></a>Datei schreibgeschützt öffnen
 
@@ -38,11 +38,11 @@ Dateien aus dem Internet und von anderen potenziell unsicheren Speicherorten kö
   
  **Ist OneDrive voll?**
   
-Wenn die Datei auf OneDrive gespeichert ist und Ihr OneDrive Speicherplatz voll ist, können Sie das Dokument erst speichern, wenn Sie sich unter dem zugewiesenen Speicherplatz befinden. Sie können Ihren freien Speicherplatz auf OneDrive überprüfen, indem Sie im Info-Center auf das symbol OneDrive klicken und "Speicher verwalten" auswählen, oder Sie können zu [https://onedrive.live.com](https://onedrive.live.com) ", sich anmelden" und die Menge des verwendeten Speicherplatzes in der unteren linken Ecke des Bildschirms notieren.
+Wenn die Datei auf OneDrive gespeichert ist und Ihr OneDrive Speicherplatz voll ist, können Sie das Dokument erst speichern, wenn Sie sich unter dem zugewiesenen Speicherplatz befinden. Sie können Ihren freien Speicherplatz auf OneDrive überprüfen, indem Sie im Benachrichtigungscenter auf das Symbol OneDrive klicken und "Speicher verwalten" auswählen, oder Sie können zu [https://onedrive.live.com](https://onedrive.live.com) ", sich anmelden" und die Menge des verwendeten Speicherplatzes in der unteren linken Ecke des Bildschirms notieren.
   
  **Ist Office aktiviert?**
   
-Wenn Office nicht aktiviert ist oder Ihr Abonnement abgelaufen ist, können Sie sich im schreibgeschützten Modus mit eingeschränkter Funktionalität befinden. Informationen zum Aktivieren Office finden Sie unter: [Nicht lizenziertes Produkt und Aktivierungsfehler in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Wenn Office nicht aktiviert ist oder Ihr Abonnement abgelaufen ist, können Sie sich im schreibgeschützten Modus mit eingeschränkter Funktionalität befinden. Informationen zum Aktivieren von Office finden Sie unter: [Nicht lizenziertes Produkt und Aktivierungsfehler in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Wenn alle anderen Fehler auftreten...**
   

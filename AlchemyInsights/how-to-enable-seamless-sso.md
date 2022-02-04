@@ -1,7 +1,7 @@
 ---
 title: So aktivieren Sie nahtloses SSO
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 0659d3fe017d7c77b936d80a308bcb56f94ee322029f79ee095ebeec0b8ea7c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a31607dd91e4ad4197f6d0ae08d2a3a6431d4ad2
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963426"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61950533"
 ---
 # <a name="how-to-enable-seamless-sso"></a>So aktivieren Sie nahtloses SSO
 

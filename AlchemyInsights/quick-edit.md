@@ -1,7 +1,7 @@
 ---
 title: QuickEdit
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003088"
 - "5841"
-ms.openlocfilehash: 74a78835090531e10a1331812f0a5202b4a252600c589e4f08ff891398a3cc3d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 87436e247fa3d20c3cc8fbe00e3e7e6c6d2a5458
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53959574"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61968871"
 ---
 # <a name="quick-edit"></a>QuickEdit
 

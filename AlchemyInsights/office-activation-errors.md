@@ -1,7 +1,7 @@
 ---
 title: Office-Aktivierungsfehler
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 219836e3e71f9e0def27449bf1de519a1a611c9f1823dfd2b918f93345ccdc6a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 12908ae3e05d81871eafe7b96d52ed8def7bd173
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076461"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61968330"
 ---
 # <a name="office-activation-errors"></a>Office-Aktivierungsfehler
 

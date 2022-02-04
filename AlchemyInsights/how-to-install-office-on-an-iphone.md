@@ -1,7 +1,7 @@
 ---
 title: So installieren Sie Office auf einem iPhone
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
@@ -13,12 +13,12 @@ ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.custom:
 - "753"
 - "2000016"
-ms.openlocfilehash: 8317359c43e8fefe794168e9264d2dc031155a3a7f6aa4e619ce4925b783ef62
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cb208c4599f53bccbb070e428df8d52faa7a1bb7
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54002267"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61950263"
 ---
 # <a name="how-to-install-office-on-an-iphone"></a>So installieren Sie Office auf einem iPhone
 

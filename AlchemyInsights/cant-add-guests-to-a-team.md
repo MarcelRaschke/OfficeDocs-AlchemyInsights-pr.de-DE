@@ -1,7 +1,7 @@
 ---
 title: Sie können einem Team keine Gäste hinzufügen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003558"
 - "6657"
-ms.openlocfilehash: 70f0ab311358c88b4817a810956942bf88d9444fa850a5216736eb657189d5a5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3c4a4167ca38f9d0c7fa88b68cbd6b35b9b3c622
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53996089"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61967138"
 ---
 # <a name="cant-add-guests-to-a-team"></a>Sie können einem Team keine Gäste hinzufügen
 

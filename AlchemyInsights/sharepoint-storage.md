@@ -1,7 +1,7 @@
 ---
 title: Verwalten Ihres SharePoint Onlinespeichers
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 6742252a3424487ad0dbe16aa7e3a8ffe53609cf
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 4517074bd4c7d521673895f641ffc05f5a422a8d
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318051"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61936265"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Verwalten Ihres SharePoint Onlinespeichers
 

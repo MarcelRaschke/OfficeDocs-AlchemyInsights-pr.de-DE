@@ -1,7 +1,7 @@
 ---
 title: Ändern der Größe und Anfügen von Bildern unter Android
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 47eb83537d32b4ef966ddb9a9107c2535287730b3bb7bd75b32c894c6411aeca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7f2388d8598bf0688b42ebe9fa345e4d62328241
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54110499"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61934796"
 ---
 # <a name="resize-and-attach-images-on-android"></a>Ändern der Größe und Anfügen von Bildern unter Android
 

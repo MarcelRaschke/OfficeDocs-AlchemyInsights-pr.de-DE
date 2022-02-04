@@ -1,7 +1,7 @@
 ---
 title: Abschalten des Azure Rights Management Service (RMS)
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5070"
 - "9002278"
-ms.openlocfilehash: 9347eb827c5225042b4c84a4a324c8dcba2b5403bf033b86b498047ba696bfce
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1aa438781dfa1c05fb224739a3e36a67410c264c
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031801"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61935544"
 ---
 # <a name="decommission-azure-rights-management-service-rms"></a>Abschalten des Azure Rights Management Service (RMS)
 

@@ -1,7 +1,7 @@
 ---
 title: Ändern von Zahlungsinformationen in Azure
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: 3366603742560817eb722bd90c04fba2935bb110
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232bf39bb51b86628f2cd971cbb1f9a9cd46ff09
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820717"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61967934"
 ---
 # <a name="change-payment-information-in-azure"></a>Ändern von Zahlungsinformationen in Azure
 
