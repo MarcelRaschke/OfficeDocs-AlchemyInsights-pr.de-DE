@@ -7,19 +7,14 @@ ms.date: 03/24/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9003257"
-- "9890"
-ms.openlocfilehash: 089a92756e0832656c5e866a8b72cc35bb1324e3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61940825"
+  - 9003257
+  - 9890
 ---
+
 # <a name="azure-active-directory-join"></a>Azure Active Directory Beitreten
 
 1. Wenn Sie Geräteregistrierungen zum ersten Mal einrichten, stellen Sie sicher, dass Sie die Einführung in die [Geräteverwaltung in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview) überprüft haben, die Sie darüber informieren, wie Sie Geräte unter die Kontrolle Azure AD. 

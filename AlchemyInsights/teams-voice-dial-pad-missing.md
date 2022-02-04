@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2641"
-- "9000719"
-ms.openlocfilehash: 358f9b157125d36d6ffa85402386db94086071d2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61940861"
+  - 2641
+  - 9000719
 ---
+
 # <a name="dial-pad-is-missing-in-microsoft-teams"></a>Wähltastatur fehlt in Microsoft Teams 
 
 Wenn Ihre Wähltastatur in Microsoft Teams fehlt, überprüfen Sie Folgendes:

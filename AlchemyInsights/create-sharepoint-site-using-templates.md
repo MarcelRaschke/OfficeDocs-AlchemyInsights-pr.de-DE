@@ -6,18 +6,13 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom: null
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: d12b0aa45aaa7a98dbe7ee6b42f9af3f458db1f9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61953272"
 ---
+
 # <a name="create-sharepoint-sites-using-templates"></a>Erstellen SharePoint Websites mithilfe von Vorlagen
 
 Die Möglichkeit, eine Website als Vorlage zu speichern, wird von modernen Kommunikations- oder Teamwebsites nicht unterstützt. Weitere Informationen zur Verwendung von Vorlagen finden Sie unter [Speichern, Herunter- und Hochladen einer SharePoint-Website als Vorlage](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).

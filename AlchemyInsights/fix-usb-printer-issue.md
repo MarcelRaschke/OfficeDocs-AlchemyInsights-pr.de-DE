@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "3482"
-- "9001214"
-ms.openlocfilehash: 275391a147930e40d4e22a0c27ec63ebb17fcf44
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61954605"
+  - 3482
+  - 9001214
 ---
+
 # <a name="fix-usb-printer-connection-issues"></a>Beheben von Problemen mit der USB-Druckerverbindung
 
 Führen Sie die folgenden Schritte zur **Problembehandlung** aus, um ihren USB-Drucker wieder funktionsfähig zu machen:

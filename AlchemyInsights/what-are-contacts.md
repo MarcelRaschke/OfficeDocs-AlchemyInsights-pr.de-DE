@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9002613"
-- "5043"
-ms.openlocfilehash: 06180fd42f87e7380c2d33a5780814ec747f7414
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952624"
+  - 9002613
+  - 5043
 ---
+
 # <a name="what-are-contacts"></a>Was sind Kontakte?
 
 Es gibt eine Reihe von Möglichkeiten, mit Kontakten in Microsoft 365 zu arbeiten, und vieles hängt davon ab, wie Sie Kontakte nutzen.

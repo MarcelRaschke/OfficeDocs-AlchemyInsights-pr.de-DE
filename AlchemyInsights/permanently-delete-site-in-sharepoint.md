@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
-ms.custom: ''
+ms.custom: null
 ms.assetid:
-- "5200006"
-- "4391"
-ms.openlocfilehash: 1c896aa30fbe09b71f1fed94436deb9058baab62
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61956012"
+  - 5200006
+  - 4391
 ---
+
 # <a name="permanently-delete-a-site-in-sharepoint"></a>Endgültiges Löschen einer Site in SharePoint
 
 Um eine URL von einer gelöschten Site wiederzuverwenden (zum Neuerstellen einer Site) oder um eine Site endgültig zu löschen, weil sie nicht mehr verwendet wird, können Sie **Endgültig löschen** im neuen SharePoint Admin Center verwenden. 

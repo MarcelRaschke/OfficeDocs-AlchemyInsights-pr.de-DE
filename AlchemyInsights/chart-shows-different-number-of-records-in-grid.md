@@ -7,19 +7,14 @@ ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "5611"
-- "9002930"
-ms.openlocfilehash: 6cf6cd7fdef66abee251c7a1dab3c22b70cf3bc5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61954245"
+  - 5611
+  - 9002930
 ---
+
 # <a name="chart-shows-different-number-of-records-in-grid"></a>Diagramm mit einer unterschiedlichen Anzahl von Datensätzen im Raster
 
 **Symptom**

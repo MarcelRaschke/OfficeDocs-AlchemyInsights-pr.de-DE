@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9000702"
-- "2601"
-ms.openlocfilehash: 306920f77f1f8694d3d4846a1e17a29cf2a0aeff
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61955398"
+  - 9000702
+  - 2601
 ---
+
 # <a name="skype-for-business-common-issues-and-resolutions"></a>Skype for Business häufig auftretende Probleme und Lösungen 
 
 Stellen Sie für bestimmte Fragen zu Skype for Business Ihre Frage kurz neu, um Ihr Problem zu beschreiben, z. B. Fehler, features, die Sie verwenden usw. 

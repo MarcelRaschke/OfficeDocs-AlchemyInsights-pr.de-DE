@@ -7,18 +7,13 @@ ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom: null
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: 9450bfd296a2d195bddbee151ec0255bb0aadb3c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61955038"
 ---
+
 # <a name="how-to-enable-microsoft-to-do"></a>So aktivieren Sie Microsoft To-Do
 
 Um Microsoft To-Do verwenden zu können, muss ein Administrator die App für jedes Benutzerkonto aktivieren. Wechseln Sie zur [Seite &amp; "Dienste-Add-Ins"](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) auf der Seite Microsoft 365 Administratoreinstellungen, um To-Do für jeden Benutzer zu aktivieren.

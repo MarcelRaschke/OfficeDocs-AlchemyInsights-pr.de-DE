@@ -7,19 +7,14 @@ ms.date: 04/14/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "7009"
-- "9003951"
-ms.openlocfilehash: 01f7f19538e85fea03e9d78c260a201daafadb2e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61955218"
+  - 7009
+  - 9003951
 ---
+
 # <a name="app-compatibility-with-microsoft-surface-pro-x"></a>App-Kompatibilität mit Microsoft Surface Pro X
 
 Anwendungen werden auf Geräten wie dem Surface Pro X unterschiedlich ausgeführt. Die meisten Apps sind kompatibel, es gibt jedoch einige Einschränkungen. Im Folgenden finden Sie eine Liste der Probleme, die beim Ausführen einer Anwendung auftreten könnten: 

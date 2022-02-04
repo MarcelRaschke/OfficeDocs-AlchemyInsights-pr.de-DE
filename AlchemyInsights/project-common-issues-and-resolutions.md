@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9001502"
-- "3559"
-ms.openlocfilehash: 0bbe2503f1e8aab15375e5c42504a859dd3c3014
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61955506"
+  - 9001502
+  - 3559
 ---
+
 # <a name="project-common-issues-and-resolutions"></a>Project häufig auftretende Probleme und Lösungen
 
 Hier sind einige häufig angeforderte Themen mit Project:

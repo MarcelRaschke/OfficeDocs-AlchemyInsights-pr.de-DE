@@ -6,18 +6,13 @@ manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.custom:
-- "1484"
-- "6200024"
-ms.openlocfilehash: 3119e793ab1dd4aaa480c73ef2fdbadfe57bf270
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61953957"
+  - 1484
+  - 6200024
 ---
+
 # <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Falsches Dashboard in der einheitlichen Dynamics 365-Schnittstelle
 
 Es gibt mehrere Gründe, warum Sie möglicherweise ein anderes Dashboard sehen als das, das Sie erwarten:

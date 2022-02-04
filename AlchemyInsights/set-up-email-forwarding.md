@@ -6,20 +6,15 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "20"
-- "1200004"
+  - 20
+  - 1200004
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 5972269a4ce89d76c64fa089e5ebf3dd3ba043dc
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61953488"
 ---
+
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Überprüfen der E-Mail-Weiterleitungseinstellungen für ein Postfach
 
 Zunächst muss die E-Mail-Weiterleitung auf Mandantenebene aktiviert sein. Wenn Sie die E-Mail-Weiterleitung für ein Postfach eingerichtet haben, es aber nicht funktioniert (Sie erhalten den Fehler **"550 5.7.520 Zugriff verweigert, Ihre Organisation lässt keine externe Weiterleitung zu"**) siehe "Steuern der [automatischen externen E-Mail-Weiterleitung in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

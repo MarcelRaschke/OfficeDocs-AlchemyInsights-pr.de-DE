@@ -7,19 +7,14 @@ ms.date: 09/21/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9000731"
-- "13856"
-ms.openlocfilehash: f842fc7af081ed1beac7bd73e57539dd99338c41
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61955074"
+  - 9000731
+  - 13856
 ---
+
 # <a name="call-queues-in-microsoft-teams"></a>Anrufwarteschleifen in Microsoft Teams
 
 Benötigen Sie Hilfe beim Einrichten einer automatischen Cloudtelefonzentrale? Ihr Abonnement von mehr als 150 berechtigten Lizenzen umfasst den Zugriff auf FastTrack Spezialisten, um Sie remote beim Einrichten und Konfigurieren von Telefonsystemfunktionen wie der automatischen Cloudtelefonzentrale zu unterstützen.

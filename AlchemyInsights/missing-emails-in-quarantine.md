@@ -6,18 +6,12 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "5668"
-- "9002625"
-ms.openlocfilehash: b94981c055b8c67de59c83233c5df32966ea16d4
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61953020"
+  - 5668
+  - 9002625
 ---
 # <a name="missing-emails-in-quarantine"></a>Fehlende E-Mails in Quarantäne
 

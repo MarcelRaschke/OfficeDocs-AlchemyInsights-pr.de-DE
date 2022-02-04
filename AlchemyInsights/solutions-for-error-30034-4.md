@@ -7,20 +7,15 @@ ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "836"
-- "2000020"
+  - 836
+  - 2000020
 ms.assetid: 02266d4a-f703-43da-9899-277d3664a447
-ms.openlocfilehash: 63922476334cddd6a79ddf901163a9bd78a22db0
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61955868"
 ---
+
 # <a name="solutions-for-error-30034-4"></a>Lösungen für Fehler 30034-4
 
 Versuchen Sie diese Lösungen, um Fehler [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)zu beheben:

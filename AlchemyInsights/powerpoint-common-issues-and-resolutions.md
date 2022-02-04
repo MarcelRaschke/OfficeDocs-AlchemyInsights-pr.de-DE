@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9001698"
-- "3776"
-ms.openlocfilehash: 439682fffa69f929ae9658512559e4dd706dbb33
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61953524"
+  - 9001698
+  - 3776
 ---
+
 # <a name="powerpoint-common-issues-and-resolutions"></a>PowerPoint häufig auftretende Probleme und Lösungen
 
 Hier sind einige häufig angeforderte Themen mit PowerPoint:

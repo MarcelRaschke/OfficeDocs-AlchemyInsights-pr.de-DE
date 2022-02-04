@@ -6,20 +6,15 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "4000008"
-- "2646"
-- "1432"
-ms.openlocfilehash: 556f153dd23a3f9b168e3817d31a33edf98e47d0
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61954533"
+  - 4000008
+  - 2646
+  - 1432
 ---
+
 # <a name="allow-external-communications-with-skype-for-business"></a>Externe Kommunikation mit Skype for Business zulassen 
 
 Möchten Sie Ihren Skype for Business Benutzern erlauben, Benutzer außerhalb Ihrer Organisation zu kontaktieren? Siehe [Zulassen, dass Benutzer externe Skype for Business Benutzer kontaktieren.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)

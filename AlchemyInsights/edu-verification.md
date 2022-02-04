@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "1500009"
-- "5578"
-ms.openlocfilehash: 31be9d4efadb808b584f627b233ebf5325e482d4
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61953813"
+  - 1500009
+  - 5578
 ---
+
 # <a name="edu-verification"></a>EDU-Überprüfung
 
 In den meisten Fällen werden Anträge zur Überprüfung der Bezugsberechtigung innerhalb von 24–48 Stunden bearbeitet. Einige Anträge erfordern möglicherweise eine gründlichere Prüfung und können bis zu 10 Werktage in Anspruch nehmen. Nach Abschluss senden wir Ihnen eine E-Mail mit dem Berechtigungsstatus ihrer Schule.

@@ -7,20 +7,15 @@ ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "3174"
-- "9000210"
-ms.assetid: ''
-ms.openlocfilehash: f86789ca96c4eac522e51d34f10f9fa9ab15e456
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952912"
+  - 3174
+  - 9000210
+ms.assetid: null
 ---
+
 # <a name="restore-a-deleted-onedrive-site"></a>Wiederherstellen einer gelöschten OneDrive Website
 
 Wenn Sie einen Benutzer im Microsoft 365 Admin Center löschen (oder wenn ein Benutzer über die Active Directory-Synchronisierung entfernt wird), wird dessen OneDrive für die von Ihnen im OneDrive Admin Center angegebene Anzahl von Tagen aufbewahrt. (Weitere Informationen finden Sie unter [Festlegen der Standarddateiaufbewahrung für gelöschte OneDrive Benutzer.)](https://docs.microsoft.com/onedrive/set-retention)

@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9001515"
-- "3573"
-ms.openlocfilehash: cc4c20be85d82b9fd6860b552a0d41591745d34c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61954569"
+  - 9001515
+  - 3573
 ---
+
 # <a name="fix-windows-update-errors"></a>Beheben Windows Updatefehler
 
 Wenn beim Herunterladen und Installieren Windows Updates ein Fehlercode angezeigt wird, kann die **Problembehandlung beim** Beheben des Problems helfen.

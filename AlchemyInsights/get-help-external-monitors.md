@@ -7,19 +7,14 @@ ms.date: 03/16/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9748"
-- "9005385"
-ms.openlocfilehash: a266e9ba0f7b62165809968b471347152de56a89
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61954894"
+  - 9748
+  - 9005385
 ---
+
 # <a name="get-help-with-external-monitors"></a>Hilfe für externe Monitore anfordern
 
 Sie können Ihre Project-Einstellungen einfach öffnen, indem Sie gleichzeitig die folgenden Tasten drücken:

@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "3156"
-- "9001196"
-ms.openlocfilehash: c40053e413f09abc7e0ec80f7412e316ff10a9c2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952588"
+  - 3156
+  - 9001196
 ---
+
 # <a name="fix-email-delivery-issues-for-error-code-5723"></a>Beheben von Problemen bei der E-Mail-Zustellung für Fehlercode 5.7.23
 
 Überprüfen Sie den SPF-DNS-Eintrag für Ihre Domäne bei einer öffentlich verfügbaren SPF- oder DNS-Eintragsprüfung im Web.

@@ -7,19 +7,14 @@ ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "7071"
-- "9004013"
-ms.openlocfilehash: 4a031248468652740781459d2251c683314b9272
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61955542"
+  - 7071
+  - 9004013
 ---
+
 # <a name="microsoft-graph-rest-api-interface"></a>Microsoft Graph-REST-API-Schnittstelle
 
 Die Graph API-Sätze auf dem v1.0-Endpunkt befinden sich im Status der allgemeinen Verfügbarkeit (GA) und haben einen strengen Überprüfungs- und Feedbackprozess mit Kunden durchlaufen, um praktische Produktionsanforderungen zu erfüllen.

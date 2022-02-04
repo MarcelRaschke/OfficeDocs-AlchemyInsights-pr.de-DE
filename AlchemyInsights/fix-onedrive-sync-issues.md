@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
 ms.custom:
-- "824"
-- "5800003"
-ms.openlocfilehash: b9502e4ce7877a1266b35e662ec2dd8edab89dc8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61953164"
+  - 824
+  - 5800003
 ---
+
 # <a name="fix-onedrive-sync-problems"></a>Beheben von Problemen bei der OneDrive-Synchronisation
 
 Wenn OneDrive nicht so synchronisiert wird, wie Sie oder Ihre Benutzer es erwarten, verwenden Sie die folgenden Ressourcen für die Problembehandlung.

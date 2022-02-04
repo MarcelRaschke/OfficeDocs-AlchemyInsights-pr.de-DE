@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9002909"
-- "5589"
-ms.openlocfilehash: 0d11fa4444cdda544355243c16f2df60dd84d206
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61953200"
+  - 9002909
+  - 5589
 ---
+
 # <a name="domains"></a>Domänen
 
 - **Verifizieren Sie Ihre Domäne** im Admin Center mit dem [Assistenten zum Hinzufügen von Domänen](https://admin.microsoft.com/Adminportal#/Domains/Wizard). Weitere Hilfe finden Sie unter [Hinzufügen einer Domäne zu Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).

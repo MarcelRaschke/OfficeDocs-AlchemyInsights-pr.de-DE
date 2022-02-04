@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2723"
-- "9000779"
-ms.openlocfilehash: 38033bb41c20a1a40ab8a0a49fffc782e9b69bd3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61954930"
+  - 2723
+  - 9000779
 ---
+
 # <a name="commonly-requested-content-for-excel"></a>Häufig angeforderte Inhalte für Excel
 
 Um eine präzisere Antwort auf Ihre Excel Frage zu geben, müssen Sie die Frage kurz umformulieren, um Ihr Problem zu beschreiben, einschließlich aller Fehler, Features, die Sie verwenden usw. 

@@ -7,19 +7,14 @@ ms.date: 04/16/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "10964"
-- "3100005"
-ms.openlocfilehash: 64adf7fc7247eb2a0730bf4ee665e6a09de6b24f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952876"
+  - 10964
+  - 3100005
 ---
+
 # <a name="retrieve-the-audit-logs"></a>Abrufen der Überwachungsprotokolle
 
 Wenn Sie das Überwachungsprotokoll zum ersten Mal öffnen, ist es leer. Sie müssen eine Suche durchführen, um zu sehen, was da ist. So führen Sie eine allgemeine Suche nach allen Aktivitäten durch:

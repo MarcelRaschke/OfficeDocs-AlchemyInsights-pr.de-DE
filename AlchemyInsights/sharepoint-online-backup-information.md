@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9000277"
-- "4838"
-ms.openlocfilehash: 77ad37806832d1c1aa411d9f6f3bba410e0f4832
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952768"
+  - 9000277
+  - 4838
 ---
+
 # <a name="sharepoint-online-backup-information"></a>SharePoint Online-Sicherungsinformationen
 
 Weitere Informationen zur Resilienz von Microsoft Office SharePoint Online und OneDrive finden Sie unter:

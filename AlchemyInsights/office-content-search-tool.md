@@ -6,18 +6,13 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
-ms.assetid: ''
-ms.openlocfilehash: f9a2f9304ccac311a824471ca49957988eb64f62
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952984"
+ms.assetid: null
 ---
+
 # <a name="content-search-tool-to-find-relevant-info"></a>Tool für die Inhaltssuche, um relevante Informationen zu finden
 
 Verwenden Sie das Tool für die Inhaltssuche im Security & Compliance Center, um E-Mails in Exchange Postfächern, Dokumenten in SharePoint Websites und OneDrive Speicherorten sowie Chatunterhaltungen in Skype for Business schnell zu finden. Sie können das Tool für die Inhaltssuche verwenden, um in Microsoft 365 Tools für die Zusammenarbeit wie Microsoft Teams und Microsoft 365 Gruppen nach E-Mails, Dokumenten und Chatunterhaltungen zu suchen.

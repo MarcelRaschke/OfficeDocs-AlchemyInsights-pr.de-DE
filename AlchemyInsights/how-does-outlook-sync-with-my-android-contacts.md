@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9001115"
-- "3076"
-ms.openlocfilehash: 1a220add44de59cfd98eae59644ca8b9c679845f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61954497"
+  - 9001115
+  - 3076
 ---
+
 # <a name="how-does-outlook-sync-with-my-android-contacts"></a>Wie wird Outlook mit meinen Android-Kontakten synchronisiert?
 
 Wenn Sie eine E-Mail in Outlook verfassen, suchen wir sowohl aus Ihrem Android-Adressbuch als auch aus Ihrem Outlook Adressbuch nach Empfängern. Darüber hinaus haben Sie die Möglichkeit, Kontakte aus Ihren E-Mail-Konten mit Ihrem Android-Adressbuch für die Verwendung in anderen Apps zu synchronisieren. 

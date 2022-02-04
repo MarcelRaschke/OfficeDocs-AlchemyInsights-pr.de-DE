@@ -7,18 +7,13 @@ ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom: null
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: 2ea8b8a5b4bb08268d394fae9261aaf1efee641d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61953452"
 ---
+
 # <a name="whats-a-hub-site"></a>Was ist eine Hubwebsite?
 
 Eine Hubwebsite hilft Ihnen, Websites zu organisieren und ihnen eine gemeinsame Navigation und ein gemeinsames Branding zu bieten. Globale oder SharePoint Administratoren können Hubwebsites erstellen und angeben, welche Benutzer ihre Websites der Hubwebsite zuordnen können. Weitere Informationen finden Sie unter [SharePoint Hubwebsites.](https://go.microsoft.com/fwlink/?linkid=869388)

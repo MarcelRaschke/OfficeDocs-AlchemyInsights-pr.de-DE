@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9003021"
-- "5757"
-ms.openlocfilehash: a26729effc55bff8165dc3627c02665668fd02e6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61941029"
+  - 9003021
+  - 5757
 ---
+
 # <a name="resolving-billing-and-payment-errors"></a>Beheben von Fehlern bei Abrechnung und Zahlung
 
 Nachfolgend finden Sie einige häufige Szenarien im Zusammenhang mit Fehlern bei Abrechnung und Zahlung.

@@ -6,16 +6,11 @@ manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: 21a996629f7a5849a4b6a435100f6601f5e249e6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61954389"
 ---
+
 # <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: Problembehandlung bei der Verarbeitung von Änderungen
 
 Wenn "Änderungen verarbeiten" über einen längeren Zeitraum angezeigt wird, kann dies darauf zurückzuführen sein, dass eine Onlinedatei geöffnet ist, eine Reihe von Dateien in einer Warteschlange hängen bleibt oder eine sehr große Dateisynchronisierung durchgeführt wird. Weitere Informationen finden [Sie unter OneDrive: Problembehandlung bei "Verarbeitungsänderungen",](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) um dieses Problem zu beheben.

@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2584"
-- "9000691"
-ms.openlocfilehash: ff9720023a664800d967eeac486ed4bd100b43f9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952840"
+  - 2584
+  - 9000691
 ---
+
 # <a name="reinstall-or-roll-back-office"></a>Erneutes Installieren oder Zurücksetzen Office
 
 Wenn nach einem kürzlichen Update auf die Office Suite allgemeine Probleme auftreten, können Sie das Problem möglicherweise beheben, indem Sie eine Neuinstallation von Office durchführen oder zur vorherigen Version von Office zurückkehren.

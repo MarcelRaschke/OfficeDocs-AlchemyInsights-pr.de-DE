@@ -7,19 +7,14 @@ ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "3202"
-- "9001221"
-ms.openlocfilehash: 98be5b15910d9d6dd6fb6b08f68960210f762a0a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61954786"
+  - 3202
+  - 9001221
 ---
+
 # <a name="seeing-a-false-alert"></a>Anzeigen einer falschen Warnung
 
 - Senden Sie eine Datei zur Analyse an Microsoft. Weitere Informationen finden Sie unter [Was tun bei falsch positiven/negativen Warnungen in Microsoft Defender Antivirus?](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/antivirus-false-positives-negatives#submit-a-file-to-microsoft-for-analysis).

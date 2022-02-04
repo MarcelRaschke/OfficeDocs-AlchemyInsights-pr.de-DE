@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9002325"
-- "4514"
-ms.openlocfilehash: 64d23801496ca3b4de802b1a6e2558d877a8cb9d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61954209"
+  - 9002325
+  - 4514
 ---
+
 # <a name="common-password-issues-and-resolutions"></a>Häufige Kennwortprobleme und Lösungen
 
 Hier finden Sie einige häufige Kennwortprobleme und Lösungen:

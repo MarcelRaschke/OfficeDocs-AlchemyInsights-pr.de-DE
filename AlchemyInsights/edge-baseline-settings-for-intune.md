@@ -7,19 +7,14 @@ ms.date: 06/04/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9006500"
-- "11141"
-ms.openlocfilehash: 31e25927d3f19cff08c37ece5fcd676ae1cc7d73
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61953921"
+  - 9006500
+  - 11141
 ---
+
 # <a name="use-microsoft-edge-baseline-settings-for-microsoft-intune"></a>Verwenden Microsoft Edge Basiseinstellungen für Microsoft Intune
 
 Der Bereich "Versionen" einer Sicherheitsbaseline enthält eine Liste der einzelnen Versionen der Baseline, die Sie bereitgestellt haben. Diese Liste enthält die neuesten und aktiven Versionen des Basisplans.

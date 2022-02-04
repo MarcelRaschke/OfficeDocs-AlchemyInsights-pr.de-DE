@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "9000292"
-- "5808"
-ms.openlocfilehash: 367257077006f161fcdd8d92b83679d827b17bb5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952732"
+  - 9000292
+  - 5808
 ---
+
 # <a name="sharepoint-online-site-management"></a>SharePoint Onlinewebsiteverwaltung
 
 Hier sind einige häufig angeforderte Themen für SharePoint Onlinewebsiteverwaltung:

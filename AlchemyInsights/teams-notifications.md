@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9002463"
-- "5050"
-ms.openlocfilehash: 26e3906203cffcfc72132de2f0afac9d16910c8a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952660"
+  - 9002463
+  - 5050
 ---
+
 # <a name="teams-notifications-faq"></a>Teams-Benachrichtigungen – Häufig gestellte Fragen
 
 

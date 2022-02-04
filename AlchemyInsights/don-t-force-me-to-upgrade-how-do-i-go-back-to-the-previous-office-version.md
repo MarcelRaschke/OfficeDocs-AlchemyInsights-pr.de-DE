@@ -7,20 +7,15 @@ ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "265"
-- "2200012"
+  - 265
+  - 2200012
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: ba6b11f26ec15202f682aaa9b286d78ed6b411a3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61954137"
 ---
+
 # <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Zwingen Sie mich nicht zum Upgrade. Wie gehe ich zur vorherigen Office-Version zurück?
 
 Beim Öffnen einer Office-Datei kann die Testversion eines Office-App anstelle einer anderen Version geöffnet werden. Dies geschieht, wenn Sie über die Microsoft 365 Testversion verfügen.

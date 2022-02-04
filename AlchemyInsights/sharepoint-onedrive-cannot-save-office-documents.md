@@ -6,18 +6,13 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom: null
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 0e81c0ec11f66299dd1624c902bb83d5d041d6d4
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61955434"
 ---
+
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-library"></a>Office Dokumente können nicht in SharePoint oder OneDrive Dokumentbibliothek gespeichert werden.
 
 Wenn Sie Probleme beim Speichern von Office Dokumenten in SharePoint oder OneDrive Dokumentbibliotheken haben, finden Sie hier einige Hilfreiche Informationen.

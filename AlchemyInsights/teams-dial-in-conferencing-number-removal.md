@@ -6,19 +6,14 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9002248"
-- "4352"
-ms.openlocfilehash: c03d754bd0016c73daca922b4491aceacc8ad70b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61955326"
+  - 9002248
+  - 4352
 ---
+
 # <a name="teams-dial-in-conferencing-number-removal"></a>Entfernen einer Teams-Konferenzeinwahlnummer
 
 Benötigen Sie Hilfe beim Entfernen einer Konferenzeinwahlnummer aus Ihrer Konferenzbrücke? Handelt es sich bei der Nummer, die Sie entfernen möchten, um die aktuelle Standardnummer? Wenn dies der Fall ist, müssen Sie zuerst die Standardnummer der Konferenzbrücke ändern.

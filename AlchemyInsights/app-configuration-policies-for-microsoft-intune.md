@@ -1,26 +1,21 @@
 ---
-title: App-Konfigurationsrichtlinien für Microsoft Intune
+title: "App-Konfigurationsrichtlinien für Microsoft\_Intune"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: NOINDEX, NOFOLLOW
+ROBOTS: 'NOINDEX, NOFOLLOW'
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "6700004"
-- "1030"
-- "9003770"
-- "6709"
-ms.openlocfilehash: 8274c2a487fb50d3b35c03ada7a447d8e2f9166f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61955760"
+  - 6700004
+  - 1030
+  - 9003770
+  - 6709
 ---
+
 # <a name="app-configuration-policies-for-microsoft-intune"></a>App-Konfigurationsrichtlinien für Microsoft Intune
 
 App-Konfigurationsrichtlinien in Microsoft Intune werden verwendet, um Konfigurationseinstellungen für iOS- oder Android-Anwendungen bereitzustellen. Mit diesen Konfigurationseinstellungen kann eine App angepasst werden. Beachten Sie, dass es Beschränkungen im Hinblick darauf gibt, in welchen Betriebssystemen und Anwendungen die Verwendung von Konfigurationsrichtlinien unterstützt wird.
