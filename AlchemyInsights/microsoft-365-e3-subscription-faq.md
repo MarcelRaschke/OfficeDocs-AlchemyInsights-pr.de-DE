@@ -2,7 +2,7 @@
 title: Häufig gestellte Fragen zum Microsoft 365 E3-Abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: sctov
+manager: scotv
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +15,12 @@ ms.custom:
 - "9002554"
 - "5392"
 ms.date: 07/30/2021
-ms.openlocfilehash: 561615f53e876839f11c4ffdacdefdf34998f7e5
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 5c4c8dea8bf161eddb7431c5c844a39e2e3a92ea
+ms.sourcegitcommit: 2bdb514082cba3b795fbb8a14bd3d3fcc296c5f3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844241"
+ms.lasthandoff: 02/08/2022
+ms.locfileid: "62443758"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Häufig gestellte Fragen zur Verwaltung von Microsoft 365 E3-Abonnements und Lizenzen
 
