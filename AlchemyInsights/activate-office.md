@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 89af7e4b-9b49-4c50-a604-21003ad30004
-ms.openlocfilehash: 9cab0aa67df8f0e484d860dc64b5b89da67d2ad3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 50cab977d274798e30937002a1cf0a9c6f4bf7dd
+ms.sourcegitcommit: d5143738025187f6b7aef801d7c992de97c9d78e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61936915"
+ms.lasthandoff: 02/09/2022
+ms.locfileid: "62471506"
 ---
 # <a name="activate-office"></a>Office aktivieren
 
-Sie können Office aktivieren, indem Sie sich mit Ihrem Geschäfts-, Schul- oder Unikonto anmelden. Führen Sie die Schritte in diesem Artikel aus, um Office zu aktivieren: [Office aktivieren.](https://support.office.com/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx)
+Sie können Office aktivieren, indem Sie sich mit Ihrem Geschäfts-, Schul- oder Unikonto anmelden. Führen Sie die Schritte in diesem Artikel aus, um Office zu aktivieren: [Office aktivieren](https://support.microsoft.com/office/activate-office-using-the-activation-wizard-1144e0de-e849-496e-8e33-ed6fb1b34202).
   

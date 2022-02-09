@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: 75306d4a32b6a201a3f4d896a1cdaceeb6898cbc
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7bd036681994a250ac6e213e5612a16be92fd56e
+ms.sourcegitcommit: d5143738025187f6b7aef801d7c992de97c9d78e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61936096"
+ms.lasthandoff: 02/09/2022
+ms.locfileid: "62471326"
 ---
 # <a name="delete-the-office-document-cache"></a>Löschen des Office Dokumentcaches
 
-Wenn Sie eine Excel Eingabeaufforderung erhalten haben, dass **eine neuere Version der Datei verfügbar ist,** versuchen Sie, den Office Dokumentcache zu löschen, indem Sie die Anweisungen unter ["Löschen Des Office Dokumentcaches"](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d)befolgen. Versuchen Sie dann, die Datei erneut zu öffnen.
+Wenn Sie eine Excel Eingabeaufforderung erhalten haben, dass **eine neuere Version der Datei verfügbar ist**, versuchen Sie, den Office Dokumentcache zu löschen, indem Sie die Anweisungen unter ["Löschen des Office Dokumentcaches](https://support.microsoft.com/topic/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)" befolgen. Versuchen Sie dann, die Datei erneut zu öffnen.

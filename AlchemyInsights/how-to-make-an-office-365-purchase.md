@@ -15,22 +15,22 @@ ms.custom:
 - "531"
 - "1400007"
 ms.date: 08/10/2021
-ms.openlocfilehash: 61070576e6961a40f275dbb76493d8dc93192bb7
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 581d34b5e5744555d5d5f659cae5cc879ec1ad69
+ms.sourcegitcommit: d5143738025187f6b7aef801d7c992de97c9d78e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58842405"
+ms.lasthandoff: 02/09/2022
+ms.locfileid: "62471722"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>So erwerben Sie einen Microsoft 365
 
 Sie können ein Microsoft 365 Abonnement im Admin Center erwerben.
   
-- Um einen Plan zu erwerben, wechseln Sie zur Seite **"Abrechnungskauf".** \> **[](https://go.microsoft.com/fwlink/p/?linkid=868433)**
-- Um zusätzliche Lizenzen zu erwerben, wechseln Sie zur Seite **"Abrechnung** \> **[Für Ihre Produkte".](https://go.microsoft.com/fwlink/p/?linkid=842054)** Wählen Sie das Abonnement aus, das Sie ändern möchten, und wählen Sie dann **"Lizenzen kaufen"** aus.
-**Sehen Sie sich ein Video an**, das zeigt, wie sie dies tun: [Neue Lizenzen kaufen](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+- Um einen Plan zu erwerben, wechseln Sie zur Seite " **Abrechnungskauf** \> **["](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
+- Um zusätzliche Lizenzen zu erwerben, wechseln Sie zur Seite **"Abrechnung** \> **[Für Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** ". Wählen Sie das Abonnement aus, das Sie ändern möchten, und wählen Sie dann **"Lizenzen kaufen**" aus.\
+**Sehen Sie sich ein Video an**, das zeigt, wie sie dies tun: [Neue Lizenzen kaufen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#watch-buy-new-licenses)
   
-Weitere Informationen finden Sie unter ["Lizenzen kaufen oder entfernen".](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+Weitere Informationen finden Sie unter ["Kaufen oder Entfernen von Lizenzen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)".
 
 **Problembehandlung**
 
@@ -38,5 +38,5 @@ Wenn Sie Probleme beim Laden der Seite haben, versuchen Sie, die Webseite in ein
 
 **Weitere Ressourcen**
   
-- [Zuweisen von Lizenzen zu Benutzern in Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Zuweisen von Lizenzen zu Benutzern in Microsoft 365 business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 - [Abbrechen Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
