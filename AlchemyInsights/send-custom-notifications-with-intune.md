@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 58acaa29f9d0b066cc7be6f6ee57b1806d0e8812b194e20166b133b7715226a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fe42a8cf4577b155ac7d65380bc28f14f1442a95
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54086163"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62571339"
 ---
 # <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>So senden Sie benutzerdefinierte Benachrichtigungen an die Benutzer von verwalteten iOS- und Android-Geräten
 
-Benutzerdefinierte Benachrichtigungen für Intune werden von der Unternehmensportal-App auf dem Gerät eines Benutzers verarbeitet. Die App erstellt dann die Pushbenachrichtigung auf diesem Gerät.
+Benutzerdefinierte Benachrichtigungen für Intune werden von der Unternehmensportal App auf dem Gerät eines Benutzers verarbeitet. Die App erstellt dann die Pushbenachrichtigung auf diesem Gerät.
 
 Die folgenden Gerätevoraussetzungen unterstützen den Empfang von benutzerdefinierten Benachrichtigungen und damit die App dann die Pushbenachrichtigung erstellt:
 
@@ -33,4 +33,4 @@ Die folgenden Gerätevoraussetzungen unterstützen den Empfang von benutzerdefin
 
 - Das Gerät muss bei Intune registriert sein.
 
-Weitere Informationen, einschließlich des Sendens einer Nachricht, finden Sie in der [Featuredokumentation.](https://docs.microsoft.com/intune/custom-notifications)
+Weitere Informationen, einschließlich des Sendens einer Nachricht, finden Sie in der [Featuredokumentation](https://docs.microsoft.com/intune/custom-notifications).

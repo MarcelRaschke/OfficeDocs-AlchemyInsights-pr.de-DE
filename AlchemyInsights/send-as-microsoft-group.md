@@ -13,12 +13,12 @@ ms.custom:
 - "9003200"
 - "16400"
 ms.date: 01/21/2022
-ms.openlocfilehash: a38ce25a91c4a4fe982cc820c38982a455a01576
-ms.sourcegitcommit: 5dcbecdebbf5042db0c86a12149ddd537d766c91
+ms.openlocfilehash: 5ee9988eec4d82178369851ebd1cc855501b4cc6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62185298"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62571303"
 ---
 # <a name="allow-users-to-send-as-a-microsoft-365-group"></a>Benutzern das Senden als Microsoft 365 Gruppe gestatten
 
@@ -30,10 +30,10 @@ Beispiel:
 
 `Add-RecipientPermission MyGroup@contoso.onmicrosoft.com -Trustee Merry -AccessRights SendAs`
 
-Weitere Informationen finden Sie unter [Zulassen, dass Mitglieder](https://docs.microsoft.com/microsoft-365/admin/create-groups/allow-members-to-send-as-or-send-on-behalf-of-group) senden als oder senden im Namen einer Gruppe und Verbinden an Exchange Online [PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true).
+Weitere Informationen finden Sie unter [Allow members to send as or send on behalf of a group](https://docs.microsoft.com/microsoft-365/admin/create-groups/allow-members-to-send-as-or-send-on-behalf-of-group) and [Verbinden to Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true).
 
 Nachdem Berechtigungen zugewiesen wurden, kann der Benutzer E-Mails von der Gruppen-E-Mail-Adresse senden, indem er die folgenden Schritte ausführt:
 
 1. Verfassen sie eine neue E-Mail.
-2. Wählen Sie auf der Registerkarte **"Optionen"** unter **"Felder anzeigen"** die Option **"Von" aus.**
-3. Geben Sie im Feld **"Von"** den Namen oder die E-Mail-Adresse der Gruppe ein, in deren Auftrag der Benutzer die Nachricht sendet.
+2. Wählen Sie auf der Registerkarte **"Optionen** " unter **"Felder anzeigen**" **die Option "Von" aus**.
+3. Geben Sie im Feld **"Von** " den Namen oder die E-Mail-Adresse der Gruppe ein, in deren Auftrag der Benutzer die Nachricht sendet.

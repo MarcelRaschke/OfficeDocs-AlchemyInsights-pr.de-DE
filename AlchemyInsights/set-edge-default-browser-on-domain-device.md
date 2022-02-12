@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10362"
 - "9006005"
-ms.openlocfilehash: f0177f62c006c1d7f65d098415d0092f197cf700
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 809e12762ef651c7b099f339f2dfaa87bf7c0001
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61970923"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62571051"
 ---
 # <a name="set-microsoft-edge-as-the-default-browser-on-a-domain-joined-device"></a>Microsoft Edge als Standardbrowser auf einem domänenverbundenen Gerät festlegen
 

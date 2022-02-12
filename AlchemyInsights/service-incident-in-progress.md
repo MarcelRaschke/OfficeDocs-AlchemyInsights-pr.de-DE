@@ -7,17 +7,22 @@ ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
 ms.custom:
-  - 118
-  - 1600016
+- "118"
+- "1600016"
+ms.openlocfilehash: 1b89fd8fd87d803c88b81c124651bddce85a5e1c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62571087"
 ---
-
 # <a name="service-incident-in-progress"></a>Dienstvorfall wird ausgeführt
 
-Möglicherweise sind Sie von einem Dienstvorfall oder einer Empfehlung betroffen, die derzeit untersucht wird. Sie können den aktuellen Status überprüfen, indem Sie zur Seite ["Dienststatus"](https://admin.microsoft.com/adminportal/home#/servicehealth) wechseln.
+Möglicherweise sind Sie von einem Dienstvorfall oder einer Empfehlung betroffen, die derzeit untersucht wird. Sie können den aktuellen Status überprüfen, indem Sie zur Seite " [Dienststatus](https://admin.microsoft.com/adminportal/home#/servicehealth) " wechseln.
   
 Aus Gründen der Einfachheit finden Sie unten eine Zusammenfassung dieses Vorfalls:
   
