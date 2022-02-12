@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1982"
 - "9000348"
-ms.openlocfilehash: af6f78c06dbf58bdc8a8114b718c1ecfb94c77b8af7b0cf72d6a96e16dc17c40
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f546b1d7cd35bb80f9fa119bc54bb6284b094417
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013891"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62637474"
 ---
 # <a name="intune-insiders-onboarding"></a>Intune-Insider-Onboarding
 

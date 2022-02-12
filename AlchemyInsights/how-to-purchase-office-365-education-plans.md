@@ -17,12 +17,12 @@ ms.custom:
 - "1500009"
 ms.date: 04/21/2020
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 1845b72fc9f1b0953c7c22156631199f8cba0ec2
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: a5cd1d26dfae0dbbee130b99b3eced1849a20420
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58845285"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62638338"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>So erwerben Sie Office 365 Education Pläne
 

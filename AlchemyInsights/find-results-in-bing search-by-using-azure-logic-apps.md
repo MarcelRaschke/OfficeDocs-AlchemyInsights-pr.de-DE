@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9212"
-ms.openlocfilehash: bba3b2ebe638cc776d60abde237f53418dd5ff6c03475d0312df8f647bf8c636
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 832a9ccdf4ebd2f55bbc38310f38d41d2fa707c1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54015907"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62639418"
 ---
 # <a name="find-results-in-bing-search-by-using-azure-logic-apps"></a>Suchen von Ergebnissen in Bing Suche mithilfe von Azure Logic Apps
 
-Mithilfe Bing Suche in einer Logik-App können Sie die Verarbeitung von Suchergebnissen automatisieren und diese Ergebnisse für andere Aktionen verfügbar machen. Sie können z. B. Nachrichtenelemente finden und diese dann per Twitter als Tweets in Ihrem Feed posten lassen.
+Mithilfe von Bing Suche in einer Logik-App können Sie die Verarbeitung von Suchergebnissen automatisieren und diese Ergebnisse für andere Aktionen verfügbar machen. Sie können z. B. Nachrichtenelemente finden und diese dann per Twitter als Tweets in Ihrem Feed posten lassen.
 
 Weitere Informationen finden Sie unter [Suchen von Ergebnissen in Bing Suche mithilfe von Azure Logic Apps](https://go.microsoft.com/fwlink/?linkid=2151928).

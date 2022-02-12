@@ -14,20 +14,20 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: 79565e6b3a9375ea1536d491b89c263ffbb24f27
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5585c57c2582c0901a4b77c96cd2b653e0f54277
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989990"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62637690"
 ---
 # <a name="install-project-professional"></a>Installieren Project Professional
 
-Unter ["Installieren Project"](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) erfahren Sie, wie Sie die Abonnementversion von Project Online und die Nichtabonnementversion von Project 2019, 2016 oder 2013 installieren. 
+Unter ["Installieren Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281)" erfahren Sie, wie Sie die Abonnementversion von Project Online und die Nichtabonnementversion von Project 2019, 2016 oder 2013 installieren. 
 
-For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657). 
+Führen Sie für Project 2010 oder 2007 die Schritte in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) oder [Office 2007 aus](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657). 
 
-Project wird als eigenständige Anwendung verkauft. Wenn Sie sie also noch nicht haben, [kaufen oder testen](https://www.microsoft.com/evalcenter/evaluate-project)Sie Project . 
+Project wird als eigenständige Anwendung verkauft. Wenn Sie sie noch nicht haben, [kaufen oder testen Sie Project](https://www.microsoft.com/evalcenter/evaluate-project). 
 
 
 

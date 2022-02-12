@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10101"
 - "9005711"
-ms.openlocfilehash: 542aa10a9081ce051e97a04f147ee01c3cb6dbbd
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8d289cab2dd1bbc273ea5c58773104cd46310e6c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61979732"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62639058"
 ---
 # <a name="how-to-buy-a-new-windows-10-device"></a>Wie Sie ein neues Windows 10-Gerät kaufen
 

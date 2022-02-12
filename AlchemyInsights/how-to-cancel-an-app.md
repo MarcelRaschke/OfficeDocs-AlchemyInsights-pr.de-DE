@@ -15,17 +15,17 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.date: 10/26/2021
-ms.openlocfilehash: 7cf89f697cbe6766357484c7d53e129116170b37
-ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
+ms.openlocfilehash: a610a5e2b8888076b5dcef688a95b825febfb33c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60583518"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62638950"
 ---
 # <a name="how-to-cancel-software-as-a-service-apps"></a>So brechen Sie Software-as-a-Service-Apps ab
 
-1. Im Admin Center zur Seite **"Abrechnung**  >  [Für Ihre Produkte".](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Scrollen Sie auf der Seite **"Produkte"** zum Abschnitt **"Apps",** und suchen Sie das Abonnement, das Sie kündigen möchten. 
+1. Im Admin Center zur Seite "[BillingYour-Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) > ".
+2. Scrollen Sie auf der Seite **"Produkte** " nach unten zum Abschnitt **"Apps** ", und suchen Sie das Abonnement, das Sie kündigen möchten. 
 3. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Abonnement kündigen** aus.
 4. Wählen Sie im Bereich **Abonnement kündigen** einen Grund für Ihre Kündigung aus. Geben Sie optional Feedback.
 5. Wählen Sie **Speichern** aus.

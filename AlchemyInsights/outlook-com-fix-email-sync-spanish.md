@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1136"
 - "8000064"
-ms.openlocfilehash: f61159f4a2bba2547e869617bc7eee60cd4e8e79462645540344418b0a39f475
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 862fa233136b9ea0814ea0e9ad7345c0f62ecccc
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53962274"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62635547"
 ---
 # <a name="problemas-de-sincronizacin-del-correo-electrnico"></a>Problemas de sincronización del correo electrónico
 

@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006404"
 - "13986"
-ms.openlocfilehash: 95eea73950b41cdf1edec71abb03b3922d5f1ebf
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 749461bca904a895e7d21360296036bfa2fb6404
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61967682"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62639634"
 ---
 # <a name="exporting-with-excel"></a>Exportieren mit Excel
 
-Wenn Sie die Option **"Exportieren zum Excel"** in Microsoft Office SharePoint Online verwenden, können gelegentlich Probleme auftreten.
+Wenn Sie die Option **"Exportieren zum Excel**" in Microsoft Office SharePoint Online verwenden, können gelegentlich Probleme auftreten.
 
-Informationen zur Problembehandlung finden Sie unter ["Exportieren in Excel aus SharePoint Online" nicht](https://docs.microsoft.com/office/troubleshoot/excel/cannot-export-to-excel)möglich.
+Informationen zur Problembehandlung finden Sie unter ["Exportieren in Excel aus SharePoint Online" nicht](https://docs.microsoft.com/office/troubleshoot/excel/cannot-export-to-excel) möglich.

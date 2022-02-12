@@ -17,12 +17,12 @@ ms.custom:
 - "1500019"
 ms.date: 04/21/2020
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 44a8da7c2fa066582404576525c8e492b00a09c7
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 85f17d9eca44400bbbf79e29a34fb34d3c269ade
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58842441"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62638482"
 ---
 # <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>So identifizieren Sie eine Gebühr auf Ihrer Kreditkarte oder Ihrem Kontoauszug
 

@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002495
-  - 5112
+- "9002495"
+- "5112"
+ms.openlocfilehash: cfd34f2d3d8edc0fd30b53e8a791bfa5c3c28e11
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62636934"
 ---
-
 # <a name="live-events-in-yammer-creation-errors"></a>Probleme beim Erstellen von Live-Ereignissen in Yammer
 
 **Erstellen von Live-Ereignissen in Yammer**

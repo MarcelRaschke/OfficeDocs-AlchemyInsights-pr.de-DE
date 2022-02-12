@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: eb428c036b0e21af26dac19d13893ef90f29ed6e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 89800479e5f954dbd5b5364262bb8fd1c80c8dd4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61950497"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62639166"
 ---
 # <a name="help-with-spfx-pages-and-web-parts"></a>Hilfe zu SPFx-Seiten und Webparts
 

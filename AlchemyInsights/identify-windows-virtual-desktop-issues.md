@@ -13,12 +13,12 @@ ms.collection: Adm_O364
 ms.custom:
 - "9004219"
 - "10871"
-ms.openlocfilehash: f1c7252b87fce473685fb364d4001de67c36fa6f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 55b46c3bad067fc0dfb8b9a1a4065fc07731e19a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61983321"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62637906"
 ---
 # <a name="identify-windows-virtual-desktop-issues"></a>Identifizieren von Problemen mit Windows Virtual Desktop
 

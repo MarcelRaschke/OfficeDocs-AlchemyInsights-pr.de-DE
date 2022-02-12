@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2683"
 - "6200002"
-ms.openlocfilehash: 03aa575fca8ae92add25303d9f6beb0973608486
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2362432895d1c3920426884eb5ac6475e356f386
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61950425"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62638626"
 ---
 # <a name="how-to-enroll-devices"></a>Registrieren von Geräten
 
 Nachfolgend sind die Grundlagen der Registrierung aufgeführt:
 
-- Informationen zur Intune-Registrierung finden Sie unter [Was ist die Geräteregistrierung in Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
+- Informationen zur Intune-Registrierung finden Sie unter ["Was ist die Geräteregistrierung in Intune?"](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
 
 - Ausführlichere Informationen zur Registrierung für bestimmte Plattformen, Anleitungen und Lernprogramme finden Sie unter ["Registrieren von Geräten in Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/) Portal".
 

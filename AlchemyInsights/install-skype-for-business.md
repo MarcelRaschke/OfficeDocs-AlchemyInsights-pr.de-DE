@@ -15,15 +15,15 @@ ms.custom:
 - "9000741"
 - "2669"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: e32665ae8824daf665a87eaec0120323760cce48
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9d4d0553ee7d3ff2613d0be8e35e6d678622041b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989954"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62637608"
 ---
 # <a name="install-skype-for-business"></a>Installieren Skype for Business
 
-Sie können Skype for Business installieren, indem Sie die [hier](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)beschriebenen Schritte ausführen.
+Sie können Skype for Business installieren, indem Sie die [hier](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx) beschriebenen Schritte ausführen.
 
-Informationen zur Deinstallation finden Sie unter [Deinstallieren Skype for Business](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).
+Informationen zur Deinstallation finden Sie unter ["Deinstallieren Skype for Business](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)".
