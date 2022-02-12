@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 0927d1dac654fc0678709eb19b3d5732536196beae36d102d1a94bf7617b1b45
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bda770b94488c64af66d91e3a18892f0bcc0a5f7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892866"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62671279"
 ---
 # <a name="view-all-quarantined-messages"></a>Anzeigen aller isolierten Nachrichten
 
-1. Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com> **"E-Mail-&** \> Zusammenarbeitsüberprüfungsquarantäne" zu "E-Mail & Zusammenarbeit  \> **überprüfen".**
+1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com>"**E-Mail &** Zusammenarbeitsüberprüfungsquarantäne \>  \> **"**.
 
-   Um direkt zur **Quarantäneseite** zu wechseln, verwenden Sie <https://security.microsoft.com/quarantine> .
+   Um direkt zur **Quarantäne**-Seite zu gelangen, verwenden Sie <https://security.microsoft.com/quarantine>.
 
-2. Überprüfen Sie auf der **Quarantäneseite,** ob die **Registerkarte "E-Mail"** ausgewählt ist.
+2. Überprüfen Sie auf der **Quarantäneseite** , ob die **Registerkarte "E-Mail"** ausgewählt ist.
 3. Standardmäßig werden Nachrichten vom neuesten zum ältesten basierend auf dem Datum sortiert, an dem die Nachricht empfangen wurde. Sie können nach einem Feld sortieren, indem Sie auf eine Kopfzeile klicken.
 4. Sie können nur Massenvorgänge für bis zu 100 Elemente ausführen, sodass die Filterung auch dazu beitragen kann, das Resultset zu reduzieren, wenn Sie mehr als 100 Elemente haben.
 

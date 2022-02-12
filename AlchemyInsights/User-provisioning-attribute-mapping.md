@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7851"
 - "9004348"
-ms.openlocfilehash: 73da476cc5913a16911839a59b80959d3c99a8bc22471febe421b022ce2c49ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1bd9a89a9e90599e55805deb9d37244f4e2d08e8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918142"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62566479"
 ---
 # <a name="user-provisioning-attribute-mapping"></a>Attributzuordnung für die Benutzerbereitstellung
 

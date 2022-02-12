@@ -13,12 +13,12 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: 6e1ae01448bac7c4a7b95b86fce6f0479c49db42
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f1799d586c31e236bf0d41c0cc6765b2924ea5ce
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61865927"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62583669"
 ---
 # <a name="terms-missing-from-sharepoint-online-term-store"></a>Begriffe, die in SharePoint Online-Ausdrucks-Store fehlen
 

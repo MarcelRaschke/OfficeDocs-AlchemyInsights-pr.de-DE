@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: 1664a26b313c4a38c9c6d78cdb89997749ba175fd3dd72f278e99bbd50b0ee84
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1cfcef2bb82185ccec8bdfce8ba1de1fc9769f91
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013747"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62621796"
 ---
 # <a name="apple-automatic-device-enrollment-sync-errors"></a>Synchronisierungsfehler bei der automatischen Geräteregistrierung von Apple
 
@@ -29,13 +29,13 @@ Dieser Fehler kann auf verschiedene Arten auftreten, z. B.:
 2. Registrierungsprofilzuweisungen können fehlschlagen
 3. Geräte schließen ADE-Registrierung möglicherweise nicht erfolgreich ab
 
-Überprüfen Sie den Synchronisierungsfehler, der in der Intune-Konsole unter **"Geräte > Geräte registrieren" > Apple-Registrierung >-Registrierungsprogrammtoken** gemeldet wurde.
+Suchen Sie nach dem Synchronisierungsfehler, der in der Intune-Konsole unter **"Geräte > Geräte registrieren" > Apple-Registrierung >-Registrierungsprogrammtoken** gemeldet wurde.
 
 Eine der häufigsten Ursachen für Synchronisierungsfehler ist der Ablauf des aktuellen Tokens. In vielen Fällen wird das Problem durch die Verlängerung des betroffenen Tokens behoben.
 
 Wenn eines oder mehrere Ihrer Token abgelaufen sind, lesen Sie die folgende Dokumentation, um Sie bei der Verlängerung nach Bedarf zu unterstützen:
 
-[Verlängern eines Token für die automatische Geräteregistrierung](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
+[Erneuern eines Tokens für die automatische Geräteregistrierung](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
 
 Darüber hinaus finden Sie in der folgenden Dokumentation mögliche Korrekturen für andere Fehler, die zu Fehlern bei der Tokensynchronisierung führen:
 

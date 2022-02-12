@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003963"
 - "7019"
-ms.openlocfilehash: 439f00147f7d643fbb77fc4107c3664a4f4e0d6a58d31d2a5a33599fab16185f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 210ba589c5b00a9381234026882d8bd43e0ec08d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54048587"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62742172"
 ---
 # <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a>Vorgehensweise, wenn Sie in Microsoft Teams kein Team erstellen können
 

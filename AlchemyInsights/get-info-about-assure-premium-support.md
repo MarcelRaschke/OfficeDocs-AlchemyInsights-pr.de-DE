@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: 2fbc3850edc1c526f72c65163b9aeab05e9a3596
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6461689b82d644041477935f286892f473b6b433
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61912452"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62622588"
 ---
 # <a name="get-info-about-premium-assisted-software-support"></a>Informieren Sie sich über Premium assistierten Software-Support
 

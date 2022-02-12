@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 85c15495bac4576589c3aec34337278f496a1415
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b30d0ffc44c2ee37d61c731eb044c7520e4948db
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61936036"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62566119"
 ---
 # <a name="a1-license-for-office-365"></a>A1-Lizenz für Office 365
 

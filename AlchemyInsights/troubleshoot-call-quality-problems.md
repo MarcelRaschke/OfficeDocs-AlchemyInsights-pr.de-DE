@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001224"
 - "5489"
-ms.openlocfilehash: 8ce4d470d865bf5722378964806aff6ede908405
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 613cac6adb192fae8a8288850f5f3594fd88933b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61984006"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62742131"
 ---
 # <a name="troubleshoot-call-quality-problems"></a>Beheben von Problemen mit der Anrufqualität
 

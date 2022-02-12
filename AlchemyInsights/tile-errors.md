@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 0e7bb9f5c9722338fde671608978325bc3bfd596
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 50efaa23c553f0cde040870ab342a6d966d86e6b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61987501"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62742419"
 ---
 # <a name="tile-errors"></a>Kachelfehler
 

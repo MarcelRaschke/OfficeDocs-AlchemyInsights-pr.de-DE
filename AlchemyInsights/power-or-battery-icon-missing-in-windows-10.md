@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002953"
 - "5655"
-ms.openlocfilehash: 0bc2fef1f0bbcf6c477258f5ea298ad9a0af4685
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 01785a586c09619babf21f2dd9db20a9579c556e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61959331"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62716929"
 ---
 # <a name="power-or-battery-icon-missing-in-windows-10"></a>Stromversorgungs- oder Akkusymbol fehlt in Windows 10
 

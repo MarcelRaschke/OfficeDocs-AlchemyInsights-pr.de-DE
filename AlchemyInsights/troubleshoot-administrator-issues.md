@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7820"
 - "9004358"
-ms.openlocfilehash: 2ae2fc8097ff8f7534f8d32462889d1eb6ab65d4753b75d88240d2f899a8b01b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b93a1e7b7cbeec80472e7dc64aa9a41fe79dff
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53939450"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62742208"
 ---
 # <a name="troubleshoot-administrator-issues"></a>Beheben von Administratorproblemen
 

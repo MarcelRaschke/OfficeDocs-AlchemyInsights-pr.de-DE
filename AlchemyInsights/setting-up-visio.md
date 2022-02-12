@@ -7,11 +7,16 @@ ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
+ms.openlocfilehash: 9df8525c8eb84789f26712e58e6d2bf947d33be8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62743139"
 ---
-
 # <a name="setting-up-visio"></a>Einrichten von Visio
 
 Es sieht so aus, als ob Sie Hilfe beim Einrichten von Visio mit Ihrem Microsoft 365-Abonnement benötigen.

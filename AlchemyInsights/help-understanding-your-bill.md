@@ -16,12 +16,12 @@ ms.custom:
 - "1500005"
 ms.date: 04/21/2020
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 18f78073f963778b163835989f93f79309f451bb
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 73a811e8d7c7ac5b591ec82004545916ab5acc5d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58842080"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62622156"
 ---
 # <a name="help-understanding-your-bill"></a>Hilfe beim Verständnis Ihrer Rechnung
 

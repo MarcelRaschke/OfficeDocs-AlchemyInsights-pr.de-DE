@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002646"
 - "5086"
-ms.openlocfilehash: 7368da0dfaf1d9c59b2bfb742251ca0653d4c13f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: acff9932a46a12ccf0ca4c87fe9b9f57c6dd1333
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61861310"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62716677"
 ---
 # <a name="raise-your-hand-in-teams"></a>Heben Sie Ihre Hand in Teams!
 

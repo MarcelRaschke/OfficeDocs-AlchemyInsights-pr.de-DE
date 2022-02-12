@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: 8764510731db1ceb7a614067484094effedfbdfe
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: aab21dbc51e2f6a0f456dc6572bf97c121b4fe1a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61980453"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62742533"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Beheben Excel Zwischenablagefehlers
+# <a name="resolving-excel-clipboard-error"></a>Beheben Excel Fehlers in der Zwischenablage
 
-Wenn in Excel ein Fehler mit der Meldung "Es liegt ein Problem mit der Zwischenablage vor, Aber Sie können Ihre Inhalte trotzdem in diese Arbeitsmappe einfügen" angezeigt wird, deaktivieren Sie die Live Preview-Funktion, indem Sie die folgenden Schritte ausführen:
+Wenn in Excel eine Fehlermeldung angezeigt wird, die besagt: "Es liegt ein Problem mit der Zwischenablage vor, Aber Sie können Ihre Inhalte trotzdem in diese Arbeitsmappe einfügen", deaktivieren Sie das Live Preview-Feature, indem Sie die folgenden Schritte ausführen:
 
-1. Klicken Sie in Excel auf **"Dateioptionen".**  >  
-3. Wählen Sie im Dialogfeld **Excel Optionen** die Option **"Allgemein"** aus.
-4. Deaktivieren Sie unter **"Benutzeroberflächenoptionen"** die **Option "Live Preview aktivieren".**
+1. Klicken Sie in Excel auf **"****FileOptions** > ".
+3. Wählen Sie im Dialogfeld **Excel Optionen** die Option **"Allgemein**" aus.
+4. Deaktivieren Sie unter **"Benutzeroberflächenoptionen****" die Option "Live Preview aktivieren"**.
 5. Klicken Sie auf **OK**.
 6. Starten Sie Excel neu.

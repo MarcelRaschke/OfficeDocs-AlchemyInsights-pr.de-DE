@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 7751a8ba22713998f09d12a184abe2e20178579e93bd7d6aefe5c8d7a9f847d3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 528e6b9c9f8b5beac21f4092bc867647cb4fd887
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54116331"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62622048"
 ---
 # <a name="help-with-apple-dep"></a>Hilfe zu Apple DEP
 

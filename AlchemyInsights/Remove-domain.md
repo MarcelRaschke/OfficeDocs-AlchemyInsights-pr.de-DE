@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: b3625600c614e22038899c78fd1ec1de0d795caa
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 72f309d339ba15a654bf7c7e4357f178041a9fc1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61937395"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62566552"
 ---
 # <a name="trying-to-remove-your-domain"></a>Möchten Sie Ihre Domäne entfernen?
 

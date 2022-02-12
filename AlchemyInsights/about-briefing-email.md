@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6179"
 - "9003284"
-ms.openlocfilehash: 6b0ed4e5ed8cdc9de3c7f2f30dede7070464a745
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f333c29e6077f979548390e17b1ac500ffe2da21
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61935976"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62566083"
 ---
 # <a name="about-briefing-email"></a>Informationen zu Briefing-E-Mails
 

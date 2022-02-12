@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1457"
 - "6200010"
-ms.openlocfilehash: 3b17ee73f3000286d9fbfd7d6fc61f30a4bbdcc1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7db116b69732d2de22147073c4db92813eeffd3a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61988618"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62716715"
 ---
 # <a name="recommended-solution-for-server-side-synchronization"></a>Empfohlene Lösung für die serverseitige Synchronisierung
 

@@ -7,14 +7,19 @@ ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 7720
-  - 9004329
+- "7720"
+- "9004329"
+ms.openlocfilehash: 2c50ca82c5529a10185e9c58acd7ae00244f6fb3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62621544"
 ---
-
 # <a name="issues-with-links-and-urls"></a>Probleme mit Links und URLs
 
 Umleitungs-URI/Antwort-URLs (beide Ausdrücke sind austauschbar) sind die URLs, die von Microsoft Identity Platform verwendet werden, um von der App angeforderte Token zurückzugeben. Informationen zu diesen URLs finden Sie in den folgenden Artikeln:

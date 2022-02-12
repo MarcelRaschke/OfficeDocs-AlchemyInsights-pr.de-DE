@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002427
-  - 4711
+- "9002427"
+- "4711"
+ms.openlocfilehash: 62bb51cd0dd5b32d636f9d998187e187b91435b5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62621832"
 ---
-
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Installieren von Office-Client-Apps auf einem PC oder Mac
 
 Um Office-Client-Apps installieren zu können, stellen Sie sicher, dass Sie über ein Office 365- oder ein Microsoft 365-Abonnement verfügen, [das Office-Client-Apps beinhaltet](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), z. B. Microsoft 365 Business Standard, Microsoft 365 Apps for Business oder Microsoft 365 Apps for Enterprise.

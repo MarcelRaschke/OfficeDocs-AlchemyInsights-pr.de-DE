@@ -7,15 +7,20 @@ ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 164
-  - 1600027
+- "164"
+- "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
+ms.openlocfilehash: a5a49544d1907a206a503b9a1ed30b1f11867ac4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62716101"
 ---
-
 # <a name="required-licenses-for-microsoft-todo"></a>Erforderliche Lizenzen für Microsoft ToDo
 
 [Erforderliche Lizenzen für Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
@@ -36,7 +41,7 @@ Ein Benutzer muss über eine der folgenden Lizenzen verfügen, um Microsoft ToDo
 
 - Secure Productive Enterprise E5
 
-- Ein beliebiger Office 365 Education Plan
+- Alle Office 365 Education-Pläne
 
 - Microsoft 365 A3
 

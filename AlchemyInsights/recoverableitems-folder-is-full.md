@@ -13,12 +13,12 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 5c8d53ceabf2428f3d6d765040f1b789b6bbeda04a22dd7fde0d2d728fd17d93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8183c55512766e1147572dc7f2ed6fe490e259f9
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54061755"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62716461"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Der Ordner "Wiederherstellbare Elemente" ist voll.
 
@@ -40,6 +40,6 @@ Für Postfächer, die nicht in der Warteschleife sind, können Administratoren d
 
 - [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Für Postfächer, die in der Warteschleife sind, müssen Administratoren den Haltebereich entfernen, bevor sie Elemente aus dem Ordner "Wiederherstellbare Elemente" löschen können. Weitere Informationen finden Sie unter [Löschen von Elementen im Ordner "Wiederherstellbare Elemente" von cloudbasierten Postfächern im Haltebereich.](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)
+Für Postfächer, die in der Warteschleife sind, müssen Administratoren den Haltebereich entfernen, bevor sie Elemente aus dem Ordner "Wiederherstellbare Elemente" löschen können. Weitere Informationen finden Sie unter ["Löschen von Elementen im Ordner "Wiederherstellbare Elemente" von cloudbasierten Postfächern, für die die Aufbewahrung aktiviert ist](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Um zu verhindern, dass der Ordner "Wiederherstellbare Elemente" vollständig wird, können Administratoren das Speicherlimit des Ordners "Wiederherstellbare Elemente" für Postfächer erhöhen, die in der Warteschleife sind, und eine Postfachaufbewahrungsrichtlinie einrichten, die Elemente aus dem Ordner "Wiederherstellbare Elemente" in das Archivpostfach des Benutzers verschiebt. Siehe [Erhöhen des Kontingents für wiederherstellbare Elemente für Postfächer im Haltebereich.](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)
+Um zu verhindern, dass der Ordner "Wiederherstellbare Elemente" vollständig wird, können Administratoren das Speicherlimit des Ordners "Wiederherstellbare Elemente" für Postfächer erhöhen, die in der Warteschleife sind, und eine Postfachaufbewahrungsrichtlinie einrichten, die Elemente aus dem Ordner "Wiederherstellbare Elemente" in das Archivpostfach des Benutzers verschiebt. Weitere Informationen finden Sie unter [Erhöhen des Kontingents für wiederherstellbare Elemente für Postfächer, die in der Warteschleife sind](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).

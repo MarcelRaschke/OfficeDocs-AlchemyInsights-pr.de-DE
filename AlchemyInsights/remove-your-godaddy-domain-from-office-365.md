@@ -13,16 +13,16 @@ ms.assetid: 32314f8a-aaec-4d01-9fd3-009bfdcecd12
 ms.custom:
 - "26"
 - "11"
-ms.openlocfilehash: 5ad8e189044999ab92efebae42928f7d334c7b99
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6fa4264136bd3a9b50398a3674e9c75d2f0a2ce6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61861052"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62716173"
 ---
 # <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Entfernen Ihrer GoDaddy-Domäne aus Microsoft 365
 
 Wir können Ihre GoDaddy-Domäne nicht aus Microsoft 365 für Sie entfernen. Rufen Sie den [GoDaddy-Kundendienst](https://aka.ms/contact-godaddy) um Hilfe an.
   
-Wenn der Organisationsname nicht "NETORG" enthält oder nicht von GoDaddy erworben wurde, entfernen Sie Ihre Domäne, indem Sie die folgenden Schritte ausführen, um eine Domäne aus Microsoft 365 zu [entfernen.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
+Wenn der Organisationsname nicht "NETORG" enthält oder nicht von GoDaddy erworben wurde, entfernen Sie Ihre Domäne, indem Sie die folgenden Schritte ausführen, um [eine Domäne aus Microsoft 365 zu entfernen.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
   

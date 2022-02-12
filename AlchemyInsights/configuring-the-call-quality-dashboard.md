@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "14001"
 - "9001504"
-ms.openlocfilehash: ba62357661b4f55897f91a4bea971e7126f16cfd
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b3fd582212e95d8d88b9decc9101ae8f5bd55fa6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61940096"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62671135"
 ---
 # <a name="configuring-the-call-quality-dashboard"></a>Konfigurieren des Anrufqualitätsdashboards
 

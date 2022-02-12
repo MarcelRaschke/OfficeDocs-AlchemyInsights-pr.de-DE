@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6155"
 - "9003241"
-ms.openlocfilehash: f191a40127f7ff72575fb4f339b62f3c3157c86e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 71750624a82de29087bf454007e213794f539eee
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61986636"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62742230"
 ---
 # <a name="troubleshoot-group-licensing"></a>Behandeln von Problemen bei der Gruppenlizenzierung
 
