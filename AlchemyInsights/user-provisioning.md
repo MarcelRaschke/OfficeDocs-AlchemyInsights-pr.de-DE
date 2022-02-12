@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004348"
 - "8428"
-ms.openlocfilehash: 12490df735ca8c524058404df92db79c6c5682fe2ecafe2b42baed70fa3ab142
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4df8d991d4a429abe3977d34e0bec173aef8d50
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53971338"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62690674"
 ---
 # <a name="user-provisioning"></a>Benutzerbereitstellung
 
-- Verwenden Sie die [On-Demand-Bereitstellungsfunktion,](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) um einen Benutzer bereitzustellen und detaillierte Diagnosen zu den schritten zu erhalten.
+- Verwenden Sie die [On-Demand-Bereitstellungsfunktion](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) , um einen Benutzer bereitzustellen und detaillierte Diagnosen zu den schritten zu erhalten.
 - Informationen zur Behebung von Problemen bei der Bereitstellung von Benutzern und Gruppen finden Sie im Fehlerbehebungshandbuch [Es werden keine Benutzer bereitgestellt](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-config-problem-no-users-provisioned).
 - Wenn Sie feststellen, dass Benutzer nicht bereitgestellt werden, lesen Sie [Bereitstellungsprotokolle (Vorschau)](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs) in Azure Active Directory (AD). Suchen Sie nach Protokolleinträgen, die sich auf einen bestimmten Benutzer beziehen.
 - Starten Sie die Bereitstellung regelmäßig neu, um alle Benutzer abzufangen, die in einem vorherigen Bereitstellungszyklus übersehen wurden.
@@ -29,7 +29,7 @@ ms.locfileid: "53971338"
   - Beachten Sie, dass unser Dienst nur Änderungen an einem Benutzer/einer Gruppe im Quellsystem erkennt (Azure Active Directory). Wenn ein Benutzer/eine Gruppe direkt in der Anwendung entfernt wird (z. B. ServiceNow), sind wir uns dieser Änderungen nicht bewusst und führen kein Rollback basierend auf dem Status des Benutzers im Quellsystem durch. In diesem Szenario empfiehlt es sich, ein Rollback der Änderung direkt in der Zielanwendung vorzunehmen.
 - Unser Dienst hat den Benutzer/die Gruppe ausgewertet und festgestellt, dass er nicht bereitgestellt werden sollte:
   - Wenn Sie den Bereich auf zugewiesene Benutzer und Gruppen festgelegt haben, überprüfen Sie, ob der Benutzer/die Gruppe der Anwendung zugewiesen ist.
-  - Wenn der Benutzer/die Gruppe der Anwendung zugewiesen ist, stellen Sie sicher, dass sie nicht der Standardzugriffsrolle zugewiesen sind. Diese Rolle kann nicht für die Bereitstellung verwendet werden.
+  - Wenn der Benutzer/die Gruppe der Anwendung zugewiesen ist, stellen Sie sicher, dass er nicht der Standardzugriffsrolle zugewiesen ist. Diese Rolle kann nicht für die Bereitstellung verwendet werden.
   - Wenn Sie einen attributbasierten Bereichsfilter festgelegt haben, stellen Sie sicher, dass der Benutzer die angegebenen Kriterien erfüllt.
   - Wenn Benutzer bereits im Zielsystem vorhanden sind und der Status des Benutzers in der Quell- und Zielübersprechung vorhanden ist, werden keine weiteren Maßnahmen ergriffen.
 - Unser Dienst hat versucht, den Benutzer bereitzustellen, und es ist fehlgeschlagen. Überprüfen Sie für diese Szenarien die Registerkarte "Problembehandlung und Empfehlungen" der Bereitstellungsprotokolle:

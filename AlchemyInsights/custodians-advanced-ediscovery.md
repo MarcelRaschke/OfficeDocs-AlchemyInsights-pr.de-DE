@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12580"
-ms.openlocfilehash: 72504d3727d4ff34abaa9bc13aadbff9001d3c47
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 171735594550b5edc9303f8f3f80d0dbd907dc40
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61959475"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62736893"
 ---
 # <a name="custodians-in-advanced-ediscovery"></a>Verwahrer in Advanced eDiscovery
 

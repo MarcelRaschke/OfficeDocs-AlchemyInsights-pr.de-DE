@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6874"
 - "9001223"
-ms.openlocfilehash: 75fbf038b8fc2b3dbf2834e4af6a820e2398755b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 59b41c71311075671d4b84f63f128fb1336b8789
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318719"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62736821"
 ---
 # <a name="create-a-private-channel"></a>Erstellen eines privaten Kanals
 

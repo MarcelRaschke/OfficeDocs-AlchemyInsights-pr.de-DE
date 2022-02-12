@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8224"
 - "9004596"
-ms.openlocfilehash: 97a4b05272fe8b282a3b8a60bdf8633ada5a9c863fe7f0dea6a372d878a510b5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5b389d8a8c936b4a783bbca05b67101f1f6af0f0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54006997"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62690756"
 ---
 # <a name="use-microsoft-edges-filter-format-for-url-listbased-policies"></a>Verwenden des Microsoft Edge-Filterformats für listenbasierte URL-Richtlinien
 

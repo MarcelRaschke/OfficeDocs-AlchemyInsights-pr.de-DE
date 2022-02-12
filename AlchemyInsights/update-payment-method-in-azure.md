@@ -13,16 +13,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6860"
-ms.openlocfilehash: 210f616d1a2181de7a74298458227cc17beeb158
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7572e230b2f51e5c565665224dde2d5a8dfa560b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61966488"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62691008"
 ---
 # <a name="update-payment-details-in-azure"></a>Aktualisieren von Zahlungsdetails in Azure
 
-Wenn Ihre Kreditkarte verlängert wird und die Nummer unverändert bleibt, aktualisieren Sie die vorhandenen Kreditkartendetails wie das Ablaufdatum. Wenn sich Ihre Kreditkartennummer ändert, weil die Karte verloren geht, gestohlen oder abgelaufen ist, führen Sie die Schritte im Abschnitt ["Kreditkarte als Zahlungsmethode hinzufügen"](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) aus. Sie müssen den CVV nicht aktualisieren.
+Wenn Ihre Kreditkarte verlängert wird und die Nummer unverändert bleibt, aktualisieren Sie die vorhandenen Kreditkartendetails wie das Ablaufdatum. Wenn sich Ihre Kreditkartennummer ändert, weil die Karte verloren geht, gestohlen oder abgelaufen ist, führen Sie die Schritte im Abschnitt ["Kreditkarte als Zahlungsmethode hinzufügen](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) " aus. Sie müssen den CVV nicht aktualisieren.
 
 Sie müssen der Kontoadministrator sein, um die Kreditkarte zu ändern oder zu aktualisieren. Führen Sie die folgenden Schritte aus, um die Kreditkarte/Zahlungsmethode zu aktualisieren.
 

@@ -16,12 +16,12 @@ ms.custom:
 - "4728"
 - "4727"
 ms.date: 04/14/2021
-ms.openlocfilehash: 3b3adfe422d35bab3cd623f0ab48c5a014e19aa6
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 22b97c0f3cc58dbbf7e87dad6edd17883ae01630
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843485"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62691116"
 ---
 # <a name="understand-your-bill"></a>Erklärungen zu Ihrer Rechnung
 

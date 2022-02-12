@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 49d28ec9b4bf7dee1eecc3f15f4b5ad2a13e372d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 24d0e7f4cd6e6472b42f549dfab2e051536323cd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61958683"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62690648"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Hochladen Von Dateien zu OneDrive oder SharePoint
 

@@ -15,12 +15,12 @@ ms.custom:
 - "428"
 - "1500016"
 ms.date: 08/11/2021
-ms.openlocfilehash: 69cb08380caf1227ce218d9eb26d7a485609ff01
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 3f9cb7b76589a9ebab90d509e054f8abd65f50be
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844277"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62690912"
 ---
 # <a name="update-credit-card-information"></a>Aktualisieren von Kreditkarteninformationen
 

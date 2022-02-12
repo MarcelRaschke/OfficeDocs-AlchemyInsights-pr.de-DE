@@ -7,14 +7,19 @@ ms.date: 03/30/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9447
-  - 9005491
+- "9447"
+- "9005491"
+ms.openlocfilehash: 31ff6551a3c591636fbcc8792980fd98d51fd277
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62690671"
 ---
-
 # <a name="use-an-html-file-to-import-favorites-to-microsoft-edge"></a>Verwenden einer HTML-Datei zum Importieren von Favoriten in Microsoft Edge
 
 1. Speichern Sie in dem Browser, aus dem Sie Ihre Favoriten importieren möchten, die Favoriten in einer HTML-Datei.

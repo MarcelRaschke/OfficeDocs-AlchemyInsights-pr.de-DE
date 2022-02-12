@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "5613"
-ms.openlocfilehash: 82e7f9e3c1649d6b62d419829c1ef7c4c73738fc
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7345b173788c7cbcafd204fc980eb74f2294c4f5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61980886"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62652390"
 ---
 # <a name="get-phone-numbers"></a>Beziehen von Telefonnummern
 

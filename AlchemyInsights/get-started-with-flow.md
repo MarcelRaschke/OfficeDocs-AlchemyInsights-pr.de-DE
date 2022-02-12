@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
-ms.openlocfilehash: 6e8920d6902e7bb9bf6486d3042cf38187091421
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e1b97e4df09b73f865af7c2913afc04cb56306d2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960953"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62652522"
 ---
 # <a name="get-started-with-microsoft-flow"></a>Erste Schritte mit Microsoft Flow
 
