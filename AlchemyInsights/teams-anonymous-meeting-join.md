@@ -1,7 +1,7 @@
 ---
 title: Zulassen oder Verhindern, dass anonyme Benutzer an Teams-Besprechungen teilnehmen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,19 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: a867d9b8da34b3c78add5bad6f30c45653adc965a061ed235429a7d7447cffd6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e70fa569ced764e3e52a96c81901818910009c3b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54106944"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62676571"
 ---
 # <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Zulassen oder Verhindern, dass anonyme Benutzer an Teams-Besprechungen teilnehmen
 
-Sie können die Einstellungen für die Teilnahme anonymer Benutzer an Besprechungen im Teams Admin Center steuern.
+Teams-Administratoren können die Möglichkeit anonymer Benutzer zur Teilnahme an Besprechungen entweder auf der Organisationsebene oder pro Besprechungsorganisator steuern, indem Sie zwei verschiedene Richtlinieneinstellungen verwenden.
 
-**Es kann bis zu 24 Stunden dauern, bis die Änderungen wirksam werden.**
+Die Einstellung für Besprechungsorganisatoren ist derzeit von der Einstellung auf Organisationsebene abhängig. Administratoren können unter [Benutzern erlauben, an Besprechungen teilzunehmen](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#allow-anonymous-users-to-join-meetings) erfahren, wie sie jede Einstellung für anonyme Teilnahmen anpassen können.
 
-1.  Navigieren Sie zum [Teams Admin Center](https://admin.teams.microsoft.com).
-2.  Navigieren Sie in der linken Navigationsleiste zu **Besprechungen**  >  **Besprechungseinstellungen**.
-3.  Aktivieren Sie unter **Teilnehmer** die Option **Anonyme Benutzer können an einer Besprechung teilnehmen**.
+Wenn anonyme Benutzer erfahren möchten, wie sie an einer Besprechung teilnehmen, können sie den Anweisungen unter [An einer Besprechung teilnehmen ohne Teams-Konto](https://support.microsoft.com/office/join-a-meeting-without-a-teams-account-c6efc38f-4e03-4e79-b28f-e65a4c039508) folgen.
