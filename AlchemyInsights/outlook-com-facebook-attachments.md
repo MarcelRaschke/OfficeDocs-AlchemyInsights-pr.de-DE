@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: ae3e565fd79da5f1ffca5c8684fc73761620c2ed
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 492d8025feb9e560e73846570e69864fc3074c42
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61957093"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62682007"
 ---
 # <a name="unable-to-attach-or-upload-files-from-facebook"></a>Dateien von Facebook können nicht angefügt oder hochgeladen werden
 
 Aufgrund einer Änderung der Facebook-Geschäftsbedingungen können Sie nach dem 23. Oktober 2019 keine Anlagen mehr direkt von Facebook hochladen, und Facebook wird nicht mehr in der Liste Ihrer Cloud-Standorte angezeigt. 
 
-Sie können Ihre Liste anderer Cloudspeicherorte in Ihren [Storage Konten](https://go.microsoft.com/fwlink/?linkid=2111075)verwalten.
+Sie können Ihre Liste der anderen Cloudspeicherorte in Ihren [Storage Konten](https://go.microsoft.com/fwlink/?linkid=2111075) verwalten.
 
-Weitere Informationen [zu Storage Konten.](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)
+Erfahren Sie mehr über [Storage Konten](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
   

@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: f6e221cc82a1b707f6acc457cb78db743521d859
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c479317370cce9ef05bf9330b06205ed6f43f38c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325070"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62682619"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Angriffssimulator in Microsoft 365
 
-- Fehlt Ihnen der Angriffssimulator? Der Angriffssimulator erfordert **Microsoft Defender für Office 365 Plan 2** oder Office 365 Enterprise **E5.** Der Angriffssimulator ist **nicht** in Microsoft Defender für Office 365 Plan 1, Office 365 Enterprise E3 oder Microsoft 365 Apps for Business-Abonnements enthalten.
+- Fehlt Ihnen der Angriffssimulator? Der Angriffssimulator erfordert **Microsoft Defender für Office 365 Plan 2** oder **Office 365 Enterprise E5**. Der Angriffssimulator ist **nicht** in Microsoft Defender für Office 365 Plan 1, Office 365 Enterprise E3 oder Microsoft 365 Apps for Business-Abonnements enthalten.
 
-- Das Konto, das Sie zum Starten simulierter Angriffe verwenden, erfordert globale Administrator- oder Sicherheitsadministratorberechtigungen und mehrstufige Authentifizierung (Multi-Factor Authentication, MFA). Weitere Informationen zu den Anforderungen des Angriffssimulators finden Sie in [diesem Thema.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
+- Das Konto, das Sie zum Starten simulierter Angriffe verwenden, erfordert globale Administrator- oder Sicherheitsadministratorberechtigungen und mehrstufige Authentifizierung (Multi-Factor Authentication, MFA). Weitere Informationen zu den Anforderungen des Angriffssimulators finden Sie in [diesem Thema](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
 - Wichtige Dinge, die Sie über **Brute Force Password-Angriffssimulationen** wissen müssen:
 
@@ -39,4 +39,4 @@ ms.locfileid: "58325070"
 
 - Berichte: Nachdem der simulierte Angriff abgeschlossen ist, können Sie auf **"Angriffsdetails"** klicken, um den Bericht anzuzeigen.
 
-- Ausführliche Anweisungen und neue Features im Angriffssimulator finden Sie unter ["Angriffssimulator" in Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
+- Ausführliche Anweisungen und neue Features im Angriffssimulator finden Sie unter ["Angriffssimulator" in Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

@@ -16,14 +16,14 @@ ms.custom:
 - "1500026"
 ms.date: 04/21/2020
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: c268b8254ae57a7a6614ca98d97128914f698311
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: b337a8ab43ec04290390db10d55660d2a165dbe3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844421"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62682511"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a>Kostenlosen Microsoft 365 für Ihre gesamte Schule erhalten
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>Erhalten Sie Microsoft 365 kostenlos für Ihre gesamte Schule
 
 Verbessern Sie die Zusammenarbeit in Klassenzimmern und Schulen mit kostenlosen Produktivitätstools. Sie müssen überprüfen, ob Sie eine akkreditierte akademische Bildungseinrichtung sind, um diese Angebote nutzen zu können.
   

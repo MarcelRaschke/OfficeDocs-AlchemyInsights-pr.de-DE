@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001721"
 - "4341"
-ms.openlocfilehash: ea449bf0be918ba4cb7e0ff3eba09c43ed3635fe
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 79ffe3e6bec1c3c39c62277e068a9c84a1b42093
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61965192"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62682727"
 ---
 # <a name="no-access-to-teams-admin-center"></a>Kein Zugriff auf Teams Admin Center
 

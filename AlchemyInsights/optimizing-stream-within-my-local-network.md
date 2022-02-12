@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5145"
-ms.openlocfilehash: 4a0a9fe68cde7e95f753069467df7a1a1f97f842
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4b1ece3c688390b71ad7812fee93686dd0215985
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61861463"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62681971"
 ---
 # <a name="optimizing-stream-within-my-local-network"></a>Optimieren von Stream in meinem lokalen Netzwerk
 
