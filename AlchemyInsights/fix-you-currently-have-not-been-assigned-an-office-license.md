@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: ca862c495303783e8fc58ffbcf87adf01194ce5a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: df61aa68742bc62f250b8f8510c048e3de71193d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61962799"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62710197"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Problembehandlung – „Ihnen ist derzeit keine Office-Lizenz zugewiesen“
 

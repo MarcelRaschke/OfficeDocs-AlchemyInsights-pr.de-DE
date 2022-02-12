@@ -14,12 +14,12 @@ ms.custom:
 - "4503"
 - "9002471"
 - "4818"
-ms.openlocfilehash: ff509b4370c4bab66b68869a24c485728c193519
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a7d85a9a416bf44dced6a01c7813ca0c4883671a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61966560"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62709945"
 ---
 # <a name="get-support-with-microsoft-365"></a>Anfordern von Support für Microsoft 365
 

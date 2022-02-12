@@ -13,12 +13,12 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4f985354bfbc1b9a8b4795c7535feb843220b0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54117051"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62710125"
 ---
 # <a name="focused-inbox-for-outlook-mobile"></a>Posteingang mit Relevanz für Outlook Mobile
 

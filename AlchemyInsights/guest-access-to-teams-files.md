@@ -12,12 +12,12 @@ ms.custom:
 - "6500001"
 - "4353"
 ms.assetid: ''
-ms.openlocfilehash: 5dc01957b2a86bf9d88d3a06ebc568cb2e4b6856
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 01ce5d40f727c9f74217075f559049d241371bfb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61966524"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62709801"
 ---
 # <a name="guest-access-to-teams-files"></a>Gastzugriff auf Teams-Dateien
 
