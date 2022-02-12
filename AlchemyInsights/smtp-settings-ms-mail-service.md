@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12073"
 - "3000003"
-ms.openlocfilehash: 16cfec68aa74eded8b3633eb91a45b997440bddc
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: ff148dca4401f6b0aa568275f314c0b9fb6c78f8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61965624"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62751491"
 ---
 # <a name="smtp-settings-for-the-microsoft-365-mail-service"></a>SMTP-Einstellungen für den Microsoft 365-E-Mail-Dienst
 

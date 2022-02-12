@@ -13,12 +13,12 @@ ms.custom:
 - "9002502"
 - "4869"
 - "4870"
-ms.openlocfilehash: ce86451c29168a9d5f9b58a061d00917a5552c7a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 41677da700d0c191b7044d6919f93bdf8898c096
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61943720"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62723913"
 ---
 # <a name="change-site-logo"></a>Websitelogo ändern
 
