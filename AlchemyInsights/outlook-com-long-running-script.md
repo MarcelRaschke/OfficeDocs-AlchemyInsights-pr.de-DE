@@ -13,12 +13,12 @@ ms.custom:
 - "856"
 - "8000051"
 ms.assetid: 3bac167e-055b-4cfb-ad3f-7b47a7492588
-ms.openlocfilehash: 219868049b88148849866377abb8549ce8b3dad2007cd35a35fc3dffcaa6ff83
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fc972b662ae2bbb6df69b87b3b5472a82b716d72
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54024493"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62635494"
 ---
 # <a name="long-running-script"></a>Lange ausgeführtes Skript
 
