@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9137"
 - "9004431"
-ms.openlocfilehash: 059c79de094a6f81593484160d1f5b3b72fb3e87
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 117f8e8ae3249bcf60787c2dba4a33cc1403c8d1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61949075"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62593282"
 ---
 # <a name="configure-microsoft-edge-sync"></a>Microsoft Edge-Synchronisierung konfigurieren
 

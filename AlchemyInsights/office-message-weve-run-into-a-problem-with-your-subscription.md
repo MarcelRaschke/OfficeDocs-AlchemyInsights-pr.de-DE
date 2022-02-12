@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9001427
-  - 3419
+- "9001427"
+- "3419"
+ms.openlocfilehash: f1502280294fa7fbc0024e95a9306066dee328c4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62588674"
 ---
-
 # <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Meldung in Microsoft 365-Apps: "Es ist ein Problem mit Ihrem Abonnement aufgetreten"
 
 - Wenn Sie kürzlich zu einem anderen Abonnement/Plan gewechselt sind, führen Sie die Schritte unter [Nach einem Wechsel von Plänen wird in Office ein "Kontohinweis" angezeigt](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d) aus, um Office neu zu installieren oder zu aktualisieren.
