@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 9c4249b81e218b5d7d133c9d96b34fd5051277fb7ed849b0f6e90b2c18fb0e0e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2c288d4514bb6ea5b39c673f1f02dec35d11c18b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001399"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62650447"
 ---
 # <a name="ios-enrollment-help"></a>Hilfe zur iOS-Registrierung
 

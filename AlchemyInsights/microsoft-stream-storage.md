@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: af37e45d44d8326c20528b5933475b3486263a37
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: cb477a9ae77bf0da9c67f7800dbd52c36969270b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61872016"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62649093"
 ---
 # <a name="microsoft-stream-storage"></a>Microsoft Stream Storage
 

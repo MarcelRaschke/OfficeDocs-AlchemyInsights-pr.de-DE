@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 2ed92401399466e41349066cb4c9250c4da3c2c9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d7e30452ce1573c8497cb019bc361bb72f175245
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736600"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62761931"
 ---
 # <a name="label-priority-order-matters"></a>Priorität der Bezeichnungen (Reihenfolge wesentlich)
 

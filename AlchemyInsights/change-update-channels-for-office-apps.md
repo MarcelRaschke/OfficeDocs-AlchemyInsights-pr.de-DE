@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 461d14e76a28c862d672f97d50fa021157d36c43
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3b5428ef0dad9a6e4c7b53ea9e636c6ac10c4694
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61966778"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62688632"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Ändern von Updatekanälen für Office-Apps
 

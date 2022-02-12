@@ -13,12 +13,12 @@ ms.custom:
 - "9010386"
 - "16552"
 ms.date: 01/28/2022
-ms.openlocfilehash: e82d9ad2297402c5e9f4830fad6e491166bfac0b
-ms.sourcegitcommit: 0bf8e159e9e49792db04709867d4f78e1047aa73
+ms.openlocfilehash: 9abd80417cd14eb711489cbd086e1e14ff735e4e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "62281101"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62649121"
 ---
 # <a name="where-to-get-microsoft-search-reports-after-updates"></a>Abrufen von Microsoft Search Berichten nach Updates
 

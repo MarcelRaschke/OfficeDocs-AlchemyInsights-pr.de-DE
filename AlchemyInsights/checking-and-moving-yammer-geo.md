@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8419"
 - "9003223"
-ms.openlocfilehash: fff7bdb6201c61c9e7e059c7362e48c0fd6f6c01adf80416d98fd0eb23c36c8a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a179ed16f0ffac5f965fe5e5ff470b4dbf95d3e2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53979204"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62688537"
 ---
 # <a name="checking-and-moving-yammer-geo"></a>Überprüfen und Verschieben der Yammer Geodaten
 

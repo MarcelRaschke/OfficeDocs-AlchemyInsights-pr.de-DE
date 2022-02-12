@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: db3140f94c6ab543133c29500552e529b0dc17b6d083cb729c5cf5857ffdbacf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cbbe6efa9539f49d3693c4981c0d6dc515c8f7f3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967296"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62761535"
 ---
 # <a name="questions-and-issues-with-resource-access"></a>Fragen und Probleme mit dem Ressourcenzugriff
 
@@ -26,6 +26,6 @@ Informationen über die Profiltypen, die Intune unterstützt, um Benutzern den Z
 - [Hinzufügen und Verwenden von WLAN-Einstellungen auf Ihren Geräten in Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
 - [Hinzufügen von E-Mail-Einstellungen zu Geräten mit Intune](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
 - [Verwenden von Zertifikaten zur Authentifizierung in Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
-- [Erstellen von VPN-Profilen zum Herstellen einer Verbindung mit VPN-Servern in Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
+- [VPN-Profile zum Herstellen einer Verbindung mit VPN-Servern in Intune erstellen](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
 
 [Weitere Informationen...](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)

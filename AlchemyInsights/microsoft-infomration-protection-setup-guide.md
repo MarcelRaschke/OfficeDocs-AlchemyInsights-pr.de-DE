@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007398"
 - "12353"
-ms.openlocfilehash: a585128bb9bcc1e814c86b6adbf058c4bc21fbb0
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 941ce06d92726cbcc25aca3dfa44fdaa0f98317b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61984474"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62649174"
 ---
 # <a name="microsoft-information-protection-setup-guide"></a>Microsoft Information Protection Einrichtungshandbuch
 
-Schützen Sie Ihre vertraulichen Daten, indem Sie mit einer Übersicht über die Funktionen beginnen, die Sie auf Ihre Informationsschutzstrategie anwenden können. Ausführliche Informationen finden Sie in [Microsoft Information Protection Einrichtungshandbuch.](https://admin.microsoft.com/adminportal/home#/modernonboarding/mipsetupguide) Erfahren Sie, wie Sie einen vierstufigen Lebenszyklusansatz verwenden, um vertrauliche Informationen zu ermitteln, zu klassifizieren, zu schützen und zu überwachen.
+Schützen Sie Ihre vertraulichen Daten, indem Sie mit einer Übersicht über die Funktionen beginnen, die Sie auf Ihre Informationsschutzstrategie anwenden können. Ausführliche Informationen finden Sie [in Microsoft Information Protection Einrichtungshandbuch](https://admin.microsoft.com/adminportal/home#/modernonboarding/mipsetupguide). Erfahren Sie, wie Sie einen vierstufigen Lebenszyklusansatz verwenden, um vertrauliche Informationen zu ermitteln, zu klassifizieren, zu schützen und zu überwachen.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 83af07910dff17cfe429736d3fb07ef6e748225e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 4efcc462a1f9f1ad9d3a74547d456237ce6f03bb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324814"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62688092"
 ---
 # <a name="create-a-sensitivity-label"></a>Erstellen einer Vertraulichkeitsbezeichnung
 

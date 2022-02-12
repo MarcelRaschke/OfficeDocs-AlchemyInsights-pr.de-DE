@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7682"
 - "9"
-ms.openlocfilehash: a3f2b77c15e1f55a9cacf755bd53c3b84ce0c5943629fd5af53b675aa4c4bbaf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b564911a06fb8610d0bd7a23b7c71e49e56c3d31
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54079269"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62734229"
 ---
 # <a name="godaddy-domain-unblock-request"></a>Anforderung zum Entsperren der Godaddy-Domäne
 

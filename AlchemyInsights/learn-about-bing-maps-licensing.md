@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9213"
-ms.openlocfilehash: a38a66bb70939a1b520e7133e3dc4d4d661ece7a7512a8a6f263bcc365c71165
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 33e8df0f4d293a073c9663c991cf42758f5cff92
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54077937"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62650290"
 ---
 # <a name="learn-about-bing-maps-licensing"></a>Erfahren Sie mehr über Bing Karten Lizenzierung
 
-Der Bing Karten-Dienst bietet verschiedene flexible Lizenzierungsoptionen, die die Anforderungen und technischen Anforderungen Ihrer Organisation unterstützen. Außerdem können Sie mit der kostenlosen Ebene noch heute mit Bing Karten beginnen.
+Der Bing Karten-Dienst bietet mehrere flexible Lizenzierungsoptionen, die die Anforderungen und technischen Anforderungen Ihrer Organisation unterstützen. Außerdem können Sie mit der kostenlosen Ebene noch heute mit Bing Karten beginnen.
 
 Ausführliche Informationen finden Sie unter [Bing Karten Licensing](https://go.microsoft.com/fwlink/?linkid=2150203).

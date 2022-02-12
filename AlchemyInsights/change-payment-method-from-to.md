@@ -14,12 +14,12 @@ ms.custom:
 - "9002612"
 - "5073"
 ms.date: 08/10/2021
-ms.openlocfilehash: eb2b357c47d6b437eb23df58a1e3bba98d606a99
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 901085604841e99d697099de87873173b37fc30d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844565"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62688668"
 ---
 # <a name="change-payment-method-fromto"></a>Ändern der Zahlungsmethode von/zu
 

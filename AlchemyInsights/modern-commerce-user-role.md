@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 585c0b5f979b58a821e22bef644a6cfaf4b3adcf
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e664a91788a66d8ec409da7cb11a966b34451b7a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61941391"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62648949"
 ---
 # <a name="modern-commerce-user-role"></a>Rolle "Moderner Commercebenutzer"
 

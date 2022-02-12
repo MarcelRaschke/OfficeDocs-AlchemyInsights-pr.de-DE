@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 402220e15d5fdd077475d86d8486b022a801bda52e1b4f27f1fa385f31316f39
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ba1064c999956e82a40a3fa5fa2fbd544da33794
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967404"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62761859"
 ---
 # <a name="open-a-second-browser-window"></a>Öffnen eines zweiten Browserfensters
 

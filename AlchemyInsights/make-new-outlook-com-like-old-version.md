@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: 4ca5ff0ed1ab1d7aedb29390a843158912e25648106df8a2ce88a0b8458d62fa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b74bbecb8f02b6cf8d295d68f310e208ef982755
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54067083"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62650218"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>So stellen Sie sicher, dass die neue Outlook.com wie die alte Version aussieht
 
 Hier sind einige Einstellungen, die Sie ändern können, damit die neue Outlook.com wie die alte Version aussieht:
 
-1. Wechseln Sie zu [Layouteinstellungen.](https://outlook.live.com/mail/options/mail/layout)
-1. Wählen Sie **unter Posteingang** mit Relevanz die Option **"Nachrichten nicht sortieren"** aus.
-1. Wählen Sie unter **Nachrichtenorganisation** **oben "Neueste Nachrichten"** aus.
-1. Wählen Sie unter **"Absenderbild"** die Option **"Absenderbilder nicht anzeigen"** aus.
-1. Klicken Sie **im Lesebereich** auf **Lesebereich ausblenden.**
-1. Wählen Sie unter **Nachrichtenvorschautext** die Option **Vorschautext anzeigen** aus.
-1. Wählen Sie unter **Inlinevorschau** die Option **"Anlagen nicht anzeigen" in der Nachrichtenliste** aus.
+1. Wechseln Sie zu [Layouteinstellungen](https://outlook.live.com/mail/options/mail/layout).
+1. Wählen Sie **unter "Posteingang mit Relevanz**" die Option " **Nachrichten nicht sortieren"** aus.
+1. Wählen Sie unter **Nachrichtenorganisation** **oben "Neueste Nachrichten**" aus.
+1. Wählen Sie unter **"Absenderbild**" **die Option "Absenderbilder nicht anzeigen" aus**.
+1. Wählen Sie **im Bereich "Lesen"** **die Option "Lesebereich ausblenden" aus**.
+1. Wählen Sie unter **"Nachrichtenvorschautext**" die Option **"Vorschautext anzeigen" aus**.
+1. Wählen Sie unter **Inlinevorschau** die Option " **Anlagen nicht anzeigen" in der Nachrichtenliste** aus.
 
-Informationen zum Ändern ihrer E-Mail-Einstellungen, damit Ihr Posteingang so aussieht und sich so verhält, wie Sie es wünschen, finden Sie unter [Ändern des Erscheinungsbilds Ihres Postfachs in Outlook.com und im neuen Outlook im Web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Wenn Sie Ihre E-Mail-Einstellungen so ändern möchten, dass Ihr Posteingang wie gewünscht aussieht und sich verhält, lesen Sie ["Ändern des Erscheinungsbilds Ihres Postfachs in Outlook.com" und im neuen Outlook im Web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

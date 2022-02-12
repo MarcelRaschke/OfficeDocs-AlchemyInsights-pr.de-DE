@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 2080f11f6a4c32ecd0b02886156c6c1cc99411f5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: bdf4f1968a229b0bd186760990fefe9098f9583d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61862498"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62650182"
 ---
 # <a name="list-view-threshold"></a>Schwellenwert für die Listenansicht
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: 077979bb58234fdc7bddac76f25c2dfa7767addd
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 07d36bc65217a9a0735c8986422a649df0038243
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736411"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62762183"
 ---
 # <a name="control-the-access-from-unmanaged-devices"></a>Steuern des Zugriffs von nicht verwalteten Geräten
 

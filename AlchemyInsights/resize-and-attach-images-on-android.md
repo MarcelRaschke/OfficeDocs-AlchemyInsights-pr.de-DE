@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 7f2388d8598bf0688b42ebe9fa345e4d62328241
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: cac4b561a81ea0a7ee1099712fad09c433507519
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61934796"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62617518"
 ---
 # <a name="resize-and-attach-images-on-android"></a>Ändern der Größe und Anfügen von Bildern unter Android
 

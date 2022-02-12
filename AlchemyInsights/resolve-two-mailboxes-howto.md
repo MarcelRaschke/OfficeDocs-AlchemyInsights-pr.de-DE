@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 224a6657ba58359c8bdbcb26b5bed91a662f4665
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54110067"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62617368"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Ein Benutzer verfügt über zwei Postfächer
 
 Hybridumgebungen, die Azure Active Directory Verbinden (AAD Verbinden) oder DirSync verwenden, können versehentlich dazu führen, dass ein Benutzer zwei Postfächer hat: ein lokales Postfach und eins in der Cloud. An beiden Stellen kann ein doppeltes Postfach erstellt werden.
 
-Informationen zum Beheben dieses Problems finden Sie unter [Wiederherstellen, wenn ein Postfach sowohl in Exchange Online als auch lokal vorhanden ist.](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises) Wenn Sie mehr darüber erfahren möchten, wie Sie dies in Zukunft vermeiden können, lesen Sie [,Mein Benutzer hat ein Postfach sowohl lokal als auch in Exchange Online. Hilfe!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Informationen zum Beheben dieses Problems finden Sie unter [Wiederherstellen, wenn ein Postfach in Exchange Online und lokal vorhanden ist](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Wenn Sie mehr darüber erfahren möchten, wie Sie dies in Zukunft vermeiden können, lesen Sie ,[Mein Benutzer hat ein Postfach sowohl lokal als auch in Exchange Online. Hilfe!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

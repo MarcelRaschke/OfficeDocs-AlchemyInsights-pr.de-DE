@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 898f1fcd189e2656dbdb9921f0c34a5d30976ac210766ca28284c455053dae50
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e4b0183b4b42efcd49d69673b0c22863a9cf9475
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016807"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62761895"
 ---
 # <a name="learn-about-or-troubleshoot-sensitivity-labels"></a>Erfahren Sie mehr über Vertraulichkeitsbezeichnungen oder beheben Sie Fehler
 

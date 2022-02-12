@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002555"
 - "11177"
-ms.openlocfilehash: 11f64cdf32a7f9889646b9cd0da1954cf2f722f2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 296487b6b28103eaddeeababe53e8213f9bb19f4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61969231"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62688884"
 ---
 # <a name="change-billing-country-or-region"></a>Ändern des Abrechnungsland oder der Abrechnungsregion
 
-Es ist nicht möglich, das Land/die Region von **Abrechnungskonten** im Microsoft 365 Admin Center zu  >   ändern. Sie müssen sich für ein neues Konto registrieren und das gewünschte Land/die gewünschte Region auswählen. 
+Es ist nicht möglich, das Land/die Region von **BillingBilling-Konten**  >  im Microsoft 365 Admin Center zu ändern. Sie müssen sich für ein neues Konto registrieren und das gewünschte Land/die gewünschte Region auswählen. 

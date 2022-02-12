@@ -13,24 +13,24 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 46029ae4365bbce814c6adc2e52d6c6763abc248
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: fc6814751e4ed3e2effd66bd33e81c5532663e60
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61982709"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62648985"
 ---
 # <a name="network-migration"></a>Netzwerkmigration
 
-Ihr O365-Mandant ist möglicherweise mehreren Yammer Netzwerken in einem 1-Mandanten zugeordnet: viele Netzwerkkonfigurationen. Ab dem 16. Oktober 2018 unterstützt Yammer nicht mehr mehrere Yammer Netzwerke, die einem Mandanten zugeordnet sind. Sie können eine Netzwerkmigration durchführen, um zu einer bevorzugten 1:1-Konfiguration zu gelangen.
+Ihr O365-Mandant ist möglicherweise mehreren Yammer Netzwerken in einem 1-Mandanten zugeordnet: viele Netzwerke. Ab dem 16. Oktober 2018 werden Yammer nicht mehr mehrere Yammer Netzwerke unterstützen, die einem Mandanten zugeordnet sind. Sie können eine Netzwerkmigration durchführen, um zu einer bevorzugten 1:1-Konfiguration zu gelangen.
   
-- Um eine Liste der Netzwerke anzuzeigen, die Ihrem Mandanten zugeordnet sind, melden Sie sich bei Yammer als globaler Administrator an, und navigieren Sie zum **Netzwerkadministrator** und dann zur **Netzwerkmigration.** Wählen Sie **Weiter** aus.
+- Um eine Liste der Netzwerke anzuzeigen, die Ihrem Mandanten zugeordnet sind, melden Sie sich bei Yammer als globaler Administrator an, und navigieren Sie zum **Netzwerkadministrator** und dann zur **Netzwerkmigration**. Wählen Sie **Weiter** aus.
 
 - Wenn in Schritt 2 von 3 mehrere Netzwerke aufgeführt sind, sind Ihrem O365-Mandanten mehrere Yammer Netzwerke zugeordnet.
 
 - Um die Konfiguration auf eine 1:1-Konfiguration zu korrigieren, verwenden Sie weiterhin das Netzwerkmigrationstool.
 
-- Weitere Informationen zur Netzwerkmigration finden Sie unter [Netzwerkmigration: Konsolidieren mehrerer Yammer Netzwerke.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
+- Weitere Informationen zur Netzwerkmigration finden Sie unter [Netzwerkmigration: Konsolidieren mehrerer Yammer Netzwerke](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
 Bitte beachten Sie:
   

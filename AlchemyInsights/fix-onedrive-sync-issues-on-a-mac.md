@@ -14,16 +14,16 @@ ms.assetid: ''
 ms.custom:
 - "9000178"
 - "1723"
-ms.openlocfilehash: 94c650fd80952120cc68bb485fd68bff2ab307fb
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 391ba6c3812fffa84c4bff14e318779ed99f886d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61979264"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62734841"
 ---
 # <a name="fix-onedrive-sync-issues-on-a-mac"></a>Beheben OneDrive-Synchronisation Probleme auf einem Mac
 
-Wenn OneDrive Dateien nicht wie erwartet auf einem Mac synchronisiert, finden Sie Informationen [zum Beheben OneDrive-Synchronisation Probleme auf einem Mac.](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756)
+Wenn OneDrive Dateien nicht wie erwartet auf einem Mac synchronisiert, finden Sie [Informationen zum Beheben OneDrive-Synchronisation Problemen auf einem Mac](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).
 
 
 

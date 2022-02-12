@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5494"
-ms.openlocfilehash: 6c7f3e7a7968e87972c34cdd1181d77e3a0ed44a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: bcabfc61994fa189da992468f3abf53e3eb25134
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61939172"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62617453"
 ---
 # <a name="reset-conferencing-pin-in-teams"></a>Zurücksetzen der Konferenz-PIN in Microsoft Teams
 

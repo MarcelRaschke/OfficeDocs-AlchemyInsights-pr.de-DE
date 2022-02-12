@@ -1,0 +1,29 @@
+---
+title: OneDrive Dateisynchronisierung
+ms.author: v-ftangonan
+author: IpeTangonan
+manager: anita.danford
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.custom:
+- "9010112"
+- "15490"
+ms.date: 02/11/2022
+ms.openlocfilehash: 33c34f5dd80e9bf893ec0dbca9b332cd71f5ca39
+ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "62790281"
+---
+# <a name="onedrive-file-synchronization"></a>OneDrive Dateisynchronisierung
+
+Mit OneDrive können Sie Dateien zwischen Ihrem Computer und der Cloud synchronisieren, sodass Sie von überall zu Ihren Dateien gelangen können – Ihrem Computer, Ihrem mobilen Gerät und sogar über die OneDrive Website unter OneDrive.com. Wenn Sie eine Datei oder einen Ordner in Ihrem OneDrive Ordner hinzufügen, ändern oder löschen, wird die Datei oder der Ordner auf der OneDrive Website hinzugefügt, geändert oder gelöscht und umgekehrt. Sie können mit Ihren synchronisierten Dateien direkt im Datei-Explorer arbeiten und auf Ihre Dateien zugreifen, auch wenn Sie offline sind. Wenn Sie online sind, werden alle Änderungen, die Sie oder andere vornehmen, automatisch synchronisiert.
+
+*Weitere Informationen zur Dateisynchronisierung in OneDrive:*
+[Synchronisieren von Dateien mit OneDrive in Windows](https://support.microsoft.com/office/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Wenn Sie **sich mit einem Microsoft-Spezialisten für weitere Hilfe in Verbindung setzen** möchten, wählen Sie "Chat mit einem Microsoft-Spezialisten" aus, und **klicken Sie dann unten auf "Live-Chat** ".

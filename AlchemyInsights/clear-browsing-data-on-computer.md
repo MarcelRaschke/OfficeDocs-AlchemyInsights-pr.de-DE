@@ -7,14 +7,19 @@ ms.date: 03/29/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9424
-  - 9005491
+- "9424"
+- "9005491"
+ms.openlocfilehash: 090ecd92e7f961ced02b3070167cf60979d1fe91
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62688528"
 ---
-
 # <a name="clear-the-browsing-data-stored-on-your-computer"></a>Löschen der auf Ihrem Gerät gespeicherten Browserdaten
 
 1. Deaktivieren Sie die Synchronisierung, damit die Browserdaten nicht auf allen Geräten gelöscht werden, auf denen die Synchronisierung aktiviert ist.

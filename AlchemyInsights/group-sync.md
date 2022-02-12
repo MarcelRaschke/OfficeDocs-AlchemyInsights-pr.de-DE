@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8304"
 - "9003234"
-ms.openlocfilehash: 7e5ed69c34f8e7b922d7eef202af508152a7e04d7773581b32e43395571c6fbc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c7b4d14202927a78c051b9e0d6dc9c9d72c373f9
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987646"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62733905"
 ---
 # <a name="group-sync"></a>Gruppensynchronisierung
 

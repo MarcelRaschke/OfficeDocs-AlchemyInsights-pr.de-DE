@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004334"
 - "7733"
-ms.openlocfilehash: 3ce5b04469eb655c9d682f5830d9f906529aa40f706ee594b670708426d48769
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: dc188e2d4946c6af1cca7159fb1521830047f155
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54044987"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62761499"
 ---
 # <a name="configure-and-customize-applications"></a>Konfigurieren und Anpassen von Anwendungen
 
 **Konfigurieren von Anwendungen**
 
-1. [Schnellstart: Konfigurieren von Eigenschaften für eine Anwendung in Ihrem Azure Active Directory (Azure AD)-Mandanten](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) zeigt Ihnen, wie Sie einige der Eigenschaften für eine App konfigurieren.
+1. [Schnellstart: Konfigurieren von Eigenschaften für eine Anwendung in Ihrem Azure Active Directory -Mandanten (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) zeigt Ihnen, wie Sie einige der Eigenschaften für eine App konfigurieren.
 2. Um Ihre Anwendungen in Azure Active Directory zu integrieren, haben wir [eine Sammlung von Lernprogrammen](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) entwickelt, die Sie durch die Konfiguration führen.
-3. Wie Sie [eine Anwendungsproxyanwendung konfigurieren,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) hilft Ihnen zu verstehen, wie Sie eine Anwendungsproxyanwendung in Azure AD konfigurieren, um Ihre lokalen Anwendungen für die Cloud verfügbar zu machen.
-4. [Laden Sie PingAccess herunter, und konfigurieren Sie Ihre Anwendung:](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application)Befolgen Sie die Anweisungen unter *Konfigurieren von PingAccess für Azure AD, um Anwendungen zu schützen,* die mit Microsoft Azure AD Anwendungsproxy auf der Ping Identity-Website veröffentlicht wurden, und laden Sie die neueste Version von PingAccess herunter.
+3. [Wie Sie eine Anwendungsproxyanwendung konfigurieren,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) hilft Ihnen zu verstehen, wie Sie eine Anwendungsproxyanwendung innerhalb Azure AD konfigurieren, um Ihre lokalen Anwendungen für die Cloud verfügbar zu machen.
+4. [Laden Sie PingAccess herunter, und konfigurieren Sie Ihre Anwendung](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application): Befolgen Sie die Anweisungen unter *Configure PingAccess for Azure AD to protect applications* published using Microsoft Azure AD Application Proxy on the Ping Identity web site and download the latest version of PingAccess.
 
 **Fehler bei falsch konfigurierter Anwendung (AADSTS650056)**
 
 1. Stellen Sie sicher, dass Sie über die vom Anwendungsbesitzer angegebene Anmeldeadresse auf die Anwendung zugreifen. Andernfalls müssen Sie sich über den normalen Prozess bei der Anwendung anmelden. In den meisten Fällen wird dies automatisch aufgelöst. Wenn dies nicht der Fall ist, kann dieser Beitrag bei der Problembehandlung und -behebung helfen.
-2. **Wenn Ihre Organisation die Anwendung** besitzt (d. h. die Anwendungsregistrierung befindet sich in Ihrer Organisation):
-    - Es wird empfohlen, dass mindestens die `User.Read` oder delegierte Berechtigung von Microsoft `openid` **Graph** hinzugefügt wird.
-    - Stellen Sie sicher, dass die Anwendung und alle ihre Berechtigungen zustimmen. Sie können dies überprüfen, indem Sie sich die **Spalte "Status"** der Anwendungsregistrierung innerhalb von **API-Berechtigungen** ansehen.
+2. **Wenn Ihre Organisation die Anwendung besitzt** (d. h. die Anwendungsregistrierung befindet sich in Ihrer Organisation):
+    - Es wird empfohlen, dass mindestens die `User.Read` oder `openid` delegierte Berechtigung von **Microsoft Graph** hinzugefügt wird.
+    - Stellen Sie sicher, dass die Anwendung und alle ihre Berechtigungen zustimmen. Sie können dies überprüfen, indem Sie sich die **Spalte "Status** " der Anwendungsregistrierung innerhalb von **API-Berechtigungen** ansehen.
     - In einigen Szenarien kann es sich bei der Anwendung um einen Drittanbieter handeln, aber sie kann in Ihrer Organisation registriert sein. Überprüfen Sie, ob diese Anwendung in Ihren App-Registrierungen aufgeführt ist (nicht Enterprise Anwendungen).
     - Wenn diese Fehlermeldung weiterhin angezeigt wird. Dann müssen Sie möglicherweise die in **Schritt 4** beschriebene Zustimmungs-URL erstellen.
-3. **Wenn Ihre Organisation nicht der Anwendungsbesitzer ist und sie als Drittanbieteranwendung verwendet:**
+3. **Wenn Ihre Organisation nicht der Anwendungsbesitzer ist und sie als Drittanbieteranwendung verwendet**:
     - Wenn Sie der globale/Unternehmensadministrator sind, sollte der Zustimmungsbildschirm angezeigt werden. Stellen Sie sicher, dass Sie das Kontrollkästchen **"Im Namen Ihrer Organisation zustimmen"** aktivieren.
     - Wenn der Zustimmungsbildschirm nicht angezeigt wird, löschen Sie die Enterprise Anwendung, und versuchen Sie es erneut.
     - Wenn diese Fehlermeldung weiterhin angezeigt wird. Dann müssen Sie möglicherweise die in **Schritt 4** beschriebene Zustimmungs-URL erstellen.
-4. **Erstellen Sie manuell die zu verwendende Zustimmungs-URL:** Wenn die Anwendung für den Zugriff auf eine bestimmte Ressource konzipiert ist, können Sie möglicherweise nicht die Zustimmungsschaltflächen aus dem Azure-Portal verwenden. Sie müssen manuell Ihre eigene Zustimmungs-URL generieren und diese verwenden.
-    - Sie müssen die `{App-Id}` und die `{App-Uri-Id}` vom Anwendungsbesitzer abrufen. `{Tenant-Id}` ist Ihr Mandantenbezeichner. Dies ist entweder `yourdomain.onmicrosoft.com` Ihre Verzeichnis-ID.
+4. **Erstellen Sie manuell die zu verwendende Zustimmungs-URL**: Wenn die Anwendung für den Zugriff auf eine bestimmte Ressource konzipiert ist, können Sie möglicherweise nicht die Zustimmungsschaltflächen aus dem Azure-Portal verwenden. Sie müssen manuell Ihre eigene Zustimmungs-URL generieren und diese verwenden.
+    - Sie müssen die `{App-Id}` und die `{App-Uri-Id}` vom Anwendungsbesitzer abrufen. `{Tenant-Id}` ist Ihr Mandantenbezeichner. Dies ist `yourdomain.onmicrosoft.com` entweder Ihre Verzeichnis-ID.
     - Wenn die Anwendung für die Ressource auf sich selbst zugreift, ist sie `{App-Id}` `{App-Uri-Id}` identisch.
-5. Weitere Informationen finden Sie unter Probleme bei der [Anmeldung bei SAML-basierten, für einmaliges Anmelden konfigurierten Apps.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application)
+5. Weitere Informationen finden Sie unter [Probleme beim Anmelden bei SAML-basierten, für einmaliges Anmelden konfigurierten Apps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application).
 
 **Anpassen von Anwendungen**
 
-- [Fügen Sie der Anmeldeseite Ihrer Organisation Azure Active Directory Branding](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) hinzu. Verwenden Sie das Logo Ihrer Organisation und benutzerdefinierte Farbschemas, um Ihren Azure Active Directory (Azure AD)-Anmeldeseiten ein einheitliches Aussehen und Verhalten zu verleihen.
-- [Fügen Sie Ihren benutzerdefinierten Domänennamen über das Azure Active Directory-Portal](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) hinzu– Jeder neue Azure AD-Mandant enthält einen anfänglichen Domänennamen. Sie können den anfänglichen Domänennamen nicht ändern oder löschen, aber Sie können die Namen Ihrer Organisation hinzufügen. Das Hinzufügen von benutzerdefinierten Domänennamen hilft Ihnen beim Erstellen von Benutzernamen, die Ihren Benutzern vertraut sind.
+- [Fügen Sie der Azure Active Directory Anmeldeseite Ihrer Organisation Branding](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) hinzu. Verwenden Sie das Logo Ihrer Organisation und benutzerdefinierte Farbschemas, um Ihren Azure Active Directory (Azure AD)-Anmeldeseiten ein einheitliches Aussehen und Verhalten zu verleihen.
+- [Fügen Sie Ihren benutzerdefinierten Domänennamen über das Azure Active Directory-Portal](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) hinzu . Jeder neue Azure AD Mandant enthält einen anfänglichen Domänennamen. Sie können den anfänglichen Domänennamen nicht ändern oder löschen, aber Sie können die Namen Ihrer Organisation hinzufügen. Das Hinzufügen von benutzerdefinierten Domänennamen hilft Ihnen beim Erstellen von Benutzernamen, die Ihren Benutzern vertraut sind.

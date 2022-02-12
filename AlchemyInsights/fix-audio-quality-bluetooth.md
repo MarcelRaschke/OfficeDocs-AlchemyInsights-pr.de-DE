@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11508"
 - "9005365"
-ms.openlocfilehash: 9d0505dbe71540c97cc484c070d9c628767ec64d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: af0fcdc07569e1a4201b1c6e194d936a8a3ac91d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61946266"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62734877"
 ---
 # <a name="fix-the-audio-quality-of-my-bluetooth-device"></a>Reparieren der Audioqualität meines Bluetooth-Geräts
 

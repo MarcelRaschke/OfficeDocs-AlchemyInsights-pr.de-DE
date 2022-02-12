@@ -15,12 +15,12 @@ ms.custom:
 - "4981"
 - "9002568"
 ms.date: 07/30/2021
-ms.openlocfilehash: 726306a739d074c1333b02e0e7755dd00624f3d1
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: bf1c942b2b80782408e8c4463963425d0c4fe4ac
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843593"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62649570"
 ---
 # <a name="microsoft-365-a1-faq"></a>Microsoft 365 A1 – Häufig gestellte Fragen
 

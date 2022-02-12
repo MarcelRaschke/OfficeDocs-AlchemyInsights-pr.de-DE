@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10978"
 - "9006450"
-ms.openlocfilehash: 5352fd9d7f873122822ba4f37d0cf2ff7d5adac8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: df69d48d031ef87efa03254f87ef4f61cdfd215e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61951616"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62650254"
 ---
 # <a name="learn-about-the-security-features-of-microsoft-edge"></a>Informationen über die Sicherheitsfunktionen von Microsoft Edge
 

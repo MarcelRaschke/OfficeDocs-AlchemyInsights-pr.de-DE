@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 5e26e2ed2aeeb12fafec9f59a57315aff813f1b0
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: dea6711b2fd96d24d5e6a93b2b1f0ad8b055a506
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314879"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62762219"
 ---
 # <a name="add-a-subdomain"></a>Hinzufügen einer Unterdomäne
 
 Die Schritte zum Hinzufügen einer Unterdomäne sind identisch mit dem Hinzufügen einer regulären Domäne. 
 
-**Wichtig:** Um Unterdomänen hinzuzufügen, müssen Sie Ihre eigenen DNS-Einstellungen auf der Website Ihrer Registrierungsstelle verwalten. Wenn Sie Microsoft die Verwaltung Ihrer DNS-Einstellungen mit NS-Einträgen überlassen, können Sie keine Unterdomänen hinzufügen. 
+**Wichtig**: Um Unterdomänen hinzuzufügen, müssen Sie Ihre eigenen DNS-Einstellungen auf der Website Ihrer Registrierungsstelle verwalten. Wenn Sie Microsoft die Verwaltung Ihrer DNS-Einstellungen mit NS-Einträgen überlassen, können Sie keine Unterdomänen hinzufügen. 
 
 Führen Sie die folgenden Schritte aus, um eine Unterdomäne hinzuzufügen:
 
-1. Navigieren Sie im Admin Center zu **Setup > Domänen.**
+1. Navigieren Sie im Admin Center zu **Setup > Domänen**.
 2. Klicken Sie auf **Domäne hinzufügen**.
-3. Geben Sie den Namen der Unterdomäne ein. Wenn Sie beispielsweise die Domäne **contoso.com** besitzen, kann Ihre Unterdomäne **_london.contoso.com_** sein.
+3. Geben Sie den Namen der Unterdomäne ein. Wenn Sie beispielsweise die Domäne **contoso.com** besitzen, ist Ihre Unterdomäne möglicherweise **_london.contoso.com_**.
 4. Klicken Sie auf **Weiter**.
 5. Wenn Sie Onlinedienste für die Unterdomäne einrichten möchten, fahren Sie mit dem Assistenten FORT
-6. Klicken Sie auf **"Speichern"** und schließen Sie das Fenster, wenn Sie die Einrichtung von Onlinediensten für die Unterdomäne überspringen möchten.
+6. Klicken Sie auf **"Speichern** " und schließen Sie das Fenster, wenn Sie die Einrichtung von Onlinediensten für die Unterdomäne überspringen möchten.
 

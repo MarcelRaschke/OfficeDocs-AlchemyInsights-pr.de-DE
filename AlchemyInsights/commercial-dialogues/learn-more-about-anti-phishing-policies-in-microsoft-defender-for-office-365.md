@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 43942a759981b98b5598830cee2b2e0d6f9939ea93d13b68d74a7a1d7db201d4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0f9b1f69fa0fd8d1634fd1be5216c7c433ee9732
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082113"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62761790"
 ---
 # <a name="learn-more-about-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Weitere Informationen zu Antiphishingrichtlinien in Microsoft Defender für Office 365
 

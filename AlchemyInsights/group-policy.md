@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8303"
 - "9003234"
-ms.openlocfilehash: 5bccaedda08e2c948a15c0b32c6f6eeecfc8bd4c4555b25291f294fe5deb3019
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bc750c3262f0ff6c161f6b5849a9e9d4161a259
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088791"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62734085"
 ---
 # <a name="group-policy"></a>Gruppenrichtlinie
 

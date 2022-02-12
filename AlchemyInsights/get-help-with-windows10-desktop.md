@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005616"
 - "9928"
-ms.openlocfilehash: 604bce5dfd8f10a991018d5859d3161d4c1e42da
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 30e0bb6c7d4430063056fa6ca639c6e6ce15f078
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61981606"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62734301"
 ---
 # <a name="get-help-with-windows-10-desktop"></a>Hilfe für Windows 10-Desktop abrufen
 
