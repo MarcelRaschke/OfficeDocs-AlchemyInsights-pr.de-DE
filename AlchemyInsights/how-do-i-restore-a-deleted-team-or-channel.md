@@ -13,12 +13,12 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: 3e314bd7b4a3c1cd74c45da4d9cbb0903b1a35cf
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f1ca356218f75766c7f2f764ea3a6fc3b364e461
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61973229"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62700800"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Wiederherstellen eines gelöschten Teams oder Kanals
 
@@ -27,6 +27,6 @@ Gelöschte Kanäle innerhalb eines Teams können bis zu 21 Tage nach dem Lösche
 Um einen gelöschten Kanal wiederherzustellen, kann der Teambesitzer folgendermaßen vorgehen:
 
 1. Öffnen Sie die Teameinstellungen, indem Sie die drei Punkte rechts neben dem Teamnamen auswählen.
-2. Wählen Sie **"Gelöschte**  >  **Teamkanäle verwalten"**  >  und dann auf der rechten Seite **"Wiederherstellen"** aus.
+2. Wählen Sie **"****teamChannelsDeleted** >  > " und dann "**Wiederherstellen**" auf der rechten Seite aus.
 
 Weitere Informationen zum Wiederherstellen eines Teams finden Sie unter [Archivieren oder Löschen eines Teams in Microsoft Teams – Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).

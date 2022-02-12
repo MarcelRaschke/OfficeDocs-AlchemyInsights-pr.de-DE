@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: ccdcf5b175ffe5455cc5ab0bb4c7ef652fd6a3c9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 91c5db469c784315304113b37a310674dbd45307
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320790"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62700692"
 ---
 # <a name="information-about-teams-contacts"></a>Informationen über Teams-Kontakte
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 336e1906526c07d8db51f61a867fef9ff87c871c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0e33aa768a528a347306e7c9fc20c3d1f2a2f260
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317741"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62702168"
 ---
 # <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Behebung des Problems beim Anzeigen geschützter Nachrichten in Outlook
 
@@ -26,14 +26,14 @@ Wenn ein Empfänger Probleme beim Öffnen einer verschlüsselten Nachricht hat, 
 
 Um verschlüsselte Nachrichten zu öffnen, müssen Benutzer die folgenden Schritte ausführen:
 
-1. Klicken Sie abhängig vom verwendeten E-Mail-Client auf **"Nachricht lesen"** oder auf eine ähnliche Eingabeaufforderung. Die Benutzer werden zu einer Seite umgeleitet, auf der sie sich anmelden und einen Code mit einmaliger Verwendung erhalten können.
+1. Klicken Sie abhängig vom verwendeten E-Mail-Client auf **"Nachricht lesen** " oder auf eine ähnliche Eingabeaufforderung. Die Benutzer werden zu einer Seite umgeleitet, auf der sie sich anmelden und einen Code mit einmaliger Verwendung erhalten können.
 
-    **Hinweis:** Für Gmail-Benutzer werden sie aufgefordert, sich mit Gmail anzumelden. Die Nachricht wird auf einer neuen Registerkarte geöffnet, nachdem sie auf **"Zulassen"** geklickt hat.
+    **Hinweis**: Für Gmail-Benutzer werden sie aufgefordert, sich mit Gmail anzumelden. Die Nachricht wird auf einer neuen Registerkarte geöffnet, nachdem Sie auf **"Zulassen**" geklickt haben.
 
 2. Überprüfen Sie Ihre E-Mail auf den Einzelverwendungscode, und geben Sie diesen Code im Browserfenster ein.
 
-3. Klicken Sie auf **"Weiter",** um die Nachricht zu lesen.
+3. Klicken Sie auf **"Weiter** ", um die Nachricht zu lesen.
 
-Weitere Informationen finden Sie unter [Senden, Anzeigen und Antworten auf verschlüsselte Nachrichten in Outlook für PC.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
+Weitere Informationen finden Sie unter [Senden, Anzeigen und Antworten auf verschlüsselte Nachrichten in Outlook für PCs](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980).
 
 

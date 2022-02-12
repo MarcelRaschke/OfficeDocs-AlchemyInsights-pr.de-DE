@@ -15,12 +15,12 @@ ms.custom:
 - "9002927"
 - "5603"
 ms.date: 08/10/2021
-ms.openlocfilehash: bd1ad533fbde1847d5f1ba3686b699d0c65b228b
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 6c6a6eedb0705945a687e95f358d4428b2eabf39
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843629"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62662494"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Deaktivieren oder Pausieren eines Abonnements
 

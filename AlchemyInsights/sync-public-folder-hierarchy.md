@@ -13,12 +13,12 @@ ms.custom:
 - "3500007"
 - "16396"
 ms.date: 01/21/2022
-ms.openlocfilehash: 7de3ddc94ac85863242c08a0efae60a2a153ac9b
-ms.sourcegitcommit: 5dcbecdebbf5042db0c86a12149ddd537d766c91
+ms.openlocfilehash: 469f4a655b8cdb89d09babf76895a48952c2820d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62185305"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62661918"
 ---
 # <a name="sync-public-folder-hierarchy"></a>Synchronisieren der Hierarchie öffentlicher Ordner
 
@@ -28,4 +28,4 @@ Führen Sie den folgenden Befehl aus, um eine Hierarchiesynchronisierung zu erzw
 
 `Update-PublicFolderMailbox <PFMailboxName> -InvokeSynchronizer`
 
-Weitere Informationen finden Sie unter ["Einführung in die Synchronisierung der Hierarchie öffentlicher Ordner".](https://aka.ms/PFHierarchy)
+Weitere Informationen finden Sie unter ["Einführung in die Synchronisierung der Hierarchie öffentlicher Ordner"](https://aka.ms/PFHierarchy).

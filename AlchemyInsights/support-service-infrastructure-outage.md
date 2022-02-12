@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 6698a223cb9b27004a962237f8994503ebb74ac9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8e1f148e59d4c832020a7122c3160417851ad38d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989666"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62662854"
 ---
 # <a name="support-service-infrastructure-outage"></a>Dienstinfrastrukturausfall unterstützen
 

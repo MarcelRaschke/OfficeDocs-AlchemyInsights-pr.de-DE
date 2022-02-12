@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002626"
 - "5044"
-ms.openlocfilehash: a872a0f486456575cc1b3937d1e48e62bf993b50
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d15591e43d672eaeeac88729a0a9379f81c0d3fa
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61942423"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62662530"
 ---
 # <a name="sway-common-issues-and-solutions"></a>Häufige Probleme und Lösungen für Sway
 

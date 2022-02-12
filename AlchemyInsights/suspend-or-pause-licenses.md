@@ -15,12 +15,12 @@ ms.custom:
 - "9002927"
 - "5605"
 ms.date: 08/10/2021
-ms.openlocfilehash: 4c6c265ca3f06e4fe15cba5d6448f48c38341296
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: d31be8d54049078811b7d47e6d45d7c79a0a0434
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844025"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62662458"
 ---
 # <a name="suspend-or-pause-licenses"></a>Aussetzen oder Pausieren von Lizenzen
 

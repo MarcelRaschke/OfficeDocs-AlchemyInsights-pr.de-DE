@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002358"
 - "4584"
-ms.openlocfilehash: c0cb9577d7ede07966180c4095a634722fd09e42
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8d827d79a49b5509cb8040b1571fe24d77e33802
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61934760"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62662998"
 ---
 # <a name="stuck-on-processing-order"></a>Geht bei der Auftragsverarbeitung nicht weiter
 

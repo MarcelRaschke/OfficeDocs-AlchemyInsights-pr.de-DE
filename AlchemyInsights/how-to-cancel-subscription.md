@@ -15,12 +15,12 @@ ms.custom:
 - "9003797"
 - "6836"
 ms.date: 10/26/2021
-ms.openlocfilehash: 5fb7115e80ed3e37a005aeef6119c3779c174865
-ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
+ms.openlocfilehash: 2ea10a5e22a9a99e6fadec83827c7dbd523e203c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60583662"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62700728"
 ---
 # <a name="how-to-cancel-a-subscription"></a>So kündigen Sie ein Abonnement
 
@@ -38,4 +38,4 @@ Nachdem Sie Ihr Abonnement gekündigt haben, wird die Abrechnung sofort beendet.
 
 Nach der Kündigung sind ihre Dienste deaktiviert. Dies bedeutet, dass die Zuordnung Ihrer virtuellen Computer aufgehoben wird, temporäre IP-Adressen freigegeben werden und der Speicher schreibgeschützt ist.
 
-Nachdem Ihr Abonnement gekündigt wurde, wartet Microsoft 30-90 Tage, bevor die Daten endgültig gelöscht werden, für den Fall, dass Sie darauf zugreifen müssen oder Sie es sich anders überlegen. Für die Aufbewahrung der Daten wird keine Gebühr erhoben. Weitere Informationen finden Sie unter [Microsoft Trust Center – Wie wir Ihre Daten verwalten.](https://www.microsoft.com/trust-center/privacy/data-management#leave)
+Nachdem Ihr Abonnement gekündigt wurde, wartet Microsoft 30-90 Tage, bevor die Daten endgültig gelöscht werden, für den Fall, dass Sie darauf zugreifen müssen oder Sie es sich anders überlegen. Für die Aufbewahrung der Daten wird keine Gebühr erhoben. Weitere Informationen finden Sie unter [Microsoft Trust Center – Wie wir Ihre Daten verwalten](https://www.microsoft.com/trust-center/privacy/data-management#leave).

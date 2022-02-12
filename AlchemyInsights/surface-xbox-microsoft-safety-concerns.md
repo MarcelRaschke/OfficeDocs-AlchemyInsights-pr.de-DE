@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9754"
 - "9005644"
-ms.openlocfilehash: d3f448b296b9ed52c80e8f0337d64c28960a86d6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7ea2530293123c2bfa98293d8b730519f0d5695d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61982275"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62662746"
 ---
 # <a name="surface-xbox-and-microsoft-devices-safety-concerns"></a>Surface-, Xbox- und Microsoft-Gerätesicherheitsbedenken
 

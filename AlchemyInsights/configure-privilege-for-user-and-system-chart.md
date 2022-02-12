@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002928"
 - "5607"
-ms.openlocfilehash: ac748c5074170b64d86c86321855ac8753cd55f8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e30c5f5d3f63039d65a6db6516657ed171584e37
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61939664"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62701952"
 ---
 # <a name="configure-privilege-for-user-and-system-chart"></a>Konfigurieren von Berechtigungen für Benutzer- und Systemdiagramme
 

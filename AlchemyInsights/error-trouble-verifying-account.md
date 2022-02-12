@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9824"
 - "9005394"
-ms.openlocfilehash: dd4e22ada2379256125fdc8d6e5f8f090643a2cd
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5cf9c4077d26bf17dff39693291f17ec5fd6e285
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61863459"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62701196"
 ---
 # <a name="error-were-having-trouble-verifying-your-account-on-this-computer"></a>Fehler: Wir haben Probleme, Ihr Konto auf diesem Computer zu überprüfen.
 

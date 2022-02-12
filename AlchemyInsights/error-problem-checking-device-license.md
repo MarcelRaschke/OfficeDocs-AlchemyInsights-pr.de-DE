@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9810"
 - "9005394"
-ms.openlocfilehash: aa881ce829f65848b5873d68db5122a687958a48
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9ed8485431db9a0c0da479abd9f8ac36f13b308d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61963339"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62701304"
 ---
 # <a name="error-there-was-a-problem-checking-this-devices-license-status"></a>Fehler: Problem beim Überprüfen des Lizenzstatus des Geräts.
 

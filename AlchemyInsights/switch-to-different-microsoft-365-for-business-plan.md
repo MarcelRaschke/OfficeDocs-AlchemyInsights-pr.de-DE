@@ -21,12 +21,12 @@ ms.custom:
 - "9002663"
 - "5168"
 ms.date: 07/30/2021
-ms.openlocfilehash: 9f9ee64dc2058b6504571fed7200f8de7ce91b48
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 836ce02511d6efec01f38ddbacbfabdeba24c324
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58842657"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62662242"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>Wechseln zu einem anderen Microsoft 365 Business-Plan
 

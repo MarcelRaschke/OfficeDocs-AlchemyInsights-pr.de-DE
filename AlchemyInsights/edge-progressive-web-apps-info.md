@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6e99f6078b7c5428dcf8947b24c639bf5094d460
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54101445"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62701556"
 ---
 # <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Erfahren Sie mehr über Progressive Web Apps (PWAs) auf Microsoft Edge (Chromium)
 

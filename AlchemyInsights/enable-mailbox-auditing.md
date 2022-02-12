@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 8727d3e19a671e04eb2582f5c2cbb379b3bd5e8a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7c00b3e52abe860decc9247979b5e33a17eec392
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61934352"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62701448"
 ---
 # <a name="enable-mailbox-auditing"></a>Aktivieren der Postfachüberwachung
 

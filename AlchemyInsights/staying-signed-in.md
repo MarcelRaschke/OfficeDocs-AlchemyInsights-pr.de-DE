@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003320"
 - "6216"
-ms.openlocfilehash: c7e94920677ec7c8f06f52b080a89c688b79689c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0d225481e06c13aa78a7dfb98b0fdd0124b01af6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61969375"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62663142"
 ---
 # <a name="staying-signed-in"></a>Angemeldet bleiben
 

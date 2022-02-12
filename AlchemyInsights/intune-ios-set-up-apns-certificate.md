@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3543"
-ms.openlocfilehash: e608b61a08a6d946bd12ffa4f687cafb0f3c1c69
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7c5ddcb68f7c209be2da61236e3422eb2dcac72f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61862742"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62700476"
 ---
 # <a name="intune-ios-set-up-apns-certificate"></a>Intune iOS – APNS-Zertifikat einrichten
 

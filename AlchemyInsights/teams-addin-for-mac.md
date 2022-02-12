@@ -15,12 +15,12 @@ ms.custom:
 - "6166"
 - "9003233"
 - "9002573"
-ms.openlocfilehash: 4c6023f24307dd237f342d8f9a07cf2bc2d81079
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b8613d3aadad8633c60222d476db1dc6daf8daeb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61970311"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62661702"
 ---
 # <a name="teams-add-in-for-mac"></a>Teams-Add-in für Mac
 

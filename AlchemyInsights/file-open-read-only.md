@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: b4baf5c1799ae7cc70255c2a881dec156b4d735b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 34ffb28da7e6277d26a10922df8ddca421a73155
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61968474"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62701052"
 ---
 # <a name="file-open-read-only"></a>Datei schreibgeschützt öffnen
 
@@ -26,7 +26,7 @@ Wenn Sie Dateien öffnen, werden sie möglicherweise schreibgeschützt geöffnet
   
  **Mein Antivirus bewirkt, dass sie schreibgeschützt geöffnet werden**
   
-Einige Antivirenprogramme können Sie vor potenziell unsicheren Dateien schützen, indem sie schreibgeschützt geöffnet werden. Möglicherweise müssen Sie sich an Ihren Antivirenanbieter wenden, um zu erfahren, wie Sie diese Einstellungen anpassen. BitDefender enthält beispielsweise Inhalte zum Hinzufügen von Anwendungsausschlüssen hier: [So fügen Sie Anwendungs- oder Prozessausschlüsse im Bitdefender Control Center hinzu.](https://aka.ms/AA6098i)
+Einige Antivirenprogramme können Sie vor potenziell unsicheren Dateien schützen, indem sie schreibgeschützt geöffnet werden. Möglicherweise müssen Sie sich an Ihren Antivirenanbieter wenden, um zu erfahren, wie Sie diese Einstellungen anpassen. BitDefender enthält beispielsweise Inhalte zum Hinzufügen von Anwendungsausschlüssen hier: [Hinzufügen von Anwendungs- oder Prozessausschlüssen im Bitdefender Control Center](https://aka.ms/AA6098i).
   
  **Sind die Dateieigenschaften schreibgeschützt?**
   
@@ -38,11 +38,11 @@ Dateien aus dem Internet und von anderen potenziell unsicheren Speicherorten kö
   
  **Ist OneDrive voll?**
   
-Wenn die Datei auf OneDrive gespeichert ist und Ihr OneDrive Speicherplatz voll ist, können Sie das Dokument erst speichern, wenn Sie sich unter dem zugewiesenen Speicherplatz befinden. Sie können Ihren freien Speicherplatz auf OneDrive überprüfen, indem Sie im Benachrichtigungscenter auf das Symbol OneDrive klicken und "Speicher verwalten" auswählen, oder Sie können zu [https://onedrive.live.com](https://onedrive.live.com) ", sich anmelden" und die Menge des verwendeten Speicherplatzes in der unteren linken Ecke des Bildschirms notieren.
+Wenn die Datei auf OneDrive gespeichert ist und ihr OneDrive Speicherplatz voll ist, können Sie das Dokument erst speichern, wenn Sie sich unter dem zugewiesenen Speicherplatz befinden. Sie können Ihren freien Speicherplatz auf OneDrive überprüfen, indem Sie im Info-Center auf das Symbol OneDrive klicken und "Speicher verwalten" auswählen, oder Sie können zu [https://onedrive.live.com](https://onedrive.live.com)", anmelden" gehen und den verwendeten Speicherplatz in der unteren linken Ecke des Bildschirms notieren.
   
  **Ist Office aktiviert?**
   
-Wenn Office nicht aktiviert ist oder Ihr Abonnement abgelaufen ist, können Sie sich im schreibgeschützten Modus mit eingeschränkter Funktionalität befinden. Informationen zum Aktivieren von Office finden Sie unter: [Nicht lizenziertes Produkt und Aktivierungsfehler in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Wenn Office nicht aktiviert ist oder Ihr Abonnement abgelaufen ist, können Sie sich im schreibgeschützten Modus mit eingeschränkter Funktionalität befinden. Informationen zum Aktivieren Office finden Sie unter: [Nicht lizenziertes Produkt und Aktivierungsfehler in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Wenn alle anderen Fehler auftreten...**
   

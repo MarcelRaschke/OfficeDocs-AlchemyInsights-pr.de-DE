@@ -7,14 +7,19 @@ ms.date: 04/01/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 8206
-  - 9004431
+- "8206"
+- "9004431"
+ms.openlocfilehash: 1b646ef269b4f0a1f6ffe01e8deaf078d99893cd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62662062"
 ---
-
 # <a name="sync-your-browsing-data-across-your-devices"></a>Browserdaten für alle Ihre Geräte synchronisieren
 
 Verwenden Sie die Synchronisierungsfunktion von Microsoft Edge auf jedem Ihrer Geräte, um Ihre Favoriten zu organisieren und dort weiterzusurfen, wo Sie aufgehört haben.

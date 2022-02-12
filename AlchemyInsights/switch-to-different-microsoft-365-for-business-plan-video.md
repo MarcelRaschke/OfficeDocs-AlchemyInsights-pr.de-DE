@@ -15,12 +15,12 @@ ms.custom:
 - "9002608"
 - "7594"
 ms.date: 04/14/2021
-ms.openlocfilehash: 7c534709b959d36abc15dc845bca55d3a41e0b1e
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 00381d9590dcbdb4e116cf9b7e48c13c1d3f2ee9
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58845609"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62662206"
 ---
 # <a name="switch-to-a-different-plan"></a>Wechseln zu einem anderen Plan
 

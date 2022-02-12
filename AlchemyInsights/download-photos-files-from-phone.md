@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9795"
 - "9005496"
-ms.openlocfilehash: 5fc54892cd61b66ed46d3303d29076fb5073e9ca
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 45f693b926c15163a824159762e363acf31b53e6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61966670"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62701664"
 ---
 # <a name="are-you-trying-to-download-photos-and-files-from-your-phone"></a>Versuchen Sie Fotos und Dateien von Ihrem Smartphone herunterzuladen?
 

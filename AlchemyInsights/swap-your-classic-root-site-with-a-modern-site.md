@@ -14,24 +14,24 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 04cb5a47f5a7566e32f792753f0aebbd995abee0
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c03191af9b873fac6432d5b2e0ed7ec465108bca
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61942459"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62662566"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Tauschen Sie Ihre klassische Stammwebsite mit einer modernen Website aus.
 
 Wenn Ihre Umgebung vor April 2019 eingerichtet wurde, können Sie Ihre Stammwebsite mithilfe von Microsoft PowerShell in eine moderne Website ändern:
 
-- Wenn Sie über eine andere Website verfügen, die Sie als Stammwebsite verwenden möchten, können Sie die Stammwebsite durch diese ersetzen [(austauschen).](https://docs.microsoft.com/sharepoint/modern-root-site)
+- Wenn Sie über eine andere Website verfügen, die Sie als Stammwebsite verwenden möchten, können Sie [die Stammwebsite](https://docs.microsoft.com/sharepoint/modern-root-site) durch diese ersetzen (austauschen).
 
-  - Verwenden Sie [Invoke-SPOSiteSwap,](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps&preserve-view=true) um den Standort eines Standorts mit einem anderen Standort auszutauschen, während Sie den ursprünglichen Standort archivieren. Verfügbar für Teamwebsite (nicht mit einer Gruppe verbunden) und Kommunikationswebsite.
+  - Verwenden Sie [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps&preserve-view=true) , um den Standort eines Standorts mit einem anderen Standort auszutauschen, während Sie den ursprünglichen Standort archivieren. Verfügbar für Teamwebsite (nicht mit einer Gruppe verbunden) und Kommunikationswebsite.
 
 - In Kürze werden zusätzliche Funktionen eingeführt, mit denen Sie weiterhin den Inhalt der Website verwenden, aber die vorhandene Website in eine Kommunikationswebsite konvertieren können.
 
-**Wichtig:** Diese Funktionen werden schrittweise eingeführt. Fahren Sie fort, um das Nachrichtencenter auf Updates zu überprüfen.
+**Wichtig**: Diese Funktionen werden schrittweise eingeführt. Fahren Sie fort, um das Nachrichtencenter auf Updates zu überprüfen.
 
 ## <a name="known-issues-with-swapping-sites"></a>Bekannte Probleme beim Austauschen von Websites
 

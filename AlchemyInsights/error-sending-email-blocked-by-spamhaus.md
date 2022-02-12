@@ -14,16 +14,16 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 6d86c63cf9c6fa731ba49155408334e4a30e04b5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 1ac95c5c8653836fb6fdcb918cbfac80488ef1ba
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61938307"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62701232"
 ---
 # <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Fehler beim Senden von E-Mails: Clienthost mit Spamordner blockiert
 
-Die IP-Adresse, die die Nachricht gesendet hat, befindet sich in einer Sperrliste, die [Spam eigen](https://go.microsoft.com/fwlink/p/?linkid=123245)ist. Zu den Gründen für die Sperrung durch Spamdateien gehören kompromittierte Konten, kompromittierte Computer, die eine öffentliche IP-Adresse teilen, und Internetdienstanbieter-Richtlinien (Internet Service Provider, ISP). Mögliche Fixes sind:
+Die IP-Adresse, die die Nachricht gesendet hat, befindet sich in einer Sperrliste im Besitz von [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Zu den Gründen für die Sperrung durch Spamdateien gehören kompromittierte Konten, kompromittierte Computer, die eine öffentliche IP-Adresse teilen, und Internetdienstanbieter-Richtlinien (Internet Service Provider, ISP). Mögliche Fixes sind:
   
 - Für blockierte eingehende Nachrichten, in denen Sie den Quell-E-Mail-Server steuern, müssen Sie die Ursache ermitteln und den Block von der Spamspeicher-Website entfernen.
 
