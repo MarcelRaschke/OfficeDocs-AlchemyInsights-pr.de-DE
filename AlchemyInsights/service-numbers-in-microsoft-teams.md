@@ -12,12 +12,12 @@ ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: 09a9316e2472322b350f1281b7e5f2ec8dd580e8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d30c15d96e415c278f83e3571788891494b9bcd5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61979984"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62584894"
 ---
 # <a name="service-numbers-in-teams"></a>Dienstnummern in Teams
 

@@ -14,12 +14,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9001509"
 - "8646"
-ms.openlocfilehash: 0e3b29e16991b4792186a52e9b093c6031450405210ec139d9ff7edcc706284e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7f5ac9890617ed7b9ffdf4cce9b11d10853a2e92
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54066183"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62745407"
 ---
 # <a name="microsoft-stream-mobile-apps"></a>Mobile Microsoft Stream-Apps
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003893"
 - "6947"
-ms.openlocfilehash: 58688e3216ba6777b1a4f76095bd39c81a2d2a8294e06b6bc61c7134f6d589f9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff0d1a3ac8658dc8abc7fa6119fa8ca71cf5baa1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54052385"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62585146"
 ---
 # <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Dienstdiagnosetool für Windows Virtual Desktop
 
@@ -29,4 +29,4 @@ Windows Virtual Desktop (WVD) bietet ein Diagnosetool, mit dem Administratoren F
 1. [Diagnosedaten in den Arbeitsbereich übertragen](https://go.microsoft.com/fwlink/?linkid=2128284). Sie können Diagnosedaten aus dem WVD-Mandanten in Log Analytics für Ihren Arbeitsbereich übertragen.
 1. [Identifizieren und Diagnostizieren von Internen](https://go.microsoft.com/fwlink/?linkid=2128338) oder externen Problemen in Bezug auf WVD.
 
-Weitere Informationen zum Konfigurieren des Dienstdiagnosetools für WVD finden Sie unter [Verwenden von Log Analytics für das Diagnosefeature.](https://go.microsoft.com/fwlink/?linkid=2128084)
+Weitere Informationen zum Konfigurieren des Dienstdiagnosetools für WVD finden Sie unter [Verwenden der Protokollanalyse für das Diagnosefeature](https://go.microsoft.com/fwlink/?linkid=2128084).

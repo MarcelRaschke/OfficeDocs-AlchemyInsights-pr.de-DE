@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10362"
 - "9006005"
-ms.openlocfilehash: 0e013b2ae087d706b8e340ace2f3e56f6e0284df
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 084b6f342ccaca62c63e5c553d82105a22d719d8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61951328"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62584786"
 ---
 # <a name="set-microsoft-edge-as-the-default-browser-on-a-macos-device"></a>Microsoft Edge als Standardbrowser auf einem MacOS-Gerät festlegen
 

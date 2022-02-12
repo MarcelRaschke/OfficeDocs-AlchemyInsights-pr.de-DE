@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9289"
-ms.openlocfilehash: e8d4e46da4dfb6b742452371cfd1b0054eb2a9118092821bcd7b66ef4121d02f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3af2224a643be9fb5e65679ef8e16e3ee0ae3650
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53925488"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62745885"
 ---
 # <a name="make-microsoft-bing-your-default-search-engine"></a>Microsoft Bing als Standardsuchmaschine festlegen
 

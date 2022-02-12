@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6052"
 - "9002883"
-ms.openlocfilehash: 8754a6e3211085ed866169a746282bccdd976d13
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2b2ce77f354e89db385cfd06ae52217264484f31
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61961637"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62745191"
 ---
 # <a name="microsoft-bookings-payment-options"></a>Microsoft Bookings – Zahlungsoptionen
 

@@ -15,12 +15,12 @@ ms.custom:
 - "7428"
 - "9000273"
 - "9245"
-ms.openlocfilehash: 367b22259ba619230404ef967eef1530969b23aab0a5c5916382fd19cdb5986d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e85597d735d71edff9c11ca2bf476cbe48fd64d2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53921618"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62584642"
 ---
 # <a name="set-up-microsoft-information-governance"></a>Einrichten von Microsoft Information Governance
 

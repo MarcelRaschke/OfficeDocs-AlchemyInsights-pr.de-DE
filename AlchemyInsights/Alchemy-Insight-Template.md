@@ -13,12 +13,12 @@ ms.custom:
 - bucket id
 - rule id
 ms.date: (publish date)
-ms.openlocfilehash: 2dee440343d4016425780c094ce4a0ab856e2163
-ms.sourcegitcommit: ea30136488c3bc0c100636cd7ce7a59b3c645c33
+ms.openlocfilehash: 1f8833d43739cba24da037791e3115847efa509c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "62323035"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62567235"
 ---
 # <a name="required-alchemy-header-h1"></a>Erforderlicher Alemy-Header H1
 
@@ -34,10 +34,10 @@ Bewährte Methoden und Richtlinien für die Alchemy-Erstellung:
     - 1234
 ```
 4. Verwenden Sie die restlichen Metadaten oben in dieser Datei als Vorlage.
-5. Öffnen Sie im [Alchemy Partner-Portal](https://alchemyportal.azurewebsites.net) die Seite "Alchemy-Regel", und scrollen Sie nach unten zum **Abschnitt Insights**. Suchen Sie den **Lösungstitel,** und verwenden Sie diesen als Ausgangspunkt für Ihre Titelmetadaten und den H1-Titel. Je nachdem, wie die ursprüngliche Zeichenfolge geschrieben wird, müssen Sie sie möglicherweise zur besseren Lesbarkeit bearbeiten.
+5. Öffnen Sie im [Portal "Alchemy Partner"](https://alchemyportal.azurewebsites.net) die Seite "Alchemy-Regel", und scrollen Sie nach unten zum **Abschnitt Insights**. Suchen Sie den **Lösungstitel,** und verwenden Sie diesen als Ausgangspunkt für Ihre Titelmetadaten und den H1-Titel. Je nachdem, wie die ursprüngliche Zeichenfolge geschrieben wird, müssen Sie sie möglicherweise zur besseren Lesbarkeit bearbeiten.
 
 
-**Hinweis** Alemy Insights DARF nur einen einzelnen H1 oben haben, sonst werden sie in der Produktion beschädigt.
+**Hinweis** Alemy Insights MUSS nur einen einzelnen H1 oben haben, sonst werden sie in der Produktion beschädigt.
 
 6. Füllen Sie als Nächstes den Textkörper "Insight" mithilfe des Entwurfsmaterials im Abschnitt **"Kundenlösung** " der Seite "Alchemy-Regel" aus.
 

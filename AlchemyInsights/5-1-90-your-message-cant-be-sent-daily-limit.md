@@ -14,12 +14,12 @@ ms.custom:
 - "13778"
 - "13779"
 - "9008610"
-ms.openlocfilehash: a0b5ee1d3fb4c446822ead74867f1f6c014a77a6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8e4a8a8dc5ddba5482da0942a9d1ea0cdf78a876
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61933498"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62567343"
 ---
 # <a name="5190-your-message-cant-be-sent-because-youve-reached-your-daily-limit-for-message-recipients"></a>5.1.90 Ihre Nachricht kann nicht gesendet werden, weil Sie Ihren täglichen Empfängerratengrenzwert erreicht haben.
 

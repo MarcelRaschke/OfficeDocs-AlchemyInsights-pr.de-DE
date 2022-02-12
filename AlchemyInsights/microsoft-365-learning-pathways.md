@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002632"
 - "5054"
-ms.openlocfilehash: e803eed8a60044054428a7edda61636e83b31ddb
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: cdb8424d0772d782c259ea5b9dc3de91f64a5e8e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952228"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62745659"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365-Lernpfade
 
