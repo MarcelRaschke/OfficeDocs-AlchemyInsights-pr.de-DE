@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4836"
-ms.openlocfilehash: f45f3945dbafc21d21d956ae7ea0e138fa631df1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c46d5d3d88efbd5b3470dfe112698cca603bef63
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61984618"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62598358"
 ---
 # <a name="restore-deleted-sites"></a>Wiederherstellen von gelöschten Websites
 
