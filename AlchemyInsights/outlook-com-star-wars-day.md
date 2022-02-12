@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000045
-ms.openlocfilehash: 0fe31783a95eb1a21f364dde4212b27c5267447b88b4237d7d00b1b8d36dee49
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8e00f87828449ab5bd404aeb86f69a2c3ae8d62a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54063483"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62717901"
 ---
 # <a name="star-wars-day"></a>Star Wars Day
 
