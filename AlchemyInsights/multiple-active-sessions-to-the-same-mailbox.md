@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1836"
 - "9000248"
-ms.openlocfilehash: 35a4058be21175f99a9e03393be174a1cc7a7bea
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: bff363df115bbdb86e78ca49a0b05bc42804f2cc
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61951508"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62730880"
 ---
 # <a name="multiple-active-sessions-to-the-same-mailbox"></a>Mehrere aktive Sitzungen mit demselben Postfach
 
