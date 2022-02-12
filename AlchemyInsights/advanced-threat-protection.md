@@ -11,27 +11,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 61236d1e0174248cdb49284d6c6c7d49df51e7e9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1beff52d2699432c349014b1dc07c2724eeed3fc
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315077"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62611859"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender für Office 365
 
-- Tresor Anlagen, Tresor Links und Antiphishing sind Bestandteil von Microsoft Defender für Office 365. Enterprise E5, Education A5 und Microsoft 365 Business Premium umfassen Microsoft Defender für Office 365. Alle anderen Pläne erfordern ein Add-On von Microsoft Defender für Office 365 Abonnement.
+- Tresor Anlagen, Tresor Links und Antiphishing sind Teil von Microsoft Defender für Office 365. Enterprise E5, Education A5 und Microsoft 365 Business Premium Microsoft Defender für Office 365 enthalten. Alle anderen Pläne erfordern ein Add-On microsoft Defender für Office 365 Abonnement.
 
-- Sie müssen die entsprechenden Lizenzen zuweisen, um Ihre Benutzer durch Microsoft Defender für Office 365 zu schützen. Anweisungen zum Massenanfügen von Lizenzen auf Ihre Benutzer finden Sie unter "Hinzufügen von [Benutzern und gleichzeitiges Zuweisen](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) von Lizenzen".
+- Sie müssen die entsprechenden Lizenzen zuweisen, um Ihre Benutzer durch Microsoft Defender für Office 365 zu schützen. Anweisungen zum Massenanfügen von Lizenzen auf Ihre Benutzer finden Sie [unter "Hinzufügen von Benutzern und gleichzeitiges Zuweisen von Lizenzen](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) ".
 
-- Globale Administratoren oder Sicherheitsadministratoren können auf Microsoft Defender für Office 365 Features im Microsoft 365 Defender-Portal unter **E-Mail & Abschnitt "Richtlinien** für die Zusammenarbeit \> **& Regeln** \> **Für Bedrohungsrichtlinien"** zugreifen.
+- Globale Administratoren oder Sicherheitsadministratoren können auf Microsoft Defender für Office 365 Features im Microsoft 365 Defender-Portal im Abschnitt \> "Richtlinien für die **E-Mail-& Zusammenarbeit** **& Bedrohungsrichtlinien für Regeln**\>" zugreifen.
 
-- Tresor Anlagen und Tresor Verknüpfungsrichtlinien können auf bestimmte Domänen, Gruppenmitglieder oder einzelne Benutzer beschränkt werden. Sie können auch Ausnahmen für Tresor Anlagen und Tresor Links-Richtlinien basierend auf Domäne, Gruppenmitgliedschaft oder einzelnen Benutzern angeben.
+- Tresor Richtlinien für Anlagen und Tresor Links können auf bestimmte Domänen, Gruppenmitglieder oder einzelne Benutzer beschränkt werden. Sie können auch Ausnahmen für Tresor Anlagen und Tresor Verknüpfungsrichtlinien basierend auf Domäne, Gruppenmitgliedschaft oder einzelnen Benutzern angeben.
 
-- Es gibt keine Standardrichtlinie Tresor Anlagen, die E-Mail-Nachrichten schützt. Sie müssen eine Richtlinie für Tresor Anlagenschutz in E-Mails [erstellen.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- Es gibt keine Standardrichtlinie Tresor Anlagen, die E-Mail-Nachrichten schützt. Sie müssen [eine Richtlinie](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies) für Tresor Anlagenschutz in E-Mails erstellen.
 
-  Tresor Anlagen für SharePoint, OneDrive und Microsoft Teams sind global aktiviert oder deaktiviert und erfordern keine Tresor Anlagenrichtlinien. Weitere Informationen finden Sie unter [Tresor Anlagen für SharePoint, OneDrive und Microsoft Teams.](https://docs.microsoft.com/microsoft-365/security/office-365-security/mdo-for-spo-odb-and-teams)
+  Tresor Anlagen für SharePoint, OneDrive und Microsoft Teams ist global aktiviert oder deaktiviert und erfordert keine Tresor Anlagenrichtlinien. Weitere Informationen finden Sie unter [Tresor Anlagen für SharePoint, OneDrive und Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/mdo-for-spo-odb-and-teams).
 
-- Es gibt keine Standardrichtlinie für Tresor Links, die E-Mail-Nachrichten oder Microsoft Teams schützt. Sie müssen eine Richtlinie für Tresor Linksschutz in E-Mails und Teams [erstellen.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- Es gibt keine Standardrichtlinie für Tresor Links, die E-Mail-Nachrichten oder Microsoft Teams schützt. Sie müssen [eine Richtlinie](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies) für Tresor Linksschutz in E-Mails und Teams erstellen.
 
-  Tresor Der Linksschutz für Office 365 Apps wird auf alle Benutzer in der Organisation angewendet, die für Defender für Office 365 lizenziert sind, unabhängig davon, ob die Benutzer in den richtlinien für aktive Tresor Links enthalten sind oder nicht. Weitere Informationen finden Sie unter [Tresor Links-Einstellungen für Office 365-Apps.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links#safe-links-settings-for-office-365-apps)
+  Der Schutz durch “Sichere Links“ für Office 365 apps wird auf alle Benutzer in der Organisation angewendet, die für Defender für Office 365 lizenziert sind, unabhängig davon, ob die Benutzer in aktiven Richtlinien für Sichere Links enthalten sind oder nicht. Weitere Informationen finden Sie unter [Tresor Links-Einstellungen für Office 365-Apps](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links#safe-links-settings-for-office-365-apps).

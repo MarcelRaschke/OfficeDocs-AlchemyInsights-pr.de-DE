@@ -15,12 +15,12 @@ ms.custom:
 - "9000734"
 - "9466"
 - "10006"
-ms.openlocfilehash: 478aa282735c496afbd83f0ddc128a311e078a81e8fd639648b90a815b14c79c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9637d399b2c4a9b7f98ad4fe8b1b67f5f5bb3efa
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950808"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62611643"
 ---
 # <a name="assign-policies-in-microsoft-teams"></a>Zuweisen von Richtlinien in Microsoft Teams.
 

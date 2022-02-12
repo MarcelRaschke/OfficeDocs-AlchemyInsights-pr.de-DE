@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 514720c9fa9a1ff102dcbbeaabf1da55ce342da9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d3e63695a9b33f08ae52c25de6ce04cdb7d5791b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61864300"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62611787"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Beantragen des Status einer Steuerbefreiung
 

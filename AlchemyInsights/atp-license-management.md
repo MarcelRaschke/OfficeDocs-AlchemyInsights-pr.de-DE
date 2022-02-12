@@ -15,20 +15,20 @@ ms.custom:
 - "9003019"
 - "5782"
 ms.date: 08/10/2021
-ms.openlocfilehash: 063067f35ba764a784b6e0f1a701de923c89eb74
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: cca1bd061917f957251f31141d1821e0b5f37a02
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58845141"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62611211"
 ---
 # <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender für Office 365-Lizenzverwaltung
 
 Die Lizenzverwaltung von Microsoft Defender für Office 365 kann im Microsoft 365 Admin Center abgeschlossen werden.
 
 - So erwerben Sie Microsoft Defender für Office 365:
-    1. Wechseln Sie zu  >  [Abrechnungskaufdiensten.](https://go.microsoft.com/fwlink/p/?linkid=868433)
-    2. Wählen Sie am unteren Rand der Seite **Add-Ons aus.**
-    3. Wählen Sie auf der Seite **"Dienste kaufen"** den Microsoft Defender für Office 365 Plan aus, den Sie kaufen möchten, geben Sie die Anzahl der Benutzer ein, die eine Lizenz benötigen, und wählen Sie dann **"Jetzt auschecken"** aus. Weitere Informationen finden Sie unter ["Add-On kaufen".](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
-- Um Microsoft Defender für Office 365 Lizenzen zuzuweisen, wechseln Sie zu **"Abrechnungslizenzen".**  >   Weitere Informationen finden Sie unter [Zuweisen von Lizenzen zu Benutzern.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
-- Wenn Sie Lizenzen von Microsoft Defender für Office 365 hinzufügen oder entfernen möchten, wechseln Sie zu **"Abrechnung**  >  **Ihrer Produkte".** Wählen Sie das Abonnement aus, das Sie aktualisieren möchten, und wählen Sie dann **"Lizenzen kaufen"** oder **"Lizenzen entfernen" aus.** Weitere Informationen finden Sie unter ["Abonnementlizenzen kaufen oder entfernen".](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+    1. Wechseln Sie zu [BillingPurchase-Diensten](https://go.microsoft.com/fwlink/p/?linkid=868433) > .
+    2. Wählen Sie unten auf der Seite **Add-Ons aus**.
+    3. Wählen Sie auf der Seite **"Dienste kaufen**" den Microsoft Defender für Office 365 Plan aus, den Sie kaufen möchten, geben Sie die Anzahl der Benutzer ein, die eine Lizenz benötigen, und wählen Sie dann **"Jetzt auschecken**" aus. Weitere Informationen finden Sie unter ["Add-On kaufen"](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
+- Um Microsoft Defender für Office 365 Lizenzen zuzuweisen, wechseln Sie zu **BillingLicenses** > . Weitere Informationen finden Sie unter [Zuweisen oder Entfernen von Lizenzen im Azure Active Directory-Portal](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Um Lizenzen von Microsoft Defender für Office 365 hinzuzufügen oder zu entfernen, wechseln Sie zu **BillingYour-Produkten** > . Wählen Sie das Abonnement aus, das Sie aktualisieren möchten, und wählen Sie dann **"Lizenzen kaufen** " oder **"Lizenzen entfernen" aus**. Weitere Informationen finden Sie unter ["Abonnementlizenzen kaufen oder entfernen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)".

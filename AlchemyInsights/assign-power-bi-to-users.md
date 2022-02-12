@@ -15,12 +15,12 @@ ms.custom:
 - "9002564"
 - "4964"
 ms.date: 08/10/2021
-ms.openlocfilehash: 84cbfc27eee9d979f2b25a0f6b9ea3ccf4211e09
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 1c48d89aa6678c65691dbd872ff4c5584bfa4b91
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844493"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62611751"
 ---
 # <a name="assign-power-bi-to-users"></a>Zuweisen von Power BI zu Benutzern
 

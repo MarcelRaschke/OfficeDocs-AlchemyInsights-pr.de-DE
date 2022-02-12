@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "13979"
-ms.openlocfilehash: ff71a33209352509c78d26f953d6f7445d14c365
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 188faf3498e94a9aa8d0a1d613162132d88b3f41
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61935688"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62611175"
 ---
 # <a name="attendance-report-known-issues-and-limitations"></a>Anwesenheitsbericht – bekannte Probleme und Einschränkungen
 

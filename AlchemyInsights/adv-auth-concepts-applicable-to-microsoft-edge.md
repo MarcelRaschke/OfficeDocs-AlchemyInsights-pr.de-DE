@@ -14,12 +14,12 @@ ms.custom:
 - "6986"
 - "8329"
 - "9004625"
-ms.openlocfilehash: 8ddec37260ec4e3bcc390dcc8adb7397368de19555ee31be458be033d3886386
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 94c70e7b6709e35aca71664bccaed02534a9af54
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53934364"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62611895"
 ---
 # <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Erweiterte Authentifizierungskonzepte für Microsoft Edge
 
@@ -31,9 +31,9 @@ Wenn Sie die [ProactiveAuthEnabled-Richtlinie](https://go.microsoft.com/fwlink/?
 
 Vorteile: Die proaktive Authentifizierung ermöglicht die Authentifizierung bei wichtigen Diensten, z. B. der Office Seite "Neue Registerkarte". Wenn Bing als Suchmaschine verwendet wird, verbessert die proaktive Authentifizierung außerdem die Leistung der Adressleiste und hilft bei der Generierung von Suchergebnissen, die an die Anforderungen Ihres Unternehmens angepasst sind.
 
-**Windows Hello CredUI für ntlm-Authentifizierung**
+**Windows Hello CredUI für die NTLM-Authentifizierung**
 
-Wenn einmaliges Anmelden (Single Sign-On, SSO) nicht verfügbar ist, wenn eine Website versucht, den Benutzer über ntlm oder den Aushandlungsmechanismus anzumelden, ermöglicht dieses Feature dem Benutzer, die BS-Anmeldeinformationen für die Website freizugeben und die Authentifizierungsanforderung mithilfe Windows Hello Cred UI zu erfüllen. Dieser Anmeldefluss wird nur in Windows 10 und nur für Benutzer angezeigt, die während einer NTLM- oder Einer Negotiate-Abfrage kein SSO erhalten.
+Wenn einmaliges Anmelden (Single Sign-On, SSO) nicht verfügbar ist, wenn eine Website versucht, den Benutzer über ntlm oder den Aushandlungsmechanismus anzumelden, ermöglicht dieses Feature dem Benutzer, die BS-Anmeldeinformationen für die Website freizugeben und die Authentifizierungsanforderung mithilfe Windows Hello Cred UI zu erfüllen. Dieser Anmeldeablauf wird nur in Windows 10 und nur für Benutzer angezeigt, die während einer NTLM- oder Einer Negotiate-Abfrage kein SSO erhalten.
 
 **Verwenden von gespeicherten Kennwörtern zum automatischen Anmelden**
 

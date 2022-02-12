@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11017"
 - "9000181"
-ms.openlocfilehash: b6b7f9bb0f88ba0f713abd165723b2b665d4ad37
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f8592064f54676cdbdd4bbfd1a8e431260a908b7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61950155"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62645844"
 ---
 # <a name="troubleshoot-sensitivity-labels-not-appearing"></a>Problembehandlung bei nicht angezeigten Vertraulichkeitsbezeichnungen
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002370"
 - "4605"
-ms.openlocfilehash: f5f90eb4e9fc6020a874455629d26f93fb09b777
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 92eaf3d849129b7743e932ac11cd2d8433d57d43
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61865458"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62645808"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Verwenden von SaRA zur Diagnose und Behebung von Problemen mit der Outlook-Authentifizierung
 

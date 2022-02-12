@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004584"
 - "8187"
-ms.openlocfilehash: 0e67fd327eeb6c802180be2cc5baa422ff69ebd5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 513c6a11ca3a5beedc0e724d89196f201e78c219
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58319061"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62611656"
 ---
 # <a name="application-guard-for-office-for-admins"></a>Application Guard für Office für Administratoren
 
 Application Guard für Office ist für Organisationen verfügbar, die über Microsoft 365 E5 oder Microsoft 365 E5 Mobility + Security-Lizenzen verfügen. Benutzer in diesen Organisationen müssen Microsoft 365 Apps für Unternehmen im aktuellen Kanal oder im monatlichen Enterprise Kanal verwenden.
 
-**Hinweis:** Application Guard für Office erfordert, dass Microsoft Defender Application Guard (MDAG) zuerst auf dem Gerät aktiviert ist. Informationen zum Bereitstellen von MDAG auf mehreren Geräten finden Sie unter [Vorbereiten der Installation Microsoft Defender Application Guard](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard).
+**Hinweis**: Application Guard für Office erfordert, dass Microsoft Defender Application Guard (MDAG) zuerst auf dem Gerät aktiviert ist. Informationen zum Bereitstellen von MDAG auf mehreren Geräten finden Sie unter ["Vorbereiten der Installation Microsoft Defender Application Guard](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard)".
 
 Ausführliche Informationen zu Voraussetzungen, Setup, Einschränkungen und Problembehandlung für Application Guard für Office finden Sie unter:
 

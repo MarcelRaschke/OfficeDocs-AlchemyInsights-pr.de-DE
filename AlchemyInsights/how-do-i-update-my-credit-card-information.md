@@ -16,12 +16,12 @@ ms.custom:
 - "1500001"
 ms.date: 04/21/2020
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 9163ef853d227180e76244f5583bb51b3edc4770
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 625f4f4ebc1cc3199d4209bc6a3ce8dd7f915829
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58842261"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62685428"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Wie aktualisiere ich meine Kreditkarteninformationen?
 
