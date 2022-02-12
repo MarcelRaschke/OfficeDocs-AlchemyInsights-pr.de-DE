@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: fbaab348e06691b73db68492a0083c4a5a54c4504e03d27ec53f2a9f5047266d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c90a0e6bc779cc9112f9b8ad3e87fbfb22fb6a7c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967800"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62687912"
 ---
 # <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboarding von Nicht-Windows-Geräten von Microsoft Defender Advanced Threat Protection (ATP)
 
@@ -27,8 +27,8 @@ Dazu gehen Sie so vor:
 2. Entfernen Sie aus Ihrem Azure Active Directory Mandanten Berechtigungen für die Drittanbieterlösung:
 
     1. Melden Sie sich beim [Azure-Portal](https://go.microsoft.com/fwlink/?linkid=2125612) an.
-    1. Wählen Sie **alle Dienste**  >  **Azure Active Directory**  >  **Enterprise Anwendungen** aus.
+    1. Wählen Sie **"Alle Dienste** >  **Azure Active Directory** >  **Enterprise Anwendungen aus**.
     1. Wählen Sie die Anwendung aus, die Sie offboarden möchten.
     1. Wählen Sie **Löschen** aus.
 
-Weitere Informationen finden Sie unter [Offboarding von Nicht-Windows-Geräten.](https://go.microsoft.com/fwlink/?linkid=2143630)
+Weitere Informationen finden Sie unter [Offboarding von Nicht-Windows-Geräten](https://go.microsoft.com/fwlink/?linkid=2143630).
