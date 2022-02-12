@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300002"
 - "3180"
-ms.openlocfilehash: 5334aa630f97ee9acaa63f5b462c0293a258a2ec
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 29eb97bfcab0f91c11d007b208d75658e1033be7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61980922"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62655163"
 ---
 # <a name="configure-and-troubleshoot-mapped-network-drives"></a>Konfigurieren und Beheben von Problemen mit zugeordneten Laufwerken
 

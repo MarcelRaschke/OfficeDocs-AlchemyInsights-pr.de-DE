@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 0367cf3f76a9668e71dec52645a5b3aed44ccec93c0c39bccfa883212009633b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5767cff9440fa6761fa6befc9f6ace14c077c96
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54033781"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62655474"
 ---
 # <a name="use-securescore"></a>Verwenden von SecureScore
 

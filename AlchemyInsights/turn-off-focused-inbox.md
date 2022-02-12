@@ -15,18 +15,18 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: 8ab443c16069b44563a342948ca29a65d61a6616a5bdb8184978e70191eebcbc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c1aa0dae03db0da85fe7e50356a96334d6bab4b6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038696"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62741519"
 ---
 # <a name="turn-off-focused-inbox"></a>Deaktivieren des Posteingangs mit Relevanz
 
-1. Wählen Sie **Einstellungen** \> **Posteingang mit Relevanz aus.**  
+1. Wählen Sie **Einstellungen**\> **Posteingang mit Relevanz aus**.  
 
-2. Wählen Sie unter **"Wenn E-Mail empfangen wird"** die Option **"Nachrichten nicht sortieren"** aus.
+2. Wählen Sie unter **"Wenn E-Mails empfangen werden**" die Option " **Nachrichten nicht sortieren**" aus.
 
 3. Wählen Sie **OK** aus.
 

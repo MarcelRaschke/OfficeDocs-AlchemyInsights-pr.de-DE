@@ -15,12 +15,12 @@ ms.custom:
 - "9002419"
 - "5116"
 ms.date: 10/26/2021
-ms.openlocfilehash: 04c18c8f157236473d0aa894163a2908d0b2f9f7
-ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
+ms.openlocfilehash: 30bc62175f379088664551b68fd804e115f5c363
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60584526"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62740475"
 ---
 # <a name="visio-license-management"></a>Visio-Lizenzverwaltung
 

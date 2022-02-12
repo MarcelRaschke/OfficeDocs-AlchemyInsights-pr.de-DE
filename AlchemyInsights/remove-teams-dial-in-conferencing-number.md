@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: b31cc257017571cc73bc1cef4f968fb06ff4414a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 90080f6fa54ae015633b93a2638988d251a401f9
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61982419"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62694572"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Einwahlnummer für Teams-Konferenz entfernen
 

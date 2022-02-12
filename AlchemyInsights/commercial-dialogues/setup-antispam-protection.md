@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: be7fde5892c5e5dee09ece2ff4fdce07e6b5b9ba
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: f062bf5bb911cdfdbb116b44a9b18ccecb78f192
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324570"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62655726"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Einrichten eines Antispamschutzes
 
-1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com/> zu **E-Mail-& Richtlinien** für die Zusammenarbeit & Richtlinien für \>  \> **Bedrohungsregeln** \> **Antispam** im Abschnitt **"Richtlinien".**
+1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com/> zu **E-Mail und Zusammenarbeit** \> **Richtlinien und Regeln** \> **Bedrohungsrichtlinien** \> **Antispam** im Abschnitt **Richtlinien**.
 
    Wechseln Sie direkt zur Seite **Antispamrichtlinien**, verwenden Sie <https://security.microsoft.com/antispam>.
 
-2. Führen Sie auf der Seite **"Antispamrichtlinien"** einen der folgenden Schritte aus:
-   - Um eine neue Richtlinie  hinzuzufügen, wählen Sie \> **+Eingehend** erstellen aus. Ein Assistent wird gestartet, um Die Richtlinieneinstellungen zu definieren.
-   - Um eine vorhandene Richtlinie zu bearbeiten, wählen Sie die Richtlinie aus, indem Sie auf den Namen der Richtlinie klicken (**Typ** ist **benutzerdefinierte Antispamrichtlinie** oder **Name** ist **Eingehende Antispamrichtlinie (Standard).** Wählen Sie im angezeigten Flyout "Details" die Option **"Bearbeiten"** in dem Abschnitt aus, der die Einstellungen enthält, die Sie konfigurieren möchten.
+2. Führen Sie auf der Seite **"Antispamrichtlinien** " einen der folgenden Schritte aus:
+   - Um eine neue Richtlinie hinzuzufügen, wählen Sie +**Eingehend** **erstellen** \> aus. Ein Assistent wird gestartet, um Die Richtlinieneinstellungen zu definieren.
+   - Um eine vorhandene Richtlinie zu bearbeiten, wählen Sie die Richtlinie aus, indem Sie auf den Namen der Richtlinie klicken (**Typ** ist **benutzerdefinierte Antispamrichtlinie** oder **Name** ist **Eingehende Antispamrichtlinie (Standard)**). Wählen Sie im angezeigten Flyout "Details" die Option **"Bearbeiten"** in dem Abschnitt aus, der die Einstellungen enthält, die Sie konfigurieren möchten.
 
 3. Nachdem Sie Ihre Einstellungen überprüft haben, wählen Sie **Absenden** (neu) oder **Speichern** (Bearbeiten) aus.
 

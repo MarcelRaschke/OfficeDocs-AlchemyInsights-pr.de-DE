@@ -7,14 +7,19 @@ ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 5506
-  - 9002281
+- "5506"
+- "9002281"
+ms.openlocfilehash: 4521bd21baf9b6920ca71e28276eab6cf18ed6e4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62740907"
 ---
-
 # <a name="use-usage-logging-for-azure-rights-management"></a>Verwenden der Verwendungsprotokollierung für Azure Rights Management
 
 Standardmäßig ist die Schutz-Verwendungsprotokollierung für alle Kunden aktiviert. Protokolle werden im Azure Storage als eine Reihe von BLOBS für Ihren Mandanten erfasst. Nach einer Schutzmaßnahme dauert es möglicherweise bis zu 15 Minuten, bis die meisten Protokolle angezeigt werden.

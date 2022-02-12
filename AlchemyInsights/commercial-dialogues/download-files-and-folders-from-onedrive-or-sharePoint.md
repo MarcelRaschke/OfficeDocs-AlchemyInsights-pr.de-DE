@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: f2f4d458d30960d387fed158d718a963e72d4f3e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a5b5c66e4d6e1a415793db06394a9a812ed2a0ef
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50737195"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62656446"
 ---
 # <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Herunterladen von Dateien und Ordnern aus OneDrive oder SharePoint
 

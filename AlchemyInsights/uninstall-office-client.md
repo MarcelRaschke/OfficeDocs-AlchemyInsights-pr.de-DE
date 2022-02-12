@@ -1,5 +1,5 @@
 ---
-title: Deinstallieren Office-Clients
+title: Deinstallieren Office Clients
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f34326-94dd-44e7-867f-c6cac0b4fa75
-ms.openlocfilehash: 7c9b7a7ada9cdae75d9055c83fb3402482e7989b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 115517f19014b7b45b2624949876137cfeabe5c4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61970239"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62741267"
 ---
 # <a name="uninstall-office-client"></a>Deinstallieren Office-Clients
 

@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6655"
 - "9003574"
-ms.openlocfilehash: dad88cb06b9755301077be7163622d5adc459b88
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4cca55a301d4b0c57fa577d10ace105763b5569a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61988257"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62741195"
 ---
 # <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>"Unbekannter Benutzer" wird in Teams Besprechungen oder Chats angezeigt.
 
-Möglicherweise wurde der Benutzer aus Microsoft 365 gelöscht. Versuchen Sie in diesem Fall, den Benutzer aus Teams zu löschen.  
+Der Benutzer wurde möglicherweise aus Microsoft 365 gelöscht. Versuchen Sie in diesem Fall, den Benutzer aus Teams zu löschen.  
 
-Versuchen Sie, den folgenden Cache zu löschen, wenn Teams geschlossen wird, und starten Sie dann Teams neu:`C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
+Versuchen Sie, den folgenden Cache zu löschen, wenn Teams geschlossen ist, und starten Sie dann Teams neu:`C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
 
-Informationen zu Updates zu diesem Problem finden Sie unter ["Entfernter Benutzer" wird in Microsoft Teams als "Unbekannter Benutzer" angezeigt.](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown)
+Informationen zu Updates zu diesem Problem finden Sie unter ["Entfernter Benutzer" wird in Microsoft Teams als "Unbekannter Benutzer" angezeigt](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown).

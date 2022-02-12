@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 59360a040fe413e92cd880b1225b9006384a823f6e8abeb7ef922949b9a874fd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3fb68b602c6c359b2d0c7f7705a5ee2283e4255b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54035221"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62656842"
 ---
 # <a name="configure-message-encryption-for-a-hybrid-environment"></a>Konfigurieren der Nachrichtenverschlüsselung für eine Hybridumgebung
 
@@ -26,7 +26,7 @@ Bei Hybridumgebungen Exchange können lokale Benutzer verschlüsselte E-Mails nu
 
 Führen Sie die folgenden Schritte aus, um E-Mails mithilfe von OME zu verschlüsseln:
 
-1. Verwenden Sie den Assistenten für die [Hybridkonfiguration,](https://docs.microsoft.com/Exchange/hybrid-configuration-wizard) um Ihre Hybridumgebung einzurichten. Zum Einrichten der Verschlüsselung sind keine besonderen Schritte erforderlich.
+1. Verwenden Sie den [Assistenten für die Hybridkonfiguration](https://docs.microsoft.com/Exchange/hybrid-configuration-wizard) , um Ihre Hybridumgebung einzurichten. Zum Einrichten der Verschlüsselung sind keine besonderen Schritte erforderlich.
 2. [Richten Sie Ihre Nachrichtenflussregeln für die Verschlüsselung](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) wie gewohnt ein.
 
 

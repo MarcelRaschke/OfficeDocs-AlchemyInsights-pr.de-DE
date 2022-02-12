@@ -14,12 +14,12 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: a4b992cec05a08471663a3e8343bf5012c76409e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 25b59f7b8dc6416fa7d7ab96ec02fe5b90d1b78d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61860809"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62694644"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Einschränken SharePoint Online auf den klassischen Modus
 
@@ -36,4 +36,4 @@ Darüber hinaus werden Listen, die bestimmte Features und Anpassungen verwenden,
 
 Ab dem 1. April 2019 wird der Prozess zum Deaktivieren der Deaktivierung von modernen Listen und Bibliotheken auf Mandantenebene gestartet und bis zum 31. Mai 2019 fortgesetzt.  Die Listen und Bibliotheken, die sich aufgrund des Mandanten-Opt-Outs im klassischen Modus befinden, werden automatisch auf modern umgestellt.
 
-Wenn Sie den klassischen Modus benötigen, finden Sie [hier](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) weitere Informationen und eine PnP Powershell-Anweisung, die Optionen und Tools beschreibt, die Sie heute für die Verwendung der klassischen Modusumgebung verwenden können. [](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout)
+Wenn Sie den klassischen Modus benötigen, finden Sie [hier](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) weitere Informationen und eine PnP Powershell-Anweisung [,](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) die Optionen und Tools beschreibt, die Sie heute für die Verwendung der klassischen Modusumgebung verwenden können.

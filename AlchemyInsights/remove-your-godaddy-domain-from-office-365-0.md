@@ -13,12 +13,12 @@ ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.custom:
 - "27"
 - "11"
-ms.openlocfilehash: 0cdb82c0a2fa651b57eca1290c9c89b02de50251
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 605967b233978bbd426374ef7b9f13a99aa41826
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61861088"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62694464"
 ---
 # <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Entfernen Ihrer GoDaddy-Domäne aus Microsoft 365
 

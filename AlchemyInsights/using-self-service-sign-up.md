@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5994"
 - "9002572"
-ms.openlocfilehash: b2d006ac5c986dc7de42a1780a4a78a286f370df
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a66ee08e4c8da816ba15569b053dd9d631da6020
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989450"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62740511"
 ---
 # <a name="using-self-service-sign-up-in-your-organization"></a>Verwenden der Self-Service-Registrierung in Ihrer Organisation
 

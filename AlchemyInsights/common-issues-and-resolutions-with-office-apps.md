@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002483"
 - "4824"
-ms.openlocfilehash: 4b61842e913f712a90e6e369f5364954e08a581d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4732572e9a360ca5ae1bf4b8f1cb265fcf9581fb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61938571"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62655330"
 ---
 # <a name="common-issues-and-resolutions-with-microsoft-365-apps"></a>Häufige Probleme und Lösungen für Microsoft 365-Apps
 

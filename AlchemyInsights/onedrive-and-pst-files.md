@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6002"
 - "9003081"
-ms.openlocfilehash: dfff982e47bb44097bf8975c03a6f2e9b47f8d90
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: be438db7a5d0b6d035a234c672d3f01d75e42aff
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61984438"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62695832"
 ---
 # <a name="onedrive-and-pst-files"></a>OneDrive- und PST-Dateien 
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 0772f67175053be2cb1e8eacece98fe68776e35800763526e3e6f4fd5375228c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5cdb141637f35adbe2daecbd116a7fce725d96c8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967512"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62655870"
 ---
 # <a name="onboard-a-windows-server-to-microsoft-defender-for-endpoint"></a>Onboarding eines Windows-Servers in Microsoft Defender für Endpunkt
 
@@ -32,4 +32,4 @@ Defender für Endpunkt unterstützt die folgenden Versionen von Windows Server:
 - Windows Server 2019 und höher
 - Windows Server 2019 Core Edition
 
-Weitere Informationen finden Sie unter [Onboarding Windows Server in den Microsoft Defender für Endpunkt-Dienst.](https://go.microsoft.com/fwlink/?linkid=2143627)
+Weitere Informationen finden Sie unter [Onboarding Windows Server in den Microsoft Defender für Endpunkt-Dienst](https://go.microsoft.com/fwlink/?linkid=2143627).

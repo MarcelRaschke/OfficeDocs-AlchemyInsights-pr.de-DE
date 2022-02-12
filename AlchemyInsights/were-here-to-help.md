@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3513"
 - "9001480"
-ms.openlocfilehash: 017095d87f9daa509034465f5620fa2c1182df70
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3ab4d9b4944e08a144b7e7c5e935a24be6532e44
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61944190"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62740358"
 ---
 # <a name="were-here-to-help"></a>Wir helfen Ihnen gerne weiter
 
