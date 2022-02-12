@@ -13,12 +13,12 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 06d0f67f5fe8521c6870ec320f90edb7a1fd6a39
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2d2982c6416b2d4be5d0ea4051ba4135cb2a93cd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61867584"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62680567"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 für Bildungseinrichtungen – genehmigt
 

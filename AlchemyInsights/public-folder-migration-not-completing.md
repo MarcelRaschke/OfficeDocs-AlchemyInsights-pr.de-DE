@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "639"
 - "3500007"
-ms.openlocfilehash: 7e83dbf916cc2937c853eed10bbbbd48b0680544
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d3fb8617d230365bd11522200fd1bc4a8ef4a5cb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61947959"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62680531"
 ---
 # <a name="public-folder-migration-batch-not-completing-shows-synced"></a>Der Migrationsbatch für öffentlicher Ordner wird nicht abgeschlossen und als synchronisiert angezeigt
 

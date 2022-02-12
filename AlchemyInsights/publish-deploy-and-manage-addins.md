@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 07288914829fd48196e98d2e61792e36137c7d66
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 871d9da0c83b017fcee2f7522b787c2aac4af264
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61981318"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62680495"
 ---
 # <a name="publish-deploy-and-manage-add-ins"></a>Veröffentlichen, Bereitstellen und Verwalten von Add-Ins
 
