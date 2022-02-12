@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13771"
 - "9008608"
-ms.openlocfilehash: 911f2f8606502008c0e4d73b33ce890c910ed4ab
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 292421eff5b2c7bd5540190045c876da3bfa0196
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61946554"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62595514"
 ---
 # <a name="windows-365-networking"></a>Windows 365-Netzwerk
 

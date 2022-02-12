@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002657"
 - "5619"
-ms.openlocfilehash: f967697db0afc3110a09a6a0c1a2971c977dbe35
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f4a78ebfa912d22f727a8416c4c6015e74e2abc8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61979444"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62750016"
 ---
 # <a name="troubleshoot-verification-issues"></a>Fehlersuche: Probleme mit der Überprüfung
 

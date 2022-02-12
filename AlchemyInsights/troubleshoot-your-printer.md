@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 7addac7a4c06988219dbc19f48e227574f3a7bc2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: cd4f2b0bd65a3313c1186ff350a2f91a0950fd73
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61937623"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62750087"
 ---
 # <a name="troubleshoot-your-printer"></a>Problembehandlung beim Drucker
 

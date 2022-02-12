@@ -14,12 +14,12 @@ ms.custom:
 - "5134"
 - "9002653"
 - "5129"
-ms.openlocfilehash: b5d9c20ff2e275ae7ddea8195d95e7022933b413
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d8b136bda70beb174dbfcbd6825282ef36300ed4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61987789"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62675095"
 ---
 # <a name="yammer-communities-app-for-microsoft-teams"></a>Yammer Communities-App für Microsoft Teams
 

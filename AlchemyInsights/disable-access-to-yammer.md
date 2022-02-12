@@ -13,14 +13,14 @@ ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 6c790cd0d80103379d5ff36587bd5d740863ec7a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7c18565b0fe25ae83727804a2f94e3d83b05b8b4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61941775"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62722316"
 ---
-# <a name="disable-access-to-yammer"></a>Deaktivieren des Zugriffs auf Yammer
+# <a name="disable-access-to-yammer"></a>Zugriff auf Yammer deaktivieren
 
 Die Lösung zum Deaktivieren Yammer Zugriffs besteht darin, Yammer Lizenzen für Benutzer in Ihrer Organisation zu blockieren und aufzuheben. Weitere Informationen finden Sie im folgenden Artikel.
   

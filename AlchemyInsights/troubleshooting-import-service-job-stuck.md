@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7907"
 - "9003046"
-ms.openlocfilehash: e7db021c4969191a9da3720cda09b901fd38273e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 96aebdbf884e2acea245d9f000f685c138cee014
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61966236"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62749583"
 ---
 # <a name="troubleshooting-import-service-job-stuck"></a>Problembehandlung Import-Serviceauftrag steckt fest
 

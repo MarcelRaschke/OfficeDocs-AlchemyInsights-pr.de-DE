@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "9411"
-ms.openlocfilehash: 30ee51f76701a81b72256c21049b6879cad99a17f98397cf73c8ce85d910867f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: deb970fe8585214c01710b1647a644a323f6d9d3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53997385"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62595334"
 ---
 # <a name="your-organizations-policies-do-not-allow-you-to-share"></a>Mit den Richtlinien Ihrer Organisation können Sie keine Freigaben durchführen.
 

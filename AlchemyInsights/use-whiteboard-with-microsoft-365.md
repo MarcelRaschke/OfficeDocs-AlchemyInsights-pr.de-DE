@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002354"
 - "4581"
-ms.openlocfilehash: 73ef90e79076df8cc17d799f71e44cd827af7a62
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 94ce227d953552b7ff4a1a7415cc673e4b10bf2e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61980345"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62629950"
 ---
 # <a name="use-whiteboard-with-microsoft-365"></a>Verwenden von Whiteboard mit Microsoft 365
 

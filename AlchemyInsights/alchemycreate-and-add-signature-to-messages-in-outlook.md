@@ -13,20 +13,20 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 6c676c03834f5d1b1740addd6ad108ee1176faa19e4b0a5b8927ac1e600810d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 98b4284d4c942857681a19791e4d500ea806be05
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53934178"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62595190"
 ---
 # <a name="creating-email-signatures"></a>Erstellen von E-Mail-Signaturen
 
 Diese Artikel sollten Ihnen beim Erstellen von E-Mail-Signaturen in Outlook helfen.
   
-- Ich möchte eine E-Mail-Signatur mithilfe von Outlook auf Windows: [Erstellen und Hinzufügen einer Signatur zu Nachrichten](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) erstellen und hinzufügen
+- Ich möchte eine E-Mail-Signatur mit Outlook auf Windows erstellen [und Nachrichten eine Signatur hinzufügen](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
   
-- Ich möchte eine E-Mail-Signatur mit Outlook im Web erstellen: [Erstellen und Hinzufügen einer E-Mail-Signatur in Outlook im Web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
+- Ich möchte eine E-Mail-Signatur mit Outlook im Web erstellen[: Erstellen und Hinzufügen einer E-Mail-Signatur in Outlook im Web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
 
 - Ich möchte eine E-Mail-Signatur mit Outlook.com erstellen: [Erstellen und Hinzufügen einer E-Mail-Signatur in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 

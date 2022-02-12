@@ -12,12 +12,12 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: ec9135e5e1865618f51c716a74ef0c381495fa79
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 08f8e80c0aead7b0e2c7575e4bd20b9234d1d260
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61965876"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62722257"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Portieren bestehender Nummern zu Teams
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 5d06299a2225a6b38d3fcf9a7785b08ab2ce7a1d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 67803d52515a29e425be59f5a7d71121a6cff1ea
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61938451"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62722149"
 ---
 # <a name="defender-tamper-protection"></a>Defender-Manipulationsschutz 
 
@@ -30,4 +30,4 @@ Mit Manipulationsschutz wird verhindert, dass schädliche Apps Aktionen wie die 
 - Deaktivieren des über die Cloud bereitgestellten Schutzes
 - Entfernen von Sicherheitsupdates
 
-Weitere Informationen finden Sie unter ["Schützen von Sicherheitseinstellungen mit Manipulationsschutz".](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)
+Weitere Informationen finden Sie unter ["Schützen von Sicherheitseinstellungen mit Manipulationsschutz"](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).

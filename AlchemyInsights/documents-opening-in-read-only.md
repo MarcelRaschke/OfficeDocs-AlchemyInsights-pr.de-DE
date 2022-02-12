@@ -15,12 +15,12 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 299f3c1099089a073395e62e6f53824bf471cb2d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 31e1e8dc5bb505e39d941b8c9fe5e2c65922683e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61939376"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62722293"
 ---
 # <a name="documents-opening-in-read-only"></a>Öffnen von Dokumenten in schreibgeschütztem Modus
 

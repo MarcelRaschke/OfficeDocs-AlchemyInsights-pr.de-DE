@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004169"
 - "7314"
-ms.openlocfilehash: 1f62a3fff61dd005423574e77c70cedb4e3516d3012c69b0095246aa194154e5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4f55d71e9cabf92d3f71eb5529828e927f31059f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53907917"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62675347"
 ---
 # <a name="web-only-limited-access"></a>Eingeschränkter Zugriff (nur Web)
 
 Web-Only Beschränkter Zugriff ist eine Variante der Berechtigungsstufe "Beschränkter Zugriff", die benutzern nur den Zugriff auf das Webobjekt ermöglicht.
 
-Weitere Informationen finden Sie unter [Standardberechtigungsstufen.](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels)
+Weitere Informationen finden Sie unter ["Standardberechtigungsstufen"](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels).

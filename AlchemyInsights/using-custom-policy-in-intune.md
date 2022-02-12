@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: 5a4c4665f36c5d7158a92b6b6104942b6b169a18370dfe34d0f6da42b78cc96c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 473d2b44d2a472c38a1e9cdf347fa22c379bf052
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53971086"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62630022"
 ---
 # <a name="using-custom-policy-in-intune"></a>Verwenden einer benutzerdefinierten Richtlinie in Intune
 
@@ -26,7 +26,7 @@ Intune verfügt über viele integrierte Einstellungen für Android-, iOS-, macOS
 
 [Benutzerdefinierte Einstellungen für Android-Geräte in Intune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Benutzerdefinierte Einstellungen für Android Enterprise-Geräte in Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Benutzerdefinierte Einstellungen für Android Enterprise Geräte in Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
 [Benutzerdefinierte Einstellungen für iOS-Geräte in Intune](https://docs.microsoft.com/intune/custom-settings-ios)
 

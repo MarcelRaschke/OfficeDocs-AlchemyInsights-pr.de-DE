@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5153"
-ms.openlocfilehash: 53bc100d6842b7d78455fff2b10e029afcab7706
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 1016bc798aacb532ab449071b564bd1fd276503f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61943083"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62629914"
 ---
 # <a name="using-dlp-in-transport-rules"></a>Verwenden von DLP in Transportregeln
 

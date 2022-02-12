@@ -13,12 +13,12 @@ ms.assetid: 28d8036f-9df2-4dff-835b-9424bfe988a2
 ms.custom:
 - "273"
 - "1500006"
-ms.openlocfilehash: 10360b8bfa7ec27ff9ae58d5e90397a8cb000f6e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a0935727bf07db4aa3f7bc3c144ca6938263ae26
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61837761"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62630814"
 ---
 # <a name="access-the-domains-page"></a>Zugreifen auf die Seite "Domänen"
 
