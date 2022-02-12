@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "14027"
 - "9003196"
-ms.openlocfilehash: 52abb4b02e44d42d698dbfddcd1558009423b982
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3602559422e9a04228a62df29f5d60fc3226fbfc
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61959079"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62609676"
 ---
 # <a name="change-the-domain-name-or-email-address-of-a-resource"></a>Ändern des Domänennamens oder der E-Mail-Adresse einer Ressource
 

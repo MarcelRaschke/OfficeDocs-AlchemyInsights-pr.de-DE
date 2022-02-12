@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: 9372d4fce52c8322dd32279a67657141a7611fcd
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9e37cb20a7ab2b24ec1ca7ae889450222fb4cf15
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61941943"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62630418"
 ---
 # <a name="update-my-credit-card-information"></a>Aktualisieren von Kreditkarteninformationen
 

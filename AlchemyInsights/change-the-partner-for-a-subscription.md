@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9001683
-  - 5065
+- "9001683"
+- "5065"
+ms.openlocfilehash: bd11b2b55bbeb9423661f1ab972656b88ac914af
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62608763"
 ---
-
 # <a name="change-the-partner-for-a-subscription"></a>Ändern des Partners für ein Abonnement
 
 Partner für Ihr Abonnement können im **Microsoft 365 Admin Center** geändert werden.

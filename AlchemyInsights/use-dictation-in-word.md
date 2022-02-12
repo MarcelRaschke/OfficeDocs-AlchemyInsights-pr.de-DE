@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002888"
 - "5513"
-ms.openlocfilehash: c276ca635ad714b26044eec3fb863ffe44e6db19
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: ca9d9d17f1d7ef470f1e589da7dd87a1d9de8305
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61987429"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62569359"
 ---
 # <a name="use-dictation-in-word"></a>Verwenden der Diktatfunktion in Word
 

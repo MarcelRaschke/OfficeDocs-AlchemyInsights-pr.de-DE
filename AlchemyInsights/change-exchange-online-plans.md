@@ -15,12 +15,12 @@ ms.custom:
 - "9002450"
 - "4766"
 ms.date: 08/10/2021
-ms.openlocfilehash: 80ff73a7e70188d030ead9c4aacf92831c9a1888
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 7c0d494e9a07f1f8d533ba5e9f715419408f2eed
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58841972"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62609412"
 ---
 # <a name="change-exchange-online-plans"></a>Ändern der Exchange Online-Pläne
 

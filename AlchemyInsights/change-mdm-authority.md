@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 63859f2604523188c36c95d0b0dd51dc72bae999
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 56e558d8599e7c184e77e56c8eccf8267d0f5221
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61947419"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62608943"
 ---
 # <a name="change-intune-mdm-authority"></a>Ändern der Intune MDM-Autorität
 

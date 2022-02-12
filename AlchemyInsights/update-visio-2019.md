@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 2aa1f11469d654e77ee974e828d1ace4b934b2f8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3f4f164ce973130feba0a78d2cb8814233648c83
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61959835"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62569611"
 ---
 # <a name="upgrade-to-visio-2019"></a>Upgrade auf Visio 2019
 
 Benutzer, die die Visio-Desktop-App als Teil eines Visio Onlineabonnements installiert haben, verfügen bereits über die neueste Version. 
 
-Um eine Nichtabonnementversion wie Visio 2016 zu aktualisieren, müssen Sie ein Visio Onlineabonnement oder einen einmaligen Kauf von Visio Standard oder Vision Professional 2019 erwerben. Weitere Informationen finden Sie [unter Vergleichen Visio Optionen.](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options)
+Um eine Nichtabonnementversion wie Visio 2016 zu aktualisieren, müssen Sie ein Visio Onlineabonnement oder einen einmaligen Kauf von Visio Standard oder Vision Professional 2019 erwerben. Weitere Informationen finden Sie [unter Vergleichen Visio Optionen](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
 
-Wenn Sie bereits eine neuere Version erworben haben und bereit sind, sie zu installieren, lesen [Sie "Installieren Visio",](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) und führen Sie die Schritte für Ihre Version aus. 
+Wenn Sie bereits eine neuere Version erworben haben und bereit sind, sie zu installieren, lesen Sie ["Installieren Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)", und führen Sie die Schritte für Ihre Version aus. 
 
-Informationen zum Installieren Visio parallel zu Office finden Sie unter ["Unterstützte Szenarien" zum Installieren verschiedener Versionen von Office, Project und Visio auf demselben Computer.](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)
+Informationen zum Installieren Visio parallel zu Office finden Sie unter ["Unterstützte Szenarien" für die Installation verschiedener Versionen von Office, Project und Visio auf demselben Computer](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
 
 Weitere Informationen finden Sie unter:<br>
 [Bereitstellungshandbuch für Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>

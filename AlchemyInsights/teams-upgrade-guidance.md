@@ -1,5 +1,5 @@
 ---
-title: Teams Upgradeanleitung
+title: Anleitung zum Teams Upgrade
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,12 +12,12 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 672adb8bbefb3fde233f36b2aba50eb92cf0e60e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3b01285e5b9695c18755a841bf91761550680ca5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61984042"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62583777"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams Upgrade
 
@@ -33,4 +33,4 @@ Ganz gleich, ob Sie neu bei Microsoft Teams sind, Microsoft Teams bereits zusamm
 
 [Durchführen des Upgrades von Skype for Business lokalen auf Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Überprüfen des Status von Skype for Business Online zum Teams Upgrade mit PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps&preserve-view=true)
+[Überprüfen des Status von Skype for Business Online, um ein Upgrade mit PowerShell zu Teams](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps&preserve-view=true)

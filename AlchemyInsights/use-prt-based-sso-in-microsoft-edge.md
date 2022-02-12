@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005624"
 - "9657"
-ms.openlocfilehash: 2980739f3a7c7200ceff5a0f2ed6e913eb06c9c1e60c8eb8b8f102f3f2760f01
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fb6f9dccb841082b84d4ef8837accafd46b4efc2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54006961"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62630310"
 ---
 # <a name="use-prt-based-sso-in-microsoft-edge"></a>Verwenden von PRT-basiertem SSO in Microsoft Edge
 

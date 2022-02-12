@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: 0ef9090fe9edbee6b8437a0b3f0dbfe5f34f7604
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 870aedc8b3dd9fa5e7db3cba7f8cbcbb1f3dfe03
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61969159"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62609627"
 ---
 # <a name="change-default-domain"></a>Ändern der Standarddomäne
 

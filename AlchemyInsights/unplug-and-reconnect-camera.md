@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 73c7e52308471eccaad99526e248dbbfad9b30e7
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7de6c0c785cea5d489ef80318adbfbcd3c7ae957
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61966164"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62630431"
 ---
 # <a name="unplug-and-reconnect-camera"></a>Trennen und erneutes Verbinden der Kamera
 

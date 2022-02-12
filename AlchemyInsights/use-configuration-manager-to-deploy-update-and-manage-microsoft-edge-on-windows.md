@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004030"
 - "7100"
-ms.openlocfilehash: 226878c7ce12a9cdc9c6b24a1b05cdbf39ed67ad631b3a7dc02bbe0d7d6b91a2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c6eeb557a01bbbaedc2e1374376f9cf31dd719ce
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919537"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62630526"
 ---
 # <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Verwenden von Configuration Manager zum Bereitstellen, Aktualisieren und Verwalten von Microsoft Edge unter Windows
 

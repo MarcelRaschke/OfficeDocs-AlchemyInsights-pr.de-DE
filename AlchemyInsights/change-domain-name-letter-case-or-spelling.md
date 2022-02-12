@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5996"
 - "9003201"
-ms.openlocfilehash: d44aaad9b18e8fd08cae4df97ea9d9a6ee0e2efb
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 931d275f256a14baac925b30731908aefaf59c46
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61959115"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62609663"
 ---
 # <a name="change-a-domain-name-letter-case-or-spelling"></a>Ändern der Groß-/Kleinschreibung oder Schreibweise eines Domänennamens
 

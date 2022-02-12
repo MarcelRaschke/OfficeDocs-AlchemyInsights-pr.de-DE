@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 8210e8b5f2bd484ddd862d0d6ae2c2de91e9a729
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f3e8cf54e907e7be5a01cd918d1656c60516af6d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61933115"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62566875"
 ---
 # <a name="frequent-excel-crashes"></a>Häufige Excel Abstürze?
 
 Häufige Abstürze in Excel können durch ein fehlerhaftes Add-In verursacht werden. Sie können ein Excel-Add-In deaktivieren, indem Sie die folgenden Anweisungen befolgen:
   
-1. Dateioptionen  \> auswählen, \> **Add-Ins**.
+1. Wählen Sie **"Dateioptionen**\>" \> **und "Add-Ins" aus**.
 
-2. Wählen Sie im Feld **"Verwalten"** **COM-Add-Ins aus,** und klicken Sie dann auf **"Los".**
+2. Wählen Sie im Feld **"Verwalten** " **COM-Add-Ins aus**, und klicken Sie dann auf **"Los**".
 
-3. Deaktivieren Sie im Add-Ins verfügbaren Kontrollkästchen neben dem Add-In, das Sie deaktivieren möchten, und klicken Sie dann auf **"OK".**
+3. Deaktivieren Sie im Add-Ins verfügbaren Kontrollkästchen neben dem Add-In, das Sie deaktivieren möchten, und klicken Sie dann auf **"OK**".
 
-**Hinweis:** Wenn Excel während des Starts abstürzt, starten Sie ihn im Tresor Modus, indem Sie strg halten, während Sie das Programm starten.
+**Hinweis**: Wenn Excel während des Starts abstürzt, starten Sie ihn im Tresor Modus, indem Sie strg halten, während Sie das Programm starten.
   
 Wenn weiterhin Probleme auftreten, lesen Sie die folgenden Artikel:
   

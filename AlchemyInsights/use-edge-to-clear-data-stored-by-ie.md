@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9426"
 - "9005491"
-ms.openlocfilehash: 0fd43ba9a4943693c7f1da72afdccb745bfd616c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 1b89a90fa0580c95d8204e61338fe974c79b3345
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61937515"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62569251"
 ---
 # <a name="use-microsoft-edge-to-clear-the-browsing-data-stored-by-internet-explorer"></a>Verwenden von Microsoft Edge zum Löschen der von Internet Explorer gespeicherten Browserdaten
 

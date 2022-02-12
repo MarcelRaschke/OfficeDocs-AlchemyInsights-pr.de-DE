@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 81dbcee8e1c94175c1e2bc210b2e987ebf11880a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f6bf781c3c781cf8d91b4e1946c2f01f4651471c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61943131"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62630598"
 ---
 # <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Nicht lizenzierte Features für Benutzer von Business Standard deaktiviert
 
