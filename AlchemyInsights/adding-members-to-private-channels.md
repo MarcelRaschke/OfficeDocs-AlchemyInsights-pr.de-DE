@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6875"
-ms.openlocfilehash: 7948013bb4c1715512572880369a04adaff3c06b824d245394139380abc65378
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9879c90342d7babe853289ebe652040a8d2092e2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53953112"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62560899"
 ---
 # <a name="adding-members-to-private-channels"></a>Hinzufügen von Mitgliedern zu privaten Kanälen
 

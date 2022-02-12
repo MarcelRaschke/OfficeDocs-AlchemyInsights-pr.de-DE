@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002542"
 - "4909"
-ms.openlocfilehash: 87d5d40655a2fdf6b98164cd0b4f273b5591bd78
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 472174caaddeec9a4312627bc7500ed9e0e10401
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61938848"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62564607"
 ---
 # <a name="action-pack-licenses"></a>Action Pack-Lizenzen
 

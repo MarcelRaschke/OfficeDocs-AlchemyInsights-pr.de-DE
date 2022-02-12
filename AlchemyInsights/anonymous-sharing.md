@@ -10,18 +10,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: f52d907374736bad598f830bc610d6dd293ee314
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c5edbb1f2e0fb768ba46773e55607762f0377334
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61951112"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62560827"
 ---
 # <a name="anonymous-sharing"></a>Anonyme Freigabe
 
  **Anonymen Zugriff aktivieren**
   
-Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **Freigabe.** 
+Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **Freigabe**. 
   
 - Wählen Sie Folgendes aus: **Freigabe für authentifizierte externe Benutzer zulassen und anonymen Zugriff verwenden.**
   
@@ -29,10 +29,10 @@ Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **Freigabe.**
     
  **Anonymes Freigeben einer Datei oder eines Ordners**
   
-- Wählen Sie die Datei oder den Ordner aus, den Sie freigeben möchten, und klicken Sie dann auf **"Freigeben".** 
+- Wählen Sie die Datei oder den Ordner aus, die Sie freigeben möchten, und klicken Sie dann auf **"Freigeben**". 
     
 - Wer möchten Sie, dass dieser Link funktioniert? Klicken Sie auf **"Jeder".**
   
- **Hinweis:** **Jeder** erstellt einen Link, über den jeder auf das Dokument oder den Ordner zugreifen kann, auch wenn er nicht bei Microsoft 365 oder OneDrive angemeldet ist. Verwenden Sie dies, um sie für alle Personen innerhalb oder außerhalb Ihres Unternehmens freizugeben. Dieser Link kann auch an jeden weitergeleitet werden. 
+ **Hinweis**: **Jeder** erstellt einen Link, über den jeder auf das Dokument oder den Ordner zugreifen kann, auch wenn er nicht bei Microsoft 365 oder OneDrive angemeldet ist. Verwenden Sie dies, um sie für alle Personen innerhalb oder außerhalb Ihres Unternehmens freizugeben. Dieser Link kann auch an jeden weitergeleitet werden. 
     
 

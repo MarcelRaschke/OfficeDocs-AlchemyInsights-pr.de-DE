@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 89af7e4b-9b49-4c50-a604-21003ad30004
-ms.openlocfilehash: 50cab977d274798e30937002a1cf0a9c6f4bf7dd
-ms.sourcegitcommit: d5143738025187f6b7aef801d7c992de97c9d78e
+ms.openlocfilehash: c0f172fae56a47da43b3c3286ae044e8a80033d8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62471506"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62564355"
 ---
 # <a name="activate-office"></a>Office aktivieren
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9971"
 - "9005674"
-ms.openlocfilehash: ddbe3205dafe3d03a727296f11f70d4b2c799ee7
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: aee795cf4829e226abb349c5ebf1c1f4750d8205
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61945042"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62561583"
 ---
 # <a name="how-to-add-or-remove-extensions-in-microsoft-edge"></a>So fügen Sie Erweiterungen in Microsoft Edge hinzu oder entfernen sie
 

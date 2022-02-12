@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 157dd0dffa523bef593c15b933c2ec031162da76
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: eaa4775fc5554b0457b77cf8f134f4f8757ae2d4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61865272"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62563635"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivieren von Microsoft 365-Apps
 

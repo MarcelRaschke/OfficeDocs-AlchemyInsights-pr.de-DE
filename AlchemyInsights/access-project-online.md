@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "5723"
-ms.openlocfilehash: 35a20d6140054f4dde4b6cc5f8c26d1131462307
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7b617da23c96d69d9dfbc5151f19394a1cadf8fd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61937143"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62565039"
 ---
 # <a name="access-project-online"></a>Auf Project Online zugreifen
 

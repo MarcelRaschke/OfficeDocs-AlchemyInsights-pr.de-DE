@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000776"
 - "2717"
-ms.openlocfilehash: 7d16353da1c64b31ac2524f7ea3a64c9773998b4
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 465d6412a94ae8e6fffd71bc7ac0206e66f9053d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61864588"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62562591"
 ---
 # <a name="add-in-help"></a>Hilfe zu Add-Ins
 

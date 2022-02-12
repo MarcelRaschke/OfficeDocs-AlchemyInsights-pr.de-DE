@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6119"
 - "9003245"
-ms.openlocfilehash: c5afebb6c9fe118950ab1ae974158b3d6ab62f8d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6a9b6cdeba7a2f7f6c5b36d43820059bd5e8da7d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61864984"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62563095"
 ---
 # <a name="ad-connect-users-and-group-sync-issues"></a>Probleme bei der Synchronisierung von AD Connect-Benutzern und Gruppen
 

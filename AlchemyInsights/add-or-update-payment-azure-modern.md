@@ -13,24 +13,24 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6856"
-ms.openlocfilehash: e59151239b24b23f613750de160eeb0a5fbd6737
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: fd761547783904e8326837d061a441959a3bb94e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61864408"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62562159"
 ---
 # <a name="add-or-replace-payment-method-in-azure"></a>Zahlungsmethode in Azure hinzufügen oder ersetzen
 
-Ihre Zahlungsmethoden sind [Abrechnungsprofilen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)zugeordnet. Nur der Benutzer, der sich für Azure angemeldet und das Abrechnungskonto erstellt hat, kann die Zahlungsmethode aktualisieren. Führen Sie die Schritte zum Hinzufügen oder Ersetzen der Zahlungsmethode aus.
+Ihre Zahlungsmethoden sind [Abrechnungsprofilen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile) zugeordnet. Nur der Benutzer, der sich für Azure angemeldet und das Abrechnungskonto erstellt hat, kann die Zahlungsmethode aktualisieren. Führen Sie die Schritte zum Hinzufügen oder Ersetzen der Zahlungsmethode aus.
 
 1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) an.
 2. Suchen nach **Kostenverwaltung + Abrechnung**.
-3. Wählen Sie im Menü auf der linken Seite **Abrechnungsprofile aus.**
+3. Wählen Sie im Menü auf der linken Seite **Abrechnungsprofile aus**.
 4. Wählen Sie ein Abrechnungsprofil aus.
-5. Wählen Sie im Menü auf der linken Seite **Zahlungsmethoden** aus.
-6. Wählen Sie im Abschnitt **"Standard-Zahlungsmethode"** die Option **"Ersetzen" aus.**
-7. Wählen Sie im neuen Bereich auf der rechten Seite entweder eine vorhandene Karte aus der Dropdownliste aus, oder fügen Sie eine neue hinzu, indem Sie den blauen Link **"Neue Zahlungsmethode hinzufügen"** auswählen.
+5. **Wählen Sie** im Menü auf der linken Seite Zahlungsmethoden aus.
+6. Wählen Sie im Abschnitt **"Standard-Zahlungsmethode** " **die Option "Ersetzen" aus**.
+7. Wählen Sie im neuen Bereich auf der rechten Seite entweder eine vorhandene Karte aus der Dropdownliste aus, oder fügen Sie eine neue hinzu, indem Sie den blauen Link " **Neue Zahlungsmethode hinzufügen** " auswählen.
 
 **Empfohlene Dokumentationen**
 

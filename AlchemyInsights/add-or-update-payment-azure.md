@@ -13,12 +13,12 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6861"
-ms.openlocfilehash: 38a945e1e1fe57cfdaf90b372b3cfb9c1ce04dc9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 82719f42d71a4d85998b3574ae1796e3a1a93e44
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61944154"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62562231"
 ---
 # <a name="update-billing-info-under-azure-enterprise-agreement"></a>Aktualisieren von Abrechnungsinformationen im Rahmen des Azure Enterprise-Vertrags
 

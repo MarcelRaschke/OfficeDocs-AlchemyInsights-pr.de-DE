@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: f36a2d2b948aba4274e5d773f3e93b8cb108db06
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: acb0d01a160ccf66f48e98a1ef08a7271a696dbb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61937071"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62564764"
 ---
 # <a name="access-services"></a>Access Services
 
-Das feature Access Services in SharePoint Online wird eingestellt. Neue Access-basierte Web-Apps und Webdatenbanken können nicht mehr erstellt werden, und vorhandene Web-Apps und Webdatenbanken werden bis April 2018 heruntergefahren. Access Desktop-Datenbanken (ACCDB) sind von dieser Änderung nicht betroffen. Es wird empfohlen, Microsoft PowerApps als Alternative zu Access-Web-Apps und Webdatenbanken zu verwenden. 
+Die Access Services-Funktion in SharePoint Online wird eingestellt. Neue Access-basierte Web-Apps und Webdatenbanken können nicht mehr erstellt werden, und vorhandene Web-Apps und Webdatenbanken werden bis April 2018 heruntergefahren. Access Desktop-Datenbanken (ACCDB) sind von dieser Änderung nicht betroffen. Es wird empfohlen, Microsoft PowerApps als Alternative zu Access-Web-Apps und Webdatenbanken zu verwenden. 
   
 [Informationen zu Microsoft PowerApps](https://powerapps.microsoft.com/)
   

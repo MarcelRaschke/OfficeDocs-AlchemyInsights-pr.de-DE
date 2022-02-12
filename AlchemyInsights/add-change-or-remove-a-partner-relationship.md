@@ -15,19 +15,19 @@ ms.custom:
 - "9001683"
 - "3748"
 ms.date: 04/14/2021
-ms.openlocfilehash: 0f6e5cdfb678642b11c1375db47f0a988e4beb24
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 95d9d6bcd08342327692ca81763cf7cf339249df
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58842837"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62562879"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>Hinzufügen, Ändern oder Entfernen einer Partnerbeziehung
 
 Als Administrator können Sie mit einem Partner zusammenarbeiten, um Microsoft 365 Abonnements zu erwerben, zu aktivieren und zu verlängern. 
 
-- Wenn Sie Ihre vorhandene Partnerbeziehung bearbeiten möchten, lesen [Sie "Hinzufügen, Ändern oder Löschen eines Abonnementberaterpartners".](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner)
+- Wenn Sie Ihre vorhandene Partnerbeziehung bearbeiten möchten, lesen [Sie "Hinzufügen, Ändern oder Löschen eines Abonnementberaterpartners](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner)".
 
-- Wenn Sie einen Microsoft-Partner suchen möchten, lesen [Sie "Suchen Ihres Microsoft 365 Partners oder](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)Händlers".
+- Wenn Sie einen Microsoft-Partner suchen möchten, lesen Sie "[Suchen Ihres Microsoft 365 Partners oder Händlers](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)".
 
-Wenn Sie ein vorhandener Microsoft-Partner sind oder einer werden möchten, finden Sie im [Microsoft Partner Center](https://support.microsoft.com/help/4499930/partner-center-overview) weitere Informationen zu den Vorteilen oder wie Sie Unterstützung vom Microsoft [Partner-Support](https://aka.ms/partnersupport)erhalten.
+Wenn Sie ein bestehender Microsoft-Partner sind oder einer werden möchten, finden Sie im [Microsoft Partner Center](https://support.microsoft.com/help/4499930/partner-center-overview) weitere Informationen zu den Vorteilen oder wie Sie Unterstützung vom [Microsoft Partner-Support](https://aka.ms/partnersupport) erhalten.

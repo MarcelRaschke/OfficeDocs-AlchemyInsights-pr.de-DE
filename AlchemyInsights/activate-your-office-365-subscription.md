@@ -15,12 +15,12 @@ ms.custom:
 - "1500028"
 - "4744"
 ms.date: 08/10/2020
-ms.openlocfilehash: 3af46c4eabe70cb70f92310c9d192f5cb91670d0
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.openlocfilehash: 68f5007706a77397326356c0534ecfb203f292c4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450913"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62563851"
 ---
 # <a name="activate-your-subscription"></a>Aktivieren Ihres Abonnements
 

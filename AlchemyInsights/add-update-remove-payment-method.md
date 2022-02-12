@@ -14,12 +14,12 @@ ms.custom:
 - "9002348"
 - "4574"
 ms.date: 08/10/2021
-ms.openlocfilehash: cb485531419aba0c108d5e77957f8d741b3513e7
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 93aa05bb82e4bd8278b39aea61b1bd59c7f42405
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843233"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62561375"
 ---
 # <a name="add-update-or-remove-payment-method"></a>Zahlungsmethode hinzufügen, aktualisieren oder entfernen
 

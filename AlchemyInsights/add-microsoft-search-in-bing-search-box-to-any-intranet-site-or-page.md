@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9261"
-ms.openlocfilehash: 129ec762b2667b216951c441165d75af0bddd57127351a8ff31fc2793e4479d8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 74a1d046d4704f397c73ff1646efae0c6105945f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53954480"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62562555"
 ---
 # <a name="add-a-search-box-for-microsoft-search-in-bing-to-your-organizations-intranet-sites-and-pages"></a>Hinzufügen eines Suchfelds für Microsoft Search in Bing zu den Intranetwebsites und -seiten Ihrer Organisation
 
@@ -29,4 +29,4 @@ Einige Vorteile des Hinzufügens des Suchfelds sind:
 4. Die Ergebnisseite ist frei von Anzeigen.
 5. Sie haben die Kontrolle über das Aussehen und Verhalten des Suchfelds.
 
-Weitere Informationen finden Sie unter [Hinzufügen eines Suchfelds zu Ihrer Intranetwebsite.](https://go.microsoft.com/fwlink/?linkid=2151387)
+Weitere Informationen finden Sie unter [Hinzufügen eines Suchfelds zu Ihrer Intranetwebsite](https://go.microsoft.com/fwlink/?linkid=2151387).

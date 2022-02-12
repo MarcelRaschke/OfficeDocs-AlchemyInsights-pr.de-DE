@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: ef641ff832ebe615b703face1ee7053895fc9b6f
-ms.sourcegitcommit: d5143738025187f6b7aef801d7c992de97c9d78e
+ms.openlocfilehash: 6adc1fe4d09701fa1559c704c239903378efe2db
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62471470"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62564038"
 ---
 # <a name="activate-visio"></a>Aktivieren Visio
 
 Bevor ein Benutzer die Desktop-Visio Desktop-App installieren und aktivieren kann, die im Visio Onlineplan 2 enthalten ist, muss dem Benutzer eine [Visio Lizenz](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) zugewiesen worden sein.
 
-**Beachten Sie** Visio Onlineplan 1 keine Desktopversion von Visio enthält.
+**Hinweis** Visio Onlineplan 1 keine Desktopversion von Visio enthält.
 
 So aktivieren Sie Visio:
 

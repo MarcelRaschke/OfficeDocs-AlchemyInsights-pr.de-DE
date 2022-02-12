@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 9d8872cc7b25b02b88485e7ac66d2bb79e80fdb1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4cde8105d63a3f795de660feba6e38c4b6759aca
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61865092"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62562987"
 ---
 # <a name="why-is-the-add-budget-button-disabled-for-me"></a>Warum ist die Schaltfläche "Budget hinzufügen" für mich deaktiviert?
 
@@ -51,10 +51,10 @@ Nach der Erstellung eines Abonnements dauert die Verarbeitung der Daten 24-48 St
 
 **Budget-API-Ressourcen**
 
-- [Budget-API v1:](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support)Stellt Vorgänge zum Erstellen und Aktualisieren von Budgets bereit. Mithilfe der Budget-API können Sie einen Budgetschwellenwert festlegen und mehrere Warnungen konfigurieren, die ausgelöst werden, wenn Sie sich diesem Schwellenwert nähern. Warnungen können eine E-Mail oder eine Azure-Aktionsgruppe auslösen, um automatisierungsfähig zu werden. Hinweis: Die Filterung für diese API entspricht nicht der Filterung/Dimensionen der Abfrage-API.
-- [Budget-API v2:](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json)Erstellen Sie Budgets mit höheren Kostenfilterfunktionen als v1. Die Filterung richtet sich nach dem Vertrag aus, der in unseren Abfrage- und Dimensions-APIs verwendet wird. Dies ist die empfohlene Budget-API für die weitere Verwendung.
-- [Dimensionen:](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support)Stellt Vorgänge bereit, um unterstützte Dimensionen für Ihre Verwendung in einer Vielzahl von Bereichen abzurufen. Mithilfe der Dimensions-API können Sie eine Liste der Dimensionen abrufen, die als Eingaben zum Generieren von Abfragen mit der Abfrage-API verwendet werden können.
-- [Abfrage:](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support)Stellt Vorgänge bereit, um aggregierte Kosten- und Nutzungsdaten basierend auf der von Ihnen bereitgestellten Abfrage abzurufen. Mithilfe der Abfrage-API können Sie die gewünschte Filterung, Sortierung und Gruppierung nach allen verfügbaren Dimensionen angeben (auf die über die Dimensions-API zugegriffen wird).
+- [Budget-API v1](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support): Stellt Vorgänge zum Erstellen und Aktualisieren von Budgetplänen bereit. Mithilfe der Budget-API können Sie einen Budgetschwellenwert festlegen und mehrere Warnungen konfigurieren, die ausgelöst werden, wenn Sie sich diesem Schwellenwert nähern. Warnungen können eine E-Mail oder eine Azure-Aktionsgruppe auslösen, um automatisierungsfähig zu werden. Hinweis: Die Filterung für diese API entspricht nicht der Filterung/Dimensionen der Abfrage-API.
+- [Budget-API v2](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json): Erstellen Sie Budgets mit höheren Kostenfilterfunktionen als v1. Die Filterung richtet sich nach dem Vertrag aus, der in unseren Abfrage- und Dimensions-APIs verwendet wird. Dies ist die empfohlene Budget-API für die weitere Verwendung.
+- [Dimensionen](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support): Stellt Vorgänge bereit, um unterstützte Dimensionen für Ihre Verwendung in einer Vielzahl von Bereichen abzurufen. Mithilfe der Dimensions-API können Sie eine Liste der Dimensionen abrufen, die als Eingaben zum Generieren von Abfragen mit der Abfrage-API verwendet werden können.
+- [Abfrage](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support): Stellt Vorgänge bereit, um aggregierte Kosten- und Nutzungsdaten basierend auf der von Ihnen bereitgestellten Abfrage abzurufen. Mithilfe der Abfrage-API können Sie die gewünschte Filterung, Sortierung und Gruppierung nach allen verfügbaren Dimensionen angeben (auf die über die Dimensions-API zugegriffen wird).
 
 **Prognostizierte Kosten**
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6176"
 - "9003232"
-ms.openlocfilehash: 439881e4c9d6a3e33465812bc49899f9ee6814ce
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: cccba03b7c819338fac3f6a236b343466a67a7a8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61864516"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62562195"
 ---
 # <a name="add-or-remove-a-custom-role"></a>Eine benutzerdefinierten Rolle hinzufügen oder entfernen
 

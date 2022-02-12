@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002307"
 - "4480"
-ms.openlocfilehash: 87b46732c52607a36110d933e86c74bee7e0db54
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b9d85896752a581c25aeebb61d137878a8e87725
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61865200"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62563563"
 ---
 # <a name="activating-windows-10-subscriptions"></a>Aktivieren von Windows 10-Abonnements
 
