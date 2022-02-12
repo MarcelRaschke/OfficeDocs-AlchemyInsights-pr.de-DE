@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11048"
 - "9000610"
-ms.openlocfilehash: b4f3edcfcce91518622205006167a26fbf9d0c9b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0a55e87f84a21c8f3c9f7e6efe945d053bd531d6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61971248"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62652846"
 ---
 # <a name="how-to-enabledisable-autosave"></a>So wird AutoSpeichern aktiviert/ deaktiviert
 
