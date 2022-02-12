@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5154"
-ms.openlocfilehash: ffd729b18678226f6694a8b745fc5524371e2117
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f732e016e3d58f7a583aad9aab996c4a56415b7e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61946950"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62710845"
 ---
 # <a name="encryption-with-transport-rules"></a>Verschlüsselung mit Transportregeln
 

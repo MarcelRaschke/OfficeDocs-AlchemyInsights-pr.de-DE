@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13247"
 - "9004145"
-ms.openlocfilehash: 75e3f4ca9f9ead8875ac402ee07ecda991e4188b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 31210b9d3a0ab54cdb1ccc88e223ad6ec64c9f89
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61950965"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62710521"
 ---
 # <a name="fasttrack-assistance-with-data-migration"></a>FastTrack-Unterstützung bei der Datenmigration
 

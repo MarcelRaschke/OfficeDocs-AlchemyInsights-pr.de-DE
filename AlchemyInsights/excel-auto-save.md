@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 8c5244e04eaa04bdc210b668609aa3323a3dbba3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: da45d3da1b45f42db2e8113575fd7dfac0ff0e34
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61969663"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62710701"
 ---
 # <a name="what-is-autosave"></a>Was ist AutoSpeichern?
 

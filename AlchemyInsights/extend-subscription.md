@@ -15,12 +15,12 @@ ms.custom:
 - "1400006"
 - "5832"
 ms.date: 07/30/2021
-ms.openlocfilehash: 0159b028e1ad587ef81e14a3374ee272bd0e66e3
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: a8a6a1c75f155497c3f9a31db9dbfbea9f728de8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844457"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62710557"
 ---
 # <a name="what-are-my-options-to-extend"></a>Welche Verlängerungsoptionen habe ich?
 

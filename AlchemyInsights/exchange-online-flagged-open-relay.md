@@ -13,12 +13,12 @@ ms.custom:
 - "3000003"
 - "16386"
 ms.date: 01/21/2022
-ms.openlocfilehash: 5a9547f4edf902bbc68b815edbcc5aa64f9d8ab7
-ms.sourcegitcommit: 5dcbecdebbf5042db0c86a12149ddd537d766c91
+ms.openlocfilehash: 841b16280c4bd6cb50e8ac13244b10ace5bd4dcf
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62185297"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62710665"
 ---
 # <a name="exchange-online-incorrectly-flagged-as-possible-open-relay"></a>Exchange Online fälschlicherweise als mögliches offenes Relay gekennzeichnet
 
