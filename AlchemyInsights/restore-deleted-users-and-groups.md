@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6159"
 - "9003228"
-ms.openlocfilehash: 4944f12d2c1c0205fd64123ba5fb8406221abebd
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: bf7a36fb25855a17ba6fefcb9bd35d6c016048ed
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61937923"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62632578"
 ---
 # <a name="restore-deleted-users-and-groups"></a>Wiederherstellen von gelöschten Benutzern und Gruppen
 

@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: e7b940ef3a2c003a5eeb4b704ece3b83cbdca056
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a54304bca612026656111aac5a17311881f6d981
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61959295"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62752031"
 ---
 # <a name="modernize-your-sharepoint-sites"></a>Modernisieren Ihrer SharePoint Websites
 
-Eine schrittweise Übersicht über die Modernisierung Ihrer klassischen SharePoint Websites auf die moderne Benutzeroberfläche finden Sie unter ["Modernisieren Ihrer klassischen SharePoint Websites".](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
+Eine schrittweise Übersicht über die Modernisierung Ihrer klassischen SharePoint Websites auf die moderne Benutzeroberfläche finden Sie unter ["Modernisieren Ihrer klassischen SharePoint Websites"](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
 
 * Wenn Sie die Nutzung der modernen Benutzeroberfläche für Ihre Websiteseiten sowie Bibliotheks- und Listenseiten weiter ausbauen möchten, sehen Sie sich den Artikel [Modernisieren der Benutzeroberfläche ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface) an.
 * Weitere Informationen zum Freischalten Ihrer Listen und Bibliotheken für die Nutzung mit der modernen Benutzeroberfläche finden Sie im Artikel [Maximieren der Verwendung der modernen Benutzeroberfläche für Listen und Bibliotheken](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
 * Weitere Informationen zum Herstellen einer Verbindung mit einer Microsoft 365-Gruppe und zur Durchführung einer Gruppenverbindung finden Sie im Artikel [Verbinden mit einer Microsoft 365-Gruppe](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
 
-**Wichtig:** Wenn Sie der Meinung sind, dass Ihre Seite bereits in der modernen Ansicht angezeigt werden sollte und dies nicht der Fall ist, navigieren Sie zu der betreffenden Seite, kopieren Sie die URL, und geben Sie die URL als Teil der Details Ihres Supporttickets an.
+**Wichtig**: Wenn Sie der Meinung sind, dass Ihre Seite bereits in der modernen Ansicht angezeigt werden sollte und dies nicht der Fall ist, navigieren Sie zu der betreffenden Seite, kopieren Sie die URL, und geben Sie die URL als Teil der Details Ihres Supporttickets an.

@@ -6,21 +6,26 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 3500007
-  - 3488
+- "3500007"
+- "3488"
+ms.openlocfilehash: 875a38b34432e00cb14eade319d9363ae48f86d3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62632650"
 ---
-
 # <a name="restore-a-deleted-public-folder"></a>Wiederherstellen eines gelöschten öffentlichen Ordners
 
-**So stellen Sie gelöschte Elemente aus einem öffentlichen Ordner wieder her:**
+**So stellen Sie gelöschte Elemente aus einem öffentlichen Ordner wieder her**
 
-- Siehe ["Gelöschte Elemente können nicht aus einem öffentlichen Ordner ohne E-Mail-Nachrichten in Outlook 2016 wiederhergestellt](https://aka.ms/pfrec)werden."
+- Siehe[": Gelöschte Elemente können nicht aus einem öffentlichen Ordner ohne E-Mail in Outlook 2016 wiederhergestellt](https://aka.ms/pfrec) werden.
  
-**So stellen Sie einen gelöschten öffentlichen Ordner (eines beliebigen Typs) wieder her:** 
+**So stellen Sie einen gelöschten öffentlichen Ordner (eines beliebigen Typs) wieder her**: 
 
 - Verwenden Sie den folgenden EXO PowerShell-Befehl:
 
@@ -32,4 +37,4 @@ ms.custom:
 
     `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse | ?{$_.Name -eq "Subfolder1"};Set-PublicFolder $pf.identity -Path \Parent1`
 
-Weitere Informationen finden Sie unter [Wiederherstellen eines gelöschten öffentlichen Ordners.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder)
+Weitere Informationen finden Sie unter [Wiederherstellen eines gelöschten öffentlichen Ordners](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) .

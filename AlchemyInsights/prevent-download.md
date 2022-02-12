@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: 6ffcbae5cba31ec057b5624491caae3880a98166
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f370061fff8ea233c99154593060a3930f474b9c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61946158"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62633406"
 ---
 # <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Verhindern, dass Dateien aus SharePoint oder OneDrive heruntergeladen werden
 

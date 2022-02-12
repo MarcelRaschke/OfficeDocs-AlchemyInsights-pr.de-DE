@@ -15,12 +15,12 @@ ms.custom:
 - "9002455"
 - "4793"
 ms.date: 04/14/2021
-ms.openlocfilehash: ea295c2d7f65f12d9c80fb95bdbd081b1109aaa3
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 8858a5f9512719f1c6bdb533fcfe947c75954d69
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843845"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62633442"
 ---
 # <a name="purchased-wrong-subscription-license"></a>Falsche Abonnementlizenz erworben
 

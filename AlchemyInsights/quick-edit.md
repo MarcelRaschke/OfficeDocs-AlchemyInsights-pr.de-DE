@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003088"
 - "5841"
-ms.openlocfilehash: 87436e247fa3d20c3cc8fbe00e3e7e6c6d2a5458
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b3ef36382b577bb3af4b7b9facf5fc2fcb528c56
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61968871"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62633347"
 ---
 # <a name="quick-edit"></a>QuickEdit
 

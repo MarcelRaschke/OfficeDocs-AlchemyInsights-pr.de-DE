@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6068"
 - "9003225"
-ms.openlocfilehash: 99c3bda40485c654a30b08682b499e8391e29471
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 24e57ae4e346a3606e12c313b641765d4cb234cd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61987105"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62677556"
 ---
 # <a name="stream-noise-suppression"></a>Stream-Rauschunterdrückung
 

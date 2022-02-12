@@ -13,17 +13,17 @@ ms.custom:
 - "1262"
 - "2000021"
 ms.assetid: 05d36350-3b1e-4a5b-bbb1-0791ae727b8a
-ms.openlocfilehash: d078695030eea11f09f82a296cf48a216573bfa2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9d659d5d06be66d43b9d595f5d2b55d61c18c365
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989702"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62677651"
 ---
 # <a name="steps-to-resolve-office-activation-error-0xc004b100"></a>Schritte zum Beheben Office Aktivierungsfehlers 0xc004b100
 
 Versuchen Sie diese Lösungen, um den Office Aktivierungsfehler 0xc004b100 zu beheben:
   
-1. Führen Sie eine [Onlinereparatur von Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)aus.
+1. Führen Sie eine [Onlinereparatur von Office aus](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-2. Laden Sie die Support- und Wiederherstellungs-Assistent herunter, installieren [Sie](https://aka.ms/SARA-OfficeActivation-Alchemy) sie, und führen Sie die **Aktivierungsproblembehandlung** aus.
+2. Laden Sie die Support- und Wiederherstellungs-Assistent herunter, installieren [Sie](https://aka.ms/SARA-OfficeActivation-Alchemy) sie, und führen **Sie die Aktivierungsproblembehandlung aus**.

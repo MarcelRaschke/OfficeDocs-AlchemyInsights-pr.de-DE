@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002461"
 - "4768"
-ms.openlocfilehash: 1e96e21d658a657a2e279ea3c4b293558bb4d505
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c50a2b492b934123dfefd0c3d2df661e59ec5fd2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61947202"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62597854"
 ---
 # <a name="save-location-for-files-downloaded-from-teams"></a>Speicherort für von Teams heruntergeladene Dateien
 

@@ -1,7 +1,7 @@
 ---
 title: Einschränken von Benutzern, die in Stream hochgeladen werden können
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: fafa890dbec18d702a8a26d97e4bce1954a352ed
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 4929c87383adb968e64ee4bae05712691d5e594e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58322646"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62752656"
 ---
 # <a name="restrict-users-who-can-upload-to-stream"></a>Einschränken von Benutzern, die in Stream hochgeladen werden können
 

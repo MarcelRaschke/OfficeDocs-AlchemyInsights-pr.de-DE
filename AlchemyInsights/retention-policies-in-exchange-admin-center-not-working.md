@@ -13,16 +13,16 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4730db4ff056648de077947153d5a1b266f82c16
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54074931"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62598286"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Aufbewahrungsrichtlinien im Exchange Admin Center
 
-Wenn Sie möchten, dass wir automatisierte Überprüfungen für die unten genannten Einstellungen ausführen, wählen Sie die Schaltfläche "Zurück" < - oben auf dieser Seite aus, und geben Sie dann die E-Mail-Adresse des Benutzers ein, der Probleme mit Aufbewahrungsrichtlinien hat.
+Wenn Sie möchten, dass wir automatisierte Prüfungen für die unten genannten Einstellungen ausführen, wählen Sie die Schaltfläche "Zurück" < - oben auf dieser Seite aus, und geben Sie dann die E-Mail-Adresse des Benutzers ein, der Probleme mit Aufbewahrungsrichtlinien hat.
 
 Wenn Sie Probleme mit Aufbewahrungsrichtlinien im Exchange Admin Center haben, die nicht auf Postfächer oder Elemente angewendet werden, die nicht in das Archivpostfach verschoben werden, überprüfen Sie Folgendes:
 
@@ -32,9 +32,9 @@ Wenn Sie Probleme mit Aufbewahrungsrichtlinien im Exchange Admin Center haben, d
 
   **Lösung:** Führen Sie den Assistenten für verwaltete Ordner aus.
 
-- **RetentionHold** wurde für das Postfach **aktiviert.** Wenn das Postfach auf ein RetentionHold-Objekt gesetzt wurde, wird die Aufbewahrungsrichtlinie für das Postfach während dieser Zeit nicht verarbeitet.
+- **RetentionHold** wurde für das Postfach **aktiviert** . Wenn das Postfach auf ein RetentionHold-Objekt gesetzt wurde, wird die Aufbewahrungsrichtlinie für das Postfach während dieser Zeit nicht verarbeitet.
 
-  **Lösung:** Überprüfen Sie den Status der Aufbewahrungssperre, und aktualisieren Sie sie nach Bedarf. Ausführliche Informationen finden Sie unter [Aufbewahrungssperre für Postfächer.](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)
+  **Lösung:** Überprüfen Sie den Status der Aufbewahrungssperre, und aktualisieren Sie sie nach Bedarf. Ausführliche Informationen finden Sie unter [Aufbewahrungssperre für Postfächer](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
  
 **Hinweis:** Wenn ein Postfach kleiner als 10 MB ist, verarbeitet der Assistent für verwaltete Ordner das Postfach nicht automatisch.
  

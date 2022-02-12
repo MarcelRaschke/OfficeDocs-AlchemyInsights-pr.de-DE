@@ -14,22 +14,22 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: b85e5b5a00d2df0fd8a03fba43c1afb05521deba
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 30bb2e5ed5dbd913fc7d425afca3727a1152d9c2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61986709"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62753003"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Wiederherstellen einer gelöschten Microsoft 365-Gruppe
 
 Sie können eine gelöschte Microsoft 365 Gruppe oder Microsoft Teams innerhalb von 30 Tagen nach dem Löschen wiederherstellen.
 
-1. Wechseln Sie zu den [Microsoft 365 Admin Center,](https://aka.ms/RestoreDeletedGroup) um sich bei einer Liste der gelöschten Gruppen und Teams anzumelden.
+1. Wechseln Sie zu den [Microsoft 365 Admin Center](https://aka.ms/RestoreDeletedGroup), um sich bei einer Liste der gelöschten Gruppen und Teams anzumelden.
 
     **Hinweis:** Melden Sie sich mit dem Konto an, das entweder dem Mandantenadministrator oder der Gruppenadministratorrolle zugewiesen ist.
 
-1. Wählen Sie die gelöschte Microsoft 365 Gruppe/Teams aus, die wiederhergestellt werden soll, und klicken Sie auf **"Gruppe wiederherstellen".**
+1. Wählen Sie die gelöschte Microsoft 365 Gruppe/Teams aus, die wiederhergestellt werden soll, und klicken Sie auf **"Gruppe wiederherstellen"**.
 
     Wenn die Gruppe aufgrund einer widersprüchlichen SMTP-Adresse nicht wiederhergestellt werden kann, verwenden Sie den folgenden Befehl, um das Objekt zu suchen, das einen Konflikt verursacht, und entfernen Sie die SMTP-Adresse:
 
@@ -37,4 +37,4 @@ Sie können eine gelöschte Microsoft 365 Gruppe oder Microsoft Teams innerhalb 
 
     **Hinweis:** In einigen Fällen kann es bis zu 24 Stunden dauern, bis die Gruppe und alle ihre Daten wiederhergestellt wurden.
 
-    Weitere Informationen oder Informationen zum Wiederherstellen von Gruppen mithilfe von PowerShell finden Sie unter [Wiederherstellen einer gelöschten Microsoft 365 Gruppe.](https://go.microsoft.com/fwlink/?linkid=867802)
+    Weitere Informationen oder Informationen zum Wiederherstellen von Gruppen mithilfe von PowerShell finden Sie unter ["Wiederherstellen einer gelöschten Microsoft 365 Gruppe"](https://go.microsoft.com/fwlink/?linkid=867802).

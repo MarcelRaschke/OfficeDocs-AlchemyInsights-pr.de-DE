@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13650"
 - "9000734"
-ms.openlocfilehash: 60bd363a0421271a0ba28a38b2ad2f1cb23e46fd
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 298c48f5caae11b1e5a2e212ba126e02d1251f7a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61971176"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62752643"
 ---
 # <a name="retention-policies-in-teams"></a>Aufbewahrungsrichtlinien in Teams
 

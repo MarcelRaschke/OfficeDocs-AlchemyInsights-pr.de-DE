@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1125"
 - "6700007"
-ms.openlocfilehash: 322bb0854eff7e72d8122fa17ad19f36d8a491f2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d7e446ff998d841056a3a91cad37826036bd40fe
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61978399"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62597134"
 ---
 # <a name="software-updates-are-not-being-deployed"></a>Softwareupdates werden nicht bereitgestellt
 

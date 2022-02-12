@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004319"
 - "7703"
-ms.openlocfilehash: daea50e36ee672b119b5a351e04b1aba18c31754a06b2e59c792e2c748cfcca6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 30b38711c78765cc1ae11d75eb18dba69487e88b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54074653"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62598214"
 ---
 # <a name="retirement-of-site-mailbox"></a>Einstellung des Websitepostfachs
 

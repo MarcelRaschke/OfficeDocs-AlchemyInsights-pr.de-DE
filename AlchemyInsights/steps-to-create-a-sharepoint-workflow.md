@@ -14,24 +14,24 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 2627aeab1ac9819482cac4c82bb505f6129a0339
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3e61b192e349202934bbc50919bad99c8762f6c2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61981751"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62677615"
 ---
 # <a name="steps-to-create-a-sharepoint-workflow"></a>Schritte zum Erstellen eines SharePoint Workflows
 
-- Wenn Sie keinen SharePoint 2010-Genehmigungsworkflow hinzufügen können, lesen Sie ["Standardgenehmigungsworkflow 2010 nicht hinzufügen".](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow)
+- Wenn Sie keinen SharePoint 2010-Genehmigungsworkflow hinzufügen können, lesen Sie "[Standardgenehmigungsworkflow 2010 nicht hinzufügen](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow)".
 - Erstellen von Workflows:
     - [2013 Workflow from SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
-    - [2010 Workflow from SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
+    - [2010 Workflow aus SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
     - [Einführung in SharePoint Workflow](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
 
 - Workflowproblembehandlung und -debugging:
-    - Das Debuggen von Workflows ähnelt dem von früheren Versionen.  Weitere Informationen finden Sie unter [Debuggen SharePoint Workflows.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
-    - Weitere Informationen zur Problembehandlung finden Sie unter [Problembehandlung bei SharePoint Server-Workflowvalidierungsfehlern.](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+    - Das Debuggen von Workflows ähnelt dem von früheren Versionen.  Weitere Informationen finden Sie unter [Debuggen SharePoint Workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+    - Weitere Informationen zur Problembehandlung finden Sie unter [Problembehandlung bei SharePoint Server-Workflowvalidierungsfehlern](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>Verwandte Themen

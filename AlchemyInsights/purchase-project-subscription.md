@@ -15,12 +15,12 @@ ms.custom:
 - "9002424"
 - "4708"
 ms.date: 04/14/2021
-ms.openlocfilehash: 213eab5723c0183ef45aac53478c9a8ca2a07f29
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 72061e83bba7ab59549a56fc8decf8c6133cc8c4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844889"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62633334"
 ---
 # <a name="purchase-project-subscription"></a>Project-Abonnement kaufen
 

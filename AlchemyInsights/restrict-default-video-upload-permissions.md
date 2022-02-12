@@ -1,7 +1,7 @@
 ---
 title: Einschränken der Standardberechtigungen für den Videoupload
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002650"
 - "5101"
-ms.openlocfilehash: a3303a8e5d4b792bc3b4a16603386a41fc94f0c9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: f56f280cf38ecd1be46080da918412773e847017
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310894"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62632542"
 ---
 # <a name="restrict-default-video-upload-permissions"></a>Einschränken der Standardberechtigungen für den Videoupload
 

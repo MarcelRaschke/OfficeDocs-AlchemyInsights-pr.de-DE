@@ -15,12 +15,12 @@ ms.custom:
 - "491"
 - "1500032"
 ms.date: 08/05/2021
-ms.openlocfilehash: e8461d52884c908585a9eedf43184e3e484845d2
-ms.sourcegitcommit: d5143738025187f6b7aef801d7c992de97c9d78e
+ms.openlocfilehash: e859a00835c9d5a7bdb1482c830221d3638af99a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62471362"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62633298"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Fragen zu Ihrer Microsoft 365-Lizenz
 

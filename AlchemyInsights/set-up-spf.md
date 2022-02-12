@@ -13,12 +13,12 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 0df4f1ea8f8b7818d3d5abcee37bd839dface04a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 111cf2560294ca65ba15cdf0818deae86a47901a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61980742"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62752247"
 ---
 # <a name="set-up-spf"></a>Einrichten von SPF
 

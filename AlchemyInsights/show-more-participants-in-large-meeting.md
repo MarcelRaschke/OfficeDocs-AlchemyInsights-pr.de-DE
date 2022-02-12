@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003565"
 - "6665"
-ms.openlocfilehash: 5e36b033527e647acd8bdaab51fc0fbce4c1f00d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4fe9e7e1b853c216065d00c210a67197032d6d0d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61984150"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62597458"
 ---
 # <a name="see-more-participants-in-a-large-meeting"></a>Mehr Teilnehmer in einer großen Besprechung sehen
 

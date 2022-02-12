@@ -15,12 +15,12 @@ ms.custom:
 - "9002564"
 - "4969"
 ms.date: 08/10/2021
-ms.openlocfilehash: 36ce5d7f6ab719e8ccdedb4cb13499fe869cd48f
-ms.sourcegitcommit: d5143738025187f6b7aef801d7c992de97c9d78e
+ms.openlocfilehash: c4ef65e4f5c2f714cdc58030d485d683b276fe07
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62471543"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62633550"
 ---
 # <a name="power-bi-license-management"></a>Power BI-Lizenzverwaltung
 

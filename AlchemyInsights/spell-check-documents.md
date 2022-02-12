@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002912"
 - "5590"
-ms.openlocfilehash: 0cdc2643964ab414509afb229080a56594d5b59b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 78986b09853dd3baa4784178b03b0b0052eee890
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61980489"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62677723"
 ---
 # <a name="spell-check-documents"></a>Rechtschreibprüfung für Dokumente
 

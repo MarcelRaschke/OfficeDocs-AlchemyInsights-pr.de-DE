@@ -18,12 +18,12 @@ ms.custom:
 - "4736"
 - "3551"
 ms.date: 08/10/2021
-ms.openlocfilehash: 7ae9898bb467b188d58301e396a9a5dd6bee695d
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: b5d7c7bd0333d38a9f88f8ed0c8f0720c4e12932
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844853"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62632938"
 ---
 # <a name="reactivate-your-subscription"></a>Reaktivieren Ihres Abonnements
 

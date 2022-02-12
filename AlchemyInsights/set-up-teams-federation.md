@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001733"
 - "4340"
-ms.openlocfilehash: 632375c36aa5e75ca010ba14f76108e7e61bb134
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9aa54176942e2305e0a928681770c5ba2eb489e0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61966850"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62752211"
 ---
 # <a name="set-up-teams-federation"></a>Einrichten eines Verbunds in Teams
 

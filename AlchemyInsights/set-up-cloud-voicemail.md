@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "4567"
-ms.openlocfilehash: cf405eca2067192f890c512b2842f557a16ce9fd
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8386862f3d1d13380a1b09215eaa0eeb0fc928a5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61860341"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62752175"
 ---
 # <a name="set-up-or-troubleshoot-cloud-voicemail"></a>Einrichtung oder Problembehandlung von Cloud-Voicemail
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "13636"
-ms.openlocfilehash: f3e40006c52f84f428185411e7b298ba35c3d187
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 80f8d48543f751b0ec451286bfbeb6395fd80cb2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61948715"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62753183"
 ---
 # <a name="reduce-the-size-of-your-outlook-data-file"></a>Verringern der Größe ihrer Outlook-Datendatei
 
