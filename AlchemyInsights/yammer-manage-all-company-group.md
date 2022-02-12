@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: f1080c8382b907f3c33cbb02c2d185f147e0655b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 83d70c0bb4e54086d7de8af61383477ff3cfedd7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61792715"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62543338"
 ---
 # <a name="all-company-group"></a>Gesamte Unternehmensgruppe
 
-Die Community "All Company" unterstützt jetzt ähnliche Funktionen wie andere Communitys in Yammer. Dies umfasst Optionen wie Titelfotos und Namensnennung. Es ist auch möglich, alle Unternehmensbeiträge in Yammer einzuschränken. Weitere Informationen finden Sie unter ["Gesamtes Unternehmen" funktioniert jetzt wie andere Yammer Communitys.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
+Die Community "All Company" unterstützt jetzt ähnliche Funktionen wie andere Communitys in Yammer. Dies umfasst Optionen wie Titelfotos und Namensnennung. Es ist auch möglich, alle Unternehmensbeiträge in Yammer einzuschränken. Weitere Informationen finden Sie unter ["Gesamtes Unternehmen" funktioniert jetzt wie andere Yammer Communitys](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).
 
 ## <a name="common-issues-and-solutions"></a>Häufige Probleme und Lösungen
 
