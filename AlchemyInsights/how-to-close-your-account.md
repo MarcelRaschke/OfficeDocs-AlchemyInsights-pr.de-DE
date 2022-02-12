@@ -15,12 +15,12 @@ ms.assetid:
 - "9002317"
 - "4502"
 ms.date: 09/14/2020
-ms.openlocfilehash: c56bbfa68e8c4df5355dc1892953cc93ac7da59a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0b49768410f1942ee7295ab97738fef45f9c44ee
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61873460"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62604443"
 ---
 # <a name="how-to-close-your-account"></a>So schließen Sie Ihr Konto
 

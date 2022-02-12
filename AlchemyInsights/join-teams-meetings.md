@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: 0e5323eb4ec608352704cd4d9d04c5fe64243375
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b13fc78dfc215d73cc0a74767bc5a534ded2ce36
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61862534"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62755775"
 ---
 # <a name="join-a-meeting-in-teams"></a>Teilnehmen an einer Besprechung in Microsoft Teams
 
-Um an einer Teams Besprechung teilzunehmen, legen Sie zuerst Besprechungsrichtlinien fest und leiten Sie die Benutzer dann an, von ihren bevorzugten Geräten aus teilzunehmen:
+Um an einer Teams Besprechung teilzunehmen, legen Sie zuerst Besprechungsrichtlinien fest, und leiten Sie die Benutzer dann von ihren bevorzugten Geräten aus an, an der Besprechung teilzunehmen:
 
-- Legen Sie Besprechungsrichtlinien fest, die steuern, wer als [Teilnehmer oder Gäste](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests)an der Besprechung teilnehmen kann. 
+- Legen Sie Besprechungsrichtlinien fest, die steuern, wer als [Teilnehmer oder Gäste](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) an der Besprechung teilnehmen kann. 
 
-- Verwenden Sie Microsoft Teams [PowerShell-Cmdlets,](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) um Richtlinienänderungen vorzunehmen.    
+- Verwenden Sie Microsoft Teams [PowerShell-Cmdlets](https://docs.microsoft.com/microsoftteams/teams-powershell-overview), um Richtlinienänderungen vorzunehmen.    
 
 **Hinweis:** Es kann bis zu 24 Stunden dauern, bis Richtlinienänderungen wirksam werden.

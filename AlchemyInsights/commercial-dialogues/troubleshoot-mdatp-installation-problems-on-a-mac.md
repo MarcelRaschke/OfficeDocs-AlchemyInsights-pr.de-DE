@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3d3821ebc99a3f86f03eb0abd5f256e818ff748b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54091029"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62641141"
 ---
 # <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>Behandeln von MDATP-Installationsproblemen auf einem Mac
 
-Wenn die manuelle Installation fehlschlägt, wird auf der Seite **"Zusammenfassung"** des Installations-Assistenten der folgende Fehler angezeigt:
+Wenn die manuelle Installation fehlschlägt, wird auf der Seite **"Zusammenfassung** " des Installations-Assistenten der folgende Fehler angezeigt:
 
 "Während der Installation ist ein Fehler aufgetreten. Beim Installationsprogramm ist ein Fehler aufgetreten, der zu einem Fehler bei der Installation geführt hat. Wenden Sie sich an den Softwarehersteller, um Unterstützung zu erhalten."
 
 Bei MDM-Bereitstellungen wird auf der Seite auch ein allgemeiner Installationsfehler angezeigt.
 
-Obwohl Endbenutzern keine genauen Fehler angezeigt werden, behalten wir eine Protokolldatei mit Installationsfortschritt unter **/Library/Logs/Microsoft/mdatp/install.log** bei. Jede Installationssitzung wird an diese Protokolldatei angefügt. Um nur die letzte Installationssitzung auszugeben, verwenden Sie `sed` .
+Obwohl endbenutzern keine genauen Fehler angezeigt werden, behalten wir eine Protokolldatei mit Installationsfortschritt in **"/Library/Logs/Microsoft/mdatp/install.log**" bei. Jede Installationssitzung wird an diese Protokolldatei angefügt. Um nur die letzte Installationssitzung auszugeben, verwenden Sie `sed`.
 
-Weitere Informationen finden Sie unter [Behandeln von Installationsproblemen für Microsoft Defender ATP für Mac.](https://go.microsoft.com/fwlink/?linkid=2144615)
+Weitere Informationen finden Sie unter [Behandeln von Installationsproblemen für Microsoft Defender ATP für Mac](https://go.microsoft.com/fwlink/?linkid=2144615).

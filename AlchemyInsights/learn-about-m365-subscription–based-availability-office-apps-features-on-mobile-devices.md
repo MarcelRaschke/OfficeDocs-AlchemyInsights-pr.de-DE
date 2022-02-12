@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cf0f9b23426ffb24dddc5a0cb9dbd2be03311b87
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087423"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62755631"
 ---
 # <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Erfahren Sie mehr über Microsoft 365 abonnementbasierte Verfügbarkeit der Features von Office Apps auf mobilen Geräten
 
-Mit allen Microsoft 365 Plänen können Sie Dokumente in Word, Excel, PowerPoint und OneNote auf iOS-, Android- und Windows mobilen Geräten anzeigen. Die Verfügbarkeit der Features und Dateien dieser Apps hängt jedoch von Ihrem Abonnement ab – einem Microsoft 365 qualifizierenden Plan oder einem nicht qualifizierenden Plan oder einem einmaligen Kauf von Office – und der Bildschirmgröße eines mobilen Geräts.
+Mit allen Microsoft 365 Plänen können Sie Dokumente in Word, Excel, PowerPoint und OneNote auf iOS-, Android- und Windows mobilen Geräten anzeigen. Die Verfügbarkeit der Features und Dateien dieser Apps hängt jedoch von Ihrem Abonnement – einem Microsoft 365 qualifizierenden Plan oder einem nicht qualifizierenden Plan oder einem einmaligen Kauf von Office – und der Bildschirmgröße eines mobilen Geräts ab.
 
-Weitere Informationen finden [Sie unter "What you can do in the Office apps on mobile devices with a Microsoft 365 subscription".](https://go.microsoft.com/fwlink/?linkid=2135575) 
+Weitere Informationen finden [Sie unter "What you can do in the Office apps on mobile devices with a Microsoft 365 subscription](https://go.microsoft.com/fwlink/?linkid=2135575)". 

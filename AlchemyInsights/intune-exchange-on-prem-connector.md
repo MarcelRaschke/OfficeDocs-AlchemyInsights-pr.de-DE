@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ccef1c2d082b69745d15e489d3068f35b3fcb6de
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013963"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62604335"
 ---
 # <a name="intune-exchange-on-premise-connector"></a>Intune Exchange lokalen Connector
 
@@ -26,7 +26,7 @@ Ausführliche Informationen zum Einrichten des Connectors zwischen Intune und Ex
 
 [Einrichten des lokalen Intune-Exchange-Connectors in Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
 
-**Häufig gestellte Fragen:**
+**HÄUFIG GESTELLTE FRAGEN:**
 
 F: Beim Versuch, den Exchange Connector einzurichten, wird ein Fehler angezeigt, z. B. "Die Exchange Connectorversion wird nicht unterstützt". Was könnte die Ursache sein?
 
@@ -36,7 +36,7 @@ F: Ist es möglich, mehrere Exchange Connectors zu verwenden?
 
 Antwort: Sie können nur einen Exchange Connector pro Intune-Mandant pro Exchange Organisation einrichten. Der Connector kann nur auf einem Server in einer Exchange-Organisation mit mehreren Servern installiert werden.
 
-Außerdem können Connectors nicht sowohl für Exchange lokalen als auch für Exchange Online im selben Mandanten konfiguriert sein.
+Außerdem können Connectors nicht sowohl für Exchange lokal als auch für Exchange Online im selben Mandanten konfiguriert sein.
 
 F: Kann der Connector ein CAS-Array als Verbindung mit Exchange verwenden?
 
@@ -44,7 +44,7 @@ A: Die Angabe eines CAS-Arrays wird beim Connector-Setup nicht unterstützt. Es 
 
 programm data\microsoft\microsoft Intune on premises Exchange connector\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Suchen Sie den folgenden ```<ExchangeWebServiceURL />``` Eintrag, und ersetzen Sie die URL durch den Exchange-Server.
+Suchen Sie den folgenden Eintrag, ```<ExchangeWebServiceURL />``` und ersetzen Sie die URL durch den Exchange-Server.
 
 **Beispiel:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```

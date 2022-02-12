@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1548"
 - "9000076"
-ms.openlocfilehash: 075d64b92483e6869d5d25cc6f4093462a2eb566
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f4e170c70123c244825567151a56771a112f32af
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61872268"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62604371"
 ---
 # <a name="intune-wi-fi-profiles"></a>Intune-WLAN-Profile
 

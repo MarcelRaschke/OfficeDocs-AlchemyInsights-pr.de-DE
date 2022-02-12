@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8226"
-ms.openlocfilehash: 1ecce6cde278b50c88405911336f24a4d4a59752c661afec62536d6dd824662e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 09de9e53561f14a488c1fd628cd6daa3b5022f1c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054274"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62755559"
 ---
 # <a name="learn-about-the-features-of-the-new-microsoft-edge"></a>Erfahren Sie mehr über die Features der neuen Microsoft Edge
 

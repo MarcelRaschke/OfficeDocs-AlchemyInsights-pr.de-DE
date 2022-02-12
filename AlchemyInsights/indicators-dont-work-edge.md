@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: 7bb5e952da251fe60082af5b81f410f77fe1b2ea
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: bcfd2a36edc2a3c6847bfc58a011dd3b9302ec44
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61988005"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62604276"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Indikatoren funktionieren nicht im Edge-Browser
 

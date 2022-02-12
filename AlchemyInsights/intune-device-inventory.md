@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: bbb0150baecacff5850141934f96171fc13d9728
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b2a92ebdc5d70f4db5487264a8245275b528f7ab
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61982129"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62604407"
 ---
 # <a name="intune-device-inventory"></a>Intune-Gerätebestand
 

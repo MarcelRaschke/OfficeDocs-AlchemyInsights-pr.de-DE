@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: a43154eec64bf8081c7c12f5a5df13cfbfec84af79245daedb86bcc3ac3a5192
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fd020157db725dfbee0c0d7212b82149295dce65
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999923"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62680891"
 ---
 # <a name="change-font-or-font-size-in-outlook-on-the-web"></a>Ändern des Schrift- oder Schriftgrads in Outlook im Web
 

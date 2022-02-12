@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c9dbfdae6f6ff2a54aae6ca46f67650b2e630f7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53927858"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62604613"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Wie wird Azure Active Directory Identity Protection bereitgestellt und bereitgestellt?
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Wie wird Azure Active Directory Identitätsschutz bereitgestellt und bereitgestellt?
 
 Standardmäßig sind die Features von Azure Active Directory Identity Protection auf Mandantenebene für alle Benutzer innerhalb des Mandanten aktiviert.
 

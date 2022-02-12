@@ -14,12 +14,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 5a796b9b808c873df56363a74df50a546a42fd13
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d1c0ad72ef1dbd74a0634e22e4f43853379dc6f7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61860176"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62727261"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Versionsverwaltung in SharePoint und OneDrive 
 
@@ -40,6 +40,6 @@ Weitere Informationen zur Versionsverwaltung finden Sie in den folgenden Artikel
 
 - [Versionsverwaltungsgrenzwerte](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-**Hinweis:** Wenn Sie ein Microsoft 365 Kunde sind, ist die Versionsverwaltung jetzt standardmäßig aktiviert, wenn Sie neue OneDrive for Business Bibliotheken erstellen, und die letzten 500 Versionen eines Dokuments werden automatisch gespeichert. Dadurch können Sie verhindern, dass wichtige Dokumente oder Daten verloren gehen. Wenn Sie vorhandene Bibliotheken auf Ihrer OneDrive for Business-Website oder auf Ihrer Teamwebsite haben, für die die Versionsverwaltung nicht aktiviert ist, können Sie die Versionsverwaltung für sie jederzeit aktivieren.
+**Hinweis**: Wenn Sie ein Microsoft 365 Kunde sind, ist die Versionsverwaltung jetzt standardmäßig aktiviert, wenn Sie neue OneDrive for Business Bibliotheken erstellen, und die letzten 500 Versionen eines Dokuments werden automatisch gespeichert. Dadurch können Sie verhindern, dass wichtige Dokumente oder Daten verloren gehen. Wenn Sie vorhandene Bibliotheken auf Ihrer OneDrive for Business-Website oder auf Ihrer Teamwebsite haben, für die die Versionsverwaltung nicht aktiviert ist, können Sie die Versionsverwaltung für sie jederzeit aktivieren.
 
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 73eeb4f81451e1d3e44fdb5ecd8c4a151159f679
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5e86865f1acf2628c5557b099e1b093fb51ce72a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61858249"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62727297"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>Anmelden bei Windows 10 ohne Kennwort
 
@@ -25,7 +25,7 @@ Um zu vermeiden, dass Sie bei Windows Start ein Kennwort eingeben müssen, empfe
 
 **Sichern Windows Hello Alternativen zum Kontokennwort**
 
-Wechseln Sie zu **Einstellungen > Konten > Anmeldeoptionen** (oder klicken Sie [hier).](ms-settings:signinoptions?activationSource=GetHelp) Verfügbare Anmeldeoptionen werden aufgelistet. Beispiel:
+Wechseln Sie zu **Einstellungen > Konten > Anmeldeoptionen** (oder klicken Sie [hier](ms-settings:signinoptions?activationSource=GetHelp)). Verfügbare Anmeldeoptionen werden aufgelistet. Zum Beispiel: 
 
 ![Anmeldeoptionen.](media/sign-in-options.png)
 
@@ -33,9 +33,9 @@ Klicken oder tippen Sie auf eine der Optionen, um sie zu konfigurieren. Wenn Sie
 
 **Automatische Anmeldung bei Windows 10**
 
-**Hinweis:** Die automatische Anmeldung ist praktisch, führt jedoch zu einem Sicherheitsrisiko, insbesondere, wenn auf Ihren PC mehrere Personen zugegriffen werden kann. 
+**Hinweis**: Die automatische Anmeldung ist praktisch, führt jedoch zu einem Sicherheitsrisiko, insbesondere, wenn auf Ihren PC mehrere Personen zugegriffen werden kann. 
 
-1. Klicken oder tippen Sie auf der Taskleiste auf die Schaltfläche **"Start".**
+1. Klicken oder tippen Sie auf der Taskleiste auf die Schaltfläche " **Start** ".
 
 2. Geben Sie **"netplwiz"** ein, und drücken Sie die EINGABETASTE, um das Fenster "Benutzerkonten" zu öffnen.
 
@@ -45,4 +45,4 @@ Klicken oder tippen Sie auf eine der Optionen, um sie zu konfigurieren. Wenn Sie
 
     ![Benutzer müssen eine Benutzernamen- und Kennwortoption eingeben.](media/users-must-enter-username.png)
 
-5. Klicken Sie auf **OK**. Sie werden aufgefordert, das Kennwort für das von Ihnen ausgewählte Konto einzugeben und zu bestätigen. Klicken Sie zum Abschließen auf **OK**. Wenn Windows 10 das nächste Mal gestartet wird, wird es automatisch bei dem ausgewählten Konto angemeldet.
+5. Klicken Sie auf **OK**. Sie werden aufgefordert, das Kennwort für das von Ihnen ausgewählte Konto einzugeben und zu bestätigen. Klicken Sie zum Abschließen auf **OK**. Wenn Windows 10 das nächste Mal gestartet wird, wird automatisch das von Ihnen ausgewählte Konto angemeldet.

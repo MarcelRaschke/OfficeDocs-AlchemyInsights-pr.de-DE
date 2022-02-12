@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 66c28be6e75be560a87f8c0c88f87333d5ad368f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 365c57340e2c0a75268c8e283019edc68511c1d0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61969771"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62640840"
 ---
 # <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Die Benachrichtigung "Abonnement konnte nicht überprüft werden" in Microsoft 365-Apps
 

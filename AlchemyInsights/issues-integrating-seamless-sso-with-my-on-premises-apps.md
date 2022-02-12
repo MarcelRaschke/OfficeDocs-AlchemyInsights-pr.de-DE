@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 6b295f3272ba074eac3afb66f3156af7ea4065a1398a215bcb3cde5da74b198a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 913483e802fa22bab9c957e7c508d8c293e3887a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028291"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62755919"
 ---
 # <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Probleme bei der Integration von nahtlosen SSO in meine lokalen Apps
 
@@ -26,8 +26,8 @@ Führen Sie die folgenden Schritte aus, um Probleme bei der Integration von naht
 
 **Empfohlene Schritte**
 
-1. Informationen zum Konfigurieren einer **lokalen Anwendung** für **einmaliges Anmelden über den Anwendungsproxy** finden Sie unter [Kennworttresor für einmaliges Anmelden mit Anwendungsproxy.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting)
-1. **Problembehandlung bei Anwendungsproxyproblemen:** Es wird empfohlen, den Problembehandlungsfluss zu überprüfen, Probleme mit dem [Anwendungsproxyconnector zu debuggen,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)um festzustellen, ob Anwendungsproxyconnectors ordnungsgemäß konfiguriert sind. Wenn weiterhin Probleme beim Herstellen einer Verbindung mit der Anwendung bestehen, führen Sie die Schritte zur Problembehandlung unter [Debuggen von Problemen mit Anwendungsproxyanwendungen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps) aus. Sie können [CORS-Probleme](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) mithilfe der folgenden Browserdebuggertools identifizieren:
+1. Informationen zum Konfigurieren einer **lokalen Anwendung** für **einmaliges Anmelden über den Anwendungsproxy** finden Sie unter [Kennworttresor für einmaliges Anmelden mit Anwendungsproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
+1. **Problembehandlung bei Anwendungsproxyproblemen**: Es wird empfohlen, mit der Überprüfung des Problembehandlungsflusses, [dem Debuggen von Problemen mit anwendungsproxykonnektoren](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) zu beginnen, um festzustellen, ob Anwendungsproxyconnectors ordnungsgemäß konfiguriert sind. Wenn weiterhin Probleme beim Herstellen einer Verbindung mit der Anwendung bestehen, führen Sie die Schritte zur Problembehandlung unter [Debuggen von Problemen mit Anwendungsproxyanwendungen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps) aus. Sie können [CORS-Probleme](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) mithilfe der folgenden Browserdebuggertools identifizieren:
     1. Starten Sie den Browser, und navigieren Sie zu der Web-App.
     1. Drücken Sie **F12**, um die Debuggingkonsole zu öffnen.
     1. Versuchen Sie, die Transaktion zu reproduzieren, und überprüfen Sie die Konsolenmeldung. Eine CORS-Verletzung führt zu einem Konsolenfehler hinsichtlich des Ursprungs.

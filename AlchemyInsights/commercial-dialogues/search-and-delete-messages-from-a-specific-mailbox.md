@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: e2f5736e5099e9e0ea58211c9e2eb0510af50bcd073b63153bd13eca1266c318
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 55363c2604d2e51fada1877753c0d7fa49db3c2d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016375"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62641380"
 ---
 # <a name="search-and-delete-messages-from-a-specific-mailbox"></a>Suchen und Löschen von Nachrichten aus einem bestimmten Postfach
 

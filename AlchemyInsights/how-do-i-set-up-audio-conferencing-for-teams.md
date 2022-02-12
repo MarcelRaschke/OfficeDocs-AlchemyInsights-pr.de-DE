@@ -6,15 +6,20 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 2711
-  - 2712
-  - 9000766
+- "2711"
+- "2712"
+- "9000766"
+ms.openlocfilehash: e1b287cf70962c6b0080b678891ebe9bd6c4b0bc
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62604610"
 ---
-
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Audiokonferenzen
 
 Benötigen Sie Hilfe beim Einschalten oder Einrichten von [Audiokonferenzen in Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)?  Wurde der Benutzer kürzlich erstellt? Wenn dies der Fall ist, müssen Sie mehrere Stunden warten, bis die Einstellungen wirksam werden.

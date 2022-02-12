@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: ab370e992c1f58ff388e5d4db57245fe7fcbd682
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: a75aee2929d0ba0af8e53d823ac04ab7937b10ac
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316291"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62727729"
 ---
 # <a name="set-up-exchange-online-protection"></a>Einrichten von Exchange Online Protection
 
-Microsoft Exchange Online Der Schutz (EOP) ist ein cloudbasierter E-Mail-Filterdienst zum Schutz vor Spam, Schadsoftware und Spoofing mit Features zum Schutz Ihrer Organisation vor Verstößen gegen Nachrichtenrichtlinien.
+Microsoft Exchange Online Protection (EOP) ist ein cloudbasierter E-Mail-Filterdienst zum Schutz vor Spam, Schadsoftware und Spoofing mit Features zum Schutz Ihrer Organisation vor Verstößen gegen Nachrichtenrichtlinien.
 
-Verwenden Sie das [Exchange Online Protection Setuphandbuch,](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) um EOP einzurichten, indem Sie unter den drei Bereitstellungsszenarien auswählen, die am besten zu Ihrer Organisation passen:
+Verwenden Sie die [Exchange Online Protection Einrichtungshandbuchs](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection), um EOP einzurichten, indem Sie unter den drei Bereitstellungsszenarien auswählen, die am besten zu Ihrer Organisation passen:
 
 - Alle lokalen Postfächer.
 - Hybrid (Kombination aus lokalen und Cloudpostfächern

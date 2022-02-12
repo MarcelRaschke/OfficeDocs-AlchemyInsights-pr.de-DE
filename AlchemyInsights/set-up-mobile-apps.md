@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9712"
 - "9003952"
-ms.openlocfilehash: e094342d734e6cb650f8840c38d5e1d377fbbcf4
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f7d6a9329c36e967150c90b5aa998cc74ce7dcb8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61860291"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62727585"
 ---
 # <a name="set-up-mobile-apps-for-office-365-and-microsoft-365"></a>Einrichten mobiler Apps für Office 365 und Microsoft 365
 
