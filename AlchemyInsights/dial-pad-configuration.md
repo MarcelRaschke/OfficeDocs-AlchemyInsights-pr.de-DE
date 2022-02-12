@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000719"
 - "6438"
-ms.openlocfilehash: 894b14ab344edfcae0247ce7008a990e07bb78f6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6d415e43cad629de85caad1a8c686eb7a8f5544f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61941823"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62711061"
 ---
 # <a name="teams-dial-pad-configuration"></a>Konfiguration der Teams-Wähltastatur
 

@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002357
-  - 4583
+- "9002357"
+- "4583"
+ms.openlocfilehash: 63cc0feb195f391104e1c219c83330e450b8898b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62711673"
 ---
-
 # <a name="conditional-access-policies"></a>Richtlinien für bedingten Zugriff
 
 Der bedingte Zugriff ist eine Funktion von Azure AD, die es Ihnen ermöglicht, eine Steuerung des Zugriffs auf Apps in Ihrer Umgebung zu erzwingen – basierend auf spezifischen Bedingungen und verwaltet von einem zentralen Ort aus.
