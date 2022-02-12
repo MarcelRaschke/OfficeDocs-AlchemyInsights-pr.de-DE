@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10825"
 - "9003042"
-ms.openlocfilehash: 4f420d014150acb76bf6231583a453ff72be1bf0
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7356f69293b2b8e03e43640b901d10e285543570
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61973482"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62661018"
 ---
 # <a name="unable-to-access-files-shared-in-teams-chat"></a>Zugriff auf freigegebene Dateien im Teams-Chat nicht möglich
 

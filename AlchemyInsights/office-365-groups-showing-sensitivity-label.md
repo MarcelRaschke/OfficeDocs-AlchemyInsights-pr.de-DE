@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: 943fbfbd702df1de78c3e25bc841a65f410be28b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 294c8e7eefc70280cce46a0939b647bada87154f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61979660"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62697812"
 ---
 # <a name="microsoft-365-groups-showing-sensitivity-label"></a>Microsoft 365-Gruppen, die mit einer Vertraulichkeitsbezeichnung versehen sind
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: ed54a163f2a31ff1f19c30fcc27bbb2f27fa3863
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4a96544fd14d88db3e7f7b1a4fd471dbcadd9df7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61939976"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62659938"
 ---
 # <a name="working-with-desktop-analytics"></a>Arbeiten mit Desktop Analytics
 

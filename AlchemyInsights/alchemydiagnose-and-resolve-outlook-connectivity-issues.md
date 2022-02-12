@@ -1,5 +1,5 @@
 ---
-title: Alchemy – Diagnostizieren und Beheben Outlook Verbindungsprobleme
+title: Altrigy – Diagnostizieren und Beheben Outlook Verbindungsprobleme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,12 +14,12 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: 6dadbf8884d86137e84e7d4678e75d248103f39d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 428cac8af7463c49a7adbc752aea2faf55d5c983
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61946338"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62658992"
 ---
 # <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Diagnostizieren und Beheben Outlook Verbindungsprobleme
 

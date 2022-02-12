@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3481"
 - "9001466"
-ms.openlocfilehash: 2c804c7534bc69208f4c1cc6ddc893214c11197b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: db81a2d702bc1eb9c16c246a5a82fb7774eebe18
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61981030"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62659974"
 ---
 # <a name="common-issues-and-resolutions-with-word"></a>Häufige Probleme und Lösungen mit Word
 
@@ -28,4 +28,4 @@ Hier sind einige häufig angeforderte Artikel, die bei der Lösung häufig auftr
 - [Zusammenarbeit an Word-Dokumenten mithilfe der gemeinsamen Dokumenterstellung in Echtzeit](https://support.office.com/article/collaborate-on-word-documents-with-real-time-co-authoring-7dd3040c-3f30-4fdd-bab0-8586492a1f1d?wt.mc_id=fsn_word_share_and_coauthor)
 - [Fehlerbehebung bei Druckproblemen in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word)
 
-Weitere Informationen finden Sie im [Word-Hilfecenter.](https://support.office.com/word)
+Weitere Informationen finden Sie im [Word-Hilfecenter](https://support.office.com/word).

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003894"
 - "6948"
-ms.openlocfilehash: 0e4dea85d86d768fce69f3c1aa5269a84d5103f6c908c72928d39bfc9143dd76
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8efa518ae00aa3338a007f55585e7c2ddde972db
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53970690"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62660082"
 ---
 # <a name="whats-new-in-windows-10-version-1703"></a>Neuigkeiten in Windows 10, Version 1703
 
-In Windows 10, Version 1703, die auch als Creators Update bezeichnet wird, sind die Neuerungen in den Features von IT-Experten (Information Technology) aufgeführt:
+Neuigkeiten in den Features von IT-Experten (Information Technology) in Windows 10, Version 1703, auch bekannt als Creators Update:
 
 1. [Konfiguration](https://go.microsoft.com/fwlink/?linkid=2114188)
 1. [Bereitstellung](https://go.microsoft.com/fwlink/?linkid=2114365)    

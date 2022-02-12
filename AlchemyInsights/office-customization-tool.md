@@ -7,14 +7,19 @@ ms.date: 04/6/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O364
 ms.custom:
-  - 9003533
-  - 10881
+- "9003533"
+- "10881"
+ms.openlocfilehash: d5c1aa49d16a1eddfa92c529bda830a629c44853
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62697632"
 ---
-
 # <a name="office-customization-tool"></a>Office-Anpassungstool
 
 Das Office-Anpassungstool (Office Customization Tool, OCT) erstellt die Konfigurationsdateien, die zur Bereitstellung von Office in großen Organisationen verwendet werden. Diese Konfigurationsdateien bieten Ihnen mehr Kontrolle über eine Office-Installation: Sie können definieren, welche Anwendungen und Sprachen installiert werden, wie diese Anwendungen aktualisiert werden sollen und die Anwendungseinstellungen. 

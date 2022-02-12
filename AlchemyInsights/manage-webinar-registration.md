@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: c3ba1c92c794a4ae62bd32e8eaa13c30ab9c2070
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3ba57be44697def3690619b65c8671dd7169bc24
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61983249"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62699108"
 ---
 # <a name="manage-webinar-registration"></a>Verwalten der Webinarregistrierung
 

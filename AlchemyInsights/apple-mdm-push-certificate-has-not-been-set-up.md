@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2634"
 - "9000770"
-ms.openlocfilehash: e4c9173b1dbbdee99734b33741a5b5f1456265d1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 239804d08413f9b4ab6fa6b7df2496c5c0268204
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61959583"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62658904"
 ---
 # <a name="apple-mdm-push-certificate-has-not-been-set-up"></a>Das Apple MDM-Push-Zertifikat wurde nicht eingerichtet
 

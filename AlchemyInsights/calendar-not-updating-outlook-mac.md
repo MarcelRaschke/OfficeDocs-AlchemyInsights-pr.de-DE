@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 60c7b767f46bb007b5e866cd4b7e8d42b68ce832
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 1e7ca352d9f85de9101fa3ce7466e1f91296026f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960087"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62658247"
 ---
 # <a name="calendar-not-updating-outlook-for-mac"></a>Der Kalender wird für Outlook für Mac nicht aktualisiert
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: 9f62cfb75da12b7b572e18f58dab1ccb18eb8533
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9efb06a6d7853f0d131a2f170beb90ed44994a84
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61947094"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62659326"
 ---
 # <a name="aip-track-and-revoke-portal"></a>AIP: Portal für das Nachverfolgen und Widerrufen
 

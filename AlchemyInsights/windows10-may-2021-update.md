@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006487"
 - "11085"
-ms.openlocfilehash: 467b444a7eac3f64e467bd9bcb919559ac98e25a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 048b68355af239b51b5fa6c8e654dee482e14d7e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61987393"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62659902"
 ---
 # <a name="get-the-windows-10-may-2021-update"></a>Holen Sie sich das Windows 10 Update vom Mai 2021
 

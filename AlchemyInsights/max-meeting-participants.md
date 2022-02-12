@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003355"
 - "15557"
-ms.openlocfilehash: 2dfc6a3f1b64c1c698d737919457c7810fda2764
-ms.sourcegitcommit: 9835dc62e377605ba506967793f688a9a53e41be
+ms.openlocfilehash: da39e73fa5135b5ed61e411034db48d20cbf726f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2021
-ms.locfileid: "61129936"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62698712"
 ---
 # <a name="maximum-number-of-meeting-participants"></a>Maximale Anzahl von Besprechungsteilnehmern
 
@@ -27,8 +27,8 @@ Die schreibgeschützte Oberfläche ermöglicht es den ersten 1.000 Teilnehmern, 
 
 `Set-CsTeamsMeetingPolicy -Identity Global -StreamingAttendeeMode Enabled`
 
-Weitere Informationen zur schreibgeschützten Benutzeroberfläche finden Sie unter [Teams schreibgeschützten Besprechungserfahrung.](https://docs.microsoft.com/microsoftteams/view-only-meeting-experience)
+Weitere Informationen zur schreibgeschützten Benutzeroberfläche finden Sie unter [Teams schreibgeschützten Besprechungsoberfläche](https://docs.microsoft.com/microsoftteams/view-only-meeting-experience).
 
 Die maximale Anzahl von Teilnehmern, die in einem Video- oder Audioanruf aus dem Chat zulässig sind, beträgt 20. Anrufe sind nicht identisch mit Audiokonferenzen. Audiokonferenzen (auch als Einwahl oder Einwahl bezeichnet) im Kontext einer Besprechung ermöglichen bis zu 1.000 Telefonteilnehmer.
 
-Ausführliche Informationen finden Sie unter [Grenzwerte und Spezifikationen für Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)
+Ausführliche Informationen finden Sie unter [Grenzwerte und Spezifikationen für Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).

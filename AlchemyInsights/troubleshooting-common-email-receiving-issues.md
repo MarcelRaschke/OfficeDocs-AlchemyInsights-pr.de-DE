@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11135"
 - "3100010"
-ms.openlocfilehash: 8fd54977355c55ef7a75735c96cefe38b4ea60f7
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b57f36c2c30a13c0b5eb9f1998be5bce41863416
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960881"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62661090"
 ---
 # <a name="troubleshooting-common-email-receiving-issues"></a>Behandlung von häufigen Problemen beim Empfangen von E-Mails
 

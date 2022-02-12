@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10184"
 - "9000094"
-ms.openlocfilehash: a2cad5db96b4bf072f77c42d59033c111b9b6b2b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5e05570aa6ef0292179b390f66a2df338b45b209
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61947455"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62658822"
 ---
 # <a name="apply-site-template-to-sharepoint-sites"></a>Anwenden einer Websitevorlage auf SharePoint-Websites
 

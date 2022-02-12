@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8232"
 - "9004597"
-ms.openlocfilehash: 08513342c9ce1ec6b3c6860cbac633fb1f966c06
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c3d3c0e80f9de163e7f23b48c2273434db2c2012
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960845"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62658174"
 ---
 # <a name="auto-apply-labeling"></a>Bezeichnung automatisch anwenden
 

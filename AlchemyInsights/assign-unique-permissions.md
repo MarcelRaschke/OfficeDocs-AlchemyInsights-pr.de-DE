@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6869"
 - "9000156"
-ms.openlocfilehash: 0032e4f2179aa84614220ebce718f15771397d03
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e4a1e55986f12decd3cbf93ba7834a1810b82489
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960159"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62658858"
 ---
 # <a name="assign-unique-permissions-in-sharepoint"></a>Zuweisen eigener Berechtigungen in SharePoint
 
