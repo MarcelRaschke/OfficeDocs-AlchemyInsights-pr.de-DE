@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ee0b821f8b02df8066013975e1a9cebf6a0a2dd7
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 68ae51fc81b201c6bf0bd13f357946d693f211b2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315685"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62704185"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Lizenzen für Microsoft 365 Defender
 
@@ -33,8 +33,8 @@ Die folgenden Lizenzen bieten kostenlosen Zugriff auf Microsoft 365 Defender Fea
 - Microsoft Cloud App Security
 - Microsoft Defender für Office 365 (Plan 2)
 
-    **Hinweis:** Derzeit bieten Testlizenzen für Office 365 keinen Zugriff auf Microsoft 365 Defender.
+    **Hinweis**: Derzeit bieten Testlizenzen für Office 365 keinen Zugriff auf Microsoft 365 Defender.
 
-Weitere Informationen finden Sie im [Vergleich zu Microsoft 365 Enterprise Plänen.](https://go.microsoft.com/fwlink/?linkid=2143458)
+Weitere Informationen finden Sie im [Vergleich zu Microsoft 365 Enterprise Plänen](https://go.microsoft.com/fwlink/?linkid=2143458).
 
-Sie haben noch keine Lizenz? [Versuchen Sie, ein Microsoft 365 Abonnement](https://go.microsoft.com/fwlink/?linkid=2143625)zu kaufen.
+Sie haben noch keine Lizenz? [Testen oder kaufen Sie ein Microsoft 365 Abonnement](https://go.microsoft.com/fwlink/?linkid=2143625).
