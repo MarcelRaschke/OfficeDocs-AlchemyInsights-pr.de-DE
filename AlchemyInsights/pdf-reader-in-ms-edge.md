@@ -15,12 +15,12 @@ ms.custom:
 - "6933"
 - "11940"
 - "9007101"
-ms.openlocfilehash: c7d13ac6a84dc95477b18bc460a98134b02efd6bae0096fe2038da13b5e3a07d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b08b4bdbefdabde1719d390267ed2f5cec69aeaa
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54086883"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62633838"
 ---
 # <a name="pdf-reader-in-microsoft-edge"></a>PDF-Reader in Microsoft Edge
 

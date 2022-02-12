@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 9001213
-  - 3187
+- "9001213"
+- "3187"
+ms.openlocfilehash: 2eaa78d293ce4a0c245d7f9f38fa3f7737f5481b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62633874"
 ---
-
 # <a name="como-pagar-com-boleto"></a>Como Pagar com Boleto
 
 **Como pagar minha fatura**

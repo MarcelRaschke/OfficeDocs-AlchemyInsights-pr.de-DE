@@ -15,19 +15,19 @@ ms.custom:
 - "1400001"
 - "4721"
 ms.date: 10/26/2021
-ms.openlocfilehash: f995cb6a3561a5201af9223faee4a45dd85bf051
-ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
+ms.openlocfilehash: 51305ed38c817a3f438d4db9c3a2a8ebd2fb2c43
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60583626"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62724862"
 ---
 # <a name="cancel-visio-subscription"></a>Kündigen Visio Abonnements
 
 Administratoren können das Visio-Abonnement für ihre Organisation im Microsoft 365 Admin Center kündigen.
 
 1. Navigieren Sie zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Suchen Sie auf der Registerkarte **"Produkte"** das Visio Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Abonnement kündigen** aus.
+2. Suchen Sie auf der Registerkarte "**Produkte**" das Visio Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Abonnement kündigen** aus.
 3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund für Ihre Kündigung aus. Geben Sie optional Feedback.
 4. Wählen Sie **Speichern** aus.
 
@@ -35,4 +35,4 @@ Administratoren können das Visio-Abonnement für ihre Organisation im Microsoft
 
 **Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
 
-Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

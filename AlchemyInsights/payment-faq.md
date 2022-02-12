@@ -14,12 +14,12 @@ ms.custom:
 - "9001669"
 - "5128"
 ms.date: 08/10/2021
-ms.openlocfilehash: d14fcc47898e068e505e30a18195ce812e0f3a3c
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: d38ff7cccda07e4c6025732807874ff349efb923
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58841900"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62633802"
 ---
 # <a name="payment-faq"></a>Häufig gestellte Fragen – Zahlung
 

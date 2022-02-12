@@ -7,14 +7,19 @@ ms.date: 08/20/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9005290
-  - 9121
+- "9005290"
+- "9121"
+ms.openlocfilehash: a80809b6b8edc77ce316cda47be61fd9f57862b7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62724790"
 ---
-
 # <a name="camera-privacy-settings-for-desktop-apps"></a>Kamera-Datenschutzeinstellungen für Desktop-Apps
 
 Es klingt, als würden Ihre Datenschutzeinstellungen den Zugriff der App auf Ihre Kamera verhindern.

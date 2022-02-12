@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 71be9bd2d69129cde16827371b71881ddb1284b19534ca48eb7079e761bdcff8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 29dbcba5c7e43d86fbd2cc5487b3a5998f654328
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54010363"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62633910"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Bezahlen der Rechnung im Azure-Portal – empfohlene Schritte
 
@@ -30,10 +30,10 @@ So bezahlen Sie Ihre Rechnung im Azure-Portal:
 
 1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) an.
 1. Suchen nach **Kostenverwaltung + Abrechnung**.
-1. Klicken Sie im linken Bereich unter **"Abrechnung"** auf **"Rechnungen".**
-1. Wenn eine Ihrer Rechnungen fällig oder überfällig ist, wird ein blauer Link **"Jetzt bezahlen"** für diese Rechnung angezeigt. Klicken Sie **auf "Jetzt bezahlen".**
-1. Klicken Sie im neuen Blatt auf **"Zahlungsmethode auswählen",** um eine vorhandene Kreditkarte auszuwählen oder eine neue hinzuzufügen.
-1. Sobald die Zahlungsmethode ausgewählt ist, klicken Sie auf **"Jetzt bezahlen".**
+1. Klicken Sie im linken Bereich unter **"Abrechnung**" auf **"Rechnungen"**.
+1. Wenn eine Ihrer Rechnungen fällig oder überfällig ist, wird ein blauer Link " **Jetzt bezahlen"** für diese Rechnung angezeigt. Klicken Sie **auf "Jetzt bezahlen**".
+1. Klicken Sie im neuen Blatt auf **"Zahlungsmethode auswählen** ", um eine vorhandene Kreditkarte auszuwählen oder eine neue hinzuzufügen.
+1. Sobald die Zahlungsmethode ausgewählt ist, klicken Sie auf **"Jetzt bezahlen**".
 Der Status der Rechnung wird aktualisiert, um auf dem Blatt "Rechnungen" bezahlt zu werden.
 
 **Empfohlene Dokumente**
