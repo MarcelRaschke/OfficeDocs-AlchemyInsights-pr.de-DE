@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7755"
-ms.openlocfilehash: 1de4e9aa5078507eecdbe53366e446e733029ecb1342f20ca701fa7f95a06fa9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 415e383c75554ad956875b6935bfd01ceba921a5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013459"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62700260"
 ---
 # <a name="issues-developing-applications-with-apis"></a>Probleme beim Entwickeln von Anwendungen mit APIs
 
-Wenn Sie mit der Verwendung der Azure Active Directory Graph-API beginnen möchten, lesen Sie die [Schnellstartanleitung zur Azure AD-Graph-API,](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) oder sehen Sie sich die [api-Referenzdokumentation für interaktive Azure AD-Graph](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog)an.
+Wenn Sie mit der Verwendung der Azure Active Directory Graph-API beginnen möchten, lesen Sie die [Azure AD Graph API-Schnellstartanleitung](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro), oder sehen Sie sich die [Api-Referenzdokumentation für interaktive Azure AD Graph](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog) an.
 
-**Ende der Unterstützung für Azure Active Directory Authentication Library (ADAL) und azure AD Graph API (AAD Graph)**
+**Ende der Unterstützung für die Azure Active Directory-Authentifizierungsbibliothek (ADAL) und die Azure AD-Graph-API (AAD Graph)**
 
-**Ab dem 30. Juni 2020** werden keine neuen Features mehr zu ADAL und Azure AD Graph hinzugefügt. Wir werden weiterhin technischen Support und Sicherheitsupdates bereitstellen, jedoch keine Funktionsupdates mehr.
+**Ab dem 30. Juni 2020** werden ADAL und Azure AD Graph keine neuen Features mehr hinzugefügt. Wir werden weiterhin technischen Support und Sicherheitsupdates bereitstellen, jedoch keine Funktionsupdates mehr.
 
 **Ab dem 30. Juni 2022** beenden wir den Support für ADAL und Azure AD Graph und stellen keinen technischen Support oder sicherheitsrelevante Updates mehr bereit.
 
@@ -46,8 +46,8 @@ Wenn Sie Microsoft-Apps verwenden, wissen Sie, dass Microsoft gerade dabei ist, 
 
 **AAD Graph-Migration**
 
-Für Anwendungen, die Azure AD Graph verwenden, befolgen Sie unsere Anleitungen zum Migrieren von [Azure AD Graph-Apps zu Microsoft Graph.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true)
+Befolgen Sie für Anwendungen, die Azure AD Graph verwenden, unsere Anleitungen zum Migrieren [Azure AD Graph Apps zu Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true).
 
-1. [Unsere Migrationscheckliste stellt einen guten Ausgangspunkt dar](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-1. In Ihrem Azure-App-Registrierungsportal können Sie sehen, welche Anwendungen AAD Graph verwenden. Es wird empfohlen, sämtlichen Quellcode Ihrer Apps zu überprüfen und sich ggf. mit ISVs oder App-Anbietern in Verbindung zu setzen. Der Microsoft-Support kann Ihnen auch eine Liste aller AAD-Graph Nutzung in Ihrem Mandanten bereitstellen.
-1. Damit Ihre App auf Daten in Microsoft Graph zugreifen kann, muss der Benutzer oder Administrator ihr die korrekten Berechtigungen über einen Einwilligungsvorgang erteilen. In [der Berechtigungsreferenz](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) für Microsoft Graph sind die Berechtigungen aufgeführt, die den einzelnen Hauptgruppen von Microsoft Graph-APIs zugeordnet sind. Es enthält auch Anleitungen zur Verwendung der Berechtigungen.
+1. [Unsere Migrationscheckliste stellt einen Ausgangspunkt dar](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+1. In Ihrem Azure-App-Registrierungsportal können Sie sehen, welche Anwendungen AAD Graph verwenden. Es wird empfohlen, sämtlichen Quellcode Ihrer Apps zu überprüfen und sich ggf. mit ISVs oder App-Anbietern in Verbindung zu setzen. Der Microsoft-Support kann Ihnen auch eine Liste aller AAD Graph Nutzung in Ihrem Mandanten bereitstellen.
+1. Damit Ihre App auf Daten in Microsoft Graph zugreifen kann, muss der Benutzer oder Administrator ihr die korrekten Berechtigungen über einen Einwilligungsvorgang erteilen. Der [Microsoft Graph-Berechtigungsverweis](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) listet die Berechtigungen auf, die den einzelnen Hauptgruppen von Microsoft Graph-APIs zugeordnet sind. Es enthält auch Anleitungen zur Verwendung der Berechtigungen.

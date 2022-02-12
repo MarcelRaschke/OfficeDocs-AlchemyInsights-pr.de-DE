@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7754"
 - "9004342"
-ms.openlocfilehash: 652fd6431201380e8e96619f63ecac15a6704d4f
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: 11536d8cd6cfea1269e9a240e6f725a1d0d2a869
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950733"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62700224"
 ---
 # <a name="issues-developing-applications"></a>Probleme bei der Entwicklung von Anwendungen
 
@@ -30,7 +30,7 @@ Informationen zur Behebung der häufigsten Probleme beim Entwickeln von Azure Ac
 - [Ich weiß nicht, wie Berechtigungen für meine Anwendung erteilt werden](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
 - [Mir ist der Unterschied zwischen delegierten und Anwendungsberechtigungen nicht klar](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
 
-***Ende der Unterstützung von Azure Active Directory-Authentifizierungsbibliothek (ADAL) und Azure AD Graph-API (AAD Graph)** _
+***Ende der Unterstützung für die Azure Active Directory-Authentifizierungsbibliothek (ADAL) und die Azure AD-Graph-API (AAD Graph)***
 
 - Ab dem 30. Juni 2020 werden der Azure Active Directory-Authentifizierungsbibliothek (ADAL) und der Azure AD Graph-API (AAD Graph) keine neuen Features mehr hinzugefügt. Wir werden weiterhin technischen Support und Sicherheitsupdates bereitstellen, jedoch keine Funktionsupdates mehr.
 
@@ -40,7 +40,7 @@ Informationen zur Behebung der häufigsten Probleme beim Entwickeln von Azure Ac
 
     - Apps, die AAD Graph nach diesem Zeitpunkt verwenden, werden keine Antworten mehr vom AAD Graph-Endpunkt erhalten.
 
-_ *ADAL-Migration**
+**ADAL-Migration**
 
 Wenn Sie Microsoft-Apps verwenden, wird ein Update auf die Microsoft-Authentifizierungsbibliothek (MSAL) empfohlen, die über die neuesten Features und Sicherheitsupdates verfügt. Diese Empfehlung steht in Zusammenhang mit dem Beginn der Migration der eigenen Anwendungen durch Microsoft nach MSAL bis zum Enddatum des Supports. 
 

@@ -15,12 +15,12 @@ ms.custom:
 - "878"
 - "3500012"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: 9ebb2e96962f70cb862d61e045c181efc20e6d927edea7c269a93ffa6a15ebbc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 109dc5dda97254868cf086f612662c5d7d527e23
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092283"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62661270"
 ---
 # <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a>Verschiedene Typen von freigegebenen Outlook-Kalendern und die Vorgehensweise bei der Einrichtung
 

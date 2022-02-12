@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9776"
 - "9004342"
-ms.openlocfilehash: 7584d8f6f2e24812c1fdded76332edc6dd671034011e262c15756567cb467c26
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9a6796feedaeb12872a4cbf0970c6a52f4f372ed
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53921042"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62661342"
 ---
 # <a name="troubleshoot-oauth-20-and-openid-connect-protocols"></a>Behandeln von Problemen mit OAuth 2.0- und OpenID Connect-Protokollen
 
