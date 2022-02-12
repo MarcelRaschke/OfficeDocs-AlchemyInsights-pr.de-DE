@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 60a25c92b45e050893cc20545fc7a9b753c01009197b209c63e3bc56accf1e04
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 07603ee6db1dfd612bedb705fde3a1046173de6e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967836"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62703969"
 ---
 # <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>Offboarding von Geräten von Microsoft Defender Advanced Threat Protection
 
-Weitere Informationen finden Sie [unter Offboard Windows 10-Geräten](https://go.microsoft.com/fwlink/?linkid=2143629) oder [Offboard-Geräten,](https://go.microsoft.com/fwlink/?linkid=2143630)die nicht Windows sind.
+Weitere Informationen finden Sie [unter Offboarding Windows 10 Geräte](https://go.microsoft.com/fwlink/?linkid=2143629) oder [Offboarding von Nicht-Windows-Geräten](https://go.microsoft.com/fwlink/?linkid=2143630).
