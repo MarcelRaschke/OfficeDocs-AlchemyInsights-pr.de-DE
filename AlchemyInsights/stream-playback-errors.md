@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6454"
 - "9001509"
-ms.openlocfilehash: 8144492ce183a3d4551f3db5243ad21b84f4cb87
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a5bf05137a9f3d114810df05ed85c86748b8b06b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61843045"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62677111"
 ---
 # <a name="microsoft-stream-playback-errors"></a>Microsoft Stream-Wiedergabefehler
 

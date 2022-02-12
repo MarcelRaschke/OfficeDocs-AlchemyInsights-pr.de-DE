@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002940"
 - "5633"
-ms.openlocfilehash: d23a28df39a5d0a40e3559c067c143d1dc72779c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 05cc8fc309cd46a90b69b571ee477f3b47d07b26
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61950713"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62723985"
 ---
 # <a name="change-screen-brightness-in-windows-10"></a>Ändern der Bildschirmhelligkeit in Windows 10
 
