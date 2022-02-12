@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003799"
 - "6805"
-ms.openlocfilehash: b138c05e87e70c18bb6528819a34f8a9501446d57dcf4dbac0734f70fbc3466b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4ccbe355ca4db00589dfa374438cc20be1030430
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999239"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62691824"
 ---
 # <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Anmelden in Azure aufgrund von Browserproblemen nicht möglich (Browser hängt an, dreht sich weiter, lädt nicht usw.)
 
@@ -31,20 +31,20 @@ Weitere Informationen: [Behandeln von Anmeldeproblemen](https://support.microsof
 
 **Zugriff auf Abonnements nicht möglich**
 
-Stellen Sie im [Azure-Portal](https://portal.azure.com/)sicher, dass das richtige Azure-Verzeichnis aus dem Konto oben rechts ausgewählt ist.
+Stellen Sie im [Azure-Portal](https://portal.azure.com/) sicher, dass das richtige Azure-Verzeichnis aus dem Konto oben rechts ausgewählt ist.
 
-Stellen Sie im [Azure-Kontocenter](https://account.windowsazure.com/Subscriptions)sicher, dass das verwendete Konto der Kontoadministrator ist.
+Stellen [Sie im Azure-Kontocenter](https://account.windowsazure.com/Subscriptions) sicher, dass das verwendete Konto der Kontoadministrator ist.
 
 Weitere Informationen: [Problembehandlung ohne gefundene Abonnements](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Zugriff auf Abrechnungsverlauf nicht möglich**
 
-Der Kontoadministrator muss sicherstellen, dass der Benutzer, der auf die Abrechnungsinformationen zugreift, im Azure Active Directory als Gastbenutzer hinzugefügt wird: [Hinzufügen oder Löschen eines neuen Benutzers.](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support)
+Der Kontoadministrator muss sicherstellen, dass der Benutzer, der auf die Abrechnungsinformationen zugreift, im Azure Active Directory als Gastbenutzer hinzugefügt wird: [Hinzufügen oder Löschen eines neuen Benutzers](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-Dem Benutzer muss dann eine globale Administratorrolle zugewiesen werden: [Benutzern eine Rolle zuweisen.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support)
+Dem Benutzer muss dann eine globale Administratorrolle zugewiesen werden: [Benutzern eine Rolle zuweisen](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-In diesem Fall kann dem Benutzer der Zugriff auf die Abrechnung mithilfe von RBAC-Richtlinien gewährt werden: Gewähren des [Zugriffs auf die Abrechnung.](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+Danach kann dem Benutzer der Abrechnungszugriff mithilfe von RBAC-Richtlinien gewährt werden: [Gewähren des Zugriffs auf die Abrechnung](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-**Empfohlene Dokumente**
+**Empfohlene Dokumentationen**
 
 -   [Ich kann mich nicht anmelden, um mein Azure-Abonnement zu verwalten.](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)

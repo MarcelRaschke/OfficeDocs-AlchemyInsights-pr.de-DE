@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4447"
-ms.openlocfilehash: d57517bbf518ae3adeb3b87885f2a5f414eee131
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8c192dc7fc92dd4d62982b138ed8413548866ea1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61945114"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62691855"
 ---
 # <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a>Behandeln von Problemen beim Hochladen von Dateien auf OneDrive oder SharePoint.
 

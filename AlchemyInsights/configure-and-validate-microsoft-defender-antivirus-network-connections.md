@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6035"
 - "9001464"
-ms.openlocfilehash: df01342a2fc46d3fc116b548947b542c7d04882721778a102c2dba93ed135a6a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 96fac4cb8db86b7656b0d57cf030b5ebbd579f4d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53915550"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62737577"
 ---
 # <a name="configure-and-validate-microsoft-defender-antivirus-network-connections"></a>Konfigurieren und Validieren von Microsoft Defender Antivirus-Netzwerkverbindungen
 

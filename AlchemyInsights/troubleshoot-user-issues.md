@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7813"
 - "9004358"
-ms.openlocfilehash: b03c56ec82ed3197d012dc5d6c7a90932aa347f5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9bdcfe637399bcc60c6e8d01f04f536538627e20
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61901640"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62691692"
 ---
 # <a name="announcements"></a>Ankündigungen
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 6e46911d11a74e12299a5125c19a5ca43991397b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b5046e59723e139bd069071b10a8b6b6f480e160
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61949039"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62737541"
 ---
 # <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Konfigurieren von Ausschlüssen für den Microsoft Defender ATP-Scan
 

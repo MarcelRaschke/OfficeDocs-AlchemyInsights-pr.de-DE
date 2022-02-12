@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7816"
 - "9004358"
-ms.openlocfilehash: a5330dc9a80a6f0abbb9bc05cd6c6e4e4aea149f3afd4102103e8eafb44d4b0b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0234025683d056886a2ed96ffb6c8e68b135cf0e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54048011"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62691850"
 ---
 # <a name="troubleshoot-issues-with-application-role-assignment-and-management"></a>Problembehandlung bei der Zuweisung und Verwaltung von Anwendungsrollen
 

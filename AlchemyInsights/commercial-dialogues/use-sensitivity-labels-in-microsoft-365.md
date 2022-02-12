@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 09c84f22caeb7868e48f2ede81b81ca2055a40c49e9c27d439577532c5094547
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 28a55c1a8977fc08ac9c55b5ac1d10efda1fbd1d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070301"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62737685"
 ---
 # <a name="use-sensitivity-labels-in-microsoft-365"></a>Verwenden von Vertraulichkeitsbezeichnungen in Microsoft 365
 

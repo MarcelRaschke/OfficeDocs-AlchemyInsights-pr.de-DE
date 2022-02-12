@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000727"
 - "4976"
-ms.openlocfilehash: 7062bba75403e9ed08e2bf9807976a9a8a0bca85
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6c9d8849346e8a89b65447a9ebb0b37cdd9e5f85
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61970563"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62691584"
 ---
 # <a name="unable-to-add-planner-to-a-teams-private-channel"></a>Planner kann nicht zu einem privaten Teams-Kanal hinzugefügt werden
 

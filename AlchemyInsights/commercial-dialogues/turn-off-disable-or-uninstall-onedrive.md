@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: 2d4e089a8e0f2b37813ce7a520edced6e0ebf971a2c09d189fb0266b9cf1ffef
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 640d5d8e6f6aec5c7a45333f5f9ca7d7ac9f1a27
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058073"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62737757"
 ---
 # <a name="turn-off-disable-or-uninstall-onedrive"></a>Deaktivieren oder Deinstallieren von OneDrive
 

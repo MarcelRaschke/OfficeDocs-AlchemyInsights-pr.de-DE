@@ -14,13 +14,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 8d60e36e779327f18de760bfd487f9056034cdf016b4282180648906277f6d2d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 36bd49bf97dceeaf7d8cc25125a7064b10fa2118
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090267"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62737122"
 ---
 # <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Verbinden zu Exchange Online PowerShell, wenn MFA aktiviert ist
 
-Wenn Für Ihr Konto die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) aktiviert ist, müssen Sie die folgenden Anweisungen befolgen, um eine Verbindung mit Exchange Online PowerShell herzustellen: [Verwenden Sie die Exchange Online PowerShell mit moderner Authentifizierung mithilfe des V2-Moduls.](https://aka.ms/exops-docs) Suchen Sie auf dieser Seite nach MFA/Multi-Factor Authentication-Anweisungen.
+Wenn für Ihr Konto die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) aktiviert ist, müssen Sie die folgenden Anweisungen befolgen, um eine Verbindung mit Exchange Online PowerShell herzustellen: [Verwenden Sie die Exchange Online PowerShell mit moderner Authentifizierung mithilfe des V2-Moduls](https://aka.ms/exops-docs). Suchen Sie auf dieser Seite nach MFA/Multi-Factor Authentication-Anweisungen.

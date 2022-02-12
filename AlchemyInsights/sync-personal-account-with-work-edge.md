@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9127"
 - "9004429"
-ms.openlocfilehash: b1dbacd1093a1120d0d66dd6f859d68f34b96040
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0af41acf946efc9c8ca969cd5ee16e35d25576d4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61958719"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62691844"
 ---
 # <a name="enable-a-user-to-sync-a-personal-account-with-the-work-account-in-microsoft-edge"></a>Ermöglichen Sie es einem Benutzer, ein persönliches Konto mit dem Geschäftskonto in Microsoft Edge zu synchronisieren
 
