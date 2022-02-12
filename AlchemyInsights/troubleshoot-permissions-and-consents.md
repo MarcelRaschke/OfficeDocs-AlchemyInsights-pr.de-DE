@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7782"
-ms.openlocfilehash: 20abe52d6daa6863ea6f24548d23ab963f63620187c5f67fa9616c0efd428b91
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: def3c9406536579a1cdbacbe4dfc46fbae854d53
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092985"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62676463"
 ---
 # <a name="troubleshoot-permissions-and-consents"></a>Problembehandlung bei Berechtigungen und Zustimmungen
 
-1. Lesen Sie diesen Artikel, um das [Azure Active Directory Zustimmungsframework](https://docs.microsoft.com/azure/active-directory/develop/consent-framework)zu verstehen.
-1. [Berechtigungen und Zustimmung im Microsoft Identity Platform Endpunkt](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) deckt die grundlegenden Konzepte dieses Autorisierungsmodells ab, einschließlich Bereichen, Berechtigungen und Zustimmung.
-1. Erfahren Sie, wie Sie die Zustimmung verwalten und auswerten: [Verwalten der Zustimmung zu Anwendungen und Auswerten von Zustimmungsanforderungen.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)
-1. Grundlegendes zu den Erfahrungen mit der Zustimmung von [Azure AD-Anwendungen:](https://docs.microsoft.com/azure/active-directory/develop/application-consent-experience)Erfahren Sie mehr über die Benutzererfahrung bei der Azure Active Directory (Azure AD)-Anwendungsgenehmigung.
-1. Behandeln [unerwarteter Fehler bei der Zustimmung zu einer Anwendung.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
+1. Lesen Sie diesen Artikel, um das [Azure Active Directory Zustimmungsframework](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) zu verstehen.
+1. [Berechtigungen und Zustimmung im Microsoft Identity Platform Endpunkt](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) umfassen die grundlegenden Konzepte dieses Autorisierungsmodells, einschließlich Bereichen, Berechtigungen und Zustimmung.
+1. Erfahren Sie, wie Sie die Zustimmung verwalten und auswerten: [Verwalten der Zustimmung zu Anwendungen und Auswerten von Zustimmungsanforderungen](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
+1. [Grundlegendes zu Azure AD Anwendungsgenehmigungserfahrungen](https://docs.microsoft.com/azure/active-directory/develop/application-consent-experience): Erfahren Sie mehr über die Azure Active Directory (Azure AD)-Anwendungsgenehmigungs-Benutzeroberfläche.
+1. Behandeln [unerwarteter Fehler bei der Zustimmung zu einer Anwendung](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).

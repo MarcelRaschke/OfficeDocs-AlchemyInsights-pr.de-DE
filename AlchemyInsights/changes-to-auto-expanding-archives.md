@@ -7,14 +7,19 @@ ms.date: 10/14/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 14097
-  - 3100006
+- "14097"
+- "3100006"
+ms.openlocfilehash: 00de6ecacc641a1595f319aa35842871c8431ddd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62723625"
 ---
-
 # <a name="changes-to-auto-expanding-archives"></a>Änderungen an Automatisch erweiternden Archiven
 
 Wie im Beitrag des Nachrichtencenters „MC288051: (Aktualisiert) Anstehende Änderungen am automatisch erweiternden Archiv“ erwähnt, haben wir die Dokumentation zum automatisch erweiternden Archiv aktualisiert und den Grenzwert von 1,5 TB für Archivpostfächer festgelegt. 

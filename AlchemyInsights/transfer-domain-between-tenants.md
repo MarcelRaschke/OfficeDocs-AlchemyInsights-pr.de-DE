@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7305"
-ms.openlocfilehash: 942ca306951fdd8e971ea27da88af5601325185b7c169b4df3dfd9e43e1650c5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 771a24095b4e07a7246698dcb173be01fe2748f6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54048623"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62676361"
 ---
 # <a name="transfer-domain-between-tenants"></a>Domäne zwischen Mandanten übertragen
 
 Eine benutzerdefinierte Domäne wie forthcoffee.com kann manuell aus einem Mandanten entfernt und dann in einem neuen Mandanten überprüft werden.
 
-Führen Sie die folgenden Schritte aus, um eine Domäne zu [entfernen.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain) Wechseln Sie dann im neuen Mandanten zu **Einstellungen**  >  **Domänen**  >  **Domäne hinzufügen.**
+Führen Sie die folgenden Schritte aus, um [eine Domäne zu entfernen](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain). Wechseln Sie dann im neuen Mandanten zu **Einstellungen** >  **DomänesAdd-Domäne** > .
 
-Komplexere Szenarien finden Sie unter [Microsoft 365 Mandanten-zu-Mandant-Migrationen.](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations)
+Komplexere Szenarien finden Sie unter [Microsoft 365 Mandanten-zu-Mandant-Migrationen](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations).
 
-**Beachten Sie außerdem:**
+**Beachten Sie außerdem Folgendes**:
 - Die anfängliche onmicrosoft.com Domäne kann nicht gelöscht oder zwischen Mandanten verschoben werden.
 - Eine von Microsoft erworbene benutzerdefinierte Domäne kann nicht zwischen Mandanten verschoben werden.

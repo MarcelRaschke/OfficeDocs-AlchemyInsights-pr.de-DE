@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 6ce0d622c6e8db2ed0100593559bc0fff2ba9e1c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c6a2acfa8a263c09c248851ac8d98e0fe7022797
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61970203"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62676073"
 ---
 # <a name="using-email-profiles-with-intune"></a>Verwenden von E-Mail-Profilen mit Intune
 

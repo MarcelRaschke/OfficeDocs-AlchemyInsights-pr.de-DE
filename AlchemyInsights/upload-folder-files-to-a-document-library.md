@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002296
-  - 4447
+- "9002296"
+- "4447"
+ms.openlocfilehash: 72310ac9fb1ba99357a7d823cfeba1e4b13ba28c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62676283"
 ---
-
 # <a name="upload-a-folder-or-files-to-a-document-library"></a>Hochladen eines Ordners oder von Dateien in eine Dokumentbibliothek
 
 Dateien können auf OneDrive hochgeladen werden.

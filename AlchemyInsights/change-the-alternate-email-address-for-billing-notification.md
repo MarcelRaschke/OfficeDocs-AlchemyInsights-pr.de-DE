@@ -14,24 +14,24 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 60c760964f19461bff28477aa4c190be58cfec00
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c13f73066bccf34c7340d43087e935e8fdff9f1c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61864120"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62723841"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>Ändern der alternativen E-Mail-Adresse für Rechnungsbenachrichtigungen
 
 Das Ändern der alternativen E-Mail-Adresse für die Abrechnungsbenachrichtigung ist einfach. Führen Sie einfach die folgenden Schritte aus:
   
-1. Wechseln Sie im Microsoft 365 Admin Center zur  \> Seite ["Abrechnungsbenachrichtigungen".](https://go.microsoft.com/fwlink/p/?linkid=853212)  
+1. Wechseln Sie im Microsoft 365 Admin Center zur Seite "[Abrechnungsbenachrichtigungen](https://go.microsoft.com/fwlink/p/?linkid=853212)  \>".  
 
 2. Wählen Sie einen Namen aus der Liste aus.
 
-3. Geben Sie im Feld **"Alternative E-Mail-Adresse"** die alternative E-Mail-Adresse ein.
+3. Geben Sie im Feld " **Alternative E-Mail-Adresse** " die alternative E-Mail-Adresse ein.
 
-4. Wählen Sie **"Speichern" aus,** und sie sind fertig!
+4. Wählen Sie **"Speichern" aus** , und sie sind fertig!
 
-Weitere Details und Schritte mit Screenshots finden Sie unter [Ändern Ihrer Rechnungsadressen.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Weitere Details und Schritte mit Screenshots finden Sie unter [Ändern Ihrer Rechnungsadressen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
   

@@ -14,12 +14,12 @@ ms.custom:
 - "9000136"
 - "2968"
 ms.assetid: ''
-ms.openlocfilehash: 1c50f7a0f001aa9c9533f587b0f04788c65752a1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3faff4b0c71382baf3bb0c057d1a277356d26311
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61865782"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62676427"
 ---
 # <a name="sharepoint-migration-throttling"></a>SharePoint-Migrationseinschränkung
 

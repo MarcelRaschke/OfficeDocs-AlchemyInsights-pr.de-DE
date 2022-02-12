@@ -12,12 +12,12 @@ ms.custom:
 - "9002239"
 - "4348"
 ms.assetid: ''
-ms.openlocfilehash: 3a0b826ce555050cb815859dbef2326f54bdc92c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4284d8c3f8165771e89fc35eef01472d924aa7e8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61866143"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62631246"
 ---
 # <a name="teams-data-storage"></a>Teams-Datenspeicherung
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ecd73eeca8b96e92d331a97265111f3fbaee7878
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53995486"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62723589"
 ---
 # <a name="comments-on-list-items"></a>Kommentare zu Listenelementen
 
@@ -32,4 +32,4 @@ Benutzer müssen Folgendes beachten, bevor sie Kommentare hinzufügen und lösch
 
 Administratoren können dieses Feature auf Organisationsebene deaktivieren, indem sie den Parameter **CommentsOnListItemsDisabled** im **Set-SPOTenant PowerShell-Cmdlet** ändern.
 
-Es ist derzeit nicht möglich, kommentare auf Website- oder Listenebene zu deaktivieren. Wir hoffen, diese Steuerelemente in einem späteren Update zu haben, wahrscheinlich im ersten Quartal 2021.
+Es ist derzeit nicht möglich, kommentare auf Website- oder Listenebene zu deaktivieren. Wir hoffen, dass diese Steuerelemente in einem späteren Update vorliegen, wahrscheinlich im ersten Quartal 2021.

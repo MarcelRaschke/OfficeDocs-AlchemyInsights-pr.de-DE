@@ -14,12 +14,12 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: f04a285deb79cdd16bc6b19d7cfc2205d0fe62a5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2d6a84da3f2e91b2167387bafc4fbefb6d8619a3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61972941"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62722942"
 ---
 # <a name="control-creation-of-microsoft-365-groups"></a>Steuern der Erstellung von Microsoft 365-Gruppen
 

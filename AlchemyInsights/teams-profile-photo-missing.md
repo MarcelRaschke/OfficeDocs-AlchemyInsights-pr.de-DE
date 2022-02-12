@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13260"
 - "9008207"
-ms.openlocfilehash: 8f065ea190a5fe8a980bec581737344ea888c7aa
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 66355290a6babb4d53cae561fb972eeba4ed875c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61972149"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62750375"
 ---
 # <a name="teams-profile-photo-is-missing-or-cant-be-updated"></a>Das Teams-Profilfoto fehlt oder kann nicht aktualisiert werden.
 

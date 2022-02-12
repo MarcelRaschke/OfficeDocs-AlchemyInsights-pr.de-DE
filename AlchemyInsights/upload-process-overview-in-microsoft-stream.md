@@ -1,7 +1,7 @@
 ---
 title: Hochladen Prozessübersicht in Microsoft Stream
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5095"
-ms.openlocfilehash: 2bbf6dcdb743cc5c04ccf57fc8d344ac62db80d5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: cf2139ced87391995c1b20144afa8e486577d60d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317879"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62676247"
 ---
 # <a name="upload-process-overview-in-microsoft-stream"></a>Hochladen Prozessübersicht in Microsoft Stream
 

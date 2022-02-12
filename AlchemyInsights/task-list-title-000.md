@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13767"
 - "9007389"
-ms.openlocfilehash: 99def925079507a1887d9bdeb39fa9b1ce6d4561
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a51626e190ba703c75600d4444df40a5ce738bc4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952048"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62750987"
 ---
 # <a name="task-list-shows-item-title-as-000"></a>Die Aufgabenliste zeigt den Elementtitel als .000 an.
 

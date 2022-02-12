@@ -1,7 +1,7 @@
 ---
 title: Senden von E-Mails von einem anderen Alias
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,12 +14,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: fd0981edd96aee4daa7eaf39c3c1e069911ce7d1
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 4a4e5ced721243403e480f0c4d832a7f63b0267b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310858"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62632254"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Senden von E-Mails von einem Alias oder einer sekundären Adresse
 

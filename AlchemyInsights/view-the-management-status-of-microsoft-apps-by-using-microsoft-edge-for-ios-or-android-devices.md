@@ -15,17 +15,17 @@ ms.custom:
 - "9006502"
 - "6950"
 - "11143"
-ms.openlocfilehash: 3ce60388adbbee51cb008a1dc691f298e13d39e1
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 149864b1608dd5673f4a6c29ae0d3f0cb4fe59a1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58322528"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62595874"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Anzeigen des Verwaltungsstatus von Microsoft-Apps mithilfe von Microsoft Edge für iOS- oder Android-Geräte
 
-Um auf App-Protokolle zur Problembehandlung bei verwalteten iOS- oder Android-Apps zuzugreifen, öffnen Sie Microsoft Edge und geben Sie **"about:intunehelp"** in das Adressfeld ein. Microsoft Edge wird im Problembehandlungsmodus gestartet.
+Um auf App-Protokolle zur Problembehandlung bei verwalteten iOS- oder Android-Apps zuzugreifen, öffnen Sie Microsoft Edge und geben Sie **"about:intunehelp**" in das Adressfeld ein. Microsoft Edge wird im Problembehandlungsmodus gestartet.
 
-Eine Liste der in den App-Protokollen gespeicherten Einstellungen finden Sie unter "Überprüfen von [Client-App-Schutzprotokollen".](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log)
+Eine Liste der in den App-Protokollen gespeicherten Einstellungen finden Sie unter ["Überprüfen von Client-App-Schutzprotokollen"](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
 
-Informationen zum Anzeigen von App-Protokollen auf Android-Geräten finden Sie unter [Hochladen und E-Mail-Protokollen.](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
+Informationen zum Anzeigen von App-Protokollen auf [Android-Geräten finden Sie unter Hochladen und E-Mail-Protokollen](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).

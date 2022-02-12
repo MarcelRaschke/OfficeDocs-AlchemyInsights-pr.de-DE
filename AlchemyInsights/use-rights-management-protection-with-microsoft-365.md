@@ -13,12 +13,12 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: b8e47a9f318d8f716e50f6892584f291307d63b1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a3a41caa5f4ddf7b90d45e08a0b1353bbb434249
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61937431"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62676044"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Verwenden von Rights Management Protection mit Microsoft 365
 

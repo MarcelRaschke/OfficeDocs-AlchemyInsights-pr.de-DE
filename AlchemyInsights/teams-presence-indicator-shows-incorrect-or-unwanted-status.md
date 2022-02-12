@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003301"
 - "6205"
-ms.openlocfilehash: 98be11e7ac9a96442416bede6b399f865e962540
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: eebf0054d444cd07705facfabfc75b84a91e1921
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61972185"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62750555"
 ---
 # <a name="teams-presence-indicator-shows-incorrect-or-unwanted-status"></a>Die Anwesenheitsanzeige für Teams zeigt einen falschen oder unerwünschten Status an
 

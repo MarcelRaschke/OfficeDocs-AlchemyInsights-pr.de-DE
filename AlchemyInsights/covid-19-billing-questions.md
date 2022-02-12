@@ -16,12 +16,12 @@ ms.custom:
 - "5113"
 - "9002647"
 - "5091"
-ms.openlocfilehash: 0d5870b8ac94c1960289ddcf1bf390fc7f527596
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 30afe0691eac41da2353817b41e419390a2d7de8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61972653"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62722954"
 ---
 # <a name="covid-19-billing-and-license-questions"></a>COVID-19 – Abrechnungs- und Lizenzfragen
 

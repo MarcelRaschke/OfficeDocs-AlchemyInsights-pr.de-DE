@@ -12,12 +12,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003200"
-ms.openlocfilehash: e84ae38d431000f3ec710ca32b3f0bb2a7a1d653
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: abe3319f175ea19da09825cf743c6630f8b8df40
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61942687"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62632218"
 ---
 # <a name="send-as-microsoft-365-group"></a>Senden als Microsoft 365-Gruppe
 

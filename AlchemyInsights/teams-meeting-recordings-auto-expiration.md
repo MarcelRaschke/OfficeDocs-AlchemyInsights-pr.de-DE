@@ -13,12 +13,12 @@ ms.custom:
 - "13757"
 - "9002530"
 ms.date: 01/21/2022
-ms.openlocfilehash: 2142cc6378aacb167eb7d522d6df3e3c97f919e6
-ms.sourcegitcommit: 1dcfbf58cd5acb22dccd647e2041e79e7a28137d
+ms.openlocfilehash: f8a913c9bbd98e8998dc65457e4acf666325e90c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/01/2022
-ms.locfileid: "62289471"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62631174"
 ---
 # <a name="teams-meeting-recordings-auto-expiration"></a>Automatisches Ablaufen von Microsoft Teams-Besprechungsaufzeichnungen
 

@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002418
-  - 4867
+- "9002418"
+- "4867"
+ms.openlocfilehash: adaa51d67342415530543ff890f55755723bca1b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62596774"
 ---
-
 # <a name="solutions-to-common-aad-synchronization-problems"></a>Lösungen für häufige AAD-Synchronisierungsprobleme
 
 **Warnmeldung im Admin-Center oder automatisierte E-Mail-Nachrichten, das eine aktuelle Synchronisierung nicht durchgeführt wurde**

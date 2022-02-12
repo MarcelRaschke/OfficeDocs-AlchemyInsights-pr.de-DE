@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: ba2d5678a14a668701c581679ccc88c6cac015e5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7afd2b77023ec2e3e5a55fcc3361aca5a907c10d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61957600"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62750807"
 ---
 # <a name="teams-meeting-invitations"></a>Einladungen zu Teams-Besprechungen
 

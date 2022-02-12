@@ -13,12 +13,12 @@ ms.custom:
 - "9002423"
 - "4701"
 ms.date: 02/07/2022
-ms.openlocfilehash: ec6c59396172bb487ae57ae6d1f4fe309c06e171
-ms.sourcegitcommit: d5143738025187f6b7aef801d7c992de97c9d78e
+ms.openlocfilehash: ecd82b660f5cd971fe6c4a2ff3a2fbfc4449f71a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62471434"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62676038"
 ---
 # <a name="using-information-barriers-in-microsoft-365"></a>Verwenden von Informationsbarrieren in Microsoft 365
 
