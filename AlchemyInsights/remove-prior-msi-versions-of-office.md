@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003886"
 - "6940"
-ms.openlocfilehash: 45e3cac521bc1c2a90dc7d3ddd4958233c3cf7bbd2ea007e581f343bca7b5631
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 42ba30519cf513f598076344e436d5a9403a8b5d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54023773"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62586226"
 ---
 # <a name="remove-prior-msi-versions-of-office"></a>Entfernen früherer MSI-Versionen von Office
 

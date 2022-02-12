@@ -15,12 +15,12 @@ ms.custom:
 - "9001683"
 - "5064"
 ms.date: 04/14/2021
-ms.openlocfilehash: d9cbb17c42a537420e69233a5c4d6dd407f622bb
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4e920a47ce6d27e928d96c26e119f7c9b2ef314e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61867187"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62586262"
 ---
 # <a name="remove-a-partner-from-a-subscription"></a>Löschen eines Partners aus einem Abonnement
 

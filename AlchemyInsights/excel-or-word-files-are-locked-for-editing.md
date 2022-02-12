@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5635"
-ms.openlocfilehash: 7dcde3100b9519f1ec52664f8805085838fcb383
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: fbf240e05c44d6e8b545259bac2c6e8a640dc0e6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61962835"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62746739"
 ---
 # <a name="excel-or-word-files-are-locked-for-editing"></a>Die Bearbeitung von Excel- oder Word-Dateien wurde gesperrt
 

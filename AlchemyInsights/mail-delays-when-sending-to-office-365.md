@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004158"
 - "7249"
-ms.openlocfilehash: 06ee2c529795b165b3ace6bf0aac993410ed0776902155b511f920a09d133d84
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8ad4583cb0b89ccabaee4863f73a373183d8d11d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54099177"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62746199"
 ---
 # <a name="mail-delays-when-sending-to-office-365"></a>E-Mail-Verzögerungen beim Senden an Office 365
 

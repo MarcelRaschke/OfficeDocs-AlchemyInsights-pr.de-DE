@@ -6,15 +6,20 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 2673
-  - 9000740
+- "2673"
+- "9000740"
 ms.date: 02/04/2022
+ms.openlocfilehash: 59f1289d787e4ace0007b7a0a9f37d5cc51b1803
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62625729"
 ---
-
 # <a name="control-lobby-settings-in-teams"></a>Steuern der Lobbyeinstellungen in Teams
 
 Die meisten Fragen zur Teams Lobby können gelöst werden, indem eine Besprechungsrichtlinie von einem Administrator oder Besprechungsoptionen von einem Endbenutzer konfiguriert wird.

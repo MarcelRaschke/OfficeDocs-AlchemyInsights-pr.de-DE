@@ -1,5 +1,5 @@
 ---
-title: 9000232 Outlook.com-Adressbuch
+title: adressbuch 9000232 Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "1816"
 - "9000232"
-ms.openlocfilehash: 5805a110b6d9b8085ba1bd1ef711af2d011a1bedff4c7880197ea061bbe27c05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4074347edc8eab897d9a94053a346d953f48c611
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54011263"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62719583"
 ---
 # <a name="address-book-in-outlookcom"></a>Adressbuch in Outlook.com
 
 Das Adressbuch Outlook.com heißt "Personen".
 
-Um zur Seite ["Kontakte"](https://outlook.live.com/people/) zu wechseln, wählen Sie **"Personen" aus.** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' /> in der unteren Ecke der Seite oder in der App-Auswahl in der oberen Ecke der Seite.
+Um zur Seite "[Kontakte"](https://outlook.live.com/people/) zu wechseln, wählen Sie "**Personen" aus**. <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' /> in der unteren Ecke der Seite oder in der App-Auswahl in der oberen Ecke der Seite.
 
-Erfahren Sie, wie Sie [Kontakte in Outlook.com erstellen, anzeigen und bearbeiten.](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01?wt.mc_id=Office_Outlook_com_Alchemy)
+Erfahren Sie, wie Sie [Kontakte in Outlook.com erstellen, anzeigen und bearbeiten](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01?wt.mc_id=Office_Outlook_com_Alchemy).

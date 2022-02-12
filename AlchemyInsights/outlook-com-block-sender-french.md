@@ -13,18 +13,18 @@ ms.custom:
 - "1156"
 - "1157"
 - "8000076"
-ms.openlocfilehash: 860854242574a0d8235d09c4b409b1f3e5e8dc7dc80c5e392f5fdc3521e3431c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 534f3d26b95588fc1f8dad3d34c26a65cb0af74c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54011227"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62719557"
 ---
 # <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Bloquer ou débloquer expéditeurs dans Outlook.com
 
 Si vous recevez du courrier indésirable, vous pouvez bloquer les adresses de messagerie et des domaines que vous ne voulez pas recevoir des messages. Ajouter une adresse de messagerie ou un domaine à votre liste des expéditeurs bloqués pour déplacer ces messages directement vers votre csvrier indésirable.
 
-1. Accédez à **Paramètres**  >  **Afficher tous les paramètres d'Outlook**  >  **Dublinrier indésirable**.
+1. Accédez à **ParamètresAfficher** >  **tous les paramètres d'Outlook** >  **Covreer indésirable**.
 1. Sous **Domaines et expéditeurs bloqués** sélectionnez **Ajouter**.
 1. Entrez l'adresse de messagerie et sélectionnez **Enregistrer**.
 

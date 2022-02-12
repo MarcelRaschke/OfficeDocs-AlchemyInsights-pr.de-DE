@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9214"
 - "9005302"
-ms.openlocfilehash: 6447137fca9b2d48508f4e240a438c7f851c103c
-ms.sourcegitcommit: 3fb39a080cc8680d960b8468ac9355389a3e2df4
+ms.openlocfilehash: 90f377c31abe67ffeacf75fe104128bf4777b38b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50753415"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62586347"
 ---
 # <a name="remove-the-background-service-for-microsoft-search-in-bing"></a>Entfernen des Hintergrunddienstes für Microsoft Search in Bing
 

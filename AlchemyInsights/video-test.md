@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9003535
-  - 6442
+- "9003535"
+- "6442"
+ms.openlocfilehash: 73f77c624542858845de5f79246dd326bdbf459f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62568675"
 ---
-
 # <a name="video-test"></a>Videotest
 
 Hier finden Sie ein hilfreiches Video:

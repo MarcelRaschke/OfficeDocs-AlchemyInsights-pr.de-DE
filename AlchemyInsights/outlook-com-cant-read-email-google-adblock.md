@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "8000048"
 - "814"
-ms.openlocfilehash: f494d71b26e6e62215c979dcdd7fd8e4ad2c20774e15641b42f1f6208eaa2922
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d571ce21375f6a60964a46892fcc9f2362964977
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53984712"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62719430"
 ---
 # <a name="cant-read-email-in-google-chrome-with-adblock"></a>E-Mails können in Google Chrome nicht mit AdBlock gelesen werden
 
 Wenn Sie E-Mails nicht lesen oder verfassen können, wenn Sie Google Chrome mit der AdBlock-Erweiterung verwenden:
 
 - Verwenden Sie [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) oder einen anderen Webbrowser.
-- Schließen Sie Outlook.com aus den AdBlock-Einstellungen aus. Wählen Sie in der oberen rechten Ecke von Google Chrome **AdBlock** und dann **"Nicht auf Seiten in dieser Domäne ausführen"** aus. Aktualisieren Sie Ihren Browser, um Outlook.com erneut zu laden.
+- Schließen Sie Outlook.com aus den AdBlock-Einstellungen aus. Wählen Sie in der oberen rechten Ecke von Google Chrome **AdBlock** und dann " **Nicht auf Seiten in dieser Domäne ausführen"** aus. Aktualisieren Sie Ihren Browser, um Outlook.com erneut zu laden.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002295"
 - "4445"
-ms.openlocfilehash: 2b19f9ade0fded794a3076fd55016de21e0ef58d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: aa475f39fd79857b69f8eb0e54a395e951c070c5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61984258"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62586694"
 ---
 # <a name="refunds-and-cancellations"></a>Erstattungen und Kündigungen
 

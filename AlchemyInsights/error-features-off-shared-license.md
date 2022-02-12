@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9811"
 - "9005394"
-ms.openlocfilehash: 8ab91fe42348519e15d12dd2885382f8f9c2a80e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e9d174e955771b74adb3a4db9256b1c99b86c18f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61961709"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62747290"
 ---
 # <a name="error-most-features-are-turned-off-because-a-shared-computer-license"></a>Fehler: Die meisten Features sind deaktiviert, weil eine gemeinsam genutzte Computerlizenz...
 

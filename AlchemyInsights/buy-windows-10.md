@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9571"
 - "9005543"
-ms.openlocfilehash: 83c5c996460a3d2527b73709340ca5635ece21ea
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 509539e938250c7233a6cb784c8e30eb6aa4d2ac
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61964508"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62625811"
 ---
 # <a name="how-to-buy-a-copy-of-windows-10"></a>So kaufen Sie eine Kopie von Windows 10
 

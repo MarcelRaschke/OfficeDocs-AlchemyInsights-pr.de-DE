@@ -6,17 +6,22 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 2723
-  - 9000779
+- "2723"
+- "9000779"
+ms.openlocfilehash: 4b30699d4187107de6b94c939aedd8a5c4bb32f8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62746703"
 ---
-
 # <a name="commonly-requested-content-for-excel"></a>Häufig angeforderte Inhalte für Excel
 
-Um eine präzisere Antwort auf Ihre Excel Frage zu geben, müssen Sie die Frage kurz umformulieren, um Ihr Problem zu beschreiben, einschließlich aller Fehler, Features, die Sie verwenden usw. 
+Um eine präzisere Antwort auf Ihre Excel Frage zu finden, müssen Sie die Frage kurz umformulieren, um Ihr Problem zu beschreiben, einschließlich aller Fehler, Features, die Sie verwenden usw. 
 
 Hier sind einige häufig angeforderte Excel Themen:
 

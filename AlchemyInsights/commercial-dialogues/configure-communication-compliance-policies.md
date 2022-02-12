@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 59747b9bc2fb7b8f573a2757ad0acf791a485dd1
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 069c7c488a6eb15faac617c70cd9cef953b40298
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321238"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62672719"
 ---
 # <a name="configure-communication-compliance-policies"></a>Konfigurieren von Kommunikationscompliancerichtlinien
 
 Nach der Veröffentlichung der Kommunikationscompliance in Microsoft 365 Compliance im Februar 2020 wird die Aufsicht in Office 365 eingestellt. Aufsichtsrichtlinien stehen nicht mehr für die Erstellung zur Verfügung, und Richtlinien werden nach einem längeren Zeitraum des schreibgeschützten Zugriffs entfernt.
 
-**Wichtig:** Wenn Sie die Aufsicht verwenden, beachten Sie Folgendes:
+**Wichtig**: Wenn Sie die Aufsicht verwenden, beachten Sie Folgendes:
 
 - Ab dem 15. Juni 2020 können Mandanten keine neuen Aufsichtsrichtlinien erstellen.
 - Ab dem 31. August 2020 werden vorhandene Richtlinien die Erfassung neuer Nachrichten beenden.
 - Ab dem 26. Oktober 2020 werden vorhandene Richtlinien gelöscht.
 
-Wir ermutigen Kunden, die derzeit die Aufsicht in Office 365 erkunden oder verwenden, die neue Lösung zur [Kommunikationscompliance in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) zu verwenden, um Ihre Kommunikationsüberwachungs- oder behördlichen Anforderungen mit einem viel umfangreicheren Satz intelligenter Funktionen zu erfüllen.
+Wir ermutigen Kunden, die derzeit die Aufsicht in Office 365 untersuchen oder verwenden, aktiv, die neue [Lösung zur Kommunikationscompliance in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) zu verwenden, um Ihre Kommunikationsüberwachungs- oder behördlichen Anforderungen mit einem viel umfangreicheren Satz intelligenter Funktionen zu erfüllen.

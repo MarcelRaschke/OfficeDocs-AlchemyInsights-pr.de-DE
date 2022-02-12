@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "8282"
-ms.openlocfilehash: 48e3aa2ac47b031f8380c6a03b43eb22419ba89eb149b98a0b63b71f3713ca0c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: de974c07d53832a58889e72399c2f7470760c407
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53959430"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62586730"
 ---
 # <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Wiederherstellen der gelöschten Stream-Videos aus dem Papierkorb
 

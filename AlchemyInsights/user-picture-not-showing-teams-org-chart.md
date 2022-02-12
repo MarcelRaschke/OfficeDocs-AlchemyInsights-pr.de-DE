@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12620"
 - "9007457"
-ms.openlocfilehash: b02c8783df614268448a03360cfc7f601af7ee22
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 217cb6d594b5508eef5ff569af2a53d27f23e7c9
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61986600"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62569012"
 ---
 # <a name="user-picture-not-showing-in-microsoft-teams-organization-chart"></a>Benutzerbild wird im Microsoft Teams-Organigramm nicht angezeigt
 

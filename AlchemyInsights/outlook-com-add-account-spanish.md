@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1141"
 - "8000068"
-ms.openlocfilehash: 217c156beedc1bb95b2296c7915d69f018a405e572e59ac2eb6b78f3519258d3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 25120cf1636de2c9f8dc5aa5b519ee28c64987ba
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53944490"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62719521"
 ---
 # <a name="agregar-sus-otras-cuentas-de-correo-electrnico"></a>Agregar sus otras cuentas de correo electrónico
 

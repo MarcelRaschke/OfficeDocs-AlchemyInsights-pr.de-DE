@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5474"
-ms.openlocfilehash: 04ef6bf42f68aba1bad43bd3dbf4cb7beb88fada
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 258a6e8e3fa99fbc9b65d4ac5479f9e389ed8d30
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61860973"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62586010"
 ---
 # <a name="resolve-powerpoint-hangs-or-freezes"></a>Beheben von „PowerPoint hängt oder reagiert nicht“
 

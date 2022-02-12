@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: 7c25bf8f783ca067112d0d4e5d53970324376d7c435bfc22987508edc03f9e02
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 50052abe8ed3e748b9b0382b911e860dc50c8502
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976756"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62746019"
 ---
 # <a name="make-immediate-payment---recommended-steps"></a>Sofortige Zahlung – empfohlene Schritte
 

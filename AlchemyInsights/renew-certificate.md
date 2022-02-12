@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7750"
 - "9004340"
-ms.openlocfilehash: d01a5c0de51b7eaf4501154b32d35f78d3da8e7a71f3d82dae6faedb68ede3ec
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3f40fde1c383fff20051010924bf8d0ae44213cf
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54094534"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62586157"
 ---
 # <a name="renew-certificate"></a>Zertifikat verlängern
 

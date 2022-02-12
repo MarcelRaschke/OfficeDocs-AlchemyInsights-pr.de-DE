@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1952"
 - "9000326"
-ms.openlocfilehash: 28733b93d4c1f6b0db6cd13243ac32e510946763
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d8a7bc2ad67da0054ce3bf01b7c377ba4ddf77a0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61987825"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62568135"
 ---
 # <a name="webresource-visibility-property"></a>Sichtbarkeitseigenschaft der Webressource
 

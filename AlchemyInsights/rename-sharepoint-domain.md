@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11680"
 - "5300028"
-ms.openlocfilehash: b3f99c07175e6f3860da84f44f73ff732f1ef00a
-ms.sourcegitcommit: afc40a028eb988495c0f50ef4e409b3c8d088d43
+ms.openlocfilehash: 9a4d4a4aa2c7d0b1421c169f94369f3d6b5328ea
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60676449"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62586118"
 ---
 # <a name="rename-your-sharepoint-domain"></a>Umbenennen Ihrer SharePoint-Domäne
 

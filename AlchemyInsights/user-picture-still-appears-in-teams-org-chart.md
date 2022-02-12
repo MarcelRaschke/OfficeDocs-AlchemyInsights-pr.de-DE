@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13834"
 - "9007457"
-ms.openlocfilehash: 3f3cd7a01a4ce378e45b6b9a69a6b7c99700d850
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f8b86557af9079f8f3a9bbf9ba229bed04f0dc7c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61946014"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62569006"
 ---
 # <a name="user-picture-still-appears-in-the-microsoft-teams-organization-chart"></a>Das Benutzerbild erscheint weiterhin im Microsoft Teams Organigramm
 

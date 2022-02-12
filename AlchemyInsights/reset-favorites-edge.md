@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11937"
 - "9007099"
-ms.openlocfilehash: ecfa7a3682ac5c3566bcbb38045d8b1cc3249ce5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: bd7c5c6b3c54213dba84297e4ceeb3ec8af2c9eb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61867007"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62586167"
 ---
 # <a name="reset-favorites-in-microsoft-edge"></a>Favoriten in Microsoft Edge zurücksetzen
 
