@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9263"
-ms.openlocfilehash: afe8c68d1d5d0c9ad898d4ca90931b02449a90c4564f9fdc9abfaf6ce53aeba1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c9ef2a6165cba671681fda18a35f067ed9bc6ee
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53912417"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62699720"
 ---
 # <a name="make-bingcom-the-default-home-page"></a>Festlegen von Bing.com als Standardstartseite
 
