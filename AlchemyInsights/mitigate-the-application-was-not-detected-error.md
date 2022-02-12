@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000171"
 - "1712"
-ms.openlocfilehash: b09c9472e28810d29a19b926038357d521574dfc
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3906983ad6309f22a5d0f1d6bc9529ca0dd195df
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61862226"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62683266"
 ---
 # <a name="mitigate-the-application-was-not-detected-error"></a>Beheben des Fehlers "Sie Anwendung wurde nicht erkannt"
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8339"
-ms.openlocfilehash: 27cd7ccd9cbd5afe5ca41177723a99a0f6a71aa720c9ebea1d3889bcbb140d20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf833bfb683f1ad1ea1b4ca66c62c69656befde0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54097917"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62683206"
 ---
 # <a name="microsoft-viva-learning-availability"></a>Microsoft Viva Learning-Verfügbarkeit
 

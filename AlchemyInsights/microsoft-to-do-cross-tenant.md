@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: fe3c2987c09dd8e4121895e3bdce528ab8e12289
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4609b2275e2e95923dd1467d609dc6d8fce40c28
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61944514"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62683303"
 ---
 # <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do mandantenübergreifende Freigabe
 
@@ -26,6 +26,6 @@ Verknüpfen, Anzeigen, Ändern und Hinzufügen von Daten zu Listen, die persönl
 
 Administratoren können diese Funktion über eine neue Administratoreinstellung deaktivieren, indem sie die Option deaktivieren.
 
-Der Administrator kann diese Einstellung im Verwaltungsportal unter **Einstellungen**  >  **Org Einstellungen**  >  **Services**  >  **Microsoft To Do** finden.  
+Der Administrator kann diese Einstellung im Verwaltungsportal unter **Einstellungen** >  **Org Einstellungen** >  **Services** >  **Microsoft To Do** finden.  
 
 [Warum kann ich einer freigegebenen Liste nicht beitreten?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
