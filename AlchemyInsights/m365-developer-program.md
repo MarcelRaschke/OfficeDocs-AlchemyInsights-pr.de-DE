@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12320"
 - "9001669"
-ms.openlocfilehash: 73b7c909b4fe9973361e3ce7015583305981f0a8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2c4ac5e462afd354bff6dde8fce35f78c0883452
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61941463"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62732320"
 ---
 # <a name="microsoft-365-developer-program"></a>Microsoft 365-Entwicklerprogramm
 

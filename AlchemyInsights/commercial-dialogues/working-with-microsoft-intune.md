@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 09401ceb0bcdcfe280f2e7e293caffc8a4189561bf26b713c98f015991134e21
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ba49931a91c7661e77b88d71e39fc287bdf59a21
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54069891"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62687011"
 ---
 # <a name="working-in-microsoft-intune"></a>Arbeiten in Microsoft Intune
 

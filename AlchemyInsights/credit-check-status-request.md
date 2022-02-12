@@ -16,15 +16,15 @@ ms.custom:
 - "1500022"
 ms.date: 04/21/2020
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: 87209c60510914a1d78a5ead59c593bfd5b9d44c
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 89d215d27436ead504ff92447956106897113a08
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58842297"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62760563"
 ---
 # <a name="credit-check-status-request"></a>Statusanforderung zur Kreditwürdigungsprüfung
 
 Ihre Bestellung steht noch aus. Dieser Vorgang wird normalerweise in weniger als 24 Stunden abgeschlossen, kann aber bis zu 48 Stunden dauern. Nach Abschluss des Vorgangs ändert sich ihr Abonnementstatus von "Ausstehend" in "Aktiv", und dienste stehen zur Verwendung zur Verfügung.
 
-Weitere Informationen finden Sie, [wenn eine Kreditwürdigungsprüfung erforderlich sein kann.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#pay-by-invoice-check-or-eft)
+Weitere Informationen finden Sie, [wenn eine Kreditwürdigungsprüfung erforderlich sein kann](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#pay-by-invoice-check-or-eft).

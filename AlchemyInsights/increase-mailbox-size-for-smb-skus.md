@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: fb6ca4c0b174344d8d1df8d56fb17449c4f1e742
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e0b5b2271decce5f16cfe15b4503afad43980f4b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61862942"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62733019"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>Upgradepläne zur Erhöhung der Postfachgröße
 
-Wenn die Postfachgröße 50 GB beträgt, können Sie die Postfachgröße auf 100 GB erhöhen, indem Sie ein Upgrade auf [Office 365 E3](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab), [Microsoft 365 E3](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab), [Office 365 E5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab)oder [Microsoft 365 E5 durchführen.](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab) Hier sind die Schritte zum Upgrade auf ein anderes Abonnement:
+Wenn die Postfachgröße 50 GB beträgt, können Sie die Postfachgröße auf 100 GB erhöhen, indem Sie ein Upgrade auf [Office 365 E3](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab), [Microsoft 365 E3](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab), [Office 365 E5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab) oder [Microsoft 365 E5 durchführen](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab). Hier sind die Schritte zum Upgrade auf ein anderes Abonnement:
   
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Wählen Sie auf der Registerkarte **"Produkte"** das Abonnement aus, das Sie aktualisieren möchten.
-3. Wählen Sie auf der Seite mit den Abonnementdetails im Abschnitt **"Produktdetails und Upgrades"** die Option **"Für Ihre Organisation empfohlene Upgrades anzeigen"** aus.
-4. Suchen Sie auf der Seite **"Verfügbare Upgrades"** den gewünschten neuen Plan, und wählen Sie dann **"Upgrade"** aus.
-5. Wählen Sie auf der Seite **"Auschecken"** eine Zahlungsmethode aus, oder fügen Sie sie hinzu, und wählen Sie dann **"Bestellung aufgeben"** aus.
-6. On the **You're all set!** seite, wählen Sie **den Status Ihres Upgrades** aus, oder fahren Sie **fort, um Ihr Abonnement einzurichten.**
+2. Wählen Sie auf der Registerkarte **"Produkte** " das Abonnement aus, das Sie aktualisieren möchten.
+3. Wählen Sie auf der Seite mit den Abonnementdetails im Abschnitt **"Produktdetails und Upgrades** " die Option **"Für Ihre Organisation empfohlene Upgrades anzeigen**" aus.
+4. Suchen Sie auf der Seite **"Verfügbare Upgrades** " den gewünschten neuen Plan, und wählen Sie dann **"Upgrade**" aus.
+5. Wählen Sie auf der Seite **"Auschecken"** eine Zahlungsmethode aus, oder fügen Sie sie hinzu, und wählen Sie dann **"Bestellung aufgeben**" aus.
+6. On the **You're all set!** seite, wählen Sie **den Status Ihres Upgrades** aus, oder **fahren Sie fort, um Ihr Abonnement einzurichten**.
 
 Wenn Sie das Auschecken abgeschlossen haben, dauert Microsoft 365 einige Minuten, bis der Schalter abgeschlossen ist. Sie können mit der Nutzung Ihres neuen Abonnements sofort beginnen.
 
-Weitere Informationen finden Sie unter [Upgrade auf einen anderen Plan.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
+Weitere Informationen finden Sie unter [Upgrade auf einen anderen Plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).

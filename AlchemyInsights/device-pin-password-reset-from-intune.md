@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1278"
 - "6700008"
-ms.openlocfilehash: d4f39a1ec057eae0e645f1d5977a31f6e597915e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 62d7bdb2125cc1d8494617eebe30cff8cd604d85
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61935192"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62760491"
 ---
 # <a name="device-pinpassword-reset-from-intune"></a>Zurücksetzen von Geräte-PIN oder Gerätekennwort in Intune
 

@@ -13,12 +13,12 @@ ms.custom:
 - "9001681"
 - "3746"
 - "3821"
-ms.openlocfilehash: 64f0dadf775b8a106fbe9eff3ec802b2dec8081b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b3a1ca67cda195dfc244dab4ce6fbf31f2e1ab5f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61862899"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62733005"
 ---
 # <a name="increase-microsoft-365-security"></a>Erhöhte Microsoft 365 Security
 

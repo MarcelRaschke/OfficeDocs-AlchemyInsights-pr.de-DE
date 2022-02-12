@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 2c0e9ee18cebb0ba9423a093e3a860c4fadb0a47
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0a428684caa10d5eb6b33c36d16af1927711801a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61949651"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62760743"
 ---
 # <a name="create-user"></a>Benutzer erstellen
 
 **ANKÜNDIGUNG:**
 
-- [Veralteter WebView-Anmeldesupport von Google ab dem 4. Januar 2021.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Testen Sie, ob Ihre Apps möglicherweise betroffen sind, indem Sie die [Google-Anleitungen zum](https://go.microsoft.com/fwlink/?linkid=2157323) Testen der Kompatibilität befolgen.
+- [Veralteter WebView-Anmeldesupport von Google ab dem 4. Januar 2021](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) . Testen Sie, ob Ihre Apps möglicherweise betroffen sind, indem Sie die [Google-Anleitungen zum](https://go.microsoft.com/fwlink/?linkid=2157323) Testen der Kompatibilität befolgen.
 - Stellen Sie sicher, dass Sie die Systemwebansicht oder den Systembrowser verwenden, wenn Sie Ihre Benutzer mit Google-Consumerkonten anmelden. Weitere Informationen finden Sie unter [Probleme bei der Anmeldung bei Anwendungen (nur Chrome-Browser)](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
 
 **Ich kann keinen neuen Benutzer in meinem Azure AD-Verzeichnis erstellen**
@@ -36,6 +36,6 @@ ms.locfileid: "61949651"
 1. Weitere Informationen für Ihr Azure AD finden Sie unter [Azure AD-Rollen und -Administratoren](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators).
 1. Informieren Sie sich über die [Domänennamen,](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) für Ihr Azure AD.
 1. Überprüfen Sie die [Überwachungsprotokolle](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators), um detailliertere Informationen zu einem kürzlich erstellten oder gelöschten Benutzer zu erhalten, z. B. wer die Aktion ausgeführt hat und wann.
-1. Weitere Informationen zum Hinzufügen neuer Benutzer finden Sie unter [Verwenden des Azure-Portals zum Erstellen eines neuen Benutzers in Ihrer Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
-1. [Azure AD Administrative Rollen:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)Administratorrollenberechtigungen in Azure Active Directory
-1. Sie können auch [Azure AD PowerShell verwenden, um einen neuen Benutzer zu erstellen.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0&preserve-view=true)
+1. Weitere Informationen zum Hinzufügen neuer Benutzer finden Sie unter [Verwenden des Azure-Portals zum Erstellen eines neuen Benutzers in Ihrem Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal).
+1. [Azure AD Administratorrollen](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): Administratorrollenberechtigungen in Azure Active Directory
+1. Sie können auch [Azure AD PowerShell verwenden, um einen neuen Benutzer zu erstellen](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0&preserve-view=true).

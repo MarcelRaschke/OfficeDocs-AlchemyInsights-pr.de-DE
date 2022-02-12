@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b711af6-3d0e-4334-ae67-8b3cb76293de
-ms.openlocfilehash: 492ffe16819f433f8696385ad697d213c603591b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d70f8f15b70242812966dbde5d00a25bc0025530
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61810849"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62614380"
 ---
 # <a name="set-up-onedrive"></a>Einrichten von OneDrive
 
-Verwenden Sie [den Setup-Assistenten](https://portal.office.com/onboarding/odfbquickstartguide)OneDrive, um OneDrive schnell für Ihre Organisation einzurichten.
+Um OneDrive schnell für Ihre Organisation einzurichten, [verwenden Sie den Setup-Assistenten für OneDrive](https://portal.office.com/onboarding/odfbquickstartguide).
   
 

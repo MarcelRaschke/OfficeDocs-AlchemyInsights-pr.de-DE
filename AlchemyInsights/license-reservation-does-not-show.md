@@ -15,12 +15,12 @@ ms.custom:
 - "9002575"
 - "5030"
 ms.date: 04/14/2021
-ms.openlocfilehash: 958799eeed06c466934e80c8648223f83bfd1630
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 01bfb00c6071d4450ab3a31d7ba84628921d8a4a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58845249"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62732356"
 ---
 # <a name="license-reservation-does-not-show"></a>Lizenzreservierung wird nicht angezeigt
 

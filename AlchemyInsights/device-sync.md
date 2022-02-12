@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003245"
 - "9696"
-ms.openlocfilehash: a3da73e07a5c8c7670cc3adade7490ffeef31c8affddf389a48a8be11e8b58a2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: dd32061472d9698f56fe3687c5a7b5446ddd88e0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031117"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62760527"
 ---
 # <a name="device-sync"></a>Gerätesynchronisierung
 

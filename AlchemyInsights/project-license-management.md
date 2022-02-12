@@ -15,12 +15,12 @@ ms.custom:
 - "9002424"
 - "5105"
 ms.date: 08/10/2021
-ms.openlocfilehash: 0bd6d428a03a5f3f2d7560b8576acb3cf86db54b
-ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
+ms.openlocfilehash: dbfa0fe00453ce9a24b46d6a3808e52c07d30c8a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60584166"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62648184"
 ---
 # <a name="project-license-management"></a>Project-Lizenzverwaltung
 

@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4538"
-ms.openlocfilehash: b36c516d7e4cafdfc24913891e3e6f8dc6888106
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: df64762da02a948445d00d135019730fa8f2c2ed
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61956228"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62760815"
 ---
 # <a name="creating-and-configuring-labels-and-policies-with-aip-client"></a>Erstellen und Konfigurieren von Bezeichnungen und Richtlinien mit dem AIP-Client
 
-Informationen zum Erstellen von Vertraulichkeitsbezeichnungen in Microsoft 365 Compliance Center finden Sie unter [Schützen von Dokumenten mit Vertraulichkeitsbezeichnungen.](https://docs.microsoft.com/microsoft-365/business-video/create-sensitivity-labels)
+Informationen zum Erstellen von Vertraulichkeitsbezeichnungen in Microsoft 365 Compliance Center finden Sie unter ["Schützen von Dokumenten mit Vertraulichkeitsbezeichnungen"](https://docs.microsoft.com/microsoft-365/business-video/create-sensitivity-labels).
 
-Damit Ihre Bezeichnungen funktionieren, muss jeder Benutzer den Azure Information Protection (AIP)-Client für einheitliche Bezeichnungen herunterladen. Durchsuchen Sie das Web **nachAzinfoProtection_UL.exe,** und laden Sie es dann aus dem Microsoft Download Center herunter, und führen Sie es auf den Computern Ihrer Benutzer aus.
+Damit Ihre Bezeichnungen funktionieren, muss jeder Benutzer den Azure Information Protection (AIP)-Client für einheitliche Bezeichnungen herunterladen. Durchsuchen Sie das Web **nachAzinfoProtection_UL.exe**, und laden Sie es dann aus dem Microsoft Download Center herunter, und führen Sie es auf den Computern Ihrer Benutzer aus.
 
-Weitere Informationen finden Sie unter [Verwalten von Vertraulichkeitsbezeichnungen in Office Apps.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+Weitere Informationen finden Sie unter [Verwalten von Vertraulichkeitsbezeichnungen in Office-Apps](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps).
 
 Weitere Details finden Sie unter: 
 

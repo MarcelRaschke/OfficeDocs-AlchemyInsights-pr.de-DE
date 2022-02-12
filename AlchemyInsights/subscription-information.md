@@ -16,16 +16,16 @@ ms.custom:
 - "1500032"
 ms.date: 04/21/2020
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 158b012c78451c329f9079e18196dfe1708e0d8d
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: ba9d11cc1b5b4fb886543a59e52c83b0ca3dc986
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58842729"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62615712"
 ---
 # <a name="subscription-information"></a>Abonnementinformationen
 
-Informationen zu den Abonnements, die Sie besitzen, können Sie auf der Seite **"Abrechnung** \> [Für Ihre Produkte"](https://go.microsoft.com/fwlink/p/?linkid=842054) abrufen.
+Informationen zu den Abonnements, die Sie besitzen, können Sie auf der Seite **"Abrechnung** \> [Für Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) " abrufen.
   
 Die Tabelle enthält die folgenden wichtigen Informationen zu den einzelnen Abonnements:
   
@@ -37,4 +37,4 @@ Die Tabelle enthält die folgenden wichtigen Informationen zu den einzelnen Abon
 - Zahlungsmethode
 - Abrechnungskonto (falls zutreffend)
  
-Wenn Sie Spalten hinzufügen oder entfernen möchten, wählen **Sie "Spalten auswählen" aus.**
+Um Spalten hinzuzufügen oder zu entfernen, wählen Sie **"Spalten auswählen" aus**.

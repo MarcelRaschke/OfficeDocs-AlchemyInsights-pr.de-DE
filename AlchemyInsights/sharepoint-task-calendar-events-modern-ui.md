@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: 33667115a9bdd9910968ed06b9c70ae8f2308035
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: fbaa7e585b52ec0cf3f20b5304cf1ce8a90d95cd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61956408"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62615784"
 ---
 # <a name="task-and-calendar-event-list-in-modern-ui"></a>Aufgaben- und Kalenderereignisliste in der modernen Benutzeroberfläche
 
@@ -28,4 +28,4 @@ Bestimmte Listen- und Bibliothekstypen sind noch nicht so aufgebaut, dass sie in
 
 Eines der Prioritätselemente für uns ist die Unterstützung von AUFGABEN- und EREIGNISlisten als Teil der modernen UX. Wir verfügen jedoch nicht über eine ETA für diese Unterstützung. Verwenden Sie daher weiterhin die klassische Benutzeroberfläche für diese Listen.
 
-Weitere Informationen finden Sie unter [Maximieren der Verwendung moderner Listen und Bibliotheken.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+Weitere Informationen finden Sie unter ["Maximieren der Verwendung moderner Listen und Bibliotheken"](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).

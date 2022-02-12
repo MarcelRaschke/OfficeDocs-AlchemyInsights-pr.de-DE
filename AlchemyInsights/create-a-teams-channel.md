@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5039"
-ms.openlocfilehash: 7892e83169bf2ab9d93bf57619df300324d1f3e0
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: bbee6f1c68cfe0f54f2c990ce03ac99317ab3430
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952300"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62761247"
 ---
 # <a name="create-a-teams-channel"></a>Erstellen eines Teams-Kanals
 

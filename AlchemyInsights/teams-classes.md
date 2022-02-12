@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001725"
 - "3829"
-ms.openlocfilehash: 9473e07a352f0219a0e7bd5f12be35272805f502
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: bbdeaaa5d306bdb617aa97206468471fab7fdddf
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61948535"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62615604"
 ---
 # <a name="teams-classes"></a>Teams Kurse
 

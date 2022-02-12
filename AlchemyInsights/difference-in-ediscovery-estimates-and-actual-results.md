@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13997"
 - "3200003"
-ms.openlocfilehash: cddcaa18c549b577aa729e0d577ad4197137cc24
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8f8d5f912e0a933ba876533741e4b886a97ed33d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960413"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62760383"
 ---
 # <a name="difference-in-ediscovery-estimates-and-actual-results"></a>Unterschied zwischen eDiscovery-Schätzungen und tatsächlichen Ergebnissen
 

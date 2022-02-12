@@ -13,12 +13,12 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: a143d36d1656e205311cde4aaff3c0c21815182ee82c60039b2219addac218cb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e2c5c4f65ef6c53339e53b31ba85942dd831c249
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028651"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62733257"
 ---
 # <a name="mail-flow-rules-also-known-as-transport-rules"></a>Nachrichtenflussregeln (auch als Transportregeln bezeichnet)
 

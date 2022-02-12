@@ -15,12 +15,12 @@ ms.custom:
 - "11062"
 - "9002254"
 - "9002536"
-ms.openlocfilehash: 266d2ee4fd3a96287c65ce70ad2b170e9cc5ab36
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8cdcee36feb5a7a1fa95d615a7fdcfbf8b88428a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61860591"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62616756"
 ---
 # <a name="screen-sharing-quality"></a>Bildschirmfreigabequalität
 

@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 299b9b10c81ddc185adf803eb88fb384efed7f38
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b186a6b20ef62aab5b71e892c8331b620f5cee0c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61866611"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62616000"
 ---
 # <a name="sharepoint-powershell-unable-to-connect"></a>SharePoint PowerShell kann keine Verbindung herstellen
 
-Wenn Beim Herstellen einer Verbindung mit SharePoint Online-PowerShell-Modul Probleme auftreten, finden Sie weitere Informationen unter ["Fehler beim Herstellen einer Verbindung mit SharePoint Online-Verwaltungsshell".](https://docs.microsoft.com/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)
+Wenn Beim Herstellen einer Verbindung mit SharePoint Online-PowerShell-Modul Probleme auftreten, lesen Sie [Fehler beim Herstellen einer Verbindung mit SharePoint Online-Verwaltungsshell](https://docs.microsoft.com/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell).

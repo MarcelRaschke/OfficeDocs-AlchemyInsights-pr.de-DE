@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9828"
 - "9004618"
-ms.openlocfilehash: 4889efc0a86ce7d7b4eeb8595160c0e3e3bb397e5f0d6c5395a54daece512465
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a52d6370fac9dc012d8604c19e939042a6e42b07
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54032197"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62761260"
 ---
 # <a name="create-a-team-in-microsoft-teams"></a>Erstellen eines Teams in Microsoft Teams
 

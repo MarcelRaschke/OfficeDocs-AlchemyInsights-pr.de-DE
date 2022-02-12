@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9091"
 - "9005274"
-ms.openlocfilehash: 6db5faeddea7b47ab6ac4e3f091d82686834614d
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 3016b651508c014a428f25216644ffa51ae9b283
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50696834"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62615532"
 ---
 # <a name="teams-limits-and-specifications"></a>Teams-Grenzwerte und -spezifikationen
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9732"
 - "9003244"
-ms.openlocfilehash: 5ccb55996ccef4b55c8d80de6e35f4ba27e3dfa18dfcaeaf6f6ad1c54b6bb376
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 598fb2f5e036b3d482db37dc5271c05e4d3de2b2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53965964"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62687191"
 ---
 # <a name="configure-service-connection-point-scp"></a>Konfigurieren Sie den Dienstverbindungspunkt (SCP).
 

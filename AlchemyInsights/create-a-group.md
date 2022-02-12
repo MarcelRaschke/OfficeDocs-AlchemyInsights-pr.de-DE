@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: 4e88ba91cb49add9cb1ebd26b990ec7c65003ddc
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 12ba983c19638c1ca8243028b133fd79d46b188d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61938511"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62687060"
 ---
 # <a name="create-a-group"></a>Erstellen einer Gruppe
 
@@ -29,7 +29,7 @@ Stellen Sie sicher, dass Sie berechtigt sind, eine neue Gruppe zu erstellen. Glo
 
 **Verwalten von Gruppenerstellungsberechtigungen**
 
-1. Globale Administratoren können Gruppenerstellungsberechtigungen (aus sicherheitsbezogenen Gründen) oder Office 365 Gruppen verwalten, die im Azure-Portal oder im Zugriffsbereich erstellt wurden, indem sie in "Benutzer können Sicherheitsgruppen in Azure-Portalen erstellen" oder "Benutzer können Office 365 Gruppen in Azure-Portalen erstellen" in **"Alle Gruppen**  >  **allgemein (Einstellungen)**" auswählen.
+1. Globale Administratoren können Gruppenerstellungsberechtigungen (aus sicherheitsbezogenen Gründen) oder Office 365 Gruppen verwalten, die im Azure-Portal oder im Zugriffsbereich erstellt wurden, indem sie in **"Alle GruppenGeneral** >  **(Einstellungen)**" die Option "Benutzer können Sicherheitsgruppen in Azure-Portalen erstellen" oder "Benutzer können Office 365 Gruppen in Azure-Portalen erstellen" auswählen.
 2. Sie können die Gruppenerstellung auch einschränken, um eine Gruppe von Benutzern auszuwählen, wenn Sie über eine Azure Active Directory P1-Premium-Lizenz verfügen.
 
 **Deaktivieren der Willkommensbenachrichtigung für neue Office 365-Gruppenmitglieder**

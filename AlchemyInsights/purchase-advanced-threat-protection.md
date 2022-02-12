@@ -15,24 +15,24 @@ ms.custom:
 - "9003019"
 - "5758"
 ms.date: 08/10/2021
-ms.openlocfilehash: 6c8670db2905471220c7030003c36f4b76f65cc0
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 3d89c942d8d7a2709a3133b3821e1b2acdb44055
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844133"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62647860"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Microsoft Defender für Office 365 kaufen
 
 Microsoft Defender für Office 365 ist in bestimmten Abonnements wie Microsoft 365 E5, Office 365 E5, Office 365 A5 und Microsoft 365 Business Premium enthalten. Wenn Ihr Abonnement Microsoft Defender für Office 365 nicht enthält, können Sie [Microsoft Defender für Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) als Add-On für ein bestimmtes Abonnement kaufen. So erwerben Sie im Microsoft 365 Admin Center:
 
-1. Wechseln Sie im Admin Center zur Seite **"Abrechnungskauf".**  >  [](https://go.microsoft.com/fwlink/p/?linkid=868433)
-2. Suchen Sie unten auf der Seite **"Dienste kaufen"** im Abschnitt **"Add-Ons"** nach Microsoft Defender für Office 365-Add-On, und wählen Sie **"Details"** aus.
-3. Wählen Sie auf der Seite "Produktdetails" die Option **"Kaufen"** aus.
-4. Füllen Sie bei Bedarf alle anderen Bestellinformationen aus. Zu diesen Informationen gehören die Auswahl des Abonnements, für das das Add-On bestimmt ist, und die Anzahl der Benutzer, die es verwenden werden. Wenn Sie fertig sind, wählen Sie **"Jetzt auschecken"** aus.
-5. Überprüfen Sie bei Bedarf die Bestell- und Preisinformationen, und wählen Sie dann **"Weiter"** aus.
-6. Wählen Sie eine Zahlungsmethode aus, oder fügen Sie eine neue hinzu, und wählen Sie dann **Bestellung aufgeben** go to  >  **Admin Home** aus.
+1. Wechseln Sie im Admin Center zur Seite "[BillingPurchase-Dienste](https://go.microsoft.com/fwlink/p/?linkid=868433) > ".
+2. Suchen Sie unten auf der Seite **"Dienste kaufen**" im Abschnitt **"Add-Ons**" nach Microsoft Defender für Office 365-Add-On, und wählen Sie **"Details**" aus.
+3. Wählen Sie auf der Seite "Produktdetails" die Option **"Kaufen**" aus.
+4. Füllen Sie bei Bedarf alle anderen Bestellinformationen aus. Zu diesen Informationen gehören die Auswahl des Abonnements, für das das Add-On vorgesehen ist, und die Anzahl der Benutzer, die es verwenden werden. Wenn Sie fertig sind, wählen Sie **"Jetzt auschecken**" aus.
+5. Überprüfen Sie bei Bedarf die Bestell- und Preisinformationen, und wählen Sie dann **"Weiter**" aus.
+6. Wählen Sie eine Zahlungsmethode aus, oder fügen Sie eine neue hinzu, und wählen Sie dann **"OrderGo** >  **an Admin Home** aufgeben" aus.
 
-Informationen zum Zuweisen von Lizenzen zu Benutzern finden Sie unter [Zuweisen von Lizenzen zu Benutzern.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+Informationen zum Zuweisen von Lizenzen zu Benutzern finden Sie unter [Zuweisen von Lizenzen zu Benutzern](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 Wenn Sie weitere Lizenzen erwerben oder Lizenzen entfernen möchten, lesen Sie [Kaufen oder Entfernen von Lizenzen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
