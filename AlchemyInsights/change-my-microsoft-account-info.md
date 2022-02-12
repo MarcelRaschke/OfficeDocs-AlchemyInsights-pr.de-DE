@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002956"
 - "5658"
-ms.openlocfilehash: 1f64d61d00bae1a49639b5d433f95a11e8744314
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6e227b43cae34026c93864b0a6c9ba47f0e33878
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952408"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62657634"
 ---
 # <a name="change-my-microsoft-account-information"></a>Ändern meiner Microsoft-Kontoinformationen
 

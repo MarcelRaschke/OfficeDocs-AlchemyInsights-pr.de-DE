@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003303"
 - "6208"
-ms.openlocfilehash: 10131469fe8085bb6ed3778e2f0af6545595e767
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8de0291ff858f2aebb4681cba9f31605e98c2036
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61964976"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62657706"
 ---
 # <a name="cant-add-or-change-teams-profile-picture"></a>Teams-Profilbild kann nicht hinzugefügt oder geändert werden
 

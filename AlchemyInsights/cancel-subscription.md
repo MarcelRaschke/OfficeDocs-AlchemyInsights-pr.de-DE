@@ -14,12 +14,12 @@ ms.custom:
 - "6837"
 - "9003797"
 - "6839"
-ms.openlocfilehash: 4301c091f9272a7df4efa35b2bd6e56dc7e71739
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d9efeac0d4dd3556beb7e49b227d679004fac65b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61948427"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62658043"
 ---
 # <a name="cancel-subscription"></a>Abonnement kündigen
 
