@@ -15,16 +15,16 @@ ms.custom:
 - "3043"
 - "1500012"
 ms.date: 07/30/2021
-ms.openlocfilehash: a198a0547b319bffa35e91f03456449dad9e634b
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 997c9c0a2468b6315ad3b8beb6e69836ae6f502d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58841540"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62736498"
 ---
 # <a name="renewing-your-subscription"></a>Verlängern Ihres Abonnements
 
-Wenn Sie per Kreditkarte oder Bankkonto bezahlen, ist die wiederkehrende Abrechnung standardmäßig aktiviert. Wenn die wiederkehrende Abrechnung aktiviert ist, wird Ihr Abonnement weiterhin jedes Jahr an dem Tag in Rechnung gestellt, den Sie abonniert haben. Wenn Ihr Abonnementstatus "Aktiv" lautet, können Sie die automatische Verlängerung im Admin Center deaktivieren oder erneut aktivieren.
+Wenn Sie per Kreditkarte oder Bankkonto bezahlen, ist die wiederkehrende Abrechnung standardmäßig aktiviert. Wenn die wiederkehrende Abrechnung aktiviert ist, wird Ihr Abonnement jedes Jahr an dem Tag in Rechnung gestellt, den Sie abonniert haben. Wenn Ihr Abonnementstatus "Aktiv" lautet, können Sie die automatische Verlängerung im Admin Center deaktivieren oder erneut aktivieren.
 
 Wenn Sie Ihr Abonnement mit einem Product Key im Voraus bezahlt haben, läuft Ihr Abonnement am Ende der Abonnementlaufzeit ab. Sie können die wiederkehrende Abrechnung aktivieren und Kreditkarten- oder Bankkontoinformationen angeben, damit Ihr Abonnement weiterhin jedes Jahr an dem Tag in Rechnung gestellt wird, den Sie abonniert haben.
 
@@ -34,4 +34,4 @@ So aktivieren Sie die wiederkehrende Abrechnung:
 2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie ändern möchten.
 3. Wählen Sie auf der Seite Abonnementdetails, unter **Abonnement- und Zahlungseinstellungen**, **Wiederkehrende Abrechnung bearbeiten** aus.
 4. Wählen Sie im Bereich **Einstellungen für die wiederkehrende Abrechnung bearbeiten** zwischen den Optionen **Ein**, **Ein, aber einmal verlängern** oder **Deaktivieren** aus.
-5. Klicken Sie auf **Speichern**. 
+5. Wählen Sie **Speichern**. 

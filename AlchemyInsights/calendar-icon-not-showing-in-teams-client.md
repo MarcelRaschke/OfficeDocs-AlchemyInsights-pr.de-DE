@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001219"
 - "4375"
-ms.openlocfilehash: b64c26beb1bddc2df0edc45de25c3f4547ec1db2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7534b3689cb4b054765704c6db407568738da21c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61970815"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62690180"
 ---
 # <a name="calendar-icon-not-showing-in-teams-client"></a>Kalendersymbol wird im Teams-Client nicht angezeigt
 

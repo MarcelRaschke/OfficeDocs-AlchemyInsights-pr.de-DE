@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 7c602e1c2f8777209e7614b68af69a61bd2509b5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e1f991da3032bc89f14a2e72cea842d5093c6065
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61949579"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62651349"
 ---
 # <a name="how-to-manage-add-ins-while-reading-a-message"></a>Verwalten von Add-Ins beim Lesen einer Nachricht
 

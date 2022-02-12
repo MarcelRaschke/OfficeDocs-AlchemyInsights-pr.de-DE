@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6838"
-ms.openlocfilehash: bc1f855cf8fea058ed761c5113591c66e7e5af4c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4a5800c3455c0fb5079dcda2d3ee2657900d4e44
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960485"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62690072"
 ---
 # <a name="cancellation-of-a-subscription-by-owner"></a>Beendigung von Abonnements durch den Besitzer
 

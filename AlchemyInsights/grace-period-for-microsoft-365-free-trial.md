@@ -15,12 +15,12 @@ ms.custom:
 - "1400006"
 - "5479"
 ms.date: 04/14/2021
-ms.openlocfilehash: 4c6ba5203d4760dc1a9f180949b614283c4c4784
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5fb1149915fda837a7cfd32e44be712bc53da9db
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61947346"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62651304"
 ---
 # <a name="grace-period-for-microsoft-365-free-trial"></a>Nachfrist für die kostenlose Testversion von Microsoft 365
 

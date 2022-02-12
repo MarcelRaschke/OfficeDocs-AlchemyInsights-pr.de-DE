@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "10871"
-ms.openlocfilehash: bcac970daa39225b2b5f285dd0ba5e9b7ed68d86
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: de8c3fabe921341739279c201781e832b03acc1e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960737"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62651046"
 ---
 # <a name="install-office-and-onedrive-on-windows-virtual-desktop"></a>Installieren von Office und OneDrive auf Windows Virtual Desktop
 

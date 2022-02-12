@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10088"
 - "3100021"
-ms.openlocfilehash: edeb0673670b9f04a496812ab4fa0502439880d8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d09a88bb4155f093a068e5debfedf8a2be93e388
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61935496"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62736510"
 ---
 # <a name="microsoft-defender-for-office-365-setup-guide"></a>Einrichtungsleitfaden für Microsoft Defender für Office 365
 

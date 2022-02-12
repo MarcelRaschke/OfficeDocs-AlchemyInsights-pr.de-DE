@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005290"
 - "9120"
-ms.openlocfilehash: 707fd70915dd208b1ef2f219157f0d63a587d373
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8c8ac3a0687692fc4d18bb50263864c2bd1cd4d3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61967862"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62689866"
 ---
 # <a name="camera-app-privacy-settings"></a>Kamera-App Datenschutzeinstellungen
 

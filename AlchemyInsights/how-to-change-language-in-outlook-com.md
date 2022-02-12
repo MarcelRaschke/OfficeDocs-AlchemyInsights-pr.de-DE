@@ -14,19 +14,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 662870da708a37d4e39fd0c783b580737a9d4c5cc5bb443322d517023bd938d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: eac1d49178932d4e5f27aa08fdd9eb507f522aec
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913282"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62651226"
 ---
 # <a name="change-your-language"></a>Ändern Ihrer Sprache
 
-1. Um die Sprache in Outlook anzuzeigen, wechseln Sie zu [**"Sprach- und Uhrzeiteinstellungen"**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Einstellungen** Alle Outlook \> Einstellungen "Allgemeine Sprache und   >    >  **Uhrzeit"** anzeigen).
+1. Um die Sprache in Outlook anzuzeigen, wechseln Sie zu [**"Sprach- und Uhrzeiteinstellungen**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional)" (**Einstellungen** \> **Alle Outlook Einstellungen** >  **anzeigenGeneralLanguage** >  **und Uhrzeit**).
 
 2. Wählen Sie Ihre Sprache aus.
 
-3. Wählen Sie **Speichern** aus.
+3. Wählen Sie **Speichern**.
 
-Weitere Informationen finden Sie unter [Ändern der Zeitzonen- und Spracheinstellungen in Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=873132)
+Weitere Informationen finden Sie unter [Ändern der Zeitzonen- und Spracheinstellungen in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

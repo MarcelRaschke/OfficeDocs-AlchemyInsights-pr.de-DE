@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002620"
 - "15613"
-ms.openlocfilehash: 6a66dbf7e1c4c3765c1f02caf6f5b0c741fc6b04
-ms.sourcegitcommit: 0dd7760ad815ccf23a7281df8f783a01ad44b383
+ms.openlocfilehash: 108163bb532ae894ec4103239e07c8e8e95939f5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2021
-ms.locfileid: "61401037"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62736461"
 ---
 # <a name="microsoft-defender-for-office-365-trial"></a>Testversion von Microsoft Defender für Office 365
 
-Microsoft Defender für Office 365 schützt Ihre Organisation vor bösartigen Bedrohungen durch E-Mail-Nachrichten, Links (URLs) und Tools für die Zusammenarbeit. Eine Testversion von Microsoft Defender für Office 365 ist eine einfache Möglichkeit, die Funktionen von Defender for Office 365 Plan 2 kostenlos auszuprobieren. Die Testversion von Microsoft Defender für Office 365 wird schrittweise für bestehende Kunden bereitgestellt, die bestimmte Kriterien erfüllen und nicht über vorhandene Lizenzen für Defender für Office 365 Plan 2 verfügen (in ihrem Abonnement oder als Add-On enthalten).
+Microsoft Defender für Office 365 schützt Ihre Organisation vor bösartigen Bedrohungen durch E-Mail-Nachrichten, Links (URLs) und Tools für die Zusammenarbeit. Eine Testversion von Microsoft Defender für Office 365 ist eine einfache Möglichkeit, die Funktionen von Defender for Office 365 Plan 2 kostenlos auszuprobieren. Die Testversion von Microsoft Defender für Office 365 wird schrittweise für bestehende Kunden bereitgestellt, die bestimmte Kriterien erfüllen und nicht über vorhandene Defender for Office 365 Plan 2-Lizenzen verfügen (in ihrem Abonnement oder als Add-On enthalten).
 
-Nachdem Sie die Testversion gestartet haben, kann es bis zu zwei Stunden dauern, bis die Änderungen und Updates verfügbar sind. Weitere Informationen finden Sie unter ["Informationen zu Microsoft Defender für Office 365 Testversion".](https://docs.microsoft.com/microsoft-365/security/office-365-security/about-defender-for-office-365-trial)
+Nachdem Sie die Testversion gestartet haben, kann es bis zu zwei Stunden dauern, bis die Änderungen und Updates verfügbar sind. Weitere Informationen finden Sie unter ["Informationen zur Testversion von Microsoft Defender für Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/about-defender-for-office-365-trial)".

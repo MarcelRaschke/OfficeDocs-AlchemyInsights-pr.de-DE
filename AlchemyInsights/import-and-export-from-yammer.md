@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9735"
 - "9003224"
-ms.openlocfilehash: b365921d3ca64e8ad4bd3891e11add8043b2a903
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 4a134563f93afc639aa9b85a911ac99101ef4502
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329825"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62651311"
 ---
 # <a name="import-and-export-from-yammer"></a>Importieren und Exportieren von Yammer
 

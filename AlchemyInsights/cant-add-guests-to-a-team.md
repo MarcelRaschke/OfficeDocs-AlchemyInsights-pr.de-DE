@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003558"
 - "6657"
-ms.openlocfilehash: 3c4a4167ca38f9d0c7fa88b68cbd6b35b9b3c622
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 724602b9a093cf5e47883be41859a4105a6766fa
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61967138"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62689941"
 ---
 # <a name="cant-add-guests-to-a-team"></a>Sie können einem Team keine Gäste hinzufügen
 

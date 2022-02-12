@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7773"
 - "9004350"
-ms.openlocfilehash: e2d7cc165fce8be2e2c15d7d806917e309395d45
-ms.sourcegitcommit: 688642f4ebc0f1c335e954e780bb9ec8893e2f3f
+ms.openlocfilehash: 0321c94b122adaff820139fa87212e2170106613
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911575"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62736569"
 ---
 # <a name="customize-myapps-portal"></a>Anpassen des Portals „Meine Apps“
 

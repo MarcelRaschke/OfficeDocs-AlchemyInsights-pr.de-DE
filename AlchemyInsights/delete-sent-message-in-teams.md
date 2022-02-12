@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13808"
 - "9000738"
-ms.openlocfilehash: 825e4b49a483f8500145eba64ac82f9e05ea3628
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5c49f3b87e7410781a709a064290e30fbe7d1670
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61964328"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62735741"
 ---
 # <a name="delete-a-sent-message-in-teams"></a>Löschen einer gesendeten Nachricht in Teams
 
