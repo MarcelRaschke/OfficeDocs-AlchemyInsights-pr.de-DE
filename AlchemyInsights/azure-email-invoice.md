@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2d08ece331838bcad0a8f39fdcd76f5fd27e2683
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2a645aa184d1d310eee2ab22caaf680f112b1442
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61957926"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62674411"
 ---
 # <a name="azure-email-invoicing"></a>Azure-E-Mail-Rechnungsstellung
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7844"
-ms.openlocfilehash: 725738e5a00493aaea07b7a018a08f47c3ae996cfe768a1719f38e8557370348
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 772d595386d85bb5cd9e6aca8e3ecb4e3bece910
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054761"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62720651"
 ---
 # <a name="issues-with-microsoft-applications"></a>Probleme mit Microsoft-Anwendungen
 

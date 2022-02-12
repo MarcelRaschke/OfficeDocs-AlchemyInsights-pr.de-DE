@@ -15,15 +15,15 @@ ms.custom:
 - "7093"
 - "9004596"
 - "8220"
-ms.openlocfilehash: 629463e6fbd1f1b794ba04b7707d7ab9ece55ea9851352211fcaeed41ea9279d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 12d9b4ba17ce74c99bd4acf330b752619288cbd0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54019291"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62674323"
 ---
 # <a name="block-pop-up-windows-in-microsoft-edge"></a>Popupfenster in Microsoft Edge blockieren
 
-1. Wechseln Sie zu **... (Einstellungen und mehr)**  >  **Einstellungen**  >  **Websiteberechtigungen**.
-2. Wählen Sie **Popups und Umleitungen aus.**
-3. Aktivieren Sie **"Blockieren".**
+1. Wechseln Sie zu **... (Einstellungen und mehr)** >   >  Einstellungen **Websiteberechtigungen**.
+2. Wählen Sie **Popups und Umleitungen aus**.
+3. Aktivieren Sie **"Blockieren"**.

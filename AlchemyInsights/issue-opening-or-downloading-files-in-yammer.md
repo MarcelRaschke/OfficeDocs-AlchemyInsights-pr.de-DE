@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6041"
 - "9003112"
-ms.openlocfilehash: 0ffea98774a3a071f73889a83a0278e18434c59c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b9299312d9ff10f71f3f4c61231285ffde1353ab
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61941607"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62720781"
 ---
 # <a name="issue-opening-or-downloading-files-in-yammer"></a>Problem beim Öffnen oder Herunterladen von Dateien in Yammer
 

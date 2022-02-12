@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005383"
 - "9275"
-ms.openlocfilehash: 508e48fd0e46557de075f4752da017ab8cc326923a965350140e598f7f7cf557
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5cfc8d6fcf621b55ae2ec05bd0afb64d78b66212
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054905"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62720640"
 ---
 # <a name="unable-to-sendreceive-email-tofrom-office-365-because-of-the-tls-10-and-tls-11-disablement"></a>E-Mails können aufgrund der TLS 1.0- und TLS 1.1-Deaktivierung nicht an/von Office 365 gesendet/empfangen werden.
 
-Wie vom Nachrichtencenter nach MC229914 bestätigt, wurde die Deaktivierung von TLS 1.0 und TLS 1.1 für Exchange Online Nachrichtenflussendpunkte erzwungen. Bald akzeptieren Office 365 keine TLS 1.0- und TLS 1.1-E-Mail-Verbindungen von externen Quellen mehr. Außerdem verwenden Exchange Online tls 1.0 oder 1.1 nie zum Senden ausgehender E-Mails. Wenn Aufgrund der TLS 1.0- oder 1.1-Deaktivierung Probleme auftreten, tritt möglicherweise einer der folgenden Fehler auf:
+Wie vom Nachrichtencenter nach MC229914 bestätigt, haben TLS 1.0 und TLS 1.1 die Deaktivierung für Exchange Online Nachrichtenflussendpunkte erzwungen. Bald akzeptieren Office 365 keine TLS 1.0- und TLS 1.1-E-Mail-Verbindungen von externen Quellen mehr. Außerdem verwenden Exchange Online tls 1.0 oder 1.1 nie zum Senden ausgehender E-Mails. Wenn Aufgrund der TLS 1.0- oder 1.1-Deaktivierung Probleme auftreten, tritt möglicherweise einer der folgenden Fehler auf:
 
 - Absender erhält NDR-Bounceback - '421 4.4.2 Connection dropped due to SocketError'
 - Fehler in der Warteschlangenanzeige des lokalen Servers, der E-Mails an Officer 365 sendet- '421 4.4.2 Verbindung aufgrund von SocketError verworfen'
@@ -32,10 +32,10 @@ Wenn die oben genannten Fehler auftreten, stellen Sie sicher, dass auf dem Serve
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.2] [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.2\Client] **"DisabledByDefault"=dword:000000000 "Enabled"=dword:00000001** [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.2\Server] **"DisabledByDefault"=dword:000000000 "Enabled"=dword:00000001**
 
-Wenn Sie änderungen an den obigen Registrierungsschlüsseln vornehmen, um TLS 1.2 zu aktivieren, starten Sie den Server neu, damit die Änderungen wirksam werden. Stellen Sie außerdem sicher, dass die neuesten Windows und Exchange Updates installiert sind.
+Wenn Sie änderungen an den obigen Registrierungsschlüsseln vornehmen, um TLS 1.2 zu aktivieren, starten Sie den Server neu, damit die Änderungen wirksam werden. Stellen Sie außerdem sicher, dass Die neuesten Windows und Exchange Updates installiert sind.
 
 Weitere Informationen finden Sie unter:
 
 - [Exchange Server TLS-Leitfaden, Teil 1: Vorbereiten auf TLS 1.2 – Microsoft Tech Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-server-tls-guidance-part-1-getting-ready-for-tls-1-2/ba-p/607649)
 - [Exchange Server TLS-Leitfaden Teil 2: Aktivieren von TLS 1.2 und Identifizieren von Clients, die es nicht verwenden – Microsoft Tech Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-server-tls-guidance-part-2-enabling-tls-1-2-and/ba-p/607761)
-- [Grundlegendes zu E-Mail-Szenarien, wenn tls-Versionen nicht mit Exchange Online vereinbart werden können – Microsoft Tech Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-email-scenarios-if-tls-versions-cannot-be-agreed/ba-p/2065089)
+- [Grundlegendes zu E-Mail-Szenarien, wenn TLS-Versionen nicht mit Exchange Online vereinbart werden können – Microsoft Tech Community](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-email-scenarios-if-tls-versions-cannot-be-agreed/ba-p/2065089)

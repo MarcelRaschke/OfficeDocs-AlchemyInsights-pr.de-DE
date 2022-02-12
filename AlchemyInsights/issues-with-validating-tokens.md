@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7779"
 - "9004351"
-ms.openlocfilehash: 1f515c2cf7038e921134e094d878080c33cc2012bac82438dc01245cb13c5b39
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 46ae98184d2b50e1402de2403693a6ee0b4d1aec
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54067371"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62720683"
 ---
 # <a name="issues-with-validating-tokens"></a>Probleme mit der Validierung von Token
 
