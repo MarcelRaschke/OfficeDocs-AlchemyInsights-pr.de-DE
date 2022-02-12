@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1372"
 - "3100005"
-ms.openlocfilehash: 3e0da3b75fd4c10b41fcc5e0f47dda143c2c2edd4d9687595759c1fa2b4804eb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 419e6cd3450c1f986340b5632cd208b80acc6ad1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53942204"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62693168"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint und OneDrive Überwachungsprotokollen
 
@@ -31,6 +31,6 @@ Verwenden Sie die Überwachungsprotokollierungssuche, um die Aktivitäten der Da
 * [Synchronisierungsaktivitäten](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
 * [Websiteverwaltungsaktivitäten](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Weitere Informationen zum Abrufen dieser Ereignisse finden Sie unter [Durchsuchen des Überwachungsprotokolls.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
+Weitere Informationen zum Abrufen dieser Ereignisse finden Sie unter [Durchsuchen des Überwachungsprotokolls](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-Die SPO-Legacyüberwachung wurde in das einheitliche Überwachungsprotokoll (Unified Audit Log, UAL) migriert. Alle SPO-Legacyüberwachungsberichte werden durch UAL unterstützt, und die älteren Überwachungssignale wurden zu UAL migriert. Weitere Informationen finden Sie unter [Konfigurieren von Überwachungsdaten für eine Websitesammlung.](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
+Die SPO-Legacyüberwachung wurde in das einheitliche Überwachungsprotokoll (Unified Audit Log, UAL) migriert. Alle SPO-Legacyüberwachungsberichte werden durch UAL unterstützt, und die älteren Überwachungssignale wurden zu UAL migriert. Weitere Informationen finden Sie unter [Konfigurieren von Überwachungsdaten für eine Websitesammlung](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2).

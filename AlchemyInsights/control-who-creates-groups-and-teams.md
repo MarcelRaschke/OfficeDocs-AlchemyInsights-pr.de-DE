@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "168"
 - "1200029"
-ms.openlocfilehash: c47120e1942b31b27084fd333c927add284a20e4
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d5ec4d0580be9405e052d27ca5bc45ba551953ca
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61972869"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62654502"
 ---
 # <a name="control-who-creates-microsoft-365-groups-and-microsoft-teams"></a>Steuern, wer Microsoft 365-Gruppen und Microsoft Teams erstellen kann
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11446"
 - "9003537"
-ms.openlocfilehash: fbec360bb999108d1b69e6a9d2966d7819341535
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b68eb373c9780dcdbc409fbd4361a90a6a607563
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960809"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62654250"
 ---
 # <a name="create-and-manage-device-tags-or-groups"></a>Erstellen und Verwalten von Gerätekategorien oder -gruppen
 

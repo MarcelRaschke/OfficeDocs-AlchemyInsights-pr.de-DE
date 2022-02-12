@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: cf43deeb8e4d390acb1ca329f01d558d8f8e8704
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4ee248e3db9b857c02c0b64a6ace0377934896da
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61958142"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62653386"
 ---
 # <a name="editing-files-in-sharepoint"></a>Bearbeiten von Dateien in SharePoint
 

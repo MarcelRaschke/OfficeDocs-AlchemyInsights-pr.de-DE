@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "4498"
-ms.openlocfilehash: bbc9fc329574c5f4b586ad58d461480c92b0cb94
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d7e035018bfa10e918446892e651d1aba00fa055
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61966634"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62653458"
 ---
 # <a name="editing-onenote-notebooks-in-teams"></a>Bearbeiten von OneNote-Notizbüchern in Teams
 

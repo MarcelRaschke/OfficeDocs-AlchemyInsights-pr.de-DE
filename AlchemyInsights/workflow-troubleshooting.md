@@ -14,18 +14,18 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: 625cf873a796271c9010a12e1495d2e6d92c9fb6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6561930dd8214eeced88f81bae5a779675b69889
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61986817"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62739890"
 ---
 # <a name="workflow-troubleshooting"></a>Workflowproblembehandlung
 
 Informationen zum Debuggen SharePoint Workflows:
-- Das Debuggen von Workflows ähnelt dem von früheren Versionen.  Weitere Informationen finden Sie unter [Debuggen SharePoint Workflows.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
-- Weitere Informationen zur Problembehandlung finden Sie unter [Problembehandlung bei SharePoint Server-Workflowvalidierungsfehlern.](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- Das Debuggen von Workflows ähnelt dem von früheren Versionen.  Weitere Informationen finden Sie unter [Debuggen SharePoint Workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- Weitere Informationen zur Problembehandlung finden Sie unter [Problembehandlung bei SharePoint Server-Workflowvalidierungsfehlern](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>Verwandte Themen

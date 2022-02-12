@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9775"
 - "9004342"
-ms.openlocfilehash: b667e699e1595b21d80788123de13daffbe79a35b1671e9d35eaa6cd980693db
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9427a9e940c315ab7fbcada662494115ecf474d5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54083085"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62739831"
 ---
 # <a name="working-with-authentication-libraries"></a>Arbeiten mit Authentifizierungsbibliotheken
 

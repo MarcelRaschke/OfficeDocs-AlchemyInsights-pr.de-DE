@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: b19b3cf229fd67f1df2b58b387b1f74818e35f48
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: a4af6c310573c242db4c3d536ac99f419e867d6a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324768"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62738297"
 ---
 # <a name="publish-sensitivity-labels"></a>Veröffentlichen von Vertraulichkeitsbezeichnungen
 

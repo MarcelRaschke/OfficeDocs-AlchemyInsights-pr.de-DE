@@ -6,13 +6,18 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: null
+ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
+ms.openlocfilehash: 0c256935ecaa4adfe993da46d6fb195731e33019
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62654178"
 ---
-
 # <a name="create-sharepoint-sites-using-templates"></a>Erstellen SharePoint Websites mithilfe von Vorlagen
 
 Die Möglichkeit, eine Website als Vorlage zu speichern, wird von modernen Kommunikations- oder Teamwebsites nicht unterstützt. Weitere Informationen zur Verwendung von Vorlagen finden Sie unter [Speichern, Herunter- und Hochladen einer SharePoint-Website als Vorlage](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
@@ -38,7 +43,7 @@ Möglicherweise fehlt der Vorlage ein [Feature](https://social.technet.microsoft
 
 - Es treten Probleme beim Anzeigen von Daten aus einer Liste auf, die eine Nachschlagespalte verwendet. Weitere Informationen finden Sie unter [Mithilfe einer Vorlage generierte Liste zeigt nicht die Daten aus der richtigen Nachschlageliste in SharePoint Online an](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
-Ausführlichere Informationen zu allgemeinen Problemen und Lösungen finden Sie unter [Erstellen und Verwenden von Websitevorlagen.](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)
+Ausführlichere Informationen zu allgemeinen Problemen und Lösungen finden Sie unter [Erstellen und Verwenden von Websitevorlagen](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 
 
 

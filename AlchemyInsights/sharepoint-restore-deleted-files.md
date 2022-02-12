@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 660ceb8e52be045e5a735a34a9e93d34d2b4c45b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a7d94bc91c7c28d31abb07d89e3b0f4788c2aa76
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61981246"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62692592"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Wiederherstellen einer gelöschten Datei oder eines gelöschten Ordners
 
@@ -24,7 +24,7 @@ SharePoint Online behält Sicherungen aller Inhalte über die tatsächliche Lös
 
 Wenn Sie ein Element oder eine Website aus Sharepoint löschen, wird es nicht sofort entfernt. Gelöschte Elemente werden für einen bestimmten Zeitraum in den Papierkorb verschoben. Während dieser Zeit können Sie die Dateien an ihrem ursprünglichen Speicherort wiederherstellen. Besuchen Sie die untenstehenden Links, um weitere Informationen zu erhalten.
 
-[Wiederherstellen von Elementen im Papierkorb einer SharePoint Website.](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
+[Wiederherstellen von Elementen im Papierkorb einer SharePoint Website](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be).
 
 [Wiederherstellen gelöschter Dateien oder Ordner in OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
@@ -32,11 +32,11 @@ Wenn Sie ein Element oder eine Website aus Sharepoint löschen, wird es nicht so
 
 [Wiederherstellen einer gelöschten OneDrive Website](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Bei Massenaktionen für Papierkorb können Administratoren die Verwendung von [Sharepoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps&preserve-view=true)in Betracht ziehen.
+Bei Massenaktionen für Papierkorb können Administratoren die Verwendung von [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps&preserve-view=true) in Betracht ziehen.
 
 **Dateiwiederherstellungsfeature**
 
-Wenn viele Ihrer OneDrive- oder SharePoint Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie Die gesamte OneDrive oder SharePoint Bibliothek mithilfe der Dateiwiederherstellungsfunktion auf ein früheres Mal wiederherstellen.
+Wenn viele Ihrer OneDrive oder SharePoint Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie die gesamte OneDrive oder SharePoint Bibliothek mithilfe der Dateiwiederherstellungsfunktion auf ein früheres Mal wiederherstellen.
 
 [Wiederherstellen einer OneDrive-Bibliothek](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 

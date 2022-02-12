@@ -14,12 +14,12 @@ ms.custom:
 - "1800021"
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: 7b6c17f8fbc000e679d3fcafeb19d5f298b6d451
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 827835a52bca4313bbf5839e356ca12062626fee
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61962400"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62654142"
 ---
 # <a name="creating-inbox-rules-for-shared-mailboxes"></a>Erstellen von Posteingangsregeln für freigegebene Postfächer
 

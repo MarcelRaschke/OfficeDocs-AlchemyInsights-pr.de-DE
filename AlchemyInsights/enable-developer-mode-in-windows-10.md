@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002955
-  - 5657
+- "9002955"
+- "5657"
+ms.openlocfilehash: 2e9adb6ac46e9899964fa13e9ea9a0e4697d530c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62653151"
 ---
-
 # <a name="enable-developer-mode-in-windows-10"></a>Aktivieren des Entwicklermodus unter Windows 10
 
 Der Entwicklermodus ist für Benutzer vorgesehen, die Anwendungen entwickeln und in der Lage sein müssen, mittels Sideloading auf Apps zuzugreifen und andere Entwicklerfunktionen zu nutzen, wie z. B. in Visual Studio eine App im Debuggingmodus auszuführen.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: 0a48c4590093ce92ba331a4d603b61b175683149
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: a36037f02f642c38970518053cd16c756acdb17d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58326888"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62738981"
 ---
 # <a name="create-an-email-signature-for-a-shared-mailbox"></a>Erstellen einer E-Mail-Signatur für ein freigegebenes Postfach
 
@@ -26,5 +26,5 @@ Jede Person, die das freigegebene Postfach verwendet, muss ihrer Signaturliste e
 
 1. Weitere Informationen zum Erstellen einer E-Mail-Signatur für jeden Postfachtyp finden Sie unter [Erstellen und Hinzufügen einer Signatur zu Nachrichten.](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2)
 
-    **Tipp:** Wenn Benutzer ihre freigegebene Adresse verwenden, müssen sie die gemeinsame Postfachsignatur als Standard festlegen.
+    **Tipp**: Wenn Benutzer ihre freigegebene Adresse verwenden, müssen sie die gemeinsame Postfachsignatur als Standard festlegen.
 1. Wenn sie dann wieder mit ihrer eigenen E-Mail-Adresse arbeiten, müssen sie die Signatur wieder ändern. Andernfalls wird die für die freigegebene Adresse als Standard verwendet.

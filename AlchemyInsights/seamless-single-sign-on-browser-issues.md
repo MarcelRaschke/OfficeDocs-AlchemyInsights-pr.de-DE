@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0cf851931ed990e56ef134005c46004fc824aa34
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54074283"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62693744"
 ---
 # <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Behandeln von Problemen mit dem Nahtlosen einmaligen Anmelden (Single Sign-On, SSO) im Browser
 

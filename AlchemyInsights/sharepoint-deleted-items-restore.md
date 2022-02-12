@@ -13,12 +13,12 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 4945fcbe9c223ce7534e2b6355dbfcb9d939e6dc
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e09a8290fc5e694d03a03be2008fd8e82adf7915
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61936373"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62692772"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Wiederherstellen gelöschter Elemente aus SharePoint
 
@@ -30,7 +30,7 @@ Wenn Sie Elemente oder Websites aus SharePoint löschen, werden diese nicht sofo
 
 - [Löschen von Elementen oder Leeren des Papierkorbs](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e#ID0EAADAAA=Online)
 
-- [Wiederherstellen einer gelöschten Websitesammlung (einschließlich Gruppe, Kommunikation und anderen Websites)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).
+- [Wiederherstellen einer gelöschten Websitesammlung (einschließlich Gruppe, Kommunikation und anderen Websites)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection )
 
 - [Wiederherstellen eines gelöschten OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
@@ -38,7 +38,7 @@ Wenn Sie Elemente oder Websites aus SharePoint löschen, werden diese nicht sofo
 
 **Dateiwiederherstellungsfeature**
 
-Wenn viele Ihrer OneDrive- oder SharePoint Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie Die gesamte OneDrive oder SharePoint Bibliothek mithilfe der Dateiwiederherstellungsfunktion auf ein früheres Mal wiederherstellen.
+Wenn viele Ihrer OneDrive- oder SharePoint-Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie die gesamte OneDrive oder SharePoint Bibliothek mithilfe der Dateiwiederherstellungsfunktion auf ein früheres Mal wiederherstellen.
 
 - [Wiederherstellen einer OneDrive-Bibliothek](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 

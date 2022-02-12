@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1743"
 - "9000140"
-ms.openlocfilehash: f69bcdb3fb51e610b172866e5db9804f24585d73
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9847738f87e885b4ac10fb193e645bba323f7a23
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61969987"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62654538"
 ---
 # <a name="control-automatic-updates-for-office-apps"></a>Steuern automatischer Updates für Office-Apps
 

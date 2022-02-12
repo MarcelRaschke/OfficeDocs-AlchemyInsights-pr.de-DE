@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 4ff574c19852cc680bb62caf1297f93b1a5401f1
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: e0fd23908d7619994e1c220e44d87ae7a4b6d07d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58326760"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62738333"
 ---
 # <a name="more-resources-on-alert-policies"></a>Weitere Ressourcen zu Warnungsrichtlinien
 

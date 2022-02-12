@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 1bb21a40ec98353a8fbc5c074a147f96209383ce
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 88a39da1e1ae3e7b81ce2a07c9345dfeef8091f2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736599"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62738454"
 ---
 # <a name="learn-about-ediscovery-related-roles-in-the-office-365-security--compliance-center"></a>Weitere Informationen zu eDiscovery-bezogenen Rollen finden Sie im Office 365 Security & Compliance Center
 

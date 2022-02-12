@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: bf96965b88789dedcc529a5faa54a0c9e9895cb3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5d54e379b5c3a0729f2cfc8ed3a2bfa03bb74ee9
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61856327"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62692016"
 ---
 # <a name="sign-out-of-outlook-on-the-web"></a>Abmelden von Outlook im Web
 

@@ -9,16 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 7531c25eed69d6d03e74c26b88d5bd698d869b52
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 957e445da1e4a3917b4e5c514842f8fbe5a003b4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61980670"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62692412"
 ---
 # <a name="desktop-app-for-sharepoint"></a>Desktop-App für SharePoint
 
 Ihre Organisation wird in das Private Preview-Programm für die Desktop-App für SharePoint eingegeben.
 
-Microsoft unterstützt derzeit die Desktop-App für SharePoint (private Vorschau). Verwenden Sie Ihre in die Liste aufgenommenen Microsoft Private Preview-Partner, um Unterstützung bei der Desktop-App für SharePoint zu erhalten.
+Microsoft unterstützt derzeit die Desktop-App für SharePoint (private Vorschau). Verwenden Sie Ihre ausgewählten Microsoft Private Preview-Partner, um Unterstützung bei der Desktop-App für SharePoint zu erhalten.
 

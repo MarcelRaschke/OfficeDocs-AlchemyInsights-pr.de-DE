@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: e52b2bdd5d8aaa6a20a5205676dc560f5a364c3a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b2a6f529c65aefc0cf8b25f376847037a0ef2029
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61947635"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62692497"
 ---
 # <a name="sharepoint-workflows-retiring"></a>SharePoint-Workflows werden eingestellt
 

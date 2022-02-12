@@ -7,19 +7,24 @@ ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 9000144
-  - 1670
+- "9000144"
+- "1670"
+ms.openlocfilehash: b73ac3e5541dbaf9819d315ad9620050230cccf4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62739818"
 ---
-
 # <a name="workflow-is-not-starting"></a>Workflow wird nicht gestartet
 
 - SharePoint 2010- und SharePoint 2013-Workflows werden nicht gestartet.
 
-    - Wenn Ihr Workflow nicht gestartet wird, kann es zu einem temporären Dienstproblem kommen, bei dem Es bei Benutzern zu zeitweiligen Verzögerungen beim Workflowfortschritt kommen kann. Überprüfen Sie das [Dienststatus-Dashboard,](https://admin.microsoft.com/AdminPortal/Home/servicehealth) um festzustellen, ob Ihre Organisation betroffen ist.
+    - Wenn Ihr Workflow nicht gestartet wird, kann es zu einem temporären Dienstproblem kommen, bei dem Es bei Benutzern zu zeitweiligen Verzögerungen beim Workflowfortschritt kommen kann. Überprüfen Sie das [Dienststatus-Dashboard](https://admin.microsoft.com/AdminPortal/Home/servicehealth) , um festzustellen, ob Ihre Organisation betroffen ist.
 
     - Wenn seit dem ersten Auftreten dieses Problems mehr als 24 Stunden vergangen sind, melden Sie sich bitte ein Supportticket an. In vielen Fällen arbeiten wir bereits an einer Lösung. Bitte geben Sie uns mindestens 24 Stunden Zeit, um eine Lösung abzuschließen.
 
