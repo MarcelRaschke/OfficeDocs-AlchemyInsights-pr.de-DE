@@ -15,12 +15,12 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.date: 08/05/2021
-ms.openlocfilehash: 91dd1d021a87b01f5f03cbe1ef60fbdb1b71c903
-ms.sourcegitcommit: d5143738025187f6b7aef801d7c992de97c9d78e
+ms.openlocfilehash: 71c9ad5aeb379eae0b2135dbc240868c968d7d7b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62471567"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62689424"
 ---
 # <a name="change-app-license-quantity"></a>Ändern der App-Lizenzmenge
 
@@ -34,7 +34,7 @@ Sie können die Anzahl der Lizenzen anzeigen oder ändern, die Sie besitzen, und
 2. Suchen Sie auf der Registerkarte **"Produkte** " im Abschnitt **"Apps** " nach der App, die Sie verwalten möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **"Lizenzen kaufen**" aus.
 3. Wenn Sie die Anzahl der Lizenzen reduzieren möchten, wählen Sie oben im Bereich **"Lizenzen kaufen** " die Option **"Lizenzen entfernen"** aus.
 4. Um Lizenzen zu kaufen oder zu entfernen, geben Sie unter **"Neue Menge** " im Feld **"Lizenzen insgesamt** " die Gesamtanzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen. Wenn Sie beispielsweise 100 Lizenzen haben und fünf weitere hinzufügen möchten, geben Sie 105 ein. Wenn Sie fünf davon entfernen möchten, geben Sie 95 ein.
-5. Klicken Sie auf **Speichern**.
+5. Wählen Sie **Speichern**.
 
 ## <a name="to-assign-app-licenses"></a>So weisen Sie App-Lizenzen zu
 

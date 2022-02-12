@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002605
-  - 5022
+- "9002605"
+- "5022"
+ms.openlocfilehash: a4cd54bf9f089386399f0bc4fc30b8b685c2c4c4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62689064"
 ---
-
 # <a name="change-billing-account-information"></a>Ändern der Kontoinformationen
 
 Auf der Seite der Abrechnungskontodetails wird Ihr Kontoprofil angezeigt.
