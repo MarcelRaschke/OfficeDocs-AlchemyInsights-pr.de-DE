@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8642"
 - "9004625"
-ms.openlocfilehash: dfacce5203f63644ee9f8cf086a4e46e5f96263d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7f47dbd21a56635bc7fc5beedbc6a218f6f164ee
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61958250"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62721501"
 ---
 # <a name="learn-how-microsoft-edge-supports-identity-dependent-security-features"></a>Erfahren Sie, wie Microsoft Edge identitätsabhängige Sicherheitsfeatures unterstützt
 

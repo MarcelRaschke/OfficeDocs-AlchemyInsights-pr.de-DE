@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 7b113ad1b224807f3edc5cfa2cb20085d6071c64
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7ce5837d4934e3492a1e0b7a9b5c985d822ad772
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960123"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62674771"
 ---
 # <a name="associate-existing-site-with-a-hub-site"></a>Zuordnen einer vorhandenen Website zu einer Hubwebsite
 
@@ -26,7 +26,7 @@ Gehen Sie folgendermaßen vor, um ihrer Hubwebsite eine vorhandene Website zuzuo
   
 1. Wählen Sie auf Ihrer Website **Einstellungen** aus (das Zahnradsymbol in der oberen rechten Ecke), und wählen Sie dann **Websiteinformationen** aus.
 
-2. Wählen Sie im **Bereich "Websiteinformationen bearbeiten"** im Kontextmenü der **Hubwebsite** die Hubwebsite aus, die Sie Ihrer Website zuordnen möchten, und klicken Sie dann auf **"Speichern".** Das Erscheinungsbild Ihrer Website wird sich so ändern, dass es dem der Hubwebsite entspricht, und die Navigationsleiste der Hubwebsite wird oben angezeigt.
+2. Wählen Sie im **Bereich "Websiteinformationen bearbeiten** " im **Kontextmenü der Hubwebsite** die Hubwebsite aus, die Sie Ihrer Website zuordnen möchten, und klicken Sie dann auf **"Speichern**". Das Erscheinungsbild Ihrer Website wird sich so ändern, dass es dem der Hubwebsite entspricht, und die Navigationsleiste der Hubwebsite wird oben angezeigt.
 
 >**Hinweis**
 >

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 935f8b7edd65135ff2dbc9b251998d3b2b5005b3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 50a21f64a70e738e663edebf9ffc113404a58059
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61950119"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62749236"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>AllowSelfServicePurchase-Richtlinie kann nicht festgelegt oder angezeigt werden
 
@@ -28,7 +28,7 @@ Beim Versuch, die AllowSelfServicePurchase-Richtlinie festzulegen oder anzuzeige
 Dies kann auf eine ältere Version von Transport Layer Security (TLS) zurückzuführen sein. Um den MSTeroperabilität-Dienst zu verbinden, müssen Sie TLS 1.2 oder höher verwenden.  
 
 Führen Sie die folgenden Schritte aus, um das TLS-Protokoll auf 1.2 zu aktivieren/festzulegen, es zu überprüfen und erneut zu versuchen.
- 1. Geben Sie an der PowerShell-Eingabeaufforderung (PS C: \) Geben Sie den folgenden Befehl ein, um das TLS-Protokoll auf Version 1.2 festzulegen:
+ 1. Geben Sie an der PowerShell-Eingabeaufforderung (PS C:\) Geben Sie den folgenden Befehl ein, um das TLS-Protokoll auf Version 1.2 festzulegen:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 

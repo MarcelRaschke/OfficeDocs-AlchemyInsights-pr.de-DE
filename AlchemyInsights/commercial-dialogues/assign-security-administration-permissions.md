@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: a1be177e9a86f96812c019f7247edcb9b05af974
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 797a08565196cbae65a344a56ce88b9e36fe5026
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315791"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62749007"
 ---
 # <a name="assign-the-security-administrator-permission"></a>Zuweisen der Berechtigung „Sicherheitsadministrator“
 

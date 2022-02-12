@@ -6,20 +6,25 @@ manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-  - 1484
-  - 6200024
+- "1484"
+- "6200024"
+ms.openlocfilehash: 4c5487e9ae4bdb177853294088ff2227dd14a743
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62721645"
 ---
-
 # <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Falsches Dashboard in der einheitlichen Dynamics 365-Schnittstelle
 
 Es gibt mehrere Gründe, warum Sie möglicherweise ein anderes Dashboard sehen als das, das Sie erwarten:
 
 ## <a name="the-user-has-set-a-user-default-dashboard"></a>Der Benutzer hat ein Benutzerstandarddashboard festgelegt. 
 
-In der Regel können Sie festlegen, dass ein Benutzerstandarddashboard festgelegt ist, wenn die Schaltfläche **"Als Standard festlegen"** nicht in der Dashboard-Befehlsleiste angezeigt wird. Das Standarddashboard des Benutzers überschreibt alle anderen Standarddashboards, auch wenn sich das Standarddashboard des Benutzers nicht in der aktuellen App befindet.
+In der Regel können Sie festlegen, dass ein Benutzerstandarddashboard festgelegt ist, wenn die Schaltfläche **"Als Standard festlegen** " nicht in der Dashboard-Befehlsleiste angezeigt wird. Das Standarddashboard des Benutzers überschreibt alle anderen Standarddashboards, auch wenn sich das Standarddashboard des Benutzers nicht in der aktuellen App befindet.
 
 Verwenden Sie die folgende Problemumgehung, um das Standarddashboard aufzuheben.
 

@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: a3a7f79c397f4f6c1ab3afba87bdb11a7f2b82de
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b9aee7bfe479e8c2355a0102d304990a1b0fccb8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989882"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62721177"
 ---
 # <a name="installing-teams-on-vdi-environments"></a>Installieren von Teams in VDI-Umgebungen
 
-Informationen zum Bereitstellen von Teams auf gemeinsam genutzten Computern, Remotedesktopdiensten (RDS) oder VDI (Virtual Desktop Infrastructure) finden Sie unter [Freigegebene Computer- und VDI-Umgebungen mit Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)
+Informationen zum Bereitstellen von Teams auf gemeinsam genutzten Computern, Remotedesktopdiensten (RDS) oder virtueller Desktopinfrastruktur (Virtual Desktop Infrastructure, VDI) finden Sie unter [Freigegebene Computer- und VDI-Umgebungen mit Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).

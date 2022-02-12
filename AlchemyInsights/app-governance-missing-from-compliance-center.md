@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12678"
 - "9007647"
-ms.openlocfilehash: b18707f761f3e0e4d1b73cef6dbf5dbbce81ff94
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: ab3a0471240176e39fb87e55533fe049b2ff8a38
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61938739"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62627547"
 ---
 # <a name="app-governance-missing-from-microsoft-365-compliance-center"></a>App-Governance fehlt im Microsoft 365 Compliance Center
 

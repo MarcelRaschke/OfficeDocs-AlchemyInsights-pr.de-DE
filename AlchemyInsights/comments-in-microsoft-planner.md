@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9001717
-  - 3810
+- "9001717"
+- "3810"
+ms.openlocfilehash: d8b79fa1a4ad719cb546a785d351f64af0908287
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62749043"
 ---
-
 # <a name="comments-in-microsoft-planner"></a>Kommentare in Microsoft Planner
 
 Kommentare zu Aufgaben innerhalb eines Plans werden im Exchange Online-Postfach für die dem Plan zugeordnete Microsoft 365-Gruppe gespeichert.  Wenn Sie einen Kommentar zu einer Aufgabe posten, wird eine E-Mail-Benachrichtigung an den Posteingang der Gruppe gesendet, und Sie erhalten eine E-Mail für jeden nachfolgenden Kommentar zu dieser Aufgabe.

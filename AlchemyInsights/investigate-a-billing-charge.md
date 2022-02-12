@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 96d22529d9e1d9afc07c4ecd122ef6995a3e2df2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 060c622953ca37ae7b954fa93a673152f9a0c8fb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989414"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62720961"
 ---
 # <a name="investigate-a-billing-charge-from-microsoft-or-msbill-dot-info"></a>Untersuchen einer Abrechnungsgebühr von Microsoft oder MSbill dot info
 
