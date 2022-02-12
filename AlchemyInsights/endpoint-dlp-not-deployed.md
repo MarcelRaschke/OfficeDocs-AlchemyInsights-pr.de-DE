@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11470"
 - "9000292"
-ms.openlocfilehash: 3e3d3313dc5de3e4ebd542cd9f1404cf881cceaa
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 17c7e7c7c0e7a162134e2a0d747851cd6131475a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61946914"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62640124"
 ---
 # <a name="endpoint-dlp-not-deployed-to-users-device"></a>Verhinderung von Datenverlust am Endpunkt auf dem Gerät des Benutzers nicht bereitgestellt
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11229"
 - "9005487"
-ms.openlocfilehash: dff1899b501addfb7dd1d4b0d8fcf8c50996137f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 41377e229c872d2141c4f83f3159c115522fd8eb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61982889"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62603651"
 ---
 # <a name="microsoft-defender-smartscreen"></a>Microsoft Defender Smartscreen
 

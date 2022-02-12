@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b0d7377f4354a0f1ebe8b7df2ee8357528f8bc0b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976000"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62603471"
 ---
 # <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge Benutzer-Agent-Zeichenfolge (Desktop)
 

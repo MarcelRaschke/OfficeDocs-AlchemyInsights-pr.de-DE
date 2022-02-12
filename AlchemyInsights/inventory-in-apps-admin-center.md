@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003533"
 - "13813"
-ms.openlocfilehash: a57e0bc298971983524585517e93bdb59588ecef
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9c7a33bef6bc9a900ec7162e7631d9e1918cf855
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61966958"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62604119"
 ---
 # <a name="inventory-in-microsoft-365-apps-admin-center"></a>Inventar im Microsoft 365 Apps Admin Center
 
-Die [Seite "Inventar"](https://docs.microsoft.com/deployoffice/admincenter/inventory) im Microsoft 365 Apps Admin Center bietet Ihnen Einblicke in den Status Office Installationen auf Geräten in Ihrer Organisation. 
+Die [Seite "Bestand"](https://docs.microsoft.com/deployoffice/admincenter/inventory) im Microsoft 365 Apps Admin Center bietet Ihnen Einblicke in den Status Office Installationen auf Geräten in Ihrer Organisation. 
 
 Weitere Informationen finden Sie unter:
 

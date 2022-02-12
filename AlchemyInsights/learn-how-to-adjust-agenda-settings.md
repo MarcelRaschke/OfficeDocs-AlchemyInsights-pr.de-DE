@@ -14,15 +14,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: 10aa9b32c50763d6d8c4a5db793204a7993a8498e5589312b54e2d02a14d7dcd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: aed6117d2941ad2c967ff552f0a28a298e3401d0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054113"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62755451"
 ---
 # <a name="learn-how-to-configure-agenda-settings"></a>Erfahren Sie, wie Sie Agendaeinstellungen konfigurieren
 
 Agenda-Einstellungen befinden sich in den **Kalendereinstellungen** in Outlook im Web. Weitere Informationen finden Sie unter [Kalendereinstellungen in Outlook im Web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
 
-Administratoren können das Cmdlet **"Set-CalendarNotification"** in Exchange Online PowerShell verwenden, um Agendaeinstellungen zu konfigurieren. Weitere Informationen finden Sie unter ["Set-CalendarNotification".](https://technet.microsoft.com/library/dd351284)
+Administratoren können das Cmdlet **"Set-CalendarNotification**" in Exchange Online PowerShell verwenden, um Agendaeinstellungen zu konfigurieren. Weitere Informationen finden Sie unter ["Set-CalendarNotification"](https://technet.microsoft.com/library/dd351284).

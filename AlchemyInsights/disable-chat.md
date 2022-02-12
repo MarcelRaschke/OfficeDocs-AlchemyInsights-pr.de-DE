@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: 916775263280f10ea7f06d6d38c40e1c6f123744
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4b8b268471912bb5ad2469f6f93905245adaf1f2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61863832"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62640403"
 ---
 # <a name="disable-chat"></a>Deaktivieren des Chats
 

@@ -7,14 +7,19 @@ ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 6446
-  - 6700004
+- "6446"
+- "6700004"
+ms.openlocfilehash: 104f135cd981f1ba05b038475ced9b09501f122b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62604191"
 ---
-
 # <a name="intune-win32-app-deployment"></a>Intune Win32 App-Bereitstellung
 
 Mit Microsoft Intune können Win32-Anwendungen, einschließlich aber nicht beschränkt auf MSI und .EXE, auf Windows 10-Geräten bereitgestellt werden. Für den verwendeten Bereitstellungsmechanismus muss die Intune-Verwaltungserweiterung (IME) auf dem Zielgerät installiert sein. Die IME wird automatisch installiert, wenn ein PowerShell-Skript ausgeführt wird, oder eine Win32-Anwendung für einen Benutzer/auf ein Benutzergerät bereitgestellt wird.

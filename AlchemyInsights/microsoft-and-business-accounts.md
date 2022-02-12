@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "4747"
-ms.openlocfilehash: 88bb1d21451e1f4d1dda337df76fa411169b7ee9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f597d8aceba54e99d0f3e7e80dfcc15d7d230f3c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61967465"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62603723"
 ---
 # <a name="microsoft-and-business-accounts"></a>Microsoft und Geschäftskonten
 

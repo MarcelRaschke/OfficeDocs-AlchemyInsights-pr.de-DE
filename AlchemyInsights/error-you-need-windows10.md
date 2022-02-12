@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9797"
 - "9005484"
-ms.openlocfilehash: cf175491a1e48f5c9cc06050b6d331f6dfe34a21
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: ea46b07723a20655ce22341028daa698f35dea3c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61972545"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62640003"
 ---
 # <a name="error-you-need-windows-10-to-continue"></a>Fehler: Sie benötigen Windows 10, um den Vorgang fortzusetzen.
 
