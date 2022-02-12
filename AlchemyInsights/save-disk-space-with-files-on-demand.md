@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003530"
 - "6878"
-ms.openlocfilehash: 18a6165a271e575830415c4513f2c47b1527e4b5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b7d46cf7d97351f4ad658280582f6a0edbdfc4df
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61860766"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62585506"
 ---
 # <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Sparen von Speicherplatz mit OneDrive-Dateien bei Bedarf für Mac
 

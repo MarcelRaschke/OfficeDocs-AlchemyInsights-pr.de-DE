@@ -14,12 +14,12 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: efa2efa4f14c49c4624116c2f1a3959c4c10f639
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 14a5a8e60d9413140f744d519c86afd52b8e14c4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61983537"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62585398"
 ---
 # <a name="account-is-restricted-for-sending-too-much-spam"></a>Konto wegen des Versands von zu viel Spam eingeschränkt
 
