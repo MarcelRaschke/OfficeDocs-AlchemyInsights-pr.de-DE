@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10103"
 - "9005694"
-ms.openlocfilehash: 44c0336e16ff0e2f0fb9e7884b3f964d116e4dab
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2b8a2809c9b1404418d57c35302af791c4f61382
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61958070"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62683964"
 ---
 # <a name="i-have-a-damaged-microsoft-accessory"></a>Ich habe ein beschädigtes Microsoft-Zubehörteil
 

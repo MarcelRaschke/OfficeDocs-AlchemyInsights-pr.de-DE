@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 815ceb2e0a1301ee13075a8e719c816bee4bb845
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901467"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62683339"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft-Bedrohungsexperten – Benachrichtigung über gezielte Angriffe
 
@@ -26,7 +26,7 @@ Die Benachrichtigung über gezielte Angriffe ist eine der beiden Microsoft-Bedro
 
 Wenn Sie Ein Kunde von Microsoft Defender für Endpunkt sind, müssen Sie Microsoft-Bedrohungsexperten – Benachrichtigungen über gezielte Angriffe beantragen, um spezielle Einblicke und Analysen zu erhalten, die ihnen helfen, die kritischsten Bedrohungen zu identifizieren, damit Sie schnell darauf reagieren können.
 
-Wenn Sie sich für Microsoft-Bedrohungsexperten – Vorteile von gezielten Angriffsbenachrichtigungen registrieren möchten, wechseln Sie zu **Einstellungen**  >  **Allgemeinen**  >  **erweiterten Features** Microsoft-Bedrohungsexperten –  >  **Zutreffende gezielte Angriffsbenachrichtigungen.** Nach der Annahme erhalten Sie die Vorteile von Benachrichtigungen über gezielte Angriffe.
+Wenn Sie sich für Microsoft-Bedrohungsexperten – Vorteile von gezielten Angriffsbenachrichtigungen – registrieren möchten, wechseln **Sie** >  zu Einstellungen **GeneralAdvanced-Features** >  >  **Microsoft-Bedrohungsexperten – Anzuwendende gezielte Angriffsbenachrichtigungen**. Nach der Annahme erhalten Sie die Vorteile von Benachrichtigungen über gezielte Angriffe.
 
 Sie können eine gezielte Angriffsbenachrichtigung von Microsoft-Bedrohungsexperten über das folgende Medium erhalten:
 
@@ -38,4 +38,4 @@ Sie können eine gezielte Angriffsbenachrichtigung von Microsoft-Bedrohungsexper
 
 Um gezielte Angriffsbenachrichtigungen per E-Mail zu erhalten, erstellen Sie eine E-Mail-Benachrichtigungsregel. 
 
-Weitere Informationen finden Sie unter [Konfigurieren und Verwalten Microsoft-Bedrohungsexperten Funktionen.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)
+Weitere Informationen finden [Sie unter Konfigurieren und Verwalten Microsoft-Bedrohungsexperten Funktionen](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).

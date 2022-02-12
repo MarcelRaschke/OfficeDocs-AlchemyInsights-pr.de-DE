@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 8126886e5a2acd0ab5e9e718769e992c4fcb64fa
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0b411a452e4bc93dc246b5dba6036cf29b340e04
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61948391"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62608295"
 ---
 # <a name="changing-shared-mailbox-send-as-behavior"></a>Ändern des Verhaltens beim Senden als freigegebenes Postfach
 
 Nachrichten, die aus dem freigegebenen Postfach gesendet wurden, werden standardmäßig nicht im Ordner "Gesendete Elemente" dieses Postfachs gespeichert. Stattdessen werden sie im Ordner "Gesendete Elemente" der Person gespeichert, die die Nachricht gesendet hat.
   
-Wenn die gesendete E-Mail für alle Mitglieder angezeigt werden soll, bearbeiten Sie im Microsoft 365 Admin Center die freigegebenen Postfachdetails, und wählen Sie **"Gesendete Elemente** \> **bearbeiten"** aus.
+Wenn die gesendete E-Mail für alle Mitglieder angezeigt werden soll, bearbeiten Sie im Microsoft 365 Admin Center die freigegebenen Postfachdetails, und wählen Sie **"Gesendete Elemente** **bearbeiten**" aus\>.
   
-Weitere Informationen finden Sie unter [Konfigurieren der Einstellungen für freigegebene Postfächer.](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies)
+Weitere Informationen finden Sie unter [Konfigurieren der Einstellungen für freigegebene Postfächer](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies).
   

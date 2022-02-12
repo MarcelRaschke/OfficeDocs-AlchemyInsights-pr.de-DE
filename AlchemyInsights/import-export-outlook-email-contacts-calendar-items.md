@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002365"
 - "4594"
-ms.openlocfilehash: 849c2c394380ae7b4c7e1e17b6e8682c021486c9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: db232423b3933730d4cdf56a745031cd3d0829ae
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61957347"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62683963"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importieren und Exportieren von Outlook-E-Mails, -Kontakten und -Kalenderelementen
 

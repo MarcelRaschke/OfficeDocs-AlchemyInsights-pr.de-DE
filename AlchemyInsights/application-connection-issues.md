@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004326"
 - "7825"
-ms.openlocfilehash: 4f8d97d4820e2fad5d3bdf314370236b509b6081dc5f87078995282e72da0c18
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 94b9677697a83a2289d24cbb7a8644ddffbc5204
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53931531"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62644332"
 ---
 # <a name="application-connection-issues"></a>Probleme mit der Anwendungsverbindung
 
@@ -25,12 +25,12 @@ ms.locfileid: "53931531"
 
 **Problembehandlung beim Anwendungsproxy-Agent-Connector**
 
-Hilfe, wenn die Installation eines Connectors fehlschlägt, finden Sie unter [Problem beim Installieren des Anwendungsproxy-Agent-Connectors.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem)
+Hilfe, wenn die Installation eines Connectors fehlschlägt, finden Sie unter [Problem beim Installieren des Anwendungsproxy-Agent-Connectors](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem).
 
-[Das Debuggen von Problemen mit anwendungsproxykonnektoren](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) hilft Ihnen bei der Behandlung von Problemen mit Azure Active Directory (Azure AD)-Anwendungsproxyconnectors. Wenn Sie den Anwendungsproxydienst für den Remotezugriff auf eine lokale Webanwendung verwenden, aber Probleme beim Herstellen einer Verbindung mit der Anwendung haben, verwenden Sie dieses Flussdiagramm, um Connectorprobleme zu debuggen.
+[Das Debuggen von Problemen mit anwendungsproxykonnektoren](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) hilft Ihnen bei der Behandlung von Problemen mit Azure Active Directory (Azure AD) Anwendungsproxyconnectors. Wenn Sie den Anwendungsproxydienst für den Remotezugriff auf eine lokale Webanwendung verwenden, aber Probleme beim Herstellen einer Verbindung mit der Anwendung haben, verwenden Sie dieses Flussdiagramm, um Connectorprobleme zu debuggen.
 
-[Für eine Anwendungsproxyanwendung wurde keine Arbeitsconnectorgruppe gefunden,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) um die häufig auftretenden Probleme zu beheben, wenn kein Connector für eine in Azure Active Directory integrierte Anwendungsproxyanwendung erkannt wurde.
+[Für eine Anwendungsproxyanwendung wurde keine Arbeitsconnectorgruppe gefunden](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector), um die häufig auftretenden Probleme zu beheben, wenn kein Connector für eine in Azure Active Directory integrierte Anwendungsproxyanwendung erkannt wurde.
 
 **Problembehandlung bei der Integration von Cisco AnyConnect**
 
-Informationen zur Integration von Cisco AnyConnect in Azure Active Directory (Azure AD) finden Sie im [Lernprogramm: Azure Active Directory SSO-Integration (Single Sign-On) mit Cisco AnyConnect.](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect)
+Informationen zur Integration von Cisco AnyConnect in Azure Active Directory (Azure AD) finden Sie im [Lernprogramm: Azure Active Directory SSO-Integration (Single Sign-On) mit Cisco AnyConnect](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect).

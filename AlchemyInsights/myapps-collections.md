@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7772"
 - "9004350"
-ms.openlocfilehash: b662813b01dc1663daa525d913ece9bad06f824350e575888306d2ace222d0e7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c2fad141ad0d14e060864ea744da7aa0d5d8bc4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53986152"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62683411"
 ---
 # <a name="myapps-collections"></a>„Meine Apps“-Sammlungen
 

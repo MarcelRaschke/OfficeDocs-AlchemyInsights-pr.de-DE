@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: f07fa4a64fb64233f88cfbf0a681d6f2ab586c88
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7eee12be3c5e1765161a74efbbcc222540311f7b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313923"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62644440"
 ---
 # <a name="app-permission-policies"></a>App-Berechtigungsrichtlinien
 
-Mit [App-Berechtigungsrichtlinien](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)können Sie Folgendes tun:
-- Als Administrator können Sie App-Setuprichtlinien im [Microsoft Teams Admin Center](https://admin.teams.microsoft.com/policies/app-permission)verwalten.
+Mit [App-Berechtigungsrichtlinien](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies) können Sie Folgendes tun:
+- Als Administrator können Sie App-Setuprichtlinien im [Microsoft Teams Admin Center](https://admin.teams.microsoft.com/policies/app-permission) verwalten.
 - Steuern Sie, welche Apps Microsoft Teams Benutzern in Ihrer Organisation mithilfe einer globalen Richtlinie zur Verfügung stehen, oder [erstellen und weisen Sie benutzerdefinierte Richtlinien](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) zum Anpassen und Steuern des Benutzerzugriffs auf Apps zu. 
-**Hinweis:** Organisationsweite App-Einstellungen setzen die globale Richtlinie und alle benutzerdefinierten Richtlinien außer Kraft, die Sie erstellen und Benutzern zuweisen.
+**Hinweis**: Organisationsweite App-Einstellungen setzen die globale Richtlinie und alle benutzerdefinierten Richtlinien außer Kraft, die Sie erstellen und Benutzern zuweisen.
 - Sie können [App-Setuprichtlinien](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) verwenden, um Microsoft Teams anzupassen, um die Apps hervorzuheben, die für Ihre Benutzer am wichtigsten sind. 
 
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7742"
 - "9004337"
-ms.openlocfilehash: 84da33a2dece7183551a29d6a611baac71849e009402d798a231d570d1521033
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7cae92fd39377aeecb049183b8a50db11c6f3b77
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53970042"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62644368"
 ---
 # <a name="application--integration"></a>Anwendungsintegration
 
