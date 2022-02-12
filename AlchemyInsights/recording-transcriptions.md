@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13988"
 - "14"
-ms.openlocfilehash: fee5f2b85abbaf4566a07e658b21b63f84d5c5e2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 579f8dc90ccec6928b03524038d7e835df6917b9
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61867296"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62599032"
 ---
 # <a name="recording-transcriptions"></a>Aufzeichnen von Transkriptionen
 

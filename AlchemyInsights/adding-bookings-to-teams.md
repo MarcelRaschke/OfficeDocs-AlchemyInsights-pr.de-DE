@@ -14,12 +14,12 @@ ms.custom:
 - "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: 3353bce4c30f212c118d41507b3ffcd8c1fd1b6b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 93929ea157ed3f21e066f003f619eb8045f03b05
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61944898"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62628618"
 ---
 # <a name="adding-bookings-to-teams"></a>Hinzufügen von Bookings zu Teams
 

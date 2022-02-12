@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 6e403c10ca45dcc041596aa0d9d9988c1f8715a9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 69ccbfcee624d3f14811ee371fe5c4aff104714f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61944730"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62628222"
 ---
 # <a name="admin-password-reset"></a>Zurücksetzen des Administratorkennworts
 

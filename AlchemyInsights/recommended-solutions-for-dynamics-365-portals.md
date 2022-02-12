@@ -13,12 +13,12 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 29f6fb27cb9c4ead5c8d560747600360d2c9d8f1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: cc824db4f97cdac2b5c4a362da47791899f2acc9
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61988582"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62599114"
 ---
 # <a name="dynamics-365-portals-recommended-solutions"></a>Empfohlene Lösungen für Dynamics 365-Portale
 

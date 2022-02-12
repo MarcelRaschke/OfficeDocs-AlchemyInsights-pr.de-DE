@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7"
 - "13902"
-ms.openlocfilehash: 46c67c2c22c221e9f8487daab9b2aef7788ac6c1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4c1ff944acc66b56cca79f6154e5090b95ece1ad
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61944934"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62628726"
 ---
 # <a name="adding-a-sub-domain"></a>Hinzufügen einer Unterdomäne
 
@@ -25,10 +25,10 @@ Unterdomänen können derselben oder einem anderen Mandanten als der übergeordn
 
 Fügen Sie zuerst die übergeordnete Domäne und dann die Unterdomäne hinzu. Wenn sich die Unterdomäne im selben Mandanten befindet, ist keine zusätzliche Überprüfung erforderlich. Wenn Sie die Unterdomäne zu einem separaten Mandanten hinzufügen, ist der DNS-TXT-Eintrag für die Besitzüberprüfung erforderlich, bevor die Domäne und die zusätzlichen DNS-Einträge für die ausgewählten Dienste hinzugefügt werden.
 
-- Um eine Domäne oder Unterdomäne hinzuzufügen, folgen Sie dem Assistenten zum Hinzufügen von [Domänen,](https://admin.microsoft.com/Adminportal#/Domains/Wizard)oder fügen Sie die Domäne oder Unterdomäne manuell hinzu, indem Sie zu   >  **"Domänen**  >  **hinzufügen"** wechseln.
+- Um eine Domäne oder Unterdomäne hinzuzufügen, folgen [Sie dem Assistenten zum Hinzufügen von Domänen](https://admin.microsoft.com/Adminportal#/Domains/Wizard), oder fügen Sie die Domäne oder Unterdomäne manuell hinzu, indem Sie zu **"****SettingDomainsAdd** >  > **"-Domäne** wechseln.
 
 Bei Bedarf:
 
-- Um zu ändern, wer Ihre DNS-Einstellungen für eine vorhandene Domäne verwaltet, wechseln Sie zu **Einstellungen**  >  [**Domänen,**](https://admin.microsoft.com/Adminportal/Home#/Domains)aktivieren Sie das Kontrollkästchen neben der Domäne, und wählen Sie dann **DNS verwalten** aus. Wählen Sie im Assistenten Ihre **eigenen DNS-Einträge hinzufügen aus,** und schließen Sie den Assistenten ab.
-- Um einer von Microsoft erworbenen Domäne Unterdomänen hinzuzufügen, übertragen Sie die Domäne zuerst an eine andere Registrierungsstelle, und nehmen Sie dann die oben beschriebene Änderung vor, um Ihre eigenen DNS-Einträge zu verwalten. Anweisungen finden Sie unter [Übertragen einer Domäne von Microsoft auf einen anderen Host.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
-- Wenn Sie eine Fehlermeldung erhalten, dass Ihre Domäne bereits von anderen Mitgliedern oder Personen in Ihrer Organisation verwendet wird, müssen Sie zuerst dieses nicht verwaltete Konto übernehmen, bevor Sie die Domäne verwenden. Anweisungen finden Sie unter [Übernehmen eines nicht verwalteten Verzeichnisses als Administrator in Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/enterprise-users/domains-admin-takeover)
+- Um zu ändern, wer Ihre DNS-Einstellungen für eine vorhandene Domäne verwaltet, wechseln **Sie** >  zu Einstellungen [**Domänen**](https://admin.microsoft.com/Adminportal/Home#/Domains), aktivieren Sie das Kontrollkästchen neben der Domäne, und wählen Sie dann **DNS verwalten** aus. Wählen Sie im Assistenten Ihre **eigenen DNS-Einträge hinzufügen aus,** und schließen Sie den Assistenten ab.
+- Um einer von Microsoft erworbenen Domäne Unterdomänen hinzuzufügen, übertragen Sie die Domäne zuerst an eine andere Registrierungsstelle, und nehmen Sie dann die oben beschriebene Änderung vor, um Ihre eigenen DNS-Einträge zu verwalten. Anweisungen finden Sie unter [Übertragen einer Domäne von Microsoft auf einen anderen Host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
+- Wenn Sie eine Fehlermeldung erhalten, dass Ihre Domäne bereits von anderen Mitgliedern oder Personen in Ihrer Organisation verwendet wird, müssen Sie zuerst dieses nicht verwaltete Konto übernehmen, bevor Sie die Domäne verwenden. Anweisungen finden Sie unter [Übernehmen eines nicht verwalteten Verzeichnisses als Administrator in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/enterprise-users/domains-admin-takeover).

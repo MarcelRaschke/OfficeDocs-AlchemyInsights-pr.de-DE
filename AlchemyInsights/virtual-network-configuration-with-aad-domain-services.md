@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7927"
 - "9004397"
-ms.openlocfilehash: 03a6ec63ba8e2779b0fe3f0381606af2c0748f8b848baaa7cd88b61317bd7a5e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9df3a469039c0f4433cf4d8d67d468b08b3946fb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54072843"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62613659"
 ---
 # <a name="virtual-configuration-with-aad-domain-services"></a>Virtuelle Konfiguration mit AAD Domain Services
 

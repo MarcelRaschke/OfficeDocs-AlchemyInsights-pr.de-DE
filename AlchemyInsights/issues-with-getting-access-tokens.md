@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7776"
 - "9004351"
-ms.openlocfilehash: 1aefe1d11a35b22c0cec95e36270f4fcec2ef1c8bd3898e2834fdca6d3aaffda
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e56198b993944626da36304db9a4d2bc43072726
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054833"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62576091"
 ---
 # <a name="issues-with-getting-access-tokens"></a>Probleme mit dem Abrufen von Zugriffstokens
 

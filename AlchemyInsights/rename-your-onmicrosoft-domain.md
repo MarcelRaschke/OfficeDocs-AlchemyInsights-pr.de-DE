@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: ae14e066c550852d959c69cc347620d2d19da765
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0ccb64af3ffe5ccd07dc1b557b3213bd3dc5a016
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61867079"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62598862"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>Umbenennen Ihrer onmicrosoft.com Domäne
 
  **Sie können die "onmicrosoft.com"-Domäne nach der Registrierung nicht umbenennen**. Wenn beispielsweise die ursprüngliche Domäne, die Sie ausgewählt haben,  *fourthcoffee.onmicrosoft.com* war, können Sie sie nicht in  *fabrikam.onmicrosoft.com* ändern. Um eine andere onmicrosoft.com Domäne zu verwenden, müssten Sie ein neues Abonnement mit Microsoft 365 starten.
   
-Wenn Sie eine benutzerdefinierte Domäne wie *contoso.com* verwenden möchten, können Sie [eine hinzufügen, die Sie besitzen,](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) oder [eine von Microsoft kaufen.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)
+Wenn Sie eine benutzerdefinierte Domäne wie  *contoso.com*  verwenden möchten, können Sie [eine Domäne hinzufügen, die Sie besitzen](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) , oder [eine von Microsoft kaufen](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
   

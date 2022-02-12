@@ -14,14 +14,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: a4908bdaa1483b34909e425b39b7a38433f8e193294085e63bf08b267d967424
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48279baf6d30df355c2653e7dbe689e614f155da
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952932"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62628186"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Anpassen von Zeitzonen- und Spracheinstellungen in Outlook im Web
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Anpassen der Zeitzonen- und Spracheinstellungen in Outlook im Web
 
-Informationen zum Anpassen der Zeitzonen- und Spracheinstellungen in Outlook im Web, auf die Sie mit Ihrem Geschäfts-, Schul- oder Unikonto zugreifen, finden Sie unter [Ändern der Zeitzonen- und Spracheinstellungen in Outlook im Web.](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)
+Informationen zum Anpassen der Zeitzonen- und Spracheinstellungen in Outlook im Web, auf die Sie mit Ihrem Geschäfts-, Schul- oder Unikonto zugreifen, finden Sie unter [Ändern der Zeitzonen- und Spracheinstellungen in Outlook im Web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).
   

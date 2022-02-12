@@ -14,12 +14,12 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: cb9f06411b360a6e63b2cf41ccb349831a9dd3b4
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: aa184b9eb20908532a568111a963efeb31e1e28f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61945618"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62593174"
 ---
 # <a name="connect-a-sharepoint-site-to-a-group"></a>Herstellen einer Verbindung zwischen einer SharePoint-Website und einer Gruppe
 

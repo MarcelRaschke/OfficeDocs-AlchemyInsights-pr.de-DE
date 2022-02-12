@@ -12,12 +12,12 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 9b70b1b7d2ac743fbd80639546ef9494de8e524071833dc276403391c560bb6a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9e2f56d5e30b05dbc291cd48a00c645b574e5e7c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54011083"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62635926"
 ---
 # <a name="copy-and-paste-in-outlookcom"></a>Kopieren und Einfügen in Outlook.com
 

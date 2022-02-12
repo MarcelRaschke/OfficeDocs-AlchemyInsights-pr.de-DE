@@ -14,30 +14,30 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 0726ef44adfde5e54b2872b2cb89e46d9c119e35
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 285693d06cea6b129311bac267ff527e7965bc88
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61972725"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62593066"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopieren oder Verschieben von Elementen in einer SharePoint Dokumentbibliothek
 
 Sie können Dateien, Ordner und Links zu verschiedenen Speicherorten in einer Dokumentbibliothek kopieren und verschieben. Sie können Auch Elemente auf websites kopieren. 
   
-1. Navigieren Sie in einem Browser zu den Dateien, Ordnern oder Links, die Sie verschieben möchten, und klicken Sie dann auf **"Kopieren"** oder **"Wechseln zu".**
+1. Navigieren Sie in einem Browser zu den Dateien, Ordnern oder Links, die Sie verschieben möchten, und klicken Sie dann auf **"Kopieren"** oder " **Wechseln zu"**.
 
-    **Hinweis:** **Kopieren In** und **Verschieben sind** nicht verfügbar, wenn Sie die klassische Benutzeroberfläche von SharePoint Online verwenden.
+    **Hinweis**: **Kopieren In** und **Verschieben in** sind nicht verfügbar, wenn Sie die klassische Benutzeroberfläche von SharePoint Online verwenden.
   
-2. Wählen Sie unter **"Ziel auswählen"** den Speicherort aus, an den Sie die Elemente kopieren oder verschieben möchten, oder klicken Sie auf **"Websites durchsuchen",** um die vollständige Liste der Websites anzuzeigen.
+2. Wählen **Sie unter "Ziel auswählen**" den Speicherort aus, an den Sie die Elemente kopieren oder verschieben möchten, oder klicken Sie auf **"Websites durchsuchen** ", um die vollständige Liste der Websites anzuzeigen.
 
-    **Hinweis:** Wenn beim Kopieren von Elementen keine anderen Websites aufgeführt werden, wurde das Kopieren auf allen Websites nicht konfiguriert. Um es zu aktivieren, wechseln Sie zur Einstellungsseite des SharePoint Admin Centers, und klicken Sie auf **OK.**
+    **Hinweis**: Wenn beim Kopieren von Elementen keine anderen Websites aufgeführt werden, wurde das Kopieren auf allen Websites nicht konfiguriert. Um es zu aktivieren, wechseln Sie zur Einstellungsseite des SharePoint Admin Center, und klicken Sie auf **"OK**".
   
-    Um einen neuen Ordner zu erstellen, wählen Sie einen Speicherort in der Ordnerhierarchie aus, klicken Sie auf **"Neuer Ordner",** geben Sie einen Namen für den Ordner ein, und klicken Sie auf das Häkchen, um den Namen zu speichern.
+    Um einen neuen Ordner zu erstellen, wählen Sie einen Speicherort in der Ordnerhierarchie aus, klicken Sie auf **"Neuer Ordner**", geben Sie einen Namen für den Ordner ein, und klicken Sie auf das Häkchen, um den Namen zu speichern.
 
-3. Klicken Sie **hier auf "Kopieren",** oder **"Hier verschieben".**
+3. Klicken Sie **hier auf "Kopieren** ", oder **"Hier verschieben"**.
 
-    **Hinweis:** Sie können bis zu 500 MB Dateien und Ordner gleichzeitig kopieren. > Wenn Sie Dokumente mit Versionsverlauf kopieren, wird nur die neueste Version kopiert. Beim Verschieben von Dokumenten wird auch der Verlauf verschoben.
+    **Hinweis**: Sie können bis zu 500 MB Dateien und Ordner gleichzeitig kopieren. > Wenn Sie Dokumente mit Versionsverlauf kopieren, wird nur die neueste Version kopiert. Beim Verschieben von Dokumenten wird auch der Verlauf verschoben.
   
  Wenn eine Datei verschoben wird, wird sie weiterhin im Quellverzeichnis angezeigt, bis sie vollständig an das Ziel verschoben wurde, und dann wird sie gelöscht. Die Datei verbleibt im Papierkorb der Quellwebsites, nachdem die Verschiebung abgeschlossen ist, und unterliegt dem normalen Wiederverwendungszeitplan, es sei denn, ein Benutzer stellt sie aus dem Papierkorb wieder her.
 

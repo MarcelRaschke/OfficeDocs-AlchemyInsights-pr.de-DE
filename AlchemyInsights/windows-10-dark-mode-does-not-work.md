@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6245"
 - "9003346"
-ms.openlocfilehash: 4f5a13c33e09966c675eb95aa5954318dfb1b5e1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 79aff4e25d3eac9f2699c0b98ee6d687e7ce9531
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61874575"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62613407"
 ---
 # <a name="windows-10-dark-mode-does-not-work"></a>Der dunkle Modus von Windows 10 funktioniert nicht
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: 22fe19dc1c18d7d7e5459988e38778ade40e72fa
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 025160dd1db041f4c641021698f2e00a8bfc0994
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61963303"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62576163"
 ---
 # <a name="how-do-i-search-for-an-email"></a>Wie suche ich nach einer E-Mail?
 

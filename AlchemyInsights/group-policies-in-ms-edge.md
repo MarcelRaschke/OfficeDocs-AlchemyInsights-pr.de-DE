@@ -15,13 +15,13 @@ ms.custom:
 - "9004632"
 - "6890"
 - "8362"
-ms.openlocfilehash: 1722873149fdf416357b25ebd31a5c10665d145565130adaaee6cee30af0bdcb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 977cc47bcffe0dd562f15cadbdce21a988436860
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913462"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62605343"
 ---
 # <a name="group-policies-in-microsoft-edge"></a>Gruppenrichtlinien in Microsoft Edge
 
-Verwenden Sie die in Microsoft Edge (Version 77 oder höher) verfügbaren [Gruppenrichtlinien,](https://go.microsoft.com/fwlink/?linkid=2134623) um anzugeben, wie der Browser in Ihrer Organisation ausgeführt wird.
+Verwenden Sie die in Microsoft Edge (Version 77 oder höher) verfügbaren [Gruppenrichtlinien](https://go.microsoft.com/fwlink/?linkid=2134623), um anzugeben, wie der Browser in Ihrer Organisation ausgeführt wird.

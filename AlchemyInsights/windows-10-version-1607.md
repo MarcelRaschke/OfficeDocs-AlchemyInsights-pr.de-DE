@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003960"
 - "7016"
-ms.openlocfilehash: fc4f9cb1b04ae9bdebefe02d2f9d84216295a90f740b7ee8d0d7e92e478f3357
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 861ebc10cd663e4592121fd183ea6bdf31b6142f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53997817"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62613299"
 ---
 # <a name="whats-new-in-windows-10-version-1607"></a>Neuigkeiten in Windows 10, Version 1607
 

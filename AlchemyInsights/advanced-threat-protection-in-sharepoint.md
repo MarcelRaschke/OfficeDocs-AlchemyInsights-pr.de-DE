@@ -14,12 +14,12 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 20c6acea0847580213c39fb78d8e7a70025a9dca
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7587b9850efa49f20ad489725b9d51e4c4345a89
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61946518"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62628114"
 ---
 # <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft Defender für Office 365 in SharePoint und OneDrive
 

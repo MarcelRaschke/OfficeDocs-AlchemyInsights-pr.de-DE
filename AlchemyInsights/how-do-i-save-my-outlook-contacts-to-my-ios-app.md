@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: bf1a574868e123c453af4d6bd57a4626adf172f6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b594f21d1afaabfd9cb60930780e529ffb5cf5fb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61863243"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62576199"
 ---
 # <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Wie speichere ich meine Outlook Kontakte in meiner iOS-Kontakte-App?
 
 So speichern Sie Outlook Kontakte in Ihrem systemeigenen Adressbuch:
  
-1. Wechseln Sie zu **"Gerät Einstellungen**  >  **Kontakte",** und vergewissern Sie sich, dass das **Standardkonto** auf **iCloud** festgelegt ist. Beachten Sie, dass diese Einstellung nur verfügbar ist, wenn Ihrem Gerät mehrere Konten hinzugefügt wurden. Wenn kein Konto mit dem Gerät verbunden ist, werden Ihre Outlook Kontakte lokal gespeichert, aber nicht mit anderen Geräten synchronisiert.
+1. Wechseln Sie zu **"Device Einstellungen** >  **Contacts", und vergewissern** Sie sich, dass das **Standardkonto** auf **iCloud** festgelegt ist. Beachten Sie, dass diese Einstellung nur verfügbar ist, wenn Ihrem Gerät mehrere Konten hinzugefügt wurden. Wenn kein Konto mit dem Gerät verbunden ist, werden Ihre Outlook Kontakte lokal gespeichert, aber nicht mit anderen Geräten synchronisiert.
  
-2. Öffnen Sie Outlook für iOS, und wählen Sie in der linken Navigationsleiste das Einstellungen Zahnrad aus, wählen **Sie Ihr Konto aus,** und aktivieren Sie die Umschaltfläche **"Kontakte speichern".**
+2. Öffnen Sie Outlook für iOS, und wählen Sie in der linken Navigationsleiste den Einstellungen Zahnrad aus, wählen **Sie Ihr Konto aus**, und aktivieren Sie die Umschaltfläche "**Kontakte speichern**".
  
 Gespeicherte Kontakte werden unter den Kontakten in Ihrem iCloud-Konto hinzugefügt. Diese Kontakte werden mit allen Geräten synchronisiert, die mit demselben iCloud-Konto angemeldet sind. Beachten Sie, dass Sie kontakte nur jeweils von einem Gerät exportieren können.
  

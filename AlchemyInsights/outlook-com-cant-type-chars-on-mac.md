@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: 01d4a3a2a59afe797d8b43c86bbe382ab19ba029a64b0f66be11201201b9d319
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1ef2a067957eeff518f57f70f9cc87978770d43e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53984568"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62636142"
 ---
 # <a name="how-to-type-special-characters-on-a-mac"></a>Eingeben von Sonderzeichen auf einem Mac
 
-Um Sonderzeichen auf Ihrem Mac einzugeben, öffnen Sie das Menü **"Sonderzeichen"** mit der Tastenkombination ⌘   +  **Befehlssteuerungsbereich**  +  .
+Um Sonderzeichen auf Ihrem Mac einzugeben, öffnen Sie das Menü "**Sonderzeichen**" mit der Tastenkombination ⌘ **CommandControlSpace** +  + .
 
-Eine schnelle Verknüpfung für @ ist auch **ALT**  +  **64**.
+Eine schnelle Verknüpfung für @ ist auch **ALT64** + .

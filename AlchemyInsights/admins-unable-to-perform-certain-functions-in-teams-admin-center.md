@@ -16,12 +16,12 @@ ms.custom:
 - "5057"
 - "9000701"
 - "5067"
-ms.openlocfilehash: 19bfbf759b49f842fdb8d918a780bc32fc626ce2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f20c7fbb6a87cd640771b77fe5a8ddf6d402dfba
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61932650"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62628006"
 ---
 # <a name="admins-unable-to-perform-certain-functions-in-the-teams-admin-center"></a>Administratoren können bestimmte Funktionen im Teams Admin Center nicht ausführen.
 
