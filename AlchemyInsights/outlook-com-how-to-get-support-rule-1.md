@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000080
-ms.openlocfilehash: 32e8506013d9475b0440a1b2f5fe15454f07f737930655ec09aab7683d5f39e5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 36b08688cd436ecbd55ea1f688a4139b34182ab6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54096081"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62681683"
 ---
 # <a name="how-to-get-outlookcom-support"></a>So erhalten Sie Outlook.com-Support
 
