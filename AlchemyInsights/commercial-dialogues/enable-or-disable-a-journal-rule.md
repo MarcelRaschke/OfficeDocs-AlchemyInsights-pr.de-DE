@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: e877abb3ea5c6b1b578af3f1a7bfcbab7665ce20c71987eeb44d2c7e3a1b2c16
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 02962b27c6dbdc529340cb27170ac2c63d198fad
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058829"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62705913"
 ---
 # <a name="enable-or-disable-a-journal-rule"></a>Aktivieren oder Deaktivieren einer Journalregel
 
 Dazu gehen Sie so vor:
 
-1. Wechseln [Sie](https://go.microsoft.com/fwlink/p/?linkid=2059104)im Exchange Admin Center zu **Compliance-Verwaltungs-Journalregeln.**  >  
-2. Aktivieren Sie in der Listenansicht in der Spalte **"ON"** neben dem Namen der Regel das Kontrollkästchen, um die Regeln zu aktivieren, oder deaktivieren Sie es, um die Regel zu deaktivieren.
+1. Wechseln [Sie im Exchange Admin Center](https://go.microsoft.com/fwlink/p/?linkid=2059104) zu **compliance managementjournal** >  **rules**.
+2. Aktivieren Sie in der Listenansicht in der Spalte **"ON** " neben dem Namen der Regel das Kontrollkästchen, um die Regeln zu aktivieren, oder deaktivieren Sie es, um die Regel zu deaktivieren.

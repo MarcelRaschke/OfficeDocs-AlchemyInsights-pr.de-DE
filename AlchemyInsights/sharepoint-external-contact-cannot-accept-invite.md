@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 0ed52d29a7bb8a6aec572f14d32e83f1146ff769
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9e7b0adf97f1953d843f558ef0415445c53e19a3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61980562"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62707209"
 ---
 # <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>Ein externer Kontakt kann keine SharePoint Einladung annehmen.
 

@@ -14,16 +14,16 @@ ms.custom:
 - "271"
 - "8000016"
 ms.assetid: 052172e6-bee2-4466-b674-75187f0225e5
-ms.openlocfilehash: 5168de60b90e06bff119af5753e52047749681d2b7d1d3e7b632afe5607713a2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f7c823c8f1d355d51973733f9515e047d71a522f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54024781"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62708361"
 ---
 # <a name="delete-a-folder-in-outlookcom"></a>Löschen eines Ordners in Outlook.com
 
 1. Klicken Sie im linken Bereich mit der rechten Maustaste auf den Ordner oder Unterordner, den Sie löschen möchten, und wählen Sie **"Ordner löschen"** aus.
-2. Wählen Sie **"OK"** aus, um dies zu bestätigen.
+2. Wählen Sie zum Bestätigen **OK** aus.
 
-Weitere Informationen finden Sie unter [Arbeiten mit Nachrichtenordnern in Outlook.com.](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)
+Weitere Informationen finden Sie unter [Arbeiten mit Nachrichtenordnern in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).

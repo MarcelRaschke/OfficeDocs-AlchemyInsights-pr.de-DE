@@ -13,16 +13,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 70b3f0ca2393dcb3bc0f85755aac1f7608dd3134335704f6f48af43fb33b4af8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a2436d43aec9c9794b7fd63bd9543e92099faf23
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001939"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62709297"
 ---
 # <a name="how-to-right-click-on-a-mac"></a>So klicken Sie mit der rechten Maustaste auf einen Mac
 
-Auf Mac-Computern wird der Rechtsklick als sekundärer Klick oder Steuerelementklick bezeichnet. Wenn Ihre Maus, ihr Trackpad oder ein anderes Eingabegerät keine Schaltfläche mit der rechten Maustaste oder eine andere Möglichkeit zum Ausführen eines Rechtsklicks enthält, halten Sie die **Steuerelementtaste** auf der Tastatur gedrückt, während Sie klicken.
+Auf Mac-Computern wird der Rechtsklick als sekundärer Klick oder Steuerelementklick bezeichnet. Wenn Ihre Maus, Ihr Trackpad oder ein anderes Eingabegerät keine Schaltfläche mit der rechten Maustaste oder eine andere Möglichkeit zum Ausführen eines Rechtsklicks enthält, halten Sie die **Steuerelementtaste** auf der Tastatur gedrückt, während Sie klicken.
   
-Weitere Informationen zum [Apple-Support.](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409)
+Weitere Informationen hierzu können Sie dem [Apple-Support hinzufügen](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
   

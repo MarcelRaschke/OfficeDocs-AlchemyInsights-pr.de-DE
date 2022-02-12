@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002393"
 - "4666"
-ms.openlocfilehash: 5e035a73b24936d887df4e3cdfb3c03eb2889fe2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 127230ced3c42a4ea59e551920b8ae2d503940d5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61933942"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62707317"
 ---
 # <a name="set-up-skype-for-business-online"></a>Einrichten von Skype for Business Online.
 

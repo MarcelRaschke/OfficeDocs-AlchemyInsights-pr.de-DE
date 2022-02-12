@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002447"
 - "5526"
-ms.openlocfilehash: 9de99bad51bfe6d7cb103999f6181c4118f32371
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0cc0057e3fb2a481aed703628ff79dafbb872dbd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61868232"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62707641"
 ---
 # <a name="purchase-domestic-calling-plans"></a>Kaufen von Anrufplänen für Inlandsanrufe
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: b5c4bd0eef05da62729b53e06a612dcb79edc296
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: dcc03a2e7762eb59bb03b53415bcecadf227e17a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61934064"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62708541"
 ---
 # <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MS Commerce erfordert ein Konto des Unternehmens oder des Abrechnungsadministrators
 

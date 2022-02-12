@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: 924e195740e55c53b9605a9b9bd694a72cf9951006d1dc5e888023cd6e3f9d45
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d102164c6a0cb2076543e8236ec602cd9cb4c0b1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963822"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62709477"
 ---
 # <a name="how-to-add-and-manage-admins"></a>Hinzufügen und Verwalten von Administratoren
 
@@ -31,10 +31,10 @@ Um Ihr Abrechnungskonto für einen Microsoft-Kundenvertrag (MCA) zu verwalten, k
 2. Suchen Sie nach *Kostenverwaltung und Abrechnung*.
 3. Wählen Sie die Zugriffssteuerung (Access Control, IAM) in einem Bereich wie Abrechnungskonto, Abrechnungsprofil oder Rechnungsbereich aus, in dem Sie Zugriff gewähren möchten.
 4. Die IAM-Seite (Access Control) listet Benutzer und Gruppen auf, die jeder Rolle für diesen Bereich zugewiesen sind.
-5. Wenn Sie einem Benutzer Zugriff gewähren möchten, wählen Sie oben auf der Seite **"Hinzufügen"** aus. Wählen Sie in der Dropdownliste *"Rolle"* eine Rolle aus. Geben Sie die E-Mail-Adresse des Benutzers ein, dem Sie Zugriff gewähren möchten. Wählen Sie **Speichern** aus, damit die Rolle zugewiesen wird.
-6. Um den Zugriff für einen Benutzer zu entfernen, wählen Sie den Benutzer mit der Rollenzuweisung aus, die Sie entfernen möchten. Wählen Sie **"Entfernen" aus.**
+5. Wenn Sie einem Benutzer Zugriff gewähren möchten, wählen Sie oben auf der Seite " **Hinzufügen** " aus. Wählen Sie in der Dropdownliste *"Rolle* " eine Rolle aus. Geben Sie die E-Mail-Adresse des Benutzers ein, dem Sie Zugriff gewähren möchten. Wählen Sie **Speichern** aus, damit die Rolle zugewiesen wird.
+6. Um den Zugriff für einen Benutzer zu entfernen, wählen Sie den Benutzer mit der Rollenzuweisung aus, die Sie entfernen möchten. Wählen Sie **"Entfernen" aus**.
 
-**Empfohlene Dokumente**
+**Empfohlene Dokumentationen**
 
 - [Rollendefinitionen für die Abrechnung](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
 - [Rollen und Aufgaben für Abrechnungskonten](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)

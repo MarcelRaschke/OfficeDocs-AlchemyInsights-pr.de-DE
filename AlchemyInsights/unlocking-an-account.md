@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: fdeef4aca2d5c0f62077e97d804abef995966a9d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 73303c1538ece95d78ff7c3094213c9cb3db530a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61816766"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62706561"
 ---
 # <a name="unlocking-an-account"></a>Entsperren eines Kontos
 

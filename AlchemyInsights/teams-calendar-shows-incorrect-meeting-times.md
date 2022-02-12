@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003305"
 - "6206"
-ms.openlocfilehash: d8a0d57949c0302e32856eeff8f311f856d2be15
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c4487d08b4123d644526885d13cc0745eeb55941
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61866179"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62706813"
 ---
 # <a name="teams-calendar-shows-incorrect-meeting-times"></a>Teams-Kalender zeigt falsche Besprechungszeiten
 

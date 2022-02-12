@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: c4259668c500987b16a7a4f31e3be37c42b23d45efec35b522c95213680299f3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2ad079ddc8ac774e62a20f8aba4015504130c9c2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070647"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62706345"
 ---
 # <a name="create-employee-notice-templates"></a>Erstellen von Vorlagen für Mitarbeiterbenachrichtigungen
 
@@ -25,4 +25,4 @@ Dieser Schritt ist optional. Sie können benutzerdefinierte Benachrichtigungsvor
 
 Wenn Sie die Möglichkeit haben möchten, auf eine Richtlinienwarnung zu reagieren, indem Sie eine Erinnerung an den zugeordneten Mitarbeiter senden, müssen Sie mindestens eine Benachrichtigungsvorlage in Ihrer Organisation erstellen.
 
-Weitere Informationen hierzu finden Sie unter [Erstellen von Vorlagen für Mitarbeiterbenachrichtigungen.](https://go.microsoft.com/fwlink/?linkid=2129080)
+Weitere Informationen hierzu finden [Sie unter Erstellen von Vorlagen für Mitarbeiterbenachrichtigungen](https://go.microsoft.com/fwlink/?linkid=2129080).

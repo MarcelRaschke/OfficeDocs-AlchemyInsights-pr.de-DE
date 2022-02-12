@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6017"
 - "9003195"
-ms.openlocfilehash: 23f70b2992deb7ad7f5d19dd65d768e84c61debf
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b2cec29114ba1e7acac903e4d23a6b0b1007f097
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61868280"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62707929"
 ---
 # <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a>PowerPoint-Folien werden in Skype for Business auf Android-Geräten nicht angezeigt
 

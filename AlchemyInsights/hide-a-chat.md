@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003309"
 - "6203"
-ms.openlocfilehash: 3786dc516866c461fd904146c3c92e33d35c35a426b407d6b93d97fd11446ce9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 83852c2ba253ac9d886180ae24a15d32fff7dfe7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055589"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62709657"
 ---
 # <a name="hide-a-chat"></a>Ausblenden eines Chats
 
@@ -25,6 +25,6 @@ Sie können keinen ganzen Chat (oder eine Unterhaltung) löschen, aber sie könn
 
 So blenden Sie einen Chat aus:
 
-- Wählen Sie im Menü auf der linken Seite **"Chat"** aus.
+- Wählen Sie im Menü auf der linken Seite " **Chat** " aus.
 - Wählen Sie den Chat aus, den Sie ausblenden möchten.
-- Wählen Sie die drei Punkte (**...**) neben dem Chat aus, und wählen Sie dann **Ausblenden** aus.
+- Wählen Sie die drei Punkte (**...**) neben dem Chat aus, und wählen Sie dann **"Ausblenden**" aus.

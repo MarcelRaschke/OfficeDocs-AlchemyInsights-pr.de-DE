@@ -16,12 +16,12 @@ ms.custom:
 - "1500005"
 ms.date: 04/21/2020
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: f3a90cba1e04d824cbd1eb9e1336ab9d8c743d95
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 8c8a9ccdd9e12d9c693bb2cffc685d28538e7cd3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58842116"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62709693"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>Hilfe beim Verständnis der Umsatzsteuer
 

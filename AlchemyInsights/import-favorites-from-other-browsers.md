@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9450"
 - "9005491"
-ms.openlocfilehash: d24fb489786224320f0b98352f4fb4c62320f474
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5570355765e6a9b31d8ff5e155d72cf85c15d459
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61957275"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62709009"
 ---
 # <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a>Importieren von Favoriten aus einem anderen Browser als Internet Explorer, Google Chrome oder Mozilla Firefox
 

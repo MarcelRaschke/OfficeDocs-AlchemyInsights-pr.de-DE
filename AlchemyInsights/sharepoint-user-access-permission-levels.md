@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 8cd440d62a875a6f0a3917ed0973748eff14cca7
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a9b1791a782c09f892b6a3528f0b1d9c9ede5604
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61970635"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62706921"
 ---
 # <a name="user-permissions-in-sharepoint"></a>Benutzerberechtigungen in SharePoint
 
-Nachdem Sie eine SharePoint-Website erstellt haben, möchten Sie möglicherweise den Benutzerzugriff auf die Website oder ihren Inhalt ermöglichen oder einschränken. Die einfachste Möglichkeit zum Arbeiten mit Berechtigungen besteht darin, die [bereitgestellten Standardgruppen](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) und Berechtigungsstufen zu verwenden, die die gängigsten Szenarien abdecken. Bei Bedarf können Sie jedoch über die Standardebenen hinaus differenziertere Berechtigungen festlegen. Weitere Informationen finden Sie unter Grundlegendes zu [Berechtigungsstufen in SharePoint.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
+Nachdem Sie eine SharePoint-Website erstellt haben, möchten Sie möglicherweise den Benutzerzugriff auf die Website oder ihren Inhalt ermöglichen oder einschränken. Die einfachste Möglichkeit zum Arbeiten mit Berechtigungen besteht darin, die [bereitgestellten Standardgruppen](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) und Berechtigungsstufen zu verwenden, die die gängigsten Szenarien abdecken. Bei Bedarf können Sie jedoch über die Standardebenen hinaus differenziertere Berechtigungen festlegen. Weitere Informationen finden Sie unter [Grundlegendes zu Berechtigungsstufen in SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
 Weitere Informationen zum Verwalten bestimmter Berechtigungsstufen finden Sie unter den folgenden Links:
 
@@ -33,6 +33,6 @@ Weitere Informationen zum Verwalten bestimmter Berechtigungsstufen finden Sie un
 
 - [Ändern der Berechtigungen für einen Unterordner](https://support.office.com/article/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6)
 
-- [Freigeben SharePoint Dateien oder Ordnern in Microsoft 365](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Freigeben SharePoint Dateien oder Ordner in Microsoft 365](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
 - [Freigeben einer Website](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)

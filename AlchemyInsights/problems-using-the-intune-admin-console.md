@@ -7,14 +7,19 @@ ms.date: 07/29/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 1790
-  - 9000214
+- "1790"
+- "9000214"
+ms.openlocfilehash: e7383b7311350f6f3e43c72cba07284bb0e02b3b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62707713"
 ---
-
 # <a name="problems-using-the-intune-admin-console"></a>Probleme beim Verwenden der Intune-Verwaltungskonsole
 
 **"Zugriff verweigert" beim Navigieren im Intune-Verwaltungsportal.**

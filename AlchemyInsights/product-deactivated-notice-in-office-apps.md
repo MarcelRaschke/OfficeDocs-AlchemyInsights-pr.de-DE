@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: ed14f31ddd811decfdc86779b49ed559b646adcf
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5e97fec5be6189e31bfa9029bb4ba24c25018564
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61984294"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62707677"
 ---
 # <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Hinweis "Produkt deaktiviert" in Microsoft 365-Apps
 

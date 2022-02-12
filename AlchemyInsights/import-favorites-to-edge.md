@@ -15,12 +15,12 @@ ms.custom:
 - "11023"
 - "9005491"
 - "9006474"
-ms.openlocfilehash: b47d366d42f3e3bcb17033c78ccb63c5820dd603
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9b5855be8a6085060c7390ec8d565d16d8823dea
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61862978"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62708973"
 ---
 # <a name="import-favorites-from-google-chrome-or-mozilla-firefox-to-microsoft-edge"></a>Importieren von Favoriten aus Google Chrome oder Mozilla Firefox in Microsoft Edge
 
