@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9128"
 - "9004429"
-ms.openlocfilehash: 6aa928ee5001906c900492f3f262700e4da827c7
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4ef88e02f09c0562730ac5b3056c27822b3069ad
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61946878"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62710305"
 ---
 # <a name="fix-problems-with-the-download-installation-and-update-of-microsoft-edge"></a>Beheben von Problemen beim Herunterladen, Installieren und Aktualisieren von Microsoft Edge
 

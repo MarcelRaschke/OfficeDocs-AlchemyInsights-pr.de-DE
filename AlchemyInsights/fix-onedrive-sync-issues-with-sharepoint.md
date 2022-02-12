@@ -13,12 +13,12 @@ ms.custom:
 - "5800003"
 - "5724"
 ms.date: 01/21/2022
-ms.openlocfilehash: c7fa0c9e2e2042ef9a1ecd6861c597b4a1b980e7
-ms.sourcegitcommit: 5dcbecdebbf5042db0c86a12149ddd537d766c91
+ms.openlocfilehash: aad7a6cf2f85b73c69b35d38200146a4edb158dc
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62185290"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62710269"
 ---
 # <a name="fix-onedrive-sync-issues-with-sharepoint"></a>Beheben von Problemen mit der OneDrive-Synchronisation mit SharePoint
 
