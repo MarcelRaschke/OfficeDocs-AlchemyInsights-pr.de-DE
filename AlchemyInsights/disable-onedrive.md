@@ -14,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 082a51903187aa706e1dd9b356b4eb3b1486a4b9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e95155561aa35c6cf68f80206e9272ed27b67da2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61956517"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62735561"
 ---
 # <a name="disable-onedrive"></a>Deaktivieren OneDrive
 
@@ -31,7 +31,7 @@ Es gibt verschiedene Möglichkeiten, den Zugriff auf OneDrive und deren Dienste 
 
 [Deaktivieren OneDrive Websiteerstellung für einige Benutzer](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
-[Steuern des Zugriffs auf SharePoint Online- und OneDrive-Daten basierend auf dem Netzwerkstandort](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+[Steuern des Zugriffs auf SharePoint Online- und OneDrive-Daten basierend auf dem Netzwerkspeicherort](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
 [Persönliche OneDrive-Synchronisation deaktivieren](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 

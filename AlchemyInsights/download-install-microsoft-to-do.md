@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: 17ba9e147ee37870e0d0c49a6ff376b31a5cfe14
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7fc1ce44b7f5ef2771a04d8b97a2aec2ef7f5b76
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61967754"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62735417"
 ---
 # <a name="how-to-download-and-install-microsoft-to-do"></a>Herunterladen und Installieren von Microsoft To Do
 
