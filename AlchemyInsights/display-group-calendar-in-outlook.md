@@ -13,12 +13,12 @@ ms.custom:
 - "3800008"
 - "16401"
 ms.date: 01/21/2022
-ms.openlocfilehash: 672650c86a856e53266c435b4ae4e52bf6b57b06
-ms.sourcegitcommit: 5dcbecdebbf5042db0c86a12149ddd537d766c91
+ms.openlocfilehash: 5c71f0b16b684040e5b58b19267b29eee39ebc0c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62185306"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62760203"
 ---
 # <a name="steps-to-make-microsoft-365-group-calendar-visible-in-outlook-and-owa"></a>Schritte zum Sichtbarmachen Microsoft 365 Gruppenkalenders in Outlook und OWA
 

@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 3fab93c30cee778ed6d5f6a88782327d7289619d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9de0e6bb4574d134939f118c0fcce483ae8d9050
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61964292"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62686664"
 ---
 # <a name="delete-a-site"></a>Löschen einer Website
 
-Wenn Sie eine Website löschen, wird sie zu den gelöschten Websites verschoben und 93 Tage lang aufbewahrt. Um eine Website zu löschen, wechseln Sie zu ["Aktive Websites".](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) 
+Wenn Sie eine Website löschen, wird sie zu den gelöschten Websites verschoben und 93 Tage lang aufbewahrt. Um eine Website zu löschen, wechseln Sie zu ["Aktive Websites](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)". 
 
 Wenn Sie eine Website löschen, wird alles darin gelöscht, einschließlich:
 
@@ -30,4 +30,4 @@ Wenn Sie eine Website löschen, wird alles darin gelöscht, einschließlich:
 
 Sie sollten die Websiteadministratoren und alle Unterwebsitebesitzer benachrichtigen, bevor Sie eine Website löschen, damit diese ihre Daten an einen anderen Speicherort verschieben können, und außerdem den Benutzern mitteilen, wann die Websites gelöscht werden.
 
-Weitere Informationen finden Sie unter [Löschen einer Website.](https://docs.microsoft.com/sharepoint/delete-site-collection)
+Weitere Informationen finden Sie unter ["Löschen einer Website](https://docs.microsoft.com/sharepoint/delete-site-collection)".

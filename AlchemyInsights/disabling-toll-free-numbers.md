@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5142"
-ms.openlocfilehash: 85dda806a22dd4bd86d8ef40a6d93c94260b0e42
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9d8d7b091aa94246b188361fc82f7a3234b09810
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61956481"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62760131"
 ---
 # <a name="disabling-toll-free-numbers"></a>Deaktivieren gebührenfreier Telefonnummern
 

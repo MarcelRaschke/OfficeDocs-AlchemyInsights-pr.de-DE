@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "274"
 - "6200001"
-ms.openlocfilehash: 81c593c7d7c94bc45cd759d4399a357ce71077ec
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 26f865ab1128ea262b8c716eb070c86a7d22695c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61842541"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62646852"
 ---
 # <a name="submit-dynamics-365-support-requests"></a>Einreichen von Dynamics 365-Supportanfragen 
 

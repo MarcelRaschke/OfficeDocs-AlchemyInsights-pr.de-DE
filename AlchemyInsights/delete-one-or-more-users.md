@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.custom:
 - "1500007"
 - "5776"
-ms.openlocfilehash: c64d4e7fe27b0f7bab3e43b3d877e3b7a823c12d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e87428cdd9885bdcd57458d52185a4b2427db1ea
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61964400"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62686723"
 ---
 # <a name="delete-one-or-more-users"></a>Löschen von Benutzern
 

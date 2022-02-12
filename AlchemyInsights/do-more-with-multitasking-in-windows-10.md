@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002958"
 - "5660"
-ms.openlocfilehash: 34c7e378f70355d10e9ad3e019ba48250701937b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 52a4e9c53666aaad30c14dc587f1c6d6f390fbc4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61965948"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62759879"
 ---
 # <a name="do-more-with-multitasking-in-windows-10"></a>Mehr Erreichen mit Multitasking in Windows 10
 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: cb758c3d7955013b2833bfa7ae348f9e956de9b0
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2cbe9da0e013cb66ca0fec97338b0c9b12237965
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61947851"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62686507"
 ---
 # <a name="desktop-app-for-sharepoint"></a>Desktop-App für SharePoint
 

@@ -13,12 +13,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 3f30998fb3bc4c5442e4e1541b87d88ecd7df6eef3a50e719fa5014eb86af39c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6b96813293684ae1fa3eaaa6b28ececfef6305ac
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004981"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62759843"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>DLP-Probleme mit Sozialversicherungsnummern
 
@@ -26,7 +26,7 @@ ms.locfileid: "54004981"
 
 **DLP-Probleme mit SSNs**
 
-Haben Sie Probleme mit der **Verhinderung von Datenverlust (Data Loss Prevention, DLP),** die nicht für Inhalte funktionieren, die eine **Sozialversicherungsnummer (SSN)** enthalten, wenn Sie einen vertraulichen Informationstyp in Microsoft 365 verwenden? Wenn ja, stellen Sie sicher, dass Ihre Inhalte die erforderlichen Informationen für das, was die DLP-Richtlinie sucht, enthält. 
+Haben Sie Probleme mit **der Verhinderung von Datenverlust (Data Loss Prevention, DLP),** die nicht für Inhalte funktionieren, die eine **Sozialversicherungsnummer (SSN)** enthalten, wenn Sie einen vertraulichen Informationstyp in Microsoft 365 verwenden? Wenn ja, stellen Sie sicher, dass Ihre Inhalte die erforderlichen Informationen für die DLP-Richtlinie enthalten. 
   
 For example, for an SSN policy configured with a confidence level of 85%, the following are evaluated and must be detected for the rule to trigger:
   
@@ -34,11 +34,11 @@ For example, for an SSN policy configured with a confidence level of 85%, the fo
 
 - **[Muster:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Vier Funktionen suchen nach SSNs in vier verschiedenen Mustern:
 
-  - Func_ssn findet SSNs mit starker Formatierung vor 2011, die mit Strichen oder Leerzeichen formatiert sind (ddd-ddddD OR ddd ddd dddd)
+  - Func_ssn findet SSNs mit vor 2011 starker Formatierung, die mit Strichen oder Leerzeichen formatiert sind (ddd-dd-dddd OR ddd dddd)
 
   - Func_unformatted_ssn findet SSNs mit starker Formatierung vor 2011, die als neun aufeinander folgende Ziffern unformatiert sind (ddddddddd).
 
-  - Func_randomized_formatted_ssn sucht nach 2011 SSNs, die mit Strichen oder Leerzeichen formatiert sind (ddd-dd-dddd OR ddd dd dddd)
+  - Func_randomized_formatted_ssn sucht nach 2011 SSNs, die mit Gedankenstrichen oder Leerzeichen formatiert sind (ddd-dd-dddd OR ddd dd dddd)
 
   - Func_randomized_unformatted_ssn sucht nach 2011 SSNs, die als neun aufeinander folgende Ziffern unformatiert sind (dddddddddd)
 

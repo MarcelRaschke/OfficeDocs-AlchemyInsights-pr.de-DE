@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: b4dea93ce34a836180d26b5e2672cbdb776c4c39c27a270731d52ceea5bd319f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0815f8bce293b89f8553d8fd7ba17d6599223a78
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53912525"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62732069"
 ---
 # <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR mit Fehlercode 554 5.2.2 Postfach voll
 

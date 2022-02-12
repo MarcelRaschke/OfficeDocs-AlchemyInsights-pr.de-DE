@@ -12,12 +12,12 @@ ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: 026fe801a6220e3ad91e4ea01cd4b4ae52e4ff92
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c52a818d8af2b974d6126d1d54d732ba9ead34d4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61864840"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62612795"
 ---
 # <a name="add-a-member-to-teams"></a>Hinzufügen eines Mitglieds zu Teams
 

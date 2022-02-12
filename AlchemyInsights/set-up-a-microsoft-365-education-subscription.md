@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: ebead2aae90b20d6c5bbc7ad3eb86bc363e2d26d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a0c092426880ff4213443ee6af763ea26ed0e06f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61951220"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62647248"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Einrichten eines Microsoft 365 Education-Abonnements
 

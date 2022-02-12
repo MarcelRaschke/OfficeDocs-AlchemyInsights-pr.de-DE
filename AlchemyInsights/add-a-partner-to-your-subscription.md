@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5066"
-ms.openlocfilehash: c7fc49492e68275943c1a9c9b59420fbc2fc6230
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9255cf6a825fc188db56939cb92861b61dacb2ca
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61864804"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62612836"
 ---
 # <a name="add-a-partner-to-your-subscription"></a>Hinzufügen eines Partners zu Ihrem Abonnement
 
