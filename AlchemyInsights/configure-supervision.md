@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c10755263beff2425d8ffe8d1cfd2c963e6f8d51
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53915442"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62556939"
 ---
 # <a name="configure-supervision-policies"></a>Konfigurieren von Aufsichtsrichtlinien
 
-Aufsichtsrichtlinien in Microsoft 365 ermöglichen es Ihnen, Exchange E-Mail-, Skype for Business Online-, Microsoft Teams- und Drittanbieterkommunikationen zu überwachen, die innerhalb und außerhalb Ihrer Organisation gesendet werden. Designierte Prüfer können überwachte Nachrichten überprüfen, um sicherzustellen, dass sie den Richtlinien, dem Risikomanagement und den Compliancestandards Ihrer Organisation entsprechen, und sie mit einem Klassifizierungstyp auflösen.
+Aufsichtsrichtlinien in Microsoft 365 ermöglichen es Ihnen, Exchange E-Mail- Skype for Business Online-, Microsoft Teams- und Drittanbieterkommunikationen zu überwachen, die innerhalb und außerhalb Ihrer Organisation gesendet werden. Designierte Prüfer können überwachte Nachrichten überprüfen, um sicherzustellen, dass sie den Richtlinien, dem Risikomanagement und den Compliancestandards Ihrer Organisation entsprechen, und sie mit einem Klassifizierungstyp auflösen.
 
 Um Aufsichtsrichtlinien in Ihrer Organisation zu verwenden, müssen Sie:
 

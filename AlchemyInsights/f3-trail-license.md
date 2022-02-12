@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5565"
-ms.openlocfilehash: 10935aae7679b539b6c067bae680fc8e3d20c7d8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a0f5b99cb12bd8e16740733862ad45c8bd105e7f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61948859"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62591374"
 ---
 # <a name="f3-trail-license"></a>F3-Testlizenz
 

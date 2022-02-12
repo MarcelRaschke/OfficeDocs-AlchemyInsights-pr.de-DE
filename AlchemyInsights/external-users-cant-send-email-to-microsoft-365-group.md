@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6115"
 - "9003200"
-ms.openlocfilehash: 277fd15583c50e2e9d619ebf394be18fab8c1717
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: eda922670bb8d9103fe5b07e6f82ce03d10040bd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61950569"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62591590"
 ---
 # <a name="external-users-cant-send-email-to-microsoft-365-group"></a>Externe Benutzer können keine E-Mails an eine Microsoft 365-Gruppe senden
 

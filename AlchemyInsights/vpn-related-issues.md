@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1545"
 - "9000076"
-ms.openlocfilehash: 53ff9e81c20f481bad4fe006083d64f059b9e4cd
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 86f305f2e07dea68724b0bb8e1d49f34ee9b14bb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61934220"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62543423"
 ---
 # <a name="vpn-related-issues"></a>Probleme mit dem VPN
 

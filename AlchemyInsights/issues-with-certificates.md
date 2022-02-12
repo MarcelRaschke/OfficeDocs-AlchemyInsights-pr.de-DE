@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7749"
 - "9004340"
-ms.openlocfilehash: 4b4a09dc5910087f1dcef4a1c01063f890ff67fc44b1db9b6cdf1391a05530c0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 60490a7e235f3f164148bf2ef289db34bba72554
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54027895"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62590582"
 ---
 # <a name="issues-with-certificates"></a>Probleme mit Zertifikaten
 

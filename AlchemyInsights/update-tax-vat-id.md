@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7323"
-ms.openlocfilehash: 378ad1434f80d31c9649cecee363a448fb6dc342d36dc06123a59bacfd9d73f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7a654e7dac010ac09882fb16fb52c6e97b78c438
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908457"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62544692"
 ---
 # <a name="update-taxvat-id"></a>Aktualisieren der Steuer-/Umsatzsteuer-ID
 

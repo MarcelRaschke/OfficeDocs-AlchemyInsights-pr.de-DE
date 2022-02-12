@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8322"
 - "9003227"
-ms.openlocfilehash: 97cf6ef818ba45ffcb0f165fd52aa73910a16963
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f236bfac811f42b913a7a9de270600c2aad909bd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61980201"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62667571"
 ---
 # <a name="managing-external-settings"></a>Externe Einstellungen verwalten
 

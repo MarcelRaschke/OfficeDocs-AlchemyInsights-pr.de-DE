@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002274"
 - "4492"
-ms.openlocfilehash: addddc0628cb288dd0998d15586427d4fe03053f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 68dc4fd022dcc0f8414fbadb61e516269373d248
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61872508"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62591122"
 ---
 # <a name="insufficient-user-permissions"></a>Unzureichende Benutzerberechtigungen
 

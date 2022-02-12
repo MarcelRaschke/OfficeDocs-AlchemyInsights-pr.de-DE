@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8370"
 - "9004622"
-ms.openlocfilehash: 61800d141438151eaab5a9043ae512afecf36607
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7a0e71e0d31160e89c3488be39cc8c349ac87ec4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61949507"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62590510"
 ---
 # <a name="learn-about-accessibility-in-microsoft-edge"></a>Informationen zur Barrierefreiheit in Microsoft Edge
 

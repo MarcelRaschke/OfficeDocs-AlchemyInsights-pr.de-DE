@@ -19,12 +19,12 @@ ms.custom:
 - "1500018"
 - "9690"
 ms.date: 08/10/2021
-ms.openlocfilehash: 65621eae4c201a07983853f589caa5169a85660f
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 58abe406117a6f0820b582da6f1ee112250190ae
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836680"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62589718"
 ---
 # <a name="manually-pay-an-outstanding-balance"></a>Manuelles Bezahlen eines ausstehenden Saldos
 

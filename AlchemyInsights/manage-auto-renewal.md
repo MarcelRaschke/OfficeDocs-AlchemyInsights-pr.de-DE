@@ -16,12 +16,12 @@ ms.custom:
 - "1500012"
 ms.date: 07/30/2021
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: d1379700b3d5da0f553d632d6f254e4bb5ee7dc8
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 34e8d34986fe1f3f31679e660b34cd9495032eeb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58845717"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62589934"
 ---
 # <a name="manage-recurring-billing"></a>Verwalten der wiederkehrenden Abrechnung
 

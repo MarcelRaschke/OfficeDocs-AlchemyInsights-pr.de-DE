@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11937"
 - "9007099"
-ms.openlocfilehash: c0242846d44d03589d78ebfa6e9825448484a7c0
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 48ef16b6cdabf52d5d835028c03ff99e303da8d2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61947707"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62667607"
 ---
 # <a name="managing-review-sets-in-advanced-ediscovery"></a>Verwalten von Prüfdateisätzen in Advanced eDiscovery
 

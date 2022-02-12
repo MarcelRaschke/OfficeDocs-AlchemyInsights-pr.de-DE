@@ -14,13 +14,13 @@ ms.custom:
 - "9004632"
 - "7092"
 - "8359"
-ms.openlocfilehash: 85eff448dbf6cecd80ea870739c1223b10fbe6894462226c19fd9aae26faad6b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4848936b9f0125ab6aa7a0dfcadf422868be81c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54007141"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62544751"
 ---
 # <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Verwenden von updatebezogenen Gruppenrichtlinien, die in Microsoft Edge
 
-Verwenden Sie die in Microsoft Edge (Version 77 oder höher) verfügbaren [Richtlinien,](https://go.microsoft.com/fwlink/?linkid=2134862) um zu steuern, wie und wann Microsoft Edge aktualisiert wird.
+Verwenden Sie die in Microsoft Edge (Version 77 oder höher) verfügbaren [Richtlinien](https://go.microsoft.com/fwlink/?linkid=2134862), um zu steuern, wie und wann Microsoft Edge aktualisiert wird.

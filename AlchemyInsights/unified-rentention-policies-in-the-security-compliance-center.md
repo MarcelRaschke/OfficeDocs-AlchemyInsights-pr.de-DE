@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 3cad3930b279b04287fdf28389a7091ec4d3606a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 742f1dc2decc4f2ee76eaefc90497db625134921
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61816838"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62544931"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>Einheitliche Aufbewahrungsrichtlinien im Security & Compliance Center
 

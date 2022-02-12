@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 21f6eeda260063d78985a3353728f9851cdb916b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 86166c27a2ddccfb7a8986e8bf285ad3239bd7a1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61957780"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62591554"
 ---
 # <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>Externer Benutzer kann nicht auf SharePoint oder OneDrive Inhalt zugreifen
 

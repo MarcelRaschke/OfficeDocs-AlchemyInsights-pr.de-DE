@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1746"
 - "9000140"
-ms.openlocfilehash: e18aba00d8035c42c181f731948d2082b0e6df66
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f2d732b5fb1b6e7827e77fa2b921fb3b898e29a1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61865566"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62544611"
 ---
 # <a name="update-to-office-2019"></a>Update auf Office 2019
 

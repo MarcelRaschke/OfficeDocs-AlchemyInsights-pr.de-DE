@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10933"
 - "5300030"
-ms.openlocfilehash: 8918b677b64629036f2ad46771932dc3b5973326
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 626531020e59fc6ce96f132abf7a8c22501089b2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61957166"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62667074"
 ---
 # <a name="migrate-box-to-microsoft-365-with-migration-manager"></a>Box mit dem Migration Manager zu Microsoft 365 migrieren
 

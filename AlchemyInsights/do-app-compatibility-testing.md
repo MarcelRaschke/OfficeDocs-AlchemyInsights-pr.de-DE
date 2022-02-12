@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9138"
 - "9005291"
-ms.openlocfilehash: 40c16324270e26a882b16e5c2e0a6cf248d34ed84e95e845aac5dfa44ac58c72
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 60647064c43e5ebdf642cd43878bba2d1798796b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004816"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62592346"
 ---
 # <a name="do-app-compatibility-testing"></a>Durchführen von App-Kompatibilitätstests
 

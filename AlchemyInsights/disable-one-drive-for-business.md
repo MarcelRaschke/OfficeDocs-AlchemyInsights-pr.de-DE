@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 653cf93e6738479f5b7183dce8f367393ae405e9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6454a9708e33c10f31d4cd711254c308bd358452
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61956553"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62555535"
 ---
 # <a name="disable-onedrive-for-business"></a>Deaktivieren OneDrive for Business
 

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 7ee48a8c2e1d68cd24d88a9782c35d9b654c3dcf
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: ad6b1b929a4df8e25837af479fd95cb67912a74d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61862362"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62667931"
 ---
 # <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Ändern eines Standardbenutzerkontos in einen Administrator in Windows 10
 
 So ändern Sie ein Standardbenutzerkonto in Windows 10 in einen Administrator:
 
-1. Wechseln **Sie** zu  >  **"Start Einstellungen**  >  **Account**  >  **Family & other people** (or Other **people,** if you're using Windows 10 Enterprise).
+1. Wechseln Sie zu **"Start** >  **Einstellungen** >  **AccountFamily** >  **& anderen Personen** (oder **anderen Personen**, wenn Sie Windows 10 Enterprise verwenden).
 2. Wählen Sie das Konto aus, das Sie zum Administrator machen möchten, und wählen Sie dann **Konto ändern** aus.
 3. Wählen Sie unter **Kontotyp** die Option **Administrator** aus, und klicken Sie dann auf **OK**.
 

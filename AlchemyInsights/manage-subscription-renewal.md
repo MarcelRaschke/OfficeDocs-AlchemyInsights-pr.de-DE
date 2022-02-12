@@ -16,12 +16,12 @@ ms.custom:
 - "4568"
 - "4730"
 ms.date: 08/10/2021
-ms.openlocfilehash: dc8d794788caa73b91cc2cdd7b2104a4274122a3
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 840eba73006d5a48944d101e835afba087ad2583
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836932"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62589790"
 ---
 # <a name="manage-subscription-renewal"></a>Abonnementverlängerung verwalten
 

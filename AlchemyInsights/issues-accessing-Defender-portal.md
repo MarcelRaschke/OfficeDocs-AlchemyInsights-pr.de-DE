@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6029"
 - "9001222"
-ms.openlocfilehash: 88949c8d9423ca3bcf2e6b4b9682bab9bb205a3c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 82725a32963985dd8a34658a138b1390ee4a5678
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61979156"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62590834"
 ---
 # <a name="issues-accessing-the-microsoft-defender-atp-portal"></a>Probleme beim Zugriff auf das Microsoft Defender ATP-Portal
 

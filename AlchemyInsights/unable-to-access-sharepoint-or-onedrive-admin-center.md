@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001459"
 - "5638"
-ms.openlocfilehash: 6efc04ef57f87e732de3957f0227f4851707b654
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 50019fc089d30fe62a1fa8bb7a28dbcbb68f842e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61946050"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62545507"
 ---
 # <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>Zugriff auf SharePoint oder OneDrive Admin Center nicht möglich
 

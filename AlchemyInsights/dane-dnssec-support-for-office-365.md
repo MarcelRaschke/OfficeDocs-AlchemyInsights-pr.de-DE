@@ -13,12 +13,12 @@ ms.custom:
 - "9010292"
 - "16312"
 ms.date: 01/13/2022
-ms.openlocfilehash: 62e9271ab48265ada8bbd00cfd6bb9b9d2a8efa4
-ms.sourcegitcommit: 81f566eac3776bc0de39b78d0285677f21ad57a9
+ms.openlocfilehash: 6f34cec9cdca9e26d2259013a88a93469145ba3b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62032838"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62556543"
 ---
 # <a name="dane-and-dnssec-support-for-office-365"></a>DANE- und DNSSEC-Unterstützung für Office 365
 

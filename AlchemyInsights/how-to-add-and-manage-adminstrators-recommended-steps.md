@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
-ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
+ms.openlocfilehash: 796b5cfaa3317bc184470fb870b71aabcd0f7d2d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58339031"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62591231"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Hinzufügen und Verwalten von Administratoren – empfohlene Schritte
 
@@ -26,25 +26,25 @@ Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden
 
 **Bearbeiten des Abonnementadministrators oder Co-Administrators**
 
-- Der Kontoadministrator kann beide Rollen bearbeiten, während der Abonnementadministrator nur Co-Administratoren im [Azure-Portal](https://ms.portal.azure.com/#home)ändern kann.
+- Der Kontoadministrator kann beide Rollen bearbeiten, während der Abonnementadministrator nur Co-Administratoren im [Azure-Portal](https://ms.portal.azure.com/#home) ändern kann.
 - [Hinzufügen oder Ändern von Azure-Abonnementadministratoren](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Aktualisieren des Abonnementadministrators oder Co-Administrator für interne (AIRS)-Abonnements**
+**Aktualisieren des Abonnementadministrators oder Co-Administrator für interne Abonnements (AIRS)-Abonnements**
 
 Der Dienstadministrator oder der Co-Administrator kann diese Aktion mithilfe der folgenden Schritte selbst ausführen:
 
-1. Melden Sie sich beim [Azure-Portal](https://ms.portal.azure.com/#home) an, und klicken Sie auf dem linken Blatt auf **"Kostenverwaltung + Abrechnung".**
+1. Melden Sie sich beim [Azure-Portal](https://ms.portal.azure.com/#home) an, und klicken Sie auf dem linken Blatt auf **"Kostenverwaltung + Abrechnung** ".
 2. Klicken Sie auf die Zeile mit Ihrem Abonnement. Dadurch wird die Übersicht für Ihr Abonnement geöffnet.
-3. Klicken Sie auf dem Blatt **"Abonnement"** auf **"Eigenschaften".** 
-4. Klicken Sie auf die Schaltfläche **"Dienstadministrator".**
-5. Geben Sie die E-Mail des Benutzers ein, den Sie als Dienstadministrator festlegen möchten, und klicken Sie auf **"OK".**
+3. Klicken Sie auf dem Blatt **"Abonnement** " auf **"Eigenschaften**". 
+4. Klicken Sie auf die Schaltfläche " **Dienstadministrator** ".
+5. Geben Sie die E-Mail des Benutzers ein, den Sie als Dienstadministrator festlegen möchten, und klicken Sie auf **"OK**".
 
 **Hinzufügen/Ändern/Entfernen des Co-Administrators**
 
 1. Melden Sie sich beim [Azure-Portal](https://ms.portal.azure.com/#home) als Dienstadministrator an.
-2. Öffnen [Sie Abonnements,](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) und wählen Sie ein Abonnement aus. (Mitadministratoren können nur im Abonnementbereich zugewiesen werden.)
-3. Navigieren Sie zu **Access Control (IAM)**  >  **Klassische Administratoren**  >  **Hinzufügen**  >  **eines Co-Administrators,** um den Bereich **"Co-Administrator** hinzufügen" zu öffnen (Wenn die Option "Co-Administrator hinzufügen" deaktiviert ist, bedeutet dies, dass Sie nicht über Berechtigungen verfügen).
-4. Wählen Sie den Benutzer aus, den Sie hinzufügen möchten, und klicken Sie auf **"Hinzufügen".**
+2. Öffnen [Sie Abonnements](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) , und wählen Sie ein Abonnement aus. (Mitadministratoren können nur im Abonnementbereich zugewiesen werden.)
+3. Navigieren Sie zu **Access Control (IAM)** > **Classic** **administratorsAddAdd** >  >  **co-administrator** to open the **Add co-admin** pane (If the Add co-administrator option is disabled, it denotes that you do not have permissions).
+4. Wählen Sie den Benutzer aus, den Sie hinzufügen möchten, und klicken Sie auf **"Hinzufügen**".
 
 **Weitere Informationen:**
 - [Hinzufügen eines Co-Administrators](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
@@ -55,13 +55,13 @@ Der Dienstadministrator oder der Co-Administrator kann diese Aktion mithilfe der
 
 **Hinzufügen/Löschen von Benutzern mit Azure Active Directory (AD)**
 
-Sie können neue Benutzer hinzufügen oder vorhandene Benutzer aus Ihrer Azure Active Directory (Azure AD)-Organisation löschen:
+Sie können neue Benutzer hinzufügen oder vorhandene Benutzer aus Ihrer Azure Active Directory (Azure AD) Organisation löschen:
 
 1. Um einen neuen Benutzer hinzuzufügen, melden Sie sich beim [Azure-Portal](https://ms.portal.azure.com/#home) als Benutzeradministrator für die Organisation an.
-2. Wählen Sie **Azure Active Directory** aus, wählen Sie **"Benutzer"** aus, und klicken Sie dann auf **"Neuer Benutzer".**
-3. Geben Sie auf der **Seite "Benutzer"** die erforderlichen Informationen ein. Klicken Sie auf **Erstellen**. Der Benutzer wird erstellt und Ihrem Azure AD-Mandanten hinzugefügt.
+2. Wählen Sie **Azure Active Directory** aus, wählen Sie **"Benutzer"** aus, und klicken Sie dann auf **"Neuer Benutzer**".
+3. Geben Sie auf der **Seite "Benutzer** " die erforderlichen Informationen ein. Klicken Sie auf **Erstellen**. Der Benutzer wird erstellt und Ihrem Azure AD Mandanten hinzugefügt.
 
-**Weitere Informationen:**
+**Weitere Informationen**:
 
 - [Hinzufügen eines neuen Benutzers](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [Benutzer löschen](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)

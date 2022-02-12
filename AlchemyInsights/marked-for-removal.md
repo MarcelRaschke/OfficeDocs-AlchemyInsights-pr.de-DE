@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500020"
 - "4585"
-ms.openlocfilehash: fb74733f439223419c92b2dadd4a0df7a685c486
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0b9f6be8fe9eca06b90b666f1efc9dbeec7f1f80
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61978471"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62589322"
 ---
 # <a name="marked-for-removal"></a>Zum Entfernen markiert
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9141"
 - "9005291"
-ms.openlocfilehash: 5b03d188aa78be83928cf262f1d86f3f933c85ab
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: ea725cf0c60878032e532e2d8e925fa7a90fd811
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50530000"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62591734"
 ---
 # <a name="evaluate-your-existing-browser-environment-and-define-goals"></a>Beurteilen der bestehenden Browserumgebung und Definieren von Zielen
 

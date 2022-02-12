@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5712"
-ms.openlocfilehash: bae388420a4ff43631ef253d1b368879e9646fcd
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8200d1507f9fba656c2009f2b19c090ec4fbcab8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61863976"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62557263"
 ---
 # <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>Konfigurieren von IRM-Richtlinien in SharePoint-Dokumentbibliotheken zum Einschränken des Downloads von Inhalten
 

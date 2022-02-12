@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10803"
 - "9003042"
-ms.openlocfilehash: 53efa5b87a65ab146ea58b45c6942df23b7b9cf6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b82ef38af147da93246d65a997950aceefc6ed90
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61901568"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62544967"
 ---
 # <a name="unable-to-upload-files-to-teams-chat"></a>Dateien können nicht in den Teams-Chat hochgeladen werden
 

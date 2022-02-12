@@ -7,14 +7,19 @@ ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 1128
-  - 6700007
+- "1128"
+- "6700007"
+ms.openlocfilehash: dd92a370b0c68e2e2f97f734e11d9a3a36567664
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62556399"
 ---
-
 # <a name="defer-windows-10-updates"></a>Zurückstellen von Windows 10-Updates
 
 Führen Sie die folgenden Schritte aus, um die Windows 10-Updates, die an Benutzer übermittelt werden, zurückzustellen:

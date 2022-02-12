@@ -16,12 +16,12 @@ ms.custom:
 - "5582"
 - "5583"
 ms.date: 08/11/2021
-ms.openlocfilehash: c43b3d5b7e140fe91812b42b8622c826f9987f29
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 1af32c4952c0cf2ef0e6a86b2c60958833c9564e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836716"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62590186"
 ---
 # <a name="license-or-subscription-faq"></a>Häufig gestellte Fragen zu Lizenzen und Abonnements
 

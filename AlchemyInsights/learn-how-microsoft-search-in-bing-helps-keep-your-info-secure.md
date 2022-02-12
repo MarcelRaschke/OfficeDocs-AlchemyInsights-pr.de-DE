@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9217"
 - "9005302"
-ms.openlocfilehash: e91b5008af8d0771f30b33da9be27cd12a5dccf7ff9603b0b37439079eb1e9f5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97443a5ee3cebafdff06327c8f21ed60149b5eb1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054401"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62590409"
 ---
 # <a name="learn-how-microsoft-search-in-bing-helps-keep-your-information-secure"></a>So hält Microsoft Search in Bing Ihre Informationen sicher
 

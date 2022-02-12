@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4cc57cabee2a42f564553d068a75a0acf42bb20d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948090"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62555931"
 ---
 # <a name="deploy-office-to-your-users-guide"></a>Bereitstellen von Office für Ihre Benutzer – Leitfaden
 
 Stellen Sie Office Apps aus der Cloud bereit, mit der Möglichkeit, Ihre Installation mithilfe des Office-Bereitstellungstools anzupassen.
 
-Das Handbuch ["Bereitstellen Office für Ihre Benutzer"](https://go.microsoft.com/fwlink/?linkid=2146451) hilft Ihnen beim Erstellen einer angepassten Office-Konfiguration mit erweiterten Einstellungen, oder Sie können eine vordefinierte empfohlene Konfiguration verwenden. Unabhängig davon, ob Ihre Benutzer eine Selbstinstallation durchführen oder ob Sie sie einzeln oder als Massenbereitstellung für Ihre Benutzer bereitstellen, bietet Ihnen dieser erweiterte Assistent Schritt-für-Schritt-Anleitungen, um Benutzern eine Office Installation bereitzustellen, die auf Ihre Organisation zugeschnitten ist.
+Die [Anleitung "Bereitstellen Office für Ihre Benutzer](https://go.microsoft.com/fwlink/?linkid=2146451)" hilft Ihnen beim Erstellen einer angepassten Office konfiguration mit erweiterten Einstellungen, oder Sie können eine vordefinierte empfohlene Konfiguration verwenden. Unabhängig davon, ob Ihre Benutzer eine Selbstinstallation durchführen oder ob Sie sie einzeln oder massenweise für Ihre Benutzer bereitstellen, bietet Ihnen dieser erweiterte Assistent Schritt-für-Schritt-Anleitungen, um Benutzern eine Office Installation bereitzustellen, die auf Ihre Organisation zugeschnitten ist.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002461"
 - "5577"
-ms.openlocfilehash: 270f2179b88f9f39b0028de8d93de31f9ea2404f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e8bf691affedd5953bfd78d0aaa485625404051d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989846"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62590150"
 ---
 # <a name="limit-sharing-in-microsoft-teams"></a>Einschränken der Freigabe in Microsoft Teams
 

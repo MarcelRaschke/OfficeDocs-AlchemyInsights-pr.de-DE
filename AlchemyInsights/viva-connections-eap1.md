@@ -13,12 +13,12 @@ ms.custom:
 - "9010427"
 - "16605"
 ms.date: 02/01/2022
-ms.openlocfilehash: 2ba67376a84a5fa4dc392efac8ee855292d0b91d
-ms.sourcegitcommit: ea30136488c3bc0c100636cd7ce7a59b3c645c33
+ms.openlocfilehash: fb6e84a59ee6bb287abb2e0098be8dca169558f3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "62323080"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62543510"
 ---
 # <a name="viva-connections-early-adoption-program"></a>Viva Connections Early Adoption Program
 

@@ -15,12 +15,12 @@ ms.custom:
 - "9003038"
 - "5800"
 ms.date: 08/05/2021
-ms.openlocfilehash: b2e9290806465bf0d1f862ed4e91a9bfd6a84b88
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: c50cdbc44bb3618523c2f6ef2cdc8ad003f547b1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844529"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62590415"
 ---
 # <a name="license-missing-or-disappears-from-the-admin-center"></a>Lizenz fehlt oder wird im Admin Center nicht mehr angezeigt
 

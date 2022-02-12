@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8218"
 - "9004596"
-ms.openlocfilehash: 1d7a2e36c104a1e1238a4c6d5516b04b7c4de46a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a5e08087ab0c2f9466b64c9329bc0b1b603786d3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897618"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62589540"
 ---
 # <a name="learn-about--the-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Informationen zur Zuordnung zwischen Microsoft Edge Legacy-Richtlinien und Microsoft Edge-Richtlinien
 

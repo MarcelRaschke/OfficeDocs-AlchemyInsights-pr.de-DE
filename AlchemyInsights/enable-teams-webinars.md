@@ -7,14 +7,19 @@ ms.date: 06/02/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 11513
-  - 9006672
+- "11513"
+- "9006672"
+ms.openlocfilehash: 957ba4df3b7dbc54cdc0e7aab5397c4686754ab0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62592058"
 ---
-
 # <a name="enable-teams-webinars"></a>Aktivieren von Teams-Webinaren
 
 Die Webinarregistrierung ist standardmäßig aktiviert. Wenn Sie die Besprechungsregistrierung deaktivieren möchten, können Sie das Microsoft Teams Admin Center verwenden: 

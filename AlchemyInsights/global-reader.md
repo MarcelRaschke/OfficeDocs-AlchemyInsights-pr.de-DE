@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5672"
-ms.openlocfilehash: 576b64b335e50d167be4444930c37832d0d7beb1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 26c149735fb5762ab8e27a6a1a3d7ea3d83dcd1b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61984546"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62553411"
 ---
 # <a name="global-reader"></a>Globale Leseberechtigung
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001726"
 - "3825"
-ms.openlocfilehash: 3a41b6462ea46e8979f053aed75c6edc116f19c5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8099e36c38a7181345a04022ee6bf66a607a2c6b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61965984"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62556867"
 ---
 # <a name="create-a-poll-form-or-quiz-for-teams-with-microsoft-forms"></a>Erstellen einer Umfrage, eines Formulars oder einer Prüfung für Teams mit Microsoft Forms
 

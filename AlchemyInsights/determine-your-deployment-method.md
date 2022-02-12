@@ -15,12 +15,12 @@ ms.custom:
 - "11090"
 - "9005291"
 - "9006490"
-ms.openlocfilehash: 85e29a6d36ed0d386b534e2485955890b90d482f039a46e6446c3fb3464435e8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e16473f3ab26060d37ef6500678f7cd879937627
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031081"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62555751"
 ---
 # <a name="determine-your-deployment-method"></a>Auswählen der Bereitstellungsmethode
 

@@ -15,12 +15,12 @@ ms.custom:
 - "5989"
 - "1500009"
 ms.date: 07/8/2020
-ms.openlocfilehash: 7871da6a81d74ea9a7305d7e02bf1a655f60ce15
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.openlocfilehash: 12334311a33168b7f30c904bec9354ddd15abff6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451849"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62544859"
 ---
 # <a name="unable-to-purchase-edu-offer"></a>EDU-Angebot kann nicht gekauft werden
 

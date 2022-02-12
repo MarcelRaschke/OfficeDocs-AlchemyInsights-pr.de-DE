@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9825"
 - "9005394"
-ms.openlocfilehash: 5d48a4f950981444dcfd56c65a932edacb9efc2e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3981ccca05483c97c7bd987719ab71102400253f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61968006"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62591806"
 ---
 # <a name="error-your-new-install-has-newer-features-than-your-current-version-do-you-want-to-activate"></a>Fehler: Ihre neue Installation verfügt über neuere Features als die aktuelle Version. Möchten Sie die Software aktivieren...
 

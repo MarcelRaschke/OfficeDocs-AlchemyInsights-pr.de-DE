@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7924"
 - "9004395"
-ms.openlocfilehash: d89fb92ce1775e5a77808a1893a315419b4d54706dc737327c51f7c4c4e488e2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e0dfe7cf31c86c9a9e3f9dc1fac763381a037010
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088071"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62590906"
 ---
 # <a name="issue-joining-vms"></a>Problem beim Verbinden von VMs
 

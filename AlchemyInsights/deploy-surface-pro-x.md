@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10394"
 - "9005762"
-ms.openlocfilehash: 2ef21d0be9908ef9cd7a41e80d575b23d23e4fba
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7717ff4e93f99325a2cca44194f2d30e7588dd66
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61978651"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62555823"
 ---
 # <a name="deploy-surface-pro-x"></a>Surface Pro X Bereitstellen
 

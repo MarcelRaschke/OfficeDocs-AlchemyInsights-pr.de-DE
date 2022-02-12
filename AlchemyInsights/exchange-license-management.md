@@ -15,12 +15,12 @@ ms.custom:
 - "9002548"
 - "5149"
 ms.date: 10/26/2021
-ms.openlocfilehash: 11119eb7ecfb1ab5775e51b955d82c4a88c7081e
-ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
+ms.openlocfilehash: 28908654e8d1d558fd097dcbf4b6706ac7353a0c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60583770"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62591662"
 ---
 # <a name="exchange-license-management"></a>Exchange-Lizenzverwaltung
 
