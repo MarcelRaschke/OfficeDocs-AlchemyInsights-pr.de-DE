@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1786"
 - "9000170"
-ms.openlocfilehash: d6f97d7959704ae49905e89fcdf960b10f3eab3d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 602d88c42c5f5577b1c42d320a6568e9a9891491
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61961493"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62729440"
 ---
 # <a name="are-you-looking-for-phones-that-are-compatible-with-teams"></a>Suchen Sie Telefone, die mit Teams kompatibel sind?
 
-Als Administrator verwalten Sie [alle Geräte,](https://docs.microsoft.com/microsoftteams/device-management) die mit Teams in Ihrer Organisation verwendet werden, über die Microsoft 365 Admin Center. Weitere Informationen: 
+Als Administrator [verwalten Sie alle Geräte](https://docs.microsoft.com/microsoftteams/device-management), die mit Teams in Ihrer Organisation verwendet werden, über die Microsoft 365 Admin Center. Weitere Informationen: 
 
 - Überprüfen Sie die Liste der [Telefone für Microsoft Teams](https://docs.microsoft.com/microsoftteams/phones-for-teams). 
-- Überprüfen Sie die Liste der [derzeit zertifizierten IP-Telefone.](https://docs.microsoft.com/microsoftteams/teams-ip-phones#currently-certified-ip-phones) 
+- Überprüfen Sie die Liste der [derzeit zertifizierten IP-Telefone](https://docs.microsoft.com/microsoftteams/teams-ip-phones#currently-certified-ip-phones). 
 - Überprüfen Sie die Liste der [Geräte mit bekannten Einschränkungen und Problemen](https://support.office.com/article/control-calls-using-a-headset-in-teams-65d6e104-444d-4013-b8c2-f11317dd69a8). 
