@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12621"
 - "9002620"
-ms.openlocfilehash: e3e03ec0203f174077488f1ada2fbdeb5da2a799
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 706f2c53bd01f5ad9455edac02e4fab26046e675
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61792787"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62567955"
 ---
 # <a name="windows-365-trial-availability"></a>Verfügbarkeit der Windows 365-Testversion
 

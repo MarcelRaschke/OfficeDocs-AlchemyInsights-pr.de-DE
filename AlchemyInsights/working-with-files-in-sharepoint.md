@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5804"
-ms.openlocfilehash: 05d495b435adc661fdb7e2126d7b8f86c7f0259e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 86f2c1e9e1ceadb18c24b34037ae1815df5d1713
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61949759"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62567883"
 ---
 # <a name="working-with-files-in-sharepoint-online"></a>Arbeiten mit Dateien in SharePoint Online
 

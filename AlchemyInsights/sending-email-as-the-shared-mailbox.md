@@ -14,16 +14,16 @@ ms.custom:
 - "622"
 - "3500003"
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: 30acec71e5b5c7188dabc3911e6703d3120b81a1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8c0b479fa339ceb0e6db6b9c24a969a2220baac1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61948643"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62585290"
 ---
 # <a name="sending-email-as-the-shared-mailbox"></a>Senden von E-Mails als freigegebenes Postfach
 
-Nachdem Sie ein freigegebenes Postfach erstellt haben, können Benutzer, die Mitglieder des Postfachs sind, E-Mails als freigegebene Postfachidentität senden (z. *B. info@contoso.com).* Weitere Anweisungen finden Sie in:
+Nachdem Sie ein freigegebenes Postfach erstellt haben, können Benutzer, die Mitglieder des Postfachs sind, E-Mails als freigegebene Postfachidentität senden (z.  *B. info@contoso.com*  ). Weitere Anweisungen finden Sie in:
   
 [Öffnen und Verwenden eines freigegebenes Postfachs in Outlook 2016 und Outlook 2013](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
