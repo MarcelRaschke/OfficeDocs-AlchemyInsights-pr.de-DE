@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6139"
 - "9000208"
-ms.openlocfilehash: d19ba9d6e1dcd6097c7723ca4572eb05750a1d32
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c3f1e65dd9369acc888e4f04fb908d4afa022b38
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61942375"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62749331"
 ---
 # <a name="unable-to-schedule-a-live-event"></a>Planen eines Liveereignisses nicht möglich
 

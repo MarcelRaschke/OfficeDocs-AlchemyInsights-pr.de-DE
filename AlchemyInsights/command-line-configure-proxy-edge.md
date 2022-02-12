@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8024"
 - "9004430"
-ms.openlocfilehash: de0c9df97e77868bc4d5e82cf4bcf3e9ed3968b6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 1b0def35765fed3122b665282d28164f6b37a813
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61956589"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62749367"
 ---
 # <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Verwenden von Befehlszeilenoptionen zum Konfigurieren von Proxyeinstellungen in Microsoft Edge
 
