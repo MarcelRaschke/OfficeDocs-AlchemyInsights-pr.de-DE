@@ -18,12 +18,12 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: b491f20569a55ec904f5e5212e830f2644601584
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a096a641315f992f060cbda3d716cc3dba7b3035
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61805615"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62645448"
 ---
 # <a name="view-your-users-microsoft-365-apps-activity"></a>Microsoft 365 App-Aktivitäten Ihrer Benutzer anzeigen
 

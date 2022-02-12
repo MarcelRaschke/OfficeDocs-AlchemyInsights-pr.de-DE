@@ -14,12 +14,12 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: d8aa55a0f4f054a3e36a2c04b455d5fab3507e8dd12c0d59f9c05e1e21374468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fda44d547ebb1a1658c8c4bced5fdb988d9fd71d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998351"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62645700"
 ---
 # <a name="email-aliases-on-mobile-devices"></a>E-Mail-Aliase auf mobilen Geräten
 

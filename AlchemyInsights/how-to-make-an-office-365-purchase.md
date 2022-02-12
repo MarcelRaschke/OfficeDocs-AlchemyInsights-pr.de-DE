@@ -15,12 +15,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.date: 08/10/2021
-ms.openlocfilehash: 581d34b5e5744555d5d5f659cae5cc879ec1ad69
-ms.sourcegitcommit: d5143738025187f6b7aef801d7c992de97c9d78e
+ms.openlocfilehash: e1d5ed48e61ebf8a174daec0e27dccbe95fd40b6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62471722"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62684779"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>So erwerben Sie einen Microsoft 365
 
@@ -38,5 +38,5 @@ Wenn Sie Probleme beim Laden der Seite haben, versuchen Sie, die Webseite in ein
 
 **Weitere Ressourcen**
   
-- [Zuweisen von Lizenzen zu Benutzern in Microsoft 365 business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Zuweisen von Lizenzen zu Benutzern in Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 - [Abbrechen Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

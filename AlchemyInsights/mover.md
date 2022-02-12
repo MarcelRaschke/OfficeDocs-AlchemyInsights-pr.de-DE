@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 771e866c72cce30bc83b6d393b55009cf83a4848
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3472fa2f14ce003c1bf38130c35d8c3f431aed92
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61862009"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62731024"
 ---
 # <a name="mover"></a>Mover
 

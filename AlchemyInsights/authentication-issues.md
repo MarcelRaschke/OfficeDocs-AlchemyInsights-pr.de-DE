@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: b5e67f6f209c7ce98e6ae4a5a2d5a0b1ee938902
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976848"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62611139"
 ---
 # <a name="authentication-issues"></a>Authentifizierungsprobleme
 
@@ -75,14 +75,14 @@ Weitere Informationen zum bedingten Zugriff finden Sie unter:
 - [Handhabung von Informationsangabeaufforderungen für bedingten Zugriff mit MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Leitfaden für Entwickler für den bedingten Azure Active Directory-Zugriff](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Ende der Unterstützung von Azure Active Directory-Authentifizierungsbibliothek (ADAL) und Azure AD Graph-API (AAD Graph)_* _
+***Ende der Unterstützung für die Azure Active Directory-Authentifizierungsbibliothek (ADAL) und die Azure AD-Graph-API (AAD Graph)***
 
 - Ab dem 30. Juni 2020 werden der Azure Active Directory-Authentifizierungsbibliothek (ADAL) und der Azure AD Graph-API (AAD Graph) keine neuen Features mehr hinzugefügt. Wir werden weiterhin technischen Support und Sicherheitsupdates bereitstellen, jedoch keine Funktionsupdates mehr.
 - Ab dem 30. Juni 2022 werden wir den Support für ADAL und Azure AD Graph beenden und keinen technischen Support oder Sicherheitsupdates mehr dafür bereitstellen.
     - Apps, die ADAL unter vorhandenen Betriebssystemversionen verwenden, funktionieren auch nach diesem Zeitpunkt weiterhin, es werden jedoch weder Support noch Sicherheitsupdates dafür bereitgestellt.
     - Apps, die AAD Graph nach diesem Zeitpunkt verwenden, werden keine Antworten mehr vom AAD Graph-Endpunkt erhalten.
 
-_ *ADAL-Migration**
+**ADAL-Migration**
 
 Es wird ein Update auf die [Microsoft-Authentifizierungsbibliothek (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview) empfohlen, die über die neuesten Features und Sicherheitsupdates verfügt. Diese Empfehlung steht in Zusammenhang mit der Migration der Anwendungen von Microsoft nach MSAL bis zum Enddatum des Supports. Ziel der Migration von Microsoft-Apps nach MSAL ist es sicherzustellen, dass sie von den laufenden Sicherheits- und Featureverbesserungen von MSAL profitieren.
 

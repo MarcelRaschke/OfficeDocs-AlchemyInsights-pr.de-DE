@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: eebb1435aa272ef0dd5804c984f87904203b5b26
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 87806080d9ab97aa08332f01b910042901b71cc9
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61871640"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62731060"
 ---
 # <a name="microsoft-365-multi-geo"></a>Microsoft 365 Multi-Geo
 

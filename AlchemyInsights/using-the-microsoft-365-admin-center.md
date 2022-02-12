@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002613
-  - 5042
+- "9002613"
+- "5042"
+ms.openlocfilehash: 90caa760582720b34d4c0dadb6886d5226eeaf7c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62645412"
 ---
-
 # <a name="using-the-microsoft-365-admin-center"></a>Verwenden von Microsoft 365 Admin Center
 
 Über das Microsoft 365 Admin Center können Sie Ihre Organisation in der Cloud einrichten, Benutzer verwalten, Abonnements verwalten und vieles mehr.
