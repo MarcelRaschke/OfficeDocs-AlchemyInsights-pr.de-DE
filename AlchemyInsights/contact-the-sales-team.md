@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 89769075e1bb080b3b0334258f69f85ca48a627f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 1477f960817adf6410af5ada15cecbdc8ee62956
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61948283"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62670559"
 ---
 # <a name="contact-the-sales-team"></a>Kontaktaufnahme mit dem Vertriebsteam
 

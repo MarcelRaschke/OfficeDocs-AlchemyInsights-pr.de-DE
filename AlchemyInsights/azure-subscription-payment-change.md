@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: 232bf39bb51b86628f2cd971cbb1f9a9cd46ff09
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: ebdcdb7aec32dd07a2a884eb7593129c2a9f437a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61967934"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62559423"
 ---
 # <a name="change-payment-information-in-azure"></a>Ändern von Zahlungsinformationen in Azure
 

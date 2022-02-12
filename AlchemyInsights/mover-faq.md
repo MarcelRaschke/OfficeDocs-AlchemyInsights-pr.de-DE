@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "7999"
-ms.openlocfilehash: e6817e1ffabdd768424e3f8b56852d702b0500cf
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0f0878660785d27b6230cb1097e11cb9e5651399
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61862045"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62619384"
 ---
 # <a name="mover-faq"></a>Häufig gestellte Fragen zu Mover
 

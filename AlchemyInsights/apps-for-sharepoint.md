@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5796"
-ms.openlocfilehash: f715f2613f3e5ae6cf36cf984b22f33c68c67bb8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6ea51ef2d78254218e2b5049960d20aa5dafcb0c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61961277"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62560071"
 ---
 # <a name="install-sharepoint-apps"></a>Installieren von SharePoint-Apps
 

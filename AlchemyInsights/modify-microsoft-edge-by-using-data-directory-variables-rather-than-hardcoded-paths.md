@@ -13,15 +13,15 @@ ms.collection: ''
 ms.custom:
 - "9003873"
 - "6926"
-ms.openlocfilehash: 235696d17711726da57d9a09c23b5b13140a28d7645299ef120a4b2c7b395c5e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e71322b065f200d782af207ab5db740244db79c6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54113415"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62619744"
 ---
 # <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Ändern Microsoft Edge mithilfe von Datenverzeichnisvariablen anstelle von hartcodierten Pfaden
 
 Legen Sie beispielsweise unter Windows die **UserDataDir** -Richtlinie auf **${local_app_data}\Edge\Profile** fest, um die Profildaten unter den lokalen Anwendungsdaten eines Benutzers und nicht unter dem Standardspeicherort zu speichern. 
 
-Weitere Informationen finden Sie unter [Erstellen Microsoft Edge Benutzerdatenverzeichnisvariablen.](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars)
+Weitere Informationen finden Sie unter [Erstellen Microsoft Edge Benutzerdatenverzeichnisvariablen](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).

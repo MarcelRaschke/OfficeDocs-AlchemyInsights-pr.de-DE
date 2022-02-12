@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 4a4f61931155199ad804d02f9b0c70fbd98b6cc3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4e4ab656fdc576090045cae019bd823e9d8ac330
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61861016"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62617692"
 ---
 # <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Bericht zur Datei- und Ordnerfreigabe in SharePoint Websites
 
-Sie können eine CSV-Datei erstellen, in der alle eindeutigen Dateien, Benutzer, Berechtigungen und Links auf einer bestimmten SharePoint Website oder OneDrive Bibliothek angegeben werden. Auf diese Weise können Sie besser verstehen, wie die Freigabe verwendet wird und ob Dateien oder Ordner für Gäste freigegeben wurden.
+Sie können eine CSV-Datei erstellen, in der jede eindeutige Datei, jeder Benutzer, jede Berechtigung und jeder Link auf einer bestimmten SharePoint Website oder OneDrive Bibliothek angegeben wird. Auf diese Weise können Sie besser verstehen, wie die Freigabe verwendet wird und ob Dateien oder Ordner für Gäste freigegeben wurden.
 
 For more information, [Report on file and folder sharing in a SharePoint site](https://docs.microsoft.com/sharepoint/sharing-reports).
 
-**Hinweis:** Dieses Feature ist derzeit für First Release-Mandanten bereitgestellt und wird schrittweise für alle Produktionsmandanten bereitgestellt.
+**Hinweis**: Dieses Feature wird derzeit für First Release-Mandanten bereitgestellt und wird schrittweise für alle Produktionsmandanten bereitgestellt.

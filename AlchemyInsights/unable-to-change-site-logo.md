@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002502"
 - "4868"
-ms.openlocfilehash: 852fb2affb59a6b502835bc6e066ad59077c9f6e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4dd2bbf144482b73ac01a4c38d4f51c5c507e40f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952012"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62582314"
 ---
 # <a name="unable-to-change-site-logo"></a>Website-Logo kann nicht geändert werden
 

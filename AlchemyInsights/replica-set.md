@@ -14,12 +14,12 @@ ms.custom:
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: 45cf530c3258fa3c7008c3e8251fdb7b74be6911d0487f58c5ce2530e25ca282
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cce01ec65df356069136ebe3e3ccc9e315dd9bdb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54110679"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62617728"
 ---
 # <a name="replica-set"></a>Replikatsatz
 
@@ -27,4 +27,4 @@ AADDS wird auch als verwaltete Domäne bezeichnet. Es handelt sich tatsächlich 
 
 Sie erstellen jede Replikatgruppe in einem virtuellen Netzwerk. Jedes virtuelle Netzwerk muss mit jedem anderen virtuellen Netzwerk gepeert werden, das die Replikatgruppe einer verwalteten Domäne hostet. Diese Konfiguration erstellt eine Gitternetzwerktopologie, die die Verzeichnisreplikation unterstützt. Ein virtuelles Netzwerk kann mehrere Replikatgruppen unterstützen, vorausgesetzt, jede Replikatgruppe befindet sich in einem anderen virtuellen Subnetz.
 
-Weitere Informationen zur Replikatgruppe finden Sie unter ["Konzepte für Replikatgruppen".](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets)
+Weitere Informationen zur Replikatgruppe finden Sie unter ["Konzepte für Replikatgruppen"](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).

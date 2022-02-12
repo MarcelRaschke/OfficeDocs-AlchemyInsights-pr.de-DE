@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000567"
 - "4500"
-ms.openlocfilehash: b1c3e60e55b2c4320b4154a71ed63ddb0144e984
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 93406a580d1c51cbdaf3d35f39c9b6c5561c62a7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61967898"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62559207"
 ---
 # <a name="backup-notebooks-in-onenote"></a>Sicherungskopie von Notizbüchern in OneNote erstellen
 

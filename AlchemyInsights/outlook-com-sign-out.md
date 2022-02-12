@@ -14,12 +14,12 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 67fb641ec34934116ed716ce824119476e64fe9e1c4d96e78a4d022f799763e5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 26c9f20cedc3d80414d56f437f1e4cd15c0bb5d3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53983380"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62619024"
 ---
 # <a name="how-to-sign-out-of-outlookcom"></a>Abmelden von Outlook.com
 
@@ -29,7 +29,7 @@ ms.locfileid: "53983380"
 
 2. Wählen Sie **Abmelden** aus.
 
-    Um die automatische Anmeldung zu beenden, deaktivieren Sie das Kontrollkästchen **"Angemeldet bleiben"** auf der Seite, auf der Sie Ihr Kennwort eingeben.
+    Um die automatische Anmeldung zu beenden, deaktivieren Sie das Kontrollkästchen " **Angemeldet bleiben"** auf der Seite, auf der Sie Ihr Kennwort eingeben.
 
-Weitere Informationen finden Sie unter ["Anmelden bei oder Abmelden bei Outlook.com".](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)
+Weitere Informationen finden Sie unter ["Anmelden bei oder Abmelden bei Outlook.com"](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   

@@ -15,19 +15,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 37f18edc51e893ff60fa160fbf3e451b67b837a8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: bbcfcc1fee42e63ddcd5b66298bfa601e07c52c0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61957888"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62670487"
 ---
 # <a name="create-a-sharepoint-site"></a>Erstellen einer SharePoint-Website
 
-Erstellen oder Verwalten von Websites über [aktive Websites](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) im SharePoint Admin Center. Weitere Informationen finden Sie unter [Verwalten von Websites im neuen SharePoint Admin Center.](https://docs.microsoft.com/sharepoint/manage-site-creation) 
+Erstellen oder Verwalten von Websites über [aktive Websites](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) im SharePoint Admin Center. Weitere Informationen finden Sie unter [Verwalten von Websites im neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/manage-site-creation). 
 
 ## <a name="tips"></a>Tipps:
 
-- Sie **können** keine Website mit derselben URL einer vorhandenen Website erstellen. Wenn Sie eine Website gelöscht haben und die URL erneut verwenden möchten, ist es möglich, dass die gelöschte Website unter ["Gelöschte Websites"](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)noch vorhanden ist. Die Website muss endgültig gelöscht werden, um die URL wieder zu verwenden. Informationen zum vollständigen Entfernen einer Website mit PowerShell finden Sie im Beispiel für das [Cmdlet "Remove-SPSite".](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
-- Einige Benutzer können möglicherweise keine Website erstellen. [Siehe Verwalten der Websiteerstellung in SharePoint Online.](https://docs.microsoft.com/sharepoint/manage-site-creation)
+- Sie **können** keine Website mit derselben URL einer vorhandenen Website erstellen. Wenn Sie eine Website gelöscht haben und die URL erneut verwenden möchten, ist es möglich, dass die gelöschte Website unter ["Gelöschte Websites](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)" noch vorhanden ist. Die Website muss endgültig gelöscht werden, um die URL wieder zu verwenden. Informationen zum vollständigen Entfernen einer Website mit PowerShell finden Sie im Beispiel für das [Cmdlet "Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) ".
+- Einige Benutzer können möglicherweise keine Website erstellen. [Siehe Verwalten der Websiteerstellung in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
 - Es ist möglich, dass die Website beim **Erstellen** länger als erwartet hängen bleibt. Wenn seit dem ersten Auftreten dieses Problems mehr als 24 Stunden vergangen sind, melden Sie sich bitte ein Supportticket an. In vielen Fällen arbeiten wir bereits an einer Lösung. Bitte geben Sie uns mindestens 24 Stunden Zeit, um eine Lösung abzuschließen.

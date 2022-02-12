@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002469"
 - "4805"
-ms.openlocfilehash: 475ed9a143d6fb4360a315ad0d975d4b84f12c4c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 317f3321594cb4affad66b633fef5844ce312744
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61962436"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62559675"
 ---
 # <a name="assign-microsoft-stream-admins"></a>Zuweisen von Microsoft Stream-Administratoren
 

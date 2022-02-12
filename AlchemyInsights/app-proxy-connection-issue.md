@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7801"
-ms.openlocfilehash: bbe71ac33b3ffc9d7414369432ce096520a3f7f1d8a0e34a256df2db7765d583
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6ecb1fe17de218e04e08f93a2933651b3406d5ba
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53951600"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62560179"
 ---
 # <a name="app-proxy-connection-issue"></a>Problem mit der App-Proxyverbindung
 
-1. Wenn Sie den Anwendungsproxydienst für den Remotezugriff auf eine lokale Webanwendung verwenden, aber Probleme beim Herstellen einer Verbindung mit der Anwendung haben, können Sie in [diesem Artikel](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) Probleme mit Azure Active Directory (Azure AD)-Anwendungsproxyconnectors beheben.
+1. Wenn Sie den Anwendungsproxydienst für den Remotezugriff auf eine lokale Webanwendung verwenden, aber Probleme beim Herstellen einer Verbindung mit der Anwendung haben, verwenden Sie [diesen Artikel](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), um Probleme mit Azure Active Directory (Azure AD) Anwendungsproxyconnectors zu beheben.
 2. Um Hilfe bei der Behebung häufiger Probleme zu erhalten, die auftreten, wenn ein Connector für eine in Azure Active Directory integrierte Anwendungsproxyanwendung nicht erkannt wird, führen Sie die Schritte im Artikel ["Keine funktionierende Connectorgruppe für eine Anwendungsproxyanwendung](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) zur Problembehandlung gefunden" aus.

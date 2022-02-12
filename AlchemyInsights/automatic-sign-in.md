@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10989"
 - "9006449"
-ms.openlocfilehash: 1acbcd2e97255c976647119c37d2cc2fe571667a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 053ce2a41fb967dbc24e3bc412be62a58f1ddc94
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61966056"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62559459"
 ---
 # <a name="automatic-sign-in"></a>Automatische Anmeldung
 

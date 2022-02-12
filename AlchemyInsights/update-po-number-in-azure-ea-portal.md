@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a69c1986197b095364125d32b1d8fba2fb81d373
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54007177"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62581941"
 ---
 # <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Aktualisieren der Po-Nummer im Azure EA-Portal – empfohlene Schritte
 
@@ -28,15 +28,15 @@ Das Azure EA-Portal generiert automatisch eine Standard-Po-Nummer, es sei denn, 
 
 So aktualisieren Sie die Po-Nummer:
 
-1. Melden Sie sich beim [EA-Portal](https://ea.azure.com/)an.
-1. Klicken Sie im linken Bereich auf **Berichte**.
-1. Klicken Sie oben auf der Seite auf **"Nutzungszusammenfassung",** und wählen Sie in der Dropdownliste den entsprechenden Zeitraum aus.
-1. Klicken Sie auf **"Anzeigen/Bearbeiten von PO-Nummern".**
-1. Geben Sie die neue Po-Nummer ein, und klicken Sie auf **"Speichern".**
+1. Melden Sie sich beim [EA-Portal an](https://ea.azure.com/).
+1. Klicken Sie im linken Bereich auf **"Berichte**".
+1. Klicken Sie oben auf der Seite auf **"Nutzungszusammenfassung** ", und wählen Sie den entsprechenden Zeitraum aus der Dropdownliste aus.
+1. Klicken Sie auf **"Anzeigen/Bearbeiten von PO-Nummern"**.
+1. Geben Sie die neue Po-Nummer ein, und klicken Sie auf **"Speichern**".
 
 **Empfohlene Dokumente** 
 
 - [Azure Enterprise-Registrierungsrechnungen](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
 - [Grundlegendes zu Ihrer Azure Enterprise Agreement-Rechnung](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
-- [Grundlegendes zu Azure Enterprise-Rollen](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
+- [Grundlegendes zu Azure Enterprise Rollen](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
 - [Erstellen eines anderen Unternehmensadministrators (EA-Administrator)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 

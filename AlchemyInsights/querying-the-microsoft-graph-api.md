@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e3ef8c80313663155bc013b0f8ac25291264475d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53923238"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62618160"
 ---
 # <a name="querying-the-microsoft-graph-api"></a>Abfragen der Microsoft Graph-API
 
-Dieses Thema kann auch für Entwickler gelten, die weiterhin die Azure AD-Graph-API verwenden. Es wird jedoch **dringend** empfohlen, Microsoft Graph für alle Verzeichnis-, Identitäts- und Zugriffsverwaltungsszenarien zu verwenden.
+Dieses Thema kann auch für Entwickler gelten, die weiterhin Azure AD Graph-API verwenden. Es wird jedoch **dringend** empfohlen, Microsoft Graph für alle Ihre Verzeichnis-, Identitäts- und Zugriffsverwaltungsszenarien zu verwenden.
 
 **Authentifizierungs- oder Autorisierungsprobleme**
 
-- Wenn Ihre App **keine Token abrufen kann,** um Microsoft Graph aufzurufen, wählen Sie **Problem beim Abrufen eines Zugriffstokens (Authentifizierung)** Microsoft Graph Kategorie aus, um spezifischere Hilfe und Unterstützung zu diesem Thema zu erhalten.
-- Wenn Ihre App beim Aufrufen von Microsoft Graph **401- oder 403-Autorisierungsfehler empfängt,** wählen Sie die Microsoft Graph API-Kategorie **"Zugriffsverweigerung erhalten"** aus, um spezifischere Hilfe und Unterstützung zu diesem Thema zu erhalten.
+- Wenn Ihre App **keine Token zum** Aufrufen von Microsoft Graph abrufen kann, wählen Sie **Problem beim Abrufen eines Zugriffstokens (Authentifizierung)** Microsoft Graph Kategorie aus, um spezifischere Hilfe und Unterstützung zu diesem Thema zu erhalten.
+- Wenn Ihre App beim Aufrufen von Microsoft Graph **401- oder 403-Autorisierungsfehler empfängt**, wählen Sie die Microsoft Graph API-Kategorie "**Zugriffsverweigerung erhalten"** aus, um spezifischere Hilfe und Unterstützung zu diesem Thema zu erhalten.
 
 **Ich möchte Microsoft Graph verwenden, aber nicht sicher, wo ich beginnen soll**
 
@@ -39,7 +39,7 @@ Weitere Informationen zu Microsoft Graph finden Sie unter:
 
 **Ich möchte Microsoft Graph verwenden, unterstützt aber die v1.0-Verzeichnis-APIs, die ich benötige?**
 
-Microsoft Graph ist die empfohlene API für Verzeichnis-, Identitäts- und Zugriffsverwaltung. Es gibt jedoch noch einige Lücken zwischen dem, was in Azure AD Graph und Microsoft Graph möglich ist. Lesen Sie die folgenden Artikel, in denen die aktuellsten Unterschiede hervorgehoben werden, um Ihnen bei der Auswahl zu helfen:
+Microsoft Graph ist die empfohlene API für Verzeichnis-, Identitäts- und Zugriffsverwaltung. Es gibt jedoch noch einige Lücken zwischen den Möglichkeiten in Azure AD Graph und Microsoft Graph. Lesen Sie die folgenden Artikel, in denen die aktuellsten Unterschiede hervorgehoben werden, um Ihnen bei der Auswahl zu helfen:
 
 - [Ressourcentypunterschiede zwischen Azure AD Graph und Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
 - [Eigenschaftsunterschiede zwischen Azure AD Graph und Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
@@ -49,24 +49,24 @@ Microsoft Graph ist die empfohlene API für Verzeichnis-, Identitäts- und Zugri
 
 `GET https://graph.microsoft.com/v1.0/users`gibt nur 11 Eigenschaften zurück, da Microsoft Graph automatisch einen Standardsatz von *Benutzereigenschaften* auswählt, der zurückgegeben werden soll. Wenn Sie andere *Benutzereigenschaften* benötigen, verwenden Sie $select, um die Eigenschaften zu wählen, die Ihre Anwendung benötigt. Probieren Sie es zuerst in **Microsoft Graph Explorer** aus.
 
-**Einige Benutzereigenschaftswerte sind *null,* obwohl ich weiß, dass sie festgelegt sind.**
+**Einige Benutzereigenschaftswerte sind *null* , obwohl ich weiß, dass sie festgelegt sind.**
 
-Die wahrscheinlichste Erklärung ist, dass der Anwendung die Berechtigung *User.ReadBasic.All* gewährt wurde. Dadurch kann die Anwendung einen begrenzten Satz von Benutzereigenschaften lesen und alle anderen Eigenschaften als NULL zurückgeben, auch wenn sie zuvor festgelegt wurden. Versuchen Sie stattdessen, der Anwendung *"User.Read.All"* die Berechtigung zu erteilen.
+Die wahrscheinlichste Erklärung ist, dass der Anwendung die Berechtigung *User.ReadBasic.All* gewährt wurde. Dadurch kann die Anwendung einen begrenzten Satz von Benutzereigenschaften lesen und alle anderen Eigenschaften als NULL zurückgeben, auch wenn sie zuvor festgelegt wurden. Versuchen Sie stattdessen, der Anwendung " *User.Read.All"* die Berechtigung zu erteilen.
 
-Weitere Informationen finden Sie unter [Microsoft Graph Benutzerberechtigungen.](https://docs.microsoft.com/graph/permissions-reference#user-permissions)
+Weitere Informationen finden Sie unter [Microsoft Graph Benutzerberechtigungen](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
 
 **Ich habe Probleme mit der Verwendung von OData-Abfrageparametern zum Filtern von Daten in meinen Anforderungen**
 
-Während Microsoft Graph eine Vielzahl von OData-Abfrageparametern unterstützt, werden viele dieser Parameter von Verzeichnisdiensten (Ressourcen, die von *directoryObject* erben) in Microsoft Graph nicht vollständig unterstützt. Die gleichen Einschränkungen, die in Azure AD vorhanden waren, Graph in Microsoft Graph größtenteils beibehalten:
+Während Microsoft Graph eine Vielzahl von OData-Abfrageparametern unterstützt, werden viele dieser Parameter von Verzeichnisdiensten (Ressourcen, die von *directoryObject* erben) in Microsoft Graph nicht vollständig unterstützt. Die gleichen Einschränkungen, die in Azure AD Graph vorhanden waren, bleiben größtenteils in Microsoft Graph bestehen:
 
-1. **Nicht unterstützt:**$count, $search und $filter für *NULL-Werte* oder *nicht NULL-Werte*
-2. **Nicht unterstützt:**$filter für bestimmte Eigenschaften (siehe Ressourcenthemen, in denen Eigenschaften gefiltert werden können)
-3. **Nicht unterstützt:** Gleichzeitiges Paging, Filtern und Sortieren
-4. **Nicht unterstützt:** Filtern nach einer Beziehung. Suchen Sie beispielsweise alle Mitglieder der Engineering-Gruppe, die sich in Großbritannien befinden.
-5. **Teilweise Unterstützung:**$orderby für *Benutzer* (nur displayName und userPrincipalName) und *Gruppe*
-6. **Partielle Unterstützung:**$filter (unterstützt nur *eq*, *startswith* *oder* und , *und* *beschränkte jegliche*) Unterstützung, $expand (das Erweitern der Beziehungen eines einzelnen Objekts gibt alle Beziehungen zurück, aber das Erweitern einer Auflistung von Objektbeziehungen ist begrenzt)
+1. **Nicht unterstützt**: $count, $search und $filter für *NULL-Werte* oder *nicht NULL-Werte*
+2. **Nicht unterstützt**: $filter zu bestimmten Eigenschaften (siehe Ressourcenthemen, in denen Eigenschaften gefiltert werden können)
+3. **Nicht unterstützt**: Gleichzeitiges Paging, Filtern und Sortieren
+4. **Nicht unterstützt**: Filtern nach einer Beziehung. Suchen Sie beispielsweise alle Mitglieder der Engineering-Gruppe, die sich in Großbritannien befinden.
+5. **Teilweise Unterstützung**: $orderby für *Benutzer* (nur displayName und userPrincipalName) und *Gruppe*
+6. **Partielle Unterstützung**: $filter (unterstützt nur *eq*, *startswith* *oder**, and, and* limited *any*) Unterstützung, $expand (das Erweitern der Beziehungen eines einzelnen Objekts gibt alle Beziehungen zurück, aber das Erweitern einer Auflistung von Objektbeziehungen ist begrenzt)
 
-Weitere Informationen finden Sie unter [Anpassen von Antworten mit Abfrageparametern.](https://docs.microsoft.com/graph/query-parameters)
+Weitere Informationen finden Sie unter [Anpassen von Antworten mit Abfrageparametern](https://docs.microsoft.com/graph/query-parameters).
 
 **Die API, die ich aufrufe, funktioniert nicht – wo kann ich weitere Tests durchführen?**
 
@@ -74,7 +74,7 @@ Weitere Informationen finden Sie unter [Anpassen von Antworten mit Abfrageparame
 
 **Wenn ich Daten abfrage, sieht es so aus, als erhalte ich einen unvollständigen Datensatz zurück**
 
-Wenn Sie eine Sammlung (z. *B. Benutzer)* abfragen, verwendet Microsoft Graph serverseitige Seitenbeschränkungen, sodass Ergebnisse immer mit einer Standardseitengröße zurückgegeben werden. Ihre App sollte immer davon ausgehen, dass Sammlungen durchblättern, die vom Dienst zurückgegeben werden.
+Wenn Sie eine Sammlung (z. B. *Benutzer*) abfragen, verwendet Microsoft Graph serverseitige Seitenbeschränkungen, sodass Ergebnisse immer mit einer Standardseitengröße zurückgegeben werden. Ihre App sollte immer davon ausgehen, dass Sammlungen durchblättern, die vom Dienst zurückgegeben werden.
 
 Weitere Informationen finden Sie unter:
 
@@ -102,5 +102,5 @@ Weitere Informationen finden Sie unter:
 
 Die Dienstverfügbarkeit und Konnektivität der zugrunde liegenden Dienste, auf die über Microsoft Graph zugegriffen werden kann, kann sich auf die allgemeine Verfügbarkeit und Leistung von Microsoft Graph auswirken.
 
-- Überprüfen Sie für Azure Active Directory Dienststatus den Status der Auf der [Azure-Statusseite](https://azure.microsoft.com/status/)aufgeführten **Sicherheits- und Identitätsdienste.**
+- Überprüfen Sie für Azure Active Directory Dienststatus den Status der Auf der [Azure-Statusseite](https://azure.microsoft.com/status/) aufgeführten **Sicherheits- und Identitätsdienste**.
 - For Office services that contribute to Microsoft Graph, check the status of services listed in the [Office Service Health Dashboard](https://portal.office.com/adminportal/home#/servicehealth).

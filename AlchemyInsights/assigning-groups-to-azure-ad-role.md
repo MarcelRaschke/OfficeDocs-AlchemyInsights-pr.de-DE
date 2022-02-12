@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7898"
 - "9003230"
-ms.openlocfilehash: 563b1a7c93c9ca64fdea51c57b70fd2132750c4ad8ee15de0c65c9668c9c3c56
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b92cdfcbf0c9ba5e161fb55019e9217ae82ce998
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54036239"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62559633"
 ---
 # <a name="assigning-groups-to-azure-ad-role"></a>Zuweisen von Gruppen zu Azure AD-Rollen
 

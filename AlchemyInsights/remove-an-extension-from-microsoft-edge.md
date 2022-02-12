@@ -14,18 +14,18 @@ ms.custom:
 - "6936"
 - "8311"
 - "9004621"
-ms.openlocfilehash: efd515d472f0ab99213ffa88709861000bb6536e1d2c10beef8f6d534cc94a7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e5d11366ab63359f2fdb1ebe0109173b4a1bdce0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922410"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62617980"
 ---
 # <a name="remove-an-extension-from-microsoft-edge"></a>Entfernen einer Erweiterung aus Microsoft Edge
 
 So entfernen Sie eine Erweiterung aus Microsoft Edge:
 
 1. Öffnen Sie Microsoft Edge.
-2. Select **... > Extensions**.
-3. Suchen Sie auf der Seite **"Installierte Erweiterungen"** die Erweiterung, die Sie entfernen möchten, und wählen Sie dann **"Entfernen"** neben der Erweiterung aus.
-4. Wählen Sie im Bestätigungsdialogfeld **"Entfernen" aus.**
+2. Wählen Sie **... > Erweiterungen aus**.
+3. Suchen Sie auf der Seite **"Installierte Erweiterungen** " die Erweiterung, die Sie entfernen möchten, und wählen Sie dann " **Entfernen"** neben der Erweiterung aus.
+4. Wählen Sie im Bestätigungsdialogfeld " **Entfernen" aus**.

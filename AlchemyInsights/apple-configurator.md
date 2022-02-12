@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1570"
 - "9000085"
-ms.openlocfilehash: 4dc99e73ebf82bb8871cedf87417adb4ddef75f4
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3b390d0ba69b7e53141a4763fe810f3dd4b44f59
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61934436"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62559999"
 ---
 # <a name="apple-configurator"></a>Apple-Konfigurator
 

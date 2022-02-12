@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005716"
 - "9932"
-ms.openlocfilehash: b335d85b915aa4384f81cca318748f4190389f85
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b3299c2b3026e1fc098cb0531b3f1c4ea6aef4d7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960593"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62582589"
 ---
 # <a name="turn-on-and-off-automatic-updates-in-windows"></a>Aktivieren und Deaktivieren von automatischen Updates in Windows
 

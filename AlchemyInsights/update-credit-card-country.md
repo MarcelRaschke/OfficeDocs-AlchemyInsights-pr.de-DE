@@ -15,12 +15,12 @@ ms.custom:
 - "1500016"
 - "10966"
 ms.date: 04/16/2021
-ms.openlocfilehash: 6b214520881d87a1e8a5eeb9da6d77c049dbe59b
-ms.sourcegitcommit: 77dad4c3ffa2f43116c42b70909ecdf3e4ef1b55
+ms.openlocfilehash: 98db723c671cfc2d17616bd65fee39a0ee976334
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62193015"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62582193"
 ---
 # <a name="update-credit-card-country-information"></a>Aktualisieren der Länderinformation der Kreditkarte
 

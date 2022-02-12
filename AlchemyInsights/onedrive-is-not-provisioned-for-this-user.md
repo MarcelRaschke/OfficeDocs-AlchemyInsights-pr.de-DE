@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 606616ae3621c36b1ba093c4b9bcd81af47497b2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6d6c2fb0783cbb36c8259b46071e1da598bbb182
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61961529"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62619528"
 ---
 # <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive für diesen Benutzer nicht bereitgestellt wird
 

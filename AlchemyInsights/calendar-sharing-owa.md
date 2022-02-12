@@ -13,16 +13,16 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: 51777d047d42614b26fb23bde5b9678726cdf9b9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8ae78d878492f0aad5f0d51c1f6fd39dad53ae9c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61971429"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62559099"
 ---
 # <a name="troubleshooting-issues-with-calendar-sharing"></a>Problembehandlung bei der Kalenderfreigabe
 
-- Verwenden Sie zum Diagnostizieren von Berechtigungsproblemen [Exchange Frei/Gebucht-Remoteverbindungsanalyse,](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy)die sehr spezifische Fehlermeldungen liefert.
+- Verwenden Sie zum Diagnostizieren von Berechtigungsproblemen [Exchange Frei/Gebucht-Remoteverbindungsuntersuchung](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy), die sehr spezifische Fehlermeldungen liefert.
 - Sie können auch die [Microsoft Support- und Wiederherstellungs-Assistent für Microsoft 365](https://diagnostics.office.com/) verwenden, um eine Vielzahl von anderen Kalenderproblemen zu diagnostizieren. 
 - Wenn der Benutzer über Desktop-Outlook verfügt, kann das [Kalenderüberprüfungstool für Outlook](https://www.microsoft.com/download/details.aspx?id=28786) potenzielle Probleme lösen.
 

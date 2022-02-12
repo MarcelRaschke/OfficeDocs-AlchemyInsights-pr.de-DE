@@ -7,13 +7,18 @@ ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-  - 1737
-  - 9000181
+- "1737"
+- "9000181"
+ms.openlocfilehash: b44f45706d830ee78f329feecb7d4b7daa011062
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62559567"
 ---
-
 # <a name="auto-apply-sensitivity-labels"></a>Automatisches Anwenden von Vertraulichkeitsbezeichnungen
 
 Vertraulichkeitsbezeichnungen können von Benutzern manuell auf Inhalte angewendet werden, oder Sie können sie so konfigurieren, dass sie automatisch auf Inhalte angewendet werden.

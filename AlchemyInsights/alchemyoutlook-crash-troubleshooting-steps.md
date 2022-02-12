@@ -1,5 +1,5 @@
 ---
-title: Alemy – Outlook Schritte zur Absturzproblembehandlung
+title: Alemy – Outlook Schritte zur Problembehandlung bei Abstürzen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,12 +13,12 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 3f19722014c1d01b6c2ae742755ac3857b73f413
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: ace5eaf712658478ec2515ddc43ba7dfd77623ab
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61947563"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62581401"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Schritte zur Problembehandlung bei Outlook-Absturz
 
@@ -26,9 +26,9 @@ Wenn Sie Outlook Desktop-Absturzprobleme haben, führen Sie zunächst die drei f
   
 Schritt 1: Untersuchen sie mögliche Probleme mit Add-Ins.
   
-Schritt 2: Reparieren Sie Outlook, und führen Sie das [Support- und Wiederherstellungs-Assistent-Tool](https://aka.ms/SaRA-OutlookWontStart) aus, um Outlook Startfehler auf dem betroffenen Computer zu beheben.
+Schritt 2: Reparieren Sie Outlook, und führen [Sie das Support- und Wiederherstellungs-Assistent-Tool](https://aka.ms/SaRA-OutlookWontStart) aus, um Outlook Startfehler auf dem betroffenen Computer zu beheben.
   
 Schritt 3: Erstellen Sie ein neues Outlook Profil, oder führen Sie das [Outlook Profiltool](https://aka.ms/SaRA-OutlookSetupProfile) auf dem betroffenen Computer aus.
   
-Wenn das Problem nach einem Update auftrat und die oben beschriebenen Schritte keine Abhilfe schaffen, müssen Sie möglicherweise zu einem vorherigen Build zurückkehren. Weitere Informationen finden Sie [unter Kehren zu einer früheren Version von Office 2016 Klick-und-Los](https://support.microsoft.com/help/2770432).
+Wenn das Problem nach einem Update auftrat und die oben beschriebenen Schritte keine Abhilfe schaffen, müssen Sie möglicherweise zu einem vorherigen Build zurückkehren. Weitere Informationen [finden Sie unter Kehren zu einer früheren Version von Office 2016 Klick-und-Los](https://support.microsoft.com/help/2770432).
   

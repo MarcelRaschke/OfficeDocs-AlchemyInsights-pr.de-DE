@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001731"
 - "3830"
-ms.openlocfilehash: 8df29728517429da6381ab5516058993adc610d3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d6d1af6d77e94149b3a8aa5d51e5630d4d233ebe
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61951832"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62670379"
 ---
 # <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>Erstellen eines organisationsweiten Teams, das alle Personen in Ihrer Organisation enthält.
 

@@ -13,12 +13,12 @@ ms.custom:
 - "611"
 - "3800009"
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: 91c744c66abe1dff81660c6e92c3f1c843ae88ce
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: bd5f52449799b2cc8732ae250de92f2938aca6c9
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61970779"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62558884"
 ---
 # <a name="calendar-sharing-in-outlook"></a>Kalenderfreigabe in Outlook
 

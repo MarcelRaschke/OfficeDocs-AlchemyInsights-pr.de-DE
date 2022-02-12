@@ -7,14 +7,19 @@ ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 1490
-  - 3200003
+- "1490"
+- "3200003"
+ms.openlocfilehash: c6be047cdf8127b0f820326dd03a4cda2e766d54
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62583093"
 ---
-
 # <a name="troubleshoot-content-search-errors"></a>Problembehandlung bei Fehlern bei der Inhaltssuche
 
 Treten Beim Exportieren von Suchergebnissen Probleme mit der Inhaltssuche auf oder treten Fehler auf?
@@ -23,7 +28,7 @@ Erhalten Sie beispielsweise Folgendes, wenn Sie Suchvorgänge ausführen?
 - CS007-, CS008- oder CS012-Fehler
 - Serverauslastungs-/Timeoutfehler
 - Anwendungsfehler aufgetreten
-- Die Position *username@domain.com* ist nicht eindeutig.
+- Die Position *username@domain.com* mehrdeutig ist
 
 Oder erhalten Sie Exportfehler, wenn Sie Ergebnisse aus einer großen Anzahl von Postfächern (über 100.000) suchen oder exportieren?
 

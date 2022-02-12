@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5710"
-ms.openlocfilehash: fe5587bd8c775263118d1443969da28c769f40f2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8f85176c2cc42ac1d23b7f8b884b218f151798b9
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61962943"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62559028"
 ---
 # <a name="block-file-download-with-azure-ad-conditional-access"></a>Blockieren des Dateidownloads mit bedingtem Azure AD-Zugriff
 
