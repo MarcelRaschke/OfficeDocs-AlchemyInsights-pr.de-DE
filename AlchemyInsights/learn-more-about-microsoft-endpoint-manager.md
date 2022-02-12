@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001494"
 - "4387"
-ms.openlocfilehash: 4620a2844e2423be883c6d3835b01cfbc07264e1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 1ef96539cba2405a40e0f9818eb2e8b12fc91961
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61951580"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62699756"
 ---
 # <a name="learn-more-about-microsoft-endpoint-manager"></a>Weitere Informationen zu Microsoft Endpoint Manager
 

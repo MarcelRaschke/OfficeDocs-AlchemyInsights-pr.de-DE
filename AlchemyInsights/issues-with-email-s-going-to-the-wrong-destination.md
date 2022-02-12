@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 324
 ms.assetid: 5f6ae28e-cd87-4265-9ad4-d13c201c12da
-ms.openlocfilehash: ee5c5379a6c7891df8e3397b94b016b16450277f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: deddbb536285fe5bc84bea86a15ad0c9ad79b836
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61987897"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62699900"
 ---
 # <a name="email-messages-are-going-to-the-wrong-destination"></a>E-Mail-Nachrichten werden an das falsche Ziel geleitet
 
-Es sieht so aus, als hätten Sie ein Problem mit dem Nachrichtenfluss. Wir verfügen über Diagnosen, die ihnen helfen, viele häufige Probleme beim Nachrichtenfluss zu erkennen. Klicken Sie unten auf **"Diagnose ausführen".**
+Es sieht so aus, als hätten Sie ein Problem mit dem Nachrichtenfluss. Wir verfügen über Diagnosen, die ihnen helfen, viele häufige Probleme beim Nachrichtenfluss zu erkennen. Klicken Sie unten auf **"Diagnose ausführen** ".
