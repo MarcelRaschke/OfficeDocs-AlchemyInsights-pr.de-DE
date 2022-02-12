@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2b05acdeb23130cb057c3f43bb7656a3549be9c8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54116367"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62605703"
 ---
 # <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Erste Schritte mit den Entwicklertools in Microsoft Edge (Chromium)
 
 Microsoft Edge hat das Chromium Open Source-Projekt übernommen, das darauf abzielt, das Web weniger fragmentiert und Webplattformen kompatibler zu machen. Durch diese Änderung können Sie Microsoft Edge verwenden, um Ihre Websites zu erstellen und zu testen, die in anderen Chromium-basierten Browsern funktionieren.
 
-Microsoft Edge (Chromium) bietet auch erstklassige [Entwicklertools,](https://go.microsoft.com/fwlink/?linkid=2134941) die Ihnen vertraut sein sollten und mit den bereits verwendeten Tools kompatibel sind.
+Microsoft Edge (Chromium) bietet auch [erstklassige Entwicklertools](https://go.microsoft.com/fwlink/?linkid=2134941), die Ihnen vertraut sein sollten und mit den bereits verwendeten Tools kompatibel sind.
 
 Weitere Informationen finden Sie [unter What's new in the Microsoft Edge (Chromium) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).

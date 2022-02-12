@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: 118d92e634d7d2aceb078d0c045bdf5e100f781f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 036114493601cafb7584be0f31c29f2039e69ef3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61981895"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62757431"
 ---
 # <a name="getting-started-with-teams-webinars"></a>Erste Schritte mit Teams Webinaren
 
@@ -25,6 +25,6 @@ Webinare sind strukturierte Besprechungen, bei denen Kursleiter und Teilnehmer �
 
 Nach dem Einrichten von Webinaren in Ihrer Organisation können Ihre Benutzer Webinare planen und die Registrierung für Teilnehmer öffnen. Im Gegensatz zu herkömmlichen Besprechungen, die viele Diskussionen und Aufgabenzuweisungen umfassen, sind Webinare für interaktive Präsentationen und zur Bereitstellung von Tools für die Analyse der Teilnehmer gedacht.
 
-**Hinweis:** Die Webinarfunktionalität wird noch für Microsoft 365 Mandanten bereitgestellt. 
+**Hinweis**: Die Webinarfunktionalität wird noch für Microsoft 365 Mandanten bereitgestellt. 
 
-Weitere Informationen zum Einrichten und Konfigurieren Teams Webinare finden Sie unter ["Einrichten von Webinaren in Microsoft Teams".](https://docs.microsoft.com/microsoftteams/set-up-webinars)
+Weitere Informationen zum Einrichten und Konfigurieren Teams Webinare finden Sie unter ["Einrichten von Webinaren in Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-webinars)".

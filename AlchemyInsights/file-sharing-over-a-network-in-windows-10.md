@@ -6,21 +6,26 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 9001476
-  - 3507
+- "9001476"
+- "3507"
+ms.openlocfilehash: cf6b52a6dc630d6f6e8158712f3815e44fbe75c5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62605991"
 ---
-
 # <a name="file-sharing-over-a-network-in-windows-10"></a>Dateifreigabe über ein Netzwerk in Windows 10
 
-**Hinweis:** Wenn Sie die Heimnetzgruppe zuvor für die Dateifreigabe verwendet haben, beachten Sie, dass die Heimnetzgruppe aus Windows 10 entfernt wurde (Version 1803). Sie können jetzt Drucker und Dateien freigeben, indem Sie integrierte Features in Windows 10 verwenden.
+**Hinweis**: Wenn Sie die Heimnetzgruppe zuvor für die Dateifreigabe verwendet haben, beachten Sie, dass die Heimnetzgruppe aus Windows 10 entfernt wurde (Version 1803). Sie können jetzt Drucker und Dateien freigeben, indem Sie integrierte Features in Windows 10 verwenden.
 
 **So geben Sie Dateien oder Ordner über ein Netzwerk frei**
 
-- Wählen Sie im **Datei-Explorer** eine Datei aus, > klicken Sie oben > im Abschnitt **"Freigeben mit"** auf die Registerkarte **"Freigeben",** und klicken Sie auf **"Bestimmte Personen".**
+- Wählen Sie im **Datei-Explorer** eine Datei aus, > klicken Sie oben > im Abschnitt "**Freigeben mit**" auf die Registerkarte "**Freigeben**", und klicken Sie auf **"Bestimmte Personen**".
 
     ![Geben Sie eine Datei für bestimmte Personen frei.](media/share-with-specific-people.png)
           
@@ -28,9 +33,9 @@ ms.custom:
 
 **So zeigen Sie Geräte im Netzwerk an, die Dateien freigeben**
 
-- Wechseln **Sie im Datei-Explorer** zu **"Netzwerk".** Wenn die Netzwerkermittlung nicht aktiviert ist, wird die Fehlermeldung "Netzwerkermittlung ist deaktiviert..." angezeigt.
+- Wechseln **Sie im Datei-Explorer** zu **"Netzwerk"**. Wenn die Netzwerkermittlung nicht aktiviert ist, wird die Fehlermeldung "Netzwerkermittlung ist deaktiviert..." angezeigt.
 
-- Klicken Sie auf das Banner **"Netzwerkermittlung ist deaktiviert",** und klicken Sie dann **auf "Netzwerkermittlung und Dateifreigabe** aktivieren".
+- Klicken Sie auf das Banner **"Netzwerkermittlung ist deaktiviert** ", und klicken Sie dann **auf "Netzwerkermittlung und Dateifreigabe** aktivieren".
 
     ![Aktivieren Sie die Netzwerkermittlung und Dateifreigabe.](media/turn-on-network-discovery.png)
 

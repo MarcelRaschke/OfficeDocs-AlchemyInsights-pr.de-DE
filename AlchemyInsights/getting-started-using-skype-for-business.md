@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002421"
 - "4698"
-ms.openlocfilehash: 36585e5eadcf800bcb6b81e3f9046960f02fa799
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0a4b95f544f6e8ede1716867b22720f32332afa0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61983645"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62605739"
 ---
 # <a name="getting-started-using-skype-for-business"></a>Erste Schritte mit Skype for Business
 

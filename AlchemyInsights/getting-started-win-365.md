@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13666"
 - "9008586"
-ms.openlocfilehash: 24efda9b8d6b593477d9632c09f062ba5696edc1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 988db874d0b54d98592bfcf73bc12515a1408a0f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61983609"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62605811"
 ---
 # <a name="getting-started-with-windows-365"></a>Erste Schritte mit Windows 365
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: 3aa158f5f84d3de018f9949ed0123fafec5bbecd7d4c18a3cef8af7fe738d78c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2afdb7d2d4d2931c61796e6111cf4ca64e90df92
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54074823"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62728314"
 ---
 # <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Elemente in SharePoint Online oder OneDrive for Business können nicht gelöscht werden
 

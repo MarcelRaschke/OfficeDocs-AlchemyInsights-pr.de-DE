@@ -13,12 +13,12 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: 1901dd13291cc1e4b811d243a670b8d6c2998e712a8d1744effe7e3832c156da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4e458640fde37fb7450471eac2ccade5a04b575
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964668"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62606063"
 ---
 # <a name="duplicate-object-synchronization-errors"></a>Doppelte Objektsynchronisierungsfehler
 
@@ -28,4 +28,4 @@ Wenn während einer Synchronisierung einer der folgenden Fehler angezeigt wird:
 
 - Eine ähnliche Meldung für UserPrincipalName.
 
-Verwenden Sie die neue AADConnect-Integritätsdiagnose, um doppelte Objektfehler zu beheben. Weitere Informationen finden Sie unter [Diagnostizieren und Beheben doppelter Attributsynchronisierungsfehler.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)
+Verwenden Sie die neue AADConnect-Integritätsdiagnose, um doppelte Objektfehler zu beheben. Weitere Informationen finden Sie unter [Diagnostizieren und Beheben doppelter Attributsynchronisierungsfehler](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).

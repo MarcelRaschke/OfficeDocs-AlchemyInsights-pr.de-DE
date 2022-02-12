@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003564"
 - "6664"
-ms.openlocfilehash: 6d5f9e4edef3e920543e6d5d9c34a93040884f51
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2cab1eec257442df8e8adab3867dd2c4f8e812c1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61950677"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62643000"
 ---
 # <a name="change-the-font-size-in-a-message"></a>Ändern des Schriftgrads in einer Nachricht
 

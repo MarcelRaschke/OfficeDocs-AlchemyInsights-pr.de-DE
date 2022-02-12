@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002970"
 - "5683"
-ms.openlocfilehash: 5e49b85fa540788e478a43e2ed83ff3899bc9c5c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 43fdeb84454b96c803268bc01eabd78e64c134a3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61861267"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62729106"
 ---
 # <a name="recover-the-homeaspx-page"></a>Wiederherstellen der Seite Start.aspx
 

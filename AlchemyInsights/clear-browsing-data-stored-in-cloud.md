@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9425"
 - "9005491"
-ms.openlocfilehash: 650d64d50dfbb894855a68c403cf1e9e10fbb555
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b64d722529c0a203143c94b14f7b44156a9506f3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61941859"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62642460"
 ---
 # <a name="clear-the-browsing-data-stored-in-the-cloud-if-youve-turned-on-sync-or-personalization"></a>Löschen Sie die in der Cloud gespeicherten Browsing-Daten (wenn Sie die Synchronisierung oder Personalisierung aktiviert haben)
 

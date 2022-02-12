@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9001698
-  - 5144
+- "9001698"
+- "5144"
+ms.openlocfilehash: 447fbcd6b38f0e49bbeecbfa878bd3ce22ac2a7b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62729214"
 ---
-
 # <a name="resolve-issues-opening-powerpoint-files"></a>Beheben von Problemen beim Öffnen von PowerPoint-Dateien
 
 - Befolgen Sie die Schritte unter [Fehler: Datei kann nicht gelesen werden, oder die Präsentation kann nicht geöffnet werden,](https://support.office.com/article/Error-Can-t-read-file-or-Presentation-cannot-be-opened-7f2f31e2-d4dd-4c1f-9e27-ba6fadf92d44) wenn beim Öffnen einer Datei eine Fehlermeldung angezeigt wird.

@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9003077
-  - 5850
+- "9003077"
+- "5850"
+ms.openlocfilehash: 2f5e0b950c26674802b4cf0faf1aa366e21d4b28
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62642856"
 ---
-
 # <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Ändern des Organisationsnamens für den OneDrive-Synchronisierungsclient
 
 OneDrive verwendet den Organisationsnamen, den ein Mandantenadministrator festgelegt hat.  Sie können [die Adresse, den technischen Kontakt und anderer Informationen Ihrer Organisation ändern](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more). Sobald diese Änderung für den Mandanten ausgeführt wurde, gibt der OneDrive-Synchronisierungsclient den neuen Namen erst wieder, wenn Benutzer die Verknüpfung aufheben und Ihr OneDrive-Konto erneut verknüpfen.

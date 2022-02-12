@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: b43a677377e11ce92e461532e54a3e4247de6a4e1924def11a14f4956b3d8de8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f828a1b1b1eee522f4477e8746887bca6daf9593
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005845"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62642388"
 ---
 # <a name="assign-ediscovery-administrator-permissions"></a>Zuweisen von eDiscovery-Administratorberechtigungen
 

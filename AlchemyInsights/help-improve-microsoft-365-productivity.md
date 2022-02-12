@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004612"
 - "8268"
-ms.openlocfilehash: 4a7aae1a1e95aa6e8d35a57ed7a7de692cf85901fc6879bcaa8dade37456eba3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88c3d477558e55670e0d2f2a8d547ef37465e05c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54002191"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62756999"
 ---
 # <a name="help-improve-microsoft-365-productivity"></a>Verbessern Microsoft 365 Produktivität
 
-Die Produktivitätsbewertung unterstützt die digitale Transformation Ihrer Organisation mit Einblicken darüber, wie Microsoft 365 Produkte verwendet werden und welche Technologieerfahrungen dahinter stehen.
+Die Produktivitätsbewertung unterstützt die digitale Transformation Ihrer Organisation mit Einblicken darüber, wie Microsoft 365 Produkte verwendet werden und welche Technologieerfahrungen ihnen zugrunde liegen.
 
 Weitere Informationen finden Sie unter:
 
@@ -29,4 +29,4 @@ Weitere Informationen finden Sie unter:
 - [So interpretieren Sie die Bewertung Ihrer Organisation](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
 - [Datenschutzsteuerelemente für die Produktivitätsbewertung](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
 
-Weitere Informationen finden Sie unter [Microsoft Productivity Score Overview](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score).
+Weitere Informationen finden Sie unter [Übersicht über die Microsoft-Produktivitätsbewertung](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score).

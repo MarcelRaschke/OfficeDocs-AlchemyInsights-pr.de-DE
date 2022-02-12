@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5730"
-ms.openlocfilehash: f207c561e72a94932d8e932a086edcbb18988c80
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b409dd81db2e73665638d6509109e92211eff3ba
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61937803"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62728818"
 ---
 # <a name="restore-the-sharepoint-root-site"></a>Wiederherstellen der SharePoint-Stammwebsite
 

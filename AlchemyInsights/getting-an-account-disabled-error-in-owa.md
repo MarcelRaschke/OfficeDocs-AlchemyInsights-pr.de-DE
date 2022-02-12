@@ -14,13 +14,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 73879d883bd942d1b4bd59bf4ebf290d358349fbeb026b3234934319014d21af
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35a9aa1efd088df4f0343db61c827185e0202e21
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54089331"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62605523"
 ---
 # <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Fehler "Konto deaktiviert" in Outlook im Web erhalten?
 
-Wenn Sie den Fehler erhalten, mit dem **Ihr Konto deaktiviert wurde,** `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` wenn Sie versuchen, Outlook im Web (früher als Outlook Web App bezeichnet) zu öffnen, hat Ihr Organisationsadministrator möglicherweise Den Zugriff auf Outlook im Web deaktiviert. Ihr Administrator kann diesen Fehler beheben, indem er die Schritte im Thema [aktivieren oder deaktivieren Outlook Web App für ein Postfach ausführt.](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)
+Wenn sie den Fehler erhalten, mit `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` dem **Ihr Konto deaktiviert wurde**, wenn Sie versuchen, Outlook im Web (früher als Outlook Web App bezeichnet) zu öffnen, hat Ihr Organisationsadministrator möglicherweise Den Zugriff auf Outlook im Web deaktiviert. Ihr Administrator kann diesen Fehler beheben, indem er die Schritte im Thema [Aktivieren oder Deaktivieren Outlook Web App für ein Postfach](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx) ausführt.

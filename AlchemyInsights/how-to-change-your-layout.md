@@ -13,16 +13,16 @@ ms.custom:
 - "993"
 - "8000059"
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: 153d908298e5fcfe8417f45ac89c911993f98d16ffe5c27abda4b6f3959002c0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 14c4dd54f7a8510d4bd410436a9bfeb9c38c2246
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963750"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62757179"
 ---
 # <a name="how-to-change-your-layout"></a>So ändern Sie Ihr Layout
 
-Es ist einfach, die Einstellungen in Outlook.com so zu ändern, dass es wie gewünscht aussieht und sich verhält. Wählen Sie **Einstellungen** auf der Symbolleiste zu den beliebtesten Optionen aus.
+Es ist einfach, die Einstellungen in Outlook.com so zu ändern, dass sie wie gewünscht aussieht und sich verhält. Wählen Sie **Einstellungen** auf der Symbolleiste zu den beliebtesten Optionen aus.
 
-Um alle Layoutoptionen anzuzeigen, wählen Sie **Einstellungen**  >  **E-Mail-Layout**  >  [**aus.**](https://outlook.live.com/mail/options/mail/layout)
+Um alle Layoutoptionen anzuzeigen, wählen Sie **Einstellungen** >  **MailLayout** >  aus.[](https://outlook.live.com/mail/options/mail/layout)
   

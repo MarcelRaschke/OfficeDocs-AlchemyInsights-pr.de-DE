@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: a46d809e87e97cd94dda5a46a98ec3ec34cc8d68
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9e134b9809f75eb0ab6c665ef1e03987382e3f29
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61949687"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62642820"
 ---
 # <a name="change-your-lock-screen-background"></a>Ändern des Hintergrunds des Sperrbildschirms
 
-- Wechseln Sie zu **Einstellungen**  >  **Personalisierungssperre.**  >  **** Oder klicken oder tippen Sie [hier.](ms-settings:lockscreen?activationSource=GetHelp)
+- Wechseln Sie zum **Bildschirm Einstellungen** >  **PersonalizationLock** >. **** Oder klicken oder tippen Sie [hier](ms-settings:lockscreen?activationSource=GetHelp).
 
-- Wenn Sie ein benutzerdefiniertes Hintergrundbild festlegen möchten, wählen Sie **"Bild"** aus der Dropdownliste **"Hintergrund"** aus, und wählen Sie das Bild aus, oder **navigieren Sie** zu dem Bild.
+- Wenn Sie ein benutzerdefiniertes Hintergrundbild festlegen möchten, wählen Sie **"Bild** " aus der Dropdownliste " **Hintergrund** " aus, und wählen Sie das Bild aus, oder **navigieren Sie** zu dem Bild.
 
   ![Legen Sie ein benutzerdefiniertes Hintergrundbild fest.](media/set-custom-background-pic.png)
 
-- Um eine Bildschirmpräsentation mit benutzerdefinierten Bildern einzurichten, wählen Sie **in** der **Dropdownliste "Hintergrund"** die Bildschirmpräsentation aus, und wählen Sie ein Album aus, oder fügen Sie einen Ordner hinzu, der die Bilder für die Bildschirmpräsentation enthält.
+- Um eine Bildschirmpräsentation mit benutzerdefinierten Bildern einzurichten, wählen Sie **in** der **Dropdownliste "Hintergrund** " die Bildschirmpräsentation aus, und wählen Sie ein Album aus, oder fügen Sie einen Ordner hinzu, der die Bilder für die Bildschirmpräsentation enthält.
 
   ![Richten Sie eine Bildschirmpräsentation mit benutzerdefinierten Bildern ein.](media/set-up-slideshow-background.png)
