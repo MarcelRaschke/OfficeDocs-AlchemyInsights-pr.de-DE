@@ -13,12 +13,12 @@ ms.custom:
 - "9010306"
 - "16345"
 ms.date: 01/21/2022
-ms.openlocfilehash: 5f3b4120a5ccc36dcec54fd7d8cbbae0c1a6a552
-ms.sourcegitcommit: 5dcbecdebbf5042db0c86a12149ddd537d766c91
+ms.openlocfilehash: 74d493fd20fcf4d9f573400cea7114b00410cfda
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62185337"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62576955"
 ---
 # <a name="we-cant-save-the-app-setup-policy-right-now-with-viva-connections"></a>"Wir können die App-Einrichtungsrichtlinie derzeit nicht speichern" mit Viva Connections
 

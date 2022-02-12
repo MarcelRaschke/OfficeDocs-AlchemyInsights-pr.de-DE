@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001495"
 - "4384"
-ms.openlocfilehash: f940d384902898ca2ce747f820a63d936ba427ac
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0525799e6fc3278e0bdbb74dce489b87ae91b803
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61972041"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62557397"
 ---
 # <a name="configuration-manager-devices-missing-in-the-portal"></a>Im-Portal fehlen Configuration Manager-Geräte
 

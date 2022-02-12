@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: b63a3912a9f8ee41e7c7b73e0ce97b29a42fe3e6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 62a1b3bf2ebd40cd82ba24072a576969af330d4d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61956300"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62558343"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook keine Verbindung mit öffentlichen Ordnern herstellen
 
@@ -35,9 +35,9 @@ Warten Sie mindestens eine Stunde, bis die Änderung wirksam wird.
 
 Wenn das Problem weiterhin besteht, führen Sie [dieses Verfahren](https://aka.ms/pfcte) aus, um Probleme mit dem Zugriff auf öffentliche Ordner mithilfe von Outlook zu beheben.
 
-**So steuern Sie, welche Benutzer über Outlook auf öffentliche Ordner zugreifen können:**
+**So steuern Sie, welche Benutzer über Outlook auf öffentliche Ordner zugreifen können**:
 
-1. Verwenden `Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true` oder `$false`  
+1. Verwenden oder `Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true``$false`  
 
     `$true`: Benutzern den Zugriff auf öffentliche Ordner in Outlook
 
@@ -47,4 +47,4 @@ Wenn das Problem weiterhin besteht, führen Sie [dieses Verfahren](https://aka.m
 
 **Hinweis** Dieses Verfahren kann Verbindungen nur mit Outlook Desktop für Windows Clients steuern. Ein Benutzer kann weiterhin mit OWA oder Outlook für Mac auf öffentliche Ordner zugreifen.
  
-Weitere Informationen finden Sie unter Ankündigung der [Unterstützung für kontrollierte Verbindungen mit öffentlichen Ordnern in Outlook](https://aka.ms/controlpf).
+Weitere Informationen finden Sie unter [Ankündigung der Unterstützung für kontrollierte Verbindungen mit öffentlichen Ordnern in Outlook](https://aka.ms/controlpf).

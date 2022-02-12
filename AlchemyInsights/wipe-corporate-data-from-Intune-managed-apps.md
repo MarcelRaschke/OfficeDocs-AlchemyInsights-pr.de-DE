@@ -1,5 +1,5 @@
 ---
-title: Zurücksetzen von Unternehmensdaten aus von Intune verwalteten Apps
+title: Löschen von Unternehmensdaten aus Intune-verwalteten Apps
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: 59c1309f60e03eda587c7a1f7bb5849f69b12a13d4365bcd6ca4e862d0e53e2e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ea115732ad8df601dfc4552ab502c56fa4ead23
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53997745"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62713113"
 ---
-# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Zurücksetzen von Unternehmensdaten aus von Intune verwalteten Apps
+# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Löschen von Unternehmensdaten aus Intune-verwalteten Apps
 
 Intune unterstützt das Entfernen von Unternehmensdaten aus verwalteten Anwendungen mit Anwendungsschutzrichtlinie (Application Protection Policy, APP). 
 
-Weitere Informationen zum Löschen, Löschen oder Entfernen von Unternehmensdaten aus diesen Apps finden Sie unter So löschen Sie nur Unternehmensdaten aus von [Intune verwalteten Apps.](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+Weitere Informationen zum Löschen, Löschen oder Entfernen von Unternehmensdaten aus diesen Apps finden Sie unter [How to wipe only corporate data from Intune-managed apps](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe).

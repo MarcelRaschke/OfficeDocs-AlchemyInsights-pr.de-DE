@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5035"
-ms.openlocfilehash: 4830f0b5d29352b2cd933b9c35c0a9d95144a311
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 1cf2627eca0c7ae0033a9d74afeee484bc944120
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61956949"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62664079"
 ---
 # <a name="sharepoint-migration-assessment-tool-smat"></a>Tool zur Überprüfung der SharePoint-Migrationsbeurteilung (SharePoint Migration Assessment Tool, SMAT)
 

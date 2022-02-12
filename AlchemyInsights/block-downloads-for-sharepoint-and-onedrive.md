@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004146"
 - "7241"
-ms.openlocfilehash: 87f0b48f5c3ef68af5053414b893adc66ad35d28e163154db8c3f2b3a52cf4a7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e9e1e218ab5e79b464843b19514fd0ee8a7b1d89
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53969096"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62580141"
 ---
 # <a name="block-downloads-for-sharepoint-and-onedrive"></a>Blockieren von Downloads für SharePoint und OneDrive
 

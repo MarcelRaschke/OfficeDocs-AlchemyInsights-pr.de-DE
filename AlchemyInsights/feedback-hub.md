@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9951"
 - "9005721"
-ms.openlocfilehash: 1445d0918b5df1bd3cde9387e54bd1ea475fdb67
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 988003a9f05ff7b6f49f12c7dc57c048a3c8de4e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61964220"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62576847"
 ---
 # <a name="send-feedback-to-microsoft-with-feedback-hub"></a>Feedback über Feedback Hub an Microsoft senden
 

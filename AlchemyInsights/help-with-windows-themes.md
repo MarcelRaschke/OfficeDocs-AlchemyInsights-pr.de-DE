@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005404"
 - "9935"
-ms.openlocfilehash: 20697af0f53a2de0dd29dfddd1902d9b3166fde8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6fd13dfeb0c1709f76cead14838d439b9589ac41
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61983861"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62576343"
 ---
 # <a name="help-with-windows-themes"></a>Hilfe für Windows-Designs
 

@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001697"
 - "5887"
-ms.openlocfilehash: a4469743cc2d37a699c503461e5c3301fc74beb3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 79b9d753a2a1df6eab5c3966be9fd134cefaa4b1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61941679"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62669911"
 ---
 # <a name="disable-myanalytics"></a>Deaktivieren von MyAnalytics
 
-Informationen zum Deaktivieren von MyAnalytics finden Sie unter ["Abmelden von MyAnalytics".](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya) 
+Informationen zum Deaktivieren von MyAnalytics finden [Sie unter "Abmelden von MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya)". 
 
-Weitere Informationen zu MyAnalytics finden Sie in der [Einführung in MyAnalytics.](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page)
+Weitere Informationen zu MyAnalytics finden Sie in der [Einführung zu MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page).

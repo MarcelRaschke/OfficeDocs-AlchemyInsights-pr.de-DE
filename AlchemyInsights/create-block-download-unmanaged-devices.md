@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003042"
 - "11071"
-ms.openlocfilehash: b91e2b3ba0906598d19e15c99c3f2fe82cd5f16e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9ccbc8965c683475636e36044a62a1d92f7c9f3d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61951796"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62670343"
 ---
 # <a name="create-a-block-download-policy-for-unmanaged-devices"></a>Richtlinie erstellen, die das Herunterladen für nicht verwaltete Geräte blockiert
 

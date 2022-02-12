@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6218"
 - "9003321"
-ms.openlocfilehash: 2fcacbe01eca3a2742296d40cb80aee1a4214712
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 601e7ff72ea3162865180a86cea7b58c735d3fbc
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61961457"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62665807"
 ---
 # <a name="pin-based-verification-process-for-support-callers"></a>PIN-basierter Überprüfungsprozess für Support-Anrufer
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: 6f1a61a89a15ce0b338e636caf2e717e2b4ef0d3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0050a3580d6c5f648b60ba1b6b9f13e27729c94b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61972077"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62712552"
 ---
 # <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Korrigieren der Microsoft 365-Apps "Ihr Konto lässt keine Bearbeitung auf einem Mac zu"
 

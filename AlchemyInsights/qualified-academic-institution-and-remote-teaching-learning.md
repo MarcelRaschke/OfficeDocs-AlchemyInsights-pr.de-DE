@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.custom: null
+ms.custom: ''
 ms.assetid:
-  - 1500009
-  - 4495
+- "1500009"
+- "4495"
+ms.openlocfilehash: d433d4fcb89b9823dcc0efaefb02b72000a77222
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62665100"
 ---
-
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Microsoft qualifizierte Bildungseinrichtung und Fernstudium (Lehren und Lernen)
 
 Für die ersten Schritte mit Office 365 for Education besuchen Sie diese [Website](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) und registrieren Sie sich.

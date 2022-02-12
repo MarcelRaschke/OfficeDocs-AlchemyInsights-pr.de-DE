@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: b9f33bb278e708a78c99281dc2755dbd5ceacdf4
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6f24d9660e92154cf0cdb547b38a8cf551dbb553
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61847998"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62547595"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Lösungen für Probleme bei der Installation von Office auf einem Terminalserver
 

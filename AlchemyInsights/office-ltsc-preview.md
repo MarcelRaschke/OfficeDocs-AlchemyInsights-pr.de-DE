@@ -23,18 +23,18 @@ ms.custom:
 - "2000021"
 - "2000020"
 - "9002483"
-ms.openlocfilehash: f448048df0304ff9bda7026e1c4c9abcdc721d4d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 28dbe324495165ed12e319d436794de07d165b06
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61958827"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62666383"
 ---
 # <a name="office-ltsc"></a>Office LTSC
 
 Office Long Term Servicing Channel (LTSC) 2021 ist jetzt im Volume Licensing Service Center (VLSC) allgemein verfügbar.
 
-**Wichtig:** Office LTSC 2021 unterscheidet sich von Office, die über Microsoft 365 (oder Office 365)-Pläne verfügbar sind. Wenn Sie beispielsweise Microsoft 365 Apps for Enterprise (zuvor Office 365 ProPlus genannt) für die Benutzer in Ihrer Organisation bereitgestellt haben, benötigen Sie Office LTSC 2021 nicht. Sie haben bereits alle Features in Office LTSC 2021 sowie viele weitere Features, die in Office LTSC 2021 nicht verfügbar sind.
+**Wichtig**: Office LTSC 2021 unterscheidet sich von Office, die über Microsoft 365 (oder Office 365)-Pläne verfügbar sind. Wenn Sie beispielsweise Microsoft 365 Apps for Enterprise (zuvor Office 365 ProPlus genannt) für die Benutzer in Ihrer Organisation bereitgestellt haben, benötigen Sie Office LTSC 2021 nicht. Sie verfügen bereits über alle Features, die in Office LTSC 2021 enthalten sind, zusammen mit vielen weiteren Features, die in Office LTSC 2021 nicht verfügbar sind.
 
 Ausführliche Informationen und Überlegungen zur Bereitstellung finden Sie unter:
 

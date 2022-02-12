@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005578"
 - "9930"
-ms.openlocfilehash: d0337d01c6044411243980fcae350a6b4c258dab
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4a4f93fc94b12dcb7952906d802b6fde94225b75
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61948823"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62669407"
 ---
 # <a name="help-with-the-night-light-display-setting"></a>Hilfe für die Anzeigeeinstellungen des Nachtmodus
 

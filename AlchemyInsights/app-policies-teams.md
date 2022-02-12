@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13652"
 - "9000734"
-ms.openlocfilehash: 871853296e4778369ef035f0ea846636a3e1969c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: dad11300464938f8d5acc49732b3bd3997f77572
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61957528"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62581005"
 ---
 # <a name="app-policies-in-microsoft-teams"></a>App-Richtlinien in Microsoft Teams
 

@@ -15,12 +15,12 @@ ms.custom:
 - "1500021"
 - "4689"
 ms.date: 10/26/2021
-ms.openlocfilehash: 3560e5c8170702df8360601701fc91357077ec2e
-ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
+ms.openlocfilehash: 46213a57f87e476fd2de0758db33d57dbd3c3cb1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60584454"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62546479"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Übertragung von Lizenzen zwischen Mandanten
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "4392"
 - "9001703"
-ms.openlocfilehash: a69b0e6a49deb493a1dd4e22390f1ca2895a169c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7de8ac00d0a0898025a563f115069cdcda218344
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61945690"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62579124"
 ---
 # <a name="check-teams-service-status"></a>Überprüfen des Teams-Dienststatus
 

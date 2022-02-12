@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 991a8556eccb9280b2e3eac566f78db8bfd26640
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316357"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62665771"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Benachrichtigen von E-Mail-Nachrichten von der Richtlinie "Phish Delivered due to tenant or user override"
 
 Eine Standardwarnungsrichtlinie namens **Phish Delivered due to tenant or user override** ist in Organisationen mit Microsoft Defender für Office 365 P1- und P2-Lizenzen verfügbar. Wenn Sie diese Warnung erhalten haben, gehen Sie folgendermaßen vor:
 
-1. Klicken Sie in der Warnmeldung auf **Warnung anzeigen,** um zur Seite **"Warnungen"** im portal Microsoft 365 Defender zu wechseln.
+1. Klicken Sie in der Warnmeldung auf **Warnung anzeigen**, um zur Seite **"Warnungen**" im portal Microsoft 365 Defender zu gelangen.
 
-2. Wählen Sie die Warnung aus, um die Option zum Anzeigen von **Nachrichtenlisten** oder **Nachrichten im Explorer anzuzeigen.** Beide Optionen führen Sie zu den Details der Nachricht, die die Nachrichten-ID enthält. Beachten Sie, dass der Link "Bedrohungs-Explorer" automatisch die Nachrichten filtert, die den Warnungskriterien entsprechen. Möglicherweise müssen Sie den Datumsfilter im Bedrohungs-Explorer anpassen.
+2. Wählen Sie die Warnung aus, um die Option zum **Anzeigen von Nachrichtenlisten** oder **Nachrichten im Explorer anzuzeigen**. Beide Optionen führen Sie zu den Details der Nachricht, die die Nachrichten-ID enthält. Beachten Sie, dass der Link "Bedrohungs-Explorer" automatisch die Nachrichten filtert, die den Warnungskriterien entsprechen. Möglicherweise müssen Sie den Datumsfilter im Bedrohungs-Explorer anpassen.
 
 Die Phishingnachricht wurde aufgrund einer manuell konfigurierten Außerkraftsetzung übermittelt:
 
@@ -33,6 +33,6 @@ Die Phishingnachricht wurde aufgrund einer manuell konfigurierten Außerkraftset
 - Eine zulässige IP-Adresse in einer Verbindungsfilterrichtlinie.
 - Eine Nachrichtenflussregel (auch als Transportregel bezeichnet), die so konfiguriert ist, dass Nachrichten zugelassen werden.
 
-Wenn Sie der Meinung sind, dass die Nachricht fälschlicherweise als Phishing gekennzeichnet wurde, verwenden Sie die [Administratorübermittlung,](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) um die Nachricht an Microsoft zu melden.
+Wenn Sie der Meinung sind, dass die Nachricht fälschlicherweise als Phishing gekennzeichnet wurde, verwenden Sie die [Administratorübermittlung](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) , um die Nachricht an Microsoft zu melden.
 
 Benutzer können das [Add-In "Nachricht melden" oder das Add-In "Phishing melden"](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) in Outlook verwenden, um Nachrichtenbeispiele an Microsoft zu übermitteln.

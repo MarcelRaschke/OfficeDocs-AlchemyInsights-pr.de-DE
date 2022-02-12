@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7768"
-ms.openlocfilehash: 85cbd89e461f36a51eed816619fd132ea60dfdb0014eb850c7ec3f38d41e1ca2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bec955be3bc33ba787f53800061e94b65c75de18
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54069963"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62711889"
 ---
 # <a name="conditional-access-issues"></a>Probleme mit bedingtem Zugriff
 
 **Beheben von Problemen mit der Anmeldediagnose**
 
-Mithilfe der [Anmeldediagnose](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)können Sie schnell herausfinden, was passiert ist, oder Probleme im Zusammenhang mit der Benutzeranmeldung diagnostizieren:
+Mithilfe der [Anmeldediagnose](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom) können Sie schnell herausfinden, was passiert ist, oder Probleme im Zusammenhang mit der Benutzeranmeldung diagnostizieren:
 
 1. Starten Sie die Anmeldediagnose.
-1. Suchen Sie das zu analysierende Ereignis, indem Sie die Details zu Benutzer, Anwendung, Zeitpunkt der Anmeldung, Anforderungs-ID oder Korrelations-ID eingeben.
+1. Suchen Sie das zu analysierende Ereignis, indem Sie die Details eingeben, die Sie über den Benutzer, die Anwendung, den Zeitpunkt der Anmeldung, die Anforderungs-ID oder die Korrelations-ID haben.
 1. Überprüfen Sie die Diagnoseergebnisse mit den Details der Ereignisse und der Aktionen, die Sie ausführen können, um Änderungen vorzunehmen (falls Änderungen erforderlich sind).
 
 **Schritte zur Problembehandlung bei einer Anmeldung** 
 
-1. Navigieren Sie zur Azure AD-Anmeldeseite.
+1. Navigieren Sie zur Azure AD Anmeldeseite.
 1. Filtern von Anmeldungen nach Benutzer, Zeitraum, Anwendung, Status, Client-App usw.
 1. Wählen Sie ein Anmeldeereignis aus, und zeigen Sie die Registerkarte "Bedingter Zugriff" an, um anzuzeigen, welche Richtlinien ausgewertet wurden.
 1. Klicken Sie auf die Zeile einer Richtlinie, um die Richtliniendetails anzuzeigen und zu verstehen, warum sie angewendet wurde.
@@ -45,11 +45,11 @@ Mithilfe der [Anmeldediagnose](https://portal.azure.com/#blade/Microsoft_AAD_IAM
 
 **Grundlegende Schutzrichtlinien**
 
-Baseline Protection-Richtlinien sind veraltet. Sie werden nicht mehr erzwungen und bald aus dem Azure-Portal entfernt. Es wird empfohlen, [die Sicherheitsstandards zu](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)aktivieren.
+Baseline Protection-Richtlinien sind veraltet. Sie werden nicht mehr erzwungen und bald aus dem Azure-Portal entfernt. Es wird empfohlen, [die Sicherheitsstandards zu](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) aktivieren.
 
 Weitere Informationen zum bedingten Zugriff finden Sie unter:
 
-[Bewährte Methoden für bedingten Zugriff in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- [Bedingungen im bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- [Steuerelemente im bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
- [Speicherorte im bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)
+[Bewährte Methoden für bedingten Zugriff in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices) 
+ [Conditions in Conditional AccessControls](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices) 
+ [in Conditional AccessLocations](https://docs.microsoft.com/azure/active-directory/conditional-access/controls) 
+ [in Conditional Access ](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)

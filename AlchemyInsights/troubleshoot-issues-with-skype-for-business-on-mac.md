@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5984"
 - "9003195"
-ms.openlocfilehash: 94d4aa2848b379407d55f1379875c027881676af
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3b78bcd577d4002d6ee228f1d3e2373672dfb230
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61981390"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62545651"
 ---
 # <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Behandeln von Problemen mit Skype for Business auf dem Mac
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: 2e57b486b7334c286b4646000db0ad18c98689d6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 31aa7dcd32c7cc9df8f85a3402f8e6db88a3bdc7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989123"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62663610"
 ---
 # <a name="sharing-links-are-grayed-out"></a>Freigabelinks sind ausgegraut
 

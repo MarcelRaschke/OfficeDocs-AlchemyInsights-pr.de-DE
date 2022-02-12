@@ -14,12 +14,12 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 4fe6840956901ef233b23263716ab0a04b0f35b8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 25bbf5929867fd42522915732d641ad910d8864a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61980381"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62545579"
 ---
 # <a name="outlook-categories"></a>Outlook Kategorien
 

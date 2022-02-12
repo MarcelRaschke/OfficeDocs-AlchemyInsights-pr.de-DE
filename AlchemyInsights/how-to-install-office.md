@@ -12,12 +12,12 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: f184ed7deba01e15159158142be74019845d76bd
-ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
+ms.openlocfilehash: d6c2144aa620cd11f862f178d45c234130441ef3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60584274"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62669047"
 ---
 # <a name="how-to-install-office"></a>Installieren von Office
 

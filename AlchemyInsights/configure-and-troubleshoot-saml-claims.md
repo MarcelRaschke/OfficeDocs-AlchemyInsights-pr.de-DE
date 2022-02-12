@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7799"
 - "9004356"
-ms.openlocfilehash: 20aede85988e509a055724cc570c249abe8ea7950aa04e3f9d728d0b4abf885c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f2b1572e0089ad9a55e1a60bc81e0dbc0a349d87
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54044555"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62578359"
 ---
 # <a name="configure-and-troubleshoot-saml-claims"></a>Konfigurieren und Problembehandlung von SAML-Ansprüchen
 

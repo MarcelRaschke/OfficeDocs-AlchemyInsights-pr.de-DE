@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: 2a92be59ad13bfe04605283ac97cbae4ec53b0af
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e0535df658b7d53a56872cf9f1ba83c76dca5825
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61826795"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62545448"
 ---
 # <a name="troubleshooting-client-authentication-certificate-deployment"></a>Problembehandlung bei der Bereitstellung von Clientauthentifizierungszertifikaten
 

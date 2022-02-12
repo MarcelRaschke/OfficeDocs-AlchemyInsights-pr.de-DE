@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "5764"
-ms.openlocfilehash: 0ec97061add3e58b8b238633941bfec7816d1e01
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4f2af8a5505c74703a6501595c3bb707e6b509bf
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61957962"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62580897"
 ---
 # <a name="apps-and-intune"></a>Apps und Intune
 

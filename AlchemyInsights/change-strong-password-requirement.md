@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 9000105
-  - 1600
+- "9000105"
+- "1600"
+ms.openlocfilehash: 4fedfa927b03051f3dad1992677c5bf74e2ff1d1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62579565"
 ---
-
 # <a name="change-strong-password-requirement"></a>Ändern der Anforderung eines sicheren Kennworts
 
 Microsoft erfordert standardmäßig sichere Kennwörter.

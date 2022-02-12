@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: d12ae3d14016026f32d202e2549fee47334e39f3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5ce678d7588f692a2e55eec3488e61e32b5d25f8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61943901"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62580645"
 ---
 # <a name="battery-wont-charge"></a>Der Akku wird nicht aufgeladen
 

@@ -15,12 +15,12 @@ ms.custom:
 - "9001683"
 - "5078"
 ms.date: 04/14/2021
-ms.openlocfilehash: ed145cdd0f5e5c4926b423b60fa90a223f442e27
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: f33258fcce7d23b20d4a857614fc34de1b09aade
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843341"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62580042"
 ---
 # <a name="cancel-subscription-from-partner"></a>Kündigen von Abonnements, die über Partner erworben wurden
 

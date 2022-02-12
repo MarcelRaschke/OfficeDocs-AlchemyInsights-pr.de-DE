@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1726"
 - "9000180"
-ms.openlocfilehash: 147059f4554ac51456f37e385718ed1878d910fa
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 634cf244efd174f3fed3532b112e3464cefab77b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61970707"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62578980"
 ---
 # <a name="check-the-aadconnect-service-accounts"></a>Überprüfen der AADConnect-Dienstkonten
 

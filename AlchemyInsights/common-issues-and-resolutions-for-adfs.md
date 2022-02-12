@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 7c0fdae6197b3a34a6389dc39f11eb0b097caf15
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a4d41b072a75f561dd9f6b1ecffef8c159102646
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61938667"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62557479"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Häufige Probleme und Lösungen für ADFS
 

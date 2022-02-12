@@ -15,17 +15,17 @@ ms.custom:
 - "9000175"
 - "1714"
 ms.date: 04/21/2020
-ms.openlocfilehash: 23f382c75dbe95582b75ebf232f5d65db08fd1d0
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 3029abe4771ccbf9e49c57059f42cb50f603636e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58845897"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62579673"
 ---
 # <a name="change-organization-profile"></a>Ändern des Organisationsprofils
 
-Ändern Sie Ihren Firmennamen, Ihre Adresse, technische Kontaktinformationen und mehr im Admin Center auf der Registerkarte **Einstellungen**  >  **Organisation Einstellungen**  >  [Organisationsprofil.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
+Ändern Sie ihren Firmennamen, Ihre Adresse, technische Kontaktinformationen und mehr im Admin Center auf der Registerkarte **Einstellungen** >  **Org Einstellungen** >  [Organizational Profile](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation).
 
 Achten Sie darauf, alle mit * gekennzeichneten Pflichtfelder auszufüllen, damit Ihre Änderungen gespeichert werden können.
 
-[Weitere Informationen zu Adress- oder Rechnungsadressenänderungen.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)
+[Weitere Informationen zu Adress- oder Rechnungsadressenänderungen](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).

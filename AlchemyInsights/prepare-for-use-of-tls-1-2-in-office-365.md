@@ -13,12 +13,12 @@ ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: a93f8fa12d6852fa4f40bda3ccb07fee67b2d7de
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f24d4c50f04b61e1d283fb77a04a23393ac85f92
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61937971"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62665303"
 ---
 # <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a>Vorbereiten für die Verwendung von TLS 1.2 in Microsoft 365
 

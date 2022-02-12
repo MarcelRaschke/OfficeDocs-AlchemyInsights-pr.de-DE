@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9816"
 - "9005388"
-ms.openlocfilehash: 0c406264194ea08d33e86e00be64dd19e24b3688
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 88013fbda08bea769e3ba73f0ebf763f07fa6923
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61965408"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62558055"
 ---
 # <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Ändern des Kontos, mit dem Sie sich bei Ihrem Windows 10-PC anmelden
 

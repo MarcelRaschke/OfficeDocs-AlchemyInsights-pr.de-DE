@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11527"
 - "9000292"
-ms.openlocfilehash: 8a718cab6343610aff854a88889520c82f7445a7
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 910ca10efa8bad4f372d968ddf0d43881f8f9fe0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61939220"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62665375"
 ---
 # <a name="prepare-your-sharepoint-environment-for-the-retirement-of-internet-explorer-11"></a>Vorbereiten Ihrer SharePoint-Umgebung auf die Einstellung von Internet Explorer 11
 

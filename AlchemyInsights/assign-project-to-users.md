@@ -15,12 +15,12 @@ ms.custom:
 - "9002424"
 - "5103"
 ms.date: 08/10/2021
-ms.openlocfilehash: f8c0ee53cadb8559eab349cf78cd8caf86341557
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 921adada7aa2c776bc8f1b04ec638f671560b416
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58842801"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62580861"
 ---
 # <a name="assign-project-to-users"></a>Project an Benutzer zuweisen
 

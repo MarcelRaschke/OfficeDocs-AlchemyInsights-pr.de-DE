@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13811"
 - "3500008"
-ms.openlocfilehash: d156e4b182fe7730f8fde1c618b3da2dc7f97d90
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6a07881d88408f47a2fa9cc3c3d9287b6b9fa701
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61956264"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62579745"
 ---
 # <a name="cannot-find-a-recipient-that-has-mailbox-guid-error-during-migration"></a>Der Fehler "Empfänger mit Postfach-GUID kann nicht gefunden werden" ist während der Migration aufgetreten
 

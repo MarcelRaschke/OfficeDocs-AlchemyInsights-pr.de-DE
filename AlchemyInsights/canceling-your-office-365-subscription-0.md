@@ -15,21 +15,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.date: 10/26/2021
-ms.openlocfilehash: 24ce3382a287d4f5808cfb30773cda648112c1e3
-ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
+ms.openlocfilehash: be1c4c9bb086e7fc674508dd972c73e863fc9d78
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60583590"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62558451"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Kündigen Ihres Microsoft 365 Abonnements?
 
 Es tut uns leid, dass Sie losgehen!
   
-Basierend auf Ihren Organisationsdaten gehen wir davon aus, dass alle Ihre aktuellen Abonnements weniger als 25 Arbeitsplätze haben. Um Ihr Abonnement online zu kündigen, wechseln Sie zur Seite **"Abrechnung** \> [Für Ihre Produkte".](https://go.microsoft.com/fwlink/p/?linkid=842054) Suchen Sie auf der Registerkarte **"Produkte"** das Abonnement, das Sie kündigen möchten, wählen Sie die drei Punkte (weitere Aktionen) und dann **"Abonnement kündigen"** aus.
+Basierend auf Ihren Organisationsdaten gehen wir davon aus, dass alle Ihre aktuellen Abonnements weniger als 25 Arbeitsplätze haben. Um Ihr Abonnement online zu kündigen, wechseln Sie zur Seite " **Abrechnung** \> [Für Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) ". Suchen Sie auf der Registerkarte " **Produkte** " das Abonnement, das Sie kündigen möchten, wählen Sie die drei Punkte (weitere Aktionen) und dann " **Abonnement kündigen**" aus.
   
 **HINWEIS:** Für einige Abonnements können Sie das Abonnement nur in einem begrenzten Zeitraum kündigen, nachdem Sie Ihr Abonnement gekauft oder verlängert haben. Wenn das Kündigungsfenster abgelaufen ist, deaktivieren Sie die fortlaufende Abrechnung, um das Abonnement am Ende der Laufzeit zu kündigen.
 
 **Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
 
-Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

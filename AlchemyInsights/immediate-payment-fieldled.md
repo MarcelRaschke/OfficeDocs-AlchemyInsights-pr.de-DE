@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7285"
-ms.openlocfilehash: d3f4f05f858d7cf87e38bb8cfb14d331f3720c2f305a37993db82280e3dc0816
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b019593438298cb9cfc65af89dcf41defaf5a1bc
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53945228"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62668363"
 ---
 # <a name="make-an-immediate-payment"></a>Sofortige Zahlung
 
 Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten ihr Problem selbst beheben, nachdem sie unserer Dokumentation folgten.
 
-Mit einem Microsoft-Kundenvertrag (MCA) sind Ihre [Zahlungsmethoden Abrechnungsprofilen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)zugeordnet.
+Bei einem Microsoft-Kundenvertrag (Microsoft Customer Agreement, MCA) sind Ihre [Zahlungsmethoden Abrechnungsprofilen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile) zugeordnet.
 
-Wenn Sie über eine Unternehmens-MCA verfügen, ist Die Standardbezahlmethode per Überweisung oder Überweisung. Sobald Sie Ihre erste Rechnung erhalten haben, können Sie anweisungen finden, wie Sie per Überweisung oder Zahlung bezahlen können, und zwar am unteren Rand der ersten Seite der Rechnung.
+Wenn Sie über eine Unternehmens-MCA verfügen, ist die Standardbezahlmethode die Zahlung per Banküberweisung oder Überweisung. Sobald Sie Ihre erste Rechnung erhalten haben, können Sie anweisungen finden, wie Sie per Überweisung oder Zahlung bezahlen können, und zwar am unteren Rand der ersten Seite der Rechnung.
 
 Um Rechnungen per Kreditkarte im Azure-Portal zu bezahlen, benötigen Sie ein Abrechnungskonto, einen Besitzer des Abrechnungsprofils oder eine Mitwirkenderolle.
 
-1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com/)an.
-2. Suchen Sie nach *Kostenverwaltung und Abrechnung.*
-3. Wählen Sie im linken Menü **"Rechnungen"**   unter *"Abrechnung"* aus.
-4. Wenn eine Ihrer Rechnungen fällig oder überfällig ist, wird ein blauer Link *"Jetzt bezahlen"*   für diese Rechnung angezeigt. Wählen Sie **"Jetzt bezahlen"** aus.
-5. Klicken Sie im neuen Blatt auf **"Zahlungsmethode auswählen",**   um eine vorhandene Kreditkarte auszuwählen oder eine neue hinzuzufügen.
-6. Sobald die Zahlungsmethode ausgewählt ist, klicken Sie auf **"Jetzt bezahlen".**
+1. Melden Sie sich  [beimAzure-Portal](https://portal.azure.com/) an.
+2. Suchen Sie  *nachCost Management + Billing*.
+3. Wählen Sie im linken Menü  **"InvoicesunderBilling**  *"* aus.
+4. Wenn eine Ihrer Rechnungen fällig oder überfällig ist, wird ein  *bluePay nowlink*  für diese Rechnung angezeigt.  **SelectPay now**.
+5. Klicken Sie im neuen Blatt auf  **"Zahlungsmethode**  auswählen", um eine vorhandene Kreditkarte auszuwählen oder eine neue hinzuzufügen.
+6. Sobald die Zahlungsmethode ausgewählt ist, klicken Sie  **jetzt auf "Pay"**.
 
 Der Status der Rechnung wird aktualisiert, um auf dem Blatt "Rechnungen" bezahlt zu werden.
 
-**Empfohlene Dokumente**
+**Empfohlene Dokumentationen**
 
 - [Zahlungsmethode ändern – Häufig gestellte Fragen](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
 - [Ändern der Zahlungsmethode für ein Abrechnungsprofil](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)

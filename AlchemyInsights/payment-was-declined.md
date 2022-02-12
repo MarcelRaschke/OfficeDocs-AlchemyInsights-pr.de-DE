@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 4e45c8c7c5c84eae813e936cb70efa9ae7c76f49
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2e4a9ebfaa1fe338b03933e8958077a126505111
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61987249"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62666131"
 ---
 # <a name="your-payment-was-declined"></a>Ihre Zahlung wurde abgelehnt
 

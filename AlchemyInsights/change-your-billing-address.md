@@ -17,12 +17,12 @@ ms.custom:
 - "4714"
 - "4715"
 ms.date: 08/10/2021
-ms.openlocfilehash: f5320762aa8327dc7aa94cf46226b70462c9d9ec
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 2d146541c7e31f47dee560ba2e396996e493a0cf
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843305"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62579340"
 ---
 # <a name="change-your-billing-address"></a>Ändern Ihrer Rechnungsadresse
 
@@ -30,17 +30,17 @@ Ihre Rechnung enthält drei Adressen.
 
 **Ändern der Rechnungsadresse für eine Zahlungsmethode**
 
-1. Wechseln Sie im Admin Center zu **Abrechnung > [Zahlungsmethoden.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
+1. Wechseln Sie im Admin Center zu **Abrechnungs- > [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 2. Wählen Sie die Kreditkarte oder das Bankkonto aus, die bzw. das Sie ändern möchten.
-3. Klicken Sie auf der Seite **"Zahlungsmethodendetails"** auf **"Bearbeiten".**
-4. Aktualisieren Sie Ihre Rechnungsadresse, und klicken Sie dann auf **"Speichern > Fertig".**
+3. Klicken Sie auf der Seite **"Zahlungsmethodendetails** " auf **"Bearbeiten**".
+4. Aktualisieren Sie Ihre Rechnungsadresse, und klicken Sie dann auf **"Speichern > Fertig"**.
 
-Weitere Informationen zu Adress- und Benachrichtigungsänderungen finden Sie unter [Ändern Ihrer Rechnungsadressen für Microsoft 365 for Business.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Weitere Informationen zu Adress- und Benachrichtigungsänderungen finden Sie unter [Ändern ihrer Rechnungsadressen für Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
 **Ändern der Abrechnungskontoinformationen**
 
-1. Wechseln Sie im Admin Center zu **Abrechnung > [Abrechnungskonten.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
-2. Wählen Sie **"Abrechnungskontoinformationen bearbeiten" aus.**
-3. Aktualisieren Sie die Abrechnungskontoinformationen, und klicken Sie dann auf **"Speichern > Fertig".**
+1. Wechseln Sie im Admin Center zu **Abrechnung > [Abrechnungskonten](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+2. Wählen Sie **"Abrechnungskontoinformationen bearbeiten" aus**.
+3. Aktualisieren Sie die Abrechnungskontoinformationen, und klicken Sie dann auf **"Speichern > Fertig"**.
 
-**Hinweis:** Das Land/die Region kann nicht geändert werden. Wenn dieses Feld geändert werden muss, müssen Sie einen neuen Mandanten erwerben.
+**Hinweis**: Das Land/die Region kann nicht geändert werden. Wenn dieses Feld geändert werden muss, müssen Sie einen neuen Mandanten erwerben.

@@ -15,12 +15,12 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 82a67134a629ed8e686b8dbac8424533636f74ce
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9f3e4f941ffc70a93b68c9054757ef6f8dd7abd0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61941211"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62664691"
 ---
 # <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Empfohlene Lösungen für Dynamics 365-Speicherprobleme
 
@@ -30,7 +30,7 @@ ms.locfileid: "61941211"
 
 * [App: E-Mail oder Termin wird als "Ausstehend nachverfolgen" angezeigt](https://go.microsoft.com/fwlink/p/?linkid=2007022)
 
-* [App: Leere Seite wird angezeigt, wenn App für Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
+* [App: Leere Seite wird beim Öffnen der App für Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
 
 * [Vollständiger Client: D365 kann für Outlook Version 8.x nicht mit einer Version 9.x D365-Instanz verbunden werden](https://go.microsoft.com/fwlink/p/?linkid=2007023)
 
@@ -38,7 +38,7 @@ ms.locfileid: "61941211"
 
 * [Vollständiger Client: Diagnostizieren von D365 für Outlook Probleme](https://go.microsoft.com/fwlink/p/?linkid=2007024)
 
-* [App: Problembehandlung für die D365-App für Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
+* [App: Problembehandlung bei der D365-App für Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
 * [App: Bereitstellen](https://docs.microsoft.com/dynamics365/outlook-app/deploy-dynamics-365-app-for-outlook)
 

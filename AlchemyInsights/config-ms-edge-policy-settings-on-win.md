@@ -15,12 +15,12 @@ ms.custom:
 - "9004632"
 - "6894"
 - "8358"
-ms.openlocfilehash: a7c092ac606cc599b37a0d9442dd82e0f493465508a6e5d24fa0589d0f3bb19a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e63af07fb366febf98332d1faad737212370fa59
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978700"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62557390"
 ---
 # <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Konfigurieren Microsoft Edge Richtlinieneinstellungen für Windows
 
@@ -31,4 +31,4 @@ Gehen Sie folgendermaßen vor, um Microsoft Edge mithilfe von Gruppenrichtlinien
 1. Wechseln Sie zum gruppenrichtlinienbasierten Store in Ihrer Active Directory-Domäne oder zum Vorlagenordner "Richtliniendefinition" auf einzelnen Computern, installieren Sie alle administrativen Vorlagen, die Regeln und Einstellungen für Microsoft Edge hinzufügen.
 2. Konfigurieren Sie die spezifischen Richtlinien, die Sie festlegen möchten.
 
-Weitere Informationen finden Sie unter [Konfigurieren Microsoft Edge Richtlinieneinstellungen auf Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
+Weitere Informationen finden Sie unter [Konfigurieren Microsoft Edge Richtlinieneinstellungen für Windows](https://go.microsoft.com/fwlink/?linkid=2135024).

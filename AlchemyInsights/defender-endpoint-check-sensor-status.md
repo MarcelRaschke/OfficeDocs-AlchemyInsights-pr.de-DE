@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: 2e758768442ea556b3e119de173de79dd43fdc35
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 85c5c005f2a5ad71d3780a8130671d854f61e02c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61938403"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62577625"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Defender-Endpunkt – Überprüfen Sie den Sensorstatus
 

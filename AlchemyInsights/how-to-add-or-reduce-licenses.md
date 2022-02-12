@@ -15,12 +15,12 @@ ms.custom:
 - "319"
 - "1500007"
 ms.date: 08/27/2021
-ms.openlocfilehash: 15c093885a5010073d61a9a833ac5c209bac5fcd
-ms.sourcegitcommit: d5143738025187f6b7aef801d7c992de97c9d78e
+ms.openlocfilehash: 418bc9d0d0b7f12bbc1fb899e86a74343783b9c8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62471254"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62669263"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Hinzufügen oder Entfernen von Lizenzen für Ihr Abonnement
 
@@ -30,7 +30,7 @@ ms.locfileid: "62471254"
 2. Suchen Sie auf der Registerkarte " **Produkte** " das Abonnement, für das Sie Lizenzen kaufen oder entfernen möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **"Lizenzen kaufen**" aus.
 3. Wenn Sie die Anzahl der Lizenzen verringern möchten, wählen Sie oben im Bereich **"Lizenzen kaufen** " die Option **"Lizenzen entfernen"** aus.
 4. Um Lizenzen zu kaufen oder zu entfernen, geben Sie unter **"Neue Menge** " im Feld **"Lizenzen insgesamt** " die Gesamtanzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen. Wenn Sie beispielsweise über 100 Lizenzen verfügen und weitere 25 Lizenzen hinzufügen möchten, geben Sie 125 ein. Wenn Sie 25 Lizenzen entfernen möchten, geben Sie 75 ein.
-5. Klicken Sie auf **Speichern**.
+5. Wählen Sie **Speichern**.
 
 Informationen zum Zuweisen von Lizenzen finden Sie unter [Zuweisen von Lizenzen zu Benutzern](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 

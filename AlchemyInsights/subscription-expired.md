@@ -16,12 +16,12 @@ ms.custom:
 - "4741"
 - "4739"
 ms.date: 08/11/2021
-ms.openlocfilehash: 0269d32d9b8fdc4c7a7dd264e0c533b6f44585e0
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 94b2485931e44f8b1fc75f7a7e8acd5edb72212e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844061"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62547055"
 ---
 # <a name="subscription-expired"></a>Abonnement ist abgelaufen
 

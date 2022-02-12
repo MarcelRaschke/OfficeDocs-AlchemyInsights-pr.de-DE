@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6453"
-ms.openlocfilehash: 5a7b5d04c2a4af25dadb50ba114b13d5db7cd3fb
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 07fd7081fb5ec684311f1e3e63da66fa1c97d40e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61956877"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62576811"
 ---
 # <a name="find-groups-in-microsoft-stream"></a>Suchen von Gruppen in Microsoft Stream
 

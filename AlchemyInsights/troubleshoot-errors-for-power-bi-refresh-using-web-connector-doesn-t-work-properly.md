@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: 17d8de04ef4d6f25e2bdce76384708e48e3efc3f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2327c930da93652d4d1cb81925f7a77e8c1d46b3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61983393"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62546263"
 ---
 # <a name="refresh-using-web-connector-doesnt-work-properly"></a>Aktualisierung mithilfe des Webconnectors funktioniert nicht ordnungsgemäß
 

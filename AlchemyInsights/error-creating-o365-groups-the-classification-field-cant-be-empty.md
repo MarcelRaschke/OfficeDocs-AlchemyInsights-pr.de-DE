@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000181"
 - "4835"
-ms.openlocfilehash: 72d474c429aa8458473287fcc70d747bf4e89d69
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4c2ac7a4cdb457d1c584c92522ede246d0bd991c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61961782"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62577135"
 ---
 # <a name="error-creating-o365-groups-the-classification-field-cant-be-empty"></a>Fehler beim Erstellen von O365-Gruppen: Das Klassifizierungsfeld darf nicht leer sein
 

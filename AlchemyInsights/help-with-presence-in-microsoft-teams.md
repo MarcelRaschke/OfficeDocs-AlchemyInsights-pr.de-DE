@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 37e79639fad104e900063261d25eb65b47392c6d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c9eb6363974583e0a5d974469358fc9030f2adbc
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61971681"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62669371"
 ---
 # <a name="help-with-presence-in-microsoft-teams"></a>Hilfe zur Anwesenheit in Microsoft Teams
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12851"
 - "9000734"
-ms.openlocfilehash: 6f1776453ad71bd84e0e0b6af9104784f77e383b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 19f8df112a4309289274047b62bce740cc6e2400
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61965372"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62577868"
 ---
 # <a name="create-and-configure-teams-policies"></a>Erstellen und Konfigurieren von Teams-Richtlinien
 

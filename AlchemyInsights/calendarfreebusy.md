@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: 111841073baabf39c3ef6ffd1f50bc32f2167b9b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: dce09c660028dc4c4bd1a0210203a7234a9d2479
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61943793"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62558739"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>Probleme beim Anzeigen von Frei/Gebucht-Kalenderinformationen
 

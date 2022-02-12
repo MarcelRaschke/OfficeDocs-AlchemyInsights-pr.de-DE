@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: d860db8fbe83a75b93b9223a1ea27bc986d4d72f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 23e896f457576b9d812fde7ae92a6d5e8033e34c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61952336"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62578908"
 ---
 # <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Überprüfen Sie den Garantiestatus für ein Surface- oder Xbox-Gerät
 

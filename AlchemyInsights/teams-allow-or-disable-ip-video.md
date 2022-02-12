@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: 13f872d3b0460828ebe6b1a4263e98df8e88d008
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7677f717b7393158f82e52b6102bef80daf6a5ee
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61866251"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62546911"
 ---
 # <a name="teams-allow-or-disable-ip-video"></a>Zulassen oder Deaktivieren von IP-Video in Teams
 

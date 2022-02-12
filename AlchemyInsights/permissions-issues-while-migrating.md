@@ -7,11 +7,16 @@ ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
+ms.openlocfilehash: 4e22aa4d28e5d7114c278ac234178a0d400f965b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62666059"
 ---
-
 # <a name="user-profile-and-photo-synchronization"></a>Benutzerprofil- und Fotosynchronisierung
 
  **Profilfotosynchronisierung** – Benutzer bemerken möglicherweise, dass ihr Profilfoto nicht mit SharePoint synchronisiert wird. Oder sie haben versucht, ihr Profilfoto zu aktualisieren, und das Foto wird weiterhin als altes Foto angezeigt. Um sicherzustellen, dass das Profilfoto wie erwartet angezeigt wird, muss der Benutzer eine Fotosynchronisierung initiieren. 
@@ -22,6 +27,6 @@ Weitere Informationen zum Fotosynchronisierungsprozess finden Sie unter [Informa
   
 Weitere Informationen zum Profilsynchronisierungsprozess finden Sie unter [Informationen zur Benutzerprofilsynchronisierung in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Aktualisieren des Profils in Office Delve** : Delve Benutzer können ihr Microsoft 365 Profil verwalten. Weitere Informationen finden Sie unter [Anzeigen und Aktualisieren Ihres Profils in Office Delve.](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)
+- **Aktualisieren des Profils in Office Delve** : Delve Benutzer können ihr Microsoft 365 Profil verwalten. Weitere Informationen finden Sie unter [Anzeigen und Aktualisieren Ihres Profils in Office Delve](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6739"
 - "9003778"
-ms.openlocfilehash: 3cb23bf3beea78260da1af520c5f099f579c72f6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2562a405c8dc7ff2f81428cc8c6d4e396e77420a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61982961"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62668471"
 ---
 # <a name="hybrid-mdm"></a>Hybrid MDM
 

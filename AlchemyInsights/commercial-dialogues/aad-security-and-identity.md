@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a87e45502f49e6f3db4f786eaf0285ba2650d85b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53995440"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62578539"
 ---
 # <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (Sicherheit und Identität)
 
@@ -26,4 +26,4 @@ Wählen Sie eine der folgenden Einrichtungshandbücher aus:
 
 - **Azure Active Directory Verbinden** [Synchronisieren von Benutzern mit Ihrem Verzeichnis](https://go.microsoft.com/fwlink/?linkid=2071310) Konfigurieren der Kennworthashsynchronisierung oder Pass-Through-Authentifizierung, damit sich Ihre Benutzer mit demselben Kennwort bei ihrer E-Mail und ihrem lokalen Active Directory (Domänencontroller) anmelden können. Sie können die Verbundanmeldung auch mit Active Directory-Verbunddiensten (AD FS) einrichten.
 
-- [Einrichtungshandbuch](https://go.microsoft.com/fwlink/?linkid=2134390) zum Einrichten von Azure **AD-Features:** Richten Sie die erweiterten Funktionen ein, die in Azure Active Directory Premium verfügbar sind, z. B. mehrstufige Authentifizierung, Geräteregistrierung und Sicherheitsüberwachung.
+- **Einrichten von Azure-Features** [Azure AD Einrichtungshandbuch](https://go.microsoft.com/fwlink/?linkid=2134390): Einrichten der erweiterten Features, die in Azure Active Directory Premium verfügbar sind, z. B. mehrstufige Authentifizierung, Geräteregistrierung und Sicherheitsüberwachung.

@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002973
-  - 5687
+- "9002973"
+- "5687"
+ms.openlocfilehash: 1326bd06ae2f32321b0cd73e5cd23b20545e86eb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62669803"
 ---
-
 # <a name="download-attendance-reports-in-teams"></a>Herunterladen von Besuchsberichten in Teams
 
 Besprechungsorganisatoren können während und nach Besprechungen Anwesenheitsberichte herunterladen. Besprechungsteilnehmer haben nicht die Möglichkeit, Anwesenheitsberichte herunterzuladen.

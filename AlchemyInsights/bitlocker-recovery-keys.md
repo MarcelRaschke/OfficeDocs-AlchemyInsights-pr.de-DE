@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 325ad2539fce0575c4f2d885ac6e3f236313e143
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d9443a02899cecd654e773a23ff170d2a9a9ee72
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61950047"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62580429"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Zugreifen auf Bitlocker-Wiederherstellungsschlüssel
 
-Beim Konfigurieren von BitLocker-Einstellungen intune Endpoint Protection-Richtlinie ist es möglich zu definieren, ob Bitlocker-Wiederherstellungsinformationen in Azure Active Directory gespeichert werden sollen.
+Beim Konfigurieren von Bitlocker-Einstellungen intune Endpoint Protection Richtlinie ist es möglich, zu definieren, ob Bitlocker-Wiederherstellungsinformationen in Azure Active Directory gespeichert werden sollen.
 
 Wenn diese Einstellung konfiguriert ist, sollten die gespeicherten Wiederherstellungsdaten einem Intune-Administrator als Teil des Blatts "Gerätedatensatz" auf dem Blatt "Intune-Geräte" auf zwei Arten angezeigt werden:
 
@@ -43,9 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Wenn das Gerät vor der Registrierung in Intune verschlüsselt wurde, wurde der Wiederherstellungsschlüssel möglicherweise dem "Microsoft-Konto" (MSA) zugeordnet, das verwendet wurde, um sich während des OoBE-Prozesses beim Gerät anzumelden. Wenn dies der Fall war, sollten beim Zugriff  https://onedrive.live.com/recoverykey auf und der Anmeldung mit diesem MSA die Geräte angezeigt werden, für die Wiederherstellungsschlüssel gespeichert wurden.
+Wenn das Gerät vor der Registrierung in Intune verschlüsselt wurde, wurde der Wiederherstellungsschlüssel möglicherweise dem "Microsoft-Konto" (MSA) zugeordnet, das verwendet wurde, um sich während des OoBE-Prozesses beim Gerät anzumelden. Wenn dies der Fall war, sollten beim Zugriff auf  https://onedrive.live.com/recoverykey und der Anmeldung mit diesem MSA die Geräte angezeigt werden, für die Wiederherstellungsschlüssel gespeichert wurden.
  
 Wenn das Gerät aufgrund der Konfiguration über eine domänenbasierte Gruppenrichtlinie verschlüsselt wurde, können die Wiederherstellungsinformationen im lokalen Active Directory gespeichert werden.
 
-Wenn Sie die Endpunktschutzrichtlinie so konfiguriert haben, dass der Wiederherstellungsschlüssel in Azure Active Directory gespeichert wird, der Schlüssel für ein bestimmtes Gerät jedoch nicht hochgeladen wurde, können Sie den Upload auslösen, indem Sie den Wiederherstellungsschlüssel für dieses Gerät von der MEM-Konsole drehen. Ausführliche Informationen finden Sie unter [Drehen von BitLocker-Wiederherstellungsschlüsseln.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
+Wenn Sie die Endpunktschutzrichtlinie so konfiguriert haben, dass der Wiederherstellungsschlüssel in Azure Active Directory gespeichert wird, der Schlüssel für ein bestimmtes Gerät jedoch nicht hochgeladen wurde, können Sie den Upload auslösen, indem Sie den Wiederherstellungsschlüssel für dieses Gerät von der MEM-Konsole drehen. Ausführliche Informationen finden Sie unter [Drehen von BitLocker-Wiederherstellungsschlüsseln](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
 

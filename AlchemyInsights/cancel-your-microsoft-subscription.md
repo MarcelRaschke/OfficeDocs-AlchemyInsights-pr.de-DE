@@ -15,12 +15,12 @@ ms.custom:
 - "9001727"
 - "3824"
 ms.date: 10/26/2021
-ms.openlocfilehash: e32f9223ef4836f380820e81c133228898a21739
-ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
+ms.openlocfilehash: a58c8ce7c6aab2dec582d1778fb063508f6bd93b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60584490"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62580105"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>So kündigen Sie Ihr Microsoft-Abonnement
 

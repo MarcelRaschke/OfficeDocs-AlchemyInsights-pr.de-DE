@@ -13,21 +13,21 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: bbabbdeb4dc50e34673be70c3e534a88aee78600
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: bcaf8b72e0355f92be9b10aa0171f68ecf4f738b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61934676"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62546047"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Behandeln von Problemen mit Registrierungsoptionen Microsoft Intune
 
 Überprüfen Sie die unten aufgeführten Ressourcen, um Ihr Problem jetzt zu beheben.
   
-- [Überprüfen Sie Intune TechNet, um Antworten und Lösungen für häufige Probleme zu finden.](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)
+- [Überprüfen Sie Intune TechNet, um Antworten und Lösungen für häufige Probleme zu finden](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
 
-- Verwenden Sie das [Intune-Problembehandlungsportal,](https://aka.ms/intunetroubleshooting) um häufige Registrierungsfehler zu diagnostizieren und zu beheben. Weitere Informationen finden Sie in [diesem Dokument.](https://docs.microsoft.com/intune/help-desk-operators)
+- Verwenden Sie das [Intune-Problembehandlungsportal](https://aka.ms/intunetroubleshooting) , um häufige Registrierungsfehler zu diagnostizieren und zu beheben. Weitere Informationen finden Sie in [diesem Dokument](https://docs.microsoft.com/intune/help-desk-operators) .
 
 - In [diesem Dokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) wird eine Liste der häufigsten Fehler aufgeführt, die die Registrierung und Auflösung der einzelnen Fehler verhindern.
 
-- [Erfahren Sie mehr über registrierungsoptionen in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
+- [Erfahren Sie mehr über die Registrierungsoptionen in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).

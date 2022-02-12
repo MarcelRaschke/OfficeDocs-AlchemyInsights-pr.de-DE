@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4854"
-ms.openlocfilehash: f61af58ad7e5b7edd7cd147d3bd629d48697d270
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: aa27b4b79aba03443bd0c87b3ff0e8c9ca6de09b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61865602"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62545376"
 ---
 # <a name="update-on-focused-inbox-and-our-plans-for-clutter"></a>Update zum Posteingang mit Relevanz und zu unseren Plänen für Clutter
 

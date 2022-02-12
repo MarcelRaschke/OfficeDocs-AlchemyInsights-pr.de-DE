@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12068"
 - "9007192"
-ms.openlocfilehash: ba0492da2e49a32e94d0a93b06ec10b00c4af25b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0e8029d63a1984f0b6ef5176f1a532cd02dd186e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61934592"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62713293"
 ---
 # <a name="windows-11-frequently-asked-questions-faq"></a>Häufig gestellte Fragen (FAQ) zu Windows 11
 

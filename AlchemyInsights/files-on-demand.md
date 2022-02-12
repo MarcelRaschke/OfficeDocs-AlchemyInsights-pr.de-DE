@@ -13,12 +13,12 @@ ms.custom:
 - "6432"
 - "9003530"
 ms.date: 07/15/2020
-ms.openlocfilehash: 0beedc2783d366c33049d882fec0eb6c4c50995a
-ms.sourcegitcommit: 0bf8e159e9e49792db04709867d4f78e1047aa73
+ms.openlocfilehash: f6c6409319f617fa5eefa1a36977f3d64d3ae73f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "62280954"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62576883"
 ---
 # <a name="configure-files-on-demand"></a>OneDrive-Dateien bei Bedarf konfigurieren
 

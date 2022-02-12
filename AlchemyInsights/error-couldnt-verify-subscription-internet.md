@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9823"
 - "9005394"
-ms.openlocfilehash: 9875c84335c314370a2e70096324e048b38bdc14
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 32189130055cf80671c37c265e2d78224afb3150
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61961818"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62577171"
 ---
 # <a name="error-we-couldnt-verify-your-subscription-please-make-sure-that-youre-connected-to-the-internet"></a>Fehler: Ihr Abonnement konnte nicht überprüft werden. Stellen Sie sicher, dass eine Internetverbindung besteht.
 

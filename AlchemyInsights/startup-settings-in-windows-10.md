@@ -6,29 +6,34 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 9001691
-  - 3768
+- "9001691"
+- "3768"
+ms.openlocfilehash: 889b96073038c7f02758cdc53c7ac179e83ee251
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62547523"
 ---
-
 # <a name="startup-settings-in-windows-10"></a>Starteinstellungen in Windows 10
 
 **Ändern, welche Apps beim Start automatisch ausgeführt werden**
 
-1. Wechseln Sie zu [Einstellungen > Apps > Start.](ms-settings:startupapps?activationSource=GetHelp)
+1. Wechseln Sie zu [Einstellungen > Apps > Starten](ms-settings:startupapps?activationSource=GetHelp).
 
-2. Stellen Sie sicher, dass alle **Apps,** die Sie beim Start ausführen möchten, aktiviert sind.
+2. Stellen Sie sicher, dass jede App, die Sie beim Start ausführen **möchten, aktiviert** ist.
 
 **Hinzufügen einer App, die beim Start automatisch ausgeführt werden soll**
 
-1. Klicken oder tippen Sie auf **"Start",** und suchen Sie die App, die Sie beim Start ausführen möchten.
+1. Klicken oder tippen Sie auf **"Start** ", und suchen Sie die App, die Sie beim Start ausführen möchten.
 
-2. Klicken Sie mit der rechten Maustaste auf die App, klicken Sie auf **"Mehr",** und klicken Sie dann auf **"Dateispeicherort öffnen".** Dadurch wird der Speicherort geöffnet, an dem die Verknüpfung mit der App gespeichert wird. Wenn keine Option für den Dateispeicherort "Öffnen" vorhanden ist, bedeutet dies, dass die App beim Start nicht ausgeführt werden kann.
+2. Klicken Sie mit der rechten Maustaste auf die App, klicken Sie auf **"Mehr**", und klicken Sie dann auf **"Dateispeicherort öffnen"**. Dadurch wird der Speicherort geöffnet, an dem die Verknüpfung mit der App gespeichert wird. Wenn keine Option für den Dateispeicherort "Öffnen" vorhanden ist, bedeutet dies, dass die App beim Start nicht ausgeführt werden kann.
 
-3. Wenn der Speicherort der Datei geöffnet ist, drücken Sie die **Windows Logo-TASTE + R**, geben Sie **shell:startup ein,** und klicken Sie dann auf **OK**. Dadurch wird der Startordner geöffnet.
+3. Wenn der Speicherort der Datei geöffnet ist, drücken Sie die **Windows Logo-Taste + R**, geben Sie **shell:startup ein**, und klicken Sie dann auf **OK**. Dadurch wird der Startordner geöffnet.
 
 4. Kopieren Sie die Verknüpfung, und fügen Sie sie aus dem Dateispeicherort in den Startordner in die App ein.
 
@@ -38,12 +43,12 @@ ms.custom:
 
 2. Wechseln Sie zu [Einstellungen > Update & Security > Recovery](ms-settings:recovery?activationSource=GetHelp).
 
-3. Klicken Sie unter **"Erweiterter Start"** auf **"Jetzt neu starten".** 
+3. Klicken Sie unter **"Erweiterter Start"** **auf "Jetzt neu starten**". 
 
 4. Nachdem Ihr PC neu gestartet wurde, wählen Sie einen Optionsbildschirm aus:
 
-    - Klicken Sie zum Starten von einem Gerät wie einem USB-Laufwerk auf **"Gerät verwenden".**
+    - Klicken Sie zum Starten von einem Gerät wie einem USB-Laufwerk auf **"Gerät verwenden**".
 
-    - Klicken Sie zum Eingeben der UEFI-Einstellungen (manchmal als BIOS-Setup bezeichnet) auf **Problembehandlung > Erweiterten Optionen > UEFI Firmware Einstellungen.** 
+    - Klicken Sie zum Eingeben der UEFI-Einstellungen (manchmal als BIOS-Setup bezeichnet) auf **Problembehandlung > Erweiterte Optionen > UEFI-Firmware Einstellungen**. 
 
-    - Um Tresor Modus einzugeben oder erweiterte Starteinstellungen zu ändern, klicken Sie auf **"Problembehandlung > Erweiterte Optionen > Start Einstellungen"** und dann auf **"Neu starten".** Möglicherweise werden Sie aufgefordert, Ihren [BitLocker-Wiederherstellungsschlüssel](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key)einzugeben. Klicken Sie nach dem neustarten des PCs auf die Starteinstellung, die Sie verwenden möchten.
+    - Um in den Tresor Modus zu wechseln oder erweiterte Starteinstellungen zu ändern, klicken Sie auf **"Problembehandlung > Erweiterte Optionen > Start Einstellungen**", und klicken Sie dann auf **"Neu starten**". Möglicherweise werden Sie aufgefordert, Ihren [BitLocker-Wiederherstellungsschlüssel](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) einzugeben. Klicken Sie nach dem neustarten des PCs auf die Starteinstellung, die Sie verwenden möchten.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4510"
-ms.openlocfilehash: 2291457702ecf1175e4422c638659aad5266e77a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9841ac60444c161b831901b2ddf0a6a14a89efd8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61941991"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62547091"
 ---
 # <a name="stream-temporary-feature-adjustments"></a>Temporäre Feature-Anpassungen streamen
 

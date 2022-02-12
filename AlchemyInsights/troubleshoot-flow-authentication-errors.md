@@ -10,25 +10,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: 86120f81ab6650a4e7e0eb41a9448758f5ce97e3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: eba3be80e3b0ec3e82863eaca07f604a06d2ec73
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989087"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62546204"
 ---
 # <a name="troubleshoot-flow-authentication-errors"></a>Problembehandlung bei Flow Authentifizierungsfehlern
 
 In vielen Fällen schlagen Flüsse aufgrund eines Authentifizierungsfehlers fehl. Wenn Sie diese Art von Fehler haben, enthält die Fehlermeldung "Nicht autorisiert", oder es wird der Fehlercode 401 oder 403 angezeigt. Sie können in der Regel einen Authentifizierungsfehler beheben, indem Sie die Verbindung aktualisieren:
   
-1. Klicken oder tippen Sie oben im Webportal auf das Zahnradsymbol, um das menü Einstellungen zu öffnen, und klicken oder tippen Sie dann auf **"Verbindungen".**
+1. Klicken oder tippen Sie oben im Webportal auf das Zahnradsymbol, um das menü Einstellungen zu öffnen, und klicken oder tippen Sie dann auf **"Verbindungen"**.
     
 2. Scrollen Sie zu der Verbindung, für die die Fehlermeldung "Nicht autorisiert" angezeigt wurde.
     
-3. Klicken oder tippen Sie neben der Verbindung auf den Link **"Kennwort überprüfen"** in der Nachricht, dass die Verbindung nicht authentifiziert wird. 
+3. Klicken oder tippen Sie neben der Verbindung auf den Link " **Kennwort überprüfen** " in der Nachricht, dass die Verbindung nicht authentifiziert wird. 
     
-4. Überprüfen Sie Ihre Anmeldeinformationen, indem Sie den angezeigten Anweisungen folgen, zu Ihrem Flow-Run-Fehler zurückkehren und dann auf **"Erneut übermitteln"** klicken oder darauf tippen.
+4. Überprüfen Sie Ihre Anmeldeinformationen, indem Sie die angezeigten Anweisungen befolgen, zu Ihrem Flow-Run-Fehler zurückkehren und dann auf **"Erneut übermitteln**" klicken oder darauf tippen.
     
-Weitere Hilfe finden Sie unter [Problembehandlung bei einem Fluss.](https://go.microsoft.com/fwlink/?linkid=872110)
+Weitere Hilfe finden Sie unter [Problembehandlung für einen Fluss](https://go.microsoft.com/fwlink/?linkid=872110).
   
 

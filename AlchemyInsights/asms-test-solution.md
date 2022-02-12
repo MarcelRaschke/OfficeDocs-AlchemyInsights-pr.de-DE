@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003544"
 - "6460"
-ms.openlocfilehash: ae61502949955554ab66878d896455a15895c90b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5c4ad8f1ee3f418171a04135a8620dc63e40bfb3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61864264"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62580791"
 ---
 # <a name="asms-test-solution"></a>ASMS-Testlösung
 

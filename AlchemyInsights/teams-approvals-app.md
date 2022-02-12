@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13990"
 - "9005793"
-ms.openlocfilehash: 198b6a22b37a43b67e7612e83e27c069624c88ea
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 08ebd86d64d77e9c7a21e8355cb95faabdf49dac
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61987573"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62546839"
 ---
 # <a name="teams-approvals-app"></a>Teams-Genehmigungs-App
 

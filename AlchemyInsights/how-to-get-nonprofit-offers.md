@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "1500010"
 - "3819"
-ms.openlocfilehash: 51634d3f165a7f73e02b01e8075124fc97e54f4f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 914a413dcc53490f84d4310d2acdff12b376ad8b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61959367"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62669191"
 ---
 # <a name="how-to-get-nonprofit-offers"></a>Erhalten von Non-Profit-Angeboten
 

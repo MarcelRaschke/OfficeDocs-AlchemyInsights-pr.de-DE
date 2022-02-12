@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8217"
 - "9004596"
-ms.openlocfilehash: dd7fdf4b0e6da5a472052176b6d39a055c7aa0940a0d6ad82c773ae9c14345af
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2e17c013ac36b4855380b35db62215ace2c1c5fa
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059991"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62580393"
 ---
 # <a name="block-ads-in-the-microsoft-edge-browser-on-an-android-or-ios-device"></a>Blockieren von Werbung im Microsoft Edge-Browser auf einem Android- oder iOS-Gerät
 

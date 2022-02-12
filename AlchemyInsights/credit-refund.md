@@ -15,12 +15,12 @@ ms.custom:
 - "1500035"
 ms.date: 04/21/2020
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: dc0fc34552e8c2fd97c06c674bf119946c4b9a8e
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 61a001e5d1ac7f96386e1cbb2099691759532b64
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58841612"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62670091"
 ---
 # <a name="creditrefund"></a>Gutschrift/Rückerstattung
 
@@ -36,4 +36,4 @@ Wenn Lizenzen aus einem Abonnement entfernt werden, wird die nicht verwendete Ze
 
 **Jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.**
 
-Weitere Informationen finden Sie unter ["Stornierungs- und Rückerstattungsprozess".](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) 
+Weitere Informationen finden Sie unter ["Stornierungs- und Rückerstattungsprozess"](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). 

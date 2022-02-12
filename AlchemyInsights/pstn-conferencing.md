@@ -13,12 +13,12 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: 04bad3b5c2c4cf5fdb1d99ded23e5dfb59061e4e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9fa75ed235f42c1c4198d37dbe712aed1c4b459b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61945294"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62665446"
 ---
 # <a name="pstn-calling-with-skype-for-business-online"></a>PSTN-Anrufe mit Skype for Business Online
 

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001464"
 - "3492"
-ms.openlocfilehash: 7e67a45b6f4d4b18f47ce55a0fde20f826498c5d25c4a6dec4311d8fe4c3735f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a7eb5daf4528df2ab07c518321a231de39a7ee00
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53928548"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62669875"
 ---
 # <a name="disable-network-scan"></a>Deaktivieren der Netzwerküberprüfung
 
-Netzwerkfreigabeüberprüfungen können sich auf die Leistung auswirken.  Um sicherzustellen, dass der Client netzwerkfreigaben/-dateien nicht standardmäßig überprüft, konfigurieren Sie die folgenden Einstellungen in der Windows Defender-Anwendung auf **"True":**
+Netzwerkfreigabeüberprüfungen können sich auf die Leistung auswirken.  Um sicherzustellen, dass der Client keine Netzwerkfreigaben/Dateien standardmäßig überprüft, konfigurieren Sie die folgenden Einstellungen in der Windows Defender-Anwendung auf **"True"**:
 
 - DisableScanningMappedNetworkDrivesForFullScan
 - DisableScanningNetworkFiles

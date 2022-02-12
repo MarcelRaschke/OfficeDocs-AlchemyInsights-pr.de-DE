@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9826"
 - "9005394"
-ms.openlocfilehash: d866b4774e3db74ef7c7b9e7a8ff1f3234e09678
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 32cf748f3844ae1a11184798e8389d9dcea99b25
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61961745"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62577063"
 ---
 # <a name="error-most-of-the-features-have-been-disabled-because-this-product-requires-an-update"></a>Fehler: Die meisten Features wurden deaktiviert, da für dieses Produkt ein Update erforderlich ist.
 

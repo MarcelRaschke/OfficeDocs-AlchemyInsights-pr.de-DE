@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002342
-  - 4559
+- "9002342"
+- "4559"
+ms.openlocfilehash: 88f768e6b6054c3724b969b3a6722668417228df
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62665712"
 ---
-
 # <a name="microsoft-teams-phone-license"></a>Lizenz für Microsoft Teams Telefon
 
 Die **Microsoft Teams Telefon-Lizenz** ist ein Add-On für **Microsoft Teams**. Die Lizenz ist standardmäßig mit [Office 365 Enterprise E5](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e5-business-software?rtc=1&activetab=pivot%3aoverviewtab) verfügbar und muss als Add-On für einen [Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software)- oder [E3](https://products.office.com/business/office-365-enterprise-e3-business-software)-Plan erworben werden.

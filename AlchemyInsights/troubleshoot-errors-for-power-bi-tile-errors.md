@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: c506cd5ef2dc214bc92e709d31d46eaef777aaa5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5403403af080c8c1457bb956eec6741b9b99200c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61983357"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62546195"
 ---
 # <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Problembehandlung bei Aktualisierungsszenarien – Kachelfehler
 

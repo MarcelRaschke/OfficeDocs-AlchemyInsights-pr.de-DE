@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: aca69fb421bc2c54458a4f18717a35f04d8d52fd
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5028b94f752cc277c2688a57ad0496f4073d74ef
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61805435"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62713473"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Häufige Probleme und Lösungen in Visio
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5473"
-ms.openlocfilehash: 0d95e7a226eef9d91081af5911dabc6d6fb6af3c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: aa70b622e4d62787370368e305b70b5cb7bf5baa
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61988509"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62664583"
 ---
 # <a name="record-a-presentation-with-narration-and-timing"></a>Aufzeichnen einer Präsentation mit Kommentaren und Anzeigedauern
 

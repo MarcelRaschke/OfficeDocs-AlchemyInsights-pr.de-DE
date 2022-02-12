@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002572
-  - 5031
+- "9002572"
+- "5031"
+ms.openlocfilehash: 1cc00f192d6d4b293c86df261586bbb8f2dc6b87
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62663430"
 ---
-
 # <a name="sign-up-for-microsoft-365"></a>Registrieren für Microsoft 365
 
 Nachstehend finden Sie Links für die direkte Registrierung für verschiedene kostenlose oder kostenpflichtige Microsoft 365- und Office 365-Pläne:

@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: e7d5a3ff476fb1ba3c312c2dc880fa35bcc696bd
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8218a460193fc7043f1b48696ed60517e061e005
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61863300"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62669731"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Haben Sie Probleme beim Herstellen Outlook zum Herstellen einer Verbindung?
 
