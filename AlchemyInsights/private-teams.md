@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 9001223
-  - 6258
+- "9001223"
+- "6258"
+ms.openlocfilehash: 650ab35aee390d06805e1883aa7433a817438062
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62548551"
 ---
-
 # <a name="managing-discovery-of-private-teams"></a>Verwalten der Ermittlung privater Teams
 
 **Neue Teams**
@@ -24,4 +29,4 @@ Wenn ein Teambesitzer ein privates Team erstellt, kann er es durch Konfigurieren
 
 Teambesitzer können die Ermittlungseinstellung für ein vorhandenes privates Team direkt in den Teameinstellungen festlegen, und Administratoren können dies mithilfe von PowerShell tun.  
 
-Weitere Informationen finden Sie unter [Verwalten der Ermittlung privater Teams in Microsoft Teams.](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams)
+Weitere Informationen finden [Sie unter Verwalten der Ermittlung privater Teams in Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams).

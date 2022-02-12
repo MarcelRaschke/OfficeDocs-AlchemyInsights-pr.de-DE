@@ -1,5 +1,5 @@
 ---
-title: Probleme beim Installieren Exchange Server Updates
+title: Probleme bei der Installation Exchange Server Updates
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 6d454a78feca7ece7c3d7d6c93f8eb5d343106b68029b96839b5ff28077d0f25
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4a4beb7a6b1a8b8753854bf95bb3b1b32bbeb329
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013027"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62551971"
 ---
-# <a name="issues-when-installing-exchange-server-updates"></a>Probleme beim Installieren Exchange Server Updates
+# <a name="issues-when-installing-exchange-server-updates"></a>Probleme bei der Installation Exchange Server Updates
 
-Wenn Sie auf das neueste kumulative Update (KU) für Exchange Server aktualisieren müssen, können Sie [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) eine detaillierte Gruppe von Schritten zum Aktualisieren von Ihrem aktuellen CU auf das Ziel-CU abrufen.
+Wenn Sie auf das neueste kumulative Update (KU) für Exchange Server aktualisieren müssen, können [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) Sie eine detaillierte Reihe von Schritten zum Aktualisieren von Ihrem aktuellen CU auf das Ziel-CU abrufen.
 
-Wenn während oder nach der Installation von Exchange Server Updates Fehler auftreten, lesen Sie den Abschnitt "Bewährte Methoden" des Artikels [Upgrade Exchange auf das neueste kumulative Update.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Es ist sehr wichtig, Sicherheitsupdates mithilfe der CMD-Eingabeaufforderung mit erhöhten Rechten zu installieren (wenn Updates nicht über Microsoft Update installiert werden).
+Wenn während oder nach der Installation von Exchange Server Updates Fehler auftreten, lesen Sie den Abschnitt "Bewährte Methoden" des Artikels [Upgrade Exchange auf das neueste kumulative Update](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Es ist sehr wichtig, Sicherheitsupdates mithilfe der CMD-Eingabeaufforderung mit erhöhten Rechten zu installieren (wenn Updates nicht über Microsoft Update installiert werden).
 
-Wenn Beim Installieren von Sicherheitsupdates oder nach der Installation des Updates Fehler angezeigt werden, lesen Sie ["Reparieren fehlgeschlagener Installationen von kumulativen updates und Sicherheitsupdates" Exchange](https://aka.ms/exupdatefaq).
+Wenn Beim Installieren von Sicherheitsupdates oder nach der Installation des Updates Fehler angezeigt werden, lesen Sie "[Reparieren fehlgeschlagener Installationen von kumulativen updates und Sicherheitsupdates für Exchange](https://aka.ms/exupdatefaq)".

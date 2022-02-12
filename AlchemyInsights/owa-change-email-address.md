@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 0b13d7dafeabb87d027cdd3ae7659ccde79be2abfc328682885bfb0f95c1b442
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: abd70a0257031d1d503b91ce2a7b51df28932f91
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53961374"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62549883"
 ---
 # <a name="change-your-email-address"></a>Ändern Ihrer E-Mail-Adresse 
 
 Um Ihre E-Mail-Adresse zu ändern, benötigen Sie Administratorrechte.
   
-Folgen Sie den Anweisungen unter [Ändern eines Benutzernamens und einer E-Mail-Adresse in Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+Folgen Sie den Anweisungen unter [Ändern eines Benutzernamens und einer E-Mail-Adresse in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).

@@ -1,5 +1,5 @@
 ---
-title: Verhindern, dass Teams automatisch gestartet werden
+title: Verhindern, dass Teams automatisch gestartet wird
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: df714df48a1d83d9a3aa875d3c26a4cbc6b7eca5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 29ca413664afc72e3ad465a394a30bf60af6681e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61987213"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62549019"
 ---
-# <a name="prevent-teams-from-starting-automatically"></a>Verhindern, dass Teams automatisch gestartet werden
+# <a name="prevent-teams-from-starting-automatically"></a>Verhindern, dass Teams automatisch gestartet wird
 
 Standardmäßig wird Teams automatisch geöffnet, wenn Sie Ihr Gerät starten.
 
-Um diese Einstellung zu ändern, wählen Sie Ihr Teams Profilbild und dann **Einstellungen**  >   **Allgemein** aus. Deaktivieren Sie unter **"Anwendung"** die Option **"Anwendung automatisch starten".**
+Um diese Einstellung zu ändern, wählen Sie Ihr Teams Profilbild und dann **Einstellungen** >   **General** aus. Deaktivieren Sie unter  **"Anwendung**" die Option "  **Anwendung automatisch starten**".
 
 Weitere Informationen finden Sie unter [Ändern von Einstellungen in Teams](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7).

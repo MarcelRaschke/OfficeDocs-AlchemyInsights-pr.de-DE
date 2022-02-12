@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10891"
 - "1100004"
-ms.openlocfilehash: 912d57aa953a7896328feda2bf5cebd1cb4d8a47
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: fb0634382ce6a368ee735b0781a1e558901cd653
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61966452"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62553195"
 ---
 # <a name="guest-user-password-reset"></a>Kennwortzurücksetzung für Gastbenutzer
 

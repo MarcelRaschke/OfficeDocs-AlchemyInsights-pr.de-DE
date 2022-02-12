@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4837"
-ms.openlocfilehash: b9db6c57a95598d70e01be20e0665fc7df66d700
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b3b042236b5d92d48a00d46b5d905f7ecee25b41
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61967646"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62554239"
 ---
 # <a name="files-restore-feature"></a>Dateiwiederherstellungsfeature
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 5702c27868931bee862dd714d674414799a67097
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f1e442a0fe5461f8b7f198f70f4cff9aa18ff842
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61961241"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62594254"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Übertragen des Besitzes von Azure-Abrechnungen
 

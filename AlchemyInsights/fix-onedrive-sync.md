@@ -13,12 +13,12 @@ ms.custom:
 - "9002286"
 - "4415"
 - "4416"
-ms.openlocfilehash: 91869d3b361bf8a21ae784ca68d784cd88e8eab6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 98147390edae75732b67fab0d0f8a4f1aec62fa2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61979228"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62554095"
 ---
 # <a name="fix-onedrive-sync-issues"></a>Beheben von OneDrive-Synchronisierungsproblemen
 

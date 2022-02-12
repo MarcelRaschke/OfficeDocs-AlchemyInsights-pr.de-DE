@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: aa2e04ee391a102fa4bbf29016bc8e3939baa742
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 913227cc783915a114c6c14a25469984219c74a1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61982529"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62551251"
 ---
 # <a name="new-office-365-e1-trial"></a>Testversion für neue Office 365 E1
 
-Ab dem 1. Juli 2020 ist die Office 365 E1 Testlizenz nicht mehr verfügbar. Wenn Sie Benutzer für Microsoft Teams lizenzieren müssen, lesen Sie die [Microsoft Teams Dienstbeschreibung](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) für eine Liste der kostenpflichtigen Abonnements, die Teams enthalten. Alternativ können berechtigte Organisationen die [kostenlose Version von Teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)verwenden, oder Mitarbeiter können die Teams [Exploratory-Umgebung](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) aktivieren.
+Ab dem 1. Juli 2020 ist die Office 365 E1 Testlizenz nicht mehr verfügbar. Wenn Sie Benutzer für Microsoft Teams lizenzieren müssen, lesen Sie die [Microsoft Teams Dienstbeschreibung](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) für eine Liste der kostenpflichtigen Abonnements, die Teams enthalten. Alternativ können berechtigte Organisationen die [kostenlose Version von Teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c) verwenden, oder Mitarbeiter können die [Teams Exploratory-Umgebung](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) aktivieren.

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: e0fc40c7c98dcfddeb984649a954affe82fcfaa0
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 28ec567e381394460b56358aac2534dc2de3e49c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61863602"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62554851"
 ---
 # <a name="entity-type-not-showing-in-search-results"></a>Entitätstyp wird in Suchergebnissen nicht angezeigt
 

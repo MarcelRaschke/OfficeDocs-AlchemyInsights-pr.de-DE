@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3809"
 - "9001716"
-ms.openlocfilehash: 7fc37f7dc19d7f5bd5335304d046a368978c4eb8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3cce08f713dbe836063b4d8c0d6861a9be0be499
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61934844"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62549176"
 ---
 # <a name="planner-how-notifications-work"></a>Planner: Wie Benachrichtigungen funktionieren
 

@@ -13,18 +13,18 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: 08d8130df0823460b4dea83ae859697fe16185f4
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 93f3aa34ff77617f87adb7baa1551e78a9ca212a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61961890"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62554599"
 ---
 # <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Fehlercode 30125-4 oder 30125-1011 bei der Installation von Office
 
 Dieser Fehler wird möglicherweise angezeigt, wenn Ihre Antivirensoftware, Firewall, Proxyeinstellungen oder Verbindung sie daran hindern, Office zu installieren. Hier sind einige Dinge, die Sie versuchen können, das Problem zu beheben:
   
-- Starten Sie Ihren Computer neu, und installieren Sie Office neu.
+- Starten Sie Ihren Computer neu, und installieren Sie Office
 
 - Installieren Office mit dem [Office Offline-Installationsprogramm](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
@@ -34,5 +34,5 @@ Dieser Fehler wird möglicherweise angezeigt, wenn Ihre Antivirensoftware, Firew
 
 - Firewall vorübergehend deaktivieren
 
-Weitere Informationen finden Sie [unter Fehlercode 30125-4 oder 30125-1011 bei](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA) der Installation von Office
+Weitere Informationen finden Sie [unter Fehlercode 30125-4 oder 30125-1011 bei der Installation von Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
   

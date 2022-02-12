@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "10872"
-ms.openlocfilehash: 59a62111739b2498637516794ff5081be16e830f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: bebb8f06cc3c1dfad157a5c2230b7d4a89e3cded
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61971609"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62551863"
 ---
 # <a name="key-capabilities-of-windows-virtual-desktop"></a>Die wichtigsten Funktionen von Windows Virtual Desktop
 

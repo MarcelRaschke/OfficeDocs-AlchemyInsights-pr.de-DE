@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6870"
 - "9000156"
-ms.openlocfilehash: ef2989254eab30b9de9241a53773e502a8127fd9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a98ba8383ddaa15eb8e5336237f859c33b843143
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61986745"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62549271"
 ---
 # <a name="permissions-in-the-sharepoint-modern-experience"></a>Berechtigungen in der modernen SharePoint-Oberfläche
 

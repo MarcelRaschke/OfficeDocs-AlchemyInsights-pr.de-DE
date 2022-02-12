@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: cd6d62d2cbaf96a99cc55b41a3780ef073fbe4fc
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5291fa2de3a81b981981c39d6d46868ec1d3df9b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61967574"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62552547"
 ---
 # <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Freigeben von SharePoint oder OneDrive Dateien oder Ordnern
 

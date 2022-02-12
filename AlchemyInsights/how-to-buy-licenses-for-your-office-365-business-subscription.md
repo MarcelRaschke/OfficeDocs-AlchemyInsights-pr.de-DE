@@ -14,12 +14,12 @@ ms.custom:
 - "652"
 - "2000017"
 ms.date: 08/10/2021
-ms.openlocfilehash: 1006d300edd3e828ec817dc4dd20d73c1197c16e
-ms.sourcegitcommit: d5143738025187f6b7aef801d7c992de97c9d78e
+ms.openlocfilehash: 771ea4e03b5d462b5c5311923eee62188e30a393
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62471794"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62552619"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>So erwerben Sie Lizenzen für Ihr Microsoft 365 Apps for Business-Abonnement
 
@@ -30,6 +30,6 @@ Wenn Sie Ihren Benutzern Lizenzen zuweisen, stellen Sie möglicherweise fest, da
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Suchen Sie auf der Registerkarte " **Produkte** " das Abonnement, das Sie aktualisieren möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **"Lizenzen kaufen**" aus.
 3. Geben Sie im Bereich **"Lizenzen kaufen** " unter **"Neue Menge** " im Feld **"Lizenzen insgesamt** " die Gesamtanzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen. Wenn Sie beispielsweise über 100 Lizenzen verfügen und weitere 25 Lizenzen hinzufügen möchten, geben Sie 125 ein.
-4. Klicken Sie auf **Speichern**.
+4. Wählen Sie **Speichern**.
 
 Weitere Informationen finden Sie unter ["Kaufen oder Entfernen von Lizenzen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)".

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000100"
 - "7470"
-ms.openlocfilehash: 583fec061c38a4270fb662a84c5f660415a0e2a2d6ac78994d9cb8d8b6b3d8b8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9be163f0d1053364009bc6a78588396aa9b5cdc1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54023305"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62548371"
 ---
 # <a name="sharepoint-files-are-missing"></a>SharePoint-Dateien fehlen
 

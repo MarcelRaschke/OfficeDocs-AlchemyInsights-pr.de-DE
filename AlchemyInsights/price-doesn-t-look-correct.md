@@ -16,12 +16,12 @@ ms.custom:
 - "1500027"
 ms.date: 04/21/2020
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 43d6e94e94f890feba4c472387dfdcdefefe811d
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 98b7cb758bcc1528d9098bfde10a86a1bbcd88a6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844205"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62549055"
 ---
 # <a name="price-doesnt-look-correct"></a>Preis sieht nicht richtig aus?
 

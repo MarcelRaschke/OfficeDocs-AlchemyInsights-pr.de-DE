@@ -13,15 +13,15 @@ ms.custom:
 - "2404"
 - "8000048"
 - "9000554"
-ms.openlocfilehash: ed1913f255657c7efac7e5dd292f60f23a72870a8e4ae6338952e790416dd993
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 98078d48676035ab599432c081f8e5564a0fd1f8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54053645"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62550459"
 ---
 # <a name="sync-contacts"></a>Kontakte synchronisieren
 
-Outlook synchronisiert die Kontakte, die Sie in [Personen](https://outlook.live.com/people/) erstellen, über andere Geräte und Apps hinweg, z. B. Outlook für Android und Outlook für iOS. Erfahren Sie, wie Sie [Kontakte erstellen.](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01)
+Outlook synchronisiert die Kontakte, die Sie in [Personen](https://outlook.live.com/people/) erstellen, über andere Geräte und Apps hinweg, z. B. Outlook für Android und Outlook für iOS. Erfahren Sie, wie Sie [Kontakte erstellen](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
 
-Importierte Kontakte (z. B. Kontakte von einem anderen E-Mail-Konto, das Sie mit Ihrem Outlook.com-Konto verbunden haben) werden nicht synchronisiert. Erfahren Sie, wie [Sie Kontakte importieren.](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1)
+Importierte Kontakte (z. B. Kontakte von einem anderen E-Mail-Konto, das Sie mit Ihrem Outlook.com-Konto verbunden haben) werden nicht synchronisiert. Erfahren Sie, wie Sie [Kontakte importieren](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).

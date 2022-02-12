@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003078"
 - "5853"
-ms.openlocfilehash: 8f540a9dce1a19ce20eeb55ee2d5f478799e7098
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9ba946eb4c8b12347d7ff827a5f4fc94ac6c534f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61961205"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62594218"
 ---
 # <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>Sichern Ihrer Dokumente, Bilder und Desktopordner mit OneDrive
 

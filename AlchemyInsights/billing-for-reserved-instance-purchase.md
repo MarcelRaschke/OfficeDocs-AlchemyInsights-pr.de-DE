@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: eaa6ec60cfb9ba8efae296503ac4585a0d1bea6a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: fd2434ff8f33be1ea8f2c34748cd03509f30d9f8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960521"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62593750"
 ---
 # <a name="billing-for-reserved-instance-purchase"></a>Abrechnung des Kaufs reservierter Instanzen
 
@@ -37,7 +37,7 @@ Der Kauf reservierter Instanzen wird über die Zahlungsmethode abgerechnet, die 
 - **API / PS / CLI** Support steht nicht für Stornierung und Rückerstattungen zur Verfügung [Self-Service-Umtausche und Erstattungen für Azure-Reservierungen](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Self-Service Exchange- und Stornierungsmöglichkeit sind für Kunden von US Government Enterprise Agreement nicht verfügbar. Weitere US Government-Abonnementtypen einschließlich Nutzungsbasierte Zahlung und CSP werden unterstützt
 
-Weitere Informationen: [Wie Rückgabe- und Exchange-Transaktionen verarbeitet werden](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) Erfahren Sie mehr: Exchange und [Rückerstattungsrichtlinien](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) Weitere Fragen: [Besuchen Sie reservierte Instanz-Dokumente.](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Weitere Informationen: [Wie Rückgabe- und Exchange-Transaktionen verarbeitet werden](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) Erfahren Sie mehr: [Exchange und Rückerstattungsrichtlinien](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) Weitere Fragen: [Besuchen Sie reservierte Instanz-Dokumente](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Tauschen einer vorhandenen reservierten Instanz (Self-Service)**
 
@@ -45,7 +45,7 @@ Sie können eine Reservierung für eine andere Reservierung desselben Typs tausc
 
 In den folgenden Schritten wird beschrieben, wie Sie die Transaktion ausführen.
 
-1.Melden Sie sich bei Ihrem [Azure-Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)an. Wählen Sie die Reservierungen aus, die Sie zurückerstatten möchten, und klicken Sie auf **Exchange** 2.Wählen Sie das VM-Produkt aus, das Sie kaufen möchten, und geben Sie eine Menge ein. Stellen Sie sicher, dass die Summe der neuen Einkäufe größer als die Rückgabesumme [ist. Ermitteln Sie vor dem Kauf die richtige Größe.](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+1.Melden Sie sich bei Ihrem [Azure-Portal an](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Wählen Sie die Reservierungen aus, die Sie zurückerstatten möchten, und klicken Sie auf **Exchange** 2.Wählen Sie das VM-Produkt aus, das Sie kaufen möchten, und geben Sie eine Menge ein. Stellen Sie sicher, dass die Summe der neuen Einkäufe größer als die Rückgabesumme ist [. Ermitteln Sie vor dem Kauf die richtige Größe](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
 3.Überprüfen und Abschließen der Transaktion
 
 **Rückerstattung für eine reservierte Instanz**
@@ -54,7 +54,7 @@ Wenn Sie eine Reservierung zurückerstatten möchten, wechseln Sie zu **Reservie
 
 **Anteilige Rückerstattung:**
 
-**Beispiele für Pro-Ration und Mindestanforderungen für Erstattungs- und** Exchange-Vorabreservierung:
+**Beispiele für Pro-Ration und Mindestanforderungen für Erstattung und Vorabreservierung**:
 
 - Sie kaufen einen RI-Jahreszeitraum für $120 am 1. Januar.
 - Am 7. April möchten Sie diese Reservierung zurückerstatten oder austauschen.
@@ -89,7 +89,7 @@ Einige mögliche Gründe, warum möglicherweise keine Rechnung angezeigt wird:
 **Empfangen Ihrer Rechnung per E-Mail (.pdf)**
 
 - Wählen Sie Ihr Abonnement auf der Seite ["Abonnements"](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) aus. Klicken Sie auf **"Rechnungen"** und dann auf "E-Mail an meine Rechnung senden".
-- Klicken Sie auf **"Anmelden",** und akzeptieren Sie die Bedingungen. Sie müssen sich für jedes Abonnement anmelden, das Sie besitzen.
+- Klicken Sie auf **"Anmelden"** , und akzeptieren Sie die Bedingungen. Sie müssen sich für jedes Abonnement anmelden, das Sie besitzen.
 
 Hinweis: Wenn Sie nach dem Ausführen der Schritte keine E-Mail erhalten, stellen Sie sicher, dass Ihre E-Mail-Adresse in den [Kommunikationseinstellungen ihres Profils](https://account.windowsazure.com/profile) korrekt ist.
 
@@ -98,7 +98,7 @@ Hinweis: Wenn Sie nach dem Ausführen der Schritte keine E-Mail erhalten, stelle
 - Melden Sie sich beim [Azure-Kontocenter](https://account.windowsazure.com/Subscriptions) als [Kontoadministrator](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) an.
 - Wählen Sie das Abonnement aus, für das Sie die Rechnung und nutzungsinformationen benötigen.
 - **Auswählen des Abrechnungsverlaufs**
-- Wählen Sie **"Aktuelle Anweisung anzeigen" aus,** um eine Schätzung Ihrer Gebühren zum Zeitpunkt der Generierung der Schätzung anzuzeigen.
+- Wählen Sie **"Aktuelle Anweisung anzeigen" aus** , um eine Schätzung Ihrer Gebühren zum Zeitpunkt der Generierung der Schätzung anzuzeigen.
 - Wählen Sie **"Nutzung herunterladen"** aus, um die täglichen Nutzungsdaten als CSV-Datei herunterzuladen. Wenn zwei Versionen verfügbar sind, laden Sie Version 2 herunter.
 
 Weitere Fragen: [reservierte Instanzdokumente besuchen](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)

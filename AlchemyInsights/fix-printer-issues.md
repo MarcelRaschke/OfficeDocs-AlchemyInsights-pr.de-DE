@@ -6,20 +6,25 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 9001214
-  - 3186
+- "9001214"
+- "3186"
+ms.openlocfilehash: 794a13988e45dfaba1c55e68b6463a46828932c7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62554023"
 ---
-
 # <a name="troubleshoot-your-printer"></a>Problembehandlung beim Drucker
 
-Wenn Druckerprobleme auftreten, versuchen Sie zunächst, einen **Drucker-Energiezyklus** auszuführen. Führen Sie die folgenden Schritte aus:
+Wenn Druckerprobleme auftreten, führen Sie zunächst einen **Drucker-Energiezyklus** durch. Führen Sie die folgenden Schritte aus:
 
 1. Schalten Sie den Drucker aus, und ziehen Sie das Netzkabel ab.
 2. Warten Sie 30 Sekunden.
 3. Schließen Sie den Drucker wieder an das Stromnetz an, und schalten Sie ihn ein.
 
-Wenn das Problem dadurch nicht behoben wurde, führen Sie die Druckerproblembehandlung aus, indem Sie zu **"Start**  >  **Einstellungen**  >  **Update & Security**  >  **Troubleshoot"** wechseln. Wählen Sie **"Drucker"** und dann **"Problembehandlung ausführen"** aus.
+Wenn das Problem dadurch nicht behoben wurde, führen Sie die Druckerproblembehandlung aus, indem Sie zu **Start** >  **Einstellungen** >  **Update &** **SecurityTroubleshoot** >  wechseln. Wählen Sie **"Drucker**" und dann " **Problembehandlung ausführen**" aus.

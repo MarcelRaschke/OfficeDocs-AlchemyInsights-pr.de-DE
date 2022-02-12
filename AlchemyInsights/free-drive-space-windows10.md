@@ -15,12 +15,12 @@ ms.custom:
 - "9774"
 - "9005390"
 - "9005403"
-ms.openlocfilehash: 0d449d0955eb74ba3ad411f0e6db71eb7e5e7ff2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d59eac9e523c55f32831030f260f1d003de03e68
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61946842"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62553735"
 ---
 # <a name="free-up-drive-space-in-windows-10"></a>Freigeben von Speicherplatz in Windows 10
 

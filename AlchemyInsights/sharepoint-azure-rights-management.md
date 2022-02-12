@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 3fa144112f0ab4f4df6754a3ca9a11899817b649
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e30a6d0431d2ed70d007efc7bdbfd8c370206884
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61982383"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62548407"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>IRM-Schutz zum SharePoint von Dateien
 
@@ -23,11 +23,11 @@ Innerhalb von SharePoint Online greift der IRM-Schutz für Dateien auf der Ebene
 
 Weitere Informationen finden Sie unter:
 
-- [Wie Office Anwendungen und Dienste Azure Rights Management unterstützen.](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)
+- [Wie Office Anwendungen und Dienste Azure Rights Management unterstützen](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
-- [Richten Sie IRM (Information Rights Management) im SharePoint Admin Center ein.](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
+- [Richten Sie die Verwaltung von Informationsrechten (Information Rights Management, IRM) im SharePoint Admin Center](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center) ein.
 
-- [IRM-enable SharePoint Dokumentbibliotheken und -listen.](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)
+- [IRM-aktivieren SharePoint Dokumentbibliotheken und -listen](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
 - [Verwaltung von Informationsrechten in Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
 

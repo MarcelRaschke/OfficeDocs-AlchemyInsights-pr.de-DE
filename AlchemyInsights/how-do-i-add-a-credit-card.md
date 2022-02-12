@@ -16,12 +16,12 @@ ms.custom:
 - "1500001"
 ms.date: 04/21/2020
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: cb89856a33d9ae30b6799132f1b769493df88633
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 8a399d5f3f49b00f6c53c98b3e255f74213f3af8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843773"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62552812"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Wie füge ich eine Kreditkarte hinzu?
 
