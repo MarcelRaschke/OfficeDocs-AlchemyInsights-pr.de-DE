@@ -14,12 +14,12 @@ ms.custom:
 - "10933"
 - "9006437"
 - "5300030"
-ms.openlocfilehash: 01ce1d4a181e30e05c0c551f05552d9bfeeb3383
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: aebad407de82af00a0b8a87f61a22a89956d76b3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61929602"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62606423"
 ---
 # <a name="domain-registration-expiration"></a>Ablauf der Domänenregistrierung
 

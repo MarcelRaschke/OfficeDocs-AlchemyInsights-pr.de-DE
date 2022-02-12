@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5751"
 - "9003043"
-ms.openlocfilehash: cdd92464cda4a6c402fd5d6be1b9b9a987451f53
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2731bc5e3f2357c4d2e1d31db7e376a1e39ecf50
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61944478"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62573571"
 ---
 # <a name="microsoft-to-do-requires-an-exchange-online-mailbox"></a>Microsoft To Do erfordert ein Exchange Online-Postfach
 

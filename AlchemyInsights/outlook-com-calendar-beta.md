@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1eb66c08e51b5cebaf3186292228a0ddc9369d93
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54064563"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62636286"
 ---
 # <a name="new-calendar-experiences-coming-to-outlookcom"></a>Neue Kalendererfahrungen, die auf Outlook.com verfügbar sind
 
@@ -28,4 +28,4 @@ Sie werden ein modernes Design genießen, das die visuelle Unübersichtlichkeit 
 
 Wir haben unsere Sammlung von Ereignissymbolen erweitert und das Erscheinungsbild vorhandener Symbole aktualisiert– und wir fügen nun automatisch relevante Symbole zu Ihren Ereignissen hinzu, damit Sie auf einen Blick sehen können, was passiert.
 
-Sie können Feedback zu neuen Features über den [Outlook.com-Kanal "Calendar UserVoice"](https://go.microsoft.com/fwlink/?linkid=2103075)geben.
+Sie können Feedback zu neuen Features über den [Outlook.com-Kalender-UserVoice-Kanal](https://go.microsoft.com/fwlink/?linkid=2103075) geben.

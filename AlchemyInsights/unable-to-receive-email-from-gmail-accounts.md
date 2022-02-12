@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: c753d0bd5e89d8e98fa8db35e84a7e9158a0249d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0f3eed8bbcb88f21548100cf2a2c693258dc39a5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61937587"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62614596"
 ---
 # <a name="unable-to-receive-email-from-gmail-accounts"></a>E-Mails von Gmail-Konten können nicht empfangen werden
 
@@ -29,6 +29,6 @@ Wir sind uns bewusst, dass einige Benutzer möglicherweise keine E-Mails von Gma
 
 Überprüfen Sie, ob Sie die Gmail-Domäne nicht versehentlich blockiert haben, wenn Sie einen Gmail-Benutzer blockieren.
 
-1. Öffnen Sie die [Liste blockierter Absender.](https://go.microsoft.com/fwlink/?linkid=2121010)
+1. Öffnen Sie die [Liste blockierter Absender](https://go.microsoft.com/fwlink/?linkid=2121010).
 
-2. Wenn Gmail.com in der Liste enthalten ist, klicken Sie auf das Papierkorbsymbol neben dem Eintrag, und drücken **Sie "Speichern".**
+2. Wenn sich Gmail.com in der Liste befindet, klicken Sie auf das Papierkorbsymbol neben dem Eintrag, und drücken **Sie "Speichern**".

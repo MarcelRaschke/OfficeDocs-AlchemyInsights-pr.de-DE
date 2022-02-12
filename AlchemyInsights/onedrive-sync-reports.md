@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006594"
 - "11275"
-ms.openlocfilehash: 5f14e11e2a2b055dd8d3fa4e8b60941f8688d90e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5205bfac59cf8c9d06d34df65e1dbe84d2d6dd8c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61941295"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62636718"
 ---
 # <a name="onedrive-sync-reports-in-the-app-admin-center"></a>OneDrive-Synchronisierungsberichte im App Admin Center
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7909"
 - "9003233"
-ms.openlocfilehash: d4cbe80c3e8f0ce32fcbe89e852f24efd6f50575
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: b783032df68cdf16554923229bd46ecc4c19e4b8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886846"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62606675"
 ---
 # <a name="domain-controller"></a>Domänencontroller
 

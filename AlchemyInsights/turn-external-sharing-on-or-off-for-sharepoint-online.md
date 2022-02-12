@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: 932c1272443cfa20eabc5db1a7e33be4c4e0c275
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 1dcb0a01aafbb40d72866bc6bca4d27351c1420f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61986889"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62614992"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>Aktivieren und Deaktivieren der externen Freigabe für SharePoint Online
 

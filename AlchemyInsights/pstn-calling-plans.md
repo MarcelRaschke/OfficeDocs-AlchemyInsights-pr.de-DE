@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: e7b948c6f57c827712fae5a0f59fa482caf478c1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b0f3a078ee623aebd3e020d073cfe722ba11e38c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61965696"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62599402"
 ---
 # <a name="pstn-calling-plans"></a>Pläne für PSTN-Anrufe
 

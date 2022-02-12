@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "16246"
-ms.openlocfilehash: ff88f0d3e3f47051f32969ec1e9bf3b83ca1e1d1
-ms.sourcegitcommit: ea30136488c3bc0c100636cd7ce7a59b3c645c33
+ms.openlocfilehash: 951dd0f1a252e70289f37dd3508cc81bfd487334
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "62322999"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62606459"
 ---
 # <a name="download-and-share-teams-recordings"></a>Herunterladen und Freigeben Teams Aufzeichnungen
 
-Für Nicht-Kanal-Teams Besprechungen wird die Aufzeichnung in einem **Aufzeichnungsordner** auf dem OneDrive der Person gespeichert, die die Aufzeichnung gestartet hat. Diese Person kann die Aufzeichnung [wie jede OneDrive Datei](https://support.microsoft.com/office/play-and-share-a-meeting-recording-in-teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharelinkmeetingrecording) freigeben. Nur die Person, die die Aufzeichnung gestartet hat, und der Besprechungsorganisator können [die Aufzeichnung herunterladen](https://support.microsoft.com/office/play-and-share-a-meeting-recording-in-teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording).
+Bei Nicht-Kanal-Teams Besprechungen wird die Aufzeichnung in einem **Aufzeichnungsordner** auf dem OneDrive der Person gespeichert, die die Aufzeichnung gestartet hat. Diese Person kann die Aufzeichnung [wie jede OneDrive Datei](https://support.microsoft.com/office/play-and-share-a-meeting-recording-in-teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharelinkmeetingrecording) freigeben. Nur die Person, die die Aufzeichnung gestartet hat, und der Besprechungsorganisator können [die Aufzeichnung herunterladen](https://support.microsoft.com/office/play-and-share-a-meeting-recording-in-teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording).
 
 Bei Kanalbesprechungsaufzeichnungen wird die Aufzeichnung im Ordner **"Aufzeichnungen** " auf der Registerkarte **"Dateien** " für den Kanal gespeichert. Jeder Im Kanal verfügt über die Berechtigung zum Bearbeiten und Anzeigen der Aufzeichnung.
 

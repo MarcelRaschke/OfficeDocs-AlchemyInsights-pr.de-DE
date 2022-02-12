@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7857"
 - "9004350"
-ms.openlocfilehash: bd53adfc8b823110f5c4516cce100bb86f54e4a2b31ddd5b87ef53054fd60e11
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3abed07b6cefe1b0559793763b251f3f9b02395f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53936308"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62629266"
 ---
 # <a name="adding-applications-to-the-myapps-portal"></a>Hinzufügen von Anwendungen zum Portal „Meine Apps“
 

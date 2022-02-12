@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2564"
 - "9000678"
-ms.openlocfilehash: 3edd4ee359599b995ec11a791051c8e6ff95a28d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9301deb8da5a40d06270acc0d717fade8c821221
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61987285"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62573031"
 ---
 # <a name="there-isnt-enough-memory-to-complete-this-action"></a>Es ist nicht genügend Arbeitsspeicher vorhanden, um diese Aktion abzuschließen.
 
@@ -30,4 +30,4 @@ Wenn Sie mit einer Microsoft Excel-Datei arbeiten, erhalten Sie eine der folgend
     - Verwenden einer 64-Bit-Version von Microsoft Excel.
     - Hinzufügen von Arbeitsspeicher zu Ihrem Gerät.
 
-Informationen zur Problembehandlung dieser Fehler finden Sie unter ["Verfügbare Ressourcen"-Fehler in Excel](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).
+Informationen zur Problembehandlung finden Sie unter ["Verfügbare Ressourcen"-Fehler in Excel](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).

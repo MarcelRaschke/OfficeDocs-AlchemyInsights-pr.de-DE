@@ -15,12 +15,12 @@ ms.custom:
 - "9002459"
 - "4764"
 ms.date: 04/14/2021
-ms.openlocfilehash: 30d704eacde47180df3d8ab119fa535daf21b0b0
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7337079bf3d7b45b8e0c406e67bfae8327e8ed99
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61967502"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62636764"
 ---
 # <a name="license-not-working"></a>Die Lizenz funktioniert nicht
 

@@ -7,14 +7,19 @@ ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 6036
-  - 9003218
+- "6036"
+- "9003218"
+ms.openlocfilehash: 42332eeb1e2f335110bee7d92a53adaf21990467
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62573679"
 ---
-
 # <a name="microsoft-teams-together-mode"></a>Zusammenarbeiten in Microsoft Teams
 
 Im Modus „Zusammenarbeit“ werden jahrzehntelange Forschung und Produktentwicklungen sichtbar, indem die Teilnehmer eines Videoanrufs sich gemeinsam in einem virtuellen Raum wie einem Hörsaal, einem Konferenzraum oder einem Café zu befinden schienen. 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002534"
 - "5126"
-ms.openlocfilehash: ec5697c0b3f968e77dad05e7758d8100ddc36924
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 36566dc9e0f70c5a21924faca65572317d31a13a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61942807"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62573922"
 ---
 # <a name="microsoft-teams-and-microsoft-365-groups"></a>Microsoft Teams und Microsoft 365-Gruppen
 

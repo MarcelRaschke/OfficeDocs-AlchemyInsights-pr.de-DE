@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: 63c09473127c9276a43c8ea07f631a3054ef6fa3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: ebc072040ed9531291559977b988df44cdd34efe
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61874647"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62599798"
 ---
 # <a name="permissions-in-microsoft-stream"></a>Berechtigungen in Microsoft Stream
 

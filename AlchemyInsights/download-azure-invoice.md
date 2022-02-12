@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6865"
-ms.openlocfilehash: ab4e2a0815ca80211c63fe7a66f88de6de7d8209b39ca03a1353ac562caeb1f8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5b565e30780a528421ba03df3b045c9c5150bdff
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004343"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62606495"
 ---
 # <a name="download-azure-invoice"></a>Rechnung von Azure AzCopy herunterladen
 

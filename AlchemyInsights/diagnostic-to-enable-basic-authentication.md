@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11392"
 - "9006699"
-ms.openlocfilehash: 6ef77bffc63ee725080ce9818b86006885ec83d4
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e2ccb267d90acb1aac36b8fadd2d1715a567ede2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61935156"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62606819"
 ---
 # <a name="diagnostic-to-enable-basic-authentication-for-exchange-online-protocols"></a>Diagnose zum Aktivieren der Standardauthentifizierung für Exchange Online-Protokolle
 

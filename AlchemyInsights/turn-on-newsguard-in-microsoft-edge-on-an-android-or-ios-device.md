@@ -15,17 +15,17 @@ ms.custom:
 - "7098"
 - "8308"
 - "9004621"
-ms.openlocfilehash: e70c38192ab3ddcf7af08ad744e5de66d0f282c5a5a080ef930f5f50b9f9e3d6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48042058b1a5715e935ccf1aac53d275845b5566
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092373"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62614668"
 ---
 # <a name="turn-on-newsguard-in-microsoft-edge-on-an-android-or-ios-device"></a>Aktivieren von NewsGuard in Microsoft Edge auf einem Android- oder iOS-Gerät
 
 NewsGuard ist eine Erweiterung eines Drittanbieters, die Websites in den USA anhand von vertrauenswürdigen Standards bewertet und bewertet. Diese Erweiterung ist in Microsoft Edge verfügbar, ist jedoch standardmäßig deaktiviert. Wenn die Erweiterung aktiviert ist, wird der Zugriff auf Websites nicht verhindert und das Browsen wird nicht unterbrochen.
 
 Führen Sie die folgenden Schritte aus, um NewsGuard zu aktivieren:
-1. Auswählen... > **Einstellungen**  >  **Newsbewertung**.
-2. Aktivieren Sie die **Anzeigebewertung in der Adressleiste.**
+1. Auswählen... >  > **Einstellungen News-Bewertung**.
+2. Aktivieren Sie **die Anzeigebewertung auf der Adressleiste**.

@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002531
-  - 5679
+- "9002531"
+- "5679"
+ms.openlocfilehash: 4cf908a001ea756dd79de9d654576039c7d872c3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62573175"
 ---
-
 # <a name="need-help-with-email-quarantine"></a>Benötigen Sie Hilfe bei der E-Mail-Quarantäne?
 
 - Um **als Endbenutzer E-Mail-Nachrichten aus der Quarantäne anzuzeigen und zu teilen**, rufen Sie die Seite **Quarantäne** im Microsoft 365 Defender-Portal unter **Überprüfen** \> der **Quarantäne** oder direkt unter <https://security.microsoft.com/quarantine> auf. Ausführliche Anweisungen finden Sie unter [Anzeigen Ihrer in Quarantäne befindlichen Nachrichten](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user#view-your-quarantined-messages).

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300029"
 - "1688"
-ms.openlocfilehash: 0010fa59c61f7240157e5a001f15c29cafb3b6f6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 1a4494c1d1770429d305974070ee1120229da443
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61950785"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62614560"
 ---
 # <a name="unable-to-check-out-or-check-in-files-in-a-library"></a>Auschecken oder Einchecken von Dateien in einer Bibliothek nicht möglich
 

@@ -13,12 +13,12 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 85e3ed7fdc221981de13ab6e2ada8adf2a3a80b40ff163981e047cc4a02a1514
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: eae0bb4c5555c73f3cf66931406e155f38984480
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004945"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62592490"
 ---
 # <a name="problems-with-dlp---usuk-passport-numbers"></a>Probleme mit DLP – US/UK-Reisepassnummern
 
@@ -42,7 +42,7 @@ For example, for a **US/UK passport number** policy configured with a confidence
 
   - Ein Schlüsselwort aus Keyword_passport wurde gefunden.
 
-    Das folgende Beispiel würde z. B. für die **Us/UK-Reisepassnummernrichtlinie** ausgelöst: U.S. Passport number 123456789
+    Das folgende Beispiel würde z. B. für die **US/UK-Reisepassnummernrichtlinie** ausgelöst: U.S. Passport number 123456789
 
 Weitere Informationen dazu, was erforderlich ist, damit eine US/UK Passport-Nummer für Ihre Inhalte erkannt wird, finden Sie im folgenden Abschnitt in diesem Artikel: [Wonach die Typen vertraulicher Informationen nach us/UK Passport Number suchen](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
   

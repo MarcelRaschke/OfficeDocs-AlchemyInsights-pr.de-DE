@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2511"
 - "9000770"
-ms.openlocfilehash: a81e8c971c71d994fb9305f15321b08de07e4354
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 1e117693baa3325619235ec2e47d7830716b11b8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61971465"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62615006"
 ---
 # <a name="troubleshooting-issues-with-apns-certificate"></a>Behandlung von Problemen mit dem APNs-Zertifikat
 

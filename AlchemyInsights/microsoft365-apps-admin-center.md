@@ -13,12 +13,12 @@ ms.collection: Adm_O364
 ms.custom:
 - "9003533"
 - "10882"
-ms.openlocfilehash: 9b2ce98488dac474075065a2552b2183d5d5dd92
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 24d6ad3d1ee2c65345cfbc2aad7bda39a71345c3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61957203"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62573391"
 ---
 # <a name="microsoft-365-apps-admin-center"></a>Microsoft 365 Apps Admin Center
 

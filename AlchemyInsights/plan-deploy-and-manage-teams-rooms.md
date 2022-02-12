@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: e1ab37f1dfa63a0b3c469726d7b0ce195169f24e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d1622bc4373cb69a6d4da4f6cede0c68865d94b3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61981787"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62572527"
 ---
 # <a name="plan-deploy-and-manage-teams-rooms"></a>Planen, Bereitstellen und Verwalten von Teams-Räumen
 

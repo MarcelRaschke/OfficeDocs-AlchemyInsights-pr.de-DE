@@ -15,12 +15,12 @@ ms.custom:
 - "9005291"
 - "11089"
 - "9006490"
-ms.openlocfilehash: 19efa16e7cf665648a03dc95da9d68841ca9e531
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 3871bb92d8fcecd4b714cf2c30ad78e2cb869e2e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323239"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62606927"
 ---
 # <a name="determine-channel-strategy"></a>Festlegen der Kanalstrategie
 

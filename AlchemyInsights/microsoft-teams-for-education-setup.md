@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13729"
 - "9008595"
-ms.openlocfilehash: 9941f5fdf6d7155a5fb3748ce96a880cfca019b3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4cf4ab3f868a1f807e469ad9710d634a3f45fb18
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61959979"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62573751"
 ---
 # <a name="microsoft-teams-for-education-setup"></a>Microsoft Teams Education-Setup
 

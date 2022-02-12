@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10394"
 - "9005762"
-ms.openlocfilehash: a7bf8a194a0af39c5ee2ca244c6ad60f5eb3c3b5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4df1ca0940e7e3d989cca84dd2ac4127b49dd026
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61964724"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62572455"
 ---
 # <a name="plan-your-passwordless-deployment"></a>Planen Sie Ihre kennwortlose Bereitstellung
 
