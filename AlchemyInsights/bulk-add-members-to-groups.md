@@ -13,12 +13,12 @@ ms.custom:
 - "1200017"
 - "16572"
 ms.date: 01/28/2022
-ms.openlocfilehash: 1cc746c0a68d649d40102c25bde3eeea3fb27c17
-ms.sourcegitcommit: 0bf8e159e9e49792db04709867d4f78e1047aa73
+ms.openlocfilehash: bc2ea0c3aa0b01a1b6fdd745656b0477561d447d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/31/2022
-ms.locfileid: "62281106"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62626081"
 ---
 # <a name="bulk-add-members-to-a-microsoft-365-group"></a>Massenzufügen von Mitgliedern zu einer Microsoft 365 Gruppe
 

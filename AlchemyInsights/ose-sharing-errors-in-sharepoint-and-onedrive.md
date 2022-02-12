@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 0d5e599dd0dd32e099daf34ba5d34aaff9af3e97
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e37086600f764d4f2b01e9fb1295da3a75028501
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61984366"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62588278"
 ---
 # <a name="ose-sharing-errors"></a>OSE-Freigabefehler
 
-Weitere Informationen zu OSE-Fehlercodes finden Sie unter ["Freigabefehler" in SharePoint und OneDrive.](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+Weitere Informationen zu OSE-Fehlercodes finden Sie unter ["Freigabefehler" in SharePoint und OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

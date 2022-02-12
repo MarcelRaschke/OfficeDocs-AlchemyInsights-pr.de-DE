@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: e1e2bda9bdbb81a34f97804f65f1cfc37017aea6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3c20752ba52f5a5222d3d38afe216d578c7729b3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61962070"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62626890"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Sie erhalten zu viel Spam oder Phishing-Mails in Ihrem Posteingang?
 

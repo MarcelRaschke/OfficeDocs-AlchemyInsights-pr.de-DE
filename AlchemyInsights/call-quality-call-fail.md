@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000675"
 - "5987"
-ms.openlocfilehash: 7b7fa8c7087acf46f64e5cfce7d7de07371f098c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 683203a015cfa833430cb6e062e68d7f95300d67
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61938703"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62673969"
 ---
 # <a name="call-quality-or-dropped-calls"></a>Anrufqualität oder Anrufabbrüche
 

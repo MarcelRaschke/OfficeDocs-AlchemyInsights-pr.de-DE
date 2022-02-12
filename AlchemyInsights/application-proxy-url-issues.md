@@ -15,12 +15,12 @@ ms.custom:
 - "9004338"
 - "9199"
 - "9004356"
-ms.openlocfilehash: 0b1f23dcfa495825ba56898fc3c284a276eb679f750143b0c1460662835e658f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f6dc9bc0e9dc14072aae8125ac7f21b479b578da
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53969754"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62627250"
 ---
 # <a name="application-proxy-url-issues"></a>URL-Probleme mit dem Anwendungsproxy
 

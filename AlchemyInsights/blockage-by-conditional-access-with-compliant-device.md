@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9835"
 - "9003257"
-ms.openlocfilehash: 709749b1a62f2d9cdabfb3fe4b7538c22101d7109204d9163f6059336b817bf8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5e8551e45a979ea5052f8e6a81b79e7169640c25
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54019147"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62626746"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-compliant-device"></a>Ich werde mit einem kompatiblen Gerät durch den bedingten Zugriff blockiert
 

@@ -23,12 +23,12 @@ ms.custom:
 - "9002661"
 - "5161"
 ms.date: 07/31/2021
-ms.openlocfilehash: 7a97f2fba9f033ecca4a0fcd62361facc9c3c9f8
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: a0584b99fe68445d5179d0f2e22a4d4d2e57418e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843161"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62625945"
 ---
 # <a name="business-subscription-faq"></a>Häufig gestellte Fragen zu Business-Abonnements
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7799"
 - "9004356"
-ms.openlocfilehash: 7567fdfe9fb84da558195dbc35a7a636751b58791edfa2c5a10b07215c58bf5c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7a76353775ffd22c4ab15913b6f30570f474841e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53970006"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62627214"
 ---
 # <a name="application-proxy-and-certificate-issues"></a>Anwendungsproxy- und Zertifikatsprobleme
 

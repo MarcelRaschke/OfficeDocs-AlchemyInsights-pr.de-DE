@@ -15,12 +15,12 @@ ms.custom:
 - "6210"
 - "9003562"
 - "6663"
-ms.openlocfilehash: 74409e26f54c3d174e99b997df7f005008d218b5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 62b2832558c26605d4e3241bedab791d9cd2e2da
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61944694"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62674065"
 ---
 # <a name="camera-isnt-working-in-teams"></a>Die Kamera in Teams funktioniert nicht.
 

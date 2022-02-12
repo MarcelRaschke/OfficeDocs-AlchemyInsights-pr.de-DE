@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1745"
 - "9000140"
-ms.openlocfilehash: 4a92ab7007e2d4b0b54ba08ea85ff2f0e5ca294b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6ff731ed46d66facb86424ffd21b2cd632f21c54
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61866539"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62570799"
 ---
 # <a name="size-or-bandwidth-concerns-with-office-updates"></a>Probleme mit Größe oder Bandbreite von Office-Updates
 

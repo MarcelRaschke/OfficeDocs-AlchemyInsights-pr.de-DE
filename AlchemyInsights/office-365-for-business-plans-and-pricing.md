@@ -16,13 +16,13 @@ ms.custom:
 - "1500026"
 ms.date: 04/21/2020
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 87fb3a0bc876d03265d545ee07e4e123d9119d4e
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 022892b4e0f1bcc6efa9bea072a900c77649f84a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843737"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62720169"
 ---
 # <a name="compare-microsoft-365-for-business"></a>Vergleichen Microsoft 365 für Unternehmen
 
-Es stehen unterschiedliche Pläne für Microsoft 365 für Unternehmen zur Verfügung. Informationen zu Features und Preisen finden Sie unter [Vergleichen Microsoft 365 für Business-Pläne.](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products)  
+Es stehen unterschiedliche Pläne für Microsoft 365 für Unternehmen zur Verfügung. Informationen zu Features und Preisen finden Sie unter ["Vergleichen Microsoft 365 für Geschäftspläne"](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products).  

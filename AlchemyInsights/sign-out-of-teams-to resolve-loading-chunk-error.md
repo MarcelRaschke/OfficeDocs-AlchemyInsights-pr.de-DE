@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002922"
 - "5592"
-ms.openlocfilehash: dd86ed9cbb4b2e0911c06cfcf0351ba3728a4f7e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 41003cc478c2ecc0a5d4200842903db742dadad2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61964076"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62570835"
 ---
 # <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Abmelden von Teams, um den „Fehler beim Laden von Segment“ zu beheben
 

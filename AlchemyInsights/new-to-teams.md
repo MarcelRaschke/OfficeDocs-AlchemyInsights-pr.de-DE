@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002403"
 - "4676"
-ms.openlocfilehash: 323128ffb870a3ee5ccf7205596536d297ac390e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5b8d779c8427e0da03a8c7de74360c00607e5ef3
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61982493"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62720241"
 ---
 # <a name="new-to-teams"></a>Neu bei Microsoft Teams?
 

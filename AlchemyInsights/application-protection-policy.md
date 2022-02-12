@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1073"
 - "6700006"
-ms.openlocfilehash: 31177c27d0ecf843bf2c2f495d47a50b1a95770a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 696752e5b1d23562c2985547fdba7caa30121194
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61864336"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62627286"
 ---
 # <a name="application-protection-policy"></a>Application Protection Policy (Anwendungsschutzrichtlinie)
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000204"
 - "4843"
-ms.openlocfilehash: d26765a4b4e2d5fa964d9131eaa9211e3c9722b8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 59eb5ef41f25b804c687967099a492fa7e7b3f8e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61961673"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62720313"
 ---
 # <a name="microsoft-365-guest-sharing-settings-reference"></a>Referenz zu Gastfreigabeeinstellungen für Microsoft 365
 

@@ -15,12 +15,12 @@ ms.custom:
 - "9002612"
 - "10967"
 ms.date: 04/16/2021
-ms.openlocfilehash: 8d2af1a805f88f7fa234465a2a86e45502a0feac
-ms.sourcegitcommit: 77dad4c3ffa2f43116c42b70909ecdf3e4ef1b55
+ms.openlocfilehash: 7383648c36f2abee9d702626718e5d8e66d67282
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62193087"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62673983"
 ---
 # <a name="change-from-credit-card-or-bank-account-payments-to-invoice"></a>Wechsel der Zahlungsmethode von Kreditkarten- oder Bankkontozahlungen zur Rechnung
 

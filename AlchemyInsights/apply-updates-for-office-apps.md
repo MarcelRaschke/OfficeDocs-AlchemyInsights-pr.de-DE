@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1747"
 - "9000140"
-ms.openlocfilehash: 7e615adb1319a9fb446a6090caf8b8a1a431f6a9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b325b122e92193c2fb4875279fa3924233ae17b9
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61932508"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62627106"
 ---
 # <a name="apply-updates-for-office-apps"></a>Anwenden von Updates für Office-Apps
 

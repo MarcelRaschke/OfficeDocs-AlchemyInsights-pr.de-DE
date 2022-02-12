@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6142"
 - "9003098"
-ms.openlocfilehash: 80f91b5149b90ff9d2e2c9577b31b9bf84859c40
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 43a5d3901b9b24abaaf8ff87ec951ece98343da5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61943263"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62570439"
 ---
 # <a name="teams-assignments"></a>Teams-Aufgaben
 

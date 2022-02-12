@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001222"
 - "6032"
-ms.openlocfilehash: 098253c12e0d0bf03f1c50af66a7a84635f699218ca734e53965bcfd55edb930
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 175bed1cb086a486c74204c7afec5b572ad55b39
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54103587"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62673475"
 ---
 # <a name="change-data-storage-location-for-microsoft-defender-atp"></a>Ändern des Datenspeicherorts für Microsoft Defender ATP
 

@@ -7,22 +7,27 @@ ms.date: 07/08/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 3000003
-  - 12315
+- "3000003"
+- "12315"
+ms.openlocfilehash: d5000e7a377336d20bb6c947ece6388a993e7f5f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62719881"
 ---
-
 # <a name="outbound-relay-pool"></a>Ausgehender Relaypool
 
-Microsoft unternimmt einige Änderungen an der Konfiguration für das Weiterleiten oder Weiterleiten von E-Mails über Microsoft 365. Nachrichten in bestimmten Szenarien werden über Microsoft 365 mithilfe eines speziellen Relaypools weitergeleitet oder weitergeleitet. Nachrichten, die mithilfe des Relaypools gesendet werden, können im Junk-E-Mail-Ordner des Empfängers enden. Weitere Informationen finden Sie unter "Pools für [ausgehende Übermittlungen"](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+Microsoft unternimmt einige Änderungen an der Konfiguration für das Weiterleiten oder Weiterleiten von E-Mails über Microsoft 365. Nachrichten in bestimmten Szenarien werden über Microsoft 365 mithilfe eines speziellen Relaypools weitergeleitet oder weitergeleitet. Nachrichten, die mithilfe des Relaypools gesendet werden, können im Junk-E-Mail-Ordner des Empfängers enden. Weitere Informationen finden Sie unter ["Pools für ausgehende Übermittlungen"](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 Um ein Szenario mithilfe des Relaypools zu vermeiden, stellen Sie sicher, dass weitergeleitete/weitergeleitete Nachrichten eines der folgenden Kriterien erfüllen:
 
 - Der ausgehende Absender ist eine akzeptierte Domäne des Mandanten.
-- Sender Policy Framework (SPF) wird übergeben, wenn die Nachricht an Microsoft 365 kommt.
+- Sender Policy Framework (SPF) wird übergeben, wenn die Nachricht zu Microsoft 365 kommt.
 - DomainKeys Identified Mail (DKIM) in der P2-Absenderdomäne wird übergeben, wenn die Nachricht zu Microsoft 365 kommt.
  
 Nachrichten, die die oben genannten Kriterien erfüllen, werden nicht über den Relaypool weitergeleitet.

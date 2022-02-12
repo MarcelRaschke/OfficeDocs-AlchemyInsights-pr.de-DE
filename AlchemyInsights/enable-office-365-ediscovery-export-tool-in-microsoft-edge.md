@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8225"
 - "9004596"
-ms.openlocfilehash: 62d78f806257e04adc8f0a599aed291c5bac0e0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: baad71642e8c36e72d681501b97765d34676afe0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50898161"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62747495"
 ---
 # <a name="enable-the-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Aktivieren des Office 365 eDiscovery-Exporttools in Microsoft Edge
 

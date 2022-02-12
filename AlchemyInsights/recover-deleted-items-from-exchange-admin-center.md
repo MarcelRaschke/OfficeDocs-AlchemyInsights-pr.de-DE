@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: 9b0c3758851d94f0adc9049597780a831a954d92
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: fa8d14fe72813aeb171870e6d999990677602083
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61983573"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62586874"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>Wiederherstellen gelöschter Elemente aus dem Exchange Admin Center
 

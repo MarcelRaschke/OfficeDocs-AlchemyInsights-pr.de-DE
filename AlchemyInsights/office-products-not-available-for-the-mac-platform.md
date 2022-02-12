@@ -15,12 +15,12 @@ ms.custom:
 - "756"
 - "755"
 - "2000016"
-ms.openlocfilehash: dbd4811455db4f67ea64d99c03590026ceeed78a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7c7ba37ce659e665febac316cb43d731c5f2dac1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61946194"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62720097"
 ---
 # <a name="office-products-not-available-for-the-mac-platform"></a>Office Produkte, die für die Mac-Plattform nicht verfügbar sind
 

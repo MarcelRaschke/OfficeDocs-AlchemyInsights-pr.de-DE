@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6177"
 - "9003283"
-ms.openlocfilehash: 7b77dcfba086a22089617c0741b21f932046f30a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8bec51e6fb370dce4ab024179aa7ec4db70157fd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989339"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62720385"
 ---
 # <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly-0xc0000142"></a>Microsoft 365 Apps-Fehler: Die Anwendung konnte nicht ordnungsgemäß gestartet werden (0xc0000142)
 

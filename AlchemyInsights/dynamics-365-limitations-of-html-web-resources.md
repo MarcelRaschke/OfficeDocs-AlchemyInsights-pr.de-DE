@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: cb2d8759a30f44bc6500df7a6e21b4c6cff4e61e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 791be1848b4f1fd88a58a8d065d391de89b3012e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61958322"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62747927"
 ---
 # <a name="webpage-html-web-resources-limitations"></a>Einschränkungen von Webressourcen für Webseiten (HTML)
 

@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: b00170a44afe8d3f2a28bb63df46c646a29f787b844b904bec3b3006fefba300
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 61226e19673f152079fea59ee253f0d5aaf6e986
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100833"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62747711"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Bearbeiten des Abrechnungsprofils für Apps
 
 **Bearbeiten von Abrechnungsprofilen**
 
-1. Wechseln Sie zur Seite **"Abrechnungsrechnungen**  >  **[& Zahlungen",](https://go.microsoft.com/fwlink/p/?linkid=848039)** und klicken Sie dann auf **"Abrechnungsprofile".**
+1. Wechseln Sie zur **Seite "Abrechnungen** >  **[& Zahlungen](https://go.microsoft.com/fwlink/p/?linkid=848039)**", und klicken Sie dann auf **"Abrechnungsprofile"**.
 
 2. Wählen Sie in der Liste der Abrechnungsprofile das Abrechnungsprofil aus, das Sie bearbeiten möchten.
 
 **So ändern Sie das Abrechnungsprofil für Apps**
 
-1. Wechseln Sie zur Seite **"Abrechnung**  >  **[Für Ihre Produkte",](https://go.microsoft.com/fwlink/p/?linkid=842054)** und klicken Sie dann auf die Registerkarte **"Apps".**
+1. Wechseln Sie zur Seite **"****[BillingYour-Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** > ", und klicken Sie dann auf die Registerkarte **"Apps**".
 
 2. Suchen Sie die App, die Sie verwalten möchten, und wählen Sie sie aus.  
 
-3. Klicken Sie neben dem **Abrechnungsprofil** auf **"Bearbeiten",** und wählen Sie das Abrechnungsprofil aus, das Sie der App zuordnen möchten.
+3. Klicken Sie neben dem **Abrechnungsprofil** auf **"Bearbeiten** ", und wählen Sie das Abrechnungsprofil aus, das Sie der App zuordnen möchten.

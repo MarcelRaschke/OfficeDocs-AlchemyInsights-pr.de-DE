@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6452"
-ms.openlocfilehash: 80e260b71b11e0a1b4c2ba0576b60598811bc8e3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a7721cf46020291798ac350da751fd9f184fd3b5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61863760"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62747783"
 ---
 # <a name="edit-and-manage-a-group-in-microsoft-stream"></a>Bearbeiten und Verwalten einer Gruppe in Microsoft Stream
 

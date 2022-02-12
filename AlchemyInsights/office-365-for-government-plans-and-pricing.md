@@ -16,16 +16,16 @@ ms.custom:
 - "1500026"
 ms.date: 04/21/2020
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 3c76300ae728cd54a30f879da2bbb64499080d9c
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 0288e8adbdbf6d29c07c1bb51d91e79cea68fd37
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844385"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62720205"
 ---
 # <a name="office-365-government-plans"></a>Office 365 Government Pläne
 
-Office 365 Pläne der US-Regierung sind für die besonderen Anforderungen von US-Regierungsbehörden konzipiert. Sie bieten alle Features und Funktionen von Office 365-Diensten in einer segmentierten Government Cloud Community, die es Organisationen ermöglicht, die Compliance- und Sicherheitsstandards der USA zu erfüllen.
+Office 365 U.S. Government-Pläne sind auf die einzigartigen Anforderungen von US-Regierungsbehörden ausgelegt. Sie bieten alle Features und Funktionen von Office 365-Diensten in einer segmentierten Government Cloud Community, die es Organisationen ermöglicht, die Compliance- und Sicherheitsstandards der USA zu erfüllen.
   
 - [Überprüfen der Regierungspläne](https://products.office.com/government/compare-office-365-government-plans)
 
