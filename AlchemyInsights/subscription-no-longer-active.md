@@ -15,12 +15,12 @@ ms.custom:
 - "9002453"
 - "4763"
 ms.date: 08/10/2021
-ms.openlocfilehash: 298b861bb964ddc0ef2b491ca59bd173b1f28a92
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: dc022146d9b85c815abfa8508b52b4a9f2fecb45
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58845465"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62646564"
 ---
 # <a name="subscription-no-longer-active"></a>Abonnement ist nicht mehr aktiv
 

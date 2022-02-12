@@ -14,12 +14,12 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 78f7249012481a8e91f814662b9fd9186f32fc6a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 190c751366bbcf86f25a49acdc8ff16616d25806
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61943974"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62612353"
 ---
 # <a name="admin-roles"></a>Administratorrollen
 

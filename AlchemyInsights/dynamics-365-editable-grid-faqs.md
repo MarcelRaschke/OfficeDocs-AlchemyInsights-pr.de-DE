@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1464"
 - "6200013"
-ms.openlocfilehash: 2bb60cd2125265009bf4a1ed49fff6c899c1dc3a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7ef0c51bdc01e4f06eb4f2fd9a0a324cae783d23
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61958503"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62759339"
 ---
 # <a name="dynamics-365-editable-grid-faqs"></a>Dynamics 365– Häufig gestellte Fragen zu bearbeitbaren Rastern
 

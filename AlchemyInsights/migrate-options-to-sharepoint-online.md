@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 158a21311d22d1e8b915c1a6d03eaf7801080388
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 53ab1e4a3cda60e8156902cca7f5adc2c1a30051
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61969447"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62731240"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Migrieren von Optionen zu SharePoint Online
 
-Es stehen verschiedene Optionen zum Migrieren von Inhalten zu SharePoint Online zur Verfügung, je nach Größe und Menge der Dateien, die Sie verschieben müssen.
+Es stehen verschiedene Optionen zum Migrieren von Inhalten zu SharePoint Online zur Verfügung, abhängig von der Größe und Menge der Dateien, die Sie verschieben müssen.
   
-Weitere Informationen finden Sie unter ["Migrieren zu SharePoint Online"](https://go.microsoft.com/fwlink/?linkid-2022029)
+Weitere Informationen finden Sie unter [Migrieren zu SharePoint Online](https://go.microsoft.com/fwlink/?linkid-2022029)
   
 

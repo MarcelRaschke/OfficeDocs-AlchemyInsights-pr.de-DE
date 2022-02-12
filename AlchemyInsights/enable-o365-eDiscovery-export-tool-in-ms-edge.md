@@ -15,19 +15,19 @@ ms.custom:
 - "6930"
 - "11694"
 - "9006005"
-ms.openlocfilehash: 970f8d80e16c4b0312501c6b1cbf99830f1b0ae6ae8aedfb679ca2cbd9709112
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a6d4ac55676096cc58d1c40e96e807a21fdbad8e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54002839"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62759231"
 ---
 # <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Aktivieren Office 365 eDiscovery-Exporttools in Microsoft Edge
 
-Die Unterstützung für ClickOnce ist in Microsoft Edge standardmäßig nicht mehr aktiviert. Um weiterhin das Microsoft Office 365 eDiscovery-Exporttool verwenden zu können, müssen Sie Microsoft Internet Explorer verwenden oder die Option ClickOnce Support in Chromium-basierten Microsoft Edge wie folgt aktivieren:
+Die Unterstützung für ClickOnce ist in Microsoft Edge standardmäßig nicht mehr aktiviert. Um weiterhin das Microsoft Office 365 eDiscovery-Exporttool verwenden zu können, müssen Sie Microsoft Internet Explorer verwenden oder die Option ClickOnce Support in Chromium-basierten Microsoft Edge aktivieren, wie folgt:
 
 1. Wechseln Sie zu edge://flags/#edge-click-once.
-1. Ändern Sie für die **Option ClickOnce Support** den Wert von **"Standard"** oder **"Deaktiviert"** in **"Aktiviert".**
-1. Klicken Sie am unteren Rand des Browserfensters auf **"Neu starten".** Die Änderung wird nach dem Neustart von Microsoft Edge wirksam.
+1. Ändern Sie für die **Option ClickOnce Support** den Wert von **"Standard**" oder **"Deaktiviert"** in "**Aktiviert"**.
+1. Klicken Sie am unteren Rand des Browserfensters auf **"Neu starten**". Die Änderung wird nach dem Neustart von Microsoft Edge wirksam.
 
-Weitere Informationen finden Sie unter [Verwenden des Office 365 eDiscovery-Exporttools in Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2111611)
+Weitere Informationen finden Sie unter [Verwenden des Office 365 eDiscovery-Exporttools in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).

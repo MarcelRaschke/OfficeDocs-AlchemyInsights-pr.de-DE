@@ -15,19 +15,19 @@ ms.custom:
 - "6922"
 - "8312"
 - "9004621"
-ms.openlocfilehash: 2ee9a388025b0cdccb16452f5b8610dfc4d3d25bc49fed71f1e1b1789b4d4827
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7edc1d0bd8323c729a17e8c7699137e1c3e07d25
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53954732"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62612291"
 ---
 # <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Hinzufügen einer Erweiterung zu Microsoft Edge aus dem Chrome-Webspeicher
 
 Führen Sie die folgenden Schritte aus, um dem Microsoft Edge aus dem Chrome-Webspeicher eine Erweiterung hinzuzufügen:
 
 1. Wechseln Sie zum Chrome Web Store.
-2. Wählen Sie im Banner oben auf der Seite **Erweiterungen aus anderen Stores zulassen aus.**
-3. Wählen Sie die Erweiterung aus, die Sie hinzufügen möchten, und klicken Sie dann auf **"Zu Chrome hinzufügen".**
-4. Überprüfen Sie im Bestätigungsdialogfeld sorgfältig die Änderungen, die die Erweiterung vornehmen könnte, und klicken Sie dann auf **Erweiterung hinzufügen.**
+2. Wählen Sie im Banner oben auf der Seite **Erweiterungen aus anderen Stores zulassen aus**.
+3. Wählen Sie die Erweiterung aus, die Sie hinzufügen möchten, und klicken Sie dann auf **"Zu Chrome hinzufügen**".
+4. Überprüfen Sie im Bestätigungsdialogfeld sorgfältig die Änderungen, die die Erweiterung vornehmen kann, und klicken Sie dann auf **Erweiterung hinzufügen**.
 Im letzten Dialogfeld wird bestätigt, dass die Erweiterung hinzugefügt wurde.

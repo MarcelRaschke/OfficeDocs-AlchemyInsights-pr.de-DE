@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: 5ae99192c769dd5d5acae1c6e8f9b021e824b465
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0b8bbf3a93adffe0e6384bc52ed12d2d82149b5c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58322166"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62759591"
 ---
 # <a name="do-site-discovery"></a>Website-Ermittlung durchführen
 

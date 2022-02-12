@@ -13,12 +13,12 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: d19b2dcc29e23fab522159945496165338a117a47bfcfcadf0b93e4e5f14464f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: baa0d3d2eb69476e26d19e8cb4ec03919a6c5490
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005017"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62759784"
 ---
 # <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP-Probleme mit US-Bankkontonummern
 
@@ -38,7 +38,7 @@ For example, for a **US Bank Account Number** policy configured with a confidenc
 
 - **[Definition:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** Eine DLP-Richtlinie ist zu 75 % sicher, dass diese Art vertraulicher Informationen erkannt wird, wenn innerhalb einer Näherung von 300 Zeichen:
 
-  - Der reguläre Ausdruck Regex_usa_bank_account_number sucht Inhalte, die dem Muster entsprechen
+  - Der reguläre Ausdruck Regex_usa_bank_account_number nach Inhalten sucht, die dem Muster entsprechen
 
   - Ein Schlüsselwort aus Keyword_usa_Bank_Account wurde gefunden.
 

@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9259"
-ms.openlocfilehash: a21d476cc5742880fba994304b59d0d08bc02e26286760ae8181b97877144e25
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd8f1b7c73bf73e0895e4e2248249a9eb3fab119
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056561"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62685992"
 ---
 # <a name="get-started-with-using-microsoft-search-usage-reports"></a>Erste Schritte mit der Verwendung von Microsoft Search Nutzungsberichten
 
 Microsoft Search Nutzungsberichte bieten Einblicke in die Funktionsweise der Suche in Ihrer Organisation. Diese Erkenntnisse helfen Ihnen, Inhalte zu finden und die Suche für Benutzer in Ihren Organisationen nützlicher und ansprechender zu gestalten.
 
-Weitere Informationen finden Sie unter [Microsoft Search Nutzungsberichte.](https://go.microsoft.com/fwlink/?linkid=2152048)
+Weitere Informationen finden Sie unter [Microsoft Search Nutzungsberichte](https://go.microsoft.com/fwlink/?linkid=2152048).

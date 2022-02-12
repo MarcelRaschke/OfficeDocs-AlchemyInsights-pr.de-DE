@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: 820bdb44e8efa6d14c6b5646cde432865a43e456a07219527218eecd1beb0819
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b5186d03ac1cbd76213cc206d1ed815f02aacd1d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53954682"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62612435"
 ---
 # <a name="add-another-enterprise-administrator---recommended-steps"></a>Hinzufügen eines weiteren Unternehmensadministrators – empfohlene Schritte
 
@@ -28,10 +28,10 @@ Sie können mehrere Unternehmensadministratoren in einer Unternehmensregistrieru
 
 **So fügen Sie einen weiteren Unternehmensadministrator hinzu:**
 
-1. Melden Sie sich beim [Azure Enterprise-Portal](https://ea.azure.com/)an.
-1. Navigieren Sie zu  >  **Registrierungsdetails** verwalten.
-1. Klicken Sie oben rechts auf **+Administrator hinzufügen.**
-1. Legen Sie für den schreibgeschützten Zugriff die Option Read-Only auf **"Ja"** fest, und wählen Sie dann **"Hinzufügen"** aus.
+1. Melden Sie sich beim [Azure Enterprise-Portal](https://ea.azure.com/) an.
+1. Navigieren Sie zu **"****ManageEnrollment** >  Detail".
+1. Klicken Sie oben rechts auf **+Administrator hinzufügen** .
+1. Legen Sie für den schreibgeschützten Zugriff die Option Read-Only auf **"Ja** " fest, und wählen Sie dann **"Hinzufügen**" aus.
 
 Stellen Sie sicher, dass Sie über die E-Mail-Adresse und die bevorzugte Authentifizierungsmethode des Benutzers verfügen, z. B. ein Geschäfts-, Schul- oder Microsoft-Konto. Wenn Sie nicht der Unternehmensadministrator sind, wenden Sie sich an einen Unternehmensadministrator, um sie aufzufordern, Sie einer Registrierung hinzuzufügen. Neue Administratoren werden nur von vorhandenen Administratoren hinzugefügt. Nachdem Sie einer Registrierung hinzugefügt wurden, erhalten Sie eine Aktivierungs-E-Mail.
 
@@ -39,15 +39,15 @@ Stellen Sie sicher, dass Sie über die E-Mail-Adresse und die bevorzugte Authent
 
 Nachdem ein Azure EA-Administrator eine Abteilung erstellt hat, kann der Azure Enterprise-Administrator Abteilungsadministratoren hinzufügen und jeder Abteilung zuordnen. Sie können für jede Unternehmensregistrierung mehrere Abteilungsadministratoren haben.
 
-1. Melden Sie sich beim [Azure Enterprise-Portal](https://ea.azure.com/)an.
-1. Navigieren Sie zur Registerkarte  >  **"Abteilung** verwalten", und wählen Sie dann die Abteilung aus.
+1. Melden Sie sich beim [Azure Enterprise-Portal](https://ea.azure.com/) an.
+1. Navigieren Sie zur Registerkarte **"****ManageDepartment** > ", und wählen Sie dann die Abteilung aus.
 1. Wählen Sie **+Administrator hinzufügen** aus, und fügen Sie die erforderlichen Informationen hinzu.
-1. Legen Sie für den schreibgeschützten Zugriff die Option Read-Only auf **"Ja"** fest, und wählen Sie dann **"Hinzufügen"** aus.
+1. Legen Sie für den schreibgeschützten Zugriff die Option Read-Only auf **"Ja** " fest, und wählen Sie dann **"Hinzufügen**" aus.
 
 **So aktualisieren/entfernen Sie einen Administrator:**
 
-1. Zeigen Sie auf den EA-Administrator, der  entfernt werden soll, und klicken Sie auf das blaue X-Symbol.
-1. Vergewissern Sie sich, dass der gewünschte Administrator ausgewählt ist, und klicken Sie auf **"Ja".**
+1. Zeigen Sie auf den EA-Administrator, der entfernt werden soll, und klicken Sie auf das blaue **X-Symbol** .
+1. Vergewissern Sie sich, dass der gewünschte Administrator ausgewählt ist, und klicken Sie auf **"Ja"**.
 
 **Empfohlene Dokumente**
 

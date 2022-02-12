@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: c541f17b7caa0b0d0fbc72ce627d191da2b93558
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f9744b71108f7051e1314404ab245267b3245e92
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61968727"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62646312"
 ---
 # <a name="teams-supported-web-browsers"></a>von Teams unterstützte Webbrowser
 
-Teams unterstützt vollständig die im Artikel aufgeführten Internetbrowser, [Grenzwerte und Spezifikationen für Microsoft Teams,](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)mit notierten Ausnahmen für Anrufe und Besprechungen.
+Teams unterstützt vollständig die im Artikel [aufgeführten Internetbrowser, Grenzwerte und Spezifikationen für Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), mit ausnahmen für Anrufe und Besprechungen.

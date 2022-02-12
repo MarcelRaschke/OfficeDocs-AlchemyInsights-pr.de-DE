@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11254"
 - "1200008"
-ms.openlocfilehash: 812a42c58625ccb925202984144a8d11e9bf1450
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: fb6a107a5153d2b0d0e09c1aed8cdd63eba62220
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61945834"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62612219"
 ---
 # <a name="administrative-units"></a>Verwaltungseinheiten
 

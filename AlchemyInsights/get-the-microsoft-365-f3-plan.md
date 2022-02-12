@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5465"
-ms.openlocfilehash: 44fc0238b545202ff10131f367daa9d5eb34cca3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 173ba6758c03a87269663658f2592a54e27be74a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61963855"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62685787"
 ---
 # <a name="get-the-microsoft-365-f3-plan"></a>Microsoft 365 F3-Plan erhalten
 

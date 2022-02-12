@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001724"
 - "3823"
-ms.openlocfilehash: ded437fc75ac5b082b25b356dcea888ded092393
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0ffebbf598ff42cce43dee5eff53244ce2f91668
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61951688"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62759051"
 ---
 # <a name="enabling-teams-and-office-365-a1"></a>Aktivieren von Teams und Office 365 A1
 

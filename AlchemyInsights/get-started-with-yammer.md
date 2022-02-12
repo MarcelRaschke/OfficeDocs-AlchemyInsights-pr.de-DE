@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 28a3584de157eca0fed3dee8a1e88e929c96810b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54002293"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62685859"
 ---
 # <a name="get-started-with-yammer"></a>Erste Schritte mit Yammer
 

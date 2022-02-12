@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 92e388355efd05ba2ba1015716c7287c2b2ffb8b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2da7a6fa6bd5a7e4a4c865b4aba591b99ef94c75
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61988942"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62646528"
 ---
 # <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Hinweismeldungen zum Abonnement in Microsoft 365-Apps
 

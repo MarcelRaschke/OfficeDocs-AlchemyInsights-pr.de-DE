@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4979"
-ms.openlocfilehash: e9cdb7eee94e46135b46a81955f85e85604e2299
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b91005b03b4ae70f8868181f62cedd80f14afbbf
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61982997"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62686007"
 ---
 # <a name="get-the-microsoft-365-education-plans"></a>Abrufen der Microsoft 365 Education-Pläne
 
