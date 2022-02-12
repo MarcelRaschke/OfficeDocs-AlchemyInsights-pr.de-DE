@@ -14,16 +14,16 @@ ms.custom:
 - "9000191"
 - "1749"
 - "2389"
-ms.openlocfilehash: 13e148d67ff4af7a50bfd178bf6a4f1c226b4c57
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c7a308258c64e5553bde8b0b69354feb0bca35d6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61969627"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62758187"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Externe Freigabe in SharePoint Online
 
-Wenn Ihre Organisation Aufgaben ausführt, die das Freigeben von Dokumenten oder die direkte Zusammenarbeit mit Lieferanten, Clients oder Kunden umfassen, können Sie die [externen Freigabefeatures von SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) verwenden, um Inhalte für Personen außerhalb Ihrer Organisation freizugeben.
+Wenn Ihre Organisation Aufgaben ausführt, die das Teilen von Dokumenten oder die direkte Zusammenarbeit mit Lieferanten, Clients oder Kunden umfassen, können Sie die [externen Freigabefeatures von SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) verwenden, um Inhalte für Personen außerhalb Ihrer Organisation freizugeben.
 
 Weitere Informationen zur externen Freigabe finden Sie unter den folgenden Links:
 

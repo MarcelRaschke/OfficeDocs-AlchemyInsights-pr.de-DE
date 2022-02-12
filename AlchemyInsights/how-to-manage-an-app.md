@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9439"
-ms.openlocfilehash: 5481d1d63e6cf1f2fdbe1c17420dd041e5fe8b4f5be17a891b9e0bf871d27baf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bb4faa911cc21e3a4a7288688342dbcc484517b2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54002083"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62684671"
 ---
 # <a name="how-to-manage-an-app"></a>So verwalten Sie eine App
 
 So verwalten Sie eine App:
 
-- Beginnen Sie mit ["Apps verwalten"](https://admin.teams.microsoft.com/policies/manage-apps) im Microsoft Teams Admin Center, um eine App für Ihre Organisation hinzuzufügen.
+- Beginnen [Sie mit "Apps verwalten"](https://admin.teams.microsoft.com/policies/manage-apps) im Microsoft Teams Admin Center, um eine App für Ihre Organisation hinzuzufügen.
 - Sie können [App-Berechtigungsrichtlinien](https://admin.teams.microsoft.com/policies/app-permission) im Microsoft Teams Admin Center verwenden, um eine App zuzulassen oder zu blockieren und sie Benutzern zuzuweisen.
 - Um die Reihenfolge zu ändern, in der eine App benutzern angezeigt wird, oder um eine App anheften zu können, verwenden Sie [app-Setuprichtlinien](https://admin.teams.microsoft.com/policies/app-setup) im Microsoft Teams Admin Center.
 

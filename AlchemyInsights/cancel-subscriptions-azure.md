@@ -6,14 +6,19 @@ manager: scotv
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9003797
-  - 6786
+- "9003797"
+- "6786"
+ms.openlocfilehash: 6af187122114de77a33a612c9b9ad78c9cb882a4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62610059"
 ---
-
 # <a name="cancel-subscription"></a>Abonnement kündigen
 
 Wenn Sie Ihr Azure-Abonnement nicht mehr benötigen, können Sie es im Azure-Portal kündigen. Azure-Abonnements können nur vom Kontoadministrator oder von Benutzern mit Besitzerrechten für das Abonnement gekündigt werden.

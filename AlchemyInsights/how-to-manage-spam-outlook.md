@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13648"
 - "9005646"
-ms.openlocfilehash: 3d895c305bae23f21144743361fb7463cf373797
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 67b50273242b900e011b9ff9175c53fbb829614e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61949543"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62684707"
 ---
 # <a name="how-to-manage-junk-and-spam-email-in-outlook"></a>So verwalten Sie Junk- und Spam-E-Mails in Outlook
 

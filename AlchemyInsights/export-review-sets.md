@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13993"
 - "3200003"
-ms.openlocfilehash: b4bf5f46421af97caf01065f732cccb14359f8fa
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: ff7c8d9a1ee3f8bcdc5bcaea25ceb5baf04cb7b6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61971789"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62758409"
 ---
 # <a name="export-review-sets"></a>Exportieren von Prüfdateisätzen
 

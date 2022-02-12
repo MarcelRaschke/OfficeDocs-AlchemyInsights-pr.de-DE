@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11179"
 - "9006559"
-ms.openlocfilehash: 160dba67a0aa68620d00fd558cbf6ad0c8a17de6
-ms.sourcegitcommit: 7d6400bbde052481a61de6a8e4067ce1f1b1e247
+ms.openlocfilehash: 3d88e17232291649fbd1baf362385dba1e6858bf
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2021
-ms.locfileid: "60799866"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62758416"
 ---
 # <a name="export-list-of-group-members"></a>Exportieren der Liste der Gruppenmitglieder
 

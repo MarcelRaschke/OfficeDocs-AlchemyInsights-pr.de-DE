@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9822"
 - "9005408"
-ms.openlocfilehash: 53552b6b9b44cf9ed372ad01a511aef9d696c8b3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 696508dba6c92cf95a0dfcd5af38fd1802ac7f7f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61948787"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62684023"
 ---
 # <a name="import-photos-and-videos-to-your-pc"></a>Importieren Sie Fotos und Videos auf Ihren PC
 

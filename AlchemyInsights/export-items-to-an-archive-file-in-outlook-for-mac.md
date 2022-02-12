@@ -12,32 +12,32 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 87fd954c0694e5816d3bc9fbdc0242b531f62ddc
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2f07ffe74149c05d28bc91c4ccb9759f05bdb8ae
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61971825"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62758547"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Exportieren von Elementen in eine Archivdatei in Outlook für Mac
 
-Um die Größe Ihres Posteingangs zu reduzieren, archivieren Sie E-Mail-Nachrichten, Kontakte und andere Elemente manuell in einer Outlook für Mac-Datendatei (OLM). Sie können eine OLM-Datei an einem beliebigen Speicherort auf Ihrem Mac oder auf einem anderen Computer zur sicheren Aufbewahrung speichern.
+Um ihre Posteingangsgröße zu reduzieren, archivieren Sie E-Mail-Nachrichten, Kontakte und andere Elemente manuell in einer Outlook für Mac-Datendatei (OLM). Sie können eine OLM-Datei an einem beliebigen Speicherort auf Ihrem Mac oder auf einem anderen Computer zur sicheren Aufbewahrung speichern.
 
-1. Klicken Sie auf der Registerkarte **"Extras"** auf **"Exportieren".**
+1. Klicken Sie auf der Registerkarte **"Extras** " auf **"Exportieren**".
 
-    **Hinweis:** Wird die Schaltfläche **"Exportieren"** nicht angezeigt? Stellen Sie sicher, dass Sie über die neueste Version von Outlook verfügen. Klicken Sie im **Outlook Hilfemenü** auf **Nach Updates suchen.** Wenn alle Outlook Updates angewendet werden und die Schaltfläche **"Exportieren"** weiterhin nicht angezeigt wird, suchen Sie im Menü Outlook **Datei** nach **"Exportieren".**
+    **Hinweis**: Wird die Schaltfläche " **Exportieren** " nicht angezeigt? Stellen Sie sicher, dass Sie über die neueste Version von Outlook verfügen. Klicken Sie im Outlook **Hilfemenü** auf **Nach Updates suchen**. Wenn alle Outlook Updates angewendet werden und die Schaltfläche "**Exportieren**" weiterhin nicht angezeigt wird, suchen Sie im Menü Outlook **Datei** nach **"Exportieren**".
 
-2. Aktivieren Sie im Kontrollkästchen **"In Archivdatei exportieren" (OLM)** die Elemente, die Sie exportieren möchten, und klicken Sie auf **"Weiter".**
+2. Aktivieren Sie im Kontrollkästchen " **In Archivdatei exportieren" (OLM)** die Elemente, die Sie exportieren möchten, und klicken Sie auf **"Weiter**".
 
-3. Wählen Sie im Feld **"Speichern unter"** unter **"Favoriten"** den Ordner **"Downloads"** aus, und klicken Sie auf **"Speichern".**
+3. Wählen Sie im Feld "**Speichern unter****" unter "Favoriten**" den Ordner "**Downloads"** aus, und klicken Sie auf **"Speichern**".
 
-4. Nachdem Ihre Daten exportiert wurden und Sie eine Benachrichtigung erhalten, klicken Sie auf **Fertig stellen.**
+4. Nachdem Ihre Daten exportiert wurden und Sie eine Benachrichtigung erhalten, klicken Sie auf **Fertig stellen**.
 
-Informationen zum Zugreifen auf die Daten, die Sie in einer Outlook für Mac-Datendatei (OLM) gespeichert haben, finden Sie unter [Importieren von E-Mail-Nachrichten, Kontakten und anderen Elementen in Outlook 2016 für Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS).
+Informationen zum Zugriff auf die Daten, die Sie in einer Outlook für Mac-Datendatei (OLM) gespeichert haben, finden Sie unter [Importieren von E-Mail-Nachrichten, Kontakten und anderen Elementen in Outlook 2016 für Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS).
 
 **Ich möchte nach iCloud oder in eine andere Art von Archivdatei exportieren**
 
-Die einzige Exportoption, die derzeit verfügbar ist, ist die OLM-Archivdatei. Um zusätzliche Exportoptionen anzufordern, besuchen Sie das [Outlook Vorschlagsfeld,](https://outlook.uservoice.com/) um Ihr Feedback zu hinterlassen. Das Outlook-Team überwacht dieses Forum aktiv.
+Die einzige Exportoption, die derzeit verfügbar ist, ist die OLM-Archivdatei. Um zusätzliche Exportoptionen anzufordern, besuchen Sie das [Outlook Vorschlagsfeld](https://outlook.uservoice.com/), um Ihr Feedback zu hinterlassen. Das Outlook-Team überwacht dieses Forum aktiv.
 
 **Siehe auch**
 

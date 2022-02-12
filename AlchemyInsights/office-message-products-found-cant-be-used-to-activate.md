@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: 115684b7e459095e13fdeeee141d43ac608206d9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a9b010690e48c8bc84acf24968dd7379daf0f2f7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989774"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62730304"
 ---
 # <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Meldung in Microsoft 365-Apps: "Die in Ihrem Konto gefundenen Produkte können nicht zum Aktivieren verwendet werden"
 

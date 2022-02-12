@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002333"
 - "4537"
-ms.openlocfilehash: 74c0f04ff8edfa40b42f00032f8d6662765b7bd1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d50afe266ba3e1106b01bb438dc62639653369b8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61943938"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62610599"
 ---
 # <a name="backing-up-email-in-exchange-online"></a>Sichern von E-Mails in Exchange Online
 

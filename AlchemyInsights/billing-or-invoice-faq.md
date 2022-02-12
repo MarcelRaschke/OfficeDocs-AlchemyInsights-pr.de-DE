@@ -16,12 +16,12 @@ ms.custom:
 - "1500005"
 - "5523"
 ms.date: 08/10/2021
-ms.openlocfilehash: c9dc030b374dee0e350168e9826e10c9d3f4df6e
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 1e891ebb35cb6de666892f0586c34cc368b9e774
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843197"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62610455"
 ---
 # <a name="billing-or-invoice-faq"></a>Häufig gestellte Fragen (FAQ) zur Abrechnung/Rechnung
 

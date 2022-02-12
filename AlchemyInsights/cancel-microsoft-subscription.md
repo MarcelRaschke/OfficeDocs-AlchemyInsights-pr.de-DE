@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002287"
 - "4420"
-ms.openlocfilehash: f443fe24ea5dae2bcc699dda34e164ce305e7506
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b703da45179b2e688cf34078df12e1ec304ac167
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61875007"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62610023"
 ---
 # <a name="cancel-microsoft-subscription"></a>Kündigen eines Microsoft-Abonnements
 

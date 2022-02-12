@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000777"
 - "2718"
-ms.openlocfilehash: 580c36d29c2f544ac080bc626467c6310794edea
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f293f9caf8a6aba1abd1b14d8c9a6ca2fbb1a34b
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61971753"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62758223"
 ---
 # <a name="exporting-and-importing-data-with-excel"></a>Exportieren und Importieren von Daten mit Excel
 

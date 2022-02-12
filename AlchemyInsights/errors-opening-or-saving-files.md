@@ -6,24 +6,29 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 9000583
-  - 2685
+- "9000583"
+- "2685"
+ms.openlocfilehash: e48f34a45e74e18e99932d21d689cedc29bab61a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62758799"
 ---
-
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Beheben von Fehlern beim Öffnen oder Speichern von Word-Dateien
 
 Wenn Beim Öffnen oder Speichern von Word-Dokumenten Probleme auftreten, versuchen Sie Folgendes:
 
-- [Installieren sie Office Updates.](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5) Eine Liste der neuesten Office Updates finden Sie unter ["Neueste Updates".](https://docs.microsoft.com/officeupdates/office-updates-msi)
+- [Installieren Sie Office Updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Eine Liste der neuesten Office Updates finden Sie unter ["Neueste Updates"](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Problembehandlung bei beschädigten Dokumenten in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
-- [Reparieren einer Office Anwendung.](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [Reparieren sie eine Office Anwendung](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 - Wenn das Dokument Überarbeitungen enthält, verwenden Sie die Vorschläge in [Word langsam oder reagiert nicht mehr, wenn es übermäßige Überarbeitungen oder Kommentare](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) gibt, um das Problem zu beheben.
 
-Wenn Sie einen Fehler wie einen der folgenden erhalten haben, verwenden Sie die Vorschläge in der [Fehlermeldung in Office, wenn eine Datei durch Registrierungsrichtlinieneinstellungen blockiert wird:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)
+Wenn Sie einen Fehler wie einen der folgenden erhalten haben, verwenden Sie die Vorschläge in der [Fehlermeldung in Office, wenn eine Datei durch Registrierungsrichtlinieneinstellungen blockiert wird](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 
 - Sie versuchen, einen Dateityp zu öffnen, der durch die Registrierungsrichtlinieneinstellung blockiert wird.
 - Sie versuchen, den Dateityp **\<File Type\>** zu öffnen, der durch Ihre Einstellungen für den Zugriffsschutz im Trust Center blockiert wurde.

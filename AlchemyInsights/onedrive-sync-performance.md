@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5840"
-ms.openlocfilehash: 006a3f7b71e8015e816a016944ed6384adf05a20
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 43843534bfa7e28b553438eda9051f9b39438adc
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61956805"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62730052"
 ---
 # <a name="onedrive-sync-performance"></a>OneDrive-Synchronisierungsleistung
 

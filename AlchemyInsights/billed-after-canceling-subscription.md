@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500019"
 - "5584"
-ms.openlocfilehash: 3988d6f879601c4bb908f58879e2e43f2d36632d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8372d3528fa32d21644cba6e570898bb632c3f78
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61939856"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62610491"
 ---
 # <a name="billed-after-canceling-subscription"></a>In Rechnung gestellt nach Kündigung des Abonnements
 

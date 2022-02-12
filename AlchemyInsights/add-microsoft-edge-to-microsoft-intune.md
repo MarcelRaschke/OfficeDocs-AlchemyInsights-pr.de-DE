@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8240"
 - "9004604"
-ms.openlocfilehash: 7cfc2279acf18a7cb6fab89befc8ef1ccc7a4be7
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ba327382addafb0a453224b5b5b96a23722b0dc0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315123"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62645052"
 ---
 # <a name="add-microsoft-edge-to-microsoft-intune"></a>Hinzufügen von Microsoft Edge zu Microsoft Intune
 
