@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002877"
 - "5566"
-ms.openlocfilehash: 7c885293022a3160bb07e05425682dcf9e3265d5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: a87e8781d6f1ac8e82f12ab5f2cf9dae6dfe9488
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61861793"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62648877"
 ---
 # <a name="new-yammer-public-preview"></a>Öffentliche Vorschau der neuen Yammer-Version
 

@@ -14,12 +14,12 @@ ms.custom:
 - "213"
 - "8000007"
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
-ms.openlocfilehash: f2296ed37442e9c438dd5fcaad3d0aeccf2a56333c6576e20f97889be0478858
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b5c15ef8ca80adfba0449055d300b7a60fedb6d1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54112155"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62648913"
 ---
 # <a name="use-your-browser-to-check-spelling"></a>Verwenden Ihres Browsers zum Überprüfen der Rechtschreibung
 

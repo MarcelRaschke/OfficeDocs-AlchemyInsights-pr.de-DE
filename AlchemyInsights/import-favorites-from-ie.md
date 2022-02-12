@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9449"
 - "9005491"
-ms.openlocfilehash: 7b51e2497b8a24f187ac07df4f10d5148e905460
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0274955e49c99672b51489fa5fac0af8388b1c04
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61957311"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62733411"
 ---
 # <a name="import-favorites-from-internet-explorer-to-microsoft-edge"></a>Importieren der Favoriten aus Internet Explorer in Microsoft Edge
 
