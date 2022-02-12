@@ -1,5 +1,5 @@
 ---
-title: Outlook Mobiles Gerät sieht keine Kalender bei auswahl der Verfügbarkeit
+title: Outlook Mobile werden bei auswahl der Verfügbarkeit keine Kalender angezeigt
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "3070"
 - "9001109"
-ms.openlocfilehash: 150d0f470571a5e78124634f190ea61f2c5debbd13925af133c83b351bb6c6f8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bb6bb3073ee9586d625ada936633798773989ea0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000319"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62635206"
 ---
 # <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Ich sehe nicht die Kalender, die ich bei der Auswahl meiner Verfügbarkeit erwartet
 

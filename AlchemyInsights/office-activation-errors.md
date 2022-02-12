@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 12908ae3e05d81871eafe7b96d52ed8def7bd173
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4d917534df1aeba78796f8f4784a2677c3632043
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61968330"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62754384"
 ---
 # <a name="office-activation-errors"></a>Office-Aktivierungsfehler
 

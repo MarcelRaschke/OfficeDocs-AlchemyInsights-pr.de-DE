@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 für Pläne und Preise für gemeinnützige Organisationen
+title: Microsoft 365 für Non-Profit-Pläne und Preise
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -16,16 +16,16 @@ ms.custom:
 - "1500026"
 ms.date: 04/21/2020
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 6b155a9345ed53137e953bdffff7bba7dfb0a96e
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 91ea7e6d697b6f31f6faad23a391d0570f30879d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844349"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62754335"
 ---
-# <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365 für Pläne und Preise für gemeinnützige Organisationen
+# <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365 für Non-Profit-Pläne und Preise
 
-Qualifizierte gemeinnützige Organisationen können Microsoft 365 Non-Profit-Organisation als Schenkung oder ein Upgrade auf erweiterte Features mit einem erheblichen Rabatt erhalten. Um sich für einen Microsoft 365 Non-Profit-Plan zu qualifizieren, müssen Sie in Ihrem Land über [einen anerkannten Willkommensstatus](https://go.microsoft.com/fwlink/p/?LinkID=330253) verfügen und eine Microsoft-Richtlinie ohne Unterscheidung unterzeichnen. Microsoft behält sich das Recht vor, die Berechtigung jederzeit zu überprüfen und den Dienst für nicht berechtigte Organisationen zu sperren.
+Qualifizierte gemeinnützige Organisationen können Microsoft 365 Non-Profit-Organisation als Schenkung oder ein Upgrade auf erweiterte Features mit einem erheblichen Rabatt erhalten. Um sich für einen Microsoft 365 Non-Profit-Plan zu qualifizieren, müssen Sie in Ihrem Land über [einen anerkannten Erfolgsstatus](https://go.microsoft.com/fwlink/p/?LinkID=330253) verfügen und eine Microsoft-Richtlinie ohne Unterscheidung unterzeichnen. Microsoft behält sich das Recht vor, die Berechtigung jederzeit zu überprüfen und den Dienst für nicht berechtigte Organisationen zu sperren.
   
 Weitere Informationen finden Sie in den [häufig gestellten Fragen](https://products.office.com/nonprofit/office-365-nonprofit).
   
