@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: af5968a616951e29bb19d09bb11596b938fc2742
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 2a1613149cce40e4ddaa3806653b64bb824db9db
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61860730"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62693924"
 ---
 # <a name="save-sitelist-template-button-not-available-or-missing"></a>Schaltfläche "Website-/Listenvorlage speichern" nicht verfügbar oder fehlt
 

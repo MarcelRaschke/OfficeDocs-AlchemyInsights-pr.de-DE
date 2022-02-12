@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: 7b438e37f92e8a0af74e75c4061abeae8c567fa5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0a3b87183c97ecec854d13805c04986b1d478c47
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61792932"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62740250"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>Welche Version von Android unterstützt Ihre App?
 
@@ -27,15 +27,15 @@ Wenn Sie mit Ihrem Android-Betriebssystem auf dem neuesten Stand sind, aber weit
 
 Gehen Sie hierzu folgendermaßen vor: 
 
-1. Öffnen Sie auf Ihrem Android-Smartphone oder -Tablet **Einstellungen** und dann **Apps** oder **Anwendungen.**
+1. Öffnen Sie auf Ihrem Android-Smartphone oder -Tablet **Einstellungen** und dann **Apps** oder **Anwendungen**.
 
-2. Tippen Sie oben auf dem Bildschirm auf **"Mehr"** (dies kann auch eine Auslassungspunkte oder drei vertikale Punkte sein), und **zeigen Sie** dann das System an. 
+2. Tippen Sie oben auf dem Bildschirm auf **"Mehr** " (dies kann auch eine Auslassungspunkte oder drei vertikale Punkte sein), und zeigen Sie dann das **System an**. 
 
-3. Scrollen Sie nach unten, und tippen Sie auf **Google Play-Dienste.** 
+3. Scrollen Sie nach unten, und tippen Sie auf **Google Play-Dienste**. 
 
-4. Tippen Sie **auf Storage,** und löschen Sie dann den **Cache.** 
+4. Tippen Sie **auf Storage**, und **löschen Sie** dann den Cache. 
 
-5. Tippen Sie auf **"Speicherplatz verwalten",** und löschen Sie dann **alle Daten.** 
+5. Tippen **Sie auf "Speicherplatz verwalten"** , und **löschen Sie dann alle Daten**. 
 
 6. Öffnen Sie die **Google Play-Store**. 
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 3871cb4f826f420f2e22745da232e6cec32f99f2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c47e871a5a62a93d0a8058267657920584026bda
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61792679"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62740186"
 ---
 # <a name="why-software-updates-are-not-being-deployed"></a>Warum werden Softwareupdates nicht bereitgestellt?
 

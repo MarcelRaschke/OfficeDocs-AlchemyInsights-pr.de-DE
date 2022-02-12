@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11470"
 - "9000292"
-ms.openlocfilehash: 55e7b78028243399af466a39021701addd03d822
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0c767989e1aad898146ba9c78b6b7f1fcd50f03f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61860845"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62694356"
 ---
 # <a name="restrictions-and-limitations-in-onedrive-and-sharepoint"></a>Einschränkungen und Begrenzungen in OneDrive und SharePoint
 

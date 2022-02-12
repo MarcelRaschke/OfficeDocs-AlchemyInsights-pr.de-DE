@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5634"
-ms.openlocfilehash: a09c0ae5039ddd7c4f4230d057f81f72de7235ac
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f35bf82547bb94888f4e8e7296c70d6e3022b075
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61945078"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62740142"
 ---
 # <a name="why-cant-i-edit-this-file"></a>Warum kann ich diese Datei nicht bearbeiten?
 
