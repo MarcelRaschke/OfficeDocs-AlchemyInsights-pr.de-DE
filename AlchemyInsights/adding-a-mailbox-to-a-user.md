@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6070"
 - "1200022"
-ms.openlocfilehash: 0e8ee99589af6208a4629685982b47f2b6fdcd12
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 396647f50df4543faee4c536333f367d4920d04d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61945942"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62645150"
 ---
 # <a name="adding-a-mailbox-to-a-user"></a>Hinzufügen eines Postfachs zu einem Benutzer
 
