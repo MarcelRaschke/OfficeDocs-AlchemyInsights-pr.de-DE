@@ -7,11 +7,16 @@ ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
+ms.openlocfilehash: c76bb1e247ae14ef51a6be111975ad37c7819b52
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62722725"
 ---
-
 # <a name="create-apps-with-powerapps"></a>Erstellen von Apps mit PowerApps
 
 PowerApps ist eine Entwicklungsplattform für Geschäfts-Apps. Sie umfasst drei Hauptkomponenten: 

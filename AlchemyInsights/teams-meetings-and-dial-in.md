@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 6158765a429f637daff5f79246c03af60399cad7
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 0de86edc57df7d952e984acabccabbbd1fd84d95
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61866071"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62631138"
 ---
 # <a name="microsoft-teams-meetings-and-dial-in"></a>Microsoft Teams-Besprechungen und Einwahl
 

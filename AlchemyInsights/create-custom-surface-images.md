@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10023"
 - "9003951"
-ms.openlocfilehash: 1841c41b602344957e3c15e8c6fee360fe98cb9f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: ec1ba15d0fb20f6ba92a864f2af009997f8884c7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61947887"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62722653"
 ---
 # <a name="create-custom-microsoft-surface-operating-system-images"></a>Erstellen von benutzerdefinierten Microsoft Surface-Betriebssystemabbildern
 
