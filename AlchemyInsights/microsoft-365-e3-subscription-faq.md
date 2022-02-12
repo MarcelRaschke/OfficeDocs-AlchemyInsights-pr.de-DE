@@ -15,12 +15,12 @@ ms.custom:
 - "9002554"
 - "5392"
 ms.date: 07/30/2021
-ms.openlocfilehash: 5c4c8dea8bf161eddb7431c5c844a39e2e3a92ea
-ms.sourcegitcommit: 2bdb514082cba3b795fbb8a14bd3d3fcc296c5f3
+ms.openlocfilehash: f23fa8def135918821a83e642ab045e3d05a93dd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "62443758"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62755163"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Häufig gestellte Fragen zur Verwaltung von Microsoft 365 E3-Abonnements und Lizenzen
 

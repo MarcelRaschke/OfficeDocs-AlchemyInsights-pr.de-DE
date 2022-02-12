@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001216"
 - "3188"
-ms.openlocfilehash: 81931db98d2394e8d132a06aa4f20228d9507936
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: ed6348703110a113fa549b7c18b9a0c8971c8a8d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61871798"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62602067"
 ---
 # <a name="migrating-to-microsoft-intune"></a>Migration zu Microsoft Intune
 

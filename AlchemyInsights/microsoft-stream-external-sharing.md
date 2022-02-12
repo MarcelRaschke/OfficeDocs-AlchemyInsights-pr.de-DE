@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 6cb7a667dddee7679d1a4d2b96066bc455e8b4a1
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f39acad9929d3a0b875508e3a02771271dbeb39f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61972365"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62602679"
 ---
 # <a name="microsoft-stream-classic-external-sharing"></a>Microsoft Stream (klassisch) Externe Freigabe
 

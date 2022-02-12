@@ -14,18 +14,18 @@ ms.custom:
 - "6895"
 - "9006502"
 - "11144"
-ms.openlocfilehash: 798b28fa20291c7ef5e94d555b9ae72c3b193d343b892affd22b6a23e780d523
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee500895a42466df94772dac298008d189281f4c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53975856"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62603039"
 ---
 # <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Verwenden von Microsoft Intune zum Verwalten des Webzugriffs in Microsoft Edge für iOS und Android
 
 Microsoft Edge für iOS und Android ermöglicht es benutzern, das Web aus mehreren, vollständig getrennten Profilen zu durchsuchen.
 
-Die umfassendsten Schutzfunktionen für Microsoft 365 Daten werden verfügbar, wenn Sie die Enterprise Mobility + Security-Suite abonnieren, die Microsoft Intune und Azure Active Directory Premium Features wie bedingten Zugriff umfasst. Sie sollten mindestens eine Richtlinie für bedingten Zugriff bereitstellen, mit der (1) Benutzer eine Verbindung von mobilen Geräten mit Microsoft Edge für iOS und Android herstellen können und die (2) eine Microsoft Intune App-Schutzrichtlinie implementiert, die eine geschützte Browserumgebung bereitstellt.
+Die umfassendsten Schutzfunktionen für Microsoft 365 Daten werden verfügbar, wenn Sie die Enterprise Mobility + Security-Suite abonnieren, die Microsoft Intune und Azure Active Directory Premium Features umfasst, z. B. Bedingter Zugriff. Sie sollten mindestens eine Richtlinie für bedingten Zugriff bereitstellen, mit der (1) Benutzer eine Verbindung von mobilen Geräten mit Microsoft Edge für iOS und Android herstellen können und die (2) eine Microsoft Intune App-Schutzrichtlinie implementiert, die eine geschützte Browserumgebung bereitstellt.
 
 Informationen dazu, wie Sie bedingten Zugriff und Richtlinien verwenden können, finden Sie unter:
 
@@ -45,4 +45,4 @@ Informationen dazu, wie Sie bedingten Zugriff und Richtlinien verwenden können,
 
 [Verwenden von Microsoft Endpoint Manager zum Bereitstellen von App-Konfigurationsrichtlinien](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Informationen zum Zugreifen auf protokolle verwalteter Apps finden Sie unter [Verwenden von Microsoft Edge für iOS und Android, um auf protokolle verwalteter Apps zuzugreifen.](https://go.microsoft.com/fwlink/?linkid=2132578)
+Informationen zum Zugreifen auf protokolle verwalteter Apps finden Sie unter [Verwenden von Microsoft Edge für iOS und Android für den Zugriff auf protokolle verwalteter Apps](https://go.microsoft.com/fwlink/?linkid=2132578).

@@ -15,12 +15,12 @@ ms.custom:
 - "7429"
 - "9254"
 - "9000181"
-ms.openlocfilehash: 7f798726bafac561e2339d8b1d113858288a567c1d742a39b34cb86731a68b68
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62b7bae3a5d6956654ede8e0e614238513e6b13c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051989"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62679523"
 ---
 # <a name="set-up-microsoft-information-protection"></a>Einrichten von Microsoft Information Protection
 

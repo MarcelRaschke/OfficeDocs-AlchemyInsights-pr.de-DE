@@ -7,20 +7,25 @@ ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: null
+ms.assetid: ''
 ms.custom:
-  - 9000596
-  - 2440
+- "9000596"
+- "2440"
+ms.openlocfilehash: 65fc313464316d6aed001388103daaf2ba13eb26
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62754443"
 ---
-
 # <a name="onedrive-retention-and-deletion"></a>Aufbewahrung und Löschung in OneDrive
 
-- Sie können gelöschte Benutzer OneDrive sich selbst [wiederherstellen.](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) Sie befinden sich 93 Tage im Papierkorb.
+- Sie können [gelöschte Benutzer OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) sich selbst wiederherstellen. Sie befinden sich 93 Tage im Papierkorb.
 
-- Weitere Informationen finden Sie [in diesem Artikel:](https://docs.microsoft.com/onedrive/retention-and-deletion)
+- Weitere Informationen finden Sie [in diesem Artikel](https://docs.microsoft.com/onedrive/retention-and-deletion) :
     - So gewähren Sie einem anderen Benutzer Zugriff auf die OneDrive eines gelöschten Benutzers.
     - Was geschieht mit dem OneDrive eines Benutzers, wenn Sie das Microsoft 365 Konto des Benutzers für Ihre Organisation löschen.
     - Konfigurieren der automatischen Zugriffsdelegierung.

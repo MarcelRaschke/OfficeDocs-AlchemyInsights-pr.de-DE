@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: e2f96c6479bfb86e2b4104004e5f3c47efd48806
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5ab7335bacec9f9952f3dd8712bf3a4e1611e418
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61968042"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62726397"
 ---
 # <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Hinweis "Abonnement abgelaufen" in Microsoft 365-Apps
 

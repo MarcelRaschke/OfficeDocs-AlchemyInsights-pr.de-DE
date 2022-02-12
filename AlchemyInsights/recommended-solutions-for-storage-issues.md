@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1379"
 - "6200006"
-ms.openlocfilehash: 9d46268aad1aac428035d193e034b5606864da42
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 78ff073bd1f56581ad4521d1069f91a7a3d34330
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61968222"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62680089"
 ---
 # <a name="recommended-solutions-for-storage-issues"></a>Empfohlene Lösungen für Speicherprobleme
 

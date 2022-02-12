@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 3180b38561f8076924dc7c007575b4330e3c2885
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 704c01e08cb5ab1ae30dd634fba9004de0baf5bf
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61874935"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62601959"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migration von AIP zu MIP/einheitlichen Bezeichnungen im Compliance Center
 

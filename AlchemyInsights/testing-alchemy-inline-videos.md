@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d00e9a23-6443-4f4d-8ea7-bb75fb590b74
-ms.openlocfilehash: 3459e5282d06d2b3484f68f55805b98be7fa1d93
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d0bbe08d849e39c232ffec2c0a08ca6bd4ddd126
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61865818"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62726217"
 ---
 # <a name="set-up-domain-and-users"></a>Einrichten von Domäne und Benutzern
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12086"
 - "9007198"
-ms.openlocfilehash: a16ccc7f14814e0fbb53c692af0e0c36497db786
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c75b242e842bee406b3aa4f7660700bcdf628357
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61979552"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62726122"
 ---
 # <a name="troubleshoot-your-camera-or-microphone"></a>Behandlung von Problemen mit Kamera oder Mikrofon
 

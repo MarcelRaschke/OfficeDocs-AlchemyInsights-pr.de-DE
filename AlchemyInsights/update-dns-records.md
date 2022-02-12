@@ -6,15 +6,20 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 39
-  - 41
-  - 100001
+- "39"
+- "41"
+- "100001"
+ms.openlocfilehash: 24c50f62588225046a36462e9be6efe4e7aa9c9a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62725821"
 ---
-
 # <a name="update-dns-records"></a>Aktualisieren von DNS-Einträgen
 
 Das Einrichten der DNS-Einträge ist wichtig, damit Ihr Abonnement mit Ihrem benutzerdefinierten Domänennamen funktioniert. Verwenden Sie die nachstehenden Links zum Hinzufügen oder Aktualisieren Ihrer DNS-Einträge.

@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7839"
-ms.openlocfilehash: c45c8c64427fd0122ef8c91f800b830f421fd9d78e7108962d4053700a3da519
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 29363bd2ae61111cbe0496b7e6c02d57919c77fb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53975316"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62602103"
 ---
 # <a name="migrating-applications"></a>Migrieren von Anwendungen
 
-[Ressourcen für die Migration von Anwendungen zu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) – Ressourcen, mit denen Sie den Anwendungszugriff und die Authentifizierung zu Azure Active Directory (Azure AD) migrieren können.
+[Ressourcen für die Migration von Anwendungen zu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources) – Ressourcen, die Sie beim Migrieren des Anwendungszugriffs und der Authentifizierung zu Azure Active Directory (Azure AD) unterstützen.
 
 [Verschieben der Anwendungsauthentifizierung von Active Directory-Verbunddiensten zu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) – Entwicklerorientierte Anleitung für die Migration von Anwendungen von Active Directory-Verbunddiensten zu Azure Active Directory.

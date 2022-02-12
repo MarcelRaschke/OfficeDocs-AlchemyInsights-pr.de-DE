@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5a5eaebc-5818-4ce8-9d2c-e0d04f8c6f7d
-ms.openlocfilehash: 4c13885dbdf67c3f53fd5ed78e0ed98d05f4ebc9
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5ce79a496357a35d77919c53481f2e9953834622
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61867548"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62680243"
 ---
 # <a name="questions-about-check-in-and-out-files"></a>Fragen zum Ein- und Auschecken von Dateien
 

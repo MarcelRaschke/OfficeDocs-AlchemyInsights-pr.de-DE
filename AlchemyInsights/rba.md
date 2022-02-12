@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: 834e5dc30c07db9d520643ee3019212de3ff07d5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4103c44d34047c10e4e14a87425666df69078c83
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989558"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62680080"
 ---
 # <a name="about-room-mailboxes"></a>Informationen zu Raumpostfächern
 
-Ein Raumpostfach ist ein Ressourcenpostfach, das einem physischen Standort, z. B. einem Konferenzraum, einem Hörsaal oder einem Schulungsraum, zugeordnet ist. Weitere Informationen zu Raumpostfächern finden Sie unter [Erstellen und Verwalten von Raumpostfächern.](https://go.microsoft.com/fwlink/p/?linkid=717533)
+Ein Raumpostfach ist ein Ressourcenpostfach, das einem physischen Standort, z. B. einem Konferenzraum, einem Hörsaal oder einem Schulungsraum, zugeordnet ist. Weitere Informationen zu Raumpostfächern finden Sie unter [Erstellen und Verwalten von Raumpostfächern](https://go.microsoft.com/fwlink/p/?linkid=717533).

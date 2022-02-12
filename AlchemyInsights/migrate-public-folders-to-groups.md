@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10859"
 - "3500007"
-ms.openlocfilehash: 4f338df713aa669f62a361386f59be8c02df32e3
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 59abe91d84f3747be11b06b3cbbf1e5d4f986203
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61969411"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62602499"
 ---
 # <a name="migrate-public-folders-to-microsoft-365-groups"></a>Migrieren Sie Ihre öffentlichen Ordner zu Microsoft 365 Groups
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: 7398612834654d65d05d4f8864d77c2b17a0bb40
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3e7ada542930e89cf64ff029fb2b25b2023af535
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61871762"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62602031"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrieren zu SharePoint Online über den Migrations-Manager
 

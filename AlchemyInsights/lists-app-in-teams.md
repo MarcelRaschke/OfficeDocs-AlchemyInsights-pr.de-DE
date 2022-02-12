@@ -7,14 +7,19 @@ ms.date: 08/20/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002964
-  - 6213
+- "9002964"
+- "6213"
+ms.openlocfilehash: 78e12787a3c6d7e8015b57e6c8506cf10b8d4266
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62755305"
 ---
-
 # <a name="lists-app-in-teams"></a>Lists-App in Teams
 
 Mit der Lists-App in Microsoft Teams werden Listen auf SharePoint-Teamwebsites im Bereich „Zusammenarbeit und Teamarbeit“ von Kanälen angezeigt. Mit dieser App können Endbenutzer ihre bevorzugten Listen direkt in Teams bearbeiten.

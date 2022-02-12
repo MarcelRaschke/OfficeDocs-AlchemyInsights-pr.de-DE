@@ -14,12 +14,12 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: c133f195dbb4ce4a555dac365bbbbe63602f2e3f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 8430774ce9ebc1c04397158f2961dcd670066af7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61871882"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62602427"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrieren zu SharePoint Online über den Migrations-Manager
 

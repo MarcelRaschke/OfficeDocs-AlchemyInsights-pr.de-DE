@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 9001108
-  - 3069
+- "9001108"
+- "3069"
+ms.openlocfilehash: 9506ac9d5d8a59ab7819d71b1c5e6856e8d643f2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62755379"
 ---
-
 # <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Hinterlassen sie eine Featureanfrage oder Feedback zum App-Design.
 
 Wir freuen uns, dass Sie Ihre Meinung teilen, während wir weiterhin an Outlook arbeiten. *UserVoice* ist ein Forum, in dem Sie Feedback abgeben und über die Ideen anderer abstimmen können.  

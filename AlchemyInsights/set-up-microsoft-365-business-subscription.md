@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4776"
-ms.openlocfilehash: 7d854260bc22626d45676c596f9a702fa690c9e5
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5b83c15acdfb16c30f7db44a20901020921ad518
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61978939"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62679595"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>Einrichten eines Microsoft 365 Business-Abonnements
 

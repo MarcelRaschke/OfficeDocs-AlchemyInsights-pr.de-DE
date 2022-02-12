@@ -13,12 +13,12 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 5055d5166211892e3506f3757b823d240d85986c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 64f2669f753a3f02d7dc9b2c7634be0c74cc2af1
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61951400"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62680027"
 ---
 # <a name="dynamics-server-side-sync-recommended-solutions"></a>Von Dynamics Server empfohlene Lösungen für die Synchronisierung
 
