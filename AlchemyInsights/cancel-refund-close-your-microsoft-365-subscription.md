@@ -15,12 +15,12 @@ ms.custom:
 - "9002914"
 - "5614"
 ms.date: 10/26/2021
-ms.openlocfilehash: ee1fbc929efeff5494b5308fc86d9ede998d5b31
-ms.sourcegitcommit: 3bf255c2188d881d6440c227c7143efb1dd51772
+ms.openlocfilehash: 0f1b9b8d7f84c75db179c86d3beb74baf767090c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60584022"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62643468"
 ---
 # <a name="cancelrefundclose-your-microsoft-365-subscription"></a>Kündigen/Erstatten/Schließen Ihres Microsoft 365-Abonnements
 

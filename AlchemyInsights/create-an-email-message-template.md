@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 447a9da970a0cb2e6e8ba21cc8f46082fd85d06b1244636c28fdebc2d911531d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2ad1991346f3d392707cf486f95991d6ae3ce3b4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54080565"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62607575"
 ---
 # <a name="create-an-email-message-template"></a>Erstellen einer E-Mail-Nachrichtenvorlage
 
 So erstellen Sie eine E-Mail-Nachrichtenvorlage:
 
-1. Klicken Sie auf der Registerkarte **"Start"** von Outlook Desktop in der **neuen Gruppe** auf **"Neue E-Mail".**
+1. Klicken Sie auf der Registerkarte "**Start**" von Outlook Desktop in der **neuen Gruppe** auf **"Neue E-Mail"**.
 
     Die Tastenkombination zum Erstellen einer E-Mail-Nachricht lautet STRG+UMSCHALT+M.
 
 2. Geben Sie im Nachrichtentext den gewünschten Inhalt ein.
-3. Klicken Sie im Meldungsfenster auf die Registerkarte **"Datei".**
+3. Klicken Sie im Meldungsfenster auf die Registerkarte **"Datei** ".
 4. Klicken Sie auf **Speichern unter**.
-5. Klicken  Sie im Dialogfeld Speichern unter in der Liste Speichern **unter** auf Outlook Vorlage. 
-6. Geben Sie im **Feld "Dateiname"** einen Namen für die Vorlage ein, und klicken Sie dann auf **"Speichern".**
+5. In the **Save As** dialog box, in the **Save as type** list, click **Outlook Template**.
+6. Geben Sie im **Feld "Dateiname** " einen Namen für die Vorlage ein, und klicken Sie dann auf **"Speichern**".
 
 Standardmäßig werden Vorlagen am folgenden Speicherort gespeichert:
 

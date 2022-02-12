@@ -1,5 +1,5 @@
 ---
-title: 'Vorgehensweise, wenn Azure-Features in Microsoft Edge nicht ordnungsgemäß funktionieren'
+title: Vorgehensweise, wenn Azure-Features in Microsoft Edge nicht ordnungsgemäß funktionieren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -7,14 +7,19 @@ ms.date: 07/26/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 8315
-  - 9004429
+- "8315"
+- "9004429"
+ms.openlocfilehash: 9987c99522037ae6a0931333e48fcf710269871c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62644008"
 ---
-
 # <a name="what-to-do-if-azure-features-dont-work-properly-in-microsoft-edge"></a>Vorgehensweise, wenn Azure-Features in Microsoft Edge nicht ordnungsgemäß funktionieren
 
 Microsoft Edge weist bekannte Probleme im Zusammenhang mit Sicherheitszonen auf, die sich auf die Anmeldung von Azure-Benutzern beim Windows Admin Center auswirken können. Weitere Informationen finden Sie unter [Bekannte Probleme in Edge](https://go.microsoft.com/fwlink/?linkid=2140608). Wenn Sie Probleme bei der Verwendung von Azure-Features mit Microsoft Edge haben, versuchen Sie Folgendes:

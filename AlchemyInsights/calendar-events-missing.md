@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10932"
 - "9001435"
-ms.openlocfilehash: 5f1676c2eaf9de56f2bbf4d0ba64663acfbbcd1b
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 91f90d3b61fad916ab9b6039a6f13205f827e5b7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61939700"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62643576"
 ---
 # <a name="calendar-events-missing-or-not-updating"></a>Kalenderereignisse fehlen oder werden nicht aktualisiert
 

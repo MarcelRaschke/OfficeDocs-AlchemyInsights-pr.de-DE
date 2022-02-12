@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1126"
 - "6700007"
-ms.openlocfilehash: 2b6f73c9265372a4400d7a10c75ae6bd920b6967
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9b9c970a023bb393b8c79f5115da96d170e19c91
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61978723"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62607323"
 ---
 # <a name="create-or-migrate-update-rings"></a>Erstellen oder Migrieren von Updateringen
 

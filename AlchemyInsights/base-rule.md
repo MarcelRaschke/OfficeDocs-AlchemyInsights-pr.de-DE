@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: c79c0fb8a5a435ff689baf045cab6131c286019e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5ef9fb786add55c604244529936d2b57c406fa63
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960557"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62643936"
 ---
 # <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Behandeln von Problemen mit MDM-Autoritäten in Microsoft Intune
 
@@ -27,4 +27,4 @@ Hier sind einige hilfreiche Artikel zu den ersten Schritten mit Intune:
 - [So richten Sie Intune zum ersten Mal ein](https://docs.microsoft.com/intune/setup-steps)
 - [Verwenden und Navigieren in Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-Wenn Probleme mit Ihrer MDM-Autorität auftreten, lesen Sie die Informationen unter ["Intune-MDM-Autorität ändern".](https://docs.microsoft.com/alchemyinsights/change-mdm-authority)
+Wenn Sie Probleme mit Ihrer MDM-Autorität haben, lesen Sie die [Informationen unter "Intune-MDM-Autorität ändern](https://docs.microsoft.com/alchemyinsights/change-mdm-authority)".
