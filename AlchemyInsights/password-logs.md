@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9361"
 - "9003259"
-ms.openlocfilehash: ab2899cc96fb76705665eff4a535de5ada5bc4dd733723349a6fb649adfb034b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1c30f1fd9ec27411c24e322d534523dce1c6d8b7
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53960942"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62634558"
 ---
 # <a name="password-logs"></a>Kennwortprotokolle
 

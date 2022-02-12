@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 29ad91e6e79c673f884c7df5b73c04af0880a921
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e1c3c580055e649ee462da3c448cfff2dedf504d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61967393"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62634702"
 ---
 # <a name="owner-cannot-create-sub-folder-using-outlook"></a>Besitzer kann keinen Unterordner mit Outlook erstellen
 

@@ -14,12 +14,12 @@ ms.custom:
 - "1415"
 - "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 1a1ec9cf117d39ba293c4b6e2759472d892db11d86c7415e1689027aa8a728ba
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3ec2ea4e02350bfec75048337c3ea25b68fb4678
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53983812"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62601058"
 ---
 # <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>POP-, IMAP- und SMTP-Einstellungen für Outlook.com
 
@@ -27,12 +27,12 @@ Wenn Sie Ihr Outlook.com-Konto zu einer Mail-App hinzufügen möchten, die POP o
   
 - **IMAP-Servername:** outlook.office365.com
 - **IMAP-Port:** 993
-- **IMAP-Verschlüsselungsmethode:** Tls
+- **IMAP-Verschlüsselungsmethode:** TLS
 - **POP-Servername:** outlook.office365.com  
 - **POP-Port:** 995  
-- **POP-Verschlüsselungsmethode:** Tls  
+- **POP-Verschlüsselungsmethode:** TLS  
 - **SMTP-Servername:** smtp.office365.com
 - **SMTP-Port:** 587
-- **SMTP-Verschlüsselungsmethode:** Starttls
+- **SMTP-Verschlüsselungsmethode:** STARTTLS
 
-Erfahren Sie mehr über [das Hinzufügen Ihres Outlook.com-Kontos zu einer anderen Mail-App oder einem smarten Gerät.](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy)
+Erfahren Sie mehr über [das Hinzufügen Ihres Outlook.com-Kontos zu einer anderen Mail-App oder einem smarten Gerät](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).

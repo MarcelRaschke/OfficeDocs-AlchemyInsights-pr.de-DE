@@ -1,5 +1,5 @@
 ---
-title: SharePoint Migration mit SPMT
+title: SharePoint-Migration mit SPMT
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 0f63081ec169647e19d9cbac23e31ba6bc131d6d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 25009d2079064df7854dc453d0b0c2e3c1b6e55e
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61859926"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62679235"
 ---
-# <a name="sharepoint-migration-with-spmt"></a>SharePoint Migration mit SPMT
+# <a name="sharepoint-migration-with-spmt"></a>SharePoint-Migration mit SPMT
 
 Das SharePoint Migrationstool wurde für Migrationen von kleinsten Dateien bis hin zu umfangreichen Unternehmensmigrationen entwickelt und ermöglicht es Ihnen, Ihre Informationen in die Cloud zu übertragen und die neuesten Lösungen für Zusammenarbeit, Intelligence und Sicherheit mit Microsoft 365 zu nutzen.
 

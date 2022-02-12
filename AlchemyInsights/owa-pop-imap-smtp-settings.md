@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 2932a7cf3c6681e00455f8292716b46d911010a4d2c84d519f90b2ffa971b35f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5dc29a5109f0e1021f47d5c489f5c1f105003f28
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53960978"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62634846"
 ---
 # <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP-, IMAP-& SMTP-Einstellungen für Outlook im Web
 
-Wenn Sie Ihr Microsoft 365 Konto einer anderen Mail-App hinzufügen möchten, die POP, IMAP oder SMTP unterstützt, benötigen Sie folgende manuelle Servereinstellungen:
+Wenn Sie Ihr Microsoft 365 Konto einer anderen Mail-App hinzufügen möchten, die POP, IMAP oder SMTP unterstützt, benötigen Sie die folgenden manuellen Servereinstellungen:
   
 - **IMAP-Servername:** outlook.office365.com
 - **IMAP-Port:** 993
@@ -29,4 +29,4 @@ Wenn Sie Ihr Microsoft 365 Konto einer anderen Mail-App hinzufügen möchten, di
 - **POP-Verschlüsselungsmethode:** SSL/TLS  
 - **SMTP-Servername:** smtp.office365.com
 - **SMTP-Port:** 587
-- **SMTP-Verschlüsselungsmethode:** Starttls
+- **SMTP-Verschlüsselungsmethode:** STARTTLS

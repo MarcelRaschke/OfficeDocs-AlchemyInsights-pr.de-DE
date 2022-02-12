@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 81832896256f0d6d5addb19759b234c122b78eb0
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: ba2839e029f199bde117c57e95a1f9201d11d52a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61967247"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62678947"
 ---
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a>Office Dokumente können nicht in SharePoint oder OneDrive Dokumentbibliotheken gespeichert werden.
 
@@ -32,6 +32,6 @@ Wenn Sie Probleme beim Speichern von Office Dokumenten in SharePoint oder OneDri
 
 [Ausführen einer Reparatur auf Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-Weitere Informationen oder Details finden Sie im Artikel ["Beheben von Problemen beim Öffnen oder Speichern von Dokumenten in SharePoint Bibliotheken".](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
+Weitere Informationen oder Details finden Sie im Artikel ["Beheben von Problemen beim Öffnen oder Speichern von Dokumenten in SharePoint Bibliotheken"](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
 

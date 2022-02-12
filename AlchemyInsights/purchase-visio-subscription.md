@@ -15,12 +15,12 @@ ms.custom:
 - "9002419"
 - "4694"
 ms.date: 04/14/2021
-ms.openlocfilehash: fbf246007f6c029da196a9674ca89380c7ae747e
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: a0b05c68573b7ce414ca5578755ffb792f529f5d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58846005"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62753651"
 ---
 # <a name="purchase-visio-subscription"></a>Visio-Abonnement kaufen
 

@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002878
-  - 5480
+- "9002878"
+- "5480"
+ms.openlocfilehash: 5bd010a81405b27c6181d24b3c6a2a84bc129589
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62601491"
 ---
-
 # <a name="notifications-in-yammer"></a>Benachrichtigungen in Yammer
 
 Um Sie über neue Aktivitäten in relevanten Unterhaltungen zu informieren, [ sendet Yammer Benachrichtigungen](https://support.microsoft.com/en-gb/office/enable-or-disable-yammer-email-and-phone-notifications-93e530e0-189f-4768-8f28-7683d48cc996) entweder per E-Mail oder – falls Sie Yammer auf Ihrem mobilen Gerät verwenden – über Pushbenachrichtigungen. Yammer sendet standardmäßig Benachrichtigungen für viele Arten von Aktivitäten in Ihrem Netzwerk gesendet. Benutzer können Ihre E-Mail-Einstellungen über die Yammer-Website aktualisieren, und Pushbenachrichtigungen werden über die mobile App konfiguriert. 

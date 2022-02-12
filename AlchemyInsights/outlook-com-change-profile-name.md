@@ -14,17 +14,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: cc5d0d93091cdd4c74b6703e4295bfac18c911f8ad630b8bd7db5a17b1ffb9d0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bbf90df84c018c2a9c41266bedd30520ca9541b8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53962454"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62601215"
 ---
 # <a name="change-your-profile-name-in-outlookcom"></a>Ändern Des Profilnamens in Outlook.com
 
-1. Wechseln Sie zu [Ihren Microsoft-Kontoinformationen.](https://go.microsoft.com/fwlink/p/?linkid=860841)
-2. Wählen Sie **"Namen bearbeiten"** aus.
-3. Geben Sie einen Vornamen und einen Nachnamen ein, und wählen Sie **Speichern** aus.
+1. Wechseln [Sie zu Ihren Microsoft-Kontoinformationen](https://go.microsoft.com/fwlink/p/?linkid=860841).
+2. Wählen Sie **"Namen bearbeiten" aus**.
+3. Geben Sie einen Vornamen und einen Nachnamen ein, und wählen Sie " **Speichern**" aus.
 
 Es kann bis zu 24 Stunden dauern, bis Änderungen an Ihrem Profilnamen wirksam werden.

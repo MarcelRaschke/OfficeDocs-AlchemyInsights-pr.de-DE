@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: e4118e29017ce4e5ca707a47fe790fd614c82627
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 62c799ceb7d19f1e2ab294ffc66d63add99d33a0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61861757"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62601383"
 ---
 # <a name="ocm-to-be-retired-june-2020"></a>OCM wird im Juni 2020 eingestellt
 
 
-Ab **dem 30. Juni 2020** werden das Outlook Kunden-Manager-Add-In und die mobile App eingestellt. Sie können Daten **vor diesem Datum** **daraus exportieren.**  
+Ab **dem 30. Juni 2020** werden das Outlook Kunden-Manager-Add-In und die mobile App eingestellt. Sie können Daten **vor diesem Datum** **daraus exportieren**.  
 
-Sie können überprüfen, wer in Ihrer Organisation über eine Microsoft 365 Business Standard (früher als Office 365 Business Premium bezeichnet) oder Microsoft 365 Business Premium (früher Microsoft 365  Business) Abonnementplan mit Rechten für Outlook Kundenmanager, indem Sie [hier](https://admin.microsoft.com/AdminPortal/Home?ref=/users)klicken.
+Sie können überprüfen, wer in Ihrer Organisation über einen Microsoft 365 Business Standard (früher als Office 365 Business Premium bezeichnet) oder Microsoft 365 Business Premium (früher Microsoft 365  Business) Abonnementplan mit Rechten für Outlook Kundenmanager, indem Sie [hier](https://admin.microsoft.com/AdminPortal/Home?ref=/users) klicken.
 
 Weitere Informationen finden Sie unter:
 

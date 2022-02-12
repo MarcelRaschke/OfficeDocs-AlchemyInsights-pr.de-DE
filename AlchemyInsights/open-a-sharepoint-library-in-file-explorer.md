@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: cb330956fbc0c55c804918e7aab0d8840e8a1e24
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 79559700b4b29bf4cca58c063ea77c75e356776f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61957708"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62753975"
 ---
 # <a name="open-a-sharepoint-library-in-file-explorer"></a>Öffnen einer SharePoint Bibliothek im Datei-Explorer
 
@@ -25,6 +25,6 @@ ms.locfileid: "61957708"
     
 2. Klicken Sie oben rechts auf das Symbol "Ansicht", und klicken Sie dann **im Datei-Explorer** auf "Anzeigen".
     
-**Hinweis:** Das Öffnen einer Bibliothek im Datei-Explorer ist praktisch, wenn Sie mehrere Dateien und Ordner einmal kopieren oder verschieben müssen. Wenn Sie jedoch regelmäßig in der Bibliothek arbeiten möchten, empfehlen wir die Synchronisierung. Informationen zum Beheben von Problemen, die im Datei-Explorer geöffnet werden, finden Sie unter [Öffnen im Explorer.](https://go.microsoft.com/fwlink/?linkid=871665) Informationen zum Einrichten der Synchronisierung finden Sie unter ["Synchronisieren SharePoint Dateien mit dem neuen OneDrive-Synchronisation-Client".](https://go.microsoft.com/fwlink/?linkid=871666) 
+**Hinweis**: Das Öffnen einer Bibliothek im Datei-Explorer ist praktisch, wenn Sie mehrere Dateien und Ordner einmal kopieren oder verschieben müssen. Wenn Sie jedoch regelmäßig in der Bibliothek arbeiten möchten, empfehlen wir die Synchronisierung. Informationen zum Beheben von Problemen, die im Datei-Explorer geöffnet werden, finden Sie unter [Öffnen im Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Informationen zum Einrichten der Synchronisierung finden Sie unter ["Synchronisieren SharePoint von Dateien mit dem neuen OneDrive-Synchronisation-Client](https://go.microsoft.com/fwlink/?linkid=871666)". 
   
 

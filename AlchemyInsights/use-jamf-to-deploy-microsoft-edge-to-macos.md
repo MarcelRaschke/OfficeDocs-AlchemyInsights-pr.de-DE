@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004027"
 - "7094"
-ms.openlocfilehash: 6f708ebd2c2c2d10610467efdf420f3d548dab6c75ff1d19286561e754ba7710
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6b173b4aa171760fd61b591e3b4f73387df7806d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54073095"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62725425"
 ---
 # <a name="use-jamf-to-deploy-microsoft-edge-to-macos"></a>Verwenden von Jamf zum Bereitstellen von Microsoft Edge für macOS
 
-Voraussetzungen und Anweisungen finden Sie unter ["Bereitstellen auf macOS mit Jamf".](https://go.microsoft.com/fwlink/?linkid=2135109)
+Voraussetzungen und Anweisungen finden Sie unter ["Bereitstellen auf macOS mit Jamf](https://go.microsoft.com/fwlink/?linkid=2135109)".

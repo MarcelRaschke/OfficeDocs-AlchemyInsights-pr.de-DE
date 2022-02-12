@@ -1,5 +1,5 @@
 ---
-title: SharePoint PowerShell keine Verbindung herstellen kann
+title: SharePoint PowerShell kann keine Verbindung herstellen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "11511"
 - "9000292"
-ms.openlocfilehash: d42e45d9cd265f15b3357878931603da499177a6
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: ddd82707a6acbfd844465bdf749ac3d11c35c0f5
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61966344"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62678623"
 ---
-# <a name="sharepoint-powershell-unable-to-connect"></a>SharePoint PowerShell keine Verbindung herstellen kann
+# <a name="sharepoint-powershell-unable-to-connect"></a>SharePoint PowerShell kann keine Verbindung herstellen
 
-Wenn Beim Herstellen einer Verbindung mit SharePoint Online-PowerShell-Modul Probleme auftreten, lesen Sie [Fehler beim Herstellen einer Verbindung mit SharePoint Online-Verwaltungsshell.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)
+Wenn Beim Herstellen einer Verbindung mit SharePoint Online-PowerShell-Modul Probleme auftreten, lesen Sie [Fehler beim Herstellen einer Verbindung mit SharePoint Online-Verwaltungsshell](https://docs.microsoft.com/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell).

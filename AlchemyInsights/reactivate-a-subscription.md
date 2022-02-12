@@ -16,12 +16,12 @@ ms.custom:
 - "1500028"
 ms.date: 08/10/2021
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 4996c8ac56c0600517712509099e263d393eb682
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 638f8575c5ec84395e0a420bfeddfb962834475a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844097"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62753543"
 ---
 # <a name="reactivate-a-microsoft-365-subscription"></a>Reaktivieren eines Microsoft 365 Abonnements
 

@@ -12,12 +12,12 @@ ms.custom:
 - "8000055"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 40b220e28a616317ca70780fda6bb3800fdc1766b1aba45a8d49b9beb2b8bd89
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 27dcb5bdc2671e8c604ed36216d03a45a14339d0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54095937"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62601022"
 ---
 # <a name="cmo-iniciar-o-cerrar-sesin-en-outlookcom"></a>Cómo iniciar o cerrar sesión en Outlook.com
 

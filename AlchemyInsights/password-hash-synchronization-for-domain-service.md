@@ -15,12 +15,12 @@ ms.custom:
 - "9004400"
 - "8249"
 - "9003245"
-ms.openlocfilehash: 3c00105a67f70ae9ce11cd8bb922c4d84a320010d021414b9159948f7dc87dbc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d1c012176982ae43197e585cb73c526f5a502c06
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54040865"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62634666"
 ---
 # <a name="password-hash-synchronization-for-domain-service"></a>Kennworthashsynchronisierung für Domänendienst
 
