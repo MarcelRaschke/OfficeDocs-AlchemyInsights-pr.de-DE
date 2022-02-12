@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c195b8b4a404b034189f6a70c17d713ba6722536
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090941"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62672251"
 ---
 # <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Vorbereiten von Benutzern auf die Bereitstellung in Office 365 über die Verzeichnissynchronisierung
 
@@ -26,10 +26,10 @@ Für die Bereitstellung der Verzeichnissynchronisierung für Benutzer sind Planu
 
 Einige Aktionen, die bei der Bereitstellung von Benutzern ausgeführt werden müssen, sind:
 1. **Verzeichnisbereinigung**.
-1. **Verzeichnisobjekt- und Attributvorbereitung.**
-1. **Vorbereiten von UPN-Attributen.**
-1. **Optionales Hinzufügen alternativer UPN-Suffixe zu AD DS.**
-1. **Ordnen Sie lokale UPNs mit den Office 365 UPNs ab.**
+1. **Verzeichnisobjekt- und Attributvorbereitung**.
+1. **Vorbereiten von UPN-Attributen**.
+1. **Optionales Hinzufügen alternativer UPN-Suffixe zu AD DS**.
+1. **Ordnen Sie lokale UPNs mit den Office 365 UPNs ab**.
 1. **Verzeichnisintegrationstools**.
 
-Ausführliche Beschreibungen zu jedem Vorbereitungsschritt finden Sie unter ["Vorbereiten der Bereitstellung von Benutzern über die Verzeichnissynchronisierung in Office 365 Artikel".](https://aka.ms/office365assistantprovisionuserstooffice365)
+Ausführliche Beschreibungen zu jedem Vorbereitungsschritt finden Sie unter ["Vorbereiten der Bereitstellung von Benutzern über die Verzeichnissynchronisierung für Office 365 Artikel](https://aka.ms/office365assistantprovisionuserstooffice365)".

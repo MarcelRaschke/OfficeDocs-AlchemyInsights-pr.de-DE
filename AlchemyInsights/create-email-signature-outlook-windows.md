@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9808"
 - "9005728"
-ms.openlocfilehash: 4a474fd423cc217ab2d34400284aed871157023f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 3164f5a3edef79e334c30e8861a2c88b7312c726
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61969699"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62623789"
 ---
 # <a name="create-an-email-signature-in-outlook-for-windows"></a>Erstellen einer E-Mail-Signatur in Outlook für Windows
 

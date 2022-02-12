@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10802"
 - "9006390"
-ms.openlocfilehash: cacbfec7399f61aba32ed31a20f7f4216e0860d4
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 764f63fa0af9b347d71391d6772b7218ec805fc2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61967826"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62624280"
 ---
 # <a name="the-underlying-connection-was-closed-error-in-sharepoint"></a>Fehler "Die zugrunde liegende Verbindung wurde geschlossen" in SharePoint
 

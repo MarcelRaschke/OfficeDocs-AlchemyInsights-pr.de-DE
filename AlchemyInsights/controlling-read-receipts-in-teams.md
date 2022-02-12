@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: 4fc3af967c8ee7ec65596193ac5cba111d0ea022
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 919d160dc92931806f95eb4a0537652c9a806774
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61972833"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62624136"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>Kontrollieren von Lesebestätigungen in Teams
 

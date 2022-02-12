@@ -1,5 +1,5 @@
 ---
-title: Mandant steuert In-App-Unterstützung für Outlook
+title: Mandant teste die In-App-Unterstützung für Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 16c9929e0e0e7f13576cceea14e2cfd2cf468c475f49e216893667ca0fa1a00e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a7ecf236f27a7c28d863af0986ce4e0731611ce4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53991894"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62717793"
 ---
 # <a name="in-app-support-in-outlook-for-windows"></a>In-App-Unterstützung in Outlook für Windows
 
-Als Mandantenadministrator können Sie In-App-Unterstützung für Probleme in Outlook für Windows erhalten. Wählen Sie in Outlook die Option **"Hilfe**  >  **kontaktieren"** aus. Geben Sie Ihre Frage ein, und ein Mitglied des Outlook für Windows Supportteam antworte auf Ihre Nachricht.
+Als Mandantenadministrator können Sie In-App-Unterstützung für Probleme in Outlook für Windows erhalten. Wählen Sie in Outlook **die Option "****HelpContact-Support** > " aus. Geben Sie Ihre Frage ein, und ein Mitglied des Outlook für Windows Supportteam antworte auf Ihre Nachricht.

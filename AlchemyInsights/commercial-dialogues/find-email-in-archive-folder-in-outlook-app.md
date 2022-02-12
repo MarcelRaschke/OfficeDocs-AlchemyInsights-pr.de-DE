@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 10703fea4789b0861e0e5714ccba976ef52ac9088eb7d38d4ff8e95236a413c3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: dd1a07d6b9f0414ebabcd0c7220fca262e2301a4
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53968016"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62672121"
 ---
 # <a name="find-email-in-archive-folder-in-outlook-app"></a>Suchen von E-Mails im Ordner "Archiv" in Outlook-App
 
@@ -25,6 +25,6 @@ In Outlook 2016 ist der Archivordner einer der Standardordner Outlook, z. B. Pos
 
 So suchen Sie den Archivordner:
 
-1. Wählen Sie in Outlook die Registerkarte **"Ansicht"** > **Ordnerbereich**  >  **"Normal"** aus.
+1. Wählen Sie in Outlook die Registerkarte "**Ansicht**" > **Ordner "****PaneNormal** > " aus.
 2. Ihr Archivordner befindet sich in der Liste der Ordner.
 3. Wenn Sie mithilfe der Funktion "Aktuelles Postfach suchen" oben in der Ordnerliste nach Outlook Elementen suchen, durchsucht Outlook standardmäßig das gesamte Postfach, einschließlich des Archivordners.

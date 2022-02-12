@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 756fecd39c3049f206094b413c905e02b8caf781
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 68e9b5bcdf82bbe07f661f3bc18775e21b8ef63c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61959943"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62717469"
 ---
 # <a name="outlook-on-the-web-send-out-of-office-replies"></a>Outlook im Web: Senden von Abwesenheitsantworten
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000719"
 - "5707"
-ms.openlocfilehash: ba1476aecc1839bda27240cc54b842a816c7e7d4
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 402593ec38ef1bc8704288f80102512b2ad0f027
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61863868"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62623452"
 ---
 # <a name="dial-pad-missing-from-teams"></a>Wähltastatur fehlt in Teams
 

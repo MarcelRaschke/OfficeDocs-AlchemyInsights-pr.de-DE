@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 9a5b7317c7fbc5ef26b473f7ccd7236aff7d5587
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315619"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62623884"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Bereitstellen von Microsoft Edge für Mobile für iOS/iPadOS oder Android
 
@@ -28,7 +28,7 @@ Das unten zusammengefasste geführte Szenario hilft Ihnen, Microsoft Edge Benutz
 - Integration mit dem Azure Active Directory-Anwendungsproxy
 - Verknüpfungen zu verwalteten Favoriten und Startseiten
 
-**Hinweis:** Wenn Sie Benutzer am Registrieren mobiler Geräte gehindert haben, funktioniert dieses geführte Szenario nicht, und die Benutzer müssen Microsoft Edge selbst installieren.
+**Hinweis**: Wenn Sie die Registrierung mobiler Geräte durch Benutzer blockiert haben, funktioniert dieses geführte Szenario nicht, und die Benutzer müssen Microsoft Edge selbst installieren.
 
 Informationen zum Bereitstellen von Microsoft Edge für Mobile für iOS/iPadOS oder Android finden Sie unter:
 

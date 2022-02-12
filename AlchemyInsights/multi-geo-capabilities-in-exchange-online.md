@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5695"
-ms.openlocfilehash: 4e07dbfb01cc003d56f6ca4a0f5ba2ed8f856abd
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: d2bde16a7623c9260c9be26307761dc81c9731ac
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61972293"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62744543"
 ---
 # <a name="multi-geo-capabilities-in-exchange-online"></a>Multi-Geo-Funktionen in Exchange Online
 

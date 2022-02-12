@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000743"
 - "2680"
-ms.openlocfilehash: f6a36e48b05e621f11611abc19760c7e3a5d5dbd
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: f74680e1e4fb18574182152665a1da3f455ff7bd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61866107"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62583994"
 ---
 # <a name="delete-a-chat-in-microsoft-teams"></a>Löschen eines Chats in Microsoft Teams
 
-Um mehr darüber zu erfahren, wie einzelne Benutzer Nachrichten bearbeiten oder löschen können, können Sie [eine gesendete Nachricht in Teams bearbeiten oder löschen.](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263)
+Um mehr darüber zu erfahren, wie einzelne Benutzer Nachrichten bearbeiten oder löschen können, können [Sie eine gesendete Nachricht in Teams bearbeiten oder löschen](https://support.office.com/article/5f1fe604-a900-4a07-b8b7-8cf70ed6b263).
 
 Zu den Löschoptionen gehören:
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6117"
 - "9003238"
-ms.openlocfilehash: 109516d38fa47e3ca6715c979d71209ff673e36a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e14ddcab0d79f925821e7aef9e8b0188684a49d0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61987753"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62744939"
 ---
 # <a name="migrate-from-federated-domain-to-managed-domain"></a>Migrieren von einer Verbunddomäne zu einer verwalteten Domäne
 

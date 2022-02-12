@@ -13,12 +13,12 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 3fe62a9752f667c7a2a21282d3c954c2b3316da6ebd4a49f28dd2afb2444c7c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a15f5112d976e5b10a86dd285e33d1ece4996b0a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54010795"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62743499"
 ---
 # <a name="how-to-select-all-in-outlookcom"></a>Vorgehensweise "Alle auswählen" in Outlook.com
 

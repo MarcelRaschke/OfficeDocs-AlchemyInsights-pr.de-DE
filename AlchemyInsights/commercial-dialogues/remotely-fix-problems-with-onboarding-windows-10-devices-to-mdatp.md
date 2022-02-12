@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 44969436c99b182cb4202fa60e2deb7d6ea3f460e48ee4649de1cfb646970f34
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ba533fc309f62f153967b66e4704c153ae023b40
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034033"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62672035"
 ---
 # <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Remotebehebung von Problemen beim Onboarding von Windows 10 Geräten in Microsoft Defender Advanced Threat Protection
 
@@ -28,4 +28,4 @@ Wenn Sie auf den Remotecomputer zugreifen können, führen Sie die folgenden Sch
 3. Suchen Sie das Diagnoseprotokoll im MdATPClientAnalyzerResult-Ordner, bei dem es sich um denselben Ordner handelt, in den das Analyzer-Tool heruntergeladen wurde.
 4. Um Probleme mit verbindungs- oder Internetproxyeinstellungen zu finden, überprüfen Sie die Protokolldatei MDATPClientAnalyzer.txt.
 
-Weitere Informationen finden Sie unter [Probleme mit Onboardingcomputern.](https://go.microsoft.com/fwlink/?linkid=2143634)
+Weitere Informationen finden Sie unter ["Probleme beim Onboarding von Computern"](https://go.microsoft.com/fwlink/?linkid=2143634).

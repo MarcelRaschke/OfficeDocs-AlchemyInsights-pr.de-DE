@@ -12,12 +12,12 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 559e2a3662450e3a9fc80bed52ab40444c29e182
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54064203"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62744183"
 ---
 # <a name="cant-get-verification-codes"></a>Überprüfungscodes können nicht abgerufen werden
 
@@ -25,4 +25,4 @@ Wenn Sie nicht auf Ihre alternative E-Mail- oder Telefonnummer zugreifen können
 
 *Hinweis:* Die [Microsoft Authenticator-App](https://go.microsoft.com/fwlink/?linkid=2016117) erfordert keine Internetverbindung, um Ihnen einen Überprüfungscode zur Verfügung zu stellen.
 
-Weitere Informationen finden Sie unter [Sicherheitsinformationen und Überprüfungscodes für Microsoft-Konten.](https://support.microsoft.com/help/12428/)
+Weitere Informationen finden Sie unter [Sicherheitsinformationen und Überprüfungscodes für Microsoft-Konten](https://support.microsoft.com/help/12428/).

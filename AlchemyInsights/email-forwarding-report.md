@@ -13,12 +13,12 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 58874c872229bd09b1e9769540e356536f5b1bfc
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 88442e7fbcb44a4185c551e776cb76a499e6be28
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61944658"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62623128"
 ---
 # <a name="auto-forwarded-messages-report"></a>Bericht über automatisch weitergeleitete Nachrichten
 

@@ -14,12 +14,12 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.date: 08/10/2021
-ms.openlocfilehash: 5ba7e3ea21fa85e8674782d43e802a137126fc4a
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: b6c1b1f54e5cf3ab02de3c9e6a143d06ddb98a3a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58844709"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62717181"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Zahlungsoptionen für Abonnements für Microsoft 365 Business
   

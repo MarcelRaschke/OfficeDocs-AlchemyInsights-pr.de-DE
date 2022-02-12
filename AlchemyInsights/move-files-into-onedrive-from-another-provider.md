@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9003086
-  - 5851
+- "9003086"
+- "5851"
+ms.openlocfilehash: 83c06172b6833c60975ad5b5f9c37abf055cdbbf
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62744579"
 ---
-
 # <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>Verschieben von Dateien von einem anderen Cloudanbieter in OneDrive for Business
 
 Wenn Sie Daten von anderen Clouddienstanbietern zu OneDrive oder SharePoint migrieren möchten, beachten Sie, dass [Mover](https://go.microsoft.com/fwlink/?linkid=2132453) die Migration von über einem Dutzend Clouddienstanbietern unterstützt, darunter Box, Dropbox, Egnyte und Google Drive. Mover kann auch für die Migration von einem SharePoint-Mandanten zu einem anderen oder von einem OneDrive-Heimanwender oder OneDrive.com verwendet werden.

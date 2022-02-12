@@ -15,16 +15,16 @@ ms.custom:
 - "1919"
 - "8000013"
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
-ms.openlocfilehash: 94f1d8aa0adca47c4f19bd9f91fc42a5be8ec3564060c1ace3a987df736d8de1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 73451bdf69260f83d68cc273d4e47d325a41e8a2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54112443"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62743967"
 ---
 # <a name="change-font-or-font-size"></a>Ändern des Schrift- oder Schriftgrads
 
-Wenn Sie E-Mails in Outlook.com lesen, können Sie die Zoomfunktion Ihres Browsers verwenden, um den Text auf Dem Bildschirm größer oder kleiner zu machen.
+Wenn Sie E-Mails in Outlook.com lesen, können Sie die Zoomfunktion Ihres Browsers verwenden, um den Text auf Dem Bildschirm zu vergrößern oder zu verkleinern.
   
 So ändern Sie die Schriftart oder den Schriftgrad beim Verfassen einer Nachricht:
   
@@ -33,4 +33,4 @@ So ändern Sie die Schriftart oder den Schriftgrad beim Verfassen einer Nachrich
 
 Wenn das Menü "Formatierungsoptionen" am unteren Rand des Verfassenbereichs nicht angezeigt wird, wählen Sie die **Formatierungsoptionen** aus. <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4QoTFhI2tjW43wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACvUlEQVQ4jbWV20vTYRjHPz938nxIZ5nNQ0gh7iJb5CGRDkJG6pUXXnUReREE0qU3UWD/QF0YhNjBOyGM1CZkuCTLUypFjTWd6XQ6FXVzrs1tvy6s5Y8dEMT38nm/z4fv8z4PzyuIoihyCCfmMKCHCpZHu3xlmKX1tRGAkkI1LY26fYMjOg4ERLqH5nG5fbjcPj5MLWFdcR0cbJzbxDi3QbxKRnK8Ap9fpH9s8eDgvhErIFCmPUpdhWY3NmrFH9jfEIUFu377eD9uA+BqSTa1F3IRgFmbi0nzWkSYwWCIDh7+bmfN4SE9WYXuVAaazASK8lMB0H+2RoTq9fro4Ld/ky/rsohTyQCoLj0BwODUMpsur0Q/MTFBb28vCoUiMti2ts3oj1XkMoH6S/nBeG15DmlJShzbOwxOLQXjJpOJzs5OAARBCMZD5rh/fBGvL0BinJyeobmgOEYQiFfJWXd66flkpaY8B4vFQkdHB36/H4C920ECDgRE+kYWANhy+3ihnw73Uvyc38S+6sBkMuHxeABQKpXU19eHB3+1rDO94AQgLyuBOKW0IJ9fRBRF7lw7wsvnT0lJSaG0tBSz2UxDQwMajSY8+F/HM1JjaW+uRKWQhbhdXl6mq6sLu92O3W5HrVbT1NSEUqmU6IJg5/YOhsndppQVqUOgxrlN3nz8RV6mnGPHc5iZmUGr1VJVVRUClYDfjS+wsbU7RhfPZElEA5M27rd9YeDxdQAePnNyq7GRk/n5yGShVcGecUtPFLiiy6KuQsO502lBwTfLOg/aJ/D6/ne8Z3iF5NTMiFCJ48riXCqLcyWXFpuT5idjeLwBAMpvdzPUWkN6soqE2KgbFyHS12RecHD30TBrDo/UiUyg5aaWyrO54dJCHUucLjm51zaO071DQtyuRBYjUJCdxI3qAs4XZkaFRnV80PMHnewLMbVHljcAAAAASUVORK5CYII=' /> aus.
   
-Weitere Informationen finden Sie unter [Ändern des Schriftgrads und der Darstellung von E-Mails in Outlook.com.](https://support.office.com/article/0b4eb323-23fc-4d5d-adbf-cae14c9c0386?wt.mc_id=Office_Outlook_com_Alchemy)
+Weitere Informationen finden Sie unter [Ändern des Schriftgrads und der Darstellung von E-Mails in Outlook.com](https://support.office.com/article/0b4eb323-23fc-4d5d-adbf-cae14c9c0386?wt.mc_id=Office_Outlook_com_Alchemy).

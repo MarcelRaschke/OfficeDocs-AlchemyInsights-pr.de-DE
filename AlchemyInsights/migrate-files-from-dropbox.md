@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8002"
 - "5300030"
-ms.openlocfilehash: 5d08ee7a04cb5107c2d380fe3844f1acaea0a9c4b76f2ad4e4b36f469e44e9fc
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f54c35418c5ae08621945bb1ca4160a8a77aeee8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900211"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62744975"
 ---
 # <a name="migrate-files-from-dropbox"></a>Migrieren von Dateien von Dropbox
 

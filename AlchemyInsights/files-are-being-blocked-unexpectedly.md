@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9355"
 - "3200002"
-ms.openlocfilehash: 58db07300928ac27fb19d923a9610d92559ef5e11749a145b890d774c5911bb1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6aaa54a701c1faad4d95855c988e938955354403
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54043574"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62622912"
 ---
 # <a name="files-are-being-blocked-unexpectedly"></a>Werden Dateien unerwartet blockiert?
 

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 06352056740180c9f332dd85553a9373b0f25548e50222a1d4bf9d502f513dfb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c6af6d2127684f1c1c552a07960e122e9f60071
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058181"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62671423"
 ---
 # <a name="troubleshooting-the-intune-policy-and-profiles"></a>Problembehandlung für die Intune-Richtlinie und -Profile
 
 Um vorhandene Richtlinien anzuzeigen, Konflikte zu beheben, Protokolldaten zu überprüfen und allgemeine Fragen und Probleme anzuzeigen, können die folgenden Handbücher hilfreich sein:
 
-- [Problembehandlung bei Richtlinien und Profilen in Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+- [Problembehandlung von Richtlinien und Profilen in Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 - [Allgemeine Fragen, Probleme und Lösungen mit Geräterichtlinien und -profilen in Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
 - [Überwachen von Gerätekonfigurationsprofilen und Anzeigen von Konflikten in Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-monitor)
 - [Problembehandlung bei der Gerätecompliance und dem bedingten Zugriff in Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
