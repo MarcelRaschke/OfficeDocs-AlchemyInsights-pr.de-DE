@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002541"
 - "4908"
-ms.openlocfilehash: 6dbc671aa855a597238de4db31072a4cdf24049a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4e283a881a2ba5ed2d67eb407a6f1ec7cf7d9b0a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61948211"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62654898"
 ---
 # <a name="content-not-yet-available-message-in-onenote"></a>Meldung „Inhalt noch nicht verfügbar“ in OneNote
 

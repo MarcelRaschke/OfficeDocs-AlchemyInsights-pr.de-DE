@@ -13,26 +13,26 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: eb873a83fe0c4aa3435cdecfdad74a3ad7eaa3d8
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: eb1735e21449add17dccfffb9e029ff9e999b1a8
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61948247"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62654970"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Inhalt wird nicht in SharePoint Suchergebnissen angezeigt
 
 Führen Sie die folgenden Schritte zur Problembehandlung aus, wenn erwartete Inhalte nicht in Suchergebnissen angezeigt werden:
   
-1. Überprüfen Sie, ob die **Website,** die den erwarteten Inhalt enthält, so festgelegt ist, dass Inhalte in Suchergebnissen angezeigt werden können. Führen Sie die Schritte unter [Anzeigen von Inhalten auf einer Website in Suchergebnissen](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)aus.
+1. Überprüfen Sie, ob die **Website** , die den erwarteten Inhalt enthält, so festgelegt ist, dass Inhalte in Suchergebnissen angezeigt werden können. Führen Sie die Schritte unter [Anzeigen von Inhalten auf einer Website in Suchergebnissen](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results) aus.
 
-2. Überprüfen Sie, ob die **Liste** oder **Bibliothek,** die den erwarteten Inhalt enthält, so festgelegt ist, dass Inhalte in Suchergebnissen angezeigt werden können. Führen Sie die Schritte unter [Anzeigen von Inhalten aus Listen oder Bibliotheken in Suchergebnissen aus.](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results)
+2. Überprüfen Sie, ob die **Liste** oder **Bibliothek** , die den erwarteten Inhalt enthält, so festgelegt ist, dass Inhalte in Suchergebnissen angezeigt werden können. Führen Sie die Schritte unter [Anzeigen von Inhalten aus Listen oder Bibliotheken in Suchergebnissen aus](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
 
-3. Stellen Sie sicher, dass die Seite, das Dokument oder das benutzerdefinierte Seitenlayout als Hauptversion veröffentlicht **wurde.** Führen Sie Schritt 3 in [Suche nicht alle Ergebnisse in SharePoint Online zurück.](https://go.microsoft.com/fwlink/?linkid=874525)
+3. Stellen Sie sicher, dass die Seite, das Dokument oder das benutzerdefinierte Seitenlayout als **Hauptversion** veröffentlicht wurde. In Schritt 3 der [Suche werden nicht alle Ergebnisse in SharePoint Online zurückgegeben](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Stellen Sie sicher, dass der Benutzer **über Berechtigungen** zum Anzeigen des Inhalts verfügt. Führen Sie die Schritte unter [Grundlegendes zu Berechtigungsstufen in SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels)aus.
+4. Stellen Sie sicher, dass der Benutzer **über Berechtigungen** zum Anzeigen des Inhalts verfügt. Führen Sie die Schritte unter ["Grundlegendes zu Berechtigungsstufen in SharePoint" aus](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
-5. Wenn das Suchschema durch Hinzufügen einer neuen verwalteten Eigenschaft, Bearbeiten einer verwalteten Eigenschaft oder Entfernen einer verwalteten Eigenschaft geändert wurde, ist das Anfordern einer Durchforstung und eines erneuten Indizierens erforderlich. Führen Sie die Schritte in ["Manuelles Durchforsten und erneutes Indizieren einer Website, Bibliothek oder Liste" durch,](https://docs.microsoft.com/sharepoint/crawl-site-content)um den Inhalt neu zu **indizieren.** Dies kann eine Weile dauern, warten Sie 24 Stunden, bevor Sie die Ergebnisse erneut überprüfen.
+5. Wenn das Suchschema durch Hinzufügen einer neuen verwalteten Eigenschaft, Bearbeiten einer verwalteten Eigenschaft oder Entfernen einer verwalteten Eigenschaft geändert wurde, ist das Anfordern einer Durchforstung und eines erneuten Indizierens erforderlich. Führen Sie die Schritte unter ["Manuelles Durchforsten und erneutes Indizieren einer Website, Bibliothek oder Liste](https://docs.microsoft.com/sharepoint/crawl-site-content)" durch, um den Inhalt **neu zu indizieren**. Dies kann eine Weile dauern, warten Sie 24 Stunden, bevor Sie die Ergebnisse erneut überprüfen.
 
-Weitere Informationen finden Sie unter Aktivieren der [Durchsuchbarkeit von Inhalten auf einer Website.](https://docs.microsoft.com/sharepoint/make-site-content-searchable) 
+Weitere Informationen finden Sie unter [Aktivieren der Durchsuchbarkeit von Inhalten auf einer Website](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
   
