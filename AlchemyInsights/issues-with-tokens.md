@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7774"
 - "9004351"
-ms.openlocfilehash: 14a9681c08920094813497e7a75eb87bb0733cbc
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: 2b916dcc246b743a1a470768706b916a984da4a9
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49912003"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62575911"
 ---
 # <a name="issues-with-tokens"></a>Probleme mit Token
 

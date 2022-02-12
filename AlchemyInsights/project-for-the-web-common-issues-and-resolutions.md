@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-  - 9002603
-  - 5021
+- "9002603"
+- "5021"
+ms.openlocfilehash: 95cbb3a8ea3b8a700cecfa4eec16f69e218456fd
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62571911"
 ---
-
 # <a name="project-for-the-web-common-issues-and-resolutions"></a>Gemeinsame Themen und Lösungen in Project für das Web
 
 Hier sind einige gefragte Themen für Project für das Web:

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004191"
 - "7372"
-ms.openlocfilehash: e8071de43932bc4f5ca6691a48b92768df18fab47ef6e6112ecc8604678b6408
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2d28f85b3b9eccdbe64e6d2a80b94c7e59b347fe
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54098107"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62574291"
 ---
 # <a name="microsoft-defender-for-office-365-advisor"></a>Microsoft Defender für Office 365 Advisor
 

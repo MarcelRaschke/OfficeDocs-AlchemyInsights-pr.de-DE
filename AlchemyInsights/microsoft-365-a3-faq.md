@@ -15,12 +15,12 @@ ms.custom:
 - "9002871"
 - "5417"
 ms.date: 07/30/2021
-ms.openlocfilehash: 574aa753f29158adfa4201d2c88322ed72c75b27
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 289eedaf10908bb081b3a198f2f37b545310fa1c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843557"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62574795"
 ---
 # <a name="microsoft-365-a3-faq"></a>Microsoft 365 A3 – häufig gestellte Fragen
 

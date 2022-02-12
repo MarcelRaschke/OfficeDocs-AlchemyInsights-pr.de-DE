@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4896"
-ms.openlocfilehash: 9384cb818a77155c1a820ab6d62c04583206d5eb
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: bdddb895a1c734a356aa07b1e57145e082cec55f
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61936553"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62574723"
 ---
 # <a name="microsoft-365-tax-information"></a>Microsoft 365-Steuerinformationen
 

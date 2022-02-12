@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: 1e47b3d30b50e7f156bc2e8a71f470c6b4bcf017
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 53dbe480394ac8b33f9514c107c136dc8a418929
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61962328"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62575371"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>Verwalten von Besprechungsaufzeichnungen für die Bildung
 

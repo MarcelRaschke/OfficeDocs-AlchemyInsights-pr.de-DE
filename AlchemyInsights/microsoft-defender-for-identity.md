@@ -15,15 +15,15 @@ ms.custom:
 - "12322"
 - "12354"
 - "9007399"
-ms.openlocfilehash: 75146b2a0d474edda835847b7c4dce0f7ee38281
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 9d738f16dfb45f094f3d7a4c32623a33b97bdb8d
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61956841"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62574399"
 ---
 # <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
 
 Microsoft Defender for Identity, früher Azure Advanced Threat Protection, verwendet Ihr lokales Active Directory, um erweiterte Bedrohungen, kompromittierte Identitäten und böswillige Insideraktionen gegen Ihre Organisation zu identifizieren, zu erkennen und zu untersuchen. 
 
-Verwenden Sie das [Setuphandbuch für Microsoft Defender für Endpunkt,](https://admin.microsoft.com/adminportal/home#/modernonboarding/defenderatpsetup) um Sensoren zu installieren und Benachrichtigungseinstellungen einzurichten, um Benutzer, Entitätsverhalten und verdächtige Benutzeraktivitäten zu überwachen und gleichzeitig in Active Directory gespeicherte Benutzeridentitäten und Anmeldeinformationen zu schützen.
+Verwenden Sie das [Setuphandbuch für Microsoft Defender für Endpunkt](https://admin.microsoft.com/adminportal/home#/modernonboarding/defenderatpsetup) , um Sensoren zu installieren und Benachrichtigungseinstellungen einzurichten, um Benutzer, Entitätsverhalten und verdächtige Benutzeraktivitäten zu überwachen und gleichzeitig in Active Directory gespeicherte Benutzeridentitäten und Anmeldeinformationen zu schützen.

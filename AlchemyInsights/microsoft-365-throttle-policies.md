@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002322"
 - "4506"
-ms.openlocfilehash: 53c2faddf19b119e64e2e06365c04bf1b64fdb4e
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 1e6f57a7843aedb1c050d9cb9f99e2138bf47bb0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61968438"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62574687"
 ---
 # <a name="microsoft-365-throttle-policies"></a>Microsoft 365-Drosselungsrichtlinien
 

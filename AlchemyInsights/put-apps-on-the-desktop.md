@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: c6988443ddf96efac297846bd40bf40e2954f140
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 62f6611875c2f7faaa677a0c85bb9c15bdcd7a79
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61981282"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62571699"
 ---
 # <a name="put-apps-on-the-desktop"></a>Apps auf dem Desktop platzieren
 

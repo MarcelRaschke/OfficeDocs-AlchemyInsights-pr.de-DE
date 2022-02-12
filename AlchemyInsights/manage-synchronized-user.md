@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: dfba82d6d6aa4911c9cd7d5b298487cf228bb3d2
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 6f09bac7b7d4ea092ad89ed2d371a69eb8421379
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61960917"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62575155"
 ---
 # <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Primäre E-Mail-Adresse kann nicht festgelegt, Benutzerattribute geändert oder synchronisierte Benutzer entfernt/gelöscht werden
 

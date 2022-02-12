@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "11220"
 - "9006570"
-ms.openlocfilehash: b3ad9b2e721ecd5e6c8847226100a7ce9f47ef5c
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 615f666118039ae31b9c1dc8c9d1d84be7598ca6
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61968258"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62572167"
 ---
 # <a name="preparing-for-tls-12-in-office-365"></a>Vorbereiten von TLS 1.2 in Office 365
 

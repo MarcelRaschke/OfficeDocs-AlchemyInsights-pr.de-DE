@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9010042"
 - "15357"
-ms.openlocfilehash: d0598179d75e8017effa184e37ed7cfaaf61e1c9
-ms.sourcegitcommit: 7d6400bbde052481a61de6a8e4067ce1f1b1e247
+ms.openlocfilehash: dcc77c55a69cd3b05ef4983809ec58dbf60f44aa
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2021
-ms.locfileid: "60800120"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62571519"
 ---
 # <a name="secure-browsing-with-microsoft-edge"></a>Sicheres Browsen mit Microsoft Edge
 

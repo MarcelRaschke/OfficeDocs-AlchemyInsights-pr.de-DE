@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12313"
 - "9007389"
-ms.openlocfilehash: b6fe8a38399606f28c5b86d06b59cf134fa04d33
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b48d5f607a1aa5bc1f5d79fc654fb21dacea5866
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61942027"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62574759"
 ---
 # <a name="microsoft-cloud-app-security-setup"></a>Microsoft Cloud App Security-Setup
 
