@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "634"
 - "3500007"
-ms.openlocfilehash: ba1e60a2d9ada10d868671eba30d9e3d8a57d00a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 374a7d78624ecb220280cdf143dc2c7792e292aa
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61937275"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62565795"
 ---
 # <a name="access-a-public-folder-calendar-in-owa-outlook-on-the-web"></a>Zugreifen auf einen Kalender in einem öffentlichen Ordner in OWA (Outlook im Web)
 

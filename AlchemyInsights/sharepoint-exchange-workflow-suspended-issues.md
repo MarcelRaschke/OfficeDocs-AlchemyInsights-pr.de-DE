@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: c7d231d13c42d0a8e571b7f51eb30a2dc7fc6f4a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 08a917f096c92ef5d6d7e450a6509470eca353cc
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61980598"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62714826"
 ---
 # <a name="workflows-in-sharepoint"></a>Workflows in SharePoint
 
@@ -30,5 +30,5 @@ Die Fehlermeldung "Workflow ist angehalten" kann auftreten, wenn Sie eines der f
 
 Wenn Sie den Workflow ausführen, wird die E-Mail-Nachricht nicht gesendet, und Sie bemerken die Fehlermeldung, der interne Status ist auf "Angehalten" festgelegt oder kann nicht an einen Empfänger gesendet werden.
 
-Weitere Informationen finden Sie im folgenden [Artikel.](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)
+Weitere Informationen finden Sie im folgenden [Artikel](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
 

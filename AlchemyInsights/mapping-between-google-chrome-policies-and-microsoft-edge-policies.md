@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8219"
 - "9004596"
-ms.openlocfilehash: 552be9b3db90d2ae5bd831c25dec63b249fe4a39a3c86d64222cdaf8297f1043
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 653c8691cdca5cc3b059cbb485df8bca6c7328aa
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000931"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62620932"
 ---
 # <a name="learn-about-mapping-between-google-chromes-and-microsoft-edges-policies"></a>Informationen zur Zuordnung zwischen den Richtlinien von Google Chrome und Microsoft Edge
 

@@ -12,12 +12,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003200"
-ms.openlocfilehash: b76a49d9e6573aa83ce28ba51f26b2d3f266bd0a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: e247c0e5f5c6771964178438c62160b153741053
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61983501"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62715057"
 ---
 # <a name="sender-does-not-receive-email-sent-to-microsoft-365-group"></a>Absender empfängt keine an eine Microsoft 365-Gruppe gesendete E-Mail
 

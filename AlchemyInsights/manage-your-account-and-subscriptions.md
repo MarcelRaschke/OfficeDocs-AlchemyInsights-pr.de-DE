@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: f62472704ab0acbf2a1df83cb6a5ff0597ddae7a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 4b784e586d82dc01ded06289f438c46a8b15372c
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61989378"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62620968"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Verwalten Ihres Kontos und Ihrer Abonnements
 

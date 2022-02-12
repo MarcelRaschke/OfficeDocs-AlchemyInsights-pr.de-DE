@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7856"
 - "9004350"
-ms.openlocfilehash: c2619348aba19cd7daf08d96105a66f2db3170f88ecf8a7712bdfab7d457887d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c999b76010e56c8b37e0b4d7711d85f1d3cd244
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53955164"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62565147"
 ---
 # <a name="access-myapps"></a>Zugriff auf „Meine Apps“
 

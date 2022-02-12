@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 45bb85eaf55fdda4c9a4c22a9cb2d87684167090
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 7703771f5abaaaab48f47aacb9033849a42758f0
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61978975"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62715201"
 ---
 # <a name="set-up-insider-risk-management"></a>Einrichten des Insider-Risikomanagements
 

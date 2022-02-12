@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13726"
 - "9008593"
-ms.openlocfilehash: d376f97f9c5121bbdabd6539a7688f7f6a2a5a09
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 335b96f5b371dce819a95d7b7d4326533248a048
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61872112"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62620536"
 ---
 # <a name="message-to-run-enable-organizationcustomization"></a>Nachricht zum Ausführen von Enable-OrganizationCustomization
 

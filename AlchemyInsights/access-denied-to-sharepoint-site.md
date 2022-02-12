@@ -13,12 +13,12 @@ ms.custom:
 - "9000150"
 - "1666"
 - "1806"
-ms.openlocfilehash: 60479496bab235430e13330dec3f230ff219c62f
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: b81dd13500246e15fd1934ad885c10a34f7df082
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61937191"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62565363"
 ---
 # <a name="access-denied-to-sharepoint-site"></a>Zugriff auf SharePoint-Website verweigert
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: 5db355fc754b0a11ec14255913d58a12d0ee883d
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: c2da4b392360ed50dc4f2bd07a72042b1bad0729
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61988762"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62619780"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Überwachen des bedingten Zugriffs auf Exchange
 
@@ -28,7 +28,7 @@ Benutzer, die auf bedingten Zugriff abzielen, erhalten eine Benachrichtigungs-E-
 - Wechseln Sie im Azure-Portal zu Intune > Gerätekompatibilität. Klicken Sie unter "Verwalten" auf "Richtlinien". Überprüfen Sie in der Liste der Compliancerichtlinien, ob dem Gerät Des Benutzers ein Profil zugewiesen ist. Wenn kein Profil zugewiesen ist, kann Intune den Kompatibilitätsstatus des Geräts nicht bestätigen.
 - Bearbeiten Sie die Zuweisung des bedingten Zugriffs des Benutzers.
 
-1. Wechseln Sie im Azure-Portal zu  >  **Intune-Richtlinien für bedingten**  >  Zugriff.
+1. Wechseln Sie im Azure-Portal zu **IntuneConditional** >  **accessPolicies** > .
 2. Wählen Sie eine Richtlinie aus der Liste aus.
 3. Klicken Sie auf "Benutzer und Gruppen".
 4. Wenn Sie eine bestimmte Richtlinie an jemanden adressieren möchten, fügen Sie sie der Include-Liste hinzu. Um sicherzustellen, dass eine Person aus der Richtlinie weggelassen wird, fügen Sie sie der Liste "Ausschließen" hinzu.
@@ -43,4 +43,4 @@ Nützliche Links:
 
 [Überwachen der Intune-Gerätekompatibilität](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Hinweis: Diese Schritte sind nur bei der Problembehandlung für die Azure Active Directory Feature bedingter Zugriff hilfreich. Es ist auch möglich, ein Gerät unter Quarantäne zu stellen, das den E-Mail-Zugriff mit Exchange Richtlinie blockiert. Weitere Informationen zur Exchange Geräteverwaltung finden Sie [hier]( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .
+Hinweis: Diese Schritte sind nur bei der Problembehandlung für das Azure Active Directory Feature bedingter Zugriff hilfreich. Es ist auch möglich, ein Gerät unter Quarantäne zu stellen, das den E-Mail-Zugriff mit Exchange Richtlinie blockiert. Weitere Informationen zu Exchange Geräteverwaltung finden Sie [hier](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141).

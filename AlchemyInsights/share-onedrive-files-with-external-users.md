@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: b29824460394371e89a0e217479f7decb9acec63
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 5d99fa9a6d07c4e1e81b82dad2bf74528dae2245
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61951184"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62714949"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Freigeben von Dateien in OneDrive für Personen außerhalb Ihrer Organisation
 
@@ -25,19 +25,19 @@ ms.locfileid: "61951184"
     
 2. Wählen Sie die Dateien oder Ordner aus, die Sie freigeben möchten, und wählen Sie dann **Freigeben** aus. 
     
-3. Wenn der Linktyp auf "Personen in" festgelegt \<your organization\> ist, klicken Sie auf den Pfeil nach unten, und wählen Sie eine der folgenden Optionen aus: 
+3. Wenn der Linktyp auf "Personen in \<your organization\>" festgelegt ist, klicken Sie auf den Pfeil nach unten, und wählen Sie eine der folgenden Optionen aus: 
     
   - **Jeder** hat Zugriff auf jeden, der diesen Link erhält, unabhängig davon, ob er ihn direkt von Ihnen erhält oder von einer anderen Person weitergeleitet wird. Dies kann auch Personen von außerhalb Ihrer Organisation einschließen. 
     
   - **Bestimmte Personen** gewähren nur den von Ihnen angegebenen Personen Zugriff, obwohl andere Personen möglicherweise bereits Zugriff haben. Wenn Personen die Freigabe-Einladung weiterleiten, können nur Personen, die bereits Zugriff auf das Element haben, den Link verwenden. 
     
-    **Hinweis:** Wenn eine dieser Optionen nicht verfügbar ist oder standardmäßig ein anderer Linktyp angezeigt werden soll, können Sie ihre organisationsweiten Einstellungen ändern, indem Sie zum OneDrive Admin Center wechseln und im linken Bereich auf **"Freigabe"** klicken. [Weitere Informationen](https://go.microsoft.com/fwlink/?linkid=871961)
+    **Hinweis**: Wenn eine dieser Optionen nicht verfügbar ist oder standardmäßig ein anderer Linktyp angezeigt werden soll, können Sie ihre organisationsweiten Einstellungen ändern, indem Sie zum OneDrive Admin Center wechseln und im linken Bereich auf **"Freigabe**" klicken. [Weitere Informationen](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. Standardmäßig ist **die Bearbeitung zulassen** aktiviert. Wenn Sie möchten, dass Personen nur Ihre Dateien anzeigen, deaktivieren Sie das Kontrollkästchen. 
     
 5. Geben Sie die Namen der Personen, mit denen Sie teilen möchten, und eine Nachricht ein, wenn Sie möchten.
     
-6. Wenn Sie bereit sind, den Link zu senden, klicken Sie auf **"Senden".** 
+6. Wenn Sie bereit sind, den Link zu senden, klicken Sie auf **"Senden**". 
     
 [Weitere Informationen](https://go.microsoft.com/fwlink/?linkid=871861)
   

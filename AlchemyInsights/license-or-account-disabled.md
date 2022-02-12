@@ -15,12 +15,12 @@ ms.custom:
 - "9002459"
 - "3764"
 ms.date: 08/11/2021
-ms.openlocfilehash: ecf2e5cc9b7a48ff5a73be00a3a04ce45a310dab
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: fe2b6a9739112b3bcd5dfebdd94942bb37e11f89
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58845861"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62621148"
 ---
 # <a name="license-or-account-disabled"></a>Lizenz oder Konto deaktiviert
 

@@ -6,14 +6,19 @@ manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ROBOTS: 'NOINDEX, NOFOLLOW'
+ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-  - 9000192
-  - 3545
+- "9000192"
+- "3545"
+ms.openlocfilehash: 92419643acdbef7070f33cb224d934364be6945a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62620788"
 ---
-
 # <a name="limit-sharing-in-microsoft-365"></a>Einschränken der Freigabe in Microsoft 365
 
 Obwohl Sie die interne Freigabe nicht vollständig deaktivieren oder die Schaltfläche "Freigeben" von Websites entfernen können, können Sie die Freigabe in Microsoft 365 auf unterschiedliche Weise einschränken, um die Anforderungen Ihrer Organisation zu erfüllen. 

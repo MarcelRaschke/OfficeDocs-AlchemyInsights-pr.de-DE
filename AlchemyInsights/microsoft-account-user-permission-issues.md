@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: e89979bba61f49da7f1b6f7d83eaaa592531d977
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 54fb37fc73de5fcd337ce50957bfabca33a49e56
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61983213"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62619816"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Problembehandlung – Benutzer im Verzeichnis nicht gefunden
 
@@ -24,7 +24,7 @@ Die folgenden Schritte können ausgeführt werden, um das Problem zu beheben.
 
 - Stellen Sie sicher, dass das Konto, das die E-Mail-Einladung angenommen hat, dasselbe Konto ist, das später für die Anmeldung verwendet wird. Stellen Sie sicher, dass der Benutzer dasselbe Konto verwendet, um die Einladung zu akzeptieren und sich bei der Website anzumelden. 
 
-Weitere Informationen finden Sie unter [Verwalten von Aliasen für Ihr Microsoft-Konto </a> zum Verwalten der Microsoft 365 Anmeldung.](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases) 
+Weitere Informationen finden Sie unter [Verwalten von Aliasen für Ihr Microsoft-Konto</a> zum Verwalten der Microsoft 365 Anmeldung](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
 - Navigieren Sie zu allen Websites, auf denen der Benutzer den Fehler empfängt. 
 
@@ -34,6 +34,6 @@ Beispiel: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipG
 
 - Wählen Sie den Benutzer aus der Liste aus.
 
-- Klicken Sie im Menüband auf **"Benutzerberechtigungen entfernen".** 
+- Klicken Sie im Menüband auf **"Benutzerberechtigungen entfernen** ". 
 -  Fügen Sie den Benutzer zurück, und senden Sie die Einladung erneut an den Benutzer.
 

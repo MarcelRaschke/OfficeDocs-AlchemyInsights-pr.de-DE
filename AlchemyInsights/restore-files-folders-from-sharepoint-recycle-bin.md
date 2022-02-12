@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3195"
-ms.openlocfilehash: 00377934ff08b51f47666d6881f5c4897da37811
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 12660d3ddd81a87aa48cdeea6786438bb822dfea
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61866827"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62715489"
 ---
 # <a name="restore-files-or-folders-from-the-sharepoint-recycle-bin"></a>Wiederherstellen von Dateien oder Ordnern aus dem SharePoint Papierkorb 
 

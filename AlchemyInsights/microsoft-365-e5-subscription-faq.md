@@ -15,12 +15,12 @@ ms.custom:
 - "9002658"
 - "5183"
 ms.date: 07/30/2021
-ms.openlocfilehash: 582080c234c9789abfb32b210b3d2707d2915687
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 6b521536944fcf1dac7a7c160db03cebaae46efb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58846041"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62620392"
 ---
 # <a name="microsoft-365-e5-subscription-and-license-management-faq"></a>Häufig gestellte Fragen zur Verwaltung von Microsoft 365 E5-Abonnements und Lizenzen
 

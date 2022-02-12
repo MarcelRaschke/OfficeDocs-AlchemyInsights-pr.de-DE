@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7814"
 - "9004358"
-ms.openlocfilehash: 7e2957a27305e8fb0bfd10e21189cef9870c5aaa
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: f6ca2f89a7ac31966f255ac6176bff2eb04a8b31
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "50716108"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62714373"
 ---
 # <a name="troubleshoot-group-issues"></a>Beheben von Gruppenprobleme
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6187fb6915d6c06f546dd2bc7eadb692dbaad4eb
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54067119"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62621413"
 ---
 # <a name="key-capabilities-of-windows-virtual-desktop"></a>Die wichtigsten Funktionen von Windows Virtual Desktop
 
@@ -27,10 +27,10 @@ Windows Virtual Desktop ist ein Desktop- und App-Virtualisierungsdienst, der in 
 - Einrichten einer Bereitstellung mit mehreren Sitzungen Windows 10, die eine vollständige Windows 10 Skalierbarkeit bietet
 - Virtualisieren Microsoft 365 Apps und Optimieren für die Ausführung in virtuellen Szenarien mit mehreren Benutzern
 - Bereitstellen von Windows 7 virtuellen Desktops mit kostenlosen erweiterten Sicherheitsupdates (ESU)
-- Bringen Sie Ihre vorhandenen Remotedesktopdienste (RDS) und Windows Server-Desktops und -Apps auf einen beliebigen Computer
+- Bereitstellen ihrer vorhandenen Remotedesktopdienste (RDS) und Windows Serverdesktops und -apps auf einen beliebigen Computer
 - Verwalten von Windows 10, Windows Server und Windows 7 Desktops und Apps mit einer einheitlichen Verwaltungsumgebung
 - Erstellen einer vollständigen Desktopvirtualisierungsumgebung in Ihrem Azure-Abonnement, ohne dass zusätzliche Gatewayserver ausgeführt werden müssen
-- Veröffentlichen Sie so viele Hostpools, wie Sie für Ihre vielfältigen Workloads benötigen
+- Veröffentlichen Sie so viele Hostpools, wie Sie für Ihre unterschiedlichen Workloads benötigen
 - Bringen Sie aus dem Azure-Katalog Ihre eigenen Bilder für Produktionsarbeitslasten und Tests mit
 - Senken von Kosten durch Die Verwendung von zusammengefassten Ressourcen mit mehreren Sitzungen
 - Bereitstellen von individuellem Besitz über persönliche (persistente) Desktops

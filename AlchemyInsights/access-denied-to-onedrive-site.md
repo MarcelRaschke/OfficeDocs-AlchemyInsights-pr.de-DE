@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000150"
 - "1663"
-ms.openlocfilehash: 80bd119e77f2487a5246c40843200463d5b15f9a
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 810e96e6fd78160ce3b19846fc5b77ebb6c7e022
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61935856"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62565543"
 ---
 # <a name="access-denied-to-onedrive-site"></a>Zugriff auf OneDrive-Website verweigert
 

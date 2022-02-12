@@ -12,12 +12,12 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: f1366560e92c7333a3a3d6f69cbf960ff914b547
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 461c127de45a4186a16e3746ae6d58cbd16a4d04
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61943491"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62620405"
 ---
 # <a name="issues-with-azure-mfa"></a>Probleme mit Azure MFA
 Es gibt einige Dinge zu überprüfen, ob sich Benutzer nicht mithilfe der mehrstufigen Authentifizierung (MFA) anmelden können.

@@ -15,12 +15,12 @@ ms.custom:
 - "9002873"
 - "5472"
 ms.date: 07/30/2021
-ms.openlocfilehash: 4aa2ca755a7f7495b21ef5a526d0965f050c2da6
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: caf88ef1afaaa4f8cac650549001fa3daff008f2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836644"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62620176"
 ---
 # <a name="microsoft-365-f3-subscription-and-license-management-faq"></a>Häufig gestellte Fragen zur Verwaltung von Microsoft 365 F3-Abonnements und Lizenzen
 

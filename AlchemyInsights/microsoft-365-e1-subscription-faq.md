@@ -15,12 +15,12 @@ ms.custom:
 - "9002870"
 - "5407"
 ms.date: 07/30/2021
-ms.openlocfilehash: 5a22a1398bedc98404d8f2f18085bdf6ae94100a
-ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.openlocfilehash: 99545c9922dc7c17f53abc8a322847bd9dc530d2
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58843449"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62620500"
 ---
 # <a name="microsoft-365-e1-subscription-and-license-management-faq"></a>Häufig gestellte Fragen zur Verwaltung von Microsoft 365 E1-Abonnements und Lizenzen
 

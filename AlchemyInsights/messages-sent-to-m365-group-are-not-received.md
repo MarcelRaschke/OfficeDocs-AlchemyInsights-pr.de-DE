@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: 34572c38a90353d3dfb392a72d8f0eb18a3916a7
-ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.openlocfilehash: 500e68f2eca9ac5a5b6ae3f23149c0056513d44a
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61943527"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62620320"
 ---
 # <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>An eine Microsoft 365-Gruppe gesendete Nachrichten werden nicht von allen Mitgliedern empfangen
 

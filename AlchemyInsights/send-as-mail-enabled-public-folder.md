@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: 22aa3e8f46c2ff4f62cb520b9498041dffb9d3a3eb607d788cc97b10bf32dbb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c01def2d15e443aacf94c68416614ac1262ecb81
+ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54052565"
+ms.lasthandoff: 02/11/2022
+ms.locfileid: "62715345"
 ---
 # <a name="sendas-mail-enabled-public-folder"></a>SendAs-E-Mail-aktivierter öffentlicher Ordner
 
@@ -25,5 +25,5 @@ Im folgenden Beispiel werden dem Benutzer "Send As" Berechtigungen für den E-Ma
 
 Add-RecipientPermission -Identity 'NewPF1' -Trustee "Maustaste" -AccessRights 'SendAs'
 
-Ausführliche Informationen zu Syntax und Parametern finden Sie unter ["Senden als" oder "Senden im Auftrag von" Berechtigungen für E-Mail-aktivierte öffentliche Ordner.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs)
+Ausführliche Informationen zu Syntax und Parametern finden Sie unter ["Senden als" oder "Senden im Auftrag von" Berechtigungen für E-Mail-aktivierte öffentliche Ordner](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
 
