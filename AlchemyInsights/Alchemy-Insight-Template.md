@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - bucket id
 - rule id
-ms.date: (publish date)
-ms.openlocfilehash: 1f8833d43739cba24da037791e3115847efa509c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.date: 01/01/2022
+ms.openlocfilehash: 9dd636d642f599cf82b176633ca3cad92e388c57
+ms.sourcegitcommit: d4fe5cc18116740ba4193dbd716e3123ee898394
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62567235"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "62815371"
 ---
 # <a name="required-alchemy-header-h1"></a>Erforderlicher Alemy-Header H1
 
@@ -33,9 +33,9 @@ Bewährte Methoden und Richtlinien für die Alchemy-Erstellung:
     - 100021
     - 1234
 ```
-4. Verwenden Sie die restlichen Metadaten oben in dieser Datei als Vorlage.
-5. Öffnen Sie im [Portal "Alchemy Partner"](https://alchemyportal.azurewebsites.net) die Seite "Alchemy-Regel", und scrollen Sie nach unten zum **Abschnitt Insights**. Suchen Sie den **Lösungstitel,** und verwenden Sie diesen als Ausgangspunkt für Ihre Titelmetadaten und den H1-Titel. Je nachdem, wie die ursprüngliche Zeichenfolge geschrieben wird, müssen Sie sie möglicherweise zur besseren Lesbarkeit bearbeiten.
-
+4. Festlegen des Datums "ms.date" auf das Veröffentlichungsdatum im Format mm/dd/jjjj
+5. Verwenden Sie die restlichen Metadaten oben in dieser Datei als Vorlage.
+6. Öffnen Sie im [Portal "Alchemy Partner"](https://alchemyportal.azurewebsites.net) die Seite "Alchemy-Regel", und scrollen Sie nach unten zum **Abschnitt Insights**. Suchen Sie den **Lösungstitel,** und verwenden Sie diesen als Ausgangspunkt für Ihre Titelmetadaten und den H1-Titel. Je nachdem, wie die ursprüngliche Zeichenfolge geschrieben wird, müssen Sie sie möglicherweise zur besseren Lesbarkeit bearbeiten.
 
 **Hinweis** Alemy Insights MUSS nur einen einzelnen H1 oben haben, sonst werden sie in der Produktion beschädigt.
 

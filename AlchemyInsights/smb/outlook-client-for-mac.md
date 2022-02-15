@@ -1,0 +1,31 @@
+---
+title: Konfigurieren Outlook Clients für Mac
+ms.author: v-ftangonan
+author: IpeTangonan
+manager: anita.danford
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.custom:
+- "9009993"
+- "15684"
+ms.date: 02/14/2022
+ms.openlocfilehash: cddc344148d18158b6f7278125fc2338add3c446
+ms.sourcegitcommit: d4fe5cc18116740ba4193dbd716e3123ee898394
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "62815600"
+---
+# <a name="configure-outlook-client-for-mac"></a>Konfigurieren Outlook Clients für Mac
+
+Das neue Outlook für Mac nutzt leistungsstarke und einfache Designprinzipien, die Benutzern die Kontrolle geben, ihre Erfahrungen anzupassen und schnell zu erledigen. Es hilft Ihnen, schnell auf Ihre E-Mails und Ihren Kalender zuzugreifen, Besprechungen einfach zu planen und darauf zu reagieren, mit der Suche zu finden, wonach Sie suchen, und ihre E-Mails besser zu organisieren. Es enthält die Funktionsupdates, die Sie in einer anpassbaren und benutzerfreundliche Benutzeroberfläche angefragt haben.
+
+*Erfahren Sie mehr über Outlook-Client für Mac:*
+
+- [Die neue Outlook für Mac](https://support.microsoft.com/office/the-new-outlook-for-mac-6283be54-e74d-434e-babb-b70cefc77439)
+- [Hilfe zu neuen Outlook für Mac](https://support.microsoft.com/office/get-help-with-new-outlook-for-mac-64758e05-6cab-4a2d-8c8b-0f3f16ac1cc8)
+
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Wenn Sie **sich mit einem Microsoft-Spezialisten für weitere Hilfe in Verbindung setzen** möchten, wählen Sie "Chat mit einem Microsoft-Spezialisten" aus, und **klicken Sie dann unten auf "Live-Chat** ".
