@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 4e07d3f27bb2d3d192dc6d3151058bebb76fdc0c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5f386718706e9156befef95a4367a7baf74a3bfd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62682403"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63271889"
 ---
 # <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Probleme beim Öffnen von Dateien aus SharePoint oder OneDrive 
 

@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4511"
-ms.openlocfilehash: 43257312aa18916c7cdc465434a1a5cca695ea67
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a40fd3d7d494626e3ce5a5d518389413254913f4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62706669"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63189752"
 ---
 # <a name="teams-temporary-feature-adjustments"></a>Temporäre Feature-Anpassungen in Teams
 
-**Wichtig**: In diesen beispiellosen Zeiten unternehmen wir alle erforderlichen Schritte, um sicherzustellen, dass Microsoft Teams weiterhin in hohem Maße verfügbar ist. Bitte besuchen Sie [Microsoft Teams – temporäre Feature-Anpassungen](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC206581).
+**Wichtig**: In diesen nie dagewesenen Zeiten unternehmen wir alle erforderlichen Schritte, um sicherzustellen, dass Microsoft Teams weiterhin in hohem Maße verfügbar bleibt. Besuchen Sie [Temporäre Anpassung der Features für Microsoft Teams](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC206581).

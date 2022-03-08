@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: 87e834f0ece10984722ed37894f03f5b606e88d3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 35f669ab37de7409daa94a60dafb3300ee53f2c1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62619259"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63272213"
 ---
 # <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: Problembehandlung bei der Verarbeitung von Änderungen
 
