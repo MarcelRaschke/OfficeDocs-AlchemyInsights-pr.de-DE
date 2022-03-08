@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: cac4b561a81ea0a7ee1099712fad09c433507519
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1bed358f4e291a9dfc902c4a61ec42b4417fd838
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62617518"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63085762"
 ---
 # <a name="resize-and-attach-images-on-android"></a>Ändern der Größe und Anfügen von Bildern unter Android
 

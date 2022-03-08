@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
 ms.custom:
 - "44"
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 923cf621512a3237928e86d76712268a48054781
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8f90cde9dc70270cb7baf0bbbf1f58ba9b7c3e4b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62668975"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63246725"
 ---
 # <a name="how-to-verify-your-domain"></a>So überprüfen Sie Ihre Domäne
 

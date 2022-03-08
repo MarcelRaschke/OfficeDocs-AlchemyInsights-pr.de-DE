@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: eedb5a4c7cbd443062186be8258238a86778228a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5781f7009cb3febe56d2839ae0b9456f0e1032d0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62616576"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63157495"
 ---
 # <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Externer Benutzer kann nicht auf Inhalte in SharePoint Online zugreifen
 

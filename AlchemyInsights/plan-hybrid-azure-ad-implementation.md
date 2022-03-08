@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6138"
 - "9003244"
-ms.openlocfilehash: ebeec0ee85dbb98e5edb09a16018d23ac6673f7c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 98d64b745340e146cbe63a520b615dcc1c5f6e76
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62549235"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63233763"
 ---
 # <a name="plan-hybrid-azure-ad-implementation"></a>Planen einer Azure AD Hybrid-Implementierung
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: e29f466622c2052685785e155e7ddb37daac473b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5fff03d24959bacfb8e308464ac34d8dd3a92a44
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62720853"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63246365"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Lösungen für Probleme beim Installieren von Office
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 6e99f6078b7c5428dcf8947b24c639bf5094d460
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9f5156ad141bef3189e3628d856f05bb48437ef0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62701556"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63284633"
 ---
 # <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Erfahren Sie mehr über Progressive Web Apps (PWAs) auf Microsoft Edge (Chromium)
 

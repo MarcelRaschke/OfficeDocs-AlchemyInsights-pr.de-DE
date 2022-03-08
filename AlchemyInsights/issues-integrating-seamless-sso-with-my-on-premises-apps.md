@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 913483e802fa22bab9c957e7c508d8c293e3887a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e8cd50222324f7cca9fa817bcb61702d513708c1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62755919"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63246329"
 ---
 # <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Probleme bei der Integration von nahtlosen SSO in meine lokalen Apps
 
@@ -37,5 +37,5 @@ Führen Sie die folgenden Schritte aus, um Probleme bei der Integration von naht
 
 - [Konfigurieren des einmaligen Anmeldens bei einer Anwendungsproxyanwendung](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
 - [SAML Single Sign-On für lokale Anwendungen mit Anwendungsproxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
-- [Verstehen und Lösen Azure Active Directory Cors-Probleme mit Anwendungsproxys](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [Verstehen und Lösen Azure Active Directory Anwendungsproxy-CORS-Probleme](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
 - [Problembehandlung bei eingeschränkten Kerberos-Delegierungskonfigurationen für Anwendungsproxys](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)

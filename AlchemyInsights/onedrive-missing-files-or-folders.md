@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: 250390f885d034baf45de8ee9c0c27d7b7bba824
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 681a6eada6199e34253e37edfe3f0fe720d5a076
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62666455"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63234411"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive: Fehlende Dateien oder Ordner
 
@@ -26,7 +26,7 @@ ms.locfileid: "62666455"
 
 **Verwenden Sie die OneDrive-Dateiwiederherstellungsfunktion**. 
 
-Wenn viele Ihrer OneDrive Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie die gesamte OneDrive mithilfe des [Features OneDrive Dateien wiederherstellen](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15).
+Wenn viele Ihrer OneDrive Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie die gesamte OneDrive mithilfe des [Features zum Wiederherstellen von OneDrive Dateien](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) auf ein vorheriges Mal wiederherstellen.
 
 
 **Verwenden Sie die Überwachungsprotokollierung oder den Dateiaktivitätsbereich, um den Verlauf der Datei zu überprüfen**.

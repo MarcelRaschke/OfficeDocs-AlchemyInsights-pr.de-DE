@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004336"
 - "7741"
-ms.openlocfilehash: 832a81d57341df44db21432b2c11a9e256fded2d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f58828478fdee0f858a98dd8081a5e03d6204d53
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62590618"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63284417"
 ---
 # <a name="issues-with-a-resource-or-service-principal"></a>Probleme mit einem Ressourcen- oder Dienstprinzipal
 
@@ -31,4 +31,4 @@ ms.locfileid: "62590618"
 **Probleme mit Gastbenutzern**
 
 - [Schnellstart: Hinzufügen von Gastbenutzern zu Ihrem Verzeichnis im Azure-Portal](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal#prerequisites) zeigt Ihnen, wie Sie ihrem Azure AD Verzeichnis über das Azure-Portal einen neuen Gastbenutzer hinzufügen, eine Einladung senden und sehen, wie der Einlösungsprozess des Gastbenutzers aussieht.
-- [Lernprogramm: Erstellen von Benutzerabläufen in Azure Active Directory B2C](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows) zeigt Ihnen, wie Sie einige empfohlene Benutzerabläufe mithilfe des Azure-Portals erstellen. Wenn Sie nach Informationen zum Einrichten eines ROPC-Flusses (Resource Owner Password Credentials) in Ihrer Anwendung suchen, lesen Sie den Fluss "Kennwortanmeldeinformationen des Ressourcenbesitzers konfigurieren" in Azure AD B2C.
+- [Lernprogramm: Erstellen von Benutzerabläufen in Azure Active Directory B2C](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows) zeigt Ihnen, wie Sie einige empfohlene Benutzerabläufe mithilfe des Azure-Portals erstellen. Wenn Sie nach Informationen zum Einrichten eines ROPC-Flusses (Resource Owner Password Credentials) in Ihrer Anwendung suchen, lesen Sie den Fluss "Kennwortanmeldeinformationen für Ressourcenbesitzer konfigurieren" in Azure AD B2C.

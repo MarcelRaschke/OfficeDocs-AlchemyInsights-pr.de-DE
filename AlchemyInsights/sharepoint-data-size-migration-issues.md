@@ -7,18 +7,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
 ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: ec492440841f784147b0bc6dbbbc76a7d44a3245
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 139505bc4e047d6fc24138acbdbd6a814b5ea6fd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62692808"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63157531"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Probleme beim Migrieren von Daten zu SharePoint Online
 
@@ -27,7 +27,7 @@ ms.locfileid: "62692808"
 Es scheint, als migrieren Sie mehr als 100 TB Daten zu SharePoint Online. Führen Sie die nachstehenden Schritte aus, damit wir Sie so schnell wie möglich unterstützen können. 
 
 1. Wählen Sie **"Support kontaktieren**" und dann **"Neue Serviceanfrage**" aus. 
-2. Behalten Sie den Titel und die Beschreibung **SharePoint Migration über 100 TB bei**.
+2. Behalten Sie den Titel und die Beschreibung **als SharePoint Migration über 100 TB bei**.
 3. Nachdem das Ticket übermittelt wurde, aktualisieren Sie es mit den folgenden Informationen: 
 
     - die geschätzte Größe Ihrer Migration.

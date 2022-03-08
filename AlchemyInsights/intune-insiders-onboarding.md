@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1982"
 - "9000348"
-ms.openlocfilehash: f546b1d7cd35bb80f9fa119bc54bb6284b094417
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fcbdf3af895599161ae2d5bb671b11939f5de3e7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62637474"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63284273"
 ---
 # <a name="intune-insiders-onboarding"></a>Intune-Insider-Onboarding
 

@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
-ms.openlocfilehash: eca97e419048e25e4ca839685e630a9668b07c62
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9b198d0711209fd79134926fd0d6af6d06db1b23
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62700440"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63284237"
 ---
 # <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Ungültige Datei- und Ordnernamen in OneDrive und SharePoint
 

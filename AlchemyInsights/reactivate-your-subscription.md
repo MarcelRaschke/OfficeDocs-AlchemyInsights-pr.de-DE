@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
@@ -18,12 +18,12 @@ ms.custom:
 - "4736"
 - "3551"
 ms.date: 08/10/2021
-ms.openlocfilehash: b5d7c7bd0333d38a9f88f8ed0c8f0720c4e12932
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0958294a4c3c350e1b8bec1bda58d479f47b6dc8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62632938"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63233367"
 ---
 # <a name="reactivate-your-subscription"></a>Reaktivieren Ihres Abonnements
 

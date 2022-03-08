@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003807"
 - "6809"
-ms.openlocfilehash: 3e9eb08466000142aa357c833988a153e7b79142
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: be7be2555e97c3b4bb7a4551cf4ef8e50a6830d4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62715966"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63085582"
 ---
 # <a name="resolving-issue-with-unknown-user-in-teams-chat"></a>Beheben des Problems mit "Unbekannter Benutzer" im Teams Chat
 

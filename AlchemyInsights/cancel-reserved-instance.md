@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: ae47b533271dfc1cda97530f44ecfed93748cfce
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: eaf025f8cd18a3c6fb8baeef0aee1a8d4bd49cac
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62724849"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63154903"
 ---
 # <a name="cancelling-reservation"></a>Reservierung stornieren
 
@@ -61,7 +61,7 @@ Beispiel für die Vorabreservierung:
 
 - Sie kaufen einen RI-Jahreszeitraum für $10 pro Monat
 - Am 7. April möchten Sie diese Reservierung zurückerstatten oder austauschen.
-- Seit der letzten Zahlung 7 Tage, erhalten Sie (1-7/31) * $10 zurück. (d. h. $7,74).
+- Seit der letzten Zahlung sind 7 Tage vergangen, Sie erhalten (1-7/31) * $10 zurück. (D. h. $7,74)
 - Die zukünftig stornierten Zahlungen sind $80. Derzeit gibt es kein Bußgeld für Erstattungen
 - Bei dieser Kündigung wird $87,74 von Ihrem $50.000-Erstattungslimit abgezogen.
 - Bei einem Umtausch sollte Ihr neuer Kauf größer als $87,74 sein

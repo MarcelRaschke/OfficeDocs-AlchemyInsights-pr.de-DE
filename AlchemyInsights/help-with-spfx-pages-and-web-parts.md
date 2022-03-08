@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: 89800479e5f954dbd5b5364262bb8fd1c80c8dd4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f4435f886cb6b73ef815aa5de7f5a1e8f05832c9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62639166"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63246833"
 ---
 # <a name="help-with-spfx-pages-and-web-parts"></a>Hilfe zu SPFx-Seiten und Webparts
 

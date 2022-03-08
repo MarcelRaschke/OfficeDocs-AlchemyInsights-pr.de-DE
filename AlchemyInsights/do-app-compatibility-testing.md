@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9138"
 - "9005291"
-ms.openlocfilehash: 60647064c43e5ebdf642cd43878bba2d1798796b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 19fd7e4e378cc349b95679ec3f6fbd205d813268
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62592346"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63284777"
 ---
 # <a name="do-app-compatibility-testing"></a>Durchführen von App-Kompatibilitätstests
 

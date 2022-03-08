@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
-ms.openlocfilehash: bb3aea3234f3fd15a45fa98f13b8a76755288f75
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 14e3dcb786378e9adab31b8c50b0f4773615168a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62700908"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63246941"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Haben Sie Probleme beim Herstellen Outlook zum Herstellen einer Verbindung?
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001732"
 - "3834"
-ms.openlocfilehash: 3a8b97d2f474d7f004c6dccbdce8f5b847f6f2ec
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f5fecbc6c7186fba0bb038ed21b86f435f13f540
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62576478"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63246869"
 ---
 # <a name="help-enabling-school-data-sync"></a>Unterstützung bei der Bereitstellung von School Data Sync
 

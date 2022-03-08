@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7753"
-ms.openlocfilehash: d443f48e32d449ab367831595e4a9dae99768662
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c51871f6eb22b5b66772d0fa3b03ba2a858750f1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62597998"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63085078"
 ---
 # <a name="saml-assertions-tokens"></a>SAML Assertions (Tokens)
 

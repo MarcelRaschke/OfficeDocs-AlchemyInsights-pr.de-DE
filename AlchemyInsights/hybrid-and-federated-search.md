@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: b308dda00c7c2ad9f4b7b8bc4ede1ea89ccb97ad
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1b72decb14222d2c7b10ff28cfdae8f42de32e10
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62668795"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63246545"
 ---
 # <a name="hybrid-and-federated-searches"></a>Hybrid- und Verbundsuchen 
 

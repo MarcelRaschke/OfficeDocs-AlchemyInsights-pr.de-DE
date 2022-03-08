@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: 6e9bd3041ca95e8bcb549536c9c2c6f5f6d61981
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c174cd40622c6580e32129177030216259c9cdbd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62576631"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63246905"
 ---
 # <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>HCW-Fehler (Hybrid Configuration Wizard) ACSTS50011
 

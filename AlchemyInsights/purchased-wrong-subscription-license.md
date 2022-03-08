@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
 - "9002455"
 - "4793"
 ms.date: 04/14/2021
-ms.openlocfilehash: 8858a5f9512719f1c6bdb533fcfe947c75954d69
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ba6c3c29486a46e1f7677a96db133db1bb60b6bb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62633442"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63233403"
 ---
 # <a name="purchased-wrong-subscription-license"></a>Falsche Abonnementlizenz erworben
 

@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8426"
 - "9004648"
-ms.openlocfilehash: 191c7fa990139410ce2d039e06fed09150f83130
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 98cca194634a342ee91640ce510fe45acb92f8e4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62599618"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63233691"
 ---
 # <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Azure Apps V1.2 – Phase 7: Produktfreigabe und Nachverfolgung – Bot
 

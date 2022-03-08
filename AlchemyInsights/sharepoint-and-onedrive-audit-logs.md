@@ -8,18 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1372"
 - "3100005"
-ms.openlocfilehash: 419e6cd3450c1f986340b5632cd208b80acc6ad1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: be8b285bdc8ff90f7bf68f2c3ac4178da8dabe51
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62693168"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63157567"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint und OneDrive Überwachungsprotokollen
+# <a name="sharepoint-and-onedrive-audit-logs"></a>überwachungsprotokolle SharePoint und OneDrive
 
 * [Aktivieren/Deaktivieren der einheitlichen Überwachungsprotokollierung](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 

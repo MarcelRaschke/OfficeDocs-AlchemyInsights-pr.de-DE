@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "6700002"
 - "5687"
 - "5762"
-ms.openlocfilehash: 451de902cbe27230d6cb197e8892c5362971bad1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cf09d756a0ef4db877c9bf8d48c6004d8c08a485
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62669659"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63284597"
 ---
 # <a name="help-with-intune-enrollment"></a>Hilfe zur InTune-Registrierung
 

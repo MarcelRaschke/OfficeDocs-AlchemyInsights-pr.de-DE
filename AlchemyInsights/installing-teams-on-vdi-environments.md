@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: b9aee7bfe479e8c2355a0102d304990a1b0fccb8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 11d263e9e161cd19079a362a42b5dd441476f1ed
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62721177"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63284345"
 ---
 # <a name="installing-teams-on-vdi-environments"></a>Installieren von Teams in VDI-Umgebungen
 

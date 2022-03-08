@@ -8,7 +8,7 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 3d8a7342-327e-43c1-b9a2-2b2b78651cae
 ms.custom:
 - "1693"
@@ -19,12 +19,12 @@ ms.custom:
 - "1600014"
 - "1600017"
 - "1600018"
-ms.openlocfilehash: c6e980bf353cc2d7bea0750d8fe68d13c726168b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 95352158cbda7b9e8f4c61378e55214b58644882
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62571195"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63085016"
 ---
 # <a name="service-incident-in-progress"></a>Dienstvorfall wird ausgeführt
 

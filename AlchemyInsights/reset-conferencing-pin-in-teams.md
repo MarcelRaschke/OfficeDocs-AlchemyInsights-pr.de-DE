@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5494"
-ms.openlocfilehash: bcabfc61994fa189da992468f3abf53e3eb25134
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6391c31f6a7c46619b02a72e7af19ce81b4321a6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62617453"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63085726"
 ---
 # <a name="reset-conferencing-pin-in-teams"></a>Zurücksetzen der Konferenz-PIN in Microsoft Teams
 
