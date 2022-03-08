@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 5c6af6d2127684f1c1c552a07960e122e9f60071
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c5012a5c9c7b387ea906c16e113940ab65d39fcb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62671423"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63151338"
 ---
 # <a name="troubleshooting-the-intune-policy-and-profiles"></a>Problembehandlung für die Intune-Richtlinie und -Profile
 

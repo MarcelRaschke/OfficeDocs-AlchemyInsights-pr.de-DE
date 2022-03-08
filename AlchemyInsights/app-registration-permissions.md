@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7781"
-ms.openlocfilehash: c955dde712ad54ca21da0c0744b5993211afc522
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d4a3290b084c830258c7f9a1925a5009ceccc97c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62658990"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63094870"
 ---
 # <a name="app-registration-permissions"></a>App-Registrierungsberechtigungen
 

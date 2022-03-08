@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 2d6a84da3f2e91b2167387bafc4fbefb6d8619a3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3d2287e3ba529a2c7e4ff018447420ff8cbd4938
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62722942"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63093538"
 ---
 # <a name="control-creation-of-microsoft-365-groups"></a>Steuern der Erstellung von Microsoft 365-Gruppen
 

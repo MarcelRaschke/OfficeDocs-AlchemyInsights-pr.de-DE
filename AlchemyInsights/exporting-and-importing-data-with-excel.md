@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000777"
 - "2718"
-ms.openlocfilehash: f293f9caf8a6aba1abd1b14d8c9a6ca2fbb1a34b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6e05e75849fef7cef0da96455ed49910f17eb0ea
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62758223"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63128801"
 ---
 # <a name="exporting-and-importing-data-with-excel"></a>Exportieren und Importieren von Daten mit Excel
 

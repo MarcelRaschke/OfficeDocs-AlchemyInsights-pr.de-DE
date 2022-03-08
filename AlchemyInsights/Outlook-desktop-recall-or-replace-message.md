@@ -1,5 +1,5 @@
 ---
-title: Outlook Desktop-Rückruf oder Ersetzen einer E-Mail-Nachricht
+title: Outlook Desktop- Rückruf oder Ersetzen einer E-Mail-Nachricht
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,19 +9,19 @@ ms.topic: article
 ms.service: o365-administration
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: bc6a11a4cf924f98616d1aa89e202c6d1635c32e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.localizationpriority: medium
+ms.openlocfilehash: e4d50e3b25114b9cc2775aa6edbfc2586041812c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62566564"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63095806"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Rückruf oder Ersetzen einer Outlook E-Mail-Nachricht
 
 - Als Administrator können Sie **Nachrichten im Namen von Benutzern mithilfe von PowerShell zurückrufen**. Sie können keine Nachrichten aus dem Admin Center abrufen.
 - Sie können **sich nur an Nachrichten erinnern, die an Personen in Ihrer Organisation gesendet werden**. Wenn die Nachricht beispielsweise an eine Gmail-Adresse gesendet wurde, können Sie sie nicht mehr merken.
-- Sie können **nur Nachrichten zurückrufen, die von Outlook 2016 auf dem PC gesendet wurden**. Wenn ein Benutzer eine Nachricht mit Outlook für Mac oder Outlook im Web sendet, können Sie sie nicht mehr merken.
+- Sie können **nur Nachrichten abrufen, die von Outlook 2016 auf dem PC gesendet wurden**. Wenn ein Benutzer eine Nachricht mit Outlook für Mac oder Outlook im Web sendet, können Sie sie nicht mehr merken.
 
 So rufen Sie eine E-Mail-Nachricht zurück oder ersetzen sie:
 

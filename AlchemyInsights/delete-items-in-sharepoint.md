@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
-ms.openlocfilehash: 601c0bfcf4441a20f6a50dab632ecacc15be067b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bc7420d864b7c770664ce3f3bac3c6cfb323dfea
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62607143"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63130457"
 ---
 # <a name="delete-items-in-sharepoint"></a>Löschen von Elementen in SharePoint
 

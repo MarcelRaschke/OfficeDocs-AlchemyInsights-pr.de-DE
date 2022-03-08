@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 563c1541-b4d3-4f7a-aaec-8b3b1477e517
-ms.openlocfilehash: e50f90f9cb480ab4485d2e817d31a496ed3b15c9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0f8bdbd2d0462e6ea0f78aecf02c613b2784037b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62595154"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63095169"
 ---
 # <a name="create-email-signatures"></a>Erstellen von E-Mail-Signaturen
 

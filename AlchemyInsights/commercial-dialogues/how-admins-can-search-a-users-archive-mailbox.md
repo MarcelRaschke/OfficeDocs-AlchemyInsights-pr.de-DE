@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: af346c6e978cd535dbacaf2c57bc15ca830b7f02
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b558b4cd7924e14f1eda214adb7ac19c902de78d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62624460"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63093898"
 ---
 # <a name="how-admins-can-search-a-users-archive-mailbox"></a>So können Administratoren das Archivpostfach eines Benutzers durchsuchen
 

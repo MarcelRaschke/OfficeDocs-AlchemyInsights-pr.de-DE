@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: cb749257efd4d693ce64cdcc1049ba0d45ad6dd7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d1fd9ff3c1be7dc15d6d67441f04c998991a40a5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62655546"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63151014"
 ---
 # <a name="turn-on-mailbox-auditing"></a>Aktivieren der Postfachüberwachung
 

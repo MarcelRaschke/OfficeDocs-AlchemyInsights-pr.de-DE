@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 764a09b962136dce97af980f4ae140ceae8f4e0f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 27fb90dd32fb28f9957adbcb99d2ca9f0dc900a5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62687876"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63093646"
 ---
 # <a name="recall-or-replace-email-message"></a>E-Mail-Nachricht zurückrufen oder ersetzen
 

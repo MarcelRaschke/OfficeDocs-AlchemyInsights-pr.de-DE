@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "168"
 - "1200029"
-ms.openlocfilehash: d5ec4d0580be9405e052d27ca5bc45ba551953ca
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 290afa0e2cc9236372d0538d0a3037e7f5c8f0ea
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62654502"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63093070"
 ---
 # <a name="control-who-creates-microsoft-365-groups-and-microsoft-teams"></a>Steuern, wer Microsoft 365-Gruppen und Microsoft Teams erstellen kann
 

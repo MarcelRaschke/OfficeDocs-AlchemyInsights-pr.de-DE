@@ -1,5 +1,5 @@
 ---
-title: 8000006 Ändern des Profilnamens in Outlook.com
+title: 8000006 Profilnamen in Outlook.com ändern
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: 8000006
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
-ms.openlocfilehash: 975a451051013a0cc805fd746f0ea94f6ccc364d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2b75b79bfebb0b213cd0bf0c8d90e380276e3376
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62673367"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63154435"
 ---
 # <a name="change-your-profile-name"></a>Ändern des Profilnamens
 

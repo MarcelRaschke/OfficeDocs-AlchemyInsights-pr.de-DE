@@ -8,15 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 41d9475a325a43200021752742eb31b1f427bdcc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: edee5343269b6503367454fb694ce6cea3708eef
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62748647"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63132617"
 ---
 # <a name="connected-experience-with-office-add-ins"></a>Verbundene Erfahrung mit Office-Add-Ins
 

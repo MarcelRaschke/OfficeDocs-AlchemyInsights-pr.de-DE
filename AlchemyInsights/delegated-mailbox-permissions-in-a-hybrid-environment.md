@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "685"
 - "3500009"
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: 92e7c336b2181838491a33ae85f6f1be45720224
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1b88ce982635ae214f16a58761a1c61cb7f5dcae
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62736245"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63130997"
 ---
 # <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Delegierte Postfachberechtigungen in einer Hybridumgebung
 

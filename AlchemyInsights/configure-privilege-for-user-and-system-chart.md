@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002928"
 - "5607"
-ms.openlocfilehash: e30c5f5d3f63039d65a6db6516657ed171584e37
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f3713132d33985cdc453f8b54e851f0d90ab421a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62701952"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63144390"
 ---
 # <a name="configure-privilege-for-user-and-system-chart"></a>Konfigurieren von Berechtigungen für Benutzer- und Systemdiagramme
 

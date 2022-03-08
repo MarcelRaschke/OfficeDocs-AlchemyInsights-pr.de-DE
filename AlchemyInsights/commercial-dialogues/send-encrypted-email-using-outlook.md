@@ -8,21 +8,21 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: c2f8e4e72576e90d2f97139ab90a785e10963691
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7808faf08ca6236cd06a48cd95d56332c2f68bb4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62712717"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63093754"
 ---
 # <a name="send-encrypted-email-using-outlook"></a>Senden verschlüsselter E-Mails mit Outlook
 
-Benutzer können E-Mail-Nachrichten von Fall zu Fall verschlüsseln, indem sie Outlook ohne zusätzliche Einrichtung verwenden. Führen Sie dazu die folgenden Schritte aus:
+Benutzer können E-Mail-Nachrichten von Fall zu Fall mithilfe von Outlook verschlüsseln, ohne dass eine zusätzliche Einrichtung erfolgt. Führen Sie dazu die folgenden Schritte aus:
 
 1. In der Outlook App: a. Erstellen Sie eine E-Mail-Nachricht, und wählen Sie **Optionen > Verschlüsseln** aus. 
     b. Klicken Sie entweder **auf "Nur verschlüsseln"** oder " **Nicht weiterleiten"**.

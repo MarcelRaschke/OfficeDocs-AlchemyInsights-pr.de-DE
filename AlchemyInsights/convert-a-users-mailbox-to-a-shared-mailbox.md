@@ -1,24 +1,22 @@
 ---
 title: Konvertieren eines Benutzerpostfachs in ein freigegebenes Postfach
-ms.author: cmcatee
 author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "624"
 - "3500003"
-ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 85bb7410a94585d39978b730c12e7480a5939688
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+- "624"
+ms.openlocfilehash: f3e108b2ed982856aa1c1077336f37c6db9a9fca
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62624100"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63132329"
 ---
 # <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Konvertieren eines Benutzerpostfachs in ein freigegebenes Postfach
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004394"
 - "7923"
-ms.openlocfilehash: 9e6a52116c2f73d6e1b232ae807f59026553febc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4aca8ad6e903a722ae8b50c9c9c35d68df9f366a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62737505"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63144426"
 ---
 # <a name="configure-ldap"></a>Konfigurieren von LDAP
 

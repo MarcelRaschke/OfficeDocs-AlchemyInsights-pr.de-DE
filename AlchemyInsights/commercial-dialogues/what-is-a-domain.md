@@ -8,21 +8,21 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 7946ef47bf3a3bc47fba0f24a31e7a809a465064
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f90b16d86e3604aecda2e18aee8d4094d7acabfb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62670955"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63145038"
 ---
 # <a name="whats-a-domain"></a>Was ist eine Domäne?
 
-Eine Domäne ist der Teil Ihrer E-Mail-Adresse, der sich hinter dem @-Symbol befindet. In der Adresse rob@contoso.com ist die Domäne beispielsweise **contoso.com**. Die meisten Unternehmen bevorzugen es, ihren eigenen Domänennamen in ihrer E-Mail-Adresse zu verwenden.
+Eine Domäne ist der Teil Ihrer E-Mail-Adresse, der sich hinter dem @-Symbol befindet. Beispielsweise wird die Domäne in der Adresse rob@contoso.com **contoso.com**. Die meisten Unternehmen bevorzugen es, ihren eigenen Domänennamen in ihrer E-Mail-Adresse zu verwenden.
 
 Im Folgenden sind einige Tipps zu Domänen aufgeführt:
 

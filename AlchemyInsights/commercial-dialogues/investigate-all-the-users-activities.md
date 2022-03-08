@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 0a78a4a550833adb678abfd01bed977ba4a45e02
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 34a50163bcd0091ab5c4936b2d9187160ec2949d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62624424"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63093862"
 ---
 # <a name="investigate-all-the-users-activities"></a>Untersuchen aller Aktivitäten der Benutzer
 

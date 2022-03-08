@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: 063ac0425a3548c3e12b0177a5340dcc3ba65c87
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a7bd45e420406fae62b56b165c9a07154f4f4286
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62735934"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63130385"
 ---
 # <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Löschen von Elementen oder Leeren des Papierkorbs einer SharePoint-Website 
 

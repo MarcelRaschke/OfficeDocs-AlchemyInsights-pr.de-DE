@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "857"
 - "8000052"
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: 5312072c9e27e4b104737e60b97208b4cd69c9be
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7619957e05d188b4ab1779b56a80c4dd1bb1f22a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62674447"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63094618"
 ---
 # <a name="how-to-attach-files-in-outlook"></a>So fügen Sie Dateien in OUtlook an 
 

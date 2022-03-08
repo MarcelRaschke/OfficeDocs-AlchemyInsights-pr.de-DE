@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 593146319f00cdb230d9ad879e81f43265c85846
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b29143ff6224df333104d0aa5c20469d67a9a8cc
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62567487"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63113608"
 ---
 # <a name="401-unauthorized-error-in-sharepoint"></a>„401 Nicht autorisiert“-Fehler in SharePoint
 

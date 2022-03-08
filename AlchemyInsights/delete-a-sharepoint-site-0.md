@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: a623d5bc0a6fe1d637ec002d993e5e7b109cde1d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cfcd9ac03c20886c816eec8c7fba3ab0155822d3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62687073"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63130853"
 ---
 # <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Löschen von Websites, die zu einer Microsoft 365 Gruppe gehören
 
@@ -27,7 +27,7 @@ Wenn Benutzer eine neue Teamwebsite über SharePoint Home oder eine neue Teamweb
     
 2. Aktivieren Sie das Kontrollkästchen neben der Gruppe.
     
-3. Wählen Sie **Löschen** aus.
+3. Klicken Sie auf **Löschen**.
     
 HINWEIS: Wenn Sie eine Gruppe löschen, kann es zu einer Verzögerung kommen, bevor die Website aus SharePoint entfernt wird.
   

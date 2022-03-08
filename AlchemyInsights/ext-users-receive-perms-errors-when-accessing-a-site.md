@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "7521"
-ms.openlocfilehash: a8f9b7593566e14b09f50f205e11e14dff91bfc2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d64fa9a65bedac8a66f750b2d76ab1e2529bf5f5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62554347"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63128765"
 ---
 # <a name="external-users-receive-permission-errors-when-accessing-a-site"></a>Externe Benutzer erhalten Berechtigungsfehler beim Zugriff auf eine Website
 

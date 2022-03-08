@@ -1,5 +1,5 @@
 ---
-title: Beheben von Microsoft 365 Apps keine Office-Lizenzen zugeordnete Nachricht finden konnten
+title: Beheben Microsoft 365 Apps konnte keine Office-Lizenzen zugeordnete Nachricht finden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 7519e4c6f54add17a4203490e85989b957b7f22b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 19b7868c4dd29e14e85ccda1223015a7a4db29cf
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62592958"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63132185"
 ---
-# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Beheben der Meldung "Office-Lizenzen wurden nicht gefunden" Microsoft 365 Apps
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>Beheben der Meldung "Office-Lizenzen konnten nicht gefunden werden" Microsoft 365 Apps
 
 Wenn Sie diese Nachricht erhalten, versuchen Sie Folgendes:
 

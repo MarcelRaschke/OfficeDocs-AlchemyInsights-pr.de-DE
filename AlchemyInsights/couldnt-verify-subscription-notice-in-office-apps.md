@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 365c57340e2c0a75268c8e283019edc68511c1d0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b78b3d05206b92e226beb802b28c8a87c22b5186
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62640840"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63132149"
 ---
 # <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Die Benachrichtigung "Abonnement konnte nicht überprüft werden" in Microsoft 365-Apps
 

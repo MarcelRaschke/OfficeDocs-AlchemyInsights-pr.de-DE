@@ -6,16 +6,16 @@ manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 0ed1eed00a3a135fcfeae1c943218a6349293f06
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 265b16f96b02050c709dd3aab2a0bd1b35b93738
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62567199"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63113464"
 ---
 # <a name="change-your-password-in-outlook"></a>Ändern Ihres Kennworts in Outlook
 

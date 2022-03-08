@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: c620eb4c8ef78de8c7fcd780947e87b4c3c05d55
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 801a13ba4f32eb153d2604c71f1d830c21687585
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62641344"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63093574"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Festlegen von "ClientAccessServerEnabled" auf "True"
 

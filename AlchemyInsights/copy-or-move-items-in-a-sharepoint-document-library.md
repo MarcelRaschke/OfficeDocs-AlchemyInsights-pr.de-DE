@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 285693d06cea6b129311bac267ff527e7965bc88
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 295a9a2bcea5f64e09db8c8cc9eb0b26e747f3ff
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62593066"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63132293"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopieren oder Verschieben von Elementen in einer SharePoint Dokumentbibliothek
 
@@ -31,7 +31,7 @@ Sie können Dateien, Ordner und Links zu verschiedenen Speicherorten in einer Do
   
 2. Wählen **Sie unter "Ziel auswählen**" den Speicherort aus, an den Sie die Elemente kopieren oder verschieben möchten, oder klicken Sie auf **"Websites durchsuchen** ", um die vollständige Liste der Websites anzuzeigen.
 
-    **Hinweis**: Wenn beim Kopieren von Elementen keine anderen Websites aufgeführt werden, wurde das Kopieren auf allen Websites nicht konfiguriert. Um es zu aktivieren, wechseln Sie zur Einstellungsseite des SharePoint Admin Center, und klicken Sie auf **"OK**".
+    **Hinweis**: Wenn beim Kopieren von Elementen keine anderen Websites aufgeführt werden, wurde das Kopieren auf allen Websites nicht konfiguriert. Um es zu aktivieren, wechseln Sie zur Einstellungsseite des SharePoint Admin Centers, und klicken Sie auf **"OK**".
   
     Um einen neuen Ordner zu erstellen, wählen Sie einen Speicherort in der Ordnerhierarchie aus, klicken Sie auf **"Neuer Ordner**", geben Sie einen Namen für den Ordner ein, und klicken Sie auf das Häkchen, um den Namen zu speichern.
 

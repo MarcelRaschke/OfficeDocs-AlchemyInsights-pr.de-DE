@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004335"
 - "7737"
-ms.openlocfilehash: 5ce063579e0978ed8da1befd7f0a5705b201ec61
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 65e93813ff8c59fae019ec12cda0786f93c9a260
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62735993"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63130169"
 ---
 # <a name="delete-or-restore-applications"></a>Löschen oder Wiederherstellen von Anwendungen
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f75d9ddeae1006599b3e7c1e9ced17cbb0987e80
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bcc45c96088b070ea1bad8e328564b980a1df1f6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62672611"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63154291"
 ---
 # <a name="create-an-email-signature-template"></a>Erstellen einer E-Mail-Signaturvorlage
 

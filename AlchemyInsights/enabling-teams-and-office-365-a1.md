@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001724"
 - "3823"
-ms.openlocfilehash: 0ffebbf598ff42cce43dee5eff53244ce2f91668
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 571c8b641e9dbd5cbcdc1466c025587480970319
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62759051"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63129413"
 ---
 # <a name="enabling-teams-and-office-365-a1"></a>Aktivieren von Teams und Office 365 A1
 

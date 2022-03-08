@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 6c3c4ca9cdedfc8b4209bf7b7eab559e59cfba6b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ff693df8fa747f2da5ecaaac22928e07cb3e0e19
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62556291"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63130637"
 ---
 # <a name="delete-an-account-picture-in-windows-10"></a>Löschen eines Kontobilds in Windows 10
 

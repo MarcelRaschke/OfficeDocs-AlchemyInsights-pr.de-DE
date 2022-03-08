@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: b5e67f6f209c7ce98e6ae4a5a2d5a0b1ee938902
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 33280a944670d33a39b730d00d45e7a708bc2c4a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62611139"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63094546"
 ---
 # <a name="authentication-issues"></a>Authentifizierungsprobleme
 

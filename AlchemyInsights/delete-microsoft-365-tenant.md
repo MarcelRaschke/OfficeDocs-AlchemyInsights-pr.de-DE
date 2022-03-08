@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - "9002250"
 - "4355"
 ms.assetid: ''
-ms.openlocfilehash: f1a33b5b8449b8b3aa937f951045afd6dea755c8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8cff682fa907fe0b84ff6567ddd69cb48dcc65c3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62736029"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63130349"
 ---
 # <a name="delete-microsoft-365-tenant"></a>Löschen des Microsoft 365-Mandanten
 

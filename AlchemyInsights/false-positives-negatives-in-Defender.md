@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9007385"
 - "12446"
-ms.openlocfilehash: 0b15e0bd8641d4dc4ca27ed2f9ef8e9ee964d1af
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d2c7679e9773f8a72e1f6ee8fd2965f70fe275a2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62591302"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63128729"
 ---
 # <a name="address-false-positivesnegatives-in-microsoft-defender-for-endpoint"></a>Beheben von falsch positiven/negativen Ergebnissen in Microsoft Defender für Endpunkt
 

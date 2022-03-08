@@ -8,20 +8,20 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9006721"
 - "11520"
-ms.openlocfilehash: 2fdb3598e4dfbc75240c8da8b07a1d1effdd4041
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c78db6e146901db934a345b22fbefc16586e86af
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62566803"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63095878"
 ---
 # <a name="internet-explorer-ie-mode-configuration"></a>Konfiguration des Internet Explorer -Modus (IE)
 
-Wenn Sie bereits Microsoft Edge bereitgestellt haben und den IE-Modus konfigurieren möchten, finden Sie im Leitfaden zum Ermitteln und Konfigurieren von Websites, die den IE-Modus erfordern, die Skripts zum Automatisieren der Konfiguration von Enterprise Site Discovery. 
+Wenn Sie bereits Microsoft Edge bereitgestellt haben und den IE-Modus konfigurieren möchten, enthält die Anleitung zum Ermitteln und Konfigurieren von Websites, die den IE-Modus erfordern, die Skripts zum Automatisieren der Konfiguration von Enterprise Site Discovery. 
 
 Erfahren Sie mehr über den IE-Modus und erhalten Sie Empfehlungen von einem cloudbasierten Tool, mit dem Sie eine Enterprise Mode Site List erstellen können, die Sie Für Ihre Benutzer bereitstellen können. Ausführliche Informationen finden [Sie im Leitfaden zum Ermitteln und Konfigurieren von Websites, die den IE-Modus erfordern](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/configureiemode).

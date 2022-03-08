@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1743"
 - "9000140"
-ms.openlocfilehash: 9847738f87e885b4ac10fb193e645bba323f7a23
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 22e94d75c59e1bb0e9b5c5ce3da0be7bec9e4830
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62654538"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63132509"
 ---
 # <a name="control-automatic-updates-for-office-apps"></a>Steuern automatischer Updates für Office-Apps
 
