@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "612"
 - "3800010"
 ms.assetid: 390e208c-6f7f-4430-86b1-068f66ea3243
-ms.openlocfilehash: e4cea1396039fb491c66923d64dec779b7742881
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 986f71e9435fc7be214a0a4e018969917497a9a2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62650079"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63256013"
 ---
 # <a name="learn-about-using-public-folders-in-outlook"></a>Informationen zur Verwendung öffentlicher Ordner in Outlook
 

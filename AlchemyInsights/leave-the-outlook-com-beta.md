@@ -1,5 +1,5 @@
 ---
-title: 8000035 Outlook.com beta verlassen
+title: 8000035 Leave the Outlook.com beta
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -8,7 +8,7 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "795"
 - "796"
@@ -19,12 +19,12 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 530ed031c15ddef819377e19e30d219f8ae4462c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0b5c0ea1a513fba6335a0d2513cb423ef6ed267c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62636767"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63255905"
 ---
 # <a name="the-new-outlookcom"></a>Die neue Outlook.com
 

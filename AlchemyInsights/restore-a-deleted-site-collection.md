@@ -7,22 +7,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 37877587bf21ff2fd3e5bc1d307ccd4cab739975
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6b1be895640c5e402b3c7f90dc4765584fead37e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62752897"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63244997"
 ---
 # <a name="restore-a-deleted-site"></a>Wiederherstellen einer gelöschten Website
 
 Wenn ein Administrator eine SharePoint Website löscht, wird sie im Papierkorb der Websitesammlung abgelegt, wo sie 93 Tage lang aufbewahrt wird, bevor sie endgültig gelöscht wird. So stellen Sie die Website wieder her
   
-1. Klicken Sie im neuen SharePoint Admin Center auf dem Menüband auf **den Papierkorb**. 
+1. Klicken Sie im neuen SharePoint Admin Center auf dem Menüband auf **"Papierkorb**". 
     
 2. Aktivieren Sie das Kontrollkästchen neben der Websitesammlung, die Sie wiederherstellen möchten.
     

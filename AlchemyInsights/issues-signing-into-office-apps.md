@@ -1,5 +1,5 @@
 ---
-title: Probleme bei der Anmeldung bei Microsoft 365-Apps
+title: Probleme beim Anmelden bei Microsoft 365 Apps
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2559"
-ms.openlocfilehash: a65a1e8c837aa0db6791e1c087a231747dd4271c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6fac7f3152ac4bce2af5e04a7374a05a1374204e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62621508"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63256193"
 ---
 # <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Beheben der Meldung "Das vertrauenswürdige Plattformmodul Ihres Computers funktioniert nicht ordnungsgemäß" Microsoft 365 Apps
 

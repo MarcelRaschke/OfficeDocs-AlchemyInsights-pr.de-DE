@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: c6a2acfa8a263c09c248851ac8d98e0fe7022797
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4f815d63f6ef413b9038314296fe87eb62280f56
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62676073"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63280889"
 ---
 # <a name="using-email-profiles-with-intune"></a>Verwenden von E-Mail-Profilen mit Intune
 

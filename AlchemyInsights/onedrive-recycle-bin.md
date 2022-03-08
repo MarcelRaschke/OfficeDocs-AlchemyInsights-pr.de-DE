@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002305"
 - "4476"
-ms.openlocfilehash: 492b5c1a9c95d9ca0ebf1860bfc232407e71cdc6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5f606af09943faf03249cb152e0147bfa55552dc
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62730088"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63234303"
 ---
 # <a name="onedrive-recycle-bin"></a>OneDrive-Papierkorb
 

@@ -8,14 +8,14 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 44f13408c716fe58988865128d322a18393e94e8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3f1ef4ed55d6d2999e280e91284387ce9e379b62
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62717325"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63245393"
 ---
 # <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Ändern Des Profilbilds in Outlook im Web
 

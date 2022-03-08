@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: 2a1613149cce40e4ddaa3806653b64bb824db9db
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3e886aeb8e9e3851e0f23030ef4fb8f4ba0d1779
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62693924"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63244637"
 ---
 # <a name="save-sitelist-template-button-not-available-or-missing"></a>Schaltfläche "Website-/Listenvorlage speichern" nicht verfügbar oder fehlt
 

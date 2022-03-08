@@ -1,5 +1,5 @@
 ---
-title: tastenkombinationen für 8000087 Outlook.com
+title: Tastenkombinationen 8000087 Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,14 +8,14 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 8000087
-ms.openlocfilehash: 284dfc412b2adbf6c3f8ad5803bd19f426df9b9e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d52d1478c67d6452a71ffddbd4efa907c8469caa
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62601094"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63233979"
 ---
 # <a name="keyboard-shortcuts-in-outlookcom"></a>Tastenkombinationen in Outlook.com
 

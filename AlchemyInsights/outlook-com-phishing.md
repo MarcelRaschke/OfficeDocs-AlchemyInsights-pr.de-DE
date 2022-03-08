@@ -11,13 +11,13 @@ ms.custom:
 - "1895"
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: da27c83970ba3485f55091d58c1c3fcecf408b0b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.localizationpriority: medium
+ms.openlocfilehash: 0a6cb142d75308efa51f7e59afa04fb4abd24572
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62587703"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63294959"
 ---
 # <a name="how-to-deal-with-a-phishing-email"></a>Umgang mit einer Phishing-E-Mail
 

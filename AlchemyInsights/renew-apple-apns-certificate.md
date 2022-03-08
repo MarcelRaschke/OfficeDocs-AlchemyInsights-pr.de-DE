@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3542"
-ms.openlocfilehash: b478450bf3b6ce354c6a8df1c772978a02c5fb12
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: eba20f0ea08b993a68798d0a037240554e3dabb1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62598911"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63245177"
 ---
 # <a name="renew-apple-apns-certificate"></a>Verlängern des Apple APNS-Zertifikats
 

@@ -8,20 +8,20 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: 90513c54e5d9780f808d1ac501c893ef6a517cff
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ba8fb8f06fd6183b2c83a6cac71cfcd82e683cf5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62665231"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63294647"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Wann werden meine Profiländerungen mit der SharePoint Benutzerprofilanwendung synchronisiert?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Wann wird mein Profil mit der SharePoint Benutzerprofilanwendung synchronisiert?
 
-SharePoint Online verwendet den Active Directory-Importzeitgeberauftrag (AD Import), um Benutzer und Gruppen in die Benutzerprofilanwendung zu importieren. 
+SharePoint Online verwendet den Active Directory-Importzeitgeberauftrag (AD-Import), um Benutzer und Gruppen in die Benutzerprofilanwendung zu importieren. 
   
-1. Der AD-Import synchronisiert Änderungen aus dem SharePoint Onlineverzeichnis Store mit der Benutzerprofilanwendung. Diese Änderungen werden in Batches verarbeitet.
+1. Der AD-Import synchronisiert Änderungen aus dem SharePoint Online directory-Store mit der Benutzerprofilanwendung. Diese Änderungen werden in Batches verarbeitet.
     
 2. Der Zeitgeberauftrag wird ausgeführt, bis die Änderungen synchronisiert werden.
     

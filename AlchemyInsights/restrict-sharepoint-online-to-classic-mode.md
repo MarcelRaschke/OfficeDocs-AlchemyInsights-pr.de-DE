@@ -8,18 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
 ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 25b59f7b8dc6416fa7d7ab96ec02fe5b90d1b78d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d0ffd1a862e72c9ed46e48def4b2b71c304dc087
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62694644"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63244781"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Einschränken SharePoint Online auf den klassischen Modus
 

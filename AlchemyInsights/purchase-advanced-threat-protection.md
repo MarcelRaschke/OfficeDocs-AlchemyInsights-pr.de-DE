@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
 ms.date: 08/10/2021
-ms.openlocfilehash: 3d89c942d8d7a2709a3133b3821e1b2acdb44055
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d9708c40e94123e18e6cb56289a4d3ddb93ad499
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62647860"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63294283"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Microsoft Defender für Office 365 kaufen
 

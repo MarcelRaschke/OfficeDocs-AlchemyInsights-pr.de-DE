@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: da101e3419efffcbb3b0216306fa6fa5020351bc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 01dc77361a1d1f4bd57747f17ca2d3460f8e328d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62585470"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63244385"
 ---
 # <a name="self-service-purchase-of-powershell"></a>Self-Service-Kauf von PowerShell
 

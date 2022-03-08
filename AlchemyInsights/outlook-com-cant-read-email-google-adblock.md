@@ -1,5 +1,5 @@
 ---
-title: E-Mails Outlook.com in Google Chrome können nicht mit AdBlock gelesen werden
+title: E-Mail-Outlook.com kann in Google Chrome nicht mit AdBlock gelesen werden
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "8000048"
 - "814"
-ms.openlocfilehash: d571ce21375f6a60964a46892fcc9f2362964977
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0266d7d2ad8154745679811257e5bf68d0d3f73c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62719430"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63234159"
 ---
 # <a name="cant-read-email-in-google-chrome-with-adblock"></a>E-Mails können in Google Chrome nicht mit AdBlock gelesen werden
 

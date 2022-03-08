@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_licensing
 - "9002459"
 - "4764"
 ms.date: 04/14/2021
-ms.openlocfilehash: 7337079bf3d7b45b8e0c406e67bfae8327e8ed99
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0671c4f67f3b0871baabb87c9c7aaeb9ac411fce
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62636764"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63255869"
 ---
 # <a name="license-not-working"></a>Die Lizenz funktioniert nicht
 

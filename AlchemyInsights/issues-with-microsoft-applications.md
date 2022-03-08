@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7844"
-ms.openlocfilehash: 772d595386d85bb5cd9e6aca8e3ecb4e3bece910
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0d120875252ee3aa9bb8d32fb53ea98ae5221617
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62720651"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63256049"
 ---
 # <a name="issues-with-microsoft-applications"></a>Probleme mit Microsoft-Anwendungen
 

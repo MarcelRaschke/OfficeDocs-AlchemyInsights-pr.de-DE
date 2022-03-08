@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "3202"
 - "9001221"
-ms.openlocfilehash: cb45fae87f579f178baf9aedc38eac046b1189eb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f3c459b161746e3455fe0abd171b5a303fce1563
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62632614"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63244457"
 ---
 # <a name="seeing-a-false-alert"></a>Anzeigen einer falschen Warnung
 

@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a38951cf7a82096e8a6effda7768bd94b204d5b1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4d4f96b47a35ceed0e61b0045f663deaa4af133d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62617908"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63245105"
 ---
 # <a name="repair-pst-or-ost-files"></a>Reparieren von PST- oder OST-Dateien
 
