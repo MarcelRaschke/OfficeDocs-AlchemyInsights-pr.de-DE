@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003997"
 - "7057"
-ms.openlocfilehash: 32a0ba46e93065d5ba43079c240032c715528175
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0e4ac7cf3cb24ec6fa30e3b24cfd21e58d4a68c0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62594398"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63208976"
 ---
 # <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>Richtlinieneinstellungen für Android-Apps in Microsoft Intune
 

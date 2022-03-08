@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 4efcc462a1f9f1ad9d3a74547d456237ce6f03bb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cdd555d734d57f7c77a456b5e096437139d52c93
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62688092"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63207104"
 ---
 # <a name="create-a-sensitivity-label"></a>Erstellen einer Vertraulichkeitsbezeichnung
 

@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - "9002245"
 - "4349"
 ms.assetid: ''
-ms.openlocfilehash: c8da48df54139598df9bb4e91092bd6d6299d65d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3d0e38d21d030d190846475b38b303fdc01ac1c5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62625873"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63208400"
 ---
 # <a name="buy-a-domain-name-in-microsoft-365"></a>Erwerben eines Domänennamens in Microsoft 365
 

@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: 84f9a51d882bb99e85ad3cfc59083998e94d2dc1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d0cfc46698378dae1a802873625e483484c83fc5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62609555"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63207572"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>Ändern des Domänennamens in SharePoint Online
 

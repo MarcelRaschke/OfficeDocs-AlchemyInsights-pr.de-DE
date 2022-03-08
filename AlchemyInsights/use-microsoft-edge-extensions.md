@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004621"
 - "8313"
-ms.openlocfilehash: 0e93da6c2e865e266875d8450bbd675bd2820c49
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 92fecd15e6cf1ebdfd8c50c0845463f55020cd20
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62725353"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63165451"
 ---
 # <a name="use-microsoft-edge-extensions"></a>Verwenden Microsoft Edge Erweiterungen
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6112"
 - "9003231"
-ms.openlocfilehash: a0789f4bea0fde04dcb214384e47c322e2166288
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a2a7be9282e520e36de76820ca4d5e713ec56b3a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62626097"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63163615"
 ---
 # <a name="bulk-delete-user"></a>Massenlöschung von Benutzern
 

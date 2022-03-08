@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: 7de224d27722eb6b30a5c63911a25f0173c7fd46
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c5b357ae5377ada924af350aa5f17df42b0a5c99
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62739233"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63162427"
 ---
 # <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>Vermeiden, dass mehrere Signaturen in einer E-Mail-Unterhaltung hinzugefügt werden
 

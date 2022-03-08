@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f8c1f48fa0291f739d25d535e2111535eac6943d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: aca20626b1cd6e824bf4ebdbd39d1dd8be45ca48
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62656878"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63207032"
 ---
 # <a name="create-a-signature-in-outlook-for-mac"></a>Erstellen einer Signatur in Outlook für Mac
 

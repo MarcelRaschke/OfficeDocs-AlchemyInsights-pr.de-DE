@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 797a08565196cbae65a344a56ce88b9e36fe5026
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f1507e7a79d5d3ab5837af5e10c38435b3c5c947
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62749007"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63162463"
 ---
 # <a name="assign-the-security-administrator-permission"></a>Zuweisen der Berechtigung „Sicherheitsadministrator“
 

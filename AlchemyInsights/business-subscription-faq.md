@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
@@ -23,12 +23,12 @@ ms.custom:
 - "9002661"
 - "5161"
 ms.date: 07/31/2021
-ms.openlocfilehash: a0584b99fe68445d5179d0f2e22a4d4d2e57418e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 51a55e010dd18c4a9161b5394c7d129ac211b0db
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62625945"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63163579"
 ---
 # <a name="business-subscription-faq"></a>Häufig gestellte Fragen zu Business-Abonnements
 

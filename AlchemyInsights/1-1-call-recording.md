@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 731dfd77ca093fb92027efc9c338ec1dae2d326b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d9035ab90cebfeeab28ecbb97d963a28905b3f2b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62595298"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63209012"
 ---
 # <a name="11-call-recording"></a>1:1-Anrufaufzeichnung
 
@@ -28,10 +28,10 @@ Ab dem 31. Mai 2021 werden wir mit der Erzwingung einer neuen Teams  *Anrufric
 
 *AllowCloudRecordingForCalls*  Die Anrufrichtlinienoption ist standardmäßig auf **$False** festgelegt. Wenn Sie die Aufzeichnung von 1:1-Anrufen für alle Benutzer blockieren möchten, müssen Sie keine Maßnahmen ergreifen.  
 
-Um die Aufzeichnung von Anrufen für alle Benutzer in 1:1-Anrufen zu aktivieren  [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install), um das folgende Cmdlet auszuführen: 
+Um die Anrufaufzeichnung für alle Benutzer in 1:1-Anrufen zu aktivieren  [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install) das folgende Cmdlet ausführen: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-Alternativ können Sie eine neue Richtlinie erstellen und **"-AllowCloudRecordingForCalls** " so festlegen, **dass sie $true** und Ihren Benutzern zugewiesen wird. 
+Alternativ können Sie eine neue Richtlinie erstellen und **"-AllowCloudRecordingForCalls** " festlegen, um diese Richtlinie zu **$true** und Ihren Benutzern zuzuweisen. 
 
 Weitere Informationen finden Sie unter ["1:1 Richtliniensteuerungen für die Aufzeichnung von Anrufen" (fast!) Hier](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).

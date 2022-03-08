@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2a645aa184d1d310eee2ab22caaf680f112b1442
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e7ce730fc8f2c53736f7b775e8e62343c26f2770
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62674411"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63163939"
 ---
 # <a name="azure-email-invoicing"></a>Azure-E-Mail-Rechnungsstellung
 

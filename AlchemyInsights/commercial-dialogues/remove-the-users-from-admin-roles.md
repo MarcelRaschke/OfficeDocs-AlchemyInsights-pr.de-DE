@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 23538e50902f8734549f15bab013ebe73256c778
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 963e8190416b01e26cb2d054f2a9b2886e8ae258
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62687948"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63161599"
 ---
 # <a name="remove-the-users-from-the-admin-roles"></a>Entfernen der Benutzer aus den Administratorrollen
 

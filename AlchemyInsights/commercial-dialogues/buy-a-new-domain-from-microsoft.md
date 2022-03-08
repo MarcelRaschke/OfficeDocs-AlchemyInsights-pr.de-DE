@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 74298eea57bb096404c0fcb7d2362929d27ade35
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fba6379a02ce02553cda583098a0c868c8850c6e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62672827"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63162355"
 ---
 # <a name="buy-a-new-domain-from-microsoft"></a>Kaufen einer neuen Domäne von Microsoft
 

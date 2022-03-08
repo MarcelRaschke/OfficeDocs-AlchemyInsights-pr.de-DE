@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1403"
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: 6c13f79c11c85455e0c26aaa8fcfbc6fb016f4f1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 89329970c7e7f89b8ad8773107393dd58c22c2b1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62690000"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63163543"
 ---
 # <a name="cant-add-default-2010-approval-workflow"></a>Standardgenehmigungsworkflow 2010 kann nicht hinzugefügt werden
 

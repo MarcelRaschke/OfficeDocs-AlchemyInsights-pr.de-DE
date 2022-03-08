@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12623"
-ms.openlocfilehash: 949274ed3f723c729c767dfe93a01180cf756dc3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e7c6595480f90912014481404418c129a2f6df9a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62626170"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63163723"
 ---
 # <a name="bulk-add-custodians-in-advanced-ediscovery"></a>Massenhinzufügen von Verwahrer in Advanced eDiscovery
 

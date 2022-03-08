@@ -1,5 +1,5 @@
 ---
-title: Beheben Absenderadresse/Domänenlistenregeln
+title: Beheben von Absenderadressen-/Domänenlistenregeln
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -7,19 +7,19 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cb9fc8ee616c200293deea94c0a7686acc8fdffd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d1ac10476305e6e499d5a505eb31e9884f03d9a5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62642136"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63206708"
 ---
-# <a name="fix-sender-addressdomain-list-rules"></a>Beheben Absenderadresse/Domänenlistenregeln
+# <a name="fix-sender-addressdomain-list-rules"></a>Beheben von Absenderadressen-/Domänenlistenregeln
 
 Eine Ihrer Antispamrichtlinien wirkte sich auf diese Nachricht aus. Der Absender der Nachricht wurde in einer Zulassungs- oder Sperrliste gefunden. Führen Sie die folgenden Schritte aus, um die Richtlinien zu überprüfen:
 

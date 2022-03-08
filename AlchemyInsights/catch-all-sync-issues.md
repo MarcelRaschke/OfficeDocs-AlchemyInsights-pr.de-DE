@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000037"
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: a29beb5382b90545d9732b6fd2af482fd03353b1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 880b51da9b64107766f1feb37df7e202f52ada12
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62558199"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63207716"
 ---
 # <a name="basic-outlook-sync-troubleshooting"></a>Grundlegende Problembehandlung bei der Outlook-Synchronisierung
 
@@ -32,4 +32,4 @@ Wenn Synchronisierungsprobleme auftreten, versuchen Sie Folgendes:
 - Stellen Sie sicher, dass der Benutzer eine Verbindung mit dem Internet herstellen kann. 
 - [Stellen Sie sicher, dass Sie online sind](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
 - [Bestimmen, ob eine Regel angewendet wird](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
-- Stellen Sie sicher, dass "**Freigegebene Ordner herunterladen"** aktiviert ist, indem Sie zu **"FileAccount** >  **Einstellungen** >  **Account Einstellungen** >  **More Einstellungen** >  **Advanced**" wechseln.
+- Stellen Sie sicher, dass "**Freigegebene Ordner herunterladen**" aktiviert ist, indem Sie zu **"FileAccount** >  **Einstellungen** >  **Account Einstellungen** >  **More Einstellungen** >  **Advanced**" wechseln.

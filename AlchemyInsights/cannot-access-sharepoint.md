@@ -8,18 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 2935bc6840ba81cf4612e115106ddad30b1841fe
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 346f9253e7b168435ac53f4ee6a6aeb89f29c38f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62643324"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63208112"
 ---
 # <a name="cannot-access-sharepoint"></a>Kein Zugriff auf SharePoint möglich
 

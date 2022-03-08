@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6020"
 - "9003210"
-ms.openlocfilehash: 400436d859c7ffba5b59928018283b9f31540321
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ef02a1b0869251a0f8f6b8dbc4ab64a09a81f282
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62724489"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63163075"
 ---
 # <a name="change-default-programs-in-windows-10"></a>Ändern von Standardprogrammen in Windows 10
 

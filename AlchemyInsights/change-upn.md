@@ -8,22 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: b5c2a70338b9a9203d6ed51b3164bdbdd32bf6f4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0e4d71e15db42d9ed1532778f99cc39a69ea5394
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62608727"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63162859"
 ---
 # <a name="change-a-users-email-address"></a>Ändern der E-Mail-Adresse eines Benutzers
 
 Das Ändern der E-Mail-Adresse einer Person ist einfach! Führen Sie einfach die folgenden Schritte aus:
   
-1. Wechseln Sie im Microsoft 365 Admin Center zur Seite ["Benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822)", oder wählen Sie "**Aktive Benutzer**\>" aus.
+1. Wechseln Sie im Microsoft 365 Admin Center zur Seite ["Benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822)", oder wählen Sie **"Aktive Benutzer** \> **" aus**.
     
 2. Wählen Sie den Benutzer aus.
     

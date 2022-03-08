@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "14097"
 - "3100006"
-ms.openlocfilehash: 00de6ecacc641a1595f319aa35842871c8431ddd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f547ad5a2695de4d7fbdb25d38d97414190fe79c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62723625"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63162751"
 ---
 # <a name="changes-to-auto-expanding-archives"></a>Änderungen an Automatisch erweiternden Archiven
 

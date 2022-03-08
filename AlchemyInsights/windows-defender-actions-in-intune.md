@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1282"
 - "6700008"
-ms.openlocfilehash: 6e64d110214c1f4ef77aea2854830f8b80a93817
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ea9c35dfeb0306895fc078d977bcf656d282ae50
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62660185"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63164911"
 ---
 # <a name="windows-defender-actions-in-intune"></a>Windows Defender-Aktionen in Intune
 

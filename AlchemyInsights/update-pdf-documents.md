@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9007101"
 - "12066"
-ms.openlocfilehash: 206213a4548f9626e86aab525a0d0eea6f9b6433
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d54d790f5cb51ec8e49d16acd6d348f14eb6e315
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62582134"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63209480"
 ---
 # <a name="update-pdf-documents"></a>Aktualisieren von PDF-Dokumenten
 

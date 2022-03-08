@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7799"
 - "9004356"
-ms.openlocfilehash: 7a76353775ffd22c4ab15913b6f30570f474841e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 09b184bc19aa04dfbe585e0e26e0707f059d0364
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62627214"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63208760"
 ---
 # <a name="application-proxy-and-certificate-issues"></a>Anwendungsproxy- und Zertifikatsprobleme
 

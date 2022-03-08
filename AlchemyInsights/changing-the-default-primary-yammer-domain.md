@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002662"
 - "5162"
-ms.openlocfilehash: 73796bbed920eb66026648c4facf572a5242a1f5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d7ef5743c37d4d917581dd7c9f91481f8a673679
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62579052"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63162679"
 ---
 # <a name="changing-the-defaultprimary-yammer-domain"></a>Ändern der standardmäßigen/primären Yammer-Domäne
 

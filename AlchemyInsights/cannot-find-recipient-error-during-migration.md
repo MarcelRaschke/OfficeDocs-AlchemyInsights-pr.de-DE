@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "13811"
 - "3500008"
-ms.openlocfilehash: 6a07881d88408f47a2fa9cc3c3d9287b6b9fa701
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e0b06adeeeb25c84f984b7af29b11bd6bd91b61b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62579745"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63207896"
 ---
 # <a name="cannot-find-a-recipient-that-has-mailbox-guid-error-during-migration"></a>Der Fehler "Empfänger mit Postfach-GUID kann nicht gefunden werden" ist während der Migration aufgetreten
 

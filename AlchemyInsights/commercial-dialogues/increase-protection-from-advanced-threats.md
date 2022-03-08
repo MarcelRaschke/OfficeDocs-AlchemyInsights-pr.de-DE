@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 96b288eb5c7e6790fa4825f0248ce729651d144b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1c8e02b5265323fcd5fe6aac8c76b40a178a7da1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62688164"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63161923"
 ---
 # <a name="increase-protection-from-advanced-threats"></a>Erhöhen des Schutzes vor erweiterten Bedrohungen
 

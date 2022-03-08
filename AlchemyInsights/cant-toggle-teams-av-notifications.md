@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003573"
 - "6652"
-ms.openlocfilehash: 45f599f4a83bdeba50f9a78bf493810bbc6d1d37
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f3cb74aa8cb943a3675711b4d57d7e5998105994
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62689748"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63163219"
 ---
 # <a name="cant-turn-teams-sound-and-visual-notifications-on-or-off"></a>Ton- und visuelle Benachrichtigungen in Teams können nicht ein- oder ausgeschaltet werden
 

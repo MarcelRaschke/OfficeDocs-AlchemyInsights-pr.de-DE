@@ -7,22 +7,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1200017"
 - "16572"
 ms.date: 01/28/2022
-ms.openlocfilehash: bc2ea0c3aa0b01a1b6fdd745656b0477561d447d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1aca1d84a443c6a481d15c65977c4665a8949873
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62626081"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63163687"
 ---
 # <a name="bulk-add-members-to-a-microsoft-365-group"></a>Massenzufügen von Mitgliedern zu einer Microsoft 365 Gruppe
 
-Nachfolgend sehen Sie einen EXO PowerShell-Befehl, mit dem Benutzer einer Microsoft 365 Gruppe in massenweiser Reihenfolge hinzugefügt werden können:
+Nachfolgend sehen Sie einen EXO PowerShell-Befehl, mit dem Benutzer einer Microsoft 365 Gruppe massenweise hinzugefügt werden können:
 
 ```PowerShell
 $users= Get-User -ResultSize unlimited | ?{$_.Department -eq "Marketing" -AND $_.RecipientType -eq "UserMailbox"}

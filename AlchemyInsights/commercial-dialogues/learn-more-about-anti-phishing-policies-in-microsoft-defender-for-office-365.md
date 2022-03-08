@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 0f9b1f69fa0fd8d1634fd1be5216c7c433ee9732
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7a14cff22434915f0474616ec64953476082263e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62761790"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63206528"
 ---
 # <a name="learn-more-about-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Weitere Informationen zu Antiphishingrichtlinien in Microsoft Defender für Office 365
 

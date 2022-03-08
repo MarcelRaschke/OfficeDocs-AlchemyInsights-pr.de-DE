@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7556"
 - "9004252"
-ms.openlocfilehash: cab7d3bc8e9b6b89a39707addf6f2b75f6d0eaed
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a1d683a407f2ebe247014f491057ed77d2baef90
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62558379"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63207969"
 ---
 # <a name="cannot-complete-upgrade-to-teamsonly"></a>Upgrade auf TeamsOnly kann nicht abgeschlossen werden
 

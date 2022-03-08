@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b643a5496fdfbf6f84d1c49ac3de4f6c62009546
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 062f39819b9a04e03520213735182b601bc0622b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62641776"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63206564"
 ---
 # <a name="install-deploy-and-configure-mdatp-on-a-linux-machine"></a>Installieren, Bereitstellen und Konfigurieren von MDATP auf einem Linux-Computer
 

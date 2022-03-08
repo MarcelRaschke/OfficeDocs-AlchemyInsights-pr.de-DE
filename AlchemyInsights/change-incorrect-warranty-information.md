@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9755"
 - "9005679"
-ms.openlocfilehash: 982c73e73b0b0a74776039a8912c6df316890ae5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1bdf14c0617bbbfa43fcf5c9437f69006605892d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62673439"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63207392"
 ---
 # <a name="change-incorrect-warranty-information"></a>Ändern der falschen Garantieinformationen
 

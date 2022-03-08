@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: f8bf792f11cf7d9924f55b29fbb58b70751b5329
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 04c931b44400e7e2f0a6d4c2e8a3878a304896cc
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62739926"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63209048"
 ---
 # <a name="user-mailbox-creation-is-taking-a-long-time"></a>Die Erstellung von Benutzerpostfächern dauert sehr lange
 

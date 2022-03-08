@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 17f9299da6d11ae8b9210599c61703a4e6957720
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1d0b2ff5132c751f93857bae5fbeaf7fbc0ad6d1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62568927"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63165271"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Benutzerberechtigungen in SharePoint und OneDrive
 

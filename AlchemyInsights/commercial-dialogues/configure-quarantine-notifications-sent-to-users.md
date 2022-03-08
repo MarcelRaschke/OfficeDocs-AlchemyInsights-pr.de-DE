@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 03bccd9bd7de4ad479e7fe1cbc03b1cc38ae1d06
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0865ec753c743b38ce68d91e98276bf7a4cc27af
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62672539"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63162175"
 ---
 # <a name="configure-quarantine-notifications-sent-to-users"></a>Konfigurieren von Quarantänebenachrichtigungen, die an Benutzer gesendet werden
 

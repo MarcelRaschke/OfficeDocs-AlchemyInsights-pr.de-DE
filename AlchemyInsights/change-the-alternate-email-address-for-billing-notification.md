@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: c13f73066bccf34c7340d43087e935e8fdff9f1c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 46efaf2634007a8b5a1f08b98c64886e5df91b57
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62723841"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63162898"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>Ändern der alternativen E-Mail-Adresse für Rechnungsbenachrichtigungen
 

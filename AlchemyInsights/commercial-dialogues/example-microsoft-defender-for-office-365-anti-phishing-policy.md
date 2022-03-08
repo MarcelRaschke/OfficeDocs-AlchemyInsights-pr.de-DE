@@ -1,5 +1,5 @@
 ---
-title: Beispiel für Microsoft Defender für Office 365 Antiphishingrichtlinie
+title: Beispiel für eine Microsoft Defender für Office 365 Antiphishingrichtlinie
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -7,19 +7,19 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 8c3d784c9c7783e7cace3d88670a9524e9760ebe
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 051823d9d7845550a1b707c55a1e1c970ebf6c32
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62738873"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63206818"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Beispiel für Microsoft Defender für Office 365 Antiphishingrichtlinie
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Beispiel für eine Microsoft Defender für Office 365 Antiphishingrichtlinie
 
 Diese Einstellungen aktivieren eine Richtlinie namens *"Domäne" und "CEO*". Diese Richtlinie bietet sowohl Benutzer- als auch Domänenschutz vor Identitätswechsel und wendet die Richtlinie dann auf alle E-Mails an, die von Benutzern innerhalb der Domäne empfangen werden. Fügen Sie zunächst die folgenden Informationen hinzu, um die Richtlinie zu erstellen:
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "5996"
 - "9003201"
-ms.openlocfilehash: 931d275f256a14baac925b30731908aefaf59c46
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 32e874bb749c2380b06b88061aa5c3c058f1a2fc
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62609663"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63207536"
 ---
 # <a name="change-a-domain-name-letter-case-or-spelling"></a>Ändern der Groß-/Kleinschreibung oder Schreibweise eines Domänennamens
 

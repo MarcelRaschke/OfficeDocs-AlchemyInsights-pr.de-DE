@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "3815"
 - "9001720"
-ms.openlocfilehash: 2aba645ef9d2724414541af9ca344242f678b76e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: aae91f516748da0c35b6cfa67ca73d68b24d74a6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62626242"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63163795"
 ---
 # <a name="blur-your-background-in-a-teams-meeting"></a>Weichzeichnen des Hintergrunds in einer Teams Besprechung
 

@@ -8,19 +8,19 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7743"
 - "9004338"
 - "9199"
 - "9004356"
-ms.openlocfilehash: f6dc9bc0e9dc14072aae8125ac7f21b479b578da
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f6db632b7c1d96c663c86df711f8efe3dfffa614
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62627250"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63208688"
 ---
 # <a name="application-proxy-url-issues"></a>URL-Probleme mit dem Anwendungsproxy
 

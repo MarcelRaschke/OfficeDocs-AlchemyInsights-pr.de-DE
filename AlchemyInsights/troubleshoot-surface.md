@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10024"
 - "9003951"
-ms.openlocfilehash: 120441b7abd886fe6ae590cec2e83c7983718868
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3ff09411305b13d674ea9e43f80411801c4ba847
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62596018"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63209732"
 ---
 # <a name="troubleshoot-surface"></a>Problembehandlung bei Surface
 

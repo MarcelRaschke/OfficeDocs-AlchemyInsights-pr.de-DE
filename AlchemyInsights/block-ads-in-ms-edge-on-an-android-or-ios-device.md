@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003856"
 - "6906"
-ms.openlocfilehash: 7c26d22b301aa8c640f4fe1888ff92cbb834d1f3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a3d1530bad3ae42bf4ea96b5eac6d50a6385f1b6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62580465"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63208544"
 ---
 # <a name="block-ads-in-microsoft-edge-on-an-adroid-or-ios-device"></a>Blockieren von Anzeigen in Microsoft Edge auf einem Adroid- oder iOS-Gerät
 

@@ -8,21 +8,21 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 3fb68b602c6c359b2d0c7f7705a5ee2283e4255b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: db999b60c5d2ed0fb9d30fe8652fabcfd0c7eb59
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62656842"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63162247"
 ---
 # <a name="configure-message-encryption-for-a-hybrid-environment"></a>Konfigurieren der Nachrichtenverschlüsselung für eine Hybridumgebung
 
-Bei Hybridumgebungen Exchange können lokale Benutzer verschlüsselte E-Mails nur dann mit Office Nachrichtenverschlüsselung (Message Encryption, OME) senden, wenn E-Mails über Exchange Online weitergeleitet werden.
+Für Hybridumgebungen Exchange können lokale Benutzer verschlüsselte E-Mails nur dann mit Office Nachrichtenverschlüsselung (Message Encryption, OME) senden, wenn E-Mails über Exchange Online weitergeleitet werden.
 
 Führen Sie die folgenden Schritte aus, um E-Mails mithilfe von OME zu verschlüsseln:
 

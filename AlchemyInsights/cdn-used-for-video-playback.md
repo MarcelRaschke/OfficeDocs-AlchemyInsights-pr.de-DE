@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5146"
-ms.openlocfilehash: 9b6caad8390cddc1d0577819fabc07b1db1e9b2a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 78c85bdabcbd21c7e48d2318531c8f0f2228a224
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62673949"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63207680"
 ---
 # <a name="cdn-used-for-video-playback"></a>Für die Wiedergabe von Videos verwendetes CDN
 

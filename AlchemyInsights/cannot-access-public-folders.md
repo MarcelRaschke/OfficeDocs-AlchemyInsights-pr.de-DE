@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 62a1b3bf2ebd40cd82ba24072a576969af330d4d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8ed08b706ecc25a9022b7771f43fefc1d2936802
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62558343"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63208148"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook keine Verbindung mit öffentlichen Ordnern herstellen
 
@@ -45,6 +45,6 @@ Wenn das Problem weiterhin besteht, führen Sie [dieses Verfahren](https://aka.m
 
 2. `Set-OrganizationConfig -PublicFolderShowClientControl $true`
 
-**Hinweis** Dieses Verfahren kann Verbindungen nur mit Outlook Desktop für Windows Clients steuern. Ein Benutzer kann weiterhin mit OWA oder Outlook für Mac auf öffentliche Ordner zugreifen.
+**Hinweis** Dieses Verfahren kann Verbindungen nur mit Outlook Desktop für Windows Clients steuern. Ein Benutzer kann weiterhin mithilfe von OWA oder Outlook für Mac auf öffentliche Ordner zugreifen.
  
 Weitere Informationen finden Sie unter [Ankündigung der Unterstützung für kontrollierte Verbindungen mit öffentlichen Ordnern in Outlook](https://aka.ms/controlpf).

@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 896cc2fa4f9a83e09cb40cbbc55ba747b1520639
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d6343a6a4829a2fa4112ed968eb339ab66d70b3c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62672899"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63207176"
 ---
 # <a name="automatically-move-email-messages-to-the-archive-mailbox"></a>Automatisches Verschieben von E-Mail-Nachrichten in das Archivpostfach
 
@@ -29,6 +29,6 @@ Hier erfahren Sie, wie Sie eine Richtlinie einrichten, um die alte E-Mail eines 
 4. Weisen Sie dem Aufbewahrungstag einen Namen zu, und wählen Sie **"In Archiv verschieben**" aus. Geben Sie für den Aufbewahrungszeitraum die gewünschte Zeit ein, z. B. 90 Tage. Klicken Sie auf **Speichern**.
 5. Erstellen Sie nun eine Aufbewahrungsrichtlinie: Wählen Sie **Aufbewahrungsrichtlinien** aus, und wählen Sie das Symbol aus, um eine neue Richtlinie hinzuzufügen.
 6. Weisen Sie der Aufbewahrungsrichtlinie einen Namen zu, klicken Und scrollen Sie, um das soeben erstellte Aufbewahrungstag zu suchen und hinzuzufügen. Klicken Sie auf **Speichern**.
-7. Wenden Sie schließlich die Aufbewahrungsrichtlinie auf das Postfach des Benutzers an: Navigieren Sie noch im Exchange Admin Center zu **"****Recipientsmailboxes** > ". Wählen Sie alle Benutzer aus, auf die Sie die Richtlinie anwenden möchten, und klicken Sie dann auf **"Bearbeiten"** (das Stiftsymbol).
-8. Klicken Sie im Dialogfeld auf **Postfachfeatures**. Wenden Sie unter **"Aufbewahrungsrichtlinie**" die Richtlinie an, die Sie gerade > **Speichern** erstellt haben.
+7. Wenden Sie schließlich die Aufbewahrungsrichtlinie auf das Postfach des Benutzers an: Wechseln Sie noch im Exchange Admin Center zu **"****recipientsmailboxes** > ". Wählen Sie alle Benutzer aus, auf die Sie die Richtlinie anwenden möchten, und klicken Sie dann auf **"Bearbeiten"** (das Stiftsymbol).
+8. Klicken Sie im Dialogfeld auf **Postfachfeatures**. Wenden Sie unter **"Aufbewahrungsrichtlinie**" die Richtlinie an, die Sie soeben > **Speichern** erstellt haben.
 9. Anweisungen zum Anwenden der Richtlinie auf alle Benutzer finden Sie unter [Anwenden einer Aufbewahrungsrichtlinie auf Postfächer](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy).

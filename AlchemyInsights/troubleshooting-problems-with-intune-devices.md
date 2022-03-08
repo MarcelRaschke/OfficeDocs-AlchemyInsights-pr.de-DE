@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003834"
 - "6851"
-ms.openlocfilehash: c3df5a9ea06b6ad71517d43107942fd3e26ed5db
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0eecc1ba4c7a92dd0e170f2bcf3cb8c9370190e3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62582733"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63209552"
 ---
 # <a name="troubleshooting-problems-with-intune-devices"></a>Problembehandlung bei Intune-Geräten
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7841"
-ms.openlocfilehash: 92e7d4bf8faa13ae6742371c394cfd003eb72746
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d565a5892651af89083b028360862e83b62db665
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62580717"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63208904"
 ---
 # <a name="application-errors"></a>Anwendungsfehler
 
@@ -64,7 +64,7 @@ Bei delegierten Codeflüssen wertet Microsoft Graph aus, ob die Anforderung basi
 
 **„403 Forbidden“: Haben Sie die richtige Ressourcen-API ausgewählt?**
 
-API-Dienste wie Microsoft Graph überprüfen, ob der Aud-Anspruch (Zielgruppe) im empfangenen Zugriffstoken mit dem wert übereinstimmt, den er für sich selbst erwartet, und wenn nicht, führt dies zu einem Fehler "403 Forbidden". Ein häufiger Fehler, der zu diesem Fehler führt, ist der Versuch, ein für Azure AD-Graph-APIs, Outlook-APIs oder Microsoft Office SharePoint Online-/OneDrive-APIs erworbenes Token zu verwenden, um Microsoft Graph aufzurufen (oder umgekehrt). Stellen Sie sicher, dass die Ressource (oder der Geltungsbereich), für die Ihre Anwendung ein Token erwirbt, mit der API übereinstimmt, die von der Anwendung aufgerufen wird.
+API-Dienste wie Microsoft Graph überprüfen, ob der Aud-Anspruch (Audience) im empfangenen Zugriffstoken mit dem wert übereinstimmt, den er für sich selbst erwartet, und wenn nicht, führt dies zu einem 403 Forbidden-Fehler. Ein häufiger Fehler, der zu diesem Fehler führt, ist der Versuch, ein für Azure AD-Graph-APIs, Outlook-APIs oder Microsoft Office SharePoint Online-/OneDrive-APIs erworbenes Token zu verwenden, um Microsoft Graph aufzurufen (oder umgekehrt). Stellen Sie sicher, dass die Ressource (oder der Geltungsbereich), für die Ihre Anwendung ein Token erwirbt, mit der API übereinstimmt, die von der Anwendung aufgerufen wird.
 
 **„400 Bad Request“ oder „403 Forbidden“: Entspricht der Benutzer die Richtlinien für den bedingten Zugriff (CA) des Unternehmens?**
 

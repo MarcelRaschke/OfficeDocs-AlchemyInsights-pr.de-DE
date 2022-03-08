@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: e01bce06c8266310c903e137eafd6bd7867e2900
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 21f713fbf2336005eb8e57c39192505c0e5d6aa3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62706381"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63206996"
 ---
 # <a name="create-an-ediscovery-case"></a>Erstellen eines eDiscovery-Falls
 

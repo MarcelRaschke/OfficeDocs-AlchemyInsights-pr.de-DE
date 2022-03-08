@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8224"
 - "9004596"
-ms.openlocfilehash: 5b389d8a8c936b4a783bbca05b67101f1f6af0f0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1ff7bde6566eff41b9f1427d6b6d282c701488dd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62690756"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63165379"
 ---
 # <a name="use-microsoft-edges-filter-format-for-url-listbased-policies"></a>Verwenden des Microsoft Edge-Filterformats für listenbasierte URL-Richtlinien
 

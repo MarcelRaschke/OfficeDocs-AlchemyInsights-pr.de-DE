@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 1cfc1075c12f00993963a9f14172efbce37850e6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e51f43853dbdf6a8f51bcb0bc60cc027e163c550
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62626363"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63163867"
 ---
-# <a name="fix-bluetooth-audio-quality-issue"></a>Beheben Bluetooth Problems mit der Audioqualität
+# <a name="fix-bluetooth-audio-quality-issue"></a>Beheben Bluetooth Audioqualitätsproblems
 
 Wenn Ihr Bluetooth Gerät verbunden ist, die Audioqualität jedoch schlecht ist, versuchen Sie Folgendes:
 
