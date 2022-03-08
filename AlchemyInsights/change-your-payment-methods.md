@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
 - "1500001"
 - "4858"
 ms.date: 04/14/2021
-ms.openlocfilehash: b968a54848ddbff2d6312bd60807f9960fca0b49
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2c1b8422e4d4fdbc06d0ee1881af9403e8d49e53
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62673223"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63187124"
 ---
 # <a name="add-update-or-remove-your-payment-methods"></a>Zahlungsmethoden hinzufügen, aktualisieren oder entfernen
 

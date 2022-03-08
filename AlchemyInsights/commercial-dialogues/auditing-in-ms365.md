@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 1e131900675a7bff6a35c6bc52414b2f83e31c1b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0dfad2bc1c4e6c4402712b14c565293b1ce55f62
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62657202"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63186656"
 ---
 # <a name="auditing-in-microsoft-365"></a>Überwachung in Microsoft 365
 

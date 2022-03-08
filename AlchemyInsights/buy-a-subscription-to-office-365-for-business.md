@@ -1,5 +1,5 @@
 ---
-title: Erwerben Eines Abonnements für Microsoft 365 for Business aus Ihrer kostenlosen Testversion
+title: Erwerben eines Abonnements für Microsoft 365 for Business aus Ihrer kostenlosen Testversion
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
@@ -16,12 +16,12 @@ ms.custom:
 - "1400007"
 ms.date: 08/10/2021
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 020a1a63dba93da5d059c1fd04974ac4335c3853
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d76d180e0f0d2a70088de5e01720baccd9706b8d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62625765"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63188132"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Erwerben eines Abonnements für Microsoft 365 aus Ihrer kostenlosen Testversion
 

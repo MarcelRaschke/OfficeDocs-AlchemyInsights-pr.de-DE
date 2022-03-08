@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004326"
 - "7825"
-ms.openlocfilehash: 94b9677697a83a2289d24cbb7a8644ddffbc5204
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 25443b6971fe6fb3983ea73bfd8b5df6f355df7f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62644332"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63188204"
 ---
 # <a name="application-connection-issues"></a>Probleme mit der Anwendungsverbindung
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9808"
 - "9005728"
-ms.openlocfilehash: 3164f5a3edef79e334c30e8861a2c88b7312c726
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1c22619ec26c447453fdc132515cb9d614e0689c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62623789"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63186188"
 ---
 # <a name="create-an-email-signature-in-outlook-for-windows"></a>Erstellen einer E-Mail-Signatur in Outlook für Windows
 

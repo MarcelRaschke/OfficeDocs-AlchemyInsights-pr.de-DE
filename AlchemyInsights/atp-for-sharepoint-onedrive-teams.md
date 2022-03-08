@@ -8,15 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 6ac54686e91dae2e130049e4d5ff2824fb2f1880
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b4b3c872afab70f755b00b55b9cb948449092cf8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62611291"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63188168"
 ---
 # <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender für Office 365 für SharePoint, OneDrive und Microsoft Teams
 
@@ -30,9 +30,9 @@ Gehen Sie folgendermaßen vor:
 3. On the flyout that appears, select **Turn on Microsoft Defender for Office 365 for SharePoint, OneDrive, and Microsoft Teams,** and then select **Save**.
 
     **Tipp**: Führen Sie die folgenden Schritte aus, um den Schutz von Tresor Anlagen für SharePoint, OneDrive und Microsoft Teams zu verbessern:
-    - Um zu verhindern, dass Benutzer schädliche Dateien herunterladen, verwenden Sie den Wert `$true` für den *Parameter DisallowInfectedFileDownload* im **[Cmdlet "Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)**" in SharePoint Online PowerShell. Weitere Informationen finden Sie unter [Verwenden von SharePoint Online-PowerShell, um zu verhindern, dass Benutzer schädliche Dateien herunterladen](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files).
+    - Um zu verhindern, dass Benutzer schädliche Dateien herunterladen, verwenden Sie den Wert `$true` für den *Parameter DisallowInfectedFileDownload* im **[Cmdlet "Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)**" in SharePoint Online PowerShell. Weitere Informationen finden Sie unter [Verwenden von SharePoint Online PowerShell, um zu verhindern, dass Benutzer schädliche Dateien herunterladen](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files).
     - [Erstellen einer Warnungsrichtlinie für erkannte Dateien](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-Vollständige Anweisungen finden Sie unter "[Aktivieren Tresor Anlagen für SharePoint,OneDrive und Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)".
+Vollständige Anweisungen finden Sie unter "[Aktivieren Tresor Anlagen" für SharePoint, OneDrive und Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
 
 **Hinweis**: Standardmäßig überprüft Microsoft Defender für Office 365 nicht jede einzelne Datei in SharePoint Online, OneDrive for Business oder Microsoft Teams. Dateien werden asynchron von einem Prozess gescannt, der Freigabeaktivitäten, Gastaktivitäten und Bedrohungssignale verwendet, um schädliche Dateien zu identifizieren. Weitere Informationen finden Sie unter [Tresor Anlagen für SharePoint, OneDrive und Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).

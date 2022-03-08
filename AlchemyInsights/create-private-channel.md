@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6874"
 - "9001223"
-ms.openlocfilehash: 59b41c71311075671d4b84f63f128fb1336b8789
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2aad474939ebbf31523a08ca68a6813f11dfa9f2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62736821"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63186152"
 ---
 # <a name="create-a-private-channel"></a>Erstellen eines privaten Kanals
 

@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10932"
 - "9001435"
-ms.openlocfilehash: 91f90d3b61fad916ab9b6039a6f13205f827e5b7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: af43e6e78ba88d03379b03928776311350a7b96c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62643576"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63188024"
 ---
 # <a name="calendar-events-missing-or-not-updating"></a>Kalenderereignisse fehlen oder werden nicht aktualisiert
 

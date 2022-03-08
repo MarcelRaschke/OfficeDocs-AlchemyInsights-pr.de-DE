@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001459"
 - "5638"
-ms.openlocfilehash: 50019fc089d30fe62a1fa8bb7a28dbcbb68f842e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 80369bd9f38b357361b404e565b75b35c9b0f419
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62545507"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63082306"
 ---
 # <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>Zugriff auf SharePoint oder OneDrive Admin Center nicht möglich
 
-- Wenn Ihre SharePoint oder OneDrive Admin Center-Website nicht zugänglich oder nicht verfügbar ist, kann es ein vorübergehendes Serviceproblem geben, bei dem Benutzer beim Zugriff auf SharePoint-Websites oder OneDrive-Inhalte zeitweilige Verzögerungen oder Navigationsfehler feststellen. Schauen Sie im [Dienststatus-Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) nach, ob Ihre Organisation davon betroffen ist.
+- Wenn Ihre SharePoint- oder OneDrive-Admin Center-Website nicht zugänglich oder nicht verfügbar ist, kann es ein vorübergehendes Dienstproblem geben, bei dem Benutzer beim Zugriff auf SharePoint-Websites oder OneDrive-Inhalte zeitweilige Verzögerungen oder Navigationsfehler feststellen. Prüfen Sie das [Dienststatus-Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth), ob Ihre Organisation betroffen ist.
 
 - Globalen Administratoren und SharePoint-Administratoren muss eine SharePoint-Lizenz zugewiesen werden. Neu erstellte Konten, denen nur eine SharePoint-Lizenz oder nur die Administratorrolle zugewiesen wird, können Probleme beim Zugriff auf SharePoint feststellen, z. B. "Zugriff verweigert" oder "Benutzer nicht gefunden". Warten Sie mindestens 24 Stunden, bis die Synchronisierung zwischen unseren Systemen abgeschlossen ist. Wir verstehen, dass Ihnen 24 Stunden lang vorkommen mag. In vielen Fällen arbeiten wir bereits an einer Lösung.
 

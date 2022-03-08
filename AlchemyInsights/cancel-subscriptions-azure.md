@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: 6af187122114de77a33a612c9b9ad78c9cb882a4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1273cdd6a67dc730343973c8a5eedd69464a6c86
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62610059"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63187664"
 ---
 # <a name="cancel-subscription"></a>Abonnement kündigen
 

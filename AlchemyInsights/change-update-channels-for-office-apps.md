@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 3b5428ef0dad9a6e4c7b53ea9e636c6ac10c4694
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 315adeecf1179c0c1206a9538376112ea9b55240
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62688632"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63187160"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Ändern von Updatekanälen für Office-Apps
 

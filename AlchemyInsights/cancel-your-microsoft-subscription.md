@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9001727"
 - "3824"
 ms.date: 10/26/2021
-ms.openlocfilehash: a58c8ce7c6aab2dec582d1778fb063508f6bd93b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7cd4b7b04bb0ac15d119f314f592982ad2bf3f31
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62580105"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63187628"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>So kündigen Sie Ihr Microsoft-Abonnement
 

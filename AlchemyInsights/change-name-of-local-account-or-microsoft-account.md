@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: 2e447e42b5f157654450bb61802cb3e63a63e6f4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 02a3ba0a6b0e8af68c5ff606d3af7267cf6b8163
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62724453"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63187340"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Ändern des Namens eines lokalen Kontos oder eines Microsoft-Kontos
 
@@ -37,7 +37,7 @@ Wenn Sie eine E-Mail-Adresse und ein Kennwort für die Anmeldung verwenden, verw
 
 **So ändern Sie den Anzeigenamen Ihres Microsoft-Kontos**:
 
-Sie verwenden Ihren Anzeigenamen immer dann, wenn Sie sich bei Ihrem Konto anmelden. Dies ist auch der Name, den Sie auf Ihren Windows 10 Geräten sehen, und der Name, den Personen sehen, wenn Sie E-Mails senden. Dieser Name kann sich vom Anzeigenamen Ihres lokalen Kontos unterscheiden. So ändern Sie Ihren Anzeigenamen:
+Sie verwenden Ihren Anzeigenamen immer dann, wenn Sie sich bei Ihrem Konto anmelden. Es ist auch der Name, den Sie auf Ihren Windows 10 Geräten sehen, und der Name, den Personen sehen, wenn Sie E-Mails senden. Dieser Name kann sich vom Anzeigenamen Ihres lokalen Kontos unterscheiden. So ändern Sie Ihren Anzeigenamen:
 
 1. Melden Sie sich auf der Seite **"Ihre Informationen** " auf der [Microsoft-Kontowebsite](https://account.microsoft.com/) an.
 

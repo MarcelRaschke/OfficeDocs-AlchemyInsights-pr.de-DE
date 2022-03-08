@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "634"
 - "3500007"
-ms.openlocfilehash: 2d14c090ce017cdecfd9f620d2fb64e85dfb8b87
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a0973fba5fbe46ae716e8c61c8e79a7703d77cf3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62577999"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63186224"
 ---
 # <a name="create-and-share-public-folder-calendars-in-exchange-online"></a>Erstellen und Freigeben von Kalendern für öffentliche Ordner in Exchange Online
 

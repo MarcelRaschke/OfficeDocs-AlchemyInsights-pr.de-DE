@@ -8,15 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 7ec088d3-8629-435e-a222-8722bc99f9c6
 ms.custom: 410
-ms.openlocfilehash: 207603d355ff1ab9f774cb073f402225262ca915
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4321430cf20f3f3c4f9ef987ab83482011d251b0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62625225"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63187916"
 ---
 # <a name="calendar-sharing"></a>Kalenderfreigabe
 

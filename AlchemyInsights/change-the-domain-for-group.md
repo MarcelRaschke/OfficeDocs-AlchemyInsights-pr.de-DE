@@ -1,5 +1,5 @@
 ---
-title: Ändern der Domäne für Microsoft 365-Gruppe
+title: Ändern der Domäne für Microsoft 365 Gruppe
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,22 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: f41366e21bfe4fcf4d329f6d9e3b8c82d3e21d2b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0b4928d79b193a3d053799aecf1ba1f2b4f5549b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62657382"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63187232"
 ---
 # <a name="change-the-domain-for-a-microsoft-365-group"></a>Ändern der Domäne für eine Microsoft 365-Gruppe
 
 Wenn Sie die Domäne für eine Microsoft 365 Gruppe während der Erstellung ändern möchten, führen Sie die Schritte unter [Auswählen der Domäne aus, die beim Erstellen Microsoft 365 Gruppen verwendet werden soll](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
 
-Um die Domäne einer vorhandenen Microsoft 365-Gruppe zu ändern, können Sie als Administrator zum Microsoft 365 Admin Center https://admin.microsoft.com navigieren und dann die folgenden Schritte ausführen:
+Um die Domäne einer vorhandenen Microsoft 365 Gruppe zu ändern, können Sie als Administrator zum Microsoft 365 Admin Center https://admin.microsoft.com navigieren und dann die folgenden Schritte ausführen:
 
 - Auswählen von **Gruppen** im linken Menü
 - Suchen Sie nach der M365-Gruppe, die Sie ändern möchten, und wählen Sie sie aus, und klicken Sie dann auf der Registerkarte **"Allgemein**" unter **"E-Mail-Adressen** **bearbeiten**".

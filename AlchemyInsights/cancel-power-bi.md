@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
@@ -16,18 +16,18 @@ ms.custom:
 - "9002564"
 - "5092"
 ms.date: 10/26/2021
-ms.openlocfilehash: afb8706bfe41e6b9ebad3a9cb4a752c56ac526a2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e4d19f61235d1e4ec9be0d72820e54995e08c4c4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62558595"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63187880"
 ---
 # <a name="cancel-power-bi"></a>Abbrechen Power BI
 
 Power BI können im Microsoft 365 Admin Center abgebrochen werden.
 
-1. Wechseln Sie im Admin Center zur Seite **"Abrechnung > [Ihre Produkte"](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Wechseln Sie im Admin Center zur Seite **"Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** ".
 2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte (Weitere Aktionen) und dann **Abonnement kündigen** aus.
 3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund für Ihre Kündigung aus. Geben Sie optional Feedback.
 4. Wählen Sie **Speichern** aus.

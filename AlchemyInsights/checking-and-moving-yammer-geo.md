@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8419"
 - "9003223"
-ms.openlocfilehash: a179ed16f0ffac5f965fe5e5ff470b4dbf95d3e2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2d3a93c7fdd40214059638538e1d38b5516e065a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62688537"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63187052"
 ---
 # <a name="checking-and-moving-yammer-geo"></a>Überprüfen und Verschieben der Yammer Geodaten
 

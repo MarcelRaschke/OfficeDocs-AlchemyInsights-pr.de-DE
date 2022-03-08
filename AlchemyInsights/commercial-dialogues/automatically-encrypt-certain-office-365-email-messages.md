@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 4264a19cb80289dc54c8800af5cbb1906782b3ae
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 05a098d7873888090d9c7a78a4b04b34ffea0078
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62656770"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63186584"
 ---
 # <a name="automatically-encrypt-certain-office-365-email-messages"></a>Automatische Verschlüsselung bestimmter Office 365 E-Mail-Nachrichten
 
@@ -26,7 +26,7 @@ Sie können Nachrichten, die Benutzer an bestimmte externe Personen oder Organis
 
 1. Wählen Sie im [Exchange Admin Center](https://outlook.office365.com/ecp/) den **Nachrichtenfluss > Regeln** aus. 
 2. Klicken Sie auf das Symbol **"Neu" (+),** und klicken Sie dann auf **"Apply Office 365-Nachrichtenverschlüsselung und Rechteschutz für Nachrichten**".
-3. Geben Sie in **"Name**" einen Namen für die Regel ein, z. B. *"An DrToniRamos@gmail.com gesendete Nachrichten verschlüsseln"*.
+3. Geben Sie in **"Name**" einen Namen für die Regel ein, z. B. *an DrToniRamos@gmail.com gesendete Nachrichten verschlüsseln*.
 4. Wählen **Sie unter "Regel anwenden", wenn** **der Empfänger > diese Person ist**. 
 5. Wählen Sie im Fenster **"Mitglieder auswählen** " den Namen der Person aus, auf die die Verschlüsselungsregel angewendet werden soll, und klicken Sie dann auf **"Hinzufügen**". 
 6. Wenn Sie mit dem Hinzufügen von Benutzern fertig sind, klicken Sie auf **"OK**".

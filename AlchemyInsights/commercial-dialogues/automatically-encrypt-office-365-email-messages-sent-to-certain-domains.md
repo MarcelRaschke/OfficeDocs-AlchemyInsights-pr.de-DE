@@ -8,24 +8,24 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 383e5a5cacc411b06f66bc6bc32cf071238ae3df
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0ba8e1bad14ee1480bf2dd594df8f3dcdc4409f9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62642280"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63186476"
 ---
 # <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Automatische Verschlüsselung Office 365 E-Mail-Nachrichten, die an bestimmte Domänen gesendet werden
 
 1. Wählen Sie im [Exchange Admin Center](https://outlook.office365.com/ecp/) den **Nachrichtenfluss > Regeln** aus. 
 2. Klicken Sie auf das Symbol **"Neu" (+),** und klicken Sie dann auf **"Apply Office 365-Nachrichtenverschlüsselung und Rechteschutz für Nachrichten**".
-3. Geben Sie in **"Name**" einen Namen für die Regel ein, z. B. *an contoso.com gesendete Nachrichten verschlüsseln*.
-4. Wählen **Sie unter "Diese Regel anwenden, wenn****" den Empfänger > Domäne ist**. 
+3. Geben Sie unter **"Name**" einen Namen für die Regel ein, z. B. *"An contoso.com gesendete Nachrichten verschlüsseln"*.
+4. Wählen **Sie unter "Regel anwenden", wenn** **der Empfänger > Domäne lautet**. 
 5. Geben Sie den Namen der Domäne ein, z. **B. contoso.com**.
 6. Klicken Sie auf das Symbol **"Hinzufügen" (+),** und klicken Sie dann auf **"OK**".
 7. Next to the **Do the following** field, click **Select one**. 

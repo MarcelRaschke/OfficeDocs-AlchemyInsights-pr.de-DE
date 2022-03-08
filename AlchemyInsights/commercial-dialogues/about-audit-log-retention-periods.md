@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 05aa21d85f1d1a46b9dfd2621ebaf27507195949
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 288214f81675e23610c3eabbdbbc18545644427c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62593606"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63186836"
 ---
 # <a name="about-audit-logs-retention-periods"></a>Informationen zu Aufbewahrungszeiträumen für Überwachungsprotokolle
 

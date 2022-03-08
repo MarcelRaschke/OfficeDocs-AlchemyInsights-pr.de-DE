@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: 2f5e0b950c26674802b4cf0faf1aa366e21d4b28
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 381fdcee07f447a666509b5a938a65740f99500c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62642856"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63187196"
 ---
 # <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Ändern des Organisationsnamens für den OneDrive-Synchronisierungsclient
 

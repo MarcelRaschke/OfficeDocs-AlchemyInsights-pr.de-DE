@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 92bee8498e70987e210b25867281d65a61bcf561
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c3ba17e274b5892edc94a8013dba3c11e4d116b8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62748827"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63186620"
 ---
 # <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Automatische Verschlüsselung bestimmter E-Mail-Nachrichten aus Office 365
 

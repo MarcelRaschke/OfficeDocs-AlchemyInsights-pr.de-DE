@@ -7,23 +7,23 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5ccf3edb5b30d6e5d9f2c7b45def6a10dc05b99d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4f6f9bd5122b94f65d9d51348f9d5fdefb96e1e2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62624496"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63186332"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Untersuchen von Phishing, Spam oder falsch gefilterten E-Mails
 
 Verwenden Sie den Übermittlungs-Explorer, um die Nachricht an Microsoft zu senden. Sie erhalten sofortiges Feedback zur Nachrichtenfilterung und zur Ursache des Problems. Hier ist eine Zusammenfassung der Schritte:
 
-1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com>zu **E-Mail-&** **Übermittlungen für** die Zusammenarbeit\>.
+1. Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com>zu **E-Mail-& Übermittlungen für die Zusammenarbeit**\>.
 
    Um direkt zur Seite **"Übermittlungen** " zu wechseln, verwenden Sie <https://security.microsoft.com/reportsubmission>.
 

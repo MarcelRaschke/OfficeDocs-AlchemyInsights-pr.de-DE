@@ -7,18 +7,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: e192d2247034459ffe151e172f10ed37a0a470e2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 045ec938b3f91603d4282f75eb207de427ab51f7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62609712"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63187484"
 ---
 # <a name="change-a-name-and-email-address"></a>Ändern eines Namens und einer E-Mail-Adresse
 
