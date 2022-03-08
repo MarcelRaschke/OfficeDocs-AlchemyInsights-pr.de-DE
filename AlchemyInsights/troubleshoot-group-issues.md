@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7814"
 - "9004358"
-ms.openlocfilehash: f6ca2f89a7ac31966f255ac6176bff2eb04a8b31
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6c42c3b6365a9052daa94c6643ac681fc33c071d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62714373"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63083098"
 ---
 # <a name="troubleshoot-group-issues"></a>Beheben von Gruppenprobleme
 
@@ -49,7 +49,7 @@ Führen Sie die folgenden Schritte aus, um einer Azure AD-Rolle eine Azure Activ
 3. Zusätzlich zu den integrierten Benutzer- und Geräteattributen können Sie auch [Erweiterungsattribute](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-dynamic-membership#extension-properties-and-custom-extension-properties) verwenden. Nach dem Synchronisieren von Erweiterungsattributen aus lokalem Windows Server AD oder einer verbundenen SaaS-Anwendung sollten die Attribute in der Dropdown-Liste des Regel-Generators angezeigt werden. Der benutzerdefinierte Attributname kann im Verzeichnis gefunden werden, indem das Attribut eines Benutzers mit PowerShell abgefragt und nach dem Attributnamen gesucht wird. Diese können auch beim Erstellen von Regeln in der Regelsyntax verwendet werden.
 4. Stellen Sie sicher, dass Ihr Mandant über die entsprechende Lizenz verfügt. Für dynamische Gruppen muss der Mandant über eine Azure AD P1 Premium-Lizenz verfügen. Auf die Liste der Azure AD-Lizenzpläne kann [hier](https://azure.microsoft.com/pricing/details/active-directory/) zugegriffen werden. Auf Lizenzpläne für Enterprise Mobility + Security kann [hier](https://www.microsoft.com/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing) zugegriffen werden.
 5. Stellen Sie sicher, dass der Benutzer, der die dynamische Gruppe erstellt, ein globaler Administrator, ein Intune-Administrator, ein Gruppenadministrator oder ein Benutzeradministrator ist.
-6. Bitte geben Sie der Gruppe Zeit, damit sie sich ausfüllen kann. Abhängig von der Größe Ihres Mandanten kann es bis zu 24 Stunden dauern, bis die Gruppe zum ersten Mal oder nach einer Regeländerung ausgefüllt ist.
+6. Bitte geben Sie der Gruppe Zeit, sich zu füllen. Abhängig von der Größe Ihres Mandanten kann es bis zu 24 Stunden dauern, bis die Gruppe zum ersten Mal oder nach einer Regeländerung gefüllt wird.
 7. Weitere Informationen finden Sie unter [Erstellen von attributbasierten Regeln für die dynamische Gruppenmitgliedschaft](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-dynamic-membership).
 
 **Ich muss eine Gruppe löschen**
@@ -62,8 +62,8 @@ Führen Sie die folgenden Schritte aus, um einer Azure AD-Rolle eine Azure Activ
 
 1. Wenn eine Office 365-Gruppe gelöscht wird, kann sie nur bis zu 30 Tage vor dem dauerhaften Löschen wiederhergestellt werden. Nach dem dauerhaften Löschen kann die Gruppe nicht mehr wiederhergestellt werden. Weitere Informationen zum Wiederherstellen von Gruppen finden Sie [hier](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-restore-deleted).
 2. Diese Funktionalität wird für Sicherheitsgruppen und Verteilergruppen nicht unterstützt.
-3. Stellen Sie sicher, dass Sie berechtigt sind, eine Office 365-Gruppe wiederherzustellen. Globale Administratoren, Gruppenadministratoren, Benutzerkontenadministratoren, Intune-Service-Administratoren, Partner-Tier1- oder Tier2-Support und der Eigentümer der Gruppe können eine Gruppe wiederherstellen.
-4. Wenn eine dynamische Gruppe gelöscht und wiederhergestellt wird, wird sie als neue Gruppe angesehen und gemäß der Regel neu gefüllt. Dieser Vorgang kann bis zu 24 Stunden dauern.
+3. Stellen Sie sicher, dass Sie berechtigt sind, eine Office 365-Gruppe wiederherzustellen. Globale Administratoren, Gruppenadministratoren, Benutzerkontoadministratoren, Intune-Dienstadministratoren, Partner-Tier1- oder -Tier2-Support und der Besitzer der Gruppe können eine Gruppe wiederherstellen.
+4. Wenn eine dynamische Gruppe gelöscht und wiederhergestellt wird, wird sie als neue Gruppe betrachtet und gemäß der Regel erneut aufgefüllt. Dieser Vorgang kann bis zu 24 Stunden dauern.
 5. Weitere Informationen zum Wiederherstellen einer gelöschten Gruppe finden Sie unter [Wiederherstellen einer gelöschten Office 365-Gruppe in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-restore-deleted).
 
 **Konfiguration der Gruppenablaufrichtlinie**
@@ -103,7 +103,7 @@ Stellen Sie sicher, dass Sie berechtigt sind, eine neue Gruppe zu erstellen. Glo
 
 **Deaktivieren der Begrüßungsbenachrichtigung für neue Mitglieder einer Office 365-Gruppe**
 
-Die Begrüßungsbenachrichtigung, die an Benutzer gesendet wird, die zu Office 365-Gruppen hinzugefügt wurden, kann deaktiviert werden, indem in Powershell `UnifiedGroupWelcomeMessageEnabled` auf **False** gesetzt wird. Erfahren Sie [hier](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup) mehr über diese Einstellung.
+Die Willkommensbenachrichtigung, die an Benutzer gesendet wird, die Office 365-Gruppen hinzugefügt werden, kann deaktiviert werden, indem `UnifiedGroupWelcomeMessageEnabled` in PowerShell auf **False** gesetzt wird. Informationen zu dieser Einstellung finden Sie [hier](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup).
 
 
 

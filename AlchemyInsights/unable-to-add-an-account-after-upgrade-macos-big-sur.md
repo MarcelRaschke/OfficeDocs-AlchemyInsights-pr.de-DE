@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "13840"
 - "9008627"
-ms.openlocfilehash: e466395d141c21779e96f37d32eb4920449676b7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: df17851f6f5e6dd2b18befe5b2582cf18e54e7f2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62691656"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63270305"
 ---
 # <a name="unable-to-add-an-account-after-upgrading-to-macos-116-big-sur"></a>Nach dem Upgrade auf macOS 11.6 Big Sur kann kein Konto hinzugefügt werden
 
@@ -30,7 +30,7 @@ Für dieses Problem wurde ein Fix entwickelt. Ermitteln Sie zunächst, ob Sie di
 
 Wenn Sie die eigenständige Version von OneDrive verwenden, starten Sie Ihren Computer neu, und OneDrive aktualisiert automatisch auf einen Build, bei dem dieses Problem behoben ist. Wenn Sie den Build manuell installieren möchten, laden Sie diese [.zip Datei](https://oneclient.sfx.ms/Mac/Prod/21.170.0822.0003/OneDrive.zip)herunter, entzippen Sie die Datei, und kopieren Sie die OneDrive App in den „Anwendungen“-Ordner (indem Sie die vorhandene OneDrive-App ersetzen).
 
-Wenn Sie die App-Store Version verwenden, sollten Sie erwägen die eigenständige Version von OneDrive zu installieren. Diese Version funktioniert auf die gleiche Weise wie die App-Store-Version, ermöglicht es Microsoft jedoch, Updates für Benutzer schneller anzubieten und sie mit einer Version zu verbinden, die die Behebung dieses Problems enthält.
+Wenn Sie die App Store-Version verwenden, sollten Sie erwägen, die eigenständige Version von OneDrive zu installieren. Diese Version funktioniert auf die gleiche Weise wie die App Store-Version, ermöglicht es Microsoft jedoch, Benutzern Updates schneller anzubieten und sie mit einer Version zu verbinden, die die Behebung dieses Problems enthält.
 
 1. Laden Sie die eigenständige Version von [OneDrive herunter, die den Fix enthält.](https://oneclient.sfx.ms/Mac/Prod/21.170.0822.0003/OneDrive.zip)
 2. Entzippen Sie die Datei, und kopieren Sie die OneDrive App in den „Anwendungen“-Ordner (indem Sie die vorhandene OneDrive-App ersetzen).
