@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: 70c3bf3d030e06727b350ba89c3a2a12d2fcbe77
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 019e062198023785ac0e4545dcff28b039942290
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62602571"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63264401"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams – Gastzugriff
 
@@ -31,4 +31,4 @@ Wenn Sie sicher sind, dass Sie alle Schritte in der Checkliste abgeschlossen hab
 
 Weitere Informationen, einschließlich Anleitungsvideos, finden Sie unter [Gastzugriff in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**Option 2: Aktivieren des externen Zugriffs (Partnerverbund)** Wenn Sie auch den externen Zugriff (Partnerverbund) aktivieren möchten, wechseln Sie im Teams Admin Center zum [organisationsweiten Einstellungen > externen Zugriff](https://admin.teams.microsoft.com/company-wide-settings/external-communications), aktivieren Sie "Benutzer können mit Skype for Business und Teams Benutzern kommunizieren", und führen Sie dann alle Schritte in [Let Your Teams  Benutzer chatten und kommunizieren mit Benutzern in einer anderen Organisation](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**Option 2: Aktivieren des externen Zugriffs (Partnerverbund)** Wenn Sie auch den externen Zugriff (Partnerverbund) aktivieren möchten, wechseln Sie im Teams Admin Center zu [organisationsweitem Einstellungen > externen Zugriff](https://admin.teams.microsoft.com/company-wide-settings/external-communications), und aktivieren Sie "Benutzer können mit Skype for Business und Teams Benutzern kommunizieren", und führen Sie dann alle Schritte in [Let your Teams  Benutzer chatten und kommunizieren mit Benutzern in einer anderen Organisation](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).

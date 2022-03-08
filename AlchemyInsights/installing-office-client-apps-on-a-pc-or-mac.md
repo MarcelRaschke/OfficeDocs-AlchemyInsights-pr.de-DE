@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 62bb51cd0dd5b32d636f9d998187e187b91435b5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5bc8a3371098a01e70047edf9253fcf272113ae4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62621832"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63265193"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Installieren von Office-Client-Apps auf einem PC oder Mac
 

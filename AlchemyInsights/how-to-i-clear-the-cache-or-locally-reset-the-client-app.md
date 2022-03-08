@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: b5b92d7a28d444f387586a9fda025520fc0cfefe
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 61f66139ebbbbb2b777d99cae30f8149ba86b524
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62709369"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63225825"
 ---
 # <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Wie kann ich den Cache löschen oder den Client/die App lokal zurücksetzen/aktualisieren?
 

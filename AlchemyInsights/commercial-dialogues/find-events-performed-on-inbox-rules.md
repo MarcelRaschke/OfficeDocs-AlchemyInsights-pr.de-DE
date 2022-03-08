@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: adf88c14ad6f49d41861fe27b5c33be4a9f51d59
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2b4ef8d3e21b7c56990014784441ca396fe9a1cd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62688236"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63227373"
 ---
 # <a name="find-events-performed-on-inbox-rules"></a>Suchen nach Ereignissen, die für Posteingangsregeln ausgeführt werden
 
@@ -36,7 +36,7 @@ Wenn Posteingangsregeln erstellt, geändert oder gelöscht werden, werden die Er
 
 2. Konfigurieren Sie auf der Registerkarte **"Suchen** " der **Überwachungsseite** die folgenden Einstellungen:
    - **Datums- und Uhrzeitbereich**: Wählen Sie den Datums-/Uhrzeitbereich in den Feldern **Start** und **Ende** aus.
-   - **Aktivitäten**: Select **New-InboxRule Create inbox rule from Outlook Web App**
+   - **Aktivitäten**: Wählen Sie **"Neue Posteingangsregel erstellen" aus Outlook Web App**
 
 3. Wenn Sie den Vorgang abgeschlossen haben, klicken Sie auf **Suchen**. Die Aktivitäten werden auf der neuen Seite **Suche überwachen** angezeigt.
 

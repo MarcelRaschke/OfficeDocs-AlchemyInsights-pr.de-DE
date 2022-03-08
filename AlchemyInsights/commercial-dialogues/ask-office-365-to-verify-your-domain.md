@@ -1,5 +1,5 @@
 ---
-title: Bitten Sie Office 365, Ihre Domäne zu überprüfen.
+title: Office 365 bitten, Ihre Domäne zu überprüfen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -8,19 +8,19 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: ef755fdc2d979da2a460744e0867c99e8d3b18fe
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8b077ad77caf890b4a525dad79dd7bfedf4a0d4a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62723409"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63227625"
 ---
-# <a name="ask-office-365-to-verify-your-domain"></a>Bitten Sie Office 365, Ihre Domäne zu überprüfen.
+# <a name="ask-office-365-to-verify-your-domain"></a>Office 365 bitten, Ihre Domäne zu überprüfen
 
 Wenn Office 365 den richtigen TXT-Eintrag findet, wird die Domäne überprüft. Führen Sie die folgenden Schritte aus, um Office 365 aufzufordern, Ihre Domäne zu überprüfen:
 

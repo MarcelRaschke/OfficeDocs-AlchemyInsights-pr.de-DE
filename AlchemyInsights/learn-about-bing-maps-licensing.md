@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9213"
-ms.openlocfilehash: 33e8df0f4d293a073c9663c991cf42758f5cff92
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8b3207570712e6bbdc04b864bfef8d7925c7c66e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62650290"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63264977"
 ---
 # <a name="learn-about-bing-maps-licensing"></a>Erfahren Sie mehr über Bing Karten Lizenzierung
 

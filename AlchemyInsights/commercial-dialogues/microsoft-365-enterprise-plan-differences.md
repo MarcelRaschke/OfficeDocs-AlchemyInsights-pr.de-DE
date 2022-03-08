@@ -1,5 +1,5 @@
 ---
-title: Unterschiede bei Microsoft 365 Enterprise Plänen
+title: Microsoft 365 Enterprise Planunterschiede
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -7,19 +7,19 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f652a8e0c3c150cc818423922961784bbbe90d16
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 97b8971725e68c76968f155a1dac5de1b8e03098
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62761800"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63227229"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>Unterschiede bei Microsoft 365 Enterprise Plänen
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise Planunterschiede
 
 Microsoft 365 Enterprise E5 umfasst alle Features von Microsoft 365 Enterprise E3 sowie erweiterte Sicherheitsmaßnahmen wie:
 
@@ -41,6 +41,6 @@ Microsoft 365 Enterprise E5 bietet auch leistungsstarke Analyse- und Sprachfunkt
 
 Weitere Informationen zu Microsoft 365 Enterprise E5 oder zur Registrierung für ein Testabonnement finden [Sie unter "Testen oder Kaufen eines Microsoft 365 Abonnements"](https://go.microsoft.com/fwlink/?linkid=2099673).
 
-Informationen zum Vergleichen von Features in Enterprise Plänen finden Sie unter [Vergleichen Enterprise Pläne](https://go.microsoft.com/fwlink/?linkid=2097200).
+Informationen zum Vergleichen von Features in Enterprise Plänen finden Sie unter ["Vergleichen Enterprise Pläne"](https://go.microsoft.com/fwlink/?linkid=2097200).
 
 Wir freuen uns über Ihr Feedback. Wählen Sie daher bitte "Ja/Nein" für die angezeigte Frage aus, und bewerten Sie dann Ihre Erfahrung.

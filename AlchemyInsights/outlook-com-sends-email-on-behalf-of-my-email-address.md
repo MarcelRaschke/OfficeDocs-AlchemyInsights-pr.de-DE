@@ -1,5 +1,5 @@
 ---
-title: Outlook.com sendet E-Mails "im Auftrag" meiner E-Mail-Adresse.
+title: Outlook.com sendet E-Mails "im Auftrag von" meiner E-Mail-Adresse.
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "812"
 - "8000048"
 ms.assetid: fe180c8c-d9e5-4a8c-af54-3fe8fa4a4331
-ms.openlocfilehash: 7e6e24e2e8a23f836af7c899621635f37a8bf79a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 64889d19a13b80dcb07c9ef3438051f1b922c8fa
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62694968"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63263501"
 ---
-# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com sendet E-Mails "im Auftrag von" meiner E-Mail-Adresse
+# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com sendet E-Mails "im Auftrag von" meiner E-Mail-Adresse.
 
 E-Mails, die von einem verbundenen Konto gesendet werden, werden als "im Auftrag" Ihres Microsoft-Kontos gesendet. Dieses Problem ist bekannt und wird in einer zukünftigen Version behoben. Bis dahin können Sie Ihre Absenderadresse so ändern, dass sie dem primären Microsoft-Kontoalias entspricht.
   

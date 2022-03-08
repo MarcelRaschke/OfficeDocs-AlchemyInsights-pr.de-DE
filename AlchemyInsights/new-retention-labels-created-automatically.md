@@ -8,16 +8,16 @@ ms.audience: admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: ed4667da5de922b2c8041fd6ff390ebd3b336cea
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e77e1b0faebb77417793d2a7c5d0785367138bce
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62683087"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63263897"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Automatisch erstellte neue Aufbewahrungsbezeichnungen
 

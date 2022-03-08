@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "1400006"
 - "5832"
 ms.date: 07/30/2021
-ms.openlocfilehash: a8a6a1c75f155497c3f9a31db9dbfbea9f728de8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b1a129d300441bc1ce98e0a39f00fda27cd9e44d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62710557"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63226437"
 ---
 # <a name="what-are-my-options-to-extend"></a>Welche Verlängerungsoptionen habe ich?
 

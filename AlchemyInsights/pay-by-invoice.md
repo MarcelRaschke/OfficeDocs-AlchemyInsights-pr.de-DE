@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - commerce_billing
 - "492"
 - "1500024"
 ms.date: 08/10/2021
-ms.openlocfilehash: 69599fa99fa308cb39b99995a29a463c592f97c3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e23eb5187219c7f87e6a12fcf17d961cb51688e2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62634018"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63263069"
 ---
 # <a name="pay-by-invoice"></a>Zahlung per Rechnung
 

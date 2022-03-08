@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: 8ed4dec9c3d74d71b812c23a29db53e5d263f25a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ca2174a02271666edcfed88cbab85e638cff81e8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62706453"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63227553"
 ---
 # <a name="block-downloads-for-view-only-files-in-sharepoint-and-onedrive"></a>Blockieren des Herunterladens von schreibgeschützten Dateien in SharePoint und OneDrive
 

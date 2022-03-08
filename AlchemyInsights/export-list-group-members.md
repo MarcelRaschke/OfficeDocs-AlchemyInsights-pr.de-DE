@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11179"
 - "9006559"
-ms.openlocfilehash: 3d88e17232291649fbd1baf362385dba1e6858bf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c83bbed0b8fe37ea5600d158c751ec1e04d6b6af
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62758416"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63226473"
 ---
 # <a name="export-list-of-group-members"></a>Exportieren der Liste der Gruppenmitglieder
 

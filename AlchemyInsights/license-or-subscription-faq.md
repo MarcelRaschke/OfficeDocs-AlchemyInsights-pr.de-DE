@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
@@ -16,12 +16,12 @@ ms.custom:
 - "5582"
 - "5583"
 ms.date: 08/11/2021
-ms.openlocfilehash: 1af32c4952c0cf2ef0e6a86b2c60958833c9564e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c18a97081ff994125af52abac8734b039990fea2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62590186"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63264797"
 ---
 # <a name="license-or-subscription-faq"></a>Häufig gestellte Fragen zu Lizenzen und Abonnements
 

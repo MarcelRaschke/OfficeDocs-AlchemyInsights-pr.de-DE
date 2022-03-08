@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: ec85bbfd55fda9e0dcb84f7d0d50bd4b779a2d75
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3be948b71d42b1152ec6a6f1ccbd743ce61d57bc
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62709405"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63225897"
 ---
 # <a name="how-to-give-access-to-external-users-in-yammer"></a>So gewähren Sie externen Benutzern in Yammer
 
@@ -31,5 +31,5 @@ Es gibt vier Möglichkeiten, wie externe Benutzer in Yammer auf Ihr Netzwerk zug
 
 4. **Externe Netzwerke** – Mit dieser Option können Sie externe Benutzer in ein externes Netzwerk einladen, das von bestätigten Administratoren in Ihrem Netzwerk erstellt werden kann. Diese Option eignet sich am besten für das Hosten externer Communitys.
 
-Weitere Informationen finden [Sie unter Hinzufügen externer Messagingteilnehmer zu Ihren Yammer Unterhaltungen](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) und [häufig gestellten Fragen zu externen Nachrichten (Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
+Weitere Informationen finden Sie unter [Hinzufügen externer Messagingteilnehmer zu Ihren Yammer Unterhaltungen](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) und [häufig gestellten Fragen zu externen Nachrichten (Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

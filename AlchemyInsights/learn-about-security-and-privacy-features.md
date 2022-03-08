@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9216"
 - "9005302"
-ms.openlocfilehash: 2ba156632edb0b6d4be005894116a089c8d08e57
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f191b7c4a1689d3cebd501df08b7546b4a9fc894
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62755595"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63264905"
 ---
 # <a name="learn-about-the-security-and-privacy-features-of-microsoft-search-in-bing"></a>Informationen über die Sicherheits- und Datenschutz-Funktionen von Microsoft Search in Bing
 

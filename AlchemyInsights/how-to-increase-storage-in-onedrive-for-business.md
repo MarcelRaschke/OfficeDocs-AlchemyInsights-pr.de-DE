@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: dd8544ee74b5301db04b686820d333ead3034c3f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c6ee8882fcad263297522391393bf62c9a560bb9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62756963"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63225789"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>So erhöhen Sie den Speicher in OneDrive for Business
 
@@ -31,4 +31,4 @@ Um Ihren Speicher in OneDrive for Business zu erhöhen, wählen Sie ein Abonneme
   
 Um Pläne zu ändern, wechseln Sie im Admin Center zur Seite " **Abrechnung** \> [Für Ihre Produkte"](https://go.microsoft.com/fwlink/p/?linkid=842054) , wählen Sie das abonnement aus, das Sie ändern möchten, und wählen Sie dann "Upgrades anzeigen" aus, die **für Ihre Organisation empfohlen werden**.
   
-Weitere Informationen zum Ändern von Plänen und OneDrive for Business Speicher finden Sie unter [Upgrade auf einen anderen Plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) und in der [OneDrive for Business Dienstbeschreibung](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).
+Weitere Informationen zum Ändern von Plänen und OneDrive for Business Speicher finden Sie unter [Upgrade auf einen anderen Plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) und [in der OneDrive for Business Dienstbeschreibung](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description).

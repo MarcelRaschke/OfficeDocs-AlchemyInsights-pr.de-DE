@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002650"
 - "5102"
-ms.openlocfilehash: a265b199c3b5745f48457c8cb213ee8d212a34c9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 40f086d0e5c98ccc73bc74f59de1d53037025d94
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62694320"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63212505"
 ---
 # <a name="restrict-who-can-create-channels-in-microsoft-stream"></a>Einschränken, wer Kanäle in Microsoft Stream erstellen kann
 

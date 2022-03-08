@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003200"
-ms.openlocfilehash: abe3319f175ea19da09825cf743c6630f8b8df40
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c4692e9f272730e5c21be704a0d751c6f6c57718
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62632218"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63262709"
 ---
 # <a name="send-as-microsoft-365-group"></a>Senden als Microsoft 365-Gruppe
 

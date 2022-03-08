@@ -1,5 +1,5 @@
 ---
-title: Leistungsprobleme SharePoint oder OneDrive
+title: Leistungsprobleme – SharePoint oder OneDrive
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: f7010aea6052ff769e7aa61eed7506b41454e26d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 96ded7379d45472afa6ca2398f4285585f381a0d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62700620"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63265121"
 ---
 # <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Interner Serverfehler beim Navigieren zu SharePoint- oder OneDrive-Websites
 
@@ -24,7 +24,7 @@ Benutzer erhalten möglicherweise einen 500 internen Serverfehler, wenn sie vers
 Versuchen Sie, den Browsercache zu löschen, bevor Sie zur Website navigieren.
 
 
-1. Wechseln Sie im Microsoft Edge Browser zu "Mehr...> Einstellungen
+1. Wechseln Sie im Microsoft Edge Browser zu "Mehr...> Einstellungen"
 
 2. Wählen Sie unter "Browserdaten löschen **" die Option "Zu löschende Elemente auswählen**" aus.
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 29dbcba5c7e43d86fbd2cc5487b3a5998f654328
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 438da23d1770cb0ccf7a9d070690a8bf1eb3f54c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62633910"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63262961"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Bezahlen der Rechnung im Azure-Portal – empfohlene Schritte
 

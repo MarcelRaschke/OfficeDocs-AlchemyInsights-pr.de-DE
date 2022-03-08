@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 1f702aa987eab70d2b2328d139dac07371ca7ca8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7d0a365b1a3e02a8beb9b3fc216a5746918584a7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62556255"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63227049"
 ---
-# <a name="delete-a-sharepoint-site"></a>Löschen einer SharePoint Website
+# <a name="delete-a-sharepoint-site"></a>Löschen einer SharePoint-Website
 
 1. Klicken Sie im neuen SharePoint Admin Center auf der Seite "Websites" auf das Kontrollkästchen neben der Website, die Sie löschen möchten.
     

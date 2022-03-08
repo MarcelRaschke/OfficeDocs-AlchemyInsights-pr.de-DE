@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002461"
 - "5577"
-ms.openlocfilehash: e8bf691affedd5953bfd78d0aaa485625404051d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fb15a61b8bb4fc112cd616749ca64447b98b07dd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62590150"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63264761"
 ---
 # <a name="limit-sharing-in-microsoft-teams"></a>Einschränken der Freigabe in Microsoft Teams
 

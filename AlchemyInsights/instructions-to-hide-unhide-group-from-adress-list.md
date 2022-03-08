@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: 03a768f2b5bdd92c2dfcf68b6b0d6270878d81c7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 942ef57d7ab252df2d75a56c9075200f7d3b45de
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62720997"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63265157"
 ---
 # <a name="hide-microsoft-365-group-from-address-list-gal"></a>Ausblenden Microsoft 365 Gruppe aus der Adressliste (GAL)
 

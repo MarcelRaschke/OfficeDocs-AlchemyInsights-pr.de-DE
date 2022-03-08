@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10365"
 - "9006005"
-ms.openlocfilehash: d5b4eb6524ad7ea08d4d0f03aa067bf99ab5e087
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 398cd1a3d6b6f22458e5b9707e130425f7b26998
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62728125"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63212181"
 ---
 # <a name="set-microsoft-edge-as-the-default-browser-on-a-windows-10-device"></a>Microsoft Edge als Standardbrowser auf einem Windows 10-Gerät festlegen
 

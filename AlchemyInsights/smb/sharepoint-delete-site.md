@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010137"
 - "16670"
 ms.date: 02/11/2022
-ms.openlocfilehash: 29285663ff755257a52e853606e014ee1b9b6a7c
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: a56565145dc2e36864132094697a07636d6fcf5c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790360"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63262421"
 ---
 # <a name="delete-sharepoint-site"></a>Löschen einer SharePoint-Website
 

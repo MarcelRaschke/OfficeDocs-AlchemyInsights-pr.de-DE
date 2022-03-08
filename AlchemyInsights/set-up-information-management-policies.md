@@ -8,20 +8,20 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: 6c0c952f694a9174f89af6cc0ccd10137d8715eb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a47e983c12898a6ac42f837bfdfd0d07e94f51b1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62679559"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63212109"
 ---
 # <a name="set-up-information-management-policies"></a>Einrichten von Informationsverwaltungsrichtlinien
 
 1. Wenn die SharePoint Website Unterwebsites hat, navigieren Sie zur Website auf oberster Ebene.
     
-2. Klicken Sie auf **Einstellungen** und dann auf **Websiteeinstellungen**. Wenn es sich bei der Website um eine Microsoft 365 mit einer Gruppe verbundene Website handelt, klicken Sie auf **Einstellungen**, auf **Websiteinhalte** und dann auf **Website Einstellungen**.
+2. Klicken Sie auf **Einstellungen** und dann auf **Websiteeinstellungen**. Wenn es sich bei der Website um eine Microsoft 365 mit einer Gruppe verbundene Website handelt, klicken Sie auf **Einstellungen**, klicken Sie auf **Websiteinhalte** und dann auf **Website Einstellungen**.
     
 3. Klicken Sie unter **Websitesammlungsverwaltung** auf **Websitesammlungsfeatures**.
     
