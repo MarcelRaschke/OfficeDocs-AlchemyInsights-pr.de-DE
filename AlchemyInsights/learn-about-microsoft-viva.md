@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8338"
-ms.openlocfilehash: ff8081e5f613e99892d6c3931eda77dfe89ebb79
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f63b4c33a081d4b10946791706419a55503deed6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62621364"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63202280"
 ---
 # <a name="learn-about-microsoft-viva"></a>Weitere Informationen über Microsoft Viva
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 41c60b36c514add9ab31af3d4f0a313ee891869d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 738c9fba45300143719ab7598b2048e9f199fc05
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62717253"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63223809"
 ---
 # <a name="how-to-sign-out-of-outlook-on-the-web"></a>Abmelden von Outlook im Web
 

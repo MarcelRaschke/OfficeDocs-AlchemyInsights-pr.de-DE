@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9005616"
 - "9928"
-ms.openlocfilehash: 30e0bb6c7d4430063056fa6ca639c6e6ce15f078
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 13c0935ed653f4d99cb1107239ae55daf14fe477
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62734301"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63203540"
 ---
 # <a name="get-help-with-windows-10-desktop"></a>Hilfe für Windows 10-Desktop abrufen
 

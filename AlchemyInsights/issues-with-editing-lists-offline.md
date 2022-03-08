@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "14010"
 - "9008720"
-ms.openlocfilehash: debc7d061d755632e83e8d0bab378cb919420aa2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d498e8905ec08f20b8d4ca038e1db3d04463fc44
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62603687"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63202568"
 ---
 # <a name="issues-with-editing-microsoft-lists-offline"></a>Probleme beim Bearbeiten von Microsoft Listen offline
 

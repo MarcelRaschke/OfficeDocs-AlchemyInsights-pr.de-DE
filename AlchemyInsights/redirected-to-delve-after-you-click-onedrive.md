@@ -1,5 +1,5 @@
 ---
-title: OneDrive for Business Web OneDrive leitet zu Delve
+title: OneDrive for Business Web-OneDrive-Umleitungen zu Delve
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: f8970da71b4e36304ddf4ca9073afe015c5c29e0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e03019d1e60e0f412c8af540ea38bd6255446824
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62716317"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63223377"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>Umgeleitet zu Delve, nachdem Sie auf OneDrive geklickt haben
 

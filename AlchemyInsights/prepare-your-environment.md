@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "12304"
 - "9007382"
-ms.openlocfilehash: 241e7ef44b657ca8d161f37e1657b015771a6bdc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7d2edbc95be0d1623c0fab7219a5e9fefb0fc5e1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62665481"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213297"
 ---
 # <a name="prepare-your-environment"></a>Vorbereiten der Umgebung
 

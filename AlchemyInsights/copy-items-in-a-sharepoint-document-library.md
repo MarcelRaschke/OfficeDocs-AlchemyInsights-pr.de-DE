@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: fc1f88ebf5328a82a538d223158611e7ae1d5b02
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 075fea6b0d3a09acd5bbdd5df7c37e38d5a9a08c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62624028"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63205664"
 ---
 # <a name="copy-files-in-sharepoint-and-onedrive"></a>Kopieren von Dateien in SharePoint und OneDrive
 

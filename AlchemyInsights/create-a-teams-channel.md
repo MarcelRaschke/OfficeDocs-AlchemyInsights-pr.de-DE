@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5039"
-ms.openlocfilehash: bbee6f1c68cfe0f54f2c990ce03ac99317ab3430
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b9ca30598f95c1456cc5be664eeafdddbb6654da
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62761247"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63205304"
 ---
 # <a name="create-a-teams-channel"></a>Erstellen eines Teams-Kanals
 

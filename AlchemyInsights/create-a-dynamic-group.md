@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6156"
 - "9003234"
-ms.openlocfilehash: 526898606362648d2c5252b35d98bb89eb5ab2d8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e5c2d1180f9a9126cbd9bcfa8dd1bd6a18ca00eb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62640804"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63205556"
 ---
 # <a name="create-a-dynamic-group"></a>Erstellen einer dynamischen Gruppe
 

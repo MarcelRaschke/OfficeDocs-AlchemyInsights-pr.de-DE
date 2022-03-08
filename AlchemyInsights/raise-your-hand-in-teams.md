@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002646"
 - "5086"
-ms.openlocfilehash: acff9932a46a12ccf0ca4c87fe9b9f57c6dd1333
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f5405502d28e6e926dcf7aaa5d184f30d40735b5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62716677"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63223773"
 ---
 # <a name="raise-your-hand-in-teams"></a>Heben Sie Ihre Hand in Teams!
 

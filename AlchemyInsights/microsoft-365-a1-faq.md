@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "4981"
 - "9002568"
 ms.date: 07/30/2021
-ms.openlocfilehash: bf1c942b2b80782408e8c4463963425d0c4fe4ac
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 57022cfbefd1e02f623ff4afcc1d1a7eaf487aea
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62649570"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63202028"
 ---
 # <a name="microsoft-365-a1-faq"></a>Microsoft 365 A1 – Häufig gestellte Fragen
 

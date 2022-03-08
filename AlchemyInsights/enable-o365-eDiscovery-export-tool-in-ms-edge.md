@@ -8,23 +8,23 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
 - "11694"
 - "9006005"
-ms.openlocfilehash: a6d4ac55676096cc58d1c40e96e807a21fdbad8e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 532a0d81d05535c2eec9720772363e96d6a0627f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62759231"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63203998"
 ---
 # <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Aktivieren Office 365 eDiscovery-Exporttools in Microsoft Edge
 
-Die Unterstützung für ClickOnce ist in Microsoft Edge standardmäßig nicht mehr aktiviert. Um weiterhin das Microsoft Office 365 eDiscovery-Exporttool verwenden zu können, müssen Sie Microsoft Internet Explorer verwenden oder die Option ClickOnce Support in Chromium-basierten Microsoft Edge aktivieren, wie folgt:
+Die Unterstützung für ClickOnce ist in Microsoft Edge standardmäßig nicht mehr aktiviert. Um das Microsoft Office 365 eDiscovery-Exporttool weiterhin verwenden zu können, müssen Sie Microsoft Internet Explorer verwenden oder die Option ClickOnce Support in Chromium-basierten Microsoft Edge wie folgt aktivieren:
 
 1. Wechseln Sie zu edge://flags/#edge-click-once.
 1. Ändern Sie für die **Option ClickOnce Support** den Wert von **"Standard**" oder **"Deaktiviert"** in "**Aktiviert"**.

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11508"
 - "9005365"
-ms.openlocfilehash: af0fcdc07569e1a4201b1c6e194d936a8a3ac91d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 67721153a90c74df9bffd4b71fa66dceb5bfdf2b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62734877"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63203612"
 ---
 # <a name="fix-the-audio-quality-of-my-bluetooth-device"></a>Reparieren der Audioqualität meines Bluetooth-Geräts
 

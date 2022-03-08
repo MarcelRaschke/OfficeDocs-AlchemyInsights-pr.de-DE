@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003533"
 - "13814"
-ms.openlocfilehash: 9d6e1a7bb96516a2fbb5f6b099db328fe62113d0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 27da94f3bccd49e6600c8fc9944fc6a01af4fc12
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62584835"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63221793"
 ---
 # <a name="servicing-profiles-in-microsoft-365-apps-admin-center"></a>Wartungsprofile im Microsoft 365 Apps Admin Center
 

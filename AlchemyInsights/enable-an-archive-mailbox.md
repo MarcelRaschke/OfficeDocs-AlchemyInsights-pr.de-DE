@@ -7,17 +7,17 @@ audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: cf2a5d73f97986b2bdf2de27f57cb89dfd580ed3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bf19f5e4b11e0e6b1efbfaa248665c6596fbcdd0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62734985"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63204044"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivieren eines Archivpostfachs
 

@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "16400"
 ms.date: 01/21/2022
-ms.openlocfilehash: 5ee9988eec4d82178369851ebd1cc855501b4cc6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0e947984667cbef57d8c888cd21abdfc2af7ade2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62571303"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63222009"
 ---
 # <a name="allow-users-to-send-as-a-microsoft-365-group"></a>Benutzern das Senden als Microsoft 365 Gruppe gestatten
 

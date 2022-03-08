@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003304"
 - "6207"
-ms.openlocfilehash: 9e52b016959d82f9d4bd2ede288397482c49cff6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1adc1a2df6b27fb77c4665451e26768cdaedca83
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62548479"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63222153"
 ---
 # <a name="screen-sharing-not-working-in-teams"></a>Bildschirmfreigabe in Teams funktioniert nicht
 

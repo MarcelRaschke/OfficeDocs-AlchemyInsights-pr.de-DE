@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: d9971ae35154415f5f88fcda9922badcd454fec8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 62ee2737e33141ad4079320b2fa5d51396b2d76d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62577785"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63204836"
 ---
 # <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Wenn Sie beim Herunterladen einer Nachrichtenablaufverfolgung "benutzerdefiniertes Fehlermodul erkennt diesen Fehler nicht" erhalten?
 

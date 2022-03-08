@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: 1e7daeae35716e34de524d4089dddae4dfbef340
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 950fb6c5c3dbf957904263bd57ff81b20796207d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62607768"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63205448"
 ---
 # <a name="create-a-microsoft-365-group-connected-team-site"></a>Erstellen einer Microsoft 365 mit einer Gruppe verbundenen Teamwebsite
 

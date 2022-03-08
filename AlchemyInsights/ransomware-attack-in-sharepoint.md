@@ -8,18 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: ''
 ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: df452ac2c77d1e7be7ba5cf3d414aac70d538f4c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7f731dfab2f3c7cd1ff58a122892f85e48bbee2f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62618196"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63223665"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware-Angriff in SharePoint oder OneDrive
 
@@ -30,7 +30,7 @@ ms.locfileid: "62618196"
 
 3.  Sind alle Dateien auf Ihrem OneDrive oder SharePoint von Ransomware oder Schadsoftware oder Krypto-Virus betroffen? 
 
-Beenden/unterbrechen Sie sofort die OneDrive Synchronisierung (sofern vorhanden), oder trennen Sie die Explorer-Ansicht, die der Bibliothek vom betroffenen Computer zugeordnet ist (sofern vorhanden), und dann können Sie die gesamte OneDrive oder SharePoint Bibliothek auf ein früheres Mal wiederherstellen, indem Sie die Dateiwiederherstellungsfunktion verwenden. 
+Beenden/unterbrechen Sie sofort die OneDrive Synchronisierung (sofern vorhanden), oder trennen Sie die Explorer-Ansicht, die der Bibliothek vom betroffenen Computer zugeordnet ist (sofern vorhanden), und dann können Sie die gesamte OneDrive oder SharePoint Bibliothek mithilfe der Dateiwiederherstellungsfunktion auf ein früheres Mal wiederherstellen. 
 
 Weitere Informationen zum Wiederherstellen finden Sie unter:
 

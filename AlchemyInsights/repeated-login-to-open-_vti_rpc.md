@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "245"
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 9aa15cd6fa0602553d9c46f4cdc4a05fa23ce00c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 844fc249f112304e57a25bfca5e4b8084ffcd761
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62598970"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63212649"
 ---
 # <a name="repeated-login-to-open-_vti_rpc"></a>Wiederholte Anmeldung zum Öffnen _vti_rpc
 

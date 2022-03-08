@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "16328"
 ms.date: 01/13/2022
-ms.openlocfilehash: 7f642f8d7c2b1929cec1e5f94b78fabc806ff482
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8c95b74ace26ec44e3c67ebf5c5f53a27145e761
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62707389"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63223089"
 ---
 # <a name="about-registration-numbers"></a>Informationen zu Registrierungsnummern
 

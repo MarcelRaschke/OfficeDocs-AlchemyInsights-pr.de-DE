@@ -7,18 +7,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1453"
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: cc824db4f97cdac2b5c4a362da47791899f2acc9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e494236f7018b84237eb622a2a4a0fe3d12275f8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62599114"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63212793"
 ---
 # <a name="dynamics-365-portals-recommended-solutions"></a>Empfohlene Lösungen für Dynamics 365-Portale
 

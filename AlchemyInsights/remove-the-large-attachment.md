@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "2713"
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: ed11daa099b7416471b099547dcaece3a68ad8bf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0c3bbf04087fc73a927d753bb8fbd9bca6d5574f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62633082"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63223017"
 ---
 # <a name="remove-the-large-attachment"></a>Entfernen der großen Anlage
 
@@ -27,7 +27,7 @@ ms.locfileid: "62633082"
 2. Wählen Sie im Navigationsbereich **"Postausgang" aus**. Von hier aus haben Sie folgende Möglichkeiten: 
     - Löschen Sie die Nachricht (wählen Sie sie aus, und klicken Sie dann auf **"Löschen**").
     - Ziehen Sie die Nachricht in den Ordner "Entwürfe", doppelklicken Sie, um sie zu öffnen, und entfernen Sie die Anlage, und wählen Sie dann **"Löschen**" aus.
-3. Wenn ein Fehler angezeigt wird, der besagt, Outlook versucht, die Nachricht zu übertragen, schließen Sie Outlook. Es kann ein paar Minuten dauern, bis sie beendet ist. Wenn Outlook nicht geschlossen wird, drücken Sie STRG+ALT+ENTF, und wählen Sie **Task-Manager starten** aus. Wählen Sie im Task-Manager die Registerkarte **"Prozesse** " aus, scrollen Sie nach unten zu outlook.exe, und wählen Sie **"Prozess beenden**" aus.
+3. Wenn ein Fehler angezeigt wird, der besagt, dass Outlook versucht, die Nachricht zu übertragen, schließen Sie Outlook. Es kann ein paar Minuten dauern, bis sie beendet ist. Wenn Outlook nicht geschlossen wird, drücken Sie STRG+ALT+ENTF, und wählen Sie **Task-Manager starten** aus. Wählen Sie im Task-Manager die Registerkarte **"Prozesse** " aus, scrollen Sie nach unten zu outlook.exe, und wählen Sie **"Prozess beenden**" aus.
 4. Nachdem Outlook geschlossen wurde, starten Sie ihn neu, und wiederholen Sie die Schritte 2 und 3. 
 5. Nachdem Sie die Anlage entfernt haben, klicken Sie auf **"Senden/Empfangen** >  **Offline**", um die Onlinearbeit fortzusetzen. 
 

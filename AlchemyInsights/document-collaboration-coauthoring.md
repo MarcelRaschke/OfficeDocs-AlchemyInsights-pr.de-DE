@@ -8,18 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.assetid: ''
 ms.custom:
 - "9006405"
 - "12387"
-ms.openlocfilehash: ffbbf9f093c7d32638f1d7c3ff40c18ce7491735
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8ce44e5a3b4de8e42053734afa44b09c0c237fcf
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62722352"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63204224"
 ---
 # <a name="document-collaboration-and-co-authoring"></a>Zusammenarbeit und gemeinsame Dokumenterstellung
 
@@ -28,7 +28,7 @@ Die gemeinsame Dokumenterstellung ist für Office-Dokumente verfügbar, die in O
 Um gemeinsam mit anderen Autoren zu erstellen, benötigen Sie Folgendes:    
 
 - **Ein freigegebener Speicherbereich** OneDrive, OneDrive für Arbeit oder Schule, SharePoint und SharePoint Server sind freigegebene Speicherbereiche, die die gemeinsame Dokumenterstellung ermöglichen.
-- **Apps, die die gemeinsame Dokumenterstellung unterstützen** Word und PowerPoint auf allen Geräten und Versionen, die aktueller als Office 2010 sind, unterstützen die gemeinsame Dokumenterstellung. Die Excel mobile Apps und die neueste Version von Excel für Microsoft 365 auch die gemeinsame Erstellung unterstützen.
+- **Apps, die die gemeinsame Dokumenterstellung unterstützen** Word und PowerPoint auf allen Geräten und Versionen, die aktueller als Office 2010 sind, unterstützen die gemeinsame Dokumenterstellung. Die Excel mobile Apps und die neueste Version von Excel für Microsoft 365 auch die gemeinsame Dokumenterstellung unterstützen.
 - **Ein dokumentfreundliches Dokument zur gemeinsamen Dokumenterstellung** Die gemeinsame Dokumenterstellung wird nur in modernen Dateiformaten unterstützt, einschließlich: .docx (Word), .pptx (PowerPoint) und .xlsx (Excel).
 - **Bearbeiten von Berechtigungen für Mitautoren** Alle Mitautoren müssen über die Berechtigung verfügen, auf die Dokumente zuzugreifen und sie zu bearbeiten.
 

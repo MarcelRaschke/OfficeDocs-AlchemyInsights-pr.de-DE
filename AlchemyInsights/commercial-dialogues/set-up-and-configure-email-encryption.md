@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 386ec9e79e00a193f695aa7ee40fda335fab8526
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 62211116b10579d792416b46572238dbcb187fe1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62761391"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63206132"
 ---
 # <a name="set-up-and-configure-email-encryption"></a>Einrichten und Konfigurieren der E-Mail-Verschlüsselung
 

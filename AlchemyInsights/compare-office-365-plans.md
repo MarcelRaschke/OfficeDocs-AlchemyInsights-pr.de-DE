@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
@@ -16,12 +16,12 @@ ms.custom:
 - "1500026"
 ms.date: 07/30/2021
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 03384c5054e5a06be9cf165aeaa517c126bc7ae4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1cc36cbcb2b6dec16672bba53f56813ecd1f130a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62711830"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63206024"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>Vergleichen, Aktualisieren oder Erwerben von Abonnements
   

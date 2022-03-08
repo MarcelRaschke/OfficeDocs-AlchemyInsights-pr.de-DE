@@ -8,16 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - "695"
 - "3500010"
-ms.openlocfilehash: fb60bf8c549becb00038dfb9d02473bd016e69ff
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 50fa555cc8439ca1f19b2b7526e44a361edd28ec
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62748287"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63204800"
 ---
 # <a name="cutover-migrations"></a>Übernahmemigrationen
 

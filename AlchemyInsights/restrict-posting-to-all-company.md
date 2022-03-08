@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003219"
 - "9667"
-ms.openlocfilehash: fb3527d3a21a8bd9f8ba5ded8bb8d5da98c7a5c8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6b20174dbce395d50b7898ec3b6144df7db681d7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62728638"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63222297"
 ---
 # <a name="restrict-posting-to-all-company"></a>Einschränken der Veröffentlichung auf "Gesamtes Unternehmen"
 

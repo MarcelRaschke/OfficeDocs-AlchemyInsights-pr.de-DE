@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: e0e9242cd8ae61a33a244bd15f5fd70a25fd197d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f4e35c622965f1c8101d6dc51fb84ab8c4b4c2f3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62716067"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63222981"
 ---
 # <a name="remove-an-account-in-windows-10"></a>Entfernen eines Kontos in Windows 10
 

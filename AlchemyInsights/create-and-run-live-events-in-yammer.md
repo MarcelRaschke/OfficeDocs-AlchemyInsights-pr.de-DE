@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002495"
 - "4834"
-ms.openlocfilehash: 32303915b35deffcb1f8d136adb4ff0e64775e69
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a6794604a688577f084b4ea19322fb5e23e4f9a4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62748578"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63205232"
 ---
 # <a name="create-and-run-live-events-in-yammer"></a>Live-Ereignisse in Yammer erstellen und abhalten
 

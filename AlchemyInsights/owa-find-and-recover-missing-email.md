@@ -8,16 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "8000003"
 - "1991"
-ms.openlocfilehash: b5ff84c16fe2bab262cd23cb3194e5c409c8e2cd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 98165328e95b714c7efc19f2eab71bb1720c84a5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62618556"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63223881"
 ---
 # <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-in-outlook-on-the-web"></a>Suchen und Wiederherstellen fehlender oder gelöschter E-Mails, Kalenderereignisse oder Kontakte in Outlook im Web
 

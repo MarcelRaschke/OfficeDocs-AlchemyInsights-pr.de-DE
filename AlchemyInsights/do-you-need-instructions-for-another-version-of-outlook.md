@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: 78f6ff777889f6f09a13259b8cf5ba2f607f85b9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7964254f458fd68903290c5c71af928bbdc1de8d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62606616"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63204260"
 ---
 # <a name="do-you-need-instructions-for-another-version-of-outlook"></a>Benötigen Sie Anweisungen für eine andere Version von Outlook?
 

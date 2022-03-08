@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: c4ca0f343dabd1aac482b251f88c592d80f20881
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 15fade4d9364b3c5feb8add4956779fdda5b108c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62716281"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63223413"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>Wiederherstellen von Elementen in SharePoint Online
 

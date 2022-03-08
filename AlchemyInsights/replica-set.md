@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004400"
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: cce01ec65df356069136ebe3e3ccc9e315dd9bdb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bbee442cb34fc4ce072c9cc68aa0c28d7c8b3623
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62617728"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63222729"
 ---
 # <a name="replica-set"></a>Replikatsatz
 

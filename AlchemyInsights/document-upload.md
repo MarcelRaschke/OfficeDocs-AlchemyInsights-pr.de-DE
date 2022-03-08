@@ -7,16 +7,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: a184d9a3eab6d902eb583b03027b7b32104aef90
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3f2000ce985bf3dfe51a4dc064d02466330e2942
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62606603"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63204152"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>Hochladen Von Dateien zu OneDrive oder SharePoint
 

@@ -1,5 +1,5 @@
 ---
-title: STRG+H zeigt "Suchen" und nicht "Ersetzen" in Excel 2016
+title: STRG+H zeigt "Suchen", nicht "Ersetzen" in Excel 2016
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 75f31edfabfd7c6be417022ddfa82a6dd7cfd9bf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e7b734a8ed84a7a690bea50d0c1751be372e5c4f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62653835"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63204980"
 ---
 # <a name="ctrlh-shows-find-not-replace-in-excel"></a>STRG+H zeigt "Suchen", nicht "Ersetzen" in Excel
 
