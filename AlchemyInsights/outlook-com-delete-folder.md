@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "271"
 - "8000016"
 ms.assetid: 052172e6-bee2-4466-b674-75187f0225e5
-ms.openlocfilehash: f7c823c8f1d355d51973733f9515e047d71a522f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6297078dca99989f432aba25996eff33eba5393a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62708361"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63224601"
 ---
 # <a name="delete-a-folder-in-outlookcom"></a>Löschen eines Ordners in Outlook.com
 

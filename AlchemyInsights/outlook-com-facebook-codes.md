@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: 6614a2bf640250aea8b001b5a1aa84698d16f40f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bea35e2c5e7d84143e0a845ece8e3e48d1498a2a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62588242"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63271385"
 ---
 # <a name="not-receiving-facebook-codes-using-outlookcom"></a>Kein Empfang von Facebook-Codes mit Outlook.com
 

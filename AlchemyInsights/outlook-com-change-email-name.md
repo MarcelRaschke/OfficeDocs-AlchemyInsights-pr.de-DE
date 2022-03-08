@@ -1,5 +1,5 @@
 ---
-title: Ändern Des E-Mail-Namens in Outlook.com
+title: Ändern Ihres E-Mail-Namens in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: bd518b8880191046744e60ca5007df9e7160e46c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b7994386cf8cad3481a23766f701aef631759e58
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62718369"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63283301"
 ---
 # <a name="change-your-email-name"></a>Ändern Des E-Mail-Namens
 
@@ -30,7 +30,7 @@ Wenn Sie über eine Outlook.com-E-Mail-Adresse verfügen und den Namen ändern m
 
 Es kann bis zu 24 Stunden dauern, bis Änderungen an Ihrem Profilnamen wirksam werden.
   
-Wenn Sie mehr als einen E-Mail-Alias oder eine E-Mail-Adresse mit Ihrem Outlook.com-Konto verbunden haben, können Sie eine E-Mail von einer Beliebigen Ihrer Adressen senden.
+Wenn Sie mehr als einen E-Mail-Alias oder eine E-Mail-Adresse mit Ihrem Outlook.com-Konto verbunden haben, können Sie eine E-Mail von einer Ihrer Adressen senden.
   
 1. Wählen Sie beim Verfassen einer Nachricht "..." aus. am unteren Rand des Fensters zum Verfassen.
 1. Wählen Sie **"Von anzeigen" aus** , um die Zeile "Von" anzuzeigen.

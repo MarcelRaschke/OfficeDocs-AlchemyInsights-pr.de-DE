@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "3043"
 - "1500012"
 ms.date: 07/30/2021
-ms.openlocfilehash: 997c9c0a2468b6315ad3b8beb6e69836ae6f502d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4a79da282454bc863e06304a0a1738bf65283f34
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62736498"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63249155"
 ---
 # <a name="renewing-your-subscription"></a>Verlängern Ihres Abonnements
 
@@ -34,4 +34,4 @@ So aktivieren Sie die wiederkehrende Abrechnung:
 2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie ändern möchten.
 3. Wählen Sie auf der Seite Abonnementdetails, unter **Abonnement- und Zahlungseinstellungen**, **Wiederkehrende Abrechnung bearbeiten** aus.
 4. Wählen Sie im Bereich **Einstellungen für die wiederkehrende Abrechnung bearbeiten** zwischen den Optionen **Ein**, **Ein, aber einmal verlängern** oder **Deaktivieren** aus.
-5. Wählen Sie **Speichern**. 
+5. Klicken Sie auf **Speichern**. 

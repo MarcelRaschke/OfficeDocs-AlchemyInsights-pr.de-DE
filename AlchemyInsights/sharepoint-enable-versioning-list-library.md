@@ -8,18 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: d1c0ad72ef1dbd74a0634e22e4f43853379dc6f7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 457ac72cb600ed6a0b40331471835ee921d0fa8c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62727261"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63282509"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Versionsverwaltung in SharePoint und OneDrive 
 

@@ -7,22 +7,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: c508f18f-7e74-43ac-bc93-22c71642d454
 ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: a54304bca612026656111aac5a17311881f6d981
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f8009b62ae47e7716623ec7280f9745eaf3b249b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62752031"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63282437"
 ---
 # <a name="modernize-your-sharepoint-sites"></a>Modernisieren Ihrer SharePoint Websites
 
-Eine schrittweise Übersicht über die Modernisierung Ihrer klassischen SharePoint Websites auf die moderne Benutzeroberfläche finden Sie unter ["Modernisieren Ihrer klassischen SharePoint Websites"](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Eine schrittweise Übersicht über die Modernisierung Ihrer klassischen SharePoint Websites auf die moderne Benutzeroberfläche finden Sie unter ["Modernisieren Ihrer klassischen SharePoint Websites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)".
 
 * Wenn Sie die Nutzung der modernen Benutzeroberfläche für Ihre Websiteseiten sowie Bibliotheks- und Listenseiten weiter ausbauen möchten, sehen Sie sich den Artikel [Modernisieren der Benutzeroberfläche ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface) an.
 * Weitere Informationen zum Freischalten Ihrer Listen und Bibliotheken für die Nutzung mit der modernen Benutzeroberfläche finden Sie im Artikel [Maximieren der Verwendung der modernen Benutzeroberfläche für Listen und Bibliotheken](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).

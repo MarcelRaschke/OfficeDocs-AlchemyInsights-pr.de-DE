@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 0affebaf9c71aedf47fe5f271df98866b81c6b42
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0f5de1a517447b055adcbf75a5051dc833420698
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62571951"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63282833"
 ---
 # <a name="print-spooler-issue-is-resolved"></a>Druckerspoolerproblem wurde behoben
 

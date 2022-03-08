@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004146"
 - "7241"
-ms.openlocfilehash: e9e1e218ab5e79b464843b19514fd0ee8a7b1d89
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c21c782215171dcc07f082f695d0f31566723b2b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62580141"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63218517"
 ---
 # <a name="block-downloads-for-sharepoint-and-onedrive"></a>Blockieren von Downloads für SharePoint und OneDrive
 

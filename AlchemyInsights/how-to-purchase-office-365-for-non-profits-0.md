@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
@@ -16,12 +16,12 @@ ms.custom:
 - "1500010"
 ms.date: 04/21/2020
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: bdfce75adddacb589874c92bd5c8286d6c7df1a8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1e1cf7138f95086c06266bcfaa4da030a0e7f42b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62684239"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63236787"
 ---
 # <a name="microsoft-365-for-nonprofits---declined"></a>Microsoft 365 für gemeinnützige Organisationen – abgelehnt
 

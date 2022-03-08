@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: 1ffd9ad9515cd38b4723e381d9e76ec4ec99cb7f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 43d6ddcb0fe6388ed39c04a1205e50fb7b00eea9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62719577"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63283373"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Hinzufügen Ihrer anderen E-Mail-Konten zu Outlook.com
 
@@ -29,7 +29,7 @@ So fügen Sie ein verbundenes Konto hinzu:
 
 1. Öffnen Sie Ihre [Einstellungen für die Synchronisierungs-E-Mail](https://go.microsoft.com/fwlink/?linkid=875264).
 2. Wählen Sie unter **"Verbundene Konten**" **Gmail** - oder **andere E-Mail-Konten** aus.
-3. Geben Sie auf der Verbinden Seite Ihres Kontos einen Anzeigenamen (der Name wird Empfängern angezeigt, wenn sie eine E-Mail-Nachricht von Ihnen erhalten) sowie die vollständige E-Mail-Adresse und das Kennwort des E-Mail-Kontos ein, das Sie mit Ihrem Outlook.com-Konto verbinden möchten.
+3. Geben Sie auf der Verbinden Seite Ihres Kontos einen Anzeigenamen (der Name, den Empfänger sehen, wenn sie eine E-Mail-Nachricht von Ihnen erhalten) sowie die vollständige E-Mail-Adresse und das Kennwort des E-Mail-Kontos ein, das Sie mit Ihrem Outlook.com-Konto verbinden möchten.
 
 Sie können E-Mails von jedem Konto senden, das Sie mit Ihrem Outlook.com-Konto verbunden haben. Wählen Sie beim Verfassen einer E-Mail **aus** , und wählen Sie aus, welche E-Mail-Adresse Sie verwenden möchten, oder [aktualisieren Sie Ihre Standardmäßige Absenderadresse](https://go.microsoft.com/fwlink/?linkid=875264).
 

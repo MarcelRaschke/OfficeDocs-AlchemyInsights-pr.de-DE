@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 5c11e53bfc82e35fb2c3bdd92a92c1909bd9189d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: aa6fa20bde73070c4ba2b755f2d4c38c10bdee6d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62672431"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63249785"
 ---
 # <a name="dedicated-azure-support"></a>Dedizierter Azure-Support
 

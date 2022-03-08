@@ -1,24 +1,23 @@
 ---
 title: Vorbereiten für die Verwendung von TLS 1.2 in Microsoft 365
-ms.author: cmcatee
 author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Critical
+ms.localizationpriority: high
 ms.custom:
-- "1266"
 - "1600052"
-ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: f24d4c50f04b61e1d283fb77a04a23393ac85f92
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+- "1266"
+ms.date: 04/21/2020
+ms.openlocfilehash: 022b6ace3a8330217f8346ab49a00bd14959766e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62665303"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63283013"
 ---
 # <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a>Vorbereiten für die Verwendung von TLS 1.2 in Microsoft 365
 

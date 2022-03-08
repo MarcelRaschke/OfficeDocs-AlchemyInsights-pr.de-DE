@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "279"
 - "8000020"
 ms.assetid: 37fc1455-7324-4c76-9a94-085a45e94c51
-ms.openlocfilehash: 095db3f65a8e5f7ede3c46a78a311584eda3e99e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b5034ce2eef9797c93ebc3d63dc5d77a44d95a00
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62708325"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63271457"
 ---
 # <a name="export-your-contacts-in-outlookcom"></a>Exportieren Ihrer Kontakte in Outlook.com
 

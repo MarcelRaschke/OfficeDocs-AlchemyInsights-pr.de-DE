@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: a2436d43aec9c9794b7fd63bd9543e92099faf23
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 079c1a6e65f4c2d8f37c1c12c8d5aebe0ca4d204
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62709297"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63297829"
 ---
 # <a name="how-to-right-click-on-a-mac"></a>So klicken Sie mit der rechten Maustaste auf einen Mac
 

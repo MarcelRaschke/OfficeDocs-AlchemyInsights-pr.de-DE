@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
@@ -17,12 +17,12 @@ ms.custom:
 - "1500009"
 ms.date: 04/21/2020
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: a5cd1d26dfae0dbbee130b99b3eced1849a20420
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9bd09e3c5931ceadaae150bb5e86c612ff922ba6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62638338"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63236859"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>So erwerben Sie Office 365 Education Pläne
 

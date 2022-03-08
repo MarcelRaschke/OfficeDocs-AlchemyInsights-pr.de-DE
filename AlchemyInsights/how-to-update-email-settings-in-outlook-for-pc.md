@@ -8,16 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: 0591020cf6fdf48d4299e3c60c610f80ae942537
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 602ad87af7086276609056bea0012ed675564c87
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62552145"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63236607"
 ---
 # <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Aktualisieren von E-Mail-Einstellungen in Outlook für PCs
 
@@ -25,7 +25,7 @@ ms.locfileid: "62552145"
 
 2. Wählen Sie das E-Mail-Konto aus, das Sie ändern möchten, und klicken Sie dann auf **"Ändern**". 
 
-3. Aktualisieren Sie auf der **Einstellungen** Seite Ihre Namen für eingehende und ausgehende Server, Ihre E-Mail-Adresse, Ihren Namen, Ihren Benutzernamen und Ihr Kennwort nach Bedarf. Wenn Sie Ihre SSL-Einstellungen oder Porteinstellungen ändern müssen, klicken Sie auf **"Weitere Einstellungen**". Die am häufigsten zu aktualisierenden Einstellungen befinden sich auf der Registerkarte " **Ausgehender Server** " und auf der Registerkarte **"Erweitert** ".
+3. Aktualisieren Sie auf der **Einstellungen** Seite Ihre Namen für eingehende und ausgehende Server, Ihre E-Mail-Adresse, Ihren Namen, Ihren Benutzernamen und Ihr Kennwort nach Bedarf. Wenn Sie Ihre SSL-Einstellungen oder Porteinstellungen ändern müssen, klicken Sie auf **Weitere Einstellungen**. Die am häufigsten zu aktualisierenden Einstellungen befinden sich auf der Registerkarte " **Ausgehender Server** " und auf der Registerkarte **"Erweitert** ".
 
 4. Wenn Beim Senden von E-Mails Probleme auftreten oder Nachrichten über Ihren ausgehenden Server empfangen werden, stellen Sie sicher, dass das Kontrollkästchen " **Meine ausgehenden Server (SMTP) die Authentifizierung erfordert** " aktiviert ist.
 

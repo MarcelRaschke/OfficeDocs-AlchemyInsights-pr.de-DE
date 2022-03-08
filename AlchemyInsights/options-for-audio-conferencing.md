@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002334"
 - "4542"
-ms.openlocfilehash: b0030cc886690fab0ca544f5b484681525bfd703
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 780980adbdb8081ff54384b2e5a70b777ae89b36
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62619204"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63283553"
 ---
 # <a name="options-for-audio-conferencing"></a>Optionen für Audiokonferenzen
 

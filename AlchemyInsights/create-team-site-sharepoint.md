@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "5200004"
 - "3177"
 ms.assetid: ''
-ms.openlocfilehash: 349c2759cc5c800fb492377a8b7be4b8acdd4bc4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 163a1d9c457c681995a199fed7cb1356c8c0faa7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62640615"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63249246"
 ---
 # <a name="how-to-create-a-team-site-in-sharepoint"></a>So erstellen Sie eine Teamwebsite in SharePoint
 

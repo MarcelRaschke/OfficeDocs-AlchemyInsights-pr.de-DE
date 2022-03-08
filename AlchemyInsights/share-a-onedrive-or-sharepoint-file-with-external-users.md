@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
-ms.openlocfilehash: 81a55d2c77e015c9e1c2ae9668f7a0fd2aaa3a09
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f79b1c0f76b7bdd72c421b537e228f6b52c6ccbc
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62679199"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63282761"
 ---
 # <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>Freigeben einer OneDrive oder SharePoint Datei oder eines Ordners für externe Benutzer
 

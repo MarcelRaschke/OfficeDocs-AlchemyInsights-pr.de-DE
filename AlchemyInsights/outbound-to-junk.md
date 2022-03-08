@@ -8,16 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 059c2606fa6a3a1115db7a604374f642a7597658
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 766425d4d1d64d87de85e7f9c5593e262a207fc7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62719845"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63283409"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Ausgehende E-Mails im Junk-E-Mail-Ordner
 

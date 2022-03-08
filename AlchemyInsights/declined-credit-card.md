@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
@@ -16,12 +16,12 @@ ms.custom:
 - "1500018"
 ms.date: 08/10/2021
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 96091d2dbbf24347f2dda4a95ada9efe8a169499
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e3ce325564c0d0bd22741fb518a919a27162731a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62748217"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63249209"
 ---
 # <a name="declined-credit-card"></a>Abgelehnte Kreditkarte
 

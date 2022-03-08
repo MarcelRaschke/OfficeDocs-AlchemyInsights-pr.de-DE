@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d2b2e3f2c8f6bc5c993afe11cfe5d813212a22ba
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f77a842ab9621e677afbabf43e2070b7733de30d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62552115"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63236463"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Überwachungsprotokolle für gelöschte E-Mail-Nachrichten
 
@@ -35,7 +35,7 @@ Ab Januar 2019 aktiviert Microsoft standardmäßig die Postfachüberwachungsprot
 
 3. Wenn Sie den Vorgang abgeschlossen haben, klicken Sie auf **Suchen**. Die Aktivitäten werden auf der neuen Seite **Suche überwachen** angezeigt.
 
-4. Wählen Sie in den Ergebnissen einen Überwachungsdatensatz aus. Im angezeigten Detail-Flyout werden zusätzliche Informationen zum gelöschten Element (z. B. die Betreffzeile und der Speicherort des Elements, als es gelöscht wurde) im **Feld "Betroffene Elemente** " angezeigt. Die **ClientInfoString-Eigenschaft** zeigt an, ob der Löschvorgang in Outlook, Outlook im Web (früher als Outlook Web App bezeichnet) oder einem anderen Gerät erfolgt ist.
+4. Wählen Sie in den Ergebnissen einen Überwachungsdatensatz aus. Im angezeigten Detail-Flyout werden zusätzliche Informationen zum gelöschten Element (z. B. die Betreffzeile und der Speicherort des Elements, als es gelöscht wurde) im **Feld "Betroffene Elemente** " angezeigt. Die **ClientInfoString-Eigenschaft** zeigt an, ob der Löschvorgang in Outlook, Outlook im Web (früher als Outlook Web App bezeichnet) oder auf einem anderen Gerät erfolgt ist.
 
 Weitere Informationen finden Sie unter [Ermitteln, wer die E-Mail-Weiterleitung für ein Postfach eingerichtet](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items) hat.
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 02962b27c6dbdc529340cb27170ac2c63d198fad
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 355360cea589dab9ad469c5af8ed0b6a62e1d13f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62705913"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63249713"
 ---
 # <a name="enable-or-disable-a-journal-rule"></a>Aktivieren oder Deaktivieren einer Journalregel
 

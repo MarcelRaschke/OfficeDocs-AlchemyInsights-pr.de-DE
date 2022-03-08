@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: bd09cc53726092038ef32963bf897c4a5623504e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 140a73cc32853b744b732ee8177e8b1967238df9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62756567"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63236355"
 ---
 # <a name="identify-holds-placed-on-mailboxes"></a>Identifizieren von Haltebereichen für Postfächer
 
@@ -38,4 +38,4 @@ Verfügen Sie über Microsoft 365 Inhalte, die in einem **Haltebereich** **aufbe
 
 - Microsoft 365 Bezeichnungen
 
-Informationen dazu, welche Art von Aufbewahrung auf das Postfach eines Benutzers angewendet wird, finden Sie unter ["Ermitteln des Haltebereichstyps für ein Exchange Online Postfach"](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Informationen dazu, welche Art von Aufbewahrung auf das Postfach eines Benutzers angewendet wird, finden Sie unter ["Identifizieren des Haltebereichstyps für ein Exchange Online Postfach"](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).

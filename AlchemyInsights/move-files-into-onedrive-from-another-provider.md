@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003086"
 - "5851"
-ms.openlocfilehash: 83c06172b6833c60975ad5b5f9c37abf055cdbbf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a50bcf0c3b2e3c37976f0e2defdee3c686460741
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62744579"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63225213"
 ---
 # <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>Verschieben von Dateien von einem anderen Cloudanbieter in OneDrive for Business
 

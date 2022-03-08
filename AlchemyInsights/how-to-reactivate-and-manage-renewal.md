@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
@@ -16,12 +16,12 @@ ms.custom:
 - "1500012"
 ms.date: 08/10/2021
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 3f4bd149d36b30ef05ea8374962873b7e5bfe498
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d14fe17d405fbc3d0a080262c6ba09b14d7d8e67
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62733797"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63297997"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Reaktivieren eines Abonnements und Verwalten der wiederkehrenden Abrechnung
 

@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "994"
 - "8000059"
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
-ms.openlocfilehash: 0a0979fcf7d3d984ade9585b281ac951dfd08981
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ab5016b092b97c4791504f2c57543719d99a84fa
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62577865"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63249317"
 ---
 # <a name="create-a-new-folder-in-outlookcom"></a>Erstellen eines neuen Ordners in Outlook.com
 

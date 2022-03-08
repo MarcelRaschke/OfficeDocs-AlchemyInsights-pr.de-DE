@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: e09a8290fc5e694d03a03be2008fd8e82adf7915
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 76846662bf4d0b03b0a42cdcc867858851c4cb67
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62692772"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63282545"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Wiederherstellen gelöschter Elemente aus SharePoint
 
@@ -38,7 +38,7 @@ Wenn Sie Elemente oder Websites aus SharePoint löschen, werden diese nicht sofo
 
 **Dateiwiederherstellungsfeature**
 
-Wenn viele Ihrer OneDrive- oder SharePoint-Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie die gesamte OneDrive oder SharePoint Bibliothek mithilfe der Dateiwiederherstellungsfunktion auf ein früheres Mal wiederherstellen.
+Wenn viele Ihrer OneDrive- oder SharePoint Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie die gesamte OneDrive oder SharePoint Bibliothek mithilfe der Dateiwiederherstellungsfunktion zu einem früheren Zeitpunkt wiederherstellen.
 
 - [Wiederherstellen einer OneDrive-Bibliothek](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "3568"
-ms.openlocfilehash: 83fae07f55a347e21738660ebb50ca8b3debeb0e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c48be4dc953cd264f5d94b3dac1416fce19a79ba
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62697776"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63224853"
 ---
 # <a name="office-365-video-transition-to-microsoft-stream"></a>Office 365 Videoübergang zu Microsoft Stream
 

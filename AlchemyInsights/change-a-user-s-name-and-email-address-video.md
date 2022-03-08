@@ -7,18 +7,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "7601"
 - "4"
-ms.openlocfilehash: 16d08a7cc76a1d61d85282df3f2bffbe5fc7495a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 52dde48ecebf55f7afe4bb7841f0b5cebf8efb16
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62558091"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63249857"
 ---
 # <a name="change-a-users-name-and-email-address"></a>Ändern des Benutzernamens und der E-Mail-Adresse eines Benutzers
 

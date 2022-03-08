@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 7c5186c372bf64927252dec477695495d98d8e93
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 23c6e0e0d7af19f9743ae746d7590f0b0309221b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62624352"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63249353"
 ---
 # <a name="send-automatic-replies-from-outlook"></a>Automatische Antworten von Outlook senden
 
