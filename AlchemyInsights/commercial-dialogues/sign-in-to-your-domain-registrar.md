@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 62865dc9c20986f4409ab449dabbaa46fcfeedce
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5dd2e3b0c8432d4a5b7dc6a1bacc9cd3216c68ce
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62641200"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63216825"
 ---
 # <a name="sign-in-to-your-domain-registrar"></a>Melden Sie sich bei Ihrer Domänenregistrierungsstelle an.
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11109"
-ms.openlocfilehash: 76f64c6a1802bcc5ac7071802fe8756cc1471338
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7535a3dd30468d6be8bb3d0af6a547fc27bfaa3a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62605307"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63214917"
 ---
 # <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Verwenden von updatebezogenen Gruppenrichtlinien, die in Microsoft Edge
 

@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 026d5ec00712c4310beea26af76c107a13e3180b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7caf0cd470c9bed1b6e289d5b0642d38dc31033e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62701124"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63215313"
 ---
 # <a name="external-sharing-with-a-team-site"></a>Externe Freigabe für eine Teamwebsite
 

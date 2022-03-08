@@ -8,19 +8,19 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9000734"
 - "9466"
 - "10006"
-ms.openlocfilehash: 9637d399b2c4a9b7f98ad4fe8b1b67f5f5bb3efa
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e4842bf4b766ba9b8fd77bb94b1b74944939800a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62611643"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63175711"
 ---
 # <a name="assign-policies-in-microsoft-teams"></a>Zuweisen von Richtlinien in Microsoft Teams.
 

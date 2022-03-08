@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: 08593ba75198c4074dbf1a8de7745be691147946
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 199b1fc0f0591a7a2bd219aa43fd0fd540ad25b2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62706201"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63216969"
 ---
 # <a name="create-an-email-signature-in-outlook-on-the-web"></a>Erstellen einer E-Mail-Signatur in Outlook im Web
 

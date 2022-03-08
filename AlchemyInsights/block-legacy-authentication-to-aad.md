@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "5906"
 - "9003122"
-ms.openlocfilehash: 3d6c536abf41a14c5ec23ecf4b52038ccef98dde
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5eab4d32008c94d79117199646c8b284b5168dec
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62643792"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63175073"
 ---
 # <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a>Blockieren der Legacyauthentifizierung für Azure AD mit bedingtem Zugriff
 

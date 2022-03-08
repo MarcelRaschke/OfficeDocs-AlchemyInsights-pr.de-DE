@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: 0b8bbf3a93adffe0e6384bc52ed12d2d82149b5c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a5cf8801a27362ec8bab67fd4342bf57afdcca69
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62759591"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63173119"
 ---
 # <a name="do-site-discovery"></a>Website-Ermittlung durchführen
 

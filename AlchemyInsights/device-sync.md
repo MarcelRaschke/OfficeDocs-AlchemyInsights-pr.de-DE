@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003245"
 - "9696"
-ms.openlocfilehash: dd32061472d9698f56fe3687c5a7b5446ddd88e0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 691db21b300843743d56d71e0a05d5a1899ff528
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62760527"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63215889"
 ---
 # <a name="device-sync"></a>Gerätesynchronisierung
 

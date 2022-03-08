@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: dea6711b2fd96d24d5e6a93b2b1f0ad8b055a506
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d70cd6ce6e028d6422bc7417001ce03c83197daf
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62762219"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63217221"
 ---
 # <a name="add-a-subdomain"></a>Hinzufügen einer Unterdomäne
 

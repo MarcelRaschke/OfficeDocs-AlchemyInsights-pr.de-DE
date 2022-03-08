@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: d6879fee31f82bb46689be75e02f52149948d5a4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: db139ecf4182b7bed056d7fb182621444072a7b5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62552043"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63236175"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Vorgehensweise, wenn ihre Postfachgröße bereits 100 GB beträgt
 
@@ -31,7 +31,7 @@ So aktivieren Sie die E-Mail-Archivierung:
     
 3. Wählen Sie im Detailbereich unter **"In-Situ-Archiv"** die Option **"Aktivieren**" aus. 
     
-4. Nach ein paar Minuten wird ein neuer Ordner im Outlook im Web des Benutzers mit dem Namen *"In-Situ-Archiv*" oder in Outlook App mit dem Namen *"Onlinearchiv " \<name\>* angezeigt. Ihr Benutzer kann E-Mails per Drag & Drop in das Archiv verschieben. 
+4. Nach ein paar Minuten wird ein neuer Ordner im Outlook im Web des Benutzers mit dem Namen "*In-Situ-Archiv*" oder in Outlook App mit dem Namen *"Onlinearchiv " \<name\>* angezeigt. Ihr Benutzer kann E-Mails per Drag & Drop in das Archiv verschieben. 
     
 Sie können auf einen unbegrenzten Speicherplatz für die Archivierung zugreifen. Weitere Informationen finden Sie unter [Aktivieren der unbegrenzten Archivierung](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
   

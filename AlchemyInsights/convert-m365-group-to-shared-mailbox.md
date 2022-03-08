@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "624"
 - "3500003"
-ms.openlocfilehash: e345545eb39f7febd47492ee29d3b2c8e2ebd67d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0e2aa1555a9efd0ab43b5f565966072820d7a23d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62737109"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63216393"
 ---
 # <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Konvertierung von Microsoft 365 Gruppen- und freigegebenen Postfächern
 

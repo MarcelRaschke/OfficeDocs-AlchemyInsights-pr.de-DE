@@ -8,15 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: e8116ab98b2623cc2b60fd78aba696cdeddd46d7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ae4032b2f54664ab6351b56fe8b37c0bf6e09b76
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62757683"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63172543"
 ---
 # <a name="fix-dkim-setup-issues"></a>Beheben von DKIM-Setupproblemen
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9890"
-ms.openlocfilehash: 75598cde1ba8bf478b18ed4efbcfb5861003baf5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1f0512b0ff85b94b9c9a6ab0240b7b6981191e6f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62674375"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63175495"
 ---
 # <a name="azure-active-directory-join"></a>Azure Active Directory Beitreten
 
@@ -27,4 +27,4 @@ ms.locfileid: "62674375"
 1. Stellen Sie sicher, dass Sie berechtigt sind, Vorgänge in Azure AD auszuführen. Nur ein globaler Administrator in Azure AD kann Einstellungen für Geräteregistrierungen verwalten.
 1. Informationen zu Azure AD Implementierung des Beitritts finden Sie unter [Plan Azure AD Join](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan).
 
-Weitere Informationen zum Beheben häufiger Probleme mit Azure AD Verknüpfung finden Sie unter [Häufig gestellte Fragen zu Azure Ad Join](https://docs.microsoft.com/azure/active-directory/devices/faq) und für Windows 10 Pro-Gerät finden Sie unter ["Nicht in der Lage, Windows 10 Pro Computer mit Azure AD – Upgrade auf – Microsoft Community zu verknüpfen](https://answers.microsoft.com/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900).
+Weitere Informationen zum Beheben häufiger Probleme mit Azure AD Verknüpfung finden Sie in den [häufig gestellten Fragen zum Beitritt zu Azure Ad](https://docs.microsoft.com/azure/active-directory/devices/faq) und für Windows 10 Pro-Gerät finden Sie unter ["Nicht in der Lage, Windows 10 Pro Computer mit Azure AD – Upgrade auf – Microsoft Community" zu verknüpfen](https://answers.microsoft.com/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900).

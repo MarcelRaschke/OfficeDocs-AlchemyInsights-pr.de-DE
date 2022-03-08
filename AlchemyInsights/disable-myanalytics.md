@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001697"
 - "5887"
-ms.openlocfilehash: 79b9d753a2a1df6eab5c3966be9fd134cefaa4b1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ebb6a34903a621eb3b4ea1bed760d74e6d2af041
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62669911"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63248597"
 ---
 # <a name="disable-myanalytics"></a>Deaktivieren von MyAnalytics
 

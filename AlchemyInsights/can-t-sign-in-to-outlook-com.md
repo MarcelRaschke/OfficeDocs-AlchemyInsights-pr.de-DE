@@ -8,19 +8,19 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "840"
 - "841"
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: b7cc8819df42019a534eba9e9190111bd23e6be8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 42900900049e5fdae86c4a160d472c958fe715a5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62558703"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63174847"
 ---
 # <a name="i-cant-sign-in-or-forgot-my-password"></a>Ich kann mich nicht anmelden oder mein Kennwort vergessen
 

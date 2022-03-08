@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 45a45fdd4cea4a20a4f96b7ee360e8e9f5533650
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 161731fe21e12fffa54436f0c9be42c888cacabc
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62705805"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63268865"
 ---
 # <a name="enable-the-custom-domain-for-dkim"></a>Aktivieren der benutzerdefinierten Domäne für DKIM
 

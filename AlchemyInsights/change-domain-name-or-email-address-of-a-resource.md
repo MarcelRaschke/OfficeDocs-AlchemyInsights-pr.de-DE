@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "14027"
 - "9003196"
-ms.openlocfilehash: 3602559422e9a04228a62df29f5d60fc3226fbfc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7c5118f0db30f6b15cc5701c6851f6bb62cc5b39
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62609676"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63174559"
 ---
 # <a name="change-the-domain-name-or-email-address-of-a-resource"></a>Ändern des Domänennamens oder der E-Mail-Adresse einer Ressource
 

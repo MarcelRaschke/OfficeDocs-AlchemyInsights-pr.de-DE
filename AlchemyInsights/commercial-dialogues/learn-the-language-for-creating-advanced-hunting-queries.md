@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cac6bb7397c23936b28df14229ffe844b6ba4aa9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 440c2ffef2010bad3c5a0f776ee4dbe0dc93520f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62655906"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63173875"
 ---
 # <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Lernen Sie die Sprache zum Erstellen erweiterter Suchabfragen kennen.
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "4781"
 - "9002277"
-ms.openlocfilehash: 35a42b76e314a8a911a79ae7a650f06fea7ea502
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d79319ca4c25d4bbb5d7192972533db7105a50ac
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62627767"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63175855"
 ---
 # <a name="aip-client-advanced-configuration"></a>Erweiterter AIP-Clientkonfiguration
 

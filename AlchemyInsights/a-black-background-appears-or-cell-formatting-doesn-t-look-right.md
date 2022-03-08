@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 26d60de3add8508515a53bcaefb5dc6f55bce2de
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a28b1e3d0a4cc2ab4b4d90bf23bd6e1e9ef375a3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62566443"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63269873"
 ---
 # <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Ein schwarzer Hintergrund wird angezeigt, oder die Zellenformatierung sieht nicht richtig aus.
 

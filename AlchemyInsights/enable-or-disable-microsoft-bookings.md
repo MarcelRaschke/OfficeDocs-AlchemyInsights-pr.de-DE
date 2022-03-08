@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5499"
-ms.openlocfilehash: 25812b3d8619a1ae0110f23e7786af67a5e0a809
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 93fdc6ea6edc2dff85e3df4b833295e49a5fc7f5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62747564"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63172867"
 ---
 # <a name="enable-or-disable-microsoft-bookings"></a>Aktivieren oder Deaktivieren von Microsoft Bookings
 

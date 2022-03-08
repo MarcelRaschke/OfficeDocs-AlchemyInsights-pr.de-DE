@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9005297"
 - "9913"
-ms.openlocfilehash: ac489d01a9581271312ce01bb7651441a4a37ac4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3ae7019b9672ecfa3751fdd91efbc9796dc1ae48
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62643180"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63174631"
 ---
 # <a name="change-account-name-in-windows-10"></a>Ändern des Kontonamens in Windows 10
 

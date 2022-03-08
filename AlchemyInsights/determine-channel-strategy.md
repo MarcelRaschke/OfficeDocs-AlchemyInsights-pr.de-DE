@@ -8,19 +8,19 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9144"
 - "9005291"
 - "11089"
 - "9006490"
-ms.openlocfilehash: 3871bb92d8fcecd4b714cf2c30ad78e2cb869e2e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 10e4b2d427ba71542787b087d2986015045a27d1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62606927"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63173155"
 ---
 # <a name="determine-channel-strategy"></a>Festlegen der Kanalstrategie
 

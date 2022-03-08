@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: c9339ff0fb25b1bb3b06452859dec7d8de6d2f4b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c153c134bbfe1dde7246efcc321ba45198badde2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62757395"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63172363"
 ---
 # <a name="focused-inbox-in-outlook"></a>Posteingang mit Relevanz in Outlook
 

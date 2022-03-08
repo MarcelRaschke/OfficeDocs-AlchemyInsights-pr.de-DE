@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 1477f960817adf6410af5ada15cecbdc8ee62956
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 31587b04421e96e710f2ee50b5362f9c3aa3bdff
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62670559"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63173515"
 ---
 # <a name="contact-the-sales-team"></a>Kontaktaufnahme mit dem Vertriebsteam
 

@@ -7,21 +7,21 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 71a9421446f7147aa29351e438b0f4b4c0ca23ef
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8d1b6e03936cbd01839ce55d46557d49d50b4442
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62702024"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63173839"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Einrichten von Antiphishingrichtlinien in Microsoft Defender für Office 365
 
-1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com/>zu **E-Mail-& Richtlinien** für die Zusammenarbeit \> **& Richtlinien** **für Bedrohungsregeln** \> \> **Antiphishing** im Abschnitt **"Richtlinien**".
+1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com/>"**E-Mail & Richtlinien** für die Zusammenarbeit \> **& Richtlinien** **für Bedrohungsregeln** \> \> **Antiphishing**" im Abschnitt **"Richtlinien**".
 
    Um direkt zur **Antiphishingseite** zu wechseln, verwenden Sie <https://security.microsoft.com/antiphishing>.
 

@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10023"
 - "9003951"
-ms.openlocfilehash: ec1ba15d0fb20f6ba92a864f2af009997f8884c7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ecd88d928434200ab4275efecf44634c39b12dd9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62722653"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63216213"
 ---
 # <a name="create-custom-microsoft-surface-operating-system-images"></a>Erstellen von benutzerdefinierten Microsoft Surface-Betriebssystemabbildern
 

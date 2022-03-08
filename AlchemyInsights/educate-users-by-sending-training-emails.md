@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "12307"
 - "9007384"
-ms.openlocfilehash: 0878969fda2d14bbcc77f7e9e2c1db7b507bc6cc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4a282f435a67d27914132c2d07d27a128bff9b77
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62735093"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63173011"
 ---
 # <a name="educate-users-by-sending-training-emails"></a>Benutzer durch das Senden von Schulungs-E-Mails schulen
 

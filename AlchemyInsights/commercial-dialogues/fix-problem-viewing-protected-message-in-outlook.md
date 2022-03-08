@@ -8,21 +8,21 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 7f23efe531fde8eafccb0f5199f5424cc540b7f1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a6394ef92f30272f0670210e95475f3b0fdafec9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62656194"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63173947"
 ---
 # <a name="fix-problem-viewing-protected-message-in-outlook"></a>Problem beim Anzeigen geschützter Nachrichten in Outlook beheben
 
-In einigen Fällen können Outlook eine Nachricht, die von einem Benutzer in einer anderen Microsoft 365 Organisation gesendet wurde, möglicherweise nicht öffnen, wenn diese Nachricht mit der Verwaltung von Informationsrechten geschützt wurde.
+In einigen Fällen können Outlook möglicherweise keine Nachricht öffnen, die von einem Benutzer in einer anderen Microsoft 365 Organisation gesendet wurde, wenn diese Nachricht mit der Verwaltung von Informationsrechten geschützt wurde.
 
 Führen Sie die folgenden Schritte aus, um solche geschützten Nachrichten zu öffnen und anzuzeigen:
 

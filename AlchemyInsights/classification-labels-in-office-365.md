@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 6bfa1924-ec45-42b7-b1e3-10093e4e446f
-ms.openlocfilehash: d25941039b568176d1150bcd540cbc4f5398994f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f393283f6a643169fb83b87a0559f932dc5540cc
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62578647"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63269225"
 ---
 # <a name="classification-labels"></a>Klassifizierungsbezeichnungen
 

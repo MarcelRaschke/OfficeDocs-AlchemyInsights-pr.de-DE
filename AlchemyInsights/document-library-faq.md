@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002963"
 - "5676"
 - "9000292"
 - "5680"
-ms.openlocfilehash: dea31fdd6af880eb5f460f0f8141b8ef799da63c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8251f96d23820f92ecdbff90a7722a356fe8666d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62722473"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63215673"
 ---
 # <a name="document-library-faq"></a>Häufig gestellte Fragen zur Dokumentbibliothek
 

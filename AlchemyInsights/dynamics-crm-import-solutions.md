@@ -7,18 +7,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1074"
 - "1077"
 - "1078"
 - "6200003"
-ms.openlocfilehash: c4c104807adcdd29b9257a901ef55e6074109886
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2d5bfa80e37b46add560245ccaf1df4d2904bc2b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62555031"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63248273"
 ---
 # <a name="dynamics-crm-import-solutions"></a>Dynamics CRM-Importlösungen
 

@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: f2074bddb163fe95bde754c0ac12310ba71a2c89
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ce108c09fe7a66631e35e05e80dc219ed55f1b65
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62723337"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63173767"
 ---
 # <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Verhindern, dass Nachrichten automatisch in das Archiv verschoben werden
 

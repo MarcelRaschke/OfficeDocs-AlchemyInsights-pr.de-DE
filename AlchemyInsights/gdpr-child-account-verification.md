@@ -8,18 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "772"
 - "788"
 - "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: b961493b8ba27d873b502fd937836c5e9b37803a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 032d2b1876c44e6d4c39ec36816730e861f46dad
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62553627"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63215097"
 ---
 # <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Das in Ihrem Microsoft-Konto angezeigte Geburtsdatum ist falsch.
 

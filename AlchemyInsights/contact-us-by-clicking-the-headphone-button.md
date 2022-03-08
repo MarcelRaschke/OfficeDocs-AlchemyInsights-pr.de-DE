@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 1c7648d17e3586613c0ce641019c040d455167e9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 56050360359979083df3a19fab0f825593e15212
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62624316"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63173479"
 ---
 # <a name="contact-us-by-clicking-the-headphone-button"></a>Kontaktieren Sie uns, indem Sie auf die Kopfhörertaste klicken.
 

@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10084"
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: 08d06e2589e70bef4ef360137e3cadded294316e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bb09b8e3a144c941d5fa4bf1cd91a5ea366fbf23
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62577624"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63172795"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – Sicherheitsbasispläne
 

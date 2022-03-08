@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: baa0d3d2eb69476e26d19e8cb4ec03919a6c5490
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0b01af4835f44e59395be654b72e86b4e2165a02
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62759784"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63215709"
 ---
 # <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP-Probleme mit US-Bankkontonummern
 
@@ -42,7 +42,7 @@ For example, for a **US Bank Account Number** policy configured with a confidenc
 
   - Ein Schlüsselwort aus Keyword_usa_Bank_Account wurde gefunden.
 
-    Das folgende Beispiel würde z. B. für die **US-Bankkontonummerrichtlinie** ausgelöst: Überprüfen des Kontos 78344011
+    Das folgende Beispiel würde z. B. für die **US-Bankkontonummernrichtlinie** ausgelöst: Überprüfen der 78344011
 
 Weitere Informationen dazu, was erforderlich ist, damit eine **US-Bankkontonummer** für Ihre Inhalte erkannt wird, finden Sie im folgenden Abschnitt in diesem Artikel: [Wonach die Typen vertraulicher Informationen nach US-Bankkontonummer suchen](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
   

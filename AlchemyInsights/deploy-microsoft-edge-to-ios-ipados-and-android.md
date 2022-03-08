@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
 - "13637"
 - "9008577"
-ms.openlocfilehash: a5fcdb4eb547ad3807e42e2944a997c952479f69
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0e182d48afb779cf43cce6dae329a0ac42f56fe3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62592454"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63173407"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Bereitstellen von Microsoft Edge auf iOS, iPadOS und Android
 

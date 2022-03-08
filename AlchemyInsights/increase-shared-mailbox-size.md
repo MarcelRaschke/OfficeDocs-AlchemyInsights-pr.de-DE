@@ -8,15 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 56afcb908191af7884080bec7617db45a65a0267
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5a1dec80c077add51f93753c165d4780801699bf
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62732729"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63236103"
 ---
 # <a name="increase-the-size-of-a-shared-mailbox"></a>Erhöhen der Größe eines freigegebenen Postfachs
 

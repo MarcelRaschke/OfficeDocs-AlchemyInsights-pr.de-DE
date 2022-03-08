@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a3674cc87c22b2c1e2fba924e5a7edeb5354ce89
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cb032923c2dce07e74233b75b37a5debfdea20d6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62702384"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63268757"
 ---
 # <a name="plans-that-let-you-add-microsoft-defender-for-office-365"></a>Pläne, mit denen Sie Microsoft Defender für Office 365 hinzufügen können
 

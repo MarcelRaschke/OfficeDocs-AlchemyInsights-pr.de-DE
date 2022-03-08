@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
 ms.date: 08/11/2021
-ms.openlocfilehash: e199f4978283bc2dc87551fde1fc49f3c7d41754
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fc0d298706d2ef03ed65225748bf0b6f24b87a06
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62552799"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63214881"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Wie kann ich von Kreditkartenzahlungen zu Rechnung wechseln?
 

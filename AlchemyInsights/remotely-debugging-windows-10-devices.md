@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: e3d928356a65ebd6fc717ad971898e0252b63530
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5f985a0f2b9e7c2ed0f630f0c9ca70066358c44d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62679968"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63293997"
 ---
 # <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Erste Schritte mit Remotedebugging Windows 10 Geräten
 

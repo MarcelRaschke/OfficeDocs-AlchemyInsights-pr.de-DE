@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9010363"
 - "16472"
 ms.date: 01/28/2022
-ms.openlocfilehash: a811ea6b044187c4b627ca5f3f951c22a1da8445
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e0410a2fd16d3df4a274bb6b05e5e80fd9ee1cf7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62579404"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63174343"
 ---
 # <a name="change-the-topic-center-url"></a>Ändern der Themencenter-URL
 

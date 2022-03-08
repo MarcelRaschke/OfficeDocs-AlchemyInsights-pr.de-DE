@@ -7,16 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1469"
 - "6200014"
-ms.openlocfilehash: e68e2424a73b224160d6aa74f6e35dae6a99cb07
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c60ae9c75d250733ca5427f51be8906f7eec0d94
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62685908"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63173083"
 ---
 # <a name="dynamics-365-form-selector"></a>Dynamics 365-Formularauswahl
 

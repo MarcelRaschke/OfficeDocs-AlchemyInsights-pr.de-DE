@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: 4fef227a5ccc18bd38f1cb1b756802dc1bba66ec
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3a6d043f20f1404ed1f2c152637a6da072541471
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62655153"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63216537"
 ---
 # <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Änderungen an der Firmennamenextraktion in SharePoint Online
 

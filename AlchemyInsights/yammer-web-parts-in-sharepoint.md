@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "5475"
 - "9002494"
-ms.openlocfilehash: 40cd21797cc78138fbbda189bc75ca7effc1bd0e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 72ea8e7b79209d31457148c57bda6dda3dfd8be4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62659650"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63175963"
 ---
 # <a name="yammer-web-parts-in-sharepoint"></a>Yammer-Webparts in SharePoint
 

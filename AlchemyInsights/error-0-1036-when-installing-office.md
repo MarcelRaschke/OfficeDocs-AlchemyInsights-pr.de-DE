@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: 8670b02de6105074b67cee41efd6263b270ccc52
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8e770176789519062cac34eb7b6c6df45bef8810
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62652810"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63172759"
 ---
 # <a name="error-0-1036-when-installing-office"></a>Fehler 0-1036 bei der Installation von Office
 
@@ -34,6 +34,6 @@ Versuchen Sie diese Lösungen, um ihren Office Fehler 0-1036 zu beheben:
 
     Nach dem Neustart wird die Support- und Wiederherstellungs-Assistent automatisch erneut geöffnet, um den Deinstallationsprozess abzuschließen.
 
-3. Folgen Sie den verbleibenden Eingabeaufforderungen, und [installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx) neu, oder schließen Sie den Assistenten.
+3. Folgen Sie den verbleibenden Eingabeaufforderungen, und [installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx) oder schließen Sie den Assistenten erneut.
 
 - [Verwenden des Office Offlineinstallationsprogramms](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) zum Installieren von Office

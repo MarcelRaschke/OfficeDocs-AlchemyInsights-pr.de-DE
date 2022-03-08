@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: fd2434ff8f33be1ea8f2c34748cd03509f30d9f8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 639dc40f3be5481c52e4c353fb252ddcb5980387
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62593750"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63175387"
 ---
 # <a name="billing-for-reserved-instance-purchase"></a>Abrechnung des Kaufs reservierter Instanzen
 
@@ -54,7 +54,7 @@ Wenn Sie eine Reservierung zurückerstatten möchten, wechseln Sie zu **Reservie
 
 **Anteilige Rückerstattung:**
 
-**Beispiele für Pro-Ration und Mindestanforderungen für Erstattung und Vorabreservierung**:
+**Pro-Ration und Mindestanforderungsbeispiele für Erstattung und Vorabreservierung** austauschen:
 
 - Sie kaufen einen RI-Jahreszeitraum für $120 am 1. Januar.
 - Am 7. April möchten Sie diese Reservierung zurückerstatten oder austauschen.
@@ -103,7 +103,7 @@ Hinweis: Wenn Sie nach dem Ausführen der Schritte keine E-Mail erhalten, stelle
 
 Weitere Fragen: [reservierte Instanzdokumente besuchen](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Empfohlene Dokumentationen**
+**Empfohlene Dokumente**
 
 - [Grundlagen der Abrechnung](https://docs.microsoft.com/partner-center/billing-basics/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Verstehen, wie der Rabatt für reservierte Instanzen angewendet wird](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
@@ -112,4 +112,4 @@ Weitere Fragen: [reservierte Instanzdokumente besuchen](https://docs.microsoft.c
 - [Grundlegendes zur Verwendung von reservierten Instanzen für Ihr Abonnement für "Pay-As-You-Go"](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Grundlegendes zur Verwendung der reservierten Instanz für Ihre Enterprise-Registrierung](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Windows Softwarekosten, die nicht in reservierten Instanzen enthalten sind](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Reserved Instances in Partner Central Cloud Solution Provider (CSP)-Programm](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Reservierte Instanzen im Partner Central Cloud Solution Provider (CSP)-Programm](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)

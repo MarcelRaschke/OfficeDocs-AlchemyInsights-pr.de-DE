@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "9325"
-ms.openlocfilehash: fabf75fe69bb97ca5aa61ddf2e781dfcf9621f9c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 53ca3dee5a18b81873cfe3d4398303baa411e5ca
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62658210"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63175027"
 ---
 # <a name="block-user-from-recording-meetings"></a>Blockieren der Aufzeichnung von Besprechungen durch Benutzer
 

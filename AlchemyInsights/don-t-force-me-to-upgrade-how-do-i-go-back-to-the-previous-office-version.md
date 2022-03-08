@@ -8,22 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: cb05cd2297af12d0d5a00ff59b307ea49803dd7f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 630dd8e35d04f7f8d1f9b600f85e6890f5e1ab38
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62623488"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63248309"
 ---
 # <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Zwingen Sie mich nicht zum Upgrade. Wie gehe ich zur vorherigen Office-Version zurück?
 
-Beim Öffnen einer Office Datei kann die Testversion eines Office-App anstelle einer anderen Version geöffnet werden. Dies geschieht, wenn Sie über die Microsoft 365 Testversion verfügen.
+Beim Öffnen einer Office-Datei kann die Testversion eines Office-App anstelle einer anderen Version geöffnet werden. Dies geschieht, wenn Sie über die Microsoft 365 Testversion verfügen.
   
 Wenn Sie die Microsoft 365 Testversion installieren, wird die 2016-Testversion der Apps installiert. Diese Testversionen werden zum Standard für das Öffnen von Word-, Excel- und PowerPoint dateien. Wenn Sie beispielsweise Excel 2013 installiert haben und auch die Microsoft 365 Testversion installiert haben, werden Ihre Arbeitsmappen in der Testversion von Excel 2016 geöffnet.
   

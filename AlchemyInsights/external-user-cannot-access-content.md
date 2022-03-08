@@ -7,18 +7,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 86166c27a2ddccfb7a8986e8bf285ad3239bd7a1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0b66dc622ab2d45b67f471dad0b52bd0b1e18914
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62591554"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63215277"
 ---
 # <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>Externer Benutzer kann nicht auf SharePoint oder OneDrive Inhalt zugreifen
 

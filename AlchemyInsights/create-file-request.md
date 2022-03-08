@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: 4bc5a2d96a7b916c2d8bac10e7964ab82ba974f2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d4a1f93a112ee565a5f0af7dc1eb4b1178fbcc96
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62748467"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63216115"
 ---
 # <a name="how-to-create-a-file-request"></a>So erstellen Sie eine Dateianforderung
 

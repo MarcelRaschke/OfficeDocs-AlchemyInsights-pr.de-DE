@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 426637a58d1341aea3962aaae022fcb8e7770949
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9c9b90694461421de2a6ccdb71c04eb98decfa8f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62624388"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63268697"
 ---
 # <a name="release-quarantined-messages"></a>Freigeben von Nachrichten unter Quarantäne
 

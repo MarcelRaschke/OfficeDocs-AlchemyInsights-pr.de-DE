@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1561"
 - "9000085"
-ms.openlocfilehash: 6c992c7d3fdba485b2b84599748e98e6504775dc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 07e3d29a815e30659ebf358bcc3bd7e7c7792b14
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62604275"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63235856"
 ---
 # <a name="intune-and-jamf"></a>InTune und Jamf
 

@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 46f0edb940565ee45fc43ad03853f5d204c5a4a8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ef196ffc00701bd653e83b49ab57be31d2655e1d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62688452"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63217113"
 ---
 # <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>Hinzufügen von Microsoft Defender für Office 365 zu Ihrem Abonnement
 

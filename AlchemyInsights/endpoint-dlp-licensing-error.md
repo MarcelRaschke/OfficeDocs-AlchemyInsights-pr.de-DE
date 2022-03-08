@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: 0330a4f2839fec787b1e45b1a713d7836bcb9623
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9a7fca92317cb618e6ea72a6b44dbdf303b00faf
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62652859"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63215385"
 ---
 # <a name="endpoint-dlp-licensing-error"></a>Endpunkt-DLP-Lizenzierungsfehler
 

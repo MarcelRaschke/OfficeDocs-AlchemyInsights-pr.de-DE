@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3800"
-ms.openlocfilehash: 9572f73d20ca118795659e002160b12902b46417
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3536a290a34eebcd5bac7e8ae1e8bbf2f499b68a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62735633"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63215565"
 ---
 # <a name="download-and-activate"></a>Herunterladen und Aktivieren
 

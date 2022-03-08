@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 1e1f417280da1e350c736daa3ee7d82909ad3e70
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: be728450f184e006a9961e9f43a062f903b7efa9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62740583"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63269945"
 ---
 # <a name="using-giphys-in-teams-conversations"></a>Verwenden von Giphys in Teams Unterhaltungen
 
-Der Giphys-Zugriff in Teams Chat ist standardmäßig aktiviert. Als Administrator können Sie steuern, ob Giphys für Benutzer verfügbar ist, indem Sie [eine Messagingrichtlinie festlegen](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) und sicherstellen, dass **Giphys in Unterhaltungen** **verwendet wird.**
+Giphys-Zugriff in Teams Chat ist standardmäßig aktiviert. Als Administrator können Sie steuern, ob Giphys für Benutzer verfügbar ist, indem Sie [eine Messagingrichtlinie festlegen](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) und sicherstellen, dass **Giphys in Unterhaltungen** **verwendet wird.**
 
 Wenn GIFs in Teams Unterhaltungen nicht wie erwartet funktionieren, überprüfen Sie Folgendes:
 

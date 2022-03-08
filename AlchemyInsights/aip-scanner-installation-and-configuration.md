@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5119"
-ms.openlocfilehash: 10d8b8206cde1d7130b9c5fa0b4134976b1ac1f6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 28fd91b7ff30e0eaee9edcac9f0e6d2e97d02ddd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62659254"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63269729"
 ---
 # <a name="aip-scanner-installation-and-configuration"></a>AIP-Scanner: Installation und Konfiguration
 

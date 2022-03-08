@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 26ce287e053a261381833d3985a962c7137f8b73
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ab622c2316dc4256efc653e690cba0dc3f38cd62
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62642604"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63174307"
 ---
 # <a name="check-for-app-using-camera"></a>Suchen nach Einer App mithilfe der Kamera
 

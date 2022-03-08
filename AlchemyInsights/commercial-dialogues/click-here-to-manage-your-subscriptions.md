@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: c132885df0b22c7afddc6a0b6788519909ec80a4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8176905ef2679939add8515c41aed6a830946907
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62706417"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63269009"
 ---
 # <a name="click-here-to-manage-your-subscriptions"></a>Klicken Sie hier, um Ihre Abonnements zu verwalten.
 

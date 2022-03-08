@@ -8,25 +8,25 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: d8201f0f1107f3c7e4e7bbe5cc6e81c093442f37
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ad6ea45bc6201e35c31610973bacf408a16750f6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62759555"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63215529"
 ---
 # <a name="domain-status---no-services-selected"></a>Domänenstatus – Keine Dienste ausgewählt
 
-**Keine Dienste ausgewählt** bedeutet, dass Sie keine Microsoft 365 Dienste wie Exchange Online, Skype for Business oder Intune und mobile Geräteverwaltung für Microsoft 365 ausgewählt haben, die sie mit Ihrer benutzerdefinierten Domäne verwenden können. Wenn Sie Exchange Hybrid (Exchange lokal mit Exchange Online) oder externe Spamfilterung mit Exchange und keine anderen Microsoft-Dienste verwenden, können Sie diese Nachricht ignorieren. Der Domänenstatus ist nur für Domänen verfügbar, die direkt mit dem Dienst verbunden sind.
+**Keine Dienste ausgewählt** bedeutet, dass Sie keine Microsoft 365 Dienste wie Exchange Online, Skype for Business oder Intune und die Verwaltung mobiler Geräte für Microsoft 365 für die Verwendung mit Ihrer benutzerdefinierten Domäne ausgewählt haben. Wenn Sie Exchange Hybridfilterung (Exchange lokal mit Exchange Online) oder externe Spamfilterung mit Exchange und keine anderen Microsoft-Dienste verwenden, können Sie diese Meldung ignorieren. Der Domänenstatus ist nur für Domänen verfügbar, die direkt mit dem Dienst verbunden sind.
 
 So wählen Sie Dienste für Ihre Domäne aus:
 
-1. Aktivieren Sie in **Einstellungen** >  [**Domänen**](https://admin.microsoft.com/Adminportal/Home) das Kontrollkästchen neben der Domäne, wobei die Statusmeldung **"Keine Dienste" ausgewählt ist**.
+1. Aktivieren **Sie** >  in Einstellungen [**Domänen**](https://admin.microsoft.com/Adminportal/Home) das Kontrollkästchen neben der Domäne, wobei die Statusmeldung **"Keine Dienste" ausgewählt ist**.
 1. Wählen Sie **"DNS verwalten** " aus, um den Assistenten zum Einrichten von Domänen zu starten.
     - Wenn Sie **"Eigene DNS-Einträge hinzufügen**" auswählen, müssen Sie einen Dienst auswählen, wenn Sie dazu aufgefordert werden. Weitere Dienste können unter **"Erweiterte Optionen"** verfügbar sein.
     - Wenn Sie "**Microsoft Ihre DNS-Einträge hinzufügen"** oder "**Weitere Optionen** >  hinzufügen" auswählen **, werden meine Onlinedienste für mich** automatisch vorgeschlagen und ausgewählt.

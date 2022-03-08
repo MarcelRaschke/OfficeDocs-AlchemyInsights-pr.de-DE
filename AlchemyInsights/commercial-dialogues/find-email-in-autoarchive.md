@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 68c535cc6ed3e82604a2c386e08d4364a1226f2d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9f03ca775406672dd7260594ae855ca356613d6a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62738837"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63216897"
 ---
 # <a name="find-email-in-autoarchive"></a>Suchen nach E-Mails in AutoArchiv
 
@@ -25,6 +25,6 @@ Die Archivdatei ist ein Typ von Outlook-Datendatei (PST). Bei der ersten Ausfüh
 
 So zeigen Sie Ihr AutoArchiv an:
 
-1. Wählen Sie in Outlook die Registerkarte **"Datei**" > **"Öffnen** >  **Outlook Datendatei**" aus.
+1. Wählen Sie in Outlook die Registerkarte **"Datei**" > **"Datendatei öffnen** >  **Outlook**" aus.
 2. Navigieren Sie zum Speicherort der PST-Datei, und öffnen Sie sie. Dadurch wird die PST-Datei der Ordnerliste hinzugefügt.
 3. Sie können den Ordner nach früheren E-Mail-Nachrichten durchsuchen.

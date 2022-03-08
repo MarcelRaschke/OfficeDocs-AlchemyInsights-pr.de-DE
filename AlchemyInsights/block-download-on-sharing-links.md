@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 14ce509a601e5443a4fdcce6fb4bb03dc26724d8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: dd81adf9c43037d4669dbac436be15150cbbab7a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62580285"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63175091"
 ---
 # <a name="block-download-on-sharing-links"></a>Blockieren des Downloads für Freigabelinks
 

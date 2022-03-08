@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5154"
-ms.openlocfilehash: f732e016e3d58f7a583aad9aab996c4a56415b7e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6bc6c1657507041c1cbe56600b5b9919add0676b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62710845"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63172831"
 ---
 # <a name="encryption-with-transport-rules"></a>Verschlüsselung mit Transportregeln
 

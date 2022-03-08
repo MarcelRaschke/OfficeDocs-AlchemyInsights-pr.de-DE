@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004348"
 - "8428"
-ms.openlocfilehash: c4df8d991d4a429abe3977d34e0bec173aef8d50
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5382045fdcac2120db4fbfcbc43e6f90bab185e2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62690674"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63270233"
 ---
 # <a name="user-provisioning"></a>Benutzerbereitstellung
 
@@ -33,5 +33,5 @@ ms.locfileid: "62690674"
   - Wenn Sie einen attributbasierten Bereichsfilter festgelegt haben, stellen Sie sicher, dass der Benutzer die angegebenen Kriterien erfüllt.
   - Wenn Benutzer bereits im Zielsystem vorhanden sind und der Status des Benutzers in der Quell- und Zielübersprechung vorhanden ist, werden keine weiteren Maßnahmen ergriffen.
 - Unser Dienst hat versucht, den Benutzer bereitzustellen, und es ist fehlgeschlagen. Überprüfen Sie für diese Szenarien die Registerkarte "Problembehandlung und Empfehlungen" der Bereitstellungsprotokolle:
-  - Ein erforderliches Attribut für den Benutzer fehlt möglicherweise in Azure Active Directory oder entspricht nicht dem format, das von der Drittanbieteranwendung benötigt wird. Beispielsweise kann das "Country"-Attribut eines Benutzers auf "Usa" festgelegt werden, wenn es "USA" sein sollte.
+  - Ein erforderliches Attribut für den Benutzer fehlt möglicherweise in Azure Active Directory oder stimmt nicht mit dem von der Drittanbieteranwendung erforderlichen Format überein. Beispielsweise kann das "Country"-Attribut eines Benutzers auf "Usa" festgelegt werden, wenn es "USA" sein sollte.
   - Das Attribut ist ein referentielles Attribut, das noch nicht in der Zielanwendung vorhanden ist. Ein referentielles Attribut ist ein Attribut, das auf ein anderes Objekt verweist, z. B. auf einen Benutzer, der Mitglied einer Gruppe ist. Die Benutzer-ID befindet sich im Memberattribut der Gruppe, kann jedoch nur verarbeitet werden, wenn das Benutzerobjekt, auf das es verweist, bereits vorhanden ist.

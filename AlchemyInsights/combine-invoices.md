@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002546"
 - "4959"
-ms.openlocfilehash: 81d518cf604b03ecdc0b3cfc72b1a6f90ef9a4ae
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 880d2e10d710063b118dbc810d3f8257e9662398
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62657238"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63217330"
 ---
 # <a name="combine-invoices"></a>Kombinieren von Rechnungen
 

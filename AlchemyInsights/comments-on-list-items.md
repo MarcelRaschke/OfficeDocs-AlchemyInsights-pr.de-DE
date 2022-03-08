@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: ecd73eeca8b96e92d331a97265111f3fbaee7878
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a411dbe05d1bb0161a4e2171a8cbc9448a048c67
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62723589"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63269189"
 ---
 # <a name="comments-on-list-items"></a>Kommentare zu Listenelementen
 
