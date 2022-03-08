@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 4cde8105d63a3f795de660feba6e38c4b6759aca
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2deff8f284ad710fff4b178aa236afa635398916
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62562987"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63286397"
 ---
 # <a name="why-is-the-add-budget-button-disabled-for-me"></a>Warum ist die Schaltfläche "Budget hinzufügen" für mich deaktiviert?
 
@@ -75,7 +75,7 @@ Das Prognosemodell berücksichtigt Ihre "aktuellen Kosten" und berücksichtigt d
 **Ich möchte Vorschauen für eine einzelne Dimension anzeigen (z. B. Meter)**  
 Die Prognose unterstützt derzeit Projektionen der Gesamtkosten und nicht für einzelne Meter. Wenn eine Dimension "gruppiert nach" ist, sind die Projektionen daher für die Summe aller Elemente in der Dimension
 
-**Empfohlene Dokumentationen**
+**Empfohlene Dokumente**
 
 - [Was ist Azure Cost Management?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Bewährte Methoden für Azure Cost Management](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)

@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 9506ac9d5d8a59ab7819d71b1c5e6856e8d643f2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a8f141ac18eb8d4bd89110ed1fa0db66f96aa7ef
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62755379"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63274841"
 ---
 # <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Hinterlassen sie eine Featureanfrage oder Feedback zum App-Design.
 
-Wir freuen uns, dass Sie Ihre Meinung teilen, während wir weiterhin an Outlook arbeiten. *UserVoice* ist ein Forum, in dem Sie Feedback abgeben und über die Ideen anderer abstimmen können.  
+Wir freuen uns, dass Sie Uns Ihre Meinung mitteilen, während wir weiterhin an Outlook arbeiten. *UserVoice* ist ein Forum, in dem Sie Feedback abgeben und über die Ideen anderer abstimmen können.  
 
 So lassen Sie uns eine Idee: 
 

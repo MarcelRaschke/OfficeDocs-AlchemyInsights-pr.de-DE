@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 0b4e714d39c9a5f6a1dbdc47b6dcfac5f537d994
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c513319083cfcb62795d4e4cd95bfd47c9934bce
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62569899"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63252197"
 ---
 # <a name="managing-microsoft-stream-licenses"></a>Verwalten von Microsoft Stream-Lizenzen
 

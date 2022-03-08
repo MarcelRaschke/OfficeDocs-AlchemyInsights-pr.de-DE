@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3182"
 - "6500001"
-ms.openlocfilehash: c2adeb44d72e7048b84d110b64c2407facde5235
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7059c322a2ab1946c2668a83b2f1fa4a4addec58
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62612723"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63286757"
 ---
 # <a name="add-a-guest-to-microsoft-teams"></a>Hinzufügen eines Gasts zu Microsoft Teams
 

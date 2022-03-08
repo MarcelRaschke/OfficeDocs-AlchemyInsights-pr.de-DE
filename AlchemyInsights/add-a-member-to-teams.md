@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: c52a818d8af2b974d6126d1d54d732ba9ead34d4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 847686b242cb77e92b1afab9a0ed02f1486bb5b4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62612795"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63286685"
 ---
 # <a name="add-a-member-to-teams"></a>Hinzufügen eines Mitglieds zu Teams
 

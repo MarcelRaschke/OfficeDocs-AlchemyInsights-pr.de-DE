@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9263"
-ms.openlocfilehash: 6c9ef2a6165cba671681fda18a35f067ed9bc6ee
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2750682a29a7d0c2babd535cc8e26fcfe4b14058
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62699720"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63274661"
 ---
 # <a name="make-bingcom-the-default-home-page"></a>Festlegen von Bing.com als Standardstartseite
 

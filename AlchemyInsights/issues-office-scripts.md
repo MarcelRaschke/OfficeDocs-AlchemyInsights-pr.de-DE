@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "12064"
 - "9006408"
-ms.openlocfilehash: 89dc9fdfb0a41902d63dfb03d3378935b6f0d592
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a663fc7d9afda46278ee3f8cd20f90ef1c35d328
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62700116"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63274913"
 ---
 # <a name="issues-related-to-office-scripts"></a>Probleme im Zusammenhang mit Office-Skripts
 

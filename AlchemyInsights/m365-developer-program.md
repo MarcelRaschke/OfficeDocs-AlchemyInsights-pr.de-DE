@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "12320"
 - "9001669"
-ms.openlocfilehash: 2c4ac5e462afd354bff6dde8fce35f78c0883452
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 92d3567d7784b289136e3f9908797d6e1e3c1dd0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62732320"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63274769"
 ---
 # <a name="microsoft-365-developer-program"></a>Microsoft 365-Entwicklerprogramm
 

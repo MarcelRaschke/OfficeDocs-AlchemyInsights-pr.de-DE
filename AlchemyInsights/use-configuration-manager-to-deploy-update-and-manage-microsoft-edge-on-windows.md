@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004030"
 - "7100"
-ms.openlocfilehash: c6eeb557a01bbbaedc2e1374376f9cf31dd719ce
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 91c6541071bb1d92d1732e879bb697b2ee5c48ce
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62630526"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63229281"
 ---
 # <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Verwenden von Configuration Manager zum Bereitstellen, Aktualisieren und Verwalten von Microsoft Edge unter Windows
 

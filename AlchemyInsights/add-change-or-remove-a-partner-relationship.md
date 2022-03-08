@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9001683"
 - "3748"
 ms.date: 04/14/2021
-ms.openlocfilehash: 95d9d6bcd08342327692ca81763cf7cf339249df
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bcbe52c0641a23a7e77591cc0b9c6377238307aa
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62562879"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63286181"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>Hinzufügen, Ändern oder Entfernen einer Partnerbeziehung
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5066"
-ms.openlocfilehash: 9255cf6a825fc188db56939cb92861b61dacb2ca
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 822c83e04a7311d813881e62afe86d59f3f9500e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62612836"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63286649"
 ---
 # <a name="add-a-partner-to-your-subscription"></a>Hinzufügen eines Partners zu Ihrem Abonnement
 

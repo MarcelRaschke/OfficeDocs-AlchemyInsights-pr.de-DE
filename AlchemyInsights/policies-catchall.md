@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 1be227b6cb42475353b29ce688acb4499d909f8a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cbf8c16ea28124932fbdc99fad02bd1a9053c6d3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62599726"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63086806"
 ---
 # <a name="teams-policies"></a>Teams-Richtlinien
 
@@ -28,7 +28,7 @@ Microsoft Teams Einstellungen werden durch Richtlinien gesteuert. Um eine Änder
 Teams Richtlinien sind in die folgenden Bereiche unterteilt:
 
 - [Teams Richtlinien](https://docs.microsoft.com/MicrosoftTeams/teams-policies) steuern die Benutzerermittlung privater Teams bei der Suche und Erstellung privater Kanäle.  
-- [Besprechungsrichtlinien](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) steuern, was Benutzer mit Teams Besprechungen tun können, einschließlich der Steuerung des Wartebereichs. Hilfe bei Lobbyproblemen, z. B. beim Konfigurieren von Teams, um alle Personen zuzulassen, finden Sie unter ["Einstellungen für den Wartebereich steuern" und "Teilnahmestufen](https://docs.microsoft.com/alchemyinsights/bypass-lobby)".
+- [Besprechungsrichtlinien](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) steuern, was Benutzer mit Teams Besprechungen tun können, einschließlich der Steuerung des Wartebereichs. Hilfe zu Lobbyproblemen, wie z. B. das Konfigurieren von Teams, um alle Personen zuzulassen, finden Sie unter ["Einstellungen für den Kontrollbereich und Teilnahmeebenen](https://docs.microsoft.com/alchemyinsights/bypass-lobby)".
 - [Messagingrichtlinien](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) steuern, was Benutzer mit Chats und Nachrichten tun können, einschließlich aktivieren oder deaktivieren, Löschen von Chats, Anfordern von Lesebestätigungen, Verwenden von Giphys und Aufklebern und vieles mehr.
 - [App-Setuprichtlinien](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) steuern, welche Apps für Benutzer verfügbar sind, einschließlich benutzerdefinierter und Drittanbieter-Apps, sowie die Reihenfolge, in der sie angezeigt werden.  
 - [Datenaufbewahrungsrichtlinien](https://docs.microsoft.com/microsoftteams/retention-policies) für Teams finden Sie im Microsoft 365 Security and Compliance Center.

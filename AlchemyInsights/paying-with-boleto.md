@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: 2eaa78d293ce4a0c245d7f9f38fa3f7737f5481b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1e4797c8d0911220d80ae5e2edeea09e28aa52c2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62633874"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63086770"
 ---
 # <a name="como-pagar-com-boleto"></a>Como Pagar com Boleto
 

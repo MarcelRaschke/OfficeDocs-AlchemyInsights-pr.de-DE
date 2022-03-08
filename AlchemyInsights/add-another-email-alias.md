@@ -8,22 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: ed5a85efb8db84718682d6e3d27a2daae5d0bac8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e5d3348132c7d61de0771e22aba26d161fac8361
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62612255"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63286289"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Erstellen oder Hinzufügen eines E-Mail-Alias für einen Benutzer
 
 Müssen Sie einen E-Mail-Alias für einen Benutzer erstellen oder eine zusätzliche E-Mail-Adresse hinzufügen? Führen Sie einfach diese Schritte aus.
   
-1. Wechseln Sie im Microsoft 365 Admin Center zur Seite ["Benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822)", oder wählen Sie **"UsersActive** >  **Users" aus**.
+1. Wechseln Sie im Microsoft 365 Admin Center zur Seite "[Benutzer](https://go.microsoft.com/fwlink/p/?linkid=834822)", oder wählen Sie **"UsersActive** >  **Users" aus**.
     
 2. Wählen Sie auf der Seite **Aktive Benutzer** den Namen der Person aus, die Sie bearbeiten möchten. 
     

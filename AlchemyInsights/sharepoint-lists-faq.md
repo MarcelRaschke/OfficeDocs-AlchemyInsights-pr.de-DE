@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "5677"
-ms.openlocfilehash: d769e4f789924ce4253e29d3b2e922f632253e17
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8f80463d5854e5b2a5a5eb1d54602a0003df6714
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62664043"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63157423"
 ---
 # <a name="sharepoint-lists-faq"></a>SharePoint-Listen – Häufig gestellte Fragen (FAQ)
 

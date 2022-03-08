@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002888"
 - "5513"
-ms.openlocfilehash: ca9d9d17f1d7ef470f1e589da7dd87a1d9de8305
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7bcdf4ce1809fe8475e413911a2882a1eaf8f078
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62569359"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63156163"
 ---
 # <a name="use-dictation-in-word"></a>Verwenden der Diktatfunktion in Word
 

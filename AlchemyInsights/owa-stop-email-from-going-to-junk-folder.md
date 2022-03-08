@@ -1,5 +1,5 @@
 ---
-title: Verhindern, dass Nachrichten zum Junk-E-Mail-Ordner in Outlook im Web
+title: Verhindern, dass Nachrichten in den Junk-E-Mail-Ordner in Outlook im Web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,15 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9000290"
-ms.openlocfilehash: eb081b99600c964a015b6391112f7795f39e2623
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6f5e00aa440f1df3b1d7799e45aaed0ec3aee5de
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62549775"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63087058"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Verhindern, dass Nachrichten zu Ihrem Junk-E-Mail-Ordner in Outlook im Web
 

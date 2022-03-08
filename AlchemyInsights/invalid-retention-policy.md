@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3100007"
 - "7952"
-ms.openlocfilehash: 9ec77b27564bf169c54e533c684861cc400de715
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 60e0cbb18092db1c1244b158afea5732b455d8e1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62604155"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63275129"
 ---
 # <a name="invalid-retention-policy"></a>Ungültige Aufbewahrungsrichtlinie
 

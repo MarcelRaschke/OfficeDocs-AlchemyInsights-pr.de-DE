@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010153"
 - "15633"
 ms.date: 02/11/2022
-ms.openlocfilehash: 474c95e55017c30bc2d703d35361bf31f8ec9ccf
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: c6ff22817314a8cb49b36085a2c87398de06944b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790265"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63230073"
 ---
 # <a name="configuring-microsoft-teams"></a>Konfigurieren von Microsoft Teams
 
-Die beste Möglichkeit, sich damit vertraut zu machen, besteht darin, sofort mit der Verwendung zu beginnen. Das Tolle an Teams ist, dass das, was Sie jetzt einrichten, keinen Upgrades oder Migrationen im Wege steht, die Sie später möglicherweise durchführen müssen.
+Die beste Möglichkeit, sich damit vertraut zu machen, besteht darin, sofort mit der Verwendung zu beginnen. Das Tolle an Teams ist, dass das, was Sie jetzt einrichten, upgrades oder Migrationen, die Sie später möglicherweise durchführen müssen, nicht im Wege steht.
 
 Führen Sie die folgenden Schritte aus, um ein paar Teams einzurichten und einige Early Adopter zu integrieren, um sich mit Teams vertraut zu machen.
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001454"
 - "3464"
-ms.openlocfilehash: f53bcdc1ce83d79dd7b4178081760e0838c86b27
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: afb8c79f8f017e89296cf934641b5f12c49cd9c8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62612759"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63286577"
 ---
 # <a name="add-a-password-to-a-word-document"></a>Hinzufügen eines Kennworts zu einem Word-Dokument
 

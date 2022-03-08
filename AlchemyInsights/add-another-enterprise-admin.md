@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: b5186d03ac1cbd76213cc206d1ed815f02aacd1d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c194a2c15e322905b1db09d1b6e2925b02bf7fa8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62612435"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63286253"
 ---
 # <a name="add-another-enterprise-administrator---recommended-steps"></a>Hinzufügen eines weiteren Unternehmensadministrators – empfohlene Schritte
 
@@ -31,7 +31,7 @@ Sie können mehrere Unternehmensadministratoren in einer Unternehmensregistrieru
 1. Melden Sie sich beim [Azure Enterprise-Portal](https://ea.azure.com/) an.
 1. Navigieren Sie zu **"****ManageEnrollment** >  Detail".
 1. Klicken Sie oben rechts auf **+Administrator hinzufügen** .
-1. Legen Sie für den schreibgeschützten Zugriff die Option Read-Only auf **"Ja** " fest, und wählen Sie dann **"Hinzufügen**" aus.
+1. Legen Sie für schreibgeschützten Zugriff die Option Read-Only auf **"Ja** " fest, und wählen Sie dann **"Hinzufügen**" aus.
 
 Stellen Sie sicher, dass Sie über die E-Mail-Adresse und die bevorzugte Authentifizierungsmethode des Benutzers verfügen, z. B. ein Geschäfts-, Schul- oder Microsoft-Konto. Wenn Sie nicht der Unternehmensadministrator sind, wenden Sie sich an einen Unternehmensadministrator, um sie aufzufordern, Sie einer Registrierung hinzuzufügen. Neue Administratoren werden nur von vorhandenen Administratoren hinzugefügt. Nachdem Sie einer Registrierung hinzugefügt wurden, erhalten Sie eine Aktivierungs-E-Mail.
 
@@ -42,7 +42,7 @@ Nachdem ein Azure EA-Administrator eine Abteilung erstellt hat, kann der Azure E
 1. Melden Sie sich beim [Azure Enterprise-Portal](https://ea.azure.com/) an.
 1. Navigieren Sie zur Registerkarte **"****ManageDepartment** > ", und wählen Sie dann die Abteilung aus.
 1. Wählen Sie **+Administrator hinzufügen** aus, und fügen Sie die erforderlichen Informationen hinzu.
-1. Legen Sie für den schreibgeschützten Zugriff die Option Read-Only auf **"Ja** " fest, und wählen Sie dann **"Hinzufügen**" aus.
+1. Legen Sie für schreibgeschützten Zugriff die Option Read-Only auf **"Ja** " fest, und wählen Sie dann **"Hinzufügen**" aus.
 
 **So aktualisieren/entfernen Sie einen Administrator:**
 

@@ -7,23 +7,23 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "975"
 - "666"
 - "3100019"
-ms.openlocfilehash: a34d791318bc8e1572693547de14a4732a24d268
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3fdbfc8cfe6ba75fa6b22bd309460fe5365f6775
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62752967"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63085798"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Werden zulässige Nachrichten als Spam gekennzeichnet?
 
 Es ist frustrierend, wenn eine seriöse E-Mail im Junk-Ordner oder in Quarantäne endet.
 
-Sie können die Nachricht zur Analyse an Microsoft auf der Seite **"Übermittlungen**" im portal Microsoft 365 Defender unter <https://security.microsoft.com/reportsubmission?viewid=admin>senden.
+Sie können die Nachricht zur Analyse an Microsoft auf der Seite **"Übermittlungen** " im Microsoft 365 Defender-Portal unter <https://security.microsoft.com/reportsubmission?viewid=admin>senden.
 
 Berücksichtigen Sie die häufigsten Gründe für falsch positive Ergebnisse:
 

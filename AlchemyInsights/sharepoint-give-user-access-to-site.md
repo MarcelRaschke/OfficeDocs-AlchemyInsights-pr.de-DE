@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a512cd5221b00801d53f1189dbd3e4a3b4db7f26
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b417d6badf7abbef4333c42b446616b08e52c922
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62616540"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63157459"
 ---
 # <a name="give-users-access-to-sharepoint-site"></a>Benutzern Zugriff auf SharePoint Website gewähren
 
@@ -25,7 +25,7 @@ Die Zugriffsanforderungsfunktion ermöglicht es Personen, Zugriff auf Inhalte an
 
 Hier sind einige häufig verwendete Links zu Zugriffsanforderungen:
 
-- [Zugriff verweigert" auf Die Liste der Zugriffsanforderungen oder "Anforderungsgenehmigung fehlgeschlagen", wenn Sie eine ausstehende Anforderung in SharePoint Online verarbeiten](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
+- [Zugriff verweigert" auf Die Liste "Zugriffsanforderungen" oder "Anforderungsgenehmigung fehlgeschlagen", wenn Sie eine ausstehende Anforderung in SharePoint Online verarbeiten](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
 - [Ändern der Einstellungen für Zugriffsanforderungen](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 

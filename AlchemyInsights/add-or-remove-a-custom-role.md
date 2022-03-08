@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6176"
 - "9003232"
-ms.openlocfilehash: cccba03b7c819338fac3f6a236b343466a67a7a8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9fc2cc940df58709dfb34d11e772008af06d1e91
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62562195"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63251693"
 ---
 # <a name="add-or-remove-a-custom-role"></a>Eine benutzerdefinierten Rolle hinzufügen oder entfernen
 

@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003868"
 - "6922"
 - "8312"
 - "9004621"
-ms.openlocfilehash: 7edc1d0bd8323c729a17e8c7699137e1c3e07d25
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e8f300fb113b9e33cc86bf5274206edde7f70be2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62612291"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63286361"
 ---
 # <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Hinzufügen einer Erweiterung zu Microsoft Edge aus dem Chrome-Webspeicher
 

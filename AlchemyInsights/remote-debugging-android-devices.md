@@ -1,5 +1,5 @@
 ---
-title: Verwenden von Microsoft Edge zum Remotedebuggen eines Android-Geräts von einem Entwicklungscomputer
+title: Verwenden von Microsoft Edge zum Remotedebugging eines Android-Geräts von einem Entwicklungscomputer
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
 - "10186"
 - "9005827"
-ms.openlocfilehash: e557b66a84c0cde6668030f6e89b4376b66fd00d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a8d8f7f3699899f593df857df191180952150979
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62716137"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63085834"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Verwenden von Microsoft Edge zum Remotedebuggen eines Android-Geräts von einem Entwicklungscomputer
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Verwenden von Microsoft Edge zum Remotedebugging eines Android-Geräts von einem Entwicklungscomputer
 
 So debuggen Sie Liveinhalte auf einem Android-Gerät remote von Ihrem Computer:
 

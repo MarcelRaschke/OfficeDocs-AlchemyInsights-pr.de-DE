@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: a1085524733066cc9fe6d70644d7f5ee235b3dd8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6b41ae5065a5bf946431b8817f72e519bad35dca
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62644836"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63155299"
 ---
 # <a name="add-an-email-address-for-a-distribution-group"></a>Hinzufügen einer E-Mail-Adresse für eine Verteilergruppe
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003892"
 - "6946"
-ms.openlocfilehash: b7c4f6e9419c5691c53f43be33d4b3b45966f1ce
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 144ca42b8d043f47961c6720f112093e075dfad2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62721347"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63275165"
 ---
 # <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>Installieren des Microsoft 365 App-Bündels oder eines einzelnen Office-App
 

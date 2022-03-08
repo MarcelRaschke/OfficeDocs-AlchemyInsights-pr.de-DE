@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002658"
 - "5183"
 ms.date: 07/30/2021
-ms.openlocfilehash: 6b521536944fcf1dac7a7c160db03cebaae46efb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0be177d7e32bb049ab4da48024c6d9aba57c85b7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62620392"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63274409"
 ---
 # <a name="microsoft-365-e5-subscription-and-license-management-faq"></a>Häufig gestellte Fragen zur Verwaltung von Microsoft 365 E5-Abonnements und Lizenzen
 

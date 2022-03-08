@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8200"
-ms.openlocfilehash: 4d608c8bf9ac9888e7a6b64194d19142f56b1bab
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bafd3a51810b1c085d0a14f0bbf7c26f09388382
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62562699"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63251837"
 ---
 # <a name="add-email-signature-in-outlook-for-mac"></a>Hinzufügen einer E-Mail-Signatur in Outlook für Mac
 

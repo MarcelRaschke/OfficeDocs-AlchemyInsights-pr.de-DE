@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5035"
-ms.openlocfilehash: 1cf2627eca0c7ae0033a9d74afeee484bc944120
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4b504a7e577d86c6ee78c0e7a617c2246cadccad
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62664079"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63157279"
 ---
 # <a name="sharepoint-migration-assessment-tool-smat"></a>Tool zur Überprüfung der SharePoint-Migrationsbeurteilung (SharePoint Migration Assessment Tool, SMAT)
 

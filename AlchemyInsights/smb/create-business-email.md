@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009959"
 - "15325"
 ms.date: 02/17/2022
-ms.openlocfilehash: c9a1c275c5610831826d45decbf7b74525ef3f2f
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: 245282aedafaf1593faabe38780b3310894a5d3a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893030"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63230577"
 ---
 # <a name="create-a-business-email"></a>Erstellen einer Geschäftlichen E-Mail
 

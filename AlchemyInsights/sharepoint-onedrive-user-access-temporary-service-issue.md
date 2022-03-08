@@ -1,5 +1,5 @@
 ---
-title: Leistungsprobleme SharePoint oder OneDrive
+title: Leistungsprobleme – SharePoint oder OneDrive
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,22 +8,22 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: ca3f8787237f8f6bd82e90c6bf3fa89929f74a3c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8bab1250c817196b8a91694d3b50ab6aa82df152
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62707101"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63156991"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint oder OneDrive langsam, nicht zugänglich oder für mehrere Benutzer nicht verfügbar
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint oder OneDrive Slow, Unzugänglich oder nicht verfügbar für mehrere Benutzer
 
-Wenn eine OneDrive oder SharePoint Website nicht für mehrere Benutzer verfügbar ist, die zuvor Zugriff hatten, kann ein vorübergehendes Dienstproblem auftreten. [Überprüfen Sie das Dienststatus-Dashboard](https://portal.office.com/adminportal/home#/servicehealth).
+Wenn eine OneDrive- oder SharePoint-Website nicht für mehrere Benutzer verfügbar ist, die zuvor Zugriff hatten, kann ein vorübergehendes Dienstproblem auftreten. [Überprüfen Sie das Dienststatus-Dashboard](https://portal.office.com/adminportal/home#/servicehealth).
 
 **Hinzufügen und Lizenzieren des Benutzers**
 
-Stellen Sie sicher, dass Sie [Benutzern in Microsoft 365 business Lizenzen zuweisen](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Stellen Sie sicher, dass Sie [Benutzern in Microsoft 365 Business Lizenzen zuweisen](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 
 **Zuweisen von Berechtigungen**

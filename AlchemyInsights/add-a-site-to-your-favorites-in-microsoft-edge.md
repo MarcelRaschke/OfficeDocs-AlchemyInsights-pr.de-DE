@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8258"
-ms.openlocfilehash: 955e22a2d0b3ea62068fb95389e26f9a7708d48d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b173f5f055c040555d22438be835872f2c29d3a3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62612651"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63286613"
 ---
 # <a name="add-a-site-to-your-favorites-in-microsoft-edge"></a>Hinzufügen einer Website zu Ihren Favoriten in Microsoft Edge
 

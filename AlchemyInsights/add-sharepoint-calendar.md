@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 2ef41973e869ff9de5729669f4d578f7be63a2b5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: be413e73ac988a9d0bd50572610648ea4d6ee973
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62561439"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63286087"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Hinzufügen eines SharePoint Kalenders
 

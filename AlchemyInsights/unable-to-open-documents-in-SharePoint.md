@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: ''
-ms.openlocfilehash: aaae6a3436040de2df89fd98a2b5e9d8ad8660b5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9619d05e394d5da97990e962ca72235aa894ef99
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62714202"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63229641"
 ---
 # <a name="unable-to-open-documents-in-sharepoint"></a>Dokumente können in SharePoint nicht geöffnet werden
 

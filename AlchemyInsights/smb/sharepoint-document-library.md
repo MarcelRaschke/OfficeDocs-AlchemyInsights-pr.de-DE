@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010137"
 - "15628"
 ms.date: 02/11/2022
-ms.openlocfilehash: e87fd8969afc4bc465e2e7de5c6f252f7d97e747
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: 78b5fc021ce10f6bd24df2dc22e033be6a3f0eb2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790160"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63230037"
 ---
 # <a name="creating-document-library-in-sharepoint"></a>Erstellen einer Dokumentbibliothek in SharePoint
 
-Erstellen Sie eine Dokumentbibliothek in SharePoint, um Dateien sicher zu speichern, in denen Sie und Ihre Kollegen sie leicht finden, gemeinsam bearbeiten und von jedem Gerät aus jederzeit darauf zugreifen können. SharePoint Teamwebsites standardmäßig eine Dokumentbibliothek enthalten, können Sie einer Website jedoch nach Bedarf zusätzliche Dokumente und andere Bibliotheken hinzufügen.
+Erstellen Sie eine Dokumentbibliothek in SharePoint, um Dateien sicher zu speichern, in denen Sie und Ihre Kollegen sie leicht finden, gemeinsam bearbeiten und jederzeit von jedem Gerät darauf zugreifen können. SharePoint Teamwebsites standardmäßig eine Dokumentbibliothek enthalten, können Sie einer Website jedoch nach Bedarf zusätzliche Dokumente und andere Bibliotheken hinzufügen.
 
 Erstellen einer Bibliothek in SharePoint in Microsoft 365 oder SharePoint Server 2019
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4365"
-ms.openlocfilehash: 53a3df999595d97916a73aca35c6ca0149ae8719
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3a5f325a482a7ecb91314dba77351c38189079b8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62717073"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63086590"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Portieren bestehender Nummern zu Teams
 

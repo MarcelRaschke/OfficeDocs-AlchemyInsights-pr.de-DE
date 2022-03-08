@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9008634"
 - "13894"
-ms.openlocfilehash: 4e8bdf907ad91fa6b0f1c5f6cfe05ab39ae4e128
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e64a2b9ad1e4d0ebbaf130344c321d968f043433
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62544067"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63229425"
 ---
 # <a name="upgrade-resources-for-administrators"></a>Upgraderessourcen für Administratoren
 
@@ -27,7 +27,7 @@ Weitere Informationen finden Sie unter [Office Versionen und Konnektivität zu M
 
 Für Administratoren verfügbare Upgraderessourcen:
 
-- Informationen zu Microsoft FastTrack Migrations- und Bereitstellungsunterstützung von Microsoft-Experten finden Sie unter [Einführung von Office 365 mit FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365?rtc=2).
+- Informationen zu Microsoft FastTrack Migrations- und Bereitstellungsunterstützung von Microsoft-Experten finden Sie unter [Einführung Office 365 mit FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365?rtc=2).
 - Informationen zur Unterstützung von Anwendungskompatibilitätsproblemen mit App Assure von Microsoft finden Sie unter [App Assure](https://www.microsoft.com/fasttrack/microsoft-365/app-assure?rtc=2).
 - Technische Dokumentation finden Sie im [Bereitstellungshandbuch für Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/deployment-guide-microsoft-365-apps).
 - Informationen zum Dashboard für Produktlebenszyklus und Upgradebereitschaft für Benutzer von Microsoft Endpoint Configuration Manager (current branch) finden Sie unter [Verwalten von Microsoft-Lifecycle-Richtlinien mit Configuration Manager](https://docs.microsoft.com/mem/configmgr/core/clients/manage/asset-intelligence/product-lifecycle-dashboard) und </br> [Integration für Microsoft 365 Apps Bereitschaft](https://docs.microsoft.com/mem/configmgr/sum/deploy-use/office-365-dashboard#bkmk_o365_readiness).
