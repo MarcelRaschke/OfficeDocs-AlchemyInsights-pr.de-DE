@@ -7,7 +7,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000317"
@@ -15,12 +15,12 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ec9c8abb26f8beb4dfc1486505d997a6375f88b0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d6d2a163dc37e93c524fb07a3bb4d6e1d883a757
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62597530"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63211497"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>Problembehandlung für Workflows in SharePoint
 
@@ -34,4 +34,4 @@ Weitere Informationen finden Sie unter:
 
 Wenn Sie gerade erst mit Workflows beginnen, sollten Sie [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) anstelle der klassischen SharePoint-Workflowlösungen verwenden.
 
-Weitere Informationen finden Sie unter [SharePoint workflows retiring](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
+Weitere Informationen finden Sie unter [SharePoint Workflows, die sich zurückziehen](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).

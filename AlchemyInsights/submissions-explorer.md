@@ -8,15 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: a0c82a4318e9be3e085d757b9e220dc1fb33e619
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cb2833cb37a4ed86c15f0a77b256a14647e59603
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62662818"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63210632"
 ---
 # <a name="new-feature-to-help-diagnose-eop-and-microsoft-defender-for-office-365"></a>Neues Feature zur Diagnose von EOP und Microsoft Defender für Office 365
 

@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002608"
 - "7594"
 ms.date: 04/14/2021
-ms.openlocfilehash: 00381d9590dcbdb4e116cf9b7e48c13c1d3f2ee9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: aa072b458500d77e75047ff45f50347c9dbe13bd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62662206"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63210416"
 ---
 # <a name="switch-to-a-different-plan"></a>Wechseln zu einem anderen Plan
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010153"
 - "15753"
 ms.date: 02/11/2022
-ms.openlocfilehash: ed61620fd5cc05d49021421d224c718149342b6e
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: c0d34f429378d9b7a1957e5a5bc6056c3e9b10ed
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790137"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63210884"
 ---
 # <a name="recording-a-meeting-on-ms-teams"></a>Aufzeichnen einer Besprechung auf MS Teams
 

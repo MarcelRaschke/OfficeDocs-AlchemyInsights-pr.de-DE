@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: f981c1f29ed6b8edb7484b5b62fe541d968b2c19
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ee0f96dc4bc5cf622a47d9d5687717b659e182a6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62546299"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63209948"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Behandeln von Audioproblemen in Windows 10
 

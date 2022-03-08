@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009959"
 - "15390"
 ms.date: 02/17/2022
-ms.openlocfilehash: 5052bd1e59d69e64dc1e6fb6b6f39f1a37a3f371
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: 06072e753d40343ea545800b2e5622ffe25b54f8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893039"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63211317"
 ---
 # <a name="change-email-display-name"></a>Ändern des E-Mail-Anzeigenamens
 
@@ -25,7 +25,7 @@ Es kann vorkommen, dass Sie die E-Mail-Adresse und den Anzeigenamen einer Person
 
 **So ändern Sie die E-Mail-Adresse eines Benutzers:**
 
-1. Wechseln Sie im Admin Center zur Seite "**UsersActive** >  **users**".
+1. Wechseln Sie im Admin Center zu der Seite **Benutzer** > **Aktive Benutzer**.
 2. Wählen Sie den Namen des Benutzers aus, und wählen Sie dann in der Registerkarte Konto **Benutzernamen verwalten** aus.
 3. Geben Sie im ersten Feld den ersten Teil der neuen E-Mail-Adresse ein. Wenn Sie Ihre eigene Domäne zu Microsoft 365 hinzugefügt haben, wählen Sie die Domäne für den neuen E-Mail-Alias über die Dropdownliste aus. Erfahren Sie, wie Sie eine Domäne hinzufügen.
 4. Wählen Sie **Änderungen speichern** aus.

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009961"
 - "15333"
 ms.date: 02/17/2022
-ms.openlocfilehash: dd8f119ba9db4703dd96e3d9e44ec1b571ff2dbd
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: 5ef8da63a6897b44b87ee359eec3c64b405f4c02
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893334"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63210992"
 ---
 # <a name="email-migration"></a>E-Mail-Migration
 

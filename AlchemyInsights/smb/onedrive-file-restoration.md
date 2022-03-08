@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010112"
 - "15488"
 ms.date: 02/11/2022
-ms.openlocfilehash: 883393dc04b9af2c7298c47f6b8860983725da00
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: 18a5e440e74400c5a17c19c23a51a9568cf471f5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790167"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63211028"
 ---
 # <a name="file-restore-on-onedrive"></a>Dateiwiederherstellung auf OneDrive
 
-Wenn Sie versehentlich eine Datei oder einen Ordner in OneDrive löschen, können Sie sie möglicherweise später aus dem OneDrive Papierkorb wiederherstellen.
+Wenn Sie eine Datei oder einen Ordner versehentlich in OneDrive löschen, können Sie sie möglicherweise später aus dem OneDrive Papierkorb wiederherstellen.
 
 1. Wählen Sie im Navigationsbereich **den Papierkorb aus**.
 2. Wählen Sie die Dateien oder Ordner aus, die Sie wiederherstellen möchten, indem Sie auf jedes Element zeigen und auf das angezeigte Kontrollkästchen klicken, und klicken Sie dann auf **"Wiederherstellen**".

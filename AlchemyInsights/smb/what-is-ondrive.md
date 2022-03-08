@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010112"
 - "15538"
 ms.date: 02/11/2022
-ms.openlocfilehash: 82227878a52b3bf8e5ad7d4a13b79b47a24b0cfc
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: 4083c1d52302028533be2d25f50d8b68ded6e94f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790203"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63210834"
 ---
 # <a name="what-is-onedrive"></a>Was ist OneDrive
 

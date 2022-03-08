@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 4c760f7224b78cd44590081e8ef22eff7ec47425
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 84263c920bd6e626da7b5f29aa500b7e46128535
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62616612"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63211785"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Aktivieren der externen Freigabe in SharePoint Online
 
-Wenn Ihre Organisation Aufgaben ausführt, die das Teilen von Dokumenten oder die direkte Zusammenarbeit mit Lieferanten, Clients oder Kunden umfassen, können Sie die [externen Freigabefeatures von SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) verwenden, um Inhalte für Personen außerhalb Ihrer Organisation freizugeben.
+Wenn Ihre Organisation Aufgaben ausführt, die die Freigabe von Dokumenten oder die direkte Zusammenarbeit mit Lieferanten, Clients oder Kunden umfassen, können Sie die [externen Freigabefeatures von SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) verwenden, um Inhalte für Personen außerhalb Ihrer Organisation freizugeben.
 
 Weitere Informationen zur externen Freigabe (Gäste) finden Sie unter den folgenden Links.
 

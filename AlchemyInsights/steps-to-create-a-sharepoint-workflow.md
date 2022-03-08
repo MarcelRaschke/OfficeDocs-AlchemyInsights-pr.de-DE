@@ -8,25 +8,25 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 3e61b192e349202934bbc50919bad99c8762f6c2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9166f330f98d71a17ff14de683a4338d1a57d12c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62677615"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63210776"
 ---
 # <a name="steps-to-create-a-sharepoint-workflow"></a>Schritte zum Erstellen eines SharePoint Workflows
 
-- Wenn Sie keinen SharePoint 2010-Genehmigungsworkflow hinzufügen können, lesen Sie "[Standardgenehmigungsworkflow 2010 nicht hinzufügen](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow)".
+- Wenn Sie keinen SharePoint 2010-Genehmigungsworkflow hinzufügen können, lesen Sie ["Standardgenehmigungsworkflow 2010 nicht hinzufügen](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow)".
 - Erstellen von Workflows:
     - [2013 Workflow from SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
-    - [2010 Workflow aus SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
+    - [2010 Workflow from SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
     - [Einführung in SharePoint Workflow](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
 
 - Workflowproblembehandlung und -debugging:

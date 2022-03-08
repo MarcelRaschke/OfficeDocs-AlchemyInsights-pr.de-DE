@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002358"
 - "4584"
-ms.openlocfilehash: 8d827d79a49b5509cb8040b1571fe24d77e33802
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5488833405d17172d2ecd0dd46b13c99c1bd4cb6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62662998"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63210704"
 ---
 # <a name="stuck-on-processing-order"></a>Geht bei der Auftragsverarbeitung nicht weiter
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009960"
 - "15503"
 ms.date: 02/11/2022
-ms.openlocfilehash: db117d6b4c8f32ed95015fe2f9787f531eeb8ea3
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: 1e4b9bac4b4f1e6c376bde8d6d3056be4be1a0c6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790297"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63211172"
 ---
 # <a name="domain-is-already-taken"></a>Domäne wurde bereits verwendet
 

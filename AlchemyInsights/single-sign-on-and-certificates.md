@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7809"
-ms.openlocfilehash: bada335ed3e524caeb9e682de52d046df3f7bc24
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c438bc9ba7a2e28ecc5d1659765c90c03364d059
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62677975"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63211437"
 ---
 # <a name="seamless-single-sign-on-sso-and-certificates"></a>Nahtloses Single Sign-on (SSO) und Zertifikate
 

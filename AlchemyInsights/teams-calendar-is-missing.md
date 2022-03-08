@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6191"
 - "9003307"
-ms.openlocfilehash: 5dd06cbe9983c98bb6a410485c98eb58460cd333
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d1600db9c1691625aafe030e82b4a974fd7626a0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62706849"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63210380"
 ---
 # <a name="teams-calendar-is-missing"></a>Der Teams-Kalender fehlt
 

@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9004221"
 - "7429"
 - "9254"
 - "9000181"
-ms.openlocfilehash: 62b7bae3a5d6956654ede8e0e614238513e6b13c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: db9e7e44a3385650dea3fba33292598aa2904118
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62679523"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63212037"
 ---
 # <a name="set-up-microsoft-information-protection"></a>Einrichten von Microsoft Information Protection
 

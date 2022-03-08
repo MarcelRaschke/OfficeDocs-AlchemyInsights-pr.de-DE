@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009960"
 - "15327"
 ms.date: 02/11/2022
-ms.openlocfilehash: 93ac04ec1bece1b88d9c94e89fcbcadc2da1e13a
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: 740d786f95b8b831d9510a03a2c32800c9794229
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790214"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63211353"
 ---
 # <a name="adding-your-domain"></a>Hinzufügen Ihrer Domäne
 
