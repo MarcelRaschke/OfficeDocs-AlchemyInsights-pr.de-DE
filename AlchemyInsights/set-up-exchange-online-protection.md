@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: a75aee2929d0ba0af8e53d823ac04ab7937b10ac
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 42548602fc2842d452ec7f60f5db9d94927699d2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62727729"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63221433"
 ---
 # <a name="set-up-exchange-online-protection"></a>Einrichten von Exchange Online Protection
 
@@ -30,4 +30,4 @@ Verwenden Sie die [Exchange Online Protection Einrichtungshandbuchs](https://adm
 - Hybrid (Kombination aus lokalen und Cloudpostfächern
 - Alle Cloudpostfächer, die zu Ihrer Organisation passen.
 
-Das Handbuch enthält Informationen und Ressourcen, um EOP einzurichten und die Lizenzierung Ihres Benutzers zu überprüfen, Berechtigungen im Microsoft 365 Admin Center zuzuweisen und die Sicherheitsrichtlinien Ihrer Organisation zu konfigurieren.
+Das Handbuch enthält Informationen und Ressourcen, um EOP einzurichten und die Lizenzierung Ihres Benutzers zu überprüfen, Berechtigungen in der Microsoft 365 Admin Center zuzuweisen und die Sicherheitsrichtlinien Ihrer Organisation zu konfigurieren.

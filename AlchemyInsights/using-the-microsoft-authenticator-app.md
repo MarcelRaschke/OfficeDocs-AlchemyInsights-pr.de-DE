@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 39c095cd7e8ebd75b0a24fd86f4d7ccf4b7a0a10
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e29843ff89fb9e45bbbd7b96195551e3052bdbab
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62645376"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63219957"
 ---
 # <a name="using-the-microsoft-authenticator-app"></a>Verwenden der Microsoft Authenticator-App
 

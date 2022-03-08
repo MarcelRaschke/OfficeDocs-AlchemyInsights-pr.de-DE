@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7778"
 - "9004351"
-ms.openlocfilehash: 80249d40337c4dc8cb72434fd10be22936de6a3d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 78caa7ec3361344657429ce8351203e9639c85f2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62578287"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63267785"
 ---
 # <a name="configure-and-extend-token-lifetimes"></a>Konfigurieren und Verlängern der Tokengültigkeitsdauer
 

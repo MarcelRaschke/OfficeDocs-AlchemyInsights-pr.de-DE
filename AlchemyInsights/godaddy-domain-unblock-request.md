@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7682"
 - "9"
-ms.openlocfilehash: b564911a06fb8610d0bd7a23b7c71e49e56c3d31
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7337331ab87571875417bb3227500de1c48119cf
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62734229"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63237111"
 ---
 # <a name="godaddy-domain-unblock-request"></a>Anforderung zum Entsperren der Godaddy-Domäne
 

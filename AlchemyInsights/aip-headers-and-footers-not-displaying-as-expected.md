@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 0d39d397e71bdfc2afebf0919c71e6937b345fe0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c951a75535d06d5a794ca830a90b36df2d27e59c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62611715"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63250505"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: Kopf- und Fußzeilen werden nicht erwartungsgemäß angezeigt
 

@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 289055e74d00d8a36c3b1099b2c432682e665597
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1292095b7f27de4e2caa4dbb883749319f35e939
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62731564"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63273689"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>Bei der Fehlermeldung „Keine akzeptierte Domäne“
 

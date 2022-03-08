@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9758"
 - "9005418"
-ms.openlocfilehash: f98c20c2f3a4dc246997ff39eac4cb970bda99ed
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3d3d8f298e44ec0c3d9ded66554cc99a9224e979
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62660118"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63219743"
 ---
 # <a name="windows-doesnt-start-on-surface"></a>Windows startet nicht auf Surface
 

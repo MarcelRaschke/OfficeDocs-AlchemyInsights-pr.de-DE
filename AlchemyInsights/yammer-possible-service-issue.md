@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1338"
 - "2800001"
-ms.openlocfilehash: 1b4c6410214c44574232a7fbd6271d85852a3794
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 10663bd787f8bb81937a0a8e10d314f92ba82d24
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62739782"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63219273"
 ---
 # <a name="yammer---possible-service-issue"></a>Yammer – mögliches Dienstproblem
 

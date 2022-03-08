@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: 398
 ms.assetid: 9b23cfd7-bff8-4f86-bd94-e5fa07f6939f
-ms.openlocfilehash: 2f7d08275771b845ac8dd07cb1a8034e990efc39
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9af55b78f52ee081dec171fa5ab51ad8c91e5375
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62558811"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63250217"
 ---
 # <a name="issues-with-microsoft-bookings"></a>Probleme mit Microsoft Bookings
 

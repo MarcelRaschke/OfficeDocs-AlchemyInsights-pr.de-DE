@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: a4d41b072a75f561dd9f6b1ecffef8c159102646
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fba1f06ddd396fe525f6ffd08bcb01c524fb8b69
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62557479"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63268325"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Häufige Probleme und Lösungen für ADFS
 

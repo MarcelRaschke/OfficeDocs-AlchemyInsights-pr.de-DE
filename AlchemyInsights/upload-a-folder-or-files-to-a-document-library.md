@@ -8,20 +8,20 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 9643f8cc9baa0f84daa5c9bb83014ae38171f41f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fb645cb0427c530f0085f8deab65da7697e68541
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62569395"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63220245"
 ---
 # <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Hochladen eines Ordners oder von Dateien in eine SharePoint Dokumentbibliothek
 
-Um einen Ordner hochzuladen, müssen Sie Microsoft Edge, Google Chrome oder Mozilla FireBooks verwenden. Sie können keine Ordner in der klassischen Bibliotheksoberfläche hochladen oder Internet Explorer 10 oder 11 verwenden.
+Um einen Ordner hochzuladen, müssen Sie Microsoft Edge, Google Chrome oder Mozilla FireMetatext verwenden. Sie können keine Ordner in der klassischen Bibliotheksoberfläche hochladen oder Internet Explorer 10 oder 11 verwenden.
   
 1. Öffnen Sie die Dokumentbibliothek, in die Sie einen Ordner oder Dateien hochladen möchten.
     
@@ -29,4 +29,4 @@ Um einen Ordner hochzuladen, müssen Sie Microsoft Edge, Google Chrome oder Mozi
     
 3. Ziehen Sie den Ordner oder die Dateien in die Dokumentbibliothek. Wenn die hochgeladenen Elemente nicht in der Bibliothek angezeigt werden, aktualisieren Sie die Seite. 
     
-Wenn Sie keine Elemente zwischen Fenstern hochladen möchten, können Sie auch die **Schaltfläche Hochladen** in der Dokumentbibliothek verwenden, um den Ordner oder die Dateien auszuwählen, die Sie hochladen möchten.
+Wenn Sie keine Elemente zwischen Fenstern hochladen möchten, können Sie auch die Schaltfläche **Hochladen** in der Dokumentbibliothek verwenden, um den Ordner oder die Dateien auszuwählen, die Sie hochladen möchten.

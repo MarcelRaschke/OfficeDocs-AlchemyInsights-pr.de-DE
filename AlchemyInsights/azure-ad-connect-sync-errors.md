@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6120"
 - "9003245"
-ms.openlocfilehash: 2387295bebee064ff7896e767bf99ee43b4f1b01
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7016a832723a563f0ba34036eeab20d8423e31e9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62626674"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63218697"
 ---
 # <a name="azure-ad-connect-sync-errors"></a>Azure AD Connect-Synchronisierungsfehler
 

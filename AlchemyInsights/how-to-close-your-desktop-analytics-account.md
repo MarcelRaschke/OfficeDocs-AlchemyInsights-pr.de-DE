@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 3563dcbdeb127cd83d3b64b2662ce0feca7d3ddf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 18d8453a46432bc2c681be864593d08b44f504ea
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62684851"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63275849"
 ---
 # <a name="how-to-close-your-desktop-analytics-account"></a>So schließen Sie Ihr Desktop Analytics-Konto
 

@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "12575"
 - "9007066"
-ms.openlocfilehash: ba53f103db7622b5c685658910880de3200a5dab
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 85f089e1c70002d2a8868e01c3cee9197e2a78e5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62567451"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63219321"
 ---
 # <a name="403-forbidden-error-on-onedrive-or-sharepoint"></a>Fehler „403 Forbidden“ auf OneDrive oder SharePoint
 

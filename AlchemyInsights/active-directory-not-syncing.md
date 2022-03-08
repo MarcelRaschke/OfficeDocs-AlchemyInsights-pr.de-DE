@@ -7,23 +7,23 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: 27b68d147e7ed20d5ea84828abe02196372483ae
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 28d146882690f63e6394d41ead96d4b47f0df2af
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62563023"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63287153"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory wird nicht synchronisiert
 
-Wenn Sie Synchronisierungsfehler erhalten, z. B. "keine kürzliche Synchronisierung", oder beachten Sie, dass der Status der Verzeichnissynchronisierung im Office Verwaltungsportal besagt: "Letzte Synchronisierung vor mehr als 3 Tagen", kann es sein, dass AADConnect über falsche Einstellungen oder unzureichende Berechtigungen zum Ausführen einer Synchronisierung verfügt.  
+Wenn Sie Synchronisierungsfehler erhalten, z. B. "keine aktuelle Synchronisierung" oder den Status der Verzeichnissynchronisierung im Office Verwaltungsportal "Letzte Synchronisierung vor mehr als 3 Tagen" feststellen, kann es sein, dass AADConnect falsche Einstellungen oder unzureichende Berechtigungen zum Ausführen einer Synchronisierung hat.  
 
 Durch erneutes Installieren von AADConnect mithilfe von Expresseinstellungen kann das Problem schnell behoben werden:
 

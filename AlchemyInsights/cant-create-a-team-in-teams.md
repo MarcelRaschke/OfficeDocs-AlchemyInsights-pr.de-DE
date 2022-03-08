@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003306"
 - "6201"
-ms.openlocfilehash: 9add37011c286ac0107283fd3f87121ca2f7bfc7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 577a7f4717ffb6c3cc88cbc04e132f65158dd16e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62674090"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63250109"
 ---
 # <a name="cant-create-a-team-in-teams"></a>In Teams kann kein Team erstellt werden
 

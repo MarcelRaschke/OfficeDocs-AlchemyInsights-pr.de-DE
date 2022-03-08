@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9004323"
 - "7712"
-ms.openlocfilehash: a293b49dedff22fd51e43dc91bd076fd4df56e42
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 646dd78f326da29fa4367d3af37adc5ad78abbf7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62615244"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63220497"
 ---
 # <a name="issues-related-to-publisher-verification-for-developers"></a>Probleme bei der Publisher-Überprüfung für Publisher
 

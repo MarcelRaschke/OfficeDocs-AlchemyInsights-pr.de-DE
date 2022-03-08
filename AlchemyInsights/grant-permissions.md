@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7784"
-ms.openlocfilehash: 079c28c0914c29d171ea2fb996094c09c8230784
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6076b66c529529e0be1ec63a75436df38d549f40
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62605598"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63237147"
 ---
 # <a name="grant-permissions"></a>Erteilen von Berechtigungen
 
-1. **Erteilen der mandantenweiten Administratorzustimmung**: Eine schrittweise Anleitung zum Erteilen der mandantenweiten Administratorzustimmung über das Azure-Portal, die Verwendung Azure AD PowerShell oder die Zustimmungsaufforderung selbst finden Sie unter "[Mandantenweite Administratorzustimmung für eine Anwendung erteilen](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent)".
+1. **Erteilen der mandantenweiten Administratorzustimmung**: Eine schrittweise Anleitung zum Erteilen der mandantenweiten Administratorzustimmung über das Azure-Portal, die Verwendung von Azure AD PowerShell oder die Zustimmungsaufforderung selbst finden Sie unter " [Mandantenweite Administratorzustimmung für eine Anwendung erteilen](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) ".
 1. **Erteilen der Zustimmung im Namen eines bestimmten Benutzers**: Anstatt die Zustimmung für die gesamte Organisation zu erteilen, kann ein Administrator auch die [Microsoft Graph-API](https://docs.microsoft.com/graph/use-the-api) verwenden, um delegierte Berechtigungen im Namen eines einzelnen Benutzers zu erteilen. Weitere Informationen finden Sie unter ["Zugriff im Namen eines Benutzers erhalten](https://docs.microsoft.com/graph/auth-v2-user)".

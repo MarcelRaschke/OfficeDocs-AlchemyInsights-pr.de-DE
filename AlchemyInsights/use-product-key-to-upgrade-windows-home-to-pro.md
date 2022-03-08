@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10116"
 - "9005600"
-ms.openlocfilehash: bb56fbdcdc9824119f5c80c308d52ac66b9dc4b1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: dbb37b63bbe45c92a0a97a5d84895e1343f55ed7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62740871"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63220101"
 ---
 # <a name="use-a-product-key-to-upgrade-windows-10-home-to-windows-10-pro"></a>Upgrade von Windows 10 Home auf Windows 10 Pro mit Product Key
 

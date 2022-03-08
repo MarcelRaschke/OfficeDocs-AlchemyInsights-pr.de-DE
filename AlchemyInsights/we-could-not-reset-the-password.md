@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1100004"
 - "14146"
-ms.openlocfilehash: a810e551c1037134d569a4e54c000a28b5eb8a49
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d950517e0ee744eeb8ddc288b4b02d56109fcf0c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62629446"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63219885"
 ---
 # <a name="we-could-not-reset-the-password-for-this-user"></a>Das Kennwort für diesen Benutzer konnte nicht zurückgesetzt werden.
 

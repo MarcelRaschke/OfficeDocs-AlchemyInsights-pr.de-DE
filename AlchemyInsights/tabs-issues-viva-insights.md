@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9010261"
 - "16695"
 ms.date: 02/15/2022
-ms.openlocfilehash: a98532fe33b2f9a63348ae862ddb70641b2cd72f
-ms.sourcegitcommit: 5c192c14acfb55ca3d5bbee10bf0e5ccecef8bf2
+ms.openlocfilehash: 5568f78991f683773885fb09e57cb3214c2a00f1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/16/2022
-ms.locfileid: "62860079"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63221109"
 ---
 # <a name="my-team-or-my-organization-tabs-issues-in-viva-insights-app"></a>Probleme mit Registerkarten "Mein Team" oder "Meine Organisation" in der Viva Insights-App
 

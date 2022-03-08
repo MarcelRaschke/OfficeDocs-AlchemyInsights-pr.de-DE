@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
@@ -16,12 +16,12 @@ ms.custom:
 - "1500024"
 ms.date: 04/21/2020
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: de72c290c581238c57fb25270c87e84bd15165ed
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5dd98fea49147fd43364982d2a65ea970b9bcfec
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62595010"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63301614"
 ---
 # <a name="already-paid"></a>Bereits bezahlt?
 

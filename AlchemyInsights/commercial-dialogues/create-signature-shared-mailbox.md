@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: a36037f02f642c38970518053cd16c756acdb17d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a31203c012e3b1e5ae6e9784873c4fde8ca585af
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62738981"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63300511"
 ---
 # <a name="create-an-email-signature-for-a-shared-mailbox"></a>Erstellen einer E-Mail-Signatur für ein freigegebenes Postfach
 

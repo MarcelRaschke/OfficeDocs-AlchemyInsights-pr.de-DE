@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5704"
-ms.openlocfilehash: e124fa6935643b461827b89a8cefb409cd16d267
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 12c8f986e65b173f51f2abf9ec0f09b7fa645fa7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62754875"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63274265"
 ---
 # <a name="microsoft-365-groups-faq"></a>Häufig gestellt Fragen: Microsoft 365-Gruppen 
 

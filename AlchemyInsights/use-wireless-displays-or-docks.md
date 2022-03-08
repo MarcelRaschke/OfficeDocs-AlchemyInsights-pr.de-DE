@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: fe7649c71f91e6386104daed89b2037e064d1a20
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 28e13b4ccac0bf8e7597f754bce6a7b153fad702
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62725245"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63220029"
 ---
 # <a name="use-wireless-displays-or-docks"></a>Verwenden von kabellosen Anzeigegeräten und Docks
 

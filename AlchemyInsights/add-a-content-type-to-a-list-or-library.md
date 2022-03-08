@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003050"
 - "5791"
-ms.openlocfilehash: f741301dcbbd21120870c08d622a26658fde6f3d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c6afea0656ee12d6482656e0ccc315a210854301
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62613119"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63287009"
 ---
 # <a name="add-a-content-type-to-a-list-or-library"></a>Hinzufügen eines Inhaltstyps zu einer Liste oder Bibliothek
 

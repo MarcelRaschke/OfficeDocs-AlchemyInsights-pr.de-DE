@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1929"
 - "9000308"
-ms.openlocfilehash: 0c03c9f02f4e18c7e74aad53e7dbc2e2de1546b2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: aa55e76a567cc89a7d7e3c2e0b5856ef0e66523f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62710017"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63237867"
 ---
 # <a name="form-header---web-resource"></a>Formularkopf – Webressource
 

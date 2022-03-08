@@ -7,19 +7,19 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004344"
 - "9004357"
 - "9384"
 - "9863"
-ms.openlocfilehash: 001e7fde339e701f3ebb0db31ab2ceae3c0e2579
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bfc900743b4e68c1e1baaba24ff309294d4e077f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62556903"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63267641"
 ---
 # <a name="configure-seamless-single-sign-on-sso"></a>Konfigurieren des nahtlosen einmaligen Anmeldens (Single Sign-On, SSO)
 
@@ -50,10 +50,10 @@ Für die Apps in der Galerie finden Sie detaillierte Schritt-für-Schritt-Anweis
 2. Informationen zum Konfigurieren von Ansprüchen mithilfe von PowerShell finden Sie unter [How to: Customize claims emitted in tokens for a specific app in a tenant (Preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
 3. Informationen zum Konfigurieren optionaler Ansprüche finden Sie unter [How to: Provide optional claims to your app](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims).
 4. Informationen zum Verwenden von Verzeichnisschemaerweiterungsattributen zum Senden von Benutzerdaten an Anwendungen in Tokenansprüchen finden Sie unter [Verwenden von Verzeichnisschemaerweiterungsattributen in Ansprüchen](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions).
-5. Informationen zum Konfigurieren der Tokenlebensdauer finden Sie unter ["Konfigurierbare Tokenlebensdauern" im Microsoft Identity Platform (Vorschau).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
+5. Informationen zum Konfigurieren von Tokenlebensdauern finden Sie unter ["Konfigurierbare Tokenlebensdauern" im Microsoft Identity Platform (Vorschau).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
 6. [Konfigurieren von Tokenlebensdauerrichtlinien (Vorschau)](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) – In diesem Artikel werden wir durch ein allgemeines Richtlinienszenario geführt, mit dem Sie neue Regeln für die Tokenlebensdauer auferlegen können. In diesem Beispiel erfahren Sie, wie Sie eine Richtlinie erstellen, die erfordert, dass Benutzer sich häufiger in Ihrer Web-App authentifizieren.
 
 **Problembehandlung bei der SSO-Konfiguration**
 
 - Häufig gestellte Fragen zu Azure Active Directory nahtlosen single Sign-On (Seamless SSO) finden Sie unter [Azure Active Directory Nahtloses einmaliges Anmelden: Häufig gestellte Fragen](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq).
-- Informationen zur Problembehandlung bei häufigen Problemen im Zusammenhang mit Azure Active Directory (Azure AD) nahtlosen single Sign-On (Seamless SSO) finden Sie unter [Problembehandlung Azure Active Directory nahtlosen einmaligen Anmeldens](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso).
+- Informationen zur Problembehandlung bei allgemeinen Problemen im Zusammenhang mit Azure Active Directory (Azure AD) nahtlosen single Sign-On (Seamless SSO) finden Sie unter [Problembehandlung Azure Active Directory nahtlosen einmaligen Anmeldens](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso).

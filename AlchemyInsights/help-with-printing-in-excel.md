@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "2715"
 - "9000773"
-ms.openlocfilehash: 1bcdcd7d265e154690384dd65b2a19e67d977e09
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fa49e8935fe2cc06820a3d7880c571d160c840ba
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62685440"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63275921"
 ---
 # <a name="help-with-printing-in-excel"></a>Hilfe beim Drucken in Excel
 

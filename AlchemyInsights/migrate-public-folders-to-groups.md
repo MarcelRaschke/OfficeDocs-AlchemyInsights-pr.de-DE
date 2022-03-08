@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10859"
 - "3500007"
-ms.openlocfilehash: 59abe91d84f3747be11b06b3cbbf1e5d4f986203
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f98c873434384795e8a21fc80d08f1ed41a8084f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62602499"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63273509"
 ---
 # <a name="migrate-public-folders-to-microsoft-365-groups"></a>Migrieren Sie Ihre öffentlichen Ordner zu Microsoft 365 Groups
 

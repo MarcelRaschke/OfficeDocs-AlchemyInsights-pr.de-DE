@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 17bee943a0a8e607758bafa0c42bf6580b858952c447c403207bebfba9d8d243
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dc4b23f9863e60529109d6372cf950328bb0242d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882794"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63301655"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Erweiterte Suche – Benutzerdefinierte Erkennungen
 
@@ -27,7 +27,7 @@ Sie können erfahren, wie Sie benutzerdefinierte Erkennungsregeln basierend auf 
   
 Wenn Sie Microsoft Defender ATP verwenden, finden Sie weitere Informationen in den folgenden Themen: 
 - [Benutzerdefinierte Erkennungen – Übersicht](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Erstellen benutzerdefinierter Erkennungsregeln](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Regeln für die benutzerdefinierte Erkennung erstellen](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [Anzeigen und Verwalten von benutzerdefinierten Erkennungsregeln](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
 Wenn Sie Microsoft 365 Defender verwenden, finden Sie weitere Informationen in den folgenden Themen: 

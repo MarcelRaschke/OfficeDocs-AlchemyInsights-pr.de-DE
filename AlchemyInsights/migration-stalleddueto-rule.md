@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: d2eb4536471a713c5251b4dc919fb988c7555bc0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 52c334e9c06bb7c338c988fc97959467d26c365c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62667031"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63273293"
 ---
 # <a name="stalleddueto-errors-during-migration"></a>Fehler "AngehaltenedDueTo" während der Migration
 

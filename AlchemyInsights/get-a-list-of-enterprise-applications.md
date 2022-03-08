@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: 10cb7a126d0b2156f7844880070d9ba3f18a5523
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 52d575bd5e7bb18044cca68cf54b0a59ad845767
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62652342"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63237471"
 ---
 # <a name="get-a-list-of-enterprise-applications"></a>Abrufen einer Liste von Enterprise-Anwendungen
 
@@ -25,7 +25,7 @@ ms.locfileid: "62652342"
 2. Informationen zum Abrufen einer Liste von Dienstprinzipalobjekten (alle Objekte oder gefiltert nach ID) über den PowerShell-Befehl finden Sie unter [Get-AzureADServicePrincipal (AzureAD)](https://docs.microsoft.com/powershell/module/azuread/get-azureadserviceprincipal).
 3. Wenn Sie **eine Liste der konfigurierten SAML-Apps abrufen möchten, können Ihnen die folgenden PowerShell-Skripts** helfen:
 
-    Jede Anwendung , sei es eine OAuth-App oder SAML-App (sowohl Katalog- als auch Nicht-Katalog-Apps), verfügt über zwei Objekte, die in AAD erstellt werden, wenn ihre Registrierung erfolgt. Eine wird als Application-Objekt und die andere als Dienstprinzipalobjekt bezeichnet. Wenn Sie die Eigenschaften eines Dienstprinzipalobjekts mithilfe von PowerShell abbilden, stellen Sie fest, dass jeder Anwendung eine bestimmte Anzahl von Tags zugeordnet ist, z. B.:
+    Jede Anwendung, sei es eine OAuth-App oder SAML-App (sowohl Katalog- als auch Nicht-Katalog-Apps), verfügt über zwei Objekte, die in AAD erstellt werden, wenn ihre Registrierung erfolgt. Eine wird als Application-Objekt und die andere als Dienstprinzipalobjekt bezeichnet. Wenn Sie die Eigenschaften eines Dienstprinzipalobjekts mithilfe von PowerShell abbilden, stellen Sie fest, dass jeder Anwendung eine bestimmte Anzahl von Tags zugeordnet ist, z. B.:
 
     - OAuth-Apps hätten das Tag "**WindowsAzureActiveDirectoryIntegratedApp**"
     - Gallery SAML Apps would have a tag called "**WindowsAzureActiveDirectoryGalleryApplicationPrimaryV1**"
@@ -53,8 +53,8 @@ ms.locfileid: "62652342"
 7. **Exportieren einer Liste nicht verwendeter Azure-Apps** – Überwachungsbericht
 
     Azure AD können Anwendungsprotokolle nur bis zu 30 Tage lang anzeigen, sofern Sie über Azure AD Premium Lizenz verfügen.
-    Sie haben zwei Möglichkeiten, die Daten länger als 30 Tage aufzubewahren. Sie können die [Azure AD-Berichterstellungs-APIs](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) verwenden, um die Daten programmgesteuert abzurufen und in einer Datenbank zu speichern. Alternativ können Sie Überwachungsprotokolle in ein SIEM-System eines Drittanbieters integrieren.
+    Sie haben zwei Möglichkeiten, die Daten länger als 30 Tage aufzubewahren. Sie können die [Azure AD Berichterstellungs-APIs](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) verwenden, um die Daten programmgesteuert abzurufen und in einer Datenbank zu speichern. Alternativ können Sie Überwachungsprotokolle in ein SIEM-System eines Drittanbieters integrieren.
 
-    Sie können auch die App-Liste für alle Anwendungen und eigenen Anwendungen unter Azure Active Directory>App-Registrierungen herunterladen>herunterladen>Alle Anwendungen/Eigenen Anwendungen.
+    Sie können auch die App-Liste für alle Anwendungen und eigenen Anwendungen unter Azure Active Directory>App-Registrierungen>Herunterladen>Alle Anwendungen/Anwendungen im Besitz herunterladen.
 
     Informationen zum Abrufen einer Liste von Anwendungen über MS Graph finden Sie unter ["Anwendungen auflisten" – Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) und [Anwendungsressourcentyp – Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/resources/application).

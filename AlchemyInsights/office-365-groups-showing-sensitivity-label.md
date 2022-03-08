@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: 294c8e7eefc70280cce46a0939b647bada87154f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cd48ff7ab56ca5d21a82f9366b25715db65e9b07
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62697812"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63272645"
 ---
 # <a name="microsoft-365-groups-showing-sensitivity-label"></a>Microsoft 365-Gruppen, die mit einer Vertraulichkeitsbezeichnung versehen sind
 

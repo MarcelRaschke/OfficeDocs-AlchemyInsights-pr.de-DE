@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000298"
 - "5899"
-ms.openlocfilehash: e1d70c9aac8f9131f87bb2999b551beda61bf0d8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5286e1f764df7a83e639ac1464821da7cbd550cb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62649138"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63274121"
 ---
 # <a name="microsoft-365-language-settings"></a>Microsoft 365 Sprach-Einstellungen
 

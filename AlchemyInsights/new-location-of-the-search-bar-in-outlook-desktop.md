@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1800005"
 - "5620"
-ms.openlocfilehash: 0afd0778c110fa5e11d1d32f5a7ee17d9a9d7782
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e33dd2ca112f743b501fe084abc50ee7f13cac99
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62551431"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63272969"
 ---
 # <a name="new-location-of-the-search-bar-in-outlook-desktop"></a>Neue Position der Suchleiste in Outlook Desktop
 

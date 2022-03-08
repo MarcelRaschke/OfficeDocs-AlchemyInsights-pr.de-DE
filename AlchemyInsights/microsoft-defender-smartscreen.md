@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11229"
 - "9005487"
-ms.openlocfilehash: 41377e229c872d2141c4f83f3159c115522fd8eb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d9b5df6d8174be7844c28821896af85a9e6ee47e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62603651"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63273941"
 ---
 # <a name="microsoft-defender-smartscreen"></a>Microsoft Defender Smartscreen
 

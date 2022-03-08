@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
@@ -16,12 +16,12 @@ ms.custom:
 - "1500029"
 ms.date: 04/21/2020
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: cb308c4934a2d6acd55f009f76347440a50d384b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fd0f8ecb948eafbbc81abcd81ceb73fc8b686d56
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62630670"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63220929"
 ---
 # <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Probleme beim Abschließen eines Kaufs im Microsoft 365 Admin Center
 

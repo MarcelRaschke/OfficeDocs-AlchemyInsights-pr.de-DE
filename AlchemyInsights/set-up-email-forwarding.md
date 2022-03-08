@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 4db7f86abca669b185054eb79dd96dca9c012afa
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b20ee82a5b78a3dcd6717e8838adcb369ebf5905
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62679883"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63221685"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Überprüfen der E-Mail-Weiterleitungseinstellungen für ein Postfach
 

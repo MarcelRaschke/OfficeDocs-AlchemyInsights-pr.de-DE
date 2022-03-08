@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
 ms.date: 08/10/2021
-ms.openlocfilehash: adf4b5393ab10c80430b2594932d66bd185d0aaf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e8863f3918ede54241c17cd37a14a4b0e257760b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62626782"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63218841"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>Zuweisen von Microsoft Defender für Office 365-Lizenzen
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 9574e3ebd29053f6d23860cd6125572fe9d255e7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 34a620e6e4699442f4a0e686f769ceafb186b4a2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62559891"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63218949"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Zuweisen einer kostenfreien Rufnummer zu Ihrer Audiokonferenzbrücke
 

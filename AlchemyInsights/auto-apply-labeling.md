@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8232"
 - "9004597"
-ms.openlocfilehash: c3d3c0e80f9de163e7f23b48c2273434db2c2012
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 34ceb47ef48bf7fa3de0a6d420393766096cc8cc
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62658174"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63218769"
 ---
 # <a name="auto-apply-labeling"></a>Bezeichnung automatisch anwenden
 

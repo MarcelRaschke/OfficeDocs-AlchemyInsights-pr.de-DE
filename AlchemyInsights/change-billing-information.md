@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
 - "9002555"
 - "4942"
 ms.date: 08/10/2021
-ms.openlocfilehash: d624354789073ffbd3f2a5cf2be99c33ef496d90
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 739fe4375d7b5a68d11a6cfdbb08cd86acf5e461
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62674231"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63300875"
 ---
 # <a name="change-billing-information"></a>Ändern der Abrechnungsinformationen
 

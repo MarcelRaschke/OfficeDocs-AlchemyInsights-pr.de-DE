@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 0a428684caa10d5eb6b33c36d16af1927711801a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 197bc46a54c55f9e224afc8b770579a6b19750c0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62760743"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63300091"
 ---
 # <a name="create-user"></a>Benutzer erstellen
 
@@ -36,6 +36,6 @@ ms.locfileid: "62760743"
 1. Weitere Informationen für Ihr Azure AD finden Sie unter [Azure AD-Rollen und -Administratoren](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators).
 1. Informieren Sie sich über die [Domänennamen,](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) für Ihr Azure AD.
 1. Überprüfen Sie die [Überwachungsprotokolle](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators), um detailliertere Informationen zu einem kürzlich erstellten oder gelöschten Benutzer zu erhalten, z. B. wer die Aktion ausgeführt hat und wann.
-1. Weitere Informationen zum Hinzufügen neuer Benutzer finden Sie unter [Verwenden des Azure-Portals zum Erstellen eines neuen Benutzers in Ihrem Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal).
-1. [Azure AD Administratorrollen](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): Administratorrollenberechtigungen in Azure Active Directory
+1. Weitere Informationen zum Hinzufügen neuer Benutzer finden Sie unter [Verwenden des Azure-Portals zum Erstellen eines neuen Benutzers in Ihrer Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal).
+1. [Azure AD Administrative Rollen](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): Administratorrollenberechtigungen in Azure Active Directory
 1. Sie können auch [Azure AD PowerShell verwenden, um einen neuen Benutzer zu erstellen](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0&preserve-view=true).

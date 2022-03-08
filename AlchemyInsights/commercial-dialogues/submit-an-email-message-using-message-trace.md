@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 455a79423178236d28c69459b0e609c5f6351fba
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e2ff1c49c9525bebf16457bdd3b1f1ed531228ec
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62655654"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63268577"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Senden einer E-Mail-Nachricht mithilfe der Nachrichtenablaufverfolgung
 

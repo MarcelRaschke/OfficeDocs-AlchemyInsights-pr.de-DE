@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7896"
-ms.openlocfilehash: 585731899d12cd879fa6ba1b586aad6e6e1b4cf8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 75eee96b0c40b9ef5eab0d3d2d17a01630025503
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62628078"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63301751"
 ---
 # <a name="administrative-unit-solution"></a>Lösung für administrative Einheiten
 

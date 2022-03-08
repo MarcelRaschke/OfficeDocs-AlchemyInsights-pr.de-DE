@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "7999"
-ms.openlocfilehash: 0f0878660785d27b6230cb1097e11cb9e5651399
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 563f70f15f4e2e6606e7c63f67364ceb778e974d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62619384"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63273149"
 ---
 # <a name="mover-faq"></a>Häufig gestellte Fragen zu Mover
 

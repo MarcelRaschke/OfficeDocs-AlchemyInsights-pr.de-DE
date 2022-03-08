@@ -8,16 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: c479317370cce9ef05bf9330b06205ed6f43f38c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ba5c8858dc287d742ae72cd6dff47beb65afae20
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62682619"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63272789"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Angriffssimulator in Microsoft 365
 

@@ -8,17 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ms.collection: Adm_O365
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010427"
 - "16610"
 ms.date: 02/01/2022
-ms.openlocfilehash: 0309fa2f3ff5d7e79bd00c005303fe258ba762b2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 10e5d487ef64fd84bb91f060e14e93ee812cb0f2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62740422"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63219921"
 ---
 # <a name="viva-connections-early-adoption-program"></a>Viva Connections Early Adoption Program
 

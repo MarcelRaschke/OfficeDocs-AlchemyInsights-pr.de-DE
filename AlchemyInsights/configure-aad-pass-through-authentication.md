@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6970"
 - "9003915"
-ms.openlocfilehash: f1b5f56d44b39903ae3141a29f8b06f567438ab8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 888295aa364fc2391bbf5c380d36c105cf939cd7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62557155"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63267857"
 ---
 # <a name="configure-azure-active-directory-pass-through-authentication"></a>Konfigurieren der Azure Active Directory-Pass-Through-Authentifizierung
 

@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1200029"
 - "16650"
 ms.date: 02/07/2022
-ms.openlocfilehash: 0c83e9b51ae349e483b9b907e7185c9eb0c5616d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7a59d17dc56b18f9c6b8da1839c72c35aab1e9cb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62640643"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63300127"
 ---
 # <a name="how-to-a-create-a-microsoft-365-group-and-restrict-who-can-create-a-group"></a>So erstellen Sie eine Microsoft 365 Gruppe und schränken ein, wer eine Gruppe erstellen kann
 

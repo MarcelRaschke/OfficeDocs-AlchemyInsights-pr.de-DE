@@ -7,23 +7,23 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: 5e417ca8ea871308de2e2e03a95c9fc7507db988
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5466cffeebcc98e0b56e4e247dc269907d819722
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62724502"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63300911"
 ---
 # <a name="change-account-picture"></a>Ändern des Kontobilds
 
 Wenn Sie einen Benutzernamen und ein Kennwort verwenden, um sich bei Windows 10 anzumelden, verwenden Sie ein lokales Konto. **So ändern Sie ihr lokales Kontobild**:
 
-1. Wechseln Sie zu **"Start** >  **Einstellungen** >  **AccountsYour** >  **info**".
+1. Wechseln Sie zu **Start** >  **Einstellungen** >  **AccountsYour-Informationen** > .
 2. Klicken **Sie unter "Bild erstellen**" auf **"Nach einem** suchen". Wenn Ihr Gerät über eine Kamera verfügt, klicken Sie auf **"Kamera** ", und nehmen Sie eine Kamera. 
     **Hinweis**: Windows speichert die letzten drei Bilder, die Sie verwendet haben. Klicken Sie auf das Bild auf der Seite "Ihre Informationen", um zu diesem zu wechseln.
 

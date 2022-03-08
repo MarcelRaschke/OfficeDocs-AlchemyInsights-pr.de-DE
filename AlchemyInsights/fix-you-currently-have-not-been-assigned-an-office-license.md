@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: df61aa68742bc62f250b8f8510c048e3de71193d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2c8a6cf9747fae19c301bc105b6d246bd3c08517
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62710197"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63237939"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Problembehandlung – „Ihnen ist derzeit keine Office-Lizenz zugewiesen“
 
