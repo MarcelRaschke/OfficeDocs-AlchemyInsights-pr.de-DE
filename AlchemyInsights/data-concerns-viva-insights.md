@@ -7,22 +7,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9010263"
 - "16722"
 ms.date: 02/15/2022
-ms.openlocfilehash: c6a87071d7ac19a36ac5c86ce10491de1f3dfdc7
-ms.sourcegitcommit: 5c192c14acfb55ca3d5bbee10bf0e5ccecef8bf2
+ms.openlocfilehash: e4c5970e81a9bcbafd0132ee10168eed6b07f5f4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/16/2022
-ms.locfileid: "62860072"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63267185"
 ---
 # <a name="data-concerns-in-viva-insights"></a>Datenbedenken in Viva Insights
 
-Informationen zu Viva Insights Datenspeicherung, -aufbewahrung und -datenschutz finden Sie unter:
+Informationen zum Speichern, Aufbewahren und Datenschutz von Viva Insights finden Sie unter:
 
 - [Datenschutz mit Viva Insights](https://docs.microsoft.com/viva/insights/privacy/data-protection-intro)
 - [Überlegungen zum Datenschutz](https://docs.microsoft.com/viva/insights/privacy/data-protection-considerations)

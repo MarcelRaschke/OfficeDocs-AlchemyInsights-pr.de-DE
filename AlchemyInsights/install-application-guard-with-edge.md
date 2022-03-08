@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8327"
 - "9004625"
-ms.openlocfilehash: 7e4c094a8a6e31f73e22869f70b6f984a1c52ae1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b9d13e545f037bf5b79fe1ca9d57e2f3edc8e426
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62637607"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63265265"
 ---
 # <a name="install-application-guard-with-microsoft-edge"></a>Installieren von Application Guard mit Microsoft Edge
 

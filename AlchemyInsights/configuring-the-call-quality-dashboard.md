@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "14001"
 - "9001504"
-ms.openlocfilehash: b3fd582212e95d8d88b9decc9101ae8f5bd55fa6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ba018b99c33a2aaeeb249aaf2771073d4d08ea95
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62671135"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63267605"
 ---
 # <a name="configuring-the-call-quality-dashboard"></a>Konfigurieren des Anrufqualitätsdashboards
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3100010"
 - "16270"
-ms.openlocfilehash: bb9e4e508285ade52068a3920531b4e44b2fca9c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d6c86e6f01dc396ef14070df2f2903eba66e7c85
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62721333"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63277469"
 ---
 # <a name="emerging-issue-email-stuck-in-transport-queues"></a>Neu auftretendes Problem: E-Mail bleibt in Transportwarteschlangen hängen
 

@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fa6eabdd9fa9b645d434f21e59114313a9b6307a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: dccf3c5e75b6ff2c2f915d8b546ff40cdea16934
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62623200"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63266849"
 ---
 # <a name="ediscovery-issues"></a>eDiscovery-Probleme
 
@@ -27,7 +27,7 @@ Suchen Sie nach eDiscovery-Optionen? Mit der neu gestalteten Navigation im Secur
 
 - Erstellen sie einen eDiscovery-Fall, um nach Inhalten zu suchen und Inhaltsspeicherorte in die Warteschleife zu setzen – Wechseln Sie zu **eDiscovery > eDiscovery**
 
-- Verwenden Sie die neue End-to-End-Advanced eDiscovery-Lösung, um Verwahrer zu identifizieren und mit ihnen zu kommunizieren, die für den Fall relevanten Verwahrerdaten beizubehalten, Daten zu sammeln und zu einem Prüfdateisatz hinzuzufügen, und das Datenvolumen zu reduzieren, indem Sie Analysen anwenden, um unnötige Daten zu löschen und sich auf das zu konzentrieren, was für den Fall am relevantesten ist – wechseln Sie zu **eDiscovery > Advanced eDiscovery**
+- Verwenden Sie die neue End-to-End-Advanced eDiscovery-Lösung, um Verwahrer zu identifizieren und mit ihnen zu kommunizieren, die für den Fall relevanten Verwahrerdaten beizubehalten, Daten zu sammeln und zu einem Prüfdateisatz hinzuzufügen und das Datenvolumen zu reduzieren, indem Sie Analysen anwenden, um unnötige Daten zu löschen und sich auf das zu konzentrieren, was für den Fall am relevantesten ist – wechseln Sie zu **eDiscovery > Advanced eDiscovery**
 
 Weitere Informationen finden Sie unter:
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9010086"
 - "15388"
-ms.openlocfilehash: 7bd6e32b1d83095c12bc0766c94f4b3306f8e56e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1ed91bfef308509af1eafd9f457c27577cc43116
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62639670"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63266201"
 ---
 # <a name="frequently-asked-questions-for-message-trace-in-exchange-online"></a>Häufig gestellte Fragen zur Nachrichtenablaufverfolgung in Exchange Online
 
@@ -25,7 +25,7 @@ Als Administrator können Sie herausfinden, was mit einer E-Mail passiert ist, i
 
 **Ich benöte den Status gesendeter Nachrichten, die älter als 90 Tage sind. Gibt es eine andere Möglichkeit, den Status von Nachrichten zu erfassen?**
 
-Standardmäßig ruft Exchange Online Nachrichtenablaufverfolgung Daten aus den letzten 90 Tagen ab. Wenn Sie Nachrichtenablaufverfolgungsdaten benötigen, die älter als 90 Tage sind, können Sie ein Skript erstellen, um die Daten in regelmäßigen Abständen aus Microsoft 365 abzurufen und mithilfe des Cmdlets Get-MessageTrace mehr als die standardmäßigen 90 Tage im lokalen Repository zu speichern. Alternativ können Sie eine Inhaltssuche für E-Mails durchführen, die älter als 90 Tage sind. Weitere Informationen finden Sie unter [Erstellen und Ausführen einer Inhaltssuche im Microsoft 365 Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/content-search).
+Standardmäßig ruft Exchange Online Nachrichtenablaufverfolgung Daten aus den letzten 90 Tagen ab. Wenn Sie Nachrichtenablaufverfolgungsdaten benötigen, die älter als 90 Tage sind, können Sie ein Skript erstellen, um die Daten regelmäßig aus Microsoft 365 abzurufen und mithilfe des Cmdlets Get-MessageTrace mehr als die standardmäßigen 90 Tage im lokalen Repository zu speichern. Alternativ können Sie eine Inhaltssuche für E-Mails durchführen, die älter als 90 Tage sind. Weitere Informationen finden Sie unter [Erstellen und Ausführen einer Inhaltssuche im Microsoft 365 Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/content-search).
 
 **Welche Zeitzone wird auf der Benutzeroberfläche für die Nachrichtenverfolgung angezeigt?**
 

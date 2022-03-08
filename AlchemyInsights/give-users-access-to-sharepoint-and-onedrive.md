@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a2af5e6fa39f1c9b0837ec2d0863af564a1550b5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d90003f9cfdc3aa835202db703c4f7e93625d06a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62622372"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63266021"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>Benutzern Zugriff auf SharePoint und OneDrive gewähren
 

@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "930"
 - "820"
 - "1800021"
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: 827835a52bca4313bbf5839e356ca12062626fee
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 43bf46ee315cafb8c05b88c12837e3a4efe77124
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62654142"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63278081"
 ---
 # <a name="creating-inbox-rules-for-shared-mailboxes"></a>Erstellen von Posteingangsregeln für freigegebene Postfächer
 

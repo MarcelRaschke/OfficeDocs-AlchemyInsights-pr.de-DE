@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 6c83c5a748455cca1936cf5d03c4ea41f0dff85a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ede6ba7bbac6c8e2b48e536b99012a37f35ff54c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62668327"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63265301"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Wechseln von Abonnements zur Erhöhung der Postfachgröße
 

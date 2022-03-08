@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 61226e19673f152079fea59ee253f0d5aaf6e986
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bf716637e2abffe8ba08f2aec3741d88503b0887
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62747711"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63266813"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Bearbeiten des Abrechnungsprofils für Apps
 

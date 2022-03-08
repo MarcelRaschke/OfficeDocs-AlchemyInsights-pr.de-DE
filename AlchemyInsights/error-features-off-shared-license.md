@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9811"
 - "9005394"
-ms.openlocfilehash: e9d174e955771b74adb3a4db9256b1c99b86c18f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 62cbf8e36c41aabc1b18a3429914f7f248733964
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62747290"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63277253"
 ---
 # <a name="error-most-features-are-turned-off-because-a-shared-computer-license"></a>Fehler: Die meisten Features sind deaktiviert, weil eine gemeinsam genutzte Computerlizenz...
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003902"
 - "6957"
-ms.openlocfilehash: bc2da34e0c5e67e3e76256a31453c62399822a97
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c54e7aae5094e4a324e9691329fac9f21d4899c0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62669983"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63278153"
 ---
 # <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Anpassen eines Sitzungshostimages für Windows Virtual Desktop
 

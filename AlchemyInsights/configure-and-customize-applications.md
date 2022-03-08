@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004334"
 - "7733"
-ms.openlocfilehash: dc188e2d4946c6af1cca7159fb1521830047f155
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ae53bd2b3ef377fe3b7d26c09e209039a091b520
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62761499"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63278261"
 ---
 # <a name="configure-and-customize-applications"></a>Konfigurieren und Anpassen von Anwendungen
 
@@ -26,7 +26,7 @@ ms.locfileid: "62761499"
 1. [Schnellstart: Konfigurieren von Eigenschaften für eine Anwendung in Ihrem Azure Active Directory -Mandanten (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) zeigt Ihnen, wie Sie einige der Eigenschaften für eine App konfigurieren.
 2. Um Ihre Anwendungen in Azure Active Directory zu integrieren, haben wir [eine Sammlung von Lernprogrammen](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) entwickelt, die Sie durch die Konfiguration führen.
 3. [Wie Sie eine Anwendungsproxyanwendung konfigurieren,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) hilft Ihnen zu verstehen, wie Sie eine Anwendungsproxyanwendung innerhalb Azure AD konfigurieren, um Ihre lokalen Anwendungen für die Cloud verfügbar zu machen.
-4. [Laden Sie PingAccess herunter, und konfigurieren Sie Ihre Anwendung](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application): Befolgen Sie die Anweisungen unter *Configure PingAccess for Azure AD to protect applications* published using Microsoft Azure AD Application Proxy on the Ping Identity web site and download the latest version of PingAccess.
+4. [Laden Sie PingAccess herunter, und konfigurieren Sie Ihre Anwendung](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application): Befolgen Sie die Anweisungen unter *Konfigurieren von PingAccess für Azure AD, um Anwendungen zu schützen*, die mit Microsoft Azure AD Anwendungsproxy auf der Ping Identity-Website veröffentlicht wurden, und laden Sie die neueste Version von PingAccess herunter.
 
 **Fehler bei falsch konfigurierter Anwendung (AADSTS650056)**
 

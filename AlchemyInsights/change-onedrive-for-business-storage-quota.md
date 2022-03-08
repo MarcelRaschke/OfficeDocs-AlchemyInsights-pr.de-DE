@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: 4d7f245984b97ba465ec0afa9a90fc40cb60f38f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1b799ce80e48cd330a77d52512538d88f6b83231
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62557983"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63278981"
 ---
 # <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Ändern des Standardmäßigen OneDrive Speicherplatzes für Ihre Benutzer
 

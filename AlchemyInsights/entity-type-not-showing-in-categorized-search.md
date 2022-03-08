@@ -8,16 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: 28ec567e381394460b56358aac2534dc2de3e49c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c6302d00247fd8966a18c004fdbebdf2f939ce94
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62554851"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63266633"
 ---
 # <a name="entity-type-not-showing-in-search-results"></a>Entitätstyp wird in Suchergebnissen nicht angezeigt
 

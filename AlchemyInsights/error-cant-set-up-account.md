@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9807"
 - "9005648"
-ms.openlocfilehash: 071914b6ec6cdfaaa03026fdf412d63e93462069
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0ae6ae03f5cedf96d1255a593322beac6c718de5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62591986"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63266597"
 ---
 # <a name="error-sorry-we-cant-set-up-your-account-right-now-nomatchingeligibleproductsfound"></a>Fehler: Leider können wir Ihr Konto im Moment nicht einrichten (NoMatchingEligibleProductsFound)
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000181"
 - "4835"
-ms.openlocfilehash: 4c2ac7a4cdb457d1c584c92522ede246d0bd991c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5009d4d090dd61602721f159071d4a67d57b2a98
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62577135"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63277361"
 ---
 # <a name="error-creating-o365-groups-the-classification-field-cant-be-empty"></a>Fehler beim Erstellen von O365-Gruppen: Das Klassifizierungsfeld darf nicht leer sein
 

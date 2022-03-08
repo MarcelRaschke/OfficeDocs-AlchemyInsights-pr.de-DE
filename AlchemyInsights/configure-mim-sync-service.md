@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8472"
 - "9004688"
-ms.openlocfilehash: d5fddfaebe7991692ac06865fbe7ed1360f04064
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b614ab8714926e62f06c5720c2494c221fbad1f4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62608115"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63278189"
 ---
 # <a name="configure-mim-sync-service"></a>Konfigurieren des MIM Sync-Diensts
 

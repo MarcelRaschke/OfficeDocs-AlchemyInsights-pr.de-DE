@@ -8,21 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9005378"
 - "9266"
-ms.openlocfilehash: 04f9e308c83a938a09a49a2219d3cff4a2ea55a5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 42463c223abf565e6b764878f15e9d64c6773fbe
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62640111"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63266417"
 ---
-# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Fehler "Diese Website kann nicht erreicht werden" beim Versuch, über einen Browser oder Teams auf SharePoint Website zuzugreifen
+# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Fehler "Diese Website kann nicht erreicht werden" beim Versuch, über browser- oder Teams auf SharePoint Website zuzugreifen
 
-Benutzer erhalten möglicherweise die Fehlermeldung "Diese Website kann nicht erreicht werden", wenn sie versuchen, über einen Browser oder Teams auf SharePoint Website zuzugreifen. 
+Benutzer erhalten möglicherweise die Fehlermeldung "Diese Website kann nicht erreicht werden", wenn sie versuchen, über den Browser oder Teams auf SharePoint Website zuzugreifen. 
 
 So lösen Sie das Problem: 
 

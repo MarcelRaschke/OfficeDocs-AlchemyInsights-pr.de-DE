@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: b68f9e0f34a74969f6b293e131b4e43050542d40
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ccc5c43fe032003300c865649cf8042835dd4920
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62748588"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63267353"
 ---
 # <a name="create-an-email-catch-all"></a>Erstellen eines E-Mail-Catch-All
 
