@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "615"
 - "878"
 - "3500012"
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
-ms.openlocfilehash: 109dc5dda97254868cf086f612662c5d7d527e23
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ac4f816b56d31d3d3e1f0c9a245cfa1f99897de1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62661270"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63082342"
 ---
 # <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a>Verschiedene Typen von freigegebenen Outlook-Kalendern und die Vorgehensweise bei der Einrichtung
 

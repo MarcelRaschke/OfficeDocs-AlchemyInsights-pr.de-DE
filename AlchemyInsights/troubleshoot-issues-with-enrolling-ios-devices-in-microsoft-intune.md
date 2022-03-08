@@ -1,5 +1,5 @@
 ---
-title: Behandeln von Problemen bei der Registrierung von iOS-Geräten in Microsoft Intune
+title: Problembehandlung bei der Registrierung von iOS-Geräten in Microsoft Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,16 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 54289eca210e22e37a12e4b4e6ca706c4207cb7d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9c2347e00f341035dc780cc097a94d065dfdc175
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62661486"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63082990"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Behandeln von Problemen bei der Registrierung von iOS-Geräten in Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Problembehandlung bei der Registrierung von iOS-Geräten in Microsoft Intune
 
 Überprüfen Sie die unten aufgeführten Ressourcen, um Ihr Problem jetzt zu beheben. 
   

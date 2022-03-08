@@ -1,5 +1,5 @@
 ---
-title: Problembehandlung bei OneDrive- oder SharePoint Dateiuploadproblemen
+title: Behandeln von Problemen beim Hochladen von OneDrive- oder SharePoint-Dateien
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "5200007"
 - "3422"
-ms.openlocfilehash: d2e34704c70e6c35b6c66587a6a48737187769ec
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4e369cd69234f64ee9929adc2be966515939d34a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62661738"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63083494"
 ---
-# <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>Problembehandlung bei OneDrive- oder SharePoint Dateiuploadproblemen
+# <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>Behandeln von Problemen beim Hochladen von OneDrive- oder SharePoint-Dateien
 
 Wenn Sie Probleme beim Hochladen oder Synchronisieren von Dateien in OneDrive oder SharePoint haben, können die folgenden Artikel hilfreich sein:
 

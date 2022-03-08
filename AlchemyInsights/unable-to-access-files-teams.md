@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10922"
 - "9003042"
-ms.openlocfilehash: 19e5e8f1a6074ec10bab6e54840e880aec7f4717
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 772fb4572abda435750acce3e90af7d6a5a008a1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62660766"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63082248"
 ---
 # <a name="unable-to-access-files-in-a-team"></a>Zugriff auf Dateien in einem Team nicht möglich
 

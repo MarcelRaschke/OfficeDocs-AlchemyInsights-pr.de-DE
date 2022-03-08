@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11017"
 - "9000181"
-ms.openlocfilehash: f8592064f54676cdbdd4bbfd1a8e431260a908b7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: da019c89e0ff0575e92b6868c48b1abc6f04de68
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62645844"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63082840"
 ---
 # <a name="troubleshoot-sensitivity-labels-not-appearing"></a>Problembehandlung bei nicht angezeigten Vertraulichkeitsbezeichnungen
 
