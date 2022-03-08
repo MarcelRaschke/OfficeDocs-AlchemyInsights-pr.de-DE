@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6159"
 - "9003228"
-ms.openlocfilehash: bf7a36fb25855a17ba6fefcb9bd35d6c016048ed
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7f31d932bb152b1b0f15de21275dfc7e2d2ae6bc
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62632578"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63232466"
 ---
 # <a name="restore-deleted-users-and-groups"></a>Wiederherstellen von gelöschten Benutzern und Gruppen
 

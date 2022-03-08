@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "2544"
 - "9000672"
-ms.openlocfilehash: ce67bc1f1ffc7c4e33f3fcc98efdebeaeef1ac4d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 73e91ef718f2e2ceb329182a3667e8a94a58ee8d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62564283"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63287945"
 ---
 # <a name="activate-microsoft-forms-for-an-organization"></a>Aktivieren von Microsoft Forms für eine Organisation
 

@@ -8,24 +8,24 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
 ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: bdbf771d5b72dfee70703bb96f66ee4c86ffb8f6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 530c76bc188b77b77d4726fad0b3d584e01ef844
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62743067"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63231819"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Onlinedrosselung
 
 SharePoint Online verwendet Einschränkung, um eine optimale Leistung und Zuverlässigkeit des Diensts SharePoint Online verwalten. Einschränkungsgrenzwerte Ruft die Anzahl von Aktionen eines Benutzers oder gleichzeitige (von Code- oder Skriptblock), um Ressourcen zu verhindern. 
 
-Weitere Informationen zur Drosselung finden Sie unter ["Vermeiden von Einschränkungen oder Sperren in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)".
+Weitere Informationen zur Drosselung finden Sie unter [Vermeiden von Einschränkungen oder Sperren in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
 Wenn Sie der Meinung sind, dass dieser Fehler nichts mit der Drosselung zu tun hat, können Sie überprüfen, ob aktive Wartung auf Ihrem Mandanten erfolgt, indem Sie zum [Nachrichtencenter](https://portal.office.com/adminportal/home#/MessageCenter) navigieren.
 

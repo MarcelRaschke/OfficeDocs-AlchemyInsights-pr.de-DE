@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "4567"
-ms.openlocfilehash: 8386862f3d1d13380a1b09215eaa0eeb0fc928a5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 061dad930851b137f5b2c3ff1c91787a559e868e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62752175"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63232075"
 ---
 # <a name="set-up-or-troubleshoot-cloud-voicemail"></a>Einrichtung oder Problembehandlung von Cloud-Voicemail
 

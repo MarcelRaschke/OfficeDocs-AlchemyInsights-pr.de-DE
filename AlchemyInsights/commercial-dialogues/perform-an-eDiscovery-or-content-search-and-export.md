@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 83a8dc218e605794b20611c6e56ef27f8242f285
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5ca54ba6f7eb613ed913ef19460ccc29b9710421
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62705013"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63285173"
 ---
 # <a name="perform-an-ediscoverycontent-search-and-export"></a>Durchführen einer eDiscovery-/Inhaltssuche und eines Exports
 

@@ -7,16 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: 1105da55016c0511440212ba812c98df4ed665dd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 587c4d094bd37140693721b6da52315a9c6c0c33
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62693600"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63232179"
 ---
 # <a name="emerging-issue"></a>Neu auftretendes Problem
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002542"
 - "4909"
-ms.openlocfilehash: 472174caaddeec9a4312627bc7500ed9e0e10401
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 408e129214706b00f76a7b8892905d25a26302b5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62564607"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63288161"
 ---
 # <a name="action-pack-licenses"></a>Action Pack-Lizenzen
 

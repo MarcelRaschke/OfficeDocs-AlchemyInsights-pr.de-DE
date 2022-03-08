@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: d55b6a113600e5a967449c73ef9f90263504e9ee
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5084d09b8f2e6a21e556a3f45c7f212562882a16
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62656302"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63285461"
 ---
 # <a name="fix-connection-policy"></a>Beheben von Verbindungsrichtlinien
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 30411add70c1e54e1e6c87886015b40c6b01f6b7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6bee8eb7762811c031c5e2c1c73ec6ceadb4b127
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62613083"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63286871"
 ---
 # <a name="add-a-gmail-account-to-outlook"></a>Hinzufügen eines Gmail-Kontos zu Outlook
 
@@ -36,4 +36,4 @@ Die Schritte sind identisch, unabhängig davon, ob Sie Ihr erstes Gmail-Konto od
 
 **Tipp**:
 - > Wenn Sie auch das Kontrollkästchen für Setup Outlook Mobile auf meinem Smartphone aktivieren, werden Sie zu einer Website weitergeleitet, auf der Sie Ihre Mobiltelefonnummer eingeben können, und Sie erhalten einen Link zum Herunterladen von Outlook für iOS oder Outlook für Android. Die Installation von Outlook Mobile ist eine hervorragende Möglichkeit, um unterwegs auf dem neuesten Stand zu bleiben.
-- Wenn Sie Anweisungen zum Hinzufügen eines E-Mail-Kontos mithilfe erweiterter Einstellungen benötigen, lesen [Sie "Erweitertes Setup verwenden" zum Hinzufügen eines POP- oder IMAP-E-Mail-Kontos in Outlook für PCs](https://support.microsoft.com/office/change-or-update-email-account-settings-in-outlook-for-windows-560a9065-3c3a-4ec5-a24f-cdb9a8d622a2#bkmk_advanced).
+- Wenn Sie Anweisungen zum Hinzufügen eines E-Mail-Kontos mithilfe erweiterter Einstellungen benötigen, lesen Sie "[Erweitertes Setup verwenden" zum Hinzufügen eines POP- oder IMAP-E-Mail-Kontos in Outlook für PC](https://support.microsoft.com/office/change-or-update-email-account-settings-in-outlook-for-windows-560a9065-3c3a-4ec5-a24f-cdb9a8d622a2#bkmk_advanced).

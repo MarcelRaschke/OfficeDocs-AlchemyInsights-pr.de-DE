@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 484e7aab8ffe74727eba0fc074a59b3eeb6675eb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 74ea4360253677609c4ff5632ba588f3fa272a41
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62728746"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63232719"
 ---
 # <a name="restore-a-deleted-onedrive-site"></a>Wiederherstellen einer gelöschten OneDrive Website
 
@@ -27,6 +27,6 @@ Wenn Sie einen Benutzer im Microsoft 365 Admin Center löschen (oder wenn ein Be
 
 * [Wiederherstellen einer gelöschten OneDrive Website](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Wenn viele Ihrer OneDrive Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie Die gesamte OneDrive auf ein früheres Mal wiederherstellen.
+Wenn viele Ihrer OneDrive Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie Ihre gesamte OneDrive auf ein früheres Mal wiederherstellen.
 
 * [Wiederherstellen der OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

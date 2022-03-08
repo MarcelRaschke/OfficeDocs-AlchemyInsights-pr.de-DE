@@ -7,16 +7,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: c07825aa49f0852c8a33db1e751724dcf807675d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4450f52819998b2dafa733a1fd944fd60a9fc87d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62664439"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63231855"
 ---
 # <a name="allow-custom-script-to-enable-features"></a>Zulassen des Aktivierens von Features durch benutzerdefiniertes Skript
 

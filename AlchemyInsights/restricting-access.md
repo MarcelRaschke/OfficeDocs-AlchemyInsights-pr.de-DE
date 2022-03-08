@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7769"
-ms.openlocfilehash: 07282ff58bcc6a7b7f4edded31573d56d54f4b68
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 76ee5e3c827a2e1a5231dc67265fe834207ed78a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62752607"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63232359"
 ---
 # <a name="restricting-access"></a>Einschränken des Zugriffs
 

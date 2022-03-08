@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 4884cea9c8fcbc675d48296d30cf18ee8db04b63
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6d10c6fc2affd509438026b6493857e2b3ff42f4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62612867"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63286793"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Hinzufügen einer Gruppe zu einer SharePoint Website
 

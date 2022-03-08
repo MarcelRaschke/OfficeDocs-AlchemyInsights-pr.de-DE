@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: 851b2244ea1fa575cda9831faef4f4f9343b3a5b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ad6fda7839353649f62486ab248375ba3451ad9f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62564247"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63287909"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktivieren und Zuweisen von Software-as-a-Service-App-Lizenzen 
 

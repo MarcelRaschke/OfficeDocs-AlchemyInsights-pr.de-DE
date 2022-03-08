@@ -7,7 +7,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
 ms.custom:
@@ -16,12 +16,12 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 9e56cc35643f25ce3605b69771a59c93d1b17d02
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2cc3b537d608fa4e56948d8aa12990ab6e2b4194
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62598610"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63233079"
 ---
 # <a name="reset-or-change-passwords"></a>Zurücksetzen oder Ändern von Kennwörtern
 

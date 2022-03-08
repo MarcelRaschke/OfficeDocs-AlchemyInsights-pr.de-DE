@@ -8,15 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: 16c08670b59237666eca675d00130f0abe7e1e9f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d74ab1981934eab3b770b44503953968f2c70b32
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62715705"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63232827"
 ---
 # <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>Wiederherstellen einer Microsoft 365-Gruppe mithilfe des Exchange Admin Centers
 

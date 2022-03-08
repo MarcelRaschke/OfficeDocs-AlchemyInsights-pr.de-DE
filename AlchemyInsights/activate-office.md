@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 89af7e4b-9b49-4c50-a604-21003ad30004
-ms.openlocfilehash: c0f172fae56a47da43b3c3286ae044e8a80033d8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b3b45133d661009df221a8792c0c15af050c6740
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62564355"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63287837"
 ---
 # <a name="activate-office"></a>Office aktivieren
 
-Sie können Office aktivieren, indem Sie sich mit Ihrem Geschäfts-, Schul- oder Unikonto anmelden. Führen Sie die Schritte in diesem Artikel aus, um Office zu aktivieren: [Office aktivieren](https://support.microsoft.com/office/activate-office-using-the-activation-wizard-1144e0de-e849-496e-8e33-ed6fb1b34202).
+Sie können Office aktivieren, indem Sie sich mit Ihrem Geschäfts-, Schul- oder Unikonto anmelden. Führen Sie die Schritte in diesem Artikel aus, um Office: [Aktivieren Office](https://support.microsoft.com/office/activate-office-using-the-activation-wizard-1144e0de-e849-496e-8e33-ed6fb1b34202) zu aktivieren.
   

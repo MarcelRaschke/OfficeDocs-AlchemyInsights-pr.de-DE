@@ -7,23 +7,23 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 18bece897c44585b7044009fc2d9fe0eec297a97
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 26eb485dedc3d52a9069adf6056ad5f080fba133
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62671711"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63285101"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Einrichten Tresor Linkrichtlinien in Microsoft Defender für Office 365
 
 1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com/>zu **E-Mail-& Richtlinien** für die Zusammenarbeit \> **& Richtlinien** **für Bedrohungsregeln** \> \> **Tresor Links** im Abschnitt **"Richtlinien**".
 
-   Um direkt zur **Seite Tresor Links** zu wechseln, verwenden Sie <https://security.microsoft.com/safelinksv2>.
+   To go directly to the **Tresor Links** page, use <https://security.microsoft.com/safelinksv2>.
 
 2. Führen Sie auf der Seite **Tresor Links** einen der folgenden Schritte aus:
    - Um eine neue Richtlinie hinzuzufügen, wählen Sie **+Erstellen** aus. Ein Assistent wird gestartet, um Die Richtlinieneinstellungen zu definieren.

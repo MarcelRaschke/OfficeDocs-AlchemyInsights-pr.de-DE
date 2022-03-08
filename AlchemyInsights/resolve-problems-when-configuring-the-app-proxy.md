@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7796"
-ms.openlocfilehash: 137c5de2eb70a7eb6fbe7155660e8662347843c2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: aba344dd7e159c6778dc5aa5191483e81af63eb0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62585974"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63233007"
 ---
 # <a name="resolve-problems-when-configuring-the-app-proxy"></a>Beheben von Problemen beim Konfigurieren des App-Proxys
 
