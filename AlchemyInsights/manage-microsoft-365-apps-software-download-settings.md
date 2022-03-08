@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "5733"
-ms.openlocfilehash: 7fcc42a4580c778331741a1e64bbba22522c08e2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c1ce6e68ad9a5bd5db838ce8bae31e44bceb2e1c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62575191"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63170527"
 ---
 # <a name="manage-office-installation-options"></a>Verwalten der Office-Installationsoptionen
 

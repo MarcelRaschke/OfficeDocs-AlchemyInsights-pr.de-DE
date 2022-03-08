@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6052"
 - "9002883"
-ms.openlocfilehash: 2b2ce77f354e89db385cfd06ae52217264484f31
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f2324de99b0418876a16935fb68828a57ce311f5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62745191"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63169915"
 ---
 # <a name="microsoft-bookings-payment-options"></a>Microsoft Bookings – Zahlungsoptionen
 

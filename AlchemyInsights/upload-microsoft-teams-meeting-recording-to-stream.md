@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6184"
 - "9002643"
-ms.openlocfilehash: 717a3cbd371e353dd1bf5b643ae0aca241a630ee
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c58e340ed9702648d0c4d649f5e6ebd4db0b3d32
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62581777"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63165775"
 ---
 # <a name="upload-a-microsoft-teams-meeting-recording-to-stream-a1"></a>Hochladen einer Microsoft Teams-Besprechungsaufzeichnung in Stream (A1)
 

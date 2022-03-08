@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000743"
 - "2680"
-ms.openlocfilehash: f74680e1e4fb18574182152665a1da3f455ff7bd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 48a0e1d9c56423c0ff9e97cb90791b22b73a9302
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62583994"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63166135"
 ---
 # <a name="delete-a-chat-in-microsoft-teams"></a>Löschen eines Chats in Microsoft Teams
 

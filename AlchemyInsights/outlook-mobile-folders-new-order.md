@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: 7560afb3ecd0e83317f81a4f47f416b8db9fa89d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 20320164816d8378e6003490b0260f0c2338079b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62600446"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63167575"
 ---
 # <a name="my-folders-are-in-a-new-order"></a>Meine Ordner befinden sich in einer neuen Reihenfolge
 

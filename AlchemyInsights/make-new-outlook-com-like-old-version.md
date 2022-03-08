@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: b74bbecb8f02b6cf8d295d68f310e208ef982755
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 41559d0aacdf83c805efa54b635a93e53ad04b8d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62650218"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63170743"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>So stellen Sie sicher, dass die neue Outlook.com wie die alte Version aussieht
 
@@ -31,4 +31,4 @@ Hier sind einige Einstellungen, die Sie ändern können, damit die neue Outlook.
 1. Wählen Sie unter **"Nachrichtenvorschautext**" die Option **"Vorschautext anzeigen" aus**.
 1. Wählen Sie unter **Inlinevorschau** die Option " **Anlagen nicht anzeigen" in der Nachrichtenliste** aus.
 
-Wenn Sie Ihre E-Mail-Einstellungen so ändern möchten, dass Ihr Posteingang wie gewünscht aussieht und sich verhält, lesen Sie ["Ändern des Erscheinungsbilds Ihres Postfachs in Outlook.com" und im neuen Outlook im Web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Informationen zum Ändern ihrer E-Mail-Einstellungen, damit Ihr Posteingang so aussieht und sich so verhält, wie Sie es wünschen, finden Sie unter [Ändern des Erscheinungsbilds Ihres Postfachs in Outlook.com und im neuen Outlook im Web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 915485f081f47f06f692d28b6ffc394e8e048243
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 93cd6bcb8c1d79f9f95032989ebb6788344d9950
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62622624"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63172219"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Abrufen einer Kopie Ihrer Rechnung oder Nutzung
 
@@ -27,7 +27,7 @@ ms.locfileid: "62622624"
 2. Klicken Sie auf **Rechnung herunterladen**, um eine Kopie Ihrer PDF-Rechnung anzuzeigen. Wenn **Nicht verfügbar** angezeigt wird, lesen Sie [Warum wird keine Rechnung für den letzten Abrechnungszeitraum angezeigt?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
 3. Sie können auch die tägliche Nutzung durch Anklicken des Abrechnungszeitraums anzeigen. Um eine PDF-Version Ihrer Rechnung sowie eine Kopie der Datei mit detaillierten täglichen Nutzungsdaten (.CSV) zu erhalten: [Abrufen von Rechnungen und Nutzungsdaten](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Abrufen Ihrer Rechnung per E-Mail (.pdf)**
+**Ihre Rechnung per E-Mail abrufen (.pdf)**
 
 1. Wählen Sie Ihr Abonnement auf der [Seite "Abonnements"](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) aus. Klicken Sie auf **"Rechnungen"** und dann auf **"E-Mail an meine Rechnung senden"**.
 2. Klicken Sie auf **"Anmelden"** , und akzeptieren Sie die Bedingungen. Sie müssen sich für jedes Abonnement anmelden, das Sie besitzen. Hinweis: Wenn Sie nach dem Ausführen der Schritte keine E-Mail erhalten, stellen Sie sicher, dass Ihre E-Mail-Adresse in den [Kommunikationseinstellungen ihres Profils](https://account.windowsazure.com/profile) korrekt ist.
@@ -70,7 +70,7 @@ Einige mögliche Gründe, warum möglicherweise keine Rechnung angezeigt wird:
 - Wenn Sie nicht der Kontoadministrator sind, stehen Ihnen ältere Rechnungen möglicherweise nicht zur Verfügung **. Hinweis**: Microsoft stellt azure-CSP-Kunden keine Nutzungsberichte oder Verbrauchsdaten zur Verfügung. Partner Center-Nutzungsdaten sind partnergerichtet
 - Erfahren Sie mehr über AIO (Azure in open) Abrechnung und Nutzung: [Azure in Open](https://azure.microsoft.com/offers/ms-azr-0111p/)
 
-**Empfohlene Dokumentationen**
+**Empfohlene Dokumente**
 
 - [Warum wird möglicherweise keine Rechnung angezeigt?](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 - [Anfordern/Herunterladen/Anzeigen Ihrer Azure-Abrechnungsrechnung und Nutzungsdaten](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)

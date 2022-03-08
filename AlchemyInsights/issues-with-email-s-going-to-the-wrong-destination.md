@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: 324
 ms.assetid: 5f6ae28e-cd87-4265-9ad4-d13c201c12da
-ms.openlocfilehash: deddbb536285fe5bc84bea86a15ad0c9ad79b836
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b40912237cf980577454f57f8dfff8962359bfa6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62699900"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63171139"
 ---
 # <a name="email-messages-are-going-to-the-wrong-destination"></a>E-Mail-Nachrichten werden an das falsche Ziel geleitet
 

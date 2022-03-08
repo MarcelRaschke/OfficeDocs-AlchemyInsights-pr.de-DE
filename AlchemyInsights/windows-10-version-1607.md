@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003960"
 - "7016"
-ms.openlocfilehash: 861ebc10cd663e4592121fd183ea6bdf31b6142f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d31872140ba27fe1fde76b797dfbc31d1fe92f99
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62613299"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63188672"
 ---
 # <a name="whats-new-in-windows-10-version-1607"></a>Neuigkeiten in Windows 10, Version 1607
 

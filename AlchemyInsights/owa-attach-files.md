@@ -8,14 +8,14 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 102a646154556cec115a0f035d5cdd1f5a6c7cd7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b13b26158952797fc48cd4666105c57b2a9c48bc
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62717361"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63167359"
 ---
 # <a name="how-to-attach-files-in-outlook-on-the-web"></a>Anfügen von Dateien in Outlook im Web
 

@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8640"
 - "9004622"
-ms.openlocfilehash: 71dd4137f9f4484fe97b5f22cfd28b1f225668c9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: aaac3fe6b2d50a5bb98520470a40ec96b121e132
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62717145"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63166999"
 ---
 # <a name="pdf-reader-app-in-microsoft-edge"></a>PDF Reader App in Microsoft Edge
 

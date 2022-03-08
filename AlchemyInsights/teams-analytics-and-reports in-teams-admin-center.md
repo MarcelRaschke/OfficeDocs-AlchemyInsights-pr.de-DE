@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: fd8087bd83f99d5d3e76f7ed1e7bf193baeade40
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cee698933a57a659ab57a0d601facdf80deb2d57
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62546875"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63166207"
 ---
 # <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams Analysen und Berichte im Teams Admin Center
 

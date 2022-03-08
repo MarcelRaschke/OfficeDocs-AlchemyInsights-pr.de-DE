@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9007390"
 - "12322"
 - "12354"
 - "9007399"
-ms.openlocfilehash: 9d738f16dfb45f094f3d7a4c32623a33b97bdb8d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b5dcd6adcc60142a35edff6acbd400330998464b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62574399"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63169699"
 ---
 # <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
 

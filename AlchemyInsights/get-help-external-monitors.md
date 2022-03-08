@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9748"
 - "9005385"
-ms.openlocfilehash: e1d0c7c4f5be20e06309c00a42d57caf70856301
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7dd8315edf8017e5d851a94573979c2a68bd99f0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62652283"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63172147"
 ---
 # <a name="get-help-with-external-monitors"></a>Hilfe für externe Monitore anfordern
 

@@ -8,22 +8,22 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "810"
 - "1401"
 - "8000047"
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 074ed388256b4df54e634edcc11b22e866fcb766
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 90de3ac9f84f82a5dfb7e16593acc74698177c7c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62757071"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63171679"
 ---
 # <a name="how-to-create-an-email-signature"></a>So erstellen Sie eine E-Mail-Signatur
 
-Wechseln Sie zu Ihren [Verfassen- und Antworteinstellungen](https://go.microsoft.com/fwlink/?linkid=2006164) (**Einstellungen** \> **Alle Outlook Einstellungen** \> **zum Verfassen und Antworten** anzeigen).
+Wechseln Sie zu Den [Einstellungen zum Verfassen und Antworten](https://go.microsoft.com/fwlink/?linkid=2006164) (**Einstellungen** \> **Alle Outlook Einstellungen** \> **zum Verfassen und Antworten** anzeigen).
   
  **Hinweis:** Sie können nur eine Signatur pro Konto haben.
   

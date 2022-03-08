@@ -8,19 +8,19 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom: ''
 ms.assetid:
 - commerce_subscriptions
 - "9002317"
 - "4502"
 ms.date: 09/14/2020
-ms.openlocfilehash: 0b49768410f1942ee7295ab97738fef45f9c44ee
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: dc719e71770d050cf206faa7fd68e036e6b04fec
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62604443"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63171823"
 ---
 # <a name="how-to-close-your-account"></a>So schließen Sie Ihr Konto
 

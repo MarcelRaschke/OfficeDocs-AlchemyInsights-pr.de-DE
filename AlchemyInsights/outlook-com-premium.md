@@ -8,22 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: 277cd61316972319b98b753595f51354a99bd197
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 42f4f884bcd964c676f75ec149f6f54e3b2c6008
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62635507"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63167971"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com Premium
 
-**Vorhandene Premium Abonnenten**
+**Vorhandene Premium-Abonnenten**
 
-- Wenn Sie bereits über ein Outlook.com Premium Abonnement verfügen, lesen Sie die [häufig gestellten Fragen Outlook.com Premium](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
+- Wenn Sie bereits über ein Outlook.com-abonnement Premium verfügen, lesen Sie die [häufig gestellten Fragen Outlook.com Premium](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
 
 **Neue Abonnenten**
 

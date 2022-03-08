@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2501"
-ms.openlocfilehash: d58105753530201210fea8e09e904fcda8fa6941
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 524685d2404debe0ec2f358c6d6fa89e644c136a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62601851"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63168979"
 ---
 # <a name="missing-notes-in-notebook"></a>Fehlende Notizen im Notizbuch
 
@@ -27,7 +27,7 @@ Eine der häufigsten Ursachen für fehlende Seiten oder Abschnitte in einem Noti
 - Klicken Sie in OneNote 2016 mit der rechten Maustaste auf den Notizbuchnamen unterhalb des Menübands, und klicken Sie auf "Notizbuch-Synchronisierungsstatus".
 - Suchen Sie in OneNOte für Mac nach einem gelben Ausrufezeichen in der Nähe des Notizbuchsymbols.
 - Navigieren Sie in OneNote für iPhone zu Ihrem Notizbuch, und klicken Sie auf die Aktionsschaltfläche in der oberen rechten Ecke.
-- Navigieren Sie in OneNote für Android zu "Weitere Notizbücher >Anzeigen von Synchronisierungsfehlern".
+- Navigieren Sie in OneNote für Android zu "Weitere Notizbücher >Synchronisierungsfehler anzeigen"
 
 Führen Sie die Schritte unter ["Meine verlorenen Notizen suchen"](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) aus, um Ihre Datei zu durchsuchen, zu synchronisieren oder Ihre Notizen wiederherzustellen.
 

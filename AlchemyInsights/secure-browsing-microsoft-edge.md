@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9010042"
 - "15357"
-ms.openlocfilehash: dcc77c55a69cd3b05ef4983809ec58dbf60f44aa
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 58e237af4a7b878311600333148006a907afb313
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62571519"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63167107"
 ---
 # <a name="secure-browsing-with-microsoft-edge"></a>Sicheres Browsen mit Microsoft Edge
 

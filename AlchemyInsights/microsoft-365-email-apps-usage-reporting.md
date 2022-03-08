@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003962"
 - "7018"
-ms.openlocfilehash: 4ead7da400968d47888615db737900dc5bf5726c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 23ac092c2e482e47af2124d541dfa151b04e665f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62620356"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63170239"
 ---
 # <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Erhalten Sie Einblicke in die Verwendung von E-Mail-Apps in Ihrer Organisation
 
@@ -28,6 +28,6 @@ Der *Nutzungsbericht der E-Mail-App* ist Teil des Dashboards und zeigt die Anzah
 Führen Sie die folgenden Schritte aus, um auf den Nutzungsbericht der E-Mail-App zuzugreifen:
 
 1. Wählen Sie im Microsoft 365 Admin Center [ReportsUsage](https://go.microsoft.com/fwlink/?linkid=2140342) >  aus.
-2. Wählen Sie im Dropdownmenü "**Bericht auswählen**" **Exchange** >  **Email-App-Nutzung** aus.
+2. Wählen Sie im Dropdownmenü "**Bericht auswählen**" **Exchange** >  **Email-App-Nutzung aus**.
 
 Weitere Informationen finden Sie unter ["Interpretieren des Berichts über E-Mail-Apps"](https://go.microsoft.com/fwlink/?linkid=2140508).

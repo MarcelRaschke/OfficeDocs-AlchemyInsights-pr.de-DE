@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002554"
 - "5392"
 ms.date: 07/30/2021
-ms.openlocfilehash: f23fa8def135918821a83e642ab045e3d05a93dd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c70d1480401c70be1af3f4aef2ac4d9dfc4adf96
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62755163"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63170347"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Häufig gestellte Fragen zur Verwaltung von Microsoft 365 E3-Abonnements und Lizenzen
 

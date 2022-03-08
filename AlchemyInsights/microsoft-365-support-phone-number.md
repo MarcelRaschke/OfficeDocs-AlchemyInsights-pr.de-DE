@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002926"
 - "5599"
-ms.openlocfilehash: b6e2a54ba382e0836bf8d996b9067e3b8a91785c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 85c844976e31847b468354fb190cf778c0c75cf3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62720349"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63170203"
 ---
 # <a name="microsoft-365-support-phone-number"></a>Telefonnummer des Microsoft 365-Supports
 

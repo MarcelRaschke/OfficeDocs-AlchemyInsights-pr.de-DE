@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_licensing
 - "9002575"
 - "5030"
 ms.date: 04/14/2021
-ms.openlocfilehash: 01bfb00c6071d4450ab3a31d7ba84628921d8a4a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9920103d91c3a1f64d8e99f0bf2fdd8d8d230a89
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62732356"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63170887"
 ---
 # <a name="license-reservation-does-not-show"></a>Lizenzreservierung wird nicht angezeigt
 

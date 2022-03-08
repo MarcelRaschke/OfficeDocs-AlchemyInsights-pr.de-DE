@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O364
 ms.custom:
 - "9003533"
 - "10880"
-ms.openlocfilehash: 0d59ab0ac982ff1acb0ebd7bfea4770a517d69ef
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d69e7e54b7e418e6f93d1923007146fbc3280205
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62619420"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63168652"
 ---
 # <a name="office-cloud-policy-service-for-microsoft-365-apps-for-enterprise"></a>Office-Cloudrichtliniendienst für Microsoft 365 Apps for Enterprise
 

@@ -8,18 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: e19247e89e247c054f2fb07f05dfbb7ef27e4f26
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 89f24ded657a76a91752c1841d4b48a3d13fc571
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62721339"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63171355"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>Informationen zu Beweissicherungsverfahren und in-situ-Haltebereichen
 
-- Um ein Beweissicherungsverfahren oder eine In-Situ-Aufbewahrung auf ein Postfach anzuwenden, ist eine [Exchange Online Plan 2-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich. Wenn Sie über einen anderen Plan verfügen, weisen Sie dem Konto eine separate [Exchange Online-Archivierung](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) Lizenz zu. 
+- Um ein Beweissicherungsverfahren oder ein in-situ-Haltebereich auf ein Postfach anzuwenden, ist eine [Exchange Online Plan 2-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich. Wenn Sie über einen anderen Plan verfügen, weisen Sie dem Konto eine separate [Exchange Online-Archivierung](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) Lizenz zu. 
     
 - **Um ein Beweissicherungsverfahren** für einen einzelnen Benutzer zu aktivieren, führen Sie die [hier](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold#place-a-mailbox-on-litigation-hold) beschriebenen Schritte aus. Wenn die Beweissicherung für juristische Zwecke aktiviert ist, werden alle Inhalte im Postfach in die Warteschleife eingecheckt.
     

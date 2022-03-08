@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "817"
 - "1767"
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 305013dec4435351a0f7a879ec3c6be7aa710c2b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6db36894d3be4d9980c826e0d64df8303372fefc
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62600410"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63167785"
 ---
 # <a name="my-status-always-shows-as-available"></a>Mein Status wird immer als verfügbar angezeigt
 

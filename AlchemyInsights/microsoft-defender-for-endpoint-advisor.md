@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004195"
 - "7377"
-ms.openlocfilehash: 513699f6fa6afa81454cbd28adeacd47e4dc4375
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 60bf1c55a6d5fc71d63bf2909f27ed666683ce51
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62574435"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63169771"
 ---
 # <a name="deploy-microsoft-defender-for-endpoint"></a>Microsoft Defender für Endpunkt bereitstellen
 

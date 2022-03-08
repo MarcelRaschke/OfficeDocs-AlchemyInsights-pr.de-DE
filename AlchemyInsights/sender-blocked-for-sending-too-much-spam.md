@@ -8,18 +8,18 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 14a5a8e60d9413140f744d519c86afd52b8e14c4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b27ebb3ac4235bfc8e56d24693c66baf2bf146fd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62585398"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63166855"
 ---
 # <a name="account-is-restricted-for-sending-too-much-spam"></a>Konto wegen des Versands von zu viel Spam eingeschränkt
 

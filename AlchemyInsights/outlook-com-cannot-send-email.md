@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9000251"
 - "1845"
 - "1841"
-ms.openlocfilehash: 1b68eef4ebcc1ef43f204d82dee4711e9e825cc5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d4ef76205444f081477da01e550824d018f6a904
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62744219"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63168115"
 ---
 # <a name="unable-to-send-email-in-outlookcom"></a>E-Mails können nicht in Outlook.com gesendet werden.
 
@@ -31,4 +31,4 @@ Wenn Sie Probleme beim Senden von Nachrichten in Outlook.com haben, probieren Si
 5. Wenn Sie über mehr als 20 verbundene Konten verfügen, können Sie keine E-Mails senden oder empfangen.
 6. Ihr Konto wird möglicherweise vorübergehend blockiert, da wir eine ungewöhnliche Anmeldeaktivität festgestellt haben. Weitere Informationen finden Sie unter ["Entsperren meines Outlook.com-Kontos"](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
 
-Erfahren Sie mehr über das [Beheben von Problemen mit der Outlook.com-E-Mail-Synchronisierung](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+Erfahren Sie mehr darüber, wie Sie [probleme bei der E-Mail-Synchronisierung von Outlook.com beheben](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).

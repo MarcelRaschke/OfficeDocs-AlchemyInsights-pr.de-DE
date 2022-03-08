@@ -11,13 +11,13 @@ ms.custom:
 - "1005"
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 559e2a3662450e3a9fc80bed52ab40444c29e182
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.localizationpriority: medium
+ms.openlocfilehash: 3ebad29a8b2963bb6621b5e79452991df6292329
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62744183"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63168079"
 ---
 # <a name="cant-get-verification-codes"></a>Überprüfungscodes können nicht abgerufen werden
 

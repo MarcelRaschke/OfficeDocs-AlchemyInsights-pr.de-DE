@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "4747"
-ms.openlocfilehash: f597d8aceba54e99d0f3e7e80dfcc15d7d230f3c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6ba794447eb51049315484f380b06f5926c0976a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62603723"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63169987"
 ---
 # <a name="microsoft-and-business-accounts"></a>Microsoft und Geschäftskonten
 

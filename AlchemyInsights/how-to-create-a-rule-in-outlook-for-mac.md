@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: 6d9e4616917f28e12afbe8f03b9fc6b002307638
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 973c08db8cd71e8433f9ef6d6649598fc0449ee0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62733738"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63171715"
 ---
 # <a name="how-to-create-a-rule-in-outlook-for-mac"></a>So erstellen Sie eine Regel in Outlook für Mac
 

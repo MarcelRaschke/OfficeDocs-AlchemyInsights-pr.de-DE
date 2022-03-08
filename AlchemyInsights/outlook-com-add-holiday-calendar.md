@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1812"
 - "9000229"
-ms.openlocfilehash: 3e2d818843fdd648436a69ac3ef3dd4e4b4aaf03
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: acfd74597dcb11c146a2dea3c2acdd576a6d67da
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62744255"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63168223"
 ---
 # <a name="add-a-holiday-calendar-in-outlookcom"></a>Hinzufügen eines Feiertagskalenders in Outlook.com
 
