@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002914"
 - "5614"
 ms.date: 10/26/2021
-ms.openlocfilehash: 0f1b9b8d7f84c75db179c86d3beb74baf767090c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 05fede4965d402b0e146f9b94d025bfb095183c2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62643468"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63218049"
 ---
 # <a name="cancelrefundclose-your-microsoft-365-subscription"></a>Kündigen/Erstatten/Schließen Ihres Microsoft 365-Abonnements
 

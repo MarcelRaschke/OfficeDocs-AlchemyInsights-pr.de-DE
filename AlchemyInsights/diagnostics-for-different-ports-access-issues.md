@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9035"
 - "9005220"
-ms.openlocfilehash: 3923c5565481c1b72a0d1804a4dbacedcf848b13
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 74896bd98f94ab27b1fe9d6f65e5cfef2929e84c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62653890"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63248849"
 ---
 # <a name="diagnostics-for-different-ports-access-issues"></a>Diagnose für verschiedene Probleme beim Zugriff auf Ports
 

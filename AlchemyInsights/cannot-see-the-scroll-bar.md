@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002966"
 - "5671"
-ms.openlocfilehash: 878f3f14177acd7d1081b5c8c253d463444646ff
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e8b10095afdbe59985d682aa7de4d40d3866fe1a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62643216"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63218013"
 ---
 # <a name="cannot-see-the-scroll-bar"></a>Die Scrollleiste wird nicht angezeigt
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003558"
 - "6657"
-ms.openlocfilehash: 724602b9a093cf5e47883be41859a4105a6766fa
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 256e135096f7a081060a9fc2cc3023fbc8d0b8b5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62689941"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63217905"
 ---
 # <a name="cant-add-guests-to-a-team"></a>Sie können einem Team keine Gäste hinzufügen
 

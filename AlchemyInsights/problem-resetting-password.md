@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: 3968029625ed1431f70d0ee3387d016fa99c8f30
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ce23a19ca33883e2289af46b5bdfb9c8ea3e851f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62707857"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63270773"
 ---
 # <a name="problems-resetting-password"></a>Probleme beim Zurücksetzen des Kennworts
 
@@ -59,7 +59,7 @@ Sie sind nicht berechtigt, Kennwörter zurückzusetzen. Nur globale, Kennwort- u
 - Dieses Blatt wird nicht angezeigt, wenn:
     - Sie verwenden kein Kennwortrückschreiben
     - Es gibt ein Problem mit der Installation/Konnektivität des Kennwortrückschreibens.
-    - Es liegt ein Problem bei der Installation/Konnektivität von Azure AD Verbinden
+    - Es gibt ein Problem mit der Installation/Konnektivität von Azure AD Verbinden
     - Weitere Schritte zur Problembehandlung bei Problemen mit dem Kennwortrückschreiben finden Sie im Abschnitt ["Problembehandlung beim Rückschreiben von Kennwörtern](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)"
 
 **Ich weiß nicht, wie ich das Kennwort eines Benutzers zurücksetzen kann**
@@ -73,5 +73,5 @@ Sie sind nicht berechtigt, Kennwörter zurückzusetzen. Nur globale, Kennwort- u
 
 **Ich kann das Kennwort eines lokalen Benutzers aus dem Office 365 Admin-Portal oder Office 365 mobilen Anwendung zurücksetzen, aber der Benutzer kann sich immer noch nicht anmelden.**
 
-Das Kennwortrückschreiben wird in diesem Portal nicht unterstützt. Zurücksetzen des Benutzerkennworts im Azure-Portal – portal.azure.com
+Das Kennwortrückschreiben wird in diesem Portal nicht unterstützt. Setzen Sie das Kennwort des Benutzers im Azure-Portal erneut zurück – portal.azure.com
 

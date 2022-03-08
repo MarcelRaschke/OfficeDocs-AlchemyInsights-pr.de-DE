@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002956"
 - "5658"
-ms.openlocfilehash: 6e227b43cae34026c93864b0a6c9ba47f0e33878
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a24618ced2306de100825d600c4c61b90ff09d26
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62657634"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63217617"
 ---
 # <a name="change-my-microsoft-account-information"></a>Ändern meiner Microsoft-Kontoinformationen
 

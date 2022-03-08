@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "11129"
 - "9005486"
-ms.openlocfilehash: 828757f810c65610fbb64b547dafd97df3e69ebc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ecc2d63a3839950d6a28cbc838c8e77f4e69c7f3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62722401"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63248957"
 ---
 # <a name="microsoft-defender-for-endpoint-requires-microsoft-volume-licensing"></a>Microsoft Defender für Endpunkt erfordert Microsoft-Volumenlizenzierung
 

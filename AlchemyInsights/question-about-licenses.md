@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_licensing
 - "491"
 - "1500032"
 ms.date: 08/05/2021
-ms.openlocfilehash: e859a00835c9d5a7bdb1482c830221d3638af99a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2753c5cbfd04d1aa6c3b7c1e857ff9cad6698343
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62633298"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63270629"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Fragen zu Ihrer Microsoft 365-Lizenz
 
