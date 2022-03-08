@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8215"
 - "9004596"
-ms.openlocfilehash: 49dbb94cdafd22fcfb0ed0a2181cec3c75c45cd3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 79503df05dcce575a7cf98171a1543e065c94b83
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62608452"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63195008"
 ---
 # <a name="change-your-default-search-engine-in-microsoft-edge"></a>Ändern Ihrer Standardsuchmaschine in Microsoft Edge
 

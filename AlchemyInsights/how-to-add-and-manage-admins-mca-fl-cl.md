@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: d102164c6a0cb2076543e8236ec602cd9cb4c0b1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c00bb5ffdc86861ac6e83e4ccbe1819caa266eef
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62709477"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63185036"
 ---
 # <a name="how-to-add-and-manage-admins"></a>Hinzufügen und Verwalten von Administratoren
 

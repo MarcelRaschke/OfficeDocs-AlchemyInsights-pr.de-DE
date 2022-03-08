@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - commerce_billing
 - "1500001"
 - "277"
 - "4852"
 ms.date: 08/11/2021
-ms.openlocfilehash: 8e67c68384b182ade4792f26f6184a801f96f3b8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f8d3449739f4e6b6cee6a1a50b92e822601a2019
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62724093"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63195368"
 ---
 # <a name="change-payment-method"></a>Ändern der Zahlungsmethode
 

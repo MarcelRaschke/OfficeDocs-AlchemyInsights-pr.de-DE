@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003536"
 - "6445"
-ms.openlocfilehash: 05126f1af22d0fde73b029791c5faf8eb1a6d316
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ae227a74c3450c16363d904cfcfb274376f6c350
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62559040"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63195440"
 ---
 # <a name="block-sign-in-for-all-users"></a>Anmeldung für alle Benutzer blockieren
 

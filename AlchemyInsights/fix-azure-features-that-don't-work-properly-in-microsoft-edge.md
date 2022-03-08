@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004128"
 - "7206"
-ms.openlocfilehash: bd855ebdfbe7e52767759e83ece99cba42fc5cff
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2da170d28722a98365d2d96c673392038912abe3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62710413"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63185288"
 ---
 # <a name="what-to-do-if-azure-features-dont-work-properly-in-microsoft-edge"></a>Vorgehensweise, wenn Azure-Features in Microsoft Edge nicht ordnungsgemäß funktionieren
 
-Microsoft Edge hat [bekannte Probleme](https://go.microsoft.com/fwlink/?linkid=2140608) im Zusammenhang mit Sicherheitszonen und kann sich darauf auswirken, wie sich Azure-Benutzer bei Windows Admin Center anmelden. Wenn Sie Probleme bei der Verwendung von Azure-Features mit Microsoft Edge haben, führen Sie die folgenden Schritte aus:
+Microsoft Edge [hat bekannte Probleme](https://go.microsoft.com/fwlink/?linkid=2140608) im Zusammenhang mit Sicherheitszonen und kann sich darauf auswirken, wie sich Azure-Benutzer bei Windows Admin Center anmelden. Wenn Sie Probleme bei der Verwendung von Azure-Features mit Microsoft Edge haben, führen Sie die folgenden Schritte aus:
 
 1. Suchen **Sie im Startmenü** nach **Internetoptionen** , und wählen Sie sie aus.
 2. Wechseln Sie im Dialogfeld **"Interneteigenschaften** " zur Registerkarte " **Sicherheit** ".

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 5dc5a20e6ff15ee54cff5874ebddfee679db56cb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5e5fce569dd4a76b4b3fc9aedd6480b62d22bb56
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62671315"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63194642"
 ---
 # <a name="turn-off-or-delete-alert-policies"></a>Deaktivieren oder Löschen von Warnungsrichtlinien
 

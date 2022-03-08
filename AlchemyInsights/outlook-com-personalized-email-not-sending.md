@@ -1,5 +1,5 @@
 ---
-title: Outlook.com personalisierte E-Mail-Adresse wird nicht gesendet oder empfangen
+title: Outlook.com personalisierte E-Mail-Adresse sendet oder empfängt nicht
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 8000083
-ms.openlocfilehash: c41c6efb03897f45a6df0e5990b1d96125ba0aaa
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e66336a08764f0068ebeeffbb4de59f116e0808f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62695076"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63182264"
 ---
 # <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Meine personalisierte Outlook.com-E-Mail-Adresse sendet oder empfängt nicht
 

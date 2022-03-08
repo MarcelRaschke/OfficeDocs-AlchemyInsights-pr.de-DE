@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004591"
 - "8203"
-ms.openlocfilehash: 3f713ec4a0a7762242af54f108b3f0f4ff69d7b7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 97a419da559e6c6c3b9eb38398342fe30f7c3f3f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62573967"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63184244"
 ---
 # <a name="microsoft-search-setup-guide"></a>Microsoft Search Einrichtungshandbuch
 

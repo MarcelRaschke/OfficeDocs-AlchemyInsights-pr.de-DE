@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 43c62e30d4790b595d88ea6e986acf814f24f892
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 42d103f5d8eaca7ee05c4a81ac5bf9af745bafcd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62636826"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63184748"
 ---
 # <a name="exchange-online-collaboration-options"></a>Optionen für die Zusammenarbeit in Exchange Online
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 456ee8a011a43abef6d79624ce44f9aba6b3fdba
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 224933882f2718d2e0a9aeb3a64614d1618e7a53
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62687444"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63194684"
 ---
 # <a name="tips-for-building-keyword-queries-and-search-conditions"></a>Tipps zum Erstellen von Stichwortabfragen und Suchbedingungen
 

@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
 ms.date: 08/11/2021
-ms.openlocfilehash: fe2b6a9739112b3bcd5dfebdd94942bb37e11f89
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a434e950234aa7603cbc282235dfacb30c67e11e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62621148"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63184640"
 ---
 # <a name="license-or-account-disabled"></a>Lizenz oder Konto deaktiviert
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002939"
 - "5632"
-ms.openlocfilehash: 37959e00f6011365238db638db878a0df5c92b01
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 264025ff6ffc807a1be3cfa8692f5c4ff7dd7274
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62708649"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63183488"
 ---
 # <a name="move-the-taskbar-to-either-side-or-the-top-of-your-desktop"></a>Verschieben der Taskleiste entweder zur Seite oder an den oberen Rand Ihres Desktops
 

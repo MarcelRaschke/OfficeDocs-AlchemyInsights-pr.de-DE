@@ -7,23 +7,23 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 37b2a7946de71704ffc58ff42f2dbdf162429a8a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f7327067fc47045e71075e55977975953fbebc33
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62731204"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63183632"
 ---
 # <a name="missing-emails-in-quarantine"></a>Fehlende E-Mails in Quarantäne
 
 Administratoren können [diese Nachrichten anzeigen, freigeben oder löschen](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files).
 
-Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com>"**Quarantäne überprüfen**\>". Oder verwenden Sie <https://security.microsoft.com/quarantine>, um direkt zur **Quarantäneseite** zu wechseln.  
+Wechseln Sie im portal Microsoft 365 Defender unter <https://security.microsoft.com>"**Quarantäne überprüfen"**\>. Oder verwenden Sie <https://security.microsoft.com/quarantine>, um direkt zur **Quarantäneseite** zu wechseln.  
 
 Weitere Informationen zu den Such-/Filterwerten, die Sie verwenden können, finden Sie unter [Verwalten von isolierten Nachrichten und Dateien als Administrator in EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files).
 

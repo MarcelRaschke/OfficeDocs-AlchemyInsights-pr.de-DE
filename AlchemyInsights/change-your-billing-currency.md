@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11544"
 - "9001671"
-ms.openlocfilehash: e90585612bece4d4bdb1c6f9cdf6d34a1f900d32
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b9d52432c3aa72aeae22060758bf57c08f3aad87
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62579376"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63195044"
 ---
 # <a name="change-your-microsoft-365-billing-currency"></a>Ändern der Microsoft 365-Abrechnungswährung
 

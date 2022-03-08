@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1945"
 - "2659"
 - "9000321"
-ms.openlocfilehash: 35e0005842cf3b791c61770b303cb899f7193109
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: accc62ed5c9fae1a920c6af507dade6c9d7170c8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62552907"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63185072"
 ---
 # <a name="direct-routing-for-microsoft-teams"></a>Direct Routing für Microsoft Teams
 

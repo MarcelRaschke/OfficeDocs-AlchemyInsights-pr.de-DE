@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002534"
 - "5126"
-ms.openlocfilehash: 36566dc9e0f70c5a21924faca65572317d31a13a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bc2d846ae105c2b97009bd1a29a0a9115537be9d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62573922"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63184172"
 ---
 # <a name="microsoft-teams-and-microsoft-365-groups"></a>Microsoft Teams und Microsoft 365-Gruppen
 

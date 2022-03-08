@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 6c4f985354bfbc1b9a8b4795c7535feb843220b0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f1539f9c9ad9396b5119506c3cd58f03a4b61532
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62710125"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63185144"
 ---
 # <a name="focused-inbox-for-outlook-mobile"></a>Posteingang mit Relevanz für Outlook Mobile
 

@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
-ms.openlocfilehash: bf83ebc4dfd469c98b03c199904f900a199193e9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5f9a9d3876769ee0f8f4e218a6faede9622a1ff4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62746595"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63185396"
 ---
 # <a name="file-upload-limits-in-sharepoint-online"></a>Grenzwerte für den Dateiupload in SharePoint Online
 

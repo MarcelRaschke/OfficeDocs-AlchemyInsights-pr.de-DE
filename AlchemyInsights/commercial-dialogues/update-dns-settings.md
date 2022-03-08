@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 55ef13e83a19ca8d15f63ed2fd8a4a852813a865
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ead65bc836c63a4f97140ecbd94bec58282f3bda
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62687335"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63194468"
 ---
 # <a name="update-dns-settings"></a>Aktualisieren von DNS-Einstellungen
 

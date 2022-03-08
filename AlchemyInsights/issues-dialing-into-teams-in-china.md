@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "3787"
 - "9001707"
-ms.openlocfilehash: 14c293f10655abff17cf4b347ff3fa718ce0a1b3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3d589e15a3d814b0f21c76037e910a8785b26e7f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62700188"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63184964"
 ---
 # <a name="issues-dialing-into-teams-in-china"></a>Probleme bei der Einwahl in Teams in China
 

@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002502"
 - "4869"
 - "4870"
-ms.openlocfilehash: 41677da700d0c191b7044d6919f93bdf8898c096
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f61b5e21ecdd629c99f1687997b30f9869d7ea8e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62723913"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63195260"
 ---
 # <a name="change-site-logo"></a>Websitelogo ändern
 

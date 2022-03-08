@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: d8a6ff760fe3d158b9e85c42afa84c29b92a9ff4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fcac225460f3e2b57d4e27ab9b74143a637ab179
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62557587"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63194720"
 ---
 # <a name="skip-redirecting-email-to-new-address"></a>Umleiten von E-Mails an neue Adresse überspringen
 

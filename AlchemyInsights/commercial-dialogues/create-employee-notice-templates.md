@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 2ad079ddc8ac774e62a20f8aba4015504130c9c2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1fd01cd0b52e3f42e2b613ddd1b7d84f2247b2d3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62706345"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63194900"
 ---
 # <a name="create-employee-notice-templates"></a>Erstellen von Vorlagen für Mitarbeiterbenachrichtigungen
 

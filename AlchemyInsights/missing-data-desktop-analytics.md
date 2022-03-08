@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: eb52311fa43d070092503921dd263d1914891f1e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3eef8b97a00900bf61b67aecff73dc20bcfd558c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62666671"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63183704"
 ---
 # <a name="cant-create-a-compatibility-assessment"></a>Kompatibilitätsbewertung kann nicht erstellt werden
 
