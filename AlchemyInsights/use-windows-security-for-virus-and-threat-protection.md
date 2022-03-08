@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001517"
 - "5609"
-ms.openlocfilehash: 2db5d712c674598acce33d166dbf0a0cf8a3c9ec
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bc9e6cf5b8113628c7c2f4bd346f22ab2ff923eb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62614164"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63123329"
 ---
 # <a name="use-windows-security-for-virus-and-threat-protection"></a>Windows-Sicherheit für Viren- und Bedrohungsschutz verwenden
 

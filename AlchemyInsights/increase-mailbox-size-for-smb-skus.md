@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: e0b5b2271decce5f16cfe15b4503afad43980f4b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 84003235143d2e9d7e091c25147b2c576186c55d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62733019"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63090298"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>Upgradepläne zur Erhöhung der Postfachgröße
 

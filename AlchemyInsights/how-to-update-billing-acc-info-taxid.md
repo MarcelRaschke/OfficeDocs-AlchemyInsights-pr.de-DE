@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 5340ccd4cc89aaf3f112e39825dd70c6757bfb34
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 09f4c11ff0cb51708d2d9822fde43e5016d2fcff
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62651514"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63090760"
 ---
 # <a name="how-to-update-billing-account-information"></a>Aktualisieren von Abrechnungskontoinformationen
 

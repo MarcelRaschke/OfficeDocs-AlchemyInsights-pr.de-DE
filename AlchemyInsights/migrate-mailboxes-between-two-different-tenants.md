@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 109a98c2e42e776c49c3dce307862d2a4ef707ab
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 661cf7a173b24b309b5346b9c695ae2aea6bf3ce
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62731492"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63088282"
 ---
 # <a name="migrate-mailboxes-between-two-different-tenants"></a>Migrieren von Postfächern zwischen zwei verschiedenen Mandanten
 

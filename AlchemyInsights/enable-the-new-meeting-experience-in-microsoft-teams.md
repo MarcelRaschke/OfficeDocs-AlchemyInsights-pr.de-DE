@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6188"
 - "9003281"
-ms.openlocfilehash: dfddcfe95a07f7ea801062effe759a6193e76cd5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 14307a4aeffd54aef7124d92911ae2e265692e29
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62652774"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63091594"
 ---
 # <a name="enable-the-new-meeting-experience-in-microsoft-teams"></a>Aktivieren der neuen Besprechungsumgebung in Microsoft Teams
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1799"
 - "9000201"
-ms.openlocfilehash: 8602ccee178089d06bc684b1a7912176e0bb14b3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: feeb7c31c96aeac01bc85bc95da81fdcc9d3ad98
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62606711"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63092386"
 ---
 # <a name="does-visio-work-on-a-mac"></a>Funktioniert Visio auf einem Mac?
 

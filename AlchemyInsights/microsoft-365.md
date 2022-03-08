@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002644"
 - "5085"
-ms.openlocfilehash: 96033a7ea7293ad789fc2dce375b59e071e78066
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ecf80989377e639d706b05b88c458b8edcb13ba4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62620068"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63088678"
 ---
 # <a name="microsoft-365"></a>Microsoft 365
 

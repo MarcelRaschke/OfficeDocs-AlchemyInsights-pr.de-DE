@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10024"
 - "9003951"
-ms.openlocfilehash: 31a624fe5a2a930c251de30ca0752a40c50d269d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: df36c0b676582b475d730051f4011a6a0ecbde00
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62620752"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63089398"
 ---
 # <a name="manage-surface-pro-x-devices"></a>Surface Pro X-Geräte verwalten
 

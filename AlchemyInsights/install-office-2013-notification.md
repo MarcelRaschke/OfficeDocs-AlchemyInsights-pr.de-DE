@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "54"
 - "1700001"
 ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
-ms.openlocfilehash: a97e4f6a4f4fdb80b1c6bda20611b02127478495
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 413b172833e15d0321e97b1d6131d7f8e5892f81
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62651010"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63090118"
 ---
 # <a name="upgrade-to-office-2016"></a>Upgrade auf Office 2016
 

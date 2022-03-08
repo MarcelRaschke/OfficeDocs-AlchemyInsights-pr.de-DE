@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
@@ -16,12 +16,12 @@ ms.custom:
 - "4568"
 - "4730"
 ms.date: 08/10/2021
-ms.openlocfilehash: 840eba73006d5a48944d101e835afba087ad2583
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 613a4d090ebdbcc55a38ef76c7ed76be3544f1d0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62589790"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63089362"
 ---
 # <a name="manage-subscription-renewal"></a>Abonnementverlängerung verwalten
 

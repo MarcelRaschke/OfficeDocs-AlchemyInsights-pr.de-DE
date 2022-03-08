@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 1b9f078ba9d161cdaef38858c215dde012abd851
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a49a169f56342b44ccb320d13d777fced75cd9c6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62546983"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63123689"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Synchronisieren von SharePoint-Dateien mit dem neuen OneDrive-Synchronisierungsclient
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: 5291fa2de3a81b981981c39d6d46868ec1d3df9b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f379c024fd68c36af573f1a0a40cd8b18d7c2aa4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62552547"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63090838"
 ---
 # <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Freigeben von SharePoint oder OneDrive Dateien oder Ordnern
 

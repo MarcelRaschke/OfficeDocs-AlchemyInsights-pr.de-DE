@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "202"
@@ -21,12 +21,12 @@ ms.custom:
 - "803"
 - "8000003"
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
-ms.openlocfilehash: c721e268e3e560b869c31bc1694e031dba32b28c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8ad70fbc0dde5f1de9bb2562bb9f7ac692d7dbeb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62600554"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63087454"
 ---
 # <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Suchen und Wiederherstellen fehlender oder gelöschter E-Mails, Kalenderereignisse oder Kontakte Outlook.com
 

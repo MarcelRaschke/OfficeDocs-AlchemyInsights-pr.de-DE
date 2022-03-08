@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 07b8dbb683fe326e2c2050b993b7e11a7f153d9a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f446317a4eaa264369d9caaa07836a6eae7c5f98
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62632902"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63124825"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Wiederherstellen gelöschter Elemente aus SharePoint oder OneDrive
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003021"
 - "5757"
-ms.openlocfilehash: 5625f71e6343a7012c232875310298625ca0d9bd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1bb44cdea30ec1f3e757ff9a1a3e2f8c1e1a6001
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62729250"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63125237"
 ---
 # <a name="resolving-billing-and-payment-errors"></a>Beheben von Fehlern bei Abrechnung und Zahlung
 

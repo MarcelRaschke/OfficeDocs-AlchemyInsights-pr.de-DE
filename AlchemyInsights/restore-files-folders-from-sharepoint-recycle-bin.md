@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3195"
-ms.openlocfilehash: 12660d3ddd81a87aa48cdeea6786438bb822dfea
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8df3599ca1bf2589d6bb782c51282d0fa228942a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62715489"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63124733"
 ---
 # <a name="restore-files-or-folders-from-the-sharepoint-recycle-bin"></a>Wiederherstellen von Dateien oder Ordnern aus dem SharePoint Papierkorb 
 

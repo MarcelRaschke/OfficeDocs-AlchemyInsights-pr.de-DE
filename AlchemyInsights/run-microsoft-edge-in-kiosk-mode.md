@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
 - "9006495"
 - "6903"
 - "11118"
-ms.openlocfilehash: 9a2557a01f4a055eb14f2028a9526a2ecc5b0aaf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4567376c540a2f21290120d368e2794e907ff94c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62728392"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63124625"
 ---
 # <a name="run-microsoft-edge-in-kiosk-mode"></a>Ausführen Microsoft Edge im Kioskmodus
 

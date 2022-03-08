@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9820"
 - "9005614"
-ms.openlocfilehash: 817e602d31c5d1778f13e59393f7c134173b3e76
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a062e994d276834631750081af9ff2013093953f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62586910"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63125417"
 ---
 # <a name="recover-reinstall-or-restore-windows"></a>Windows wiederherstellen, neu installieren oder wiederherstellen
 

@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_licensing
@@ -17,12 +17,12 @@ ms.custom:
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
 ms.date: 08/27/2021
-ms.openlocfilehash: da1644a9e71e82c140d2a14cb1c6ad62799e95a0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bc76cf3a95121977d14b3b343ee56fd5a1ebb470
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62639130"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63091533"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Zuweisen oder Aufheben der Zuweisung von Lizenzen zu Benutzern
 

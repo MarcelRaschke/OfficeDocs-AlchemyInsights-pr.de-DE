@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1702"
 - "5300025"
-ms.openlocfilehash: 1bed593817caa6c5db59fd7364feb00d58e615e8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1baedee246466b872c5b6f29bbd875cb8d9c2441
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62722177"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63092422"
 ---
 # <a name="document-versioning"></a>Versionsverwaltung von Dokumenten
 

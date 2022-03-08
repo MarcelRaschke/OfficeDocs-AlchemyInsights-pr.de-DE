@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1701"
 - "9000165"
-ms.openlocfilehash: 3877ef3b1278bde077e60be8e6d8230e79255141
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 820c71865493c753866e1c78d9245308dbd789f6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62709261"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63091018"
 ---
 # <a name="how-to-set-up-configure-and-deploy-intune-for-education"></a>Einrichten, Konfigurieren und Bereitstellen von Intune for Education
 

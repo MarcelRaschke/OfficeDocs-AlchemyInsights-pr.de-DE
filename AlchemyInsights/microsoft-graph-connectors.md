@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: 2ffacf1813fd213067121a43a38e17fb84ce3c23
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0177eceec29642dfb25a4aaf3dc0ea9e2ad9bf91
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62574075"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63088714"
 ---
 # <a name="microsoft-graph-connectors"></a>Microsoft Graph Connectors
 

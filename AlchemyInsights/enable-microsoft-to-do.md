@@ -8,22 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: c8ae05f927708f2d0191deb116902d697742a539
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3a2a6d6bcd180035d317fe5ff01746f31169055d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62554887"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63091666"
 ---
 # <a name="how-to-enable-microsoft-to-do"></a>So aktivieren Sie Microsoft To-Do
 
-Um Microsoft To-Do verwenden zu können, muss ein Administrator die App für jedes Benutzerkonto aktivieren. Wechseln Sie zur [Seite "Dienste-Add-Ins&amp;](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)" der Seite Microsoft 365 Administratoreinstellungen, um To-Do für jeden Benutzer zu aktivieren.
+Um Microsoft To-Do verwenden zu können, muss ein Administrator die App für das Konto jedes Benutzers aktivieren. Wechseln Sie zur [Seite "Dienste-Add-Ins&amp;](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)" der Seite Microsoft 365 Administratoreinstellungen, um To-Do für jeden Benutzer zu aktivieren.
   
-Microsoft To-Do verwendet Features in Exchange Online, um aufgabenbezogene Elemente von Benutzern zu synchronisieren und zu speichern. Um Microsoft To-Do verwenden zu können, benötigt ein Benutzer ein gültiges Exchange Online Postfach.
+Microsoft To-Do verwendet Features in Exchange Online zum Synchronisieren und Speichern von Aufgabenelementen von Benutzern. Um Microsoft To-Do verwenden zu können, benötigt ein Benutzer ein gültiges Exchange Online Postfach.
   
 Weitere Informationen finden Sie unter [Microsoft To-Do Preview-Verwaltung](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: c5f0f13551df40ddc11f6c8ce550310d91376c31
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9c8855b1eab66c08922c4f9fbd2337cedcad956a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62684095"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63090658"
 ---
 # <a name="identify-your-tenant-id"></a>Identifizieren Ihrer Mandanten-ID
 

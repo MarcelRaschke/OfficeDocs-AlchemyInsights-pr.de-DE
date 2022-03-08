@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_licensing
 - "9003038"
 - "5800"
 ms.date: 08/05/2021
-ms.openlocfilehash: c50cdbc44bb3618523c2f6ef2cdc8ad003f547b1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e4ca3799d5fdf149500f19cd68cc71e2bc739c24
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62590415"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63090010"
 ---
 # <a name="license-missing-or-disappears-from-the-admin-center"></a>Lizenz fehlt oder wird im Admin Center nicht mehr angezeigt
 

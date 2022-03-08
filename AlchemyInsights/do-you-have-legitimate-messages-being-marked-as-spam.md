@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: e605c44b5bd902c6304dd6d342924b1278912845
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c25349f1a182e2ab4518cf594c8d7d0fffc6a288
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62592310"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63092350"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Werden zulässige Nachrichten als Spam gekennzeichnet?
 

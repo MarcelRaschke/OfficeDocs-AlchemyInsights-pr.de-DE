@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9005624"
 - "9656"
-ms.openlocfilehash: ea61d3fd3b0703f123bf23f2393a33aaf426a853
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 84e9ae12be08fb3654e6a094b63552766d07e524
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62726433"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63124013"
 ---
 # <a name="single-sign-on-sso-in-microsoft-edge"></a>Einmaliges Anmelden (Single Sign On, SSO) in Microsoft Edge
 

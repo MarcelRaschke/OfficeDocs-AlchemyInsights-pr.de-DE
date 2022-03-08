@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10103"
 - "9005694"
-ms.openlocfilehash: 2b8a2809c9b1404418d57c35302af791c4f61382
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2b1ff03062171473a82cf00aa9901c5a325cb576
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62683964"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63090910"
 ---
 # <a name="i-have-a-damaged-microsoft-accessory"></a>Ich habe ein beschädigtes Microsoft-Zubehörteil
 

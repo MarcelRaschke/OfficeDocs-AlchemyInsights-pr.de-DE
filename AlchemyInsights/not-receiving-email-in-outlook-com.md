@@ -8,20 +8,20 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: a8128f834180f46ad34e7ed3e58ecb38e5ab9fe5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1cdde63bf0e014c5717450b78e5cd0c28e26e70d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62589023"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63087852"
 ---
 # <a name="not-receiving-mail-in-outlookcom"></a>Keine E-Mails in Outlook.com empfangen
 
-Wenn Sie keine E-Mails von einem bestimmten Absender erhalten, z. B. Ihre Bankauszüge oder Kennwortzurücksetzungsnachrichten, müssen Sie den Absender kontaktieren und ihn darüber informieren, dass Sie keine E-Mails bei Ihrem Outlook.com-Konto erhalten. Wenden Sie sich an den Absender, um Informationen zu [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135)bewährten Methoden zu erhalten, eine Problembehandlung zu empfehlen und einen Link, um sich an unser Absendersupportteam zu wenden.
+Wenn Sie keine E-Mails von einem bestimmten Absender erhalten, z. B. Ihre Bankauszüge oder Kennwortzurücksetzungsnachrichten, müssen Sie sich an den Absender wenden und ihn darüber informieren, dass Sie keine E-Mails bei Ihrem Outlook.com-Konto erhalten. Wenden Sie sich an den Absender, um Informationen zu [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135)bewährten Methoden zu erhalten, eine Problembehandlung zu empfehlen und einen Link, um sich an unser Absendersupportteam zu wenden.
   
-Wenn Ihr Outlook.com-Konto überhaupt keine E-Mails empfängt, lesen [Sie "Beheben von Problemen mit der E-Mail-Synchronisierung Outlook.com"](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Wenn Ihr Outlook.com-Konto überhaupt keine E-Mails empfängt, finden Sie weitere Informationen unter [Beheben Outlook.com-E-Mail-Synchronisierungsprobleme](https://go.microsoft.com/fwlink/p/?linkid=874363).
   
 

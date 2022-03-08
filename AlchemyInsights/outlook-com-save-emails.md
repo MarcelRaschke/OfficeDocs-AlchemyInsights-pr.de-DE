@@ -1,5 +1,5 @@
 ---
-title: 8000088 Speichern von E-Mails in Outlook.com
+title: 8000088 E-Mail in Outlook.com speichern
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1398"
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: 0e65bdd686f0d30b3217138fd43330b3a4a1ee78
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a12c7814959f3bb05554ed573d77b20d4b68b566
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62708181"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63087490"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Speichern von Nachrichten in Outlook.com
 

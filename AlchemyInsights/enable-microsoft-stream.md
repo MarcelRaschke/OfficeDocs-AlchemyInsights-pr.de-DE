@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002642"
 - "5077"
-ms.openlocfilehash: 23798b01346fd17f17a41e30d2eab29f74a4a7ba
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fed5e34ed92e149d81e0f967b17cfecd248b0ec2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62652920"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63091954"
 ---
 # <a name="enable-microsoft-stream"></a>Aktivieren von Microsoft Stream
 

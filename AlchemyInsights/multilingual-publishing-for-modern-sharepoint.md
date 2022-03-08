@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002551"
 - "4925"
-ms.openlocfilehash: 14e1609911eb84dea3e54ee6d23824e877cbe827
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0e849c74051def5fc7b4c0a5c80d867427ae4b54
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62573247"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63087922"
 ---
 # <a name="multilingual-publishing-for-modern-sharepoint"></a>Mehrsprachige Veröffentlichung für das moderne SharePoint
 

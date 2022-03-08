@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009993"
 - "15346"
 ms.date: 02/14/2022
-ms.openlocfilehash: 61c522e4f30bf24df3a3d034a690b7f46ef58c46
-ms.sourcegitcommit: d4fe5cc18116740ba4193dbd716e3123ee898394
+ms.openlocfilehash: f649fdc4d896d346f7d92a98d11c8d65acbd06e4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62815593"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63124553"
 ---
 # <a name="configure-outlook-client"></a>Konfigurieren Outlook Clients
 

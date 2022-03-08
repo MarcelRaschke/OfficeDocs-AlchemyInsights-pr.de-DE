@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
-ms.openlocfilehash: 9df8525c8eb84789f26712e58e6d2bf947d33be8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 827ca1c5fcdee34a3760f1d1e7eac0736ac32005
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62743139"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63084466"
 ---
 # <a name="setting-up-visio"></a>Einrichten von Visio
 

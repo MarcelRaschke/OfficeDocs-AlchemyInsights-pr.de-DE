@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8326"
 - "9004625"
-ms.openlocfilehash: 87535db2dd2c39bb8995cb4a975f6d12d11c7e5a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 332846ce7ee87521c72f1e867905bd03cc59504b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62746235"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63090046"
 ---
 # <a name="learn-about-microsoft-edge-and-conditional-access-in-azure-active-directory"></a>Erfahren Sie mehr über Microsoft Edge und bedingten Zugriff in Azure Active Directory
 

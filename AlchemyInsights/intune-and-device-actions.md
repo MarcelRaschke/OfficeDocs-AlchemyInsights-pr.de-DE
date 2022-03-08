@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "7084"
 - "6700008"
-ms.openlocfilehash: dea90ebcb8839ba5726404f3192a99be856a175b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1f3c5a802f0d9d6385e1a425eed7619cf222b52c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62756027"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63090082"
 ---
 # <a name="intune-and-device-actions"></a>Intune- und Geräteaktionen
 

@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: e2c5c4f65ef6c53339e53b31ba85942dd831c249
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 27837a8669274683b14386453ac3c08e899d97e8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62733257"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63090406"
 ---
 # <a name="mail-flow-rules-also-known-as-transport-rules"></a>Nachrichtenflussregeln (auch als Transportregeln bezeichnet)
 

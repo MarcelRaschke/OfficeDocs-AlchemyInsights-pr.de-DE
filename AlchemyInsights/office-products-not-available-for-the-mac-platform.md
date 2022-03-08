@@ -7,7 +7,7 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 9233f862-ebbb-4913-a83a-52cc3b99a644
 ms.custom:
 - "648"
@@ -15,12 +15,12 @@ ms.custom:
 - "756"
 - "755"
 - "2000016"
-ms.openlocfilehash: 7c7ba37ce659e665febac316cb43d731c5f2dac1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d6a4cc64fc74882358ba6ffc8287f322f63bb12b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62720097"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63087706"
 ---
 # <a name="office-products-not-available-for-the-mac-platform"></a>Office Produkte, die für die Mac-Plattform nicht verfügbar sind
 

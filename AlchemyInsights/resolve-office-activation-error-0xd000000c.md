@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: 5eaf536767c625c216498665a47de97c08a039e1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 77ada982836b4efd528f2043a35adb3db4b10670
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62729178"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63125075"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Beheben des Office-Aktivierungsfehlers 0xD000000C
 

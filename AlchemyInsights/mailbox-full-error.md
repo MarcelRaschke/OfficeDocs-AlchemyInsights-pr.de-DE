@@ -8,16 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: 0815f8bce293b89f8553d8fd7ba17d6599223a78
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ba8224f4b6d0f6f449be05709c5d92a4b861594a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62732069"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63089830"
 ---
 # <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR mit Fehlercode 554 5.2.2 Postfach voll
 

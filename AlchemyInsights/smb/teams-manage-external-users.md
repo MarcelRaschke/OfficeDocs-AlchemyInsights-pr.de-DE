@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010153"
 - "15682"
 ms.date: 02/11/2022
-ms.openlocfilehash: b24f821c29622f9a858d576be7b60b99ecd18c6e
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: 472cac9e793a6eaa45c0cc026ea47689e8fd766c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790144"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63124301"
 ---
 # <a name="manage-external-users"></a>Verwalten externer Benutzer
 

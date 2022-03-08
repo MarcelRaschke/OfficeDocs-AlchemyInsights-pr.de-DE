@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6739"
 - "9003778"
-ms.openlocfilehash: 2562a405c8dc7ff2f81428cc8c6d4e396e77420a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3bc70732be87230af2867a4131cf47080f7494d5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62668471"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63090802"
 ---
 # <a name="hybrid-mdm"></a>Hybrid MDM
 

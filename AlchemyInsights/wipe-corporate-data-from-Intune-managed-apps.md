@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: 5ea115732ad8df601dfc4552ab502c56fa4ead23
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 380a5b14eb44d64dd571ba28cef4529d19dc8439
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62713113"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63113716"
 ---
 # <a name="wipe-corporate-data-from-intune-managed-apps"></a>Löschen von Unternehmensdaten aus Intune-verwalteten Apps
 

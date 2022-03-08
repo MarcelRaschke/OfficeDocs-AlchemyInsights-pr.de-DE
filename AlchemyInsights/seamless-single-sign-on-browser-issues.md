@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 0cf851931ed990e56ef134005c46004fc824aa34
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 140cbb4ef6bdb826818d87374e7b152d122b11ff
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62693744"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63124589"
 ---
 # <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Behandeln von Problemen mit dem Nahtlosen einmaligen Anmelden (Single Sign-On, SSO) im Browser
 
@@ -38,4 +38,4 @@ Nahtloses SSO unterstützt die nächste Version von Microsoft Edge basierend auf
 
 **Empfehlung**
 
-Informationen zu Funktionsanfragen oder technischen Fragen zu nahtlosen SSO finden Sie unter [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
+Informationen zu Featureanforderungen oder technischen Fragen zu nahtlosen SSO finden Sie unter [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)

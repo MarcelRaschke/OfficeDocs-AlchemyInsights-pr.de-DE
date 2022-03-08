@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "8000059"
 - "6217"
-ms.openlocfilehash: 9698dbf0e9ebd0d7690d2ade8c33f1f743cf70f6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4e1400ee9c2d4b9a1537be50b080e5bda676f43c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62569696"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63123545"
 ---
 # <a name="turn-off-text-predictions"></a>Deaktivieren von Textvorhersagen
 

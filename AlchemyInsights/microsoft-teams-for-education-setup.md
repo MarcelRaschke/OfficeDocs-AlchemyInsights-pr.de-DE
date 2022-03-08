@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "13729"
 - "9008595"
-ms.openlocfilehash: 4cf4ab3f868a1f807e469ad9710d634a3f45fb18
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5cc5ba4ad10e7e011e44c7ce2d9b9547feb8efd5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62573751"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63088534"
 ---
 # <a name="microsoft-teams-for-education-setup"></a>Microsoft Teams Education-Setup
 

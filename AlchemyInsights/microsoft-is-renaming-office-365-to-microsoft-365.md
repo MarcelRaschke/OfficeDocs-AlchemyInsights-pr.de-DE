@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002346"
 - "4566"
-ms.openlocfilehash: 3d3a9c6dbc9aebcc53df898dc23814ce9d64ba16
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e7b95333f569e67f62c2314737809c13e49583d0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62731816"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63088570"
 ---
 # <a name="microsoft-is-renaming-office-365-to-microsoft-365"></a>Office 365 wird in Microsoft 365 umbenannt
 

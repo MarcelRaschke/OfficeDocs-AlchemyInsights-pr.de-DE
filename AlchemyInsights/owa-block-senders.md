@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "8000015"
 - "2001"
-ms.openlocfilehash: b51a132f92d686554e55ece33ecfd4e92e678a5b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fe3f41f9bb8495b07543ecb0015af0575d684d2a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62708073"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63087202"
 ---
 # <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Blockieren oder Aufheben der Blockierung von Absendern in Outlook im Web
 
@@ -33,7 +33,7 @@ ms.locfileid: "62708073"
 2. Wählen Sie **"E-MailJunk** > **"-E-Mail aus**.
 3. Wählen Sie unter **"Blockierte Absender und Domänen**" die Option **"Hinzufügen**" aus.
 4. Geben Sie die E-Mail-Adresse der Domäne ein, die Sie blockieren möchten, und drücken Sie die EINGABETASTE.
-5. Wählen Sie **Speichern**.
+5. Klicken Sie auf **Speichern**.
 
 Um die Blockierung eines Absenders aufzuheben, wählen Sie das Papierkorbsymbol neben der E-Mail-Adresse oder Domäne aus, die Sie entsperren möchten.
 

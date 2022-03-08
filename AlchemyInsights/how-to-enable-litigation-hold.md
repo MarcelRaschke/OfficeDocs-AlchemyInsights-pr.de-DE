@@ -8,22 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 3642edcb2f9f890495652b12f1982fbe8fa41c2a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e8e5681a1e758db083fcefc83b56c9134893d456
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62638842"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63091378"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Platzieren eines Postfachs in die gesetzliche Aufbewahrungspflicht
 
-- Um ein Postfach in die Aufbewahrung für juristische Zwecke oder In-Place zu sperren, ist eine Exchange Online Plan 2-Lizenz [Exchange Online Plan 2-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich. Wenn einem Postfach eine Plan 1-Lizenz zugewiesen ist, können Sie eine separate Exchange Online-Archivierung Add-On-Lizenz [Exchange Online-Archivierung Add-On-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description) zuweisen.
+- Um ein Postfach für die Aufbewahrung für juristische Zwecke oder In-Place zu sperren, ist eine Exchange Online Plan 2-Lizenz [Exchange Online Plan 2-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich. Wenn einem Postfach eine Plan 1-Lizenz zugewiesen ist, können Sie eine separate Exchange Online-Archivierung Add-On-Lizenz [Exchange Online-Archivierung Add-On-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description) zuweisen.
 
 - Führen Sie die [folgenden Schritte](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold) aus, um die Beweissicherung für juristische Zwecke für einen einzelnen Benutzer zu aktivieren. Wenn die Beweissicherung für juristische Zwecke aktiviert ist, bleiben alle Inhalte im Postfach erhalten.
 

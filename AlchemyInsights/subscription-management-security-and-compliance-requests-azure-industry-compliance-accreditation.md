@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 657f3b24400578ab598ae6f61779ae2f5d4c67b5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c61bbe49aa048b2f5f94963c2a70ae57105d136d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62631822"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63123869"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Abonnementverwaltung – Sicherheits- und Complianceanforderungen – Azure Industry Compliance-Akkreditierung
 
@@ -32,7 +32,7 @@ Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden
 
 - **Azure PCI DSS Compliance**: Die erforderlichen Azure-bezogenen Dokumente zum Erreichen der Compliance der Zahlungskartenbranche sind der "Compliancenachweis" und die "Verantwortlichkeitsmatrix", die beide im Azure Trust Center verfügbar sind. Überprüfen Sie, ob Sie über diese Dokumente verfügen. Wenn Sie über diese Dokumente verfügen, aber einen zusätzlichen Nachweis über Microsoft Azure PCI Data Security Standard Compliance benötigen, lesen Sie [Microsoft und PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
 
-- **Azure Operations/Security/Compliance**: Wenn Sie allgemeine sicherheitsbezogene Fragen zu Azure haben, lesen Sie die Standardantwort auf Anforderung von Informationen Microsoft Azure Sicherheit, Datenschutz und Compliance Wenn Sie Fragen zur Compliance haben, lesen Sie bitte: Microsoft STP – Häufig gestellte Fragen zum Compliance- und Service Trust Portal.
+- **Azure Operations/Security/Compliance**: Wenn Sie allgemeine sicherheitsbezogene Fragen zu Azure haben, lesen Sie die Standardantwort auf Anforderung von Informationen Microsoft Azure Sicherheit, Datenschutz und Compliance Wenn Sie Fragen zu Compliance haben, lesen Sie bitte: Microsoft STP – Häufig gestellte Fragen zum Compliance- und Service Trust Portal.
 
 Wenn Sie Fragen zur Compliance haben, lesen Sie die häufig gestellten Fragen zum [Microsoft STP – Compliance](https://www.microsoft.com/trust-center/compliance/compliance-overview) and Service Trust Portal.
 

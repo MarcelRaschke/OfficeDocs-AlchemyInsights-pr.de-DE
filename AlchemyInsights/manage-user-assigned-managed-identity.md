@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8211"
 - "9003230"
-ms.openlocfilehash: 5118462b3f6d0f620587d10f8c12bd317f6f4404
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ecc8c00ed4aa8719cdb297d38ec2458371a32b26
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62699144"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63089326"
 ---
 # <a name="manage-a-user-assigned-managed-identity"></a>Verwalten einer benutzerseitig zugewiesenen verwalteten Identität
 

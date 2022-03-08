@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: ea6cbe03b25f55090453643c029e351087828a03
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b004ac286b36055fd12a9dad2628045be1fe3ea0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62646708"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63123905"
 ---
 # <a name="subscription-cancelled---legacy---recommended-steps"></a>Abonnement gekündigt – Legacy – empfohlene Schritte
 

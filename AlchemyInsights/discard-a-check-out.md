@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: bbf922996182da2cf04e858cc2f0a193d7e5391b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 96a3be700241d611b37250cc297005aa34b72166
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62760095"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63092458"
 ---
 # <a name="discard-a-check-out-from-a-document-library"></a>Verwerfen eines Auscheckens aus einer Dokumentbibliothek
 

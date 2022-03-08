@@ -8,23 +8,23 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: 9bc4c28028745b244c2f5d8f7885fc19f82fd735
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ebaad29c908e7d29213eceba3910749e32994f28
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62653206"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63092170"
 ---
 # <a name="enable-cost-management"></a>Aktivieren der Kostenverwaltung
 
 **Was bedeutet "Kosten sind für Ihre Organisation deaktiviert"?**
 
-Organisationen, die Enterprise Agreement (EA) oder Microsoft Customer Agreement (MCA)-Konten verwenden, können den Zugriff auf Kosteninformationen und Preisinformationen deaktivieren.
+Organisationen, die Enterprise Agreement ( EA) oder Microsoft Customer Agreement (MCA)-Konten verwenden, können den Zugriff auf Kosteninformationen und Preisinformationen deaktivieren.
 
 Nach der Anmeldung beim Azure-Portal können sie die Abrechnungs-APIs verwenden, um Rechnungen (einmal angemeldet) und Nutzungsdetails programmgesteuert abzurufen.
 
@@ -48,7 +48,7 @@ Nach der Anmeldung beim Azure-Portal können sie die Abrechnungs-APIs verwenden,
 
 - [Aktivieren von DA- und AO-Ansichten über das EA-Portal](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
 - [Kosten, die in der Kostenverwaltung enthalten sind](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
-- [Unterstützte Microsoft Azure Angebote](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
+- [Unterstützte Microsoft Azure-Angebote](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
 - [Überprüfen der Kosten in der Kostenanalyse](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
 - [Bereitstellen des Zugriffs auf Abrechnungsinformationen](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Überprüfen des Zugriffs auf eine Microsoft-Kundenvereinbarung](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)

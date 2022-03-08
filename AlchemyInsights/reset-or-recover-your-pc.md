@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: 0dfc0e37223ffc2669ec313986eb079fe168771f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 58e885c9644b2b31f6b08e28fbda8ac5bb305b54
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62617440"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63125273"
 ---
 # <a name="reset-or-recover-your-pc"></a>Setzen Sie Ihren PC zurück oder stellen Sie ihn wieder her
 
