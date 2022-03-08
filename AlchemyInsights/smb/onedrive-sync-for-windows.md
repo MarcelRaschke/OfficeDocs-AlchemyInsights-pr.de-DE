@@ -1,5 +1,5 @@
 ---
-title: OneDrive-Synchronisierung für Windows
+title: OneDrive Synchronisierung für Windows
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010112"
 - "15625"
 ms.date: 02/11/2022
-ms.openlocfilehash: 66b3c0868527584692278c57f641e2b35f5afa7e
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: a9911806d7dae852283330aff9b71c006ff62abe
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790221"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63190688"
 ---
-# <a name="onedrive-synchronization-for-windows"></a>OneDrive-Synchronisierung für Windows
+# <a name="onedrive-synchronization-for-windows"></a>OneDrive Synchronisierung für Windows
 
 Mit OneDrive können Sie Dateien zwischen Ihrem Computer und der Cloud synchronisieren, sodass Sie von überall zu Ihren Dateien gelangen können – Ihrem Computer, Ihrem mobilen Gerät und sogar über die OneDrive Website unter OneDrive.com. Wenn Sie eine Datei oder einen Ordner in Ihrem OneDrive Ordner hinzufügen, ändern oder löschen, wird die Datei oder der Ordner auf der OneDrive Website hinzugefügt, geändert oder gelöscht und umgekehrt. Sie können mit Ihren synchronisierten Dateien direkt im Datei-Explorer arbeiten und auf Ihre Dateien zugreifen, auch wenn Sie offline sind. Wenn Sie online sind, werden alle Änderungen, die Sie oder andere vornehmen, automatisch synchronisiert.
 

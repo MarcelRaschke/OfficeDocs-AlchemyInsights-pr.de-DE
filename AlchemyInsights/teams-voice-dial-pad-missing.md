@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "2641"
 - "9000719"
-ms.openlocfilehash: cb8f50af527f41fe2efc9bd2214ee800144a91ff
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b67ecbd6ecfe85d76dc9d04414b867d73a65a7d6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62546803"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63260729"
 ---
 # <a name="dial-pad-is-missing-in-microsoft-teams"></a>Wähltastatur fehlt in Microsoft Teams 
 

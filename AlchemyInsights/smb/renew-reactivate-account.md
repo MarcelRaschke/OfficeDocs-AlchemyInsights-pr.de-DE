@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009962"
 - "16671"
 ms.date: 02/17/2022
-ms.openlocfilehash: b69689f1a36f11d7a959d60a325493a727bee38f
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: b7c2ba197e3b09d1456f73ed94cd1b5bd740d2bf
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893266"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63199220"
 ---
 # <a name="renew-and-reactivate-account"></a>Konto erneuern und reaktivieren
 
@@ -30,7 +30,7 @@ Sie können Ihr Abonnement im Admin Center reaktivieren, wenn: das Abonnement ab
 3. Wählen Sie im Bereich **Dieses Abonnement reaktivieren** eine Zahlungsmethode aus der Dropdownliste aus, oder wählen Sie **Zahlungsmethode hinzufügen** aus.
 4. Klicken Sie auf **Speichern**.
 
-*Erfahren Sie mehr über die Reaktivierung und Verlängerung Ihres Microsoft 365-Abonnements:*
+*Erfahren Sie mehr über die Reaktivierung und Verlängerung Ihres Microsoft 365 Abonnements:*
 
 - [Verlängern oder Reaktivieren Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 - [Verlängern von Microsoft 365 Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)

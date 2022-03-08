@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6165"
 - "9001459"
-ms.openlocfilehash: 6504f94fdd6a9d1a21c5671b1ac26cab532c0692
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 038a05b00feb8478d77004c478f54169ce6f40e1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62752535"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63199616"
 ---
 # <a name="retire-classic-pages-in-sharepoint-admin-center"></a>Klassische Seiten im SharePoint Admin Center einstellen
 

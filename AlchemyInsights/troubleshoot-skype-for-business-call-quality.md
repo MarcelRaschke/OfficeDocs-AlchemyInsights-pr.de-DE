@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - "9002263"
 - "4364"
 ms.assetid: ''
-ms.openlocfilehash: 2fd7df6c51e0ae9d9f72fdc3c5efbc014c69e33c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 876aa0759dacd46f9ce6ebe9f91843b51f212351
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62583057"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63189320"
 ---
 # <a name="troubleshoot-skype-for-business-call-quality"></a>Behandeln von Problemen mit der Skype for Business-Anrufqualität
 

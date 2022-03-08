@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 11326c1eb7f5828420258071cb82b1561fbada5a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a53ea7d97a87c03d6a3faa8a450f30dd0c30a06d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62550495"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63200984"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Verhindern, dass Nachrichten zu Ihrem Junk-E-Mail-Ordner wechseln
 

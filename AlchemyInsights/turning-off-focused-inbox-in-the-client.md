@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 8ea61180892dbe44eda34f55dc0af0da965988fc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4763b24f7ef80c51579f0925590b23f0d97ffb7b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62582409"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63196700"
 ---
 # <a name="turn-off-focused-inbox-in-email-clients"></a>Deaktivieren des Posteingangs mit Relevanz in E-Mail-Clients
 

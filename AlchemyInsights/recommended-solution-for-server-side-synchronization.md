@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1457"
 - "6200010"
-ms.openlocfilehash: 7db116b69732d2de22147073c4db92813eeffd3a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 901e0a93db13fb4d813739b5c7f9c695875795cd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62716715"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63125813"
 ---
 # <a name="recommended-solution-for-server-side-synchronization"></a>Empfohlene Lösung für die serverseitige Synchronisierung
 

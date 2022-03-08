@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: 413
 ms.assetid: 90e254a1-19b7-4715-beaa-31b938473b07
-ms.openlocfilehash: fa580bf25cafc45474dcbaf8b928e3e2461bd65b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b5e8eb20ffcd78ef12dc3f7397a4c78ec75ccec2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62569768"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63196484"
 ---
 # <a name="understanding-agenda-mail"></a>Grundlegendes zu Agenda-E-Mails
 

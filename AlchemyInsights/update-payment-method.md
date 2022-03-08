@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6462"
-ms.openlocfilehash: 38edee547a32b358372fa7eb9ee6880bb040f1b5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c03e4c2e3940ea806f341d2b4d466118396a35c0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62690913"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63259829"
 ---
 # <a name="manage-card-and-payment-method"></a>Verwalten von Karten und Zahlungsmethoden
 
@@ -35,7 +35,7 @@ Im Azure-Portal können Sie als Kontoadministrator eine neue Debit-/Kreditkarte 
 
 1.  Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) als [Kontoadministrator](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) an. Suchen Sie nach **Kostenverwaltung und Abrechnung**.
 2.  Wählen Sie **Zahlungsmethoden** aus. Klicken Sie auf die Debit- oder Kreditkarte, die Sie bearbeiten möchten. Rechts wird ein Debit-/Kreditkartenformular angezeigt.
-3.  Aktualisieren Sie die Debit- oder Kreditkartendetails. Wählen Sie **Speichern**.
+3.  Aktualisieren Sie die Debit- oder Kreditkartendetails. Klicken Sie auf **Speichern**.
 4.  Aktivieren Sie zum **Entfernen** das Kontrollkästchen neben der Karte, die Sie entfernen möchten.
 5.  Klicken Sie auf **Löschen**.
 

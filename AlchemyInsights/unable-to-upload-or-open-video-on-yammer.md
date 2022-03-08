@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "5999"
 - "9003112"
-ms.openlocfilehash: fa197336dc94867f5934c12e2a28e943963a2930
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 60c11d48c7785373ffc42f394e653e1feea1994e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62714121"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63196556"
 ---
 # <a name="unable-to-upload-or-open-video-on-yammer"></a>Video kann nicht in Yammer hochgeladen oder geöffnet werden
 

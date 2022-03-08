@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
 - "1500016"
 - "10966"
 ms.date: 04/16/2021
-ms.openlocfilehash: 98db723c671cfc2d17616bd65fee39a0ee976334
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5069ccefbc9ceb5fae00187bd192b8a52d14e1a1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62582193"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63259865"
 ---
 # <a name="update-credit-card-country-information"></a>Aktualisieren der Länderinformation der Kreditkarte
 

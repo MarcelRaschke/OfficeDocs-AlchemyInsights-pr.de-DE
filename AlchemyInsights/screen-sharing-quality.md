@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11061"
 - "11062"
 - "9002254"
 - "9002536"
-ms.openlocfilehash: 8cdcee36feb5a7a1fa95d615a7fdcfbf8b88428a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d2a281ba68cd70687bf86e75b2e734d8c4f0e78b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62616756"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63199508"
 ---
 # <a name="screen-sharing-quality"></a>Bildschirmfreigabequalität
 

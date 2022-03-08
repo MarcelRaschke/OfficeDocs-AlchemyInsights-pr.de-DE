@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom: ''
 ms.assetid:
 - "9002254"
 - "4358"
-ms.openlocfilehash: 7c50330c9dee2bd4af255a71a4449ff639df4615
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1066703191674b7f8cfa587cccaaeb920b4eb9ee
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62728435"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63199472"
 ---
 # <a name="screen-sharing-with-teams"></a>Bildschirmfreigabe für Teams
 

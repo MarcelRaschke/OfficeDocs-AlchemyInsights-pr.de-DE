@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 572f80e4d345f8e54864249e0fdf0de75e9783e1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 63cbd26f5fd43411b88f7fc1302915797c287fc2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62626458"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63258785"
 ---
 # <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Blockieren oder Aufheben der Blockierung der automatischen E-Mail-Weiterleitung
 

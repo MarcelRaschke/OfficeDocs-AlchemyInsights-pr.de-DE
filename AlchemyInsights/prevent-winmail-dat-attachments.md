@@ -8,15 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: 984a4a010d5610db22a8b594c8724b7207284bf1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d16e74733dec83e3a2fa4b3657c8b96f8c45a85e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62572023"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63126461"
 ---
 # <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Verhindern von Winmail.dat-Anlagen in E-Mail-Nachrichten aus Ihrer Organisation
 

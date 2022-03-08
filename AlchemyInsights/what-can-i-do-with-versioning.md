@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: ed362d17f1fa0317035042ad5067bb344229fce0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f9acab4f359e923492fd96944e9b9e196ae44cab
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62595730"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63259505"
 ---
 # <a name="what-can-i-do-with-versioning"></a>Was kann ich mit der Versionsverwaltung tun?
 

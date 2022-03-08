@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004319"
 - "7703"
-ms.openlocfilehash: 30b38711c78765cc1ae11d75eb18dba69487e88b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5e653c1b3653fb70c6627ff3ff3b59e65258c1ab
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62598214"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63199545"
 ---
 # <a name="retirement-of-site-mailbox"></a>Einstellung des Websitepostfachs
 

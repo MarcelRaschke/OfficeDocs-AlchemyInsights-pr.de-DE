@@ -7,26 +7,26 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: e3ef8c80313663155bc013b0f8ac25291264475d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: da7eb05e21c8556d8a52b8894f1e1ca2c568a394
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62618160"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63125921"
 ---
 # <a name="querying-the-microsoft-graph-api"></a>Abfragen der Microsoft Graph-API
 
-Dieses Thema kann auch für Entwickler gelten, die weiterhin Azure AD Graph-API verwenden. Es wird jedoch **dringend** empfohlen, Microsoft Graph für alle Ihre Verzeichnis-, Identitäts- und Zugriffsverwaltungsszenarien zu verwenden.
+Dieses Thema kann auch für Entwickler gelten, die weiterhin Azure AD Graph-API verwenden. Es wird jedoch **dringend** empfohlen, Microsoft Graph für alle Verzeichnis-, Identitäts- und Zugriffsverwaltungsszenarien zu verwenden.
 
 **Authentifizierungs- oder Autorisierungsprobleme**
 
 - Wenn Ihre App **keine Token zum** Aufrufen von Microsoft Graph abrufen kann, wählen Sie **Problem beim Abrufen eines Zugriffstokens (Authentifizierung)** Microsoft Graph Kategorie aus, um spezifischere Hilfe und Unterstützung zu diesem Thema zu erhalten.
-- Wenn Ihre App beim Aufrufen von Microsoft Graph **401- oder 403-Autorisierungsfehler empfängt**, wählen Sie die Microsoft Graph API-Kategorie "**Zugriffsverweigerung erhalten"** aus, um spezifischere Hilfe und Unterstützung zu diesem Thema zu erhalten.
+- Wenn Ihre App beim Aufrufen von Microsoft Graph **401- oder 403-Autorisierungsfehler empfängt**, wählen Sie die Microsoft Graph API-Kategorie "**Zugriff verweigert" aus**, um spezifischere Hilfe und Unterstützung zu diesem Thema zu erhalten.
 
 **Ich möchte Microsoft Graph verwenden, aber nicht sicher, wo ich beginnen soll**
 
@@ -102,5 +102,5 @@ Weitere Informationen finden Sie unter:
 
 Die Dienstverfügbarkeit und Konnektivität der zugrunde liegenden Dienste, auf die über Microsoft Graph zugegriffen werden kann, kann sich auf die allgemeine Verfügbarkeit und Leistung von Microsoft Graph auswirken.
 
-- Überprüfen Sie für Azure Active Directory Dienststatus den Status der Auf der [Azure-Statusseite](https://azure.microsoft.com/status/) aufgeführten **Sicherheits- und Identitätsdienste**.
+- Für Azure Active Directory Dienststatus überprüfen Sie den Status von **Security + Identity-Diensten**, die auf der [Azure-Statusseite](https://azure.microsoft.com/status/) aufgeführt sind.
 - For Office services that contribute to Microsoft Graph, check the status of services listed in the [Office Service Health Dashboard](https://portal.office.com/adminportal/home#/servicehealth).

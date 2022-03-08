@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: 5694d0aefd5de1d6a2aa89a6c81b3bad99cfca50
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 06d10b3dbe2eedac76ab139c518cd922fa7cc800
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62664763"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63125562"
 ---
 # <a name="recover-an-item-from-your-deleted-items-folder"></a>Wiederherstellen eines Elements aus dem Ordner "Gelöschte Elemente"
 
@@ -26,7 +26,7 @@ Wenn Sie eine E-Mail-Nachricht, einen Kontakt, ein Kalenderelement oder eine Auf
 
 1. Melden Sie sich in einem Webbrowser mit der URL bei Outlook Web App an, die Ihnen vom E-Mail-Manager Ihrer Organisation zur Verfügung gestellt wurde. Geben Sie Ihren Benutzernamen und Ihr Kennwort ein, und wählen Sie dann " **Anmelden" aus**.
 1. Wählen Sie in ihrer E-Mail-Ordnerliste **gelöschte Elemente aus**.
-1. Führen Sie eine der folgenden Aktionen aus, um eine E-Mail-Nachricht wiederherzustellen: a. Um eine Nachricht in Ihrem Posteingang wiederherzustellen, klicken Sie mit der rechten Maustaste auf die Nachricht, und wählen Sie dann **"> Posteingang verschieben**" aus.
+1. Führen Sie eine der folgenden Aktionen aus, um eine E-Mail-Nachricht wiederherzustellen: a. Um eine Nachricht in Ihrem Posteingang wiederherzustellen, klicken Sie mit der rechten Maustaste auf die Nachricht, und wählen Sie dann **> Posteingang verschieben** aus.
     b. Um eine Nachricht in einem anderen Ordner wiederherzustellen, klicken Sie mit der rechten Maustaste auf die Nachricht, und wählen Sie dann **"Verschieben > Mehr**" aus. Wählen Sie einen Ordnerspeicherort aus, und klicken Sie dann auf **"Verschieben**".
 4. So stellen Sie andere Elementtypen wieder her:
     - Klicken Sie zum Wiederherstellen eines Kontakts mit der rechten Maustaste darauf, und wählen Sie dann **"Zu Kontakte verschieben**" aus.

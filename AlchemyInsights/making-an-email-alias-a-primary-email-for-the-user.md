@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: c8a99b9ada7a71ceb331fbd021bb5eb1172f4900
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 52a7cb75e0eb174e21a8fa3b7590fcd861fc88f8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62667895"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63191732"
 ---
 # <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Festlegen eines E-Mail-Alias als primäre Adresse für einen Benutzer
 

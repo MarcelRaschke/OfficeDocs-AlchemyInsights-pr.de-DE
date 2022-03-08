@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 4e4ab656fdc576090045cae019bd823e9d8ac330
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 24151dd1ce9b22143ece26acd0d1c09e388c6177
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62617692"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63199868"
 ---
 # <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Bericht zur Datei- und Ordnerfreigabe in SharePoint Websites
 

@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: b1773cd3aec367e7adc4a3edb6fe247a1e22615f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 57aea733a4ac86ecea44a665d273702b8fb52e9e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62634954"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63200840"
 ---
 # <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>Dateien oder Fotos können nicht aus Dateien in Outlook im Web
 

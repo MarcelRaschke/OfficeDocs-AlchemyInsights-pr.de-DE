@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7816"
 - "9004358"
-ms.openlocfilehash: 0234025683d056886a2ed96ffb6c8e68b135cf0e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 59424287921a91ee8f0169240f676cb6dfd4a4e1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62691850"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63260405"
 ---
 # <a name="troubleshoot-issues-with-application-role-assignment-and-management"></a>Problembehandlung bei der Zuweisung und Verwaltung von Anwendungsrollen
 

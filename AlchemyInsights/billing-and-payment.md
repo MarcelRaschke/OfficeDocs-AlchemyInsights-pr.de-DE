@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
 ms.date: 08/11/2021
-ms.openlocfilehash: aed2884359da39fd1a14cd974f9beb33c6c2d26c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c3c8795b146a988b004192956559c5d6966a769c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62658282"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63258965"
 ---
 # <a name="billing-and-payment"></a>Abrechnung und Zahlung
 

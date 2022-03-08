@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: abf6c7fc6b9c5941c740af602577416b37c13db2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 95e2af96a1093dede717f716bd26b4a7c7fc33be
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62582373"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63260081"
 ---
 # <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Anlage kann nicht zu einem formular mit externer Ausrichtung hinzugefügt werden
 

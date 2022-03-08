@@ -7,7 +7,7 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1448"
 - "1449"
@@ -15,12 +15,12 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 9f3e4f941ffc70a93b68c9054757ef6f8dd7abd0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: df5a51cfc47c836b243ade9b7fd825fce65a652c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62664691"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63200408"
 ---
 # <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Empfohlene Lösungen für Dynamics 365-Speicherprobleme
 
@@ -30,7 +30,7 @@ ms.locfileid: "62664691"
 
 * [App: E-Mail oder Termin wird als "Ausstehend nachverfolgen" angezeigt](https://go.microsoft.com/fwlink/p/?linkid=2007022)
 
-* [App: Leere Seite wird beim Öffnen der App für Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
+* [App: Leere Seite wird angezeigt, wenn App für Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
 
 * [Vollständiger Client: D365 kann für Outlook Version 8.x nicht mit einer Version 9.x D365-Instanz verbunden werden](https://go.microsoft.com/fwlink/p/?linkid=2007023)
 

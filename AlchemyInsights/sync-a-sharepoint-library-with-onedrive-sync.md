@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5797"
-ms.openlocfilehash: 448aa08e69fdc820def175c3b8454dade2c3f532
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b847cc992320e1a6f79cce96a2b50b6ac8e31297
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62677255"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63261053"
 ---
 # <a name="sync-a-sharepoint-library-with-onedrive-sync"></a>Synchronisieren einer SharePoint-Bibliothek mit OneDrive Sync
 

@@ -7,20 +7,20 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9006404"
 - "13986"
-ms.openlocfilehash: 749461bca904a895e7d21360296036bfa2fb6404
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5dad5cd28effce6fc431626e247022dd8db4de64
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62639634"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63193316"
 ---
 # <a name="exporting-with-excel"></a>Exportieren mit Excel
 
-Wenn Sie die Option **"Exportieren zum Excel**" in Microsoft Office SharePoint Online verwenden, können gelegentlich Probleme auftreten.
+Wenn Sie die Option **"Exportieren in Excel**" in Microsoft Office SharePoint Online verwenden, können gelegentlich Probleme auftreten.
 
-Informationen zur Problembehandlung finden Sie unter ["Exportieren in Excel aus SharePoint Online" nicht](https://docs.microsoft.com/office/troubleshoot/excel/cannot-export-to-excel) möglich.
+Informationen zur Problembehandlung finden Sie unter ["Exportieren in Excel aus SharePoint Online nicht](https://docs.microsoft.com/office/troubleshoot/excel/cannot-export-to-excel) möglich".

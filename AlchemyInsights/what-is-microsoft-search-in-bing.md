@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9291"
 - "9005423"
-ms.openlocfilehash: cac946602db093d009f39537afa892a556f0898a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ede3490b7aa0a6e28cd01fd5e39a314c402ef146
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62713329"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63188960"
 ---
 # <a name="what-is-microsoft-search-in-bing"></a>Was ist Microsoft Search in Bing?
 

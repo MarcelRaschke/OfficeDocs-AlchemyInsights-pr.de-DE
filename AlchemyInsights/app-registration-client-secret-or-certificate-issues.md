@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "9685"
-ms.openlocfilehash: 270eaa24e0126577e2074d447d405557489b7c87
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2283f1e66382555d4723765fd4425fe5daae2970
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62627551"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63259145"
 ---
 # <a name="app-registration-client-secret-or-certificate-issues"></a>Probleme mit geheimen Clientschlüsseln oder Zertifikaten für die App-Registrierung
 

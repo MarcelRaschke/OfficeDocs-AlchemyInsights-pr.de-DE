@@ -7,18 +7,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1453"
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 64f2669f753a3f02d7dc9b2c7634be0c74cc2af1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0d2e0104e0e05b4f04eff4c5c2c7fdc7c18ccc86
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62680027"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63200372"
 ---
 # <a name="dynamics-server-side-sync-recommended-solutions"></a>Von Dynamics Server empfohlene Lösungen für die Synchronisierung
 

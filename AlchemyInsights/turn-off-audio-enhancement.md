@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 527d06fd57606b1b4ef5abb02e150303fbe250e4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fa46c160dfe7156816e34c813c0b27f796b8609b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62661234"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63260117"
 ---
 # <a name="turn-off-audio-enhancement"></a>Audioverbesserung deaktivieren
 

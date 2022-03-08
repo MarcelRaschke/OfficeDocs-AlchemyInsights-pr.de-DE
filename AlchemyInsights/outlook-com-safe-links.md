@@ -8,20 +8,20 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "961"
 - "962"
 - "8000057"
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
-ms.openlocfilehash: 92195acabbb3b685edaea7b21da4a7054f0664d6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cdd054f95cf6deb2e272aa880eff023a6a5a184d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62708217"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63201056"
 ---
-# <a name="advanced-outlookcom-security-for-microsoft-365-subscribers"></a>Erweiterte sicherheit Outlook.com für Microsoft 365 Abonnenten
+# <a name="advanced-outlookcom-security-for-microsoft-365-subscribers"></a>Erweiterte Sicherheit Outlook.com für Microsoft 365 Abonnenten
 
 Alle Outlook.com-Benutzer profitieren von Spam- und Schadsoftwarefilterung. Für Office 365 Home und Office 365 persönliche Abonnenten führt Outlook.com eine zusätzliche Überprüfung von Anlagen und Links in empfangenen Nachrichten durch. Weitere Informationen finden Sie unter ["Erweiterte Outlook.com-Sicherheit für Microsoft 365 Abonnenten"](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
 

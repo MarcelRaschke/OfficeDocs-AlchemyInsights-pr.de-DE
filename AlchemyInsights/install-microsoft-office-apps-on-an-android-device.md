@@ -7,24 +7,24 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003905"
 - "6960"
-ms.openlocfilehash: fe32a87f0a5c6d98593952fa5b384812945040d6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ddbb459cdd153e1790b3c0aa31172c9d0ad85372
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62732657"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63192380"
 ---
 # <a name="install-microsoft-office-apps-on-an-android-device"></a>Installieren Microsoft Office Apps auf einem Android-Gerät
 
-Auf Ihrem Chromebook- oder Android-Smartphone oder -Tablet können Sie die Microsoft Office Apps als separate Apps oder als Bündel installieren.
+Auf Ihrem Chromebook- oder Android-Smartphone oder -Tablet können Sie die Microsoft Office Apps als separate Apps oder als Bundle installieren.
 
 - [Installieren der Office-App (Bundle) aus dem Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137009)
-- [Installieren sie die Office-App (Bundle) aus dem Chrome Web Store](https://go.microsoft.com/fwlink/?linkid=2137212)
+- [Installieren der Office-App (Bundle) aus dem Chrome Web Store](https://go.microsoft.com/fwlink/?linkid=2137212)
 - [Installieren Microsoft Word aus dem Google Play Store](https://go.microsoft.com/fwlink/?linkid=2136994)
 - [Installieren Microsoft Excel aus dem Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137120)
 - [Installieren von Microsoft PowerPoint aus dem Google Play Store](https://go.microsoft.com/fwlink/?linkid=2137121)

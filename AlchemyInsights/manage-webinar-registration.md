@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: 3ba57be44697def3690619b65c8671dd7169bc24
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 44e076d403cf684fb3b9ecb7626706b348b54819
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62699108"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63191516"
 ---
 # <a name="manage-webinar-registration"></a>Verwalten der Webinarregistrierung
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: 83d3b89984241a9c41cbab3251ff66ad89e40394
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a7e30e5901c2edd52722a7ba196f75f51c59f856
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62586345"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63200120"
 ---
 # <a name="remove-users-from-a-sharepoint-group"></a>Entfernen von Benutzern aus einer SharePoint Gruppe
 

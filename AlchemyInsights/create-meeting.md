@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 9765e49831d78563e490e0292a2be79eeadd65e5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3e64e20b859b00c0ef43fff589972366a7e99a0b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62654191"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63193964"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Planen einer Besprechung in Teams
 
@@ -37,4 +37,4 @@ Weitere Informationen zum Erstellen und Planen von Besprechungen in Microsoft Te
 
 Weitere Informationen zu Grenzwerten und Spezifikationen für Besprechungen finden Sie unter [Grenzwerte und Spezifikationen für Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
 
-Hilfe bei der Problembehandlung bei Teams und Exchange Interaktionen, insbesondere bei Terminplanungsproblemen bei Stellvertretungen, finden Sie unter [Problembehandlung bei Microsoft Teams und Exchange Server Interaktionsproblemen](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Hilfe bei der Problembehandlung bei Teams und Exchange Interaktionen, insbesondere bei Stellvertretungsplanungsproblemen, finden Sie unter [Problembehandlung bei Microsoft Teams und Exchange Server Interaktionsproblemen](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).

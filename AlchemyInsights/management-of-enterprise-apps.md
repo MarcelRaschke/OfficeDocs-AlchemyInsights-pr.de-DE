@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8212"
 - "9003230"
-ms.openlocfilehash: 0bc0a738b574a7a9918b7e939bcee057d10f8264
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 876e97e30945040dd2dfc8731f6fb1b01b6b9841
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62745695"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63202100"
 ---
 # <a name="management-of-enterprise-apps"></a>Verwaltung von Unternehmens-Apps
 

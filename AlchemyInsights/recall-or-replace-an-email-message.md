@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: cfe7c8bff77fafb0a8728a0db11a2259c143d9f6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ecdbf5426a6fe274320036370a00059d9523d8a1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62716749"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63200563"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Rückruf oder Ersetzen einer E-Mail-Nachricht in Microsoft 365
 
@@ -44,4 +44,4 @@ Weitere Informationen, einschließlich der Überprüfung des Rückrufs, finden S
 1. [Erstellen Sie eine Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search) , um die zu löschende Nachricht zu finden.
 2. [Stellen Sie eine Verbindung mit der Security & Compliance Center PowerShell her](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell).
 
-Wenn Sie MFA (mehrstufige Authentifizierung) verwenden, lesen Sie [Verbinden zur Microsoft 365 Security & Compliance Center PowerShell mithilfe der mehrstufigen Authentifizierung](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell).
+Wenn Sie MFA (mehrstufige Authentifizierung) verwenden, lesen Sie [Verbinden zum Microsoft 365 Security & Compliance Center PowerShell mithilfe der mehrstufigen Authentifizierung](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell).

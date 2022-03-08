@@ -8,18 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9003931"
 - "6986"
 - "8329"
 - "9004625"
-ms.openlocfilehash: 94c70e7b6709e35aca71664bccaed02534a9af54
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 86bb3f7c8a43d6210d629696cc4629c43ba2eba8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62611895"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63259469"
 ---
 # <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Erweiterte Authentifizierungskonzepte für Microsoft Edge
 
@@ -33,7 +33,7 @@ Vorteile: Die proaktive Authentifizierung ermöglicht die Authentifizierung bei 
 
 **Windows Hello CredUI für die NTLM-Authentifizierung**
 
-Wenn einmaliges Anmelden (Single Sign-On, SSO) nicht verfügbar ist, wenn eine Website versucht, den Benutzer über ntlm oder den Aushandlungsmechanismus anzumelden, ermöglicht dieses Feature dem Benutzer, die BS-Anmeldeinformationen für die Website freizugeben und die Authentifizierungsanforderung mithilfe Windows Hello Cred UI zu erfüllen. Dieser Anmeldeablauf wird nur in Windows 10 und nur für Benutzer angezeigt, die während einer NTLM- oder Einer Negotiate-Abfrage kein SSO erhalten.
+Wenn einmaliges Anmelden (Single Sign-On, SSO) nicht verfügbar ist, wenn eine Website versucht, den Benutzer über ntlm oder den Aushandlungsmechanismus anzumelden, ermöglicht dieses Feature dem Benutzer, die BS-Anmeldeinformationen für die Website freizugeben und die Authentifizierungsanforderung mithilfe Windows Hello Cred UI zu erfüllen. Dieser Anmeldefluss wird nur in Windows 10 und nur für Benutzer angezeigt, die während eines NTLM- oder einer Negotiate-Abfrage kein SSO erhalten.
 
 **Verwenden von gespeicherten Kennwörtern zum automatischen Anmelden**
 

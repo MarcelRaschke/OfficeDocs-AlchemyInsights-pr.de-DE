@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: a3f81b744fa7d51da5b47caebc820a091ce49c30
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5b5dd88aa8f188589dab27288399f3b251912577
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62662278"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63261089"
 ---
 # <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Wechseln zur Zahlung per Rechnung (Abrechnung/Überweisung)
 

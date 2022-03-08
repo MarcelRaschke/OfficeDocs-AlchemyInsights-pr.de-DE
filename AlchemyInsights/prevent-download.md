@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: f370061fff8ea233c99154593060a3930f474b9c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0f256b4e92bb8f822e5d7f7323bbb6de1b88f060
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62633406"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63126533"
 ---
 # <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Verhindern, dass Dateien aus SharePoint oder OneDrive heruntergeladen werden
 

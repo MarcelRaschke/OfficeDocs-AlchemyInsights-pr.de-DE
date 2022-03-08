@@ -8,22 +8,22 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: c01def2d15e443aacf94c68416614ac1262ecb81
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3e225b3edf8f4a6c28492d9551fe9b4cef0c0e3b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62715345"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63199400"
 ---
 # <a name="sendas-mail-enabled-public-folder"></a>SendAs-E-Mail-aktivierter öffentlicher Ordner
 
 Im folgenden Beispiel werden dem Benutzer "Send As" Berechtigungen für den E-Mail-aktivierten öffentlichen Ordner "NewPF1" zugewiesen.
 
-Add-RecipientPermission -Identity 'NewPF1' -Trustee "Maustaste" -AccessRights 'SendAs'
+Add-RecipientPermission -Identity 'NewPF1' -Trustee "Doppelklick" -AccessRights 'SendAs'
 
 Ausführliche Informationen zu Syntax und Parametern finden Sie unter ["Senden als" oder "Senden im Auftrag von" Berechtigungen für E-Mail-aktivierte öffentliche Ordner](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
 

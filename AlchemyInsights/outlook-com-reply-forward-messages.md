@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "762"
 - "8000033"
 ms.assetid: 16e5bfdc-3363-4e1b-9436-789ce67ad22e
-ms.openlocfilehash: 40200b27a5bffa9b9388b83c748ca1efde998b9b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 42c2ec35d669afc40bd878db7b34f82f0fae20fa
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62587558"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63190976"
 ---
 # <a name="how-to-reply-to-or-forward-messages-in-outlookcom"></a>Antworten auf oder Weiterleiten von Nachrichten in Outlook.com
 

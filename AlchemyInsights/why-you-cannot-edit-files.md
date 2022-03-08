@@ -8,24 +8,24 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 517cfd9e67111e9cf57dbd1b500f311f1a9b6d22
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e2f06c533b714df69052c9a0ecdda7d57fd9899d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62613587"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63188780"
 ---
 # <a name="why-cant-i-edit-files"></a>Warum kann ich Dateien nicht bearbeiten?
 
 Werfen Sie einen kurzen Blick auf einige der Gründe [warum Sie die Datei möglicherweise nicht bearbeiten können](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Wenn Sie Bibliotheken mit Spalten oder Metadaten für **"Auschecken", "Erforderlich**" oder **"Validierung**" haben oder wenn **"Entwurf der Elementsicherheit**" auf **"Nur Benutzer" festgelegt ist, die Elemente** in Version Einstellungen der Bibliothek bearbeiten können, oder **auf "Nur Benutzer", die Elemente genehmigen können**, gilt Folgendes:
+Wenn Sie Bibliotheken mit Spalten oder Metadaten für **"Auschecken", "Erforderlich**" oder **"Validierung**" haben oder wenn **"Entwurfselementsicherheit**" auf **"Nur Benutzer" festgelegt ist, die** Elemente in Version Einstellungen der Bibliothek bearbeiten können, oder **"Nur Benutzer", die Elemente in** Version Einstellungen der Bibliothek genehmigen können:
 
 - Bei SharePoint Dokumentbibliotheken werden diese Elemente schreibgeschützt synchronisiert.
 

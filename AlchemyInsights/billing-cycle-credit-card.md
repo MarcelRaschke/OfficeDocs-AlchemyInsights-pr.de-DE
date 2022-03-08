@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
@@ -16,12 +16,12 @@ ms.custom:
 - "1500018"
 ms.date: 08/10/2021
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: 18efb2c5b4712718ca17178f0c5bd0e754d4dfaf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8a37ebdf7635e5e262129f58da0a5b422f37a71f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62643756"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63258857"
 ---
 # <a name="payment-methods-for-microsoft-for-business"></a>Zahlungsmethoden für Microsoft for Business
 

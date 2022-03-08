@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7810"
-ms.openlocfilehash: 669c45e7c85f228f0c715668d1d42492e3097cc6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a18841920a437657231ab0074f56d1d995e3a962
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62632290"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63198788"
 ---
 # <a name="sso-connection-issues"></a>SSO-Verbindungsprobleme
 
@@ -32,5 +32,5 @@ ms.locfileid: "62632290"
     - Versuchen Sie, die Transaktion zu reproduzieren, und überprüfen Sie die Konsolenmeldung. Eine CORS-Verletzung führt zu einem Konsolenfehler hinsichtlich des Ursprungs.
     - Einige CORS-Probleme können nicht behoben werden, z. B. wenn Ihre App zur Authentifizierung zu login.microsoft.com umleitet und das Zugriffstoken abläuft. Der CORS-Aufruf schlägt dann fehl. Eine Problemumgehung für dieses Szenario besteht im Verlängern der Gültigkeit des Zugriffstokens, um zu verhindern, dass es während einer Benutzersitzung abläuft. Weitere Informationen dazu finden Sie unter [Konfigurierbare Tokengültigkeitsdauer auf der Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 4. **Problembehandlung für SAML-basiertes einmaliges Anmelden**: Es wird empfohlen, [Probleme beim Anmelden bei SAML-basierten, für einmaliges Anmelden konfigurierten Apps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery) zu überprüfen, um die Lösungen für die Probleme zu finden, auf die Sie am wahrscheinlichsten stoßen.
-5. **Problembehandlung bei kennwortbasiertem einmaligem Anmelden**: Es wird empfohlen, die [Problembehandlung bei kennwortbasiertem einmaligem Anmelden in Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) zu überprüfen, um lösungen für die Probleme zu finden, die am wahrscheinlichsten auftreten.
-6. Informationen zu Verbindungsproblemen bei der Verwendung eines VPN finden Sie unter [Verwenden von einmaligem Anmelden (Single Sign On, SSO) über VPN und Wi-Fi Verbindungen](https://docs.microsoft.com/windows/security/identity-protection/vpn/how-to-use-single-sign-on-sso-over-vpn-and-wi-fi-connections).
+5. **Problembehandlung bei kennwortbasiertem einmaligem Anmelden**: Es wird empfohlen, die [Problembehandlung für kennwortbasiertes einmaliges Anmelden in Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) zu überprüfen, um lösungen für die Probleme zu finden, die am wahrscheinlichsten auftreten.
+6. Informationen zu Verbindungsproblemen bei der Verwendung eines VPN finden Sie unter [Verwenden des einmaligen Anmeldens (Single Sign On, SSO) über VPN und Wi-Fi Verbindungen](https://docs.microsoft.com/windows/security/identity-protection/vpn/how-to-use-single-sign-on-sso-over-vpn-and-wi-fi-connections).

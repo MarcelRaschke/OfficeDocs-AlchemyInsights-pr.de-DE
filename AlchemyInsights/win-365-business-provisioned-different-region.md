@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9008586"
 - "14169"
-ms.openlocfilehash: e8e18a35806c924c4f0e2639ee9ed4fe73238fd5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 39b6138170f15ace4845b00e1cdc888f31a13066
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62543374"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63188708"
 ---
 # <a name="windows-365-business-provisioned-in-a-different-region"></a>Windows 365 Unternehmen in einer anderen Region bereitgestellt
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4447"
-ms.openlocfilehash: 8c192dc7fc92dd4d62982b138ed8413548866ea1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: dfc112391e7b96e14d065a2233735099c5e3718e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62691855"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63196880"
 ---
 # <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a>Behandeln von Problemen beim Hochladen von Dateien auf OneDrive oder SharePoint.
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: da45d3da1b45f42db2e8113575fd7dfac0ff0e34
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 37df2d4fc017d54926b953da2bedd35e1142be8b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62710701"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63193352"
 ---
 # <a name="what-is-autosave"></a>Was ist AutoSpeichern?
 

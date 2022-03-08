@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 52d9088dd2cf2a7bd30313522e28e306b396d244
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cfbafc1b07f37228eac30c6b295657fc82d44162
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62730952"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63191444"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Verschieben von E-Mails in das Archivpostfach
 
@@ -28,7 +28,7 @@ Wenn Sie möchten, dass wir automatisierte Überprüfungen für die unten genann
 
 2. Um Nachrichten automatisch im Archivpostfach zu archivieren, muss ein Aufbewahrungstag mit der **Aktion "In Archiv verschieben** " so festgelegt werden, dass es **automatisch auf das gesamte Postfach (Standardtag) angewendet** wird. Führen Sie die hier beschriebenen Schritte aus, um das Tag zu erstellen: [Archivstandardtag](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. Fügen Sie als Nächstes der Aufbewahrungsrichtlinie das **Tag "Archiv"** hinzu. Wählen Sie im Exchange Admin Center **Aufbewahrungsrichtlinien** aus, > fügen Sie der Richtlinie das **Tag "In Archiv verschieben**" > **"Speichern**" hinzu.
+3. Fügen Sie als Nächstes der Aufbewahrungsrichtlinie das **Tag "Archiv"** hinzu. Wählen Sie im Exchange Admin Center **Aufbewahrungsrichtlinien** aus, > fügen Sie das **Tag "In Archiv verschieben**" zur Richtlinie > **Speichern** hinzu.
 
 4. [Weisen Sie nun die Aufbewahrungsrichtlinie](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) dem Postfach des bestimmten Benutzers zu. Die gleiche Richtlinie wird sowohl auf das **Primäre** postfach als auch auf das **Archivpostfach** angewendet.
 

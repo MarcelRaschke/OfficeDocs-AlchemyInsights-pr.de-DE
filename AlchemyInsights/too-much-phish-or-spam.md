@@ -8,15 +8,15 @@ audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 6ba38abe609f2a1be49c667982bd0fd2a81ceb43
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9819d0e0f1f9c0236243774908dcda6827448d6c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62630683"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63260513"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Erhalten Sie zu viel Phishing oder Spam in Ihrem Postfach?
 

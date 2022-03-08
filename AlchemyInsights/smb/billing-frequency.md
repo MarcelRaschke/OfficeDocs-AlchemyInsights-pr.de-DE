@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009965"
 - "15339"
 ms.date: 02/17/2022
-ms.openlocfilehash: 440f523e8ffe49b3413ab214bffbcb3e3cb0596b
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: 2e647368905d505ecbdc846d1e055cdf044c5b89
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893366"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63190904"
 ---
 # <a name="billing-frequency"></a>Abrechnungshäufigkeit
 

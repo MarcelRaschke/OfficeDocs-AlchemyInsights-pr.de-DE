@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7742"
 - "9004337"
-ms.openlocfilehash: 7cae92fd39377aeecb049183b8a50db11c6f3b77
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 123b79168b8f15f1f4fc86fe97446ca346e69ba0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62644368"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63259109"
 ---
 # <a name="application--integration"></a>Anwendungsintegration
 

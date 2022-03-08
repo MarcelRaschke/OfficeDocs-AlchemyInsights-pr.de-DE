@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "2548"
 - "9000672"
-ms.openlocfilehash: e4417048206d9e1f43451bf052a0c6e917705e5f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 510ad0251ce0f90fa0832cdab7e5bd867644c7f8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62726181"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63189500"
 ---
 # <a name="transfer-ownership-of-a-microsoft-form"></a>Übertragen des Besitzes eines Microsoft-Formulars
 

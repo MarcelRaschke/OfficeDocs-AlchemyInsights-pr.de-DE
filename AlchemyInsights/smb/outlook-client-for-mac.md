@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren Outlook Clients für Mac
+title: Konfigurieren Outlook-Clients für Mac
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009993"
 - "15684"
 ms.date: 02/14/2022
-ms.openlocfilehash: cddc344148d18158b6f7278125fc2338add3c446
-ms.sourcegitcommit: d4fe5cc18116740ba4193dbd716e3123ee898394
+ms.openlocfilehash: 5979f19e1d406da2fd5dfd51e4e6b97d11c34c48
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62815600"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63190616"
 ---
-# <a name="configure-outlook-client-for-mac"></a>Konfigurieren Outlook Clients für Mac
+# <a name="configure-outlook-client-for-mac"></a>Konfigurieren Outlook-Clients für Mac
 
 Das neue Outlook für Mac nutzt leistungsstarke und einfache Designprinzipien, die Benutzern die Kontrolle geben, ihre Erfahrungen anzupassen und schnell zu erledigen. Es hilft Ihnen, schnell auf Ihre E-Mails und Ihren Kalender zuzugreifen, Besprechungen einfach zu planen und darauf zu reagieren, mit der Suche zu finden, wonach Sie suchen, und ihre E-Mails besser zu organisieren. Es enthält die Funktionsupdates, die Sie in einer anpassbaren und benutzerfreundliche Benutzeroberfläche angefragt haben.
 

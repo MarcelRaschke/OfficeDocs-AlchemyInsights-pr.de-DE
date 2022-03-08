@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009978"
 - "15385"
 ms.date: 02/17/2022
-ms.openlocfilehash: f70031e1c56dc41c2779fc2e9e371254c52a145a
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: 6032bdcbc3e0b54c1acca920f945a5408d5a5f28
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893286"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63199148"
 ---
 # <a name="activity-report"></a>Bericht „Aktivität“
 

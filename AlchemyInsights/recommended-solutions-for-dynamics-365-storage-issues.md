@@ -7,16 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: ff5edd0cad7c216fb702543f27955983cbc2c3ab
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a79266fb0a0861ba6f45d46adf7b764e5427286c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62599005"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63200507"
 ---
 # <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Empfehlen von Lösungen für Dynamics 365-Speicherprobleme
 

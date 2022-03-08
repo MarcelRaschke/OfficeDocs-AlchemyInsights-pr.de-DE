@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11467"
 - "9006706"
-ms.openlocfilehash: 449da48b3ea4e8b3026aafc50a93ae932c4cb910
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 39cf596c062e05a1698646a116271b23a978ded2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62670991"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63194000"
 ---
 # <a name="configure-stay-signed-in-for-accounts"></a>Konfigurieren von „Angemeldet bleiben“ für Konten
 

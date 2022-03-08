@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: ccef1c2d082b69745d15e489d3068f35b3fcb6de
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: eec4592fd45b7ee7de730387f61b061cc65f257d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62604335"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63202820"
 ---
 # <a name="intune-exchange-on-premise-connector"></a>Intune Exchange lokalen Connector
 
@@ -36,7 +36,7 @@ F: Ist es möglich, mehrere Exchange Connectors zu verwenden?
 
 Antwort: Sie können nur einen Exchange Connector pro Intune-Mandant pro Exchange Organisation einrichten. Der Connector kann nur auf einem Server in einer Exchange-Organisation mit mehreren Servern installiert werden.
 
-Außerdem können Connectors nicht sowohl für Exchange lokal als auch für Exchange Online im selben Mandanten konfiguriert sein.
+Außerdem können Connectors nicht sowohl für Exchange lokalen als auch für Exchange Online im selben Mandanten konfiguriert sein.
 
 F: Kann der Connector ein CAS-Array als Verbindung mit Exchange verwenden?
 

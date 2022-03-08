@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009978"
 - "15341"
 ms.date: 02/17/2022
-ms.openlocfilehash: a17f2affe0b5ad931a4182e94ec6faba7fb79ad7
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: df5ccafaec8a78b33a9bb985773ceddf5d66a272
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893353"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63190472"
 ---
 # <a name="update-user-information"></a>Aktualisieren von Benutzerinformationen
 

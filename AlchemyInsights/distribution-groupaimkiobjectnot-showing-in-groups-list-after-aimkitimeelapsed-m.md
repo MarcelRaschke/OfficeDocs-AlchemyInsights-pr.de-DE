@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: 594b2366e44ced9926262f9618ee64dc4378043e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 54aae5c7a8596a0ca1909083b0a1d1e011f85fa8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62686399"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63193928"
 ---
 # <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Verteilergruppe "{AimKIObject}" wird nach {AimKITimeElapsed}-Minuten nicht in der Gruppenliste angezeigt
 

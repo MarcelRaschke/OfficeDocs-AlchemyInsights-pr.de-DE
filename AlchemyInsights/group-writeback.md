@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8305"
 - "9003234"
-ms.openlocfilehash: 264f054edb5be0a4dba54079f0ac11c8f5357e98
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d88ae874ff8d0a2139814fd451685e2715671882
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62605127"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63203216"
 ---
 # <a name="group-writeback"></a>Gruppenrückschreiben
 

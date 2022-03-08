@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "12470"
 - "9000192"
-ms.openlocfilehash: 37fbf5071d4ffd5c445977653d955e37715c0a52
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4a69f8f9a848514ebbe0e785c8a0ddd7d984b2a5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62617944"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63200084"
 ---
 # <a name="remove-users-from-sharepoint"></a>Benutzer aus SharePoint entfernen
 

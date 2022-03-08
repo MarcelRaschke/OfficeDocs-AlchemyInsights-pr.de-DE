@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009965"
 - "15860"
 ms.date: 02/17/2022
-ms.openlocfilehash: dee525cb99e9401f0c89bb9f23f35b788469de2c
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: 657dc85e2719ab8e818e2b4d1503509f9dc3ed90
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893269"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63199364"
 ---
 # <a name="bill-refund"></a>Rückerstattung von Rechnungen
 

@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1137"
 - "8000065"
-ms.openlocfilehash: ea63d4e2f7e2664db373fcf147d13fb873c74b19
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 42f123ff5a51ee717fe8d0bcc2a5defd27ccf85a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62681467"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63201092"
 ---
 # <a name="mantenga-el-correo-no-deseado-fuera-de-outlookcom"></a>Mantenga el correo no deseado fuera de Outlook.com
 

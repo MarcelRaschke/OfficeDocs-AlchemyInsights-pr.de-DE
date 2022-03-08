@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: c43d7eee6e52c2db3df7b5919005d6d49ee1a090
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c75a75507899c16b24ea21655720bdc1bd11ba99
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62554959"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63193820"
 ---
 # <a name="edit-a-read-only-file"></a>Bearbeiten einer schreibgeschützten Datei
 

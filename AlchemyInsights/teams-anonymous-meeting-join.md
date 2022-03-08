@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: e70fa569ced764e3e52a96c81901818910009c3b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 25d6072d41b574d66716fb1fcbe460a5abbc43f4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62676571"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63260981"
 ---
 # <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Zulassen oder Verhindern, dass anonyme Benutzer an Teams-Besprechungen teilnehmen
 
