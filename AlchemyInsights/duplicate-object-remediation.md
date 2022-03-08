@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: c4e458640fde37fb7450471eac2ccade5a04b575
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a14c7fe5dc030ec53bc4ca01c2e3836c5d051644
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62606063"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63185792"
 ---
 # <a name="duplicate-object-synchronization-errors"></a>Doppelte Objektsynchronisierungsfehler
 

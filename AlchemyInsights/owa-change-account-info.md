@@ -8,14 +8,14 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: dd621c1f3f31afd67bf24fc6aac79315ff62ac78
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 948cb68ba642eec54c3bd0fb085df22309808cf4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62549896"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63224025"
 ---
 # <a name="change-account-information-in-outlook-on-the-web"></a>Ändern von Kontoinformationen in Outlook im Web
 
@@ -26,4 +26,4 @@ ms.locfileid: "62549896"
 
 *Hinweis:* Einige Details, z. B. Ihr Name und Ihre Position, werden möglicherweise von Ihrer IT- oder Personalabteilung bereitgestellt. Wenn Sie diese Details aktualisieren möchten, wenden Sie sich an sie oder Ihren Administrator.
 
-Weitere Informationen finden Sie unter [Ändern Ihres Fotos und Ihrer Kontoinformationen in Outlook im Web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Weitere Informationen finden Sie unter [Ändern Ihrer Foto- und Kontoinformationen in Outlook im Web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

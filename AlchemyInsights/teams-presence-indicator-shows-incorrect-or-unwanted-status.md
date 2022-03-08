@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003301"
 - "6205"
-ms.openlocfilehash: eebf0054d444cd07705facfabfc75b84a91e1921
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 13fc030010063306275a5ca1f4e59b93fd5d71f8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62750555"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63260873"
 ---
 # <a name="teams-presence-indicator-shows-incorrect-or-unwanted-status"></a>Die Anwesenheitsanzeige für Teams zeigt einen falschen oder unerwünschten Status an
 

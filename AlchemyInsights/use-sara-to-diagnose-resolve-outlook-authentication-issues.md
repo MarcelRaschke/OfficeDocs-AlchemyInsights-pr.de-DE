@@ -1,23 +1,22 @@
 ---
 title: Verwenden von SaRA zur Diagnose und Behebung von Problemen mit der Outlook-Authentifizierung
-ms.author: cmcatee
 author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
-munlocking-an-account s.custom:
+ms.localizationpriority: high
+ms.custom:
 - "9002370"
 - "4605"
-ms.openlocfilehash: 92eaf3d849129b7743e932ac11cd2d8433d57d43
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1ea409260ad09581687df2d895738183ac91e366
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62645808"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63177297"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Verwenden von SaRA zur Diagnose und Behebung von Problemen mit der Outlook-Authentifizierung
 

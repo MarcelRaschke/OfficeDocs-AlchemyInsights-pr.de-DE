@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 46f65cb9210c35b0192700d764862cfb23e9a49b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6adca7c4590f371b5ad87e7a7ab70c5b67372eb1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62633586"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63181076"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>So führen Sie Inhaltssuchen und eDiscovery-Suchvorgänge durch
 
@@ -29,7 +29,7 @@ ms.locfileid: "62633586"
 2. Wählen Sie **"Suche > Inhaltssuche" aus**.
 3. Wählen Sie **"Neue Suche" aus** , um eine neue Suche zu erstellen.
 4. Geben Sie die erforderlichen Suchbedingungen ein, einschließlich Schlüsselwörtern und Inhaltsspeicherorten.
-5. Wählen Sie **speichern & ausführen** , um die Suche zu benennen, sie zu starten und dann eine Vorschau der Ergebnisse anzuzeigen.
+5. Wählen Sie **"Speichern" aus, & ausführen** , um die Suche zu benennen, sie zu starten und dann eine Vorschau der Ergebnisse anzuzeigen.
 
 **Hinweis**: Erweitern **Sie in Microsoft 365 Compliance** **CenterSolutions** >  **eDiscovery**, und wählen Sie Ihr gewünschtes eDiscovery-Tool aus.
 

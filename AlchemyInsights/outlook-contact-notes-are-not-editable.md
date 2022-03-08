@@ -8,15 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 9000185
 ms.assetid: ''
-ms.openlocfilehash: ff69d6a4e29796122bb083906bf446a43391ec51
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 672b4c5eb38076889919603dec109f72ff111724
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62635242"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63181718"
 ---
 # <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Das Notizenfeld für einen Kontakt kann in Outlook
 Dies ist ein bekanntes Problem. Wir arbeiten daran, dies zu beheben, und der Status wird unter ["Notizenfeld für einen Kontakt kann nicht bearbeitet werden können](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)" aktualisiert.

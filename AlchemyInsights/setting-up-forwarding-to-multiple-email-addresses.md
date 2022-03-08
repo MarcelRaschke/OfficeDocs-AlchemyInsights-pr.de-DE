@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "837"
 - "1200004"
 ms.assetid: 81205bed-e32a-468d-9d4c-9e881622908b
-ms.openlocfilehash: 024de6d141633e73630952f2c5d289b0d5214c2f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e9adcbcd38c40fcc14d1167a2607d9e815e0d03f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62707281"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63180572"
 ---
 # <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Einrichten der Weiterleitung an mehrere E-Mail-Adressen
 

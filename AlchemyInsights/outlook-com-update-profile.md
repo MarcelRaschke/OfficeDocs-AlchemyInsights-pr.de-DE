@@ -1,5 +1,5 @@
 ---
-title: 8000036 Profilbild/Name in Outlook.com ändern
+title: 8000036 Profilbild/-name in Outlook.com ändern
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,14 +8,14 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 8000036
-ms.openlocfilehash: 73e152fcda51200f37cac0e5ee41b12bd4bbb08f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 992f3ae8779cd5377da48cb48cee2414020cf976
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62550387"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63181833"
 ---
 # <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Ändern des Profilbilds oder -namens in Outlook.com
 

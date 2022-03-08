@@ -1,5 +1,5 @@
 ---
-title: SharePoint Häufig auftretende Probleme und Lösungen in Online
+title: SharePoint Allgemeine Probleme und Lösungen für Online
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 93c9525f47f59f2c2298f7a848a874f6cde04ae1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d6dc0a2676f6d25aebf30cade3ceb814c0cd79e2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62692664"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63180424"
 ---
-# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Häufig auftretende Probleme und Lösungen in Online
+# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Allgemeine Probleme und Lösungen für Online
 
 Hier sind einige häufig angeforderte Themen für SharePoint Onlineprobleme:
 
@@ -32,8 +32,8 @@ Hier sind einige häufig angeforderte Themen für SharePoint Onlineprobleme:
 
 - **Storage**: Erfahren Sie, wie Sie Ihre Benutzer OneDrive Speicher</a> verwalten, z. B. [die Verwaltung des Websitespeichers](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) für Ihr Abonnement und [das Verständnis aller Grenzwerte](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
 
-- **Umbenennen des Mandanten**: Weitere Informationen finden Sie unter [Ändern ihres SharePoint Domänennamens](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name).
+- **Mandanten-Umbenennen**: Weitere Informationen finden Sie unter [Ändern ihres SharePoint Domänennamens](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name).
 
-- **Modernisieren SharePoint**: Lesen Sie den [Leitfaden zur modernen Benutzeroberfläche in SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience), und [modernisieren Sie Ihre klassischen SharePoint Websites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites), um mit der Verschiebung zu beginnen.
+- **Modernisieren sie SharePoint**: Lesen Sie den [Leitfaden zur modernen Benutzeroberfläche in SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience), und [modernisieren Sie Ihre klassischen SharePoint Websites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites), um mit der Verschiebung zu beginnen.
 
 **Hinweis:** Eine ausführlichere Antwort zu einem SharePoint Problem erhalten Sie, indem Sie Ihre Frage kurz umformulieren und alle Fehler oder Features, die Sie verwenden, einschließen.

@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: aeff25dcabb8f037fe0e4fd43130d4d7861b124d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e2b0f217644a4c2432671863f05bf90bfd44b64f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62695112"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63182012"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com ist bereit für die Einführungszeit
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com ist bereit für die Primetime
 
 Wir sind uns bewusst, dass einige Kunden bei jeder Anmeldung das Popup "Outlook.com ist bereit für die Primetime" sehen, und wir arbeiten an einer Korrektur.
 

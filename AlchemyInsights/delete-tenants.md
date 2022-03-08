@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003256"
 - "7297"
-ms.openlocfilehash: 7cf2a4c8bf355c4adc38efbf3b520f86d6b8318c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b621622a1234764c35c526c7b0cc9adb557015e4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62686658"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63185900"
 ---
 # <a name="delete-tenant"></a>Mandant löschen
 

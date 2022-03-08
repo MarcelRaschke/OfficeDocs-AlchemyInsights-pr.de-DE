@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009993"
 - "15747"
 ms.date: 02/14/2022
-ms.openlocfilehash: 8bebbcd6b1792dff0f95011d7028de029ce6bea3
-ms.sourcegitcommit: d4fe5cc18116740ba4193dbd716e3123ee898394
+ms.openlocfilehash: 9247ade88227b51d2d139e0de5b5dc0a224c3def
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62815592"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63179707"
 ---
 # <a name="managing-outlook-calendar"></a>Verwalten Outlook Kalenders
 
@@ -28,7 +28,7 @@ Genauso wie Sie in einem Notizbuch schreiben, können Sie auf ein beliebiges Zei
 - [Erstellen oder Planen eines Termins](https://support.microsoft.com/office/create-or-schedule-an-appointment-be84396a-0903-4e25-b31c-1c99ce0dacf2)
 - [Erstellen eines ganztägigen Ereignisses](https://support.microsoft.com/office/create-an-all-day-event-52420de0-8f5a-41b2-a165-070588896c25)
 
-*Organisieren von Besprechungen.* Sie können eine Besprechungsanfrage an eine oder mehrere Personen senden. Outlook erfasst, wer die Anforderung akzeptiert, und reserviert Zeit in Ihrem Kalender für die Besprechung. Wenn Sie eine Besprechungsanfrage erstellen, können Sie Anlagen hinzufügen, einen Ort festlegen und die Terminplanungs-Assistent verwenden, um den besten Zeitpunkt für Ihre Besprechung auszuwählen.
+*Organisieren von Besprechungen.* Sie können eine Besprechungsanfrage an eine oder mehrere Personen senden. Outlook erfasst, wer die Anforderung annimmt, und reserviert Zeit in Ihrem Kalender für die Besprechung. Wenn Sie eine Besprechungsanfrage erstellen, können Sie Anlagen hinzufügen, einen Ort festlegen und die Terminplanungs-Assistent verwenden, um den besten Zeitpunkt für Ihre Besprechung auszuwählen.
 
 Klicken Sie für weitere Informationen und Schritte auf den folgenden Link:
 

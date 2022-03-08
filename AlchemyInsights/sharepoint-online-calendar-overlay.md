@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: a050a2b88cab2b394b5270bd30a4ab8053da661c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 31d63eebbf878b9d52499d3e922261ed7c0ddf19
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62707029"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63180068"
 ---
 # <a name="sharepoint-online-calendar-overlay"></a>Kalenderüberlagerung in SharePoint Online
 

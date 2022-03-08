@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4488"
-ms.openlocfilehash: bacec5dfbdbdaf630148a046a20cad0b2246a444
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7e99be5ad0eee2d0eabb1b47aa7a7a703b80a66a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62730376"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63224709"
 ---
 # <a name="office-activation-errors-on-mac"></a>Office-Aktivierungsfehler auf einem Mac
 

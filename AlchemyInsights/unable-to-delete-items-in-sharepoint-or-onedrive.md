@@ -7,18 +7,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1851"
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: 20c10cbc839702d8c8160081ce7d555124bc9e15
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8a0b0a4149e867c55651e28ab9a254bbb266e64b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62630490"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63178051"
 ---
 # <a name="unable-to-delete-items"></a>Elemente können nicht gelöscht werden
 

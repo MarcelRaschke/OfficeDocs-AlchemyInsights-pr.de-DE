@@ -8,15 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 934
 ms.assetid: 2e07bd5a-5aad-41a9-aaba-6b2bedaf92f9
-ms.openlocfilehash: fd485bfb12399cae6c1c19c5120c076e32d032a1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1d1caf159ac92fc048034d9ce95af73653beb0b6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62759267"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63185540"
 ---
 # <a name="pop-and-imap4-settings"></a>POP- und IMAP4-Einstellungen
 

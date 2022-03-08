@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7972"
-ms.openlocfilehash: 4dab30da66fd6ee5cb5536e094caabe2ed023aa4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c5230a2238fdb5eab5d03898d57d8f37e33c045d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62613945"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63176575"
 ---
 # <a name="view-reports-on-onedrive-activity-and-usage"></a>Anzeigen von Berichten über OneDrive Aktivität und Nutzung
 

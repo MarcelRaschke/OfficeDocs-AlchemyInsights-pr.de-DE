@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: d6174b4e9c72685572d39cc7aa1da43bf2ba9828
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 258e291c05e2c12b01a6db864c053595ba66ef41
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62675239"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63176179"
 ---
 # <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Beheben von Problemen beim Konvertieren eines Word-Dokuments in XPS oder PDF
 

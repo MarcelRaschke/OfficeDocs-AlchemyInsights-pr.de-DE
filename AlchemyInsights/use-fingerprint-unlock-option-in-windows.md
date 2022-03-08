@@ -7,25 +7,25 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: cf23773416bedfe82279b18972fdf709b6c749ba
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 75af465b8ab5c6e4276d816acf78e22dedf1b388
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62581545"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63177439"
 ---
 # <a name="use-fingerprint-unlock-option-in-windows-10"></a>Verwenden der Fingerabdruck-Entsperrungsoption in Windows 10
 
 **Aktivieren Windows Hello Fingerabdrucks**
 
-Um Windows 10 mit ihrem Fingerabdruck zu entsperren, müssen Sie Windows Hello Fingerabdruck einrichten, indem Sie mindestens einen Finger hinzufügen (damit Windows lernen können, sie zu erkennen). 
+Um Windows 10 mit ihrem Fingerabdruck zu entsperren, müssen Sie Windows Hello Fingerabdruck einrichten, indem Sie mindestens einen Finger hinzufügen (damit Windows lernen, sie zu erkennen). 
 
-1. Wechseln Sie zu **Einstellungen > Konten > Anmeldeoptionen** (oder klicken Sie [hier](ms-settings:signinoptions?activationSource=GetHelp)). Verfügbare Anmeldeoptionen werden aufgelistet. Zum Beispiel: 
+1. Wechseln Sie zu **Einstellungen > Konten > Anmeldeoptionen** (oder klicken Sie [hier](ms-settings:signinoptions?activationSource=GetHelp)). Verfügbare Anmeldeoptionen werden aufgelistet. Beispiel:
 
     ![Anmeldeoptionen.](media/sign-in-options.png)
 
@@ -37,7 +37,7 @@ Um Windows 10 mit ihrem Fingerabdruck zu entsperren, müssen Sie Windows Hello F
 
 **Windows Hello Fingerabdruck nicht als Anmeldeoption verfügbar**
 
-Wenn Windows Hello Fingerabdruck in **den Anmeldeoptionen** nicht als Option angezeigt wird, bedeutet dies, dass Windows keinen Fingerabdruckleser/Scanner erkennt, der an Ihren PC angefügt ist, oder dass eine Systemrichtlinie die Verwendung verhindert (z. B. wenn Ihr PC von Ihrem Arbeitsplatz verwaltet wird). So beheben Sie Probleme: 
+Wenn Windows Hello Fingerabdruck nicht als Option in **den Anmeldeoptionen** angezeigt wird, bedeutet dies, dass Windows keinen Fingerabdruckleser/Scanner erkennt, der an Ihren PC angefügt ist, oder dass eine Systemrichtlinie die Verwendung verhindert (z. B. wenn Ihr PC von Ihrem Arbeitsplatz verwaltet wird). So beheben Sie Probleme: 
 
 1. Wählen Sie die **Startschaltfläche** in der Taskleiste aus, und suchen Sie nach **dem Geräte-Manager**.
 
@@ -53,4 +53,4 @@ Wenn Windows Hello Fingerabdruck in **den Anmeldeoptionen** nicht als Option ang
 
 5. Wenn Ihr Fingerabdruckscanner nicht angezeigt wird und der Scanner in Ihren PC integriert ist, wechseln Sie zur Website des PC-Herstellers. Suchen Sie im Abschnitt "Technischer Support" für Ihr PC-Modell nach einem Windows 10 Treiber für einen Scanner, den Sie installieren können.
 
-6. If the scanner is separate from the PC (attached via USB), go to the scanner manufacturer's website to find and install Windows 10 device driver software for the scanner model you have.
+6. Wenn der Scanner vom PC getrennt ist (über USB angeschlossen), wechseln Sie zur Website des Scannerherstellers, um Windows 10 Gerätetreibersoftware für das Scannermodell zu suchen und zu installieren.

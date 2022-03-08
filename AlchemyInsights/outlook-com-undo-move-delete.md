@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1752"
 - "9000193"
-ms.openlocfilehash: 71e2f35af4d0f2cd3e5fb94c01ec0ad794795b2e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 05a7ec62af3cf98c056a1b297b78e99f866261f7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62550423"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63181940"
 ---
 # <a name="action-confirmations"></a>Aktionsbestätigungen
 

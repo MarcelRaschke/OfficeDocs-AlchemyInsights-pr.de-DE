@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 46826cfdaa8ef817cd516a1b680b09b19e4d712f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8ee54879316131fa9624730ee5e1e9856035edf6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62554923"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63185648"
 ---
 # <a name="e-mail-invoice---legacy"></a>E-Mail-Rechnung – Legacy
 

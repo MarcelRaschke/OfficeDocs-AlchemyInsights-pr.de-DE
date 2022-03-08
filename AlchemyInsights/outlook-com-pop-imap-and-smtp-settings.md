@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "780"
 - "1415"
 - "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 3ec2ea4e02350bfec75048337c3ea25b68fb4678
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 08f6087d3efce72c4914e430ad56ba12534e9495
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62601058"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63182228"
 ---
 # <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>POP-, IMAP- und SMTP-Einstellungen für Outlook.com
 

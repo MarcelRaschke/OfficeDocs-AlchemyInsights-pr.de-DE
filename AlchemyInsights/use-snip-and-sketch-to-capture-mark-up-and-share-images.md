@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: daf3796595df9bee7f4e75b20ba4dd9c6eb5c0d6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e240b2b15f02c97ab4edd145efeb27143dfe67a6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62614452"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63177367"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Verwenden von Snip & Sketch zum Erfassen, Markieren und Freigeben von Bildern
 
-Die Bildschirmskizze heißt jetzt **"Snip & Sketch**". **So nehmen Sie schnell eine Schnips:**
+Bildschirmskizze heißt jetzt **"Snip & Sketch**". **So nehmen Sie schnell eine Schnips:**
 
 1. Drücken Sie die **Windows Logotaste + UMSCHALT+S**. Der Bildschirm wird abgedunkter und der Cursor als Kreuz angezeigt. 
 
@@ -35,6 +35,6 @@ Das Bild, das Sie abgeschnitten haben, wird in der Zwischenablage gespeichert un
 
 **Wenn Sie das Bild bearbeiten oder anzeigen möchten**: 
 
-- Klicken Sie auf das Symbol "Benachrichtigungen" ganz rechts auf der Taskleiste. klicken Sie dann auf das soeben aufgenommene Bild. Ihre Schnips wird in der Snip & Sketch-App geöffnet.
+- Klicken Sie auf das Symbol "Benachrichtigungen" ganz rechts auf der Taskleiste. klicken Sie dann auf das soeben aufgenommene Bild. Die Schnips wird in der App "Snip & Sketch" geöffnet.
 
    ![Bild des Bilds, das in der Abhör-App angezeigt wird](media/sniptwo.png)

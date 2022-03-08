@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002579"
 - "4995"
-ms.openlocfilehash: 5cd312366b1eac785f7c5118db7e728f8b5835e5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6368ce082df74219b27ba7d27822a62cff9fea39
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62613623"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63176287"
 ---
 # <a name="why-dont-i-get-new-message-notifications"></a>Warum erhalte ich keine Benachrichtigungen über neue Nachrichten?
 

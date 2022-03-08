@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003894"
 - "6948"
-ms.openlocfilehash: 8efa518ae00aa3338a007f55585e7c2ddde972db
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f2fd32cc9d389c3109dd2907cbc3ed9ab15cf1e7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62660082"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63176431"
 ---
 # <a name="whats-new-in-windows-10-version-1703"></a>Neuigkeiten in Windows 10, Version 1703
 

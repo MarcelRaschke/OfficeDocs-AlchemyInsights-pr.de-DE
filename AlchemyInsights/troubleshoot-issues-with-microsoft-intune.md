@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 0e7935a32e5ae5f5585270072b0ea7c0937f3411
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b688942bdc81b78070524ca2873c67363d85b1cb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62750195"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63178555"
 ---
 # <a name="troubleshoot-issues-with-microsoft-intune"></a>Behandeln von Problemen mit Microsoft Intune
 

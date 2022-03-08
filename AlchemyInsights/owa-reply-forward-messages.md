@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "8000033"
-ms.openlocfilehash: 42060d3804f66f672b7aa7e5e05eb076dd0a84a8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 294f0ccc7664cf1bf4d65b26df7a96da07af0daa
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62634594"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63181364"
 ---
 # <a name="how-to-reply-to-or-forward-messages-in-outlook-on-the-web"></a>Antworten auf oder Weiterleiten von Nachrichten in Outlook im Web
 

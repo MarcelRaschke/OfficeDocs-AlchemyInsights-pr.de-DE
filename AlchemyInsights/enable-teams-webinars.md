@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11513"
 - "9006672"
-ms.openlocfilehash: 957ba4df3b7dbc54cdc0e7aab5397c4686754ab0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cafedbfab6e229481dee4881d09b961a75d6700a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62592058"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63185468"
 ---
 # <a name="enable-teams-webinars"></a>Aktivieren von Teams-Webinaren
 

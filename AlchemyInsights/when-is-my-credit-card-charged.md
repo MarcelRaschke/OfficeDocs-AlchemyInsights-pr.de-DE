@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
@@ -16,12 +16,12 @@ ms.custom:
 - "1500018"
 ms.date: 04/21/2020
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 981d17a05043265ee4c5b43fe807a3efa2061edd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6c44affe71fa67bb54699323fda1e325ce619ac8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62675455"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63176395"
 ---
 # <a name="when-is-my-credit-card-charged"></a>Wann wird meine Kreditkarte belastet?
 

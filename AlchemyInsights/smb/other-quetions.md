@@ -8,17 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ms.collection: Adm_O365
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9006438"
 - "10939"
 ms.date: 02/11/2022
-ms.openlocfilehash: 59a0a74cfaba75a71332f3acf1f0e57b5f1b1fe8
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: 612ab45298ebfa7f74f9a80d9321fb1070f86685
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790296"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63179744"
 ---
 # <a name="other-questions"></a>sonstige Fragen
 

@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: e2e0440c0a59677acd0b12fd435dbceca4b57ad6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7c10dd15beb1e8c1f1bdbef51f56decb0ccb9770
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62544620"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63177548"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Aktualisieren Ihrer Domänennamenserver, sodass sie auf Microsoft verweisen
 

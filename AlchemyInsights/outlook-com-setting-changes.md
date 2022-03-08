@@ -1,5 +1,5 @@
 ---
-title: Einstellungen für Outlook.com
+title: einstellungen für Outlook.com
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -9,13 +9,13 @@ ms.topic: article
 ms.service: o365-administration
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: c07d6be16d52c37a7bacefc0c5a60601be96a3ec
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.localizationpriority: medium
+ms.openlocfilehash: 620d62e1ec36fff291980328ea7ef8abafe536f4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62550567"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63224277"
 ---
 # <a name="settings-in-outlookcom"></a>Einstellungen in Outlook.com
 

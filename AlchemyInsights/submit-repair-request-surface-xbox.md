@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9753"
 - "9005678"
-ms.openlocfilehash: 30efd9d2b369b86a9f87fc782503b0d904201d9d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 832a614b08da038ce81a690e36c13c0c57f715d9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62631858"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63179455"
 ---
 # <a name="submit-a-repair-request-for-a-surface-or-xbox-device"></a>Senden einer Reparaturanforderung für ein Surface- oder Xbox-Gerät
 

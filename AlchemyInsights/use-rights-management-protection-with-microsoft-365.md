@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: a3a41caa5f4ddf7b90d45e08a0b1353bbb434249
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8cc15202e6af486b7feacf85f2bc11df5857cd8f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62676044"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63177403"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Verwenden von Rights Management Protection mit Microsoft 365
 

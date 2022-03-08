@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5803"
-ms.openlocfilehash: d1a5dab897fa161cf080f3a12ae882e5a82cc0a5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c2fa226f617f3cc3eb5bbdc7b0cbfcaf2da487ae
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62751720"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63180026"
 ---
 # <a name="sharepoint-online-sharing-and-permissions"></a>SharePoint Onlinefreigabe und Berechtigungen
 

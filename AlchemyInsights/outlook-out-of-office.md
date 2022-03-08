@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "3514"
 - "9000761"
-ms.openlocfilehash: d431ceb2462f1787b0b2718293159ef6c5b74b7e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9a23d2f271ef4a05568c977e4c4a648df0263e95
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62618736"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63224133"
 ---
 # <a name="set-up-out-of-office-automatic-replies"></a>Einrichten automatischer Abwesenheitsantworten
 

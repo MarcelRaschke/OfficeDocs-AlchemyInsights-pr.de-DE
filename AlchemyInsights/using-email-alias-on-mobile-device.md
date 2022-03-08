@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: fda44d547ebb1a1658c8c4bced5fdb988d9fd71d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e6fd8c960f4872ebbe93c2a1d60de6d622d060a6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62645700"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63176971"
 ---
 # <a name="email-aliases-on-mobile-devices"></a>E-Mail-Aliase auf mobilen Geräten
 

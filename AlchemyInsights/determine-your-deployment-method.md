@@ -8,19 +8,19 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9142"
 - "11090"
 - "9005291"
 - "9006490"
-ms.openlocfilehash: e16473f3ab26060d37ef6500678f7cd879937627
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5e4cbfaea9b492f1c46ca0ad6f5df451aade9146
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62555751"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63185828"
 ---
 # <a name="determine-your-deployment-method"></a>Auswählen der Bereitstellungsmethode
 

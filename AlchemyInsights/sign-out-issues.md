@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7793"
 - "9004355"
-ms.openlocfilehash: 0136f08ece6a39c60458cc3497f4c2276a9f48b3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f34aa94377a84460933bc59d78be1d350448abf8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62663466"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63179852"
 ---
 # <a name="sign-out-issues"></a>Abmeldeprobleme
 

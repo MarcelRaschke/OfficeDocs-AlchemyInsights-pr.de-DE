@@ -1,5 +1,5 @@
 ---
-title: Problembehandlung bei der Registrierung von Windows Geräten in Microsoft Intune
+title: Behandeln von Problemen bei der Registrierung von Windows Geräten in Microsoft Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: af8aea73e01168c6288b01ee9891002e581092d6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8864800977c465e6234154e6f3610424870a5047
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62646060"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63178663"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Problembehandlung bei der Registrierung von Windows Geräten in Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Behandeln von Problemen bei der Registrierung von Windows Geräten in Microsoft Intune
 
 Überprüfen Sie die unten aufgeführten Ressourcen, um Ihr Problem jetzt zu beheben.
   

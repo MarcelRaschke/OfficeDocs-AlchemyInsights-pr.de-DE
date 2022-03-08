@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_licensing
 - "463"
 - "1500021"
 ms.date: 08/05/2021
-ms.openlocfilehash: 09ca1a39e2c041dadc849239d5429538906c969b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f27747e6b09b5d38184f909baf2e583ad36f6542
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62660334"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63176533"
 ---
 # <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Volumenlizenzvertrag für Unternehmen, aktiviert für das falsche Konto oder Übertragen von Lizenzen von einem Konto auf ein anderes
 

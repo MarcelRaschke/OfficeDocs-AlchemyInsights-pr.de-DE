@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: bcaf8b72e0355f92be9b10aa0171f68ecf4f738b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3e61d205b8d9e8898751d30756ed31a133d0cdaa
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62546047"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63178591"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Behandeln von Problemen mit Registrierungsoptionen Microsoft Intune
 

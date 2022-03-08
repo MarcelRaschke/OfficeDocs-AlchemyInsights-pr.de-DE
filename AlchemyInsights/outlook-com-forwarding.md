@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1824"
 - "9000239"
-ms.openlocfilehash: 23c5b98ce9313700a8cf044cfc9782cf1760ae2f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c136c19ac81064a0b7fc200858f68f1fc86d212d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62635602"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63224565"
 ---
 # <a name="forwarding-email-in-outlookcom"></a>Weiterleiten von E-Mails in Outlook.com
 
@@ -33,4 +33,4 @@ So leiten Sie alle Nachrichten automatisch weiter:
 1. Öffnen Sie Ihre [Weiterleitungseinstellungen](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).
 2. Wählen Sie **"Weiterleitung aktivieren"**, geben Sie die E-Mail-Adresse für die Weiterleitung ein, und wählen Sie " **Speichern**" aus.
 
-Erfahren Sie mehr über [die automatische Weiterleitung in Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen zur [automatischen Weiterleitung finden Sie unter Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy).

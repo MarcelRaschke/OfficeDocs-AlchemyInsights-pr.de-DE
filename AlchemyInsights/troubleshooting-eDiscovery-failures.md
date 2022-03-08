@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1490"
 - "3200003"
-ms.openlocfilehash: c6be047cdf8127b0f820326dd03a4cda2e766d54
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 886121a570a2c59f8fdd47345c35b37514833a02
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62583093"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63178375"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Problembehandlung bei Fehlern bei der Inhaltssuche
 
@@ -28,7 +28,7 @@ Erhalten Sie beispielsweise Folgendes, wenn Sie Suchvorgänge ausführen?
 - CS007-, CS008- oder CS012-Fehler
 - Serverauslastungs-/Timeoutfehler
 - Anwendungsfehler aufgetreten
-- Die Position *username@domain.com* mehrdeutig ist
+- Die Position *username@domain.com* ist nicht eindeutig.
 
 Oder erhalten Sie Exportfehler, wenn Sie Ergebnisse aus einer großen Anzahl von Postfächern (über 100.000) suchen oder exportieren?
 

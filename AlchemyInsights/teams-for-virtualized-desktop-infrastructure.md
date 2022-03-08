@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: a5a48ec9dae0433def3dacb817cee8547bac5036
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d12f1bb1d65455d87dcb17bb9861918aef4cc14a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62676607"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63179023"
 ---
 # <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams für virtualisierte Desktopinfrastruktur
 

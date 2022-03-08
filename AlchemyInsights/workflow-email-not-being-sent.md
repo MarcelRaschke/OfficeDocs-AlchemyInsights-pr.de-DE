@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: de6b326b762d3dd0afbb53ef787639620556cd06
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7dfc8bd75e9d38b2f24331dce8c41877bd66ae48
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62675131"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63176107"
 ---
 # <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Workflow-E-Mails werden nicht für eine SharePoint Liste oder Bibliothek gesendet
 
@@ -29,7 +29,7 @@ ms.locfileid: "62675131"
     - Wenn der Benutzer nicht vorhanden ist, stellen Sie sicher, dass der Benutzer bei der Seite angemeldet ist. 
     - Wenn es sich um einen externen Benutzer handelt, stellen Sie sicher, dass die Einladung angenommen wurde.
     - Wenn der Benutzer in der Berechtigungsgruppe vorhanden ist, stellen Sie sicher, dass die E-Mail-Adresse korrekt ist.
-    - Wenn die E-Mail-Adresse des Benutzers hier nicht festgelegt ist, erstellen Sie eine Beispielwarnung für diesen Benutzer, die die Synchronisierung dieses Benutzerkontos von Benutzerprofilen von SharePoint zu dieser Websitesammlung erzwingt.
+    - Wenn die E-Mail-Adresse des Benutzers hier nicht festgelegt ist, erstellen Sie eine Beispielbenachrichtigung für diesen Benutzer, die die Synchronisierung dieses Benutzerkontos von Benutzerprofilen von SharePoint zu dieser Websitesammlung erzwingt.
  
 2. E-Mails von Workflows werden an die Websitesammlungsadministratoren, aber nicht an andere Benutzer gesendet, und die Fehlermeldung **HTTP Forbidden to <span>https:</span>://URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail** wird angezeigt.
  

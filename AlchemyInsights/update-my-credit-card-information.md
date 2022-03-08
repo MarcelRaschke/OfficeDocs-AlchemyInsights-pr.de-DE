@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: 9e37cb20a7ab2b24ec1ca7ae889450222fb4cf15
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e8f08e3ecf740c0bbb26393c8002653ca74d1da7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62630418"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63177640"
 ---
 # <a name="update-my-credit-card-information"></a>Aktualisieren von Kreditkarteninformationen
 

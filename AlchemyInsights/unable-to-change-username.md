@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1729"
 - "9000183"
-ms.openlocfilehash: adb123b77d11c7dc9673eb12b8c8f8d447f5539b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 421c95dc881f0d064b32c9ffe1eb1631c4bffcdf
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62614632"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63178123"
 ---
 # <a name="unable-to-change-username"></a>Benutzername (UserName) kann nicht geändert werden
 

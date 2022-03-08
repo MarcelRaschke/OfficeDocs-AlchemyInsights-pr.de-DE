@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "39"
 - "41"
 - "100001"
-ms.openlocfilehash: 24c50f62588225046a36462e9be6efe4e7aa9c9a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fcae267f33a657013bfd0b77d09b6a0f43aad1f7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62725821"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63177763"
 ---
 # <a name="update-dns-records"></a>Aktualisieren von DNS-Einträgen
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: abd70a0257031d1d503b91ce2a7b51df28932f91
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1cb72cb430763e8121affeba39c9054d302aaa49
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62549883"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63223976"
 ---
 # <a name="change-your-email-address"></a>Ändern Ihrer E-Mail-Adresse 
 

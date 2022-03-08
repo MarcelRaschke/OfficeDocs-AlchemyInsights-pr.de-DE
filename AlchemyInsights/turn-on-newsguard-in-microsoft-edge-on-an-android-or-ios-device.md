@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004028"
 - "7098"
 - "8308"
 - "9004621"
-ms.openlocfilehash: 48042058b1a5715e935ccf1aac53d275845b5566
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 998067977231d06b224732e6afc164c44c7dfdf4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62614668"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63178195"
 ---
 # <a name="turn-on-newsguard-in-microsoft-edge-on-an-android-or-ios-device"></a>Aktivieren von NewsGuard in Microsoft Edge auf einem Android- oder iOS-Gerät
 

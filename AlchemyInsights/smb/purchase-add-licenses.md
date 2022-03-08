@@ -1,5 +1,5 @@
 ---
-title: Erwerben zusätzlicher Lizenzen
+title: Zusätzliche Lizenzen erwerben
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009962"
 - "15337"
 ms.date: 02/17/2022
-ms.openlocfilehash: aec169f81ea088214529b6bba623baa0cd591070
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: a3c888cd5ac2ac0880c86be9224ad61b2e44ccf4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893276"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63179671"
 ---
-# <a name="purchase-additional-license"></a>Erwerben zusätzlicher Lizenzen
+# <a name="purchase-additional-licenses"></a>Zusätzliche Lizenzen erwerben
 
 Um Lizenzen für Ihren Mandanten zu erwerben, müssen Sie globaler Administrator sein, um die folgenden Schritte ausführen zu können:
 

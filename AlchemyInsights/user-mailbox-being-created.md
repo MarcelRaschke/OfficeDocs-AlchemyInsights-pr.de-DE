@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 6ad981b2-cb62-4495-b852-88df10299fe3
-ms.openlocfilehash: e3b5e92928398a1fdfb48946045cc015bde62e47
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: df415507795034a4adad32c0a709d7ecff4cac92
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62569060"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63177007"
 ---
 # <a name="your-users-mailbox-is-being-created"></a>Das Postfach Ihres Benutzers wird erstellt.
 

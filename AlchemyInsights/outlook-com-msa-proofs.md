@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1006"
 - "1008"
@@ -16,12 +16,12 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 7b7666740dc07c8c3e570f122848b3f4cfa23e40
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6a24284ee8909eb6b1f89557ba504dfe0578bed3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62587811"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63224457"
 ---
 # <a name="security-info-and-security-codes"></a>Sicherheitsinformationen und Sicherheitscodes
 

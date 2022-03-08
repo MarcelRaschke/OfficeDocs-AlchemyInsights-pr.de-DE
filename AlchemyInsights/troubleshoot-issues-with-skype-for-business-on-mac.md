@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "5984"
 - "9003195"
-ms.openlocfilehash: 3b78bcd577d4002d6ee228f1d3e2373672dfb230
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 76476a798a1a92508f720e28a3538dea320c74d7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62545651"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63178519"
 ---
 # <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Behandeln von Problemen mit Skype for Business auf dem Mac
 

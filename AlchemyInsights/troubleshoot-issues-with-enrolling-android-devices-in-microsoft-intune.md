@@ -1,5 +1,5 @@
 ---
-title: Behandeln von Problemen bei der Registrierung von Android-Geräten in Microsoft Intune
+title: Problembehandlung bei der Registrierung von Android-Geräten in Microsoft Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,25 +8,25 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 3e36e0f96ca61af7b3a2244a717d30c472128a76
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4490fb34b5353b63fa441d7bc0963744a73e9bd2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62546119"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63178735"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Behandeln von Problemen bei der Registrierung von Android-Geräten in Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Problembehandlung bei der Registrierung von Android-Geräten in Microsoft Intune
 
 Überprüfen Sie die unten aufgeführten Ressourcen, um Ihr Problem jetzt zu beheben.
   
 Einige häufige Probleme und Lösungsschritte:
   
- **Fehler "Gerät nicht verschlüsselt" in Unternehmensportal:** Neuere Android-Versionen, insbesondere ab Version 7.0, erfordern eine Startkennung, um sicherzustellen, dass Ihr Gerät vollständig verschlüsselt ist. Gängige Lösungen sind das Aktivieren eines Start-Pins oder das vollständige Verschlüsseln des Geräts. Lesen Sie [dieses Dokument](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) , um weitere Informationen zu erfahren.
+ **Fehler "Gerät nicht verschlüsselt" in Unternehmensportal:** Neuere Versionen von Android, insbesondere ab Version 7.0, erfordern eine Startkennung, um sicherzustellen, dass Ihr Gerät vollständig verschlüsselt ist. Gängige Lösungen sind das Aktivieren eines Start-Pins oder das vollständige Verschlüsseln des Geräts. Lesen Sie [dieses Dokument](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) , um weitere Informationen zu erfahren.
   
  **Geräte können beim Intune-Dienst nicht einchecken oder in der Intune-Verwaltungskonsole als "Fehlerhaft" angezeigt werden:** Einige Samsung 4.4- und 5.5-Geräte werden möglicherweise nicht in den Dienst eingecheckt. Es gibt drei mögliche Lösungen für dieses Problem:
   

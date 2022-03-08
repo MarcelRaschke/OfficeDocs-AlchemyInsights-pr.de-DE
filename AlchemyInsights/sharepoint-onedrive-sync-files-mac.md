@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
-ms.openlocfilehash: 50cafc39e2b27712e105c85bca42d5fa0dca7aee
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7c56d2c3c52559c3c0bc1bf2e51d41481cf55761
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62678551"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63180140"
 ---
 # <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>Installieren, Einrichten und Synchronisieren OneDrive oder SharePoint Dateien auf dem Mac 
 

@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 26c9f20cedc3d80414d56f437f1e4cd15c0bb5d3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0dc97bff9ec7ccf932ec316c2b5dc4ecc8c8b814
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62619024"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63224205"
 ---
 # <a name="how-to-sign-out-of-outlookcom"></a>Abmelden von Outlook.com
 

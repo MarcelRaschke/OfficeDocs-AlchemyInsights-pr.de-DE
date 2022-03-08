@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 8000049
-ms.openlocfilehash: cf53439afd7e5a4cb20e660d2e58ea461bae4be4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e5989aba3cae06268b3b3432fe2db3df6684e2c5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62694752"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63224169"
 ---
 # <a name="skype-icon-missing"></a>Skype-Symbol fehlt
 
-Wir haben das Skype-Symbol vorübergehend aus Outlook.com im Rahmen einer Designaktualisierung und eines Funktionsupdates entfernt, auf das wir uns freuen. Wir freuen uns über Ihre Geduld, während wir eine neue und verbesserte Erfahrung für Sie vorbereiten.
+Wir haben das symbol Skype vorübergehend aus Outlook.com entfernt, als Teil einer Designaktualisierung und eines Funktionsupdates, für die wir uns freuen, das Rollout durchzuführen. Wir freuen uns über Ihre Geduld, während wir eine neue und verbesserte Erfahrung für Sie vorbereiten.
 
 Sie können weiterhin Skype über Ihren Browser bei [web.skype.com](https://web.skype.com) verwenden.
