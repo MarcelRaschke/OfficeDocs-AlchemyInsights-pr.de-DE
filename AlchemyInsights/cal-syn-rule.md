@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3416"
 - "9001435"
-ms.openlocfilehash: 07bca3422c0d810448c94edd94161c4a70eae929
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9eb77ee0835ddbd38c0711c8ce09736dc82010c1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62610239"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63279269"
 ---
 # <a name="problems-syncing-calendar-and-contacts-on-phone-or-tablet"></a>Probleme beim Synchronisieren von Kalender und Kontakten auf Telefonen oder Tablets
 

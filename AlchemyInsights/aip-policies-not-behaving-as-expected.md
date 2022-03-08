@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 11c39e21c3f2b52279c3f82ad3ab9b96bae530c3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d908149ed533f992cee852fddca42d579881fc49
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62659470"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63279593"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: Richtlinien zeigen nicht das erwartete Verhalten
 

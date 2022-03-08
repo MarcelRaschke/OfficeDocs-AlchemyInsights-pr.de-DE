@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5804"
-ms.openlocfilehash: 86f2c1e9e1ceadb18c24b34037ae1815df5d1713
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7d05a55553ca758889ea018f022c153ea3aefed9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62567883"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63279917"
 ---
 # <a name="working-with-files-in-sharepoint-online"></a>Arbeiten mit Dateien in SharePoint Online
 

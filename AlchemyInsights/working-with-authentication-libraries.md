@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9775"
 - "9004342"
-ms.openlocfilehash: 9427a9e940c315ab7fbcada662494115ecf474d5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f2f401622253e6b2c3da14bf88deeecdc1353d6b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62739831"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63279953"
 ---
 # <a name="working-with-authentication-libraries"></a>Arbeiten mit Authentifizierungsbibliotheken
 

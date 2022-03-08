@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: b30d0ffc44c2ee37d61c731eb044c7520e4948db
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a823178a94f317ecdfda592806b4d0098c73ef87
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62566119"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63279881"
 ---
 # <a name="a1-license-for-office-365"></a>A1-Lizenz für Office 365
 

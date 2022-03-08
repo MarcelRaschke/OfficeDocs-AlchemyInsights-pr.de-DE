@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 9d43ca0a68b2006ef123e261b7bc5730b9774f93
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: db70bbb0844f12e6c9e6c03bebf4dca9dafc8536
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62595046"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63279557"
 ---
 # <a name="allow-users-to-send-email-as-a-distribution-group"></a>Zulassen, dass Benutzer E-Mails als Verteilergruppe senden
 

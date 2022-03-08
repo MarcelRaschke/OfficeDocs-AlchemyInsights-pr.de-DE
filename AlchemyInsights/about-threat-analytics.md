@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 52d5485763263fcc51213d49d98b4fe3bbd04b47
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a888df803e76d6c20346d014d881104f83aa21d4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62565867"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63279845"
 ---
 # <a name="about-threat-analytics"></a>Informationen zur Bedrohungsanalyse
 

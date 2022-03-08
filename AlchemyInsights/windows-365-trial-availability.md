@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "12621"
 - "9002620"
-ms.openlocfilehash: 706f2c53bd01f5ad9455edac02e4fab26046e675
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f56b2c6785f4eeac3b3c63d8cace75ce4aa25016
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62567955"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63280277"
 ---
 # <a name="windows-365-trial-availability"></a>Verfügbarkeit der Windows 365-Testversion
 

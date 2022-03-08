@@ -7,21 +7,21 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9005502"
 - "9434"
-ms.openlocfilehash: e98065e7ada440ebdc63a9398da0cd13dabe0aef
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5cf8fafd47d596417f6f502798cce0834576121a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62565903"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63279773"
 ---
 # <a name="about-universal-print"></a>Informationen zum universellen Drucken
 
-Universal Print ist in kommerziellen und Bildungs- Microsoft 365- und Windows 10-Abonnements enthalten, kann aber auch als eigenständiges Abonnement erworben werden.
+Universelles Drucken ist in kommerziellen und Bildungs-Microsoft 365- und Windows 10-Abonnements enthalten, kann aber auch als eigenständiges Abonnement erworben werden.
 
 Weitere Informationen finden Sie unter ["Lizenz für universelles Drucken" | Microsoft Docs](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license).
 
