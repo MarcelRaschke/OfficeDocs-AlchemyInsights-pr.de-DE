@@ -7,23 +7,23 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000738"
 - "8431"
-ms.openlocfilehash: 70a8e1439181333a5b2b12075dffd0f78c11819f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bc42e044e7e4a1f5d00bbe4c5688c1962f8c6b24
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62647068"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63262025"
 ---
 # <a name="some-users-may-experience-delays-with-chat-messages"></a>Bei einigen Benutzern kann es zu Verzögerungen bei Chatnachrichten kommen.
 
 Bei einigen Microsoft Teams Benutzern können fehlende Nachrichten oder Verzögerungen beim Senden und Empfangen von Chatnachrichten auftreten.
 
-Überprüfen Sie im Microsoft Admin Center > [**Dienststatus**](https://admin.microsoft.com/servicehealth), ob kein aktives Problem für Microsoft Teams vorliegt.
+Vergewissern Sie sich im Microsoft Admin Center > [**Dienststatus**](https://admin.microsoft.com/servicehealth), dass kein aktives Problem für Microsoft Teams vorliegt.
 
 Überprüfen Sie, ob das Problem für [Teams im Web](https://teams.microsoft.com/) weiterhin besteht. Wenn das Problem nur für die Teams Desktopversion auftritt:
 
@@ -31,7 +31,7 @@ Bei einigen Microsoft Teams Benutzern können fehlende Nachrichten oder Verzöge
 
 1. Löschen Sie den Cache. Auf einem Windows Desktop:
 
-    1. Halten Sie auf der Tastatur die Windows-Taste gedrückt, und drücken Sie **R**.
+    1. Halten Sie die Windows Taste auf der Tastatur gedrückt, und drücken Sie **R**.
 
     1. %**appdata%\Microsoft\Teams** ausschneiden und einfügen > **OK** auswählen.
     1. Löschen Sie den Inhalt dieser Ordner: BLOB-Speichercachedatenbanken GPUCache IndexedDB Local Storage tmp

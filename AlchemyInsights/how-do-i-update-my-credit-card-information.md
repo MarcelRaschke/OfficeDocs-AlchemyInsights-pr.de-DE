@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
@@ -16,12 +16,12 @@ ms.custom:
 - "1500001"
 ms.date: 04/21/2020
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 625f4f4ebc1cc3199d4209bc6a3ce8dd7f915829
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7f73a1731cb564c7e961732cdd2666a20f13f12a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62685428"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63192740"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Wie aktualisiere ich meine Kreditkarteninformationen?
 

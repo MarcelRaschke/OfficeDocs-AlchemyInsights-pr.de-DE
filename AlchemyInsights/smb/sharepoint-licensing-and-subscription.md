@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010137"
 - "15626"
 ms.date: 02/11/2022
-ms.openlocfilehash: 136ac308a351be607fd55c2e8d169d52dbb24627
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: 073d0a9f6ecc21d033a92b5a18583a66a49216c5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790172"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63262241"
 ---
 # <a name="sharepoint-licensing-and-subscription"></a>SharePoint-Lizenzierung und -Abonnement
 
@@ -28,7 +28,7 @@ Sie können mithilfe der die Website für die SharePoint-Zentraladministration L
 1. Klicken Sie in der Zentraladministration auf **Apps**.
 2. Klicken Sie auf der Seite **Apps** im Abschnitt SharePoint und Office Store auf **App-Lizenzen verwalten**.
 3. Klicken Sie auf der Seite **App-Lizenzen verwalten** auf eine App für SharePoint in der Liste, um die Lizenzdetails anzuzeigen.
-4. Klicken Sie im oberen Abschnitt im Dialogfeld auf den Dropdownpfeil, um Kaufdetails für die ausgewählte App für SharePoint anzuzeigen. 
+4. Klicken Sie im oberen Abschnitt auf den Dropdownpfeil im Dialogfeld, um Kaufdetails für die ausgewählte App für SharePoint anzuzeigen. 
 5. Zu den App-Details gehören die folgenden Informationen:
 
    - Anzahl der für Benutzer verfügbaren Lizenzen

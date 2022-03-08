@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "921"
 - "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: edbd642946166f2dce54d234b9e0474d4c4ed5f8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: df9b24650f6ffe07054dd64e65d29706e3a6b3a1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62709513"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63192704"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>So greifen Sie auf Reisen auf Outlook.com zu
 

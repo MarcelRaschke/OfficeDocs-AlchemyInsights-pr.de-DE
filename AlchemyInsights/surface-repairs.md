@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "11648"
 - "9003951"
-ms.openlocfilehash: 2774f75c51a8f75ee2c42ef123b07ca5e2f5e8af
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bfc98aa9e26c0e663b54839be863cce6f8004eea
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62662890"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63261305"
 ---
 # <a name="surface-repairs"></a>Oberflächenreparaturen
 

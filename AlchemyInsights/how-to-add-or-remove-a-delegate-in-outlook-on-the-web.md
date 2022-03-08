@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: 884652717b6332543796724742acf1c9e602d9c9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 390bb6cc7151e5070e0a9e1cdb9810925eb308ec
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62700764"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63192668"
 ---
 # <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Hinzufügen oder Entfernen eines Delegaten in Outlook im Web (OWA)
 

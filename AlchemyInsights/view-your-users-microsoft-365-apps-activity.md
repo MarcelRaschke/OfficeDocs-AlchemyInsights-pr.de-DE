@@ -7,7 +7,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002427"
@@ -18,12 +18,12 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: a096a641315f992f060cbda3d716cc3dba7b3035
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f797e6f3657effa13e37340ae644b0edde36cef8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62645448"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63196268"
 ---
 # <a name="view-your-users-microsoft-365-apps-activity"></a>Microsoft 365 App-Aktivitäten Ihrer Benutzer anzeigen
 

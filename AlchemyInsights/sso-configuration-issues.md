@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7760"
 - "9004346"
-ms.openlocfilehash: e923a6831e1cdbaf63ba71f2d5b68dc3a7ff6a11
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1f08cf7c137abb17e2e9e44e929eb89e04a426f8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62742949"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63261989"
 ---
 # <a name="sso-configuration-issues"></a>Einmaliges Anmelden – Konfigurationsprobleme
 

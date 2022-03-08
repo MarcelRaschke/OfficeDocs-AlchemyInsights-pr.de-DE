@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - "6500001"
 - "4353"
 ms.assetid: ''
-ms.openlocfilehash: 01ce5d40f727c9f74217075f559049d241371bfb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e84525cf6104443d0a10857acf556abf94cf6eb4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62709801"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63192921"
 ---
 # <a name="guest-access-to-teams-files"></a>Gastzugriff auf Teams-Dateien
 

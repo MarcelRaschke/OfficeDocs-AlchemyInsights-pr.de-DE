@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: e65ec1d63f0a48e3281de70f5bd0bdd931d41430
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cd23e9b2a66f529fbf8ab5e5d6d5ceec1a3c8b1c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62639967"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63193499"
 ---
 # <a name="intune-device-enrollment"></a>Intune-Geräteregistrierung
 

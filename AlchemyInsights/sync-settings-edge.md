@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10131"
 - "9005681"
-ms.openlocfilehash: aa75d1616a348aeab9d496ed2fd48279afbaa7c5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 85b412e6bf565ff0b2c41db51ca61b419f5f12f5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62631678"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63190148"
 ---
 # <a name="sync-settings-in-microsoft-edge"></a>Synchronisierungseinstellungen in Microsoft Edge
 

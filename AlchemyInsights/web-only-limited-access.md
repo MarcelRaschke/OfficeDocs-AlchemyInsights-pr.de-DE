@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004169"
 - "7314"
-ms.openlocfilehash: 4f55d71e9cabf92d3f71eb5529828e927f31059f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5aa687b7d8f8499c2253e84d0d0a65f3ee64b3f3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62675347"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63196124"
 ---
 # <a name="web-only-limited-access"></a>Eingeschränkter Zugriff (nur Web)
 

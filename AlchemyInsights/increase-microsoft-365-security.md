@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001681"
 - "3746"
 - "3821"
-ms.openlocfilehash: b3a1ca67cda195dfc244dab4ce6fbf31f2e1ab5f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c5669f3fbcaeaee285e6bcc177917eede69254a9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62733005"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63192488"
 ---
 # <a name="increase-microsoft-365-security"></a>Erhöhte Microsoft 365 Security
 

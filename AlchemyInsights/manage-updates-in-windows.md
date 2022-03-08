@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3583"
-ms.openlocfilehash: ab276cc0528f6f8cbb6b7bb1b95baf881e6470aa
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e98e95174b03ea41c6454e4b641ff3adb5d21344
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62575047"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63191552"
 ---
 # <a name="manage-updates-in-windows-10"></a>Verwalten von Updates in Windows 10
 

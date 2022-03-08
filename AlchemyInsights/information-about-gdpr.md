@@ -8,21 +8,21 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: fb7ba3cba8f8e727e69fa8732118139baf24ca30
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8166d0c58d19d36ad7104d7b0bc37ae85c614e82
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62668291"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63192416"
 ---
 # <a name="information-about-gdpr"></a>Informationen zur DSGVO
 
-- [DSGVO vereinfacht: Ein Leitfaden für Ihr kleines Unternehmen](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
+- [DSGVO vereinfacht – Eine Anleitung für Ihr kleines Unternehmen](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
 - Erste Schritte mit dem [Service Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 

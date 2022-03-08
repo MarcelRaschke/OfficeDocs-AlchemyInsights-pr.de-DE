@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
@@ -16,12 +16,12 @@ ms.custom:
 - "1500026"
 ms.date: 04/21/2020
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 0288e8adbdbf6d29c07c1bb51d91e79cea68fd37
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 929f8fc89e0a1ac158bdde784e8d04baa3f87179
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62720205"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63201272"
 ---
 # <a name="office-365-government-plans"></a>Office 365 Government Pläne
 

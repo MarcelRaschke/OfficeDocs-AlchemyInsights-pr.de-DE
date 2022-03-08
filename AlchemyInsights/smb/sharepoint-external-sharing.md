@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010137"
 - "15582"
 ms.date: 02/11/2022
-ms.openlocfilehash: a56cc9197ec2e406b0a955ff0e2f31d3099b55b8
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: 08e66c202baf6851ac1b0156338bde83bbccfb61
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790209"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63262349"
 ---
 # <a name="sharepoint-external-sharing"></a>SharePoint externe Freigabe
 

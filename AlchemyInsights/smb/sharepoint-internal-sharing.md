@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010137"
 - "15583"
 ms.date: 02/11/2022
-ms.openlocfilehash: c5405b6f95e7989b30d798d59d2b75c9e192f5d1
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: dc970a8f354c21679fa3a7e7ae6b0eff79c1cf55
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790166"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63262277"
 ---
 # <a name="sharepoint-internal-sharing"></a>Interne SharePoint-Freigabe
 

@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "13990"
 - "9005793"
-ms.openlocfilehash: 08ebd86d64d77e9c7a21e8355cb95faabdf49dac
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e9fe7b3d9f415c8d472b5a720b50be405c443031
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62546839"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63198068"
 ---
 # <a name="teams-approvals-app"></a>Teams-Genehmigungs-App
 

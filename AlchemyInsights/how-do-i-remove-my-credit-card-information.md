@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
@@ -16,12 +16,12 @@ ms.custom:
 - "1500001"
 ms.date: 08/11/2021
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 46fda95d0d7022c227d2830147a5ac79838d13fd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5642fc3514a7b480f7f087808172a94cd749b6be
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62576235"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63192812"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Wie kann ich meine Kreditkarteninformationen entfernen?
 

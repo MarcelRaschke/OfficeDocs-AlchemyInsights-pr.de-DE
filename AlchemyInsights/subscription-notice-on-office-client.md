@@ -8,20 +8,20 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 57782bfb51ad1ae651527bb26b92212e251554bb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 20967774780222e2f95b03fb14e24075d08820b9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62584030"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63261809"
 ---
-# <a name="subscription-notice-in-your-office-client"></a>Abonnementhinweis in Ihrem Office-Client?
+# <a name="subscription-notice-in-your-office-client"></a>Abonnementhinweis in Ihrem Office Client?
 
 Es sieht so aus, als ob Sie in Ihrem Office-Client einen Hinweis im Zusammenhang mit dem Status Ihres Abonnements sehen. Informationen zum Beheben des Problems finden Sie in diesem Artikel: [Beim Öffnen einer Microsoft 365-Anwendung wird ein Abonnementhinweis angezeigt](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx).
   

@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 9b54687e8023c967aa1133e70e28c2f15f1b5933
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e2a6842c1d2493c4d797e30f15fe2ce28fee3c8d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62735057"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63193604"
 ---
 # <a name="block-access-to-a-former-employee"></a>Zugriff auf einen ehemaligen Mitarbeiter blockieren
 

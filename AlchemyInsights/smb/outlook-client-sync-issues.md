@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009993"
 - "15688"
 ms.date: 02/14/2022
-ms.openlocfilehash: 2a8aea28703e37ee6f5c2be42a7941d808e01861
-ms.sourcegitcommit: d4fe5cc18116740ba4193dbd716e3123ee898394
+ms.openlocfilehash: c46c4e68e11a9fd76278fcd10a88c6c64413025d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62815576"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63190544"
 ---
 # <a name="synchronization-issues-in-outlook"></a>Synchronisierungsprobleme in Outlook
 
@@ -25,7 +25,7 @@ Es gibt mehrere Symptome, dass Outlook Client nicht ordnungsgemäß synchronisie
 
 - Symptom 1: Sie sehen Unterschiede oder Konflikte zwischen den Nachrichten, die Sie in Outlook erhalten, im Vergleich zu denen, die Sie in Outlook Web App (OWA) erhalten.
 - Symptom 2: In Outlook tritt ein Problem auf, dieses Problem tritt jedoch nicht auf, wenn der cachegespeicherte Modus deaktiviert ist.
-- Symptom 3: Gelegentlich erhalten Sie Fehlermeldungen, wenn Sie Ihre OST-Datei (OST-Datei des Offlineordners) in Outlook mit Ihrem Postfach auf einem Server synchronisieren, auf dem Exchange Server ausgeführt wird.
+- Symptom 3: Gelegentlich erhalten Sie Fehlermeldungen, wenn Sie Ihre OST-Offlineordnerdatei (OST) in Outlook mit Ihrem Postfach auf einem Server synchronisieren, auf dem Exchange Server ausgeführt wird.
 - Symptom 4: Sie bemerken, dass einige Elemente wie E-Mail-Nachrichten, Termine, Kontakte, Aufgaben, Journaleinträge und Notizen in Ihrer OST-Datei oder in Ihrem Postfach fehlen, nachdem Sie Ihre OST-Datei und Ihr Postfach synchronisiert haben.
 
 Wenn Sie dies noch nicht getan haben, empfehlen wir Ihnen, sich an einen unserer Microsoft-Spezialisten zu wenden, um Ihnen zu helfen:

@@ -1,5 +1,5 @@
 ---
-title: Wie kann ich Skype for Business Benutzern erlauben, mit Skype Benutzern zu kommunizieren?
+title: Gew how do I allow Skype for Business users to communicate with Skype users
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: dcd9515ce77e5612e23f93939d442f1771561bd5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1a7def7f56ce33dc72861a77b806de5c67c7b3f4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62552719"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63192848"
 ---
 # <a name="let-skype-for-business-users-add-skype-contacts"></a>Zulassen, dass Skype for Business-Benutzer Skype-Kontakte hinzufügen
 

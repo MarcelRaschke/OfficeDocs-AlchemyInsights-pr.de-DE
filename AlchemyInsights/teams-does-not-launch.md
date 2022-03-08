@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "12673"
 - "9007646"
-ms.openlocfilehash: 451fdd786f24e61d12a1722aeea95aa5c0ca67b9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b178db48f81731fe78dc0ee406c4d71cb887647f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62583849"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63189896"
 ---
 # <a name="teams-doesnt-launch"></a>Teams kann nicht gestartet werden
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: a4ab79600cb371ac16448d36dde9ab1fb92f9c0d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 878a42d22d1d850896939bf9e4530a076c0c77b9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62695220"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63191336"
 ---
 # <a name="email-subscriptions"></a>E-Mail-Abonnements
 
@@ -26,7 +26,7 @@ Warum werden E-Mails in meinen Abonnementlisten angezeigt?
 
 Outlook.com hat festgestellt, dass die E-Mail-Nachricht Abonnementinformationen enthält, einschließlich "Unsubscribe" in der Nachricht. Outlook.com hat Sie nicht automatisch für Newsletter abonniert.
 
-Wenn Sie den Empfang von Newslettern oder Werbeaktionen beenden möchten, gibt es zwei Möglichkeiten, sich mit Outlook.com abzumelden:
+Wenn Sie den Empfang von Newslettern oder Werbeaktionen beenden möchten, gibt es zwei Möglichkeiten, das Abonnement über Outlook.com zu kündigen:
 1. Wählen Sie in Ihrem Posteingang einen Newsletter oder eine Werbe-E-Mail aus. Wählen Sie oben im Lesebereich **"Kündigen" aus**.
 2. Öffnen Sie ihre [Einstellungen für Outlook.com-Abonnements](https://go.microsoft.com/fwlink/?linkid=2110887), und wählen Sie **"Kündigen" aus**.
 

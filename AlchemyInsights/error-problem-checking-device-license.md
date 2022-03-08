@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9810"
 - "9005394"
-ms.openlocfilehash: 9ed8485431db9a0c0da479abd9f8ac36f13b308d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4e56f2986239fa6df42a004ef75f8e69cbdf9541
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62701304"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63193388"
 ---
 # <a name="error-there-was-a-problem-checking-this-devices-license-status"></a>Fehler: Problem beim Überprüfen des Lizenzstatus des Geräts.
 

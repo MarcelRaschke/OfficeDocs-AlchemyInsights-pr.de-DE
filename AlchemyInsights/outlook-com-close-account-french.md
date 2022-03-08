@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1152"
 - "8000075"
-ms.openlocfilehash: a8afc89c4224d3951188b09185eef3b89a1d14c2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 23c963701824fd38abef6d90414448857fe3deed
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62744003"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63191372"
 ---
 # <a name="fermer-votre-compte-outlookcom"></a>Fermer votre compte Outlook.com
 

@@ -1,5 +1,5 @@
 ---
-title: Unterstützte Version des migrationstools SharePoint
+title: Unterstützte Version des SharePoint-Migrationstool
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,16 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: a1c1c035-87ad-4d7a-a347-98522429c7aa
-ms.openlocfilehash: 5e2370f031190ce6fcee137bec1a2aaa0c34aa80
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 30e8f8687709bda6470bd6908a4e1c5d6926a684
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62662782"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63261413"
 ---
-# <a name="supported-version-of-the-sharepoint-migration-tool"></a>Unterstützte Version des migrationstools SharePoint
+# <a name="supported-version-of-the-sharepoint-migration-tool"></a>Unterstützte Version des SharePoint-Migrationstool
 
 
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000701"
 - "8019"
-ms.openlocfilehash: 0c49446458d06349cd24e0fb47746d15077389c0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4704e8fb3dcb75cd0d9ef4c92b2432ce31b13832
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62676620"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63189968"
 ---
 # <a name="teams-client-is-stuck-on-loading"></a>Teams Client beim Laden hängen bleibt
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "4498"
-ms.openlocfilehash: d7e035018bfa10e918446892e651d1aba00fa055
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0df4b2e9ce20c7bb446b402d9d9153a5e6e2b7f2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62653458"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63193784"
 ---
 # <a name="editing-onenote-notebooks-in-teams"></a>Bearbeiten von OneNote-Notizbüchern in Teams
 

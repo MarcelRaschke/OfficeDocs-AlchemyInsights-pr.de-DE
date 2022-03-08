@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "5071"
-ms.openlocfilehash: 001842ea8e696afda9020793fc04704f5d603077
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c66bb6fe11eae88319af68b9483083557e8aa09d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62551395"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63201956"
 ---
 # <a name="microsoft-account-does-not-exist"></a>Microsoft-Konto ist nicht vorhanden
 

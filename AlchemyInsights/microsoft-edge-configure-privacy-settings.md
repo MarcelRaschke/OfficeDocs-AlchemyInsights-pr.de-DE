@@ -8,21 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: 83f39613a1274b358353eeaa9d88e09b749820b4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b8b06d73395cf52fb01426aae74260d9df1f45ce
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62720277"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63201920"
 ---
 # <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge Datenschutzeinstellungen konfigurieren
 
-Wenn Microsoft Edge auf Nicht-Windows-Plattformen bereitgestellt wird, werden Diagnosedaten und Websiteinformationen standardmäßig nicht an Microsoft gesendet. Wenn Microsoft Edge jedoch auf Windows 10 bereitgestellt wird, werden Diagnosedaten und Websiteinformationen gemäß [den Einstellungen Windows Diagnosedaten](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization) des Benutzers gesendet.
+Wenn Microsoft Edge auf Nicht-Windows-Plattformen bereitgestellt wird, werden Diagnosedaten und Websiteinformationen standardmäßig nicht an Microsoft gesendet. Wenn Microsoft Edge jedoch auf Windows 10 bereitgestellt wird, werden Diagnosedaten und Websiteinformationen gemäß den [Einstellungen für diagnosedaten der Benutzer Windows](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization) gesendet.
 
 Verwenden Sie die folgenden Gruppenrichtlinien, um zu konfigurieren, wie Microsoft Edge die Datensammlung für Ihre Organisation behandelt:
 - [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): Diese Richtlinie ermöglicht die Berichterstellung von Nutzungs- und Absturzdaten.

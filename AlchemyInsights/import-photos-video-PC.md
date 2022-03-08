@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9822"
 - "9005408"
-ms.openlocfilehash: 696508dba6c92cf95a0dfcd5af38fd1802ac7f7f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9c1f368d030587ce5ce2bbc919c653086d88ef25
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62684023"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63192560"
 ---
 # <a name="import-photos-and-videos-to-your-pc"></a>Importieren Sie Fotos und Videos auf Ihren PC
 
