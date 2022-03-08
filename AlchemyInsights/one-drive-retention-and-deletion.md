@@ -8,18 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 65fc313464316d6aed001388103daaf2ba13eb26
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1ca8597b6d620837f2132356456116a1ea540f34
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62754443"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63234519"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Aufbewahrung und Löschung in OneDrive
 

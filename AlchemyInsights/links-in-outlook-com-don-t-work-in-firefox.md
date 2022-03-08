@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "813"
 - "8000048"
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
-ms.openlocfilehash: f4cf2b14f68195ae3a689ea7d931e3974b193613
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d7c2710a16cde1614043efea955781f7d01b7a08
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62589862"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63235311"
 ---
 # <a name="links-in-outlookcom-dont-work-in-firefox"></a>Links in Outlook.com funktionieren in Firefox nicht
 

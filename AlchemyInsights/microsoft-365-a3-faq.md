@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002871"
 - "5417"
 ms.date: 07/30/2021
-ms.openlocfilehash: 289eedaf10908bb081b3a198f2f37b545310fa1c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7da7304945eda25730390b0837fed86985421a1e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62574795"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63234987"
 ---
 # <a name="microsoft-365-a3-faq"></a>Microsoft 365 A3 – häufig gestellte Fragen
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001511"
 - "3571"
-ms.openlocfilehash: beb8d981ce6009f961196e86ec26b2dfde754935
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6b3f6dff1c9c4280e69ee23db0b3c9ffe88fe98b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62575659"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63235131"
 ---
 # <a name="live-events-in-microsoft-stream"></a>Liveereignisse in Microsoft Stream
 

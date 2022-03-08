@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 461c127de45a4186a16e3746ae6d58cbd16a4d04
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6c0643d5bb6cfe8578257cd4feeff03c90d57a13
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62620405"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63235059"
 ---
 # <a name="issues-with-azure-mfa"></a>Probleme mit Azure MFA
 Es gibt einige Dinge zu überprüfen, ob sich Benutzer nicht mithilfe der mehrstufigen Authentifizierung (MFA) anmelden können.

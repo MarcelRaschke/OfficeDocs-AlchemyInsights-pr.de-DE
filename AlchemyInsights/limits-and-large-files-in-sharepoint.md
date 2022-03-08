@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: ff006ee8cbeaa1f9d5ce16266824ae26de371e82
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8d25b51ef8dd5d2e69f311a6b6a0a966f99c76ab
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62590042"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63235383"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Dateien, die nicht in SharePoint Online hochgeladen werden können
 

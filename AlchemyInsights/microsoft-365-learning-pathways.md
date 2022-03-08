@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002632"
 - "5054"
-ms.openlocfilehash: cdb8424d0772d782c259ea5b9dc3de91f64a5e8e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a53b9dff697eae1d85d590ae47fe5d52d9052720
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62745659"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63234915"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365-Lernpfade
 

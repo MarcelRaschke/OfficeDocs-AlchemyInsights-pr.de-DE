@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: f1502280294fa7fbc0024e95a9306066dee328c4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 66b36848956855cf35900ac21f888d023f3a44d2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62588674"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63234663"
 ---
 # <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Meldung in Microsoft 365-Apps: "Es ist ein Problem mit Ihrem Abonnement aufgetreten"
 

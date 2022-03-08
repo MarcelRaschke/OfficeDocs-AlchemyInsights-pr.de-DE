@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8221"
 - "9004596"
-ms.openlocfilehash: cb02bbfe043d14f6f3b1ee4a22697720f4be14bc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: dad95b44818cf68236bb80fd35876e2b123a7a61
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62603615"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63234745"
 ---
 # <a name="microsoft-edge-user-agent-strings-desktop"></a>Benutzer-Agent-Zeichenfolgen für Microsoft Edge (Desktop)
 

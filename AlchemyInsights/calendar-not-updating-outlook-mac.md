@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10935"
 - "9001435"
-ms.openlocfilehash: 1e7ca352d9f85de9101fa3ce7466e1f91296026f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 28820d5a693e0faf9ed946ce7d241ecdcc876809
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62658247"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63218337"
 ---
 # <a name="calendar-not-updating-outlook-for-mac"></a>Der Kalender wird für Outlook für Mac nicht aktualisiert
 

@@ -7,18 +7,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
 ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: bdf4f1968a229b0bd186760990fefe9098f9583d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4105f79d00e1e93cb5cba0b96f07cd0e3330e819
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62650182"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63235275"
 ---
 # <a name="list-view-threshold"></a>Schwellenwert für die Listenansicht
 

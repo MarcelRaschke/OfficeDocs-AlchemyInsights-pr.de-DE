@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "2675"
 - "9000710"
-ms.openlocfilehash: b90cbb9689804b4a2a1f2fe223c4933c5d817280
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 02aa1134f5f1643ac4ecb2eb5f70bb7bf2a89a76
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62564679"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63288341"
 ---
 # <a name="accessing-files-in-microsoft-teams"></a>Zugreifen auf Dateien in Microsoft Teams
 

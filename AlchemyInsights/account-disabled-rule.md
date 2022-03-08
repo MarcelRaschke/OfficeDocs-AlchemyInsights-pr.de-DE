@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6676"
-ms.openlocfilehash: d38710b0bb03adcc581a75c6138552f1959d8894
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 38d7ec33e7a77d05c33c4fa9bf7ec75c7022f954
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62564643"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63288233"
 ---
 # <a name="azure-subscription-disabled"></a>Azure-Abonnement deaktiviert
 
@@ -58,7 +58,7 @@ Beispiel:
 
 **Hinweis**: Da in diesem Beispiel das SA-Datum jetzt größer als 28 ist, ist das neue SA-Datum der 1. des folgenden Monats.
 
-**Empfohlene Dokumentationen**
+**Empfohlene Dokumente**
 
 - [Abonnement wechseln](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
 - [Abonnement kündigen](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  

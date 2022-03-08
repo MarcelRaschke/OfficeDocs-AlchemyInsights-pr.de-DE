@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 32314f8a-aaec-4d01-9fd3-009bfdcecd12
 ms.custom:
 - "26"
 - "11"
-ms.openlocfilehash: 6fa4264136bd3a9b50398a3674e9c75d2f0a2ce6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2c7db0aafbe75c3c5fa13988be4c09235fba52a3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62716173"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63233223"
 ---
 # <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Entfernen Ihrer GoDaddy-Domäne aus Microsoft 365
 

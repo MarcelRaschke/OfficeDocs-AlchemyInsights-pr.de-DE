@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: 90080f6fa54ae015633b93a2638988d251a401f9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fbd0fd0e42983d892dcfbc20dd86d1b7fe04ccbf
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62694572"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63233295"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Einwahlnummer für Teams-Konferenz entfernen
 
