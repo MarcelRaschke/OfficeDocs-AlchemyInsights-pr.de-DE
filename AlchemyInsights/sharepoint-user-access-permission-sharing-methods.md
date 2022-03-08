@@ -7,16 +7,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 618986c79395144a3464134db228ca3465ee6261
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e4b072f817acfad9cf35909659a8f1303a348d94
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62597566"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63282149"
 ---
 # <a name="sharing-and-permission-methods-to-provide-or-restrict-user-access-to-sharepoint-site"></a>Freigabe- und Berechtigungsmethoden zum Bereitstellen oder Einschränken des Benutzerzugriffs auf SharePoint Website
 

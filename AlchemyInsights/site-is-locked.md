@@ -7,18 +7,18 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "14131"
 - "11654"
 - "9006819"
-ms.openlocfilehash: fb8dfd02d6df9db11f22909fd0f387bcd0d4782c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3c2f3e0a212412bcfe6ad75094a09f98f60d3fff
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62726937"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63281861"
 ---
 # <a name="site-is-locked"></a>Website ist gesperrt
 

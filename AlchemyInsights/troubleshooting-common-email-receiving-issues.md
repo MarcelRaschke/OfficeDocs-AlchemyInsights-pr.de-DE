@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11135"
 - "3100010"
-ms.openlocfilehash: b57f36c2c30a13c0b5eb9f1998be5bce41863416
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bf8e1d6af8b1e0b62a6418e999c4f42da2fbd6a1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62661090"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63281501"
 ---
 # <a name="troubleshooting-common-email-receiving-issues"></a>Behandlung von häufigen Problemen beim Empfangen von E-Mails
 

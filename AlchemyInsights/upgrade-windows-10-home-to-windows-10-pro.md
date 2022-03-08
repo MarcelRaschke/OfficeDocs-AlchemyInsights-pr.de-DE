@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001443"
 - "3443"
-ms.openlocfilehash: 4ef14035c69656b60b38916a831891e307268153
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a58a3af67693e323425e2b18bc9c77d87679b7c4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62569431"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63281300"
 ---
 # <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>Upgrade mit einem Product Key oder einer digitalen Lizenz
 
@@ -29,7 +29,7 @@ ms.locfileid: "62569431"
 
 **Upgrade auf Windows 10 Pro mithilfe einer digitalen Lizenz**
 
-Wenn Sie Windows 10 Pro bereits auf Ihrem Gerät installiert und aktiviert haben, verfügen Sie über eine digitale Lizenz, mit der Sie ein Upgrade von Windows 10 Home auf Windows 10 Pro ohne Product Key durchführen können.
+Wenn Sie bereits Windows 10 Pro auf Ihrem Gerät installiert und aktiviert haben, verfügen Sie über eine digitale Lizenz, mit der Sie ein Upgrade von Windows 10 Home auf Windows 10 Pro ohne Product Key durchführen können.
 
 Wählen Sie **"Start** >  **Einstellungen** >  **Update & securityActivation** > " **aus**.
 

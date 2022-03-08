@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: c47e871a5a62a93d0a8058267657920584026bda
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: aab430442468863b048218fd12e4ad16f73bea7d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62740186"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63280529"
 ---
 # <a name="why-software-updates-are-not-being-deployed"></a>Warum werden Softwareupdates nicht bereitgestellt?
 

@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "12336"
 - "3200003"
-ms.openlocfilehash: 96b0d8a8a095dbb6016b172a2e591c374c2a01e2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a6f6980dea5128d8d67552e87f9a7d12721e9971
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62615172"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63281465"
 ---
 # <a name="troubleshooting-ediscovery-export-issues"></a>Problembehandlung von eDiscovery-Exportproblemen
 

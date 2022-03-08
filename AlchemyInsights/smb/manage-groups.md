@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009978"
 - "15381"
 ms.date: 02/17/2022
-ms.openlocfilehash: aff37167d60002f1b8fa0b091aa12860037f3727
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: 75a56e3e0068ede87cf46857ab3c4d49ca664d92
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893358"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63281825"
 ---
 # <a name="manage-groups"></a>Verwalten von Gruppen
 

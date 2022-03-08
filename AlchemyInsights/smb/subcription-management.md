@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009978"
 - "15384"
 ms.date: 02/17/2022
-ms.openlocfilehash: 078ba2beff520e109ed023f3dfe3d41de12ae66f
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: c32f9e81219bf93fa64e96acd5174435787ccf7d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893256"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63281645"
 ---
 # <a name="subscription-management"></a>Abonnementverwaltung
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7790"
 - "9004355"
-ms.openlocfilehash: 26b3dfb8e7d9bbce015bccd502b0fb044b01aaec
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e145628b1ce586f006ad90e8e23db81cfc4f4d9a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62690324"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63281141"
 ---
 # <a name="user-sign-in-errors"></a>Fehler bei der Benutzeranmeldung
 

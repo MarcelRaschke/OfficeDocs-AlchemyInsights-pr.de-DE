@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009962"
 - "15334"
 ms.date: 02/17/2022
-ms.openlocfilehash: 6026292439fe26858b05a0b48b77a854d64edcb0
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: 88ff83356ffdf5fc44f2b1208b6df22b9d13aafc
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893342"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63281573"
 ---
 # <a name="business-subscription-and-pricing"></a>Business-Abonnement und Preise
 
