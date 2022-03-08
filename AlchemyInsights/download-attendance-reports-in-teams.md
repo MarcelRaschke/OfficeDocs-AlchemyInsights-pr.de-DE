@@ -7,23 +7,23 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 1326bd06ae2f32321b0cd73e5cd23b20545e86eb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c9ad844694f0b19ec69f5ae924b060c10b597909
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62669803"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63204080"
 ---
 # <a name="download-attendance-reports-in-teams"></a>Herunterladen von Besuchsberichten in Teams
 
 Besprechungsorganisatoren können während und nach Besprechungen Anwesenheitsberichte herunterladen. Besprechungsteilnehmer haben nicht die Möglichkeit, Anwesenheitsberichte herunterzuladen.
 
-Standardmäßig ist die Option zum Herunterladen des Anwesenheitsberichts deaktiviert. Ein Administrator muss die Besprechungsrichtlinieneinstellung **Mitwirkungsbericht** über das Teams Admin Center oder PowerShell aktivieren, wenn er Organisatoren das Herunterladen von Anwesenheitsberichten gestatten möchte.
+Standardmäßig ist die Möglichkeit zum Herunterladen des Anwesenheitsberichts deaktiviert. Ein Administrator muss die Einstellung **Einsatzbericht** der Besprechungsrichtlinie über das Teams Admin Center oder PowerShell aktivieren, wenn er Organisatoren das Herunterladen von Anwesenheitsberichten gestatten möchte.
 
 Als Administrator können Sie den Anwesenheitsbericht für Besprechungen, die Sie nicht organisieren, nicht anzeigen. Administratoren können jedoch die Teilnehmerdetails für eine bestimmte Besprechung innerhalb von 24 Stunden nach dieser Besprechung anzeigen.
 

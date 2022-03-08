@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - 9004197/7378
 - 9003961/7017
-ms.openlocfilehash: 7e2eb0b0e372084339632cbb7040affa2e6b3ca2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 17a0562cd115c124432432f5917398f02957bd90
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62651802"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63160483"
 ---
 # <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Migrieren von Gmail-Kontakten oder Google-Kalendern zu Office 365 oder Outlook
 
-Die einfachste Möglichkeit zum Importieren von Gmail-Kontakten und -Kalendern in Office ist die Verwendung der Gmail-Kontakte und des Kalenderratgebers.
+Die einfachste Möglichkeit zum Importieren von Gmail-Kontakten und -Kalendern in Office ist die Verwendung des Gmail-Kontakt- und Kalenderratgebers.
 
 Der [Gmail-Kontakt- und Kalenderratgeber](https://go.microsoft.com/fwlink/?linkid=2134386) zeigt Ihnen, wie Sie Ihre Gmail-Kontakte und Kalenderelemente mithilfe verschiedener Import- und Exportmethoden mit Office 365 synchronisieren.
 

@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: 91c5db469c784315304113b37a310674dbd45307
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3e7bdc321dbb0e55221e922513433414de4f896e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62700692"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63275309"
 ---
 # <a name="information-about-teams-contacts"></a>Informationen über Teams-Kontakte
 

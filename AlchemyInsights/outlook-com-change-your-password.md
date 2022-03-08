@@ -8,22 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: 5720cffd3a174b735bcbe4a63b24c559583b1c38
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 141c6bde6accf9907de75366e66ec112c42fa5b5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62636155"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63159043"
 ---
 # <a name="change-your-password"></a>Ändern Ihres Kennworts
 
-Ihr Kennwort Outlook.com entspricht dem Kennwort Ihres Microsoft-Kontos.
+Ihr Outlook.com-Kennwort entspricht dem Kennwort Ihres Microsoft-Kontos.
   
 Um Ihr Kennwort zu ändern, wechseln Sie zur [Microsoft-Kontosicherheit](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) , und wählen Sie **"Kennwortsicherheit**" aus.
   

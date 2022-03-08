@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "4744"
 ms.date: 08/10/2020
-ms.openlocfilehash: 68f5007706a77397326356c0534ecfb203f292c4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 329ecebdfb34acbb305cdcfb0f8960c447a0c17c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62563851"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63287585"
 ---
 # <a name="activate-your-subscription"></a>Aktivieren Ihres Abonnements
 

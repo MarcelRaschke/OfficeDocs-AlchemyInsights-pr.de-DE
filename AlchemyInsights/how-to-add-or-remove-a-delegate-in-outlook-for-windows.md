@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7334"
-ms.openlocfilehash: 4777e708eac0d425edc852cbf02bcdbd9e2057e7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: af9025533be645d35f3ccd0d50a16f1837769ef9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62651262"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63160195"
 ---
 # <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Hinzufügen oder Entfernen eines Delegaten in Outlook für Windows
 
@@ -44,7 +44,7 @@ So fügen Sie einen Delegaten in Outlook für Windows hinzu:
 
     **Hinweis**:
     - Nachrichten, die mit den Berechtigungen "Senden im Auftrag von" gesendet werden, enthalten sowohl die Namen der Stellvertretung als auch Ihre Namen neben **"Von"**. Wenn eine Nachricht mit den Berechtigungen "Senden als" gesendet wird, wird nur Ihr Name angezeigt.
-    - Nachdem Sie eine Person als Stellvertretung hinzugefügt haben, kann sie Ihr Exchange Postfach zu ihrem Outlook Profil hinzufügen. Anweisungen finden Sie unter [Verwalten der E-Mail- und Kalenderelemente einer anderen Person](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
+    - Nachdem Sie eine Person als Stellvertretung hinzugefügt haben, kann sie Ihr Exchange Postfach ihrem Outlook Profil hinzufügen. Anweisungen finden Sie unter [Verwalten der E-Mail- und Kalenderelemente einer anderen Person](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
 
 So entfernen Sie einen Delegaten in Outlook für Windows:
 

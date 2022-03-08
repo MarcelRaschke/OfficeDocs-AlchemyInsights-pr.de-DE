@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: ce7894028a8c75ba36f2f27c3effd30962709230
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 90bfb1945552a9898e47abba3e4a924750b0b932
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62705733"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63241145"
 ---
 # <a name="fix-common-problems-with-dkim-record-formatting"></a>Beheben allgemeiner Probleme mit der DKIM-Datensatzformatierung
 

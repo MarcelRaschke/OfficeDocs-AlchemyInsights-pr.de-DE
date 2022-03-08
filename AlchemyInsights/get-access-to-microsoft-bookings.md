@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5498"
-ms.openlocfilehash: 416fb3b3ece526990324719ed769b2417c4b75cf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 373eb42cbb2301b456002251eacf6344fd03c9dd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62553375"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63160591"
 ---
 # <a name="get-access-to-microsoft-bookings"></a>Zugriff auf Microsoft Bookings erhalten
 

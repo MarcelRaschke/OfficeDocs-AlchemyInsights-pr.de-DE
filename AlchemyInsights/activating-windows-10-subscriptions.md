@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002307"
 - "4480"
-ms.openlocfilehash: b9d85896752a581c25aeebb61d137878a8e87725
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c7ded9d95d7802629dd24b51e81995b2f2dc7c78
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62563563"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63287297"
 ---
 # <a name="activating-windows-10-subscriptions"></a>Aktivieren von Windows 10-Abonnements
 

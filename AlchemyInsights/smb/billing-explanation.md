@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009965"
 - "15338"
 ms.date: 02/17/2022
-ms.openlocfilehash: 0f631bab4dedb89a4fa932956a43494178f503c1
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: fd66810bedb819c4346feb63d16a5cbaaf4ee554
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893345"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63230685"
 ---
 # <a name="billing-explanation"></a>Erklärung zur Abrechnung
 

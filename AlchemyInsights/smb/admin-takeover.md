@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009960"
 - "15486"
 ms.date: 02/11/2022
-ms.openlocfilehash: c60d77ae3e2122ee931e258d70e2bb499ef97f65
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: 86913a1a348d466e6a3768a9c5719949ecf3cd35
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790208"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63230870"
 ---
 # <a name="admin-takeover"></a>Übernahme durch den Administrator
 

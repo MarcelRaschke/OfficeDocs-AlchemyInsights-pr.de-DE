@@ -8,16 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "11220"
 - "9006570"
-ms.openlocfilehash: 615f666118039ae31b9c1dc8c9d1d84be7598ca6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9b08f4c58de8dc2152fcfc22b1289bc08f88b589
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62572167"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63253385"
 ---
 # <a name="preparing-for-tls-12-in-office-365"></a>Vorbereiten von TLS 1.2 in Office 365
 

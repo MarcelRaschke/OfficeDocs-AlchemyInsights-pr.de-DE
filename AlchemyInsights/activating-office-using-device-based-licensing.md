@@ -1,5 +1,5 @@
 ---
-title: Aktivieren Office mit gerätebasierter Lizenzierung
+title: Aktivieren von Office mithilfe der gerätebasierten Lizenzierung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: 084253a572bd8f1cc66348fa0d46f2cd3536ae05
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: aaefe423c54eaae4e71296a950ccd17fc2ca4299
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62563599"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63287333"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Aktivieren Office mit gerätebasierter Lizenzierung
+# <a name="activating-office-using-device-based-licensing"></a>Aktivieren von Office mithilfe der gerätebasierten Lizenzierung
 
 Die gerätebasierte Lizenzierung für Microsoft 365 Apps for Enterprise ist nur für einige kommerzielle Kunden und einige Kunden im Bildungsbereich als Lizenz verfügbar. Ausführliche Informationen finden Sie unter: [Gerätebasierte Lizenzierung für Microsoft 365 Apps for Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing)
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "2634"
 - "9000770"
-ms.openlocfilehash: 239804d08413f9b4ab6fa6b7df2496c5c0268204
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9a6c601b64e96a9a7b10c89daba347d5792c34b9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62658904"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63242009"
 ---
 # <a name="apple-mdm-push-certificate-has-not-been-set-up"></a>Das Apple MDM-Push-Zertifikat wurde nicht eingerichtet
 

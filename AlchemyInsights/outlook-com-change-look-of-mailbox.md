@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: 0c9ec19e2a325b8eed54ef25aba2309090cf53dc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e8248fb5277434631834077e3cf1dc8f37494d50
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62550669"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63159079"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>Ändern des Aussehens Ihres Outlook.com-Postfachs
 

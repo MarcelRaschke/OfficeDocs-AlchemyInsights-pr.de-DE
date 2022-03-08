@@ -1,5 +1,5 @@
 ---
-title: Verbessern Microsoft 365 Produktivität
+title: Verbessern der Produktivität von Microsoft 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004612"
 - "8268"
-ms.openlocfilehash: 88c3d477558e55670e0d2f2a8d547ef37465e05c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6e0dbed994667326e47f14ce04f36f5e876b76b7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62756999"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63160339"
 ---
-# <a name="help-improve-microsoft-365-productivity"></a>Verbessern Microsoft 365 Produktivität
+# <a name="help-improve-microsoft-365-productivity"></a>Verbessern der Produktivität von Microsoft 365
 
-Die Produktivitätsbewertung unterstützt die digitale Transformation Ihrer Organisation mit Einblicken darüber, wie Microsoft 365 Produkte verwendet werden und welche Technologieerfahrungen ihnen zugrunde liegen.
+Die Produktivitätsbewertung unterstützt die digitale Transformation Ihrer Organisation mit Einblicken in die Verwendung von Microsoft 365-Produkten und die damit verbundenen Technologieerfahrungen.
 
 Weitere Informationen finden Sie unter:
 

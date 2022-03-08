@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1300023"
 - "4533"
-ms.openlocfilehash: d403fd4f21ef182158bdf114873a0ecea8398530
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 798d446e32c96f7c21113827b677d1ff5e71d97d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62599654"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63253421"
 ---
 # <a name="pre-requisites-for-installing-aadconnect"></a>Voraussetzungen für die Installation von AADConnect
 

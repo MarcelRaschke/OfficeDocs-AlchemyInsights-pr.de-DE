@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000739"
 - "4709"
-ms.openlocfilehash: 4a1358bafdf221c17a8976abf3b6088743d3a645
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6d0bd3ca95ad7be6b2c9f732223bbf881e1d3bf4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62758592"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63160699"
 ---
 # <a name="export-a-notebook"></a>Exportieren eines Notizbuchs
 

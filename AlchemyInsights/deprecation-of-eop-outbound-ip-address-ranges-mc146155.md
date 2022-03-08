@@ -8,15 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: d05928aef9571a9fe83c8dc6d7bf5e29d5213ee8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 87a7aca471ea446a8ca64d515241b10ae6fc516f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62760396"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63160987"
 ---
 # <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Veraltete ausgehende EOP-IP-Adressbereiche
 

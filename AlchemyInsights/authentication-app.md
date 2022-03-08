@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 91af1b450bc395c32030366c51b53ade95a95012
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4d485f96ab4c22a53526305bc664488e907ea20e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62658318"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63241937"
 ---
 # <a name="authentication-app"></a>Authentifizierungs-App
 
@@ -30,10 +30,10 @@ Wenn Sie ein globaler Administrator sind, können Sie schnell herausfinden, was 
 
 **Überprüfen Sie das zutreffende Szenario:**
 
-1. Wenn ein Benutzer keine Pushbenachrichtigung in der Microsoft Authenticator App erhält, stellen Sie sicher, dass er nicht unter den blockierten MFA-Benutzern angezeigt wird, wie unter ["Blockieren und Aufheben der Blockierung von Benutzern](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)" beschrieben.
+1. Wenn ein Benutzer keine Pushbenachrichtigung in der Microsoft Authenticator-App erhält, stellen Sie sicher, dass er nicht unter den blockierten MFA-Benutzern angezeigt wird, wie unter ["Blockieren und Aufheben der Blockierung von Benutzern](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)" beschrieben.
 1. Wenn der Benutzer nicht für MFA blockiert ist, aber keine Pushbenachrichtigung erhält, kann er die Microsoft Authenticator-App öffnen, die die ausstehenden Genehmigungsanforderungen abruft.
 1. Als alternative Anmeldemethode kann der Benutzer auch auf eine andere Weise auf "Anmelden" klicken und einen Überprüfungscode aus meiner mobilen App verwenden.
-1. Die Microsoft Authenticator-App ist die einzige verfügbare Methode für viele Benutzer. [Weitere Informationen zu Sicherheitsstandards finden Sie](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) [in den häufig gestellten Fragen Authenticator App](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) und wie Sie diese beheben können.
+1. Die Microsoft Authenticator-App ist die einzige verfügbare Methode für viele Benutzer. [Weitere Informationen zu Sicherheitsstandards finden Sie](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) [unter Authenticator häufig](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) gestellten Fragen zur App und wie Sie diese beheben können.
  
 **Empfohlene Videos**
 

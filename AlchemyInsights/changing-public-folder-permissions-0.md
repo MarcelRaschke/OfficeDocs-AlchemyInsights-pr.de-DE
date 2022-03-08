@@ -8,17 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ms.collection: Adm_O365
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "633"
 - "3500007"
 ms.date: 01/21/2022
-ms.openlocfilehash: e0ce0685ce675b8a8fb2ddc956518bf6b1b36d8f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3637f7bcf18f7ad722908c2db438947b370ae724
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62673115"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63241649"
 ---
 # <a name="changing-public-folder-permissions"></a>Ändern von Berechtigungen für öffentliche Ordner
 

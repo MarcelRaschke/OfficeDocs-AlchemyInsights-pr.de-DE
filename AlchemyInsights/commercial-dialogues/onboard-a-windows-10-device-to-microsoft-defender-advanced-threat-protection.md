@@ -1,5 +1,5 @@
 ---
-title: Onboarding eines Windows 10 Geräts in Microsoft Defender Advanced Threat Protection (MDATP)
+title: Onboarding eines Windows 10-Geräts in Microsoft Defender Advanced Threat Protection (MDATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -7,21 +7,21 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 3087d7cbc1d8ff04c381708bdf8905fabab02f68
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5314ac689154027ba7214be0e839ecbba3f788bb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62702960"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63206420"
 ---
-# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Onboarding eines Windows 10 Geräts in Microsoft Defender Advanced Threat Protection (MDATP)
+# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Onboarding eines Windows 10-Geräts in Microsoft Defender Advanced Threat Protection (MDATP)
 
-MDATP unterstützt die folgenden Bereitstellungstools und Methoden für Windows 10:
+MDATP unterstützt die folgenden Bereitstellungstools und -methoden für Windows 10:
 
 - Gruppenrichtlinien
 - Microsoft Endpoint Configuration Manager

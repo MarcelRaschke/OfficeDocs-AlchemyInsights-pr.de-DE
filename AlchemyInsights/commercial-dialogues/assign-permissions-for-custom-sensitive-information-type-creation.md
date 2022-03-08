@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 60e618bceb9d95e53dcbcaf11dbc69c0cc4757f9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0368b89af695c8c1250fd61c0848929633ce5cec
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62557731"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63241541"
 ---
 # <a name="assign-permissions-for-custom-sensitive-information-type-creation"></a>Zuweisen von Berechtigungen für die Erstellung benutzerdefinierter Typen für vertrauliche Informationen
 

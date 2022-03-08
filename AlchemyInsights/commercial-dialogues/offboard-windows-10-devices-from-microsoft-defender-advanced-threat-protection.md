@@ -1,5 +1,5 @@
 ---
-title: Offboarding Windows 10 Geräte aus Microsoft Defender Advanced Threat Protection
+title: Offboarding Windows 10 Geräte von Microsoft Defender Advanced Threat Protection
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -7,19 +7,19 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 3037ee8fb43e6546e929cb87ec5f1711813237e8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 39b49923969513c5bdc4845621df37fe9865e16f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62703501"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63206456"
 ---
-# <a name="offboard-windows-10-devices-from-microsoft-defender-advanced-threat-protection"></a>Offboarding Windows 10 Geräte aus Microsoft Defender Advanced Threat Protection
+# <a name="offboard-windows-10-devices-from-microsoft-defender-advanced-threat-protection"></a>Offboarding Windows 10 Geräte von Microsoft Defender Advanced Threat Protection
 
 Siehe hierzu:
 

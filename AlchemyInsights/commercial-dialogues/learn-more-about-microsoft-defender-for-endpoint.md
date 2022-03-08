@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b79f8211b4e21c876ff236e50a7fc60e0fcf2836
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bab95c6719bd0884c1e88ff7e9fcfd838074e1ed
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62704545"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63206492"
 ---
 # <a name="learn-more-about-microsoft-defender-for-endpoint"></a>Weitere Informationen zu Microsoft Defender für Endpunkt
 

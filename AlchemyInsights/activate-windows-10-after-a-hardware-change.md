@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3484"
 - "9001418"
-ms.openlocfilehash: 23e9325838963417cab8224c07e75613af2079b5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 52ff36e9a3f968c0655a172bdc545f5dc8a6aef3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62563959"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63287729"
 ---
-# <a name="reactivating-windows-10-after-a-hardware-change"></a>Reaktivieren von Windows 10 nach einer Hardwareänderung
+# <a name="reactivating-windows-10-after-a-hardware-change"></a>Reaktivieren Windows 10 nach einer Hardwareänderung
 
-Wenn Sie eine erhebliche Hardwareänderung an Ihrem Gerät vorgenommen haben, z. B. das Ersetzen der Hauptplatine, Windows möglicherweise nicht mehr aktiviert werden. Versuchen Sie, die Aktivierungsproblembehandlung zu verwenden, um Windows 10 zu reaktivieren:
+Wenn Sie eine erhebliche Hardwareänderung an Ihrem Gerät vorgenommen haben, z. B. das Ersetzen der Hauptplatine, werden Windows möglicherweise nicht mehr aktiviert. Versuchen Sie, die Aktivierungsproblembehandlung zu verwenden, um Windows 10 zu reaktivieren:
 
 Wechseln **Sie zu "Start** >  **Einstellungen** >  **Update &** **securityActivation** > ", und wählen Sie dann **"Problembehandlung**" aus. Sie müssen als Administrator angemeldet sein, um die Problembehandlung verwenden zu können.
 

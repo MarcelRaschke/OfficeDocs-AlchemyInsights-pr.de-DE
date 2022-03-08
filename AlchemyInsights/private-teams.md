@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6258"
-ms.openlocfilehash: 650ab35aee390d06805e1883aa7433a817438062
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 45b94a700bddd0d7f46a6231ac36fb1c99802fc5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62548551"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63253155"
 ---
 # <a name="managing-discovery-of-private-teams"></a>Verwalten der Ermittlung privater Teams
 

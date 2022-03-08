@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: a9f372664cd85b2b0ae032db8307d85f2abe6ead
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 009da974d924624a068dfa432747f77c111bb375
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62685391"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63160447"
 ---
 # <a name="having-email-delivery-issues"></a>Haben Sie Probleme bei der E-Mail-Übermittlung?
 

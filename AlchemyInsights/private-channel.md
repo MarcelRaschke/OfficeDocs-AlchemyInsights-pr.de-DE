@@ -7,23 +7,23 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 21d189bc96d93f0e89955420fcb267b7f27e87b1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f6a21e2f05496cccb032cc24bc05c1387c34be2d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62753615"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63253241"
 ---
 # <a name="private-channels-in-microsoft-teams"></a>Private Kanäle in Microsoft Teams
 
 Private Kanäle in Microsoft Teams fokussierte Räume für die Zusammenarbeit innerhalb Ihrer Teams schaffen. Nur die Nutzer im Team, die Besitzer oder Mitglieder des privaten Kanals sind, können auf den Kanal zugreifen. Jeder, auch Gäste, kann als Mitglied zu einem privaten Kanals hinzugefügt werden, solange er bereits Mitglied des Teams ist.
 
-Um mehr zu erfahren, beginnen Sie mit [privaten Kanälen in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Dies umfasst Informationen wie [die Erstellung und Mitgliedschaft eines privaten Kanals](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) sowie [SharePoint Websites des privaten Kanals](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
+Um mehr zu erfahren, beginnen Sie mit [privaten Kanälen in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Dies umfasst Informationen wie [die Erstellung und Mitgliedschaft eines privaten Kanals](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) und [SharePoint Websites des privaten Kanals](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
 **Benötigen Sie einen neuen Teambesitzer?**
 

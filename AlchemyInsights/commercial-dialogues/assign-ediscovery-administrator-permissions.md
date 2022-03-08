@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: f828a1b1b1eee522f4477e8746887bca6daf9593
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f40ed11b40539e0d4757be0a3f1f1d79ab2f30a5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62642388"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63241613"
 ---
 # <a name="assign-ediscovery-administrator-permissions"></a>Zuweisen von eDiscovery-Administratorberechtigungen
 

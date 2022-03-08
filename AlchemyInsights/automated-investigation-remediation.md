@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11503"
 - "9005462"
-ms.openlocfilehash: e06531126d3c204c1bb6ff03bc6cc4e23cad95e5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0e52fa75cde8fe5eff3a0657034db7dbc81774c9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62644116"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63241865"
 ---
 # <a name="using-automated-investigation-executing-actions-andor-remediation-actions"></a>Verwenden der automatisierten Untersuchung, Ausführen von Aktionen und/oder Korrekturmaßnahmen
 
