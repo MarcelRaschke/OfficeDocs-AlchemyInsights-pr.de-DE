@@ -7,21 +7,21 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: 51db6ce4aad586381774573b6f7c76608da90a52
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: dda20a1c6b9ee40d0bcbd21a1ddd2eedab415e30
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62615892"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63231351"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Wann wird mein Profil mit der SharePoint Benutzerprofilanwendung synchronisiert?
 
-Die Profilbildsynchronisierung in SharePoint Online erfordert die Aktion eines Benutzers, um die Synchronisierung seines Fotos zu initiieren. Es gibt keine automatische Synchronisierung von Fotos mit SharePoint Online. SharePoint Online synchronisiert nur Fotos aus Exchange Online und nicht Azure Active Directory.
+Die Profilbildsynchronisierung in SharePoint Online erfordert die Aktion eines Benutzers, um die Synchronisierung seines Fotos zu initiieren. Es gibt keine automatische Synchronisierung von Fotos mit SharePoint Online. SharePoint Online synchronisiert nur Fotos von Exchange Online, nicht von Azure Active Directory.
 
 Wenn ein Benutzer nie eine Aktion ausgeführt hat, die zu einer Synchronisierung auffordern würde, oder wenn er sein Profilbild aktualisiert hat und das neue nicht in SharePoint Online angezeigt wird, muss der Benutzer ihn möglicherweise zur Synchronisierung auffordern. So können sie dies tun:
 

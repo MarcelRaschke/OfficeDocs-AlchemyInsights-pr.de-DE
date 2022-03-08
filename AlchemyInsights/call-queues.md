@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: b482c9a5606299a69080c885d953c4bf72233b79
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ae16468f048ecfec2cb23bedc9b87ca83f055c90
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62674078"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63228165"
 ---
 # <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Anrufwarteschleifen in Microsoft Teams und Skype for Business 
 

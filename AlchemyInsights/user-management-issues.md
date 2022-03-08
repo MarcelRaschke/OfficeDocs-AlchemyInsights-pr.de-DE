@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9209"
 - "9005371"
-ms.openlocfilehash: 33e2163a1a877c1240f65f5525f4d69e65d2955e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a98f1e53a0507cf60c10a5b1dd1d3a5dc99dfb49
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62645628"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63229029"
 ---
 # <a name="user-management-issues"></a>Benutzerverwaltungsprobleme
 

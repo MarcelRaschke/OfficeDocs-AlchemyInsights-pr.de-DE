@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002389"
 - "4657"
-ms.openlocfilehash: d41c84d0953bb5f2a196a9c295f151032b6079e7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c77ca5ce5245e972508d30a0a6319d5c2f8c68b2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62632146"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63230955"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Probleme beim Anmelden bei Microsoft 365-Apps
 

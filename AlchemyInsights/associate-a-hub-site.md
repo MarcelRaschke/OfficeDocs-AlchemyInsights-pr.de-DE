@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 7ce5837d4934e3492a1e0b7a9b5c985d822ad772
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 477d93b0cc047a580c0ef2b3dfb56e3793f08fea
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62674771"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63228489"
 ---
 # <a name="associate-existing-site-with-a-hub-site"></a>Zuordnen einer vorhandenen Website zu einer Hubwebsite
 

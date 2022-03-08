@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9426"
 - "9005491"
-ms.openlocfilehash: 1b89a90fa0580c95d8204e61338fe974c79b3345
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 47fe487ca307a334b43e844c5f65d2a1fdb23ab1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62569251"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63229173"
 ---
 # <a name="use-microsoft-edge-to-clear-the-browsing-data-stored-by-internet-explorer"></a>Verwenden von Microsoft Edge zum Löschen der von Internet Explorer gespeicherten Browserdaten
 

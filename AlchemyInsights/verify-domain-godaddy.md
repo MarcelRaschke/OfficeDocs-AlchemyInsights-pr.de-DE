@@ -7,16 +7,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: c3e6a1904557c7e1efc40f25190a06e3cb409744
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 340cb24ac1b3f97479afd1ddb45edc3b30c90423
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62740394"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63228885"
 ---
 # <a name="verify-your-domain-with-godaddy"></a>Überprüfen Ihrer Domäne mit GoDaddy
 

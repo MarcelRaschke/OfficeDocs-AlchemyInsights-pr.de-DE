@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003299"
 - "6210"
 - "9003562"
 - "6663"
-ms.openlocfilehash: 62b2832558c26605d4e3241bedab791d9cd2e2da
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a1717adc0225745ce1e940697bdced17fbc927a0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62674065"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63228093"
 ---
 # <a name="camera-isnt-working-in-teams"></a>Die Kamera in Teams funktioniert nicht.
 

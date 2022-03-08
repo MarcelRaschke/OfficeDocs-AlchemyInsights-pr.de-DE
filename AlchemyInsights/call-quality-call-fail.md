@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000675"
 - "5987"
-ms.openlocfilehash: 683203a015cfa833430cb6e062e68d7f95300d67
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2ecdfc2fc73a5f1d25462eb3113ccd28a4aa9a5b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62673969"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63228201"
 ---
 # <a name="call-quality-or-dropped-calls"></a>Anrufqualität oder Anrufabbrüche
 
