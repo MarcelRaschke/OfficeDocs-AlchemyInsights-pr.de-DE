@@ -7,21 +7,21 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: eb110eace91552325c889547af43d81828cd1137
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2428e04161fd35c6347c10ca4bb9f2ed456044cd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62681539"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63182516"
 ---
 # <a name="empty-inbox"></a>Leerer Posteingang
 
-**Der Posteingang "My Outlook.com" ist leer.**
+**Mein Outlook.com-Posteingang ist leer**
 
 - Bestimmte Add-Ons im Firefox-Browser verhindern möglicherweise, dass Ihr Posteingang geladen wird. Besuchen Sie den Firefox-Support, um zu erfahren, wie [Sie Add-Ons deaktivieren oder entfernen](https://aka.ms/mozilla-add-ons).
 
@@ -34,4 +34,4 @@ Wenn Sie Ihren Posteingang leeren und alle Ihre E-Mails löschen möchten:
 1. Wählen Sie **"Alle löschen"** aus.
 1. Um alle gelöschten Nachrichten zu löschen, öffnen Sie den [Ordner "Gelöschte Elemente](https://outlook.live.com/mail/deleteditems)", und wählen Sie "**Leere Ordner** >  Löschen" **aus**, und wählen Sie dann **elemente wiederherstellen, die aus diesem Ordner** am oberen Rand der Seite gelöscht wurden, und wählen Sie erneut **"Leeren Ordner**" aus.
 
-Weitere Informationen finden Sie unter ["E-Mail löschen" in Outlook.com.](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy)
+Weitere Informationen finden Sie unter [Löschen von E-Mails in Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy).

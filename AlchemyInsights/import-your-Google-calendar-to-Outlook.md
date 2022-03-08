@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: f631522c8529331d7bc234e25981f3e9311b2f4e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 23bf8edf374cb23477c41a58648a7e8b3c154949
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62668147"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63127865"
 ---
 # <a name="import-your-google-calendar-to-outlook"></a>Importieren Ihres Google-Kalenders in Outlook
 

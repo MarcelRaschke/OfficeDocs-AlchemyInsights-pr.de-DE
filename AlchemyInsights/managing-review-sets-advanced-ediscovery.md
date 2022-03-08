@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11937"
 - "9007099"
-ms.openlocfilehash: 48ef16b6cdabf52d5d835028c03ff99e303da8d2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f22d00e528179a33ffd8723733c36af1548f1be2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62667607"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63127001"
 ---
 # <a name="managing-review-sets-in-advanced-ediscovery"></a>Verwalten von Prüfdateisätzen in Advanced eDiscovery
 

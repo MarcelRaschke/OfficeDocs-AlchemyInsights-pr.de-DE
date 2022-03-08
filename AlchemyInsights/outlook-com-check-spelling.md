@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "213"
 - "8000007"
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
-ms.openlocfilehash: b5c15ef8ca80adfba0449055d300b7a60fedb6d1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9ad0ad1fdecbc7174aebd2d7c54cd7992f38c763
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62648913"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63182696"
 ---
 # <a name="use-your-browser-to-check-spelling"></a>Verwenden Ihres Browsers zum Überprüfen der Rechtschreibung
 

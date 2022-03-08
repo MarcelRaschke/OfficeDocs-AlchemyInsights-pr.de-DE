@@ -7,16 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: e37086600f764d4f2b01e9fb1295da3a75028501
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 730a5315bc091d5cde43516ef6a4ccde4b7ad6c5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62588278"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63182840"
 ---
 # <a name="ose-sharing-errors"></a>OSE-Freigabefehler
 

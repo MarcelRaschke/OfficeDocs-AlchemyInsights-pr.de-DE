@@ -7,23 +7,23 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ms.collection: Adm_O365
-localization_priority: Normal
+ms.localizationpriority: medium
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: bd7c623fe0ae3d4754425f7b274cf3aa7f40adc4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1b366c77176f8a35c2cec7727961f17bc248e47e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62619492"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63126628"
 ---
 # <a name="issues-signing-in-to-onenote-notebooks"></a>Probleme beim Anmelden bei OneNote Notizbüchern
 
 Wenn beim Versuch, Ihr Notizbuch zu öffnen, Anmelde- oder Kennwortfehler angezeigt werden, versuchen Sie Folgendes:
 
-- Wenn das Notizbuch, das nicht geöffnet wird, in OneDrive oder SharePoint Online gespeichert ist, versuchen Sie, das Notizbuch in OneNote für das Web (unter www.onenote.com) zu öffnen. Wenn das Notizbuch nicht aufgelistet ist, verfügen Sie möglicherweise nicht über die entsprechenden Berechtigungen. Wenn es sich um ein freigegebenes Notizbuch handelt, bitten Sie den Besitzer, es für Sie freizugeben, und stellen Sie sicher, dass Sie das richtige Konto für die Anmeldung verwenden.
+- Wenn das Notizbuch, das nicht geöffnet wird, in OneDrive oder SharePoint Online gespeichert ist, versuchen Sie, das Notizbuch in OneNote für das Web (bei www.onenote.com) zu öffnen. Wenn das Notizbuch nicht aufgelistet ist, verfügen Sie möglicherweise nicht über die entsprechenden Berechtigungen. Wenn es sich um ein freigegebenes Notizbuch handelt, bitten Sie den Besitzer, es für Sie freizugeben, und stellen Sie sicher, dass Sie das richtige Konto für die Anmeldung verwenden.
 
 - Wenn Sie das Notizbuch in OneNote für das Web öffnen möchten, stellen Sie sicher, dass Sie sich mit den aktuellen Anmeldeinformationen bei OneNote anmelden. 
 

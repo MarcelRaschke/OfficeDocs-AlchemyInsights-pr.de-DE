@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
@@ -16,12 +16,12 @@ ms.custom:
 - "1500026"
 ms.date: 04/21/2020
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: b337a8ab43ec04290390db10d55660d2a165dbe3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6ca67d9d470b70091fde304e5224229952a4ee53
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62682511"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63183164"
 ---
 # <a name="get-microsoft-365-free-for-your-entire-school"></a>Erhalten Sie Microsoft 365 kostenlos für Ihre gesamte Schule
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6871"
 - "5300012"
-ms.openlocfilehash: 96eeb671aaf0f744ab6255d82765a0363b3bf41e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d0131980a3e4743d1b841ad56affd20fe7d07baf
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62668831"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63128009"
 ---
 # <a name="hub-site-permissions"></a>Hubwebsite-Berechtigungen
 

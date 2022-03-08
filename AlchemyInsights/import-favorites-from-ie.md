@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9449"
 - "9005491"
-ms.openlocfilehash: 0274955e49c99672b51489fa5fac0af8388b1c04
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 364af05d2e9770133185e385351736a0b9dd19e5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62733411"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63127973"
 ---
 # <a name="import-favorites-from-internet-explorer-to-microsoft-edge"></a>Importieren der Favoriten aus Internet Explorer in Microsoft Edge
 

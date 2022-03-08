@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9447"
 - "11023"
 - "9005491"
 - "9006474"
-ms.openlocfilehash: 9b5855be8a6085060c7390ec8d565d16d8823dea
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5d9dc4153cb73b5388aea3fd999790234a979422
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62708973"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63127901"
 ---
 # <a name="import-favorites-from-google-chrome-or-mozilla-firefox-to-microsoft-edge"></a>Importieren von Favoriten aus Google Chrome oder Mozilla Firefox in Microsoft Edge
 

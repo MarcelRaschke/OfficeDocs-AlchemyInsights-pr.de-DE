@@ -11,13 +11,13 @@ ms.custom:
 - "1850"
 - "9000258"
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: d0b4962d68668ac8b0bd1c5e7e82d7e6dbd0b3f3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.localizationpriority: medium
+ms.openlocfilehash: a965b0550db6284d0d5fe6029c276fd69b1a507e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62635998"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63182660"
 ---
 # <a name="organizing-your-outlookcom-mailbox"></a>Organisieren Ihres Outlook.com-Postfachs
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003042"
 - "11071"
-ms.openlocfilehash: 9ccbc8965c683475636e36044a62a1d92f7c9f3d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1f8ae60c0f110fc1019117da6667f61af0acc92b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62670343"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63131537"
 ---
 # <a name="create-a-block-download-policy-for-unmanaged-devices"></a>Richtlinie erstellen, die das Herunterladen für nicht verwaltete Geräte blockiert
 

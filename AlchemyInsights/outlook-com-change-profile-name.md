@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: c0ea9dbe-2953-474d-ab31-2bc447b2e21d
 ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: bbf90df84c018c2a9c41266bedd30520ca9541b8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9e54cba36003973c8346b4b23df2c1ee5b9452c2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62601215"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63182732"
 ---
 # <a name="change-your-profile-name-in-outlookcom"></a>Ändern Des Profilnamens in Outlook.com
 
