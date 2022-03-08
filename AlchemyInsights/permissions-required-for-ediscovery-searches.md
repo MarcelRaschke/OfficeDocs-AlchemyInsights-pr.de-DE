@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 6be392b4c67c77c21475a64f2750e2d6903e6174
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b755b4b51c6278ee348865ccddb8dcf012e439aa
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62665699"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213621"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Erforderliche Berechtigungen für eDiscovery-Suchvorgänge
 

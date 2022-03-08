@@ -8,22 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 5ff690a5caeccf700c5fe50dbadb442b2cb6c87c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8a7e7d6b4b3f87944dcad18650a8646bed97e684
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62554743"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63247769"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Fehler: AttributeValueMustBeUnique
 
 Der häufigste Grund für den AttributeValueMustBeUnique-Fehler sind zwei Objekte mit unterschiedlichen SourceAnchor -Objekten (immutableId) mit demselben Wert für die ProxyAddresses- und/oder UserPrincipalName-Attribute. So beheben Sie den AttributeValueMustBeUnique-Fehler:
   
-1. Identifizieren Sie die duplizierten proxyAddresses, userPrincipalName oder einen anderen Attributwert, der den Fehler verursacht. Identifizieren Sie außerdem, welche zwei (oder mehr) Objekte an dem Konflikt beteiligt sind. Der von Azure AD Verbinden Health for Sync generierte Bericht kann Ihnen dabei helfen, die beiden Objekte zu identifizieren.
+1. Identifizieren Sie die duplizierten proxyAddresses, userPrincipalName oder einen anderen Attributwert, der den Fehler verursacht. Identifizieren Sie außerdem, welche zwei (oder mehr) Objekte an dem Konflikt beteiligt sind. Der von Azure AD Verbinden Health for Sync generierte Bericht kann Ihnen helfen, die beiden Objekte zu identifizieren.
     
 2. Identifizieren Sie, welches Objekt weiterhin den duplizierten Wert haben soll und welches Objekt nicht.
     

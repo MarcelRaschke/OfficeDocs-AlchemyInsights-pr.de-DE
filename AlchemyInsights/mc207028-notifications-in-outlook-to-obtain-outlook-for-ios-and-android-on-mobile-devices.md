@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002576"
 - "4992"
 - "9002628"
 - "5047"
-ms.openlocfilehash: 579afc61dfacdaa97c6e284f42dd3bd8721e2fff
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0d0b3e7b962d8f67d1f4244ccf95616f9df3e02d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62667247"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63214269"
 ---
 # <a name="mc207028---notifications-in-outlook-to-obtain-outlook-for-ios-and-android-on-mobile-devices"></a>MC207028 – Benachrichtigungen in Outlook, um Outlook für iOS und Android auf mobilen Geräten zu erhalten
 

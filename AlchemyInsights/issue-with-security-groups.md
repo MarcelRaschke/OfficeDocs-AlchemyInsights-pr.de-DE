@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8252"
 - "9004397"
-ms.openlocfilehash: 07bc3cbf4487d2cd52ab2640dab46471d171ae85
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4e5ad28a229e0fb98b0d8094605ecf1a90b13a9a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62621688"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63235527"
 ---
 # <a name="issue-with-security-groups"></a>Problem mit Sicherheitsgruppen
 

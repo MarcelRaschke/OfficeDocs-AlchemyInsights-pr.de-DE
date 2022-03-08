@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7779"
 - "9004351"
-ms.openlocfilehash: 46ae98184d2b50e1402de2403693a6ee0b4d1aec
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e6379f2e93669d3d24c1b6d2e695c22c738caebd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62720683"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63235419"
 ---
 # <a name="issues-with-validating-tokens"></a>Probleme mit der Validierung von Token
 

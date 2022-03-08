@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7824"
 - "9004325"
-ms.openlocfilehash: bf2c370a4cac5d53340cfd82e3f8110abd37ec57
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ced32c15d955f70e48e6b5ecb6332653410d6890
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62732573"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63214485"
 ---
 # <a name="issues-with-tenants"></a>Probleme mit Mandanten
 

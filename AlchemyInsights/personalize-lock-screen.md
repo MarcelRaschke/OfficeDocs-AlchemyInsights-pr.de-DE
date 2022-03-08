@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9787"
 - "9005401"
-ms.openlocfilehash: 5e00336ef20587dfdc85cb7612862a22e8b81fc7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fe5b3b831fb28b1508d193a05826a65bb3712204
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62665879"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213549"
 ---
 # <a name="personalize-your-lock-screen-in-windows-10"></a>Personalisieren des Sperrbildschirms in Windows 10
 

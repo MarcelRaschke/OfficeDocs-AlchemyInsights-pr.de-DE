@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8248"
 - "9004400"
 - "8249"
 - "9003245"
-ms.openlocfilehash: d1c012176982ae43197e585cb73c526f5a502c06
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3128062ee4d835544784b5923988550e83f56155
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62634666"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213873"
 ---
 # <a name="password-hash-synchronization-for-domain-service"></a>Kennworthashsynchronisierung für Domänendienst
 

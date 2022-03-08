@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002365"
 - "4594"
-ms.openlocfilehash: db232423b3933730d4cdf56a745031cd3d0829ae
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 59e180ff6f6089367a9f87336e13d5e04601d073
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62683963"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63214593"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importieren und Exportieren von Outlook-E-Mails, -Kontakten und -Kalenderelementen
 

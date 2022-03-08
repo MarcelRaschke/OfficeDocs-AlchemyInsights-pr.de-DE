@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 7ba250603e10726247f2dbe35e8ae4440d0e1c9e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 73285ce8dd8fbd3aeeff3116843b50d95e7da943
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62682331"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63283661"
 ---
 # <a name="the-open-with-explorer-button-is-disabled"></a>Die Schaltfläche "Mit Explorer öffnen" ist deaktiviert.
 

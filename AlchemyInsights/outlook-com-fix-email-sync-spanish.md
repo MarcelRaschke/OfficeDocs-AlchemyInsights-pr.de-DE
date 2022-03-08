@@ -1,5 +1,5 @@
 ---
-title: 8000064 Outlook.com-E-Mail kann nicht synchronisiert werden – SPANISCH
+title: 8000064 Outlook.com E-Mail kann nicht synchronisiert werden – SPANISCH
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1136"
 - "8000064"
-ms.openlocfilehash: 862fa233136b9ea0814ea0e9ad7345c0f62ecccc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5659a29f8a812a19d4fe877cd8f081fa1e579521
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62635547"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213981"
 ---
 # <a name="problemas-de-sincronizacin-del-correo-electrnico"></a>Problemas de sincronización del correo electrónico
 

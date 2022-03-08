@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1786"
 - "9000170"
-ms.openlocfilehash: 602d88c42c5f5577b1c42d320a6568e9a9891491
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e6567c0e3adad39204391e42e2e5bc41dfee8556
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62729440"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213405"
 ---
 # <a name="are-you-looking-for-phones-that-are-compatible-with-teams"></a>Suchen Sie Telefone, die mit Teams kompatibel sind?
 

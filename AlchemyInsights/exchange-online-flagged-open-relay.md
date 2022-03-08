@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "16386"
 ms.date: 01/21/2022
-ms.openlocfilehash: 841b16280c4bd6cb50e8ac13244b10ace5bd4dcf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 282fda342bd8b904c6ed26f1a8509e1af7fd9f76
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62710665"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63247733"
 ---
 # <a name="exchange-online-incorrectly-flagged-as-possible-open-relay"></a>Exchange Online fälschlicherweise als mögliches offenes Relay gekennzeichnet
 

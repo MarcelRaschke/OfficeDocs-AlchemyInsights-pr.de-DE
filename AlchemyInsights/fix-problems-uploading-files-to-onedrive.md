@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: 8fb70ddbefcb55e0fe92a87691afa1cf0b774a49
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6f557924d8d9084fb298d7d7e0706e235992b8c0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62553879"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63247265"
 ---
 # <a name="fix-problems-uploading-files-to-onedrive"></a>Beheben von Problemen beim Hochladen von Dateien in OneDrive
 

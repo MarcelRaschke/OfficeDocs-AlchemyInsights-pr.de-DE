@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
@@ -16,12 +16,12 @@ ms.custom:
 - "1400006"
 ms.date: 08/10/2021
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 9c3930bf1619147bd8b925e1f0de3c4a64457826
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 313a806bcaa2b2d035bab801ec56df8ad947201e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62554419"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63247481"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Verlängern Ihrer Testversion für Microsoft 365 for Business
 

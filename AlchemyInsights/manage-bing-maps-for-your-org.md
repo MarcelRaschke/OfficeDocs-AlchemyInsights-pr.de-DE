@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9161"
-ms.openlocfilehash: be9d72cbcad80c9981092a8677672f3f37d495a3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 716ae23974e5b5dc8668acd4b23265f7bbe52ae2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62667967"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63214449"
 ---
 # <a name="manage-bing-maps-for-your-organization"></a>Verwalten von Bing Karten für Ihre Organisation
 

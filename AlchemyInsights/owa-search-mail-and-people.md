@@ -1,5 +1,5 @@
 ---
-title: 8000003 Suchen von E-Mails und Personen in Outlook im Web
+title: 8000003 E-Mail und Personen in Outlook im Web suchen
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1565"
 - "8000003"
-ms.openlocfilehash: c02584945ebb6857d74cd097ffbb27a553130005
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 971510a0be0c43c2beed36c3c4770c8db4fed3c6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62618628"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213945"
 ---
 # <a name="search-mail-and-people-on-outlook-on-the-web"></a>Suchen von E-Mails und Personen in Outlook im Web
 

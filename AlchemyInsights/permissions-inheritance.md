@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: 9abc781e62d285dd93c92742d4529b48c25b85fb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8eabef7b7082c728805adfd066f7cb2d2417700c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62729800"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213693"
 ---
 # <a name="how-permissions-inheritance-works-in-sharepoint"></a>Funktionsweise der Vererbung von Berechtigungen in SharePoint
 

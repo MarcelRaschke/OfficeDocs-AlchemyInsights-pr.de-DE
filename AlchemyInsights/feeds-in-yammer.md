@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003219"
 - "9666"
-ms.openlocfilehash: fd32cb25f1d19a6082e3dde961d2581178beb06a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 007e5d6d40e98364634167d41053ad02e1d0b01d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62639706"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63247409"
 ---
 # <a name="feeds-in-yammer"></a>Feeds in Yammer
 
@@ -31,7 +31,7 @@ Yammer feeds can also be included on SharePoint sites using the [Yammer Conversa
 
 **Probleme beim Posten**
 
-Es sollte möglich sein, beiträge in Yammer auf unterschiedliche Weise zu veröffentlichen. Nachfolgend sind einige der häufigsten Probleme aufgeführt, mit denen Benutzer konfrontiert sein können:
+Es sollte auf unterschiedliche Weise möglich sein, Beiträge in Yammer zu veröffentlichen. Nachfolgend sind einige der häufigsten Probleme aufgeführt, mit denen Benutzer konfrontiert sein können:
 
 - Ein Administrator hat die [Veröffentlichung neuer Unterhaltungen in "Gesamtes Unternehmen" eingeschränkt](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) . Dies ist eine Einschränkung, die der Administrator entfernen muss, damit reguläre Benutzer Beiträge veröffentlichen können.
 - Community Mitgliedschaft nicht ordnungsgemäß synchronisiert wurde. Beispielsweise ist ein Benutzer Mitglied einer Community in Yammer, aber nicht der Microsoft 365 Gruppe, die mit SharePoint Online verbunden ist. Warten, bis die Mitgliedschaftssynchronisierung für sehr große Gruppen abgeschlossen ist, kann bis zu 24 Stunden dauern.

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6029"
 - "9001222"
-ms.openlocfilehash: 82725a32963985dd8a34658a138b1390ee4a5678
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: daba9017457b094b81db99e202527cfa208da641
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62590834"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63235491"
 ---
 # <a name="issues-accessing-the-microsoft-defender-atp-portal"></a>Probleme beim Zugriff auf das Microsoft Defender ATP-Portal
 

@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10394"
 - "9005762"
-ms.openlocfilehash: 4df1ca0940e7e3d989cca84dd2ac4127b49dd026
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 88be4ec624a49b122956bad2d2b75cf93a3a5165
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62572455"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213333"
 ---
 # <a name="plan-your-passwordless-deployment"></a>Planen Sie Ihre kennwortlose Bereitstellung
 

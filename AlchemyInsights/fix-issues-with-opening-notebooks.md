@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002359"
 - "4718"
-ms.openlocfilehash: 153cd12323531dd9ab5540292ae983a750034fbd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 30bed6b7cf1e3536050d4ee53cc82d5963a3e8c4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62685823"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63247337"
 ---
 # <a name="fix-issues-with-opening-notebooks"></a>Beheben von Problemen beim Öffnen von Notizbüchern
 

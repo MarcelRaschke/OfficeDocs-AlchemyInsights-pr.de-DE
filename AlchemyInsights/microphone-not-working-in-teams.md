@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003568"
 - "6654"
-ms.openlocfilehash: 9ee5c8edebdf570c1e5b4dacc4d538ea7a116462
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7137b65e5520b66fbd547264fe3f20fe884157c8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62551575"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63283697"
 ---
 # <a name="microphone-isnt-working-in-teams"></a>Mikrofon funktioniert nicht in Teams
 

@@ -8,18 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - commerce_billing
 - "1639"
 - "9000134"
 ms.date: 08/10/2021
-ms.openlocfilehash: b6c1b1f54e5cf3ab02de3c9e6a143d06ddb98a3a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 619cc4ea0f4eab5d89b12675df14f15cec6bfaa7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62717181"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213729"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Zahlungsoptionen für Abonnements für Microsoft 365 Business
   

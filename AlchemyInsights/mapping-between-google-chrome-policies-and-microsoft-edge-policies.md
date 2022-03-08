@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8219"
 - "9004596"
-ms.openlocfilehash: 653c8691cdca5cc3b059cbb485df8bca6c7328aa
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cd852552a7605d6d6ecf362886893d247f267d48
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62620932"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63283769"
 ---
 # <a name="learn-about-mapping-between-google-chromes-and-microsoft-edges-policies"></a>Informationen zur Zuordnung zwischen den Richtlinien von Google Chrome und Microsoft Edge
 
