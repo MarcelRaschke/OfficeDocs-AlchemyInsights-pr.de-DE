@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8306"
 - "9004429"
-ms.openlocfilehash: 15babf7f3394a4286c5dd9fc225bff85623e4c3d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 35d258edce8bf3ac8547e2e5a71db6bc87209bb1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62646600"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63291149"
 ---
 # <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Abonnement, das für die Microsoft Edge-Synchronisierung erforderlich ist, um mit Azure Active Directory-Konten zu arbeiten
 

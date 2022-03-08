@@ -1,5 +1,5 @@
 ---
-title: MS Teams Lizenz und Abonnement
+title: MS Teams-Lizenz und -Abonnement
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010153"
 - "15634"
 ms.date: 02/11/2022
-ms.openlocfilehash: fea331a511936753048388993c35073ffeb19531
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: 4c3a16cc0fc970076e11688c0206b72c5fb37c2f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790353"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63291611"
 ---
-# <a name="ms-teams-license-and-subscription"></a>MS Teams Lizenz und Abonnement
+# <a name="ms-teams-license-and-subscription"></a>MS Teams-Lizenz und -Abonnement
 
 Wenn einem Benutzer standardmäßig ein Lizenzierungsplan (z. B. Microsoft 365 Enterprise E3 oder Microsoft 365 Business Premium) zugewiesen wird, wird automatisch eine Teams-Lizenz zugewiesen und der Benutzer wird für Teams aktiviert. Sie können Teams für einen Benutzer deaktivieren oder aktivieren, indem Sie jederzeit eine Lizenz entfernen oder zuweisen.
 

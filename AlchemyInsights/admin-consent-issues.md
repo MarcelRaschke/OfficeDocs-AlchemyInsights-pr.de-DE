@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004354"
 - "7786"
-ms.openlocfilehash: bfc2b5f4b490fbc8b8654d291aabc14c9dc25a2b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2e50f2550d5c4f92918a091d30103f5b536cabd4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62560791"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63242477"
 ---
 # <a name="admin-consent-issues"></a>Probleme mit der Administratorzustimmung
 
@@ -28,4 +28,4 @@ ms.locfileid: "62560791"
 
 1. Erfahren Sie mehr über [die Administratorzustimmung auf der Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent), wie die [Zustimmungsaufforderung](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) funktioniert und wie [Sie eine Anforderung für die mandantenweite Administratorzustimmung auswerten](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
 
-1. Anwendungen, die in Microsoft Identity Platform integriert werden, folgen einem Autorisierungsmodell, mit dem Benutzer und Administratoren steuern können, wie auf Daten zugegriffen werden kann. Die Implementierung des Autorisierungsmodells wurde auf dem Microsoft Identity Platform Endpunkt aktualisiert und ändert, wie eine App mit dem Microsoft Identity Platform interagieren muss. Eine Übersicht über dieses Autorisierungsmodell, einschließlich Bereichen, Berechtigungen und Zustimmung, finden Sie [unter "Berechtigungen und Zustimmung" im Microsoft Identity Platform-Endpunkt](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
+1. Anwendungen, die in Microsoft Identity Platform integriert werden, folgen einem Autorisierungsmodell, das Benutzern und Administratoren die Kontrolle darüber gibt, wie auf Daten zugegriffen werden kann. Die Implementierung des Autorisierungsmodells wurde auf dem Microsoft Identity Platform Endpunkt aktualisiert und ändert, wie eine App mit dem Microsoft Identity Platform interagieren muss. Eine Übersicht über dieses Autorisierungsmodell, einschließlich Bereichen, Berechtigungen und Zustimmung, finden Sie [unter "Berechtigungen und Zustimmung" im Microsoft Identity Platform-Endpunkt](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).

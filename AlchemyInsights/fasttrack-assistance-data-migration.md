@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "13247"
 - "9004145"
-ms.openlocfilehash: 31210b9d3a0ab54cdb1ccc88e223ad6ec64c9f89
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4f1e5499b5acfe65bed5691826c952d0bd1ec398
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62710521"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63276713"
 ---
 # <a name="fasttrack-assistance-with-data-migration"></a>FastTrack-Unterstützung bei der Datenmigration
 

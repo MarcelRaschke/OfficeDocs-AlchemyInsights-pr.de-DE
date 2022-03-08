@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: ede0d8a5c851021b87fc466ff4ecd6ba832aefe1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5b78acbdf27bd61e7d2d87c09462c9671237e909
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62758429"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63276858"
 ---
 # <a name="export-user-account-information"></a>Exportieren von Benutzerkontoinformationen
 

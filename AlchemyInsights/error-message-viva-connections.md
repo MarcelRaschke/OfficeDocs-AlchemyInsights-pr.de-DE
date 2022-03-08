@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9010306"
 - "16345"
 ms.date: 01/21/2022
-ms.openlocfilehash: 74d493fd20fcf4d9f573400cea7114b00410cfda
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 78eb49b21bb17122f45fd278afdac2ae787cc47d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62576955"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63277181"
 ---
 # <a name="we-cant-save-the-app-setup-policy-right-now-with-viva-connections"></a>"Wir können die App-Einrichtungsrichtlinie derzeit nicht speichern" mit Viva Connections
 

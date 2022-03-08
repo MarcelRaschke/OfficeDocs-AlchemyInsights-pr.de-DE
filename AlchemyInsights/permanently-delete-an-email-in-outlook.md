@@ -7,23 +7,23 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 3811f9bd5f28e05144b8212265c11c0094182f53
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 297dc85ccef8b22e466e648738964158fc039555
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62599834"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63253889"
 ---
 # <a name="permanently-delete-an-email-in-outlook"></a>Dauerhaftes Löschen einer E-Mail in Outlook
 
 - Drücken Sie in der Posteingangsansicht lange eine Nachricht, und sie sehen das Papierkorbsymbol. Tippen Sie auf dieses Symbol, um die Nachricht zu löschen.
 
-- Sie können "löschen" auch als Wischoption festlegen (**Einstellungen -> Wischoptionen**). Verwenden Sie dann den Finger, um die E-Mail zu wischen, die Sie löschen möchten. 
+- Sie können "Löschen" auch als Wischoption festlegen (**Einstellungen -> Wischoptionen**). Verwenden Sie dann den Finger, um die E-Mail zu wischen, die Sie löschen möchten. 
 
 - Um eine Nachricht aus einer geöffneten E-Mail-Ansicht zu löschen, tippen Sie oben auf dem Bildschirm auf das Papierkorbsymbol. Gelöschte Nachrichten werden in Ihren Papierkorbordner verschoben. 
 

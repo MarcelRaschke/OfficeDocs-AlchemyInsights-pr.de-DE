@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: 0d18b24b35e752fed13fe4435ddc91274bb72ecc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 736e075501d0c915847c15ac8c1de57553cde9f4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62747387"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63277145"
 ---
 # <a name="error-messages-when-sharing"></a>Fehlermeldungen beim Teilen
 

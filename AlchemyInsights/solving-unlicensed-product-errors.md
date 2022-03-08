@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 142fbc50d5ffdf39d4bbcb5972b26f94e381a4fc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ab2b2feb91bb803ad07dff82ea56a5778e547f9e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62663178"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63291339"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Vorschläge zum Beheben von Fehlern beim "nicht lizenzierten Produkt"
 
@@ -27,7 +27,7 @@ Um Fehler bei einem "nicht lizenzierten Produkt" zu beheben, versuchen Sie Folge
 - Stellen Sie sicher, dass Sie über ein Abonnement verfügen, das Clientlizenzen zulässt, z. B. Microsoft 365 Apps for Business oder Business Premium, und [stellen Sie sicher, dass dem Benutzer eine Lizenz zugewiesen ist](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Stellen Sie sicher, dass sich der Benutzer bei Office mit demselben Konto anmeldet, dem die Lizenz zugewiesen ist.
 - Überprüfen Sie die [Seite "Dienstintegrität](https://docs.microsoft.com/office365/enterprise/view-service-health) ", um festzustellen, ob bekannte Probleme mit dem Dienst vorliegen.
-- Überprüfen Sie ihre Firewall-, Antivirensoftware- und Proxyeinstellungen, um sicherzustellen, dass sie den Zugriff Microsoft 365 Apps auf das Internet nicht blockieren. Siehe [URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Überprüfen Sie ihre Firewall-, Antivirensoftware- und Proxyeinstellungen, um sicherzustellen, dass sie Microsoft 365 Apps den Zugriff auf das Internet nicht blockieren. Siehe [URLs und IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Sie können auch die folgenden Problembehandlungsaktionen ausprobieren: 
 

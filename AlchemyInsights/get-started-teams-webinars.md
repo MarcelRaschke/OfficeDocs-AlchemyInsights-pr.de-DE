@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: 036114493601cafb7584be0f31c29f2039e69ef3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 49e55004a1634145fb32d2bc88656a3068d932de
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62757431"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63276245"
 ---
 # <a name="getting-started-with-teams-webinars"></a>Erste Schritte mit Teams Webinaren
 

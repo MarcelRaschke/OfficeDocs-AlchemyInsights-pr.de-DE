@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9259"
-ms.openlocfilehash: cd8f1b7c73bf73e0895e4e2248249a9eb3fab119
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d6448c68d80c1973ce0d83b655a3a96968d69f10
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62685992"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63276209"
 ---
 # <a name="get-started-with-using-microsoft-search-usage-reports"></a>Erste Schritte mit der Verwendung von Microsoft Search Nutzungsberichten
 

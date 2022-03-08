@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: 412
 ms.assetid: 15cd5fd8-6e4d-4e65-9507-5f605cb8db38
-ms.openlocfilehash: ee0b527aaf445327cfeca3f753eb8d8407704e52
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8d78997ddb0ba49ff08b60b0c1a211efd1ec201b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62648805"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63253637"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Richtlinienfehler beim Freigeben eines Kalenders
 

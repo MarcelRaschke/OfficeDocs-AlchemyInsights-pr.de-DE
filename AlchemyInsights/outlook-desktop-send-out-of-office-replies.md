@@ -7,24 +7,23 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 14df7dd92880937a10e945cc3260e361afc15419
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: db687a94cb3e18a60bff4e17a12223eaac3c977e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62743432"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63254141"
 ---
 # <a name="outlook-desktop-send-out-of-office-replies"></a>Outlook Desktop: Senden von Abwesenheitsantworten
 
 **Festlegen von automatischen Antworten in Outlook Desktop**
 
-1. Klicken Sie auf **Datei > Automatische Antworten**. 
-    **Hinweis**: Für Outlook 2007 klicken Sie auf **Extras > Abwesenheitsassistent**.
+1. Klicken Sie auf **Datei > Automatische Antworten**. **Hinweis**: Für Outlook 2007 klicken Sie auf **Extras > Abwesenheitsassistent**.
 
 2. Klicken Sie im Feld **Automatische Antworten** auf **Automatische Antworten senden**.
 

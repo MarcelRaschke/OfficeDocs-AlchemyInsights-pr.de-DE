@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
@@ -21,12 +21,12 @@ ms.custom:
 - "9002663"
 - "5168"
 ms.date: 07/30/2021
-ms.openlocfilehash: 836ce02511d6efec01f38ddbacbfabdeba24c324
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3c29d46f7ebde852af024b97e688d6b4537910ac
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62662242"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63291041"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>Wechseln zu einem anderen Microsoft 365 Business-Plan
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: 48665434ad295e4e7100f0f9ca7b9e02b3f1c149
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d6c97b8b1543e6d0d82a8ed12c7640f72e568f39
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62645736"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63242742"
 ---
 # <a name="using-planner-with-microsoft-teams"></a>Verwenden von Planner mit Microsoft Teams
 

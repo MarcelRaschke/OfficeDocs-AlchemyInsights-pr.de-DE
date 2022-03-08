@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9003839"
 - "6887"
-ms.openlocfilehash: b6b6d3cd9da169a4fcd6ceffc74cafc0ed5b4437
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e33f715a665710106249ef79b7d5f63496e320b4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62576991"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63276929"
 ---
 # <a name="export-chat-history-in-teams"></a>Exportieren des Chatverlaufs in Teams
 
-Als Administrator oder eDiscovery-Manager können Sie eine [Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search) im Microsoft 365 Compliance Center erstellen, nach der gesucht werden soll, und dann Chatunterhaltungen in Ihrer Organisation exportieren. Weitere Informationen finden Sie unter [Exportieren von Inhaltssuchergebnissen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Als Administrator oder eDiscovery-Manager können Sie eine [Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search) in der Microsoft 365 Compliance Center erstellen, nach der gesucht werden soll, und dann Chatunterhaltungen in Ihrer Organisation exportieren. Weitere Informationen finden Sie unter [Exportieren von Inhaltssuchergebnissen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).

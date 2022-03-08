@@ -8,20 +8,20 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "8000034"
 - "2470"
-ms.openlocfilehash: 16d7c12ad3543b643de376f2d567b3bceeeebd58
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8f9008e227b9b9aea57c2d26c32a9025919c713b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62618664"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63253997"
 ---
 # <a name="read-receipts"></a>Lesebestätigungen
 
-So fordern Sie eine Lesebestätigung oder einen Übermittlungsbeleg für Ihre Nachricht in Outlook im Web an:
+So fordern Sie einen Lesebestätigungs- oder Übermittlungsbeleg für Ihre Nachricht in Outlook im Web an:
 
 1. Auswählen der drei Punkte <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
  oben im Bereich zum Verfassen von Nachrichten.

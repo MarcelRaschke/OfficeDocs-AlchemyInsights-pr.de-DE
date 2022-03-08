@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 6fbe04a3963666d8be9c3ae0ff0f48d19ca28cb9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cec5eaa1406b84b8524eaba71929550294f6389b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62605955"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63276353"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>Beheben von Problemen mit der USB-Druckerverbindung
 
@@ -35,7 +35,7 @@ Wenn dies nicht funktioniert, versuchen Sie, **ihren USB-Drucker zu entfernen un
     3. Wählen Sie unter **"Drucker & Scanner"** den Drucker aus, den Sie beheben möchten. Wählen Sie **"Gerät entfernen" aus**. Folgen Sie den Anweisungen, um den Drucker vollständig zu entfernen.
 2. Entfernen Sie alle Druckerherstellersoftware von Drittanbietern:
     1. Wählen Sie **"Start** >  **Einstellungen** >  **Apps" aus**.
-    2. **Scrollen Sie unter "Apps & Features**" nach Software, die vom Druckerhersteller installiert wurde (z. B. HP, Canon oder Epson).
+    2. Führen **Sie unter "Apps & Features**" einen Bildlauf durch, um nach software installed from your printer's manufacturer (z. B. HP, Canon oder Epson) zu suchen.
     3. Wählen Sie die Software aus, und wählen Sie **"Deinstallieren" aus**.
 3. Schalten Sie den Drucker aus, und starten Sie ihn neu.<br>
     1. Schalten Sie den Drucker aus, und ziehen Sie das Netzkabel ab. Warten Sie 30 Sekunden. Schließen Sie den Drucker wieder an.

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002912"
 - "5590"
-ms.openlocfilehash: 78986b09853dd3baa4784178b03b0b0052eee890
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ee0ebeafc618c7da9c242c455eb01f6b72d92ce3
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62677723"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63291303"
 ---
 # <a name="spell-check-documents"></a>Rechtschreibprüfung für Dokumente
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009992"
 - "15344"
 ms.date: 02/14/2022
-ms.openlocfilehash: 5d82847dbce37c1730b129819d4293d6dbe1b531
-ms.sourcegitcommit: d4fe5cc18116740ba4193dbd716e3123ee898394
+ms.openlocfilehash: bf0472b1fa6897f3ec4bcd6ccff5d5ecb1f9f4da
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62815568"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63291575"
 ---
 # <a name="unable-to-receive-email"></a>E-Mails können nicht empfangen werden
 

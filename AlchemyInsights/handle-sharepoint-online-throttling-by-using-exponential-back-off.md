@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: 6134b337106e5f05438fc03781b16e8e561c5b25
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d8fe306a890de321033d49b6ce1d565d8276b8bf
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62622336"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63276101"
 ---
 # <a name="handle-sharepoint-online-throttling-by-using-exponential-back-off"></a>Behandeln von Einschränkungen in SharePoint Online mit exponentiellem Backoff
 

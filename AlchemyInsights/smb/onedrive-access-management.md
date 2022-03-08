@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010112"
 - "15489"
 ms.date: 02/11/2022
-ms.openlocfilehash: 0c0e6e25745e689a9797113e2d6aba2063c0e3de
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: b877015a34ddc0230412422a16ef844860de3bc6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790152"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63291867"
 ---
 # <a name="onedrive-access-management"></a>OneDrive-Zugriffsverwaltung
 

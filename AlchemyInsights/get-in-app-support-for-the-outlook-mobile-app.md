@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: ea5e1da62bc2347ae0fd281a7fcbee7c01be7fc7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d7aa41c73754ffa32ac124691ce6eb2cfa8b3f86
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62605588"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63276281"
 ---
 # <a name="get-in-app-support-for-the-outlook-mobile-app"></a>In-App-Unterstützung für die Outlook mobile App erhalten
 

@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 8ec4a6bd7e7d812af6e20541bd2bf631fe739735
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2ede2d6209bdae8222811882cde4bcddaef17b19
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62742940"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63253565"
 ---
 # <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps und Microsoft Flow-Planerweiterung
 
@@ -29,4 +29,4 @@ Wenn Sie eine Planerweiterung für **Microsoft Flow** oder **PowerApps** anforde
 - In Flow außerhalb von SharePoint und OneDrive integrierte benutzerdefinierte HTTP-Aktionen
 - Integration von lokalen Daten über das lokale Datengateway
 
-Kunden mit aktiven Benutzern dieser Features erhalten eine automatische Erweiterung bis zum 31. Januar 2020 oder den Ablauf ihrer vorhandenen Microsoft 365 Abonnementlaufzeit, je nachdem, welcher Zeitraum länger ist.
+Kunden mit aktiven Benutzern dieser Features erhalten eine automatische Erweiterung bis zum 31. Januar 2020 oder bis zum Ablauf ihrer vorhandenen Microsoft 365 Abonnementlaufzeit, je nachdem, welcher Zeitraum länger ist.

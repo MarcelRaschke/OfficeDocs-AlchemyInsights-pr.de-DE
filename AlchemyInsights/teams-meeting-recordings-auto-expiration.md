@@ -8,17 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ms.collection: Adm_O365
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - "13757"
 - "9002530"
 ms.date: 01/21/2022
-ms.openlocfilehash: f8a913c9bbd98e8998dc65457e4acf666325e90c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c60c2f004d843fde207c42927ccf77f482c9b022
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62631174"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63290897"
 ---
 # <a name="teams-meeting-recordings-auto-expiration"></a>Automatisches Ablaufen von Microsoft Teams-Besprechungsaufzeichnungen
 

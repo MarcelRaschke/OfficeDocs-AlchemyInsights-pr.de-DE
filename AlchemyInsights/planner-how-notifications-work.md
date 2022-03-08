@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "3809"
 - "9001716"
-ms.openlocfilehash: 3cce08f713dbe836063b4d8c0d6861a9be0be499
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c5d6fa6e94e9f078cdf1516729b0cb3800f64bb8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62549176"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63253673"
 ---
 # <a name="planner-how-notifications-work"></a>Planner: Wie Benachrichtigungen funktionieren
 
