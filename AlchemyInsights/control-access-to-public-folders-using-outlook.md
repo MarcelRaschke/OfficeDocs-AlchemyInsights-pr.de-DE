@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 3fef8ea10c335c33c8398c346bbaeb18a6d1e45b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bde031c1d562d402e2ac3721d3b8637ed9970489
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62654466"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63240137"
 ---
 # <a name="control-access-to-public-folders-using-outlook"></a>Steuern des Zugriffs auf Öffentliche Ordner mit Outlook
 

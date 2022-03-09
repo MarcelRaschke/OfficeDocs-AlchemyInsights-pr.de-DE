@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 70e1904872cd9bd4f0b5e59f70d851cf4ddb43f1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8b9cf01322167c155e02be9a85e20122f38e6cc9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62679127"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63243737"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Einrichten Ihres O365 Business Essentials-Abonnements
 

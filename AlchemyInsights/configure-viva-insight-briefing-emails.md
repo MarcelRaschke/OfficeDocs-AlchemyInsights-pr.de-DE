@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9010258"
 - "16663"
 ms.date: 02/15/2022
-ms.openlocfilehash: 03df3b54ce2e7e66a3b17e9011f20743e3a1b4e2
-ms.sourcegitcommit: 5c192c14acfb55ca3d5bbee10bf0e5ccecef8bf2
+ms.openlocfilehash: 855fde2daab8725fefba82e4db5880bf37b89756
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/16/2022
-ms.locfileid: "62860064"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63240389"
 ---
 # <a name="configure-viva-insights-briefing-emails"></a>Konfigurieren von Viva Insights Briefing-E-Mails
 
@@ -41,7 +41,7 @@ Informationen zum Abmelden von [MyAnalytics-Digest-E-Mails](https://docs.microso
 
 Weitere Informationen zum Konfigurieren von Briefing-& Digest-E-Mails finden Sie unter:
 
-- [Briefing-E-Mail von Microsoft Viva FAQ](https://docs.microsoft.com/viva/insights/personal/briefing/be-faqs)
+- [Briefing-E-Mail von Microsoft Viva – Häufig gestellte Fragen](https://docs.microsoft.com/viva/insights/personal/briefing/be-faqs)
 - [Übersicht über Briefing-E-Mails](https://docs.microsoft.com/viva/insights/personal/briefing/be-overview)
 - [Briefing-Sprachen](https://docs.microsoft.com/viva/insights/personal/briefing/be-languages)
-- [Tägliche Briefings und MyAnalytics-Brandingupdates, um Microsoft Viva](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/daily-briefing-and-myanalytics-branding-updates-to-reflect/ba-p/2681246)
+- [Tägliche Briefings und MyAnalytics-Brandingupdates, um Microsoft Viva widerzuspiegeln](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/daily-briefing-and-myanalytics-branding-updates-to-reflect/ba-p/2681246)

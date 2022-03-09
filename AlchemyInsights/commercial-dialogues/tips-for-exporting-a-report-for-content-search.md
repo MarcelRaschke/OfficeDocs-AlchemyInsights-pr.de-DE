@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 2cbdfd2cb3ab21e47b5c7b0b201a1030c6d4e505
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 093f0019d9b5c6239f3ad12a98862fc3eb6e66c0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62723265"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63240785"
 ---
 # <a name="tips-for-exporting-a-report-for-content-search"></a>Tipps zum Exportieren eines Berichts für die Inhaltssuche
 

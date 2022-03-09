@@ -8,16 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: c2da4b392360ed50dc4f2bd07a72042b1bad0729
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cfb2ea22ed952e01da7415f0a64928cd78647c58
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62619780"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63295809"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Überwachen des bedingten Zugriffs auf Exchange
 
@@ -43,4 +43,4 @@ Nützliche Links:
 
 [Überwachen der Intune-Gerätekompatibilität](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Hinweis: Diese Schritte sind nur bei der Problembehandlung für das Azure Active Directory Feature bedingter Zugriff hilfreich. Es ist auch möglich, ein Gerät unter Quarantäne zu stellen, das den E-Mail-Zugriff mit Exchange Richtlinie blockiert. Weitere Informationen zu Exchange Geräteverwaltung finden Sie [hier](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141).
+Hinweis: Diese Schritte sind nur bei der Problembehandlung bei der Azure Active Directory Feature bedingter Zugriff hilfreich. Es ist auch möglich, ein Gerät unter Quarantäne zu stellen, das den E-Mail-Zugriff mit Exchange Richtlinie blockiert. Weitere Informationen zu Exchange Geräteverwaltung finden Sie [hier](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141).

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009959"
 - "15379"
 ms.date: 02/17/2022
-ms.openlocfilehash: 70731c91d9879a2b22dbf20cfd21ba13e5fb6e89
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: 0ed0a92dcc5b59ce170c0610f79242766307efe8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893246"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63291975"
 ---
 # <a name="modify-email-account-settings"></a>Ändern von E-Mail-Kontoeinstellungen
 

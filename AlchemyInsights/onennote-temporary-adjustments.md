@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4508"
-ms.openlocfilehash: 36a0d53a85d1851a182c32a16de11f60b3f59e51
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f7cd596e1be768b7179ed468076868e0d5478d8d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62695544"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63295563"
 ---
 # <a name="onenote-temporary-adjustments"></a>Temporäre Anpassungen in OneNote
 

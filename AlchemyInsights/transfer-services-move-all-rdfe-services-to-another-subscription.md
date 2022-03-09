@@ -7,23 +7,23 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004116"
 - "7196"
-ms.openlocfilehash: edd335c01f83cec04b819325e7d3c0d420830acf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 265e8bb0ceb9338d4f2fc4d2863d8f8c34533031
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62742540"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63290717"
 ---
 # <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Übertragungsdienste – Verschieben aller RDFE-Dienste in ein anderes Abonnement
 
 **Verschieben von Ressourcen**
 
-Azure-Ressourcen können mithilfe des Azure-Portals, Azure PowerShell, der Azure CLI oder der REST-API zum Verschieben von Ressourcen in ein anderes Azure-Abonnement oder eine andere Ressourcengruppe unter demselben Abonnement verschoben werden.
+Azure-Ressourcen können über das Azure-Portal, Azure PowerShell, Azure CLI oder die REST-API zum Verschieben von Ressourcen in ein anderes Azure-Abonnement oder eine andere Ressourcengruppe unter demselben Abonnement verschoben werden.
 
 Bevor Sie Ressourcen verschieben können, lesen Sie:
 
@@ -53,7 +53,7 @@ Beachten Sie, dass Sie Ihr Abonnement konvertieren müssen, wenn Sie Ihr Azure-A
 - Informationen zum Upgrade einer kostenlosen Testversion finden Sie unter [Upgrade Ihrer kostenlosen Testversion oder Ihres Microsoft Imagine Azure-Abonnements auf "Pay-As-You-Go"](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription).
 - Informationen zum Ändern eines Pay-as-you-go-Kontos finden Sie unter [Ändern Ihres Azure Pay-As-You-Go-Abonnements in ein anderes Angebot](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer).
 
-**So fügen Sie Ihrem Azure Active Directory Mandanten ein Azure-Abonnement hinzu oder ordnen es zu:**
+**So fügen Sie Ihrem Azure Active Directory-Mandanten ein Azure-Abonnement hinzu oder ordnen es zu:**
 
 1. Melden Sie sich an, und wählen Sie das Abonnement aus, das Sie verwenden möchten, auf der [Seite "Abonnements" im Azure-Portal](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Wählen Sie **"Verzeichnis ändern" aus**.
@@ -61,7 +61,7 @@ Beachten Sie, dass Sie Ihr Abonnement konvertieren müssen, wenn Sie Ihr Azure-A
 4. Das Verzeichnis wird für das Abonnement geändert, und Sie erhalten eine Erfolgsmeldung.
 5. Verwenden Sie  die Verzeichnis-Switcher, um zu Ihrem neuen Verzeichnis zu wechseln. Es kann bis zu 10 Minuten dauern, bis alles ordnungsgemäß angezeigt wird.
 
-**Empfohlene Dokumentationen**
+**Empfohlene Dokumente**
 
 - [Übertragen des Besitzes eines Azure-Abonnements](https://docs.microsoft.com/azure/billing-subscription-transfer)
 - [Verschieben von Ressourcen in eine neue Ressourcengruppe oder ein neues Abonnement](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)

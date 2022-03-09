@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: da7846e66aff3ce68a922b711a5a5e9569c1f36f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f26994930989fdec28804f2c8fe9f41a355f3064
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62666491"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63295773"
 ---
 # <a name="move-files-in-sharepoint-and-onedrive"></a>Verschieben von Dateien in SharePoint und OneDrive
 

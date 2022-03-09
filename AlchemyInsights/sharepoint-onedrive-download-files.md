@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 3331badd2bcd21c90c44d5b5034e0432018dd52a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0b212136d89fb67dfb8faef48539410e08ddf713
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62692484"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63243449"
 ---
 # <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Herunterladen oder Verhindern des Herunterladens von Dateien aus OneDrive oder SharePoint
 

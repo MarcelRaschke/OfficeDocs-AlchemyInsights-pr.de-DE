@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009959"
 - "15326"
 ms.date: 02/17/2022
-ms.openlocfilehash: a612fc46573d6fd49d6c0b21d1211d0406662042
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: d918ed5ee9f31f282736d3a6a03317adf85cf300
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893337"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63292195"
 ---
 # <a name="add-new-email-subscription"></a>Hinzufügen eines neuen E-Mail-Abonnements
 

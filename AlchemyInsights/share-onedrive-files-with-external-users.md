@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 5d99fa9a6d07c4e1e81b82dad2bf74528dae2245
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 767ea72cc3543422101445f2799179aa289bd47d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62714949"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63243665"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Freigeben von Dateien in OneDrive für Personen außerhalb Ihrer Organisation
 

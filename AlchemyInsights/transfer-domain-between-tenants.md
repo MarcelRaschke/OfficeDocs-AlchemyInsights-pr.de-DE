@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7305"
-ms.openlocfilehash: 771a24095b4e07a7246698dcb173be01fe2748f6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a1f1086eda62bd461851824cd19c873331354acf
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62676361"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63290753"
 ---
 # <a name="transfer-domain-between-tenants"></a>Domäne zwischen Mandanten übertragen
 

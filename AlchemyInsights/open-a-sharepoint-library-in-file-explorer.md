@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 79559700b4b29bf4cca58c063ea77c75e356776f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f1938f09d9aa3520ffaa63405d2e12d6e653830a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62753975"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63295441"
 ---
 # <a name="open-a-sharepoint-library-in-file-explorer"></a>Öffnen einer SharePoint Bibliothek im Datei-Explorer
 

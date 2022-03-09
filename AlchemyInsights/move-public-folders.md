@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "7983"
-ms.openlocfilehash: 4dfa800f795f158f768845e9c5a63f5e9b83a376
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1dc44ab6ed05f48547ce1f8cb7ac19181acd9e46
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62731096"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63295737"
 ---
 # <a name="move-public-folders-between-public-folder-mailboxes"></a>Verschieben von öffentlichen Ordnern zwischen Postfächern für öffentliche Ordner
 
-Die öffentlichen Ordner in Exchange Online können mit Outlook für den Windows-Desktopclient zwischen Postfächern für öffentliche Ordner verschoben werden.
+Die öffentlichen Ordner in Exchange online können mit Outlook für den Windows-Desktopclient zwischen Postfächern für öffentliche Ordner verschoben werden.
 
 Wenn Sie versuchen, öffentliche Ordner von Exchange lokal in Exchange Online zu verschieben, lesen Sie die folgenden Artikel:
 

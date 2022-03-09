@@ -7,16 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 9c8537302e33e91162e4e23cfaa4704c40196a36
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d16b7aec56c8cf14ddd0ccbab06579038b585d9d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62750028"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63243089"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>Problembehandlung bei OneDrive Leistung
 

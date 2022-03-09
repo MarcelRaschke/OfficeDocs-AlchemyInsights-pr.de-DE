@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 9aa6c469538d861fe73192224417329e413abae9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3376cc32d93d1e9e09030eab5354fd5dee22f1ab
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62587054"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63294391"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>So wird eine Vertraulichkeitsbezeichnung veröffentlicht
 
@@ -30,7 +30,7 @@ ms.locfileid: "62587054"
 
     **Wichtig**: Wenn Sie eine Unterbezeichnung auswählen, stellen Sie sicher, dass Sie auch deren übergeordnete Bezeichnung auswählen.
 
-1. Überprüfen Sie die ausgewählten Bezeichnungen. Um Änderungen vorzunehmen, klicken Sie auf **Bearbeiten**; ansonsten klicken Sie auf **Weiter**.
+1. Überprüfen Sie die ausgewählten Bezeichnungen. Um Änderungen vorzunehmen, wählen Sie **Bearbeiten** aus; andernfalls wählen Sie **Weiter** aus.
 
 1. Folgen Sie den Eingabeaufforderungen, um die Richtlinieneinstellungen zu konfigurieren.
 

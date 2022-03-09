@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009992"
 - "15345"
 ms.date: 02/14/2022
-ms.openlocfilehash: af653d191cf88d4fe42275bec2deb650ae5ba76c
-ms.sourcegitcommit: d4fe5cc18116740ba4193dbd716e3123ee898394
+ms.openlocfilehash: 400a60e9d8c3dad12535f6a6cda9ebd4cc215324
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62815569"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63292149"
 ---
 # <a name="forwarding-emails"></a>Weiterleiten von E-Mails
 

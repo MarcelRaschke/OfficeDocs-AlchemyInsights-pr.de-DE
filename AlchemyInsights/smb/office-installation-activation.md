@@ -1,5 +1,5 @@
 ---
-title: Installation und Aktivierung von MS Office
+title: Ms Office Installation und Aktivierung
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010111"
 - "15487"
 ms.date: 02/14/2022
-ms.openlocfilehash: e68ddfe28e3d63d843319dc5720d3a7c4f52a438
-ms.sourcegitcommit: d4fe5cc18116740ba4193dbd716e3123ee898394
+ms.openlocfilehash: 22bcea74578ab8cde17e6dbf8bd1cd3f42c33e77
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62815649"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63291903"
 ---
-# <a name="ms-office-installation-and-activation"></a>Installation und Aktivierung von MS Office
+# <a name="ms-office-installation-and-activation"></a>Ms Office Installation und Aktivierung
 
 Nachdem Sie sich für Microsoft 365 angemeldet haben, können Sie und Ihre Mitarbeiter Office Apps installieren.
 

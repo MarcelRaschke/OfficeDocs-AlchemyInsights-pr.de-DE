@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f34326-94dd-44e7-867f-c6cac0b4fa75
-ms.openlocfilehash: 115517f19014b7b45b2624949876137cfeabe5c4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 54ac31441e4a0bd5f25b25bcacbb84d06070f404
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62741267"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63242909"
 ---
 # <a name="uninstall-office-client"></a>Deinstallieren Office-Clients
 

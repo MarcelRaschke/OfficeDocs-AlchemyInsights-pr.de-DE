@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11392"
 - "9006699"
-ms.openlocfilehash: 009e564af9c6a4387b5ecf70b81a87c465c36e5c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 63bc6fcb391e6744bbb25dbf8199949d7c8b8912
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62679271"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63292753"
 ---
 # <a name="sharepoint-files-are-missing"></a>SharePoint-Dateien fehlen
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003047"
 - "5801"
-ms.openlocfilehash: 8211ae8807170368f4bffe278912504cf1263055
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e91ac96de1078f3d21ef31c4794c2720b272e969
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62548299"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63292661"
 ---
 # <a name="sharepoint-is-no-longer-working"></a>SharePoint funktioniert nicht mehr
 

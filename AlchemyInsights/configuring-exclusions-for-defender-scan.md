@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: b5046e59723e139bd069071b10a8b6b6f480e160
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d36ef7618047093c331572ac5387994e48911649
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62737541"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63240317"
 ---
 # <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Konfigurieren von Ausschlüssen für den Microsoft Defender ATP-Scan
 

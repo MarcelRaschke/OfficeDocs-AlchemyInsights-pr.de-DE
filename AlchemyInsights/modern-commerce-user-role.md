@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: e664a91788a66d8ec409da7cb11a966b34451b7a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d1fee51a66843f28ad07b1711dfb31232a49cd63
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62648949"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63295999"
 ---
 # <a name="modern-commerce-user-role"></a>Rolle "Moderner Commercebenutzer"
 

@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: d361ab87bcf21204c66c5d495faf00dcfb15d4be
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bd40afd5abd72c3e2e38bb4b9c7b2cbdee797067
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62693564"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63293167"
 ---
 # <a name="permissions-and-public-folders"></a>Berechtigungen und öffentliche Ordner
 
@@ -29,6 +29,6 @@ Sie können die Berechtigungen für Ihre öffentlichen Ordner über Outlook, das
     
 - Anweisungen zur Verwendung des Add-PublicFolderClientPermission-Commandlet finden Sie in [diesem Artikel](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) für PowerShell. Wenn Sie Anweisungen zum Herstellen einer Verbindung mit Exchange PowerShell benötigen, klicken Sie [hier](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
     
-Wenn **externe Benutzer keine E-Mails an einen E-Mail-aktivierten öffentlichen Ordner senden können**, liegt der Grund möglicherweise darin, dass dem öffentlichen Ordner berechtigungen fehlen, die für die externe E-Mail-Zustellung erforderlich sind. Sie können dies beheben, indem Sie die hier [Outlook Anweisungen oder](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1) die PowerShell-Anweisungen [hier](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx) verwenden.
+Wenn **externe Benutzer keine E-Mails an einen E-Mail-aktivierten öffentlichen Ordner senden können**, liegt der Grund möglicherweise darin, dass dem öffentlichen Ordner berechtigungen fehlen, die für die externe E-Mail-Zustellung erforderlich sind. Sie können dies mithilfe der Outlook [Anweisungen hier](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1) beheben, oder die PowerShell-Anweisungen [hier](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
   
 

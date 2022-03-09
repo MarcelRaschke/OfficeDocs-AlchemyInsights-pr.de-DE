@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
@@ -16,12 +16,12 @@ ms.custom:
 - "1500028"
 ms.date: 08/10/2021
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 638f8575c5ec84395e0a420bfeddfb962834475a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a44bc15b091ae14aecea5fd532296ae7f0118699
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62753543"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63294151"
 ---
 # <a name="reactivate-a-microsoft-365-subscription"></a>Reaktivieren eines Microsoft 365 Abonnements
 

@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 629d42df5d35809a75fe67378d053cae6d090665
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b029780e481b10a55d87c3158bdc77d63ff33d89
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62707245"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63243701"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>Freigeben einer Kommunikationswebsite für externe Benutzer
 

@@ -1,5 +1,5 @@
 ---
-title: SharePoint Onlinedrosselung
+title: SharePoint Online-Einschränkung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: f4ba2f22e8ef0c544b272cfdfdad0445f6ab77f2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 12fa1df64b6390cfce5ad3e914e7922c5994d561
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62751707"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63243377"
 ---
 # <a name="sharepoint-online-throttling"></a>Einschränkungen in SharePoint Online
 

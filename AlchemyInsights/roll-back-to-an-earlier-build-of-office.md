@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1741"
 - "9000140"
-ms.openlocfilehash: 0a68e1dae54b2021790992525f88664cc579117f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d57ed104ec85168d4212e946ac16cb81ec0e9f05
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62616972"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63293489"
 ---
 # <a name="roll-back-to-an-earlier-build-of-office"></a>Ausführen eines Rollbacks auf eine frühere Version von Office
 
