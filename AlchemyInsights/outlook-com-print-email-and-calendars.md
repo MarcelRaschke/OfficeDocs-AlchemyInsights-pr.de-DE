@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 40063c6e-2c45-420d-ae63-9eb274b64f5e
 ms.custom:
 - "8000046"
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: 53001485a56d543476e0e3c86023a1d25bfcaccb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 15cf6f5a492b492dbd842ab68ac2ee0406c3127a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62743535"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63245861"
 ---
 # <a name="print-email-and-calendars-in-outlookcom"></a>Drucken von E-Mails und Kalendern in Outlook.com
 

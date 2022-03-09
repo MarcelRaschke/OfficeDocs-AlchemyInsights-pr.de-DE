@@ -7,14 +7,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 9799ecc03a1e6e5206bf759237f8a837f0a25c6e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 362fdef04b63b58169861252d7c37acea29ab09a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62588458"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63246005"
 ---
 # <a name="sync-a-users-profile-picture"></a>Synchronisieren des Profilbilds eines Benutzers
 
