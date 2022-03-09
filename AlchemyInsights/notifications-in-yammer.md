@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002878"
 - "5480"
-ms.openlocfilehash: 5bd010a81405b27c6181d24b3c6a2a84bc129589
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5a9cf87a3a0b933f8d718fc8f135e49b2f517961
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62601491"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63087742"
 ---
 # <a name="notifications-in-yammer"></a>Benachrichtigungen in Yammer
 

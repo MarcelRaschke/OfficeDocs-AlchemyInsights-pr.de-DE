@@ -8,25 +8,25 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 50efaa23c553f0cde040870ab342a6d966d86e6b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8bd577f5e7b2fc0ab87be27e65f5a59a73f9d1aa
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62742419"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63220965"
 ---
 # <a name="tile-errors"></a>Kachelfehler
 
-- „Unerwartete Fehler beim Laden des Modells.“ Versuchen Sie es später erneut.
+- „Unerwartete Fehler beim Laden des Modells.“ Versuchen Sie es später noch mal.
 
-- "Sie haben keine Berechtigungen zum Anzeigen dieser Kachel.“ Wenden Sie sich an den Dashboardbesitzer.
+- „Keine Berechtigungen zum Anzeigen dieser Kachel.“ Wenden Sie sich an den Besitzer des Dashboards..
 
-- "Daten-Shapes müssen mindestens eine Gruppe oder eine Berechnung enthalten, die Daten ausgibt.“ Wenden Sie sich an den Dashboardbesitzer.
+- „Datenformen müssen mindestens eine Gruppe oder Berechnung enthalten, die Daten ausgibt." Wenden Sie sich an den Besitzer des Dashboards.
 
 - „Es gibt keine Daten, die angezeigt werden können, weil die Abfrage leer ist.“ Versuchen Sie, einige Felder aus der Feldliste zu Ihrem visuellen Element hinzuzufügen und es dann erneut anzuheften.
 

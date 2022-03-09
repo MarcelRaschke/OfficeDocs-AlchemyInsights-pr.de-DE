@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "12068"
 - "9007192"
-ms.openlocfilehash: 0e8029d63a1984f0b6ef5176f1a532cd02dd186e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3548146e714244e4408f6f8ea7e29d6315027e92
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62713293"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63280421"
 ---
 # <a name="windows-11-frequently-asked-questions-faq"></a>Häufig gestellte Fragen (FAQ) zu Windows 11
 
@@ -32,7 +32,7 @@ PCs mit vorinstalliertem Windows 11 werden Ende des Jahres 2021 verfügbar sein.
 
 **Wie viel kostet ein PC mit Windows 11?**
 
-Das kommt darauf an. Viele verschiedene Hersteller bieten eine Vielzahl von Geräten an, auf denen Windows 11 ausgeführt wird, alle zu unterschiedlichen Preisen.
+Es hängt davon ab! Viele verschiedene Hersteller bieten eine Vielzahl von Geräten an, auf denen Windows 11 ausgeführt wird – alles zu unterschiedlichen Preisen.
 
 
 **Wo kann ich einen PC mit Windows 11 kaufen?**
@@ -52,7 +52,7 @@ Die meisten derzeit verkauften Windows 10-PCs können auf Windows 11 aktualisier
 
 **Woher weiß ich, ob ein neuer Windows 10-PC die Mindestanforderungen erfüllt?**
 
-Es gibt einige Möglichkeiten, dies herauszufinden. Wenn Sie gerade einen neuen PC kaufen, suchen Sie auf dem Faktentag nach „Kostenloses Upgrade auf Windows 11“. Sie können auch Ihren Einzelhandelsverkäufer um dessen Bestätigung bitten.
+Es gibt einige Möglichkeiten, dies herauszufinden. Wenn Sie gerade einen neuen PC kaufen, suchen Sie nach "Kostenloses Upgrade auf Windows 11" auf dem Faktentag. Sie können auch Ihren Einzelhandelsverkäufer bitten, dies zu bestätigen.
 
 
 **Wann kann ich auf meinem Windows 10-Gerät ein Upgrade auf Windows 11 durchführen?**

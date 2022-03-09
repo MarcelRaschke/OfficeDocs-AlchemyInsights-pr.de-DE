@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6432"
 - "9003530"
 ms.date: 07/15/2020
-ms.openlocfilehash: f6c6409319f617fa5eefa1a36977f3d64d3ae73f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cdd5a7e3ccd3bf1e386b9c426ed751dbf1543353
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62576883"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63299155"
 ---
 # <a name="configure-files-on-demand"></a>OneDrive-Dateien bei Bedarf konfigurieren
 
@@ -37,12 +37,12 @@ So konfigurieren Sie die Dateien bei Bedarf auf Ihrem PC:
 
 Sie können Dateien bei Bedarf auch mithilfe der Registrierung konfigurieren.
 
-Wenn Sie diese Einstellung deaktivieren, weisen Windows 10-Benutzer das gleiche Synchronisierungsverhalten wie Benutzer der früheren Versionen von Windows auf, und sie können "Dateien bei Bedarf" nicht aktivieren. Wenn Sie diese Einstellung nicht konfigurieren, können die Benutzer „Dateien bei Bedarf“ aktivieren oder deaktivieren.
+Wenn Sie diese Einstellung deaktivieren, tritt für Windows 10-Benutzer das gleiche Synchronisierungsverhalten wie für Benutzer früherer Versionen von Windows auf, und Benutzer können „Dateien bei Bedarf“ nicht aktivieren. Wenn Sie diese Einstellung nicht konfigurieren, können Benutzer „Dateien bei Bedarf“ aktivieren oder deaktivieren.
 
 Durch Aktivieren dieser Richtlinie wird der folgende Registrierungsschlüsselwert auf 1 festgelegt. Das Deaktivieren dieser Richtlinie setzt den folgenden Registrierungsschlüsselwert auf 0.
 
 `[HKLM\SOFTWARE\Policies\Microsoft\OneDrive]"FilesOnDemandEnabled"="dword:00000001"`
 
-Wenn die Dateien bei Bedarf-Option in „Einstellungen“ nicht angezeigt wird, stellen Sie sicher, dass der Starttyp des Dienstes „Windows-Clouddateien-Filter-Treiber“ auf 2 (AUTO_START) festgelegt ist. Das Aktivieren dieses Features setzt den folgende Registrierungsschlüsselwert auf 2.
+Wenn die „Dateien bei Bedarf“-Option in „Einstellungen“ nicht angezeigt wird, stellen Sie sicher, dass der Starttyp des Dienstes „Windows Cloud Files Filter Driver“ auf 2 (AUTO_START) festgelegt ist. Das Aktivieren dieses Features setzt den folgenden Registrierungsschlüsselwert auf 2.
 
 `[HKLM\SYSTEM\CurrentControlSet\Services\CldFlt]"Start"="dword:00000002"`

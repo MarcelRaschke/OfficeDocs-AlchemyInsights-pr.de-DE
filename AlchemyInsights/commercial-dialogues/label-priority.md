@@ -8,21 +8,21 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: d7e30452ce1573c8497cb019bc361bb72f175245
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7fe1b5b6ab4ab7b9a0154ad90f45739711235301
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62761931"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63093826"
 ---
 # <a name="label-priority-order-matters"></a>Priorität der Bezeichnungen (Reihenfolge wesentlich)
 
-Wenn Sie Vertraulichkeitsbezeichnungen in dem Admin Center erstellen, werden sie in einer Liste auf der Registerkarte **Vertraulichkeit** auf der Seite **Bezeichnungen** angezeigt. In dieser Liste ist die Reihenfolge der Beschriftungen wichtig, da diese ihre Priorität widerspiegelt. Ihre restriktive Vertraulichkeitsbezeichnung wie **Sehr vertraulich** sollte am Ende der Liste und Ihre am wenigsten restriktive Vertraulichkeitsbezeichnung wie **Öffentlich** oben angezeigt wird.
+Wenn Sie die Vertraulichkeitsbezeichnungen in dem Admin Center erstellen, werden sie in einer Liste auf der Registerkarte **Vertraulichkeit** auf der Seite **Bezeichnungen** angezeigt. In dieser Liste ist die Reihenfolge der Bezeichnungen wichtig, da sie ihrer Priorität entspricht. Ihre restriktivste Vertraulichkeitsbezeichnung, z. B. Streng vertraulich, soll am **Ende** der Liste und Ihre am wenigsten restriktive Vertraulichkeitsbezeichnung, z. B. Öffentlich, am **Anfang** stehen.
 
 Sie können nur eine Vertraulichkeitsbezeichnung auf ein einzelnes Dokument oder eine E-Mail anwenden. Wenn Sie eine Option festlegen, die bestimmt, dass Benutzer eine Begründung für die Änderung der Bezeichnung zu einer niedrigeren Klassifizierung angeben müssen, werden in der Reihung dieser Liste die niedrigeren Klassifizierungen angegeben.
 

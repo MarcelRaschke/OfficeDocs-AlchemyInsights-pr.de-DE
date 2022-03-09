@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 084d35e12426e738270df5b320b71ba8e34aea0c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1f0c3a08118a8fc7d3ae52a846a5f5573a9cdb4b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62594545"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63155083"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>AIP-Client: Die automatische Klassifizierung zeigt nicht das erwartete Verhalten
 
@@ -29,7 +29,7 @@ Die automatische Klassifizierung zeigt nicht das erwartete Verhalten? Verwenden 
 4. Wenn Sie die [integrierten Informationstypen](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) für Ihre Azure Information Protection-Richtlinie verwendet haben, überprüfen Sie, ob die Inhalte dem erwarteten Format entsprechen.
 5. Vergewissern Sie sich, dass die Bezeichnung ordnungsgemäß für **Automatisch** oder **Empfohlen** konfiguriert ist. (Die **automatische** Bezeichnung steht für alle Microsoft 365-Apps zur Verfügung, während die **empfohlene** für alle Microsoft 365-Apps außer Outlook verfügbar ist.)
 6. Sie können keine automatische Klassifizierung für Dokumente und E-Mails verwenden, die zuvor manuell bezeichnet oder automatisch mit einer höheren Klassifizierung gekennzeichnet wurden.  Weitere Informationen finden Sie unter [Anwenden automatischer oder empfohlener Bezeichnungen](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
-7. Wenn weiterhin Probleme auftreten, rufen Sie Azure Information Protection-Clientprotokolle ab, und fügen Sie die exportierten Protokolle an Ihr Support-Ticket an. So exportieren Sie Azure Information Protection-Protokolle:
+7. Wenn weiterhin Probleme auftreten, sammeln Sie Azure Information Protection-Clientprotokolle, und fügen Sie die exportierten Protokolle an Ihr Supportticket an. So exportieren Sie Azure Information Protection-Protokolle:
     - Öffnen Sie ein Office-Dokument oder erstellen Sie eine neue E-Mail in Outlook.
     - Klicken Sie auf **Schutz/Vertraulichkeit** > **Hilfe und Feedback**.
     - Klicken Sie auf **Protokolle exportieren**.
