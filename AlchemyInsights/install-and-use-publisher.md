@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002627"
 - "5045"
-ms.openlocfilehash: b104412c7a0dbfe1414b4fee84d0194cd8855dba
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a92a806a48d9bfdd2a7b2d1ddcd5d18304983b5f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62637762"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63306977"
 ---
 # <a name="install-and-use-publisher"></a>Installieren und Verwenden von Publisher
 

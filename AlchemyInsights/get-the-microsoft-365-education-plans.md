@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4979"
-ms.openlocfilehash: b91005b03b4ae70f8868181f62cedd80f14afbbf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3a6b11d9e32e110e69c867e36694473239352faa
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62686007"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63307301"
 ---
 # <a name="get-the-microsoft-365-education-plans"></a>Abrufen der Microsoft 365 Education-Pläne
 

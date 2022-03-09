@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1127"
 - "6700007"
-ms.openlocfilehash: 79f78a734aeb5d131299dfd2a72bdceff9b2ed04
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 71b22c9d1932e1bd78d7cafaf41b9ea7cb406806
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62721681"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63307409"
 ---
 # <a name="download-and-share-updates"></a>Herunterladen und Freigeben von Updates
 

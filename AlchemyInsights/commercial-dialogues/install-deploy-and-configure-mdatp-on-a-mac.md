@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: d38adb3dbe19dd65901f0b0b0fb4d5f04feddfb6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3d02ad22b3b31fe328d4c5220d5f7ca779f80094
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62761977"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63258281"
 ---
 # <a name="install-deploy-and-configure-mdatp-on-a-mac"></a>Installieren, Bereitstellen und Konfigurieren von MDATP auf einem Mac
 

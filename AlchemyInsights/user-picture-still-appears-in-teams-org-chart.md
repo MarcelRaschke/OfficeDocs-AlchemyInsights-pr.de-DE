@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "13834"
 - "9007457"
-ms.openlocfilehash: f8b86557af9079f8f3a9bbf9ba229bed04f0dc7c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9d302515001fcfe2483bf8d17775e420b8abfdeb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62569006"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63165090"
 ---
 # <a name="user-picture-still-appears-in-the-microsoft-teams-organization-chart"></a>Das Benutzerbild erscheint weiterhin im Microsoft Teams Organigramm
 
@@ -30,4 +30,4 @@ Wenn eine oder mehrere Personen in Ihrer Organisation deaktiviert oder entfernt 
 Wenn das Festlegen von **ShowInAddressLists** auf **Nein** nicht funktioniert, überprüfen Sie Folgendes:
 
 - Der Benutzer wird möglicherweise aus der Empfängerliste in Exchange angezeigt. Weitere Informationen finden Sie unter [Adressliste in Exchange Online verwalten](https://docs.microsoft.com/exchange/address-books/address-lists/manage-address-lists#use-the-eac-to-hide-recipients-from-address-lists).
-- Der Benutzer wird möglicherweise aus der Adressenliste in Azure Active Directory angezeigt. Weitere Informationen finden Sie unter [Set-AzureADUser](https://docs.microsoft.com/powershell/module/azuread/set-azureaduser?view=azureadps-2.0&preserve-view=true).
+- Der Benutzer wird möglicherweise aus der Adressliste in Azure Active Directory angezeigt. Weitere Informationen finden Sie unter [Set-AzureADUser](https://docs.microsoft.com/powershell/module/azuread/set-azureaduser?view=azureadps-2.0&preserve-view=true).

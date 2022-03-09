@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002872"
 - "5425"
 ms.date: 07/30/2021
-ms.openlocfilehash: 827261282c6563771ddfedd7ea6414a617fb75aa
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2cc8fff7d177807d0d7b6662ee75bbe2d83ccc91
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62620464"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63306689"
 ---
 # <a name="microsoft-365-a5-faq"></a>Häufig gestellte Fragen zu Microsoft 365 A5
 

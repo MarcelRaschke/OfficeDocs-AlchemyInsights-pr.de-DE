@@ -1,5 +1,5 @@
 ---
-title: Bereitstellen nahtloser einzelner Sign-On
+title: Bereitstellen nahtloser Sign-On
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
-ms.openlocfilehash: 2d1f38a2498e61bf0286bc251bb79b780273b647
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d80c26cd5afbe1d5507c5ef887b1df7ef9943bb5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62556003"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63257669"
 ---
 # <a name="enable-seamless-sso"></a>Nahtloses SSO aktivieren
 

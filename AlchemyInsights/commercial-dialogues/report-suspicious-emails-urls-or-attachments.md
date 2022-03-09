@@ -7,23 +7,23 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 141cc8a0caad02bfbd40a291f9883809a16ec375
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 55d07e3543dce866100ffb197143ce585059d0ee
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62702060"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63258029"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Melden verdächtiger E-Mails, URLs oder Anlagen
 
 Ich bin mir bewusst, dass Sie Hilfe bei der Untersuchung einer verdächtigen E-Mail oder einer E-Mail benötigen, die falsch gefiltert wurde. Ich kann Ihnen helfen, das Problem zur Analyse über das **Übermittlungsportal** zu übermitteln, das Ihnen sofortiges Feedback gibt. Hier ist eine Zusammenfassung der Schritte:
 
-1. Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com>zu **"E-Mail & Übermittlungen für die Zusammenarbeit** \> **"**.
+1. Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com>zu **E-Mail-& Übermittlungen für die Zusammenarbeit**\>.
 
    Um direkt zur Seite **"Übermittlungen** " zu wechseln, verwenden Sie <https://security.microsoft.com/reportsubmission>.
 
