@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: 40d964ef9356201fa25f6ca5f4df6eb5f63f6fcf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: da3667f6f60697089b6ef91448e1878afe0086ad
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62719989"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63255293"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>Häufige Probleme und Lösungen mit OneNote
 
@@ -33,6 +33,6 @@ Hier sind einige häufig angeforderte OneNote Themen:
 
 - [Problembehandlung beim Verschieben von Notizbüchern in die Cloud](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).
 
-- [Installieren Sie OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08): Ab März 2020 wird die OneNote-Desktop-App zusammen mit den Word-, PowerPoint- und Excel-Desktop-Apps installiert, wenn Sie Office 365 oder Office 2019 installieren.
+- [Installieren sie OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08)– Ab März 2020, wenn Sie Office 365 oder Office 2019 installieren, wird die OneNote-Desktop-App zusammen mit den Word-, PowerPoint- und Excel-Desktop-Apps installiert.
 
 - [Exportieren und Importieren OneNote Notizbüchern](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).
