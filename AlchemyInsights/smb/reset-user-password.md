@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009978"
 - "15342"
 ms.date: 02/17/2022
-ms.openlocfilehash: 7ab626e34b50e16111d56b24371a37cd5cb6bb38
-ms.sourcegitcommit: 91424b926f0d96b55c2fca88f323c3eebbdb9f08
+ms.openlocfilehash: 58b545f12ad12f6f128cf01e795a20dd267f5e49
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62893259"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63304555"
 ---
 # <a name="reset-password"></a>Kennwort zurücksetzen
 

@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010112"
 - "15577"
 ms.date: 02/11/2022
-ms.openlocfilehash: 853f8f8e053df2e5963662dcb321082fe8747f52
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: 49ae2e7f4ae7745051082f00746f5bbcdc78a9e0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790226"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63304591"
 ---
 # <a name="onedrive-synchronization-for-mac"></a>OneDrive-Synchronisierung für Mac
 
-Wenn Sie Microsoft OneDrive-Synchronisation App für Mac installieren, wird eine Kopie Ihrer OneDrive auf Ihren Mac heruntergeladen und in den OneDrive Ordner eingefügt. Dieser Ordner wird mit OneDrive synchronisiert. Wenn Sie eine Datei oder einen Ordner auf der OneDrive Website hinzufügen, ändern oder löschen, wird die Datei oder der Ordner in Ihrem OneDrive Ordner hinzugefügt, geändert oder gelöscht und umgekehrt.
+Wenn Sie Microsoft OneDrive-Synchronisation App für Mac installieren, wird eine Kopie Ihrer OneDrive auf Ihren Mac heruntergeladen und in den Ordner OneDrive verschoben. Dieser Ordner wird mit OneDrive synchronisiert. Wenn Sie eine Datei oder einen Ordner auf der OneDrive Website hinzufügen, ändern oder löschen, wird die Datei oder der Ordner in Ihrem OneDrive Ordner hinzugefügt, geändert oder gelöscht und umgekehrt.
 
 Sie können den Finder auch verwenden, um Dateien umzubenennen und zu löschen, neue Ordner zu erstellen und Dateien in Ihrem OneDrive Ordner zu verschieben. Die Änderungen werden automatisch in OneDrive und ihren anderen Computern vorgenommen, auf denen die Synchronisierungs-App installiert ist.
 

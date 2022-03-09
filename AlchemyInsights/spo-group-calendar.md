@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2736"
-ms.openlocfilehash: 795abd6bf6d2edd7cde954b93ab911ab5fe9b972
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a366a48398593a56254c0daad3f638ff25b8057d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62677795"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63303977"
 ---
 # <a name="spo-group-calendar"></a>SPO-Gruppenkalender
 

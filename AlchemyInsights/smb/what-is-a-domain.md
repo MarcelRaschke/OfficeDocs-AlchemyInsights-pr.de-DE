@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009960"
 - "15502"
 ms.date: 02/11/2022
-ms.openlocfilehash: 1b2fc513cbbc0e79c8ae470347676520fba5435f
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: ee104704b598b9822dd793113235916b11d65584
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790288"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63304401"
 ---
 # <a name="what-is-a-domain"></a>Was ist eine Domäne?
 

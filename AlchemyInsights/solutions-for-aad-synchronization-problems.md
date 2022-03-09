@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002418"
 - "4695"
-ms.openlocfilehash: 1869f804016cd8063ab1a42d03df2e16fd852a56
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5852c136b8874620351c522c03c7986884284eae
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62751455"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63304279"
 ---
 # <a name="solutions-for-aad-synchronization-problems"></a>Lösungen für AAD-Synchronisierungsprobleme
 

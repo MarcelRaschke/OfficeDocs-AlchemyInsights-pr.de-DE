@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
 ms.custom:
 - "906"
 - "2000023"
-ms.openlocfilehash: 997880931fa78631a3f7f940cd0830815107c807
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 45c189633efba1adbc64275dd7115049dc715298
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62596702"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63304095"
 ---
 # <a name="solutions-for-unsupported-operating-system"></a>Lösungen für "Nicht unterstütztes Betriebssystem"
 
@@ -32,5 +32,5 @@ Microsoft 365 erfordert:
 
 - Mac OS X 10.10
 
-Wenn beim Versuch, Office auf einem mobilen Gerät oder einem Chromebook zu installieren, diese Meldung angezeigt wird, lesen Sie die [Informationen zum Installieren und Ausführen Microsoft Office auf einem Chromebook](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
+Wenn beim Versuch, Office auf einem mobilen Gerät oder einem Chromebook zu installieren, diese Meldung angezeigt wurde, lesen Sie die [Informationen zum Installieren und Ausführen von Microsoft Office auf einem Chromebook](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
   

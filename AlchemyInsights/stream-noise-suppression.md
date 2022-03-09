@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6068"
 - "9003225"
-ms.openlocfilehash: 24e57ae4e346a3606e12c313b641765d4cb234cd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 85a2adc7f400f43c887dd9bffc8590101f66ec02
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62677556"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63303809"
 ---
 # <a name="stream-noise-suppression"></a>Stream-Rauschunterdrückung
 
