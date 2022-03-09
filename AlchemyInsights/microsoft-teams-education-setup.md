@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9008595"
 - "13729"
 ms.date: 01/13/2022
-ms.openlocfilehash: 9de6eb3e1fdbdbc0d5de406e25a5f7b415cd90c9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ef228ff6bea291b6b768a12fef9ee472a5daee4d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62683735"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63306545"
 ---
 # <a name="microsoft-teams-for-education-setup"></a>Microsoft Teams für Education Einrichten
 

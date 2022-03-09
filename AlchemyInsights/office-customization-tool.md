@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O364
 ms.custom:
 - "9003533"
 - "10881"
-ms.openlocfilehash: d5c1aa49d16a1eddfa92c529bda830a629c44853
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 838529a612a82b34205cc673387178ec91427e0e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62697632"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63305887"
 ---
 # <a name="office-customization-tool"></a>Office-Anpassungstool
 

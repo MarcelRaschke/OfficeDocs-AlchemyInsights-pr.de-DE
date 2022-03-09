@@ -7,22 +7,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 1011f153f53bcacce3a9295c9d0f0bfbf400a47a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3ef7cdfc5bfb5d73f8cafc403fe254f4f27230ff
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62727235"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63305263"
 ---
 # <a name="sharepoint-designer-connection-issues"></a>SharePoint Designer-Verbindungsprobleme 
 
 Wenn SharePoint Designer Verbindungsprobleme mit SharePoint Websites hat, probieren Sie die folgenden allgemeinen Lösungen aus.
 
-Schritt 1: Stellen Sie sicher, dass SharePoint Designer 2013 mit [SharePoint Designer Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) und dem [Update vom 2. August 2016 für SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721) aktualisiert wurde.
+Schritt 1: Stellen Sie sicher, dass SharePoint Designer 2013 mit [SharePoint Designer Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) und dem [Update vom 2. August 2016 für SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721) aktualisiert wird.
 
 
 
@@ -40,6 +40,6 @@ Schritt 2: Löschen sie die lokalen Cachedateien:
 
 Schritt 3: [Aktivieren der modernen Authentifizierung für Office 2013 auf Windows Geräten](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
 
-Schritt 4: Administratoren müssen **benutzerdefinierte Skripts** in den Einstellungen des SharePoint Admin Center zulassen, um die SharePoint Designer-Verbindung zuzulassen. Weitere Informationen finden Sie unter [Zulassen oder Verhindern von benutzerdefinierten Skripts](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) .
+Schritt 4: Administratoren müssen **benutzerdefinierte Skripts** in den Einstellungen für SharePoint Admin Center zulassen, um die SharePoint Designer-Verbindung zuzulassen. Weitere Informationen finden Sie unter [Zulassen oder Verhindern von benutzerdefinierten Skripts](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) .
 
 

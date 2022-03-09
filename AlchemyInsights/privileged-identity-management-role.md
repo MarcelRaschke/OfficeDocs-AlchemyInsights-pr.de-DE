@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "6825"
-ms.openlocfilehash: d903d00fbfbeb311f032f93deafb5464fbe90b7a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ba12061a866063fe7cd8a64575cf19fb6a38cb2c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62648220"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63305569"
 ---
 # <a name="privileged-identity-managementpim-role"></a>rolle Privileged Identity Management(PIM)
 
@@ -39,11 +39,11 @@ Weitere Informationen finden Sie unter:
 
 **Berechtigungen werden nicht entfernt, nachdem eine Rolle deaktiviert wurde oder die Rollenaktivierung abläuft.**
 
-Wenn Sie eine Rolle in Azure AD Privileged Identity Management deaktivieren oder ein Aktivierungszeitraum abgelaufen ist, kann es zu einer Verzögerung kommen, wenn Sie weiterhin Zugriff haben.
+Wenn Sie eine Rolle in Azure AD Privileged Identity Management deaktivieren oder wenn ein Aktivierungszeitraum für Rollen abläuft, kann es zu einer Verzögerung kommen, wenn Sie weiterhin Zugriff haben.
 
 Wenn die Deaktivierung verzögert wird, führen Sie die folgenden Schritte aus:
 
-1. Wenn Sie die Exchange Administratorrolle deaktivieren oder der Aktivierungszeitraum für die Rolle abläuft und Sie eine erhebliche Verzögerung bemerken, bevor die Berechtigungen entfernt werden, öffnen Sie ein Supportticket, und weisen Sie Ihren Supporttechniker an, Ihnen zu helfen, innerhalb Office zu diesem Problem ein Ticket beim Pam-Team (Privileged Access Management) zu beantragen.
+1. Wenn Sie die Exchange Administratorrolle deaktivieren oder der Aktivierungszeitraum der Rolle abläuft und Sie eine erhebliche Verzögerung bemerken, bevor die Berechtigungen entfernt werden, öffnen Sie ein Supportticket, und weisen Sie Ihren Supporttechniker an, Ihnen zu helfen, innerhalb Office zu diesem Problem ein Ticket beim Pam-Team (Privileged Access Management) zu beantragen.
 2. Wenn der Aktivierungszeitraum abgelaufen ist, Sie die Browsersitzung aber noch geöffnet haben, schließen Sie Ihren Browser. Sie können die Rolle weiterhin verwenden, bis Sie diese Sitzung schließen. Dies ist ein bekanntes Problem, und wir sehen uns einen potenziellen Fix an, um jede Sitzung aktiv zu widerrufen, sobald die Aktivierung abgelaufen ist.
 
 Wenn sich Ihre Verzögerung von diesen beiden Szenarien unterscheidet, öffnen Sie bitte ein Supportticket.

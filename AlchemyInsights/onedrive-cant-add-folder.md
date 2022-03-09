@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11234"
 - "9006575"
-ms.openlocfilehash: f8f5ca4e0aba8526cd1992dfae7a8235df43ff7d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 091a4f8c8d727adc1d06f1e546500f9880368341
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62588422"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63305713"
 ---
 # <a name="onedrive-cant-add-your-folder-right-now"></a>OneDrive kann Ihren Ordner im Moment nicht hinzufügen
 

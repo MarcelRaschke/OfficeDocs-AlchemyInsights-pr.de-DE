@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: ''
 ms.custom:
 - "9003873"
 - "6926"
-ms.openlocfilehash: e71322b065f200d782af207ab5db740244db79c6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e1247f2547f62fb8a581fe43da31fffb18f1ccce
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62619744"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63306365"
 ---
 # <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Ändern Microsoft Edge mithilfe von Datenverzeichnisvariablen anstelle von hartcodierten Pfaden
 

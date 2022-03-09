@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 815ceb2e0a1301ee13075a8e719c816bee4bb845
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 13890332eca371171d47341ad72498d736439bca
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62683339"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63306509"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft-Bedrohungsexperten – Benachrichtigung über gezielte Angriffe
 

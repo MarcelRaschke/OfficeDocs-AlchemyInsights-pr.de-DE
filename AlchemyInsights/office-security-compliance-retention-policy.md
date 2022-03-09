@@ -9,17 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 86e3521f14af91416226a729392ed43bad595490
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fcb2c20952070f5019faa58b10ee187e75fc1ac4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62682538"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63305785"
 ---
 # <a name="more-info-about-retention-policies"></a>Weitere Informationen zu Aufbewahrungsrichtlinien
 
@@ -30,10 +30,10 @@ Für die meisten Organisationen nimmt das Volumen und die Komplexität ihrer Dat
 - Wechseln Sie zu "Sicherheit und Compliance > Datengovernance > Aufbewahrung"
   - Weitere Informationen finden Sie [in diesem](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) Artikel.
 
-- Wechseln Sie zu "Sicherheit und Compliance > eDiscovery> Advanced eDiscovery 
+- Wechseln Sie zu "Security and Compliance > eDiscovery> Advanced eDiscovery" 
   - Weitere Informationen finden Sie [in diesem](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) Artikel.
 
-- Wechseln Sie zu "Sicherheits- und Compliance-> Klassifizierungen > Aufbewahrung"
+- Wechseln Sie zu "Sicherheit und Compliance > Klassifizierungen > Aufbewahrung"
   - Siehe diese Artikel
     - [Vertraulichkeitsbezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
     - [Übersicht über Bezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/labels)

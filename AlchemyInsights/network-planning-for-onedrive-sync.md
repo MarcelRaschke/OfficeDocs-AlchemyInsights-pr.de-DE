@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5838"
-ms.openlocfilehash: d8a381362fd98955b6db91084b131a1c67bdfe4f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5e300a394ed2b0a7b8340f7d77f5f7ce02c430ca
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62649021"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63306113"
 ---
 # <a name="network-utilization-planning-for-the-onedrive-sync-app"></a>Planen der Netzwerkauslastung für die OneDrive-Synchronisierungs-App
 

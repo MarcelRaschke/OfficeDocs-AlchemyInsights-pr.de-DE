@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9000676"
 - "2577"
-ms.openlocfilehash: 195897eba3263b5a34714882b95682269b154fd4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9aa1efc6a1dae3ed62c52783f17897d8148ee471
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62754227"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63305641"
 ---
 # <a name="onenote-class-notebook-issues-and-resolutions"></a>Probleme und Lösungen für OneNote Kursnotizbuch
 

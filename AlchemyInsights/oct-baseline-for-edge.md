@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11140"
-ms.openlocfilehash: 4903303b75fb748c6a672c570ea1f12229d6bbbf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6adcbdc9b4db0a573eaec45464124cbb3f552448
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62601275"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63306005"
 ---
 # <a name="view-the-october-2019-baseline-for-microsoft-edge-versions-77-and-later"></a>Anzeigen des Basisplans für Oktober 2019 für Microsoft Edge Versionen 77 und höher
 

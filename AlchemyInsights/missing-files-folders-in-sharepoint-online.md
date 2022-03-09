@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002302"
 - "4465"
-ms.openlocfilehash: 16f31d445ae9cf7a11ca26faf24a3d5963009b71
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ada54f343e21a6d10f86d3680d1a8fddf517b14b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62573283"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63306437"
 ---
 # <a name="missing-filesfolders-in-sharepoint-online"></a>Fehlende Dateien/Ordner in SharePoint Online
 
