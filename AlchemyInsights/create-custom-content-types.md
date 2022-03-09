@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
 ms.custom:
 - "5792"
 - "9003050"
-ms.openlocfilehash: 4c5494ddcf94289658db6f076ab851ec72e6ffa1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 962232d4508ec239502c8adf4f7ed35c18137767
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62760887"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63307661"
 ---
 # <a name="create-custom-content-types"></a>Erstellen von benutzerdefinierten Inhaltstypen
 

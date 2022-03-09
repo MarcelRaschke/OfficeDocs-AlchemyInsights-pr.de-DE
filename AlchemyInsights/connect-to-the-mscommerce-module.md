@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 0f2bde09878c75dfab9b56a59fee7e1630a34b5f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f73779c16b3eda6876b0f3c207dee06f42c39749
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62737469"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63307697"
 ---
 # <a name="connect-to-the-mscommerce-module"></a>Verbinden zum MSModule-Modul
 
