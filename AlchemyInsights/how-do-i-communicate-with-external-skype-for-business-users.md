@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 1a3c3b0f0492ec492ffd9f0e887a54b4a2638fe3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a2583c22e38d4f8fb3b26bf4a37e2d12545409af
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62552848"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63256697"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Externe Kommunikation mit Skype for Business zulassen 
 

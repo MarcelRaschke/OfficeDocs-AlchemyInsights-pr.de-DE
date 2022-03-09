@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11543"
 - "9001671"
-ms.openlocfilehash: fbc84956217ec2dc93ee8fa954d31ec7377bbbac
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3d70c57413f9f851bcdb60718700f2f0e718d727
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62657490"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63308165"
 ---
 # <a name="change-your-microsoft-365-address"></a>Ändern Ihrer Microsoft 365-Adresse
 

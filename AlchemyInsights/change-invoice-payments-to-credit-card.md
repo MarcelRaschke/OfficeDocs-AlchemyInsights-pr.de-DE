@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
 - "1500001"
 - "13999"
 ms.date: 04/16/2021
-ms.openlocfilehash: b836a6a90c69a7382ca3b542f1edebea904ad8c9
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 959397c9b5ed9866ace142a301dfc33185849ac2
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62609015"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63308273"
 ---
 # <a name="change-from-invoice-payments-to-credit-card-or-bank-account"></a>Ändern der Zahlungsmethode von auf Rechnung zu per Kreditkarte oder Bankkonto
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 86f18e7dddb2fe7e39ee70e61b8fe9e0ada3fc20
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b8f0e0f69c2c8cda54096f879562232e1b071447
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62701736"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63257417"
 ---
 # <a name="domain-transfers"></a>Domänenübertragungen
 

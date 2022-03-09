@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: d8b79fa1a4ad719cb546a785d351f64af0908287
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: fa6388dd25df532421c7f89769adddb1fdc5a62f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62749043"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63186944"
 ---
 # <a name="comments-in-microsoft-planner"></a>Kommentare in Microsoft Planner
 
@@ -29,7 +29,7 @@ Hier finden Sie einige Antworten auf häufige Probleme im Zusammenhang mit Komme
 
 - **Kommentare werden nicht gespeichert**: Der Benutzer, der den Kommentar hinzufügt, verfügt nicht über die Berechtigung zum Senden von E-Mails an die Microsoft 365-Gruppe. Weitere Informationen zu diesem Szenario finden Sie unter [Funktionsweise von Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736).
 
-- Die Fehlermeldung **Sie haben keinen Zugriff mehr** wird angezeigt, oder **Gastbenutzer können keine Kommentare hinzufügen**: Diese Meldungen werden möglicherweise Gastbenutzern angezeigt, die keine E-Mails an das Gruppen-Postfach senden können. Um das Problem zu beheben, stellen Sie sicher, dass der Gastbenutzer über eine gültige E-Mail-Adresse verfügt.
+- Der Fehler **Sie haben keinen Zugriff mehr** wird angezeigt, oder **Gastbenutzer können keine Kommentare hinzufügen** – Gastbenutzer, die keine E-Mail an den Gruppenposteingang senden können, sehen diese Meldung möglicherweise. Um dies zu beheben, stellen Sie sicher, dass der Gastbenutzer über eine gültige E-Mail-Adresse verfügt.
 
 - **Gelöschte Benutzer erhalten E-Mails**: Wenn ein Benutzer vor dem Entfernen aus dem Plan einen Kommentar zu einer Aufgabe eingibt, wird er für jeden Kommentar, der für die Aufgabe erstellt wird, in den E-Mail-Thread einbezogen.
 

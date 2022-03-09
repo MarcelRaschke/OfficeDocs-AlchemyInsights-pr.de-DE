@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom: ''
 ms.assetid:
 - "9001733"
 - "4401"
-ms.openlocfilehash: 15604a2eb5e8bd1a27b9f9e9cedac83b30191872
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f63e78413e50257db8ba6671845dfd803e46c7e5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62627754"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63308705"
 ---
 # <a name="allow-your-users-to-communicate-with-skype-consumer-users"></a>Die Kommunikation zwischen Ihren Benutzern und Benutzern von Skype Consumer zulassen
 

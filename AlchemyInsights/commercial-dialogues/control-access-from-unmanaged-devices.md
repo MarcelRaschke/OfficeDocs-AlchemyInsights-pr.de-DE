@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: 07d36bc65217a9a0735c8986422a649df0038243
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d5b857b8f65bfe59c45168f6f81e7fb2707c1beb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62762183"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63162139"
 ---
 # <a name="control-the-access-from-unmanaged-devices"></a>Steuern des Zugriffs von nicht verwalteten Geräten
 

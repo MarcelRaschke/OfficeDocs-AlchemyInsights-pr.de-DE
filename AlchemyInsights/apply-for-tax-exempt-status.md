@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: d3e63695a9b33f08ae52c25de6ce04cdb7d5791b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ef56d1863d449dd98807998c366f84bdf7c619bb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62611787"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63308453"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Beantragen des Status einer Steuerbefreiung
 

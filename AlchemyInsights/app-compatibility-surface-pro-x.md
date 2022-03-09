@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7009"
 - "9003951"
-ms.openlocfilehash: a1159b900be6e6b4a00cf0a3bd574e9931796b57
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5f4fda4fbb2b3ebef9c31026e75d9b0d28834f2c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62611823"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63308597"
 ---
 # <a name="app-compatibility-with-microsoft-surface-pro-x"></a>App-Kompatibilität mit Microsoft Surface Pro X
 
@@ -32,7 +32,7 @@ Anwendungen werden auf Geräten wie dem Surface Pro X unterschiedlich ausgeführ
 
 **Antivirensoftware von Drittanbietern.** Einige Antivirensoftware von Drittanbietern kann nicht installiert werden. Windows Security hilft Ihnen, Ihre Daten während der unterstützten Lebensdauer Ihres Windows 10-Geräts zu schützen.
 
-**Windows-Fax und -Scanner.** Windows-Fax und -Scanner sind auf einem ARM-basierten Windows 10-PC nicht verfügbar.
+**Windows-Fax und -Scan.** Windows-Fax und -Scan ist auf einem Windows 10 ARM-basierten PC nicht verfügbar.
 
 Wenn beim Installieren, Deinstallieren oder erneuten Installieren einer App Probleme auftreten, lesen Sie [Details zur Problembehandlung bei Apps](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-app-install#app-troubleshooting-details).
 

@@ -8,21 +8,21 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9141"
 - "9005291"
-ms.openlocfilehash: ea725cf0c60878032e532e2d8e925fa7a90fd811
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b7f775f8bdb6540c51e3b90fe996320ecf7e148e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62591734"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63160951"
 ---
 # <a name="evaluate-your-existing-browser-environment-and-define-goals"></a>Beurteilen der bestehenden Browserumgebung und Definieren von Zielen
 
-Nehmen Sie sich Zeit, um Ihren aktuellen Browserstatus und Ihre Projektidee besser zu verstehen, um sicherzustellen, dass alle Projektbeteiligten auf dasselbe Ziel ausgerichtet sind und auf dieses hinarbeiten. Gehen Sie wie folgt vor:
+Nehmen Sie sich Zeit, um Ihren aktuellen Browserstatus und Ihre Projektidee besser zu verstehen, um sicherzustellen, dass alle Projektbeteiligten auf dasselbe Ziel ausgerichtet sind und auf dieses hinarbeiten. Führen Sie die folgenden Schritte aus:
 
 1. Definieren Sie den aktuellen Status. Berücksichtigen Sie dabei Folgendes:
 - Welche Browser sind derzeit in Ihrer Umgebung bereitgestellt?

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002578"
 - "4996"
-ms.openlocfilehash: 6b9d2759ea4c1267d5d004227d4aa5ff9b7bc614
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 635fd7a654b0e2776fe348dfdb40d156581d9b79
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62723661"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63308237"
 ---
 # <a name="change-the-default-link-type-for-a-site"></a>Ändern des Standardlinktyps für eine Site
 

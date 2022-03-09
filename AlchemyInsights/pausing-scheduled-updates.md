@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1129"
 - "6700007"
-ms.openlocfilehash: b8af215a6a165067d0779b144577f8959ce8de9e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e9b3ebe2eea1858a98f5c1393b8ac45dc4600e14
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62634054"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63158323"
 ---
 # <a name="pausing-scheduled-updates"></a>Anhalten geplanter Updates
 

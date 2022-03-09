@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: e3176d5e3575e15870f56300b52a70b8e252c5aa
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0a78181bbb2e0448ad3f9770246729e981c73829
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62606963"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63257525"
 ---
 # <a name="device-in-pending-state"></a>Gerät im Zustand "Ausstehend"
 
@@ -27,7 +27,7 @@ ms.locfileid: "62606963"
 2. Wenn Sie Geräte direkt bei Azure AD registrieren und sie bei Intune registrieren, müssen Sie sicherstellen, dass Sie [Intune konfiguriert](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) und die [Lizenzierung](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) zuerst eingerichtet haben.
 3. Stellen Sie sicher, dass Sie berechtigt sind, Vorgänge in Azure AD und lokalen AD auszuführen. Nur ein globaler Administrator in Azure AD kann Einstellungen für Geräteregistrierungen verwalten. Wenn Sie außerdem automatische Registrierungen in Ihrem lokalen Active Directory einrichten, müssen Sie außerdem Administrator von Active Directory und (sofern zutreffend) AD FS sein.
 
-Die Hybrid-Azure AD Registrierung erfordert, dass sich Geräte im Unternehmensnetzwerk befinden. Es funktioniert auch über VPN, aber es gibt einige Einschränkungen. Wir haben gehört, dass Kunden Unterstützung bei der Problembehandlung bei der Hybrid-Azure AD Teilnahme am Registrierungsprozess unter Remotearbeitsumgebungen benötigen.
+Für den Hybrid-Azure AD Registrierungsprozess müssen sich Geräte im Unternehmensnetzwerk befinden. Es funktioniert auch über VPN, aber es gibt einige Einschränkungen. Wir haben gehört, dass Kunden Unterstützung bei der Problembehandlung bei der Hybrid-Azure AD Teilnahme am Registrierungsprozess unter Remotearbeitsumgebungen benötigen.
 
 **Cloudauthentifizierungsumgebung (mit Azure AD Kennworthashsynchronisierung oder Pass-Through-Authentifizierung)**
 

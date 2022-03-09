@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: 6461689b82d644041477935f286892f473b6b433
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 12930e6399ae37ab316b3d766fe961e7763c897e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62622588"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63256913"
 ---
 # <a name="get-info-about-premium-assisted-software-support"></a>Informieren Sie sich über Premium assistierten Software-Support
 

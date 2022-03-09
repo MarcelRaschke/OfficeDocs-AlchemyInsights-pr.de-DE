@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "11058"
 - "9006480"
-ms.openlocfilehash: 51bcb6d0bb8f09880ab5ea6318e825627b7e6a23
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b4a542dabecb68020dc7509d25bec6f0f3f57f58
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62735381"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63257309"
 ---
 # <a name="download-microsoft-excel"></a>Herunterladen von Microsoft Excel
 

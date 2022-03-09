@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 704c01e08cb5ab1ae30dd634fba9004de0baf5bf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ce5ae4ab6dd71ffdf20e73fca0404d16d509e407
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62601959"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63183957"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migration von AIP zu MIP/einheitlichen Bezeichnungen im Compliance Center
 
@@ -39,7 +39,7 @@ Um von AIP-Bezeichnungen zu einheitlichen Bezeichnungen im Security & Compliance
 
 4. Klicken Sie auf dem Blatt **Azure Information Protection – Einheitliche Bezeichnungen** auf **Aktivieren**, und folgen Sie den Onlineanweisungen.
 
-**Hinweis**: Vergewissern Sie sich, dass Sie über die entsprechenden Berechtigungen verfügen, bevor Sie die Security & Compliance Center-Migration aktivieren. Weitere Informationen finden Sie in diesen Artikeln:
+**Hinweis**: Überprüfen Sie, dass Sie über die entsprechenden Berechtigungen verfügen, bevor Sie die Security & Compliance Center-Migration aktivieren. Lesen Sie diese Artikel für weitere Informationen:
 
 1. [Benötigt man globale Administratorrechte, um Azure Information Protection zu konfigurieren, oder kann ich das an andere Administratoren delegieren?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
 

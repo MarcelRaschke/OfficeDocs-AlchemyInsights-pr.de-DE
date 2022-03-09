@@ -8,27 +8,27 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 1beff52d2699432c349014b1dc07c2724eeed3fc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1307b31a8f41d98bd1f326df04a4b9f1e9b34715
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62611859"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63308741"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender für Office 365
 
-- Tresor Anlagen, Tresor Links und Antiphishing sind Teil von Microsoft Defender für Office 365. Enterprise E5, Education A5 und Microsoft 365 Business Premium Microsoft Defender für Office 365 enthalten. Alle anderen Pläne erfordern ein Add-On microsoft Defender für Office 365 Abonnement.
+- Tresor Anlagen, Tresor Links und Antiphishing sind Teil von Microsoft Defender für Office 365. Enterprise E5, Education A5 und Microsoft 365 Business Premium umfassen Microsoft Defender für Office 365. Alle anderen Pläne erfordern ein Add-On microsoft Defender für Office 365 Abonnement.
 
 - Sie müssen die entsprechenden Lizenzen zuweisen, um Ihre Benutzer durch Microsoft Defender für Office 365 zu schützen. Anweisungen zum Massenanfügen von Lizenzen auf Ihre Benutzer finden Sie [unter "Hinzufügen von Benutzern und gleichzeitiges Zuweisen von Lizenzen](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) ".
 
 - Globale Administratoren oder Sicherheitsadministratoren können auf Microsoft Defender für Office 365 Features im Microsoft 365 Defender-Portal im Abschnitt \> "Richtlinien für die **E-Mail-& Zusammenarbeit** **& Bedrohungsrichtlinien für Regeln**\>" zugreifen.
 
-- Tresor Richtlinien für Anlagen und Tresor Links können auf bestimmte Domänen, Gruppenmitglieder oder einzelne Benutzer beschränkt werden. Sie können auch Ausnahmen für Tresor Anlagen und Tresor Verknüpfungsrichtlinien basierend auf Domäne, Gruppenmitgliedschaft oder einzelnen Benutzern angeben.
+- Tresor Richtlinien für Anlagen und Tresor Links können auf bestimmte Domänen, Gruppenmitglieder oder einzelne Benutzer beschränkt werden. Sie können auch Ausnahmen für Tresor Anlagen und Tresor Links-Richtlinien basierend auf Domäne, Gruppenmitgliedschaft oder einzelnen Benutzern angeben.
 
-- Es gibt keine Standardrichtlinie Tresor Anlagen, die E-Mail-Nachrichten schützt. Sie müssen [eine Richtlinie](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies) für Tresor Anlagenschutz in E-Mails erstellen.
+- Es gibt keine Standardrichtlinie für Tresor Anlagen, die E-Mail-Nachrichten schützt. Sie müssen [eine Richtlinie](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies) für Tresor Anlagenschutz in E-Mails erstellen.
 
   Tresor Anlagen für SharePoint, OneDrive und Microsoft Teams ist global aktiviert oder deaktiviert und erfordert keine Tresor Anlagenrichtlinien. Weitere Informationen finden Sie unter [Tresor Anlagen für SharePoint, OneDrive und Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/mdo-for-spo-odb-and-teams).
 
