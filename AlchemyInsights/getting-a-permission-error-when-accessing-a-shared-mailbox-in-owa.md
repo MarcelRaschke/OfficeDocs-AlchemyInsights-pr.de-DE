@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: e459c6261efd658bab1be69b16484cdf483114c3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: aa4113a3f8bd80819af6a1857d6d72857572e854
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62734265"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63298791"
 ---
 # <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Erhalten Sie beim Öffnen eines freigegebenen Postfachs in Outlook im Web einen Berechtigungsfehler?
 

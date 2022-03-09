@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 9088236a73bef6706e574d232e16bb51739d379c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c2236b9096380c044ad7c923a865b7c7852d2b36
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62636839"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63296239"
 ---
 # <a name="missing-workflow-failed-to-activate"></a>Fehlender Workflow konnte nicht aktiviert werden
 
@@ -29,7 +29,7 @@ Gehen Sie folgendermaßen vor, um dieses Problem zu beheben:
   
 3. Wählen Sie im Abschnitt **Neu** des Menübands **Workflows** die Option **Wiederverwendbarer Workflow** aus. 
   
-4. Geben Sie im Formular " **Wiederverwendbarer Workflow erstellen** " den Namen ** *Repair2010* ** ein. Klicken Sie für den **Plattformtyp** auf **SharePoint 2010-Workflow**, und klicken Sie dann auf **"OK**". 
+4. Geben Sie im Formular " **Wiederverwendbarer Workflow erstellen** " den Namen ** *Repair2010* ** ein. Klicken Sie für den **Plattformtyp** auf **SharePoint 2010-Workflow**, und klicken Sie dann auf **OK**. 
   
 1. Wählen Sie im Abschnitt **„Speichern“** des Menübands **Workflow** die Option **Veröffentlichen** aus. 
   

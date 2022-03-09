@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom: ''
 ms.assetid:
 - "9002312"
 - "4497"
-ms.openlocfilehash: 38eb0d11209a8ae13ceda6f8fdc143ec08850623
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f2ad4f932e8794877d3d183d732862fc2853b10f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62759303"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63299323"
 ---
 # <a name="editing-documents-in-teams"></a>Bearbeiten von Dokumenten in Teams
 

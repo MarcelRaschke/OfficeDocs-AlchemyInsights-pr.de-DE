@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9355"
 - "3200002"
-ms.openlocfilehash: 6aaa54a701c1faad4d95855c988e938955354403
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3482d5bd3046fbc8034b4345a3653f551715a392
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62622912"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63299195"
 ---
 # <a name="files-are-being-blocked-unexpectedly"></a>Werden Dateien unerwartet blockiert?
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004400"
 - "8602"
-ms.openlocfilehash: b02ab0873ae3f4126b2ec714923bcf071fff2fcb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 36247af5779c7eb32577fd4639a20596325d7a0e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62651658"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63298545"
 ---
 # <a name="gpo-deployment"></a>GPO-Bereitstellung
 

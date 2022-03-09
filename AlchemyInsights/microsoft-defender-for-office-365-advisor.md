@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004191"
 - "7372"
-ms.openlocfilehash: 2d28f85b3b9eccdbe64e6d2a80b94c7e59b347fe
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: dfc32b085b7412280881a1bd671fcec9f8be0a87
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62574291"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63296977"
 ---
 # <a name="microsoft-defender-for-office-365-advisor"></a>Microsoft Defender für Office 365 Advisor
 

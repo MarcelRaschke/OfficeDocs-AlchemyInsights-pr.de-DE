@@ -8,15 +8,15 @@ audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: 0fa742711bcbb4043ba037f7f585d4907695f5b8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 45f917d7efcab1d4e18803d0009cb0c6f644a90f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62734445"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63298827"
 ---
 # <a name="get-feedback-about-spam-judgments"></a>Feedback zu Spam-Bewertungen erhalten
 

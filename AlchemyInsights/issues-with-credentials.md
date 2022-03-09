@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004330"
 - "7723"
-ms.openlocfilehash: f8579cf9e4c023c22a9c5d2ee5312e98898b4a00
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d94e125fe85bb3d5e60cc0db4747d8ad02682453
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62590546"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63246221"
 ---
 # <a name="issues-with-credentials"></a>Probleme mit Anmeldeinformationen
 
@@ -47,9 +47,9 @@ Dieser Link enthält Informationen zu allgemeinen Problemen, die auftreten könn
 - Stellen Sie sicher, dass Sie die Lizenzierungsanforderungen verstehen:
 
   - Ihnen muss mindestens eine Lizenz in Ihrer Organisation zugewiesen sein:
-    - **Nur Cloudbenutzer** – alle kostenpflichtigen Office 365 (O365) oder Azure AD Basic
+    - **Nur Cloudbenutzer** – jede kostenpflichtige Office 365 (O365) oder Azure AD Basic
     - **Cloud- und/oder lokale Benutzer** – Azure AD Premium P1 oder P2, Enterprise Mobility + Security (EMS) oder Secure Productive Enterprise (SPE)
-    - Weitere Informationen zu den Lizenzierungsanforderungen finden Sie unter ["Lizenzierungsanforderungen für Azure AD Self-Service-Kennwortzurücksetzung](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)".
+    - Weitere Informationen zu den Lizenzierungsanforderungen finden Sie unter ["Lizenzierungsanforderungen für Azure AD Self-Service-Kennwortzurücksetzung"](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing).
 - Um das Kennwort eines Benutzers zurückzusetzen, suchen Sie den Benutzer in Azure AD. Klicken Sie dann auf dem Blatt "Übersicht" für diesen Benutzer auf die Schaltfläche "Kennwort zurücksetzen".
 
 **Die Schaltfläche zum Zurücksetzen des Kennworts ist abgeblendet**

@@ -1,5 +1,5 @@
 ---
-title: 125 Erhalten eines Fehlers bei einer ungültigen Lizenz in Outlook im Web?
+title: 125 Erhalten eines Fehlers für eine ungültige Lizenz in Outlook im Web?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: dfc65e00b4bde295129269528ed913f8ea178942
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e4fe4670d85be74532be4d5c42066a97a842db59
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62709873"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63298581"
 ---
 # <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Erhalten Sie einen Fehler bei einer ungültigen Lizenz in Outlook im Web?
 

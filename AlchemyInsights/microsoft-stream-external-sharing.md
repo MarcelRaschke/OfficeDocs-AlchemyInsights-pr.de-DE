@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: f39acad9929d3a0b875508e3a02771271dbeb39f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: aacf5160673b9aafc734cf39dcd612a50d8c75d7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62602679"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63296593"
 ---
 # <a name="microsoft-stream-classic-external-sharing"></a>Microsoft Stream (klassisch) Externe Freigabe
 

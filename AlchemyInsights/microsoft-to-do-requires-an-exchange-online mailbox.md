@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "5751"
 - "9003043"
-ms.openlocfilehash: 2731bc5e3f2357c4d2e1d31db7e376a1e39ecf50
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ef4aa57fb2667e7b35250be2e94eefc418ffc93a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62573571"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63296485"
 ---
 # <a name="microsoft-to-do-requires-an-exchange-online-mailbox"></a>Microsoft To Do erfordert ein Exchange Online-Postfach
 

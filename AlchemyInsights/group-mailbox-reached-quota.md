@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3500006"
 - "16711"
 ms.date: 02/15/2022
-ms.openlocfilehash: 6bdc355b978ad4d496637311439b5f8ea0a206c3
-ms.sourcegitcommit: 5c192c14acfb55ca3d5bbee10bf0e5ccecef8bf2
+ms.openlocfilehash: 25ef10845b722e4c3df765789ea79f773d8d9b60
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/16/2022
-ms.locfileid: "62860088"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63298463"
 ---
 # <a name="microsoft-365-group-mailbox-reached-quota"></a>Microsoft 365 Kontingent für Gruppenpostfach erreicht
 

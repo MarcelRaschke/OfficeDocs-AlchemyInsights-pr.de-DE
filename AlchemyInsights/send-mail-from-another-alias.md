@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 4a4e5ced721243403e480f0c4d832a7f63b0267b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2d9da970dbca3a73f4c85302763693179c8f50e4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62632254"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63244241"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Senden von E-Mails von einem Alias oder einer sekundären Adresse
 
