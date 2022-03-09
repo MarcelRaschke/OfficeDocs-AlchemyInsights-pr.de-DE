@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9128"
 - "9004429"
-ms.openlocfilehash: b980cffb0fda8957a7369e720040d5c8826bf1d5
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 2a134525805a247beda144fee2ecaa0b9f974d64
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62614956"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63290429"
 ---
 # <a name="troubleshoot-problems-with-sync-in-microsoft-edge"></a>Beheben von Problemen mit der Synchronisierung in Microsoft Edge
 

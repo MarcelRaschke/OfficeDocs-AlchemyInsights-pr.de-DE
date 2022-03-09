@@ -8,20 +8,20 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7785"
-ms.openlocfilehash: 05f2cf967f7d22cec413946a1d628083a08187e3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6720a6acfd5b7e9be6332b7933ecfa97c820899b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62583021"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63290393"
 ---
 # <a name="troubleshoot-user-consent"></a>Problembehandlung bei der Zustimmung des Benutzers
 
 1. Sie können konfigurieren, wie Endbenutzer Anwendungen über das Azure-Portal oder PowerShell zustimmen. Weitere Informationen finden Sie in den [Einstellungen für die Benutzergenehmigung](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) .
 1. Ein Administrator kann auch die [Microsoft Graph-API](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal#user-consent-settings) verwenden, um delegierte Berechtigungen im Namen eines einzelnen Benutzers zu erteilen. Weitere Informationen finden Sie unter ["Zugriff im Namen eines Benutzers erhalten](https://docs.microsoft.com/graph/auth-v2-user)".
-1. [Benutzerzustimmungsfehler](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error): In diesem Artikel werden Fehler behandelt, die während des Prozesses der Zustimmung zu einer Anwendung auftreten können. Wenn Sie unerwartete Zustimmungsaufforderungen, die keine Fehlermeldungen enthalten, behandeln, finden Sie unter [Authentifizierungsszenarien Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. [Benutzerzustimmungsfehler](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error): In diesem Artikel werden Fehler behandelt, die während des Prozesses der Zustimmung zu einer Anwendung auftreten können. Wenn Sie Probleme mit unerwarteten Zustimmungsaufforderungen beheben, die keine Fehlermeldungen enthalten, lesen Sie die [Authentifizierungsszenarien für Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
