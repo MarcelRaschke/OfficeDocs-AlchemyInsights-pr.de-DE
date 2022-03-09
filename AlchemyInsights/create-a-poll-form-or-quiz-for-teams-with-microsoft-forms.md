@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001726"
 - "3825"
-ms.openlocfilehash: 8099e36c38a7181345a04022ee6bf66a607a2c6b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 151b1ed70b75c4cc58b389e42b7214568b91d3e7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62556867"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63131933"
 ---
 # <a name="create-a-poll-form-or-quiz-for-teams-with-microsoft-forms"></a>Erstellen einer Umfrage, eines Formulars oder einer Prüfung für Teams mit Microsoft Forms
 
-Möchten Sie in Microsoft Teams ein Formular, eine Umfrage, einen Umfrage oder eine Prüfung erstellen? Microsoft Forms kann Ihnen dabei helfen!
+Möchten Sie ein Formular, eine Umfrage, eine Umfrage oder ein Quiz in Microsoft Teams erstellen? Microsoft Forms kann Ihnen helfen!
 
  - [Forms aktivieren oder deaktivieren](https://support.office.com/article/turn-off-or-turn-on-microsoft-forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43), für Ihre Organisation oder nur für bestimmte Benutzer aktivieren.
  

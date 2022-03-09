@@ -8,14 +8,14 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: a9b1791a782c09f892b6a3528f0b1d9c9ede5604
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ef1049a721380d0eb22c06567a17fb591608f434
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62706921"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63305119"
 ---
 # <a name="user-permissions-in-sharepoint"></a>Benutzerberechtigungen in SharePoint
 
@@ -33,6 +33,6 @@ Weitere Informationen zum Verwalten bestimmter Berechtigungsstufen finden Sie un
 
 - [Ändern der Berechtigungen für einen Unterordner](https://support.office.com/article/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6)
 
-- [Freigeben SharePoint Dateien oder Ordner in Microsoft 365](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Freigeben SharePoint Dateien oder Ordnern in Microsoft 365](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
 - [Freigeben einer Website](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
