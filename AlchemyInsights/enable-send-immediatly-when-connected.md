@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "2713"
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 42bfa04339543c51366097579317d4891c8f582f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7499a6e8ceb253952d6e4c7d21ac91f15ed3d65a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62759015"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63238697"
 ---
 # <a name="enable-send-immediately-when-connected"></a>Aktivieren des sofortigen Sendens, wenn eine Verbindung hergestellt wird
  

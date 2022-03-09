@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: c16e105b9797a2b7c8fb96c8609c75eb470b83a3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1a7d63a8c829c62b02cec53f54120d0894abd472
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62686029"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63238263"
 ---
 # <a name="find-the-page-that-shows-my-contacts"></a>Suchen der Seite, auf der meine Kontakte angezeigt werden
 

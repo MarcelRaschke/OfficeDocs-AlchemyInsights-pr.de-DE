@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6115"
 - "9003200"
-ms.openlocfilehash: eda922670bb8d9103fe5b07e6f82ce03d10040bd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 4a37bde439df98aaa07bf7ff5b2672d7a8ad1943
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62591590"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63238623"
 ---
 # <a name="external-users-cant-send-email-to-microsoft-365-group"></a>Externe Benutzer können keine E-Mails an eine Microsoft 365-Gruppe senden
 

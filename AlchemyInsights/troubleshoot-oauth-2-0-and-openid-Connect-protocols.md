@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9776"
 - "9004342"
-ms.openlocfilehash: 9a6796feedaeb12872a4cbf0970c6a52f4f372ed
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9dd8353eda3a88331e5a4d7585e848039edd89a6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62661342"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63220533"
 ---
 # <a name="troubleshoot-oauth-20-and-openid-connect-protocols"></a>Behandeln von Problemen mit OAuth 2.0- und OpenID Connect-Protokollen
 
@@ -34,7 +34,7 @@ Weitere Informationen finden Sie in den folgenden Artikeln zur Konfiguration und
     - Konten, die nicht über Kennwörter verfügen, können sich nicht über ROPC anmelden. Für dieses Szenario empfehlen wir, stattdessen einen anderen Ablauf für Ihre App zu verwenden.
     - Wenn Benutzer sich mittels [mehrstufiger Authentifizierung (Multi-Factor Authentication, MFA)](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-howitworks) bei der Anwendung anmelden müssen, werden sie blockiert.
     - ROPC wird in [Hybrididentitätsverbund](https://docs.microsoft.com/azure/active-directory/hybrid/whatis-fed)-Szenarien nicht unterstützt (z. B. Azure AD und ADFS, die für die Authentifizierung von lokalen Konten verwendet werden). Wenn Benutzer ganzseitig auf einen lokalen Identitätsanbieter umgeleitet werden, kann Azure AD den Benutzernamen und das Kennwort für diesen Identitätsanbieter nicht testen. [Pass-Through-Authentifizierung](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-pta) mit ROPC wird jedoch unterstützt.
-    - Eine Ausnahme für ein Hybrididentitätsverbund-Szenario wäre die folgende: Die Home Realm Discovery-Richtlinie, mit **AllowCloudPasswordValidation** auf **TRUE** gesetzt, ermöglicht den ROPC-Ablauf für Verbundbenutzer, wenn das lokale Kennwort mit der Cloud synchronisiert wird. Weitere Informationen finden Sie unter [Aktivieren der direkten ROPC-Authentifizierung von Verbundbenutzern bei älteren Anwendungen](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#enable-direct-ropc-authentication-of-federated-users-for-legacy-applications). 
+    - Eine Ausnahme von einem Hybrididentitätsverbundszenario wäre Folgendes: Die Home Realm Discovery-Richtlinie mit **AllowCloudPasswordValidation** auf **TRUE** ermöglicht den ROPC-Fluss für Verbundbenutzer, wenn das lokale Kennwort mit der Cloud synchronisiert wird. Weitere Informationen finden Sie unter [Aktivieren der direkten ROPC-Authentifizierung von Verbundbenutzern für Legacyanwendungen](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#enable-direct-ropc-authentication-of-federated-users-for-legacy-applications). 
 - [Microsoft Identity Platform und OAuth 2.0 "Im Auftrag von"-Ablauf](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-on-behalf-of-flow): In diesem Artikel die direkte Programmierung für den **"Im Auftrag von"-Ablauf (On-Behalf-Of, OBO)** in Ihrer Anwendung erläutert.
 - [Microsoft Identity Platform und OpenID Connect-Protokoll](https://docs.microsoft.com/azure/active-directory/develop/v2-protocols-oidc): In diesem Artikel wird gezeigt, wie das OpenID-Protokoll sprachunabhängig implementiert wird, und beschrieben, wie HTTP-Nachrichten gesendet und empfangen werden können, ohne irgendwelche Open-Source-Bibliotheken von Microsoft zu verwenden.
 

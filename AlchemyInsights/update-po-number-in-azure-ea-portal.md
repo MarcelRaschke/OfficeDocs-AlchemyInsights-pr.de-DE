@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: a69c1986197b095364125d32b1d8fba2fb81d373
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 06c2eae53aed637768b55dfe432526b61cc1a704
+ms.sourcegitcommit: a4f442784dc5c3141dbb381c6e0e700f2f6cfb6a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62581941"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63386330"
 ---
 # <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Aktualisieren der Po-Nummer im Azure EA-Portal – empfohlene Schritte
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9951"
 - "9005721"
-ms.openlocfilehash: 988003a9f05ff7b6f49f12c7dc57c048a3c8de4e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3b19a3012299311eb9a20d0f28d2247c7cfc7871
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62576847"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63238515"
 ---
 # <a name="send-feedback-to-microsoft-with-feedback-hub"></a>Feedback über Feedback Hub an Microsoft senden
 
