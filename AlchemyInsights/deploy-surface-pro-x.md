@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10394"
 - "9005762"
-ms.openlocfilehash: 7717ff4e93f99325a2cca44194f2d30e7588dd66
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b6498d42b4a4cc8b0e14baf4f177ac53793a6673
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62555823"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63299641"
 ---
 # <a name="deploy-surface-pro-x"></a>Surface Pro X Bereitstellen
 

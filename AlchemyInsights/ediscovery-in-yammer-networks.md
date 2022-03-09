@@ -7,25 +7,25 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 4a3f518ff77b6601ce4083a31f67fb91dfb38dfa
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3b432e5989444bef9aac555ef8b9b1e6b6a0fa20
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62759170"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63299569"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery in Yammer Netzwerken
 
 Sie können eDiscovery jetzt nach Yammer Inhalten suchen.  Das Ausführen von eDiscovery-Suchen oder Exportieren nach Yammer Inhalten erfordert Folgendes:
 
-1. Sie müssen zuerst Ihr Yammer Enterprise-Netzwerk in den nativen Modus migrieren, damit Ihre Yammer Nachrichten und Dateien auffindbar sind. **Hinweis: Wenn Sie ab dem 9. Januar 2020 ein neuer Kunde sind und sich Ihr Yammer Netzwerk bereits im nativen Modus befindet, sind Ihre Daten jetzt mit eDiscovery auffindbar**.
+1. Sie müssen zuerst Ihr Yammer Enterprise Netzwerk in den nativen Modus migrieren, damit Ihre Yammer Nachrichten und Dateien auffindbar sind. **Hinweis: Wenn Sie ab dem 9. Januar 2020 ein neuer Kunde sind und sich Ihr Yammer Netzwerk bereits im nativen Modus befindet, können Ihre Daten jetzt mit eDiscovery ermittelt werden**.
 
-2. Wenn Sie Kunden verlassen, steht eDiscovery für Yammer zur Verfügung, sobald das Ausrichtungstool für den nativen Modus veröffentlicht wurde und die Migration des nativen Modus für Yammer im Mandanten abgeschlossen ist.
+2. Für kundenaussteigende Kunden ist eDiscovery für Yammer verfügbar, sobald das Ausrichtungstool für den nativen Modus veröffentlicht wurde und die Migration des nativen Modus für Yammer im Mandanten abgeschlossen ist.
 
 Weitere Informationen:
 
