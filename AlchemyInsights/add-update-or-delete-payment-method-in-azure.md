@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6859"
-ms.openlocfilehash: a00178edefe66b365d2f55908cf0128c68ed4861
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 04c1f2fcf53438a5a0837aad28e8ad2d71171682
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62629122"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63250901"
 ---
 # <a name="add-update-or-delete-payment-method-in-azure"></a>Zahlungsmethode in Azure hinzufügen, aktualisieren oder löschen
 

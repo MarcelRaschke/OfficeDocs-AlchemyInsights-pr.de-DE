@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7291"
-ms.openlocfilehash: 57e40d9f7cb9339e665d78b15e67cfbb3b313164
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 76140669831054451701d143fd157a2756a2748b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62629230"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63250829"
 ---
 # <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Hinzufügen oder Aktualisieren der Umsatzsteuer-/Steuer-ID – Legacy WD + MCA CL – Empfohlene Schritte
 

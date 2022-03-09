@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6896"
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 31e1e8dc5bb505e39d941b8c9fe5e2c65922683e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: db1f240b3d9319f3643c95a2dafb5dd8b24c53d1
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62722293"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63248393"
 ---
 # <a name="documents-opening-in-read-only"></a>Öffnen von Dokumenten in schreibgeschütztem Modus
 

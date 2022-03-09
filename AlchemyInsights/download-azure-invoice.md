@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6865"
-ms.openlocfilehash: 5b565e30780a528421ba03df3b045c9c5150bdff
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cebf67044ba3c592457aba2d80339f0ecef73e35
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62606495"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63248345"
 ---
 # <a name="download-azure-invoice"></a>Rechnung von Azure AzCopy herunterladen
 
@@ -30,4 +30,4 @@ Sie müssen eine Besitzer-, Teilnehmer-, Leser- oder Rechnungsmanager-Rolle auf 
 4. Wählen Sie in der Liste der Abrechnungsprofile jenes aus, für das Sie die Azure-Rechnung herunterladen möchten.
 5. Klicken Sie auf **Rechnung herunterladen**, um eine Kopie Ihrer PDF-Rechnung anzuzeigen. Wenn **Nicht verfügbar** angezeigt wird, lesen Sie [Warum wird keine Rechnung für den letzten Abrechnungszeitraum angezeigt?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date).
 
-Sie können sich auch Ihre tägliche Nutzung anzeigen lassen, indem Sie den Abrechnungszeitraum wählen. Um eine PDF-Version Ihrer Rechnung sowie eine Kopie der Datei mit detaillierten täglichen Nutzungsdaten (.CSV) zu erhalten: [Abrufen von Rechnungen und Nutzungsdaten](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date).
+Sie können auch die tägliche Nutzung durch das Auswählen des Abrechnungszeitraums anzeigen. Um eine PDF-Version Ihrer Rechnung sowie eine Kopie der Datei mit detaillierten täglichen Nutzungsdaten (.CSV) zu erhalten: [Abrufen von Rechnungen und Nutzungsdaten](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date).

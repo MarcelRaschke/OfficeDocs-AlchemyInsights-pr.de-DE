@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9007383"
 - "15421"
 ms.date: 01/13/2022
-ms.openlocfilehash: e87df1acaa00ffa6e4c4830ca32dc0cd6974ed7e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9fea30e6d765be31111aee1552e9168a475670ee
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62561475"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63250937"
 ---
 # <a name="add-or-sync-users-to-your-microsoft-account"></a>Hinzufügen oder Synchronisieren von Benutzern zu Ihrem Microsoft-Konto
 
