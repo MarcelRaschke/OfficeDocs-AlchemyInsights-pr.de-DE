@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6177"
 - "9003283"
-ms.openlocfilehash: 8bec51e6fb370dce4ab024179aa7ec4db70157fd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 217bc00f5549a9df233a8c389e0e2575fc5c0798
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62720385"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63306653"
 ---
 # <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly-0xc0000142"></a>Microsoft 365 Apps-Fehler: Die Anwendung konnte nicht ordnungsgemäß gestartet werden (0xc0000142)
 
@@ -27,7 +27,7 @@ Um diesen Fehler zu beheben, probieren Sie es mit den folgenden Optionen:
 - Führen Sie eine Onlinereparatur von Office durch, und starten Sie den Computer neu. Weitere Informationen finden Sie unter [Reparieren einer Office-Anwendung](https://support.microsoft.com/office/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 - Navigieren Sie zu **Start**  >  **Ausführen**, und geben Sie dann **services.msc** ein. Klicken Sie mit der rechten Maustaste auf **Microsoft Office Klick-und-Los-Dienst**, und wählen Sie dann **Neu starten** aus.
 - Reparieren Sie fehlende oder beschädigte Systemdateien mit dem Systemdatei-Überprüfungsprogramm, und starten Sie den Computer neu. Weitere Informationen finden Sie unter [Verwenden des Systemdatei-Überprüfungsprogramms, um beschädigte Systemdateien zu reparieren oder fehlende zu ersetzen](https://support.microsoft.com/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system).
-- Deinstallieren Sie von Office, und installieren Sie es neu. Weitere Informationen finden Sie unter [Deinstallieren von Office auf einem PC](https://support.microsoft.com/office/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8).
+- Deinstallieren Sie Office, und installieren Sie es erneut. Weitere Informationen finden Sie unter [Deinstallieren von Office von einem PC](https://support.microsoft.com/office/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8).
 
 Weitere Informationen finden Sie hier:  
 

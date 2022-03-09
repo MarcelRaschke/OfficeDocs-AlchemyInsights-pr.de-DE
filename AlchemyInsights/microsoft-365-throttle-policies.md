@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002322"
 - "4506"
-ms.openlocfilehash: 1e6f57a7843aedb1c050d9cb9f99e2138bf47bb0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: dc01e5a00a8010321cb131681416754d08e42648
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62574687"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63088750"
 ---
 # <a name="microsoft-365-throttle-policies"></a>Microsoft 365-Drosselungsrichtlinien
 
-Microsoft 365 verwendet Drosselung, um eine optimale Leistung und die Zuverlässigkeit aufrechtzuerhalten. Drosselung schränkt die Anzahl von Benutzeraktionen oder gleichzeitige Aufrufe (durch Code oder Skripts), um die Überlastung von Ressourcen zu verhindern. Weitere Informationen zur Drosselung:
+Microsoft 365 verwendet Drosselung, um eine optimale Leistung und Zuverlässigkeit aufrechtzuerhalten. Drosselung schränkt die Anzahl von Benutzeraktionen oder gleichzeitigen Aufrufen (durch Code oder Skripts) ein, um die Überlastung von Ressourcen zu verhindern. Erfahren Sie mehr über Drosselung:
 
 - [Office 365-Ressourcenlimits](https://docs.microsoft.com/office365/Enterprise/office-365-resource-limits)
 

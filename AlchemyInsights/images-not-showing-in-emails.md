@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6180"
 - "9003285"
-ms.openlocfilehash: 9fbc2f842dd7dd8c9dd32710be67c97b04661676
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 77beca559feb513f427967781469daa22e40467a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62756171"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63265446"
 ---
 # <a name="images-not-showing-in-emails"></a>In E-Mails nicht angezeigte Bilder
 
-Das Problem, bei dem Kundinnen und Kunden keine Bilder oder Abbildungen in ihren E-Mails sehen können, ist uns bekannt. Bitte entschuldigen Sie die Unannehmlichkeiten.
+Uns ist ein Problem bekannt, bei dem einige Kunden keine Bilder oder Fotos in ihren E-Mails sehen können. Wir entschuldigen uns für die Unannehmlichkeiten.

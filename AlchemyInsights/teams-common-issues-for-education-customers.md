@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 9239ca0854b9169ef2e221743ed3b27c00f6e9b0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bdfe7f36a89e9ac32290d104513055099e43e729
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62631498"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63123581"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Microsoft Teams: Häufige Probleme bei Kunden in Bildungseinrichtungen
 
@@ -28,7 +28,7 @@ Wenn Sie Hilfe bei der Bereitstellung von Teams zur Unterstützung von Fernunter
 
 - Sie sehen sie die Meldung "**Sie verpassen etwas!**" Stellen Sie sicher, dass Sie [Microsoft Teams für Ihre Schule aktivieren](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams). Bei EDU-Mandanten ist Microsoft Teams standardmäßig nicht aktiviert. Sie müssen es zuerst aktivieren.
 
-- **Neu bei Microsoft Teams?** Lesen Sie [Fernstudium (Lehren und Lernen) in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Schülern zu erhalten.
+- **Neu bei Teams?** Lesen Sie als Nächstes [Fernstudium (Lehren und Lernen) in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Schülern zu erhalten.
 
 - Sobald es aktiviert ist, können Ihre Benutzer Teams ausführen, indem Sie es entweder den [Desktop](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client) und [mobile Clients](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) oder über den Browser unter https://teams.microsoft.com installieren.
 
