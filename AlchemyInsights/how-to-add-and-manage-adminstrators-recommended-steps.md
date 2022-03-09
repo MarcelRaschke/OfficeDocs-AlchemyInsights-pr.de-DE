@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 796b5cfaa3317bc184470fb870b71aabcd0f7d2d
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b6e4afb4b96d7644e5989f05b21028be5ca1bd6d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62591231"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63256445"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Hinzufügen und Verwalten von Administratoren – empfohlene Schritte
 
@@ -29,7 +29,7 @@ Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden
 - Der Kontoadministrator kann beide Rollen bearbeiten, während der Abonnementadministrator nur Co-Administratoren im [Azure-Portal](https://ms.portal.azure.com/#home) ändern kann.
 - [Hinzufügen oder Ändern von Azure-Abonnementadministratoren](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Aktualisieren des Abonnementadministrators oder Co-Administrator für interne Abonnements (AIRS)-Abonnements**
+**Aktualisieren des Abonnementadministrators oder Co-Administrator für interne Abonnements (AIRS)**
 
 Der Dienstadministrator oder der Co-Administrator kann diese Aktion mithilfe der folgenden Schritte selbst ausführen:
 

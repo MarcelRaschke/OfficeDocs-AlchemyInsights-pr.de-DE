@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9000566"
 - "2424"
 ms.date: 10/26/2021
-ms.openlocfilehash: a610a5e2b8888076b5dcef688a95b825febfb33c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 10851c0032dbfe051ae759fe642b86f5c92d628e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62638950"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63256409"
 ---
 # <a name="how-to-cancel-software-as-a-service-apps"></a>So brechen Sie Software-as-a-Service-Apps ab
 
