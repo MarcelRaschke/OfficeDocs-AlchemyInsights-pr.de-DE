@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
-ms.openlocfilehash: 97d710d0dde9afde595b19a8bf1bf101ee1e766f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 99f5e0baa1a550a8da1e2740da050aa019a22bad
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62657346"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63258533"
 ---
 # <a name="changes-to-external-user-access"></a>Änderungen am Zugriff durch externe Benutzer
 
