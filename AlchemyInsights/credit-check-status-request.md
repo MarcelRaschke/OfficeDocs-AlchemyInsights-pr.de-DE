@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
@@ -16,12 +16,12 @@ ms.custom:
 - "1500022"
 ms.date: 04/21/2020
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: 89d215d27436ead504ff92447956106897113a08
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d5e5ce4589b8203fc7a4fbc0136775a274a5e25a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62760563"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63239453"
 ---
 # <a name="credit-check-status-request"></a>Statusanforderung zur Kreditwürdigungsprüfung
 

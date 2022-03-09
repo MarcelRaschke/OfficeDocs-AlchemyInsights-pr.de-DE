@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9828"
 - "9004618"
-ms.openlocfilehash: a52d6370fac9dc012d8604c19e939042a6e42b07
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9c3b9edd98ed2f5d7dd8604f7756c3a4de08dd39
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62761260"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63239885"
 ---
 # <a name="create-a-team-in-microsoft-teams"></a>Erstellen eines Teams in Microsoft Teams
 

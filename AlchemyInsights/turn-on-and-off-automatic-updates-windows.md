@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9005716"
 - "9932"
-ms.openlocfilehash: b3299c2b3026e1fc098cb0531b3f1c4ea6aef4d7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a79742835164fdbadaa2f7d0e084513e92df00e6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62582589"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63289961"
 ---
 # <a name="turn-on-and-off-automatic-updates-in-windows"></a>Aktivieren und Deaktivieren von automatischen Updates in Windows
 

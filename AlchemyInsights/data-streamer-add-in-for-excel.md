@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1862"
 - "9000263"
-ms.openlocfilehash: 8fd71b16b245a9a8abcf3f161368b322fd99eac3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d57dc8cb4b5530e506e0ca111ddc47286bc3da21
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62592778"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63239309"
 ---
 # <a name="data-streamer-add-in-for-excel"></a>Datenstreamer-Add-In für Excel
 

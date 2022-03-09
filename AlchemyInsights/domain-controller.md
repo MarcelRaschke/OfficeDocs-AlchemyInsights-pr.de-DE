@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7909"
 - "9003233"
-ms.openlocfilehash: b783032df68cdf16554923229bd46ecc4c19e4b8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 807d797420f8c85a283cda9f1b1ec29da13dfd4f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62606675"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63239021"
 ---
 # <a name="domain-controller"></a>Domänencontroller
 

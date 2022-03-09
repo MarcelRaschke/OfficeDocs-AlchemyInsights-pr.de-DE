@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: eae0bb4c5555c73f3cf66931406e155f38984480
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 14ba937832a9d2b8356fa802e1dbe890f540ec6c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62592490"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63239237"
 ---
 # <a name="problems-with-dlp---usuk-passport-numbers"></a>Probleme mit DLP – US/UK-Reisepassnummern
 
@@ -42,7 +42,7 @@ For example, for a **US/UK passport number** policy configured with a confidence
 
   - Ein Schlüsselwort aus Keyword_passport wurde gefunden.
 
-    Das folgende Beispiel würde z. B. für die **US/UK-Reisepassnummernrichtlinie** ausgelöst: U.S. Passport number 123456789
+    Das folgende Beispiel würde z. B. für die **Us/UK-Reisepassnummernrichtlinie** ausgelöst: U.S. Passport number 123456789
 
 Weitere Informationen dazu, was erforderlich ist, damit eine US/UK Passport-Nummer für Ihre Inhalte erkannt wird, finden Sie im folgenden Abschnitt in diesem Artikel: [Wonach die Typen vertraulicher Informationen nach us/UK Passport Number suchen](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
   

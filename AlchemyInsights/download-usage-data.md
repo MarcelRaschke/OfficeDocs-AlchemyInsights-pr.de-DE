@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: 1655500f8546a1a8108f930063f415c252405c15
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e32cf2e3e81ad7182e2238bd15bee4e51cbec1df
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62686183"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63238877"
 ---
 # <a name="download-usage-data"></a>Herunterladen von Nutzungsdaten
 
@@ -32,7 +32,7 @@ Führen Sie die folgenden Schritte aus, um Nutzungsdaten als Enterprise Azure (E
 2. Wählen Sie ein Abrechnungsprofil aus, und klicken Sie auf **"Nutzung + Gebühren**".
 3. Wählen Sie auf dem angezeigten Bildschirm den Monat aus, für den Sie den Bericht benötigen, und klicken Sie auf **"Herunterladen**".
 
-Wenn eine Kopie einer Rechnung erforderlich ist, wenden Sie sich an Ihren Microsoft Licensing Partner (Partner oder software advisor). Sie heben ein Call-Logging-Tool (CLT) über Explore.ms zum Regional Operations Center (XAML) auf.
+Wenn eine Kopie einer Rechnung erforderlich ist, wenden Sie sich an Ihren Microsoft Licensing Partner (Partner oder software advisor). Sie lösen über Explore.ms ein Call-Logging Tool (CLT) in das Regional Operations Center (XAML) aus.
 
 **Update – November 2020**
 

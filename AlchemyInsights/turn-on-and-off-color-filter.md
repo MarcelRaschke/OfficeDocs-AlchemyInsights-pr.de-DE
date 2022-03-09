@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9005665"
 - "9926"
-ms.openlocfilehash: d24c8bf878b7bd1a63da84b318f9d44e565051eb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f5a91ca2b917406d44aa9f6f9892c7d088aabaa8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62749295"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63289889"
 ---
 # <a name="turn-on-and-off-color-filter"></a>Farbfilter aktivieren und deaktivieren
 

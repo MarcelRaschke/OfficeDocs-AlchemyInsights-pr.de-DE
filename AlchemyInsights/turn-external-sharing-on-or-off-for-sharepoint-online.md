@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: 1dcb0a01aafbb40d72866bc6bca4d27351c1420f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 768d64850ab162756619de0d385c216ebb903bcd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62614992"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63290141"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>Aktivieren und Deaktivieren der externen Freigabe für SharePoint Online
 
