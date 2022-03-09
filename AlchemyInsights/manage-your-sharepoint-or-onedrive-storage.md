@@ -1,5 +1,5 @@
 ---
-title: Verwalten ihres SharePoint- oder OneDrive speichers
+title: Verwalten des SharePoint oder OneDrive Speichers
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: 1fb65d0c32d905f6c4b481297a9714b766f17fa4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3bf29fb70f9ae2a6b621f8edbe4cdc975421e023
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62620837"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63255473"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Verwalten ihres SharePoint- oder OneDrive speichers
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Verwalten des SharePoint oder OneDrive Speichers
 
  **SharePoint Online**
   
@@ -35,6 +35,6 @@ So ändern Sie den Standardspeicher für neue und vorhandene OneDrive Benutzer:
   
 - Wechseln Sie zur [Storage Seite des OneDrive Admin Centers](https://admin.onedrive.com/?v=StorageSettings), und geben Sie einen neuen Betrag in GB ein.
     
-Informationen dazu, wie viel Speicher Sie in Ihrem eigenen OneDrive verwenden, finden Sie unter [Verwalten Ihres OneDrive for Business Speichers](https://go.microsoft.com/fwlink/?linkid=866429). Informationen zum Speicher, der in den einzelnen Plänen enthalten ist, finden Sie unter [OneDrive for Business Dienstbeschreibung](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Informationen dazu, wie viel Speicher Sie in Ihrem eigenen OneDrive verwenden, finden Sie unter [Verwalten ihres OneDrive for Business Speichers](https://go.microsoft.com/fwlink/?linkid=866429). Informationen zum Speicher, der in den einzelnen Plänen enthalten ist, finden Sie unter [OneDrive for Business Dienstbeschreibung](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 

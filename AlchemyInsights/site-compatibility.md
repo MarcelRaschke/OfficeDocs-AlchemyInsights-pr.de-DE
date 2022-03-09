@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003849"
 - "6899"
-ms.openlocfilehash: 4ad940ea0a34061f1b20f497607ca86497fdb831
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 1a9e5e0fe2cbb6b1f77195ce95efcde736e55836
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62597422"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63304837"
 ---
 # <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>Informationen zur Websitekompatibilität– Änderungen, die sich auf Microsoft Edge auswirken
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002330"
 - "4993"
-ms.openlocfilehash: 4127fdbcff1a2c9333d450c795497fcb89f28f1a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3f5e6ba723b929a7b26fe5ee63873df356b0f1f6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62745947"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63255653"
 ---
 # <a name="mailbox-storage"></a>Postfachspeicher
 

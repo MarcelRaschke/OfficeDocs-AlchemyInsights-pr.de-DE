@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1745"
 - "9000140"
-ms.openlocfilehash: 6ff731ed46d66facb86424ffd21b2cd632f21c54
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 88e380b81ab591e2989029203d26ffc747cbd3a5
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62570799"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63304729"
 ---
 # <a name="size-or-bandwidth-concerns-with-office-updates"></a>Probleme mit Größe oder Bandbreite von Office-Updates
 

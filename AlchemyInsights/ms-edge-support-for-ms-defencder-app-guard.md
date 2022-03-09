@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: f17aa79e19bafb832b7cf4d24ad59abc3095049b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 065b718bd13053db3fd9090f24db1110cd19000d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62708577"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63255401"
 ---
 # <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge-Unterstützung für Microsoft Defender Application Guard
 

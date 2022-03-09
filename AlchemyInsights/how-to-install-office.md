@@ -7,25 +7,25 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: d6c2144aa620cd11f862f178d45c234130441ef3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6edab8ff8b369ea7b78f457f86e055ed0848f622
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62669047"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63128297"
 ---
 # <a name="how-to-install-office"></a>Installieren von Office
 
 So installieren Sie Microsoft 365 Apps
 
-Bevor Sie beginnen, stellen Sie sicher, dass Sie über ein aktives Abonnement verfügen, das Desktopclient-Apps enthält, z. B. Microsoft 365 Business Standard, Microsoft 365 Apps for Business oder Office 365 Education. Weitere Informationen finden Sie unter [Pläne für Office für die private Nutzung und Office für Unternehmen](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e).
+Stellen Sie zunächst sicher, dass Sie über ein aktives Abonnement verfügen, das Desktopclient-Apps enthält, z. B. Microsoft 365 Business Standard, Microsoft 365 Apps for Business oder Office 365 Education. Weitere Informationen finden Sie unter [Office für Zuhause and Office für Geschäftspläne](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e).
 
-**Hinweis**: Microsoft 365 Business Basic enthält keine Office-Desktopclient-Apps. Office Home and Business ist ein Office Home-Produkt und nicht Teil eines Business Abonnements. Spezifische Anweisungen für Visio oder Project finden Sie unter [Installieren von Visio](https://support.microsoft.com/office/install-visio-or-access-visio-for-the-web-f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=alchemy_clientdia) oder [Installieren von Project](https://support.microsoft.com/office/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=alchemy_clientdia).
+**Hinweis**: Microsoft 365 Business Basic enthält keine Office-Desktopclient-Apps. Office Home & Business ist ein Office für Zuhause-Produkt und nicht Teil eines Geschäftsabonnements. Spezifische Anweisungen für Visio oder Project finden Sie unter [Visio installieren](https://support.microsoft.com/office/install-visio-or-access-visio-for-the-web-f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=alchemy_clientdia) oder [Project installieren](https://support.microsoft.com/office/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=alchemy_clientdia).
 
 **Tipp**: Sie können den [Microsoft Support- und Wiederherstellungs-Assistenten](https://aka.ms/SaRA_OfficeSetup) verwenden, um bei Problemen bei der Installation von Microsoft 365 auf einem PC zu helfen. Weitere Informationen finden Sie unter [Informationen zum Microsoft Support- und Wiederherstellungs-Assistenten](https://support.microsoft.com/office/about-the-microsoft-support-and-recovery-assistant-e90bb691-c2a7-4697-a94f-88836856c72f).
 

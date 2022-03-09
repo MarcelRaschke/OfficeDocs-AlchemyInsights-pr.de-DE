@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "5072"
-ms.openlocfilehash: 5d8b0f9cf052d4099b0b44df377977a52710086c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 09b3a6e15dd947d5c9fec28b70e3303cefc63302
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62620801"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63255437"
 ---
 # <a name="merge-microsoft-accounts"></a>Zusammenführen von Microsoft-Konten
 

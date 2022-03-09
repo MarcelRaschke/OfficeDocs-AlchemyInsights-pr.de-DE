@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: 934bd6e15de791e28dc2caddcbbf08d8cfa1112f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a3aed26aa45cf5e66dc8ae94501e26c6d3ef063b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62738909"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63307985"
 ---
 # <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>Ausgefallene Formatierung für Ihre E-Mail-Signatur und den Haftungsausschluss
 Informationen zu ausgefallener Formatierung (z. B. hinzufügen von Symbolen, Bildern und Links zu Ihrem Unternehmen haftungsausschluss für soziale Medien), Informationen zur Kompatibilität mit mobilen Geräten und vieles mehr.

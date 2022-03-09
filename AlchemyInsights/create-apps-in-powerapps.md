@@ -8,22 +8,22 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
-ms.openlocfilehash: c76bb1e247ae14ef51a6be111975ad37c7819b52
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 663207f732181e69c6f890d627d26158cf41e23b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62722725"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63131573"
 ---
 # <a name="create-apps-with-powerapps"></a>Erstellen von Apps mit PowerApps
 
 PowerApps ist eine Entwicklungsplattform für Geschäfts-Apps. Sie umfasst drei Hauptkomponenten: 
   
-- [Canvas-Apps](https://go.microsoft.com/fwlink/?linkid=874495) beginnen mit der Benutzererfahrung: Sie erstellen eine präzise auf Ihren Bedarf zugeschnittene Benutzeroberfläche mit dem Potenzial einer leeren Leinwand, und verbinden sie mit Ihrer Auswahl aus 200 Datenquellen. Sie können Canvas-Apps für Web-, Mobile- und Tablet-Anwendungen erstellen. 
+- [Zeichenbereich-Apps](https://go.microsoft.com/fwlink/?linkid=874495) Beginnen Sie mit Ihrem Benutzererlebnis, erstellen Sie eine hochgradig maßgeschneiderte Benutzeroberfläche mit der Leistungsfähigkeit eines leeren Zeichenbereichs und verbinden Sie diese mit 200 Datenquellen Ihrer Wahl. Sie können Zeichenbereich-Apps für Web-, Mobilgeräte- und Tablet-Anwendungen erstellen. 
     
-- [Modellgesteuerte Apps](https://go.microsoft.com/fwlink/?linkid=874496) gehen von Ihrem Datenmodell aus: Sie stützen sich auf Ihre wichtigsten Geschäftsdaten und Prozesse im Common Data Service, um Formulare, Ansichten und andere Komponenten zu modellieren. Modellgesteuerte Apps generieren automatisch tolle Benutzeroberflächen, die für alle Geräte geeignet sind. 
+- [Modellgesteuerte Apps](https://go.microsoft.com/fwlink/?linkid=874496) Beginnen sie mit Ihrem Datenmodell – ausgehend von der Form Ihrer wichtigsten Geschäftsdaten und Prozesse im Common Data Service können Sie Formulare, Ansichten und andere Komponenten modellieren. Modellgesteuerte Apps generieren automatisch eine großartige Benutzeroberfläche, die geräteübergreifend reaktionsfähig ist. 
     
 - [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) ist die Datenplattform, die in PowerApps integriert ist und über die Sie Geschäftsdaten speichern und modellieren können. Mithilfe dieser Plattform werden Dynamics 365-Anwendungen erstellt. Wenn Sie Dynamics-Kunde sind, befinden sich Ihre Daten bereits im Common Data Service. 
     

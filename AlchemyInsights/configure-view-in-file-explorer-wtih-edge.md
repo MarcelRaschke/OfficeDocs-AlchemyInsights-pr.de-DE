@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "13872"
 - "5300014"
-ms.openlocfilehash: a5695d3248ecd4cd0cdddc5c216bb624a3f7bad2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 639f3bb520b23ef78fe69cfcad7435faeb15c0ae
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62557011"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63307841"
 ---
 # <a name="configure-view-in-file-explorer-with-edge"></a>Konfigurieren der Ansicht im Datei-Explorer mit Edge
 

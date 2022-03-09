@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "2661"
 - "9000697"
-ms.openlocfilehash: 829d5d257421eaa3d31ff9a9458df1ac3967048a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 424b48a692f56304aeee08356848b1e26011e2ac
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62607899"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63307756"
 ---
 # <a name="connect-to-project-online"></a>Herstellen einer Verbindung mit Project Online
 

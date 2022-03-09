@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: 640d5d8e6f6aec5c7a45333f5f9ca7d7ac9f1a27
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c102b253aa6ff6ebcac0feeb1902109a07a988cb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62737757"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63307949"
 ---
 # <a name="turn-off-disable-or-uninstall-onedrive"></a>Deaktivieren oder Deinstallieren von OneDrive
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7788"
 - "9004355"
-ms.openlocfilehash: 1fec5a75448d427be39019cc0faee72c564e1875
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 6343ff29f9195970da6f480f826cb160692da651
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62700080"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63256301"
 ---
 # <a name="issues-signing-in-to-applications"></a>Probleme beim Anmelden bei Anwendungen
 
