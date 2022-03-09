@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9091"
 - "9005274"
-ms.openlocfilehash: 3016b651508c014a428f25216644ffa51ae9b283
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a9f924c0fb5b976500b766f053ef5879fe0acf56
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62615532"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63197924"
 ---
 # <a name="teams-limits-and-specifications"></a>Teams-Grenzwerte und -spezifikationen
 

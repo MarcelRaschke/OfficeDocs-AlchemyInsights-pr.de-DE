@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6218"
 - "9003321"
-ms.openlocfilehash: 601e7ff72ea3162865180a86cea7b58c735d3fbc
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8d763d02433fa7bd4d43aa8352aac245e713e005
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62665807"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63253750"
 ---
 # <a name="pin-based-verification-process-for-support-callers"></a>PIN-basierter Überprüfungsprozess für Support-Anrufer
 

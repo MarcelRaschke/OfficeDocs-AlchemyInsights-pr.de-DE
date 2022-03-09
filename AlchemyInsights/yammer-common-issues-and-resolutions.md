@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002428"
 - "4712"
-ms.openlocfilehash: 7fc9fb47ee5c4e9858492cb02d8b692e71947389
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 74501905914bd52d8ecab94dae6727c5d8f48b9b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62595370"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63176071"
 ---
 # <a name="yammer-common-issues-and-resolutions"></a>Gemeinsame Themen und Lösungen in Yammer
 
@@ -31,7 +31,7 @@ Hier sind einige gefragte Themen für Yammer:
 
 - **eDiscovery**: Führen Sie zur Vorbereitung auf [eDiscovery in Yammer-Netzwerken](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery) das [Ausrichtungs-Tool für den einheitlichen Modus](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode) aus. 
 
-- **Compliance**: Richten Sie eine [Nutzungsrichtlinie](https://docs.microsoft.com/yammer/manage-security-and-compliance/set-up-a-usage-policy) für Benutzer ein, [exportieren Sie Yammer-Daten](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data), verstehen Sie die [Handhabung von DSGVO-Anträgen](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise) für Yammer, und [finden Sie heraus, wo die Daten von Yammer gehostet werden](https://docs.microsoft.com/yammer/manage-security-and-compliance/data-residency). [Deaktivieren](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access) Sie den Yammer-Zugriff, falls erforderlich.
+- **Compliance**: Richten Sie eine [Nutzungsrichtlinie](https://docs.microsoft.com/yammer/manage-security-and-compliance/set-up-a-usage-policy) für Benutzer ein, [exportieren Sie Yammer-Daten](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data), verstehen Sie die [Handhabung von DSGVO-Anträgen](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise) für Yammer, und [finden Sie heraus, wo die Daten von Yammer gehostet werden](https://docs.microsoft.com/yammer/manage-security-and-compliance/data-residency). [Deaktivieren](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access) Sie bei Bedarf den Zugriff auf Yammer.
 
 - **Externe Zusammenarbeit**: Arbeiten Sie mit externen Benutzern in [externen Gruppen](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-external-groups) zusammen, oder hosten Sie größere Communities in [externen Netzwerken](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-an-external-network). [Deaktivieren Sie externe Nachrichten und Gruppen](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging), wenn dies für Ihre Sicherheitsrichtlinie nötig ist.
 

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "12851"
 - "9000734"
-ms.openlocfilehash: 19f8df112a4309289274047b62bce740cc6e2400
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: be2d53932512344c36d2b3b6ad1498bf2fccd5ae
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62577868"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63216285"
 ---
 # <a name="create-and-configure-teams-policies"></a>Erstellen und Konfigurieren von Teams-Richtlinien
 
@@ -32,7 +32,7 @@ Dies sind einige gängige Einstellungen, die von Richtlinien unterstützt werden
 
 - Teams unterstützt [Aufbewahrungsrichtlinien](https://docs.microsoft.com/microsoftteams/retention-policies) für Chat- und Kanalnachrichten, sodass ein Administrator entscheiden kann, ob er Daten aufbewahren, löschen oder für einen bestimmten Zeitraum aufbewahren und dann löschen möchte. Weitere Informationen zu Richtlinien im Microsoft 365 Compliance Center finden Sie unter [Informationen zur Aufbewahrung für Teams](https://docs.microsoft.com/microsoftteams/assign-policies).
 - Die Adressbuchrichtlinien von Teams werden über die bereichsbezogene Verzeichnissuche festgelegt. Weitere Informationen finden Sie unter [Verwenden der bereichsbezogenen Verzeichnissuche von Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).
-- Besprechungsrichtlinien steuern, was Benutzer mit Teams-Besprechungen tun können, einschließlich der Steuerung des Wartebereichs, des Chats in Besprechungen, Besprechungsaufzeichnungen und mehr. Weitere Informationen finden Sie unter [Besprechungsrichtlinien in Teams verwalten](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- Besprechungsrichtlinien steuern, was Benutzer in Microsoft Teams-Besprechungen tun können, einschließlich der Steuerung des Wartebereichs, des Chats in Besprechungen, Besprechungsaufzeichnungen und mehr. Weitere Informationen finden Sie unter [Besprechungsrichtlinien in Microsoft Teams verwalten](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 - Nachrichtenrichtlinien steuern Chats und Nachrichten, einschließlich des Blockierens von Chats und Lesebestätigungen. Weitere Informationen finden Sie unter [Nachrichtenrichtlinien in Teams verwalten](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams).
 - App-Setup-Richtlinien steuern das Installieren, Hochladen und Anheften von Apps. Weitere Informationen finden Sie unter [Verwalten von Richtlinien für das App-Setup in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies).
 - Verwenden Sie Anrufrichtlinien, um private Anrufe und Anrufweiterleitung zu konfigurieren. Weitere Informationen finden Sie unter [Anrufen und Anrufweiterleitung in Teams](https://docs.microsoft.com/MicrosoftTeams/teams-calling-policy).

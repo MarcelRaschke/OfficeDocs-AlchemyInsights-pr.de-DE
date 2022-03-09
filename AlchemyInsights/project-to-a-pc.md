@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9001520"
 - "5610"
-ms.openlocfilehash: 246721cd6f6c7054ec99fb926e2a8f4a1777c94e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 23895a6ab3e366b31cce52a6378bfa6d7ec8422c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62648040"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63253205"
 ---
 # <a name="project-to-a-pc"></a>Auf einen PC projizieren
 

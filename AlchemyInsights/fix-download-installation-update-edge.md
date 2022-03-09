@@ -8,21 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9128"
 - "9004429"
-ms.openlocfilehash: 4ef88e02f09c0562730ac5b3056c27822b3069ad
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 20dd5135f36b10a6ef46881ec6e8386c0e6873c6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62710305"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63172507"
 ---
 # <a name="fix-problems-with-the-download-installation-and-update-of-microsoft-edge"></a>Beheben von Problemen beim Herunterladen, Installieren und Aktualisieren von Microsoft Edge
 
-Überprüfen Sie vor dem Beheben von Fehlerbehebungen, ob Ihr Computerbetriebssystem mit Microsoft Edge kompatibel ist, das Windows 10, 8, 8.1, 7 32-Bit (x86) und 64-Bit (x64) sowie macOS 10.12 Sierra und höher unterstützt. Befolgen Sie die folgenden Anweisungen, um Probleme mit Microsoft Edge Herunterladen, Installieren und Aktualisieren zu beheben:
+Überprüfen Sie vor dem Beheben von Fehlerbehebungen, ob Ihr Computerbetriebssystem mit Microsoft Edge kompatibel ist. Der Browser funktioniert unter Windows 10, 8, 8.1, 7 32-Bit (x86) und 64-Bit (x64) sowie macOS 10.12 Sierra und höher. Befolgen Sie die folgenden Anweisungen, um Probleme beim Herunterladen, Installieren und Aktualisieren von Microsoft Edge zu beheben:
 
 1. Überprüfen Sie das Netzwerk und das VPN:
     - Überprüfen Sie die Netzwerkverbindung.

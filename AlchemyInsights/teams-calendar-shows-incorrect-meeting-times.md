@@ -8,21 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003305"
 - "6206"
-ms.openlocfilehash: c4487d08b4123d644526885d13cc0745eeb55941
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a6542266fc58f185c8b00b79bb89057a4f705a0e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62706813"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63303527"
 ---
 # <a name="teams-calendar-shows-incorrect-meeting-times"></a>Teams-Kalender zeigt falsche Besprechungszeiten
 
-Dies könnte durch eine Zeitzonendifferenz verursacht werden. Wenn dies zutrifft, versuchen Sie, die Zeitzone in Outlook festzulegen, und planen Sie dann Ihre Besprechungen im Outlook-Kalender statt in Teams.
+Dies könnte durch einen Zeitzonenunterschied verursacht werden. Wenn dies zutrifft, versuchen Sie, die Zeitzone in Outlook festzulegen, und planen Sie dann Ihre Besprechungen im Outlook-Kalender statt in Microsoft Teams.
 
 - Anweisungen zum Ändern der Zeitzone finden Sie unter [Ändern der Einstellungen für Zeitzone und Sprache in Outlook im Web](https://support.microsoft.com/office/change-the-time-zone-and-language-settings-in-outlook-on-the-web-65239869-12e7-4a9d-bca1-76b0ad7ce273) 
 

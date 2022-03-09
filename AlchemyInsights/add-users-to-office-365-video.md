@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7592"
 - "1200022"
-ms.openlocfilehash: 8a69300931f5258353b2e5183227c714b1e32f7e
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: dc11e9bafb45218a25f3375ca262dcedb0b807a6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62629050"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63250721"
 ---
 # <a name="how-to-add-a-user"></a>So fügen Sie einen Benutzer hinzu
 
@@ -28,6 +28,6 @@ ms.locfileid: "62629050"
 
 2. Klicken Sie auf **Benutzer hinzufügen**.
 
-3. Füllen Sie die Informationen für den Benutzer aus.  Wählen Sie abschließend **Hinzufügen fertig stellen** aus.
+3. Geben Sie die Informationen für den Benutzer ein. Wenn Sie damit fertig sind, wählen Sie **Hinzufügen fertigstellen** aus.
 
 Weitere Informationen finden Sie unter [Hinzufügen von einzelnen Benutzern oder Massenhinzufügen von Benutzern](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).

@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9361"
 - "9003259"
-ms.openlocfilehash: 1c30f1fd9ec27411c24e322d534523dce1c6d8b7
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: de7449af61c1c2b4d54db1c3150edd7c2b4b0a7c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62634558"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213837"
 ---
 # <a name="password-logs"></a>Kennwortprotokolle
 
@@ -43,8 +43,7 @@ Weitere Informationen finden Sie unter den nachfolgenden Links:
 
 **Ich möchte mehr über die Berichterstellungsfunktionen für die Kennwortzurücksetzung erfahren**
 
-Überprüfen Sie im Azure-Portal unter **"Benutzer und Gruppen"**, wer Kennwörter mit Azure AD-Protokollen zur Kennwortzurücksetzung registriert oder zurücksetzt.
-Weitere Informationen finden Sie unter den folgenden Links:
+Überprüfen Sie im Azure-Portal unter **Benutzer und Gruppen**, wer Kennwörter mit Azure AD-Protokollen zur Kennwortzurücksetzung zurücksetzt oder dafür registriert ist. Weitere Informationen hierzu finden Sie unter folgenden Links:
 
 - [Übersicht über das Zurücksetzen von Kennwörtern](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-reporting)
 - [Anzeigen von Berichten zur Kennwortzurücksetzung im Azure-Portal](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-reporting)

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "5616"
 - "9002537"
-ms.openlocfilehash: ed1998544926796d9d01e399c79d6d2576793aed
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 628e8f0fb37eeda46945604c7d7d296e6e28d65d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62673403"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63207644"
 ---
 # <a name="change-your-default-mic-speaker-or-camera"></a>Ändern des Standardmikrofons, -lautsprechers oder der Standardkamera
 

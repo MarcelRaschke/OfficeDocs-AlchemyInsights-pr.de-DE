@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4363"
-ms.openlocfilehash: c8bc9702426679e26df9c9a2ccc3fccca069e783
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 802f752172e393a40ba3a2fcb4b75bb0ecfd099d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62561619"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63251369"
 ---
 # <a name="add-phone-number"></a>Hinzufügen einer Telefonnummer
 

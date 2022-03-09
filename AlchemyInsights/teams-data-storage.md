@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - "9002239"
 - "4348"
 ms.assetid: ''
-ms.openlocfilehash: 4284d8c3f8165771e89fc35eef01472d924aa7e8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3add6fb71558107b9a9831d2731f4531e251e6e8
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62631246"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63303461"
 ---
 # <a name="teams-data-storage"></a>Teams-Datenspeicherung
 

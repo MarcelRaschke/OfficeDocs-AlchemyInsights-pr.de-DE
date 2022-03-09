@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "4559"
-ms.openlocfilehash: 88f768e6b6054c3724b969b3a6722668417228df
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: bf2d8a7db5bda38062cddc9ecc824da2d23a9a0b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62665712"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213477"
 ---
 # <a name="microsoft-teams-phone-license"></a>Lizenz für Microsoft Teams Telefon
 

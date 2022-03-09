@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9787"
 - "9005401"
-ms.openlocfilehash: 9dc18b6b17fba5bdf5b57977df3cf69fe3a0c064
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 314852a5d73a1dd5ccd9794de449ddb436b4b451
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62665843"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213585"
 ---
 # <a name="personalize-your-lock-screen-in-windows-10"></a>Personalisieren des Sperrbildschirms in Windows 10
 
@@ -40,4 +40,4 @@ Wenn Sie das Windows-Blickpunktbild bei der Anmeldung nicht sehen, überprüfen 
 
 1. Stellen Sie sicher, dass **Hintergrundbild des Sperrbildschirms auf dem Anmeldebildschirm anzeigen** aktiviert ist.
 
-1. Kehren Sie zu **Einstellungen** zurück, und wählen Sie **Datenschutz**. Wählen Sie **Hintergrund-Apps**, und stellen Sie sicher, dass **Apps im Hintergrund laufen lassen** aktiviert ist.
+1. Kehren Sie zurück zu **Einstellungen**, wählen Sie **Datenschutz** und dann **Hintergrund-Apps** aus, und stellen Sie sicher, dass **Apps die Ausführung im Hintergrund erlauben** aktiviert ist.

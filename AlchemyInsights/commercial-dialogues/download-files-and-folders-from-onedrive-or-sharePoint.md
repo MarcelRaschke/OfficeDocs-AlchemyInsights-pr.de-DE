@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: a5b5c66e4d6e1a415793db06394a9a812ed2a0ef
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: de9bf0a2212b8d7b64387e317b73e723d3d9c455
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62656446"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63258317"
 ---
 # <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Herunterladen von Dateien und Ordnern aus OneDrive oder SharePoint
 

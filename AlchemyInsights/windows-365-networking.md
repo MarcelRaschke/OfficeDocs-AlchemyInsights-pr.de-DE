@@ -8,21 +8,21 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "13771"
 - "9008608"
-ms.openlocfilehash: 292421eff5b2c7bd5540190045c876da3bfa0196
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: be38db06db7d26f0a7420e3372a61000c9946a12
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62595514"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63280349"
 ---
 # <a name="windows-365-networking"></a>Windows 365-Netzwerk
 
-Sie können Windows 365-PCs bereitstellen, um eine Verbindung zwischen Ihrem lokalen Unternehmensnetzwerk, in dem sich Ihre Active Directory-Domänencontroller befinden, und der Azure-Infrastruktur herzustellen, in der die Windows 365-PCs gehostet werden. Diese Konnektivität ist als Teil des OPNC-Objekts (On-Premises Network Connection) definiert.
+Sie können Windows 365-PCs bereitstellen, um eine Verbindung zwischen Ihrem lokalen Unternehmensnetzwerk, in dem sich Ihre Active Directory-Domäne-Controller befinden, und der Azure-Infrastruktur herzustellen, in der die Windows 365-PCs gehostet werden. Diese Konnektivität wird als Teil des OPNC-Objekts (Lokale Netzwerkverbindung) definiert.
  
 Informationen zu Problemen bei der Installation des Remotedesktopclients finden Sie unter [Erste Schritte mit Windows 365 Business- und Cloud-PCs – Remotedesktop](https://docs.microsoft.com/windows-365/business/get-started-windows-365-business#remote-desktop).
 

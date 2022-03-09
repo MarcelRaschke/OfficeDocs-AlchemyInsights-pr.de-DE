@@ -8,21 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7813"
 - "9004358"
-ms.openlocfilehash: 9bdcfe637399bcc60c6e8d01f04f536538627e20
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 93173dd4ae19a552e07580ec98b158928ab25325
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62691692"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63156739"
 ---
 # <a name="announcements"></a>Ankündigungen
 
-Folgen Sie den Anweisungen von Google zum Testen der Kompatibilität, um zu testen, ob Ihre Apps betroffen sind. Die Anleitungen von Google finden Sie unter https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support.
+Folgen Sie den Anweisungen von Google zum Testen der Kompatibilität, um zu testen, ob Ihre Apps betroffen sind. Die Anleitung von Google finden Sie hier: https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support.
 
 Verwenden Sie die Systemwebansicht oder den Systembrowser, wenn Sie Ihre Benutzer mit Google-Privatanwenderkonten anmelden. Weitere Informationen finden Sie unter [Probleme bei der Anmeldung bei Anwendungen (nur Chrome-Browser)](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
 

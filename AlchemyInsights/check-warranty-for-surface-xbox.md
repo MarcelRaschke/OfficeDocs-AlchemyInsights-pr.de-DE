@@ -8,21 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: 23e896f457576b9d812fde7ae92a6d5e8033e34c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: df06809b69238da500b28f571b995e7c8e86ad32
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62578908"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63217437"
 ---
 # <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Überprüfen Sie den Garantiestatus für ein Surface- oder Xbox-Gerät
 
-Wenn Sie über ein Surface- oder Xbox-Gerät verfügen, können Sie Ihr Microsoft-Konto verwenden, um Ihre Garantie zu überprüfen. Dies ist auf folgende Punkte zurückzuführen:
+Wenn Sie über ein Surface- oder Xbox-Gerät verfügen, können Sie Ihr Microsoft-Konto verwenden, um Ihre Garantie zu überprüfen. Gehen Sie wie folgt vor:
 
 1. Melden Sie sich bei Ihrem [Microsoft-Konto](https://account.microsoft.com/devices/) an. 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Fehler: Ihre neue Installation verfügt über neuere Features als die aktuelle Version. Möchten Sie die Software aktivieren...'
+title: 'Fehler: Ihre neue Installation verfügt über neuere Features als Ihre aktuelle Version. Möchten Sie sie aktivieren...'
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9825"
 - "9005394"
-ms.openlocfilehash: 3981ccca05483c97c7bd987719ab71102400253f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9b45952f91989a5e3d22dc0b8a74aa56f1604f31
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62591806"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63277217"
 ---
-# <a name="error-your-new-install-has-newer-features-than-your-current-version-do-you-want-to-activate"></a>Fehler: Ihre neue Installation verfügt über neuere Features als die aktuelle Version. Möchten Sie die Software aktivieren...
+# <a name="error-your-new-install-has-newer-features-than-your-current-version-do-you-want-to-activate"></a>Fehler: Ihre neue Installation verfügt über neuere Features als Ihre aktuelle Version. Möchten Sie sie aktivieren...
 
 Um diesen Office-Fehler zu beheben, wählen Sie die automatisierte Lösung für Ihre Office-Version aus:
 

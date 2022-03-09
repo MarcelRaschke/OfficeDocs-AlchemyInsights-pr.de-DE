@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O364
 ms.custom:
 - "9004219"
 - "10871"
-ms.openlocfilehash: 55b46c3bad067fc0dfb8b9a1a4065fc07731e19a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f3b74e7a7d1189ed687ed2132f15584d2d95cf63
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62637906"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63297733"
 ---
 # <a name="identify-windows-virtual-desktop-issues"></a>Identifizieren von Problemen mit Windows Virtual Desktop
 

@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5708"
-ms.openlocfilehash: e670c7d8d146cf5f885bbe35385fca9668f47006
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a7d7cc1901fa3e560e77b644ba9b3929e0b18491
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62597314"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63304765"
 ---
 # <a name="site-template-cannot-be-created"></a>Websitevorlage kann nicht erstellt werden
 
-Möglicherweise fehlt der Vorlage ein Feature, und sie wird nicht aktiviert. Wenn das Feature in der aktuellen Websitesammlung nicht aktiviert werden kann, können Sie die Websitevorlage nicht zum Erstellen einer Website verwenden.
+Möglicherweise fehlt der Vorlage ein Feature, und sie wird nicht aktiviert. Wenn das Feature in der aktuellen Sitesammlung nicht aktiviert werden kann, können Sie die Sitevorlage nicht zum Erstellen einer Site verwenden.
 
 - Überprüfen Sie, ob irgendwelche Listen oder Bibliotheken den oberen [Schwellenwert der Listenansicht](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) von 5000 Elementen überschreiten, da hierdurch die Erstellung einer Websitevorlage verhindert werden kann.
 

@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002423"
 - "4701"
 ms.date: 02/07/2022
-ms.openlocfilehash: ecd82b660f5cd971fe6c4a2ff3a2fbfc4449f71a
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0b12e7277e1bc514b8bcba9eb8ee846cf116c18e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62676038"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63176935"
 ---
 # <a name="using-information-barriers-in-microsoft-365"></a>Verwenden von Informationsbarrieren in Microsoft 365
 

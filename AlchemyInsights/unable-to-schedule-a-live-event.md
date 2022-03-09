@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6139"
 - "9000208"
-ms.openlocfilehash: c3f1e65dd9369acc888e4f04fb908d4afa022b38
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d49e0098053ec9ee4e03d2bc9562996f25cf28fb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62749331"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63260016"
 ---
 # <a name="unable-to-schedule-a-live-event"></a>Planen eines Liveereignisses nicht möglich
 

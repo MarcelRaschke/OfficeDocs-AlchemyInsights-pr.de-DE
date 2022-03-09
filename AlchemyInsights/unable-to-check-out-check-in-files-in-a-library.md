@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "5300029"
 - "1688"
-ms.openlocfilehash: 1a4494c1d1770429d305974070ee1120229da443
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7913d6411521eef3120270cf223ecf536226be8b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62614560"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63303415"
 ---
 # <a name="unable-to-check-out-or-check-in-files-in-a-library"></a>Auschecken oder Einchecken von Dateien in einer Bibliothek nicht möglich
 
@@ -25,7 +25,7 @@ ms.locfileid: "62614560"
 
 - Sonderzeichen im Titel des Dokuments können zu Problemen führen. Entfernen Sie das Sonderzeichen, und versuchen Sie, die Datei einzuchecken.
 
-- Wenn ein Benutzer eine Datei ausgecheckt hat, wird sie gesperrt.  Ist die Person, die die Datei ausgecheckt hat, abwesend, kann der Bibliotheksbesitzer die Datei über **Bibliothekseinstellungen -> Dateien verwalten** einchecken.
+- Wenn ein Benutzer eine Datei ausgecheckt hat, wird sie gesperrt. Ist die Person, die die Datei ausgecheckt hat, abwesend, kann der Bibliotheksbesitzer die Datei über **Bibliothekseinstellungen -> Dateien verwalten** einchecken.
 
 Hier finden Sie einige hilfreiche Links zu diesem Feature:
 

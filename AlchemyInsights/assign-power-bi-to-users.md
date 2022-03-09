@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - commerce_licensing
 - "9002564"
 - "4964"
 ms.date: 08/10/2021
-ms.openlocfilehash: 1c48d89aa6678c65691dbd872ff4c5584bfa4b91
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 43ae13b55513798ccf4723d85fdaa47918fc3d9a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62611751"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63228777"
 ---
 # <a name="assign-power-bi-to-users"></a>Zuweisen von Power BI zu Benutzern
 
@@ -29,7 +29,7 @@ Power BI kann Benutzern über das **Microsoft 365 Admin Center** zugewiesen werd
 1. Wechseln Sie zu **Abrechnung > [Lizenzen](https://go.microsoft.com/fwlink/p/?linkid=842264)**.
 2. Wählen Sie ein Produkt aus, für das Sie Lizenzen zuweisen möchten.
 3. Klicken Sie auf **Lizenzen zuweisen**.
-4. Beginnen Sie im Bereich **Lizenzen an Benutzer zuweisen** mit der Eingabe eines Benutzernamens, und wählen Sie ihn dann aus den Ergebnissen aus. Sie können bis zu 20 Benutzer gleichzeitig hinzufügen.
+4. Beginnen Sie im Bereich **Lizenzen an Benutzer zuweisen** mit der Eingabe eines Namens, und wählen Sie ihn dann aus den Ergebnissen aus, um ihn der Liste hinzuzufügen. Sie können bis zu 20 Benutzer gleichzeitig hinzufügen.
 5. Klicken Sie auf **Apps und Dienste aktivieren oder deaktivieren**, um bestimmte Elemente zuzuweisen oder zu entfernen.
 6. Klicken Sie auf **Zuweisen** und dann auf **Schließen**.
 

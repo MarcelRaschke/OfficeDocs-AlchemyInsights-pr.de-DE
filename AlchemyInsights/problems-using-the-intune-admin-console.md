@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1790"
 - "9000214"
-ms.openlocfilehash: e7383b7311350f6f3e43c72cba07284bb0e02b3b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: be34fa2eec6b5da373be54da9ad54674dcc84ddb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62707713"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63245285"
 ---
 # <a name="problems-using-the-intune-admin-console"></a>Probleme beim Verwenden der Intune-Verwaltungskonsole
 
@@ -35,7 +35,7 @@ Weisen Sie den Benutzer an, zu **Intune** > **Intune-Rollen** > **Meine Berechti
 
 **Ich habe eine Bereichsgruppe zu einer Rolle hinzugefügt, aber die Benutzer in dieser Rolle sehen weiterhin andere Benutzer oder Geräte.**
 
-Bereichsgruppen filtern keine Benutzer oder Geräte heraus. Bereichsgruppen:
+Bereichsgruppen filtern keine Benutzer oder Geräte heraus. Bereichsgruppen tun Folgendes:
 
 - Beschränken, web Benutzer Richtlinien oder Anwendungen zuordnen können.
 - Erlauben nur bestimmten Benutzern das Ausführen von Remoteaufgaben auf Geräten.

@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8245"
 - "9000701"
-ms.openlocfilehash: b29e74bf23064647fc527a2591eed52dcaab6160
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 80ef195d66f3bb75c9a00c5f994e0c46760a651a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62699864"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63202352"
 ---
 # <a name="join-a-team-by-code"></a>Beitreten zu einem Team per Code
 

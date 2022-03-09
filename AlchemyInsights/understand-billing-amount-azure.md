@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 5f6c7f9bdf06297c2c35ad3c4822ab039ae56e70
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 19fb407aa1b98d232e8ffd78db299a3cad0885b0
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62741555"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63289601"
 ---
 # <a name="understand-billing-amount"></a>Informationen zum Abrechnungsbetrag
 
@@ -70,7 +70,7 @@ Nein. Kunden erhalten eine feststehende Anzahl kostenloser Dienste und ein Gutha
 
 **Wie kann ich überprüfen, ob ﻿kostenlose Dienste aktiv sind oder wann sie ablaufen?**
 
-Scrollen Sie unter "Ibiza-Portal > Abonnement > Übersicht" nach unten zu "12 Monate lang kostenlose Dienste", und klicken Sie auf das "Infosymbol". Hier wird das Datum angezeigt, an dem die kostenlosen Dienste ablaufen
+Scrollen Sie unter "Ibiza-Portal > Abonnement > Übersicht" nach unten zu "12 Monate lang kostenlose Dienste", und klicken Sie auf das "Infosymbol". Dadurch wird das Datum angezeigt, an dem kostenlose Dienste ablaufen.
 
 **Hinweis**: Keine V1-Dienste sind Teil von Azure Free Inclusive Services. Die aktuellste Liste der kostenlosen Dienste finden Sie unter [Welche Produkte für 12 Monate kostenlos sind](http://www.microsoftazuresponsorships.com/).
 

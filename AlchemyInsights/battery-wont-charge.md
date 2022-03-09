@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: 5ce678d7588f692a2e55eec3488e61e32b5d25f8
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cfd8515ff9a0b3f4ff938bd6558012e6c0983a8b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62580645"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63269333"
 ---
 # <a name="battery-wont-charge"></a>Der Akku wird nicht aufgeladen
 
@@ -27,7 +27,7 @@ Versuchen Sie zweitens, Ihr Surface herunterzufahren und mindestens 30 Minuten l
 
 **Angeschlossen, aber wird nicht geladen**
 
-Wenn das Akkusymbol in der Taskleiste **Angeschlossen, aber wird nicht geladen** anzeigt, bedeutet dies, dass Ihr Surface das Netzteil erkennt, den Akku jedoch nicht auflädt. Ihr Surface wird möglicherweise ausgeschaltet, wenn Sie den Netzstecker ziehen. Versuchen Sie dies:
+Wenn das Akkusymbol in der Taskleiste **Angeschlossen, aber wird nicht geladen** anzeigt, bedeutet dies, dass Ihr Surface das Netzteil erkennt, den Akku jedoch nicht auflädt. Ihr Surface wird möglicherweise ausgeschaltet, wenn Sie den Netzstecker ziehen. Versuchen Sie Folgendes:
 
 1. Schließen Sie Ihr Surface an.
 2. Geben Sie **Geräte-Manager** in das Suchfeld in der Taskleiste ein und wählen Sie dann **Geräte-Manager** aus der Ergebnisliste aus.

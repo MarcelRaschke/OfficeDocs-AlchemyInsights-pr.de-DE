@@ -7,17 +7,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: d1622bc4373cb69a6d4da4f6cede0c68865d94b3
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 8b0d3e045bc797134c73c38a411a432b6c1a8b1c
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62572527"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63213369"
 ---
 # <a name="plan-deploy-and-manage-teams-rooms"></a>Planen, Bereitstellen und Verwalten von Teams-Räumen
 

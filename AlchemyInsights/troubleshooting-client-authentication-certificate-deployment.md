@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: e0535df658b7d53a56872cf9f1ba83c76dca5825
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 5bae3e7c155954b936562e5244c3b3c695387e04
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62545448"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63281537"
 ---
 # <a name="troubleshooting-client-authentication-certificate-deployment"></a>Problembehandlung bei der Bereitstellung von Clientauthentifizierungszertifikaten
 
@@ -44,7 +44,7 @@ Die Lösung besteht darin, Internet Explorer als SYSTEM auszuführen und einen P
 
 **Benutzergeräte empfangen keine SCEP-Zertifikate mehr von NDES.**
 
-Es ist möglich, dass das Clientauthentifizierungszertifikat, das für den NDES-Server ausgestellt und während der NDES-Connectorinstallation angegeben wurde, abgelaufen oder nicht vorhanden ist. Problemlösung: 
+Es ist möglich, dass das Clientauthentifizierungszertifikat, das für den NDES-Server ausgestellt und während der NDES-Connectorinstallation angegeben wurde, abgelaufen oder nicht vorhanden ist. Gehen Sie zur Behebung folgendermaßen vor: 
  
 1. Deinstallieren Sie den NDES-Connector.  
 2. Verwenden Sie diese Details, um ein neues Clientauthentifizierungs- oder Serverauthentifizierungszertifikat anzufordern: 
