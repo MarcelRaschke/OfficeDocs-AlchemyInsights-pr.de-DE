@@ -7,23 +7,23 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002929"
 - "5608"
-ms.openlocfilehash: 120f0d1d5ec4596f723754576d5f8a129b2ae8cd
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b8dc2b70bebec7bbea2a8e810d736f53b5d92d61
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62711349"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63239345"
 ---
 # <a name="dashboard-not-loading"></a>Dashboard wird nicht geladen
 
 **Symptom:**
 
-Das Dashboard bleibt möglicherweise mit dem Wartekreisel eines Ladevorgangs hängen, oder es zeigt eventuell eine allgemeine Fehlermeldung an: „Da hat etwas nicht geklappt. Überprüfen Sie die technischen Details, um weitere Informationen zu erhalten.“
+Es kann sein, dass das Dashboard mit einem Ladewartekreisel hängen bleibt oder eine allgemeine Fehlermeldung anzeigt: „Etwas ist schief gelaufen. Prüfen Sie die technischen Details für weitere Informationen“.
 
 **Handbuch zur Problembehandlung:**
 

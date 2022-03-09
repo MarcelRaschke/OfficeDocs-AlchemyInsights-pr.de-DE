@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10184"
 - "9000094"
-ms.openlocfilehash: 5e05570aa6ef0292179b390f66a2df338b45b209
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b3b0dcdb585efdeb4c13ad43a26813959f7a98bf
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62658822"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63208652"
 ---
 # <a name="apply-site-template-to-sharepoint-sites"></a>Anwenden einer Websitevorlage auf SharePoint-Websites
 

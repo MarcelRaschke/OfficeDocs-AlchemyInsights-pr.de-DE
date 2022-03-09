@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8370"
 - "9004622"
-ms.openlocfilehash: 7a0e71e0d31160e89c3488be39cc8c349ac87ec4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 57c8f4d95f0e19c9a5d2efb9f57a023b3e94e897
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62590510"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63265085"
 ---
 # <a name="learn-about-accessibility-in-microsoft-edge"></a>Informationen zur Barrierefreiheit in Microsoft Edge
 
