@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004635"
 - "8383"
-ms.openlocfilehash: c45662923f30e9e27a503768493f93757350652c
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ada2c9750158d8f9b6dad3c5830127012f110b42
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62565075"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63288485"
 ---
 # <a name="access-reports-about-app-protection-policies-in-microsoft-intune"></a>Zugriff auf Berichte zu App-Schutzrichtlinien in Microsoft Intune
 

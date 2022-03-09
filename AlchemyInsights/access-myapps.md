@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7856"
 - "9004350"
-ms.openlocfilehash: 6c999b76010e56c8b37e0b4d7711d85f1d3cd244
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c377bea5d90386d1ce2fa6bebe6115dc61e0d70b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62565147"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63288701"
 ---
 # <a name="access-myapps"></a>Zugriff auf „Meine Apps“
 
