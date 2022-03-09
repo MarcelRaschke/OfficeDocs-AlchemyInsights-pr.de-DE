@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5718"
-ms.openlocfilehash: a36e3ff10544e3c74cca3fed163837c9dd31c1a1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7015b56f745f69ba99d6576bf78ef1f2178647c6
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62716641"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63125453"
 ---
 # <a name="recover-deleted-items-with-cmdlet"></a>Wiederherstellen gelöschter Elemente mit einem Cmdlet
 
@@ -25,4 +25,4 @@ ms.locfileid: "62716641"
 
 - Die vollständigen Details hierzu finden Sie unter [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps&preserve-view=true).
 
-- Um dieses Cmdlet ausführen zu können, muss Ihnen die Rolle „Postfachimport/-export“ zugewiesen worden sein. Weitere Informationen finden Sie unter [Get-](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps&preserve-view=true).
+- Um dieses Cmdlet ausführen zu können, muss Ihnen die Rolle „Postfachimport/-export“ zugewiesen worden sein. Weitere Informationen dazu finden Sie unter [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps&preserve-view=true).

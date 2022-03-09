@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 48279baf6d30df355c2653e7dbe689e614f155da
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 28ee703d6b929340188d3a0f4df31508506733ae
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62628186"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63301961"
 ---
 # <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Anpassen der Zeitzonen- und Spracheinstellungen in Outlook im Web
 

@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1066"
 - "1067"
@@ -16,12 +16,12 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: dc10c682edbd8b3ff1a82196a46aef3cd05a9263
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cca01227df0248f0e8ef8a49056d53993c99f7aa
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62587715"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63254609"
 ---
 # <a name="find-missing-folders"></a>Suchen nach fehlenden Ordnern
 
@@ -31,4 +31,4 @@ Einige Benutzer können den linken Ordnerbereich möglicherweise nicht sehen, we
 - Erweitern Sie den Ordnerbereich nur, wenn Sie ihn benötigen. Wählen Sie das dreizeiligen Symbol in der linken Seitenleiste aus, um Ordner anzuzeigen oder auszublenden.
 - Öffnen Sie [layouteinstellungen](https://outlook.live.com/mail/options/mail/layout) , und wählen Sie **Lesebereich ausblenden** und dann **speichern**. Dadurch erhält der Bildschirm mehr Platz zum Anzeigen von Ordnern.
 
-Wenn Sie versehentlich einen Ordner löschen, können Sie ihn wiederherstellen, wenn er sich noch im Ordner "Gelöschte Elemente" befindet. Weitere Informationen finden Sie unter ["Wiederherstellen gelöschter E-Mail-Nachrichten" in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
+Wenn Sie versehentlich einen Ordner löschen, können Sie ihn wiederherstellen, wenn er sich noch im Ordner "Gelöschte Elemente" befindet. Weitere Informationen finden Sie unter [Wiederherstellen gelöschter E-Mail-Nachrichten in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).

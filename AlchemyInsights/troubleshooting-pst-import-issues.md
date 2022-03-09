@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 9b05a74223be3b99ffd400ccecd139738bb3fa4b
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d9014697dd309ee05c8d092a6b83c270e97a82fb
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62749475"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63252245"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Behandlung von Problemen beim PST-Import
 

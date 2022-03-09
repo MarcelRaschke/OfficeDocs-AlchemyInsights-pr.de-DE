@@ -7,18 +7,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: 6e73d331d1e5e9c5161fd5c9ef3c5b1c132f02ba
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 71334da526e24b2a15e1cfb8287368321188ebdd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62628582"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63302253"
 ---
 # <a name="add-external-email-addresses-to-a-distribution-group"></a>Hinzufügen externer E-Mail-Adressen zu einer Verteilergruppe
 

@@ -1,5 +1,5 @@
 ---
-title: adressbuch 9000232 Outlook.com
+title: 9000232 Outlook.com-Adressbuch
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "1816"
 - "9000232"
-ms.openlocfilehash: 4074347edc8eab897d9a94053a346d953f48c611
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 63fe83606ffde4bd03e7e0b5197194beb9c3afba
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62719583"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63255005"
 ---
 # <a name="address-book-in-outlookcom"></a>Adressbuch in Outlook.com
 

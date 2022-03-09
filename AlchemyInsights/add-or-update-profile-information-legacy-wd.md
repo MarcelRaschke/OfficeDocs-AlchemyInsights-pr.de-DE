@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7339"
-ms.openlocfilehash: 2111132f942887cbb3053829a870f324ca74affb
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0b15973e949f9f1e837d0ac688b5763988d60d7d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62561979"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63251549"
 ---
 # <a name="add-or-update-profile-information---legacy-wd---recommended-steps"></a>Hinzufügen oder Aktualisieren von Profilinformationen – Legacy-WD – empfohlene Schritte
 

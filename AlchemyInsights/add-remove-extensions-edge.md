@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9971"
 - "9005674"
-ms.openlocfilehash: aee795cf4829e226abb349c5ebf1c1f4750d8205
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f42ac7d47bd6a742ed74f695450666c8bfd5bd60
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62561583"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63251261"
 ---
 # <a name="how-to-add-or-remove-extensions-in-microsoft-edge"></a>So fügen Sie Erweiterungen in Microsoft Edge hinzu oder entfernen sie
 

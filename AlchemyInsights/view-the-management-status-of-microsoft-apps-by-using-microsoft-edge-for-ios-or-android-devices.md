@@ -8,19 +8,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
 - "9006502"
 - "6950"
 - "11143"
-ms.openlocfilehash: 149864b1608dd5673f4a6c29ae0d3f0cb4fe59a1
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: be8a8d33077b2e8b8066c0a9031df98c2db78215
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62595874"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63302555"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Anzeigen des Verwaltungsstatus von Microsoft-Apps mithilfe von Microsoft Edge für iOS- oder Android-Geräte
 

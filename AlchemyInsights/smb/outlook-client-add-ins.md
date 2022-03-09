@@ -7,21 +7,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009993"
 - "15744"
 ms.date: 02/14/2022
-ms.openlocfilehash: f47956cf4b3d3e998f94a6f5552ff439ad837f0d
-ms.sourcegitcommit: d4fe5cc18116740ba4193dbd716e3123ee898394
+ms.openlocfilehash: 8246547eea985eb909b387d7e2c2ccb3fbf549c4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62815641"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63252377"
 ---
 # <a name="managing-outlook-add-ins"></a>Verwalten von Outlook-Add-Ins
 
-Einige Add-Ins werden von Ihrem E-Mail-Administrator installiert. Sie können jedoch auch andere Add-Ins aus dem Office Store installieren, um Add-Ins aus Office Store zu installieren. Führen Sie die folgenden Schritte aus:
+Einige Add-Ins werden von Ihrem E-Mail-Administrator installiert. Sie können jedoch andere Add-Ins aus der Office Store installieren, um Add-Ins aus Office Store zu installieren, indem Sie die folgenden Schritte ausführen:
 
 **Installieren eines Add-Ins aus dem Office Store**
 

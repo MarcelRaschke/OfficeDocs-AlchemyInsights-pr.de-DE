@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "1780"
 - "9000208"
-ms.openlocfilehash: 321db088e8ea0236fb0007a2156132c12888e2e4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 48ddec2dddc5ae694751e4656ffdbd97cc363a01
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62582307"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63303379"
 ---
 # <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Müssen Sie Ihr Liveereignis mit einem externen Encoder konfigurieren?
 

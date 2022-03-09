@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "11618"
 - "9001499"
-ms.openlocfilehash: 6312906ad62b088f9a4548400e37ad79afaee5a4
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 7726e09d8dd2062e9f74f839afab57ab7f894ac9
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62660550"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63303267"
 ---
 # <a name="unable-to-save-user-photos"></a>Benutzerfotos können nicht gespeichert werden
 

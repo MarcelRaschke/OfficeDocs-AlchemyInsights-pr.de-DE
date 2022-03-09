@@ -8,22 +8,22 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 2612c950d74a2fd38e9d26326259b95228c6648f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 19dc595e6db250357f884bd5f0e42c49531b7e54
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62729836"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63254429"
 ---
 # <a name="subscriptions-and-unsubscribing"></a>Abonnements und Abonnements kündigen
 
 Wenn Sie den Empfang von Newslettern oder Werbeaktionen beenden möchten, gibt es zwei Möglichkeiten, sich in Outlook.com abzumelden:
 
 1. Wählen Sie in Ihrem Posteingang einen Newsletter oder eine Werbe-E-Mail aus. Wählen Sie oben im Lesebereich **"Kündigen" aus**.
-2. Öffnen Sie Die [Abonnementseinstellungen Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Einstellungen** >  **Alle Outlook** **settingsEmailSubscriptions** >  >  anzeigen), und wählen Sie **"Kündigen" aus**.
+2. Öffnen Sie ihre [Outlook.com-Abonnementeinstellungen](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Einstellungen** >  **Alle Outlook** **settingsEmailSubscriptions** >  >  anzeigen), und wählen Sie **"Kündigen" aus**.
 
 Hinweise:
 

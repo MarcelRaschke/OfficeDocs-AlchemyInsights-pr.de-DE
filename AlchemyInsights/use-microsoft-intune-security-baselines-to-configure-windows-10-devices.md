@@ -8,17 +8,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "8371"
 - "9004622"
-ms.openlocfilehash: a82031e025d0bad6d364e438277709d16838e30f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: a5e34c9a52cfb368a86eba47850adb5b62bfa34d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62740804"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63303041"
 ---
 # <a name="use-the-microsoft-intune-security-baselines-for-configuring-windows-10-devices"></a>Verwenden der Microsoft Intune-Sicherheitsgrundsätze zum Konfigurieren von Windows 10-Geräten
 

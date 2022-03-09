@@ -8,17 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7338"
-ms.openlocfilehash: 13d4737fa309d0208527859ec5ae9f63cfc90e45
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 9bee94d0e22157a6bb4c903584f8c1163e7a7bbd
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62562087"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63251621"
 ---
 # <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Hinzufügen oder Aktualisieren der Po-Nummer – Legacy-WD – empfohlene Schritte
 

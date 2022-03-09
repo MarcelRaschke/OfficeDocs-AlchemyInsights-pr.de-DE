@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: c2d36ce1d16ac8f259db675770c8a0877e2a6c61
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ad9b3c5f64400c9b6c4abaa61c4c24386bcc061b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62550063"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63254357"
 ---
 # <a name="how-to-verify-your-outlookcom-account"></a>So überprüfen Sie Ihr Outlook.com-Konto
 

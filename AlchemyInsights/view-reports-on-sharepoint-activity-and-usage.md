@@ -1,5 +1,5 @@
 ---
-title: Anzeigen von Berichten über SharePoint Aktivität und Nutzung
+title: Anzeigen von Berichten zu SharePoint Aktivität und Nutzung
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7973"
-ms.openlocfilehash: 462cb70c47d1f1408f988d0c47bf2214047b5abf
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ce5673c1571e1df6e9d089c7b29387208ac8560a
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62614056"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63302519"
 ---
-# <a name="view-reports-on-sharepoint-activity-and-usage"></a>Anzeigen von Berichten über SharePoint Aktivität und Nutzung
+# <a name="view-reports-on-sharepoint-activity-and-usage"></a>Anzeigen von Berichten zu SharePoint Aktivität und Nutzung
 
 Wechseln Sie zur [Seite "Nutzungsberichte" im Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home). Wählen **Sie unter "Bericht auswählen**" den SharePoint Aktivitäts- oder Nutzungsbericht aus.
 

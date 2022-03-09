@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "8000046"
 - "2507"
-ms.openlocfilehash: a66a3f684731d867052d4a609ef0c654fc5a2e41
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d7e2bbcbc6f8acd55899876df5048437047d4269
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62743931"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63254753"
 ---
 # <a name="unable-to-print"></a>Drucken nicht möglich
 

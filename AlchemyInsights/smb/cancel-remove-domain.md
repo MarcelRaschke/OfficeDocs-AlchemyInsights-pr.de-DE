@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009960"
 - "15329"
 ms.date: 02/11/2022
-ms.openlocfilehash: 9aefd72a87390ece51354a93f7c4b43c48efa219
-ms.sourcegitcommit: 4628225d398aca58f43d2bba31d61da0eddd5713
+ms.openlocfilehash: 452c49faceaa20329cfd04319f2c03a66b59b135
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62790227"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63252485"
 ---
 # <a name="removing-your-domain"></a>Entfernen Ihrer Domäne
 

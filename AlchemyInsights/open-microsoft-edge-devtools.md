@@ -7,19 +7,19 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9004033"
 - "7103"
 - "8296"
 - "9004617"
-ms.openlocfilehash: 6609ee00da1961d794247c6c6267fdf4341a73ea
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f19f2e67bcc5f1f931a5aaeb09f71fc59ae3189b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62753939"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63255113"
 ---
 # <a name="open-microsoft-edge-devtools"></a>Öffnen Microsoft Edge DevTools
 

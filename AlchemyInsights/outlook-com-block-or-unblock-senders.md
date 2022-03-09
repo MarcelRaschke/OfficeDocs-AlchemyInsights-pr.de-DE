@@ -8,7 +8,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "270"
@@ -16,12 +16,12 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 4b2caad17e42850f715151d7cec15396295f4dfe
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e1088437ae40cf3fb26954f1112daa521f17ec38
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62719413"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63254933"
 ---
 # <a name="block-or-unblock-senders"></a>Blockieren oder Aufheben der Blockierung von Absendern
 
@@ -36,7 +36,7 @@ Nachrichten von E-Mail-Adressen oder Domänen in der Liste der blockierten Absen
 1. Öffnen Sie [die Junk-E-Mail-Einstellungen](https://outlook.live.com/mail/options/mail/junkEmail) .
 2. Wählen Sie unter **"Blockierte Absender und Domänen**" die Option **"Hinzufügen**" aus.
 3. Geben Sie die E-Mail-Adresse der Domäne ein, die Sie blockieren möchten, und drücken Sie die EINGABETASTE.
-4. Wählen Sie **Speichern**.
+4. Klicken Sie auf **Speichern**.
 
 Um die Blockierung eines Absenders aufzuheben, wählen Sie das Papierkorbsymbol neben der E-Mail-Adresse oder Domäne aus, die Sie entsperren möchten.
 

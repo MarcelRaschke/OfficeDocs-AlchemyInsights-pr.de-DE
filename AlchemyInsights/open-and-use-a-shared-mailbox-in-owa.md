@@ -8,18 +8,18 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: d8b835bcc18acec77fca9869720f227b7e608088
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: be2fc2e7ecfe72cbdc3d7c741f0658775503b19f
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62730101"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63255186"
 ---
 # <a name="open-and-use-a-shared-mailbox-in-outlook"></a>Öffnen und Verwenden eines geteilten Postfachs in Outlook
 

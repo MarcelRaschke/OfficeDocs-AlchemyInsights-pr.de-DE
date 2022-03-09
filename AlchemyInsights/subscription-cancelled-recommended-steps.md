@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6848"
-ms.openlocfilehash: ad25b832e66bc862534b8f142f1a05ad6afedb85
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 3ec0044aadb653d16a462315b4804e6e11a6e1a7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62677147"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63303707"
 ---
 # <a name="subscription-cancelled---legacy---spending-limit"></a>Abonnement storniert – Legacy – Ausgabenlimit
 

@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6005"
 - "9003203"
-ms.openlocfilehash: 2b39aa41b174f81afda7bbdb3c5e9597df0b45be
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: b999cf2993cafb67cf1eea9a2967d66f8413fe02
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62660370"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63302591"
 ---
 # <a name="view-display-settings-in-windows-10"></a>Windows 10-Anzeigeeinstellungen anzeigen
 

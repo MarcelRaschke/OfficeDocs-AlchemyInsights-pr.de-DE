@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - "9005624"
 - "9657"
-ms.openlocfilehash: fb6f9dccb841082b84d4ef8837accafd46b4efc2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: aa9bdcacae62ae6e8a271682df5d08c2156a2498
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62630310"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63302893"
 ---
 # <a name="use-prt-based-sso-in-microsoft-edge"></a>Verwenden von PRT-basiertem SSO in Microsoft Edge
 

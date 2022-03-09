@@ -8,16 +8,16 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 7de6c0c785cea5d489ef80318adbfbcd3c7ae957
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 37a36598f0f4337e4a99783ee640a30e4ebab061
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62630431"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63303185"
 ---
 # <a name="unplug-and-reconnect-camera"></a>Trennen und erneutes Verbinden der Kamera
 

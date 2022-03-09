@@ -1,5 +1,5 @@
 ---
-title: Outlook.com hinzufügen von Flags oder Erinnerungen
+title: Outlook.com zum Hinzufügen von Flags oder Erinnerungen
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,13 +11,13 @@ ms.custom:
 - "1921"
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 46e679206b4bb31749a7924530505e75ffba19e0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.localizationpriority: medium
+ms.openlocfilehash: e667a133bdcf0240190fe357450db23a1a0c1d64
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62708505"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63255041"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Hinzufügen von Flags und Erinnerungen in Outlook.com
 

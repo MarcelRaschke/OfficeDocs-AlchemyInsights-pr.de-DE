@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9447"
 - "9005491"
-ms.openlocfilehash: 31ff6551a3c591636fbcc8792980fd98d51fd277
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: f6bd03b66f3610836404ec23f4e0fee5e3f43cab
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62690671"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63303113"
 ---
 # <a name="use-an-html-file-to-import-favorites-to-microsoft-edge"></a>Verwenden einer HTML-Datei zum Importieren von Favoriten in Microsoft Edge
 

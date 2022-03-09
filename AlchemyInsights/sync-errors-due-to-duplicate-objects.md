@@ -8,15 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 922826d9e438ac1ffc01279c7fa15087a9aad2d2
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 45a018b213a3d3939d545a79ddb1eb3bb7cb1328
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62661990"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63303635"
 ---
 # <a name="sync-errors-due-to-duplicate-objects"></a>Synchronisierungsfehler aufgrund doppelter Objekte
 
