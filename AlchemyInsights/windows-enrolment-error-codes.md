@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "4863"
-ms.openlocfilehash: b552ed55d3e4b8787ce327f84ccb59c2c098e8c0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: d3d5b1ec3014d16e06786f5c212bc6bb07fd0619
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62660154"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63289241"
 ---
 # <a name="windows-enrolment-error-codes"></a>Fehlercodes bei der Windows-Registrierung
 

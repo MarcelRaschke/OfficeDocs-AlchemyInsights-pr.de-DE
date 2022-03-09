@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4854"
-ms.openlocfilehash: 08ac194a08df34df8e89ce638453711eeb7607e0
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: e0c50cf5370bd8d1c415d2322c57fc7a4f22b09e
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62725929"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63289457"
 ---
 # <a name="update-on-focused-inbox-and-our-plans-for-clutter"></a>Update zum Posteingang mit Relevanz und zu unseren Plänen für Clutter
 

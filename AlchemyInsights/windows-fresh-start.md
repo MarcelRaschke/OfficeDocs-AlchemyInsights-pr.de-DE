@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "1280"
 - "6700008"
-ms.openlocfilehash: 83abedd5aa08f98ff40b8fdc9123283e98798c4f
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 23f824d0c963e62ce058da1e83f62612b7de289b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62675396"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63289205"
 ---
 # <a name="windows-fresh-start"></a>Windows-Neustart
 
