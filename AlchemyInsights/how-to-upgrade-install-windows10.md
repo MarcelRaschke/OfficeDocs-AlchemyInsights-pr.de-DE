@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "10141"
 - "9005600"
-ms.openlocfilehash: 081b4db1f52bf68889f9f47b8a6ae44c08eaf054
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cf8fc093b7f38eca48ce1a1208fe95f2e23201b7
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62638050"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63236535"
 ---
 # <a name="how-to-upgrade-or-install-windows-10"></a>Aktualisieren oder Installieren von Windows 10
 
@@ -26,7 +26,7 @@ So erhalten Sie Windows 10, wenn Sie Windows 7 oder Windows 8.1 verwenden
 
 - Wenn auf Ihrem PC Windows 7 ausgeführt wird, empfiehlt Microsoft dringend, dass Sie irgendwann vor dem Ende des Windows 7-Supports am 14. Januar 2020 auf ein neues Gerät mit Windows 10 umsteigen. Weitere Informationen darüber, was dies bedeutet und wie Sie sich auf das Ende des Supports vorbereiten können, finden Sie unter [Windows 7 Support endet am 14. Januar 2020](https://support.microsoft.com/help/4057281/).
 
-- Wenn auf Ihrem PC Windows 8.1 ausgeführt wird, können Sie eine Vollversion von Windows 10 oder ein neues Gerät kaufen. Weitere Informationen finden Sie unter [Möchten Sie Windows 10 erhalten?](https://www.microsoft.com/windows/get-windows-10).
+- Wenn auf Ihrem PC Windows 8.1 ausgeführt wird, können Sie eine Vollversion von Windows 10 oder ein neues Gerät kaufen. Weitere Informationen finden Sie unter [Sie möchten Windows 10 erhalten?](https://www.microsoft.com/windows/get-windows-10).
 
 **Hinweis**: Das kostenlose Windows 10-Upgrade über die „Windows 10 abrufen“-App (GWX) endete am 29. Juli 2016.
 

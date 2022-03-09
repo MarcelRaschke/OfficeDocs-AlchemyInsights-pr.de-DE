@@ -8,21 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 163b94404cdf329051daee8fda941ee83d4e6e59
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: cdbf95232cde64b989aa417351dea5ba15f6b718
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62745623"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63127109"
 ---
 # <a name="managing-live-captions-for-education-organizations"></a>Live-Untertitel für Bildungseinrichtungen verwalten
 
-Wir empfehlen Admins von Bildungseinrichtungen, den Einsatz von Richtlinienpaketen für die Sicherheit von Schülern, Studenten und Pädagogen in Erwägung ziehen. Weitere Informationen finden Sie unter:  
+Wir empfehlen Admins von Bildungseinrichtungen, den Einsatz von Richtlinienpaketen für die Sicherheit von Schüler:innen, Studierenden und Pädagog:innen in Erwägung ziehen. Weitere Informationen finden Sie hier:  
 
 - [Richtlinienpakete in Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     

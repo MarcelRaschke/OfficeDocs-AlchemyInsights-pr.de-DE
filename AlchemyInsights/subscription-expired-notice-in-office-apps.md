@@ -7,17 +7,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 5ab7335bacec9f9952f3dd8712bf3a4e1611e418
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: ea399e2637a0d1b2fb3324e340bbb6f44699986d
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62726397"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63303671"
 ---
 # <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Hinweis "Abonnement abgelaufen" in Microsoft 365-Apps
 
@@ -27,7 +27,7 @@ ms.locfileid: "62726397"
 
 - Öffnen Sie eine Office-App, klicken Sie auf **Datei > Konto**, und melden Sie sich von allen Konten ab. Melden Sie sich mit einem Benutzerkonto mit einer gültigen Lizenz erneut an. Ausführliche Informationen finden Sie unter [Konten in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
-- Öffnen Sie eine Office-App, und navigieren Sie zu **Datei > Konto > Updateoption > Jetzt aktualisieren**, um Office auf dem betroffenen Computer zu aktualisieren. Detaillierte Anweisungen finden Sie unter [Installieren von Office-Updates](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).
+- Öffnen Sie eine Office-App, und navigieren Sie zu **Datei > Konto > Updateoption > Jetzt aktualisieren**, um Office auf dem betroffenen Computer zu aktualisieren. Ausführliche Arbeitsschritte finden Sie unter [Installieren von Office-Updates](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 - Führen Sie die [Aktivierungsproblembehandlung](https://aka.ms/SARA-OfficeActivation-Alchemy) aus, und starten Sie den Computer neu.
 

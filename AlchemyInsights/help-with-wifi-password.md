@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "9799"
 - "9005399"
-ms.openlocfilehash: fe42c151bf2accbd87bfa41fd6cd493f45fa8860
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: 0240bad8f1e8dfabf0a6771b508336d8a9767d60
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62685505"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63185108"
 ---
 # <a name="need-help-with-my-wi-fi-password"></a>Hilfe benötigt mit "mein WLAN-Passwort"
 
@@ -38,7 +38,7 @@ Wenn Sie mit dem Internet verbunden sind, führen Sie die folgenden Schritte aus
 
 Leider können Sie nicht nach Ihrem WLAN-Passwort suchen, wenn Sie dieses WLAN-Netzwerk derzeit nicht verwenden. Weitere Hilfe zu Ihrem Router erhalten Sie vom Hersteller Ihres Routers oder auf dessen Support-Website.
 
-Wenn der Router neu ist, finden Sie Ihren WLAN-Namen und Ihr Kennwort möglicherweise auf dem Router oder in der Originalverpackung des Routers. Die Anmeldeinformationen werden wie folgt angezeigt:
+Wenn der Router neu ist, finden Sie Ihren WLAN-Namen und Ihr Kennwort möglicherweise auf dem Router oder in der Originalverpackung des Routers. Die Anmeldeinformationen werden folgendermaßen angezeigt:
 
 Netzwerk-SSID: XXXXXXX Netzwerkschlüssel: XXXXXXXX
 

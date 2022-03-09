@@ -8,17 +8,17 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: Adm_O365
 ms.custom:
 - "7878"
 - "9004374"
-ms.openlocfilehash: a5d7303d370d40c8b4715a21df6e40905f8f6fd6
-ms.sourcegitcommit: 49eaa1417714617d768df85fd79b65e35b6e5c83
+ms.openlocfilehash: c39832299ce32ab37e51639f55a0a19cb669f385
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/11/2022
-ms.locfileid: "62670595"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63300209"
 ---
 # <a name="contact-support-or-request-fasttrack-assistance"></a>Wenden Sie sich an den Support oder fordern Sie FastTrack-Unterstützung an
 
