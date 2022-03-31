@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 7e6a9113a865e42440f01efc83cc360d15c9ccf6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c228479cfbd5e83daeaa34183b558e57b07e2f01
+ms.sourcegitcommit: 6af6da11b9dd89b1113201d7b7b11d23e7c8bed1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63203792"
+ms.lasthandoff: 03/29/2022
+ms.locfileid: "64525954"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Exportieren von Elementen in eine Archivdatei in Outlook für Mac
 
@@ -37,7 +37,7 @@ Informationen zum Zugriff auf die Daten, die Sie in einer Outlook für Mac-Daten
 
 **Ich möchte nach iCloud oder in eine andere Art von Archivdatei exportieren**
 
-Die einzige Exportoption, die derzeit verfügbar ist, ist die OLM-Archivdatei. Um zusätzliche Exportoptionen anzufordern, besuchen Sie das [Outlook Vorschlagsfeld](https://outlook.uservoice.com/), um Ihr Feedback zu hinterlassen. Das Outlook-Team überwacht dieses Forum aktiv.
+Die einzige Exportoption, die derzeit verfügbar ist, ist die OLM-Archivdatei. Um zusätzliche Exportoptionen anzufordern, besuchen Sie das Outlook Vorschlagsfeld, um Ihr Feedback zu hinterlassen. Das Outlook-Team überwacht dieses Forum aktiv.
 
 **Siehe auch**
 

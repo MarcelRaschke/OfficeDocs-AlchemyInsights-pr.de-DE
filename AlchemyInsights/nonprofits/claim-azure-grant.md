@@ -12,12 +12,12 @@ ms.custom:
 - "9010555"
 - "16923"
 ms.date: 03/09/2022
-ms.openlocfilehash: e029c0aa540694d2dcb10b7e18bcac80ba4d9539
-ms.sourcegitcommit: aebcd4784bc369af3a353b30e2f5103fbbfe24da
+ms.openlocfilehash: fd2e279d8287b7eb902d78810895900a0e9cf5bd
+ms.sourcegitcommit: 6af6da11b9dd89b1113201d7b7b11d23e7c8bed1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2022
-ms.locfileid: "63419593"
+ms.lasthandoff: 03/29/2022
+ms.locfileid: "64525663"
 ---
 # <a name="claim-azure-grant"></a>Azure Grant anfordern
 
@@ -32,4 +32,4 @@ Verwenden Sie die folgenden Schritte oder die [geführte Simulation](https://oct
 5. Sie sehen und laden das Symbol unter "Schritt 1".
 6. Dann wird eine Meldung angezeigt, die besagt, dass die Azure-Gutschriftenanforderung verarbeitet wird, wir senden eine E-Mail, sobald die Registrierung erstellt wurde. Die Erstellung des Azure-Guthabens kann 48 Stunden dauern."
 
-Wenn Sie Probleme mit diesem Verfahren haben oder weitere Fragen haben, kehren Sie bitte zur Seite " [Non-Profit Contact Us"](https://nonprofit.microsoft.com/en-us/contactus) zurück, und fahren Sie mit der Erstellung einer Supportanfrage fort.
+Wenn Sie Probleme mit diesem Prozess haben oder weitere Fragen haben, fahren Sie mit der Erstellung einer Supportanfrage fort.
