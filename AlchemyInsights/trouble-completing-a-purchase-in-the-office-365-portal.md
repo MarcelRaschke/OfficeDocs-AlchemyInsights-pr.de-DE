@@ -1,27 +1,25 @@
 ---
 title: Probleme beim Abschließen eines Kaufs im Microsoft 365 Admin Center
-ms.author: cmcatee
 author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
 ms.reviewer: drjones, jmueller
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
-- "483"
 - "1500029"
+- "483"
 ms.date: 04/21/2020
-ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: fd0f8ecb948eafbbc81abcd81ceb73fc8b686d56
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4d7827e631bc74b30ffc39d63598aeba996d7d52
+ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63220929"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "64711798"
 ---
 # <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Probleme beim Abschließen eines Kaufs im Microsoft 365 Admin Center
 

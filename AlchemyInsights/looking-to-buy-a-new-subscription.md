@@ -3,7 +3,7 @@ title: Möchten Sie ein neues Abonnement kaufen?
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: drjones, jmueller
+ms.reviewer: nalinkla, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: commerce_purchase
 ms.localizationpriority: medium
 ms.date: 04/05/2022
-ms.openlocfilehash: 02603038698e1abfadfb9fcb8d4d7faab2c11e9f
-ms.sourcegitcommit: 30b5ecda157eb16e15db9d9be25fae59edae12ec
+ms.openlocfilehash: ee21da86abdb9f2528cd22af11de355d68fbb3f6
+ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2022
-ms.locfileid: "64662611"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "64711366"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Möchten Sie ein neues Abonnement kaufen?
 

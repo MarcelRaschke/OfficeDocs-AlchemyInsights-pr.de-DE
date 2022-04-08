@@ -1,32 +1,29 @@
 ---
-title: Office 365 für Regierungspläne und Preise
-ms.author: cmcatee
+title: Office 365 für Pläne und Preise für Behörden
 author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
-ms.reviewer: drjones, jmueller
-ms.audience: Admin
+ms.reviewer: nalinkla, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
-- "477"
 - "1500026"
+- "477"
 ms.date: 04/21/2020
-ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 929f8fc89e0a1ac158bdde784e8d04baa3f87179
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 978ec97db3a8db23da588785f0d938c482061528
+ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63201272"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "64712878"
 ---
-# <a name="office-365-government-plans"></a>Office 365 Government Pläne
+# <a name="office-365-government-plans"></a>Office 365 Government-Pläne
 
-Office 365 U.S. Government-Pläne sind auf die einzigartigen Anforderungen von US-Regierungsbehörden ausgelegt. Sie bieten alle Features und Funktionen von Office 365-Diensten in einer segmentierten Government Cloud Community, die es Organisationen ermöglicht, die Compliance- und Sicherheitsstandards der USA zu erfüllen.
+Office 365 Pläne der US-Regierung sind auf die einzigartigen Bedürfnisse von US-Regierungsorganisationen ausgelegt. Sie bieten alle Features und Funktionen von Office 365-Diensten in einer segmentierten Cloud-Community der Regierung, die es Organisationen ermöglicht, die US-Compliance- und Sicherheitsstandards zu erfüllen.
   
-- [Überprüfen der Regierungspläne](https://products.office.com/government/compare-office-365-government-plans)
-
+- [Überprüfen der Pläne der Regierung](https://products.office.com/government/compare-office-365-government-plans)
 - [Vergleichen aller Microsoft 365 Abonnements](https://products.office.com/business/compare-more-office-365-for-business-plans)

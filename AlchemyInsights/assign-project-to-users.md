@@ -1,26 +1,25 @@
 ---
 title: Project an Benutzer zuweisen
-ms.author: cmcatee
 author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
 ms.reviewer: micurn, nicholak
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_licensing
 - "9002424"
 - "5103"
-ms.date: 08/10/2021
-ms.openlocfilehash: 14105e9942a874fe0fe52ce17c8b6e21b0d75fd9
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/06/2022
+ms.openlocfilehash: fbf82f6cf0ae0944786ecb4c543022e950d9305d
+ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63228633"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "64711186"
 ---
 # <a name="assign-project-to-users"></a>Project an Benutzer zuweisen
 
@@ -29,7 +28,7 @@ Project kann Benutzern über das **Microsoft 365 Admin Center** zugewiesen werde
 1. Wechseln Sie zu **Abrechnung > [Lizenzen](https://go.microsoft.com/fwlink/p/?linkid=842264)**.
 2. Wählen Sie ein Produkt aus, für das Sie Lizenzen zuweisen möchten.
 3. Klicken Sie auf **Lizenzen zuweisen**.
-4. Beginnen Sie im Bereich **Zuweisen von Lizenzen zu Benutzern** mit der Eingabe eines Benutzernamens, und wählen Sie ihn dann aus den Ergebnissen aus. Sie können bis zu 20 Benutzer gleichzeitig hinzufügen.
+4. Beginnen Sie im Bereich **Lizenzen an Benutzer zuweisen** mit der Eingabe eines Namens, und wählen Sie ihn dann aus den Ergebnissen aus, um ihn der Liste hinzuzufügen. Sie können bis zu 20 Benutzer gleichzeitig hinzufügen.
 5. Klicken Sie auf **Apps und Dienste aktivieren oder deaktivieren**, um bestimmte Elemente zuzuweisen oder zu entfernen.
 6. Klicken Sie auf **Zuweisen** und dann auf **Schließen**.
 

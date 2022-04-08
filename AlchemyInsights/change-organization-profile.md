@@ -1,30 +1,29 @@
 ---
-title: Ändern des Organisationsprofils
-ms.author: cmcatee
+title: Organisationsprofil ändern
 author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
-ms.reviewer: tugu, jmueller
-ms.audience: Admin
+ms.reviewer: mijeffer, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
 - "9000175"
 - "1714"
 ms.date: 04/21/2020
-ms.openlocfilehash: e24bffe62a82588e59ea246e81c62939b43c9fb1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: eb1cc3cdbf8a1f7ae1ff45f5f15abf71caaaec80
+ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63258641"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "64712698"
 ---
-# <a name="change-organization-profile"></a>Ändern des Organisationsprofils
+# <a name="change-organization-profile"></a>Organisationsprofil ändern
 
-Ändern Sie den Firmennamen, die Adresse, die technischen Kontaktinformationen und vieles mehr im Admin Center auf der Registerkarte **Einstellungen** >  **Org Einstellungen** >  [Organizational Profile](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation).
+Ändern Sie ihren Firmennamen, Ihre Adresse, technische Kontaktinformationen und mehr im Admin Center auf der Profilregisterkarte **Einstellungen** >  **Org Einstellungen** >  [Organizational](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation).
 
 Achten Sie darauf, alle mit * gekennzeichneten Pflichtfelder auszufüllen, damit Ihre Änderungen gespeichert werden können.
 
