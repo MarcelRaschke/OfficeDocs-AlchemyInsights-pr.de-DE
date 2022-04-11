@@ -3,25 +3,24 @@ title: Automatisches Ablaufen von Microsoft Teams-Besprechungsaufzeichnungen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ms.collection: Adm_O365
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
 ms.custom:
-- "13757"
 - "9002530"
-ms.date: 01/21/2022
-ms.openlocfilehash: c60c2f004d843fde207c42927ccf77f482c9b022
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "13757"
+ms.date: 04/08/2022
+ms.openlocfilehash: 6f2057daf1f00311d4ad0827ccbc2d307215539d
+ms.sourcegitcommit: 58156eb99b6c22d3d1a089c6ba675d1a037d80e2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63290897"
+ms.lasthandoff: 04/09/2022
+ms.locfileid: "64745793"
 ---
 # <a name="teams-meeting-recordings-auto-expiration"></a>Automatisches Ablaufen von Microsoft Teams-Besprechungsaufzeichnungen
 
-Ende März 2022 wird eine standardmäßige Ablaufeinstellung von 120 Tagen für alle **neu erstellten** Teams-Besprechungsaufzeichnungen (Teams Meeting Recordings, TMRs) ausgerollt. Diese Einstellung ist standardmäßig aktiviert und wirkt sich nicht auf vorhandene TMRs aus. Über PowerShell oder das Teams Admin Center können ein Teams-Administrator oder ein globaler Administrator [das Ablaufdatum ändern oder deaktivieren](https://docs.microsoft.com/MicrosoftTeams/meeting-expiration#change-the-default-expiration-date).
+Alle neu erstellten Teams-Besprechungsaufzeichnungen (TMRs) haben einen Standardablauf von 120 Tagen. Dies ist standardmäßig für alle Mandanten aktiviert. Administratoren können [standardmäßige Ablaufeinstellungen bearbeiten](https://docs.microsoft.com/microsoftteams/meeting-expiration#change-the-default-expiration-date), um diese Funktion zu deaktivieren, oder den Ablaufzeitrahmen in PowerShell oder im Teams Admin Center ändern. Alle vorgenommenen Änderungen wirken sich ab diesem Zeitpunkt nur auf neu erstellte TMRs aus. Weitere Informationen zu diesem Feature finden Sie unter [Änderungen am Ablauf der Besprechung](https://docs.microsoft.com/microsoftteams/meeting-expiration#changes-to-meeting-expiration).
 
-**Hinweis:** Einigen Kunden wird die Ablauf-Benutzeroberfläche in SharePoint/OneDrive möglicherweise vor dem Ablaufen von Microsoft Teams-Besprechungsaufzeichnungen angezeigt. In diesem Fall wird anstelle der Anzahl der Tage "Kein Ablauftermin" angezeigt. Dies bedeutet, dass diese Einstellung für Ihren Mandanten noch nicht vollständig ausgerollt ist. Suchen Sie im [Nachrichtencenter (MC274188)](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter) nach den aktuellsten Informationen zum Rolloutzeitplan.
+Endbenutzer können auch das [Standardablaufdatum bearbeiten](https://support.microsoft.com/office/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24#bkmk_view_change_expiration_date) oder für jede einzelne Aufzeichnung **Kein Ablaufdatum** auswählen.
