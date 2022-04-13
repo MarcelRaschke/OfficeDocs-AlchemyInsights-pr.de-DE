@@ -3,7 +3,7 @@ title: Ändern der App-Lizenzmenge
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: micurn, nicholak
+ms.reviewer: presharm, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,18 +14,18 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.date: 04/06/2022
-ms.openlocfilehash: 5c30d7fd7ff36df8a7cd55c33f8e4df15ae28a86
-ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
+ms.openlocfilehash: eba666e267f73d1098e43a38c09e8d58cd5af535
+ms.sourcegitcommit: b6ba43b438551e7558ad67d8b94f84b608d26bf9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64711978"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825997"
 ---
 # <a name="change-app-license-quantity"></a>Ändern der App-Lizenzmenge
 
 Sie können die Anzahl ihrer Lizenzen anzeigen oder ändern und sie Benutzern im Microsoft 365 Admin Center zuweisen.
 
-## <a name="to-change-license-quantity"></a>So ändern Sie die Lizenzmenge
+**So ändern Sie die Lizenzmenge**
 
 **Schauen Sie sich ein Video** an, in dem gezeigt wird, wie Sie [dies tun: Neue Lizenzen kaufen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#watch-buy-new-licenses) oder [vorhandene Lizenzen entfernen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#watch-remove-existing-licenses).
 
@@ -35,7 +35,7 @@ Sie können die Anzahl ihrer Lizenzen anzeigen oder ändern und sie Benutzern im
 4. Um Lizenzen zu kaufen oder zu entfernen, geben Sie unter **"Neue Menge** " im Feld " **Lizenzen insgesamt** " die Gesamtanzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen. Wenn Sie beispielsweise über 100 Lizenzen verfügen und fünf weitere lizenzen hinzufügen möchten, geben Sie 105 ein. Wenn Sie fünf davon entfernen möchten, geben Sie 95 ein.
 5. Wählen Sie **Speichern**.
 
-## <a name="to-assign-app-licenses"></a>So weisen Sie App-Lizenzen zu
+**So weisen Sie App-Lizenzen zu**
 
 1. Wechseln Sie zur Seite **"****[BillingYour-Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** > ".
 2. Suchen Sie auf der Registerkarte " **Produkte** " im Abschnitt **"Apps** " die App, die Sie verwalten möchten.

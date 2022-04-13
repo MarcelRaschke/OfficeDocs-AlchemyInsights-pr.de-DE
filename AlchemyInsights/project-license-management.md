@@ -3,7 +3,7 @@ title: Project-Lizenzverwaltung
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: micurn, nicholak
+ms.reviewer: jkinma, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "9002424"
 - "5105"
 ms.date: 04/06/2022
-ms.openlocfilehash: 7e100f363db44d17a17b8532f4e521cf9645ab29
-ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
+ms.openlocfilehash: e5df9083b6b0f649a9a14033c1b28a6279c2ea18
+ms.sourcegitcommit: b6ba43b438551e7558ad67d8b94f84b608d26bf9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64712806"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64826366"
 ---
 # <a name="project-license-management"></a>Project-Lizenzverwaltung
 

@@ -3,7 +3,7 @@ title: Project an Benutzer zuweisen
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: micurn, nicholak
+ms.reviewer: sinakassaw, nicholak
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "9002424"
 - "5103"
 ms.date: 04/06/2022
-ms.openlocfilehash: fbf82f6cf0ae0944786ecb4c543022e950d9305d
-ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
+ms.openlocfilehash: c336eb5c0cd2d4b4d84b3c78a4d4a0cd51be1842
+ms.sourcegitcommit: b6ba43b438551e7558ad67d8b94f84b608d26bf9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64711186"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64826330"
 ---
 # <a name="assign-project-to-users"></a>Project an Benutzer zuweisen
 

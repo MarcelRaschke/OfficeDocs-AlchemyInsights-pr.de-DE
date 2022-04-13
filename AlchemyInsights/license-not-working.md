@@ -3,7 +3,7 @@ title: Die Lizenz funktioniert nicht
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: micurn, nicholak
+ms.reviewer: shegu, nicholak
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "9002459"
 - "4764"
 ms.date: 04/06/2022
-ms.openlocfilehash: 6a71ec606d58e0623d80c599505c58a2bbe4553b
-ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
+ms.openlocfilehash: afa9fdb7ffcb91cc05a0cb3a603c0d76cf550e04
+ms.sourcegitcommit: b6ba43b438551e7558ad67d8b94f84b608d26bf9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64711150"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64826258"
 ---
 # <a name="license-not-working"></a>Die Lizenz funktioniert nicht
 
