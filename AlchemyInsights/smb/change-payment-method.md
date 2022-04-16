@@ -3,7 +3,7 @@ title: Änderung der Zahlungsmethode
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "9009965"
 - "15376"
 ms.date: 02/17/2022
-ms.openlocfilehash: e926decf670ce9d8a5c370034dcd2c0fba48908b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f64b88aaf493a073fa6b6ab6d304bf3935fde482
+ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63230613"
+ms.lasthandoff: 04/16/2022
+ms.locfileid: "64890917"
 ---
 # <a name="change-of-payment-method"></a>Änderung der Zahlungsmethode
 
@@ -35,4 +35,4 @@ Informationen zum Ändern der Zahlungsmethode für ein einzelnes Abonnement find
 
 *Weitere Informationen zum Ändern von Zahlungsmethoden:* [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Wenn Sie **sich mit einem Microsoft-Spezialisten für weitere Hilfe in Verbindung setzen** möchten, wählen Sie "Chat mit einem Microsoft-Spezialisten" aus, und **klicken Sie dann unten auf "Live-Chat** ".
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie unten auf "Live-Chat** ".

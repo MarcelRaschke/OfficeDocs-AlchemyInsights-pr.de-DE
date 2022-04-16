@@ -1,9 +1,9 @@
 ---
-title: E-Mails können nicht gesendet werden
+title: E-Mail kann nicht gesendet werden.
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "9009992"
 - "15343"
 ms.date: 02/14/2022
-ms.openlocfilehash: f448f6be7d53667802e0feff0499b39c05d763e3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d973360a8a73e5109d4346f3f44a7a91b9062b1a
+ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63304473"
+ms.lasthandoff: 04/16/2022
+ms.locfileid: "64890377"
 ---
-# <a name="unable-to-send-email"></a>E-Mails können nicht gesendet werden
+# <a name="unable-to-send-email"></a>E-Mail kann nicht gesendet werden.
 
-Das Problem, dass E-Mails nicht gesendet werden können, kann schwierig sein. Wir können Ihnen helfen.
+Das Problem beim Senden von E-Mails kann schwierig sein. Wir können Ihnen helfen.
 
 Wenn Sie dies noch nicht getan haben, empfehlen wir Ihnen, sich an einen unserer Microsoft-Spezialisten zu wenden, um Ihnen zu helfen:
 
 - Senden von E-Mail-Problemen.
 
-*Erfahren Sie mehr über Probleme beim Senden von E-Mail-Problemen an Microsoft 365:* [Suchen und Beheben von Problemen bei der E-Mail-Zustellung](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/email-delivery-issues)
+*Weitere Informationen zu Problemen beim Senden von E-Mails an Microsoft 365:* [Suchen und Beheben von Problemen mit der E-Mail-Zustellung](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/email-delivery-issues)
 
-Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Wenn Sie **sich mit einem Microsoft-Spezialisten für weitere Hilfe in Verbindung setzen** möchten, wählen Sie "Chat mit einem Microsoft-Spezialisten" aus, und **klicken Sie dann unten auf "Live-Chat** ".
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Wenn Sie sich für weitere Hilfe **mit einem Microsoft-Spezialisten in Verbindung setzen** möchten, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie dann unten auf "Live-Chat** ".

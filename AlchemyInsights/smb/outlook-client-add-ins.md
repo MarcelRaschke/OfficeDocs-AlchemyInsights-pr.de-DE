@@ -3,7 +3,7 @@ title: Verwalten von Outlook-Add-Ins
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "9009993"
 - "15744"
 ms.date: 02/14/2022
-ms.openlocfilehash: 8246547eea985eb909b387d7e2c2ccb3fbf549c4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: faa17fc41f6ddc9aea7698823cd03c80d2cb002a
+ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63252377"
+ms.lasthandoff: 04/16/2022
+ms.locfileid: "64891061"
 ---
 # <a name="managing-outlook-add-ins"></a>Verwalten von Outlook-Add-Ins
 
-Einige Add-Ins werden von Ihrem E-Mail-Administrator installiert. Sie können jedoch andere Add-Ins aus der Office Store installieren, um Add-Ins aus Office Store zu installieren, indem Sie die folgenden Schritte ausführen:
+Einige Add-Ins werden von Ihrem E-Mail-Administrator installiert, Aber Sie können andere von der Office Store installieren, um Add-Ins aus Office Store zu installieren, führen Sie die folgenden Schritte aus:
 
 **Installieren eines Add-Ins aus dem Office Store**
 
-1. Klicken Sie in Outlook auf dem Menüband auf **"****HomeGet-Add-Ins** > ".
-2. Wählen Sie im Menüband " **Add-Ins abrufen** " aus.
-3. Wenn das Add-In installiert ist, wechseln **Sie zu FileManage-Add-Ins** > , oder **verwalten Sie Apps**, um sicherzustellen, dass es aktiviert ist. Wenn Sie zur Anmeldung aufgefordert werden, geben Sie die E-Mail-Adresse und das Kennwort ein, mit dem Sie sich bei Office Programmen anmelden.
+1. Klicken Sie in Outlook im Menüband auf **"****HomeGet-Add-Ins** > ".
+2. Wählen Sie im Menüband **"Add-Ins abrufen** " aus.
+3. Wenn das Add-In installiert ist, wechseln Sie zu **"****FileManage-Add-Ins** > " oder "**Apps verwalten**", um sicherzustellen, dass es aktiviert ist. Wenn Sie aufgefordert werden, sich anzumelden, geben Sie die E-Mail-Adresse und das Kennwort ein, die Sie zum Anmelden bei Office Programmen verwenden.
 
 *Weitere Informationen zu Outlook-Add-Ins:* [Outlook-Add-Ins](https://support.microsoft.com/office/using-add-ins-in-outlook-com-a5672109-e4f3-4119-abea-72323e9653cf)
  
-Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Wenn Sie **sich mit einem Microsoft-Spezialisten für weitere Hilfe in Verbindung setzen** möchten, wählen Sie "Chat mit einem Microsoft-Spezialisten" aus, und **klicken Sie dann unten auf "Live-Chat** ".
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie unten auf "Live-Chat** ".

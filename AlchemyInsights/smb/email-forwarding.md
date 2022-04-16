@@ -3,7 +3,7 @@ title: Weiterleiten von E-Mails
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "9009992"
 - "15345"
 ms.date: 02/14/2022
-ms.openlocfilehash: 400a60e9d8c3dad12535f6a6cda9ebd4cc215324
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d7bc6e2ddfd77ae5a53a88d50406b826d31a8f8f
+ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63292149"
+ms.lasthandoff: 04/16/2022
+ms.locfileid: "64890413"
 ---
 # <a name="forwarding-emails"></a>Weiterleiten von E-Mails
 
@@ -25,7 +25,7 @@ Bedenken Sie vor dem Einrichten der E-Mail-Weiterleitung Folgendes:
 
 - Zulassen, dass automatisch weitergeleitete Nachrichten an Personen in der Remotedomäne gesendet werden.
 - Nachdem Sie die E-Mail-Weiterleitung eingerichtet haben, werden nur neue E-Mails weitergeleitet, die an das Postfach gesendet werden.
-- Für die E-Mail-Weiterleitung muss das From-Konto über eine Lizenz verfügen. Wenn ein Benutzer Ihre Organisation verlassen hat, ist das Umwandeln seines Postfachs in ein freigegebenes Postfach eine alternative Option zum Einrichten der E-Mail-Weiterleitung. *Auf diese Weise können mehrere Personen darauf zugreifen. Ein freigegebenes Postfach darf jedoch 50 GB nicht überschreiten.*
+- Die E-Mail-Weiterleitung erfordert, dass das Konto "von" über eine Lizenz verfügt. Wenn ein Benutzer Ihre Organisation verlassen hat, ist das Umwandeln seines Postfachs in ein freigegebenes Postfach eine alternative Option zum Einrichten der E-Mail-Weiterleitung. *Auf diese Weise können mehrere Personen darauf zugreifen. Ein freigegebenes Postfach darf jedoch 50 GB nicht überschreiten.*
 
 Wenn Sie dies noch nicht getan haben, empfehlen wir Ihnen, sich an einen unserer Microsoft-Spezialisten zu wenden, um Ihnen zu helfen:
 
@@ -33,4 +33,4 @@ Wenn Sie dies noch nicht getan haben, empfehlen wir Ihnen, sich an einen unserer
 
 *Weitere Informationen zur E-Mail-Weiterleitung:* [Konfigurieren der E-Mail-Weiterleitung](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Wenn Sie **sich mit einem Microsoft-Spezialisten für weitere Hilfe in Verbindung setzen** möchten, wählen Sie "Chat mit einem Microsoft-Spezialisten" aus, und **klicken Sie dann unten auf "Live-Chat** ".
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Wenn Sie sich für weitere Hilfe **mit einem Microsoft-Spezialisten in Verbindung setzen** möchten, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie dann unten auf "Live-Chat** ".
