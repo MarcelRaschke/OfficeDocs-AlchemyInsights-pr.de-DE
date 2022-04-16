@@ -3,7 +3,7 @@ title: Abonnement kündigen
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "9009962"
 - "15335"
 ms.date: 02/17/2022
-ms.openlocfilehash: 83e675aa64e4c349e2f3e0a7ae7a05a258586a87
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 639d66203cd1d9159fcd2f4f113ffa22bc2a79f5
+ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63230649"
+ms.lasthandoff: 04/16/2022
+ms.locfileid: "64887101"
 ---
 # <a name="cancel-subscription"></a>Abonnement kündigen
 
-Wir freuen uns über Ihre Kündigung. Wenn Sie mit Microsoft 365 zufrieden sind, teilen Sie uns dies bitte mit, und wir werden Sie mit einem **Microsoft-Spezialisten** verbinden, wählen Sie den Chat mit einem Microsoft-Experten aus, und **klicken Sie dann unten auf Live-Chat**.
+Wir bedauern, von Ihrer Kündigung zu hören. Wenn Sie mit Microsoft 365 nicht zufrieden sind, teilen Sie uns dies bitte mit, und wir werden Sie mit einem **Microsoft-Spezialisten** verbinden, wählen Sie bitte einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie dann unten auf Live-Chat**.
 
 Wenn Sie mit der Kündigung fortfahren möchten, finden Sie hier die Schritte zum Kündigen Ihres Abonnements:
 
@@ -30,6 +30,6 @@ Wenn Sie mit der Kündigung fortfahren möchten, finden Sie hier die Schritte zu
 Wenn Sie Ihren eigenen Domänennamen für die Nutzung mit Ihrem Abonnement hinzufügt haben, müssen Sie die Domäne entfernen, bevor Sie Ihr Abonnement kündigen.
 
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > **Ihre Produkte**.
-2. Suchen Sie das Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte aus, und wählen Sie dann **Abonnement kündigen** aus.
+2. Suchen Sie das Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte und dann **"Abonnement kündigen"** aus.
 3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund für Ihre Kündigung aus. Geben Sie optional Feedback.
-4. Wählen Sie **Speichern**.
+4. Wählen Sie **Speichern** aus.

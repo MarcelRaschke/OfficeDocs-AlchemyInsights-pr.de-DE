@@ -1,9 +1,9 @@
 ---
-title: Informationen noch nicht in meiner Bibliothek
+title: Informationen, die noch nicht in meiner Bibliothek enthalten sind
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "9006438"
 - "10939"
 ms.date: 02/22/2022
-ms.openlocfilehash: 60ca54ca495818fccddd76ef7584313aa3f53f60
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 97b2b486ed9811f97bdf6b38586ede028aab311c
+ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63491883"
+ms.lasthandoff: 04/16/2022
+ms.locfileid: "64887065"
 ---
-# <a name="information-not-yet-in-my-library"></a>Informationen noch nicht in meiner Bibliothek
+# <a name="information-not-yet-in-my-library"></a>Informationen, die noch nicht in meiner Bibliothek enthalten sind
 
-Vielen Dank für Ihre Frage. Derzeit habe ich die Informationen nicht in meiner Bibliothek, aber wir empfehlen, dass Sie **eine Verbindung mit einem Microsoft-Spezialisten herstellen, um weitere Hilfe zu erhalten**, den Chat mit einem Microsoft-Experten auszuwählen und dann **unten auf den Live-Chat zu klicken** .
+Vielen Dank für Ihre Frage. Derzeit habe ich die Informationen nicht in meiner Bibliothek, aber wir empfehlen, dass Sie **sich für weitere Hilfe mit einem Microsoft-Spezialisten in Verbindung setzen**, einen Chat mit einem Microsoft-Spezialisten auswählen und dann unten **auf "Live-Chat" klicken** .

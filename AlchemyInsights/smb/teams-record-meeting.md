@@ -3,7 +3,7 @@ title: Aufzeichnen einer Besprechung auf MS Teams
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "9010153"
 - "15753"
 ms.date: 02/11/2022
-ms.openlocfilehash: c0d34f429378d9b7a1957e5a5bc6056c3e9b10ed
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: aae665c1944499f7944c3382b64549917d216c2c
+ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63210884"
+ms.lasthandoff: 04/16/2022
+ms.locfileid: "64887533"
 ---
 # <a name="recording-a-meeting-on-ms-teams"></a>Aufzeichnen einer Besprechung auf MS Teams
 
@@ -25,10 +25,10 @@ Alle Teams Besprechungen oder Anrufe können zur zukünftigen Anzeige aufgezeich
 
 Wenn Sie mit der Aufzeichnung einer Besprechung beginnen, aktivieren Sie auch Livetranskriptionen (wenn Ihr IT-Administrator Transkriptionen zulässt).
 
-1. Starten Sie die Besprechung, oder nehmen Sie an dieser teil.
-2. Wechseln Sie zu den Besprechungssteuerelementen, und wählen Sie die Schaltfläche "**Weitere** **AktionenMehr** >  Optionen" > **Aufzeichnung starten** aus.
-3. Jeder in der Besprechung erhält die Benachrichtigung, dass die Aufzeichnung und Transkription begonnen hat.
+1. Starten Sie die Besprechung, oder nehmen Sie an der Besprechung teil.
+2. Wechseln Sie zu den Besprechungssteuerelementen, und wählen Sie **"Weitere** **AktionenWeitere** >  Optionen" > **"Aufzeichnung starten"** aus.
+3. Jeder Teilnehmer der Besprechung wird benachrichtigt, dass die Aufzeichnung und Transkription gestartet wurde.
 
 *Weitere Informationen zum Aufzeichnen einer Besprechung in MS Teams:* [Aufzeichnen einer Besprechung in Teams](https://support.microsoft.com/office/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24)
 
-Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Wenn Sie **sich mit einem Microsoft-Spezialisten für weitere Hilfe in Verbindung setzen** möchten, wählen Sie "Chat mit einem Microsoft-Spezialisten" aus, und **klicken Sie dann unten auf "Live-Chat** ".
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie unten auf "Live-Chat** ".

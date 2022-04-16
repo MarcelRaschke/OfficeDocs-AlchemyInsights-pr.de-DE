@@ -1,9 +1,9 @@
 ---
-title: Ms Teams Business Voice-Konfiguration
+title: MS Teams Business Voice-Konfiguration
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "9010153"
 - "15637"
 ms.date: 02/11/2022
-ms.openlocfilehash: d39b54dceba81606c4bbe25039e2ff82eae52a9e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: dfbfc4afde66f1257bd0fdf3c310b52ec861e9c0
+ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63229821"
+ms.lasthandoff: 04/16/2022
+ms.locfileid: "64889981"
 ---
-# <a name="ms-teams-business-voice-configuration"></a>Ms Teams Business Voice-Konfiguration
+# <a name="ms-teams-business-voice-configuration"></a>MS Teams Business Voice-Konfiguration
 
-Business Voice ist ein vollständiges Telefonsystem, das Ihren vorhandenen Telefonieanbieter ersetzen kann. Ganz gleich, ob Sie ein neues Unternehmen sind, das Zum ersten Mal Telefonnummern einrichte, oder ein etablierten Unternehmen, das von einem älteren lokalen Telefonieanbieter abrückt, die Schritte in diesen Artikeln können Ihnen dabei helfen, Business Voice in Betrieb zu nehmen.
+Business Voice ist ein vollständiges Telefonsystem, das Ihren vorhandenen Telefonieanbieter ersetzen kann. Ganz gleich, ob Sie ein neues Unternehmen sind, das zum ersten Mal Telefonnummern einrichtet oder ein etabliertes Unternehmen ist, das von einem älteren lokalen Telefonieanbieter wechselt– die Schritte in diesen Artikeln können Ihnen helfen, mit Business Voice auf den Weg zu gehen.
 
-*Weitere Informationen zu Business Voice auf Microsoft Teams:* [Einrichten Microsoft 365 Business Voice](https://docs.microsoft.com/microsoftteams/business-voice/set-up-overview)
+*Weitere Informationen zu Business Voice auf Microsoft Teams:* [Einrichten von Microsoft 365 Business Voice](https://docs.microsoft.com/microsoftteams/business-voice/set-up-overview)
 
-Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Wenn Sie **sich mit einem Microsoft-Spezialisten für weitere Hilfe in Verbindung setzen** möchten, wählen Sie "Chat mit einem Microsoft-Spezialisten" aus, und **klicken Sie dann unten auf "Live-Chat** ".
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie unten auf "Live-Chat** ".
