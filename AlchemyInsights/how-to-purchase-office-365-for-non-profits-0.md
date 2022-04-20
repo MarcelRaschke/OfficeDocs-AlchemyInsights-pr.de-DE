@@ -1,30 +1,28 @@
 ---
-title: Microsoft 365 für gemeinnützige Organisationen – abgelehnt
-ms.author: cmcatee
+title: Microsoft 365 für gemeinnützige Organisationen - abgelehnt
 author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
 ms.reviewer: drjones, jmueller
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
-- "343"
 - "1500010"
+- "343"
 ms.date: 04/21/2020
-ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: 1e1cf7138f95086c06266bcfaa4da030a0e7f42b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 3ffe8015acee910e485604c3f46ccc28339ca7b1
+ms.sourcegitcommit: dcf228daa5240abe7299c1d6a298f61812b175b7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63236787"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "64916836"
 ---
-# <a name="microsoft-365-for-nonprofits---declined"></a>Microsoft 365 für gemeinnützige Organisationen – abgelehnt
+# <a name="microsoft-365-for-nonprofits---declined"></a>Microsoft 365 für gemeinnützige Organisationen - abgelehnt
 
-Wir haben Ihre Anfrage überprüft und festgestellt, dass diese Organisation nicht als microsoftqualifizierte gemeinnützige Organisation berechtigt ist.
-  
-Um Office 365 kommerziell zu erwerben, sehen Sie sich die [verfügbaren Angebote an](https://portal.office.com/AdminPortal/Home).
+Wir haben Ihre Anfrage überprüft und festgestellt, dass diese Organisation nicht als qualifizierte Gemeinnützige Organisation von Microsoft berechtigt ist.
+
+Um den Status Ihrer gemeinnützigen Registrierung zu überprüfen, melden Sie sich beim [Gemeinnützigen Hub](https://nonprofit.microsoft.com/) an. Um Office 365 kommerziell zu kaufen, sehen Sie sich die [verfügbaren Angebote](https://portal.office.com/AdminPortal/Home) an.

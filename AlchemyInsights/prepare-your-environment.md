@@ -3,23 +3,24 @@ title: Vorbereiten der Umgebung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/13/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12304"
 - "9007382"
-ms.openlocfilehash: 7d2edbc95be0d1623c0fab7219a5e9fefb0fc5e1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "12304"
+ms.date: 04/18/2022
+ms.openlocfilehash: c8d407fed276e5275e2f32764707ec60a31de0d7
+ms.sourcegitcommit: dcf228daa5240abe7299c1d6a298f61812b175b7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63213297"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "64916637"
 ---
 # <a name="prepare-your-environment"></a>Vorbereiten der Umgebung
 
-Informationen zum Ausführen grundlegender Funktionen, die zum Einrichten von Clouddiensten für Ihre Organisation erforderlich sind, finden Sie im [Anleitung zum Vorbereiten Ihrer Umgebung](https://admin.microsoft.com/adminportal/home#/modernonboarding/prepareyourenvironment). Wählen Sie eine Aufgabe im Verzeichnis aus, um zu erfahren, wie Sie eine Verbindung mit Ihrer Domäne herstellen, Exchange Online einrichten, Benutzer hinzufügen und vieles mehr tun können.     
+Verwenden Sie den [Setupleitfaden „Vorbereitung Ihrer Umgebung“](https://admin.microsoft.com/adminportal/home#/modernonboarding/prepareyourenvironment), um Ihre Umgebung vorzubereiten und zu sichern. Führen Sie die Schritte aus, um sicherzustellen, dass Microsoft 365-Dienste für optimale Leistung und Sicherheit konfiguriert sind.
+
+Zu den Themen und Anleitungen, die im Setupleitfaden behandelt werden, gehören folgende: Zero Trust-Sicherheitsmodell und Sicherheit, sechs Säulen, Verbinden der Domäne, Testen der Netzwerkverbindung, Sichern von Unternehmensressourcen, Erstellen von Benutzerkonten, Massenhinzufügen von Benutzern, Hinzufügen von Lizenzen, Support, Basissetup, Netzwerkstatus, Vorteile, Azure Active Directory (AD), Identitäten und Daten, Zugriff mit geringsten Rechten, persönliche Geräte und Richtlinien, Endpunkt, Gleichgewicht zwischen Zugriffsbereitstellung und Schutz von Daten, Bedrohungsschutz, Administratorrechte, automatisierte Tools, Angriffe, Anomalien, riskantes Verhalten, Unternehmensfirewalls, Identity (ID) Manager und Empfehlungen in verschiedenen Bereichen.
