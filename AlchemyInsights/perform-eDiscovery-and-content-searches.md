@@ -1,42 +1,40 @@
 ---
 title: 1488-perform-eDiscovery-and-content-searches
-ms.author: markjjo
-author: markjjo
-manager: lauraw
-ms.date: 04/21/2020
-ms.audience: Admin
+author: cmcatee-MSFT
+ms.author: cmcatee
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "1488"
 - "3200003"
-ms.assetid: ''
-ms.openlocfilehash: 6adca7c4590f371b5ad87e7a7ab70c5b67372eb1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1488"
+ms.date: 04/21/2020
+ms.openlocfilehash: a13b3e3187a9dff84aa513bb4356be984ab5a7e8
+ms.sourcegitcommit: 5058f004f549ba7ac2b4843429b385287456a9c7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63181076"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "65062711"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>So führen Sie Inhaltssuchen und eDiscovery-Suchvorgänge durch
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Ausführen von Inhaltssuchen und eDiscovery-Suchvorgängen
 
-**So führen Sie eine Inhaltssuche durch**:
+**So führen Sie eine Inhaltssuche aus**:
 
 1. Wechseln Sie zum Microsoft 365 Compliance Center, und melden Sie sich an.
-2. Wählen Sie **"Suche > Inhaltssuche" aus**.
-3. Wählen Sie **"Neue Suche" aus** , um eine neue Suche zu erstellen.
+2. Wählen Sie **"Suchen > Inhaltssuche**" aus.
+3. Wählen Sie **"Neue Suche** " aus, um eine neue Suche zu erstellen.
 4. Geben Sie die erforderlichen Suchbedingungen ein, einschließlich Schlüsselwörtern und Inhaltsspeicherorten.
-5. Wählen Sie **"Speichern" aus, & ausführen** , um die Suche zu benennen, sie zu starten und dann eine Vorschau der Ergebnisse anzuzeigen.
+5. Wählen Sie **"Speichern & ausführen** " aus, um die Suche zu benennen, sie zu starten und dann eine Vorschau der Ergebnisse anzuzeigen.
 
-**Hinweis**: Erweitern **Sie in Microsoft 365 Compliance** **CenterSolutions** >  **eDiscovery**, und wählen Sie Ihr gewünschtes eDiscovery-Tool aus.
+**Hinweis**: Erweitern Sie **in Microsoft 365 Compliance** **CenterSolutions** >  **eDiscovery**, und wählen Sie das gewünschte eDiscovery-Tool aus.
 
-Ausführliche Anweisungen zu Inhaltssuchen, zum Exportieren von Ergebnissen und zum Erstellen von eDiscovery-Fällen zum Speichern von Daten finden Sie unter [Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search) und [eDiscovery-Fälle](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+Ausführliche Anweisungen zu Inhaltssuchen, Exportieren von Ergebnissen und Erstellen von eDiscovery-Fällen zum Speichern von Daten finden Sie unter [Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search) und [eDiscovery-Fälle](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
 **Weitere Informationen**:
 
 - Weitere Informationen zu eDiscovery-Tools in Microsoft 365 finden Sie unter [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
-- Erfahren Sie mehr über die Berechtigungen, Anforderungen und Grenzwerte, die zum Ausführen von eDiscovery-Suchvorgängen von [Berechtigungen erforderlich sind, die für eDiscovery-Suchvorgänge erforderlich sind](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) , sowie [über Anforderungen und Grenzwerte](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search).
-- Wenn Sie eDiscovery-Probleme behandeln, lesen Sie [eDiscovery, um allgemeine Probleme zu beheben](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) und [teilweise indizierte Elemente zu untersuchen](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- Erfahren Sie mehr über die Berechtigungen, Anforderungen und Grenzwerte, die für die Durchführung von eDiscovery-Suchvorgängen erforderlich sind, aus [Berechtigungen, die für eDiscovery-Suchvorgänge erforderlich sind](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) , sowie [Anforderungen und Grenzwerte](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search).
+- Wenn Sie eDiscovery-Probleme beheben, lesen Sie [eDiscovery Zur Problembehandlung bei häufig auftretenden Problemen](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) und [zum Untersuchen teilweise indizierte Elemente](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).

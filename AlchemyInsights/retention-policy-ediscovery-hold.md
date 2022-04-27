@@ -1,32 +1,31 @@
 ---
 title: 2609-retention-or-ediscovery-hold
-ms.author: markjjo
-author: markjjo
-manager: lauraw
-ms.date: 04/21/2020
-ms.audience: Admin
+author: cmcatee-MSFT
+ms.author: cmcatee
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "2609"
 - "9000048"
-ms.openlocfilehash: 0e12d27b0f96911ff74b77962a05f7131fc5a6f7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "2609"
+ms.date: 04/21/2020
+ms.openlocfilehash: 46d6437ee0c3c11a2b8044af8140bea5620718bd
+ms.sourcegitcommit: 5058f004f549ba7ac2b4843429b385287456a9c7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63244817"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "65062567"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Elemente in SharePoint Online oder OneDrive for Business können nicht gelöscht werden
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Elemente in SharePoint Online oder OneDrive for Business können nicht gelöscht werden.
 
-Möglicherweise können Sie oder Ihre Benutzer Elemente in SharePoint Online oder OneDrive for Business nicht löschen, da eine Aufbewahrungsrichtlinie, Aufbewahrungsbezeichnung oder eDiscovery-Aufbewahrung auf eine SharePoint von OneDrive Website oder auf ein bestimmtes Element angewendet wird. Dazu gehört, dass ein Dokument, eine Dokumentversion, ein Ordner, eine Dokumentbibliothek, eine Liste, eine App, eine Website oder eine Websitesammlung nicht gelöscht werden kann. 
+Möglicherweise können Sie oder Ihre Benutzer Elemente in SharePoint Online oder OneDrive for Business nicht löschen, da eine Aufbewahrungsrichtlinie, Aufbewahrungsbezeichnung oder eDiscovery-Aufbewahrung auf eine SharePoint OneDrive Website oder auf ein bestimmtes Element angewendet wird. Dazu gehört, dass ein Dokument, eine Dokumentversion, ein Ordner, eine Dokumentbibliothek, eine Liste, eine App, eine Website oder eine Websitesammlung nicht gelöscht werden kann. 
 
-Um Elemente in einem dieser Szenarien zu löschen, muss die Aufbewahrungsrichtlinie, Aufbewahrungsbezeichnung oder eDiscovery-Aufbewahrung entfernt werden (oder eine Website muss aus einer Aufbewahrungsrichtlinie ausgeschlossen werden). Sie müssen entweder die entsprechende Aufbewahrung deaktivieren oder ausschließen, die dieses Problem verursacht. Nachdem eine Aufbewahrungsrichtlinie oder aufbewahrungssperre entfernt wurde, kann es bis zu 24 Stunden dauern, bis die Änderung wirksam wird. 
+Um Elemente in einem dieser Szenarien zu löschen, muss die Aufbewahrungsrichtlinie, die Aufbewahrungsbezeichnung oder der eDiscovery-Haltebereich entfernt werden (oder eine Website muss von einer Aufbewahrungsrichtlinie ausgeschlossen werden). Sie müssen entweder den jeweiligen Haltebereich deaktivieren oder ausschließen, der dieses Problem verursacht. Nachdem eine Aufbewahrungsrichtlinie oder ein Haltebereich entfernt wurde, kann es bis zu 24 Stunden dauern, bis die Änderung wirksam wird. 
 
-Informationen zu den verschiedenen Aufbewahrungs- und Aufbewahrungsfunktionen, die auf SharePoint Websites und OneDrive Konten angewendet werden können, finden Sie in einem der folgenden Themen.
+Informationen zu den verschiedenen Aufbewahrungs- und Aufbewahrungsfeatures, die auf SharePoint Websites und OneDrive Konten angewendet werden können, finden Sie in einem der folgenden Themen.
 
 - [Übersicht über Aufbewahrungsrichtlinien](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
 - [Übersicht über Aufbewahrungsbezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/labels)

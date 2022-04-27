@@ -1,26 +1,25 @@
 ---
 title: Zuweisen von Power BI zu Benutzern
-ms.author: cmcatee
 author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
 ms.reviewer: sinakassaw, nicholak
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_licensing
 - "9002564"
 - "4964"
-ms.date: 08/10/2021
-ms.openlocfilehash: 43ae13b55513798ccf4723d85fdaa47918fc3d9a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/22/2022
+ms.openlocfilehash: ab22f5514bb30bb9ce65b6627cb72cc0160c167e
+ms.sourcegitcommit: 5058f004f549ba7ac2b4843429b385287456a9c7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63228777"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "65062459"
 ---
 # <a name="assign-power-bi-to-users"></a>Zuweisen von Power BI zu Benutzern
 

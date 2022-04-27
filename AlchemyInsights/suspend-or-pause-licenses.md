@@ -1,26 +1,25 @@
 ---
 title: Aussetzen oder Pausieren von Lizenzen
-ms.author: cmcatee
 author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
 ms.reviewer: sinakassaw, nicholak
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.date: 08/10/2021
-ms.openlocfilehash: 435cd08fcf4fb89dca12056bc1583dd6caa82c27
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/22/2022
+ms.openlocfilehash: f33b4f157866e71016639ccf87f10e51e5494364
+ms.sourcegitcommit: 5058f004f549ba7ac2b4843429b385287456a9c7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63261125"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "65062531"
 ---
 # <a name="suspend-or-pause-licenses"></a>Aussetzen oder Pausieren von Lizenzen
 
