@@ -11,13 +11,13 @@ ms.localizationpriority: medium
 ms.custom:
 - "9010153"
 - "17061"
-ms.date: 04/15/2022
-ms.openlocfilehash: 26a8772a9ec47d1c236589f9f34fedc0df6fb6c4
-ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
+ms.date: 04/26/2022
+ms.openlocfilehash: e75ae48cb11e9270a7a422f7c53852dfab3f73d8
+ms.sourcegitcommit: b6faebed3da41577a0a16993b065dce49480fa7f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2022
-ms.locfileid: "64892067"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "65126672"
 ---
 # <a name="breakout-rooms-in-teams"></a>Gruppenräume in Teams
 

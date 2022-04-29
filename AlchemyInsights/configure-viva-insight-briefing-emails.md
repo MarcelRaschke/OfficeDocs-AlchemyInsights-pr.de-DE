@@ -1,28 +1,27 @@
 ---
-title: Konfigurieren von Viva Insights Briefing-E-Mails
+title: Konfigurieren Viva Insights Briefing-E-Mails
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9010258"
 - "16663"
-ms.date: 02/15/2022
-ms.openlocfilehash: 855fde2daab8725fefba82e4db5880bf37b89756
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/26/2022
+ms.openlocfilehash: dcf0f8411384af326f73d00fdee9a614fe74badb
+ms.sourcegitcommit: b6faebed3da41577a0a16993b065dce49480fa7f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63240389"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "65126572"
 ---
-# <a name="configure-viva-insights-briefing-emails"></a>Konfigurieren von Viva Insights Briefing-E-Mails
+# <a name="configure-viva-insights-briefing-emails"></a>Konfigurieren Viva Insights Briefing-E-Mails
 
-Wenn ein oder mehrere Benutzer keine Briefing-E-Mails erhalten, lesen Sie Folgendes:
+Wenn ein oder mehrere Benutzer keine Briefing-E-Mails erhalten, lesen Sie:
 
 - [Konfigurieren von Briefing-E-Mail](https://docs.microsoft.com/viva/insights/personal/briefing/be-admin)
 - [Leitfaden zum Datenschutz für Briefing-E-Mails](https://docs.microsoft.com/viva/insights/personal/briefing/be-privacy)
@@ -32,16 +31,16 @@ Informationen zum Deaktivieren von Viva Briefing-E-Mails finden Sie unter:
 - [Benutzereinstellungen](https://docs.microsoft.com/viva/insights/personal/briefing/be-settings)
 - [Mandanteneinstellungen](https://docs.microsoft.com/viva/insights/personal/briefing/be-admin#tenant-level-configuration)
 
-**Hinweis** Durch das Deaktivieren des MyAnalytics/Viva Insights-Abonnements werden die Briefing-E-Mails nicht deaktiviert. Darüber hinaus sind Briefing-E-Mails standardmäßig aktiviert.
+**HINWEIS:** Informationen zur Behandlung von Problemen im Zusammenhang mit [Viva-E-Mails finden Sie unter Konfigurieren Microsoft Viva Briefing- und Digest-E-Mail-Einstellungen](https://community.vivainsights.microsoft.com/t5/Personal-insights/Configure-Microsoft-Viva-Briefing-and-Digest-email-settings/td-p/1593).
 
-Informationen zum Abmelden von [MyAnalytics-Digest-E-Mails](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2) finden Sie unter:
+Informationen zum Deaktivieren von [MyAnalytics-Digest-E-Mails](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2) finden Sie unter:
 
 - [Benutzereinstellungen](https://docs.microsoft.com/viva/insights/personal/use/email-digests-3)
 - [Administratoreinstellungen](https://docs.microsoft.com/viva/insights/personal/setup/configure#to-enable-access-to-viva-digest-emails-the-dashboard-and-the-viva-insights-outlook-add-in)
 
-Weitere Informationen zum Konfigurieren von Briefing-& Digest-E-Mails finden Sie unter:
+Weitere Informationen zum Konfigurieren von Briefing- & Digest-E-Mails finden Sie unter:
 
-- [Briefing-E-Mail von Microsoft Viva – Häufig gestellte Fragen](https://docs.microsoft.com/viva/insights/personal/briefing/be-faqs)
+- [Briefing email from Microsoft Viva FAQ](https://docs.microsoft.com/viva/insights/personal/briefing/be-faqs)
 - [Übersicht über Briefing-E-Mails](https://docs.microsoft.com/viva/insights/personal/briefing/be-overview)
-- [Briefing-Sprachen](https://docs.microsoft.com/viva/insights/personal/briefing/be-languages)
-- [Tägliche Briefings und MyAnalytics-Brandingupdates, um Microsoft Viva widerzuspiegeln](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/daily-briefing-and-myanalytics-branding-updates-to-reflect/ba-p/2681246)
+- [Briefingsprachen](https://docs.microsoft.com/viva/insights/personal/briefing/be-languages)
+- [Tägliche Briefing- und MyAnalytics-Brandingupdates, um Microsoft Viva](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/daily-briefing-and-myanalytics-branding-updates-to-reflect/ba-p/2681246)
