@@ -3,26 +3,24 @@ title: Planen Sie Ihre kennwortlose Bereitstellung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/14/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10394"
 - "9005762"
-ms.openlocfilehash: 88be4ec624a49b122956bad2d2b75cf93a3a5165
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10394"
+ms.date: 04/26/2022
+ms.openlocfilehash: 6b8d95079a46c362ac9cf93f526ae5bed75b0583
+ms.sourcegitcommit: b6faebed3da41577a0a16993b065dce49480fa7f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63213333"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "65126869"
 ---
 # <a name="plan-your-passwordless-deployment"></a>Planen Sie Ihre kennwortlose Bereitstellung
 
-Upgraden Sie zu einem alternativen Anmeldeverfahren, indem Sie eine kennwortlose Authentifizierungsmethode verwenden. Zwei-Faktor-Verifizierung, Smartphone-Anmeldung oder Code-Generatoren erhöhen die Sicherheit und erschweren es anderen, in Ihr Konto einzudringen. 
+Das [Kennwortlose Authentifizierungseinrichtungshandbuch](https://admin.microsoft.com/adminportal/home#/modernonboarding/passwordlesssetup) hilft Ihnen bei der Auswahl der effektivsten Authentifizierungsmethode für Ihre Organisation. Verwenden Sie dieses Handbuch, um den Typ der Bereitstellung von Authentifikatorbenutzern anzupassen.
 
-Wählen Sie zwischen Windows Hello for Business, der Microsoft-Authentifizierungsapp oder FIDO2-Sicherheitsschlüsseln aus. Um zu entscheiden, welche Methode die Beste ist und wie Sie diese auf Ihrem Gerät bereitstellen, verwenden Sie die [Anleitung zur kennwortlosen Bereitstellung](https://admin.microsoft.com/adminportal/home?#/modernonboarding/passwordlesssetup). 
-
+Themen, die der Einrichtungsleitfaden erläutert, sowie Anleitungen u. a. zu folgenden Themen: Typen von Authentifizierungsoptionen, Windows Hello, MS Authenticator-App, Sicherheitsschlüssel, Benutzertypen und Gerätetypen, dedizierte Windows Computeridentifikation und -sicherheit, Kioske, Tablets und andere gemeinsam genutzte Geräte, kombinierte Registrierung, FIDO2-kompatible Schlüssel, Legacyzertifikate, Mindestanforderungen Windows Versionen und Empfehlungen in verschiedenen Bereichen.
