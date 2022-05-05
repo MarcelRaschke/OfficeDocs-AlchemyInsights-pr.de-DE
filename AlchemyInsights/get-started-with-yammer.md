@@ -1,27 +1,26 @@
 ---
 title: Erste Schritte mit Yammer
-ms.author: v-smandalika
-author: v-smandalika
-manager: dansimp
-ms.date: 12/04/2020
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: 277e0a51f55b843dd1a2ce718d7b3ed0114e500e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 05/04/2022
+ms.openlocfilehash: ca488b856a8a3bd09ce5030faaacb63e39593c7c
+ms.sourcegitcommit: 5cdb7885e5ac2787c6616101ee1bc7fb23809427
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63247229"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65219679"
 ---
 # <a name="get-started-with-yammer"></a>Erste Schritte mit Yammer
 
-Yammer gehört zu den führenden, sicheren, nichtöffentlichen sozialen Unternehmensnetzwerken. Yammer bietet eine ansprechende und benutzerfreundliche Oberfläche im Web und in der Yammer-App für Android- und iOS-Geräte. Yammer können in Microsoft Teams und Outlook integriert werden. Yammer bietet auch eine aktualisierte Integrationserfahrung in SharePoint Online.
+Verwenden Sie den [Yammer Setupleitfaden](https://admin.microsoft.com/adminportal/home#/modernonboarding/yammerdeploymentguide), um Yammer in Ihrer Umgebung zu konfigurieren, um Benutzern eine ansprechende, benutzerfreundliche Benutzererfahrung zu bieten, um offen zu kommunizieren. Am Ende haben Sie die Synchronisierungs-App gestartet, die externe Freigabe konfiguriert, Daten migriert und erweiterte Einstellungen konfiguriert.
 
-Verwenden Sie den Yammer Bereitstellungsratgeber, um Ihr Yammer Netzwerk vorzubereiten, indem Sie Domänen hinzufügen, Administratoren definieren und Yammer Netzwerke kombinieren. Stellen Sie Yammer bereit, passen Sie dann das Erscheinungsbild an, konfigurieren Sie Sicherheit und Compliance, und verfeinern Sie die Einstellungen.
+Themen, die der Einrichtungsleitfaden behandelt und Enthält Anleitungen zu folgenden Themen: Domänenverwaltung, Administratorrollen, interne Benutzer, externe Benutzer, Erzwingen Office 365 Identität, Identitätsanforderungen, internes und externes Netzwerk, sicherer Zugriff, Aktivieren und Deaktivieren des Zugriffs, Steuern und Blockieren des Zugriffs, mobile Plattformen, Updates, Intune  und Richtlinienverwaltung, Schutzrichtlinien, Nutzungsüberwachung, Metriksammlung, Änderungen im Voraus und Empfehlungen für verschiedene Bereiche.

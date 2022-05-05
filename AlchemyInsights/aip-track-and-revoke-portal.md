@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: a4ec0451dc85eea8d7da787d643b74f74082ccd4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: ddd7806daa1e1a6e57bc229ad38e7d3fabf7f966
+ms.sourcegitcommit: 5cdb7885e5ac2787c6616101ee1bc7fb23809427
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63188420"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65219571"
 ---
 # <a name="aip-track-and-revoke-portal"></a>AIP: Portal für das Nachverfolgen und Widerrufen
 
@@ -34,6 +34,5 @@ Informationen zur Verwendung von PowerShell zum Verwalten der Dokumentverfolgung
 - [Benutzerhandbuch: Nachverfolgen und Widerrufen von Dokumenten bei Verwendung von Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
 - [Leitfaden für Administratoren: Konfigurieren und Verwenden der Dokumentverfolgung für Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
 - [Rights Management-Nutzungslizenz](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [Informationen zu Azure Information Protection-Abonnements und -Features](https://azure.microsoft.com/pricing/details/information-protection)
 - [Anforderungen für Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 - [Schnellstart-Tutorial für Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

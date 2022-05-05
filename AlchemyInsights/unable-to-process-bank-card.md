@@ -1,24 +1,24 @@
 ---
-title: Ihre Bankkarte kann nicht verarbeitet werden
+title: Ihre Bankkarte kann nicht verarbeitet werden.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9001506"
 - "16844"
 ms.date: 03/31/2022
-ms.openlocfilehash: 6d60b1498bf25ab91cf594e5310ad6211c8d70fa
-ms.sourcegitcommit: 01c1bc49e5972cd4a4aec6426774d9ff0ec99ae1
+ms.openlocfilehash: 233c53871d4090eaf515e083823f4c6e3c05c54e
+ms.sourcegitcommit: 5cdb7885e5ac2787c6616101ee1bc7fb23809427
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64592581"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65219662"
 ---
-# <a name="unable-to-process-your-bank-card"></a>Ihre Bankkarte kann nicht verarbeitet werden
+# <a name="unable-to-process-your-bank-card"></a>Ihre Bankkarte kann nicht verarbeitet werden.
 
-Ihre Kreditkarte kann derzeit nicht verarbeitet werden. Bitte wenden Sie sich an Ihre Bank, um weitere Informationen oder Unterstützung zu erhalten.
+Wir können Ihre Bankkarte zurzeit nicht verarbeiten. Bitte wenden Sie sich an Ihre Bank, um weitere Informationen oder Unterstützung zu erhalten.

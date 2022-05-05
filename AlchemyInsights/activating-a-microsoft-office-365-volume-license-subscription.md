@@ -3,7 +3,7 @@ title: Aktivieren eines Microsoft-Volumenlizenzabonnements
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: jkinma,jmueller
+ms.reviewer: jkinma, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "1500028"
 - "481"
 ms.date: 04/06/2022
-ms.openlocfilehash: 0cd928697c81813cb7475ad36cbc5680a4bcc563
-ms.sourcegitcommit: b6ba43b438551e7558ad67d8b94f84b608d26bf9
+ms.openlocfilehash: f49ebe6edd793c547df24d8db2ae79752e630b1e
+ms.sourcegitcommit: 5cdb7885e5ac2787c6616101ee1bc7fb23809427
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64826033"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65219427"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Aktivieren eines Microsoft-Volumenlizenzabonnements
 

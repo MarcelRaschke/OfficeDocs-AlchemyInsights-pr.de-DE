@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004332"
 - "7728"
-ms.openlocfilehash: b97d1cb190e5f608112b09b012de040d84d1ff09
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 733298483680a41144390fb76b342b5080f9ca07
+ms.sourcegitcommit: 5cdb7885e5ac2787c6616101ee1bc7fb23809427
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63251765"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65219607"
 ---
 # <a name="adding-or-creating-an-application"></a>Hinzufügen oder Erstellen einer Anwendung
 
 - [Schnellstart: Das Hinzufügen einer Anwendung zu Ihrem Azure Active Directory (Azure AD)-Mandanten](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal) zeigt Ihnen, wie Sie Ihrem Azure AD Mandanten eine Anwendung hinzufügen.
-- [Lernprogramm: Hinzufügen einer lokalen Anwendung für den Remotezugriff über anwendungsproxy in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) zeigt Ihnen, wie Sie Ihre Umgebung für die Verwendung mit Anwendungsproxy vorbereiten. Sobald Ihre Umgebung bereit ist, verwenden Sie das Azure-Portal, um Ihrem Azure AD Mandanten eine lokale Anwendung hinzuzufügen.
+- [Lernprogramm: Das Hinzufügen einer lokalen Anwendung für den Remotezugriff über Anwendungsproxy in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/app-proxy/application-proxy-add-on-premises-application) zeigt Ihnen, wie Sie Ihre Umgebung für die Verwendung mit Anwendungsproxy vorbereiten. Sobald Ihre Umgebung bereit ist, verwenden Sie die Azure-Portal, um Ihrem Azure AD Mandanten eine lokale Anwendung hinzuzufügen.
 - Um Ihre Anwendungen in Azure Active Directory zu integrieren, haben wir [eine Sammlung von Lernprogrammen](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) entwickelt, die Sie durch die Konfiguration führen.
