@@ -1,5 +1,5 @@
 ---
-title: Remotebehebung von Problemen beim Onboarding von Windows 10 Geräten in Microsoft Defender Advanced Threat Protection
+title: Remotebehebung von Problemen beim Onboarding Windows 10 Geräten in Microsoft Defender Advanced Threat Protection
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 10d4e5fced6e0725aa7c41ce453891ed6064aec2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f3d633aa784316cc71d623f48a462ca5f7485beb
+ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63285137"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65395693"
 ---
-# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Remotebehebung von Problemen beim Onboarding von Windows 10 Geräten in Microsoft Defender Advanced Threat Protection
+# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Remotebehebung von Problemen beim Onboarding Windows 10 Geräten in Microsoft Defender Advanced Threat Protection
 
 Wenn Sie auf den Remotecomputer zugreifen können, führen Sie die folgenden Schritte aus:
 
 1. Laden Sie das [Clientverbindungsuntersuchung](https://go.microsoft.com/fwlink/?linkid=2143466)-Diagnosetool herunter.
 2. Extrahieren Sie MDATPAnalyzer.cmd, und führen Sie es aus.
-3. Suchen Sie das Diagnoseprotokoll im MdATPClientAnalyzerResult-Ordner, bei dem es sich um denselben Ordner handelt, in den das Analyzer-Tool heruntergeladen wurde.
-4. Um Probleme mit Verbindungs- oder Internetproxyeinstellungen zu finden, überprüfen Sie die Protokolldatei MDATPClientAnalyzer.txt.
+3. Suchen Sie das Diagnoseprotokoll im Ordner "MDATPClientAnalyzerResult", demselben Ordner, in den das Analysetool heruntergeladen wurde.
+4. Um Probleme mit Denk- oder Internetproxyeinstellungen zu finden, überprüfen Sie die Protokolldatei MDATPClientAnalyzer.txt.
 
-Weitere Informationen finden Sie unter ["Probleme beim Onboarding von Computern"](https://go.microsoft.com/fwlink/?linkid=2143634).
+Weitere Informationen finden Sie [unter Probleme mit Onboarding-Computern](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/troubleshoot-onboarding).

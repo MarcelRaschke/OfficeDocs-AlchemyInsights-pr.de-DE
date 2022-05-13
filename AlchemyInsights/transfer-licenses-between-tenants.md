@@ -4,23 +4,22 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: shegu, nicholak
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_licensing
 - "1500021"
 - "4689"
-ms.date: 10/26/2021
-ms.openlocfilehash: 644422401db4f2e3f72787d7fd5f3233112f3e69
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 05/12/2022
+ms.openlocfilehash: 68d59130e56e1bbde5206cfc1e04577094e5f696
+ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63197528"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65395389"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Übertragung von Lizenzen zwischen Mandanten
 

@@ -3,24 +3,23 @@ title: Visio-Lizenzverwaltung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: micurn, nicholak
-ms.audience: Admin
+ms.reviewer: shegu, nicholak
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_licensing
 - "9002419"
 - "5116"
-ms.date: 10/26/2021
-ms.openlocfilehash: 6f8276720aeb723156645be49254394e58e94a91
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 05/12/2022
+ms.openlocfilehash: 48d2851910accdf5a579b6b2009739312bb9be85
+ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63302411"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65395386"
 ---
 # <a name="visio-license-management"></a>Visio-Lizenzverwaltung
 

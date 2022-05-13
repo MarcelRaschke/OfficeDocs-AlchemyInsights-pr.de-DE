@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 1f0c3a08118a8fc7d3ae52a846a5f5573a9cdb4b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 83308d800f801a6cbb91de950c1cf96719df646f
+ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63155083"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65395251"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>AIP-Client: Die automatische Klassifizierung zeigt nicht das erwartete Verhalten
 
@@ -40,7 +40,7 @@ Weitere Informationen finden Sie unter:
 - [Konfigurieren von Bedingungen für die automatische und empfohlene Klassifizierung für Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)
 - [Kurzanleitungen für häufige Szenarios, in denen Azure Information Protection verwendet wird](https://docs.microsoft.com/azure/information-protection/how-to-guides)
 - [Nachschlagen in der Azure Information Protection-Dokumentation](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Informationen zu Azure Information Protection-Abonnements und -Features](https://azure.microsoft.com/pricing/details/information-protection)
+- [Informationen zu Azure Information Protection-Abonnements und -Features](https://docs.microsoft.com/office365/servicedescriptions/azure-information-protection#available-plans)
 - [Anforderungen für Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 - [Schnellstart-Tutorial für Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
 - [Azure Information Protection Client herunterladen](https://www.microsoft.com/download/details.aspx?id=53018)

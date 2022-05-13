@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: ab76a6d32c348de3d976c769cb3cf0658820ad69
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a73c7671398f87f39897e828980b90249ac8b701
+ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63094474"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65395267"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: AIP-Clientinstallation
 
@@ -38,4 +38,4 @@ Weitere Informationen:
 
 - Lesen Sie die [Dokumentation zu Azure Information Protection (AIP)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection), und sehen Sie sich die Einrichtungs[anforderungen](https://docs.microsoft.com/azure/information-protection/get-started/requirements) und den Speicherort zum [Herunterladen des AIP-Clients](https://www.microsoft.com/download/details.aspx?id=53018) an.
 
-- Informationen zu Azure-Abonnements finden Sie unter [Azure Information Protection – Abonnements und Funktionen](https://azure.microsoft.com/pricing/details/information-protection).
+- Informationen zu Azure-Abonnements finden Sie unter [Azure Information Protection – Abonnements und Funktionen](https://docs.microsoft.com/office365/servicedescriptions/azure-information-protection#available-plans).

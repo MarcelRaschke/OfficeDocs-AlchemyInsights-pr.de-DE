@@ -1,5 +1,5 @@
 ---
-title: Bereitstellen von SharePoint in Microsoft 365
+title: Bereitstellen SharePoint in Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007063"
 - "11926"
-ms.openlocfilehash: 25aa070de8c4bf2cf26b718891779b557a00a5b1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 867156c302646394343e050bdd178d092689ca37
+ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63299779"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65395174"
 ---
-# <a name="deploy-sharepoint-in-microsoft-365"></a>Bereitstellen von SharePoint in Microsoft 365
+# <a name="deploy-sharepoint-in-microsoft-365"></a>Bereitstellen SharePoint in Microsoft 365
 
-Informationen zum Auswerten SharePoint Ressourcen für die Bereitstellung finden Sie unter ["Einführung in SharePoint in Microsoft 365](https://docs.microsoft.com/sharepoint/introduction)". 
+Informationen zum Auswerten SharePoint Ressourcen, die Bei der Bereitstellung hilfreich sind, finden Sie [unter Einführung in SharePoint in Microsoft 365](https://docs.microsoft.com/sharepoint/introduction). 
 
 Zusätzliche Ressourcen: 
 
-- Um mehr über FastTrack Onboarding- und Einführungsdienste zu erfahren oder einen SharePoint zertifizierten Partner zu finden, sehen Sie sich an, [was unsere Partner mit SharePoint tun](https://docs.microsoft.com/microsoft-365/sharepoint/sharepoint-partners-sharepoint-support), oder besuchen Sie die [SharePoint Community](https://techcommunity.microsoft.com/t5/sharepoint/ct-p/SharePoint). 
-- Weitere Informationen zum Verschieben von Inhalten und Wissens- und Zusammenarbeits-Apps Ihrer Organisation auf SharePoint finden Sie [unter "Einführung in SharePoint in Microsoft 365](https://docs.microsoft.com/sharepoint/introduction#migration)". 
-- Weitere Informationen zu den ersten Schritten mit Optionen für die Zusammenarbeit, zum Erstellen eines modernen intelligenten Intranets und zum Trainieren von Benutzern finden Sie [unter "Einführung in SharePoint in Microsoft 365](https://docs.microsoft.com/sharepoint/introduction#collaboration)". 
-- Informationen zum Hinzufügen von Apps oder App-Lizenzen finden Sie unter [Verwalten von App-Lizenzen für eine SharePoint Umgebung](https://docs.microsoft.com/sharepoint/manage-app-licenses). 
+- Um mehr über FastTrack Onboarding- und Einführungsdienste zu erfahren oder einen SharePoint zertifizierten Partner zu finden, [sehen Sie, was unsere Partner mit SharePoint tun](https://www.microsoft.com/microsoft-365/sharepoint/sharepoint-partners-sharepoint-support), oder besuchen Sie die [SharePoint Community](https://techcommunity.microsoft.com/t5/sharepoint/ct-p/SharePoint). 
+- Weitere Informationen zum Verschieben von Inhalten und Wissens- und Zusammenarbeits-Apps für Ihre Organisation in SharePoint finden Sie [unter Einführung in SharePoint in Microsoft 365](https://docs.microsoft.com/sharepoint/introduction#migration). 
+- Weitere Informationen zu den ersten Schritten mit Optionen für die Zusammenarbeit, zum Erstellen eines modernen intelligenten Intranets und zum Schulen von Benutzern finden Sie [unter Einführung in SharePoint in Microsoft 365](https://docs.microsoft.com/sharepoint/introduction#collaboration). 
+- Informationen zum Hinzufügen von Apps oder App-Lizenzen finden [Sie unter Verwalten von App-Lizenzen für eine SharePoint-Umgebung](https://docs.microsoft.com/sharepoint/manage-app-licenses). 
 
 

@@ -3,7 +3,7 @@ title: Lizenzreservierung wird nicht angezeigt
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: micurn, nicholak
+ms.reviewer: shegu, nicholak
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,13 +13,13 @@ ms.custom:
 - commerce_licensing
 - "9002575"
 - "5030"
-ms.date: 04/06/2022
-ms.openlocfilehash: 3f2a826b012acb1bccfb93a2c45dfd48d2c60f68
-ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
+ms.date: 05/12/2022
+ms.openlocfilehash: 9defcbe062b3c013dc56b0a2e471a682526cd508
+ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64712483"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65395195"
 ---
 # <a name="license-reservation-does-not-show"></a>Lizenzreservierung wird nicht angezeigt
 

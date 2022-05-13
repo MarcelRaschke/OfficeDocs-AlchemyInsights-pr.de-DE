@@ -15,12 +15,12 @@ ms.custom:
 - "9004338"
 - "9199"
 - "9004356"
-ms.openlocfilehash: f6db632b7c1d96c663c86df711f8efe3dfffa614
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4981faee3d8af5a004ebdcc3c73ab6d4dc258444
+ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63208688"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65394778"
 ---
 # <a name="application-proxy-url-issues"></a>URL-Probleme mit dem Anwendungsproxy
 
@@ -32,8 +32,8 @@ Informationen zum Beheben von Problemen im Zusammenhang mit der URL des Anwendun
 
 - [Umleiten von hartcodierten Links für die mit dem Azure AD-Anwendungsproxy veröffentlichten Apps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  – Informationen zur Übersetzung von Inline-URLs
 
-- [Festlegen einer benutzerdefinierten Startseite für veröffentlichte Apps mithilfe von Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) – Wenn Sie eine App mit Application Proxy veröffentlichen, legen Sie eine interne URL fest, aber manchmal ist das nicht die Seite, die Benutzer als Erstes sehen sollen. Legen Sie eine benutzerdefinierte Startseite fest, damit Benutzer auf die richtige Seite gelangen, wenn sie die App aufrufen. Die Benutzer sehen die von Ihnen festgelegte benutzerdefinierte Startseite, unabhängig davon, ob sie die App über „Meine Apps“ in Azure Active Directory oder das Microsoft 365-App-Startfeld aufrufen.
+- [Festlegen einer benutzerdefinierten Startseite für veröffentlichte Apps mithilfe von Azure AD Application Proxy](https://docs.microsoft.com/azure/active-directory/app-proxy/application-proxy-configure-custom-home-page) – Wenn Sie eine App mit Application Proxy veröffentlichen, legen Sie eine interne URL fest, aber manchmal ist das nicht die Seite, die Benutzer als Erstes sehen sollen. Legen Sie eine benutzerdefinierte Startseite fest, damit Benutzer auf die richtige Seite gelangen, wenn sie die App aufrufen. Die Benutzer sehen die von Ihnen festgelegte benutzerdefinierte Startseite, unabhängig davon, ob sie die App über „Meine Apps“ in Azure Active Directory oder das Microsoft 365-App-Startfeld aufrufen.
 
-- Haben Sie Fragen zur Konfiguration der App-Proxy-URL? Siehe [Hinzufügen einer lokalen App zu Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
+- Haben Sie Fragen zur Konfiguration der App-Proxy-URL? Siehe [Hinzufügen einer lokalen App zu Azure AD](https://docs.microsoft.com/azure/active-directory/app-proxy/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
  
 
