@@ -1,5 +1,5 @@
 ---
-title: App in App Governance kann nicht deaktiviert werden
+title: Eine App kann in der App-Governance nicht deaktiviert werden.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007647"
 - "12734"
-ms.openlocfilehash: c4fc4a065f620b9cfbe3abd3ccd95f15fd7fd1a2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 7468c555db084f76e76cd642c654b6fb82b7de57
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63289745"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65593768"
 ---
-# <a name="unable-to-disable-an-app-in-app-governance"></a>App in App Governance kann nicht deaktiviert werden
+# <a name="unable-to-disable-an-app-in-app-governance"></a>Eine App kann in der App-Governance nicht deaktiviert werden.
 
-Das Deaktivieren einer App ist eine Funktion einer Richtlinie. Wenn Sie eine App in der App-Governance (Vorschau) nicht deaktivieren können, überprüfen Sie, ob Ihrer Datensatzrichtlinie die entsprechende Korrekturaktion zugewiesen wurde. 
+Das Deaktivieren einer App ist eine Funktion einer Richtlinie. Wenn Sie eine App in der App-Governance (Vorschau) nicht deaktivieren können, überprüfen Sie, ob ihrer Datensatzrichtlinie die entsprechende Korrekturaktion zugewiesen ist. 
 
-1. Wechseln Sie zu Microsoft 365 Compliance Center > **App** **governancePolicies** > , suchen Sie nach dem Richtliniennamen, oder scrollen Sie zu der Richtlinie, und wählen Sie die Richtlinie aus.
+1. Wechseln Sie zu Microsoft Purview-Complianceportal > **App** **governancePolicies** > , suchen Sie nach dem Richtliniennamen, oder scrollen Sie zur Richtlinie, und wählen Sie die Richtlinie aus.
 
 1. Wählen Sie im Flyoutbereich **"Bearbeiten** " aus.
 
-1. Überprüfen Sie, ob die Richtlinienaktion auf **"Deaktivieren**" festgelegt ist.
+1. Überprüfen Sie, ob die Richtlinienaktion auf **"Deaktivieren"** festgelegt ist.
 
-Weitere Informationen zum Erstellen von App-Governance-Richtlinien finden Sie unter ["Erstellen von App-Richtlinien"](https://docs.microsoft.com/microsoft-365/compliance/app-governance-app-policies-create)
+Weitere Informationen zum Erstellen von App-Governance-Richtlinien finden [Sie unter Erstellen von App-Richtlinien](https://docs.microsoft.com/microsoft-365/compliance/app-governance-app-policies-create)

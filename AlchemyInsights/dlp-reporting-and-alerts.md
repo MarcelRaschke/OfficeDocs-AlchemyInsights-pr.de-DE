@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "8261"
-ms.openlocfilehash: cb46fcccc2f2584152d79af67dc38a079e833d1f
-ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
+ms.openlocfilehash: a61f87d1af69d8fcaf9d0db55c3891b52e0dcc8a
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 05/19/2022
-ms.locfileid: "65551097"
+ms.locfileid: "65593372"
 ---
 # <a name="dlp-reporting-and-alerts"></a>DLP-Berichterstellung und -Warnungen
 
@@ -30,5 +30,5 @@ ms.locfileid: "65551097"
 
 So zeigen Sie das Dashboard für die Verwaltung von DLP-Warnungen an:
 
-1. Wechseln Sie in der Microsoft 365 Compliance Center zur **Verhinderung von Datenverlust**.
+1. Wechseln Sie in der Microsoft Purview-Complianceportal zu **"Verhinderung von Datenverlust"**.
 1. Wählen Sie die Registerkarte **"Warnungen(Vorschau)** " aus, um das Dashboard für DLP-Warnungen anzuzeigen.
