@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6177"
 - "9003283"
-ms.openlocfilehash: 217bc00f5549a9df233a8c389e0e2575fc5c0798
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c4378d247a33e8fa462d752e3394cf851f5a9b99
+ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63306653"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65551817"
 ---
 # <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly-0xc0000142"></a>Microsoft 365 Apps-Fehler: Die Anwendung konnte nicht ordnungsgemäß gestartet werden (0xc0000142)
 
@@ -31,7 +31,7 @@ Um diesen Fehler zu beheben, probieren Sie es mit den folgenden Optionen:
 
 Weitere Informationen finden Sie hier:  
 
-- [Fehler beim Öffnen von Microsoft Office-Apps](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)  
+- [Fehler beim Öffnen von Microsoft Office-Apps](https://support.microsoft.com/office/error-0xc0000142-when-you-start-an-office-application-64b3a500-ee74-4b66-b370-9d607ef92b6c)  
 
 - [Ich erhalte die Fehlermeldung "... funktioniert nicht mehr", wenn ich versuche, Office-Anwendungen auf meinem PC zu starten](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)  
 

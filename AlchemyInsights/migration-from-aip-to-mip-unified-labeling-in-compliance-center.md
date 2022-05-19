@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: ce5ae4ab6dd71ffdf20e73fca0404d16d509e407
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: acaadafa4e7573a148bc3ff717a66ed8ca773d00
+ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63183957"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65551493"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migration von AIP zu MIP/einheitlichen Bezeichnungen im Compliance Center
 
@@ -25,7 +25,7 @@ Um von AIP-Bezeichnungen zu einheitlichen Bezeichnungen im Security & Compliance
 
 **Aktivieren Sie den Schutz über das Azure-Portal**
 
-1. Wenn Sie dies noch nicht getan haben, öffnen Sie ein neues Browserfenster, und [melden Sie sich beim Azure-Portal an](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Navigieren Sie zum Blatt **Azure Information Protection**. Klicken Sie z. B. im Hubmenü auf **Alle Dienste**, und beginnen Sie mit der Eingabe von **Informationen** im Feld "Filter". Wählen Sie **Azure Information Protection** aus. Wenn Sie bisher noch nicht auf das Blatt "Azure Information Protection" zugegriffen haben, lesen Sie die einmaligen [zusätzlichen Schritte](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time), um dieses Blatt zum Portal hinzuzufügen. Um das Blatt "Azure Information Protection" zu öffnen, müssen Sie über einen [Azure Information Protection Premium-Plan](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) oder einen Office 365-Plan verfügen, der die Rechteverwaltung umfasst. Wenn Sie über eines dieser Abonnements verfügen, aber eine Nachricht erhalten, dass kein gültiges Abonnement gefunden wird, [wenden Sie sich an den Microsoft-Support](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support), oder verwenden Sie unsere Standardsupportkanäle.
+1. Wenn Sie dies noch nicht getan haben, öffnen Sie ein neues Browserfenster, und [melden Sie sich beim Azure-Portal an](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Navigieren Sie zum Blatt **Azure Information Protection**. Klicken Sie z. B. im Hubmenü auf **Alle Dienste**, und beginnen Sie mit der Eingabe von **Informationen** im Feld "Filter". Wählen Sie **Azure Information Protection** aus. Wenn Sie bisher noch nicht auf das Blatt "Azure Information Protection" zugegriffen haben, lesen Sie die einmaligen [zusätzlichen Schritte](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time), um dieses Blatt zum Portal hinzuzufügen. Um das Blatt "Azure Information Protection" zu öffnen, müssen Sie über einen [Azure Information Protection Premium-Plan](https://azure.microsoft.com/solutions/information-protection/) oder einen Office 365-Plan verfügen, der die Rechteverwaltung umfasst. Wenn Sie über eines dieser Abonnements verfügen, aber eine Nachricht erhalten, dass kein gültiges Abonnement gefunden wird, [wenden Sie sich an den Microsoft-Support](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support), oder verwenden Sie unsere Standardsupportkanäle.
 
 2. Suchen Sie die Menüoptionen **Verwalten**, und wählen Sie **Schutzaktivierung** aus. Klicken Sie auf **Aktivieren**, und bestätigen Sie dann Ihre Aktion. Nach Abschluss der Aktivierung wird auf der Informationsleiste **Aktivierung erfolgreich abgeschlossen** angezeigt.
 

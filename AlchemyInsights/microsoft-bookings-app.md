@@ -1,5 +1,5 @@
 ---
-title: 597 Microsoft Bookings-App
+title: 597 Microsoft Bookings App
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,12 +14,12 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: 5929f16e037047a00bbba99e6844f8cc63546379
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c55bc930c7aaf5dbd6020eff5fc3f5c64f8735ec
+ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63169951"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65551601"
 ---
 # <a name="microsoft-bookings-app"></a>Microsoft Bookings-App
 
@@ -31,7 +31,7 @@ ms.locfileid: "63169951"
 - [Definieren Ihrer Dienstangebote](https://support.microsoft.com/office/4a1c391e-524f-48e0-bef8-185df3a9634b)
 - [Erstellen einer Liste Ihrer Mitarbeiter](https://support.microsoft.com/office/298c529b-407b-4a2b-b2c5-6e77a9d1f07f)
 - [Festlegen der Arbeitszeiten für Mitarbeiter](https://support.microsoft.com/office/0968717e-b61f-4b06-987c-6c1464541782)
-- [Planen von Betriebsferien, arbeitsfreier Zeit und Urlaubszeit](https://support.microsoft.com/e3c0a4ee-e3d8-4fbe-bd8f-16d1c712d1f4)
+- [Planen von Betriebsferien, arbeitsfreier Zeit und Urlaubszeit](https://docs.microsoft.com/microsoft-365/bookings/schedule-closures-time-off-vacation)
 - [Herstellen einer Verbindung zwischen Microsoft Bookings und Ihrer Facebook-Seite](https://support.microsoft.com/office/858db050-3d10-4bb5-82f1-df6ebeda2685)
 - [Veröffentlichen der Buchungsseite oder Aufheben der Veröffentlichung](https://support.microsoft.com/office/4fb0235c-01e7-4447-bf91-0915c21b84ad)
 - [Erstellen Ihrer Buchungen und Festlegen der Mitarbeiter dafür](https://support.microsoft.com/office/03a9acc9-f29c-456b-9fb2-0f49474b2708)

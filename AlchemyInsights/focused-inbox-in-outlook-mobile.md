@@ -13,24 +13,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: f1539f9c9ad9396b5119506c3cd58f03a4b61532
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a5285217a49297604127309c340aef4caff6c960
+ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63185144"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65551673"
 ---
 # <a name="focused-inbox-for-outlook-mobile"></a>Posteingang mit Relevanz für Outlook Mobile
 
-[Was ist Posteingang mit Relevanz?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[Was ist der Posteingang mit Relevanz?](https://support.microsoft.com/office/what-is-focused-inbox-16b24373-dfa9-4139-ab19-08aa753a6055)
   
-[Wie bearbeite ich die Regeln, die meine E-Mails in den Posteingang mit Relevanz verschieben?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[Gewusst wie die Regeln bearbeiten, die meine E-Mails in den posteingang mit Relevanz verschieben?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[Wie kann ich den Posteingang mit Relevanz deaktivieren oder ändern, ob meine Signalanzahl und Benachrichtigungen mit dem Posteingang mit Relevanz synchronisiert werden?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[Gewusst wie den Posteingang mit Relevanz deaktivieren oder ändern, ob meine Signalanzahl und Benachrichtigungen mit dem Posteingang mit Relevanz synchronisiert werden?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[Wie kann ich den Posteingang mit Relevanz deaktivieren oder ändern, ob Benachrichtigungen mit dem Posteingang mit Relevanz synchronisiert werden?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[Gewusst wie den Posteingang mit Relevanz deaktivieren oder ändern, ob Benachrichtigungen mit dem Posteingang mit Relevanz synchronisiert werden?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[Wie schalte ich zwischen "Focused" und "Other" um?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[Gewusst wie zwischen "Relevant" und "Sonstige" umschalten?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-Weitere Informationen: [In-App-Hilfe für Outlook für iOS und Android erhalten](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
+Weitere Informationen: [In-App-Hilfe für Outlook für iOS und Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   

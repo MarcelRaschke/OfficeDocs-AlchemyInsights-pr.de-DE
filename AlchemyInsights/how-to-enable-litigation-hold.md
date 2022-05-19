@@ -12,16 +12,16 @@ ms.custom:
 - "3100023"
 - "976"
 ms.date: 04/21/2020
-ms.openlocfilehash: e5655d405a7509aa3c61fbc68939e4f38f11f2db
-ms.sourcegitcommit: 5058f004f549ba7ac2b4843429b385287456a9c7
+ms.openlocfilehash: 232056d87a3386b369b3118967c1031e2914eff4
+ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65061883"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65551853"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Platzieren eines Postfachs im gesetzlichen Haltebereich
 
-- Um ein Postfach im Beweissicherungsverfahren oder In-Place Haltebereich zu platzieren, ist eine Exchange Online Plan 2-Lizenz [Exchange Online Plan 2-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich. Wenn einem Postfach eine Plan 1-Lizenz zugewiesen ist, können Sie eine separate Exchange Online-Archivierung Add-On-Lizenz [Exchange Online-Archivierung Add-On-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description) zuweisen.
+- Um ein Postfach im Beweissicherungsverfahren oder In-Place Haltebereich zu platzieren, ist eine Exchange Online Plan 2-Lizenz [Exchange Online Plan 2-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) erforderlich. Wenn einem Postfach eine Plan 1-Lizenz zugewiesen ist, können Sie eine separate Exchange Online-Archivierung Add-On-Lizenz [Exchange Online-Archivierung Add-On-Lizenz](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) zuweisen.
 
 - Führen Sie die [folgenden Schritte](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold) aus, um die Beweissicherung für einen einzelnen Benutzer zu aktivieren. Wenn die Beweissicherung aktiviert ist, bleiben alle Inhalte im Postfach erhalten.
 

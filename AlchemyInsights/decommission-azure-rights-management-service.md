@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5070"
 - "9002278"
-ms.openlocfilehash: 5af3e8c206547df0b04447285fb8314d5904febd
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: bc9a382b28dd1fd6b0554991cb29694d85ad0907
+ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63299851"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65551961"
 ---
 # <a name="decommission-azure-rights-management-service-rms"></a>Abschalten des Azure Rights Management Service (RMS)
 
@@ -32,7 +32,7 @@ Zusätzliche Informationen zum Abschalten und Deaktivieren des Schutzes für Azu
     
 - [Migrieren von Azure Information Protection-Bezeichnungen zu einheitlichen Vertraulichkeitsbezeichnungen](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)  
     
-- [Azure Information Protection – Preisgestaltung](https://azure.microsoft.com/pricing/details/information-protection)  
+- [Azure Information Protection – Preisgestaltung](https://azure.microsoft.com/solutions/information-protection)  
     
 - [Azure Information Protection – Anforderungen](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
     

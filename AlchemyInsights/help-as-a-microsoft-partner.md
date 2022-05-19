@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5079"
-ms.openlocfilehash: 85c01afc03f75ec8962f71fee9e7019347bc41c0
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d8d9ddf4e045453c267029b4100b6f1bf842d7ea
+ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63275993"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65551025"
 ---
 # <a name="help-as-a-microsoft-partner"></a>Hilfe als Microsoft-Partner
 
-Wenn Sie bereits ein Microsoft-Partner sind oder Microsoft-Partner werden möchten, wechseln Sie zum [Microsoft Partner Center](https://support.microsoft.com/help/4499930/partner-center-overview), um loszulegen. Wenn Sie weitere Hilfe zu Ihren Vorteilen benötigen oder Fragen zur Partner-Lizenzierung haben, wenden Sie sich an den [Partner-Support](https://aka.ms/partnersupport).
+Wenn Sie bereits ein Microsoft-Partner sind oder Microsoft-Partner werden möchten, wechseln Sie zum [Microsoft Partner Center](https://docs.microsoft.com/partner-center/overview), um loszulegen. Wenn Sie weitere Hilfe zu Ihren Vorteilen benötigen oder Fragen zur Partner-Lizenzierung haben, wenden Sie sich an den [Partner-Support](https://aka.ms/partnersupport).
