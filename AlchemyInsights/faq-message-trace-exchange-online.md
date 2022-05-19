@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9010086"
 - "15388"
-ms.openlocfilehash: 1ed91bfef308509af1eafd9f457c27577cc43116
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 85dc4b3bd46ea7ab2ae421f9c3b63ae6f4e871fe
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63266201"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65592436"
 ---
 # <a name="frequently-asked-questions-for-message-trace-in-exchange-online"></a>Häufig gestellte Fragen zur Nachrichtenablaufverfolgung in Exchange Online
 
 Als Administrator können Sie herausfinden, was mit einer E-Mail passiert ist, indem Sie eine Nachrichtenablaufverfolgung im Exchange-Verwaltungskonsole (EAC) ausführen. Es folgen einige der häufig gestellten Fragen zur Nachrichtenablaufverfolgung in Exchange Online:
 
-**Ich benöte den Status gesendeter Nachrichten, die älter als 90 Tage sind. Gibt es eine andere Möglichkeit, den Status von Nachrichten zu erfassen?**
+**Ich benötige den Status der gesendeten Nachrichten, die älter als 90 Tage sind. Gibt es eine andere Möglichkeit, den Status von Nachrichten zu sammeln?**
 
-Standardmäßig ruft Exchange Online Nachrichtenablaufverfolgung Daten aus den letzten 90 Tagen ab. Wenn Sie Nachrichtenablaufverfolgungsdaten benötigen, die älter als 90 Tage sind, können Sie ein Skript erstellen, um die Daten regelmäßig aus Microsoft 365 abzurufen und mithilfe des Cmdlets Get-MessageTrace mehr als die standardmäßigen 90 Tage im lokalen Repository zu speichern. Alternativ können Sie eine Inhaltssuche für E-Mails durchführen, die älter als 90 Tage sind. Weitere Informationen finden Sie unter [Erstellen und Ausführen einer Inhaltssuche im Microsoft 365 Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/content-search).
+Standardmäßig ruft Exchange Online Nachrichtenablaufverfolgung Daten aus den letzten 90 Tagen ab. Wenn Sie Nachrichtenablaufverfolgungsdaten benötigen, die älter als 90 Tage sind, können Sie ein Skript erstellen, um die Daten in regelmäßigen Abständen aus Microsoft 365 abzurufen und mithilfe des Cmdlets Get-MessageTrace im lokalen Repository zu speichern. Alternativ können Sie eine Inhaltssuche nach E-Mails durchführen, die älter als 90 Tage sind. Weitere Informationen finden [Sie unter Erstellen und Ausführen einer Inhaltssuche im Microsoft Purview-Complianceportal](https://docs.microsoft.com/microsoft-365/compliance/content-search).
 
-**Welche Zeitzone wird auf der Benutzeroberfläche für die Nachrichtenverfolgung angezeigt?**
+**Was ist die Zeitzone, die auf der Nachrichtenverfolgungsschnittstelle angezeigt wird?**
 
-Die Benutzeroberfläche der Nachrichtenablaufverfolgung zeigt die Uhrzeit gemäß der lokalen Zeitzone an. Wenn jedoch ein Administrator Ergebnisse in eine CSV-Datei exportiert, zeigt die exportierte Datei das Datum/die Uhrzeit in UTC an.
+Die Benutzeroberfläche der Nachrichtenablaufverfolgung zeigt die Uhrzeit entsprechend der lokalen Zeitzone an. Wenn ein Administrator jedoch Ergebnisse in eine CSV-Datei exportiert, zeigt die exportierte Datei das Datum/die Uhrzeit in UTC an.
 
-**Wie exportiere ich Ergebnisse der Nachrichtenablaufverfolgung in eine CSV-Datei?**
+**Gewusst wie Nachrichtenablaufverfolgungsergebnisse in eine CSV-Datei exportieren?**
 
-Die Nachrichtenablaufverfolgungsergebnisse können exportiert werden, indem Sie die Schaltfläche " **Ergebnisse exportieren** " in der oberen linken Ecke der Nachrichtenablaufverfolgungssuchergebnisse auswählen. Alternativ können Sie den [PowerShell-Befehl "Get-MessageTrace](https://docs.microsoft.com/powershell/module/exchange/get-messagetrace)" ausführen. Hier ist ein Beispiel:
+Die Ergebnisse der Nachrichtenablaufverfolgung können exportiert werden, indem Sie in der oberen linken Ecke der Suchergebnisse der Nachrichtenablaufverfolgung die Schaltfläche " **Ergebnisse exportieren** " auswählen. Alternativ können Sie den [PowerShell-Befehl "Get-MessageTrace](https://docs.microsoft.com/powershell/module/exchange/get-messagetrace)" ausführen. Hier ist ein Beispiel:
 
 ```Get-MessageTrace -SenderAddress "Email address of the sender" -StartDate 06/13/2012 -EndDate 06/15/2012 | FL > D:\report.csv```
 
-Sie können auch Start-HistoricalSearch ausführen, um weitere Informationen zu einer bestimmten Nachricht zu exportieren und anzuzeigen. Ausführliche Informationen finden Sie unter [Start-HistoricalSearch](https://docs.microsoft.com/powershell/module/exchange/start-historicalsearch).
+Sie können auch Start-HistoricalSearch ausführen, um weitere Informationen zu einer bestimmten Nachricht zu exportieren und anzuzeigen. Ausführliche Informationen finden [Sie unter Start-HistoricalSearch](https://docs.microsoft.com/powershell/module/exchange/start-historicalsearch).
 
-**Was ist die Bedeutung des Zustellungsstatus für die Nachrichtenablaufverfolgungsausgabe?**
+**Was bedeutet der Zustellungsstatus für die Nachrichtenablaufverfolgungsausgabe?**
 
-- **Zugestellt**: Die Nachricht wurde erfolgreich an das gewünschte Ziel übermittelt.
-- **Fehler**: Die Nachricht wurde nicht zugestellt. Entweder wurde versucht und die Zustellung fehlgeschlagen, oder die Nachricht wurde aufgrund von Aktionen des Filterdiensts nicht zugestellt. Dies ist beispielsweise der Fall, wenn die Nachricht angeblich Schadsoftware enthält.
+- **Zugestellt**: Die Nachricht wurde erfolgreich an das beabsichtigte Ziel übermittelt.
+- **Fehler**: Die Nachricht wurde nicht zugestellt. Entweder wurde die Zustellung versucht und ist fehlgeschlagen, oder die Nachricht wurde aufgrund von Aktionen des Filterdiensts nicht übermittelt. Dies ist beispielsweise der Fall, wenn die Nachricht angeblich Schadsoftware enthält.
 - **Ausstehend**: Die Zustellung der Nachricht wird versucht oder erneut versucht.
 - **Erweitert**: Die Nachricht wurde an eine Verteilerliste gesendet und erweitert, sodass die Mitglieder der Liste einzeln angezeigt werden können.
 - **Als Spam gefiltert**: Die Nachricht wurde an den Junk-E-Mail-Ordner übermittelt.
-- **Unbekannt**: Der Status der Nachrichtenübermittlung ist zu diesem Zeitpunkt unbekannt. Wenn die Ergebnisse der Abfrage aufgelistet werden, enthält das Übermittlungsdetailseite keine Informationen.
+- **Unbekannt**: Der Nachrichtenübermittlungsstatus ist zurzeit unbekannt. Wenn die Ergebnisse der Abfrage aufgelistet werden, enthält das Feld "Übermittlungsdetails" keine Informationen.
 
 Weitere Informationen finden Sie unter [Ausführen einer Nachrichtenablaufverfolgung im klassischen EAC in Exchange Online](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).

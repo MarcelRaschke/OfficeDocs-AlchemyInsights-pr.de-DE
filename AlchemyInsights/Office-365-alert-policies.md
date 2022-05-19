@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "3200002"
 - "1385"
-ms.openlocfilehash: 42cbdaee750c46356bb04179762d16251bde44b2
-ms.sourcegitcommit: 5058f004f549ba7ac2b4843429b385287456a9c7
+ms.openlocfilehash: ced60785ed804e1957423bc7849576f5ea31d2a6
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65062027"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65591994"
 ---
 # <a name="alert-policies"></a>Warnungsrichtlinien
 
@@ -30,7 +30,7 @@ Microsoft 365 enthält [Standardwarnungsrichtlinien](https://docs.microsoft.com/
 So überprüfen Und reagieren Sie auf eine Warnung:
 
 1. Führen Sie einen der folgenden Schritte aus:
-   - Wechseln Sie in der Microsoft 365 Compliance Center unter <https://compliance.microsoft.com>zu **"Benachrichtigungen"**. Oder verwenden Sie <https://compliance.microsoft.com/compliancealerts>, um direkt zur Seite "**Warnungen**" zu wechseln.
+   - Wechseln Sie in der Microsoft Purview-Complianceportal unter <https://compliance.microsoft.com>zu **"Benachrichtigungen"**. Oder verwenden Sie <https://compliance.microsoft.com/compliancealerts>, um direkt zur Seite "**Warnungen**" zu wechseln.
    - Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com>zu **"Vorfälle & Warnungen**\>". Oder verwenden Sie <https://security.microsoft.com/alerts>, um direkt zur Seite "**Warnungen**" zu wechseln.
 2. Klicken Sie auf eine Warnung, um eine Flyoutseite mit Informationen zu der Warnung anzuzeigen.
 

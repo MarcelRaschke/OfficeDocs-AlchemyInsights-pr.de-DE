@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "8218"
 - "9004596"
-ms.openlocfilehash: 111161b0b226aae7474e92fd9dd3c3df984fbf0a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: fef6599f995f681d37cb0610e0bd7ec1d6b89aa3
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63283733"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65592327"
 ---
 # <a name="learn-about--the-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Informationen zur Zuordnung zwischen Microsoft Edge Legacy-Richtlinien und Microsoft Edge-Richtlinien
 
-Die Gruppenrichtlinien von älteren Microsoft Edge-Versionen (V. 45 und älter) und die MDM-Einstellungen (Mobile Device Management) entsprechen den relevanten Richtlinien von Microsoft Edge, Version 80. Weitere Informationen finden Sie unter [Zuordnung von Richtlinien von Microsoft Edge-Vorgängerversionen zu Microsoft Edge](https://docs.microsoft.com/deployedge/microsoft-edge-policy-map-legacy-to-newedge).
+Die Gruppenrichtlinien von Microsoft Edge Legacy (Versionen 45 und frühere) und die MDM-Einstellungen (Mobile Device Management) entsprechen den relevanten Richtlinien von Microsoft Edge, Version 80. <!-- For more information, see `[Microsoft Edge Legacy to Microsoft Edge policy mapping](https://docs.microsoft.com/deployedge/microsoft-edge-policy-map-legacy-to-newedge)`. -->

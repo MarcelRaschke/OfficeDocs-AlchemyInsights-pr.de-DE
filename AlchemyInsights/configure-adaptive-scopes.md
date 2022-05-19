@@ -12,16 +12,16 @@ ms.custom:
 - "9010669"
 - "16996"
 ms.date: 03/31/2022
-ms.openlocfilehash: a29ef26deccb9a74307585e5462bf1dd8bdf78c8
-ms.sourcegitcommit: 5cdb7885e5ac2787c6616101ee1bc7fb23809427
+ms.openlocfilehash: 05310e135e0660454bff79215e9a4ddc5d776ae3
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65219311"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65592166"
 ---
 # <a name="configure-adaptive-scopes"></a>Konfigurieren adaptiver Bereiche
 
-So konfigurieren Sie einen adaptiven Bereich im [Microsoft 365 Compliance Center](https://compliance.microsoft.com/):
+So konfigurieren Sie einen adaptiven Bereich im [Microsoft Purview-Complianceportal](https://compliance.microsoft.com/):
 
 1. Wechseln Sie zu einer der folgenden Optionen:
 

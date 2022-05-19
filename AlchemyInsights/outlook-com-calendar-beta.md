@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com-Kalender Beta
+title: 9000198 Outlook.com Kalender Beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: a0bb439e6737fda7fa70804ffefaf20ac5e9012e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 1f04522f8a9bc406fa5ef868eab5b95d14eb3733
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63295349"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65591400"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Neue Kalendererfahrungen, die auf Outlook.com verfügbar sind
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Neue Kalendererfahrungen für Outlook.com
 
-Der neue Look bringt die besten Designs und Erkenntnisse aus der E-Mail-Erfahrung in den Kalender.
+Der neue Look bringt die besten Designs und Erkenntnisse aus der Mail-Erfahrung in den Kalender.
 
-Sie werden ein modernes Design genießen, das die visuelle Unübersichtlichkeit reduziert und Ihnen schnellere Möglichkeiten bietet, in Ihrem Kalender zu navigieren. Es ist auch einfacher, interessante Kalender für Ihre bevorzugten Aktivitäten zu finden – von TV-Shows bis hin zu Sportteams und Veranstaltungen.
+Sie genießen ein modernes Design, das die visuelle Übersichtlichkeit reduziert und Ihnen schnellere Möglichkeiten zum Navigieren in Ihrem Kalender bietet. Es ist auch einfacher, interessante Kalender für Ihre Lieblingsaktivitäten zu finden – von TV-Sendungen bis hin zu Sportteams und Veranstaltungen.
 
-Wir haben unsere Sammlung von Ereignissymbolen erweitert und das Erscheinungsbild vorhandener Symbole aktualisiert– und wir fügen nun automatisch relevante Symbole zu Ihren Ereignissen hinzu, damit Sie auf einen Blick sehen können, was passiert.
+Wir haben unsere Sammlung von Ereignissymbolen erweitert und das Aussehen und Verhalten vorhandener Symbole aktualisiert – und jetzt fügen wir Ihren Ereignissen automatisch relevante Symbole hinzu, damit Sie auf einen Blick sehen können, was passiert.
 
-Sie können Feedback zu neuen Features über den [Outlook.com-Kalender-UserVoice-Kanal](https://go.microsoft.com/fwlink/?linkid=2103075) geben.
+<!---You can give feedback on new features through the `[Outlook.com Calendar UserVoice channel](https://go.microsoft.com/fwlink/?linkid=2103075)`.--->

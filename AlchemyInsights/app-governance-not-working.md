@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007647"
 - "12676"
-ms.openlocfilehash: bc0c036fdd2a6ece8871446c413dedba97c79d1e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 92125580ba9267b252608068bea523cb679f7cdc
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63188276"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65591634"
 ---
 # <a name="app-governance-is-not-working"></a>App-Governance funktioniert nicht
 
-App-Governance ist jetzt für die öffentliche Vorschau verfügbar. Wenn Probleme mit app Governance (Vorschau) nicht funktionieren, versuchen Sie Folgendes:
+App-Governance ist jetzt für die öffentliche Vorschau verfügbar. Wenn Probleme mit der App-Governance (Vorschau) nicht funktionieren, versuchen Sie Folgendes:
 
-- Um sicherzustellen, dass alle Voraussetzungen erfüllt sind, lesen Sie [den Schnellstart](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started).
+- Wenn Sie sicherstellen möchten, dass alle Voraussetzungen erfüllt sind, lesen Sie ["Schnellstart](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started)".
 
-- Führen Sie die erforderlichen Schritte aus, um die kostenlose Testversion zu aktivieren. Ausführliche Informationen finden [Sie unter "Erste Schritte mit der App-Governance"](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started#add-app-governance-to-your-microsoft-365-account). 
+- Führen Sie die erforderlichen Schritte aus, um die kostenlose Testversion zu aktivieren. Ausführliche Informationen finden Sie [unter Erste Schritte mit App-Governance](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started#add-app-governance-to-your-microsoft-365-account). 
 
-    **Hinweis**: Durch einfaches Umschalten der Integration in Microsoft Cloud App Security (MCAS) wird keine kostenlose Testversion der App-Governance aktiviert. Sie müssen die Aktivierungsschritte ausführen.
+    **Hinweis**: Das einfache Umschalten der Integration in Microsoft Cloud App Security (MCAS) aktiviert keine kostenlose Testversion der App-Governance. Sie müssen die Aktivierungsschritte ausführen.
 
-- Wenn Sie dem linken Navigationsbereich des Compliance Centers die App-Governance hinzufügen möchten, wechseln Sie zum Lösungskatalog, um Die App-Governance hinzuzufügen. Es kann bis zu 24 Stunden dauern, bis die Registrierung wirksam wird.
+- Zum Hinzufügen der App-Governance zum linken Navigationsbereich des Microsoft Purview-Complianceportal wechseln Sie zum Lösungskatalog, um App-Governance hinzuzufügen. Änderungen können bis zu 24 Stunden nach der Registrierung dauern, bis sie wirksam werden.
 
 - Stellen Sie sicher, dass Ihrem Konto die richtigen Rollen zugewiesen sind:
 
-    1. Wechseln Sie zum [Microsoft 365 Admin Center](https://admin.microsoft.com/Adminportal/Home#/users), und zeigen Sie an, welche Rolle(n) Ihnen zugewiesen sind, indem Sie Ihren Namen auswählen und die unter **"Rollen**" im Flyoutbereich aufgeführten Rollen überprüfen.
+    1. Wechseln Sie zum [Microsoft 365 Admin Center](https://admin.microsoft.com/Adminportal/Home#/users), und zeigen Sie an, welche Rolle(n) Sie zugewiesen haben, indem Sie Ihren Namen auswählen und die unter **Rollen** im Flyoutbereich aufgeführten Rollen überprüfen.
 
-    1. Überprüfen Sie auf der [Schnellstartseite](https://aka.ms/appgovernancepreview) , ob Ihre Rolle eine der Rollen mit Zugriff auf die App-Governance ist. Akzeptierte Administratorrollen finden Sie unter ["Administratorrollen](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started#administrator-roles)". 
+    1. Überprüfen Sie auf der [Schnellstartseite](https://aka.ms/appgovernancepreview) , ob Ihre Rolle eine der Rollen mit Zugriff auf App-Governance ist. Informationen zu akzeptierten Administratorrollen finden Sie unter ["Administratorrollen"](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started#administrator-roles). 
 
     1. Wenn Ihnen keine entsprechende Rolle zugewiesen ist, bitten Sie Ihren Administrator um eine berechtigte Rollenzuweisung.
 
-Weitere Informationen zu den ersten Schritten mit App-Governance finden Sie unter [Erste Schritte mit App-Governance (in der Vorschau).](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started)
+Weitere Informationen zu den ersten Schritten mit App-Governance finden Sie [unter Erste Schritte mit App-Governance (in der Vorschau).](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started)

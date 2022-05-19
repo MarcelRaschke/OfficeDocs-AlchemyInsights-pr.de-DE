@@ -11,16 +11,16 @@ ms.localizationpriority: medium
 ms.custom:
 - "3100008"
 - "307"
-ms.openlocfilehash: 1910837c1d00b6756d37c37fbdc5d8cc81e886f9
-ms.sourcegitcommit: 5058f004f549ba7ac2b4843429b385287456a9c7
+ms.openlocfilehash: 8f726aa78744519f804079027fb7774efb4deaca
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65061847"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65592472"
 ---
 # <a name="enable-an-archive-mailbox"></a>Aktivieren eines Archivpostfachs
 
-So aktivieren Sie ein Archiv im M365 Compliance Center:
+So aktivieren Sie ein Archiv im Microsoft Purview-Complianceportal
 
 1. Wechseln Sie zu [https://compliance.microsoft.com](https://compliance.microsoft.com).
 2. Wählen Sie **"Informationsgovernance" aus**.

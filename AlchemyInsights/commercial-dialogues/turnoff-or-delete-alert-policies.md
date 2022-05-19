@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 5e5fce569dd4a76b4b3fc9aedd6480b62d22bb56
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4406eee1a6c27597f590ffd2614197e8303e3d89
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63194642"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65592183"
 ---
 # <a name="turn-off-or-delete-alert-policies"></a>Deaktivieren oder Löschen von Warnungsrichtlinien
 
-So gehen Sie wie folgt vor:
+Gehen Sie dazu wie folgt vor:
 
 1. Führen Sie eine der folgenden Aktionen aus:
-   - Wechseln Sie im Microsoft 365 Compliance Center unter <https://compliance.microsoft.com>zu **Richtlinienwarnungsrichtlinien**  \> im Abschnitt **"Warnung**". Oder verwenden Sie , um direkt zur Seite " **Warnungsrichtlinie** " zu wechseln <https://compliance.microsoft.com/alertpolicies>.
-   - Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com>zu **Richtlinien &** **Regelwarnungsrichtlinie**\>. Oder verwenden Sie , um direkt zur Seite " **Warnungsrichtlinie** " zu wechseln <https://security.microsoft.com/alertpolicies>.
-2. Wenn es sich um eine benutzerdefinierte Richtlinie handelt, wählen Sie sie aus der Liste aus, und wählen Sie dann **Richtlinie löschen** aus. Sie können mehrere benutzerdefinierte Richtlinien gleichzeitig aktivieren, deaktivieren oder löschen, indem Sie mehrere aus der Liste auswählen.
+   - Wechseln Sie im Microsoft Purview-Complianceportal unter <https://compliance.microsoft.com>zu **Richtlinienwarnungsrichtlinien**  \> im Abschnitt **"Warnung**". Oder verwenden Sie <https://compliance.microsoft.com/alertpolicies>, um direkt zur **Seite "Warnungsrichtlinie**" zu wechseln.
+   - Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com>zu **Richtlinien &** **Regelwarnungsrichtlinie**\>. Oder verwenden Sie <https://security.microsoft.com/alertpolicies>, um direkt zur **Seite "Warnungsrichtlinie**" zu wechseln.
+2. Wenn es sich um eine benutzerdefinierte Richtlinie handelt, wählen Sie sie aus der Liste aus, und wählen Sie dann " **Richtlinie löschen"** aus. Sie können mehrere benutzerdefinierte Richtlinien gleichzeitig aktivieren, deaktivieren oder löschen, indem Sie mehrere Richtlinien aus der Liste auswählen.
 
 **Hinweis**: Wenn es sich um eine Systemrichtlinie handelt, können Sie sie nicht löschen, aber Sie können sie aktivieren oder deaktivieren und dann eine neue Richtlinie erstellen, die Ihren Anforderungen entspricht.

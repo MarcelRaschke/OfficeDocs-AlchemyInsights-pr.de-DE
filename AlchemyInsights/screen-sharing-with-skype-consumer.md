@@ -1,5 +1,5 @@
 ---
-title: Bildschirmfreigabe mit Skype Consumer
+title: Bildschirmfreigabe für Skype Consumer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000009"
 - "1433"
-ms.openlocfilehash: 2fb218be6889b4d6fed4ed4cc1e991d90afceebf
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 46734fe23fe72f114085ab457ead91eeebf8d59d
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63222189"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65592066"
 ---
-# <a name="screen-sharing-with-skype-consumer-users"></a>Bildschirmfreigabe für Skype Consumer-Benutzer
+# <a name="screen-sharing-with-skype-consumer-users"></a>Bildschirmfreigabe für Skype Consumerbenutzer
 
-Allgemeine Anweisungen zum Freigeben Ihres Programms, zu Einschränkungen bei der Freigabe und zur Problembehandlung von Ressourcen finden Sie unter ["Freigeben ihres Bildschirms in Skype for Business](https://support.microsoft.com/office/share-and-present-content-from-skype-meetings-app-skype-for-business-web-app-234b0c06-a88d-4707-904c-4fd6c571fc01)".  
+Allgemeine Anweisungen zum Freigeben Ihres Programms, informationen zu Einschränkungen bei der Freigabe und zur Problembehandlung von Ressourcen finden [Sie unter "Freigeben Ihres Bildschirms in Skype for Business](https://support.microsoft.com/topic/share-your-desktop-or-a-program-in-skype-for-business-800bd55f-ff3e-4ed0-b522-52b91aa1a169)".  
 
-Derzeit können Skype for Business Benutzer die Freigabe für Skype Consumerbenutzer nicht anzeigen. [Klicken Sie hier](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users), um Feedback zur Aktivierung der Bildschirmfreigabe für Verbraucher Skype Benutzer zu geben. 
+Derzeit können Skype for Business Benutzer die Bildschirmfreigabe für Skype Benutzer nicht anzeigen. [Klicken Sie hier](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users), um Feedback zum Aktivieren der Bildschirmfreigabe für Benutzer Skype Benutzer zu geben. 
