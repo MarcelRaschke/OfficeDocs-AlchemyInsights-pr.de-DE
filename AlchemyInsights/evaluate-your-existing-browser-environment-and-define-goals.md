@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9141"
 - "9005291"
-ms.openlocfilehash: b7f775f8bdb6540c51e3b90fe996320ecf7e148e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 6d968c8e64fa9636294bb17e99c8dcf4ed9ffd8a
+ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63160951"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65550989"
 ---
 # <a name="evaluate-your-existing-browser-environment-and-define-goals"></a>Beurteilen der bestehenden Browserumgebung und Definieren von Zielen
 
@@ -35,7 +35,9 @@ Nehmen Sie sich Zeit, um Ihren aktuellen Browserstatus und Ihre Projektidee bess
 - Was ist das verwendete Verfahren zum Überprüfen der Browserkompatibilität?
 2. Definieren Sie die Ziele für Ihre Bereitstellung. Beachten Sie die folgenden Punkte:
 - Möchten Sie [Microsoft Edge als Standardbrowser festlegen](https://docs.microsoft.com/DeployEdge/edge-default-browser)?
-- Soll die ältere Version von Microsoft Edge verborgen werden, oder soll sie [für die Benutzer weiterhin verfügbar sein](https://docs.microsoft.com/DeployEdge/microsoft-edge-sysupdate-access-old-edge)?
+
+[//]: # (- Soll die ältere Version von Microsoft Edge verborgen werden, oder soll sie [für die Benutzer weiterhin verfügbar sein](https://docs.microsoft.com/DeployEdge/microsoft-edge-sysupdate-access-old-edge)?)
+
 - Wie werden Sie [Microsoft Edge konfigurieren](https://docs.microsoft.com/DeployEdge/configure-microsoft-edge)?
 - Welche Features müssen für die Erstbereitstellung unbedingt konfiguriert werden?
 - Was ist das Verfahren zur Behebung identifizierter Kompatibilitäts- oder Konfigurationsprobleme?
