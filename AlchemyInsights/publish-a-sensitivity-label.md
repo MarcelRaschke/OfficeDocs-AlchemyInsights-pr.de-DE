@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 3376cc32d93d1e9e09030eab5354fd5dee22f1ab
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: ba2ff08fee6027b5371fbc29e38f1a9724411f11
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63294391"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65588115"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>So wird eine Vertraulichkeitsbezeichnung veröffentlicht
 
-1. Wechseln Sie zum Microsoft 365 Compliance Center > **Information Protection** > **Bezeichnungsrichtlinien**.
+1. Wechseln Sie zu Microsoft Purview-Complianceportal > **Information Protection** > **Bezeichnungsrichtlinien**.
 
 1. Wählen Sie **+ Bezeichnung veröffentlichen** aus, um den Assistenten für neue Vertraulichkeitsbezeichnungen zu starten.
 

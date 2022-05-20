@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 3b2863729728087b238aceb989ca6a9ff7711802
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 7195f80569b445e3f9e079bced75b8408920f2b2
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63268218"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65592868"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Häufige Probleme und Lösungen zur Compliance
 
@@ -37,8 +37,8 @@ Nachfolgend finden Sie einige häufig angeforderte Themen zur Compliance:
  
 - Vertraulichkeitsbezeichnungen: Weitere Informationen finden Sie unter [Erstellen und Konfigurieren von Vertraulichkeitsbezeichnungen und der zugehörigen Richtlinien](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
 
-- Anzeigen von Warnungsrichtlinien: [Warnungsrichtlinien im Microsoft 365 Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
+- Anzeigen von Warnungsrichtlinien: Siehe [Warnungsrichtlinien im Microsoft Purview-Complianceportal](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
-- Compliance Center-Berechtigungen: [Berechtigungen im Microsoft 365 Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
+- Compliance Center-Berechtigungen: Siehe [Berechtigungen im Microsoft Purview-Complianceportal](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
 
 **Hinweis**: Wenn Sie eine genauere Antwort zu einem Complienceproblem benötigen, formulieren Sie Ihre Frage neu, und beziehen Sie angezeigte Fehler oder verwendete Features ein.

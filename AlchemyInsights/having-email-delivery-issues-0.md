@@ -3,8 +3,8 @@ title: Haben Sie Probleme bei der E-Mail-Übermittlung?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.date: 05/19/2022
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,21 +15,21 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: 36f040d6d214f0b52d69479678387161d22e49a5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: e27c7248189d2c243a64ed4abcca1b44861aa67f
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63247013"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65591526"
 ---
 # <a name="having-email-delivery-issues"></a>Haben Sie Probleme bei der E-Mail-Übermittlung?
 
-Wir haben festgestellt, dass Ihre Benutzer keine an die folgenden Domänen gesendeten E-Mails empfangen können:
-  
-{HealthCheckString}
-  
-Die NS- oder MX-Einträge der Domäneneinstellungen (DNS) sind für die E-Mail-Übermittlung an Microsoft nicht ordnungsgemäß konfiguriert. Ausführliche Anweisungen hierzu entnehmen Sie [Erstellen von DNS-Einträgen bei einem beliebigen DNS-Hostanbieter](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
-  
-Um dies zu beheben, wechseln Sie im Microsoft 365 Admin Center zu zur Seite [Domänen](https://admin.microsoft.com/adminportal/home#/Domains), und wir helfen Ihnen dabei.
-  
-  
+Wir haben festgestellt, dass Ihre Benutzer aufgrund einer Fehlkonfiguration eines DNS MX-Eintrags keine E-Mails empfangen können.
+
+1. Navigieren Sie dazu zu **Einstellungen** > **Domänen**.
+1. Aktivieren Sie das Kontrollkästchen neben einer Domäne mit dem Status **Mögliche Dienstprobleme**, und wählen Sie dann **Integrität überprüfen** aus.
+1. Ändern Sie die DNS-Einträge mit dem Status **Fehler** in die richtigen angezeigten Werte.
+
+Ausführliche Anweisungen finden Sie unter [Aktualisieren der DNS-Einträge in Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider#step-2-add-dns-records-to-connect-microsoft-services).
+
+Um die Problembehandlung für die E-Mail-Zustellung zu finden, geben Sie **Diagnostizieren: Problembehandlung bei der E-Mail-Zustellung** als Problembeschreibung ein, oder suchen Sie weitere Hilfe zur Problembehandlung unter [Suchen und Beheben von Problemen bei der E-Mail-Zustellung](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/email-delivery-issues).

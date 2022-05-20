@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "13993"
 - "3200003"
-ms.openlocfilehash: 052f9ae44cc5a206854ad42ab144cd65babc6914
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 9b2953dcbb868dd90db252e2aeda58e94cd0c1bc
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63203648"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65592796"
 ---
 # <a name="export-review-sets"></a>Exportieren von Prüfdateisätzen
 
 Exportieren von Dokumenten aus einem Prüfdateisatz:
 
-1. Öffnen Sie im [Microsoft 365 Compliance Center](https://compliance.microsoft.com/) die Registerkarte Erweiterter eDiscovery-Fall > **Prüfdateisätze** und wählen Sie dann die Prüfdateisätze aus, den Sie exportieren möchten.
+1. Öffnen Sie im [Microsoft Purview-Complianceportal](https://compliance.microsoft.com/) die Registerkarte Advanced eDiscovery-Fall > **Prüfdateisätze**, und wählen Sie dann die Prüfdateisätze aus, den Sie exportieren möchten.
 
 1. Wählen Sie im Prüfdateisatz **Aktion** > **Export** aus.
 

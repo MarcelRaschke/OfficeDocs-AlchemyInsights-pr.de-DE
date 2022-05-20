@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11514"
 - "9003046"
-ms.openlocfilehash: 7abd09695b1a1b6beb205ba534519a69f97ad982
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f3454e2a6a942adbfd78de9836fe2975e40a7a54
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63129665"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65593336"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>Laufwerkversand im Microsoft 365-Importdienst
 
@@ -26,7 +26,7 @@ Verwenden Sie den Laufwerksversand, indem Sie die PSTs auf eine Festplatte kopie
 
 So starten Sie die Anfrage:
 
-1. Wählen Sie im Microsoft 365 Compliance Center unter **Informationsgovernance** die Option **Importieren**.
+1. Wählen Sie im Microsoft Purview-Complianceportal unter **Informationsgovernance** **Importieren** aus.
 
 1. Wählen Sie den **Typ des Importauftrags** aus und wählen Sie dann **Weiter**.
 

@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 73d3a0be7612c12ed277e3bb2d9dea972e5798d0
-ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
+ms.openlocfilehash: 88ccc1d79faeaa5516ee5df1193f385b260d3ca4
+ms.sourcegitcommit: 654bbec12ffc98760723fe13ad3f69b9cff95a72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65551529"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65611761"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kann das eDiscovery-Exporttool nicht installiert oder ausgeführt werden?
 
@@ -34,13 +34,15 @@ Wenn Sie das eDiscovery-Exporttool nicht installieren oder ausführen können, u
 
   - Unterstützter Browser:
 
-  - Microsoft Edge
+    - Microsoft Edge
 
-    Oder
+      Informationen zum Aktivieren ClickOnce Unterstützung in Microsoft Edge finden [Sie unter Verwenden des eDiscovery-Exporttools in Microsoft Edge](https://docs.microsoft.com/microsoft-365/compliance/configure-edge-to-export-search-results).
 
-  - Internet Explorer 10 und höher
+      Oder
 
-    Andere Browser wie Google Chrome und Mozilla Firefox werden nicht unterstützt.
+    - Internet Explorer 10 und höher
+
+      Andere Browser wie Google Chrome und Mozilla Firefox werden nicht unterstützt.
 
 - Ihre Organisation kann eine Verbindung mit dem Endpunkt in Azure herstellen, **der blob.core.windows.net ist\*** (der Platzhalter stellt einen eindeutigen Bezeichner für Ihren Exportauftrag dar).
 

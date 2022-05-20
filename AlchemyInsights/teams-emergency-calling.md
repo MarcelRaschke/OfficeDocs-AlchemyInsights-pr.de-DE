@@ -11,17 +11,17 @@ ms.localizationpriority: high
 ms.custom:
 - "9002239"
 - "4348"
-ms.date: 01/28/2022
-ms.openlocfilehash: 7ac874fe2de6da49d6e2157e0f67be8224e1c151
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 05/19/2022
+ms.openlocfilehash: 8b3570fb94f959cc574ad2e19b7af98964c9ef50
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63197960"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65593552"
 ---
 # <a name="teams-emergency-calling"></a>Teams-Notrufe
 
-Allen Telefonnummern muss ein Notfallstandort zugeordnet sein. Weitere Informationen finden Sie in den folgenden Themen:
+Allen Telefonnummern muss ein Notfallstandort zugeordnet sein. Das Hinzufügen oder Ändern eines Standorts kann mehrere Stunden dauern. Weitere Informationen finden Sie in folgenden Artikeln:
 
 - [Notrufe – Übersicht ](https://docs.microsoft.com/MicrosoftTeams/what-are-emergency-locations-addresses-and-call-routing)
 - [Hinzufügen, Ändern oder Entfernen eines Notfallstandorts für Ihre Organisation](https://docs.microsoft.com/MicrosoftTeams/add-change-remove-emergency-location-organization)

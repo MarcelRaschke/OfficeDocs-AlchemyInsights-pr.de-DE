@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11937"
 - "9007099"
-ms.openlocfilehash: f22d00e528179a33ffd8723733c36af1548f1be2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: ccba96f23903cdcee71e2898be232adbe895156e
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63127001"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65592102"
 ---
 # <a name="managing-review-sets-in-advanced-ediscovery"></a>Verwalten von Prüfdateisätzen in Advanced eDiscovery
 
 So verwalten Sie Prüfdateisätze in Advanced eDiscovery
 
-1. Navigieren Sie zu [Microsoft 365 Compliance Center](https://compliance.microsoft.com/) > **eDiscovery** > **Advanced eDiscovery**.
+1. Wechseln Sie zu [Microsoft Purview-Complianceportal](https://compliance.microsoft.com/) > **eDiscovery** > **Advanced eDiscovery**.
 
 1. Wählen Sie die Registerkarte **Fälle** und dann die gewünschten Fälle aus.
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12580"
-ms.openlocfilehash: 024c1f6ff147acea3b6b211129e99ea7538ed5f1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f553cadd92aec6564a9e8379efbbef3fa87ab06d
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63204908"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65592688"
 ---
 # <a name="custodians-in-advanced-ediscovery"></a>Verwahrer in Advanced eDiscovery
 
@@ -26,7 +26,7 @@ Verwahrer sind Personen, die verantwortlich sind für oder im Besitz sind von Do
 
 So verwalten Sie Verwahrer in einem Advanced eDiscovery-Fall:
 
-1. Wechseln Sie zum [Microsoft 365 Compliance Center](https://compliance.microsoft.com/) > **eDiscovery** > **Advanced eDiscovery**, und wählen Sie Ihren eDiscovery-Fall aus.
+1. Wechseln Sie zu [Microsoft Purview-Complianceportal](https://compliance.microsoft.com/) > **eDiscovery** > **Advanced eDiscovery**, und wählen Sie Ihren eDiscovery-Fall aus.
 
 1. Wählen Sie die Registerkarte **Datenquellen**, wählen Sie einen Verwahrer aus der Liste aus, und wählen Sie dann **Verwalten** auf der Flyout-Seite aus.
 

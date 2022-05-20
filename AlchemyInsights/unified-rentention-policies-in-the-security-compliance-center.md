@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: fdbfee6fd181203dc5772a00539f888f5817534f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 528506de7ede5e23f3b0daa4cbc78e20ce0fe4cc
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63289565"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65593732"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>Einheitliche Aufbewahrungsrichtlinien im Security & Compliance Center
 
-Mithilfe von Aufbewahrungsrichtlinien können Sie die Inhalte Ihrer Organisation mithilfe von Aufbewahrungs- und Löschungseinstellungen verwalten. Sie können einheitliche Aufbewahrungsrichtlinien im Office 365 Security & Compliance Center oder im Microsoft 365 Compliance Center erstellen. 
+Mithilfe von Aufbewahrungsrichtlinien können Sie die Inhalte Ihrer Organisation mithilfe von Aufbewahrungs- und Löschungseinstellungen verwalten. Sie können einheitliche Aufbewahrungsrichtlinien im Office 365 Security & Compliance Center oder im Microsoft Purview-Complianceportal erstellen. 
 
 1. Wählen Sie im [Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143) die Option **Informationsgovernance** > **Aufbewahrung** > **+Erstellen** aus. <br/>
-    Wählen Sie im [Microsoft 365 Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077149) die Option **Richtlinien** > **Daten > Aufbewahrung > + Neue Aufbewahrungsrichtlinie** aus.
+    Im [Microsoft Purview-Complianceportal](https://go.microsoft.com/fwlink/p/?linkid=2077149) wählen Sie **Richtlinien** > **Daten > Aufbewahrung > + Neue Aufbewahrungsrichtlinie** aus.
 2. Fügen Sie **Name**, **Einstellungen** und **Speicherorte auswählen** hinzu.
 3. Überprüfen Sie Ihre-Einstellungen und wählen Sie dann **Diese Richtlinie erstellen** oder **Für später speichern** aus.  
       

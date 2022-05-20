@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: 2be908a7cc3aec67c4eb7b7f416cf62255ff4439
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 0b9363db9ba489328f61da6995b7971006ded780
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63205412"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65593444"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>So wird eine Vertraulichkeitsbezeichnung erstellt
 
-1. Wechseln Sie zum Microsoft 365 Compliance Center > **Information Protection** > **Bezeichnungen**.
+1. Wechseln Sie zum Microsoft Purview-Complianceportal > **Information Protection** > **Bezeichnungen**.
 
 1. Wählen Sie **+ Bezeichnung erstellen**, um den Assistenten für neue Vertraulichkeitsbezeichnungen zu starten.
 
