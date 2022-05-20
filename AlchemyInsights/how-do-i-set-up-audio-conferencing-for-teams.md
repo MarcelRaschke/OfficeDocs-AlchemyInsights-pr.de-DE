@@ -12,13 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2711"
 - "2712"
+- "6800"
+- "3183"
+- "6808"
+- "9002264"
 - "9000766"
-ms.openlocfilehash: 01b3bb65714a147ee94d248711fedf0678b5a4a1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 26fdeab5380520cf9d5b54e99de476d318b0fdb6
+ms.sourcegitcommit: 654bbec12ffc98760723fe13ad3f69b9cff95a72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63160231"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65611809"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Audiokonferenzen
 
@@ -28,16 +32,16 @@ Wenn [Lizenzen erworben wurden](https://docs.microsoft.com/microsoftteams/set-up
 
 1. Wechseln Sie zu [Aktive Benutzer](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users), und wählen Sie den betreffenden Benutzer aus.
 
-2. Je nach Admin Center-Version müssen Sie entweder **Lizenzen und Apps** auswählen oder unter **Produktlizenzen** auf **Bearbeiten** klicken.
+2. Je nach Admin Center-Version müssen Sie entweder **Lizenzen und Apps** auswählen oder unter **Produktlizenzen** **Bearbeiten** auswählen.
 
-3. Vergewissern Sie sich, dass für den Benutzer die Lizenzen für **Microsoft 365-Audiokonferenz, Microsoft Teams** und **Skype for Business Online (Plan 2)** ausgewählt sind. Wenn die **Microsoft 365-Audiokonferenz**-Lizenz nicht vorhanden ist, müssen Sie zuerst [Add on- Lizenzen](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) erwerben.
+3. Vergewissern Sie sich, dass für den Benutzer die Lizenzen für **Microsoft 365-Audiokonferenz, Microsoft Teams** und **Skype for Business Online (Plan 2)** ausgewählt sind. Wenn die **Microsoft 365-Audiokonferenz**-Lizenz nicht vorhanden ist, müssen Sie zuerst [Add on- Lizenzen erwerben](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business).
 
-4. Klicken Sie im **Admin Center** für Benutzer auf **Alle anzeigen** und dann auf **Teams**.
+4. Wechseln Sie im Teams Admin Center zu [**Benutzer verwalten**](https://admin.teams.microsoft.com/users).
 
-5. Klicken Sie im **Microsoft Teams Admin Center** auf **Altes Portal**.
+5. Wählen Sie den betreffenden Benutzer aus, und vergewissern Sie sich, dass er über eine **gebührenpflichtige Standardnummer** verfügt.
 
-6. Klicken Sie im **Skype for Business Admin Center** auf **Audiokonferenzen** und dann auf **Benutzer**.
+Wenn Sie weitere Hilfe beim Erwerb von Lizenzen für Microsoft-Audiokonferenzen benötigen, wenden Sie sich an den [Microsoft Support für Abrechnungen](https://go.microsoft.com/fwlink/p/?linkid=518322).
 
-7. Wählen Sie den betreffenden Benutzer aus, und vergewissern Sie sich, dass er über eine **gebührenpflichtige Standardnummer** verfügt.
+Wenn Sie Hilfe beim Verwalten der Standardkonferenznummer eines Benutzers oder beim Zurücksetzen der Benutzer-PIN- und DFÜ-Funktionen benötigen, lesen Sie [Verwalten der Audiokonferenzeinstellungen für Benutzer](https://docs.microsoft.com/microsoftteams/manage-the-audio-conferencing-settings-for-a-user-in-teams).
 
-Wenn Sie weitere Hilfe beim Erwerb von Lizenzen für **Microsoft-Audiokonferenzen** benötigen, wenden Sie sich an den [Microsoft Support für Abrechnungen](https://go.microsoft.com/fwlink/p/?linkid=518322).
+Bei allgemeinen Fragen siehe [Allgemeine Fragen zu Audiokonferenzen](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions).
