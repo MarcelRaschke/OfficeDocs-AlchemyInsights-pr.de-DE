@@ -12,12 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4352"
-ms.openlocfilehash: f02424c2caa6ad245e0a8f4c6b4331608368cad8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6792"
+ms.openlocfilehash: d47ee2469596ccfab39cb7a26364eb7a3b4832b2
+ms.sourcegitcommit: 654bbec12ffc98760723fe13ad3f69b9cff95a72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63221037"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65611657"
 ---
 # <a name="teams-dial-in-conferencing-number-removal"></a>Entfernen einer Teams-Konferenzeinwahlnummer
 
@@ -25,19 +26,11 @@ Benötigen Sie Hilfe beim Entfernen einer Konferenzeinwahlnummer aus Ihrer Konfe
 
 Die Standardtelefonnummer der Konferenzbrücke definiert die Anrufer-ID, die verwendet wird, wenn ein ausgehender Anruf von einem Teilnehmer oder dem Organisator innerhalb einer Besprechung platziert wird.
 
-1. Melden Sie sich mit Ihrem Geschäftskonto an.
+1. Wechseln Sie im Teams Admin Center zu den [Konferenzbrückeneinstellungen](https://admin.teams.microsoft.com/meetings/conf-bridges).
 
-2. Navigieren Sie zum **Microsoft 365 Admin Center**.
+1. Markieren Sie die Dienstgebührennummer, die Sie als Standard konfigurieren möchten.
 
-3. Navigieren Sie zum **Admin Center > Teams & Skype**.
-
-4. Navigieren Sie zu **Besprechungen**.
-
-5. Navigieren Sie zu **Konferenzbrücken**.
-
-6. Markieren Sie die gebührenpflichtige Nummer des Dienstes, die Sie als Standard konfigurieren möchten.
-
-7. Klicken Sie auf **Als Standard festlegen**.
+1. Wählen Sie **Als Standard festlegen** aus.
 
 Weitere Informationen finden Sie unter [Ändern der Telefonnummern in Ihrer Audiokonferenzbrücke](https://docs.microsoft.com/microsoftteams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
 
