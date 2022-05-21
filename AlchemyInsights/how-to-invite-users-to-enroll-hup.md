@@ -3,21 +3,23 @@ title: Gewusst wie Benutzer einladen, sich für das Home Use Program (HUP) zu re
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: new, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
+- commerce_subscriptions
 - "9004233"
 - "7499"
 ms.date: 04/27/2022
-ms.openlocfilehash: b8b3fc205f8a2533352590fe13bb78b32fd6e9f9
-ms.sourcegitcommit: b6faebed3da41577a0a16993b065dce49480fa7f
+ms.openlocfilehash: 7b1d244f90709b6c4cf2d34e7eeb8cb83e12a943
+ms.sourcegitcommit: b2b49d5a8639e46c13a75f48fe929d9c0acd36f2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "65127267"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65624509"
 ---
 # <a name="how-do-i-invite-users-to-enroll-in-the-home-use-program-hup"></a>Gewusst wie Benutzer einladen, sich für das Home Use Program (HUP) zu registrieren?
 

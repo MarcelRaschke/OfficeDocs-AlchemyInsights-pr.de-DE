@@ -3,21 +3,23 @@ title: Was ist die Microsoft Home Use Program?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: new, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
+- commerce_subscriptions
 - "9004233"
 - "7500"
 ms.date: 03/31/2022
-ms.openlocfilehash: edb33360a16ad54a37d1aeaa968c4a64d18bb72d
-ms.sourcegitcommit: 5cdb7885e5ac2787c6616101ee1bc7fb23809427
+ms.openlocfilehash: 2d5dad37f82f53aaa44912a95470d3d0272276c9
+ms.sourcegitcommit: b2b49d5a8639e46c13a75f48fe929d9c0acd36f2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65219320"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65624532"
 ---
 # <a name="what-is-the-microsoft-home-use-program"></a>Was ist die Microsoft Home Use Program?
 

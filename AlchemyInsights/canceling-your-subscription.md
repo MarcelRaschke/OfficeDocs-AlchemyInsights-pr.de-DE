@@ -3,21 +3,23 @@ title: Ihr Abonnement kündigen?
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
+ms.reviewer: jkinma, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
+- commerce_subscriptions
 - "1400001"
 - "17204"
 ms.date: 05/04/2022
-ms.openlocfilehash: 1ee85fa673e0f112bd5fb2850840ebd2ab3d1d67
-ms.sourcegitcommit: 5cdb7885e5ac2787c6616101ee1bc7fb23809427
+ms.openlocfilehash: 4c8876ee3baa70d75d8785226e1191972e6f4032
+ms.sourcegitcommit: b2b49d5a8639e46c13a75f48fe929d9c0acd36f2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65218816"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65624515"
 ---
 # <a name="canceling-your-subscription"></a>Ihr Abonnement kündigen?
 

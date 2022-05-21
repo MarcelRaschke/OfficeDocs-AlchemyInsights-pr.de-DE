@@ -3,21 +3,23 @@ title: Neuer globaler Administrator oder Abrechnungsadministrator?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: drjones, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
+- commerce_subscriptions
 - "1500029"
 - "17186"
 ms.date: 04/27/2022
-ms.openlocfilehash: 360cb5f8738595a5eb9755ed32535e99713e64a4
-ms.sourcegitcommit: b6faebed3da41577a0a16993b065dce49480fa7f
+ms.openlocfilehash: d7e0c3dca968387fd7397792818a945263bce0ac
+ms.sourcegitcommit: b2b49d5a8639e46c13a75f48fe929d9c0acd36f2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "65127276"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65624501"
 ---
 # <a name="new-global-or-billing-administrator"></a>Neuer globaler Administrator oder Abrechnungsadministrator?
 
