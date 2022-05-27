@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004022"
 - "7088"
-ms.openlocfilehash: 21abe976bc51ce6d91ce8dcc64479bf768e8de0c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 0ec21f4af630b15e9b60f606414b1210948e1712
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63261845"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65728394"
 ---
 # <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Abonnement, das für die Microsoft Edge-Synchronisierung erforderlich ist, um mit Azure Active Directory-Konten zu arbeiten
 

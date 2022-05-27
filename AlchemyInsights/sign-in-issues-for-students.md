@@ -13,12 +13,12 @@ ms.custom:
 - "9000744"
 - "3813"
 - "3818"
-ms.openlocfilehash: 4fcaad0de069a85a4b5fdb4d548f4a5312e723d1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 2b88c3a5bdd53eb7c1ee793cf65f8ea9a160bb6b
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63252629"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65728430"
 ---
 # <a name="sign-in-issues-for-students"></a>Anmeldeprobleme für Schüler/Studenten
 
@@ -26,7 +26,7 @@ Wenn die Kursteilnehmer Probleme beim Anmelden haben, liegt der häufigste Grund
 
 1. Navigieren Sie im Microsoft 365 Admin Center zu **Einstellungen > Einstellungen > Microsoft Teams**. 
 
-2. Wenn Microsoft Teams in der Liste "Dienste" nicht angezeigt wird, deaktivieren Sie **Testen Sie das neue Admin Center**, um **Einstellungen > Dienste und Add-Ins > Microsoft Teams** zu finden. 
+2. Wenn Sie Microsoft Teams nicht in der Liste der Dienste sehen, deaktivieren Sie **Testen Sie das neue Admin Center**, um **Einstellungen > Dienste und Add-Ins > Microsoft Teams** zu suchen. 
 
 Weitere Informationen finden Sie unter [Aktivieren von Microsoft Teams für Ihre Bildungseinrichtung](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1). 
 

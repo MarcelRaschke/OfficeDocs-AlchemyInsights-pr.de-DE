@@ -1,5 +1,5 @@
 ---
-title: Deaktivieren OneDrive
+title: OneDrive deaktivieren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,20 +14,20 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: b1b00b68b0adfcdcd4abc15588dc99257e1ea24a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 8eb8e70849aa2f79b8cea67369c71095e3a68ef0
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63092782"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65709374"
 ---
-# <a name="disable-onedrive"></a>Deaktivieren OneDrive
+# <a name="disable-onedrive"></a>OneDrive deaktivieren
 
-Es gibt verschiedene Möglichkeiten, den Zugriff auf OneDrive und deren Dienste abhängig von Ihren Geschäftlichen Anforderungen zu deaktivieren:
+Es gibt verschiedene Möglichkeiten, den Zugriff auf OneDrive und seine Dienste je nach Ihren geschäftlichen Anforderungen zu deaktivieren:
 
 [Aufheben der Verknüpfung, Ausblenden oder Deinstallieren der OneDrive-Anwendung](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
-[Nur Synchronisierung für bestimmte Organisationen zulassen](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+[Synchronisierung nur für bestimmte Organisationen zulassen](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
 [Deaktivieren OneDrive Websiteerstellung für einige Benutzer](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 

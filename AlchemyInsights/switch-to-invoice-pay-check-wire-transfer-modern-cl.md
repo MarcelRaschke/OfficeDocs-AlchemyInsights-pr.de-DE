@@ -1,5 +1,5 @@
 ---
-title: Wechseln zur Zahlung per Rechnung (Scheck/Überweisung)
+title: Umsteigen auf Zahlung per Rechnung (Scheck/Überweisung)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 9775aa82d15cb0d67c32e31ee66fb9e1138324e4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 81b48e47f93f6a529b51e70f8481116402a76435
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63179347"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65729692"
 ---
-# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Wechseln zur Zahlung per Rechnung (Scheck/Überweisung)
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Umsteigen auf Zahlung per Rechnung (Scheck/Überweisung)
 
-Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten ihr Problem selbst beheben, nachdem sie unserer Dokumentation folgten.
+Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten ihr Problem nach dem Folgen unserer Dokumentation selbst beheben.
 
-Wenn Sie zur Zahlung per Rechnung wechseln, bedeutet dies, dass Sie Ihre Rechnung innerhalb von 30 Tagen nach dem Rechnungsdatum bezahlen. Um anspruchsberechtigt für Ihr Azure-Abonnement auf Rechnung zu werden, senden Sie eine Anforderung an den Azure-Support. Nachdem Ihre Anforderung genehmigt wurde, können Sie im Azure-Portal ein Abonnement auf Rechnungszahlung umstellen.
+Wenn Sie zur Zahlung per Rechnung wechseln, bedeutet dies, dass Sie Ihre Rechnung innerhalb von 30 Tagen nach dem Rechnungsdatum bezahlen. Um anspruchsberechtigt zu werden, für Ihr Azure-Abonnement per Rechnung zu bezahlen, senden Sie eine Anfrage an Azure-Support. Nachdem Ihre Anfrage genehmigt wurde, können Sie ein Abonnement in der Azure-Portal auf Rechnungszahlung umstellen.
 
-**Bevor Sie fortfahren, überprüfen Sie die folgenden Anforderungen/Einschränkungen beim Anfordern der Rechnungszahlungsoption:**
+**Bevor Sie fortfahren, überprüfen Sie die folgenden Anforderungen/Einschränkungen beim Anfordern der Zahlungsoption für Rechnungen:**
 
-- Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) an, navigieren Sie zu Zahlungsmethoden, und überprüfen Sie, ob Sie bereits für die Zahlung auf Rechnung genehmigt wurden.
+- Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) an, navigieren Sie zu den Zahlungsmethoden, und überprüfen Sie, ob Sie bereits für die Zahlung per Rechnung vorab genehmigt wurden.
 - Rechnungszahlung ist nur für Geschäftskonten verfügbar, nicht für persönliche Konten.
 - Sie müssen alle ausstehenden Gebühren bezahlen, bevor Sie zur Rechnungszahlung wechseln.
-- Das Supportteam überprüft das Konto, um festzustellen, ob es für den Rechnungsmodus berechtigt ist.
-- Sobald Sie zur Zahlung per Rechnung wechseln, können Sie nicht mehr zur Zahlung per Kreditkarte oder Debitkarte zurückkehren.
+- Das Supportteam überprüft das Konto, um festzustellen, ob es für den Rechnungsmodus der Zahlung berechtigt ist.
+- Nachdem Sie zur Zahlung per Rechnung gewechselt haben, können Sie nicht mehr zur Kredit- oder Debitkartenzahlung zurückkehren.
 
-Sobald Sie zur Zahlung per Rechnung genehmigt wurden, können Sie Ihr Azure-Abonnement per Scheck oder Überweisung  [imAzure-Portal](https://portal.azure.com/) auf die Rechnungszahlung umstellen.
+Sobald Sie für die Zahlung per Rechnung genehmigt wurden, können Sie Ihr Azure-Abonnement per Scheck oder Überweisung in der [Azure-Portal](https://portal.azure.com/) auf die Zahlung per Rechnung umstellen.
 Gehen Sie dazu wie folgt vor:
 
-1. Melden Sie sich  [beimAzure-Portal](https://portal.azure.com/)  als Kontoadministrator an. Suchen Sie nach und wählen Sie  **Verwaltung und Abrechnung aus**.
-2. Wählen Sie im Menü **Abrechnungsprofile aus**.
+1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) als Kontoadministrator an. Suchen Sie nach **Kostenmanagement + Abrechnung**, und wählen Sie sie aus.
+2. Wählen Sie im Menü **"Abrechnungsprofile" aus**.
 3. Wählen Sie ein Abrechnungsprofil aus.
-4. Wählen Sie im Menü " *Abrechnungsprofil* " die **Option "Zahlungsmethoden" aus**.
-5. Wählen Sie das Banner aus, das besagt, dass Sie zur Zahlung per Scheck/Überweisung berechtigt sind.
+4. Wählen Sie im Menü *"Abrechnungsprofil* " **die Option "Zahlungsmethoden**" aus.
+5. Wählen Sie das Banner aus, das besagt, dass Sie per Scheck/Überweisung zur Zahlung berechtigt sind.
 
 **Empfohlene Dokumentationen**
 
 - [Anfordern/Herunterladen/Anzeigen Ihrer Azure-Abrechnungsrechnung und Nutzungsdaten](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [So senden Sie Azure-Rechnungen direkt an Ihren Posteingang](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Zahlung per Rechnung](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
-- [Grundlegendes zu den Begriffen auf Ihrer Rechnung](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
+- [Grundlegendes zu Den Begriffen auf Ihrer Rechnung](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)

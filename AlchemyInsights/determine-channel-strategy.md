@@ -15,12 +15,12 @@ ms.custom:
 - "9005291"
 - "11089"
 - "9006490"
-ms.openlocfilehash: 10e4b2d427ba71542787b087d2986015045a27d1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 1db5e3be7925cd877fbf486a882a44d4dd639c20
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63173155"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65709302"
 ---
 # <a name="determine-channel-strategy"></a>Festlegen der Kanalstrategie
 
@@ -37,4 +37,3 @@ Es wird empfohlen, einen Teil der Geräte für die Verwendung des Beta- oder Tes
 Durch die Installation mehrerer Kanäle auf einem Gerät können die Risiken beim Testen neuer Versionen reduziert werden, da die Benutzer bei Problemen auf einfache Weise zu dem Stable-Kanal wechseln können.
 
 Nachdem Sie Ihre Kanalstrategie festgelegt haben, können Sie mit der Definition von Richtlinien beginnen.
-

@@ -12,12 +12,12 @@ ms.custom:
 - "3100012"
 - "16960"
 ms.date: 03/31/2022
-ms.openlocfilehash: 7dcc5f1792375f3dca201a8dcfb3896eb318dbb5
-ms.sourcegitcommit: 5cdb7885e5ac2787c6616101ee1bc7fb23809427
+ms.openlocfilehash: 98a476a3837415b3efec7289e23a3c0d6a182e4e
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65218699"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65709285"
 ---
 # <a name="delays-in-email-message-delivery"></a>Verzögerungen bei der Zustellung von E-Mail-Nachrichten
 

@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "8322"
 - "9003227"
-ms.openlocfilehash: cf077ba1514f71a2147219251439fa37d0f02d2a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d65fb58740db7c223032b6f2b26a5542f9899373
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63274589"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65728936"
 ---
 # <a name="managing-external-settings"></a>Externe Einstellungen verwalten
 
 **Ankündigung**
 
-- [Die Einstellung der WebView-Anmeldeunterstützung von Google beginnt ab dem 4. Januar 2021](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation?WT.mc_id=Portal-Microsoft_Azure_Support#deprecation-of-webview-sign-in-support). Testen Sie, ob Ihre Apps betroffen sind, indem Sie die Anweisungen von Google zum Testen der Kompatibilität befolgen
+- [Die Einstellung der WebView-Anmeldeunterstützung von Google beginnt ab dem 4. Januar 2021](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation?WT.mc_id=Portal-Microsoft_Azure_Support#deprecation-of-webview-sign-in-support). Testen Sie, ob Ihre Apps betroffen sind, indem Sie die Anleitung von Google zum Testen der Kompatibilität befolgen
 - Stellen Sie sicher, dass Sie die Systemwebansicht oder den Systembrowser verwenden, wenn Sie Ihre Benutzer mit Google-Heimanwenderkonten anmelden.
 
 **Einladungseinstellungen verwalten**

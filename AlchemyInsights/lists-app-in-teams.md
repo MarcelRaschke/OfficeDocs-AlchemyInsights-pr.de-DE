@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: 5cc849d34a8ddb146f5ec3d32eac25b98cadbca7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 0e2d96371b08928ce001d027d88b7ddf25e5cc81
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63235203"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65709185"
 ---
 # <a name="lists-app-in-teams"></a>Lists-App in Teams
 

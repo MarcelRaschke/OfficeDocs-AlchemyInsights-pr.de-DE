@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: 02a3ba0a6b0e8af68c5ff606d3af7267cf6b8163
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 8ade5b467ad196b7d01c68debfd7a1f4b9e50031
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63187340"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65729584"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Ändern des Namens eines lokalen Kontos oder eines Microsoft-Kontos
 
@@ -25,7 +25,7 @@ Wenn Sie nur einen Benutzernamen und ein Kennwort verwenden, um sich bei Windows
 
 **So ändern Sie den Namen eines lokalen Kontos**:
 
-1. Klicken Sie auf die **Schaltfläche "Start** ", geben Sie **"Systemsteuerung"** ein, und wählen Sie " **Systemsteuerung"** aus der Liste der Ergebnisse aus.
+1. Klicken Sie auf die Schaltfläche "**Start**", geben **Sie Systemsteuerung** ein, und wählen Sie **Systemsteuerung** aus der Ergebnisliste aus.
 
 2. Klicken Sie auf **"Benutzerkonten"**, und **ändern Sie dann den Kontotyp**.
 
@@ -37,25 +37,25 @@ Wenn Sie eine E-Mail-Adresse und ein Kennwort für die Anmeldung verwenden, verw
 
 **So ändern Sie den Anzeigenamen Ihres Microsoft-Kontos**:
 
-Sie verwenden Ihren Anzeigenamen immer dann, wenn Sie sich bei Ihrem Konto anmelden. Es ist auch der Name, den Sie auf Ihren Windows 10 Geräten sehen, und der Name, den Personen sehen, wenn Sie E-Mails senden. Dieser Name kann sich vom Anzeigenamen Ihres lokalen Kontos unterscheiden. So ändern Sie Ihren Anzeigenamen:
+Sie verwenden Ihren Anzeigenamen, wenn Sie sich bei Ihrem Konto anmelden. Es ist auch der Name, den Sie auf Ihren Windows 10 Geräten sehen, und es ist der Name, den Personen sehen, wenn Sie E-Mails senden. Dieser Name kann vom Anzeigenamen Ihres lokalen Kontos abweichen. Hier erfahren Sie, wie Sie Ihren Anzeigenamen ändern:
 
-1. Melden Sie sich auf der Seite **"Ihre Informationen** " auf der [Microsoft-Kontowebsite](https://account.microsoft.com/) an.
+1. Melden Sie sich auf der [Microsoft-Kontowebsite](https://account.microsoft.com/) auf der Seite **"Ihre Informationen**" an.
 
-2. Klicken Sie unter Ihrem Namen auf " **Namen bearbeiten"**. Wenn noch kein Name aufgeführt ist, klicken Sie auf **"Namen hinzufügen**". 
+2. Klicken Sie unter Ihrem Namen auf **"Namen bearbeiten"**. Wenn noch kein Name aufgeführt ist, klicken Sie auf **"Name hinzufügen"**. 
 
-3. Geben Sie den gewünschten Namen ein, geben Sie das CUBE ein, und klicken Sie auf **"Speichern**". Einige Namen sind möglicherweise nicht zulässig, wenn sie blockierte Wörter oder Ausdrücke enthalten. Wenn beim Eingeben Ihres Namens ein Fehler auftritt, versuchen Sie stattdessen einen Spitznamen.
+3. Geben Sie den gewünschten Namen ein, geben Sie captcha ein, und klicken Sie auf **"Speichern"**. Einige Namen sind möglicherweise nicht zulässig, wenn sie blockierte Wörter oder Ausdrücke enthalten. Wenn bei der Eingabe Ihres Namens eine Fehlermeldung angezeigt wird, versuchen Sie es stattdessen mit einem Spitznamen.
 
-4. Wenn sich der Anzeigename nicht sofort ändert oder wenn der alte Name weiterhin in E-Mails angezeigt wird, werden Ihre Informationen möglicherweise zwischengespeichert. Um den Namen schnell zu aktualisieren, können Sie zu Ihrem lokalen Konto wechseln und [sich dann wieder bei Ihrem Microsoft-Konto anmelden](https://account.microsoft.com/).
+4. Wenn sich der Anzeigename nicht sofort ändert oder der alte Name weiterhin in E-Mails angezeigt wird, werden Ihre Informationen möglicherweise zwischengespeichert. Um den Namen schnell zu aktualisieren, können Sie zu Ihrem lokalen Konto wechseln und sich dann [wieder bei Ihrem Microsoft-Konto anmelden](https://account.microsoft.com/).
 
-Der Anzeigename ändert das Gamertag nicht. Wenn Sie ein neues Gamertag wünschen, lesen Sie [informationen zum Ändern Ihres Xbox-Gamertags](https://support.xbox.com/id-ID/account-management/change-xbox-live-gamertag).
+Der Anzeigename ändert ihr Gamertag nicht. Wenn Sie ein neues Gamertag wünschen, lesen Sie ["So ändern Sie Ihr Xbox-Gamertag"](https://support.xbox.com/id-ID/account-management/change-xbox-live-gamertag).
 
 **So ändern Sie den Administratornamen**:
 
-1. Geben Sie in das Suchfeld auf der Taskleiste " **Computerverwaltung"** ein, und wählen Sie es aus der Liste aus.
+1. Geben Sie in das Suchfeld auf der Taskleiste **"Computerverwaltung** " ein, und wählen Sie es aus der Liste aus.
 
-2. Klicken Sie auf den Pfeil neben **lokalen Benutzern und Gruppen** , um ihn zu erweitern. Klicken Sie auf **Benutzer**.
+2. Klicken Sie auf den Pfeil neben **"Lokale Benutzer und Gruppen** ", um ihn zu erweitern. Klicken Sie auf **Benutzer**.
 
-3. Klicken Sie mit der rechten Maustaste auf **"Administrator** ", und klicken Sie auf **"Umbenennen"**.
+3. Klicken Sie mit der rechten Maustaste auf **"Administrator"** , und klicken Sie auf **"Umbenennen"**.
 
 4. Geben Sie einen neuen Namen ein. Beachten Sie, dass Sie der Administrator sein müssen, um diesen Namen zu ändern.
 
@@ -63,10 +63,10 @@ Der Anzeigename ändert das Gamertag nicht. Wenn Sie ein neues Gamertag wünsche
 
 - [Welche E-Mail-Adressen Sie für die Anmeldung bei Ihrem Microsoft-Konto verwenden können](https://support.microsoft.com/help/4026162)
 
-- [Welche E-Mail-Adressen Sie zum Senden von E-Mails verwenden können](https://support.microsoft.com/help/12407) (durch Hinzufügen und Verwalten von Aliasen zu Ihrem Microsoft-Konto)
+- [Welche E-Mail-Adressen Sie zum Senden von E-Mails verwenden können](https://support.microsoft.com/help/12407) (durch Hinzufügen und Verwalten von Aliasen in Ihrem Microsoft-Konto)
 
-- [Das Geburtsdatum ihres Microsoft-Kontos](https://support.microsoft.com/help/12411)
+- [Das Geburtsdatum in Ihrem Microsoft-Konto](https://support.microsoft.com/help/12411)
 
 - [Microsoft-Kontobild](https://support.microsoft.com/help/4026790)
 
-[Erhalten Sie weitere Hilfe beim Einrichten und Verwalten Ihres Microsoft-Kontos](https://support.microsoft.com/hub/4294457/microsoft-account-help#manage-account)
+[Weitere Hilfe zum Einrichten und Verwalten Ihres Microsoft-Kontos](https://support.microsoft.com/hub/4294457/microsoft-account-help#manage-account)

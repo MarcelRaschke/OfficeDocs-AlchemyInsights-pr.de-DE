@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3787"
 - "9001707"
-ms.openlocfilehash: 3d589e15a3d814b0f21c76037e910a8785b26e7f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 28b31358d4a1b4ecdf154f207b6e1833e8a0ac94
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63184964"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65729044"
 ---
 # <a name="issues-dialing-into-teams-in-china"></a>Probleme bei der Einwahl in Teams in China
 
@@ -26,5 +26,5 @@ Microsoft ist sich bewusst, dass einige Nutzer in der Region China Probleme bei 
 
 Wir empfehlen Folgendes, wenn Sie Probleme mit Audiokonferenzen haben:
 
--   Bitten Sie den Anrufer oder Besprechungsorganisator, Ihre Festnetz- oder Mobiltelefonnummer anzurufen.
--   Nehmen Sie an einem Anruf oder einer Besprechung vom Desktop oder von mobilen Clients aus mithilfe von VoIP teil.
+- Bitten Sie den Anrufer oder Besprechungsorganisator, Ihre Festnetz- oder Mobiltelefonnummer anzurufen.
+- Nehmen Sie an einem Anruf oder einer Besprechung vom Desktop oder von mobilen Clients aus mithilfe von VoIP teil.
