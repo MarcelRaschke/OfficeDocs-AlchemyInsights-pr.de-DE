@@ -15,12 +15,12 @@ ms.custom:
 - "9774"
 - "9005390"
 - "9005403"
-ms.openlocfilehash: 6773f7e212637c87088df433f72d3f7046c6abf0
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 872c385e3f2fe5705607df1ed8a54cdb1bc333a8
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63237795"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65730234"
 ---
 # <a name="free-up-drive-space-in-windows-10"></a>Freigeben von Speicherplatz in Windows 10
 
@@ -29,7 +29,7 @@ Hier finden Sie zwei Optionen, um Speicherplatz in Windows freizugeben:
 - Geben Sie Speicherplatz in Windows 10 frei.
 - Geben Sie Speicherplatz für Windows 10-Updates mit einem externen Speichergerät frei.
 
-Wenn Sie nach der Verwendung der Datenträgerbereinigung immer noch wenig Speicherplatz haben, füllt sich Ihr Ordner für temporäre Dateien möglicherweise schnell mit Anwendungsdateien (.appx), die vom Microsoft Store verwendet werden. Um dieses Problem zu beheben, setzen Sie den Store zurück, löschen Sie den Store-Cache und führen Sie dann die Windows Update-Problembehandlung durch. Stellen Sie sicher, dass der Microsoft Store geschlossen ist, bevor Sie mit diesen Schritten fortfahren.
+Wenn Sie nach der Datenträgerbereinigung immer noch wenig Speicherplatz haben, ist es möglich, dass sich Ihr Temp-Ordner schnell mit Anwendungsdateien (.appx) füllt, die vom Microsoft Store verwendet werden. Um dieses Problem zu beheben, setzen Sie den Store zurück, löschen Sie den Store-Cache und führen Sie dann die Windows Update-Problembehandlung durch. Stellen Sie sicher, dass der Microsoft Store geschlossen ist, bevor Sie mit diesen Schritten fortfahren.
 
 **Schritt 1: Zurücksetzen des Microsoft Store**
 

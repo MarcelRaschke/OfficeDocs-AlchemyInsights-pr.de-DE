@@ -12,12 +12,12 @@ ms.custom:
 - "9009993"
 - "16672"
 ms.date: 02/14/2022
-ms.openlocfilehash: 3e0933c793913fbd42efae9fece4dc9e2d570413
-ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
+ms.openlocfilehash: b1b9b0df9ecd2432fdceeae067acb03a21660576
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2022
-ms.locfileid: "64885589"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65730666"
 ---
 # <a name="outlook-not-opening"></a>Outlook nicht öffnen
 
@@ -34,4 +34,4 @@ Um das Problem zu umgehen, müssen Sie alle Office Prozesse beenden, die ausgef�
 - [Outlook wird nicht geöffnet oder bleibt beim Laden des Profils hängen](https://support.microsoft.com/office/outlook-won-t-open-or-is-stuck-at-loading-profile-6d9590bb-3c0f-4caf-9599-d5cf6b5d3bd0)
 - [Ich kann Microsoft Outlook nicht starten oder erhalte den Fehler nicht.](https://support.microsoft.com/office/i-can-t-start-microsoft-outlook-or-receive-the-error-cannot-start-microsoft-office-outlook-cannot-open-the-outlook-window-d1f69da6-b333-4650-97bf-4d77bd7abb85)
 
-Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie unten auf "Live-Chat** ".  
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie dann unten auf Live Chat**.  

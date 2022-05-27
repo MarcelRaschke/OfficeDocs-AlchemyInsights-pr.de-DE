@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: 37233f8dc2452b127257dbb24886dfc27b38ad25
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 810b55f26e244be315546d7baaf1435545892661
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63257705"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65730882"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Defender-Endpunkt – Überprüfen Sie den Sensorstatus
 
-Die Kachel **Geräte mit Sensorproblemen** befindet sich auf dem Dashboard "Sicherheitsvorgänge". Diese Kachel enthält Informationen über die Kapazität des einzelnen Geräts, Sensordaten zu liefern und mit dem Defender für Endpunkt-Dienst zu kommunizieren. Sie zeigt an, wie viele Geräte Ihrer Aufmerksamkeit erfordern und hilft Ihnen, problematische Geräte zu identifizieren und Maßnahmen zur Behebung bekannter Probleme zu ergreifen.
+Die Kachel **Geräte mit Sensorproblemen** befindet sich auf dem Dashboard "Sicherheitsvorgänge". Diese Kachel enthält Informationen zur Fähigkeit des einzelnen Geräts, Sensordaten bereitzustellen und mit dem Defender für Endpunkt-Dienst zu kommunizieren. Sie zeigt an, wie viele Geräte Ihrer Aufmerksamkeit erfordern und hilft Ihnen, problematische Geräte zu identifizieren und Maßnahmen zur Behebung bekannter Probleme zu ergreifen.
 
 Zwei Statusindikatoren auf der Kachel enthalten Informationen zur Anzahl der Geräte, die nicht ordnungsgemäß an den Dienst gemeldet werden:
 

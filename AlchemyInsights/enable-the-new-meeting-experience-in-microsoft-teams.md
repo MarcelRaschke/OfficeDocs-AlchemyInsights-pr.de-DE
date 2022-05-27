@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6188"
 - "9003281"
-ms.openlocfilehash: 14307a4aeffd54aef7124d92911ae2e265692e29
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a0b140c8196f2beecdae0298e1c9986df6fe1a23
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63091594"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65730810"
 ---
 # <a name="enable-the-new-meeting-experience-in-microsoft-teams"></a>Aktivieren der neuen Besprechungsumgebung in Microsoft Teams
 
-Neue Features werden schrittweise bereitgestellt. Nachdem Sie den Build mit der neuen Benutzeroberfläche (nur Teams-Desktop-App) erhalten haben, können Sie ihn aktivieren. Wenn Sie sehen möchten, ob Sie den neuesten Build haben, wählen Sie oben in der Teams-App Ihr Profilbild und dann **Nach Updates suchen** aus. Features werden nach und nach für Mandanten bereitgestellt. Selbst wenn Sie den Build zuvor aktualisiert haben, wurde das Feature deshalb möglicherweise noch nicht bereitgestellt.  
+Wir führen schrittweise neue Features ein. Nachdem Sie den Build mit der neuen Oberfläche (nur Teams-Desktop-App) erhalten haben, haben Sie die Möglichkeit, ihn zu aktivieren. Wenn Sie sehen möchten, ob Sie den neuesten Build haben, wählen Sie oben in der Teams-App Ihr Profilbild und dann **Nach Updates suchen** aus. Features werden nach und nach für Mandanten bereitgestellt. Selbst wenn Sie den Build zuvor aktualisiert haben, wurde das Feature deshalb möglicherweise noch nicht bereitgestellt.  
 
 So aktivieren Sie die neue Benutzeroberfläche in den Teams-Einstellungen:
 
@@ -33,6 +33,6 @@ So aktivieren Sie die neue Benutzeroberfläche in den Teams-Einstellungen:
     2. Wählen Sie **Beenden** aus.
     3. Starten Sie Teams erneut.
 
-Möglicherweise wird auch eine Benachrichtigung angezeigt, in der die neue Benutzeroberfläche angekündigt wird oder Sie daran erinnert werden, dass Sie sie aktivieren können, wenn Sie **Jetzt aktivieren** auswählen (falls Sie dazu bereit sind), oder **Vielleicht später** auswählen (falls Sie gerade etwas anderes tun).  
+Möglicherweise wird auch eine Benachrichtigung angezeigt, die die neue Benutzeroberfläche ankündigt oder Sie daran erinnert, sie zu aktivieren, wobei Sie die Option **Jetzt aktivieren** wählen können, wenn Sie bereit sind, oder **Vielleicht später**, wenn Sie gerade mit etwas beschäftigt sind.  
 
 Weitere Informationen hierzu finden Sie unter [Neue Besprechungs- und Anrufumgebung in Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-meeting-and-calling-experience-in-microsoft-teams/ba-p/1537581).

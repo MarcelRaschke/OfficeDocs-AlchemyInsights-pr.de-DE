@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "8261"
-ms.openlocfilehash: a61f87d1af69d8fcaf9d0db55c3891b52e0dcc8a
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: 59bb42c5a1701fa84433a7dbc0add0a05421a221
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65593372"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65730846"
 ---
 # <a name="dlp-reporting-and-alerts"></a>DLP-Berichterstellung und -Warnungen
 
-**DLP-Berichterstellung**: [Anzeigen der Berichte zur Verhinderung von Datenverlust – Microsoft 365 Compliance | Microsoft-Dokumentation](https://docs.microsoft.com/microsoft-365/compliance/view-the-dlp-reports)
+**Microsoft Purview Data Loss Prevention Berichterstellung**: [Anzeigen der Berichte zur Verhinderung von Datenverlust – Microsoft 365 Compliance | Microsoft-Dokumentation](https://docs.microsoft.com/microsoft-365/compliance/view-the-dlp-reports)
 
 **Warnungen**: [Konfigurieren und Anzeigen von Warnungen für DLP-Richtlinien (Vorschau) – Microsoft 365 Compliance-| Microsoft-Dokumentation](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies)
 
