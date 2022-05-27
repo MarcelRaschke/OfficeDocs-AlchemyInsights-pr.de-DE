@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500005"
 - "5110"
-ms.openlocfilehash: 43a70b63734d383c60e58449ba5c0d203435d7e0
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 08bb89dc1bdc34208d63c77f853817e539292718
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63240023"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65726704"
 ---
 # <a name="covid-19-invoice-questions"></a>COVID-19 Fragen zur Rechnung
 

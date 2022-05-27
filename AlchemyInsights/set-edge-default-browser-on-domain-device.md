@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "10362"
 - "9006005"
-ms.openlocfilehash: b66e0946260fc42ba8a4e4ad32e9ee558b40df86
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d26ecb90f447e62f2977703123290c1fb0ee38b4
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63212217"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65727571"
 ---
 # <a name="set-microsoft-edge-as-the-default-browser-on-a-domain-joined-device"></a>Microsoft Edge als Standardbrowser auf einem domänenverbundenen Gerät festlegen
 
-Legen Sie Microsoft Edge als Standardbrowser fest: 
+Legen Sie Microsoft Edge als Standardbrowser fest:
 
 1. [Erstellen Sie eine Konfigurationsdatei für Standardverknüpfungen](https://go.microsoft.com/fwlink/?linkid=2132437) und speichern Sie sie lokal oder auf einer Netzwerkfreigabe.
 

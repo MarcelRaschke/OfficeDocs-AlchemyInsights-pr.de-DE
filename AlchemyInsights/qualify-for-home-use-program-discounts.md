@@ -12,12 +12,12 @@ ms.custom:
 - "9004233"
 - "7498"
 ms.date: 04/21/2022
-ms.openlocfilehash: bfa799061c443f83912a147e5eb2963aa3db6f77
-ms.sourcegitcommit: 3d98d0d75a405ac1678ac3f0a1c25c67516d13f1
+ms.openlocfilehash: 0128e8164d490884428639390588d7352e433bb7
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2022
-ms.locfileid: "65036907"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65727635"
 ---
 # <a name="how-does-an-organization-qualify-for-home-use-program-discounts"></a>Wie qualifiziert sich eine Organisation für Rabatte des Home Use Program?
 

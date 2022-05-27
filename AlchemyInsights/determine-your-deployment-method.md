@@ -15,12 +15,12 @@ ms.custom:
 - "11090"
 - "9005291"
 - "9006490"
-ms.openlocfilehash: 5e4cbfaea9b492f1c46ca0ad6f5df451aade9146
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 82ac8c5019937c432921b68faf31f6bd7ba4add2
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63185828"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65728034"
 ---
 # <a name="determine-your-deployment-method"></a>Auswählen der Bereitstellungsmethode
 
@@ -33,7 +33,9 @@ Die Bereitstellung nach Rolle eignet sich am besten, wenn Sie eine Bereitstellun
 **Bereitstellung nach Site**
 
 Die Bereitstellung nach Site ist in den folgenden Szenarien am geeignetsten:
+
 - Wenn Microsoft Edge schnell bereitgestellt werden soll und Sie sich keine Sorgen über Probleme machen, die sich auf die Effizienz auswirken könnten.
-- Wenn Sie bereits umfassende Tests zur App-Kompatibilität durchgeführt haben. Bei dieser Methode können Sie auch von den Vorteilen von Softwareübermittlungsoptimierungen profitieren.
+- Wenn Sie bereits umfassende Tests zur App-Kompatibilität durchgeführt haben.
+Bei dieser Methode können Sie auch von den Vorteilen von Softwareübermittlungsoptimierungen profitieren.
 
 Nachdem Sie eine Methode für die Bereitstellung von Microsoft Edge gewählt haben, können Sie zur Website-Ermittlung übergehen, um Ihre aktuelle Umgebung noch genauer zu definieren.

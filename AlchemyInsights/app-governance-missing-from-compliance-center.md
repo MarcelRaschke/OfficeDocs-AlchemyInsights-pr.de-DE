@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12678"
 - "9007647"
-ms.openlocfilehash: 554fda62e4a2f5eaf2c000f736d1448830e1235c
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: fe03539b54a8d5bdf324d83dea986566dc4a17b8
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65591670"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65726524"
 ---
 # <a name="app-governance-missing-from-microsoft-purview-compliance-portal"></a>App-Governance fehlt im Microsoft Purview-Complianceportal
 

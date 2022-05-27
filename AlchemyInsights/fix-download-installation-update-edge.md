@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9128"
 - "9004429"
-ms.openlocfilehash: 20dd5135f36b10a6ef46881ec6e8386c0e6873c6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c90395d465410f941e0b603eed5ce732bd30a033
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63172507"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65727064"
 ---
 # <a name="fix-problems-with-the-download-installation-and-update-of-microsoft-edge"></a>Beheben von Problemen beim Herunterladen, Installieren und Aktualisieren von Microsoft Edge
 
@@ -32,7 +32,7 @@ ms.locfileid: "63172507"
     1. Wählen Sie **Tools** > **Internetoptionen** aus.
     2. Wählen Sie auf der Registerkarte **Sicherheit** **Vertrauenswürdige Websites** > **Sites** aus.
     3. Geben Sie unter **Diese Website der Zone hinzufügen**<https://officeapps.live.com>ein, wählen Sie **Hinzufügen** und dann **Schließen** aus.
-1. Wenn Sie Microsoft Edge auf einem Windows Computer neu installieren, müssen Sie Microsoft Edge nicht deinstallieren, bevor Sie es erneut installieren. Außerdem wirkt sich die Neuinstallation nicht auf Ihren Verlauf, Cookies und Einstellungen aus.
+1. Neuinstallieren von Microsoft Edge Auf einem Windows-Computer müssen Sie Microsoft Edge vor der Neuinstallation nicht deinstallieren. Außerdem wirkt sich die Neuinstallation nicht auf Ihren Verlauf, Cookies und Einstellungen aus.
 
     Auf einem Mac müssen Sie Microsoft Edge deinstallieren, bevor Sie es erneut installieren. Außerdem müssen Sie den Verlauf, Cookies und Einstellungen wiederherstellen.
 

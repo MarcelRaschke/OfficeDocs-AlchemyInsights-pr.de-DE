@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6245"
 - "9003346"
-ms.openlocfilehash: 2f533d6abb1cf4cbcd5667febf36387d420bf5a3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 0dbf2db1058c4009b6300354a7eb861dff09e5b4
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63289349"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65727424"
 ---
 # <a name="windows-10-dark-mode-does-not-work"></a>Der dunkle Modus von Windows 10 funktioniert nicht
 
 **Überprüfen (und Aktualisieren) der Version von Windows 10**
 
-Überprüfen Sie zunächst Ihre Version von Windows 10. Sie müssen mindestens das Update vom November 2019 (auch als Version "1909" bezeichnet) ausführen. damit der dunkle Modus ordnungsgemäß funktioniert.  
+Überprüfen Sie zunächst Ihre Version von Windows 10. Sie müssen mindestens das Update vom November 2019 (auch bekannt als Version "1909") verwenden, damit der dunkle Modus ordnungsgemäß funktioniert.  
 
 1. Wählen oder tippen Sie in der Taskleiste auf die Schaltfläche **Start**, und geben Sie **winver** ein. 
 2. Wählen oder tippen Sie auf die Option **winver Befehl ausführen**, um ein Fenster mit Versionsinformationen anzuzeigen.

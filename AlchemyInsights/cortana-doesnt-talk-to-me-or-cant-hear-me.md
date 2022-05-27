@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: 21a452d1c76e4eff1ad6413d0765473810c89e12
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 2342a2420df41580d7a2c5cc79fb185801567ea9
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63132257"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65728106"
 ---
 # <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana spricht nicht mit mir oder kann mich nicht hören
 

@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: c03062fbafedb92c8b53826414f8272d5e0ad5c6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 9e38e844b44234a5bed970eb79002afe10b2415d
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63268505"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65728142"
 ---
 # <a name="test-your-communication-compliance-policy"></a>Testen Ihrer Kommunikationscompliancerichtlinie
 
-Dieser Schritt ist optional. Nachdem Sie eine Richtlinie zur Kommunikationscompliance erstellt haben, sollten Sie diese testen, um sicherzustellen, dass die von Ihnen definierten Bedingungen von der Richtlinie ordnungsgemäß durchgesetzt werden.
+Dieser Schritt ist optional. Nachdem Sie eine Kommunikationscompliancerichtlinie erstellt haben, empfiehlt es sich, sie zu testen, um sicherzustellen, dass die von Ihnen definierten Bedingungen von der Richtlinie ordnungsgemäß erzwungen werden.
 
-Sie können auch [Ihre Richtlinien zur Verhinderung von Datenverlust (Data Loss Prevention, DLP) testen](https://go.microsoft.com/fwlink/?linkid=2110890) , wenn Ihre Richtlinien zur Kommunikationscompliance vertrauliche Informationstypen enthalten.
+Möglicherweise möchten Sie auch [Ihre Richtlinien zur Verhinderung von Datenverlust testen](https://go.microsoft.com/fwlink/?linkid=2110890) , wenn Ihre Richtlinien zur Kommunikationscompliance vertrauliche Informationstypen enthalten.
 
-Weitere Informationen hierzu finden Sie unter ["Testen Ihrer Kommunikationscompliancerichtlinie"](https://go.microsoft.com/fwlink/?linkid=2111304).
+Informationen dazu finden Sie unter ["Testen Ihrer Kommunikationscompliancerichtlinie](https://go.microsoft.com/fwlink/?linkid=2111304)".

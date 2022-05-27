@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4554"
-ms.openlocfilehash: e2791d38d3d4acc48785462b4aa787c9cb204fd4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 64b55fd881774e7df4f075834bb8c8f73a106c77
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63086482"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65726884"
 ---
 # <a name="port-order-request"></a>Port-Order-Anfrage
 

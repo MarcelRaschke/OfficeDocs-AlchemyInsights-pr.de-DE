@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "13711"
 - "9008580"
-ms.openlocfilehash: 516a6efac1c1587321c5d4f5dbd953451fb851df
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 19e4e08857e9e368020976b4a22351836cf08cd6
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63184604"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65727845"
 ---
 # <a name="mailbox-receiving-limit-enforcement"></a>Durchsetzung des Postfach-Empfangslimit
 
@@ -31,7 +31,7 @@ Darüber hinaus wird der Grenzwert für Absender-Empfänger-Paare (AEP) angewend
 - Absender an diese Postfächer erhalten einen Unzustellbarkeitsbericht (5.2.121 oder 5.2.122), der angibt, dass das Postfach den maximalen Zustellungsschwellenwert überschritten hat. Interne Mandanten Nachrichten(E-Mails innerhalb desselben Mandanten) werden weiterhin zugestellt.
 - Wenn der AEP-Grenzwert angewendet wird, nimmt das empfangende Postfach weiterhin Nachrichten von anderen Absendern an.
 
-Administratoren können die aktuelle Postfachaktivität überwachen, indem sie auf einen neuen Bericht und Einblick in das Exchange Admin Center namens „Postfächer die die Empfangsgrenzen überschreiten“ zugreifen. Der Einblick wird nur angezeigt, wenn ein Mandant anstößige Postfächer hat, während der Bericht immer im Dashboard angezeigt wird, aber leer ist, es sei denn, ein Mandant hat ein anstößiges Postfach.
+Administratoren können die aktuelle Postfachaktivität überwachen, indem sie auf einen neuen Bericht und Einblick in das Exchange Admin Center namens "Postfächer die die Empfangsgrenzen überschreiten" zugreifen. Der Einblick wird nur angezeigt, wenn ein Mandant anstößige Postfächer hat, während der Bericht immer im Dashboard angezeigt wird, aber leer ist, es sei denn, ein Mandant hat ein anstößiges Postfach.
 
 Weitere Informationen über den Einblick auf überschrittene Empfangslimits, finden Sie unter [Einblicke, im neuen EAC, auf Postfächer die die Empfangslimits überschritten haben](https://docs.microsoft.com/exchange/monitoring/mail-flow-insights/mailboxes-exceeding-receiving-limits-insights).
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9290"
 - "9005423"
-ms.openlocfilehash: 77316f433050b2e8c31a42725754b12fe1876cae
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: b490e53bb4b5075749b32c5fe9a6fd9ae928255b
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63237363"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65727926"
 ---
 # <a name="get-started-with-microsoft-search"></a>Erste Schritte mit Microsoft Search
 

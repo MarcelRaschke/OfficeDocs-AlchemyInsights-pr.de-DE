@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 0d26c6221ae9d0ff050425bc94df939f0338e875
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 1ecfd50b00fe53066476d72aac5bf2801bd2002f
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63193748"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65727136"
 ---
 # <a name="edu-verification"></a>EDU-Überprüfung
 

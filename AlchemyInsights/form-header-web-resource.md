@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1929"
 - "9000308"
-ms.openlocfilehash: aa55e76a567cc89a7d7e3c2e0b5856ef0e66523f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 12b7d497c48f9ccc2f1d13b657b6a6afbe1b9455
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63237867"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65726992"
 ---
 # <a name="form-header---web-resource"></a>Formularkopf – Webressource
 

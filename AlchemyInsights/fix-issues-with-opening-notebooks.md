@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002359"
 - "4718"
-ms.openlocfilehash: 30bed6b7cf1e3536050d4ee53cc82d5963a3e8c4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: aeb8b0df083e4efdaf216210e10dddf11a058929
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63247337"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65727028"
 ---
 # <a name="fix-issues-with-opening-notebooks"></a>Beheben von Problemen beim Öffnen von Notizbüchern
 

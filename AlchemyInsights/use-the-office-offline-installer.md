@@ -1,5 +1,5 @@
 ---
-title: Verwenden des Office-Offlineinstallationsprogramms
+title: Verwenden des Office Offlineinstallationsprogramms
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 14219b7115a78780e4d1b6966033058c18febf5c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: fca50be6fa4723c4436a43579ea0e80159547f1e
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63220065"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65727461"
 ---
-# <a name="use-the-office-offline-installer"></a>Verwenden des Office-Offlineinstallationsprogramms
+# <a name="use-the-office-offline-installer"></a>Verwenden des Office Offlineinstallationsprogramms
 
-Sie müssen mit dem Internet verbunden sein, um die Installationsdateien herunterladen zu können. Sobald dies abgeschlossen ist, können Sie Office nach Belieben auf einem PC mithilfe des Office-Bereitstellungstools (ODT) installieren.
+Sie müssen mit dem Internet verbunden sein, um die Installationsdateien herunterzuladen. Sobald dies jedoch abgeschlossen ist, können Sie Office offline auf einem PC installieren, indem Sie das Office-Bereitstellungstool (ODT) verwenden.
 
-Das ODT wurde für Unternehmensumgebungen entwickelt und wird über die Befehlszeile ausgeführt, sodass die Schritte komplizierter sind – sie funktionieren jedoch weiterhin für die Installation auf einem einzelnen Gerät. Weitere Informationen finden [Sie unter Verwenden des Office-Offlineinstallationsprogramms](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+Das ODT ist für Unternehmensumgebungen konzipiert und wird über die Befehlszeile ausgeführt. Daher sind die Schritte komplizierter– sie funktionieren jedoch weiterhin für die Installation auf einem einzelnen Gerät. Siehe [Verwenden des Office Offlineinstallationsprogramms](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
   

@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.date: 08/10/2021
-ms.openlocfilehash: 147db420744656b88e8792ac17641cb0d05c3f1f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 05/24/2022
+ms.openlocfilehash: a145c179e3c6a2fcbc6e46ce235c0cdb47a4cee6
+ms.sourcegitcommit: f1deffe3c72510f188df6c8bc611093fb3888cf0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63181177"
+ms.lasthandoff: 05/25/2022
+ms.locfileid: "65671381"
 ---
 # <a name="payment-faq"></a>Häufig gestellte Fragen – Zahlung
 
@@ -34,6 +34,6 @@ Verwalten von Zahlungen im **Microsoft 365 Admin Center**.
 
     **Wichtig**: Nachdem Sie Ihre Zahlungsmethode aktualisiert haben, kann es sein, dass Sie immer noch überfällige oder abgelehnte Zahlungsmitteilungen erhalten, wenn Sie die Zahlungsmethode nicht mit Ihrem Abonnement verknüpft haben. Sie können die Zahlungsmethode für ein einzelnes oder mehrere Abonnements ändern. Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-- **Zahlungs- und Abrechnungshäufigkeit** – Die Rechnungen werden monatlich oder jährlich erstellt, je nach der an der Kasse gewählten Abrechnungshäufigkeit. Dies kann jederzeit geändert werden. Weitere Informationen finden Sie unter [Ändern Ihrer Abrechnungshäufigkeit](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+- **Zahlungs- und Abrechnungshäufigkeit**: Rechnungen werden abhängig von der gewählten Abrechnungshäufigkeit generiert. Dies kann jederzeit geändert werden. Weitere Informationen finden Sie unter [Ändern Ihrer Abrechnungshäufigkeit](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 
 Einen umfassenden Leitfaden zur Bezahlung Ihres Abonnements finden Sie unter [Bezahlung Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).

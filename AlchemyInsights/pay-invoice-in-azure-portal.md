@@ -1,5 +1,5 @@
 ---
-title: Bezahlen der Rechnung im Azure-Portal – empfohlene Schritte
+title: Rechnung in Azure-Portal bezahlen – empfohlene Schritte
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 438da23d1770cb0ccf7a9d070690a8bf1eb3f54c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: ec46cf1a9425c777ee7eefceeefd60e475767fed
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63262961"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65727737"
 ---
-# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Bezahlen der Rechnung im Azure-Portal – empfohlene Schritte
+# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Rechnung in Azure-Portal bezahlen – empfohlene Schritte
 
-Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten ihr Problem selbst beheben, nachdem sie unserer Dokumentation folgten.
+Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten ihr Problem nach dem Folgen unserer Dokumentation selbst beheben.
 
-Sie müssen der Rechnungskontoadministrator sein, um Rechnungen im Azure-Portal zu bezahlen. Der Abrechnungskontoadministrator ist der Benutzer, der sich ursprünglich für das Microsoft-Kundenvereinbarungskonto angemeldet hat. 
+Sie müssen der Rechnungskontoadministrator sein, um Rechnungen im Azure-Portal bezahlen zu können. Der Rechnungskontoadministrator ist der Benutzer, der sich ursprünglich für das Microsoft-Kundenvereinbarung-Konto registriert hat. 
 
 So bezahlen Sie Ihre Rechnung im Azure-Portal: 
 
 1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) an.
 1. Suchen nach **Kostenverwaltung + Abrechnung**.
 1. Klicken Sie im linken Bereich unter **"Abrechnung**" auf **"Rechnungen"**.
-1. Wenn eine Ihrer Rechnungen fällig oder überfällig ist, wird ein blauer Link " **Jetzt bezahlen"** für diese Rechnung angezeigt. Klicken Sie **auf "Jetzt bezahlen**".
-1. Klicken Sie im neuen Blatt auf **"Zahlungsmethode auswählen** ", um eine vorhandene Kreditkarte auszuwählen oder eine neue hinzuzufügen.
+1. Wenn eine Ihrer Rechnungen fällig oder überfällig ist, wird ein blauer Link " **Jetzt bezahlen** " für diese Rechnung angezeigt. Klicken Sie **auf "Jetzt bezahlen"**.
+1. Klicken Sie auf dem neuen Blatt auf " **Zahlungsmethode auswählen** ", um eine vorhandene Kreditkarte auszuwählen oder eine neue hinzuzufügen.
 1. Sobald die Zahlungsmethode ausgewählt ist, klicken Sie auf **"Jetzt bezahlen**".
-Der Status der Rechnung wird aktualisiert, um auf dem Blatt "Rechnungen" bezahlt zu werden.
+Der Status der Rechnung wird auf dem Blatt "Rechnungen" aktualisiert.
 
 **Empfohlene Dokumente**
 
