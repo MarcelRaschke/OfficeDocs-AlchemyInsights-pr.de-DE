@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge-Unterstützung für Microsoft Defender Application Guard
+title: Microsoft Edge unterstützung für Microsoft Defender Application Guard
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 065b718bd13053db3fd9090f24db1110cd19000d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: db13cc556c4589abaddd4a01a5acf504f2149d8b
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63255401"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65721945"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge-Unterstützung für Microsoft Defender Application Guard
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge unterstützung für Microsoft Defender Application Guard
 
 Microsoft Defender for Identity bietet einen zentralen Ort, an dem Administratoren lokale Identitätsbedrohungen identifizieren, erkennen und untersuchen können. 
 
-Verwenden Sie das [Setuphandbuch für Microsoft Defender for Identity](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) , um zu überprüfen, ob alle Umgebungsvoraussetzungen erfüllt sind. erstellen Sie eine Instanz, stellen Sie eine Verbindung mit Active Directory her, und installieren Sie Ihren Sensor. 
+Verwenden Sie die [Microsoft Defender for Identity Setuphandbuch](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide), um zu überprüfen, ob Sie alle Umgebungsvoraussetzungen erfüllt haben. Erstellen Sie eine Instanz, stellen Sie eine Verbindung mit Active Directory her, und installieren Sie Ihren Sensor. 
 
-Wenn Sie fertig sind, werden die Identitäten der Benutzer überwacht, und es können sofortige Maßnahmen gegen jede böswillige Aktivität ergriffen werden, die Ihre Organisation gefährdet.
+Wenn Sie fertig sind, werden die Identitäten der Benutzer überwacht, und es können sofort Maßnahmen gegen böswillige Aktivitäten ergriffen werden, die Ihre Organisation gefährden.

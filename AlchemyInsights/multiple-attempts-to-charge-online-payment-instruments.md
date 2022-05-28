@@ -14,18 +14,18 @@ ms.custom:
 - "1500018"
 - "445"
 ms.date: 04/21/2020
-ms.openlocfilehash: 20d1da5f090270c910112717f77a24b7e6665cf3
-ms.sourcegitcommit: 67136d41a943c82d8f8bda3b1e609e0b77a955e8
+ms.openlocfilehash: 50de47a913d5f6a91292e8b19cd637d5609c3a4c
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2022
-ms.locfileid: "65374818"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65721909"
 ---
 # <a name="past-due-account"></a>Überfälliges Konto?
 
 Eine Zahlung kann aus mehreren Gründen abgelehnt werden, auch wenn die Kreditkarte abgelaufen ist. Sie können jederzeit die Funktion **Saldo ausgleichen** verwenden, um Ihre Kreditkarteninformationen zu ändern und die Zahlung sofort zu senden.
 
-1. Wechseln Sie im Admin Center zu **[BillingYour-Produkten](https://go.microsoft.com/fwlink/p/?linkid=842054)** > .
+1. Wechseln Sie im Admin Center zu **"Abrechnung** > **[Ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**".
 Suchen Sie das Abonnement mit dem ausstehenden Saldo. Wählen Sie im Abschnitt **"Abrechnung** " neben **"Abonnement hat eine überfällige Zahlung**" die Option " **Saldo ausgleichen** " aus, um den gesamten ausstehenden Saldo zu bezahlen.
 2. Wenn Sie die Kreditkarte besitzen, können Sie das Ablaufdatum ändern, eine andere Karte auswählen oder [eine neue Karte hinzufügen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 3. Wenn Sie nicht der Besitzer der Kreditkarte sind, können Sie eine andere Kreditkarte auswählen oder [eine neue Karte hinzufügen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

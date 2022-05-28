@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002495"
 - "5112"
-ms.openlocfilehash: d8c08cce2699b4bf4ccd77a93b1cf8fd0d1a0fdd
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 542bb97e311b9ea697e420764360bcf962b3bc40
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63283913"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65721981"
 ---
 # <a name="live-events-in-yammer-creation-errors"></a>Probleme beim Erstellen von Live-Ereignissen in Yammer
 
