@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003565"
 - "6665"
-ms.openlocfilehash: 907c96f6098493ea195783cc6a6a1452b99d9bc8
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: a14e1574f7e35ccb24e677c9c140089f3e629ac0
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65593588"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65731242"
 ---
 # <a name="see-more-participants-in-a-large-meeting"></a>Mehr Teilnehmer in einer großen Besprechung sehen
 
-Wenn Sie zur Vorschau-Version von Teams wechseln, können Sie bis zu 49 Video-Streams auf einmal sehen.
+Wenn Sie zur Vorschauversion von Teams wechseln, können Sie bis zu 49 Videostreams auf einmal sehen.
 
 Einzelheiten finden Sie unter [Vorschau auf neue Features für Besprechungen](https://support.microsoft.com/office/what-s-new-in-microsoft-teams-d7092a6d-c896-424c-b362-a472d5f105de).
