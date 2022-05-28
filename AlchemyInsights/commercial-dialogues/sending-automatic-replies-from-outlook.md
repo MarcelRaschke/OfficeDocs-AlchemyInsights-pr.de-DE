@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 0086e766b117bb201e41959cdac4fff02b441f33
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: b2328d1ff88458d183bc5770caa66582ff04c439
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63278513"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65731890"
 ---
 # <a name="sending-automatic-replies-from-outlook"></a>Senden automatischer Antworten von Outlook
 
-- Es gibt zwei Möglichkeiten, automatische Abwesenheitsantworten zu senden, je nach Typ des E-Mail-Kontos, das Sie haben.
-- Klicken Sie auf **"Datei**", und wählen Sie "**Automatische Antworten"** basierend auf Ihrer Version von Outlook aus.
+- Je nach Typ ihres E-Mail-Kontos gibt es zwei Möglichkeiten, automatische Abwesenheitsantworten zu senden.
+- Klicken Sie auf **"Datei"**, und wählen Sie dann basierend auf Ihrer Version von Outlook "**Automatische Antworten**" aus.

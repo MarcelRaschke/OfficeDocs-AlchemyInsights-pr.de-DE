@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12068"
 - "9007192"
-ms.openlocfilehash: 3548146e714244e4408f6f8ea7e29d6315027e92
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: e24ae7f83507bf0cbf616aa6b1f64ddd47cb2441
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63280421"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65732792"
 ---
 # <a name="windows-11-frequently-asked-questions-faq"></a>Häufig gestellte Fragen (FAQ) zu Windows 11
 
@@ -52,7 +52,7 @@ Die meisten derzeit verkauften Windows 10-PCs können auf Windows 11 aktualisier
 
 **Woher weiß ich, ob ein neuer Windows 10-PC die Mindestanforderungen erfüllt?**
 
-Es gibt einige Möglichkeiten, dies herauszufinden. Wenn Sie gerade einen neuen PC kaufen, suchen Sie nach "Kostenloses Upgrade auf Windows 11" auf dem Faktentag. Sie können auch Ihren Einzelhandelsverkäufer bitten, dies zu bestätigen.
+Es gibt einige Möglichkeiten, dies herauszufinden. Wenn Sie gerade einen neuen PC kaufen, suchen Sie auf dem Preisschild nach „Kostenloses Upgrade auf Windows 11“. Sie können auch Ihren Einzelhandelsverkäufer um dessen Bestätigung bitten.
 
 
 **Wann kann ich auf meinem Windows 10-Gerät ein Upgrade auf Windows 11 durchführen?**
@@ -70,7 +70,7 @@ Informationen zu den Mindesthardwareanforderungen finden Sie unter [Suchen von W
 Wenn Sie überprüfen möchten, ob Ihr aktueller PC die Mindestanforderungen erfüllt, [laden Sie die PC-Integritätsprüfungs-App herunter und führen Sie diese aus](https://aka.ms/GetPCHealthCheckApp).
 
 
-**Was geschieht, wenn mein PC die Mindesthardwarespezifikationen nicht erfüllt? Kann er auf Windows 10 bleiben?**
+**Was geschieht, wenn mein PC die Mindesthardwarespezifikationen nicht erfüllt? Kann ich auf Windows 10 bleiben?**
 
 Ja! Windows 10 ist weiterhin eine großartige Windows-Version. Wir haben uns verpflichtet, Windows 10 bis zum 14. Oktober 2025 zu unterstützen.
 
@@ -121,10 +121,10 @@ Ja. Nachdem Sie das Windows 11-Upgrade installiert haben, gibt es einen Zeitraum
 
 **Wie lange dauert die Installation von Windows 11?**
 
-Das Herunterladen und Installieren von Windows 11 dauert höchstwahrscheinlich länger als ein typisches Windows 10 Featureupdate. Sie können Ihren PC verwenden, während Sie Windows 11 herunterladen, und dann haben Sie die Möglichkeit, die Installation für einen bestimmten Zeitpunkt zu planen, wenn Sie Ihren PC nicht verwenden möchten.
+Das Herunterladen und Installieren von Windows 11 dauert höchstwahrscheinlich länger als ein typisches Windows 10 Featureupdate. Sie können Ihren PC verwenden, während Sie Windows 11 herunterladen, und haben dann die Möglichkeit, die Installation für einen bestimmten Zeitpunkt zu planen, an dem Sie Ihren PC nicht verwenden möchten.
 
 
-**Kann ich meinen Windows 10-PC auf Windows 11 aktualisieren, wenn dieser im S-Modus ausgeführt wird?**
+**Kann ich meinen Windows 10-PC auf Windows 11 aktualisieren, wenn ich den S-Modus verwende?**
 
 Wenn Ihr PC die [Mindesthardwarespezifikationen](https://www.microsoft.com/windows/windows-11-specifications) erfüllt, kann die Windows 10 Home Edition im S-Modus ein Upgrade auf die Windows 11 Home Edition im S-Modus durchführen. Wenn auf Ihrem Windows 10 PC die Pro-Edition im S Modus ausgeführt wird, müssen Sie aus dem S Modus wechseln, um ein Upgrade auf Windows 11 Pro durchzuführen. Die Windows 11 Pro-Edition ist im S-Modus nicht verfügbar.
 

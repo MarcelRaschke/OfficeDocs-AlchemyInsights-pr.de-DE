@@ -13,19 +13,19 @@ ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
 ms.custom:
 - "118"
 - "1600016"
-ms.openlocfilehash: 0d8ee32ed86cfd1ac76b55d95b258516966fed0f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 3b9ab862713da2faf90e09dba5d24241dc967fc0
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63212263"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65733116"
 ---
 # <a name="service-incident-in-progress"></a>Dienstvorfall wird ausgeführt
 
-Möglicherweise sind Sie von einem Dienstvorfall oder einer Empfehlung betroffen, die derzeit untersucht wird. Sie können den aktuellen Status überprüfen, indem Sie zur Seite " [Dienststatus](https://admin.microsoft.com/adminportal/home#/servicehealth) " wechseln.
+Möglicherweise sind Sie von einem Dienstvorfall oder einer Beratung betroffen, die derzeit untersucht wird. Sie können den aktuellen Status überprüfen, indem Sie zur Seite " [Dienststatus](https://admin.microsoft.com/adminportal/home#/servicehealth) " wechseln.
   
-Aus Gründen der Einfachheit finden Sie unten eine Zusammenfassung dieses Vorfalls:
+Der Einfachheit halber finden Sie unten eine Zusammenfassung dieses Vorfalls:
   
 > **Vorfallnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
 
-> Beschreibung der Auswirkung: {ImpactDescription}
+> Beschreibung der Auswirkungen: {ImpactDescription}

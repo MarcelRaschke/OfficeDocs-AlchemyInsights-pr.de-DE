@@ -1,5 +1,5 @@
 ---
-title: Aktualisieren der PO-Nummer – Legacy-EA – empfohlene Schritte
+title: Auftragsnummer aktualisieren – Legacy EA – empfohlene Schritte
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,31 +13,31 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7322"
-ms.openlocfilehash: ce7e68eae047d7f31fe1e7783ccbcafa373a884e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d8d7327f6fca8817f984de0713485fa1cd49c299
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63259793"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65732106"
 ---
-# <a name="update-purchase-order-number---legacy-ea---recommended-steps"></a>Aktualisieren der Bestellnummer - Legacy-EA – empfohlene Schritte
+# <a name="update-purchase-order-number---legacy-ea---recommended-steps"></a>Bestellnummer aktualisieren - Legacy EA - empfohlene Schritte
 
-Änderungen an der Auftragsnummer werden auf der nächsten Rechnung wirksam. Um die Bestellnummer einer bereits generierten Rechnung zu ändern, öffnen Sie ein Supportticket. 
+Änderungen an der Auftragsnummer werden auf der nächsten Rechnung wirksam. Um die Auftragsnummer auf einer bereits generierten Rechnung zu ändern, öffnen Sie ein Supportticket. 
 
-Das Azure EA-Portal generiert automatisch eine Standard-Po-Nummer, es sei denn, der EA-Administrator legt eine vor dem Rechnungsdatum fest. Als EA-Administrator (direkte Registrierung) / Partneradministrator (indirekte Registrierung) können Sie die Po-Nummer im Azure EA-Portal aktualisieren. So aktualisieren Sie die Po-Nummer:
+Das Azure EA-Portal generiert automatisch eine Standard-Auftragsnummer, es sei denn, der EA-Administrator legt eine vor dem Rechnungsdatum fest. Als EA-Administrator (direkte Registrierung) / Partneradministrator (indirekte Registrierung) können Sie die Auftragsnummer im Azure EA-Portal aktualisieren. So aktualisieren Sie die Auftragsnummer:
 
 1. Melden Sie sich beim EA-Portal an.
 2. Klicken Sie auf der linken Seite auf **"Berichte** ".
 3. Klicken Sie oben auf der Seite auf " **Nutzungszusammenfassung** ".
 4. Wählen Sie den relevanten Zeitraum aus der Dropdownliste aus.
-5. Klicken Sie auf **"Anzeigen/Bearbeiten von PO-Nummern"**.
-6. Geben Sie die neue Po-Nummer ein, und klicken Sie auf **"Speichern**".
+5. Klicken Sie auf **"Auftragsnummern anzeigen/bearbeiten"**.
+6. Geben Sie die neue Auftragsnummer ein, und klicken Sie auf **"Speichern"**.
 
-Sie können die Po-Nummer jederzeit vor dem Generieren der Rechnung für den aktuellen Abrechnungszeitraum und bis zu sieben Tage nach Erhalt der automatisierten Rechnungsbenachrichtigungs-E-Mail aktualisieren. 
+Sie können die Auftragsnummer jederzeit aktualisieren, bevor die Rechnung für den aktuellen Abrechnungszeitraum generiert wird, und bis zu sieben Tage nach Erhalt der automatisierten Rechnungsbenachrichtigungs-E-Mail.You can update the PO number at any time prior to the invoice being generated for the current billing period, and up to seven days after receiving the automated invoice notification email. 
 
 **Empfohlene Dokumente**
 
 - [Azure Enterprise-Registrierungsrechnungen](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices) 
 - [Grundlegendes zu Ihrer Azure Enterprise Agreement-Rechnung](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill)  
-- [Grundlegendes zu Azure Enterprise Rollen](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles#add-a-new-enterprise-administrator) 
-- [Erstellen eines anderen Unternehmensadministrators (EA-Administrator)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator)
+- [Grundlegendes zu Azure Enterprise-Rollen](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles#add-a-new-enterprise-administrator) 
+- [Erstellen eines anderen Unternehmensadministrators (EA Admin)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator)

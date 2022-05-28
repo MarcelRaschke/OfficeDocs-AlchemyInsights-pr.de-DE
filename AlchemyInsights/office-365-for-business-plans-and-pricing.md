@@ -14,12 +14,12 @@ ms.custom:
 - "1500026"
 - "475"
 ms.date: 04/21/2020
-ms.openlocfilehash: 36e47251ce32a6edf31cb4a4a3a182051f91f691
-ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
+ms.openlocfilehash: 5d190650c613702c9e86682dca46ad115389b92b
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64711942"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65733404"
 ---
 # <a name="compare-microsoft-365-for-business"></a>Vergleichen von Microsoft 365 für Unternehmen
 

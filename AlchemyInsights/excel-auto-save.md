@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 37df2d4fc017d54926b953da2bedd35e1142be8b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 8ac09c78c46f31cce52e53ce820cb1176743fa0e
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63193352"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65732684"
 ---
 # <a name="what-is-autosave"></a>Was ist AutoSpeichern?
 
-AutoSpeichern ist ein Feature, das in Excel, Word und PowerPoint for Microsoft 365 Abonnenten verfügbar ist, mit dem Ihre Datei während der Arbeit alle paar Sekunden automatisch gespeichert wird. 
+AutoSpeichern ist ein Feature, das in Excel, Word und PowerPoint for Microsoft 365 Abonnenten verfügbar ist, mit dem Ihre Datei bei der Arbeit alle paar Sekunden automatisch gespeichert wird. 
 
 Häufig gestellte Fragen finden Sie unter [Was ist AutoSpeichern?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)

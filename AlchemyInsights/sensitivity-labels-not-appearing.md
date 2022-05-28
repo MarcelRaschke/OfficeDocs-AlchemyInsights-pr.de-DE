@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: eb161cc7525e18c7731c44e98cf4adc092deab10
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: aca6ea19ade4a7741f34bc2ab84e73826323d8a8
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65588043"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65732323"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Vertraulichkeitsbezeichnungen werden nicht angezeigt
 
@@ -31,7 +31,7 @@ Wenn Sie Ihre Vertraulichkeitsbezeichnungen konfiguriert haben, diese aber nicht
 
 - Wenn Sie [Azure Information Protection Bezeichnungen migrieren](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), beachten Sie die [hier](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels) aufgeführten Überlegungen.
 
-- Unterstützung der Verhinderung von Datenverlust (Data Loss Prevention, DLP): Derzeit können nur Aufbewahrungsbezeichnungen als Bedingung in DLP-Richtlinien verwendet werden.  Unterstützung für Vertraulichkeitsbezeichnungen in einer DLP-Richtlinie ist noch nicht verfügbar, aber wir arbeiten daran.
+- Microsoft Purview Data Loss Prevention Unterstützung: Derzeit können nur Aufbewahrungsbezeichnungen als Bedingung in DLP-Richtlinien verwendet werden.  Unterstützung für Vertraulichkeitsbezeichnungen in einer DLP-Richtlinie ist noch nicht verfügbar, aber wir arbeiten daran.
 
 - Wenn die Verschlüsselung für eine Vertraulichkeitsbezeichnung aktiviert ist, können Sie eine der folgenden Optionen auswählen:
     - Berechtigungen sofort zuweisen

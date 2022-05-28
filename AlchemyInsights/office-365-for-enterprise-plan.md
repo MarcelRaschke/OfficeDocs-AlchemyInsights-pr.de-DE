@@ -1,5 +1,5 @@
 ---
-title: Office 365 Enterprise-Plan
+title: Office 365 für Enterprise Plan
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -16,13 +16,13 @@ ms.custom:
 - "1500026"
 ms.date: 07/30/2021
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 30a7ea587774b296abb6e38f39bfbdee019d7b64
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 73626dbca8d098109e8df2c32bd35d6e7ecbb039
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63272717"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65733368"
 ---
-# <a name="office-365-for-enterprise-plan"></a>Office 365 Enterprise-Plan
+# <a name="office-365-for-enterprise-plan"></a>Office 365 für Enterprise Plan
 
-Für Office 365 Enterprise stehen mehrere unterschiedliche Pläne zur Verfügung. [Vergleichen Von Office 365 Enterprise-Plänen und -Preisen](https://products.office.com/business/compare-more-office-365-for-business-plans).  
+Für Enterprise stehen verschiedene Pläne mit Office 365 zur Verfügung. [Vergleichen Sie Office 365 für Enterprise Pläne und Preise](https://products.office.com/business/compare-more-office-365-for-business-plans).  

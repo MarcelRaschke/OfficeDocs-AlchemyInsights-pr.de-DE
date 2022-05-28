@@ -1,5 +1,5 @@
 ---
-title: Anzeigen aller isolierten Nachrichten
+title: Anzeigen aller in Quarantäne befindlichen Nachrichten
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 6fa29a21cf14a5b61a70922727ec14ef0f81c126
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 9cb47111bbb5313026ef751a5e5145d5fb834dfe
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63147342"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65732756"
 ---
-# <a name="view-all-quarantined-messages"></a>Anzeigen aller isolierten Nachrichten
+# <a name="view-all-quarantined-messages"></a>Anzeigen aller in Quarantäne befindlichen Nachrichten
 
-1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com>"**E-Mail &** Zusammenarbeitsüberprüfungsquarantäne \>  \> **"**.
+1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com>"**E-Mail &** **Zusammenarbeitsüberprüfungsquarantäne**\>**"**\>.
 
    Um direkt zur **Quarantäne**-Seite zu gelangen, verwenden Sie <https://security.microsoft.com/quarantine>.
 
-2. Überprüfen Sie auf der **Quarantäneseite** , ob die **Registerkarte "E-Mail"** ausgewählt ist.
-3. Standardmäßig werden Nachrichten vom neuesten zum ältesten basierend auf dem Datum sortiert, an dem die Nachricht empfangen wurde. Sie können nach einem Feld sortieren, indem Sie auf eine Kopfzeile klicken.
-4. Sie können nur Massenvorgänge für bis zu 100 Elemente ausführen, sodass die Filterung auch dazu beitragen kann, das Resultset zu reduzieren, wenn Sie mehr als 100 Elemente haben.
+2. Überprüfen Sie auf der Seite **"Quarantäne** ", ob die Registerkarte " **E-Mail** " ausgewählt ist.
+3. Standardmäßig werden Nachrichten basierend auf dem Datum, an dem die Nachricht empfangen wurde, vom neuesten zum ältesten sortiert. Sie können nach einem Feld sortieren, indem Sie auf eine Kopfzeile klicken.
+4. Sie können Massenvorgänge nur für bis zu 100 Elemente ausführen, sodass das Filtern auch dazu beitragen kann, das Resultset zu reduzieren, wenn Sie über mehr als 100 Elemente verfügen.
 
 Weitere Informationen finden Sie in den folgenden Artikeln:
 

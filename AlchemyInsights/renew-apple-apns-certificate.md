@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3542"
-ms.openlocfilehash: eba20f0ea08b993a68798d0a037240554e3dabb1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 1ecb543429ec3239919b4cac59403f17d25ce451
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63245177"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65733224"
 ---
 # <a name="renew-apple-apns-certificate"></a>Verlängern des Apple APNS-Zertifikats
 

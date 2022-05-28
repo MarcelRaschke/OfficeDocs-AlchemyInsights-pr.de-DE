@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: edb9aae20a50b78a3e95b850efd29c3a77622173
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: ff60333460a1a493454252c151647a1f3781497e
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63222045"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65732359"
 ---
 # <a name="search-and-hybrid"></a>Suche und Hybrid
 
-- Benötigen Sie Informationen zur Hybrid- und Verbundsuche in SharePoint Online? Wenn ja, lesen Sie [diesen Artikel](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+- Benötigen Sie Informationen zur Hybrid- und Sammelsuche in SharePoint Online? Wenn ja, lesen Sie [diesen Artikel](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
 - Benötigen Sie Informationen zur Planung einer Hybridsammelsuche?  Wenn ja, lesen Sie [diesen Artikel](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
 

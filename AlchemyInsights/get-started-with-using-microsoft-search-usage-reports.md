@@ -1,5 +1,5 @@
 ---
-title: Erste Schritte mit der Verwendung von Microsoft Search Nutzungsberichten
+title: Erste Schritte mithilfe von Microsoft Search-Verwendungsberichten
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9259"
-ms.openlocfilehash: d6448c68d80c1973ce0d83b655a3a96968d69f10
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 71641147fff350df97ea1ce2e3c770c192d80fa9
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63276209"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65731602"
 ---
-# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Erste Schritte mit der Verwendung von Microsoft Search Nutzungsberichten
+# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Erste Schritte mithilfe von Microsoft Search-Verwendungsberichten
 
-Microsoft Search Nutzungsberichte bieten Einblicke in die Funktionsweise der Suche in Ihrer Organisation. Diese Erkenntnisse helfen Ihnen, Inhalte zu finden und die Suche für Benutzer in Ihren Organisationen nützlicher und ansprechender zu gestalten.
+Microsoft Search Nutzungsberichte bieten Einblicke in die Funktionsweise der Suche in Ihrer Organisation. Diese Erkenntnisse helfen Ihnen, Inhalte zu finden und die Suche für Benutzer in Ihrer Organisation nützlicher und ansprechender zu gestalten.
 
-Weitere Informationen finden Sie unter [Microsoft Search Nutzungsberichte](https://go.microsoft.com/fwlink/?linkid=2152048).
+Weitere Informationen finden Sie [unter Microsoft Search Verwendungsberichte](https://go.microsoft.com/fwlink/?linkid=2152048).
