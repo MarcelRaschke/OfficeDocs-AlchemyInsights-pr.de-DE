@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1283"
 - "6700008"
-ms.openlocfilehash: e014a4f9c6e7da9ac29f5afe47e81c2cbfaaa8b3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4f29ebef4ad7d8c4f93b06a9f415da17dbdf8c81
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63089974"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65723774"
 ---
 # <a name="locating-lost-ios-devices-with-intune"></a>Auffinden verlorener iOS-Geräte mit Intune
 
@@ -37,14 +37,14 @@ Weitere Informationen hierzu finden Sie unter [Aktivieren des Modus für verlore
 
 **Häufig gestellte Fragen**
 
-F: Ich habe eine Remoteaktion zum Entfernen von Unternehmensdaten von einem Gerät gesendet, und jetzt ist das Gerät im Zustand „Ausstehend“ hängen geblieben.
+F: Ich habe eine Remote-Aktion ausgegeben, um Unternehmensdaten von einem Gerät zu entfernen, und jetzt bleibt es in einem ausstehenden Zustand hängen.
 
 A: Damit eine Remoteaktion erfolgreich abgeschlossen werden kann, muss das Zielgerät online und fehlerfrei sein. In den folgenden Situationen bleibt die Remoteaktion 30 Tage lang im Zustand „Ausstehend“ oder bis das Gerät den Befehl bestätigt:
 
 - Wenn das Gerät keine Verbindung hat.
 - Wenn das Gerät seinen Verwaltungsstatus bei Intune verloren hat.
 
-Wenn Sie der Meinung sind, dass das Gerät keinen Check-In mehr vornimmt und dass es nicht mehr in der Lage ist, Unternehmensdaten zu entfernen, wählen Sie „Löschen“ aus. Durch das Löschen wird der Gerätedatensatz entfernt, sodass er nicht mehr in der Liste der Geräte in Intune angezeigt wird. Wenn das Gerät wieder aktiv wird, muss sein Benutzer es erneut registrieren.
+Wenn Sie der Meinung sind, dass ein Gerät nicht mehr eincheckt und keine Unternehmensdaten entfernen kann, wählen Sie Löschen aus. Durch das Löschen wird der Gerätedatensatz entfernt, sodass er nicht mehr in der Liste der Geräte in Intune angezeigt wird. Wenn das Gerät wieder aktiv wird, muss sein Benutzer es erneut registrieren.
 
 F: Warum sind bestimmte Remoteaktionen für mich nicht verfügbar?
 

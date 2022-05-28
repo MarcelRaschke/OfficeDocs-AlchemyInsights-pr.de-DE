@@ -13,12 +13,12 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: ba4e70ee0ef5b548256e4fb3a8d4e57fed82d8de
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c0d6f926167a1d62794acaa800c5dab25e81a52b
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63277901"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65722424"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>DLP-Probleme mit Kreditkartennummern
 
@@ -26,11 +26,11 @@ ms.locfileid: "63277901"
 
 **DLP-Probleme mit Kreditkartennummern**
 
-Haben Sie Probleme mit **der Verhinderung von Datenverlust (Data Loss Prevention, DLP),** die nicht für Inhalte funktionieren, die eine **Kreditkartennummer** enthalten, wenn Sie einen vertraulichen DLP-Informationstyp in O365 verwenden? Wenn ja, stellen Sie sicher, dass Ihre Inhalte die erforderlichen Informationen enthalten, um die DLP-Richtlinie auszulösen, wenn sie ausgewertet wird. For example, for a **Credit Card policy** configured with a confidence level of 85%, the following are evaluated and must be detected for the rule to trigger:
+Haben Sie Probleme mit Microsoft Purview Data Loss Prevention nicht für Inhalte mit einer **Kreditkartennummer** zu arbeiten, wenn Sie einen vertraulichen DLP-Informationstyp in O365 verwenden? Wenn dies der Fall ist, stellen Sie sicher, dass Ihr Inhalt die erforderlichen Informationen enthält, um die DLP-Richtlinie auszulösen, wenn sie ausgewertet wird. Beispielsweise werden für eine **Kreditkartenrichtlinie** , die mit einem Konfidenzniveau von 85 % konfiguriert ist, Folgendes ausgewertet und müssen erkannt werden, damit die Regel ausgelöst wird:
   
-- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 Ziffern, die formatiert oder unformatiert (dddd) formatiert werden können und den Luhn-Test bestehen müssen.
+- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 Ziffern, die formatiert oder unformatiert werden können (dddddddddddd) und den Luhn-Test bestehen müssen.
 
-- **[Muster:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Sehr komplexes und robustes Muster, das Karten von allen wichtigen Marken weltweit erkennt, einschließlich Visa, MasterCard, Discover Card, JCB, American Express, Beschenkungskarten und Dinerkarten.
+- **[Muster:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Sehr komplexes und robustes Muster, das Karten aller wichtigen Marken weltweit erkennt, einschließlich Visa, MasterCard, Discover Card, JCB, American Express, Geschenkkarten und Diner-Karten.
 
 - **[Prüfsumme:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Ja, die Luhn-Prüfsumme
 
@@ -42,17 +42,17 @@ Haben Sie Probleme mit **der Verhinderung von Datenverlust (Data Loss Prevention
 
   - Ein Schlüsselwort aus Keyword_cc_verification wurde gefunden.
 
-  - Ein Schlüsselwort aus Keyword_cc_name gefunden wird
+  - Es wird ein Schlüsselwort aus Keyword_cc_name gefunden.
 
   - Die Funktion Func_expiration_date findet ein Datum im richtigen Datumsformat.
 
-  - Die Prüfsumme besteht
+  - Die Prüfsummendurchläufe
 
-    Das folgende Beispiel würde beispielsweise für eine DLP-Kreditkartennummernrichtlinie ausgelöst:
+    Das folgende Beispiel würde z. B. eine DLP-Kreditkartennummernrichtlinie auslösen:
 
-  - Visa: 4485 3647 3952 7352
+  - Visum: 4485 3647 3952 7352
   
-  - Läuft ab: 2/2009
+  - Läuft ab: 02.02.2009
 
 Weitere Informationen dazu, was erforderlich ist, damit eine **Kreditkartennummer** für Ihre Inhalte erkannt wird, finden Sie im folgenden Abschnitt in diesem Artikel: [Wonach die Typen vertraulicher Informationen nach Kreditkarte suchen#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   

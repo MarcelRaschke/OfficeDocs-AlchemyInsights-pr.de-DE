@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "4559"
-ms.openlocfilehash: bf2d8a7db5bda38062cddc9ecc824da2d23a9a0b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 0b2829ff975c6146aa6844f7c2a9dd596a574ccf
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63213477"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65724170"
 ---
 # <a name="microsoft-teams-phone-license"></a>Lizenz für Microsoft Teams Telefon
 
@@ -25,11 +25,10 @@ Die **Microsoft Teams Telefon-Lizenz** ist ein Add-On für **Microsoft Teams**. 
 
 1. Melden Sie sich beim Microsoft 365 Admin Center an.
 
-2. Wechseln Sie zu **Abrechnung > Dienste kaufen > Add-On-Abonnements**. 
+2. Gehen Sie zu **Abrechnung**\>**Dienste kaufen**\>**Add-On-Abonnements**.
 
 3. Das Microsoft Teams Telefon-Add-On wird angezeigt. Klicken Sie auf **Jetzt kaufen**.
 
 Nachdem Sie eine Microsoft Teams Telefon-Lizenz erworben haben, wird der Preis und die Option zum Kauf eines Plans für Anrufe angezeigt.
 
-**Hinweis**: Es kann 2 bis 24 Stunden dauern, bevor die Änderungen wirksam werden. Weitere Informationen finden Sie unter [Einrichten von Microsoft Teams Telefon in Ihrer Organisation](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system). 
-
+**Hinweis**: Es kann 2 bis 24 Stunden dauern, bevor die Änderungen wirksam werden. Weitere Informationen finden Sie unter [Einrichten von Microsoft Teams Telefon in Ihrer Organisation](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system).

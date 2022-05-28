@@ -3,7 +3,7 @@ title: Einrichten von Microsoft Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 193f1de15683b5e0ef35b6c662c99149dc813aea
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a5f7532aebb9e94f6886228ab70a672a9d6fa640
+ms.sourcegitcommit: d61bf76fd5b9f93beef0acc6a244e40258112b9b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63083854"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "65758548"
 ---
 # <a name="set-up-microsoft-teams"></a>Einrichten von Microsoft Teams
 
-Der [Microsoft Teams-Einrichtungsleitfaden](https://aka.ms/teamsguidance)  bietet Ihrem Unternehmen eine Hilfestellung für die Einrichtung von Team-Arbeitsbereichen, in denen in Echtzeit über Nachrichten, Anrufe, und Audio- oder Video-Besprechungen sowohl im Team als auch privat kommuniziert werden kann. Sie erfahren, wie Sie die Netzwerkanforderungen Ihrer Organisation mit dem Netzwerkplaner-Tool und dem Advisor für Teams im Teams Admin Center bestimmen. Für die Zeit nach der Einrichtung enthält der Leitfaden hilfreiche Ressourcen für die ersten Schritte mit Teams.
+Verwenden Sie den [Microsoft Teams-Einrichtungsleitfaden](https://admin.microsoft.com/AdminPortal/Home?Q=AlchemyBot#/modernonboarding/microsoftteamssetupguide) zum Installieren und Konfigurieren der Features für Ihre geschäftlichen Anforderungen. In diesem Handbuch werden Sie durch die Schritte zum Vorbereiten, Konfigurieren und Installieren geführt, um Benutzern die Zusammenarbeit und das Teilen zu ermöglichen.
 
-Zusätzliche Informationen finden Sie unter [Erste Schritte mit Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
+Themen, die im Einrichtungsleitfaden behandelt werden und zu denen Anleitungen bereitgestellt werden, sind Voraussetzungen, Upgrades, Cloud Voice, Hinzufügen von Teammitgliedern, Bereitstellungsanforderungen, bewährte Methoden für die Vorbereitung Ihrer Umgebung, Netzwerkkonnektivitätstest, Netzwerkplaner, Tätigen von Anrufen, organisationsweite Einstellungen, Admin Center, Benutzereinschränkungen, Erstellen von Gruppen, Schutz von Organisations- und Kundendaten sowie Empfehlungen in verschiedenen anderen Bereichen. 

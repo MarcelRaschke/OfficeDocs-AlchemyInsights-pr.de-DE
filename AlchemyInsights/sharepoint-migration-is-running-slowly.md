@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: b8567089ee15c2405e9b049ba7a2829dc762aaa9
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: bb9bb5f7cb3d94b0723d6bec8e43a668ef02627e
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63157207"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65724062"
 ---
 # <a name="sharepoint-migration-is-running-slowly"></a>SharePoint-Migration wird sehr langsam ausgeführt
 

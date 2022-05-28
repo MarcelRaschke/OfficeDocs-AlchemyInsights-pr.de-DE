@@ -14,12 +14,12 @@ ms.custom:
 - "1500029"
 - "483"
 ms.date: 04/21/2020
-ms.openlocfilehash: 4d7827e631bc74b30ffc39d63598aeba996d7d52
-ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
+ms.openlocfilehash: 5cd824ff5df30074eed398463d923cdfaa38cf8a
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64711798"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65725909"
 ---
 # <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Probleme beim Abschließen eines Kaufs im Microsoft 365 Admin Center
 

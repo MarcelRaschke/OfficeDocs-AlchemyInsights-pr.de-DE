@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002430"
 - "4720"
-ms.openlocfilehash: 1a9c7be27f34fb5ef419b15b94e6f7e4054119aa
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a3c164fe2d76e8b9a38534b43fb679b64b1b3c87
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63160267"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65722244"
 ---
 # <a name="hippa-compliance-and-office-365"></a>HIPPA-Compliance und Office 365
 
-Möchten Sie mehr darüber erfahren, wie Sie die Clouddienste von Microsoft nutzen können, um die Anforderungen des HIPAA an Sicherheit und Datenschutz zu erfüllen?  Fragen zur Verwendungsweise der Microsoft-Compliancebewertung zur Beurteilung Ihres Risikos oder zum Abschluss eines Vertrags für Geschäftspartner (BAA) mit Microsoft?  
+Möchten Sie mehr darüber erfahren, wie Sie die Clouddienste von Microsoft verwenden können, um die HIPAA-Sicherheits- und Datenschutzanforderungen zu erfüllen?  Fragen zur Verwendungsweise der Microsoft-Compliancebewertung zur Beurteilung Ihres Risikos oder zum Abschluss eines Vertrags für Geschäftspartner (BAA) mit Microsoft?  
 
 In den folgenden Ressourcen finden Sie zusätzliche Informationen:
 

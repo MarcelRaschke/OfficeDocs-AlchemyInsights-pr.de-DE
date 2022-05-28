@@ -1,5 +1,5 @@
 ---
-title: Facebook-Codes Outlook.com
+title: Outlook.com Facebook-Codes
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: bea35e2c5e7d84143e0a845ece8e3e48d1498a2a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 237764f6005acd0708f96870f5dea9f7305e8424
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63271385"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65724206"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Kein Empfang von Facebook-Codes mit Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Facebook-Codes mit Outlook.com werden nicht empfangen
 
-Wenn Sie ein neues Kennwort von Facebook angefordert haben, aber ihre E-Mail zur Kennwortzurücksetzung nicht erhalten haben:
+Wenn Sie ein neues Kennwort von Facebook angefordert, aber keine E-Mail zur Kennwortzurücksetzung erhalten haben:
 
 - Überprüfen Sie Ihren [Spam- oder Junk-E-Mail-Ordner](https://outlook.live.com/mail/junkemail).
 - Versuchen Sie [erneut, Ihr Facebook-Kennwort zurückzusetzen](https://aka.ms/facebook-password-reset).
 
-Wenn Sie Ihr Kennwort nicht zurücksetzen können, weil Sie nicht auf die E-Mail- oder Mobiltelefonnummer Ihres Kontos zugreifen können, versuchen Sie [die Facebook-Kennwortzurücksetzung Tipps](https://aka.ms/facebook-password-help).
+Wenn Sie Ihr Kennwort nicht zurücksetzen können, weil Sie nicht auf die E-Mail- oder Mobiltelefonnummer Ihres Kontos zugreifen können, versuchen Sie es [mit der Kennwortzurücksetzung von Facebook Tipps](https://aka.ms/facebook-password-help).

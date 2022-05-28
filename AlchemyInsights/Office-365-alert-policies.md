@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "3200002"
 - "1385"
-ms.openlocfilehash: ced60785ed804e1957423bc7849576f5ea31d2a6
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: 4e6955127abd2bb320d23b99163c6283378ab250
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65591994"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65723108"
 ---
 # <a name="alert-policies"></a>Warnungsrichtlinien
 

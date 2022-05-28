@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1277"
 - "6700008"
-ms.openlocfilehash: ad4253ea68d90c544e08af06faa6847d12df408f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 18c85db8b8fd6179bfb39d0458a5e79a29713ac1
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63269297"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65735060"
 ---
 # <a name="bypass-activation-lock-on-supervised-ios-devices-with-intune"></a>Umgehen der Aktivierungssperre für überwachte iOS-Geräte mit Intune
 
@@ -40,14 +40,14 @@ Weitere Informationen finden Sie unter [Umgehen der Aktivierungssperre für übe
 
 **Häufig gestellte Fragen**
 
-F: **Ich habe eine Remoteaktion zum Entfernen von Unternehmensdaten von einem Gerät gesendet, und jetzt ist das Gerät im Zustand „Ausstehend“ hängen geblieben.**
+F: **Ich habe eine Remoteaktion ausgegeben, um Unternehmensdaten von einem Gerät zu entfernen, und jetzt bleibt es im Status "Ausstehend" hängen.**
 
 A: Damit eine Remoteaktion erfolgreich abgeschlossen werden kann, muss das Zielgerät online und fehlerfrei sein. In den folgenden Situationen bleibt die Remoteaktion 30 Tage lang im Zustand „Ausstehend“ oder bis das Gerät den Befehl bestätigt, falls Folgendes für das Gerät zutrifft:
 
 - Das Gerät hat keine Verbindung.
 - Das Gerät verliert seinen Verwaltungsstatus bei Intune.
 
-Wenn Sie der Meinung sind, dass das Gerät keinen Check-In mehr vornimmt und dass es keine Unternehmensdaten entfernt, wählen Sie „Löschen“ aus. Durch das Löschen wird der Gerätedatensatz entfernt, sodass er nicht mehr in der Liste der Geräte in Intune angezeigt wird. Damit das Gerät wieder aktiv wird, muss der Benutzer das Gerät erneut registrieren.
+Wenn Sie der Meinung sind, dass ein Gerät nicht mehr eingecheckt wird und es keine Unternehmensdaten entfernt, wählen Sie "Löschen" aus. Durch das Löschen wird der Gerätedatensatz entfernt, sodass er nicht mehr in der Liste der Geräte in Intune angezeigt wird. Damit das Gerät wieder aktiv wird, muss der Benutzer das Gerät erneut registrieren.
 
 F: **Warum sind bestimmte Remoteaktionen für mich nicht verfügbar?**
 

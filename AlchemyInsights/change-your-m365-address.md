@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11543"
 - "9001671"
-ms.openlocfilehash: 3d70c57413f9f851bcdb60718700f2f0e718d727
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 24dd0c1d6fcf3f0d876b7f098b3829f44c40664b
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63308165"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65724504"
 ---
 # <a name="change-your-microsoft-365-address"></a>Ändern Ihrer Microsoft 365-Adresse
 

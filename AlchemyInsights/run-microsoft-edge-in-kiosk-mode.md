@@ -14,12 +14,12 @@ ms.custom:
 - "9006495"
 - "6903"
 - "11118"
-ms.openlocfilehash: 05f851ec7de30149d95ffa139a97859ea098abe2
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: 47a147efc873f343f0337a148d90057aa34cd5fa
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65593480"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65725297"
 ---
 # <a name="run-microsoft-edge-in-kiosk-mode"></a>Ausführen Microsoft Edge im Kioskmodus
 

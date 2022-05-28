@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2675"
 - "9000710"
-ms.openlocfilehash: 02aa1134f5f1643ac4ecb2eb5f70bb7bf2a89a76
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 32d03158422088c26ff5f70d242c015c48d7b1b5
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63288341"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65723000"
 ---
 # <a name="accessing-files-in-microsoft-teams"></a>Zugreifen auf Dateien in Microsoft Teams
 
-Wenn Benutzer Schwierigkeiten beim Zugriff auf eine Datei in Microsoft Teams haben, bestimmen Sie zunächst, ob die Datei an einen privaten Chat oder eine Kanalunterhaltung angefügt ist. Teamkanäle sind Orte, an denen jeder im Team öffentlich Unterhaltungen führen kann. Private Chats sind nur für personen im Chat sichtbar (und Dateien, die Sie in einem Chat freigeben, werden in OneDrive for Business gespeichert).
+Wenn Benutzer Schwierigkeiten beim Zugriff auf eine Datei in Microsoft Teams haben, bestimmen Sie zunächst, ob die Datei an einen privaten Chat oder eine Kanalunterhaltung angefügt ist. Teamkanäle sind Orte, an denen jeder im Team öffentlich Unterhaltungen führen kann. Private Chats sind nur für die Personen im Chat sichtbar (und Dateien, die Sie in einem Chat freigeben, werden in OneDrive for Business) gespeichert.
 
-Wenn Benutzer Dateien in privaten Chats freigeben, wird die Datei im OneDrive for Business des Freigabebenutzers gespeichert. Wenn ein Benutzer zu einem vorhandenen privaten Chat hinzugefügt wurde, kann er nur dann auf die Dateien zugreifen, wenn der ursprüngliche Besitzer die Datei erneut freigibt.    
+Wenn Benutzer Dateien in privaten Chats freigeben, wird die Datei auf dem OneDrive for Business des Freigabebenutzers gespeichert. Wenn ein Benutzer einem vorhandenen privaten Chat hinzugefügt wurde, kann er nur dann auf die Dateien zugreifen, wenn der ursprüngliche Besitzer die Datei erneut freigibt.    
 
 **Für Kanalunterhaltungen:**
 
-- [Die Freigabe von Dateien in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) basiert auf den Einstellungen, die in SharePoint oder OneDrive konfiguriert sind. 
-- Überprüfen Sie [die Zusammenarbeit an Dateien mit Ihrem Team](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae), um mehr darüber zu erfahren, wie Teams Es Ihrer Organisation ermöglicht, Dateien freizugeben und zusammenzuarbeiten. 
-- Wenn für neue Teammitglieder eine Verzögerung beim Zugriff auf Dateien auftritt, warten Sie mindestens **4 Stunden** , bevor Sie ein Supportticket öffnen, damit die Replikation abgeschlossen werden kann. 
+- [Das Freigeben von Dateien in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) basiert auf den Einstellungen, die in SharePoint oder OneDrive konfiguriert sind. 
+- Überprüfen [Sie die Zusammenarbeit an Dateien mit Ihrem Team](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae), um mehr darüber zu erfahren, wie Teams Es Ihrer Organisation ermöglicht, Dateien freizugeben und zusammenzuarbeiten. 
+- Wenn für neue Teammitglieder beim Zugriff auf Dateien eine Verzögerung auftritt, warten Sie mindestens **4 Stunden** , bevor Sie ein Supportticket öffnen, damit die Replikation abgeschlossen werden kann. 
 
 Wenn Benutzer zuvor über die Registerkarte "Dateien" in einem Teamkanal auf Dateien zugreifen konnten und der Fehler "Diese Dateien sind nicht mehr verfügbar" angezeigt wird, überprüfen Sie, ob die SharePoint Website oder Dokumentbibliothek umbenannt wurde. Das Umbenennen SharePoint Websites und Dokumentbibliotheken für Teams wird noch nicht unterstützt. Um dieses Problem zu beheben, öffnen Sie die für dieses Team verwendete Teamwebsite, und benennen Sie die Bibliothek wieder in "Freigegebene Dokumente" um.

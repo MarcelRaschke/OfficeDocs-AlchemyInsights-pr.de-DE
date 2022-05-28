@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8371"
 - "9004622"
-ms.openlocfilehash: a5e34c9a52cfb368a86eba47850adb5b62bfa34d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4a0b53e08f9652593b73335736300b25113d5466
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63303041"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65725837"
 ---
 # <a name="use-the-microsoft-intune-security-baselines-for-configuring-windows-10-devices"></a>Verwenden der Microsoft Intune-Sicherheitsgrundsätze zum Konfigurieren von Windows 10-Geräten
 

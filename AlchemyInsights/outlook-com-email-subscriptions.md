@@ -1,5 +1,5 @@
 ---
-title: E-Mail-Abonnements für Outlook.com
+title: Outlook.com-E-Mail-Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: 878a42d22d1d850896939bf9e4530a076c0c77b9
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 9e3e8c40d9d5442240727ca652009600b6ce18d3
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63191336"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65726089"
 ---
 # <a name="email-subscriptions"></a>E-Mail-Abonnements
 
 Warum werden E-Mails in meinen Abonnementlisten angezeigt?
 
-Outlook.com hat festgestellt, dass die E-Mail-Nachricht Abonnementinformationen enthält, einschließlich "Unsubscribe" in der Nachricht. Outlook.com hat Sie nicht automatisch für Newsletter abonniert.
+Outlook.com hat festgestellt, dass die E-Mail-Nachricht Abonnementinformationen enthält, einschließlich "Abonnement kündigen" in der Nachricht. Outlook.com hat Sie nicht automatisch für Newsletter abonniert.
 
-Wenn Sie den Empfang von Newslettern oder Werbeaktionen beenden möchten, gibt es zwei Möglichkeiten, das Abonnement über Outlook.com zu kündigen:
-1. Wählen Sie in Ihrem Posteingang einen Newsletter oder eine Werbe-E-Mail aus. Wählen Sie oben im Lesebereich **"Kündigen" aus**.
-2. Öffnen Sie ihre [Einstellungen für Outlook.com-Abonnements](https://go.microsoft.com/fwlink/?linkid=2110887), und wählen Sie **"Kündigen" aus**.
+Wenn Sie den Empfang von Newslettern oder Werbeaktionen beenden möchten, gibt es zwei Möglichkeiten, wie Sie das Abonnement mit Outlook.com kündigen können:
+1. Wählen Sie in Ihrem Posteingang einen Newsletter oder eine Werbe-E-Mail aus. Wählen Sie oben im Lesebereich **"Abonnement kündigen" aus**.
+2. Öffnen Sie Ihre [Outlook.com-Abonnementeinstellungen](https://go.microsoft.com/fwlink/?linkid=2110887), und wählen Sie **"Abonnement kündigen" aus**.
 
-Hinweis: Dieses Feature wird nur angezeigt, wenn Sie eine E-Mail vom Unternehmen erhalten haben, das Abonnierte E-Mails sendet.
-Wenn es bei Ihrer Abfrage um Microsoft 365 kostenpflichtige Abonnements geht, wechseln Sie zu[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) Microsoft 365 oder [erfahren Sie mehr darüber](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Hinweis: Dieses Feature wird nur angezeigt, wenn Sie eine E-Mail vom Unternehmen erhalten haben, die abonnierte E-Mails sendet.
+Wenn Es sich bei Ihrer Abfrage um Microsoft 365 kostenpflichtige Abonnements handelt, wechseln Sie zu[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) [oder erfahren Sie mehr über Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   

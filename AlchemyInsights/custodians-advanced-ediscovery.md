@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12580"
-ms.openlocfilehash: f553cadd92aec6564a9e8379efbbef3fa87ab06d
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: 315550ce3ee44f35f794858dd1149bfeb7ba17c6
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65592688"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65725729"
 ---
 # <a name="custodians-in-advanced-ediscovery"></a>Verwahrer in Advanced eDiscovery
 
-Verwahrer sind Personen, die verantwortlich sind für oder im Besitz sind von Dokumenten oder elektronischen Dateien. In Microsoft 365 Advanced eDiscovery können Sie Daten mit und ohne Verwahrer verwalten, Verwahrer zu einem Fall hinzufügen/massenweise hinzufügen und Aktivitäten von Verwahrern anzeigen.
+Verwahrer sind Personen, die verantwortlich sind für oder im Besitz sind von Dokumenten oder elektronischen Dateien. In Microsoft Purview eDiscovery (Premium) können Sie Daten mit und ohne Verwahrer verwalten, einem Fall Verwahrer hinzufügen/massenweise hinzufügen und Verwahreraktivitäten anzeigen.
 
 So verwalten Sie Verwahrer in einem Advanced eDiscovery-Fall:
 

@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: 1f627a92df0cbe162e3f9bab01d290f28907606d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 48dce941ff5d2ba66cc7321de7e1506cff752722
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63235815"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65725477"
 ---
 # <a name="apple-automatic-device-enrollment-sync-errors"></a>Synchronisierungsfehler bei der automatischen Geräteregistrierung von Apple
 
-"Wir haben festgestellt, dass Sie über ein oder mehrere ADE/DEP-Token verfügen, die sich in einem Fehlerstatus befinden. Bis der Fehlerstatus für jedes betroffene Token aufgelöst wurde, funktioniert die ADE-Funktion nicht wie erwartet.".
+"Wir haben festgestellt, dass Sie ein oder mehrere ADE/DEP-Token haben, die sich in einem Fehlerzustand befinden. Bis der Fehlerstatus für jedes betroffene Token behoben ist, funktioniert die ADE-Funktionalität nicht wie erwartet."
 
 Dieser Fehler kann auf verschiedene Arten auftreten, z. B.:
 
-1. Geräte dürfen nicht von ABM/ASM mit Intune synchronisiert werden
+1. Geräte werden möglicherweise nicht von ABM/ASM mit Intune
 2. Registrierungsprofilzuweisungen können fehlschlagen
-3. Geräte schließen ADE-Registrierung möglicherweise nicht erfolgreich ab
+3. Geräte können die ADE-Registrierung möglicherweise nicht erfolgreich abschließen.
 
-Suchen Sie nach dem Synchronisierungsfehler, der in der Intune-Konsole unter **"Geräte > Geräte registrieren" > Apple-Registrierung >-Registrierungsprogrammtoken** gemeldet wurde.
+Überprüfen Sie, ob der Synchronisierungsfehler in der Intune Konsole unter **"Geräte > Geräte registrieren > Apple-Registrierung > Registrierungsprogrammtoken**" gemeldet wurde.
 
-Eine der häufigsten Ursachen für Synchronisierungsfehler ist der Ablauf des aktuellen Tokens. In vielen Fällen wird das Problem durch die Verlängerung des betroffenen Tokens behoben.
+Eine der häufigsten Ursachen für Synchronisierungsfehler ist der Ablauf des aktuellen Tokens. In vielen Fällen wird das Problem durch die Erneuerung des betroffenen Tokens behoben.
 
-Wenn eines oder mehrere Ihrer Token abgelaufen sind, lesen Sie die folgende Dokumentation, um Sie bei der Verlängerung nach Bedarf zu unterstützen:
+Wenn eines oder mehrere Ihrer Token abgelaufen sind, lesen Sie die folgende Dokumentation, um Sie bei bedarfsgemäßer Verlängerung zu unterstützen:
 
 [Erneuern eines Tokens für die automatische Geräteregistrierung](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
 
-Darüber hinaus finden Sie in der folgenden Dokumentation mögliche Korrekturen für andere Fehler, die zu Fehlern bei der Tokensynchronisierung führen:
+Darüber hinaus sehen Sie die folgende Dokumentation, um mögliche Korrekturen für andere Fehler anzuzeigen, die Tokensynchronisierungsfehler verursachen:
 
-[ABM/ASM-Synchronisierungsfehler für iOS/iPadOS und macOS Automatisierte Geräteregistrierungstoken](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
-
-
+[ABM/ASM-Synchronisierungsfehler für iOS/iPadOS und macOS automatisierte Geräteregistrierungstoken](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
 
 
 
 
 
-[ABM/ASM-Synchronisierungsfehler für iOS/iPadOS und macOS Automatisierte Geräteregistrierungstoken](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
+
+
+[ABM/ASM-Synchronisierungsfehler für iOS/iPadOS und macOS automatisierte Geräteregistrierungstoken](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)

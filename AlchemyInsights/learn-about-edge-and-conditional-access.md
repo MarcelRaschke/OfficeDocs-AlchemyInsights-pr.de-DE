@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8326"
 - "9004625"
-ms.openlocfilehash: 332846ce7ee87521c72f1e867905bd03cc59504b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 7dc0b75f838728f4238f7c4b0b0078776ea5f3a9
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63090046"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65722090"
 ---
 # <a name="learn-about-microsoft-edge-and-conditional-access-in-azure-active-directory"></a>Erfahren Sie mehr über Microsoft Edge und bedingten Zugriff in Azure Active Directory
 

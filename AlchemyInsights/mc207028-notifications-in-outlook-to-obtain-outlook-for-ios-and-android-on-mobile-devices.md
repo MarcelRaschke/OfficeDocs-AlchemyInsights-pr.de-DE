@@ -14,16 +14,16 @@ ms.custom:
 - "4992"
 - "9002628"
 - "5047"
-ms.openlocfilehash: 0d0b3e7b962d8f67d1f4244ccf95616f9df3e02d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 5fca7ea336e36607869bebf8ce844b295156b740
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63214269"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65724983"
 ---
 # <a name="mc207028---notifications-in-outlook-to-obtain-outlook-for-ios-and-android-on-mobile-devices"></a>MC207028 – Benachrichtigungen in Outlook, um Outlook für iOS und Android auf mobilen Geräten zu erhalten
 
-Sie brauchen nichts zu unternehmen, um sich auf diese Änderung vorzubereiten. Wenn Sie es vorziehen, dass die Benutzer in Ihrer Organisation keine Benachrichtigungen zu Outlook Mobile in Outlook für Windows und Outlook im Web erhalten, können Sie [dieses Formular ausfüllen, um Ihre Anforderung zu senden](https://aka.ms/MC207028).Sie müssen Ihre Mandanten-ID angeben. 
+Sie brauchen nichts zu unternehmen, um sich auf diese Änderung vorzubereiten. Wenn Sie es vorziehen, dass die Benutzer in Ihrer Organisation keine Benachrichtigungen zu Outlook Mobile in Outlook für Windows und Outlook im Web erhalten, können Sie [dieses Formular ausfüllen, um Ihre Anforderung zu senden](https://aka.ms/MC207028). Sie müssen Ihre Mandanten-ID angeben. 
 
 Anforderungen werden innerhalb von sieben Tagen wirksam. Sie erhalten keine Benachrichtigung darüber, dass die Anforderung verarbeitet wurde. Wenn in den Produkten 7 Tage nach dem Einreichen des Formulars weiterhin Empfehlungen angezeigt werden, wenden Sie sich an den Support.
 

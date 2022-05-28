@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 466b85ac23ffae08b337f43a8176c6b609d5f8d3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f1c0e56dc6a37f441d91d6498143fbac6c935de7
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63212937"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65724119"
 ---
 # <a name="questions-before-purchase"></a>Fragen vor dem Kauf
 
@@ -34,7 +34,7 @@ Lesen Sie diesen Artikel: [SQL-Datenbank in reservierter Kapazität kaufen](http
 Nein, Sie können die RI kaufen, wenn Sie im Besitz eines EA-Abonnements sind.
 
 **Wird der RI-Kauf von einer finanziellen Verpflichtung abgezogen?**  
-Ja. Wenn Sie nicht über ausreichend finanzielle Verpflichtung verfügen, erhalten Sie eine Überschussrechnung über den Betrag, der die verfügbare finanzielle Verpflichtung überschreitet.
+Ja. Wenn Sie über keinen Mindestverbrauch verfügen, erhalten Sie eine Überschussrechnung über den Betrag, der die verfügbare finanzielle Verpflichtung überschreitet.
 
 **In welchem Verhältnis steht die reservierte Instanz zu Windows-VMs oder meinen SQL IP-Kosten?**  
 Der Rabatt für die reservierte Instanz gilt nur für die Compute-Nutzung. Windows IP oder SQL IP-Kosten werden separat berechnet und erhalten keinen RI-Rabatt. [Software-Kosten, die nicht in Azure Reserved VM Instances enthalten sind](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  

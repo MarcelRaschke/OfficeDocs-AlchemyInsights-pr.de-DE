@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0a0116e86189e6c2a284035ce182acedd9dd1de4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 6759db25c47211eef0fc8486ad077e375f0ca26a
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63204296"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65722460"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP funktioniert nicht wie erwartet
 
@@ -26,17 +26,17 @@ ms.locfileid: "63204296"
 
  **Einrichten von DLP**
 
-Haben Sie Probleme mit **der Verhinderung von Datenverlust (Data Loss Prevention, DLP)** in Office 365 nicht wie erwartet funktionieren? Wenn ja, stellen Sie sicher, dass Ihre **DLP-Richtlinie** ordnungsgemäß eingerichtet ist und dass Ihre Daten enthalten, wonach die **DLP-Richtlinie** sucht, wenn sie ausgewertet wird.
+Haben Sie Probleme mit Microsoft Purview Data Loss Prevention in Office 365 nicht wie erwartet? Wenn dies der Fall ist, stellen Sie sicher, dass Ihre DLP-Richtlinie ordnungsgemäß eingerichtet ist und dass Ihre Daten enthalten, wonach die DLP-Richtlinie sucht, wenn sie ausgewertet wird.
   
 Mit DLP-Richtlinien können Sie vertrauliche Informationen in Ihrer Organisation identifizieren und schützen. Verwenden Sie die [hier](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template) aufgeführten Informationen, um DLP-Richtlinien einzurichten.
   
  **Wonach DLP-Richtlinien suchen**
   
-Bei Verwendung der **integrierten Typen vertraulicher Informationen** im Security and Compliance Center suchen DLP-Richtlinien nach bestimmten Mustern und Elementen, wenn diese vertraulichen Typen erkannt werden.
+Bei Verwendung der **integrierten Typen vertraulicher Informationen** in den Security and Compliance Centern suchen DLP-Richtlinien nach bestimmten Mustern und Elementen, wenn diese vertraulichen Typen erkannt werden.
   
 - **Integrierte Typen vertraulicher Informationen**
 
-    Informationen zu den integrierten vertraulichen Typen und zu den Suchzwecken einer DLP-Richtlinie beim Erkennen des vertraulichen Typs finden Sie unter: [Wonach die Typen vertraulicher Informationen suchen](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+    Informationen zu den integrierten Typen vertraulicher Informationen und dazu, wonach eine DLP-Richtlinie beim Erkennen des Typs "Vertraulich" sucht, finden Sie unter: [Wonach die Typen vertraulicher Informationen suchen](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
 - **Benutzerdefinierte Typen vertraulicher Informationen**
 
@@ -44,10 +44,10 @@ Bei Verwendung der **integrierten Typen vertraulicher Informationen** im Securit
 
 **Testen einer DLP-Richtlinie**
 
-Um Ihre Daten mit einem integrierten oder benutzerdefinierten vertraulichen Informationstyp zu testen, verwenden Sie die Option **"Testtyp** " unter den Informationstypen **"ClassificationsSensitive** > **"**. Weitere Informationen finden Sie unter [Testen benutzerdefinierter Typen vertraulicher Informationen](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Wenn Sie Ihre Daten mit einem integrierten oder benutzerdefinierten vertraulichen Informationstyp testen möchten, verwenden Sie die Option **"Testtyp** " unter **"Klassifizierungen** > **vertraulicher Informationstypen**". Weitere Informationen finden Sie unter ["Testen benutzerdefinierter vertraulicher Informationstypen"](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Berichte**
   
-- Erhalten Sie einblicke in vertrauliche Daten mit [DLP-Berichten.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
+- Erhalten Sie Einblicke in vertrauliche Daten mit [DLP-Berichten.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
 
-- Sehen Sie sich bestimmte Details des Ereignisses mit einem [Vorfallbericht an](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).
+- Sehen Sie sich spezifische Details des Ereignisses mit einem [Vorfallbericht an](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).

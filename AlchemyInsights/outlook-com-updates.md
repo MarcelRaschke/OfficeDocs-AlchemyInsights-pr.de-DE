@@ -1,5 +1,5 @@
 ---
-title: updates Outlook.com
+title: Outlook.com-Updates
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.localizationpriority: medium
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: c0ffe55dd8bc16c64db3e47bfe6ae75bd63bedad
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f8bede3ce0301a396debc3a5f6cf93422452fa70
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63181652"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65724792"
 ---
-# <a name="outlookcom-updates"></a>updates Outlook.com
+# <a name="outlookcom-updates"></a>Outlook.com-Updates
 
 **Aktuelle Updates**
 
-- Holen Sie mehr aus Ihrer E-Mail mit dem neuen Outlook.com heraus. Wir haben die Suche optimiert, damit Sie leichter denn je finden können, wonach Sie suchen. Mit neuen Features wie Fotos und Anlagenvorschau können Sie Ihre Bilder und Dateien anzeigen, ohne ihren Posteingang verlassen zu müssen. Jetzt können Sie Emojis und GIFs zu Ihren Nachrichten hinzufügen. [Erfahren Sie mehr über die neue Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Mit dem neuen Outlook.com können Sie Mehr aus Ihren E-Mails herausholen. Wir haben die Suche optimiert, um es einfacher denn je zu machen, das Zu finden, wonach Sie suchen. Mit neuen Features wie Fotos und Anlagenvorschauen können Sie Ihre Bilder und Dateien anzeigen, ohne Ihren Posteingang verlassen zu müssen. Und jetzt können Sie Ihren Nachrichten Emojis und GIFs hinzufügen. [Erfahren Sie mehr über die neue Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
 **E-Mail-Updates**
 
-- Wenn Ihr Outlook.com-Postfach nicht aktualisiert wird, finden Sie weitere Informationen unter [Beheben Outlook.com-E-Mail-Synchronisierungsprobleme](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Wenn Ihr Outlook.com-Postfach nicht aktualisiert wird, finden [Sie Informationen dazu unter Beheben Outlook.com-E-Mail-Synchronisierungsprobleme](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).

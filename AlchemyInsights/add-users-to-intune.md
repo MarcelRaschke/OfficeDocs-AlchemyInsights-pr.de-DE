@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000664"
 - "2535"
-ms.openlocfilehash: 9b712990bd7d827447f9a4d0d574cb98565bc444
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 165261418e270114826f85f159a4c5fdaf5e2bf5
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63250793"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65722604"
 ---
 # <a name="add-users-to-intune"></a>Hinzufügen von Benutzern zu Intune
 
-Sie können Ihrem Intune-Abonnement manuell Benutzer hinzufügen, indem Sie die [Microsoft 365 Admin Center](https://admin.microsoft.com/) oder das [Intune-Portal verwenden](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview).
+Sie können Ihrem Intune-Abonnement manuell Benutzer hinzufügen, indem Sie die [Microsoft 365 Admin Center](https://admin.microsoft.com/) oder das [Intune-Portal](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview) verwenden.
 
-Ein Administrator kann Benutzerkonten bearbeiten, um Intune-Lizenzen zuzuweisen. Sie können Lizenzen entweder im Microsoft 365 Admin Center oder im Intune-Portal zuweisen.
+Ein Administrator kann Benutzerkonten bearbeiten, um Intune-Lizenzen zuzuweisen. Sie können Lizenzen entweder im Microsoft 365 Admin Center oder im Intune Portal zuweisen.
 
 Weitere Informationen zur Verwendung des Microsoft 365 Admin Centers finden Sie unter [Hinzufügen von einzelnen Benutzern oder Massenhinzufügen von Benutzern zum Microsoft 365 Admin Center](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 

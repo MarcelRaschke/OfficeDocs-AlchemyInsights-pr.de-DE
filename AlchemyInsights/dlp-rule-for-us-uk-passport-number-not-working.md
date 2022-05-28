@@ -13,12 +13,12 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 14ba937832a9d2b8356fa802e1dbe890f540ec6c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: dcbe56d3065d5e78e0c546affcb2d00b91dc90ce
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63239237"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65722352"
 ---
 # <a name="problems-with-dlp---usuk-passport-numbers"></a>Probleme mit DLP – US/UK-Reisepassnummern
 
@@ -26,13 +26,13 @@ ms.locfileid: "63239237"
 
 **DLP-Probleme mit US/UK-Reisepassnummern**
 
-Haben Sie Probleme mit **der Verhinderung von Datenverlust (Data Loss Prevention, DLP),** die nicht für Inhalte funktionieren, die eine **US/UK-Reisepassnummer** enthalten, wenn Sie einen vertraulichen DLP-Informationstyp in O365 verwenden? Wenn ja, stellen Sie sicher, dass Ihre Inhalte die erforderlichen Informationen für die Suche nach der DLP-Richtlinie enthalten, wenn sie ausgewertet wird.
+Haben Sie Probleme mit Microsoft Purview Data Loss Prevention bei der Verwendung eines vertraulichen DLP-Informationstyps in O365 nicht für Inhalte mit einer **US/UK-Reisepassnummer** arbeiten? Wenn dies der Fall ist, stellen Sie sicher, dass Ihre Inhalte die erforderlichen Informationen dazu enthalten, wonach die DLP-Richtlinie bei der Auswertung sucht.
   
 For example, for a **US/UK passport number** policy configured with a confidence level of 75%, the following are evaluated and must be detected for the rule to trigger
   
 - **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** Neun Ziffern
 
-- **[Muster:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** Neun aufeinanderfolgende Ziffern
+- **[Muster:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** Neun aufeinander folgende Ziffern
 
 - **[Prüfsumme:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Nein, es gibt keine Prüfsumme
 
@@ -42,9 +42,9 @@ For example, for a **US/UK passport number** policy configured with a confidence
 
   - Ein Schlüsselwort aus Keyword_passport wurde gefunden.
 
-    Das folgende Beispiel würde z. B. für die **Us/UK-Reisepassnummernrichtlinie** ausgelöst: U.S. Passport number 123456789
+    Das folgende Beispiel würde z. B. für die **Us/UK Passport Number** Policy ausgelöst: U.S. Passport number 123456789
 
-Weitere Informationen dazu, was erforderlich ist, damit eine US/UK Passport-Nummer für Ihre Inhalte erkannt wird, finden Sie im folgenden Abschnitt in diesem Artikel: [Wonach die Typen vertraulicher Informationen nach us/UK Passport Number suchen](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
+Weitere Informationen dazu, was erforderlich ist, damit eine US/UK Passport Number für Ihre Inhalte erkannt wird, finden Sie im folgenden Abschnitt in diesem Artikel: [Wonach die Typen vertraulicher Informationen nach US/UK Passport Number suchen](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
   
 Unter Verwendung eines anderen integrierten vertraulichen Informationstyps finden Sie im folgenden Artikel Informationen dazu, was für andere Typen erforderlich ist: [Wonach die Typen vertraulicher Informationen suchen](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

@@ -1,5 +1,5 @@
 ---
-title: Vorgehensweise, wenn Sie in Microsoft Teams kein Team erstellen können
+title: Vorgehensweise, wenn Sie kein Team in Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003963"
 - "7019"
-ms.openlocfilehash: c5b7f79474657b81085d23d13a7827af3e37d83f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c51bbcd9a2f8cc57b92f6e6071e8c90569b5d84c
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63209876"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65723396"
 ---
-# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a>Vorgehensweise, wenn Sie in Microsoft Teams kein Team erstellen können
+# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a>Vorgehensweise, wenn Sie kein Team in Microsoft Teams
 
 Bitten Sie Ihren Teams-Administrator, Folgendes zu tun:
 

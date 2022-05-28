@@ -12,12 +12,12 @@ ms.custom:
 - "9000695"
 - "2607"
 ms.date: 05/12/2022
-ms.openlocfilehash: de56d482262729125f59e208ff6e0029bc45711f
-ms.sourcegitcommit: 67136d41a943c82d8f8bda3b1e609e0b77a955e8
+ms.openlocfilehash: 5787d5393fbe8cfd7a153561ec5001881de01280
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2022
-ms.locfileid: "65374746"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65725513"
 ---
 # <a name="install-project-professional"></a>Installieren von Project Professional
 

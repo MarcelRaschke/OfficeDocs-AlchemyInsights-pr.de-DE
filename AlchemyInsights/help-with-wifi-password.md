@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9799"
 - "9005399"
-ms.openlocfilehash: 0240bad8f1e8dfabf0a6771b508336d8a9767d60
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d8ac45e19e31cb24cc67dea5e3753a3e16c6267a
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63185108"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65722280"
 ---
 # <a name="need-help-with-my-wi-fi-password"></a>Hilfe benötigt mit "mein WLAN-Passwort"
 
@@ -26,7 +26,7 @@ Wenn Sie mit dem Internet verbunden sind, führen Sie die folgenden Schritte aus
 
 1. Wählen Sie **Start** > **Einstellungen** > **Netzwerk und Internet** > **Netzwerk und Freigabecenter**
 
-1. Suchen Sie unter der Registerkarte **Aktive Netzwerke anzeigen** nach dem Netzwerk, mit dem Sie verbunden sind, und wählen Sie den blauen Link neben **Verbindungen** aus.
+1. Suchen Sie unter der Registerkarte **Ihre aktiven Netzwerke anzeigen** nach dem Netzwerk, mit dem Sie verbunden sind, und wählen Sie den blauen Link neben **Verbindungen** aus.
 
 1. Wählen Sie im Popup-Fenster die Option **WLAN- Eigenschaften**.
 
@@ -36,9 +36,9 @@ Wenn Sie mit dem Internet verbunden sind, führen Sie die folgenden Schritte aus
 
 **Wenn Sie nicht mit dem Internet verbunden sind**
 
-Leider können Sie nicht nach Ihrem WLAN-Passwort suchen, wenn Sie dieses WLAN-Netzwerk derzeit nicht verwenden. Weitere Hilfe zu Ihrem Router erhalten Sie vom Hersteller Ihres Routers oder auf dessen Support-Website.
+Leider können Sie nicht nach Ihrem WLAN-Kennwort suchen, wenn Sie dieses WLAN-Netzwerk derzeit nicht verwenden. Weitere Hilfe zu Ihrem Router erhalten Sie vom Hersteller Ihres Routers oder auf dessen Support-Website.
 
-Wenn der Router neu ist, finden Sie Ihren WLAN-Namen und Ihr Kennwort möglicherweise auf dem Router oder in der Originalverpackung des Routers. Die Anmeldeinformationen werden folgendermaßen angezeigt:
+Wenn der Router neu ist, finden Sie Ihren WLAN-Namen und Ihr Kennwort möglicherweise auf dem Router oder in der Originalverpackung des Routers. Die Anmeldeinformationen werden wie folgt angezeigt:
 
 Netzwerk-SSID: XXXXXXX Netzwerkschlüssel: XXXXXXXX
 
@@ -48,7 +48,7 @@ Netzwerk-SSID: XXXXXXX Netzwerkschlüssel: XXXXXXXX
 
 1. Wählen Sie **Start** > **Einstellungen** > **Netzwerk & Internet** > **Netzwerk und Freigabecenter**
 
-1. Suchen Sie unter der Registerkarte **Aktive Netzwerke anzeigen** nach dem Netzwerk, mit dem Sie verbunden sind, und wählen Sie den blauen Link neben **Verbindungen** aus.
+1. Suchen Sie unter der Registerkarte **Ihre aktiven Netzwerke anzeigen** nach dem Netzwerk, mit dem Sie verbunden sind, und wählen Sie den blauen Link neben **Verbindungen** aus.
 
     **Hinweis** Wenn Sie nicht mit dem WLAN verbunden sind, müssen Sie eine Verbindung herstellen, bevor Sie das Kennwort ändern können.
 
@@ -60,7 +60,7 @@ Netzwerk-SSID: XXXXXXX Netzwerkschlüssel: XXXXXXXX
 
 1. Öffnen Sie einen Browser, geben Sie diese Zahlenfolge einschließlich der Punkte in die Adressleiste ein und drücken Sie die Eingabetaste, um zur Konfigurationsseite des Routers zu gelangen.
 
-1. Wenn die Konfigurationsseite des Routers geöffnet wird, geben Sie Ihren Benutzernamen und Ihr Passwort ein.
+1. Wenn sich die Konfigurationsseite des Routers öffnet, geben Sie Ihren Benutzernamen und Ihr Passwort ein.
 
     Wenn Sie den Standardbenutzernamen und das Standardkennwort für den Router noch nie geändert haben, finden Sie diese Informationen im Handbuch Ihres Routers.
 

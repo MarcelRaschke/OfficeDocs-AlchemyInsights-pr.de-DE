@@ -14,23 +14,23 @@ ms.custom:
 - "9140"
 - "11087"
 - "9006490"
-ms.openlocfilehash: fb7eb69700ac976c29e755bd4519c0ec6d06a077
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 583374b12b1126a9ab05cf4109b4ac4a7287205c
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63262925"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65726017"
 ---
 # <a name="plan-your-deployment-of-microsoft-edge"></a>Planen der Bereitstellung von Microsoft Edge
 
-Die Bereitstellung eines neuen Browsers für eine Gruppe von Benutzern kann entmutigend wirken. Wir können Ihnen dabei helfen, sie in Schritte aufzubrechen und Sie durch die einzelnen Schritte zu führen. Wenn Sie diese sieben Schritte ausführen, haben Sie eine erfolgreiche Microsoft Edge Bereitstellung mit minimaler Benutzerzufriedenheit:
+Die Bereitstellung eines neuen Browsers für eine Reihe von Benutzern kann entmutigend wirken. Wir können Ihnen helfen, sie in Schritte zu unterteilen und Sie durch die einzelnen Schritte zu führen. Wenn Sie diese sieben Schritte ausführen, haben Sie eine erfolgreiche Microsoft Edge Bereitstellung mit minimalem Frust der Benutzer:
 
 1. Bewerten Sie Ihre vorhandene Browserumgebung und -anforderungen.
-2. Ermitteln Sie Ihre Bereitstellungsmethode.
-3. Führen Sie die Websiteermittlung durch.
-4. Ermitteln Sie Ihre Kanalstrategie.
+2. Bestimmen Sie Ihre Bereitstellungsmethode.
+3. Websiteermittlung ausführen.
+4. Bestimmen Sie Ihre Kanalstrategie.
 5. Definieren und Konfigurieren von Richtlinien.
 6. Führen Sie App-Kompatibilitätstests durch.
 7. Stellen Sie Microsoft Edge in einer Pilotgruppe bereit, und überprüfen Sie sie.
 
-Informationen zum eigenen Ausführen dieser Schritte finden Sie unter [Planen der Bereitstellung von Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2129990).
+Informationen zum eigenständigen Durcharbeiten dieser Schritte finden Sie unter [Planen der Bereitstellung von Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2129990).

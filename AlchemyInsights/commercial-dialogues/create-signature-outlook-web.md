@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: 199b1fc0f0591a7a2bd219aa43fd0fd540ad25b2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4e7f97d0589984be2e3abae44fc715ebe7a020fe
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63216969"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65726416"
 ---
 # <a name="create-an-email-signature-in-outlook-on-the-web"></a>Erstellen einer E-Mail-Signatur in Outlook im Web
 
 1. Anmelden bei Outlook im Web.
 2. Wählen Sie in der oberen Navigationsleiste **Einstellungen** >  **Mail** aus.
-3. **Wählen Sie** im Bereich **"Optionen**" unter **"E-Mail**" die **LayoutEmail-Signatur** >  aus.
+3. Wählen Sie im **Bereich "Optionen**" unter **"E-Mail**" die Option "**Layout-E-Mail-Signatur" aus**. > 
 4. Geben Sie im Textfeld Ihre Signatur ein, und verwenden Sie die verfügbaren Formatierungsoptionen, um die Darstellung zu ändern.
 
-**Tipp:** Das Einfügen einer Bilddatei (z. B. in einem .gif- oder .jpg format) für Ihre Signatur wird nicht unterstützt, Sie können jedoch ein Bild von einer Webseite kopieren und in das Signaturfeld einfügen.
+**Tipp:** Das Einfügen einer Bilddatei (z. B. in einem .gif- oder .jpg Format) für Ihre Signatur wird nicht unterstützt, Sie können jedoch ein Bild von einer Webseite kopieren und in das Signaturfeld einfügen.
 
-5. Wenn Ihre Signatur unten in allen ausgehenden E-Mail-Nachrichten angezeigt werden soll, einschließlich Antworten und Weiterleitungen, wählen Sie **"Automatisch meine Signatur in neue Nachrichten einschließen" aus, die ich erstelle**.
+5. Wenn Ihre Signatur am Ende aller ausgehenden E-Mail-Nachrichten angezeigt werden soll, einschließlich Antworten und Weiterleitungen, wählen Sie " **Meine Signatur automatisch in neue Nachrichten einschließen" aus, die ich erstell**.
 6. Klicken Sie auf **Speichern**.

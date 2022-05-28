@@ -1,5 +1,5 @@
 ---
-title: Benötigen Sie die Berechtigung für den Zugriff auf die Website
+title: Berechtigung für den Zugriff auf die Website erforderlich
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: c5f071e4bbd2574936c95c9a412f8b378cf909a6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 960f2a374feaedcdadb68ad4079318103b8b42c5
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63263933"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65726161"
 ---
 # <a name="you-need-permission-to-access-this-site"></a>Sie benötigen die Berechtigung für den Zugriff auf diese Website
 
-[Fehler "Zugriff verweigert", "Sie benötigen die Berechtigung für den Zugriff auf diese Website" oder "Benutzer wurde nicht im Verzeichnis gefunden" in SharePoint Online und OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+[Fehler "Zugriff verweigert", "Sie benötigen Die Berechtigung für den Zugriff auf diese Website" oder "Benutzer im Verzeichnis nicht gefunden" in SharePoint Online und OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)

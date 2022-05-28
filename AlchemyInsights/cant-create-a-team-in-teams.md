@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003306"
 - "6201"
-ms.openlocfilehash: 577a7f4717ffb6c3cc88cbc04e132f65158dd16e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 62097df23c47d68e5ff1905778ee3ccbbe777dc9
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63250109"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65726488"
 ---
 # <a name="cant-create-a-team-in-teams"></a>In Teams kann kein Team erstellt werden
 

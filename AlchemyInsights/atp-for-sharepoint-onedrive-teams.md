@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3a870fa01386b8709f6846ab683878e7cd6828a6
-ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
+ms.openlocfilehash: 7d30429cd77ec9d39e3a3220ca10c436b795238c
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65395534"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65725189"
 ---
 # <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender für Office 365 für SharePoint, OneDrive und Microsoft Teams
 

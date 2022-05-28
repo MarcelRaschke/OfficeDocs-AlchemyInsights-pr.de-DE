@@ -12,12 +12,12 @@ ms.custom:
 - "1800027"
 - "1245"
 ms.date: 04/21/2020
-ms.openlocfilehash: 268ddf2c4e54d64ded54b4322c408c91336dc395
-ms.sourcegitcommit: 5058f004f549ba7ac2b4843429b385287456a9c7
+ms.openlocfilehash: aceed8331f34837b0e0a76ae277fda4ef8546c9d
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65061932"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65723144"
 ---
 # <a name="import-service-in-the-office-365-security--compliance-center"></a>Importdienst im Office 365 Security & Compliance Center
 

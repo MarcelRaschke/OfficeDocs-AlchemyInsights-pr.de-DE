@@ -1,5 +1,5 @@
 ---
-title: Teams Anleitungen für Upgrades
+title: Teams-Upgradeleitfaden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,15 +11,15 @@ ms.localizationpriority: medium
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 4ad3142294ae760d4fa8552729e8e6b5fd24b549
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 68aad32742a736a9cc84d8bc8f0556228aef78c9
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63189644"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65723468"
 ---
 # <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams verwendet mehr Computerressourcen als erwartet
 
-Eine hohe Leistung und Benutzerfreundlichkeit sind bei Microsoft die wichtigsten Überlegungen. Teams Startzeit wurde verbessert, und wir werden die Teams, einschließlich des allgemeinen Ressourcenverbrauchs, weiter verbessern.  
+Große Leistung und Benutzerfreundlichkeit sind bei Microsoft die wichtigsten Bedenken. Teams Startzeit wurde verbessert, und wir werden die Teams, einschließlich des gesamten Ressourcenverbrauchs, weiter verbessern.  
 
-Informationen zum Teams und zur Ressourcennutzung finden Sie unter ["Wie Microsoft Teams Arbeitsspeicher verwendet](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) und [Teams während Videobesprechungen auf Laptops, die an 4K/HDR-Monitore angedockt sind, langsam ist](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+Informationen zu Teams und Ressourcennutzung finden Sie unter ["Wie Microsoft Teams Arbeitsspeicher verwendet](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) und [Teams bei Videobesprechungen auf Laptops, die an 4K/HDR-Monitore angedockt sind, langsam ist](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).

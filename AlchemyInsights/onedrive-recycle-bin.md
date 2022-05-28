@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002305"
 - "4476"
-ms.openlocfilehash: 5f606af09943faf03249cb152e0147bfa55552dc
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: ef91348828b44173bc41837da3bacf1f845ef285
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63234303"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65723702"
 ---
 # <a name="onedrive-recycle-bin"></a>OneDrive-Papierkorb
 

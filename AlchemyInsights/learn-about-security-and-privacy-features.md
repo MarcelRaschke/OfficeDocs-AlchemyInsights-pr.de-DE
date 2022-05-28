@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9216"
 - "9005302"
-ms.openlocfilehash: f191b7c4a1689d3cebd501df08b7546b4a9fc894
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c2185b40d26d4cda1aa6dea6771f4784ef1cdb71
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63264905"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65722054"
 ---
 # <a name="learn-about-the-security-and-privacy-features-of-microsoft-search-in-bing"></a>Informationen über die Sicherheits- und Datenschutz-Funktionen von Microsoft Search in Bing
 

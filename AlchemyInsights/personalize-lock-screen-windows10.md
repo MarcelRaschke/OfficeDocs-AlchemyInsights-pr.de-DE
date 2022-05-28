@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9787"
 - "9005401"
-ms.openlocfilehash: 314852a5d73a1dd5ccd9794de449ddb436b4b451
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4c190d20a32f02e2b2c07a44a1d9796b3cbafa34
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63213585"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65726053"
 ---
 # <a name="personalize-your-lock-screen-in-windows-10"></a>Personalisieren des Sperrbildschirms in Windows 10
 

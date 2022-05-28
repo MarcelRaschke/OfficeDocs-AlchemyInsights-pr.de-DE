@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7813"
 - "9004358"
-ms.openlocfilehash: 93173dd4ae19a552e07580ec98b158928ab25325
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c63e92cfb802685f622535fe4c098780ad7e9c68
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63156739"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65723252"
 ---
 # <a name="announcements"></a>Ankündigungen
 
@@ -61,11 +61,11 @@ Stellen Sie sicher, dass Sie die Einladung eines Benutzers an die E-Mail-Adresse
 
 Führen Sie die folgenden Schritte aus, um Probleme im Zusammenhang mit dem Zuweisen von Lizenzen an Benutzer zu behandeln:
 
-1. Stellen Sie sicher, dass Sie zum Verwalten von Benutzerlizenzen ein Konto mit einer der dazu erforderlichen Administratorrollen verwenden: globaler Administrator, Lizenzadministrator oder Benutzeradministrator. Sie können die Rolle des Benutzers auf der Registerkarte **Verzeichnisrolle** im "Benutzer"-Bereich überprüfen.
+1. Stellen Sie sicher, dass Sie zum Verwalten von Benutzerlizenzen ein Konto mit einer der dazu erforderlichen Administratorrollen verwenden: globaler Administrator, Lizenzadministrator oder Benutzeradministrator. Sie können die Rolle des Benutzers auf der Registerkarte **Verzeichnisrolle** auf dem Benutzerblatt überprüfen.
 2. Wenn Sie gerade das Azure-Portal verwenden und die Lizenzzuweisung fehlschlägt, klicken Sie auf die Benachrichtigung in der oberen rechten Ecke. Damit wird ein Bereich mit Details zu dem Fehler geöffnet. In den meisten Fällen reicht dies aus, um das Problem zu verstehen und es beheben zu können.
 3. Bevor einem Benutzer eine Lizenz zugewiesen werden kann, muss die Eigenschaft **Verwendungsort** für den Benutzer festgelegt werden. Vergewissern Sie sich, dass diese Eigenschaft für den Benutzer festgelegt wurde, indem Sie die Registerkarte **Profil** im "Benutzer"-Bereich überprüfen.
 4. Vergewissern Sie sich, dass ausreichend Lizenzen für das Produkt verfügbar sind, das Sie zuweisen möchten. Sie können die Anzahl der verfügbaren Lizenzen im Azure-Portal unter [Azure Active Directory -> Lizenzen -> Alle Produkte](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/LicensesMenuBlade/Products) einsehen.
-5. Möglicherweise verfügt der Benutzer bereits über eine andere Lizenz, deren Dienste mit denen in der neuen Lizenz in Konflikt stehen, die Sie zuweisen möchten. Wenn für den Benutzer beispielsweise der Exchange Online-Dienst (Plan 1) aktiviert wurde, können Sie ihm keine Lizenz mit dem Exchange Online-Dienst (Plan 2) zuweisen. Deaktivieren Sie einen der Dienste, um die neue Lizenzzuweisung zu ermöglichen. Falls Sie das Azure-Portal oder PowerShell-Cmdlets verwenden, werden auf der Seite zu den **Problemdetails** die Dienste aufgeführt, die den Konflikt verursachen.
+5. Möglicherweise verfügt der Benutzer bereits über eine andere Lizenz, deren Dienste mit denen in der neuen Lizenz in Konflikt stehen, die Sie zuweisen möchten. Wenn der Benutzer beispielsweise den Dienst Exchange Online (Plan 1) aktiviert hat, können Sie keine Lizenz mit Exchange Online (Plan 2) zuweisen. Deaktivieren Sie einen der Dienste, um die neue Lizenzzuweisung zu ermöglichen. Falls Sie das Azure-Portal oder PowerShell-Cmdlets verwenden, werden auf der Seite zu den **Problemdetails** die Dienste aufgeführt, die den Konflikt verursachen.
 6. Wenn das Entfernen einer Lizenz fehlschlägt, verfügt der Benutzer möglicherweise über weitere Lizenzen mit Diensten, die von den Diensten abhängen, die Sie entfernen möchten. Falls Sie das Azure-Portal oder PowerShell-Cmdlets verwenden, werden in der Fehlermeldung die Dienste aufgeführt, die Abhängigkeiten aufweisen.
 7. Wenn Sie verstehen möchten, warum eine Lizenz für einen Benutzer hinzugefügt/entfernt wurde (beispielsweise, wer sonst noch in Ihrer Organisation Änderungen vorgenommen hat), überprüfen Sie die Überwachungsprotokolle. Legen Sie den Filter auf **Lizenzaktivitäten** fest, um alle Änderungen, einschließlich derjenigen Person, die sie vorgenommen hat, anzeigen zu lassen.
 8. Falls Sie Exchange Online verwenden, wurden einige Benutzer in Ihrem Mandanten möglicherweise nicht ordnungsgemäß mit demselben Proxyadresswert konfiguriert. In solchen Fällen werden möglicherweise allgemeine Fehlermeldungen angezeigt, wenn ein Lizenzvorgang fehlschlägt. [Dieser Artikel](https://docs.microsoft.com/exchange/troubleshoot/administration/proxy-address-being-used) enthält weitere Informationen zu diesem Problem, einschließlich Informationen zum Herstellen einer [Verbindung mit Exchange Online mithilfe von Remote-PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell). Führen Sie dieses Exchange Online-Cmdlet aus, um zu ermitteln, welche Benutzer in Ihrem Mandanten dieselbe Proxyadresse enthalten:

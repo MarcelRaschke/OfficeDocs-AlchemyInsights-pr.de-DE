@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002474"
 - "4811"
-ms.openlocfilehash: ba1591f66740bf65f8b70579530f86896bc5f445
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 5ab70c34589bc143dec50917d32910a3e67c31a4
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63203504"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65725549"
 ---
 # <a name="get-support-for-windows-or-azure"></a>Support für Windows oder Azure erhalten
 
