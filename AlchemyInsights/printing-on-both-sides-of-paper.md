@@ -14,24 +14,24 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: fb7f450fe0fc0a8c6118246cb9868955acf40c43
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4e3f8569e7c2e7a4d8932de1a127136599c24cbf
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63158071"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65721689"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Beidseitiges Bedrucken von Papier (Duplexdruck)
 
 **Wird Duplexdruck auf meinem Drucker unterstützt?**
 
-In der Funktionsübersicht oder im Handbuch Ihres Druckers sollten Sie nachlesen können, ob er beidseitiges Bedrucken von Papier, auch bekannt als „Duplexdruck“, unterstützt. Wenn Sie über Microsoft Office verfügen, können Sie dies auch herausfinden, indem Sie eine Office-App wie Word oder Excel öffnen, auf **Datei > Drucken** wechseln, sicherstellen, dass der richtige Drucker ausgewählt ist, und im Abschnitt „Einstellungen“ nach der Funktion suchen. Zum Beispiel: 
+In der Funktionsübersicht oder im Handbuch Ihres Druckers sollten Sie nachlesen können, ob er beidseitiges Bedrucken von Papier, auch bekannt als "Duplexdruck", unterstützt. Wenn Sie über Microsoft Office verfügen, können Sie dies auch herausfinden, indem Sie eine Office-App wie Word oder Excel öffnen, auf **Datei > Drucken** wechseln, sicherstellen, dass der richtige Drucker ausgewählt ist, und im Abschnitt „Einstellungen“ nach der Funktion suchen. Zum Beispiel: 
 
 ![Druckereinstellungen](media/print-settings.png)
 
 **Duplexdruck in Microsoft Office**
 
-Wenn Ihr Drucker beidseitiges Bedrucken unterstützt, dann sehen Sie, wenn Sie in der Office-App auf **Datei > Drucken** wechseln, die Option „Beidseitiges Bedrucken“, wie im obigen Beispiel gezeigt.  Wählen Sie die gewünschte Duplexdruckform aus (auf der langen Seite kippen oder auf der kurzen Kante kippen), und klicken Sie auf **Drucken**, um den Ausdruck zu starten.
+Wenn Ihr Drucker beidseitiges Bedrucken unterstützt, dann sehen Sie, wenn Sie in der Office-App auf **Datei > Drucken** wechseln, die Option "Beidseitiges Bedrucken" wie im obigen Beispiel gezeigt.  Wählen Sie die gewünschte Duplexdruckform aus (auf der langen Seite kippen oder auf der kurzen Kante kippen), und klicken Sie auf **Drucken**, um den Ausdruck zu starten.
 
 **Duplexdruck aus einer beliebigen Anwendung**
 

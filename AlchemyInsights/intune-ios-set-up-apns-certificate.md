@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3543"
-ms.openlocfilehash: 3a07e29f74c2aa934f8b8542c316a94d55a65587
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: aa56ae04f7449382446ed9118c1a63df3df4cde8
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63171247"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65730124"
 ---
 # <a name="intune-ios-set-up-apns-certificate"></a>Intune iOS – APNS-Zertifikat einrichten
 
@@ -29,4 +29,4 @@ Eine schrittweise Anleitung zum Hinzufügen eines APNS-Zertifikats zu Ihrem Intu
 
 - [Abrufen eines Apple MDM-Push-Zertifikats](https://docs.microsoft.com/mem/intune/enrollment/apple-mdm-push-certificate-get)
 
-Wenn Sie Probleme mit dem Apple Push Notification-Zertifikat (APNs) haben, lesen Sie bitte folgenden Blogbeitrag: [Intune und das APNs-Zertifikat: Häufig gestellte Fragen und häufig auftretende Probleme](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/Intune-and-the-APNs-certificate-FAQ-and-common-issues/ba-p/280121)
+Wenn Sie Probleme mit dem Apple Push Notification-Zertifikat (APNs) haben, lesen Sie diesen Blogbeitrag: [Intune und das APNs-Zertifikat: Häufig gestellte Fragen und häufige Probleme](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/Intune-and-the-APNs-certificate-FAQ-and-common-issues/ba-p/280121).

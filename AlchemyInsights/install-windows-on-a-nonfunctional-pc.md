@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001473"
 - "3501"
-ms.openlocfilehash: ea543aca8221012efa05e6bed3a32130246cd3cc
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: cd9c711c4720919bb25397b5221015232bc0ad09
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63297475"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65720141"
 ---
 # <a name="install-windows-on-a-nonfunctional-pc"></a>Installieren von Windows auf einem nicht funktionsfähigen PC
 
@@ -25,7 +25,7 @@ Sie können ein Installationsmedium (einen USB-Stick oder eine DVD) verwenden, u
 
 1. **Suchen Sie den Product Key oder die digitale Lizenz**.
 
-    - Wo Sie Ihren Product Key finden können, hängt davon ab, wie Sie Ihre Kopie von Windows erhalten haben. Hilfe bei der Suche finden Sie unter [Auffinden Ihres Windows-Product Keys](https://support.microsoft.com/help/10749/windows-10-find-product-key). 
+    - Wo Sie Ihren Product Key finden können, hängt davon ab, wie Sie Ihre Kopie von Windows erhalten haben. Hilfe bei der Suche finden Sie unter [Auffinden Ihres Windows-Product Keys](https://support.microsoft.com/help/10749/windows-10-find-product-key).
 
 2. **Verwenden Sie einen USB-Stick oder eine DVD, um ein eigenes Installationsmedium zu erstellen**.
 

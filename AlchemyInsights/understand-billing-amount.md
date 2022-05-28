@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 3288b87ef0c7c5fc412775c026111dc9f2dc16c2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 81712cdaf828a51eaa0e05bba5fd8d744b1b79a3
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63165919"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65721581"
 ---
 # <a name="understand-billing-amount"></a>Informationen zum Abrechnungsbetrag
 

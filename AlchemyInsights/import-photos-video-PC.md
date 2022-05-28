@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9822"
 - "9005408"
-ms.openlocfilehash: 9c1f368d030587ce5ce2bbc919c653086d88ef25
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 0ffa763c87f3b0ce849d7c4e454c28b64b566f2e
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63192560"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65730160"
 ---
 # <a name="import-photos-and-videos-to-your-pc"></a>Importieren Sie Fotos und Videos auf Ihren PC
 
@@ -56,7 +56,7 @@ Um Fotos und Videos von Ihrem Handy auf den PC zu übertragen, verbinden Sie Ihr
 
 1. Wenn Sie Probleme beim Übertragen von Dateien haben, vergewissern Sie sich, dass Ihr Handy entsperrt ist, und wenn Sie die Benachrichtigung **Diesem Gerät vertrauen** sehen, wählen Sie **Akzeptieren**. Wenn iCloud auf Ihrem iOS-Gerät aktiviert ist, können Sie Ihre Fotos oder Videos nicht herunterladen, da sie sich in iCloud und nicht auf Ihrem Gerät befinden. Wenn Sie Ihre Fotos oder Videos auf Ihren PC importieren möchten, tun Sie dies mit der iCloud-Desktop-App.
 
-1. Wenn Sie Probleme mit Ihrer Apple ID, dem Passcode oder dem Apple-Prüfcode haben, finden Sie weitere Informationen im Apple Support.
+1. Wenn Sie Probleme mit Ihrer Apple-ID, dem Passcode oder dem Apple-Prüfcode haben, finden Sie weitere Informationen im Apple Support.
 
 **Importieren Sie Fotos oder Videos von einem anderen Gerät auf Ihren PC**
 

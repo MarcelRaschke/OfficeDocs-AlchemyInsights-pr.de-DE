@@ -14,18 +14,18 @@ ms.custom:
 - "9002612"
 - "5073"
 ms.date: 08/10/2021
-ms.openlocfilehash: a22895a58d917fb7ed191c0c412d2df52e4cd29b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 475c64885fec6698ea0767465b366ed28172910e
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63227841"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65717675"
 ---
 # <a name="change-payment-method-fromto"></a>Ändern der Zahlungsmethode von/zu
 
 1. **Ändern der Zahlungsmethode von auf Rechnung zu per Kreditkarte oder Bankkonto**
 
-    - Sie können nicht automatisch von der Zahlung per Rechnung zu einer Zahlung mit einer anderen Zahlungsmethode wechseln. Stattdessen müssen Sie [ein anderes Abonnement kaufen](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription), das mit einer Kreditkarte, EC-Karte oder einem Bankkonto bezahlt wird, [alle Benutzer in das neue Abonnement verschieben](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription) und dann [das alte Abonnement beenden](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+    - Ein automatischer Wechsel von der Zahlung per Rechnung zur Zahlung mit einer anderen Zahlungsart ist nicht möglich. Stattdessen müssen Sie [ein anderes Abonnement kaufen](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription), das mit einer Kreditkarte, EC-Karte oder einem Bankkonto bezahlt wird, [alle Benutzer in das neue Abonnement verschieben](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription) und dann [das alte Abonnement beenden](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Ändern der Zahlungsmethode von per Kreditkarte zu per Bankkonto oder auf Rechnung**
 

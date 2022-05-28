@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "13728"
 - "9008594"
-ms.openlocfilehash: 6287b5b82aebac07d19792e6dd440d6d88b19cf4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 70889044bb4aa932dc2677a0dd7ca9b456b5fb35
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63171283"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65717495"
 ---
 # <a name="integrate-microsoft-lti-apps-with-your-lms"></a>Integrieren von Microsoft LTI-Apps in Ihr LMS
 
-Zur Integration von Microsoft-Lehr- und Lernprodukten haben wir eine App-Suite mithilfe des LTI-Standards (Microsoft Learning Tools Interoperability) erstellt, die das Beste aus Microsoft in Ihr Learning Management System (LMS) bringt. Schritt-für-Schritt-Anleitungen für Administratoren zum Bereitstellen der LTI-Apps finden Sie im [Interoperabilitätshandbuch für Microsoft Learning Tools](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/lmsintegrationguide).
+Um die Lehr- und Lernprodukte von Microsoft zu integrieren, haben wir eine App-Suite entwickelt, die den Microsoft Learning Tools Interoperability (LTI)-Standard nutzt und das Beste von Microsoft in Ihr Lernmanagementsystem (LMS) bringt. Schritt-für-Schritt-Anleitungen für Administratoren zum Bereitstellen der LTI-Apps finden Sie im [Interoperabilitätshandbuch für Microsoft Learning Tools](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/lmsintegrationguide).

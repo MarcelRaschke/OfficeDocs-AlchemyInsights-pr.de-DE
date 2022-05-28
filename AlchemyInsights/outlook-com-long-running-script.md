@@ -1,5 +1,5 @@
 ---
-title: Skript mit langer Ausführung 8000051 Outlook.com
+title: 8000051 Outlook.com Lang ausgeführtes Skript
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "856"
 - "8000051"
 ms.assetid: 3bac167e-055b-4cfb-ad3f-7b47a7492588
-ms.openlocfilehash: 5fc549415557577c1e383d8ee135ea1fe7c2ca43
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 876f94852e881f070c91f2782a00e7928b41572f
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63233907"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65717963"
 ---
-# <a name="long-running-script"></a>Lange ausgeführtes Skript
+# <a name="long-running-script"></a>Skript mit langer Ausführungsdauer
 
-Wir sind uns der Probleme mit "lange ausgeführten Skripts" in Outlook.com bewusst. Um dieses Problem zu umgehen, verwenden Sie bitte die Betaversion Outlook.com.
+Wir sind uns der Probleme mit "lang laufenden Skripts" in Outlook.com bewusst. Als Problemumgehung verwenden Sie bitte die Betaversion von Outlook.com.
   
-[Erfahren Sie mehr über die Betaversion Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Erfahren Sie mehr über die Betaversion von Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
   

@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: d898ada792209a84ec3c52594c91dbefcf7daa37
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 169ac78d3898232825b30abf83f607b005743450
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63271781"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65718982"
 ---
 # <a name="bitlocker-recovery"></a>BitLocker-Wiederherstellung
 
 Wechseln Sie zu ["Geräte](https://account.microsoft.com/devices/recoverykey) ", um Ihre BitLocker-Wiederherstellungsschlüssel anzuzeigen.
 
-Weitere Informationen [finden Sie unter "Meinen BitLocker-Wiederherstellungsschlüssel suchen](https://support.microsoft.com/help/4026181) ".
+Weitere Informationen finden [Sie unter "Suchen des BitLocker-Wiederherstellungsschlüssels](https://support.microsoft.com/help/4026181) ".

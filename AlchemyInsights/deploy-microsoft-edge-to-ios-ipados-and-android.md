@@ -15,12 +15,12 @@ ms.custom:
 - "9004604"
 - "13637"
 - "9008577"
-ms.openlocfilehash: 0e182d48afb779cf43cce6dae329a0ac42f56fe3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 2984aef4fbffcc85b6799cdf3eb1fc3836f302e2
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63173407"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65720393"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Bereitstellen von Microsoft Edge auf iOS, iPadOS und Android
 

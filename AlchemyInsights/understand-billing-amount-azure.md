@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 19fb407aa1b98d232e8ffd78db299a3cad0885b0
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: fde711329d12515b3ee743272d6ce58447efb759
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63289601"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65716268"
 ---
 # <a name="understand-billing-amount"></a>Informationen zum Abrechnungsbetrag
 
@@ -25,7 +25,7 @@ Das kostenlose Azure-Kontoangebot umfasst Azure-Guthaben im Wert von 200 USD (zu
 
 Dieses Angebot ist auf eine Registrierung pro anspruchsberechtigtem Kunden beschränkt und kann nicht mit anderen Angeboten kombiniert werden, es sei denn, dies ist anderweitig durch Microsoft gestattet.
 
-Innerhalb von 30 Tagen nach der Registrierung oder nach Erschöpfung des Guthabens des Kunden (je nachdem, welcher Fall zuerst eintritt) muss der Kunde ein Upgrade auf ein Konto mit nutzungsbasierter Bezahlung durchführen, indem er das Ausgabenlimit aufhebt. Dadurch wird die fortgesetzte Nutzung des kostenlosen Azure-Kontos für die restlichen 11 Monate ermöglicht. Nach dem Upgrade durch den Kunden werden die Nutzung über das anfängliche Guthaben und die ausgewählten kostenlosen Dienste hinaus zu nutzungsbasierten Tarifen abgerechnet. Wenn der Kunde kein Upgrade durchführt, wird das ﻿kostenlose Konto-Abonnement deaktiviert.
+Innerhalb von 30 Tagen nach der Anmeldung oder nach Erschöpfung des Kundenguthabens (je nachdem, was zuerst eintritt) muss der Kunde auf ein Pay-As-You-Go-Konto upgraden, indem er das Ausgabenlimit entfernt. Dadurch wird die fortgesetzte Nutzung des kostenlosen Azure-Kontos für die restlichen 11 Monate ermöglicht. Nach dem Upgrade durch den Kunden werden die Nutzung über das anfängliche Guthaben und die ausgewählten kostenlosen Dienste hinaus zu nutzungsbasierten Tarifen abgerechnet. Wenn der Kunde kein Upgrade durchführt, wird das ﻿kostenlose Konto-Abonnement deaktiviert.
 
 Weitere Informationen: [Produkte, die im Rahmen des kostenlosen Azure-Kontos monatlich kostenlos zur Verfügung stehen](https://azure.microsoft.com/free/free-account-faq/)
 

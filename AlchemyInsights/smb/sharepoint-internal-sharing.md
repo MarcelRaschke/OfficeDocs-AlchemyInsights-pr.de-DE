@@ -12,12 +12,12 @@ ms.custom:
 - "9010137"
 - "15583"
 ms.date: 02/11/2022
-ms.openlocfilehash: ddf15dff55764e0e2550f7ea55b86b8a2892c043
-ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
+ms.openlocfilehash: 3b8218139aaf168fc025ce59e4f945799b432b0a
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2022
-ms.locfileid: "64888973"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65716557"
 ---
 # <a name="sharepoint-internal-sharing"></a>Interne SharePoint-Freigabe
 
@@ -43,4 +43,4 @@ Sie können auch **"Link kopieren"** auswählen und den Link in einer E-Mail sen
 *Weitere Informationen zur Dateifreigabe:*
  [Freigeben von Dateien und Ordnern mit Microsoft 365 Business](https://support.microsoft.com/office/share-files-and-folders-with-microsoft-365-business-72f26d6c-bf9e-432c-8b96-e3c2437f5b65)
 
-Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie unten auf "Live-Chat** ".
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie dann unten auf Live Chat**.

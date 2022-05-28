@@ -1,5 +1,5 @@
 ---
-title: Ton- und visuelle Benachrichtigungen in Teams können nicht ein- oder ausgeschaltet werden
+title: Teams-Sound- und visuelle Benachrichtigungen können nicht aktiviert oder deaktiviert werden.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003573"
 - "6652"
-ms.openlocfilehash: f3cb74aa8cb943a3675711b4d57d7e5998105994
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4670f6772b1cd7ae970678e2bf79566916282d62
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63163219"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65720537"
 ---
-# <a name="cant-turn-teams-sound-and-visual-notifications-on-or-off"></a>Ton- und visuelle Benachrichtigungen in Teams können nicht ein- oder ausgeschaltet werden
+# <a name="cant-turn-teams-sound-and-visual-notifications-on-or-off"></a>Teams-Sound- und visuelle Benachrichtigungen können nicht aktiviert oder deaktiviert werden.
 
 1. Wählen Sie Ihr Profilbild in Teams oben rechts aus.
 2. Wählen Sie **Einstellungen** > **Benachrichtigungen** aus.

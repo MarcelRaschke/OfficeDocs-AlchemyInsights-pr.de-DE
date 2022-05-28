@@ -15,14 +15,14 @@ ms.custom:
 - "756"
 - "755"
 - "2000016"
-ms.openlocfilehash: d6a4cc64fc74882358ba6ffc8287f322f63bb12b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 2b2a09fedcc6bfca1243901b8e8a736883c6ad72
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63087706"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65721257"
 ---
 # <a name="office-products-not-available-for-the-mac-platform"></a>Office Produkte, die für die Mac-Plattform nicht verfügbar sind
 
-Visio, Project, Publisher und Access sind für die Mac-Plattform nicht verfügbar, Visio Online und Project Online sind jedoch verfügbar und funktionieren auf allen Plattformen.
+Visio, Project, Publisher und Access sind für die Mac-Plattform nicht verfügbar, jedoch sind Visio Online und Project Online verfügbar und funktionieren auf allen Plattformen.
   

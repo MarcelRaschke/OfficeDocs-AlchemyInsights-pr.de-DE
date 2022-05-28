@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7760"
 - "9004346"
-ms.openlocfilehash: 1f11ee43bfa45b85604097c49c427d0bd7ab23cf
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: 155e634fd4fbc85ab0dd477ca69af18d33c27253
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65593804"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65718333"
 ---
 # <a name="sso-configuration-issues"></a>Einmaliges Anmelden – Konfigurationsprobleme
 

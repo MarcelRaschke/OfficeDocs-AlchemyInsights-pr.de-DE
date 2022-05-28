@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6006"
 - "1300007"
-ms.openlocfilehash: 78f898fc46354d55fef1f072446ccd6fd17c31c3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 9368a0f18e42cbcd18ac788e9b38bcfcf1b64c21
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63262771"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65718585"
 ---
 # <a name="security-defaults-is-enabled"></a>Sicherheitsstandardwerte sind aktiviert
 
@@ -25,7 +25,7 @@ Die Einstellung "Sicherheitsstandardwerte" fordert alle Benutzer zur mehrstufige
 
 So verwalten Sie Sicherheitsstandards
 
-1. Melden Sie sich mit Ihren globalen Administratoranmeldeinformationen beim  [Azure-Portal](https://ms.portal.azure.com/)  an.
+1. Melden Sie sich mit Ihren globalen Administratoranmeldeinformationen beim [Azure-Portal](https://ms.portal.azure.com/) an.
 2. Wechseln Sie zu **Azure Active Directory** > **-Eigenschaften**.
 3. Klicken Sie am unteren Rand der Seite auf **Sicherheitsstandards verwalten**.
 4. Klicken Sie auf **Ja**, um Sicherheitsstandards zu aktivieren, oder auf **Nein**, um Sicherheitsstandards zu deaktivieren.

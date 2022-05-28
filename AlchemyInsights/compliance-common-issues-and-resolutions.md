@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 7195f80569b445e3f9e079bced75b8408920f2b2
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: 3b44240dd222e31166dc3e32b4fc67046e52983a
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65592868"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65731782"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Häufige Probleme und Lösungen zur Compliance
 
@@ -33,7 +33,7 @@ Nachfolgend finden Sie einige häufig angeforderte Themen zur Compliance:
 
 - Überwachung in O365: [Durchsuchen des Überwachungsprotokolls in O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
 
-- Verhinderung von Datenverlust (Data Loss Prevention, DLP): Weitere Informationen finden Sie unter [Übersicht über die Richtlinien zur Verhinderung von Datenverlust](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies).
+- Verhinderung von Datenverlust (Data Loss Prevention, DLP): Weitere Informationen finden Sie unter [Übersicht über Microsoft Purview Data Loss Prevention (DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies).
  
 - Vertraulichkeitsbezeichnungen: Weitere Informationen finden Sie unter [Erstellen und Konfigurieren von Vertraulichkeitsbezeichnungen und der zugehörigen Richtlinien](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
 

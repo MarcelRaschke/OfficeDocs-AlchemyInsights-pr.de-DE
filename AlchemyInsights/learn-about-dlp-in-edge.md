@@ -1,5 +1,5 @@
 ---
-title: Informationen zur Verhinderung von Datenverlust (Data Loss Prevention, DLP) in Microsoft Edge
+title: Informationen zu Microsoft Purview Data Loss Prevention in Microsoft Edge
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: 386e0514e1761c39c379e909f886e9257b970f83
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: bd6a73f4e9494f4eac34edbf4458debb733dec56
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63202316"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65721365"
 ---
-# <a name="learn-about-data-loss-prevention-dlp-in-microsoft-edge"></a>Informationen zur Verhinderung von Datenverlust (Data Loss Prevention, DLP) in Microsoft Edge
+# <a name="learn-about-microsoft-purview-data-loss-prevention-in-microsoft-edge"></a>Informationen zu Microsoft Purview Data Loss Prevention in Microsoft Edge
 
-Die Anzahl der Personen, die remote arbeiten, nimmt zu. Folglich werden mehr Arbeit und persönliche Aktivitäten auf mobilen Geräten ausgeführt, sensible daten außerhalb des Arbeitsplatzes freigegeben, und mehr dieser Daten werden zwischen persönlichen und unternehmenseigenen Geräten über eine Vielzahl von öffentlichen und privaten Netzwerken übertragen.
+Die Zahl der Personen, die remote arbeiten, nimmt zu. Folglich werden mehr geschäftliche und persönliche Aktivitäten auf mobilen Geräten ausgeführt, sensiblere Daten werden außerhalb des Arbeitsplatzes freigegeben, und mehr dieser Daten werden zwischen persönlichen und unternehmenseigenen Geräten über eine Vielzahl von öffentlichen und privaten Netzwerken verschoben.
 
-Vertrauliche Unternehmensdaten umfassen Finanzdaten und personenbezogene Informationen (PII), z. B. Kreditkartennummern, Sozialversicherungsnummern und Gesundheitsdatensätze. Um Geschäftsstandards und Branchenbestimmungen einzuhalten, müssen Organisationen vertrauliche Daten schützen und deren unbefugte Offenlegung verhindern. DLP ist ein System von Technologien, mit dem Organisationen diese Aufgabe ausführen können.
+Vertrauliche Unternehmensdaten umfassen Finanzdaten und personenbezogene Daten, z. B. Kreditkartennummern, Sozialversicherungsnummern und Gesundheitsdatensätze. Um Geschäftsstandards und Branchenvorschriften einzuhalten, müssen Organisationen vertrauliche Daten schützen und deren unbefugte Offenlegung verhindern. DLP ist ein System von Technologien, mit dem Organisationen diese Aufgabe erledigen können.
 
-Weitere Informationen zu zwei unterschiedlichen DLP-Lösungen, die systemintern von Microsoft Edge unterstützt werden, finden Sie unter [Microsoft Endpoint DLP](https://go.microsoft.com/fwlink/?linkid=2151765) und [Windows Information Protection (WIP).](https://go.microsoft.com/fwlink/?linkid=2151766)
+Weitere Informationen zu zwei verschiedenen DLP-Lösungen, die nativ von Microsoft Edge unterstützt werden, finden Sie unter [Endpoint DLP](https://go.microsoft.com/fwlink/?linkid=2151765) und [Windows Information Protection (WIP)](https://go.microsoft.com/fwlink/?linkid=2151766). Informationen zur Unterstützung von DLP in Chrome finden Sie unter [Informationen zur Microsoft Purview-Erweiterung](https://docs.microsoft.com/microsoft-365/compliance/dlp-chrome-learn-about).

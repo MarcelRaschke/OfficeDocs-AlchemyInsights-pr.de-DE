@@ -1,5 +1,5 @@
 ---
-title: 932 Upgrade von AADConnect
+title: 932 Aktualisieren von AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 2daa1b17180e6ae8df097be7fa2597e6026c3983
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4ce8b6de8f36e4f3ae1c8c66010400db5accd3b4
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63220281"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65718189"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Upgrade Azure AD Verbinden
+# <a name="upgrade-azure-ad-connect"></a>Azure AD-Verbinden aktualisieren
 
-Standardmäßig ist das automatische Upgrade für Azure AD Verbinden aktiviert, wodurch sichergestellt wird, dass Sie die neueste Version ausführen. Um die Einstellungen für automatische Upgrades zu überprüfen, verwenden Sie das Cmdlet **"Get-ADSyncAutoUpgrade**" in Azure AD PowerShell. Das Cmdlet gibt einen der folgenden Werte zurück:
+Standardmäßig ist das automatische Upgrade für Azure AD Verbinden aktiviert, wodurch sichergestellt wird, dass Sie die neueste Version ausführen. Verwenden Sie zum Überprüfen der Einstellungen für automatische Upgrades das Cmdlet **"Get-ADSyncAutoUpgrade** " in Azure AD PowerShell. Das Cmdlet gibt einen der folgenden Werte zurück:
 
-- **Aktiviert**: Das automatische Upgrade ist aktiviert.
+- **Aktiviert**: Automatisches Upgrade ist aktiviert.
 
 - **Deaktiviert**: Das automatische Upgrade ist deaktiviert.
 
 - **Angehalten**: Das System ist nicht mehr berechtigt, automatische Upgrades zu erhalten. Sie können diesen Wert nicht konfigurieren. sie wird vom System festgelegt.
 
-Weitere Informationen finden Sie unter ["Automatisches Upgrade](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)".
+Weitere Informationen finden Sie unter [Automatisches Upgrade](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
 Um die neueste Version von Azure AD Verbinden herunterzuladen, wechseln Sie zu [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).

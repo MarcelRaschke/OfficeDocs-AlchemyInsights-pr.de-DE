@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 27b32b361824a0d670544f53964a3fcc1026eb14
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 749072e05eb07c46cbb278265cbb0b3756156ec2
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63291411"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65718369"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Aktivieren von SMTP-Authentifizierung und Problembehandlung
 
@@ -25,21 +25,21 @@ Wenn Sie die SMTP-Authentifizierung für ein Postfach aktivieren möchten oder b
 
 1. Deaktivieren Sie die [Azure-Sicherheitsstandards](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), indem Sie die Option **Sicherheitsstandards aktivieren** auf **Nein** festlegen.
 
-    a. Melden Sie sich beim Azure-Portal als Sicherheitsadministrator, Administrator für bedingten Zugriff oder globaler Administrator an.<BR/>
-    a. Navigieren Sie zu Azure Active Directory > **Eigenschaften**.<BR/>
-    c. Wählen Sie **Sicherheitsstandards verwalten** aus.<BR/>
-    d. Legen Sie **Sicherheitsstandardwerte aktivieren** auf **Nein** fest.<BR/>
-    e. Wählen Sie **Speichern** aus.
+    1. Melden Sie sich beim Azure-Portal als Sicherheitsadministrator, Administrator für bedingten Zugriff oder globaler Administrator an.
+    2. Navigieren Sie zu Azure Active Directory > **Eigenschaften**.
+    3. Wählen Sie **Sicherheitsstandards verwalten** aus.
+    4. Legen Sie **Sicherheitsstandards aktivieren** auf **Nein** fest.
+    5. Wählen Sie **Speichern** aus.
 
 2. [Aktivieren Sie die SMTP-Clientübermittlung](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) für das lizenzierte Postfach.
 
-    a. Wechseln Sie im Microsoft 365 Admin Center zu **Aktive Benutzer**, und wählen Sie den Benutzer aus.<BR/>
-    b. Wechseln Sie zur Registerkarte "E-Mail", und wählen Sie unter **E-Mail-Apps****E-Mail-Apps verwalten** aus.<BR/>
-    d. Stellen Sie sicher, dass **Authentifiziertes SMTP** aktiviert ist.<BR/>
-    e. Wählen Sie **Änderungen speichern** aus.<BR/>
+    1. Navigieren Sie im Microsoft 365 Admin Center zu **Aktive Benutzer**, und wählen Sie den Benutzer aus.
+    2. Navigieren Sie zur Registerkarte „E-Mail“, und wählen Sie unter **E-Mail-Apps** die Option **E-Mail-Apps verwalten** aus.
+    3. Stellen Sie sicher, dass **Authentifiziertes SMTP** ausgewählt (aktiviert) ist.
+    4. Wählen Sie **Änderungen speichern** aus.
 
 3. [Deaktivieren Sie die mehrstufige Authentifizierung (MFA)](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) für das lizenzierte Postfach.
 
-    a. Wechseln Sie zum Microsoft 365 Admin Center, und wählen Sie im linken Navigationsmenü **Benutzer** > **Aktive Benutzer** aus.<BR/>
-    b. Wählen Sie **Mehrstufige Authentifizierung** aus.<BR/>
-    c. Wählen Sie den Benutzer aus, und deaktivieren Sie **Mehrstufige Authentifizierung**.<BR/>
+    1. Wechseln Sie zum Microsoft 365 Admin Center, und wählen Sie im linken Navigationsmenü **Benutzer** > **Aktive Benutzer** aus.
+    2. Wählen Sie **Mehrstufige Authentifizierung** aus.
+    3. Wählen Sie den Benutzer aus, und deaktivieren Sie **Mehrstufige Authentifizierung**.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12064"
 - "9006408"
-ms.openlocfilehash: a663fc7d9afda46278ee3f8cd20f90ef1c35d328
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 2805f94b9a1925c70a5254eb20f1daa684833481
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63274913"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65716809"
 ---
 # <a name="issues-related-to-office-scripts"></a>Probleme im Zusammenhang mit Office-Skripts
 
@@ -34,7 +34,7 @@ Um Office-Skripts verwenden zu können, müssen Benutzer in Ihrer Organisation �
 
 Es kann bis zu 48 Stunden dauern, bis Änderungen in den Einstellungen von Office-Skripts wirksam werden. Weitere Informationen finden Sie unter [Verwalten von Office-Skripteinstellungen](https://docs.microsoft.com/microsoft-365/admin/manage/manage-office-scripts-settings).
 
-Da Office-Skripts mit Power Automate funktionieren, empfehlen wir Ihnen, Ihre vorhandenen Richtlinien zur Verhinderung von Datenverlust (DLP) zu überprüfen, um sicherzustellen, dass Ihre Organisationsdaten geschützt bleiben, während Benutzer „Office-Skripts“ verwenden. Weitere Informationen finden Sie unter [Richtlinien zur Verhinderung von Datenverlust (DLP)](https://docs.microsoft.com/power-automate/prevent-data-loss).
+Da Office-Skripts mit Power Automate funktionieren, empfehlen wir Ihnen, Ihre vorhandenen Microsoft Purview-Richtlinien zur Verhinderung von Datenverlust zu überprüfen, um sicherzustellen, dass Ihre Organisationsdaten geschützt bleiben, während Benutzer Office-Skripts verwenden. Weitere Informationen finden Sie unter [Richtlinien zur Verhinderung von Datenverlust (DLP)](https://docs.microsoft.com/power-automate/prevent-data-loss).
 
 Weitere Informationen finden Sie unter:
 

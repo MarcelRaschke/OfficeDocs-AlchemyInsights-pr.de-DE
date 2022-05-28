@@ -13,15 +13,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 4763b24f7ef80c51579f0925590b23f0d97ffb7b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 8bce71be0d4959f284207c4ade455e4d6559781c
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63196700"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65717207"
 ---
 # <a name="turn-off-focused-inbox-in-email-clients"></a>Deaktivieren des Posteingangs mit Relevanz in E-Mail-Clients
 
-Informationen zum Deaktivieren des Posteingangs mit Relevanz in Outlook 2016, Outlook im Web, Outlook.com/Hotmail.com, Outlook 2016 für Mac oder E-Mail für Windows 10 finden Sie unter [Deaktivieren des Posteingangs mit Relevanz](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
+Informationen zum Deaktivieren des Posteingangs mit Relevanz in Outlook 2016, Outlook im Web, Outlook.com/Hotmail.com, Outlook 2016 für Mac oder E-Mail für Windows 10 finden [Sie unter Deaktivieren des Posteingangs mit Relevanz](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
 
 Informationen zum Deaktivieren des Posteingangs mit Relevanz für alle Benutzer in der Organisation finden Sie unter [Konfigurieren des Posteingangs mit Relevanz für alle Benutzer in Ihrer Organisation](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).

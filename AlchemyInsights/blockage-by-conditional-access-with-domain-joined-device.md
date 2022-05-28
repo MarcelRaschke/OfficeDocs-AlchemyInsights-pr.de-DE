@@ -1,5 +1,5 @@
 ---
-title: Ich werde durch den bedingten Zugriff mit einem in der Domäne eingebunden Gerät blockiert
+title: Ich werde von Conditional Access mit einem domänenverbundenen Gerät blockiert
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9834"
 - "9003257"
-ms.openlocfilehash: abef2a3d10c0f5c68e91a671934473e48f33c4b3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 7edf2eef60e9e607ea5c4b054e881690d5b19a50
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63195404"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65717783"
 ---
-# <a name="im-getting-blocked-by-conditional-access-with-domain-joined-device"></a>Ich werde durch den bedingten Zugriff mit einem in der Domäne eingebunden Gerät blockiert
+# <a name="im-getting-blocked-by-conditional-access-with-domain-joined-device"></a>Ich werde von Conditional Access mit einem domänenverbundenen Gerät blockiert
 
 **Sehr empfehlenswerte Tools**
 
@@ -32,21 +32,21 @@ ms.locfileid: "63195404"
 
 Hier finden Sie einige häufige Ursachen, warum der bedingte Zugriff bei einem Gerät, das in einer Domäne eingebunden ist, (Azure AD Hybrid), fehlgeschlagen ist.
 
-1. **Es gibt kein Azure AD-PRT auf dem Gerät** – Sie müssen sicherstellen, dass das Gerät über das primäre Azure AD-Aktualisierungstoken (PRT) verfügt. Weitere Informationen zum PRT finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
+1. **Es gibt kein Azure AD-PRT auf dem Gerät** - Sie müssen sicherstellen, dass das Gerät über einen Azure AD Primary Refresh Token (PRT) verfügt. Weitere Informationen zu PRT finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
 
-Um zu überprüfen, ob Sie über das Azure AD-PRT verfügen, können Sie den `dsregcmd/status`-Befehl auf dem Gerät ausführen. Überprüfen Sie, ob „AzureAdPrt“ gleich „JA“ ist.
+Um zu überprüfen, ob Sie Azure AD PRT haben, können Sie den `dsregcmd/status` Befehl auf dem Gerät ausführen und überprüfen, ob "AzureAdPrt" gleich "JA" ist.
 
 Wenn „AzureAdPrt“ gleich „NEIN“ ist, überprüfen Sie Folgendes:
 
-- **Unabhängig davon, ob Sie über eine Verbundumgebung mit ADFS verfügen und diese von den Heimnetzwerken Ihrer Benutzer nicht erreichbar ist**: Stellen Sie in diesem Fall sicher, dass über das Extranet auf Ihre „usernamemixed“-Endpunkte zugegriffen werden kann. Wenn sich Ihre ADFS hinter einem VPN befinden, stellen Sie sicher, dass sich die Benutzer mit dem VPN verbinden und sich erneut auf dem Gerät anmelden. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-federated-domains).
+- **Sie haben eine föderierte Umgebung mit AD FS, die von den Heimnetzwerken Ihrer Benutzer aus nicht erreichbar ist**: In diesem Fall müssen Sie sicherstellen, dass Ihre "usernamemixed"-Endpunkte vom Extranet aus erreichbar sind. Wenn sich Ihre ADFS hinter einem VPN befinden, stellen Sie sicher, dass sich die Benutzer mit dem VPN verbinden und sich erneut auf dem Gerät anmelden. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-federated-domains).
 
-- **Führen Sie Folgendes durch, wenn das TPM des Geräts fehlerhaft ist und es daher nicht authentifiziert werden kann**: Überprüfen Sie „tpm.msc“, um herauszufinden, ob der Status von TPM „Bereit“ ist. Falls dies nicht der Fall ist, führen Sie den Befehl `dsregcmd/leave` aus, und lassen Sie das Gerät wieder mit Azure AD verknüpfen. Führen Sie den Vorgang anschließend erneut aus. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state).
+- **Ob das TPM des Geräts defekt ist und daher das Gerät nicht authentifizieren kann**: Prüfen Sie "tpm.msc", um zu sehen, ob der Status des TPM "Bereit" ist. Falls dies nicht der Fall ist, führen Sie den Befehl `dsregcmd/leave` aus, und lassen Sie das Gerät wieder mit Azure AD verknüpfen. Führen Sie den Vorgang anschließend erneut aus. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state).
 
 - **Sie verwenden einen Identitätsanbieter eines Drittanbieters, der das WS-Trust-Protokoll nicht unterstützt**. Wie in unseren Dokumenten beschrieben, können mit Azure AD Hybrid verbundene Geräte in diesem Fall nicht funktionieren. Wenden Sie sich an Ihren Identitätsanbieter, um Unterstützung zu erhalten.
 
-2. **Benutzer verwenden den Chrome-Browser ohne die Windows 10-Konten** oder **Office-Erweiterung; Chrome verwendet den PRT nicht automatisch bei mit AAD oder AAD Hybrid verbundenen Geräten**: Dies führt zu einem Fehler bei allen gerätebasierten Richtlinien für den bedingten Zugriff, und die Fehlermeldung „Nicht registriertes Gerät“ wird angezeigt. Damit Sie den Chrome-Browser ordnungsgemäß verwenden können, müssen Sie die „Windows 10-Konten“ oder die „Office-Erweiterung des Chrome-Browsers der Benutzer“ über den SCCM oder Intune installieren. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#chrome-support).
+2. **Benutzer verwenden den Chrome-Browser ohne die Windows 10-Konten** oder **Office-Erweiterung; Chrome verwendet den PRT nicht automatisch bei mit AAD oder AAD Hybrid verbundenen Geräten**: Dies führt zu einem Fehler bei allen gerätebasierten Richtlinien für den bedingten Zugriff und die Fehlermeldung „Nicht registriertes Gerät“ wird angezeigt. Um den Chrome-Browser korrekt zu verwenden, müssen Sie die "Windows 10-Konten" oder die "Office-Erweiterung für den Chrome-Browser der Benutzer" über SCCM oder Intune installieren. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#chrome-support).
 
-Wenn es nicht möglich ist, die Erweiterung remote zu übertragen, benachrichtigen Sie die Benutzer, eine der oben genannten Erweiterungen manuell zu installieren, um hinter dem gerätebasierten bedingten Zugriff auf Anwendungen zu zugreifen. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/conditional-access/require-managed-devices#prerequisites).
+Wenn es nicht möglich ist, die Erweiterung per Fernzugriff zu pushen, sollten Sie die Benutzer darauf hinweisen, dass sie eine der oben genannten Erweiterungen manuell installieren müssen, um auf Anwendungen mit gerätebasiertem bedingtem Zugriff zuzugreifen. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/conditional-access/require-managed-devices#prerequisites).
 
 3. **Das Gerät war ordnungsgemäß in Azure AD Hybrid eingebunden, wurde aber versehentlich gelöscht oder deaktiviert, entweder aufgrund von Synchronisierungsänderungen in Azure AD Connect oder über das Azure-Portal**: In diesem Fall wird das Geräteobjekt nicht mehr als vollständig eingebundenes Gerät erkannt, obwohl die Status „AzureAdJoined“ und „PRT“ auf dem Gerät als gültig angezeigt werden.
 

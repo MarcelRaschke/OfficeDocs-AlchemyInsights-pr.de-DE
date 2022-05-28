@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9128"
 - "9004429"
-ms.openlocfilehash: 2a134525805a247beda144fee2ecaa0b9f974d64
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 73334ec48cac98c00e95d057ca46adf3f065be2e
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63290429"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65717603"
 ---
 # <a name="troubleshoot-problems-with-sync-in-microsoft-edge"></a>Beheben von Problemen mit der Synchronisierung in Microsoft Edge
 

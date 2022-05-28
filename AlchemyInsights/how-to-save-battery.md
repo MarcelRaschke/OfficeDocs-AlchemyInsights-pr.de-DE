@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6021"
 - "9003211"
-ms.openlocfilehash: f73c6cb4caab7707b1654e760891d8cc28c5d1b0
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 613db3edc264365681768c702f434016ef259caa
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63236643"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65720213"
 ---
 # <a name="how-to-save-battery"></a>Sparen von Akku-Energie
 

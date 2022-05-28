@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9291"
 - "9005423"
-ms.openlocfilehash: ede3490b7aa0a6e28cd01fd5e39a314c402ef146
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: fa236b015aa236242a2c30ff3edce4829fb9907e
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63188960"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65720753"
 ---
 # <a name="what-is-microsoft-search-in-bing"></a>Was ist Microsoft Search in Bing?
 

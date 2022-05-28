@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 8833c1d35d0c12ae80d13b475c1c927b125a7438
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4bf5e745ac9373b56048beedacd1417cdde24258
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63259001"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65720645"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Übertragen des Besitzes von Azure-Abrechnungen
 
@@ -33,9 +33,9 @@ Beachten Sie, dass durch das Übertragen des Besitzes von Abrechnungen Ihres Abo
 
 _**Wichtige Auswirkung auf Ihre Rechnungen**_: Wenn Sie den Rechnungsbesitz für ein Azure-Abonnement übertragen haben, werden Ihre Gebühren anteilig berechnet. Sie können auf die Rechnungen wie folgt zugreifen:  
 
-1. Wählen Sie auf der Seite  [Abonnements](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)  im Azure-Portal Ihr Abonnement als  [Benutzer mit Zugriff auf Rechnungen](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) und dann  **Rechnungen** aus.
-1. Klicken Sie auf  **Rechnung herunterladen** , um eine Kopie Ihrer PDF-Rechnung anzuzeigen. Wenn  _Nicht verfügbar_ angezeigt wird, lesen Sie  [Warum wird keine Rechnung für den letzten Abrechnungszeitraum angezeigt?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-1. Sie können auch die tägliche Nutzung durch Anklicken des **Abrechnungszeitraums** anzeigen, um eine PDF-Version Ihrer Rechnung sowie eine Kopie der Datei mit detaillierten täglichen Nutzungsdaten (.CSV) zu erhalten. Weitere Informationen finden Sie unter  [Abrufen von Rechnungen und Nutzungsdaten](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
+1. Wählen Sie auf der Seite [Abonnements](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) im Azure-Portal Ihr Abonnement als [Benutzer mit Zugriff auf Rechnungen](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) und dann **Rechnungen** aus.
+1. Klicken Sie auf **Rechnung herunterladen**, um eine Kopie Ihrer PDF-Rechnung anzuzeigen. Wenn _Nicht verfügbar_ angezeigt wird, lesen Sie [Warum wird keine Rechnung für den letzten Abrechnungszeitraum angezeigt?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
+1. Sie können auch die tägliche Nutzung durch Anklicken des **Abrechnungszeitraums** anzeigen, um eine PDF-Version Ihrer Rechnung sowie eine Kopie der Datei mit detaillierten täglichen Nutzungsdaten (CSV) zu erhalten. Weitere Informationen finden Sie unter [Abrufen von Rechnungen und Nutzungsdaten](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Empfohlene Dokumente**
 

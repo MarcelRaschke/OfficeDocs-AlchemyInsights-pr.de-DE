@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9753"
 - "9005678"
-ms.openlocfilehash: 832a614b08da038ce81a690e36c13c0c57f715d9
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 375af0c4ea533662d5e680dd9de239e2db8e5b07
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63179455"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65718261"
 ---
 # <a name="submit-a-repair-request-for-a-surface-or-xbox-device"></a>Senden einer Reparaturanforderung für ein Surface- oder Xbox-Gerät
 

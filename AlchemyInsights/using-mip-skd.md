@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: b34a2f9abcab926cbf6ea9a37c691b62713c2e8f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 15d916a06b4ad4920ddafc20249f905ed723b7d2
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63122393"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65720861"
 ---
 # <a name="using-mip-skd"></a>Verwenden des MIP-SDKs
 
@@ -34,8 +34,8 @@ Weitere Informationen zu diesen Schritten finden Sie unter [Einrichten und Konfi
 
 Zusätzliche Ressourcen:
 
-- [Dokumentation zum Microsoft Information Protection SDK](https://docs.microsoft.com/information-protection/develop/)
+- [Microsoft Purview Information Protection SDK-Dokumentation](https://docs.microsoft.com/information-protection/develop/)
 - [Azure Information Protection-Entwicklerhandbuch](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
-- [Microsoft Information Protection Software Development Kit herunterladen](https://www.microsoft.com/download/details.aspx?id=57392):
-- [Setup und Konfiguration des Microsoft Information Protection (MIP)-SDKs](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
+- [Microsoft Purview Information Protection Software Development Kit herunterladen](https://www.microsoft.com/download/details.aspx?id=57392)
+- [Setup und Konfiguration des Microsoft Purview Information Protection SDK](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
 - [Azure-Codebeispiele für das MIP-SDK](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)

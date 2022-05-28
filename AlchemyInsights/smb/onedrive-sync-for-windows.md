@@ -12,12 +12,12 @@ ms.custom:
 - "9010112"
 - "15625"
 ms.date: 02/11/2022
-ms.openlocfilehash: 54e14ca7bce5df338314f0b48afbba9531d29454
-ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
+ms.openlocfilehash: 4e35ba736a782f59844419924156594c4cd19484
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2022
-ms.locfileid: "64886777"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65718441"
 ---
 # <a name="onedrive-synchronization-for-windows"></a>OneDrive-Synchronisierung für Windows
 
@@ -28,4 +28,4 @@ Mit OneDrive können Sie Dateien zwischen Ihrem Computer und der Cloud synchroni
 
 [Auswählen der OneDrive-Ordner, die mit Ihrem Computer synchronisiert werden sollen](https://support.microsoft.com/office/choose-which-onedrive-folders-to-sync-to-your-computer-98b8b011-8b94-419b-aa95-a14ff2415e85)
 
-Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie unten auf "Live-Chat** ".
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie dann unten auf Live Chat**.

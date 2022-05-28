@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1284"
 - "6700008"
-ms.openlocfilehash: ca29e2db0690db821f08cac52e22bdfff156bfa4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: e74d71efc5c735ad4350d370c59f94b472329538
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63178015"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65720897"
 ---
 # <a name="use-teamviewer-to-remotely-administer-intune-devices"></a>Verwenden von TeamViewer für die Remoteverwaltung von Intune-Geräten
 
@@ -31,7 +31,7 @@ Beginnen Sie damit, dass Sie Anmeldeinformationen von TeamViewer abrufen, um den
 **Teil 1: Starten einer Sitzung mit einem Remotegerät**
 
 1. Wählen Sie unter **Alle Geräte** das Gerät aus, mit dem Sie eine Remotesitzung starten möchten.
-2. Wählen Sie unter **...Mehr** die Option **Neue Remoteunterstützungssitzung** aus.
+2. Wählen Sie unter  **...Mehr** die Option **Neue Remoteunterstützungssitzung aus**.
 3. Wählen Sie **Ja** aus, um zu bestätigen, dass Sie eine Remotesitzung einrichten möchten.
     Nachdem die Anforderung zur „Initiierung einer neuen Remotesitzung“ vom TeamViewer-Dienst bestätigt wurde, wird unter den Details des Bereichs „Übersicht“ (oder „Essentials“) für das Gerät eine Option **Remotesitzung starten** angezeigt. Wählen Sie **Mehr anzeigen** aus, um den Bereich zu erweitern und den Status der Remoteunterstützung anzuzeigen.
 4. Wählen Sie **Remotesitzung starten** aus, um die Sitzung auf der Administratorseite zu initiieren.

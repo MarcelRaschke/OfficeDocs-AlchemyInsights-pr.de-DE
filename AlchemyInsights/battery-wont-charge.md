@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: cfd8515ff9a0b3f4ff938bd6558012e6c0983a8b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: ac4f8ce3da629260aaf72df5499c6ce65f19f65f
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63269333"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65720609"
 ---
 # <a name="battery-wont-charge"></a>Der Akku wird nicht aufgeladen
 
@@ -40,7 +40,7 @@ Installieren Sie nach dem Entfernen des Akkutreibers Surface- und Windows-Update
 
 **Weitere Informationen zur Fehlerbehebung**
 
-Das LED-Licht sollte leuchten, wenn Ihr Netzstecker an Ihr Surface angeschlossen ist. Wenn es ausgeschaltet ist, blinkt oder weiß blinkt, lesen Sie bitte, [Was ist zu tun, wenn Ihr Surface-Netzteil oder Ladegerät nicht funktionier](https://support.microsoft.com/help/4484763/surface-fix-issues-with-your-power-supply). 
+Das LED-Licht sollte leuchten, wenn Ihr Netzstecker an Ihr Surface angeschlossen ist. Wenn es ausgeschaltet ist, blinkt oder weiß blinkt, lesen Sie bitte, [Was tun, wenn Ihr Surface-Netzteil oder Ladegerät nicht funktioniert](https://support.microsoft.com/help/4484763/surface-fix-issues-with-your-power-supply). 
 
 Wenn Sie Probleme mit Ihrem Surface Book haben, stellen Sie sicher, dass der Bildschirm vollständig an die Tastatur angeschlossen ist. Wenn es sich immer noch nicht aufladen lässt, entfernen Sie den Bildschirm und reinigen Sie die Anschlüsse mit einem Radiergummi. Möglicherweise sollten Sie auch die Pins an dem langen, schmalen Teil des Ladegeräts reinigen, den Sie an Ihr Surface anschließen, und sicherstellen, dass die Pins trocken sind.
 

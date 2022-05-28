@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: b828ecc31938f60ebdc7e2739357f25509d56aff
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 6b468fd3438ae3e574c8db11ab9f880f5465ae98
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63171877"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65721437"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Erste Schritte mit Live-Veranstaltungen in Teams
 
@@ -25,7 +25,7 @@ Live-Ereignisse in Microsoft Teams sind eine Erweiterung von Teambesprechungen, 
 
 Zum Erstellen eines Live-Ereignisses benötigen Sie Folgendes:
 
-- Vergewissern Sie sich zunächst, dass Teams-Liveereignisse [in Ihrem Land und Ihrer Region verfügbar sind](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability). Liveereignisse werden in einigen Ländern noch nicht unterstützt.  Wenn Sie Lizenzen zugewiesen und Richtlinien festgelegt haben, aber immer noch kein Teams-Liveereignis erstellen können, befinden Sie sich wahrscheinlich in einem Land oder einer Region, in dem bzw. der Liveereignisse noch nicht verfügbar sind.
+- Vergewissern Sie sich zunächst, dass Teams-Liveereignisse [in Ihrem Land und Ihrer Region verfügbar sind](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability). Liveereignisse werden in einigen Ländern noch nicht unterstützt.  Wenn Sie Lizenzen zugewiesen und Richtlinien festgelegt haben, aber trotzdem kein Teams-Liveereignis erstellen können, befinden Sie sich wahrscheinlich in einem Land oder einer Region, in dem Liveereignisse noch nicht verfügbar sind.
 
 - Eine [Lizenz für Office 365 Enterprise E1, E3 oder E5 oder eine Lizenz für Office 365 A3 oder A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
 

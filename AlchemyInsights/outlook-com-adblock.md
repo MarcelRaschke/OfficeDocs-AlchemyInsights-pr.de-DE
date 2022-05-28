@@ -12,16 +12,16 @@ ms.localizationpriority: medium
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 654c3f1f63edfd8043ec5555fe55aaa5132c6cd3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 078534089556d763d5e0f9df0f2181b7b4718f36
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63271817"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65720069"
 ---
 # <a name="adblock"></a>Adblock
 
-Bei einigen Benutzern treten derzeit Probleme beim Lesen oder Verfassen von E-Mails auf, wenn Sie Google Chrome mit der AdBlock-Erweiterung verwenden. So umgehen Sie dieses Problem:
+Einige Benutzer haben derzeit Probleme beim Lesen oder Verfassen von E-Mails, wenn Sie Google Chrome mit der AdBlock-Erweiterung verwenden. So umgehen Sie dieses Problem:
 
 1. Verwenden Sie [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) oder einen anderen Webbrowser.
-1. Schließen Sie Outlook.com aus den AdBlock-Einstellungen aus. Wählen Sie in der oberen rechten Ecke von Google Chrome **AdBlock** und dann " **Nicht auf Seiten in dieser Domäne ausführen"** aus. Aktualisieren Sie Ihren Browser, um Outlook.com erneut zu laden.
+1. Schließen Sie Outlook.com aus den AdBlock-Einstellungen aus. Wählen Sie in der oberen rechten Ecke von Google Chrome **"AdBlock** " und dann " **Nicht auf Seiten in dieser Domäne ausführen**" aus. Aktualisieren Sie Ihren Browser, um Outlook.com erneut zu laden.

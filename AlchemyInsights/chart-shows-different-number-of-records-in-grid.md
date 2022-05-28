@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5611"
 - "9002930"
-ms.openlocfilehash: 189088b3435ca12111d133d525f2e3090cafac05
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 641cc6564ed305ac336db307a02f5b625be9e71f
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63094258"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65717027"
 ---
 # <a name="chart-shows-different-number-of-records-in-grid"></a>Diagramm mit einer unterschiedlichen Anzahl von Datensätzen im Raster
 
 **Symptom**
 
-Wenn Sie bei einem Diagramm auf der Dashboardseite auf das Diagramm „...“ klicken und auf „Datensätze anzeigen“ klicken, navigieren Sie zur Rasterseite, um alle Datensätze zu sehen. Manchmal ändert sich die Anzahl der Datensätze.
+Wenn Sie bei einem Diagramm auf der Dashboard-Seite auf das Diagramm „...“ und dann auf „Datensätze anzeigen“ klicken, gelangen Sie auf die Rasterseite, auf der Sie alle Datensätze sehen können, wobei sich manchmal die Anzahl der Datensätze ändert.
 
 **Ursache**
 

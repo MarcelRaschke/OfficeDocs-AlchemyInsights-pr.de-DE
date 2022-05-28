@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004334"
 - "7733"
-ms.openlocfilehash: acc02addc68935172b2ea0d0e8a0b33a0ca7fce7
-ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
+ms.openlocfilehash: f0099d9806a4409ae81431fc78683ec1799afe55
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65551758"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65716919"
 ---
 # <a name="configure-and-customize-applications"></a>Konfigurieren und Anpassen von Anwendungen
 

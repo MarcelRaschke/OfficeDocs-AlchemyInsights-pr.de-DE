@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9816"
 - "9005388"
-ms.openlocfilehash: a2f9198905440c12f95a3b63f08f96206605f0b4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 2f4969c264980fd058ad5cee63208ca29fd08bbe
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63163147"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65717711"
 ---
 # <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Ändern des Kontos, mit dem Sie sich bei Ihrem Windows 10-PC anmelden
 
@@ -56,7 +56,7 @@ So ersetzen Sie einen bestehenden Benutzer durch ein neues Konto:
 
 - Wechseln von einem Standardkonto zu einem Administratorkonto
 
-    1. Wählen Sie "Start" und dann **Einstellungen** > **Konto** > **Familie und andere Personen** aus (oder **Andere Personen**, wenn Sie Windows 10 Enterprise verwenden).
+    1. Wählen Sie Start und dann **Einstellungen** > **Konto** > **Familie und andere Personen** aus (oder **Andere Personen**, wenn Sie Windows 10 Enterprise verwenden).
 
     1. Wählen Sie das Konto aus, das Sie zum Administrator machen möchten, und wählen Sie dann **Konto ändern** aus.
 

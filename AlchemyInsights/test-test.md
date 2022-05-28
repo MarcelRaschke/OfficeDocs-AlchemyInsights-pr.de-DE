@@ -1,5 +1,5 @@
 ---
-title: Begriffe, die in SharePoint Online-Ausdrucks-Store fehlen
+title: Begriffe, die in SharePoint Onlineausdrucks-Store fehlen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,42 +12,42 @@ ms.localizationpriority: medium
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 6e34b70a424ea6f435af24672ea276757a930b37
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 164993b782546526cc591d661835ff0a88fe3304
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63189680"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65721041"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivieren der Bitlocker-Verschlüsselung mit Intune
 
-Intune Endpoint Protection-Richtlinie kann verwendet werden, um Boitlocker-Verschlüsselungseinstellungen für Windows Geräte zu konfigurieren, wie unter : Windows10 -Einstellungen (und höher) zum Schützen von Geräten mit Intune
+Intune Endpoint Protection-Richtlinie kann verwendet werden, um Boitlocker-Verschlüsselungseinstellungen für Windows Geräte zu konfigurieren, wie unter : Windows10 -Einstellungen (und höher) beschrieben, um Geräte mithilfe von Intune
 
-Beachten Sie, dass viele neuere Geräte, auf denen Windows 10 ausgeführt werden, die automatische BitLocker-Verschlüsselung unterstützen, die ohne die Anwendung der MDM-Richtlinie ausgelöst wird. Dies kann sich auf die Anwendung von Richtlinien auswirken, wenn nicht standardmäßige Einstellungen konfiguriert sind. Weitere Informationen finden Sie in den häufig gestellten Fragen.
-
-
-Häufig gestellte Fragen: Welche Editionen von Windows unterstützen die Geräteverschlüsselung mithilfe der Endpoint Protection-Richtlinie?
-A: Die Einstellungen in Intune Endpoint Protection-Richtlinie werden mithilfe des Bitlocker-CSP implementiert.  Nicht alle Editionen oder Builds von Windows unterstützen den Bitlocker-CSP. Zu diesem Zeitpunkt Windows Editionen: Enterprise; Education, Mobile, Mobile Enterprise und Professional (ab Build 1809) werden unterstützt.
+Sie sollten sich bewusst sein, dass viele neuere Geräte, auf denen Windows 10, die automatische Bitlocker-Verschlüsselung unterstützen, die ohne anwendung der MDM-Richtlinie ausgelöst wird. Dies kann sich auf die Anwendung der Richtlinie auswirken, wenn nicht standardmäßige Einstellungen konfiguriert sind. Weitere Details finden Sie in den häufig gestellten Fragen.
 
 
-
-
-F: Wenn ein Gerät bereits mit Bitlocker verschlüsselt ist, indem die Standardeinstellungen des Betriebssystems für die Verschlüsselungsmethode verwendet werden und die Verschlüsselungsstärke (XTS-AES-128) eine Richtlinie mit anderen Einstellungen anwendet, wird automatisch die erneute Verschlüsselung des Laufwerks mit den neuen Einstellungen ausgelöst?
-
-A: Nein. Um die neuen Verschlüsselungseinstellungen anzuwenden, muss das Laufwerk zuerst entschlüsselt werden.
-
-Hinweis Für Geräte, die bei Autopilot registriert sind, wird die automatische Verschlüsselung, die während der Windows-Willkommensseite auftreten würde, erst ausgelöst, wenn die Intune-Richtlinie ausgewertet wird, sodass die richtlinienbasierten Einstellungen anstelle der Standardeinstellungen des Betriebssystems verwendet werden können.
+Faq F: Welche Editionen von Windows unterstützen die Geräteverschlüsselung mithilfe der Endpoint Protection-Richtlinie?
+A: Die Einstellungen in Intune Endpoint Protection-Richtlinie werden mithilfe des Bitlocker-CSP implementiert.  Weder alle Editionen noch Builds von Windows unterstützen den Bitlocker-CSP. Zu diesem Zeitpunkt Windows Editionen: Enterprise; Education, Mobile, Mobile Enterprise und Professional (ab Build 1809) werden unterstützt.
 
 
 
 
-F Wenn ein Gerät aufgrund der Anwendung der Intune-Richtlinie verschlüsselt ist, wird es entschlüsselt, wenn diese Richtlinie entfernt wird?
+F: Wenn ein Gerät bereits mit Bitlocker verschlüsselt ist und die Standardeinstellungen des Betriebssystems für verschlüsselungsmethode und Verschlüsselungsstärke (XTS-AES-128) verwendet wird, wird durch anwenden einer Richtlinie mit unterschiedlichen Einstellungen automatisch eine erneute Verschlüsselung des Laufwerks mit den neuen Einstellungen ausgelöst?
 
-A: Das Entfernen der verschlüsselungsbezogenen Richtlinie führt NICHT zur Entschlüsselung der Laufwerke, die konfiguriert wurden.
+A: Nein. Um die neuen Verschlüsselungseinstellungen anwenden zu können, muss das Laufwerk zuerst entschlüsselt werden.
+
+Hinweis Für Geräte, die bei Autopilot registriert werden, wird die automatische Verschlüsselung, die während der Windows-Willkommensseite auftreten würde, erst ausgelöst, wenn Intune Richtlinie ausgewertet wird, wodurch die richtlinienbasierten Einstellungen anstelle der Betriebssystemstandards verwendet werden können.
 
 
 
 
-F: Warum zeigt die Intune-Compliancerichtlinie an, dass auf meinem Gerät "Bitlocker aktiviert" nicht aktiviert ist, aber es ist?
+F Wenn ein Gerät aufgrund der Anwendung Intune Richtlinie verschlüsselt wird, wird es entschlüsselt, wenn diese Richtlinie entfernt wird?
 
-Antwort: Die Einstellung "BitLocker aktiviert" in der Intune-Compliancerichtlinie verwendet den Windows Client für den Integritätsnachweis (Device Health Attestation, DHA). Dieser Client misst nur den Gerätestatus beim Start. Wenn ein Gerät also nicht neu gestartet wurde, seit die BitLocker-Verschlüsselung abgeschlossen wurde, meldet der DHA-Clientdienst bitlocker nicht als aktiv.
+A: Das Entfernen der verschlüsselungsbezogenen Richtlinie führt NICHT zur Entschlüsselung der konfigurierten Laufwerke.
+
+
+
+
+F: Warum zeigt die Intune-Compliancerichtlinie an, dass mein Gerät nicht über "Bitlocker Enabled" verfügt, aber es ist?
+
+Antwort: Die Einstellung "Bitlocker aktiviert" in der Intune-Compliancerichtlinie verwendet den Windows DHA-Client (Device Health Attestation). Dieser Client misst nur den Gerätestatus zum Startzeitpunkt. Wenn also ein Gerät seit Abschluss der Bitlocker-Verschlüsselung nicht neu gestartet wurde, meldet der DHA-Clientdienst BitLocker nicht als aktiv.

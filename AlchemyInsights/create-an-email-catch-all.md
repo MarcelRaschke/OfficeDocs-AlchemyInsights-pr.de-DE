@@ -1,5 +1,5 @@
 ---
-title: Erstellen eines E-Mail-Catch-All
+title: Erstellen eines E-Mail-Abfangs für alle
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: ccc5c43fe032003300c865649cf8042835dd4920
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 6402b56baa037b8599f2a9f7aec50edc721b8ea7
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63267353"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65718117"
 ---
-# <a name="create-an-email-catch-all"></a>Erstellen eines E-Mail-Catch-All
+# <a name="create-an-email-catch-all"></a>Erstellen eines E-Mail-Abfangs für alle
 
-Von der Verwendung eines Catch all wird dringend abgeraten. Es empfiehlt sich, eine Rückmeldung an den Absender bereitzustellen, damit die Absender wissen, dass ihre Nachricht nicht als adressiert zugestellt werden konnte, damit sie Maßnahmen ergreifen können. Sie können das überwachte Postfach auch so einschränken, dass es nur zuvor gültige E-Mail-Adressen abfangen kann. 
+Es wird dringend davon abgeraten, einen Fang zu verwenden. Es ist besser, dem Absender eine Unzustellbarkeit zurückzugeben, um absendern mitzuteilen, dass ihre Nachricht nicht als adressiert übermittelt werden konnte, damit sie Maßnahmen ergreifen können. Sie können das überwachte Postfach auch so einschränken, dass nur zuvor gültige E-Mail-Adressen abgefangen werden. 
 
-Alle Catch-Postfächer erhalten ein großes Maß an Spam und füllen möglicherweise, wenn sie nicht genau überwacht werden. (Es gibt Empfangsgrenzwerte.) 
+Jede Erfassung des gesamten Postfachs empfängt viel Spam und kann schließlich ausgefüllt werden, wenn sie nicht genau überwacht wird. (Es gibt Empfangsgrenzwerte.) 
 
 Wenn Sie fortfahren möchten, führen Sie die folgenden Schritte aus:
 
-1. Erstellen Sie eine dynamische Verteilergruppe & "Alle Empfängertypen" enthalten.
+1. Erstellen Sie eine dynamische Verteilergruppe, & "Alle Empfängertypen" enthalten.
 
 2. Erstellen Sie ein dediziertes Postfach zum Abfangen von E-Mails, z. B. catchall@domain.com.
 
-3. Legen Sie für die spezifische Domäne den DomainType auf "InternalRelay" fest. Wenn Sie später den Catch all entfernen, stellen Sie sicher, dass die Domäne wieder auf Autoritativ festgelegt ist.
+3. Legen Sie für die bestimmte Domäne "DomainType" auf "InternalRelay" fest. Wenn Sie den Catch All später entfernen, stellen Sie sicher, dass die Domäne wieder auf "Autoritativ" festgelegt wird.
 
-4. Erstellen Sie wie folgt eine E-Mailflow-Transportregel:
+4. Erstellen Sie eine Mailflow-Transportregel wie folgt:
 
     - Wenn der Absender "Außerhalb der Organisation" ist
     - Umleiten der Nachricht an Catchall@domain.com
     - Außer wenn der Empfänger Mitglied von allusers@domain.com ist (Verteilergruppe enthält alle Mitglieder)
-    - Überprüfen Sie, ob neue Postfächer zur dynamischen Verteilergruppe hinzugefügt werden.
+    - Überprüfen, ob neue Postfächer zur dynamischen Verteilergruppe hinzugefügt werden

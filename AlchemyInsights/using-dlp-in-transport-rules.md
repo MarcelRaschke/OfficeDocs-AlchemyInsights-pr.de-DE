@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5153"
-ms.openlocfilehash: 3646549ac13497c73cf01f6d653ce7f7906ce908
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 983d9a4d76b2baac624aeac6d4d8ffbc20605a12
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63269981"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65732070"
 ---
 # <a name="using-dlp-in-transport-rules"></a>Verwenden von DLP in Transportregeln
 
-Wenn Sie die Verhinderung von Datenverlust (DLP) in einen vorhandenen Transport integrieren möchten, verwenden Sie die Bedingung "**Wenn die Nachricht enthält... Vertrauliche Informationen**" in der Einstellung der Transportregel.
+Um Microsoft Purview Data Loss Prevention in einen vorhandenen Transport zu integrieren, verwenden Sie die Bedingung "**Wenn die Nachricht...Vertrauliche Informationen...enthält**" in der Transportregeleinstellung.
 
 **Weitere Informationen finden Sie hier:**
 
