@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002956"
 - "5658"
-ms.openlocfilehash: a24618ced2306de100825d600c4c61b90ff09d26
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 44adafad78f0cae0fed139463228f223ee1422e4
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63217617"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65735906"
 ---
 # <a name="change-my-microsoft-account-information"></a>Ändern meiner Microsoft-Kontoinformationen
 
@@ -30,11 +30,11 @@ Navigieren Sie zu [https://account.microsoft.com](https://account.microsoft.com/
 
 **Verwalten von E-Mail-Adressen und Telefonnummern**
 
-Einem Microsoft-Konto ist mindestens eine E-Mail-Adresse oder Telefonnummern als "Alias" zugeordnet. So verwalten Sie diese:
+Einem Microsoft-Konto sind eine oder mehrere E-Mail-Adressen oder Telefonnummern als „Alias“ zugeordnet. So verwalten Sie diese:
 
 1. Klicken Sie auf dem Dashboard Ihres Kontos neben dem Bild und Namen Ihres Kontos auf die drei Punkte (Weitere Aktionen) > **Profil bearbeiten**.
 2. Klicken Sie auf der Seite **Profil bearbeiten** auf **Anmeldung bei Microsoft verwalten**. 
-3. Eine Liste der Kontoaliase wird angezeigt, die Sie z. B. durch Hinzufügen und Löschen von E-Mail-Adressen und Telefonnummern verwalten können. Hier können Sie auch auswählen, welche Aliase für die Anmeldung bei dem Konto verwendet werden können, und welcher Alias als "primärer Alias" gilt und auf Ihren Windows 10-Geräten angezeigt wird.
+3. Eine Liste der Kontoaliase wird angezeigt, die Sie z. B. durch Hinzufügen und Löschen von E-Mail-Adressen und Telefonnummern verwalten können. Hier können Sie auch auswählen, welche Aliase für die Anmeldung beim Konto verwendet werden können und welcher Alias als „primär“ betrachtet wird, der auf Ihren Windows 10-Geräten angezeigt wird.
 
 **Verwalten von Zahlungsmethoden sowie Name und Adresse für die Abrechnung** 
 

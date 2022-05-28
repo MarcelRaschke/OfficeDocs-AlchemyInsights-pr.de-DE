@@ -1,5 +1,5 @@
 ---
-title: Löschen Sie die in der Cloud gespeicherten Browsing-Daten (wenn Sie die Synchronisierung oder Personalisierung aktiviert haben)
+title: Löschen der in der Cloud gespeicherten Browserdaten (wenn Sie die Synchronisierung oder Personalisierung aktiviert haben)
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
@@ -12,13 +12,13 @@ ms.custom:
 - "9005491"
 - "9425"
 ms.date: 04/21/2022
-ms.openlocfilehash: 48df61d89f18847755c9f93840ba26f0f51408b0
-ms.sourcegitcommit: 3d98d0d75a405ac1678ac3f0a1c25c67516d13f1
+ms.openlocfilehash: 9c45d93c19bc8fe2b7c5c28f245d1e5f15a36a5e
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2022
-ms.locfileid: "65036912"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65735853"
 ---
-# <a name="clear-the-browsing-data-stored-in-the-cloud-if-youve-turned-on-sync-or-personalization"></a>Löschen Sie die in der Cloud gespeicherten Browsing-Daten (wenn Sie die Synchronisierung oder Personalisierung aktiviert haben)
+# <a name="clear-the-browsing-data-stored-in-the-cloud-if-youve-turned-on-sync-or-personalization"></a>Löschen der in der Cloud gespeicherten Browserdaten (wenn Sie die Synchronisierung oder Personalisierung aktiviert haben)
 
-Verwenden Sie das [Datenschutzdashboard](https://go.microsoft.com/fwlink/?linkid=2157748), um die daten anzuzeigen, zu verwalten oder zu löschen, die Sie in der Cloud gespeichert haben. Die Daten, die Sie über das Dashboard löschen, werden nicht von Ihrem Gerät gelöscht.
+Verwenden Sie das [Datenschutzdashboard](https://go.microsoft.com/fwlink/?linkid=2157748), um die daten anzuzeigen, zu verwalten oder zu löschen, die Sie in der Cloud gespeichert haben. Die Daten, die Sie mithilfe des Dashboards löschen, werden nicht von Ihrem Gerät gelöscht.

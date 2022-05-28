@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003300"
 - "6211"
-ms.openlocfilehash: be6de99c30d5efb21505ffc4cd7fec6815d819cd
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 946555e1c31d2522e20991b8156278449ae95549
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63187520"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65735978"
 ---
 # <a name="cant-change-background-in-teams-video"></a>Hintergrund in Teams-Video kann nicht geändert werden
 
 Hintergrundeffekte stehen in folgenden Situationen nicht zur Verfügung:
 
-- Beitreten zu einer ungeplanten Besprechung („Sofortbesprechung“).
+- Beitreten zu einer ungeplanten („Sofort-“) Besprechung.
 - Ausführen von Teams unter Linux.
 - Verwenden von Teams über die Virtual Desktop Infrastructure (VDI).
 
