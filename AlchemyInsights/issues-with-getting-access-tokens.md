@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7776"
 - "9004351"
-ms.openlocfilehash: 2b04d9e625dd77034b0a507d0610a28a9edc5203
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 2136d6851891f447a54eac72e624f79125f1399b
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63256150"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65733548"
 ---
 # <a name="issues-with-getting-access-tokens"></a>Probleme mit dem Abrufen von Zugriffstokens
 
@@ -35,10 +35,10 @@ Informationen zur Problembehandlung bei den ersten Schritten finden Sie in den f
 
 Eine Anleitung zum Anfordern und Verwenden von Token finden Sie in den folgenden Artikeln:
 
-- [Ich verstehe nicht, wie ich einen Autorisierungscode anfordern kann](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow#request-an-authorization-code) 
-- [Ich verstehe nicht, wie ich ein Zugriffstoken anfordern kann](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow#use-the-authorization-code-to-request-an-access-token) 
-- [Ich verstehe nicht, wie ich ein Zugriffstoken für den Zugriff auf eine Ressource verwenden kann](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow#use-the-access-token-to-access-the-resource) 
-- [Ich verstehe nicht, wie ich ein Zugriffstoken aktualisieren kann](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow#refreshing-the-access-tokens)
+- [Ich verstehe nicht, wie ich einen Autorisierungscode anfordern kann.](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow#request-an-authorization-code) 
+- [Ich verstehe nicht, wie ich ein Zugriffstoken anfordern kann.](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow#use-the-authorization-code-to-request-an-access-token) 
+- [Ich verstehe nicht, wie ich ein Zugriffstoken für den Zugriff auf eine Ressource verwenden kann.](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow#use-the-access-token-to-access-the-resource) 
+- [Ich verstehe nicht, wie ich ein Zugriffstoken aktualisieren kann.](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow#refreshing-the-access-tokens)
 
 **Ich habe einen Fehler beim Anfordern eines Tokens erhalten**
 

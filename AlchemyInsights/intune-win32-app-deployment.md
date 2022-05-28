@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6446"
 - "6700004"
-ms.openlocfilehash: c984f7a347f3cb58301f60a09fb88a462ee2f4bf
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 0a92a60a26e59d40c1547735fc164e293c9f679e
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63235779"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65729080"
 ---
 # <a name="intune-win32-app-deployment"></a>Intune Win32 App-Bereitstellung
 

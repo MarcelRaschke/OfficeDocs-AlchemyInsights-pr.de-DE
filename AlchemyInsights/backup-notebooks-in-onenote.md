@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000567"
 - "4500"
-ms.openlocfilehash: 079c7dcd53b17904dbd0958a53210ee076a63c2d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f502c50dd49046a0ab466e9030c0a905e3e3e3cf
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63269369"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65730450"
 ---
 # <a name="backup-notebooks-in-onenote"></a>Sicherungskopie von Notizbüchern in OneNote erstellen
 
@@ -29,4 +29,4 @@ OneNote kann Sicherungskopien all Ihrer Notizen erstellen. Dies ist derzeit jedo
 4. Wechseln Sie im Dialogfeld **Ordner auswählen** zu Ihrem Sicherungsordner.
 5. Klicken Sie auf **Auswählen**, um den neuen Speicherort zu übernehmen, und klicken Sie anschließend auf **OK**.
 
-Mit OneNote für Windows 10 werden Ihre Notizbücher entweder in OneDrive oder auf SharePoint gespeichert. Alle Versionen von OneNote bewahren eine Kopie Ihrer Notizbücher im Zwischenspeicher Ihres Geräts auf, sodass Sie auch dann auf diese zugreifen können, wenn Sie offline sind. Die Änderungen werden synchronisiert, wenn Sie das nächste Mal verbunden sind.
+Mit OneNote für Windows 10 werden Ihre Notizbücher entweder in OneDrive oder auf SharePoint gespeichert. Alle Versionen von OneNote bewahren eine Kopie Ihrer Notizbücher im Zwischenspeicher Ihres Geräts auf, sodass Sie auch dann auf diese zugreifen können, wenn Sie offline sind.

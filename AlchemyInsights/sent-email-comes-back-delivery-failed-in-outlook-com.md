@@ -1,5 +1,5 @@
 ---
-title: 8000044 Gesendete E-Mails werden in Outlook.com als "Zustellung fehlgeschlagen" angezeigt.
+title: 8000044 Gesendete E-Mail wird in Outlook.com als "Übermittlung fehlgeschlagen" zurückgegeben.
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "791"
 - "8000044"
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
-ms.openlocfilehash: 92b35b4fd5ce6b01ca362a56a90429c7c54bcdde
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 6897b3350dbdbc1ec558718e4a71ed21bbbc9d04
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63180788"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65734124"
 ---
-# <a name="sent-email-comes-back-delivery-failed"></a>Gesendete E-Mails kehren "Zustellung fehlgeschlagen" zurück
+# <a name="sent-email-comes-back-delivery-failed"></a>Gesendete E-Mails werden "Übermittlung fehlgeschlagen" zurückgegeben.
 
-Zustellungsfehler oder E-Mail-Nachrichten, die als unzustellbar zurückkommen, können aus verschiedenen Gründen auftreten. Weitere Informationen zu den gängigsten Fehlermeldungen und lösungs vorgeschlagenen Lösungen finden Sie unter ["Gesendete E-Mails" in Outlook.com "Zustellung fehlgeschlagen"](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy).
+Übermittlungsfehler oder E-Mail-Nachrichten, die als nicht zustellbar zurückgegeben werden, können aus einer Reihe von Gründen auftreten. Weitere Informationen zu den häufigsten Fehlermeldungen sowie lösungsvorschläge finden Sie unter [Gesendete E-Mails in Outlook.com kommt "Übermittlung fehlgeschlagen"](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy).
   

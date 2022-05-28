@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1725"
 - "9000179"
-ms.openlocfilehash: ff5a0d6aa766e4c90a9370257d7c23147cf69eaf
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c8a5ed0f582593fe1813ab0f51359523dc6d7ac2
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63130133"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65733656"
 ---
 # <a name="delete-orphaned-user-from-on-premises-server"></a>Verwaiste Benutzer vom lokalen Server löschen
 
@@ -30,10 +30,10 @@ Führen Sie die folgenden Schritte aus, um einen verwaisten Benutzer zu entferne
 
 3. Wenn die Synchronisierung ordnungsgemäß funktioniert, das Löschen des Active Directory-Objekts jedoch noch nicht an Azure AD weitergegeben wird, können Sie das verwaiste Objekt mithilfe eines der folgenden Azure Active Directory-Module für Windows PowerShell-Cmdlets manuell entfernen:
 
-    Remove-MsolContact  
-    Remove-MsolGroup  
-    Remove-MsolUser
+   - Remove-MsolContact
+   - Remove-MsolGroup
+   - Remove-MsolUser
 
-    Wenn Sie beispielsweise die verwaiste Benutzer-ID manuell entfernen möchten, die john.smith@contoso.com ursprünglich mithilfe der Verzeichnissynchronisierung erstellt wurde, führen Sie das folgende Cmdlet aus:
+   Wenn Sie beispielsweise die verwaiste Benutzer-ID manuell entfernen möchten, die john.smith@contoso.com ursprünglich mithilfe der Verzeichnissynchronisierung erstellt wurde, führen Sie das folgende Cmdlet aus:
 
-    Remove-MsolUser –UserPrincipalName John.Smith@Contoso.com
+   `Remove-MsolUser UserPrincipalName John.Smith@Contoso.com`

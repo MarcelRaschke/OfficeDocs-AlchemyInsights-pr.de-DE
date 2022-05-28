@@ -11,12 +11,12 @@ ms.localizationpriority: high
 ms.custom:
 - "9129"
 - "9004625"
-ms.openlocfilehash: 3935134ba3a4ed09ca102ae46c83b79bd8b1b0a1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 973d790e9b99e02f9d501d5a8d98c38e6fb51edd
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63282041"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65734916"
 ---
 # <a name="sign-in-and-authentication-features-of-microsoft-edge"></a>Anmelde- und Authentifizierungsfeatures von Microsoft Edge
 

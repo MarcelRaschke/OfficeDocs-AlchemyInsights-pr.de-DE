@@ -1,5 +1,5 @@
 ---
-title: Ich werde mit einem kompatiblen Gerät durch den bedingten Zugriff blockiert
+title: Ich werde mit einem kompatiblen Gerät durch bedingten Zugriff blockiert.
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9835"
 - "9003257"
-ms.openlocfilehash: eefa6b11f990c886535768447be1717d6f1b1542
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 2e83a74be981c84ef4cd4f27555dc6a4ff03f34d
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63174991"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65734700"
 ---
-# <a name="im-getting-blocked-by-conditional-access-with-compliant-device"></a>Ich werde mit einem kompatiblen Gerät durch den bedingten Zugriff blockiert
+# <a name="im-getting-blocked-by-conditional-access-with-compliant-device"></a>Ich werde mit einem kompatiblen Gerät durch bedingten Zugriff blockiert.
 
 **Sehr empfehlenswerte Tools**
 

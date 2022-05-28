@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: 8ad016dcbf0e681c989fa413698a1e0ec87cdf6c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 6c552ab6273d7a7c8dd90dc9edd62fb2b1fb426c
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63194216"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65733692"
 ---
 # <a name="como-pagar-com-boleto"></a>Como Pagar com Boleto
 

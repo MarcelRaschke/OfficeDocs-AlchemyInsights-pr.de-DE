@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 9f3313f615d6c375aa2fdc265bc3d30f61b135c5
-ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
+ms.openlocfilehash: 106ae7e9e24e6ed5aa8e7a8573e0a28940259b2e
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65551925"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65735645"
 ---
 # <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Aktivieren von Microsoft Defender für Office 365 für SharePoint Online, OneDrive und Microsoft Teams
 

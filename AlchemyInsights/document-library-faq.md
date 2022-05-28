@@ -14,18 +14,18 @@ ms.custom:
 - "5676"
 - "9000292"
 - "5680"
-ms.openlocfilehash: 8251f96d23820f92ecdbff90a7722a356fe8666d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 197ebafc0350ee522db8b55bba36634861f874b4
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63215673"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65734484"
 ---
 # <a name="document-library-faq"></a>Häufig gestellte Fragen zur Dokumentbibliothek
 
 **Behandeln von Problemen mit Dokumentbibliotheken**:
 
-Navigieren Sie zu [SharePoint Online-Problembehandlung](https://docs.microsoft.com/sharepoint/troubleshoot/online) und „Nach Titel filtern“ oder führen Sie einen manuellen Drilldown zu den Artikeln im Abschnitt „Listen und Bibliotheken“" aus.
+Navigieren Sie zu [SharePoint Online-Problembehandlung](https://docs.microsoft.com/sharepoint/troubleshoot/online) und „Nach Titel filtern“, oder führen Sie einen manuellen Drilldown zu den Artikeln im Abschnitt „Listen und Bibliotheken“ aus.
 
 **Informationen Dokumentbibliotheken**:
 

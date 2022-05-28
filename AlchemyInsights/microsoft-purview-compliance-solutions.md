@@ -13,12 +13,12 @@ ms.custom:
 - "17330"
 - "9010787"
 ms.date: 05/19/2022
-ms.openlocfilehash: 0690aff4b26812311e32248313b20270abee58bf
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: d2877367c2b99de9736fca3446e86aada592bfbf
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65593914"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65735448"
 ---
 # <a name="microsoft-purview-compliance-solutions"></a>Microsoft Purview Compliance-Lösungen
 

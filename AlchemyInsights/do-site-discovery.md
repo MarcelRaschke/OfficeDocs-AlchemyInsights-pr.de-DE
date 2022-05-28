@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: a5cf8801a27362ec8bab67fd4342bf57afdcca69
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 812be8a8ccb8827739b5b5c802ab4c633c7045c1
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63173119"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65735753"
 ---
 # <a name="do-site-discovery"></a>Website-Ermittlung durchführen
 
@@ -41,12 +41,12 @@ Wenn Sie derzeit nur Internet Explorer verwenden, wissen Sie möglicherweise nic
 **Analysieren der Daten**
 
 Nach deren Erfassung empfehlen wir die folgenden vier Schritte zum Analysieren der Daten:
+
 1. Sortieren Sie die Daten nach Domäne und dann nach URL.
-2. Definieren Sie die Grenzen einer App, die für den Internet Explorer-Modus konfiguriert werden soll. Ihr Ziel ist es, alle Websites und Websteuerelemente, die die App definieren, einzuschließen, jedoch keine zusätzlichen Websites und Steuerelemente. Einige Sites sind möglicherweise so einfach wie *https://contoso.com/app1*, während andere möglicherweise erfordern, dass Sie mehrere Websites und Seiten definieren.
+2. Definieren Sie die Grenzen einer App, die für den Internet Explorer-Modus konfiguriert werden soll. Ihr Ziel ist es, alle Websites und Websteuerelemente, die die App definieren, einzuschließen, jedoch keine zusätzlichen Websites und Steuerelemente. Einige Sites sind möglicherweise so einfach wie *<https://contoso.com/app1>*, während andere möglicherweise erfordern, dass Sie mehrere Websites und Seiten definieren.
 3. Testen Sie die App, um zu verifizieren, dass sie nicht nativ funktioniert. Viele Websites stellen modernen Inhalt bereit, wenn sie einen modernen Browser erkennen, und älteren, wenn sie Internet Explorer erkennen.
 4. Fügen Sie die App Ihrer Enterprise-Websiteliste hinzu, wenn der Test fehlschlägt.
 
 **Hinweis**: Eine bewährte Methode beseht darin, alle Websites, die eine App umfassen, zu gruppieren. Auf diese Weise ist es einfacher, die gesamte Website aus dem Internet Explorer-Modus zu entfernen, wenn Sie ein Upgrade einer App durchführen, und mit der Verwendung eines modernen Browsers für diese App zu beginnen.
 
 Nachdem Sie die Website-Ermittlung durchgeführt und die Daten analysiert haben, können Sie sich mit Ihrer Kanalstrategie befassen.
-

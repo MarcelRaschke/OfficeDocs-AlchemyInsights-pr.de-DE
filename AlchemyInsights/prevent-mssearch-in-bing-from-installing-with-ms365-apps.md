@@ -1,5 +1,5 @@
 ---
-title: Verhindern der Installation von Microsoft Search in Bing mit Microsoft 365 Apps
+title: Verhindern, dass Microsoft Search in Bing mit Microsoft 365 Apps
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 5a40be09a22a7e7b8f2d63f788ad8fa775e6636f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c621abd394e2c6e0e00b636f26fb591471b13df7
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63294821"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65735276"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Verhindern der Installation von Microsoft Search in Bing mit Microsoft 365 Apps
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Verhindern, dass Microsoft Search in Bing mit Microsoft 365 Apps
 
 Verwenden Sie eine der folgenden Optionen, um zu verhindern, dass der Hintergrunddienst für Microsoft Search in Bing mit Microsoft 365 Apps for Enterprise installiert wird:
 
-- Das Office-Bereitstellungstool oder die Gruppenrichtlinie
-- Microsoft Endpoint Configuration Manager (aktuelle Verzweigung) oder Microsoft Intune
+- Das Office-Bereitstellungstool oder Gruppenrichtlinie
+- Microsoft Endpoint Configuration Manager (current branch) oder Microsoft Intune
 
-Weitere Informationen finden Sie unter ["Verhindern der Installation des Hintergrunddiensts für Microsoft Search in Bing mit Microsoft 365 Apps for Enterprise](https://go.microsoft.com/fwlink/?linkid=2151946)".
+Weitere Informationen finden Sie unter [So verhindern Sie, dass der Hintergrunddienst für Microsoft Search in Bing mit Microsoft 365 Apps for Enterprise installiert wird](https://go.microsoft.com/fwlink/?linkid=2151946).

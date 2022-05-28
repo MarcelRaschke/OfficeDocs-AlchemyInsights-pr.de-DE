@@ -14,15 +14,15 @@ ms.custom:
 - "9003245"
 - "7922"
 - "7921"
-ms.openlocfilehash: ea85216eff9adcfe032e264688ca56e5e30a8d16
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 1746765918ebb2db6df4d7ccb5a644d415e08153
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63204116"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65735717"
 ---
 # <a name="domain-service-synchronization"></a>Domänendienstsynchronisierung
 
-Objekte und Anmeldeinformationen in einer verwalteten Domäne Azure Active Directory Domain Services (Azure AD DS) können entweder lokal innerhalb der Domäne erstellt oder von einem Azure Active Directory (Azure AD)-Mandanten synchronisiert werden. Wenn Sie Azure AD DS zum ersten Mal bereitstellen, wird eine automatische unidirektionale Synchronisierung konfiguriert und initiiert, um die Objekte aus Azure AD zu replizieren. Diese unidirektionale Synchronisierung wird weiterhin im Hintergrund ausgeführt, um die Azure AD verwalteten DS-Domäne mit änderungen von Azure AD auf dem neuesten Stand zu halten. Es erfolgt keine Synchronisierung von Azure AD DS zurück zu Azure AD.
+Objekte und Anmeldeinformationen in einer von Azure Active Directory Domain Services (Azure AD DS) verwalteten Domäne können entweder lokal innerhalb der Domäne erstellt oder von einem Azure Active Directory (Azure AD)-Mandanten synchronisiert werden. Bei der ersten Bereitstellung von Azure AD DS wird eine automatische Unidirektionale Synchronisierung konfiguriert und initiiert, um die Objekte aus Azure AD zu replizieren. Diese unidirektionale Synchronisierung wird weiterhin im Hintergrund ausgeführt, um die verwaltete Azure AD DS-Domäne mit allen Änderungen von Azure AD auf dem neuesten Stand zu halten. Es erfolgt keine Synchronisierung von Azure AD DS zurück zu Azure AD.
 
-Weitere Informationen zu Azure Active Directory Domänendienstsynchronisierung finden Sie unter [Domänendienstsynchronisierung](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 
+Weitere Informationen zur Azure Active Directory Domänendienstsynchronisierung finden Sie unter [Domänendienstsynchronisierung](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization).

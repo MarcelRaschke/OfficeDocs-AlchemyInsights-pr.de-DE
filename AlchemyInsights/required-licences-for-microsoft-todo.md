@@ -14,12 +14,12 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: ea5711676d71db13e32982031b46a41b35658dd6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 85a85d1339c7f8fd8bc4b355afcc68db46831118
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63222693"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65735240"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Erforderliche Lizenzen für Microsoft ToDo
 
@@ -31,17 +31,17 @@ Ein Benutzer muss über eine der folgenden Lizenzen verfügen, um Microsoft ToDo
 
 - Business Premium
 
-- Microsoft 365 Erstlinien-F1
+- Microsoft 365 Erste Zeile F1
 
-- Alle Office 365 Enterprise-Pläne
+- Beliebiger Office 365 Enterprise Plan
 
-- Sicheres Produktives Unternehmen
+- Sicheres produktives Unternehmen
 
 - Secure Productive Enterprise E3
 
 - Secure Productive Enterprise E5
 
-- Beliebiger Office 365 Education Plan
+- Beliebiger Office 365 Education-Plan
 
 - Microsoft 365 A3
 

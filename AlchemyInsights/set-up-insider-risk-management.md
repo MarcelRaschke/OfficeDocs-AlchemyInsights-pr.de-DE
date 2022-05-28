@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 52e2ef72f17361f33e81c22e73e24e29d4de8356
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 25b0b58086202eae00f107ebea72ba031682179c
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63231999"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65733044"
 ---
 # <a name="set-up-insider-risk-management"></a>Einrichten des Insider-Risikomanagements
 
@@ -32,7 +32,7 @@ Wenn Sie noch nicht über einen Microsoft 365 E5-Plan verfügen und das Inside
 
 **Tipps**:
 
-- Stellen Sie mithilfe der Vorlage "Dataleaks" sicher, dass mindestens eine DLP-Richtlinie (Data Loss Prevention, Verhinderung von Datenverlust) konfiguriert ist. Es gibt jedoch eine neue Triggeroption, für die keine DLP-Richtlinie konfiguriert werden muss.
+- Stellen Sie mithilfe der Vorlage „Dataleaks“ sicher, dass mindestens eine Microsoft Purview Data Loss Prevention-Richtlinie konfiguriert ist. Es gibt jedoch eine neue Triggeroption, für die keine DLP-Richtlinie konfiguriert werden muss.
 
 - Globale Administratoren haben standardmäßig keinen Zugriff auf das Insider-Risikomanagementportal. Ihnen muss eine der Insider-Risikomanagementrollen zugewiesen werden.
 

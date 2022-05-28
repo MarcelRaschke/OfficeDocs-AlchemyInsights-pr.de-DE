@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2588"
 - "9000668"
-ms.openlocfilehash: 07d3a97039de8bfda689175763b16c24947949e7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f47f4b6b027315f9def2b1c46ca9cfa9d1d8205f
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63183560"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65733476"
 ---
 # <a name="move-files-from-onedrivecom-or-another-provider-into-onedrive-for-business"></a>Verschieben von Dateien von OneDrive.com oder einem anderen Anbieter nach OneDrive for Business
 
