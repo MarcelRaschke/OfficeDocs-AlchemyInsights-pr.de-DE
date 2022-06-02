@@ -11,13 +11,13 @@ ms.localizationpriority: medium
 ms.custom:
 - "9010153"
 - "15632"
-ms.date: 02/11/2022
-ms.openlocfilehash: 25a4e06236997b96645f61fb81f4f25004d21d72
-ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
+ms.date: 06/01/2022
+ms.openlocfilehash: 55445084315d695e8729e7db20466dd8b2aea933
+ms.sourcegitcommit: 21aa7c60213513892fb5d499e9ea25a3afa68670
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2022
-ms.locfileid: "64888073"
+ms.lasthandoff: 06/02/2022
+ms.locfileid: "65840938"
 ---
 # <a name="what-is-microsoft-teams"></a>Was ist Microsoft Teams
 
@@ -27,5 +27,6 @@ Teams können Ihre Organisation über Chats, Sprachanrufe, Videokonferenzen, Dat
 
 - [Willkommen bei Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-overview)
 - [Einrichten von Microsoft Teams in Kleinunternehmen](https://docs.microsoft.com/microsoftteams/teams-overview)
+- [Herunterladen von Microsoft Teams](https://www.microsoft.com/microsoft-teams/download-app)
 
-Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie unten auf "Live-Chat** ".
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie dann unten auf Live Chat**.

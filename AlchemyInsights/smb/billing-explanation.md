@@ -11,16 +11,18 @@ ms.localizationpriority: medium
 ms.custom:
 - "9009965"
 - "15338"
-ms.date: 02/17/2022
-ms.openlocfilehash: 7cc555cd47050842241fea65fa891c7c6d8ad974
-ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
+ms.date: 06/01/2022
+ms.openlocfilehash: 45b29d0cd4c72a8adbc777b3722d4be63fb2c97c
+ms.sourcegitcommit: 21aa7c60213513892fb5d499e9ea25a3afa68670
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2022
-ms.locfileid: "64887245"
+ms.lasthandoff: 06/02/2022
+ms.locfileid: "65840902"
 ---
 # <a name="billing-explanation"></a>Abrechnungserklärung
 
 Ein Abrechnungskonto wird erstellt, wenn Sie sich registrieren, um Microsoft-Produkte zu testen oder zu kaufen. Sie verwenden Ihr Abrechnungskonto, um Ihre Kontoeinstellungen, Rechnungen, Zahlungsmethoden und Einkäufe zu verwalten. Sie können auf mehrere Abrechnungskonten zugreifen.
 
-Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie unten auf "Live-Chat** ".
+Weitere Informationen finden Sie unter ["Grundlegendes zu Abrechnungskonten"](https://docs.microsoft.com/microsoft-365/commerce/manage-billing-accounts).
+
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie dann unten auf Live Chat**.

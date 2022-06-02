@@ -11,13 +11,13 @@ ms.localizationpriority: medium
 ms.custom:
 - "9010111"
 - "16749"
-ms.date: 02/22/2022
-ms.openlocfilehash: e89f88beffca5f0f01402dbf8815fd81785dfa28
-ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
+ms.date: 06/01/2022
+ms.openlocfilehash: cd4658e63bc7920460b4d92a69a63c403bed0e99
+ms.sourcegitcommit: 21aa7c60213513892fb5d499e9ea25a3afa68670
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2022
-ms.locfileid: "64891349"
+ms.lasthandoff: 06/02/2022
+ms.locfileid: "65840808"
 ---
 # <a name="activating-office-applications"></a>Aktivieren von Office-Anwendungen
 
@@ -32,5 +32,6 @@ Zum Aktivieren Microsoft 365 Abonnements oder neuer Versionen eines Nicht-Abonne
 
 - [Office aktivieren](https://support.microsoft.com/office/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e)
 - [Wo sie Ihren Office Product Key eingeben können](https://support.microsoft.com/office/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- [Anmelden bei Office](https://support.microsoft.com/office/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426)
 
-Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie unten auf "Live-Chat** ".
+Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Um sich **mit einem Microsoft-Spezialisten** für weitere Hilfe zu verbinden, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie dann unten auf Live Chat**.
