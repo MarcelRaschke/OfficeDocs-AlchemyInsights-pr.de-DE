@@ -14,12 +14,12 @@ ms.custom:
 - "1500029"
 - "17186"
 ms.date: 04/27/2022
-ms.openlocfilehash: d7e0c3dca968387fd7397792818a945263bce0ac
-ms.sourcegitcommit: b2b49d5a8639e46c13a75f48fe929d9c0acd36f2
+ms.openlocfilehash: 90a3ff97400c9aac80913968024680e9e0b7eb13
+ms.sourcegitcommit: 29aa28c4fa26e71de062cb6319e48cd963fdf1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65624501"
+ms.lasthandoff: 06/03/2022
+ms.locfileid: "65861966"
 ---
 # <a name="new-global-or-billing-administrator"></a>Neuer globaler Administrator oder Abrechnungsadministrator?
 
@@ -29,8 +29,10 @@ Wenn Ihnen kürzlich eine globale Oder Abrechnungsadministratorrolle in Ihrer Or
 
 So fügen Sie zusätzliche Berechtigungen hinzu:
 
-1. Wechseln Sie zum **BillingBilling-Konto** > , und wählen Sie Den Namen Ihres Abrechnungskontos aus.
+1. Wechseln Sie zum **Abrechnungskonto** > , und wählen Sie den Namen Ihres Abrechnungskontos aus.
 2. Wählen Sie unten auf der Seite unter " **Abrechnungskontorollen"** die Option " **Rollen zuweisen"** aus.
 3. Geben Sie Ihren Namen oder Ihre E-Mail-Adresse ein, und wählen Sie ihn aus.
 4. Wählen Sie die Rolle **"Abrechnungskontobesitzer"** aus.
 5. Wählen Sie **Zuweisen** aus.
+
+Weitere Informationen finden Sie unter ["Kein Abrechnungskonto für den Kauf von Produkten gefunden](https://docs.microsoft.com/microsoft-365/commerce/no-billing-account-found)".
