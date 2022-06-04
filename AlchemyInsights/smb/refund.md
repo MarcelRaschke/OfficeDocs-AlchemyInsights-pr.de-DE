@@ -11,21 +11,35 @@ ms.localizationpriority: medium
 ms.custom:
 - "9009965"
 - "15860"
-ms.date: 02/17/2022
-ms.openlocfilehash: 8ca35172be3185711dcc8f558c037bcd2c1e0fdf
-ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
+ms.date: 06/02/2022
+ms.openlocfilehash: 83ffb16990cab49a5ce2cce623c00b835790f9de
+ms.sourcegitcommit: 470f0854562b7b7dd27794ed2f46ac2ee5c86e74
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2022
-ms.locfileid: "64890089"
+ms.lasthandoff: 06/04/2022
+ms.locfileid: "65891865"
 ---
 # <a name="bill-refund"></a>Rechnungserstattung
 
-Teilnahmeberechtigung: Wenn Sie weniger als 25 Lizenzen für Benutzer zugewiesen haben, können Sie Ihre Microsoft 365 für Business-Testversion oder Ihr kostenpflichtiges Abonnement online im Microsoft 365 Admin Center jederzeit kündigen. Wenn Sie mehr als 25 Lizenzen für Benutzer zugewiesen haben, reduzieren Sie sie auf weniger als 25 oder rufen Sie den Support an, um Ihr Abonnement zu kündigen.
+*Berechtigung*: Wenn Benutzern weniger als 25 Lizenzen zugewiesen sind, können Sie Ihre Microsoft 365 Business-Testversion oder Ihr kostenpflichtiges Abonnement jederzeit online im Microsoft 365 Admin Center kündigen. Wenn Sie mehr als 25 Lizenzen für Benutzer zugewiesen haben, reduzieren Sie sie auf weniger als 25 oder rufen Sie den Support an, um Ihr Abonnement zu kündigen.
 
-Rückerstattung: Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
+*Rückerstattung*: Jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.
 
-*Weitere Informationen zu Rückerstattungen auf Microsoft 365:*
-[Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Bevor Sie kündigen oder eine Rückerstattung anfordern, müssen Sie wissen, ob Sie über ein Abrechnungsprofil verfügen. Ein Abrechnungsprofil enthält eine Zahlungsmethode, Informationen zu Rechnungen und andere Rechnungseinstellungen, z. B. Bestellnummer und E-Mail-Rechnungseinstellung.
 
-Wir sind für Sie da, wenn Sie weitere Unterstützung benötigen. Wenn Sie sich für weitere Hilfe **mit einem Microsoft-Spezialisten in Verbindung setzen** möchten, wählen Sie einen Chat mit einem Microsoft-Spezialisten aus, und **klicken Sie dann unten auf "Live-Chat** ".
+**So zeigen Sie Ihr Abrechnungsprofil an:**
+
+1. Wechseln Sie im Admin Center zur Seite **"****Abrechnungsrechnungen** >  & Zahlungen".
+2. Wählen Sie die Registerkarte " **Abrechnungsprofil** " und dann ein Abrechnungsprofil aus der Liste aus.
+
+*Wenn Sie über ein Abrechnungsprofil verfügen*
+
+- Sie können nur kündigen und eine anteilige Gutschrift oder Rückerstattung erhalten, wenn Sie innerhalb von sieben Tagen nach dem Beginn oder der Verlängerung Ihres Abonnements kündigen.
+- Der anteilige Betrag wird entweder ihrer nächsten Rechnung gutgeschrieben oder ihnen im nächsten Abrechnungszyklus zurückgegeben.
+
+*Wenn Sie nicht über ein Abrechnungsprofil verfügen*
+
+- Wenn Sie ihr Abonnement kündigen, nachdem Sie ihr Abonnement gestartet oder verlängert haben, erhalten Sie eine anteilige Gutschrift oder Rückerstattung.
+- Der Betrag wird entweder auf Ihre nächste Rechnung angerechnet oder im nächsten Abrechnungszyklus an Sie zurückgegeben.
+
+Für die Rückerstattungsverarbeitung und weitere Anfragen zur Rückerstattung empfehlen wir Ihnen, **sich mit unserem Microsoft-Spezialisten in Verbindung zu setzen**. Um sich für weitere Hilfe mit einem Microsoft-Spezialisten in Verbindung zu setzen, **wählen Sie unten den Live-Chat** aus.
