@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: e8f08e3ecf740c0bbb26393c8002653ca74d1da7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d5f370ff1a6aab88be44f3a399d8ed02e00243dc
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63177640"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66000521"
 ---
 # <a name="update-my-credit-card-information"></a>Aktualisieren von Kreditkarteninformationen
 
-Sie können im **Microsoft 365 Admin Center** eine Zahlungsmethode hinzufügen oder entfernen. Wenn Ihre Zahlungsmethode keinem Abonnement zugeordnet ist, können Sie diese sofort löschen. Wenn diese einem Abonnement zugeordnet ist, lesen Sie bitte [Verwalten einer Zahlungsmethode](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Sie können im Microsoft 365 Admin Center eine Zahlungsmethode hinzufügen oder entfernen. Wenn Ihre Zahlungsmethode keinem Abonnement zugeordnet ist, können Sie diese sofort löschen. Wenn diese einem Abonnement zugeordnet ist, lesen Sie bitte [Verwalten einer Zahlungsmethode](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-1. Navigieren Sie zu **Abrechnung > Rechnungen & Zahlungen > [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+1. Navigieren Sie zu **Abrechnung > Rechnungen & Zahlungen > [Zahlungsmethoden](https://admin.microsoft.com/AdminPortal/Home?ref=PaymentMethods)**.
 
 2. Zeigen Sie mit der Maus auf die betreffende Kreditkarte oder das betreffende Bankkonto und wählen Sie dann das Symbol „Löschen“ aus.
 

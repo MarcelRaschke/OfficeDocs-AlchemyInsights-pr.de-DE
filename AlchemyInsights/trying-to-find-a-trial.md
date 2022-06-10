@@ -14,18 +14,18 @@ ms.custom:
 - "1500033"
 - "488"
 ms.date: 04/21/2020
-ms.openlocfilehash: 3bd4165b9a6ff52478424e82a42c485ddc9a5729
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 9e160b1c469efced770989a953f0dafec45cf1b7
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65727498"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66006848"
 ---
 # <a name="trying-to-find-a-trial"></a>Versuchen Sie, eine Testversion zu finden?
 
 Wenn Sie einen neuen Dienst testen möchten, finden Sie im Microsoft 365 Admin Center eine Liste der Abonnements, die zum Testen verfügbar sind.
   
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Dienste kaufen](https://go.microsoft.com/fwlink/p/?linkid=868433).
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Dienste kaufen](https://admin.microsoft.com/AdminPortal/Home?ref=catalog).
 
 2. Wählen Sie das Abonnement aus, das Ihren Anforderungen entspricht, und wählen Sie dann  **"Kostenlose Testversion abrufen**" aus.
 

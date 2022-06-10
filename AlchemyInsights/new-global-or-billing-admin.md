@@ -14,12 +14,12 @@ ms.custom:
 - "1500029"
 - "17186"
 ms.date: 04/27/2022
-ms.openlocfilehash: 90a3ff97400c9aac80913968024680e9e0b7eb13
-ms.sourcegitcommit: 29aa28c4fa26e71de062cb6319e48cd963fdf1fc
+ms.openlocfilehash: 5450f58dbd6529fa854ba3e8c9e9880dbcccc60d
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "65861966"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66006040"
 ---
 # <a name="new-global-or-billing-administrator"></a>Neuer globaler Administrator oder Abrechnungsadministrator?
 
@@ -29,7 +29,7 @@ Wenn Ihnen kürzlich eine globale Oder Abrechnungsadministratorrolle in Ihrer Or
 
 So fügen Sie zusätzliche Berechtigungen hinzu:
 
-1. Wechseln Sie zum **Abrechnungskonto** > , und wählen Sie den Namen Ihres Abrechnungskontos aus.
+1. Wechseln Sie zum [**Abrechnungskonto**](https://admin.microsoft.com/Adminportal/Home?ref=BillingAccounts/billing-accounts) > , und wählen Sie den Namen Ihres Abrechnungskontos aus.
 2. Wählen Sie unten auf der Seite unter " **Abrechnungskontorollen"** die Option " **Rollen zuweisen"** aus.
 3. Geben Sie Ihren Namen oder Ihre E-Mail-Adresse ein, und wählen Sie ihn aus.
 4. Wählen Sie die Rolle **"Abrechnungskontobesitzer"** aus.

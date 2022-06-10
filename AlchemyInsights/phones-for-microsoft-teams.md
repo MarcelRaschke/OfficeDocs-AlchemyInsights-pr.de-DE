@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1786"
 - "9000170"
-ms.openlocfilehash: e6567c0e3adad39204391e42e2e5bc41dfee8556
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 374dc4e06a026fd30e87b6bed20feda44b208087
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63213405"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66001061"
 ---
-# <a name="are-you-looking-for-phones-that-are-compatible-with-teams"></a>Suchen Sie Telefone, die mit Teams kompatibel sind?
+# <a name="are-you-looking-for-phones-that-are-compatible-with-teams"></a>Suchen Sie nach Telefonen, die mit Teams kompatibel sind?
 
-Als Administrator [verwalten Sie alle Geräte](https://docs.microsoft.com/microsoftteams/device-management), die mit Teams in Ihrer Organisation verwendet werden, über die Microsoft 365 Admin Center. Weitere Informationen: 
+Als Administrator [verwalten Sie alle Geräte](https://docs.microsoft.com/microsoftteams/device-management), die mit Teams in Ihrer Organisation verwendet werden, über die [Microsoft 365 Admin Center](https://admin.microsoft.com/adminportal/home?ref=homepage). Weitere Informationen: 
 
 - Überprüfen Sie die Liste der [Telefone für Microsoft Teams](https://docs.microsoft.com/microsoftteams/phones-for-teams). 
 - Überprüfen Sie die Liste der [derzeit zertifizierten IP-Telefone](https://docs.microsoft.com/microsoftteams/teams-ip-phones#currently-certified-ip-phones). 

@@ -14,16 +14,16 @@ ms.custom:
 - "9002419"
 - "5116"
 ms.date: 05/12/2022
-ms.openlocfilehash: 48d2851910accdf5a579b6b2009739312bb9be85
-ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
+ms.openlocfilehash: e74168f718c59aa7a6b1e035700546177b6f7874
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65395386"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66003491"
 ---
 # <a name="visio-license-management"></a>Visio-Lizenzverwaltung
 
-Die Verwaltung von Visio-Lizenzen kann im **Microsoft 365 Admin Center** erfolgen.
+Die Verwaltung von Visio-Lizenzen kann im Microsoft 365 Admin Center erfolgen.
 
 - Informationen zu den Unterschieden zwischen Visio Abo 1 und Abo 2 finden Sie unter [Vergleich von Visio-Optionen](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options?rtc=1).
 - Um **Pläne zu ändern**, ziehen Sie [Upgrade auf einen anderen Plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) zurate.

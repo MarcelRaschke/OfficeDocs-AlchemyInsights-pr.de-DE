@@ -15,18 +15,18 @@ ms.custom:
 - "4552"
 - "1500025"
 ms.date: 05/24/2022
-ms.openlocfilehash: 6992eefef5591c94f52f57cd53e2b2a1223c74f0
-ms.sourcegitcommit: f1deffe3c72510f188df6c8bc611093fb3888cf0
+ms.openlocfilehash: a765225350ccc9a2a77d7c9f6a4b03b8643861fb
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/25/2022
-ms.locfileid: "65671417"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66004445"
 ---
 # <a name="change-how-often-you-pay"></a>Ändern, wie oft Sie bezahlen
 
 Führen Sie die folgenden Schritte in der Microsoft 365 Admin Center aus, um zu ändern, wie oft Sie ein Abonnement in Rechnung stellen und bezahlen.
 
-1. Wechseln Sie zur Seite **"Abrechnung** > [Ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
+1. Wechseln Sie zur Seite **"Abrechnung** > [Ihrer Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions) ".
 2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie ändern möchten.
 3. Wählen Sie auf der Seite "Abonnementdetails" im Abschnitt **"Abonnement- und Zahlungseinstellungen** " die Option **"Abrechnungshäufigkeit bearbeiten"** aus.
 4. Wählen Sie im Bereich **"Abrechnungshäufigkeit bearbeiten** " die Option aus, wie oft Sie in Rechnung gestellt werden möchten, und wählen Sie dann **"Ändern"** aus.

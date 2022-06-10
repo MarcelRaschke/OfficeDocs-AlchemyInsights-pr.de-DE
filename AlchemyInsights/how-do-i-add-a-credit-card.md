@@ -16,16 +16,16 @@ ms.custom:
 - "1500001"
 ms.date: 04/21/2020
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: f13c341b7bc5452a7d3833792d52e410e9d9f4b8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 9ccb3076372ed62a279dfb2105aed1dbdc84525c
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63203036"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66005343"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Wie füge ich eine Kreditkarte hinzu?
 
-1. Navigieren Sie im Microsoft 365 Admin Center zur Seite **Abrechnung** \> [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+1. Navigieren Sie im Microsoft 365 Admin Center zur Seite **Abrechnung** \> [Zahlungsmethoden](https://admin.microsoft.com/AdminPortal/Home?ref=PaymentMethods).
 
 2. Wählen Sie **Zahlungsmethode hinzufügen** aus.
 

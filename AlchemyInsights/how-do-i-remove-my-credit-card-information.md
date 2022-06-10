@@ -1,5 +1,5 @@
 ---
-title: Wie kann ich meine Kreditkarteninformationen entfernen?
+title: Gewusst wie meine Kreditkarteninformationen entfernen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -16,23 +16,23 @@ ms.custom:
 - "1500001"
 ms.date: 08/11/2021
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 5642fc3514a7b480f7f087808172a94cd749b6be
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 0be01dc430812afe4b213e54d1e2e2f9374c378f
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63192812"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66002384"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a>Wie kann ich meine Kreditkarteninformationen entfernen?
+# <a name="how-do-i-remove-my-credit-card-information"></a>Gewusst wie meine Kreditkarteninformationen entfernen?
 
-1. Navigieren Sie im Microsoft 365 Admin Center zur Seite **Abrechnung** \> [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+1. Navigieren Sie im Microsoft 365 Admin Center zur Seite **Abrechnung** \> [Zahlungsmethoden](https://admin.microsoft.com/AdminPortal/Home?ref=PaymentMethods).
 
-2. Wählen Sie auf der Seite **"Zahlungsmethoden** " die zu löschende Kreditkarte oder das Bankkonto aus.
+2. Wählen Sie auf der Seite **"Zahlungsmethoden** " die Kreditkarte oder das Bankkonto aus, die sie löschen möchten.
 
-3. Um die Kreditkarte oder das Bankkonto zu entfernen, wählen Sie **Zahlungsmethode löschen aus.**
+3. Um die Kreditkarte oder das Bankkonto zu entfernen, wählen Sie " **Zahlungsmethode löschen" aus.**
 
     **Hinweis**: Sie können keine Kreditkarte oder ein Bankkonto entfernen, wenn sie derzeit für die Zahlung eines Abonnements verwendet wird.
 
-4. Wählen Sie im Bereich Zahlungsmethode **löschen** die Option **"Löschen" aus**.
+4. Wählen Sie im Bereich **"Zahlungsmethode löschen** " die Option **"Löschen"** aus.
 
 Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

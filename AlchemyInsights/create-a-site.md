@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
-ms.openlocfilehash: c67cfe19180f82d6c46bffff9fcdf85c33125035
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 13c8108df3701ac2d33f22fe1d85e5db2d266655
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63131753"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66004211"
 ---
 # <a name="create-a-site"></a>Erstellen einer Website
 
-- Wechseln Sie zur [Seite "Websites" im Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/SitesList), und wählen Sie dann **"Website hinzufügen**" aus. 
-    
-- Klicken Sie im neuen SharePoint Admin Center auf der Seite "Websites" auf "**Erstellen**". 
-    
-**Hinweis:** Sie können keine neue Website erstellen, die dieselbe URL mit einer vorhandenen Website hat. 
+1. Wechseln Sie im [Microsoft 365 Admin Center zur Seite "Websites](https://admin.microsoft.com/AdminPortal/Home?ref=SitesList)", und wählen Sie dann **"Website hinzufügen"** aus. 
+
+1. Wählen Sie im neuen SharePoint Admin Center auf der Seite "Websites" die Option **"Erstellen"** aus. 
+
+**Hinweis:** Sie können keine neue Website erstellen, die dieselbe URL wie eine vorhandene Website aufweist. 
   
 Weitere Informationen zum Erstellen einer Website finden Sie unter [Erstellen einer Website](https://go.microsoft.com/fwlink/?linkid=866295).
   
-Informationen dazu, wie Benutzer ihre eigenen Websites erstellen können, finden Sie unter [Verwalten der Websiteerstellung in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+Informationen dazu, wie Benutzer eigene Websites erstellen können, finden [Sie unter Verwalten der Websiteerstellung in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
   
 

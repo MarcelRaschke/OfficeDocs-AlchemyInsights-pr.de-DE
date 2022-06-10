@@ -15,24 +15,24 @@ ms.custom:
 - "9001519"
 - "3586"
 ms.date: 07/30/2021
-ms.openlocfilehash: c494d646470d62a5b895b76a63f5243c5fe30e1b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c59ccc898b74ba2b781c75b564d483b007c7b73a
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63261665"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66000449"
 ---
 # <a name="subscription-status"></a>Abonnementstatus
 
-Abonnementstatus, Ablaufdatum und Anzahl der Lizenzen finden Sie auf der Seite **"Ihre Produkte**" des Microsoft 365 Admin Center.
+Der Abonnementstatus, das Ablaufdatum und die Anzahl der Lizenzen finden Sie auf der Seite **"Ihre Produkte**" der Microsoft 365 Admin Center.
 
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Auf der Registerkarte **"Produkte** " werden standardmäßig alle Abonnements und deren Status angezeigt (aktiv, abgelaufen, deaktiviert oder gelöscht). Um eine Teilmenge aller Abonnements anzuzeigen, wählen Sie das Filtersymbol und dann den **Abonnementstatus** aus, den Sie anzeigen möchten.
-3. Um ein abgelaufenes oder deaktiviertes Abonnement zu reaktivieren, wählen Sie die drei Punkte (weitere Aktionen) und dann **dieses Abonnement reaktivieren** aus.
-4. Auf der Seite **"Ihre Produkte** " werden auch die folgenden Informationen angezeigt:
-    - Die Anzahl der Lizenzen, die Benutzern zugewiesen sind, wird in der Spalte **"Zugewiesene Lizenzen** " angezeigt.
-    - Die Gesamtzahl der im Abonnement enthaltenen Lizenzen wird in der Spalte " **Gekaufte Menge** " angezeigt.
-    - Das Ablaufdatum oder das Verlängerungsdatum in der Spalte **"Abonnementstatus** ".
-    - Die Zahlungsmethode, die für jedes Abonnement verwendet wird, wird in der Spalte **"Kostenpflichtig mit** " angezeigt.
-    - Das Abrechnungskonto, das jedem Abonnement zugeordnet ist, wird in der Spalte " **Abrechnungskonto** " angezeigt.
-5. Um Spalten hinzuzufügen oder zu entfernen, wählen Sie **"Spalten auswählen" aus**.
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions).
+2. Auf der Registerkarte " **Produkte** " werden standardmäßig alle Abonnements und deren Status (aktiv, abgelaufen, deaktiviert oder gelöscht) angezeigt. Um eine Teilmenge aller Abonnements anzuzeigen, wählen Sie das Filtersymbol und dann den **Gewünschten Abonnementstatus** aus.
+3. Wenn Sie ein abgelaufenes oder deaktiviertes Abonnement reaktivieren möchten, wählen Sie die drei Punkte (weitere Aktionen) und dann **"Dieses Abonnement reaktivieren**" aus.
+4. Auf der Seite **"Ihre Produkte** " werden außerdem die folgenden Informationen angezeigt:
+    - Die Anzahl der Benutzern zugewiesenen Lizenzen wird in der Spalte **"Zugewiesene Lizenzen** " angezeigt.
+    - Die Gesamtzahl der Lizenzen, die im Abonnement enthalten sind, wird in der Spalte **"Gekaufte Menge** " angezeigt.
+    - Das Ablauf- oder Verlängerungsdatum in der Spalte **"Abonnementstatus"** .
+    - Die Zahlungsmethode, die zum Bezahlen jedes Abonnements verwendet wird, wird in der Spalte **"Bezahlt mit** " angezeigt.
+    - Das Abrechnungskonto, das jedem Abonnement zugeordnet ist, wird in der Spalte **"Abrechnungskonto"** angezeigt.
+5. Wenn Sie Spalten hinzufügen oder entfernen möchten, wählen **Sie "Spalten auswählen"** aus.

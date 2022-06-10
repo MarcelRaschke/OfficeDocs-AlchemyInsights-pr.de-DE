@@ -15,12 +15,12 @@ ms.custom:
 - "1400007"
 - "14030"
 ms.date: 10/01/2021
-ms.openlocfilehash: d763cea6c53f4cda4bf3591fe1b56d5222d2c4d3
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: e2f319a387f8de87bdad7d5475771d9e91cb8e57
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65717747"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66007661"
 ---
 # <a name="buy-subscriptions-through-the-windows-365-products-site"></a>Abonnements über die Windows 365-Produktwebsite kaufen
 
@@ -32,7 +32,7 @@ Sollten Sie noch kein Microsoft 365-Abonnement haben, können Sie Windows 365 Bu
 4. In **Schritt 5 – Bestätigungsdetails**: Wenn Sie bereit sind, Benutzern Lizenzen zuzuweisen, wählen Sie **Erste Schritte** aus, um zu Ihrer Windows 365 Homepage unter [https://windows365.microsoft.com](https://windows365.microsoft.com)zu wechseln.
 5. Wählen Sie auf der Windows 365-Startseite im Abschnitt **Schnellaktionen** die Option **Organisation verwalten** aus. Dadurch gelangen Sie zum Microsoft 365 Admin Center, in dem Sie Benutzern Lizenzen zuweisen können.
 
-Benutzer ohne Administratorrolle des Typs "Global" oder "Abrechnung" können ein Abonnement für Windows 365 Business per Self-Service-Kauf direkt über die [Windows 365 Business-Produktwebsite](https://www.microsoft.com/windows-365/business?rtc=1) kaufen. Ein Benutzer, der ein Abonnement auf diese Weise kauft, kann über eine eingeschränkte Ansicht des [Microsoft 365 Admin Centers](https://go.microsoft.com/fwlink/p/?linkid=2024339) anderen Benutzern in seiner Organisation Lizenzen für dieses Abonnement zuweisen. Wenn einem anderen Benutzer eine Lizenz zugewiesen wird, wird automatisch ein Windows 365 Business Cloud-PC für ihn erstellt, auf den er über die [Windows 365-Startseite](https://windows365.microsoft.com/) zugreifen kann.
+Benutzer ohne Administratorrolle des Typs "Global" oder "Abrechnung" können ein Abonnement für Windows 365 Business per Self-Service-Kauf direkt über die [Windows 365 Business-Produktwebsite](https://www.microsoft.com/windows-365/business?rtc=1) kaufen. Ein Benutzer, der ein Abonnement auf diese Weise kauft, kann über eine eingeschränkte Ansicht des [Microsoft 365 Admin Centers](https://admin.microsoft.com/adminportal/home?ref=homepage) anderen Benutzern in seiner Organisation Lizenzen für dieses Abonnement zuweisen. Wenn einem anderen Benutzer eine Lizenz zugewiesen wird, wird automatisch ein Windows 365 Business Cloud-PC für ihn erstellt, auf den er über die [Windows 365-Startseite](https://windows365.microsoft.com/) zugreifen kann.
 
 > [!NOTE]
 > Self-Service-Kauf ist nicht verfügbar in Indien oder für Behörden oder Bildungseinrichtungen Kunden.

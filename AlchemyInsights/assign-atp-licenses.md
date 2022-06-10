@@ -1,5 +1,5 @@
 ---
-title: Zuweisen von Microsoft Defender für Office 365-Lizenzen
+title: Zuweisen Microsoft Defender für Office 365 Lizenzen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,18 +14,18 @@ ms.custom:
 - "9003019"
 - "5778"
 ms.date: 06/06/2022
-ms.openlocfilehash: da5422315d2e2d1a191dfbabf2189ee805190d3e
-ms.sourcegitcommit: b4049885146fc15ae6b8c2a565b6895ddabf8ee5
+ms.openlocfilehash: 595592b78ff18fdaca6d286fc4de0825b03d3460
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2022
-ms.locfileid: "65917705"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66007517"
 ---
-# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Zuweisen von Microsoft Defender für Office 365-Lizenzen
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Zuweisen Microsoft Defender für Office 365 Lizenzen
 
-Microsoft Defender für Office 365 kann Benutzern im Microsoft 365 Admin Center zugewiesen werden.
+Microsoft Defender für Office 365 können Benutzern in der Microsoft 365 Admin Center zugewiesen werden.
 
-1. Wechseln Sie zu[Abrechnungslizenzen](https://go.microsoft.com/fwlink/p/?linkid=842264) > .
+1. Wechseln Sie zu[Abrechnungslizenzen](https://admin.microsoft.com/adminportal/home?ref=licenses) > .
 2. Wählen Sie ein Produkt aus, für das Sie Lizenzen zuweisen möchten.
 3. Klicken Sie auf **Lizenzen zuweisen**.
 4. Beginnen Sie im Bereich " **Benutzern Lizenzen zuweisen**  " mit der Eingabe des Benutzernamens, und wählen Sie ihn dann aus den Ergebnissen aus. Sie können bis zu 20 Benutzer gleichzeitig hinzufügen.

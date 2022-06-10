@@ -11,18 +11,18 @@ ms.localizationpriority: high
 ms.custom:
 - "9002568"
 - "4979"
-ms.openlocfilehash: fa7b703a061b7ad761aa08a337ece7b22e4211d2
-ms.sourcegitcommit: 67136d41a943c82d8f8bda3b1e609e0b77a955e8
+ms.openlocfilehash: 1ca07d9725520887e0b84138a0a028f2f98daff8
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2022
-ms.locfileid: "65374926"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66002492"
 ---
 # <a name="get-the-microsoft-365-education-plans"></a>Abrufen der Microsoft 365 Education-Pläne
 
-Wenn sich Ihr Institut bereits für Microsoft 365 Education qualifiziert hat, können Sie das A1-, A3- oder A5-Abonnement über das **Microsoft 365 Admin Center hinzufügen**.
+Wenn sich Ihr Institut bereits für Microsoft 365 Education qualifiziert hat, können Sie das A1-, A3- oder A5-Abonnement über das Microsoft 365 Admin Center hinzufügen.
 
-1. Wechseln Sie zu **Abrechnung** > **[Dienste kaufen](https://go.microsoft.com/fwlink/p/?linkid=868433)**.
+1. Wechseln Sie zu **Abrechnung** > **[Dienste kaufen](https://admin.microsoft.com/AdminPortal/Home?ref=catalog)**.
 2. Verwenden Sie das Suchfeld, um nach "A1", "A2" oder "A3" zu suchen.
 3. Wählen Sie die Anzahl der Benutzer aus, die den Plan verwenden sollen.
 

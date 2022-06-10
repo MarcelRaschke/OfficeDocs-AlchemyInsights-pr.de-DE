@@ -15,18 +15,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.date: 08/10/2021
-ms.openlocfilehash: 8f36ca2aba18ed9b52c70c1d34d839b2c5d8ce5c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 58e9e25eca95b3e3d36ab0faaa63845cae037dfc
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63225645"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66006050"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Reaktivieren eines Abonnements
 
 Wenn Ihr Abonnement abgelaufen ist, gekündigt oder von Microsoft deaktiviert wurde, können Sie es im Microsoft 365 Admin Center reaktivieren.
   
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Ihre Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions).
 2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie reaktivieren möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Dieses Abonnement reaktivieren** aus.
     Wenn Sie **Dieses Abonnement reaktivieren** nicht als verfügbare Aktion sehen, wenden Sie sich an den Support.
 3. Wählen Sie im Bereich **Dieses Abonnement reaktivieren** eine Zahlungsmethode aus der Dropdownliste aus, oder wählen Sie **Zahlungsmethode hinzufügen** aus.

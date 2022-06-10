@@ -15,18 +15,18 @@ search.appverid:
 - MOE150
 - MED150
 - MBS150
-ms.openlocfilehash: 1be4e67855d387fec9ae04ed59572cfd79f482e3
-ms.sourcegitcommit: 30b5ecda157eb16e15db9d9be25fae59edae12ec
+ms.openlocfilehash: 6879ff5d1f57bdfb10c7af2a64b0ffacbd226752
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2022
-ms.locfileid: "64662719"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66001133"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Wiederherstellen eines gelöschten Postfachs
 
 Wenn ein Benutzer eine Exchange Online Lizenz verliert, wird sein Postfach 30 Tage lang aufbewahrt und kann wiederhergestellt werden, indem die Lizenz dem Benutzer einfach erneut zugewiesen wird.
   
-1. Wechseln Sie in der Microsoft 365 Admin Center zur Seite "**Aktive Benutzer****"**\>. Wählen Sie den betreffenden Benutzer aus.
+1. Wechseln Sie in der Microsoft 365 Admin Center zur Seite "[**Aktive Benutzer**](https://admin.microsoft.com/AdminPortal/Home?ref=users)\>". Wählen Sie den betreffenden Benutzer aus.
 2. Weisen Sie auf der Registerkarte **"Lizenzen und Apps**" die Exchange Online Lizenz zu, und wählen Sie **"Änderungen speichern"** aus.
 
 Wenn Sie versuchen, ein freigegebenes Postfach oder einen gelöschten Benutzer wiederherzustellen, kann es auch 30 Tage lang wiederhergestellt werden. Sie finden sie unter **"Benutzer** \> **gelöschte Benutzer"**. Für freigegebene Postfächer ist keine Lizenz erforderlich. Siehe [Wiederherstellen eines Benutzers](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).

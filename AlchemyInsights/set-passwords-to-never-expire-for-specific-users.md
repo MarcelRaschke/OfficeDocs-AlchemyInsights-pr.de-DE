@@ -15,16 +15,16 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: a30bd2e00d2fe3efc3e473aed0d7796d69f002c4
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 6539910a1936d3d2e1fbd47543b9f0cb031af806
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733080"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66000737"
 ---
 # <a name="set-passwords-to-never-expire"></a>Festlegen von Kennwörtern, sodass sie nie ablaufen
 
-Um festzulegen, dass ALLE Kennwörter nie ablaufen, wechseln Sie in der Microsoft 365 Admin Center zur **Einstellungen** >  **Org Einstellungen > Ablaufrichtlinie für [Sicherheits- und](https://portal.office.com/adminportal/home#/settings/security)[Datenschutzkennwörter](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) > **, und deaktivieren Sie "Festlegen, dass Benutzerkennwörter nach einer Anzahl von Tagen ablaufen".
+Um festzulegen, dass ALLE Kennwörter nie ablaufen, wechseln Sie in der Microsoft 365 Admin Center zur **Einstellungen** >  **Org Einstellungen** >  [**Sicherheits- und Datenschutzkennwortablaufrichtlinie**](https://admin.microsoft.com/AdminPortal/Home?ref=Settings/SecurityPrivacy) > , und deaktivieren Sie die Option **"Benutzerkennwörter festlegen" nach einer Anzahl von Tagen abläuft**.[](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)
   
 Ausführlichere Informationen finden Sie unter:
 

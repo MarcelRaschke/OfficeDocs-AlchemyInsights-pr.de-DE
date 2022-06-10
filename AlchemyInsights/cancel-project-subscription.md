@@ -15,18 +15,18 @@ ms.custom:
 - "1400001"
 - "4722"
 ms.date: 10/26/2021
-ms.openlocfilehash: 6243059d66328137be76c12d358acb1994726e64
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4d95d1ba01429b006c315f3df2a8d33bd60be7ec
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63218085"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66003581"
 ---
 # <a name="cancel-project-subscription"></a>Kündigen Project Abonnements
 
-Administratoren können das Project-Abonnement für ihre Organisation im Microsoft 365 Admin Center kündigen.
+Administratoren können das Project Abonnement für ihre Organisation im Microsoft 365 Admin Center kündigen.
 
-1. Navigieren Sie zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Navigieren Sie zur Seite **Abrechnung** \> [Ihre Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions).
 2. Suchen Sie auf der Registerkarte "**Produkte**" das Project Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Abonnement kündigen** aus.
 3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund für Ihre Kündigung aus. Geben Sie optional Feedback.
 4. Wählen Sie **Speichern** aus.
@@ -35,4 +35,4 @@ Administratoren können das Project-Abonnement für ihre Organisation im Microso
 
 **Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
 
-Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Weitere Informationen finden [Sie unter Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

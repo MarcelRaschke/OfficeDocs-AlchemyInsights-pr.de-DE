@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 2a50ef687ec5ee3433b478d0d15ebbfe4306447f
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 3a482589fb0f4a7559e92f90c42879a9984b7d22
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65729476"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66004517"
 ---
 # <a name="info-about-viewing-quarantined-messages"></a>Informationen zum Anzeigen in Quarantäne befindlicher Nachrichten
 
-Verwenden Sie die Microsoft 365 Admin Center, um alle in Quarantäne befindlichen Nachrichten für Ihre Organisation anzuzeigen. Hier sind ein paar Tipps:
+Verwenden Sie die [Microsoft 365 Admin Center](https://admin.microsoft.com/adminportal/home?ref=homepage), um alle in Quarantäne befindlichen Nachrichten für Ihre Organisation anzuzeigen. Hier sind ein paar Tipps:
 
 - Es gibt keine Möglichkeit, einen täglichen oder wöchentlichen Bericht aller in Quarantäne befindlichen Nachrichten an Ihr Postfach zu senden.
 - Sie können jedoch Microsoft 365 einrichten, um ihren Benutzern einen Digest darüber zu senden, welche E-Mails sich in Quarantäne befinden.

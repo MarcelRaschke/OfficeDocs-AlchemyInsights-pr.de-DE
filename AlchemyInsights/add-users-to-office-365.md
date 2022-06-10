@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: eee04bd25ea2b236c1a375df51bad228d9ec5487
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: ee716251e55dd1abd1f40d5bbd4ec6fcd546853f
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63286037"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "65999738"
 ---
 # <a name="add-a-user"></a>Hinzufügen eines Benutzers
 
-1. Navigieren Sie im Microsoft 365 Admin Center zu **Benutzer** > [Aktive Benutzer](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+1. Navigieren Sie im Microsoft 365 Admin Center zu **Benutzer** > [Aktive Benutzer](https://admin.microsoft.com/AdminPortal/Home?ref=users).
 
 2. Klicken Sie auf **Benutzer hinzufügen**.
 
