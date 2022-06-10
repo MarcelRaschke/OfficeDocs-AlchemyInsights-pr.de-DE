@@ -15,16 +15,16 @@ ms.custom:
 - "428"
 - "1500016"
 ms.date: 08/11/2021
-ms.openlocfilehash: 4582d680706382dc5578d4ac70b218578faaf5ee
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 6204c083517cf522d577af49378086cc24d06358
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63229497"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66012057"
 ---
 # <a name="update-credit-card-information"></a>Aktualisieren von Kreditkarteninformationen
 
-1. Navigieren Sie im Microsoft 365 Admin Center zur Seite **Abrechnung** \> [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+1. Navigieren Sie im Microsoft 365 Admin Center zur Seite **Abrechnung** \> [Zahlungsmethoden](https://admin.microsoft.com/AdminPortal/Home?ref=PaymentMethods).
 
     **Hinweis**: Sollten Sie in einer Schleife zur Admin-Startseite zurückgesendet werden, bevor Ihre Updates abgeschlossen sind, probieren Sie den InPrivate- oder Inkognito-Modus aus.
   

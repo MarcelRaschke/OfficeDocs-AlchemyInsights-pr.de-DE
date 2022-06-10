@@ -15,19 +15,19 @@ ms.custom:
 - "9003019"
 - "5777"
 ms.date: 10/26/2021
-ms.openlocfilehash: 20685a02d3f517879f14de013c112b3f5f180a19
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 2533fb17e0eeae22c7cbf074af615f06b853c2f1
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63241685"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66009020"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Abbrechen von Advanced Threat Protection
 
 Administratoren können das Advanced Threat Protection-Abonnement für ihre Organisation im Microsoft 365 Admin Center kündigen.
 
-1. Wechseln Sie zur Seite "[BillingYour-Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) > ".
-2. Suchen Sie auf der Registerkarte **"Produkte** " den Advanced Threat Protection-Plan, den Sie abbrechen möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Abonnement kündigen** aus.
+1. Wechseln Sie zur Seite  **"Abrechnung** > [Ihrer Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions) ".
+2. Suchen Sie auf der Registerkarte " **Produkte** " den Advanced Threat Protection-Plan, den Sie abbrechen möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Abonnement kündigen** aus.
 3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund für Ihre Kündigung aus. Geben Sie optional Feedback.
 4. Wählen Sie **Speichern** aus.
 
@@ -35,4 +35,4 @@ Administratoren können das Advanced Threat Protection-Abonnement für ihre Orga
 
 **Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
 
-Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Weitere Informationen finden [Sie unter Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

@@ -14,12 +14,12 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.date: 04/06/2022
-ms.openlocfilehash: 1f061f09425c0e17302f00f225f42ed5e6827cd0
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 450af02dedc63287775ff7b46eca4b270b76a842
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65731926"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66008464"
 ---
 # <a name="change-app-license-quantity"></a>Ändern der App-Lizenzmenge
 
@@ -29,7 +29,7 @@ Sie können die Anzahl ihrer Lizenzen anzeigen oder ändern und sie Benutzern im
 
 **Schauen Sie sich ein Video** an, in dem gezeigt wird, wie Sie [dies tun: Neue Lizenzen kaufen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#watch-buy-new-licenses) oder [vorhandene Lizenzen entfernen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#watch-remove-existing-licenses).
 
-1. Wechseln Sie zur Seite **"Abrechnung** > **[Ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** ".
+1. Wechseln Sie zur Seite **"Abrechnung** > **[Ihrer Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions)** ".
 2. Suchen Sie auf der Registerkarte " **Produkte** " im Abschnitt **"Apps** " die App, die Sie verwalten möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **"Lizenzen kaufen**" aus.
 3. Wenn Sie die Anzahl der Lizenzen verringern möchten, wählen Sie oben im **Bereich "Lizenzen kaufen** " die Option " **Lizenzen entfernen"** aus.
 4. Um Lizenzen zu kaufen oder zu entfernen, geben Sie unter **"Neue Menge** " im Feld " **Lizenzen insgesamt** " die Gesamtanzahl der Lizenzen ein, die Sie für dieses Abonnement benötigen. Wenn Sie beispielsweise über 100 Lizenzen verfügen und fünf weitere lizenzen hinzufügen möchten, geben Sie 105 ein. Wenn Sie fünf davon entfernen möchten, geben Sie 95 ein.

@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "13834"
 - "9007457"
-ms.openlocfilehash: 9d302515001fcfe2483bf8d17775e420b8abfdeb
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 3cc36becb4d650fb3ee71911c09673a51eb8c6de
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63165090"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66012093"
 ---
 # <a name="user-picture-still-appears-in-the-microsoft-teams-organization-chart"></a>Das Benutzerbild erscheint weiterhin im Microsoft Teams Organigramm
 
 Wenn eine oder mehrere Personen in Ihrer Organisation deaktiviert oder entfernt wurden und ihr Profilfoto weiterhin im Organigramm angezeigt wird, ist es möglich, dass die Einstellung **"ShowInAddressLists"** auf "False" festgelegt ist:
 
-1. Wechseln Sie zu Microsoft 365 Admin Center > [Aktive Benutzer](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) und wählen Sie den Benutzer mit dem Foto aus, das weiter angezeigt wird.
+1. Wechseln Sie zu Microsoft 365 Admin Center > [Aktive Benutzer](https://admin.microsoft.com/AdminPortal/Home?ref=users) und wählen Sie den Benutzer mit dem Foto aus, das weiter angezeigt wird.
 1. Wählen Sie die Registerkarte **E-Mail** aus, und stellen Sie sicher, dass **in der globalen Adressliste anzeigen** auf **Nein** festgelegt ist.
 
 Wenn das Festlegen von **ShowInAddressLists** auf **Nein** nicht funktioniert, überprüfen Sie Folgendes:

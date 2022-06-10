@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7972"
-ms.openlocfilehash: c5230a2238fdb5eab5d03898d57d8f37e33c045d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c68bd913beb3cd0e031a806c82ca158eff68e079
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63176575"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66010886"
 ---
 # <a name="view-reports-on-onedrive-activity-and-usage"></a>Anzeigen von Berichten über OneDrive Aktivität und Nutzung
 
-Wechseln Sie zur [Seite "Nutzungsberichte" im Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home). Wählen **Sie unter "Bericht auswählen**" den OneDrive Aktivitäts- oder Nutzungsbericht aus.
+Wechseln Sie zur [Seite "Verwendungsberichte" in der Microsoft 365 Admin Center](https://admin.microsoft.com/Adminportal/Home?ref=reportsUsage). Wählen **Sie unter "Bericht auswählen**" den OneDrive Aktivitäts- oder Nutzungsbericht aus.
 
-Weitere Informationen finden Sie unter [Informationen zu OneDrive Berichten](https://go.microsoft.com/fwlink/?linkid=875239).
+Weitere Informationen finden Sie unter ["Informationen zu OneDrive Berichten](https://go.microsoft.com/fwlink/?linkid=875239)".
