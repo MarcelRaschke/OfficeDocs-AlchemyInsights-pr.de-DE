@@ -14,16 +14,16 @@ ms.custom:
 - "9002548"
 - "5149"
 ms.date: 04/22/2022
-ms.openlocfilehash: 4353476f219fa0d8921e0b447527a744714f94f9
-ms.sourcegitcommit: 5058f004f549ba7ac2b4843429b385287456a9c7
+ms.openlocfilehash: 579972882862b0fdc5ac0ffa34c34620e333023b
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65062495"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66002132"
 ---
 # <a name="exchange-license-management"></a>Exchange-Lizenzverwaltung
 
-Die Verwaltung von Exchange-Lizenzen kann im **Microsoft 365 Admin Center** erfolgen.
+Die Verwaltung von Exchange-Lizenzen kann im [Microsoft 365 Admin Center](https://admin.microsoft.com/adminportal/home?ref=homepage) erfolgen.
 
 - [Vergleichen Sie Exchange-Optionen](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans), um etwas über die Unterschiede zwischen **Exchange Online Plan 1, 2 und Business Premium** zu erfahren.
 - Wenn Sie Exchange **kaufen** möchten, wechseln Sie zu **Abrechnung > [Dienste kaufen](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Verwenden Sie das Suchfeld, um nach „Exchange“ zu suchen. Wählen Sie dann den Plan und die Anzahl der Benutzer aus. Weitere Informationen finden Sie unter [Kaufen eines anderen Abonnements](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).

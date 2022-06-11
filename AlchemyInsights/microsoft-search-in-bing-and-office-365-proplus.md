@@ -8,18 +8,18 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.openlocfilehash: 762fc98ff9620c4d99f418bc94d9b8979f7ac770
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 157aad90381efeb4f44c4a945bbe20bf84cdf3b2
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63169627"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66008984"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsoft Search in Bing und Microsoft 365 Apps for Enterprise
 
 Eine ***optionale*** Microsoft Search in Bing-Erweiterung für Google Chrome ist ab Version 2005 mit Microsoft 365 Apps for Enterprise (zuvor Office 365 ProPlus) verfügbar. Diese Erweiterung ist an bestimmten Standorten für domänengebundene Geräte unter Windows verfügbar. Wenn Sie diese Erweiterung bereitstellen, wird Bing als Standardsuchmaschine festgelegt.
 
-Um die Erweiterung zu installieren, müssen Sie ***sich anmelden***, indem Sie eine Einstellung im Microsoft Search-Abschnitt im Microsoft 365 Admin Center konfigurieren.
+Um die Erweiterung zu installieren, müssen Sie sich ***anmelden***, indem Sie eine Einstellung im Abschnitt [Microsoft Search](https://admin.microsoft.com/AdminPortal/Home?ref=MicrosoftSearch) im Microsoft 365 Admin Center konfigurieren.
 
 Die Bereitstellung dieser ***optionalen*** Erweiterung stützt sich außerdem auf einen Hintergrunddienst, der ab Version 2005 in Microsoft 365 Apps for Enterprise enthalten ist. Wenn der Hintergrunddienst nicht installiert ist, wird die Erweiterung nicht installiert.
 
