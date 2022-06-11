@@ -13,18 +13,18 @@ ms.custom:
 - "9000744"
 - "3813"
 - "3818"
-ms.openlocfilehash: 2b88c3a5bdd53eb7c1ee793cf65f8ea9a160bb6b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 2d8d3d8cdce9bd58587808bdcbf72f296d353052
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65728430"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66008752"
 ---
 # <a name="sign-in-issues-for-students"></a>Anmeldeprobleme für Schüler/Studenten
 
 Wenn die Kursteilnehmer Probleme beim Anmelden haben, liegt der häufigste Grund darin, dass Teams nicht für die Schüler/Studenten-Rolle aktiviert ist. Um dieses Problem zu beheben, müssen Sie Microsoft Teams manuell aktivieren:
 
-1. Navigieren Sie im Microsoft 365 Admin Center zu **Einstellungen > Einstellungen > Microsoft Teams**. 
+1. Wechseln Sie zum Microsoft 365 Admin Center > **Einstellungen**>  **Einstellungen** >  [**Microsoft Teams**](https://admin.teams.microsoft.com/dashboard). 
 
 2. Wenn Sie Microsoft Teams nicht in der Liste der Dienste sehen, deaktivieren Sie **Testen Sie das neue Admin Center**, um **Einstellungen > Dienste und Add-Ins > Microsoft Teams** zu suchen. 
 
