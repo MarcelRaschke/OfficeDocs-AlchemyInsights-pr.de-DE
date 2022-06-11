@@ -14,18 +14,18 @@ ms.custom:
 - "9002564"
 - "4964"
 ms.date: 04/22/2022
-ms.openlocfilehash: ab22f5514bb30bb9ce65b6627cb72cc0160c167e
-ms.sourcegitcommit: 5058f004f549ba7ac2b4843429b385287456a9c7
+ms.openlocfilehash: e6fab33ef25827f77176797178f4a511ed3ccf94
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65062459"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66007625"
 ---
 # <a name="assign-power-bi-to-users"></a>Zuweisen von Power BI zu Benutzern
 
-Power BI kann Benutzern über das **Microsoft 365 Admin Center** zugewiesen werden.  
+Power BI kann Benutzern über das Microsoft 365 Admin Center zugewiesen werden.  
 
-1. Wechseln Sie zu **Abrechnung > [Lizenzen](https://go.microsoft.com/fwlink/p/?linkid=842264)**.
+1. Wechseln Sie zu **Abrechnung > [Lizenzen](https://admin.microsoft.com/adminportal/home?ref=licenses)**.
 2. Wählen Sie ein Produkt aus, für das Sie Lizenzen zuweisen möchten.
 3. Klicken Sie auf **Lizenzen zuweisen**.
 4. Beginnen Sie im Bereich **Lizenzen an Benutzer zuweisen** mit der Eingabe eines Namens, und wählen Sie ihn dann aus den Ergebnissen aus, um ihn der Liste hinzuzufügen. Sie können bis zu 20 Benutzer gleichzeitig hinzufügen.
