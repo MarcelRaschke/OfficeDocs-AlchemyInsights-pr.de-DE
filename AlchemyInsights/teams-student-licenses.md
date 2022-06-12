@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001723"
 - "3822"
-ms.openlocfilehash: 7de45227e437cd9ef2b66cc5e25c1d1e2805616d
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 18433f96ab5242292284300739057e68742f98a4
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65717315"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66004985"
 ---
 # <a name="teams-student-licenses"></a>Teams-Schülerlinzenzen
 
 Wenn Sie einen EDU-Mandanten haben, müssen Sie Microsoft Teams manuell aktivieren:
 
-1. Navigieren Sie im Microsoft 365 Admin Center zu **Einstellungen > Einstellungen > Microsoft Teams**. 
+1. Wechseln Sie zu Microsoft 365 Admin Center **Einstellungen** > **Einstellungen** > [**Microsoft Teams**](https://admin.teams.microsoft.com/dashboard). 
 
 2. Wenn Sie Microsoft Teams nicht in der Liste der Dienste sehen, deaktivieren Sie **Testen Sie das neue Admin Center**, um **Einstellungen > Dienste und Add-Ins > Microsoft Teams** zu suchen. 
 

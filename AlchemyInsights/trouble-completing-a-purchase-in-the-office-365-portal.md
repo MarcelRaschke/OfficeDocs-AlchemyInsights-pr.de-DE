@@ -14,13 +14,13 @@ ms.custom:
 - "1500029"
 - "483"
 ms.date: 04/21/2020
-ms.openlocfilehash: 5cd824ff5df30074eed398463d923cdfaa38cf8a
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 2ab67ee2dd0a41643a59eb08c86539bb339a02e7
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65725909"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66008174"
 ---
 # <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Probleme beim Abschließen eines Kaufs im Microsoft 365 Admin Center
 
-Wenn Sie beim Versuch, einen Kauf zu tätigen, mehrmals aufgefordert werden, sich beim Microsoft 365 Admin Center anzumelden, oder wenn Sie eine Nachricht erhalten, dass ein Problem aufgetreten ist, sollten Sie am besten zuerst versuchen, den InPrivate- bzw. Inkognitomodus Ihres Browsers zu verwenden. Navigieren Sie nach dem Öffnen eines InPrivate- bzw. Inkognitofensters zur Website [admin.microsoft.com](https://admin.microsoft.com), und melden Sie sich mit Ihren Administratoranmeldeinformationen an. Schließen Sie dann den Kauf ab.
+Wenn Sie beim Versuch, einen Kauf zu tätigen, mehrmals aufgefordert werden, sich beim Microsoft 365 Admin Center anzumelden, oder wenn Sie eine Nachricht erhalten, dass ein Problem aufgetreten ist, sollten Sie am besten zuerst versuchen, den InPrivate- bzw. Inkognitomodus Ihres Browsers zu verwenden. Navigieren Sie nach dem Öffnen eines InPrivate- bzw. Inkognitofensters zur Website [Microsoft 365 Admin Center](https://admin.microsoft.com/adminportal/home?ref=homepage), und melden Sie sich mit Ihren Administratoranmeldeinformationen an. Schließen Sie dann den Kauf ab.
