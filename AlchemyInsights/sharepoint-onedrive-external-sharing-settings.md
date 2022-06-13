@@ -11,26 +11,26 @@ ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: f728b87e93ecf8af2f1b6aaebe0d24cf4164c4c4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: ed3feeb240f6951d0f0ccce863b88265e6ed9242
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63292395"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66010778"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Warnmeldung: Die Richtlinien Ihrer Organisation ermöglichen es Ihnen nicht, diese Benutzer freizugeben.
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Warnmeldung: Die Richtlinien Ihrer Organisation erlauben es Ihnen nicht, sie für diese Benutzer freizugeben.
 
-Benutzern wird möglicherweise eine Warnmeldung angezeigt, wenn sie versuchen, sie für externe Benutzer Ihrer Organisation freizugeben. Die Meldung lautet, **dass Sie die Richtlinien Ihrer Organisation nicht für diese Benutzer freigeben können. Wechseln Sie im Microsoft 365 Admin Center zu "Externe Freigabe", um sie zu aktivieren**. Dies geschieht häufig beim ersten Versuch, sie für externe Benutzer freizugeben, oder wenn die Freigabe für neue externe Benutzer erfolgt.
+Benutzern wird möglicherweise eine Warnmeldung angezeigt, wenn sie versuchen, sie für externe Benutzer Ihrer Organisation freizugeben. Die Meldung lautet, dass die **Richtlinien Ihrer Organisation nicht zulassen, dass Sie sie für diese Benutzer freigeben. Wechseln Sie in der Microsoft 365 Admin Center zur externen Freigabe, um sie zu aktivieren**. Dies geschieht häufig beim ersten Versuch, die Freigabe für externe Benutzer oder bei der Freigabe für neue externe Benutzer.
 
-Überprüfen Sie die **Einstellungen SharePoint und OneDrive externe Freigabe** für Ihre Organisation.
+Überprüfen Sie die **Einstellungen für die SharePoint und OneDrive externe Freigabe** für Ihre Organisation.
 
-1. Wählen Sie [in Ihrem Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/) **SharePoint** aus.
-3. Wählen Sie **"Freigabe"** aus, um die Einstellungen für die externe Freigabe anzuzeigen.
+1. Wählen Sie in Ihrem Microsoft 365 Admin Center **SharePoint** aus.
+1. Wählen Sie [**"Freigabe"**](https://admin.microsoft.com/sharepoint?page=sharing&modern=true) aus, um die Einstellungen für die externe Freigabe anzuzeigen.
 
 Überprüfen Sie die Einstellungen für die **externe Freigabe** für eine bestimmte Website.
 
-1. Wählen Sie [in Ihrem Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/) **SharePoint** aus.
-2. Wählen Sie **"Aktive Websites" aus** , um Ihre verfügbaren Websites anzuzeigen.
+1. Wählen Sie [in](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/) Ihrem Microsoft 365 Admin Center **SharePoint** aus.
+2. Wählen Sie [**"Aktive Websites**](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true) " aus, um ihre verfügbaren Websites anzuzeigen.
 3. Wählen Sie die Website aus, die Sie überprüfen möchten, und wählen Sie dann die Schaltfläche " **Freigabe** " aus, die in der Menüleiste angezeigt wird, um die Einstellungen für die Website zu überprüfen.
 
-Weitere Informationen finden Sie unter ["Übersicht über die externe Freigabe"](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Weitere Informationen finden Sie in der [Übersicht über die externe Freigabe](https://docs.microsoft.com/sharepoint/external-sharing-overview).

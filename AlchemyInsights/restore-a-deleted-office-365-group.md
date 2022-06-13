@@ -14,18 +14,18 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 9af1b95170e3514625d6658c41df39332084f3d4
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 3d7991e2a353533225aa65a64254bc01d6aa459d
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65735204"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66002171"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Wiederherstellen einer gelöschten Microsoft 365-Gruppe
 
 Sie können eine gelöschte Microsoft 365 Gruppe oder Microsoft Teams innerhalb von 30 Tagen nach dem Löschvorgang wiederherstellen.
 
-1. Wechseln Sie zum [Microsoft 365 Admin Center](https://aka.ms/RestoreDeletedGroup), um sich bei einer Liste der gelöschten Gruppen und Teams anzumelden.
+1. Wechseln Sie zum [Microsoft 365 Admin Center](https://admin.microsoft.com/Adminportal/Home?ref=deletedgroups), um sich bei einer Liste der gelöschten Gruppen und Teams anzumelden.
 
     **Hinweis:** Melden Sie sich mit dem Konto an, das entweder dem Mandantenadministrator oder der Administratorrolle "Gruppen" zugewiesen ist.
 

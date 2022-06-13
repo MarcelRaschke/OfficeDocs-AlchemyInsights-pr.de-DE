@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007647"
 - "12676"
-ms.openlocfilehash: 92125580ba9267b252608068bea523cb679f7cdc
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: e3cfd651423fb55a63b6b30eb74ba3beb38128aa
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65591634"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66003761"
 ---
 # <a name="app-governance-is-not-working"></a>App-Governance funktioniert nicht
 
@@ -30,11 +30,11 @@ App-Governance ist jetzt für die öffentliche Vorschau verfügbar. Wenn Problem
 
     **Hinweis**: Das einfache Umschalten der Integration in Microsoft Cloud App Security (MCAS) aktiviert keine kostenlose Testversion der App-Governance. Sie müssen die Aktivierungsschritte ausführen.
 
-- Zum Hinzufügen der App-Governance zum linken Navigationsbereich des Microsoft Purview-Complianceportal wechseln Sie zum Lösungskatalog, um App-Governance hinzuzufügen. Änderungen können bis zu 24 Stunden nach der Registrierung dauern, bis sie wirksam werden.
+- Wechseln Sie zum Lösungskatalog, um die App-Governance im linken Navigationsbereich des Microsoft Purview-Complianceportals hinzuzufügen, um App-Governance hinzuzufügen. Änderungen können bis zu 24 Stunden nach der Registrierung dauern, bis sie wirksam werden.
 
 - Stellen Sie sicher, dass Ihrem Konto die richtigen Rollen zugewiesen sind:
 
-    1. Wechseln Sie zum [Microsoft 365 Admin Center](https://admin.microsoft.com/Adminportal/Home#/users), und zeigen Sie an, welche Rolle(n) Sie zugewiesen haben, indem Sie Ihren Namen auswählen und die unter **Rollen** im Flyoutbereich aufgeführten Rollen überprüfen.
+    1. Wechseln Sie zum [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home?ref=/rbac/directory), und zeigen Sie an, welche Rolle(n) Sie zugewiesen haben, indem Sie Ihren Namen auswählen und die unter **Rollen** im Flyoutbereich aufgeführten Rollen überprüfen.
 
     1. Überprüfen Sie auf der [Schnellstartseite](https://aka.ms/appgovernancepreview) , ob Ihre Rolle eine der Rollen mit Zugriff auf App-Governance ist. Informationen zu akzeptierten Administratorrollen finden Sie unter ["Administratorrollen"](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started#administrator-roles). 
 

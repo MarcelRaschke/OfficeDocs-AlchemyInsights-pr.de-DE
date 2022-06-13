@@ -17,27 +17,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: db83ecb0f25bd5a4127fd29a557e77e6d825fbb6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 21cb2281280389251393326dc06b719a336b840f
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63091559"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66004409"
 ---
 # <a name="enable-multi-factor-authentication"></a>Aktivieren der mehrstufigen Authentifizierung
 
-So aktivieren Sie die mehrstufige Authentifizierung im Microsoft 365 Admin Center:
+So aktivieren Sie die mehrstufige Authentifizierung in der Microsoft 365 Admin Center:
 
-1. Wechseln Sie zur Seite "**Aktive Benutzer der Benutzer**  \>".
+1. Wechseln Sie zur Seite "[**Aktive Benutzer**](https://admin.microsoft.com/AdminPortal/Home?ref=users)" der **Benutzer**\>.
     
-2. Wählen Sie oben auf der Seite die **mehrstufige Authentifizierung aus**. 
+2. Wählen Sie oben auf der Seite die **Option "Mehrstufige Authentifizierung**" aus. 
     
-3. Suchen Sie die Benutzer, die Sie für die mehrstufige Authentifizierung aktivieren möchten. Um alle Benutzer anzuzeigen, müssen Sie möglicherweise den **Statusfilter für die mehrstufige Authentifizierung** oben ändern.
+3. Suchen Sie den Oder die Benutzer, die Sie für die mehrstufige Authentifizierung aktivieren möchten. Um alle Benutzer anzuzeigen, müssen Sie möglicherweise den **Statusfilter "Mehrstufige Authentifizierung** " oben ändern.
     
 4. Aktivieren Sie das Kontrollkästchen neben den Benutzern, die Sie aktivieren möchten.
     
-5.  Wählen Sie im rechten Benutzerinformationsbereich unter **"Schnellschritte**" die Option **"Aktivieren**" aus. 
+5.  Wählen Sie im rechten Benutzerinformationsbereich unter **"Schnelle Schritte**" die Option **"Aktivieren"** aus. 
     
-6. Wählen Sie im daraufhin geöffneten Dialogfeld die **Option "Mehrstufige Authentifizierung aktivieren**" aus. 
+6. Wählen Sie im daraufhin geöffneten Dialogfeld " **Mehrstufige Authentifizierung aktivieren**" aus. 
     
 

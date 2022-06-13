@@ -16,16 +16,16 @@ ms.custom:
 - "1500005"
 ms.date: 08/10/2021
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 5932971e6b1631287a090c502ed86b10a782c75c
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: b8e1b37000213d420e6a095b39df099c428bd906
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65726668"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66008057"
 ---
 # <a name="view-my-bill-or-invoice"></a>Anzeigen meiner Rechnung
 
-1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **"**[Abrechnungsrechnungen](https://go.microsoft.com/fwlink/p/?linkid=848039) \> & Zahlungen".
+1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **"**[Abrechnungsrechnungen](https://admin.microsoft.com/AdminPortal/Home?ref=billoverview/invoice-list) \> & Zahlungen".
 
 2. Wählen Sie einen Datumsbereich aus der Dropdown-Liste aus und wählen Sie dann die Reihenfolge aus, die Sie anzeigen möchten.
 

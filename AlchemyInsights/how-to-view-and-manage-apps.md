@@ -15,17 +15,17 @@ ms.custom:
 - "9000561"
 - "2420"
 ms.date: 07/30/2021
-ms.openlocfilehash: 65359c68fe172c02aca7ab28e1847b599164de82
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 7f0619fee4aef8b0c049b81dca28be1d04c25085
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63171463"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "65999792"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Anzeigen und Verwalten von Apps
 
 Sie können Ihre Apps im Microsoft 365 Admin Center anzeigen.
 
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Scrollen Sie auf der Registerkarte **"Produkte** " nach unten zum Abschnitt **"Apps** ".
-3. Wählen Sie zum Verwalten einer App die App aus, die Sie verwalten möchten.
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions).
+2. Scrollen Sie auf der Registerkarte " **Produkte** " nach unten zum Abschnitt **"Apps** ".
+3. Um eine App zu verwalten, wählen Sie die App aus, die Sie verwalten möchten.

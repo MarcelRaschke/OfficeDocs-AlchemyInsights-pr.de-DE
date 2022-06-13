@@ -1,5 +1,5 @@
 ---
-title: Abbrechen Power BI
+title: Power BI abbrechen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -16,18 +16,18 @@ ms.custom:
 - "9002564"
 - "5092"
 ms.date: 10/26/2021
-ms.openlocfilehash: e4d19f61235d1e4ec9be0d72820e54995e08c4c4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d195e1a9ec979a7d2a40617b3bc121c7a3cf217d
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63187880"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66003689"
 ---
-# <a name="cancel-power-bi"></a>Abbrechen Power BI
+# <a name="cancel-power-bi"></a>Power BI abbrechen
 
 Power BI können im Microsoft 365 Admin Center abgebrochen werden.
 
-1. Wechseln Sie im Admin Center zur Seite **"Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** ".
+1. Wechseln Sie im Admin Center zur **Seite "Abrechnung > [Ihre Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions)** ".
 2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte (Weitere Aktionen) und dann **Abonnement kündigen** aus.
 3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund für Ihre Kündigung aus. Geben Sie optional Feedback.
 4. Wählen Sie **Speichern** aus.
@@ -36,6 +36,6 @@ Power BI können im Microsoft 365 Admin Center abgebrochen werden.
 
 **Rückerstattung: Jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.**
 
-**Hinweis**: Wenn die Option zum Kündigen nicht angezeigt wird, wählen Sie das Abonnement aus, um die Detailseite anzuzeigen. Wählen Sie im Abschnitt **"Abonnement- und Zahlungseinstellungen** " die Option **"Abonnement kündigen**" aus.
+**Hinweis**: Wenn die Option zum Kündigen nicht angezeigt wird, wählen Sie das Abonnement aus, um die Detailseite anzuzeigen. Wählen Sie im Abschnitt **"Abonnement- und Zahlungseinstellungen"** die Option **"Abonnement kündigen"** aus.
 
-Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Weitere Informationen finden [Sie unter Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

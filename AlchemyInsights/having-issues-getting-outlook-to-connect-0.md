@@ -1,5 +1,5 @@
 ---
-title: Haben Sie Probleme beim Herstellen Outlook zum Herstellen einer Verbindung?
+title: Haben Sie Probleme beim Outlook der Verbindung?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -10,19 +10,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: 6fe40dc43d6c09a70875368b78a22139138d998d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: ac392da97d7b53984d0f619c51edca8665ed635e
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63276065"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66009245"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>Haben Sie Probleme beim Herstellen Outlook zum Herstellen einer Verbindung?
+# <a name="having-issues-getting-outlook-to-connect"></a>Haben Sie Probleme beim Outlook der Verbindung?
 
-Wir haben festgestellt, dass Outlook nicht so konfiguriert ist, dass sie unter den folgenden Domänen ordnungsgemäß funktioniert:
+Wir haben festgestellt, dass Outlook unter den folgenden Domänen nicht ordnungsgemäß konfiguriert ist:
   
 {HealthCheckString}
   
 Die NS- oder CNAME-Einträge der Domäneneinstellungen (DNS) sind nicht ordnungsgemäß eingerichtet. Ausführliche Anweisungen hierzu entnehmen Sie [Erstellen von DNS-Einträgen bei einem beliebigen DNS-Hostanbieter](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider). 
   
-Um dies zu beheben, wechseln Sie im Microsoft 365 Admin Center zu zur Seite [Domänen](https://admin.microsoft.com/adminportal/home#/Domains), und wir helfen Ihnen dabei. 
+Um dies zu beheben, wechseln Sie im Microsoft 365 Admin Center zu zur Seite [Domänen](https://admin.microsoft.com/AdminPortal/Home?ref=Domains), und wir helfen Ihnen dabei. 

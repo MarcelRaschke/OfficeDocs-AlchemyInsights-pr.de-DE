@@ -16,18 +16,18 @@ ms.custom:
 - "1500012"
 ms.date: 07/30/2021
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: f8d5fd036c6f072357fa713d017e06f71281df53
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 46e7fe1245ac4f1b10a9786748c272919c7bd830
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63306725"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66010445"
 ---
 # <a name="manage-recurring-billing"></a>Verwalten der wiederkehrenden Abrechnung
 
 Sie können die wiederkehrende Abrechnung im Microsoft 365 Admin Center aktivieren oder deaktivieren.
   
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Ihre Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions).
 2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie ändern möchten.
 3. Wählen Sie auf der Seite Abonnementdetails, unter **Abonnement- und Zahlungseinstellungen**, **Wiederkehrende Abrechnung bearbeiten** aus.
 4. Wählen Sie im Bereich **Einstellungen für die wiederkehrende Abrechnung bearbeiten** zwischen den Optionen **Ein**, **Ein, aber einmal verlängern** oder **Deaktivieren** aus.
