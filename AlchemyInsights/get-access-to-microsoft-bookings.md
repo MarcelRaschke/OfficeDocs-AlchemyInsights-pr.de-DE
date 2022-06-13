@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5498"
-ms.openlocfilehash: 373eb42cbb2301b456002251eacf6344fd03c9dd
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 004bd065895ea5067c7bb68df376fc60ce478bcb
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63160591"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66006109"
 ---
 # <a name="get-access-to-microsoft-bookings"></a>Zugriff auf Microsoft Bookings erhalten
 
-Aktivieren Sie Microsoft Bookings im **Microsoft 365 Admin Center**.
+Aktivieren Sie Microsoft Bookings im Microsoft 365 Admin Center.
 
-1. Wechseln Sie zu **Einstellungen > [Einstellungen](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Settings/Services)**, und klicken Sie auf **Bookings**.
-2. Aktivieren bzw. deaktivieren Sie das Kontrollkästchen für **Ihrer Organisation die Verwendung von Bookings ermöglichen** zum Aktivieren oder Deaktivieren von Bookings für Ihre Organisation.
+1. Wechseln Sie zu **Einstellungen** >  [**Einstellungen**](https://admin.microsoft.com/Adminportal/Home?ref=Settings/Services) und wählen Sie **Bookings** aus.
+2. Zum Aktivieren oder Deaktivieren von Bookings für Ihre Organisation aktivieren bzw. deaktivieren Sie das Kontrollkästchen für **Ihrer Organisation die Verwendung von Bookings ermöglichen**.
 3. Klicken Sie auf **Änderungen speichern**.
 
 **Wichtig**: Die Microsoft Booking-App steht standardmäßig für **Microsoft 365 Education A3, A5**, **Microsoft 365 Business Standard (vormals Business Premium)** und **Microsoft 365 Business Premium (vormals Business)** zur Verfügung. Bookings steht für **Enterprise E3- und E5-Kunden** bis zum 12. Mai 2020 als Add-On zur Verfügung. Mit diesem Datum wird es standardmäßig aktiviert.

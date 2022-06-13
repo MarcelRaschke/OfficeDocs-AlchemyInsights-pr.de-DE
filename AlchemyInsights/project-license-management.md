@@ -14,16 +14,16 @@ ms.custom:
 - "9002424"
 - "5105"
 ms.date: 04/06/2022
-ms.openlocfilehash: e5df9083b6b0f649a9a14033c1b28a6279c2ea18
-ms.sourcegitcommit: b6ba43b438551e7558ad67d8b94f84b608d26bf9
+ms.openlocfilehash: da84b2fbff6eb7a2151a0937f1b48b20e0c81d9b
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64826366"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66011335"
 ---
 # <a name="project-license-management"></a>Project-Lizenzverwaltung
 
-Die Verwaltung von Project-Lizenzen kann im Microsoft 365 Admin Center erfolgen.
+Die Projektlizenzverwaltung kann im [Microsoft 365 Admin Center](https://admin.microsoft.com/adminportal/home?ref=homepage) abgeschlossen werden.
 
 - Weitere Informationen zu den Unterschieden zwischen den Project-Abonnements 1, 3 und 5 finden Sie unter Vergleich von Project-Optionen. Weitere Informationen finden Sie unter [Vergleich von Projektmanagementlösungen und -kosten](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software?rtc=1&activetab=tabs%3aprimaryr1).
 - Um Project zu erwerben oder mit einer Testversion zu beginnen, wechseln Sie zu **Abrechnung** > [**Dienste kaufen**](https://go.microsoft.com/fwlink/p/?linkid=868433). Geben Sie **Project** in das Suchfeld ein, und wählen Sie den Plan und die Anzahl der Benutzer aus. Weitere Informationen finden Sie unter [Kaufen eines anderen Abonnements](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
