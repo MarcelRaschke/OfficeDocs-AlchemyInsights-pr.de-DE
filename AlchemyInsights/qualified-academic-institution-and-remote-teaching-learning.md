@@ -12,12 +12,12 @@ ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: 64e60f3c9e99c28257cbdc7ecc74c626dd45ddb7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 57093d7a6191a278e78c4bbf162b437adae64ce1
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63212865"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66004553"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Microsoft qualifizierte Bildungseinrichtung und Fernstudium (Lehren und Lernen)
 
@@ -27,7 +27,7 @@ Sie erhalten die Office 365 A1 für Lehrpersonal – Testversion und Office 365 
 
 Sie erhalten eine Е-Mail, in der Sie darüber informiert werden, ob die Teilnahmeberechtigung Ihrer Organisation genehmigt wurde.  
 
-Wenn Sie die Genehmigung erhalten haben, können Sie zur Registerkarte [Dienste kaufen](https://admin.microsoft.com/Adminportal/Home#/catalog) im Microsoft 365 Admin Center wechseln, um Abonnements zu kaufen.
+Wenn Sie die Genehmigung erhalten haben, können Sie zur Registerkarte [Dienste kaufen](https://admin.microsoft.com/AdminPortal/Home?ref=catalog) im Microsoft 365 Admin Center wechseln, um Abonnements zu kaufen.
 
 **Fernstudium (Lehren und Lernen)**
 

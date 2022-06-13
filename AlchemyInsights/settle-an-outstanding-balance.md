@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5606"
-ms.openlocfilehash: 4044e0dd0a1bb44926ad456d5e75aed9504d0bf3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c717bc73900eb1ec06fc707142a5f0821737031c
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63305417"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66004589"
 ---
 # <a name="settle-an-outstanding-balance"></a>Ausgleichen einer Saldoforderung
 
-Wenn eine Saldoforderung besteht, können Sie den Saldo über das **Microsoft 365 Admin Center** ausgleichen.
+Wenn eine Saldoforderung besteht, können Sie den Saldo über das Microsoft 365 Admin Center ausgleichen.
 
-1. Wechseln Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Wechseln Sie zu **Abrechnung > [Ihre Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions)**.
 
 2. Suchen Sie das Abonnement mit dem ausstehenden Saldo. Klicken Sie im Abschnitt "Abrechnung" neben **Abonnement mit einer überfälligen Zahlung**, klicken Sie auf **Saldo begleichen**.
 

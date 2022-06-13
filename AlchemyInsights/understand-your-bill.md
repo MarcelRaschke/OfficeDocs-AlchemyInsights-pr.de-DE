@@ -16,18 +16,18 @@ ms.custom:
 - "4728"
 - "4727"
 ms.date: 04/14/2021
-ms.openlocfilehash: a345f3d95422071027f573f7b269a08ddf31425d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: b54a20ceb5496537c681a4b154ca4905588f0384
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63229533"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66012021"
 ---
 # <a name="understand-your-bill"></a>Erklärungen zu Ihrer Rechnung
 
 **Anzeigen Ihrer Rechnung**
 
-1. Gehen Sie im Microsoft 365 Admin Center zur Seite **Abrechnung > [Rechnungen & Zahlungen](https://go.microsoft.com/fwlink/p/?linkid=848039)**.
+1. Gehen Sie im Microsoft 365 Admin Center zur Seite **Abrechnung > [Rechnungen & Zahlungen](https://admin.microsoft.com/AdminPortal/Home?ref=billoverview)**.
 
 2. Wählen Sie in der Dropdownliste einen Datumsabschnitt aus, und wählen Sie dann die Rechnung aus, die Sie überprüfen möchten, oder klicken Sie auf den Link **PDF-Rechnung herunterladen**, um eine Kopie der Rechnung anzuzeigen.
 

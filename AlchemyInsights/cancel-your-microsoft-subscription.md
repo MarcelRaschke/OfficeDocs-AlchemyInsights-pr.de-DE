@@ -15,18 +15,18 @@ ms.custom:
 - "9001727"
 - "3824"
 ms.date: 10/26/2021
-ms.openlocfilehash: 7cd4b7b04bb0ac15d119f314f592982ad2bf3f31
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f6eca5c82097fe35f8ec15587b819bf5dd08fbd5
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63187628"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66003041"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>So kündigen Sie Ihr Microsoft-Abonnement
 
 Administratoren können das Abonnement für ihre Organisation im Microsoft 365 Admin Center kündigen.
 
-1. Navigieren Sie zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Navigieren Sie zur Seite **Abrechnung** \> [Ihre Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions).
 2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte (Weitere Aktionen) und dann **Abonnement kündigen** aus.
 3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund für Ihre Kündigung aus. Geben Sie optional Feedback.
 4. Wählen Sie **Speichern** aus.
