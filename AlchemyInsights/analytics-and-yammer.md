@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000311"
 - "1935"
-ms.openlocfilehash: b5eee07091505df4a1e87cb8cc17da530d3f4da8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a4e938c32acfe1ff4751f31ec8c9625f523e5027
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63259325"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66004122"
 ---
 # <a name="analytics-and-yammer"></a>Analysen and Yammer
 

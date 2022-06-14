@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10891"
 - "1100004"
-ms.openlocfilehash: b7c4fc6e437f93ee11535c256ee342c5ce68104f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: bb45d26076827bc6da4782a25603afd1218b57e6
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63203144"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66001277"
 ---
 # <a name="guest-user-password-reset"></a>Kennwortzurücksetzung für Gastbenutzer
 
@@ -26,4 +26,4 @@ Die Kennwörter von Gastbenutzern müssen in ihrem Startverzeichnis entweder vom
 
 Weitere Informationen zu Gastbenutzern finden Sie unter [Gastbenutzer im Microsoft 365 Admin Center](https://docs.microsoft.com/microsoft-365/admin/add-users/about-guest-users).
 
-Wenn Sie im Administratorportal einen Gastbenutzer hinzufügen möchten, wechseln Sie zu **Benutzer** > **Gastbenutzer**.
+Um einen Gastbenutzer im Administrator-Portal hinzuzufügen, gehen Sie zu **Benutzer** > [**Gastbenutzer**](https://admin.microsoft.com/Adminportal/Home?ref=GuestUsers).
