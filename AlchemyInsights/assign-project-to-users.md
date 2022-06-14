@@ -14,18 +14,18 @@ ms.custom:
 - "9002424"
 - "5103"
 ms.date: 04/06/2022
-ms.openlocfilehash: c336eb5c0cd2d4b4d84b3c78a4d4a0cd51be1842
-ms.sourcegitcommit: b6ba43b438551e7558ad67d8b94f84b608d26bf9
+ms.openlocfilehash: b38d872a5ddcde76a161509d5c92ff7555826b5f
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64826330"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66005584"
 ---
 # <a name="assign-project-to-users"></a>Project an Benutzer zuweisen
 
-Project kann Benutzern über das **Microsoft 365 Admin Center** zugewiesen werden.
+Project kann Benutzern über das Microsoft 365 Admin Center zugewiesen werden.
 
-1. Wechseln Sie zu **Abrechnung > [Lizenzen](https://go.microsoft.com/fwlink/p/?linkid=842264)**.
+1. Wechseln Sie zu **Abrechnung > [Lizenzen](https://admin.microsoft.com/adminportal/home?ref=licenses)**.
 2. Wählen Sie ein Produkt aus, für das Sie Lizenzen zuweisen möchten.
 3. Klicken Sie auf **Lizenzen zuweisen**.
 4. Beginnen Sie im Bereich **Lizenzen an Benutzer zuweisen** mit der Eingabe eines Namens, und wählen Sie ihn dann aus den Ergebnissen aus, um ihn der Liste hinzuzufügen. Sie können bis zu 20 Benutzer gleichzeitig hinzufügen.

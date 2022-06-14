@@ -14,18 +14,18 @@ ms.custom:
 - "9002419"
 - "4694"
 ms.date: 04/14/2021
-ms.openlocfilehash: 8ccc3a95912e7f9ac7854c93226e707f394d36a8
-ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
+ms.openlocfilehash: 3e5dbabb25131e273db6b6a3347ddd50890117c9
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64711856"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66008249"
 ---
 # <a name="purchase-visio-subscription"></a>Visio-Abonnement kaufen
 
-Administratoren können das Visio Abonnement für ihre Organisation über das **Microsoft 365 Admin Center** erwerben.
+Administratoren können das Visio-Abonnement für ihre Organisation über das Microsoft 365 Admin Center erwerben:
 
-1. Wechseln Sie zur Seite **Abrechnung** > **[Dienste kaufen](https://go.microsoft.com/fwlink/p/?linkid=868433)**, um die für Ihre Organisation zum Kauf verfügbaren Abonnements anzuzeigen.
+1. Wechseln Sie zur Seite **Abrechnung** > **[Dienste kaufen](https://admin.microsoft.com/AdminPortal/Home?ref=catalog)**, um die für Ihre Organisation zum Kauf verfügbaren Abonnements anzuzeigen.
 2. Suchen Sie die Visio-Abonnements, indem Sie nach „Visio“ suchen.
 3. Wählen Sie entweder das **Visio Abo 1** oder **Visio Abo 2** aus. Für beide Abonnements wird eine monatliche oder jährliche Option angeboten.
 

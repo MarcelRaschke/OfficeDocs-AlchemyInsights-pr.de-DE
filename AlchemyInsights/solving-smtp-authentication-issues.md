@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 749072e05eb07c46cbb278265cbb0b3756156ec2
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: b81ae4a96708858d868d1fea1905c5858083c2fa
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65718369"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66007373"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Aktivieren von SMTP-Authentifizierung und Problembehandlung
 
@@ -33,13 +33,13 @@ Wenn Sie die SMTP-Authentifizierung für ein Postfach aktivieren möchten oder b
 
 2. [Aktivieren Sie die SMTP-Clientübermittlung](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) für das lizenzierte Postfach.
 
-    1. Navigieren Sie im Microsoft 365 Admin Center zu **Aktive Benutzer**, und wählen Sie den Benutzer aus.
+    1. Navigieren Sie im Microsoft 365 Admin Center zu [**Aktive Benutzer**](https://admin.microsoft.com/AdminPortal/Home?ref=users), und wählen Sie den Benutzer aus.
     2. Navigieren Sie zur Registerkarte „E-Mail“, und wählen Sie unter **E-Mail-Apps** die Option **E-Mail-Apps verwalten** aus.
     3. Stellen Sie sicher, dass **Authentifiziertes SMTP** ausgewählt (aktiviert) ist.
     4. Wählen Sie **Änderungen speichern** aus.
 
 3. [Deaktivieren Sie die mehrstufige Authentifizierung (MFA)](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) für das lizenzierte Postfach.
 
-    1. Wechseln Sie zum Microsoft 365 Admin Center, und wählen Sie im linken Navigationsmenü **Benutzer** > **Aktive Benutzer** aus.
+    1. Gehen Sie zum Microsoft 365 Admin Center, und wählen Sie im linken Navigationsmenü **Benutzer** > [**Aktive Benutzer**](https://admin.microsoft.com/AdminPortal/Home?ref=users) aus.
     2. Wählen Sie **Mehrstufige Authentifizierung** aus.
     3. Wählen Sie den Benutzer aus, und deaktivieren Sie **Mehrstufige Authentifizierung**.
