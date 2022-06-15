@@ -10,14 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
 ms.custom:
 - "9018051"
+- "9000317"
+- "17578"
 - "17468"
-ms.date: 06/14/2022
-ms.openlocfilehash: bd1454a20d2b01a5de8bc1d7016c2eeb1b6cd559
-ms.sourcegitcommit: 7f407d1aeea75b3d80a25ecc7b2594ce9d0876c4
+ms.date: 06/15/2022
+ms.openlocfilehash: 0ed77ab93eb694781bba5d4405b4e7920268f32c
+ms.sourcegitcommit: 94f346edb08c3fbfd6ffa27280a137cf6c9cde3d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66064863"
+ms.lasthandoff: 06/15/2022
+ms.locfileid: "66097779"
 ---
 # <a name="microsoft-365-assessment-tool"></a>Microsoft 365 Bewertungstool
 
