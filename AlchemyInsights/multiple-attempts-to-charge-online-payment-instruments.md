@@ -3,7 +3,7 @@ title: Mehrere Versuche, Online-Zahlungsinstrumente in Rechnung zu stellen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
+ms.reviewer: lishepar, vikdesai
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "1500018"
 - "445"
 ms.date: 04/21/2020
-ms.openlocfilehash: 50de47a913d5f6a91292e8b19cd637d5609c3a4c
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 4c058c86ddec03a4276fb31cdfb3e73e6befb8e7
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721909"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66153217"
 ---
 # <a name="past-due-account"></a>Überfälliges Konto?
 

@@ -3,24 +3,23 @@ title: Anzeigen und Verwalten von Apps
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9000561"
 - "2420"
 ms.date: 07/30/2021
-ms.openlocfilehash: 7f0619fee4aef8b0c049b81dca28be1d04c25085
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: ceb226a669c877a90289e52c248f69b6a0b274fa
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "65999792"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66156948"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Anzeigen und Verwalten von Apps
 

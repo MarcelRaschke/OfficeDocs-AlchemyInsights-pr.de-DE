@@ -3,24 +3,23 @@ title: So kündigen Sie Ihr Microsoft-Abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9001727"
 - "3824"
 ms.date: 10/26/2021
-ms.openlocfilehash: f6eca5c82097fe35f8ec15587b819bf5dd08fbd5
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: ce8fc634fe66ff2f61b08ea74da7845bf8c899ce
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66003041"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66157429"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>So kündigen Sie Ihr Microsoft-Abonnement
 

@@ -3,7 +3,7 @@ title: Löschen eines Partners aus einem Abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
+ms.reviewer: jamitche, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "9001683"
 - "5064"
 ms.date: 04/14/2021
-ms.openlocfilehash: 22259adc627504670537aa844a5f40a12b1da8de
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: c934ffac79ecc8895beda34be812fd7c965682ca
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66003077"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66153109"
 ---
 # <a name="remove-a-partner-from-a-subscription"></a>Löschen eines Partners aus einem Abonnement
 

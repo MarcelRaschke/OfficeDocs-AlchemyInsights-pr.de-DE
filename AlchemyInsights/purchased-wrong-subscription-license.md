@@ -3,7 +3,7 @@ title: Falsche Abonnementlizenz erworben
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: jkinma, jmueller
+ms.reviewer: sgautam, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "9002455"
 - "4793"
 ms.date: 06/06/2022
-ms.openlocfilehash: f171dba24d41dd16cfdf8ca986e71c21e6dbdacd
-ms.sourcegitcommit: b4049885146fc15ae6b8c2a565b6895ddabf8ee5
+ms.openlocfilehash: e93054ce42fd6e1a04855832514aade8c65cadb3
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2022
-ms.locfileid: "65917561"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66156853"
 ---
 # <a name="purchased-wrong-subscription-license"></a>Falsche Abonnementlizenz erworben
 

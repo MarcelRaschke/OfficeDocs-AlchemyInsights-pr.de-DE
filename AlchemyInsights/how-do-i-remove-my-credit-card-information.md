@@ -3,32 +3,28 @@ title: Gewusst wie meine Kreditkarteninformationen entfernen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jamitche, jmueller
-ms.audience: Admin
+ms.reviewer: lishepar, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
-- "431"
 - "1500001"
+- "431"
 ms.date: 08/11/2021
-ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 0be01dc430812afe4b213e54d1e2e2f9374c378f
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 7a3a19a27441089178fb0af6272be04885917151
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66002384"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66152425"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Gewusst wie meine Kreditkarteninformationen entfernen?
 
 1. Navigieren Sie im Microsoft 365 Admin Center zur Seite **Abrechnung** \> [Zahlungsmethoden](https://admin.microsoft.com/AdminPortal/Home?ref=PaymentMethods).
-
 2. Wählen Sie auf der Seite **"Zahlungsmethoden** " die Kreditkarte oder das Bankkonto aus, die sie löschen möchten.
-
 3. Um die Kreditkarte oder das Bankkonto zu entfernen, wählen Sie " **Zahlungsmethode löschen" aus.**
 
     **Hinweis**: Sie können keine Kreditkarte oder ein Bankkonto entfernen, wenn sie derzeit für die Zahlung eines Abonnements verwendet wird.

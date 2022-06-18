@@ -3,24 +3,23 @@ title: EDU-Angebot kann nicht gekauft werden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: drjones, jmueller
-ms.audience: Admin
+ms.reviewer: mijeffer, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
-- "5989"
 - "1500009"
+- "5989"
 ms.date: 07/8/2020
-ms.openlocfilehash: 49d8d7fa98c25be08b61266e02db1ae184bccfb9
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 1029b82df1db9ad992695f6d24b132392c7771e5
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63303343"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66157681"
 ---
 # <a name="unable-to-purchase-edu-offer"></a>EDU-Angebot kann nicht gekauft werden
 

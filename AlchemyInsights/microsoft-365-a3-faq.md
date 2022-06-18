@@ -3,24 +3,23 @@ title: Microsoft 365 A3 – häufig gestellte Fragen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: mijeffer, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002871"
 - "5417"
 ms.date: 07/30/2021
-ms.openlocfilehash: 7da7304945eda25730390b0837fed86985421a1e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 40a79f7cabf79fd7ae2d7505f38cb445f3099cf7
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63234987"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66157501"
 ---
 # <a name="microsoft-365-a3-faq"></a>Microsoft 365 A3 – häufig gestellte Fragen
 

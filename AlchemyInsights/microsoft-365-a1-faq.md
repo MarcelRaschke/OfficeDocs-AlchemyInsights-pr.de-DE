@@ -3,24 +3,23 @@ title: Microsoft 365 A1 – Häufig gestellte Fragen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: mijeffer, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
-- "4981"
 - "9002568"
+- "4981"
 ms.date: 07/30/2021
-ms.openlocfilehash: 57022cfbefd1e02f623ff4afcc1d1a7eaf487aea
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 48294ee97519bfc24412fb84a7f6abbc1e4783e6
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63202028"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66154081"
 ---
 # <a name="microsoft-365-a1-faq"></a>Microsoft 365 A1 – Häufig gestellte Fragen
 

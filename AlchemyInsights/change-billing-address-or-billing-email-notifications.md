@@ -3,7 +3,7 @@ title: Ändern der Rechnungsadresse oder der E-Mail-Benachrichtigungen zur Abrec
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: jkinma, jmueller
+ms.reviewer: amberb, vikdesai
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "1200012"
 - "4716"
 ms.date: 08/10/2021
-ms.openlocfilehash: 40d95bf2dd083e387fdbfb0ae23412bdb1acb238
-ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
+ms.openlocfilehash: 8361587ca1605b454e42596dcfbafa4a1f4d6faf
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64712050"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66152389"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Ändern der Rechnungsadresse oder der E-Mail-Benachrichtigungen zur Abrechnung
 

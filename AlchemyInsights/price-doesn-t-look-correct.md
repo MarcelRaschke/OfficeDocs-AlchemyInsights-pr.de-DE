@@ -3,25 +3,23 @@ title: Der Preis sieht nicht richtig aus?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: amberb, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
-- "473"
 - "1500027"
+- "473"
 ms.date: 04/21/2020
-ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 5591fc114032b0bc5ea62258c4f66ec2ac63e51b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 113ed6632d74f49655486830e43964f654c9448e
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733296"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66158257"
 ---
 # <a name="price-doesnt-look-correct"></a>Der Preis sieht nicht richtig aus?
 

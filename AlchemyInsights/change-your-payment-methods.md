@@ -3,35 +3,30 @@ title: Zahlungsmethoden hinzufügen, aktualisieren oder entfernen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jamitche, jmueller
-ms.audience: Admin
+ms.reviewer: lishepar, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
 - "1500001"
 - "4858"
 ms.date: 04/14/2021
-ms.openlocfilehash: 2c1b8422e4d4fdbc06d0ee1881af9403e8d49e53
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a15ba767db58176fd13641b34598e38ab6bb10ce
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63187124"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66157573"
 ---
 # <a name="add-update-or-remove-your-payment-methods"></a>Zahlungsmethoden hinzufügen, aktualisieren oder entfernen
 
 Sie können Produkte und Dienste von Microsoft mit einer **Kredit- oder EC-Karte oder mit einem Bankkonto (Lastschrift)** erwerben. Sie können Ihre Zahlungsinformationen auf der Seite [Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806) oder wenn Sie einen Kauf tätigen eingeben.
 
 - [Zahlungsmethode hinzufügen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method)
-
 - [Zahlungsmethodendetails aktualisieren](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)
-
 - [Zahlungsmethode ersetzen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method)
-
 - [Zahlungsmethode löschen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method)
-
 - [Behandlung von Problemen mit Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods)

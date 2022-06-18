@@ -3,25 +3,24 @@ title: Häufig gestellte Fragen zu Lizenzen und Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002903"
 - "5582"
 - "5583"
 ms.date: 08/11/2021
-ms.openlocfilehash: c18a97081ff994125af52abac8734b039990fea2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 54b38684dc21cb8f812c187864103b3729390d34
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63264797"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66156745"
 ---
 # <a name="license-or-subscription-faq"></a>Häufig gestellte Fragen zu Lizenzen und Abonnements
 

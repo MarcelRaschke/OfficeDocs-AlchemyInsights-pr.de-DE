@@ -3,24 +3,23 @@ title: Häufig gestellte Fragen zu Microsoft 365 A5
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: mijeffer, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002872"
 - "5425"
 ms.date: 07/30/2021
-ms.openlocfilehash: 2cc8fff7d177807d0d7b6662ee75bbe2d83ccc91
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a2fee849e8f49cd51ed8ef3a631fcb952928a2a1
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63306689"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66157537"
 ---
 # <a name="microsoft-365-a5-faq"></a>Häufig gestellte Fragen zu Microsoft 365 A5
 

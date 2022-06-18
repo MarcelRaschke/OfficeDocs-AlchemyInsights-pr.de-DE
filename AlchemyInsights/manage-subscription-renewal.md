@@ -3,25 +3,24 @@ title: Abonnementverlängerung verwalten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "1500012"
 - "4568"
 - "4730"
 ms.date: 08/10/2021
-ms.openlocfilehash: 613a4d090ebdbcc55a38ef76c7ed76be3544f1d0
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c0b18762cf989fa4f4109bd1b887e1492033cf9e
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63089362"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66154657"
 ---
 # <a name="manage-subscription-renewal"></a>Abonnementverlängerung verwalten
 
@@ -33,4 +32,3 @@ Sie können die **wiederholte Abrechnung** aktivieren oder deaktivieren, um eine
 4. Klicken Sie auf **Speichern**.
 
 Weitere Informationen hierzu finden Sie unter [Aktivieren oder Deaktivieren der wiederholten Abrechnung](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
-

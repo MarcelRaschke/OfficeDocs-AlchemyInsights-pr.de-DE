@@ -3,7 +3,7 @@ title: Hinzufügen oder Bearbeiten einer VatID
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: mijeffer, jmueller
+ms.reviewer: amberb, vikdesai
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "1500034"
 - "664"
 ms.date: 08/11/2021
-ms.openlocfilehash: 3acde417d076aeedeb219651762c192e50fcf532
-ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
+ms.openlocfilehash: 43ede044fff6d3227fcda5e42e173881ef91433e
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64711258"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66153361"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Hinzufügen oder Bearbeiten einer VatID
 

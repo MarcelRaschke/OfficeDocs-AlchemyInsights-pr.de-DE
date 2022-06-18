@@ -3,7 +3,7 @@ title: Microsoft 365 für gemeinnützige Organisationen - abgelehnt
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: drjones, jmueller
+ms.reviewer: mijeffer, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "1500010"
 - "343"
 ms.date: 04/21/2020
-ms.openlocfilehash: 3ffe8015acee910e485604c3f46ccc28339ca7b1
-ms.sourcegitcommit: dcf228daa5240abe7299c1d6a298f61812b175b7
+ms.openlocfilehash: 8d4654e347ef8329b433c59a186c763d7bd7a4be
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "64916836"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66153865"
 ---
 # <a name="microsoft-365-for-nonprofits---declined"></a>Microsoft 365 für gemeinnützige Organisationen - abgelehnt
 

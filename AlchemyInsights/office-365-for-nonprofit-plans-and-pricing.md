@@ -3,7 +3,7 @@ title: Microsoft 365 für Pläne und Preise für gemeinnützige Organisationen
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: drjones, jmueller
+ms.reviewer: mijeffer, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "1500026"
 - "478"
 ms.date: 04/21/2020
-ms.openlocfilehash: 4476f28aca371826c1c81b25d6b81fa947ca47c9
-ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
+ms.openlocfilehash: 2755953500dc7a511642bb4b32dcc20f22354edc
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64712770"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66158221"
 ---
 # <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365 für Pläne und Preise für gemeinnützige Organisationen
 

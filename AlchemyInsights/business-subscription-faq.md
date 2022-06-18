@@ -3,13 +3,12 @@ title: Häufig gestellte Fragen zu Business-Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002875"
@@ -23,12 +22,12 @@ ms.custom:
 - "9002661"
 - "5161"
 ms.date: 07/31/2021
-ms.openlocfilehash: 51a55e010dd18c4a9161b5394c7d129ac211b0db
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 2c14ac47fa4345c8297bfda220f7484c3f772698
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63163579"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66156781"
 ---
 # <a name="business-subscription-faq"></a>Häufig gestellte Fragen zu Business-Abonnements
 

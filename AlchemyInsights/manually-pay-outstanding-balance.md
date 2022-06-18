@@ -3,13 +3,12 @@ title: Manuelles Bezahlen eines ausstehenden Saldos
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-audience: ITPro
+ms.reviewer: lishepar, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
 - "9001506"
@@ -19,12 +18,12 @@ ms.custom:
 - "1500018"
 - "9690"
 ms.date: 08/10/2021
-ms.openlocfilehash: c90068c40665996c32b970d768b93aff4277ad76
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: b56425045cf874078a6587e339a3071ffebb08fa
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63089248"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66156313"
 ---
 # <a name="manually-pay-an-outstanding-balance"></a>Manuelles Bezahlen eines ausstehenden Saldos
 

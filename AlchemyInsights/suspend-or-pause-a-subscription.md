@@ -3,24 +3,23 @@ title: Deaktivieren oder Pausieren eines Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
 ms.date: 08/10/2021
-ms.openlocfilehash: 6cc48b95603d2a3017ab09f88e847ead4d76c5e4
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 0dac09b96e4383e271d8631ead01099759ff1e08
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66003797"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66156984"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Deaktivieren oder Pausieren eines Abonnements
 

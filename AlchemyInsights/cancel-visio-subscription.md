@@ -3,24 +3,23 @@ title: Kündigen Visio Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4721"
 ms.date: 10/26/2021
-ms.openlocfilehash: 104387dadd55edac0a088efd9e7515b48c2ac68b
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: a5c008efb9a713a22af0adc4311f73f3b65bb7b2
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66010481"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66154621"
 ---
 # <a name="cancel-visio-subscription"></a>Kündigen Visio Abonnements
 

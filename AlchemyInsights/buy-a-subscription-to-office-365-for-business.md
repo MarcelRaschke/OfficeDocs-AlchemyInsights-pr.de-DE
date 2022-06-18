@@ -3,7 +3,7 @@ title: Kaufen eines Abonnements für Microsoft 365 for Business aus Ihrer kosten
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: jkinma, jmueller
+ms.reviewer: sgautam, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "1400007"
 - "257"
 ms.date: 08/10/2021
-ms.openlocfilehash: 84ea8ffec7ec9e9c154b8610782d84bb017dccc3
-ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
+ms.openlocfilehash: e8be0ffb36430a2774e64e7009ce29387a4fbe06
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64711222"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66153253"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Kaufen eines Abonnements für Microsoft 365 aus Ihrer kostenlosen Testversion
 
@@ -31,9 +31,9 @@ Sie haben Microsoft 365 ausprobiert, und jetzt können Sie es kaufen. Sie haben 
 2. Wählen Sie auf der Registerkarte " **Produkte** " das Abonnement aus, das Sie kaufen möchten.
 3. Wählen Sie auf der Seite "Abonnementdetails" im Abschnitt **"Lizenz** " die Option " **Kostenpflichtiges Abonnement jetzt kaufen**" aus, und führen Sie die Schritte zum Auschecken aus.
  
-**Kaufen eines anderen Abonnements**
+**Erwerben eines anderen Abonnements**
   
-1. Wechseln Sie im Admin Center zur Seite "[Abrechnungskaufdienste](https://go.microsoft.com/fwlink/p/?linkid=868433)  \>".
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Dienste kaufen](https://go.microsoft.com/fwlink/p/?linkid=868433).
 2. Suchen Sie das Abonnement, das Sie kaufen möchten, wählen Sie **"Kaufen"** aus, und führen Sie die Schritte zum Auschecken aus.
 
 Weitere Informationen finden Sie unter [Kaufen eines Abonnements aus Ihrer kostenlosen Testversion](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).

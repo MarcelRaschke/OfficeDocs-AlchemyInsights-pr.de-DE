@@ -3,24 +3,23 @@ title: Abbrechen von Advanced Threat Protection
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
 ms.date: 10/26/2021
-ms.openlocfilehash: 2533fb17e0eeae22c7cbf074af615f06b853c2f1
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 761584245153dac7fb3bcbbacc1fd7008c16703d
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66009020"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66158329"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Abbrechen von Advanced Threat Protection
 

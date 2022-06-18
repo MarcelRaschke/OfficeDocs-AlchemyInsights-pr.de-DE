@@ -3,13 +3,12 @@ title: Reaktivieren Ihres Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002304"
@@ -18,12 +17,12 @@ ms.custom:
 - "4736"
 - "3551"
 ms.date: 08/10/2021
-ms.openlocfilehash: 0958294a4c3c350e1b8bec1bda58d479f47b6dc8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 96ee0098ed7ae1d434fcb7e35dc63e632f4194b2
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63233367"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66158293"
 ---
 # <a name="reactivate-your-subscription"></a>Reaktivieren Ihres Abonnements
 

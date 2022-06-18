@@ -3,24 +3,23 @@ title: Häufig gestellte Fragen zur Verwaltung von Microsoft 365 F3-Abonnements 
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: mijeffer, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002873"
 - "5472"
 ms.date: 07/30/2021
-ms.openlocfilehash: 51ff17f38346a5eca1676bc6c7d55d86feec6543
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a6e8e62ce1110ffb65201bb9190f5c30331fd792
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63274337"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66154117"
 ---
 # <a name="microsoft-365-f3-subscription-and-license-management-faq"></a>Häufig gestellte Fragen zur Verwaltung von Microsoft 365 F3-Abonnements und Lizenzen
 

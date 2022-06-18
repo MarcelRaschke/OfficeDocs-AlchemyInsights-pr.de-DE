@@ -3,24 +3,23 @@ title: Kündigen Ihres Microsoft 365 Abonnements?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
+ms.reviewer: sgautam, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
-- "53"
 - "1400001"
+- "53"
 ms.date: 10/26/2021
-ms.openlocfilehash: a5fcca5219cb10ca8adbb81e71f583c219190ec6
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 09717467dfe57f8243ea4b2886b3d88491da2524
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65731998"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66158077"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Kündigen Ihres Microsoft 365 Abonnements?
 

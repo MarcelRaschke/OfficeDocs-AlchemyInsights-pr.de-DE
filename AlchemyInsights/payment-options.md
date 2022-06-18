@@ -3,23 +3,23 @@ title: Zahlungsoptionen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: ITPro
+ms.reviewer: lishepar, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
 ms.custom:
 - commerce_billing
-- "1639"
 - "9000134"
+- "1639"
 ms.date: 08/10/2021
-ms.openlocfilehash: 492501cc80dd58cbd4bb48ae88050bae3594684b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 5877aec67f4ff12a4639959270cbb23609e884a2
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65718730"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66157465"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Zahlungsoptionen für Abonnements für Microsoft 365 Business
   

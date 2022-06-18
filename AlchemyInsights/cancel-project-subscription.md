@@ -3,24 +3,23 @@ title: Kündigen Project Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
 ms.date: 10/26/2021
-ms.openlocfilehash: 4d95d1ba01429b006c315f3df2a8d33bd60be7ec
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: cb1f31b9aa501cb99492e9c8b61d628a497963a2
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66003581"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66154009"
 ---
 # <a name="cancel-project-subscription"></a>Kündigen Project Abonnements
 
