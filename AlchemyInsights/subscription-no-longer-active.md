@@ -3,24 +3,23 @@ title: Abonnement ist nicht mehr aktiv
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002453"
 - "4763"
 ms.date: 08/10/2021
-ms.openlocfilehash: 84a2a7c41b936e3b92a519cd8cadd5da1c316393
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: dacff720e05e3c1176217b6fab741b22a6a3c578
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63179383"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66155341"
 ---
 # <a name="subscription-no-longer-active"></a>Abonnement ist nicht mehr aktiv
 

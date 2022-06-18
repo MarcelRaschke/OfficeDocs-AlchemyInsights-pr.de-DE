@@ -3,7 +3,7 @@ title: Ändern Ihrer Rechnungsadresse
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: jkinma, jmueller
+ms.reviewer: amberb, vikdesai
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - "4714"
 - "4715"
 ms.date: 08/10/2021
-ms.openlocfilehash: 7e01de3f0222434b10a69952ffc95ccf00599cf7
-ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
+ms.openlocfilehash: 8e5f592ebfdc33d4faba4b2e7023865cce20a3b2
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64712554"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66156025"
 ---
 # <a name="change-your-billing-address"></a>Ändern Ihrer Rechnungsadresse
 

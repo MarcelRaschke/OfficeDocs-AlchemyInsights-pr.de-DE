@@ -3,24 +3,23 @@ title: Reaktivieren eines Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
-- "441"
 - "1500017"
+- "441"
 ms.date: 08/10/2021
-ms.openlocfilehash: 58e9e25eca95b3e3d36ab0faaa63845cae037dfc
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: d8e8ed6be042e9972dbfe847bb6410b8873dac5f
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66006050"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66155989"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Reaktivieren eines Abonnements
 

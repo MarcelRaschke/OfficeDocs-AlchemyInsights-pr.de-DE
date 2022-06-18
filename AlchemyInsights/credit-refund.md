@@ -3,37 +3,36 @@ title: Gutschrift/Rückerstattung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: ITPro
+ms.reviewer: amberb, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
 - commerce_billing
-- "897"
 - "1500035"
+- "897"
 ms.date: 04/21/2020
-ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 0a931316befe25d28b4189c77526fa8f7934a6fd
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 5bdeca7cea14600074de0584a4f8f45b1e357d81
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63205052"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66155377"
 ---
 # <a name="creditrefund"></a>Gutschrift/Rückerstattung
 
 **Stornierung**
   
-Wenn Sie ein Abonnement stornieren, erhalten Sie eine endgültige Rechnung mit einer Gutschrift, die am nächsten Abrechnungsdatum fällig ist. Dies kann bis zu 30 Tage dauern, bis das Abonnement gekündigt wurde.
+Wenn Sie ein Abonnement kündigen, erhalten Sie am nächsten Abrechnungsdatum eine Endgültige Rechnung mit einer gutgeschriebenen Gutschrift. Es kann bis zu 30 Tage dauern, bis das Abonnement gekündigt wurde.
   
-**Ändern des Arbeitsplatzes**
+**Sitzplatzänderung**
   
-Wenn Lizenzen aus einem Abonnement entfernt werden, wird die nicht verwendete Zeit für diese Lizenzen als Gutschrift auf die nächste Rechnung angewendet. Dies kann bis zu 30 Tage dauern, bis die Lizenzen entfernt wurden.
+Wenn Lizenzen aus einem Abonnement entfernt werden, wird die nicht verwendete Zeit für diese Lizenzen als Gutschrift auf die nächste Rechnung angewendet. Dies kann bis zu 30 Tage dauern, bis die Lizenzen entfernt werden.
 
 **Rückerstattung**
 
 **Jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.**
 
-Weitere Informationen finden Sie unter ["Stornierungs- und Rückerstattungsprozess"](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). 
+Weitere Informationen finden Sie unter [Stornierungs- und Rückerstattungsprozess](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). 

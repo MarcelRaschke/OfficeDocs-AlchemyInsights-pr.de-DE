@@ -3,24 +3,23 @@ title: Office 365 Education kostenlos
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: ITPro
+ms.reviewer: mijeffer, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
 - commerce_subscriptions
-- "1426"
 - "1500009"
+- "1426"
 ms.date: 04/21/2020
-ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
-ms.openlocfilehash: b102368500d222efe6746aa39cdb6c5c5eb318cf
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: e208c83ffa10563e28f1b21ad1d29de871f0c83a
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733440"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66156169"
 ---
 # <a name="office-365-education-for-free"></a>Office 365 Education kostenlos
 

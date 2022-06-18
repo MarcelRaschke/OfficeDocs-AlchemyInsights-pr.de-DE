@@ -3,25 +3,23 @@ title: Power BI abbrechen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
 ms.date: 10/26/2021
-ms.openlocfilehash: d195e1a9ec979a7d2a40617b3bc121c7a3cf217d
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: b5cc398da9053d7926e5e4eb4cd764b120370aa9
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66003689"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66156097"
 ---
 # <a name="cancel-power-bi"></a>Power BI abbrechen
 

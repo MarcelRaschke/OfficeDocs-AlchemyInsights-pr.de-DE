@@ -3,25 +3,23 @@ title: Wie aktualisiere ich meine Kreditkarteninformationen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jamitche, jmueller
-ms.audience: Admin
+ms.reviewer: lishepar, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
-- "430"
 - "1500001"
+- "430"
 ms.date: 04/21/2020
-ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 7f73a1731cb564c7e961732cdd2666a20f13f12a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 90fe8f32c4a9ed68b7882c16f8384d57d1386b6e
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63192740"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66155557"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Wie aktualisiere ich meine Kreditkarteninformationen?
 

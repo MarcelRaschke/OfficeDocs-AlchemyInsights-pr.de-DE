@@ -3,24 +3,23 @@ title: Nachfrist für die kostenlose Testversion von Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
 - "1400006"
 - "5479"
 ms.date: 04/14/2021
-ms.openlocfilehash: 09096820004ddd669d243b8b0dc5902dd5a2c8b5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: da1037890da4c5e75114bcaa9eb528adb2e152fc
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63214953"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66156061"
 ---
 # <a name="grace-period-for-microsoft-365-free-trial"></a>Nachfrist für die kostenlose Testversion von Microsoft 365
 
