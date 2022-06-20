@@ -1,5 +1,5 @@
 ---
-title: Probleme mit Registerkarten "Mein Team" oder "Meine Organisation" in der Viva Insights-App
+title: Probleme mit den Registerkarten "Mein Team" oder "Meine Organisation" in Viva Insights App
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,21 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9010261"
 - "16695"
-ms.date: 02/15/2022
-ms.openlocfilehash: 5568f78991f683773885fb09e57cb3214c2a00f1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 06/20/2022
+ms.openlocfilehash: 9ea5d3712702791b878bbfec000a676446899f5a
+ms.sourcegitcommit: cf334db648c8cdc6014180803e9c5215c21e8378
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63221109"
+ms.lasthandoff: 06/20/2022
+ms.locfileid: "66166240"
 ---
-# <a name="my-team-or-my-organization-tabs-issues-in-viva-insights-app"></a>Probleme mit Registerkarten "Mein Team" oder "Meine Organisation" in der Viva Insights-App
+# <a name="my-team-or-my-organization-tabs-issues-in-viva-insights-app"></a>Probleme mit den Registerkarten "Mein Team" oder "Meine Organisation" in Viva Insights App
 
-Informationen zum Aktivieren der Registerkarten **"Mein Team**" und **"Meine Organisation**" in der Viva Insights-App finden Sie unter:
+Informationen zum Aktivieren der Registerkarten **"Mein Team**" und "**Meine Organisation**" in der Viva Insights-App finden Sie unter:
 
-- [Einrichten für Manager- und Führungskraft-Insights](https://docs.microsoft.com/viva/insights/setup/ml-insights-setup)
-- [Mein Team – Administratoraufgaben](https://docs.microsoft.com/viva/insights/use/myteam#admin-tasks)
-- [Meine Organisation – Administratoraufgaben](https://docs.microsoft.com/viva/insights/use/viva-insights-my-org#admin-tasks)
+- [Einrichten von Manager- und Führungserkenntnissen](https://docs.microsoft.com/viva/insights/setup/ml-insights-setup)
+- [Mein Team – Admin Aufgaben](https://docs.microsoft.com/viva/insights/use/myteam#admin-tasks)
+- [Meine Organisation – Admin Aufgaben](https://docs.microsoft.com/viva/insights/use/viva-insights-my-org#admin-tasks)
+
+**Hinweis**: Anleitungen zur Problembehandlung finden Sie auf den [Registerkarten "Mein Team" und "Meine Organisation" in Viva Insights App in Teams](https://community.vivainsights.microsoft.com/t5/Manager-insights/My-Team-and-My-Organization-tabs-within-Viva-Insights-app-in/td-p/1769)
 
 Weitere Informationen finden Sie unter:
 
