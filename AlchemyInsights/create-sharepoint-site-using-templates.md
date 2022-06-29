@@ -3,28 +3,26 @@ title: Erstellen einer Website in SharePoint Online
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: ''
-ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: ef6d717878f0464ea66951e3333d0a80dca4d084
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 6fa592b5a4f7b54f78fcc55e3d7d03ae16bb1c9f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63267281"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66325407"
 ---
-# <a name="create-sharepoint-sites-using-templates"></a>Erstellen SharePoint Websites mithilfe von Vorlagen
+# <a name="create-sharepoint-sites-using-templates"></a>Erstellen von SharePoint-Websites mithilfe von Vorlagen
 
 Die Möglichkeit, eine Website als Vorlage zu speichern, wird von modernen Kommunikations- oder Teamwebsites nicht unterstützt. Weitere Informationen zur Verwendung von Vorlagen finden Sie unter [Speichern, Herunter- und Hochladen einer SharePoint-Website als Vorlage](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
-Hier sind einige häufige Probleme/Lösungen im Zusammenhang mit dem Speichern einer Website oder Liste als Vorlage in Sharepoint Online. 
+Im Folgenden finden Sie einige häufige Probleme/Lösungen im Zusammenhang mit dem Speichern einer Website oder Liste als Vorlage in SharePoint Online. 
 
-**Schaltfläche "Website-/Listenvorlage speichern" ist nicht verfügbar oder fehlt**
+**Schaltfläche 'Website-/Listenvorlagen speichern' ist nicht verfügbar oder fehlt**
 
 Administratoren müssen benutzerdefinierte Skripts zulassen, um die Vorlagenfeatures zu aktivieren. Ausführliche Schritte, Beispiele und Überlegungen finden Sie unter 
 

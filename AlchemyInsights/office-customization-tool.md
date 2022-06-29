@@ -3,22 +3,21 @@ title: Office-Anpassungstool
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/6/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O364
 ms.custom:
 - "9003533"
 - "10881"
-ms.openlocfilehash: 838529a612a82b34205cc673387178ec91427e0e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/6/2021
+ms.openlocfilehash: 045e00227a2aa25a0ebd4caa3a769017907f1636
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63305887"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66336704"
 ---
 # <a name="office-customization-tool"></a>Office-Anpassungstool
 

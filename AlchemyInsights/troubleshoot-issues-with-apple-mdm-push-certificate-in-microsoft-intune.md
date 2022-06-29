@@ -3,22 +3,21 @@ title: Behandeln von Problemen mit dem Apple MDM-Pushzertifikat in Microsoft Int
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.custom:
-- "782"
 - "6200002"
-ms.openlocfilehash: 401e0f5c9ee2a884febcbf821d382ef79f5736a4
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "782"
+ms.date: 04/21/2020
+ms.openlocfilehash: b14ce74db5ec028ab4ad0609125d78da6ffd4557
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723360"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66279874"
 ---
 # <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>Behandeln von Problemen mit dem Apple MDM-Pushzertifikat in Microsoft Intune
 

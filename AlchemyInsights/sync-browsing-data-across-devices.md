@@ -3,22 +3,21 @@ title: Browserdaten für alle Ihre Geräte synchronisieren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/01/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8206"
 - "9004431"
-ms.openlocfilehash: 315a158d3c53131333e8723c68ba7ecf8c1af889
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8206"
+ms.date: 04/01/2021
+ms.openlocfilehash: 84cc13dcd039dd8313fa22bbdad3e46cf2cb761d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63179311"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66280126"
 ---
 # <a name="sync-your-browsing-data-across-your-devices"></a>Browserdaten für alle Ihre Geräte synchronisieren
 

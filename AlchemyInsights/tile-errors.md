@@ -3,22 +3,21 @@ title: Kachelfehler
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/22/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1331"
 - "2500002"
-ms.openlocfilehash: 8bd577f5e7b2fc0ab87be27e65f5a59a73f9d1aa
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1331"
+ms.date: 07/22/2020
+ms.openlocfilehash: 22644198e3c966711378d42ac743f67dcd5316d4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63220965"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66279982"
 ---
 # <a name="tile-errors"></a>Kachelfehler
 

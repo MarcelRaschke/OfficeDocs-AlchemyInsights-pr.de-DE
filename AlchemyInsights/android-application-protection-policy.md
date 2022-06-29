@@ -8,17 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12456"
 - "6700006"
+- "12456"
 ms.date: 06/02/2022
-ms.openlocfilehash: b66b10280e78f8867ee6919bc95723dba12b14d6
-ms.sourcegitcommit: 29aa28c4fa26e71de062cb6319e48cd963fdf1fc
+ms.openlocfilehash: 4c2d571b9094f9398166faa600449a9f6f8b1b96
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "65862190"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66301926"
 ---
 # <a name="android-application-protection-policy-app"></a>Android-Anwendungsschutzrichtlinie (APP)
 

@@ -3,22 +3,21 @@ title: Problembehandlung bei der Bereitstellung von Clientauthentifizierungszert
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/28/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1546"
 - "9000076"
-ms.openlocfilehash: 5bae3e7c155954b936562e5244c3b3c695387e04
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1546"
+ms.date: 07/28/2020
+ms.openlocfilehash: 2de7b5848af01778ed6ff777804b582b913cf033
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63281537"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66279298"
 ---
 # <a name="troubleshooting-client-authentication-certificate-deployment"></a>Problembehandlung bei der Bereitstellung von Clientauthentifizierungszertifikaten
 

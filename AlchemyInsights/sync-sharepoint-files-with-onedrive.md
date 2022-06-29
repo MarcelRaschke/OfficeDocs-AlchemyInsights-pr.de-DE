@@ -3,23 +3,21 @@ title: Behandeln von Problemen bei "Mit Explorer öffnen" in SharePoint Online
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6462"
 - "9003546"
-ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b9c3272e616e167f33e5b69eccb56559807ad7e4
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "6462"
+ms.date: 04/21/2020
+ms.openlocfilehash: 81cb72c5a20a57d3c5f7ad068cb88d263b5f5ef0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721113"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66280090"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Behandeln von Problemen bei "Mit Explorer öffnen" in SharePoint Online
 

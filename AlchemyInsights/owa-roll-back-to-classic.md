@@ -3,19 +3,19 @@ title: Zurück zur klassischen Outlook im Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 119200d97a48f7c4c825fe03f7030953a3a69c67
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.date: 04/21/2020
+ms.openlocfilehash: 976141d89ae3394cd3eccd1e6b28e8ad7fc082be
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65593864"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66348447"
 ---
 # <a name="the-new-outlook-on-the-web"></a>Die neue Outlook im Web
 

@@ -3,21 +3,20 @@ title: Wiederherstellen der SharePoint-Stammwebsite
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5730"
-ms.openlocfilehash: 59c7fd3819e84e780ce85ab8dc62e69d905fd133
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 175ec78d878290a71d214ac45d40f22bcec1a353
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63199832"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66291736"
 ---
 # <a name="restore-the-sharepoint-root-site"></a>Wiederherstellen der SharePoint-Stammwebsite
 

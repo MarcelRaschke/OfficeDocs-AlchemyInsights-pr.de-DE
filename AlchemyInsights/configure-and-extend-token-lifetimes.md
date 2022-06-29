@@ -3,22 +3,21 @@ title: Konfigurieren und Verlängern der Tokengültigkeitsdauer
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/20/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7778"
 - "9004351"
-ms.openlocfilehash: 78caa7ec3361344657429ce8351203e9639c85f2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7778"
+ms.date: 01/20/2021
+ms.openlocfilehash: 80f21d01a7b3b2c3fbf2f1c445fd6cd31ea83dda
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63267785"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66368031"
 ---
 # <a name="configure-and-extend-token-lifetimes"></a>Konfigurieren und Verlängern der Tokengültigkeitsdauer
 

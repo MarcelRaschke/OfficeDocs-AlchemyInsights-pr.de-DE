@@ -1,25 +1,23 @@
 ---
-title: Lösungen für Office (64-Bit oder 32-Bit) konnten nicht installiert werden.
+title: Lösungen für "Office (64-Bit oder 32-Bit) konnten nicht installiert werden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "905"
 - "2000023"
-ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: 847f28711ca1714fd2553a2e763216ef4b730469
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "905"
+ms.date: 04/21/2020
+ms.openlocfilehash: fe76f96a4e0c739b173fb292a937e3259116ff95
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65729764"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66290791"
 ---
 # <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Lösungen für "Office (64-Bit oder 32-Bit) konnten nicht installiert werden
 
@@ -29,7 +27,7 @@ Um diesen Fehler zu beheben und von 32-Bit zu 64-Bit zu wechseln, müssen Sie di
   
 1. Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) herunter, und installieren Sie ihn.
 
-1. Wenn es geöffnet wird, wählen **Sie unter "Office Deinstallieren" die** Version aus, die Sie deinstallieren möchten, und wählen Sie **"Weiter**" aus.
+1. Wenn es geöffnet wird, wählen Sie aus **"Office-Produkte deinstallieren** " die Version aus, die Sie deinstallieren möchten, und wählen Sie **"Weiter**" aus.
 
 2. Klicken Sie sich durch die Bildschirme, und starten Sie Ihren Computer bei entsprechender Aufforderung neu.
 

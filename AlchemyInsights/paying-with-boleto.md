@@ -3,21 +3,20 @@ title: Bezahlen mit Boleto
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: 1e4797c8d0911220d80ae5e2edeea09e28aa52c2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 9384fd38298c2d3d45c7b9b693c28c25ed868f5a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63086770"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66348267"
 ---
 # <a name="como-pagar-com-boleto"></a>Como Pagar com Boleto
 

@@ -3,22 +3,21 @@ title: Teams Kurse
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001725"
 - "3829"
 ms.date: 03/30/2022
-ms.openlocfilehash: 57fab55bd84772deab1ff7c1b8eaccede01ab3af
-ms.sourcegitcommit: dbe6e3cf593a237700fc2b7c1fb917712def61b9
+ms.openlocfilehash: bf4e5942e0f61ded30a87d41269f31b8de4731af
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64570624"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66280018"
 ---
 # <a name="teams-classes"></a>Teams Kurse
 

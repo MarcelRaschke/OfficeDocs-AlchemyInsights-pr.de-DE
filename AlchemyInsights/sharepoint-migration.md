@@ -3,20 +3,18 @@ title: Migrieren von Optionen zu SharePoint Online
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
-ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: d9aa628e0cea3b8d845e932b2fe88b31485498ab
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 9faafc6953ccaa0ef095255fd623453113a31b7c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63180320"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66335973"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Migrieren von Optionen zu SharePoint Online
 

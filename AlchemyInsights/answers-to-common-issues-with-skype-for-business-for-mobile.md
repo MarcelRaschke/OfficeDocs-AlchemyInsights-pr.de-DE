@@ -3,22 +3,21 @@ title: Antworten auf häufige Probleme mit Skype for Business auf Mobilgeräten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/30/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "5985"
 - "9003195"
-ms.openlocfilehash: 5231fff56d730e9d9edbcd6eefe5c586a681c420
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "5985"
+ms.date: 07/30/2020
+ms.openlocfilehash: bff5e8e49f5a12b4b44d9a5b0270844d5b0631af
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65717063"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66301645"
 ---
 # <a name="answers-to-common-issues-with-skype-for-business-for-mobile"></a>Antworten auf häufige Probleme mit Skype for Business auf Mobilgeräten
 

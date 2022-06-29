@@ -3,22 +3,21 @@ title: Beheben von Administratorproblemen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7820"
 - "9004358"
-ms.openlocfilehash: 81e99aa3c0cefe2587c0f488129de12e1e321d86
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7820"
+ms.date: 01/16/2021
+ms.openlocfilehash: 7a9132722a587c7fc6fd8aaeb17682b3d8a7aaf4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63189464"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66290134"
 ---
 # <a name="troubleshoot-administrator-issues"></a>Beheben von Administratorproblemen
 

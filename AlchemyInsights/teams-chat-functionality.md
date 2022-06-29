@@ -3,21 +3,20 @@ title: Teams-Chatfunktion
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.assetid: ''
 ms.custom:
 - "9000738"
 - "4367"
-ms.openlocfilehash: 891c0dcb07330f923ff8f70a0185492c777e4b17
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: aa4809f15bbea18e35323f83047268d356323945
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63210308"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66290647"
 ---
 # <a name="teams-chat-functionality"></a>Teams-Chatfunktion
 

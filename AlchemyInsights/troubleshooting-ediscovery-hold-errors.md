@@ -3,22 +3,21 @@ title: Beheben von Fehlern bei der eDiscovery-Aufbewahrung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/20/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11274"
 - "3200003"
-ms.openlocfilehash: 12fe6b092e0435dc175bdafd50597153de48e929
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "11274"
+ms.date: 05/20/2021
+ms.openlocfilehash: 383022d40c328f6345e1fb7e905e59698813632d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65724612"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66279226"
 ---
 # <a name="troubleshooting-ediscovery-holds-errors"></a>Beheben von Fehlern bei der eDiscovery-Aufbewahrung
 

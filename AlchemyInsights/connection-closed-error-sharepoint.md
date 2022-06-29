@@ -3,22 +3,21 @@ title: Der Fehler „Die zugrunde liegende Verbindung wurde geschlossen“ in Sh
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/01/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10802"
 - "9006390"
-ms.openlocfilehash: 65ca6bddd2b7f2f74f55c09541a3cecfcfa6e5a9
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10802"
+ms.date: 04/01/2021
+ms.openlocfilehash: 06c07081aa37ddc40359eafa3cae15bb6bc8715a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63257741"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66325623"
 ---
 # <a name="the-underlying-connection-was-closed-error-in-sharepoint"></a>Fehler "Die zugrunde liegende Verbindung wurde geschlossen" in SharePoint
 

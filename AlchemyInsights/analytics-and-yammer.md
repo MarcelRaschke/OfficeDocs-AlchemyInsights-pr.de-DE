@@ -3,21 +3,20 @@ title: Analysen and Yammer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000311"
 - "1935"
-ms.openlocfilehash: a4e938c32acfe1ff4751f31ec8c9625f523e5027
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 178c1e7b04126f99395e075ba18135b4b9488550
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66004122"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66302014"
 ---
 # <a name="analytics-and-yammer"></a>Analysen and Yammer
 

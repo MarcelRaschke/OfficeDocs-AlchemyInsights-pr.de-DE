@@ -3,22 +3,21 @@ title: Ankündigung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/23/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "5152"
 - "9002660"
-ms.openlocfilehash: 6f8fee43f8f0e05ba5e3f896000a4e351e04ae51
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "5152"
+ms.date: 07/23/2020
+ms.openlocfilehash: f7c2593b27437c29c80fd33a394913681edf9a14
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63155155"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66301753"
 ---
 # <a name="announcement"></a>Ankündigung
 

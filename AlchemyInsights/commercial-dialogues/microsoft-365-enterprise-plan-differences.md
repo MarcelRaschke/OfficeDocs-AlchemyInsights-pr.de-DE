@@ -8,16 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97b8971725e68c76968f155a1dac5de1b8e03098
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 5c01a42dd6f9c2ad5bef3ff661c7f9b37d71f638
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63227229"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66326055"
 ---
 # <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise Planunterschiede
 
@@ -31,16 +30,16 @@ Microsoft 365 Enterprise E5 umfasst alle Features von Microsoft 365 Enterprise E
 - Rechteverwaltungsdienste
 - Azure Key Vault
 
-Microsoft 365 Enterprise E5 bietet auch leistungsstarke Analyse- und Sprachfunktionen, z. B.:
+Microsoft 365 Enterprise E5 verfügt auch über leistungsstarke Analyse- und Sprachfunktionen, z. B.:
 
 - Live-Dashboards
 - Berichte mit Power BI
-- Moderne Sprache
+- Modernes VoIP
 - Audiokonferenzen
 - Onlinebesprechungen
 
-Weitere Informationen zu Microsoft 365 Enterprise E5 oder zur Registrierung für ein Testabonnement finden [Sie unter "Testen oder Kaufen eines Microsoft 365 Abonnements"](https://go.microsoft.com/fwlink/?linkid=2099673).
+Weitere Informationen zu Microsoft 365 Enterprise E5 oder zum Registrieren für ein Testabonnement finden [Sie unter "Testen oder Kaufen eines Microsoft 365-Abonnements](https://go.microsoft.com/fwlink/?linkid=2099673)".
 
-Informationen zum Vergleichen von Features in Enterprise Plänen finden Sie unter ["Vergleichen Enterprise Pläne"](https://go.microsoft.com/fwlink/?linkid=2097200).
+Informationen zum Vergleichen von Features in Enterprise-Plänen finden [Sie unter "Vergleichen von Enterprise-Plänen](https://go.microsoft.com/fwlink/?linkid=2097200)".
 
-Wir freuen uns über Ihr Feedback. Wählen Sie daher bitte "Ja/Nein" für die angezeigte Frage aus, und bewerten Sie dann Ihre Erfahrung.
+Wir würden uns über Ihr Feedback freuen, wählen Sie also bitte "Ja/Nein" für die angezeigte Frage aus, und bewerten Sie dann Ihre Erfahrung.

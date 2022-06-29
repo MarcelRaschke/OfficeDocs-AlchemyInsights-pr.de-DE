@@ -1,25 +1,24 @@
 ---
-title: Senden automatischer Antworten von Outlook
+title: Senden automatischer Antworten aus Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: f258a9e20a8c5b733c6ef66893ec0c552fe87db4
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: d1e591877fea6125851505bba5da5b17d5905884
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733764"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66368571"
 ---
-# <a name="send-automatic-replies-from-outlook"></a>Senden automatischer Antworten von Outlook
+# <a name="send-automatic-replies-from-outlook"></a>Senden automatischer Antworten aus Outlook
 
 Führen Sie dazu die folgenden Schritte aus:
 

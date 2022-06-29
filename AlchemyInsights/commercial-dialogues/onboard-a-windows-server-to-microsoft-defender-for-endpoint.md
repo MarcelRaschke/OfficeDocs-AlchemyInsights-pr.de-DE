@@ -1,5 +1,5 @@
 ---
-title: Onboarding eines Windows Servers in Microsoft Defender für Endpunkt
+title: Onboarding eines Windows-Servers in Microsoft Defender für Endpunkt
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -8,18 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 243890bb7a482b2f73d987ee85f18b234a0d3aa9
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 2569b2e86a483dafe702956bf8cb9437d7b8192c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63268793"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66326091"
 ---
-# <a name="onboard-a-windows-server-to-microsoft-defender-for-endpoint"></a>Onboarding eines Windows Servers in Microsoft Defender für Endpunkt
+# <a name="onboard-a-windows-server-to-microsoft-defender-for-endpoint"></a>Onboarding eines Windows-Servers in Microsoft Defender für Endpunkt
 
 Für das Windows Server-Betriebssystem bietet Microsoft Defender für Endpunkt erweiterte Funktionen zum Erkennen und Untersuchen von Angriffen. Diese Funktionen werden nahtlos über die Microsoft Defender Security Center Konsole bereitgestellt.
 
@@ -32,4 +31,4 @@ Defender für Endpunkt unterstützt die folgenden Versionen von Windows Server:
 - Windows Server 2019 und höher
 - Windows Server 2019 Core Edition
 
-Weitere Informationen finden Sie unter [Onboarding Windows Server in den Microsoft Defender für Endpunkt-Dienst](https://go.microsoft.com/fwlink/?linkid=2143627).
+Weitere Informationen finden Sie [unter Onboarding von Windows-Servern in den Microsoft Defender für Endpunkt-Dienst](https://go.microsoft.com/fwlink/?linkid=2143627).

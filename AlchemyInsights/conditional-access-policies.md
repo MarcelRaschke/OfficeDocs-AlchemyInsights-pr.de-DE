@@ -3,21 +3,20 @@ title: Richtlinien für bedingten Zugriff
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 1381e6f971c35279002a8a21f64317ded34bc2bb
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: e36712e7517ee3ecf6cf976abcee394b2ebfa4a8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63267965"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66368139"
 ---
 # <a name="conditional-access-policies"></a>Richtlinien für bedingten Zugriff
 

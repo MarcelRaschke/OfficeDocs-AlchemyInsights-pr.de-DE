@@ -3,22 +3,21 @@ title: PDF-Reader-Anwendung in Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/10/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8640"
 - "9004622"
-ms.openlocfilehash: 7e74f3c84d66a937671fd385f26c7aca08ad8a89
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "8640"
+ms.date: 03/10/2021
+ms.openlocfilehash: 4805097ddcda66b14a0b96d29b5bfcde420013cd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65718694"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66348123"
 ---
 # <a name="pdf-reader-app-in-microsoft-edge"></a>PDF Reader App in Microsoft Edge
 

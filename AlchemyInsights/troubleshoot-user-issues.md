@@ -3,22 +3,21 @@ title: Behandeln von Problemen im Zusammenhang mit Benutzern
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7813"
 - "9004358"
-ms.openlocfilehash: c63e92cfb802685f622535fe4c098780ad7e9c68
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "7813"
+ms.date: 01/15/2021
+ms.openlocfilehash: e75851de6f9a683994565704e17ee67db85a67c3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723252"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66279334"
 ---
 # <a name="announcements"></a>Ankündigungen
 
