@@ -1,27 +1,25 @@
 ---
-title: Löschen einer SharePoint Website
+title: Löschen einer SharePoint-Website
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: ''
-ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 7daaed71316143be8fb9990833180e8c10f83a8d
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.date: 04/21/2020
+ms.openlocfilehash: bd07a99a3fb092a9334282bb04d55aa679c11e81
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66008093"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66324975"
 ---
-# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Löschen von Websites, die zu einer Microsoft 365 Gruppe gehören
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Löschen von Websites, die zu einer Microsoft 365-Gruppe gehören
 
-Wenn Benutzer eine neue Teamwebsite über SharePoint Home erstellen oder eine neue Teamwebsite aus dem neuen SharePoint Admin Center erstellen, wird automatisch eine entsprechende Microsoft 365 Gruppe erstellt. Microsoft 365 mit einer Gruppe verbundene Teamwebsites werden auch erstellt, wenn Sie eine Microsoft 365 Gruppe oder ein Team in Microsoft Teams erstellen. Um eine SharePoint Website zu löschen, die zu einer Microsoft 365 Gruppe gehört, müssen Sie die Microsoft 365 Gruppe selbst löschen. 
+Wenn Benutzer eine neue Teamwebsite über SharePoint Home oder eine neue Teamwebsite aus dem neuen SharePoint Admin Center erstellen, wird automatisch eine entsprechende Microsoft 365-Gruppe erstellt. Mit einer Microsoft 365-Gruppe verbundene Teamwebsites werden auch erstellt, wenn Sie eine Microsoft 365-Gruppe oder ein Team in Microsoft Teams erstellen. Um eine SharePoint-Website zu löschen, die zu einer Microsoft 365-Gruppe gehört, müssen Sie die Microsoft 365-Gruppe selbst löschen. 
   
 1. Wechseln Sie zur [Seite "Gruppen" des Microsoft 365 Admin Center](https://admin.microsoft.com/adminportal/home?ref=groups).
     
@@ -35,11 +33,11 @@ HINWEIS: Wenn Sie eine Gruppe löschen, kann es zu einer Verzögerung kommen, be
 
 1. Wechseln Sie zur Website.
   
-2. Klicken Sie oben rechts auf das **Symbol Einstellungen**. 
+2. Klicken Sie oben rechts auf das Symbol **"Einstellungen** ". 
   
 3. Klicken Sie auf **"Websiteeinstellungen"**. Klicken Sie unter **"Websiteinformationen**" oder "**Websiteaktionen****" auf "Diese Website löschen**" und dann auf "**Löschen"**.
   
-**Löschen einer SharePoint Websitesammlung:**
+**Löschen einer SharePoint-Websitesammlung:**
 
 So löschen Sie eine Website:
   

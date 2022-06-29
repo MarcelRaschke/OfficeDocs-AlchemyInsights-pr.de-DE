@@ -3,24 +3,23 @@ title: Zuweisen von Richtlinien in Microsoft Teams.
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/17/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9000734"
 - "9466"
 - "10006"
-ms.openlocfilehash: e4842bf4b766ba9b8fd77bb94b1b74944939800a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 03/17/2021
+ms.openlocfilehash: 5bcae70a7909f0ecb39aff709130b6fb556838b9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63175711"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66300196"
 ---
 # <a name="assign-policies-in-microsoft-teams"></a>Zuweisen von Richtlinien in Microsoft Teams.
 

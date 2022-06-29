@@ -3,22 +3,21 @@ title: Löschen eines privaten Teams-Kanals
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "3781"
 - "9001223"
-ms.openlocfilehash: aed33ebf162b138aa899d3f28486732df7494a91
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "3781"
+ms.date: 07/24/2020
+ms.openlocfilehash: c08944d9bf889d725005213e2202fbf21f17441b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63130781"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66324831"
 ---
 # <a name="delete-a-teams-private-channel"></a>Löschen eines privaten Teams-Kanals
 

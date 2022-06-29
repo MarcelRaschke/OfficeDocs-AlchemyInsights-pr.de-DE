@@ -3,24 +3,23 @@ title: URL-Probleme mit dem Anwendungsproxy
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/10/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7743"
 - "9004338"
-- "9199"
 - "9004356"
-ms.openlocfilehash: 4981faee3d8af5a004ebdcc3c73ab6d4dc258444
-ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
+- "7743"
+- "9199"
+ms.date: 03/10/2021
+ms.openlocfilehash: 4cf429bd83265aa640a8ea5a14b0026c971e3569
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65394778"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66300304"
 ---
 # <a name="application-proxy-url-issues"></a>URL-Probleme mit dem Anwendungsproxy
 

@@ -3,21 +3,19 @@ title: Hinzufügen eines weiteren E-Mail-Alias
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: ''
-ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 7c77b9dab7d68783bb6d276eece49435e3732f85
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.date: 04/21/2020
+ms.openlocfilehash: 76481fa719a13ae9fdcfb2ff9156f96c61ea6627
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "65999909"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66278398"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Erstellen oder Hinzufügen eines E-Mail-Alias für einen Benutzer
 

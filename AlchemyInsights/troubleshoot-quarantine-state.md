@@ -3,22 +3,21 @@ title: Problembehandlung des Quarantänestatus
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/22/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7853"
 - "9004348"
-ms.openlocfilehash: 31200dc3a6e72d367a47138332529d88cc865374
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7853"
+ms.date: 01/22/2021
+ms.openlocfilehash: 217f8f6f483faff32f6bca1d5c6796009ae01222
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63196988"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66345225"
 ---
 # <a name="troubleshoot-quarantine-state"></a>Problembehandlung des Quarantänestatus
 
