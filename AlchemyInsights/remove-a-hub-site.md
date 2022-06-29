@@ -3,29 +3,28 @@ title: Entfernen einer Hubwebsite
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "866"
 - "5300012"
-ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: d3b76415f120d35b8858d734336e1f26a776180d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "866"
+ms.openlocfilehash: 784ed6757344b94553b42d4f04b577a6011a383f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63245213"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66264816"
 ---
 # <a name="remove-a-hub-site"></a>Entfernen einer Hubwebsite
 
 So heben Sie die Registrierung einer Hubwebsite im neuen SharePoint Admin Center auf:
   
-1. Klicken Sie im neuen SharePoint Admin Center unter **"Websites**" auf **"Aktive Websites**".
+1. Klicken Sie im neuen SharePoint Admin Center unter **"Websites"** auf **"Aktive Websites"**.
 
-2. Wählen Sie die Website aus, klicken Sie auf **Hubwebsite** und dann auf **"Registrierung als Hubwebsite aufheben**".
+2. Wählen Sie die Website aus, klicken Sie auf " **Hubwebsite**", und klicken Sie dann auf **"Registrierung als Hubwebsite aufheben"**.
 
 3. Klicken Sie auf **OK**.
 

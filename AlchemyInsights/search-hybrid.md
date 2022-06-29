@@ -3,22 +3,20 @@ title: Suche und Hybrid
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
-ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: ff60333460a1a493454252c151647a1f3781497e
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 22c0e702bfda0f4f73aba5f849def0637c24fd9a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65732359"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66418198"
 ---
 # <a name="search-and-hybrid"></a>Suche und Hybrid
 

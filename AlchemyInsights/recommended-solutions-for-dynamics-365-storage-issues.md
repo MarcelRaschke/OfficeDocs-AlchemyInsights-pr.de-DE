@@ -1,31 +1,31 @@
 ---
-title: Empfehlen von Lösungen für Dynamics 365 Storage Probleme
+title: Lösungen für Dynamics 365-Speicherprobleme empfehlen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1429"
 - "6200006"
-ms.openlocfilehash: a79266fb0a0861ba6f45d46adf7b764e5427286c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1429"
+ms.openlocfilehash: aa74687e9478851a9c31a44794368726b63c0ac3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63200507"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66265276"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Empfehlen von Lösungen für Dynamics 365-Speicherprobleme
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Lösungen für Dynamics 365-Speicherprobleme empfehlen
 
-* Als globaler Administrator können Sie die Speicheraufschlüsselung nach Umgebung, den 10 wichtigsten Tabellen und mehr anzeigen.
+* Zeigen Sie als globaler Administrator die Speicheraufschlüsselung nach Umgebung, den 10 besten Tabellen und mehr an.
 
-* [Fragen zur Storage Abrechnung und zum Abonnement](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [Fragen zur Speicherabrechnung und zum Abonnement](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [Dynamics 365 – Preis- und Lizenzierungshandbuch](https://dynamics.microsoft.com/pricing/)
+* [Dynamics 365– Preis- und Lizenzierungshandbuch](https://dynamics.microsoft.com/pricing/)
 
-* [So erwerben Sie mehr Speicher](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [So kaufen Sie mehr Speicher](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [Freigeben von Speicher](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [So geben Sie Speicherplatz frei](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

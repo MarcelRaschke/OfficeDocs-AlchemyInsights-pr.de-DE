@@ -3,21 +3,20 @@ title: Beheben von USB-Druckerproblemen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "3482"
 - "9001214"
-ms.openlocfilehash: 9e5071955f1ff4cb6efa533bd524fed437abdc5a
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "3482"
+ms.openlocfilehash: 8671f506c986cf9d14b691e2d9f1b55e8ce54f79
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733584"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66323535"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>Beheben von USB-Druckerverbindungsproblemen
 
@@ -29,12 +28,12 @@ Führen Sie die **folgenden Schritte zur Problembehandlung** aus, damit Ihr USB-
 
 Wenn das nicht funktioniert, versuchen Sie, **Ihren USB-Drucker zu entfernen und neu zu installieren**:
 
-1. Entfernen Sie den Drucker in Einstellungen:
+1. Entfernen Sie den Drucker in den Einstellungen:
     1. Trennen Sie das USB-Kabel des Druckers von Ihrem PC.
-    2. Wählen Sie **"Start** >  **Einstellungen** >  **Devices** > **Printers & scanners" aus**.
+    2. Wählen Sie **"Starteinstellungen** >  > **Geräte** > **Drucker & Scanner" aus**.
     3. Wählen Sie unter **Drucker & Scannern** den Drucker aus, für den Sie die Problembehandlung ausführen möchten. Wählen Sie **"Gerät entfernen" aus**. Folgen Sie den Anweisungen, um den Drucker vollständig zu entfernen.
 2. Entfernen Sie die Software eines Druckerherstellers von Drittanbietern:
-    1. Wählen Sie **"Start** >  **Einstellungen** >  **Apps" aus**.
+    1. Wählen Sie **"****Starteinstellungen-Apps** > "  > **aus**.
     2. Scrollen Sie unter **"Apps & Features**" nach software, die vom Hersteller Ihres Druckers installiert wurde (z. B. HP, Canon oder Epson).
     3. Wählen Sie die Software und **dann "Deinstallieren" aus**.
 3. Schalten Sie den Drucker aus, und starten Sie ihn neu.<br>

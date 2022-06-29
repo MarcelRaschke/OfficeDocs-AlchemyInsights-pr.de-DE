@@ -3,21 +3,20 @@ title: Office kann nicht aktiviert werden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 857f970a227b7538405ee7063ad946ba141c706a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 9ce2566d44ed84b9e24a792722a00b69d30eb58b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63237903"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66323571"
 ---
 # <a name="unable-to-activate-office"></a>Office kann nicht aktiviert werden
 

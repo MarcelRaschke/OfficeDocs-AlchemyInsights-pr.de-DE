@@ -3,22 +3,21 @@ title: Beheben von Problemen beim Freigeben von OneNote-Notizbüchern
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/17/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6048"
 - "9000755"
-ms.openlocfilehash: 7c0e6dc28038cfcec97ce12fd40c07d38d55c812
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6048"
+ms.date: 07/17/2020
+ms.openlocfilehash: e17055ee647ccbfa251dc0d5d6ea3c0d19ed8d67
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63232899"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66264583"
 ---
 # <a name="resolving-issues-sharing-onenote-notebooks"></a>Beheben von Problemen beim Freigeben von OneNote-Notizbüchern
 

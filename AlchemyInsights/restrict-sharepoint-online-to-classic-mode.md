@@ -1,27 +1,26 @@
 ---
-title: Einschränken SharePoint Online auf den klassischen Modus
+title: Einschränken von SharePoint Online auf den klassischen Modus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
 ms.custom:
+- "9000225"
 - "1835"
 - "1889"
-- "9000225"
-ms.openlocfilehash: eb008d7a764fb0e2d135b8f673ce4574158762b4
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 04/21/2020
+ms.openlocfilehash: ec7929775e9c7987b7a5d5f97ec44fa708eaaf8c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65732396"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66264071"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>Einschränken SharePoint Online auf den klassischen Modus
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>Einschränken von SharePoint Online auf den klassischen Modus
 
 Einige Organisationen benötigen weiterhin die Oberfläche für den klassischen Modus. Es gibt zwar keine Pläne, den klassischen Modus auf granularer Ebene zu entfernen, es ist jedoch nicht mehr möglich, eine gesamte Organisation (mandant) auf den klassischen Modus für Listen und Bibliotheken zu beschränken.
 

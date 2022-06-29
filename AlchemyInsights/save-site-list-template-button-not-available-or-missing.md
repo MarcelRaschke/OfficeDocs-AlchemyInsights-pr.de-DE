@@ -3,21 +3,20 @@ title: Schaltfläche "Website-/Listenvorlage speichern" nicht verfügbar oder fe
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: 3e886aeb8e9e3851e0f23030ef4fb8f4ba0d1779
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 512e6b50c60a1ddbec080cae6dc825441eb96f57
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63244637"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66263926"
 ---
 # <a name="save-sitelist-template-button-not-available-or-missing"></a>Schaltfläche "Website-/Listenvorlage speichern" nicht verfügbar oder fehlt
 

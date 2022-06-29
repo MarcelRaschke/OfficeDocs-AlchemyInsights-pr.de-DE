@@ -3,23 +3,21 @@ title: Senden von E-Mails als freigegebenes Postfach
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "622"
 - "3500003"
-ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: df194f50cfdd7ca69b00986a42c123974f3b2dfc
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "622"
+ms.date: 04/21/2020
+ms.openlocfilehash: 14011f020b4c1bcf131076387488ecb319b58c75
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721617"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66417946"
 ---
 # <a name="sending-email-as-the-shared-mailbox"></a>Senden von E-Mails als freigegebenes Postfach
 

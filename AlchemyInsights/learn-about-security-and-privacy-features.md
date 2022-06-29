@@ -3,22 +3,21 @@ title: Informationen über die Sicherheits- und Datenschutz-Funktionen von Micro
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/12/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9216"
 - "9005302"
-ms.openlocfilehash: c2185b40d26d4cda1aa6dea6771f4784ef1cdb71
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9216"
+ms.date: 03/12/2021
+ms.openlocfilehash: 82fb96a4b287810d600e7d580158ecc60d4a2bd8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722054"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66366771"
 ---
 # <a name="learn-about-the-security-and-privacy-features-of-microsoft-search-in-bing"></a>Informationen über die Sicherheits- und Datenschutz-Funktionen von Microsoft Search in Bing
 

@@ -3,22 +3,21 @@ title: Empfohlene Lösungen für Speicherprobleme
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1379"
 - "6200006"
-ms.openlocfilehash: cfaca531b5c61356172d7314fb522080e3b057c7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1379"
+ms.date: 07/21/2020
+ms.openlocfilehash: 5c3432e6da8780b5f790ab061f85b59bdb64e92d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63223629"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66265177"
 ---
 # <a name="recommended-solutions-for-storage-issues"></a>Empfohlene Lösungen für Speicherprobleme
 

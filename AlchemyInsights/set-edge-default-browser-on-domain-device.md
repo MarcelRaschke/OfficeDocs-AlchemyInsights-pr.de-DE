@@ -3,22 +3,21 @@ title: Microsoft Edge als Standardbrowser auf einem domänenverbundenen Gerät f
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/29/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10362"
 - "9006005"
-ms.openlocfilehash: d26ecb90f447e62f2977703123290c1fb0ee38b4
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "10362"
+ms.date: 03/29/2021
+ms.openlocfilehash: b0efb0fbc14ac00d576aa908511cd59909322014
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65727571"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66417910"
 ---
 # <a name="set-microsoft-edge-as-the-default-browser-on-a-domain-joined-device"></a>Microsoft Edge als Standardbrowser auf einem domänenverbundenen Gerät festlegen
 

@@ -3,22 +3,21 @@ title: Abrufen der Überwachungsprotokolle
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/16/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10964"
 - "3100005"
-ms.openlocfilehash: 3845d756b5a1f5ca1a538dc932ee55fd1f44563c
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+- "10964"
+ms.date: 04/16/2021
+ms.openlocfilehash: 47d12d9dec297c1b468374475060e0d9ee288a4a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65593156"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66263962"
 ---
 # <a name="retrieve-the-audit-logs"></a>Abrufen der Überwachungsprotokolle
 

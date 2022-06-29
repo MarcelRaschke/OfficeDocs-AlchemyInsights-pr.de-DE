@@ -3,26 +3,25 @@ title: Einrichten von Project
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "33"
 - "1600006"
-ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-ms.openlocfilehash: 3a2ec2a8d24f4c4a92f57f56e2afd37645c6d773
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "33"
+ms.openlocfilehash: 64aa583be23a9a4dc37334b182e84d40eefcf5d3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63211857"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66417874"
 ---
 # <a name="setting-up-project"></a>Einrichten von Project
 
- Führen Sie die Schritte in [diesem Artikel](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx) aus, um Microsoft Project einzurichten.
+ Führen Sie zum Einrichten von Microsoft Project die Schritte in [diesem Artikel](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx) aus.
 
-**Hinweis für Mac-Benutzer:** Das Project Produkt ist derzeit nicht für MacOS verfügbar. 
+**Hinweis für Mac-Benutzer:** Das Project-Produkt ist derzeit nicht für MacOS verfügbar. 
   
-Wenn beim Setup Fehler auftreten, [installieren Sie Project mithilfe der Support- und Wiederherstellungs-Assistent](https://aka.ms/SaRA-ProjectSetupScenario).
+Wenn während des Setups Fehler auftreten, [installieren Sie Project mit dem Support- und Wiederherstellungs-Assistenten](https://aka.ms/SaRA-ProjectSetupScenario).

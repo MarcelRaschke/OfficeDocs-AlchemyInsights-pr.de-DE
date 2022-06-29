@@ -3,26 +3,24 @@ title: Externer Benutzer kann eine Freigabeeinladung nicht annehmen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
-ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 68588cacee10202b6868a0224bbd385e0882e52b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 75fd3c27302f973d1c267085cebe2514a6930e91
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65731638"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66367455"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Externer Benutzer kann eine Freigabeeinladung nicht annehmen
 
-Wenn ein externer Benutzer eine SharePoint oder OneDrive Freigabeeinladung nicht annehmen kann, versuchen Sie bitte, die folgenden Links zu besuchen: 
+Wenn ein externer Benutzer eine SharePoint- oder OneDrive-Freigabeeinladung nicht annehmen kann, versuchen Sie, die folgenden Links zu besuchen: 
 
 - [Fehler "Zugriff verweigert", "Sie benötigen Die Berechtigung für den Zugriff auf diese Website" oder "Benutzer im Verzeichnis nicht gefunden" in SharePoint Online und OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - [Fehlermeldung "Die Richtlinien Ihrer Organisation erlauben ihnen nicht, für diese Benutzer freizugeben" beim Freigeben eines Elements oder einer Website in SharePoint Online oder OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)

@@ -3,22 +3,21 @@ title: Externe Benutzer können keine E-Mails an eine Microsoft 365-Gruppe sende
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/23/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6115"
 - "9003200"
-ms.openlocfilehash: 4a37bde439df98aaa07bf7ff5b2672d7a8ad1943
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6115"
+ms.date: 07/23/2020
+ms.openlocfilehash: fa4531129393908ea589eef335d39bf8640907e3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63238623"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66367419"
 ---
 # <a name="external-users-cant-send-email-to-microsoft-365-group"></a>Externe Benutzer können keine E-Mails an eine Microsoft 365-Gruppe senden
 

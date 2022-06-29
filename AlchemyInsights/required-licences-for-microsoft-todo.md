@@ -3,23 +3,21 @@ title: Erforderliche Lizenzen für Microsoft ToDo
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "164"
 - "1600027"
-ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 85a85d1339c7f8fd8bc4b355afcc68db46831118
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "164"
+ms.date: 04/21/2020
+ms.openlocfilehash: e2f42dfef7d46216f07063c2e4e6a59902e8970e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65735240"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66264727"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Erforderliche Lizenzen für Microsoft ToDo
 
@@ -31,7 +29,7 @@ Ein Benutzer muss über eine der folgenden Lizenzen verfügen, um Microsoft ToDo
 
 - Business Premium
 
-- Microsoft 365 Erste Zeile F1
+- Microsoft 365 Firstline F1
 
 - Beliebiger Office 365 Enterprise Plan
 

@@ -3,22 +3,21 @@ title: Anmeldeprobleme für Schüler/Studenten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000744"
 - "3813"
 - "3818"
-ms.openlocfilehash: 2d8d3d8cdce9bd58587808bdcbf72f296d353052
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: f60ac023644e3dd1fc3e3b386c583dc7d4027419
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66008752"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66417442"
 ---
 # <a name="sign-in-issues-for-students"></a>Anmeldeprobleme für Schüler/Studenten
 
