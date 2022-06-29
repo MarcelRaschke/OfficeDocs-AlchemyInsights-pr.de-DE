@@ -3,21 +3,20 @@ title: Speichern von Videos und Fotos auf OneDrive
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4580"
-ms.openlocfilehash: 8a8a9a15aa144b1acb570b55e01e998424892491
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: dbb8ec8f6e882bf5322f0d7ff7103f2c96b58dd1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63084970"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66317631"
 ---
 # <a name="save-videos-and-photos-to-onedrive"></a>Speichern von Videos und Fotos auf OneDrive
 

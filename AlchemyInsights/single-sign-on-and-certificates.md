@@ -3,22 +3,21 @@ title: Single Sign-On und Zertifikate
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7809"
-ms.openlocfilehash: c438bc9ba7a2e28ecc5d1659765c90c03364d059
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 01/15/2021
+ms.openlocfilehash: 03302cd60c2a3b3d470ec350e8d40c9c2bcb779c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63211437"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66255646"
 ---
 # <a name="seamless-single-sign-on-sso-and-certificates"></a>Nahtloses Single Sign-on (SSO) und Zertifikate
 

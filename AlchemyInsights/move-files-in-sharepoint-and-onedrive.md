@@ -3,28 +3,26 @@ title: Verschieben von Dateien in SharePoint und OneDrive
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "453"
 - "5300013"
-ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: f26994930989fdec28804f2c8fe9f41a355f3064
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "453"
+ms.date: 04/21/2020
+ms.openlocfilehash: 48df87d0a6fb2c7f6e815532a6b4776b1cba7afb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63295773"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66256978"
 ---
 # <a name="move-files-in-sharepoint-and-onedrive"></a>Verschieben von Dateien in SharePoint und OneDrive
 
-Sie können Dateien aus dem Webbrowser selbst an verschiedene Speicherorte innerhalb SharePoint und OneDrive verschieben. Weitere Informationen finden Sie unter [Verschieben oder Kopieren von Dateien](https://support.microsoft.com/office/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc?ui=en-US&rs=en-US&ad=US).
+Sie können Dateien aus dem Webbrowser selbst an verschiedene Speicherorte in SharePoint und OneDrive verschieben. Siehe ["Verschieben oder Kopieren von Dateien](https://support.microsoft.com/office/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc?ui=en-US&rs=en-US&ad=US)".
 
 
-**Hinweis**: **Wechseln zu** ist nicht verfügbar, wenn Sie die klassische Benutzeroberfläche von SharePoint Online verwenden.
+**Hinweis**: **"Wechseln zu"** ist nicht verfügbar, wenn Sie die klassische Oberfläche von SharePoint Online verwenden.
   

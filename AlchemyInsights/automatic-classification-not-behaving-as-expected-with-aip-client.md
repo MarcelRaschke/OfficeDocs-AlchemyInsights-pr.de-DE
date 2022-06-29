@@ -3,21 +3,20 @@ title: 'AIP-Client: Die automatische Klassifizierung zeigt nicht das erwartete V
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 83308d800f801a6cbb91de950c1cf96719df646f
-ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
+ms.openlocfilehash: 91903d296fdd12d86ba87c2b047e1796492a77f5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65395251"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66289090"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>AIP-Client: Die automatische Klassifizierung zeigt nicht das erwartete Verhalten
 

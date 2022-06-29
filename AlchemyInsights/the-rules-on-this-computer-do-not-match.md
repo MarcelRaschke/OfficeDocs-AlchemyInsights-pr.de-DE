@@ -3,30 +3,30 @@ title: 'Fehler: Die Regeln auf diesem Computer stimmen nicht überein'
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "3518"
 - "1800021"
-ms.openlocfilehash: a9493b0b9b6fb7008bff2dc88636d5ef1b01cbf5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "3518"
+ms.openlocfilehash: 041ebc75553a887abb9f1ba68786685fb2e7482b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63083746"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66255502"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Fehler: Die Regeln auf diesem Computer stimmen nicht überein
 
-Informationen zum aktualisierten Status dieses bekannten Problems finden Sie unter ["Die Regeln auf diesem Computer entsprechen nicht den Regeln in Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+Wenn Sie den aktualisierten Status dieses bekannten Problems anzeigen möchten, lesen Sie [die Regeln auf diesem Computer, die nicht mit den Regeln in Microsoft Exchange übereinstimmen](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0).
 
-Das Outlook Team hat einen Fix in Build 12928.10000 implementiert. Der Fix ist bereits bei Insider Fast und wird Ende Juni 2020 zum monatlichen Kanal geleitet. Sobald Sie den festen Build haben, erhalten Sie möglicherweise ein letztes Mal die Eingabeaufforderung "Welche Regeln möchten Sie beibehalten". Wählen Sie "Server" aus, wenn Sie dazu aufgefordert werden, und wechseln Sie dann zurück zu Outlook und aktivieren Sie alle deaktivierten Regeln erneut.
+Das Outlook-Team hat einen Fix in Build 12928.10000 implementiert. Der Fix ist bereits bei Insider Fast und wird Ende Juni 2020 zum monatlichen Kanal wechseln. Sobald Sie den festen Build haben, erhalten Sie möglicherweise ein letztes Mal die Eingabeaufforderung "Welche Regeln möchten Sie beibehalten". Wählen Sie "Server" aus, wenn Sie dazu aufgefordert werden, und wechseln Sie dann zurück in Outlook, und aktivieren Sie alle deaktivierten Regeln erneut.
 
-Verwenden Sie die folgende Problemumgehung, bis die Korrektur verfügbar ist:
+Verwenden Sie die folgende Problemumgehung, bis der Fix verfügbar ist:
 
-**Problemumgehung**: In aktuellen Berichten ist das Problem für diejenigen aufgetreten, die nur Clientregeln in Outlook Desktop erstellt haben. Wenn das Problem weiterhin auftritt, sollten Sie die Regeln löschen und dann Regeln nur in OWA (Outlook Web App) erstellen und bearbeiten, bis das Problem behoben ist.
+**Problemumgehung**: In den letzten Berichten ist das Problem für diejenigen aufgetreten, die nur Clientregeln in Outlook Desktop erstellt haben. Wenn das Problem weiterhin auftritt, sollten Sie die Regeln löschen und dann regeln nur in OWA (Outlook Web App) erstellen und bearbeiten, bis das Problem behoben ist.
 
-Wenn Sie die Regeln nicht manuell löschen können, können Sie einen Outlook Befehl ausführen, wenn Sie Outlook starten, indem Sie Outlook.exe /cleanrules ausführen. Dadurch werden sowohl die Client- als auch die Serverregeln gelöscht. Sie löscht alle Regeln für alle Konten im Outlook Profil. Dieser Befehl wird im Artikel "Befehlszeilenoptionen" weiter dokumentiert.
+Wenn Sie die Regeln nicht manuell löschen können, können Sie beim Starten von Outlook einen Outlook-Befehl ausführen, indem Sie Outlook.exe /cleanrules ausführen. Dadurch werden sowohl die Client- als auch die Serverregeln gelöscht. Alle Regeln für alle Konten im Outlook-Profil werden gelöscht. Dieser Befehl ist im Artikel "Befehlszeilenoptionen" weiter dokumentiert.
 

@@ -3,21 +3,20 @@ title: 'Azure Information Protection: AIP-Clientinstallation'
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: a73c7671398f87f39897e828980b90249ac8b701
-ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
+ms.openlocfilehash: 415666eec71626675926cc083da7a98ddd402fd8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65395267"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66329889"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: AIP-Clientinstallation
 

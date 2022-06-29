@@ -3,21 +3,20 @@ title: Übertragen des Besitzes von Azure-Abrechnungen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 4bf5e745ac9373b56048beedacd1417cdde24258
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 8a22628ceec1533e2e8b7ee8f9483d889a9c86c3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65720645"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66329529"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Übertragen des Besitzes von Azure-Abrechnungen
 

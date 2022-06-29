@@ -3,21 +3,20 @@ title: Herunterladen oder Anfordern einer Kopie meiner Rechnung in Azure
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6863"
-ms.openlocfilehash: 2b0d9ce2305d40c83118b7b5f56fdf6c6afb5bed
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: bedca5197d6b6f9189163a5a9dc2f58bbe41208a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63308381"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66329997"
 ---
 # <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Herunterladen oder Anfordern einer Kopie meiner Rechnung in Azure
 

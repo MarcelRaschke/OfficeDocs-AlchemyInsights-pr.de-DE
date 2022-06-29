@@ -1,5 +1,5 @@
 ---
-title: Behandeln von Problemen mit dem Nahtlosen einmaligen Anmelden (Single Sign-On, SSO) im Browser
+title: Beheben von Problemen mit dem SSO-Browser (Seamless Single Sign-On)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -8,18 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 140cbb4ef6bdb826818d87374e7b152d122b11ff
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: caf283a7c1f15582fcfb4fce0187088f87723570
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63124589"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66317379"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Behandeln von Problemen mit dem Nahtlosen einmaligen Anmelden (Single Sign-On, SSO) im Browser
+# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Beheben von Problemen mit dem SSO-Browser (Seamless Single Sign-On)
 
 Die meisten Benutzer können ihr Problem mit dem nahtlosen SSO-Browser mithilfe der folgenden Schritte beheben:
 
@@ -29,13 +28,13 @@ Die meisten Benutzer können ihr Problem mit dem nahtlosen SSO-Browser mithilfe 
 
 **Bekannte Browserprobleme**
 
-- Nahtloses SSO funktioniert nicht im privaten Browsermodus in Firefox.
+- Nahtloses SSO funktioniert im privaten Browsermodus in Firefox nicht.
 - Nahtloses SSO funktioniert in Internet Explorer nicht, wenn der erweiterte geschützte Modus aktiviert ist.
-- Nahtloses SSO funktioniert nicht im privaten Browsermodus auf Microsoft Edge (Legacy).
-- Nahtloses SSO funktioniert nicht in mobilen Browsern unter iOS und Android.
+- Nahtloses SSO funktioniert nicht im privaten Browsermodus in Microsoft Edge (Legacy).
+- Nahtloses SSO funktioniert in mobilen Browsern unter iOS und Android nicht.
 
-Nahtloses SSO unterstützt die nächste Version von Microsoft Edge basierend auf Chromium und funktioniert entwurfsbedingt im InPrivate- und Gastmodus.
+Nahtloses SSO unterstützt die nächste Version von Microsoft Edge basierend auf Chromium und funktioniert standardmäßig im InPrivate- und Gastmodus.
 
 **Empfehlung**
 
-Informationen zu Featureanforderungen oder technischen Fragen zu nahtlosen SSO finden Sie unter [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
+Informationen zu Featureanforderungen oder technischen Fragen zum nahtlosen SSO finden Sie unter [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)

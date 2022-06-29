@@ -3,21 +3,20 @@ title: Blockieren von Downloads für SharePoint und OneDrive
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004146"
 - "7241"
-ms.openlocfilehash: c21c782215171dcc07f082f695d0f31566723b2b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: dd835dd46dc6e6d27b04cffcb8a0ae06b873d4ea
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63218517"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66288910"
 ---
 # <a name="block-downloads-for-sharepoint-and-onedrive"></a>Blockieren von Downloads für SharePoint und OneDrive
 

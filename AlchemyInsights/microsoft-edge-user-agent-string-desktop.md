@@ -3,22 +3,21 @@ title: Benutzer-Agent-Zeichenfolgen für Microsoft Edge (Desktop)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/18/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8221"
 - "9004596"
-ms.openlocfilehash: dad95b44818cf68236bb80fd35876e2b123a7a61
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8221"
+ms.date: 03/18/2021
+ms.openlocfilehash: 4dd58060920cf14822d3135270aa518b8269f123
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63234745"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66267076"
 ---
 # <a name="microsoft-edge-user-agent-strings-desktop"></a>Benutzer-Agent-Zeichenfolgen für Microsoft Edge (Desktop)
 

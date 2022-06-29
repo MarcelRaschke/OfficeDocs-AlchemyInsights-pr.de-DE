@@ -3,22 +3,21 @@ title: ASMS-Testlösung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003544"
 - "6460"
-ms.openlocfilehash: b169cb29897a2c0b9b9b1462873b3915b02624b7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 43d7fd9628cd844e8e8ade16f2a266f020b4b60f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63195584"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66330285"
 ---
 # <a name="asms-test-solution"></a>ASMS-Testlösung
 
-Azure-Kunden mit einem Azure Enterprise Agreement (EA), einem Microsoft-Kundenvertrag (MCA) oder einem Microsoft Partner Agreement (MPA) können ihre Preise im Azure-Portal anzeigen und herunterladen.
+Azure-Kunden mit einem Azure Enterprise Agreement (EA), Microsoft-Kundenvereinbarung (MCA) oder Microsoft Partner-Vereinbarung (MPA) können ihre Preise im Azure-Portal anzeigen und herunterladen.

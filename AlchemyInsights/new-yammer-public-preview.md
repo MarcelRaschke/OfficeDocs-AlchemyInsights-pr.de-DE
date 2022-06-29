@@ -3,21 +3,20 @@ title: Öffentliche Vorschau der neuen Yammer-Version
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002877"
 - "5566"
-ms.openlocfilehash: 31afeffae1d0e4202f37c8a4a0e7cdb1e1916831
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a0b0dbd2a1e0237f5a31463f4f827304f241d9c7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63168835"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66256690"
 ---
 # <a name="new-yammer-public-preview"></a>Öffentliche Vorschau der neuen Yammer-Version
 

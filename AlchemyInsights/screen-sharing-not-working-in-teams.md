@@ -3,22 +3,21 @@ title: Bildschirmfreigabe in Teams funktioniert nicht
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003304"
 - "6207"
-ms.openlocfilehash: 1adc1a2df6b27fb77c4665451e26768cdaedca83
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 08/20/2020
+ms.openlocfilehash: ff5b44d6c46ced7027625371fb27506733e118b3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63222153"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66317400"
 ---
 # <a name="screen-sharing-not-working-in-teams"></a>Bildschirmfreigabe in Teams funktioniert nicht
 

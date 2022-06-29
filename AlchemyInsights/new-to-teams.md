@@ -3,21 +3,20 @@ title: Neu bei Microsoft Teams?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002403"
 - "4676"
-ms.openlocfilehash: 4306236bbdc5c0c06b5fb0c4161c2a594b75582c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 405a347cca60a76dd15b543b43e7adb76c7f6ec9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63306041"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66256726"
 ---
 # <a name="new-to-teams"></a>Neu bei Microsoft Teams?
 

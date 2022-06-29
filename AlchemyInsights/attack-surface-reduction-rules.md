@@ -3,22 +3,21 @@ title: Regeln zur Verringerung der Angriffsfläche
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11228"
 - "9005470"
-ms.openlocfilehash: 664d587b916d65bc0cc773e773286912607f222d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11228"
+ms.date: 05/25/2021
+ms.openlocfilehash: c0ce9cc16ae2a7ef13169e21b19b6216647e9e25
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63218805"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66330072"
 ---
 # <a name="attack-surface-reduction-rules"></a>Regeln zur Verringerung der Angriffsfläche
 
@@ -56,7 +55,7 @@ Weitere Informationen finden Sie unter:
 
 1. Bestimmen Sie, ob die Regel Ausschlüsse unterstützt. Weitere Informationen finden Sie unter [Anpassen der Regeln zur Verringerung der Angriffsfläche](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/attack-surface-reduction#attack-surface-reduction-rules).
 
-1. Überprüfen Sie die angewendeten Ausschlüsse, und überprüfen Sie sie mit den Ereignisdaten auf Tippfehler oder falsch interpretierte Platzhalter. Weitere Informationen finden Sie unter [Unterstützte Ausschlusstypen](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)
+1. Überprüfen Sie die angewendeten Ausschlüsse und überprüfen Sie anhand der Ereignisdaten, ob Tippfehler oder falsch interpretierte Platzhalter vorhanden sind. Weitere Informationen finden Sie unter [Unterstützte Ausschlusstypen](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/mac-exclusions#supported-exclusion-types)
 
 1. Wenn die Auswirkung der Regel zu hoch ist, sollten Sie die Regel (zurück) in den Überwachungsmodus verschieben, um eine weitere Validierung durchzuführen. Weitere Informationen finden Sie unter [Testen der Funktionalität der Features von Microsoft Defender für Endpunkte im Überwachungsmodus](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/audit-windows-defender).
 

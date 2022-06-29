@@ -3,21 +3,20 @@ title: Planen, Bereitstellen und Verwalten von Teams-Räumen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: 8b0d3e045bc797134c73c38a411a432b6c1a8b1c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 43ed86234b46a7414628631536530939bf362db1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63213369"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66255826"
 ---
 # <a name="plan-deploy-and-manage-teams-rooms"></a>Planen, Bereitstellen und Verwalten von Teams-Räumen
 

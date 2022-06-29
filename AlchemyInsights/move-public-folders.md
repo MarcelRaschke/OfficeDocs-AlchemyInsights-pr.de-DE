@@ -1,30 +1,29 @@
 ---
-title: Verschieben von öffentlichen Ordnern zwischen Postfächern für öffentliche Ordner
+title: Verschieben öffentlicher Ordner zwischen Postfächern für öffentliche Ordner
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "7983"
-ms.openlocfilehash: 1dc44ab6ed05f48547ce1f8cb7ac19181acd9e46
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 362692b44572acf78f43cce997fb75da5bef3852
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63295737"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66256942"
 ---
-# <a name="move-public-folders-between-public-folder-mailboxes"></a>Verschieben von öffentlichen Ordnern zwischen Postfächern für öffentliche Ordner
+# <a name="move-public-folders-between-public-folder-mailboxes"></a>Verschieben öffentlicher Ordner zwischen Postfächern für öffentliche Ordner
 
-Die öffentlichen Ordner in Exchange online können mit Outlook für den Windows-Desktopclient zwischen Postfächern für öffentliche Ordner verschoben werden.
+Die öffentlichen Ordner in Exchange Online können mithilfe des Outlook für Windows-Desktopclients zwischen Postfächern für öffentliche Ordner verschoben werden.
 
-Wenn Sie versuchen, öffentliche Ordner von Exchange lokal in Exchange Online zu verschieben, lesen Sie die folgenden Artikel:
+Wenn Sie versuchen, öffentliche Ordner von Exchange Lokal nach Exchange Online zu verschieben, lesen Sie die folgenden Artikel:
 
 [Migrieren von öffentlichen Ordnern Exchange Server 2013.2016.2019 zu Exchange Online](https://aka.ms/ModernPFToEXO)
 
-[Migrieren von öffentlichen Ordnern Exchange Server 2010 zu Exchange Online](https://aka.ms/LegacyPFToEXO)
+[Migrieren Exchange Server öffentlichen Ordner 2010 zu Exchange Online](https://aka.ms/LegacyPFToEXO)

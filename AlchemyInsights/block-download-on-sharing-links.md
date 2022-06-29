@@ -3,21 +3,20 @@ title: Blockieren des Downloads für Freigabelinks
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: dd81adf9c43037d4669dbac436be15150cbbab7a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 525875c736a1af9911c8bf2ada8d64e43eb80e1d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63175091"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66289018"
 ---
 # <a name="block-download-on-sharing-links"></a>Blockieren des Downloads für Freigabelinks
 

@@ -3,22 +3,21 @@ title: Umstieg auf die neue Intune-Verwaltungskonsole
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/29/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1791"
 - "9000214"
-ms.openlocfilehash: dc61f95337d382888c782b4ac62e99d3939aadd7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1791"
+ms.date: 07/29/2020
+ms.openlocfilehash: 9f1afde2f555810284cfbc99a374927f65361ab1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63183416"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66256870"
 ---
 # <a name="moving-to-the-new-intune-admin-console"></a>Umstieg auf die neue Intune-Verwaltungskonsole
 

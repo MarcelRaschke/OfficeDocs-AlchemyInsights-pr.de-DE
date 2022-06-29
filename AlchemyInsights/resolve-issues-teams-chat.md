@@ -1,35 +1,34 @@
 ---
-title: Beheben von Problemen mit Teams Chat
+title: Beheben von Problemen mit dem Teams-Chat
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000738"
 - "16637"
 ms.date: 02/07/2022
-ms.openlocfilehash: 8218a7de5b3e5e5cbaabe585004abbc8862aac68
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 19869307d732cd0c65335d64459df93f9c74fdb7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63125165"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66317955"
 ---
-# <a name="resolve-issues-with-teams-chat"></a>Beheben von Problemen mit Teams Chat
+# <a name="resolve-issues-with-teams-chat"></a>Beheben von Problemen mit dem Teams-Chat
 
-Wenn Microsoft Teams Chat für einen oder mehrere Benutzer nicht verfügbar ist, überprüfen Sie zunächst Teams Richtlinieneinstellungen:
+Wenn der Microsoft Teams-Chat für einen oder mehrere Benutzer nicht verfügbar ist, überprüfen Sie zunächst die Teams-Richtlinieneinstellungen:
 
-- Überprüfen Sie in der [Messagingrichtlinie](https://admin.teams.microsoft.com/policies/messaging) für den betroffenen Benutzer, ob "Chat" auf " **Ein**" festgelegt ist. Stellen Sie für Gastbenutzer sicher, dass der Chat in der [Gastzugriffsrichtlinie](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) **aktiviert** ist.
+- Vergewissern Sie sich in der [Messagingrichtlinie](https://admin.teams.microsoft.com/policies/messaging) für den betroffenen Benutzer, dass der Chat auf **"Ein**" festgelegt ist. Stellen Sie für Gastbenutzer sicher, dass der Chat in der [Gastzugriffsrichtlinie](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) **aktiviert** ist.
 
-- Während einer Besprechung wird der Chat in der [Besprechungsrichtlinie aktiviert, die dem Benutzer zugewiesen](https://admin.teams.microsoft.com/policies/meetings) ist.
+- Während einer Besprechung ist der Chat in der [Besprechungsrichtlinie aktiviert, die dem Benutzer zugewiesen ist](https://admin.teams.microsoft.com/policies/meetings).
 
-- Um einem Benutzer zugewiesene Richtlinien anzuzeigen, suchen Sie den Benutzer in **UserManage** >  **UsersView-Richtlinien**[](https://admin.teams.microsoft.com/users) > .
+- Zum Anzeigen von Richtlinien, die einem Benutzer zugewiesen sind, suchen Sie den Benutzer in den **Ansichtsrichtlinien** "**Benutzer** > [**verwalten"**](https://admin.teams.microsoft.com/users) > .
 
-Besprechungsteilnehmer können während oder nach einer Besprechung ein fehlendes Chatsymbol oder einen fehlenden Chatverlauf feststellen, wenn das Besprechungslimit für Teilnehmer erreicht ist, ein Benutzer der Besprechung als "Anonym" beigetreten ist oder wenn ein Teilnehmer einen Link zur Teilnahme an einer Besprechung erhalten hat. Weitere Informationen finden Sie unter [Chat in einer Teams Besprechung](https://support.microsoft.com/office/chat-in-a-teams-meeting-64e2cb91-8a11-4781-94ea-fbb23f2b922f) und [Chatprobleme in Teams Besprechung](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/meeting-chat-issues).
+Besprechungsteilnehmer können während oder nach einer Besprechung ein fehlendes Chatsymbol oder einen fehlenden Chatverlauf feststellen, wenn das Besprechungslimit für Teilnehmer erreicht ist, ein Benutzer der Besprechung als "Anonym" beigetreten ist oder wenn ein Teilnehmer einen Link zur Teilnahme an einer Besprechung erhalten hat. Weitere Informationen finden Sie [unter "Chat in einer Teams-Besprechung](https://support.microsoft.com/office/chat-in-a-teams-meeting-64e2cb91-8a11-4781-94ea-fbb23f2b922f) " und ["Chatprobleme in Teams-Besprechungen](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/meeting-chat-issues)".
 
-Um Informationen in Ihrer Organisation zu verwalten, können Sie Aufbewahrungsrichtlinien erstellen und verwalten. Weitere Informationen finden Sie unter [Verwalten von Aufbewahrungsrichtlinien für Microsoft Teams](https://docs.microsoft.com/microsoftteams/retention-policies).
+Zum Verwalten von Informationen in Ihrer Organisation können Sie Aufbewahrungsrichtlinien erstellen und verwalten. Weitere Informationen finden [Sie unter Verwalten von Aufbewahrungsrichtlinien für Microsoft Teams](https://docs.microsoft.com/microsoftteams/retention-policies).

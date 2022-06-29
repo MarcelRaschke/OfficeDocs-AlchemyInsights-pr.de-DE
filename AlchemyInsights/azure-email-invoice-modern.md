@@ -3,21 +3,20 @@ title: Moderne Azure-E-Mail-Rechnungsstellung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 014ff261ffa3c544df23e2ba582f100fed26ac04
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 6f5d8423c4c9d6f04102f12a69a1b848bdc01ed1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63218661"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66329925"
 ---
 # <a name="email-invoicing-in-azure"></a>E-Mail-Rechnungsstellung in Azure
 

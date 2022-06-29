@@ -3,22 +3,21 @@ title: PIN-basierter Überprüfungsprozess für Support-Anrufer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/25/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6218"
 - "9003321"
-ms.openlocfilehash: 8d763d02433fa7bd4d43aa8352aac245e713e005
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6218"
+ms.date: 08/25/2020
+ms.openlocfilehash: 7728ebb318721286c1cd54a2c959f033de662d88
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63253750"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66255862"
 ---
 # <a name="pin-based-verification-process-for-support-callers"></a>PIN-basierter Überprüfungsprozess für Support-Anrufer
 

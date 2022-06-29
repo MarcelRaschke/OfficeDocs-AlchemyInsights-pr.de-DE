@@ -3,23 +3,22 @@ title: Hinzufügen von Bookings zu Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002238"
-- "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: 648e60e6e7159091a11d8cc370ed268fa32e3624
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "5041"
+ms.openlocfilehash: 5892cdbfe31e3e3aa9888a0f1455f386d18af7de
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63285785"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66276652"
 ---
 # <a name="adding-bookings-to-teams"></a>Hinzufügen von Bookings zu Teams
 

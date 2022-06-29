@@ -3,22 +3,21 @@ title: Problembehandlung von Besitzerproblemen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7815"
 - "9004358"
-ms.openlocfilehash: 0bea5975af168c8e41608ac6a284bd62164f3156
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7815"
+ms.date: 01/16/2021
+ms.openlocfilehash: a91e589b66f143fb0c25d4984accd4a811181a44
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63197024"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66255574"
 ---
 # <a name="troubleshoot-owner-issues"></a>Problembehandlung von Besitzerproblemen
 

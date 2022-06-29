@@ -3,22 +3,21 @@ title: Mehrere Benutzer erhalten beim Hinzufügen von Add-Ins in Outlook den Feh
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/23/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "5892"
 - "6700008"
-ms.openlocfilehash: 5847b63fa34f88af919191ae5f35a692fabb445a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "5892"
+ms.date: 07/23/2020
+ms.openlocfilehash: 0d8c0c9313b485adfb4137d226193fd25b6fa9be
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63201596"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66256834"
 ---
 # <a name="multiple-users-get-access-denied-error-while-adding-add-ins-in-outlook"></a>Mehrere Benutzer erhalten beim Hinzufügen von Add-Ins in Outlook den Fehler „Zugriff verweigert“
 

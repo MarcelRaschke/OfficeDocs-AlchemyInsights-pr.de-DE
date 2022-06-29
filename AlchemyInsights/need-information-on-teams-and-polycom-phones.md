@@ -3,21 +3,20 @@ title: 1703 Informationen zu Teams und Polycom-Telefonen benötigt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1703"
 - "9000170"
-ms.openlocfilehash: c681d358d0e4a8bdc60d2cc2fce576879af8648f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1703"
+ms.openlocfilehash: bece9cc3f699db9cf8e6c124ee953ea2376c00eb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63306185"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66256798"
 ---
 # <a name="need-information-on-teams-and-polycom-phones"></a>Informationen zu Teams und Polycom-Telefonen benötigt
 

@@ -3,21 +3,20 @@ title: Installieren von SharePoint-Apps
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5796"
-ms.openlocfilehash: 53ba2ce907aa9b16cd2d82d780870526e0206dae
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: b498ab8968f5662e5aeddfd2baa3f81491511be4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63208616"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66289270"
 ---
 # <a name="install-sharepoint-apps"></a>Installieren von SharePoint-Apps
 

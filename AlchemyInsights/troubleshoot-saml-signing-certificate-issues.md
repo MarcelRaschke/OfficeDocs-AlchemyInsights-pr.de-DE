@@ -3,22 +3,21 @@ title: Behandeln von Problemen mit SAML-Signaturzertifikaten
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/08/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9406"
 - "9004341"
-ms.openlocfilehash: b43849ced880b4719505b057f98c6ffadc3ca8ea
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9406"
+ms.date: 03/08/2021
+ms.openlocfilehash: 9922ebf94c6f63690f87aefd50882328800feaac
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63242981"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66251398"
 ---
 # <a name="troubleshoot-saml-signing-certificate-issues"></a>Behandeln von Problemen mit SAML-Signaturzertifikaten
 
