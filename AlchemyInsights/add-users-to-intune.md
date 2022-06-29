@@ -3,21 +3,20 @@ title: Hinzufügen von Benutzern zu Intune
 ms.author: erikje
 author: erikje
 manager: dougeby
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000664"
 - "2535"
-ms.openlocfilehash: cae8ade16ee82dfd695d4d19cecde40631940cfe
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: b3491a1d4190985d74cdf4afa8913c98df6f1463
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "65999684"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66331005"
 ---
 # <a name="add-users-to-intune"></a>Hinzufügen von Benutzern zu Intune
 

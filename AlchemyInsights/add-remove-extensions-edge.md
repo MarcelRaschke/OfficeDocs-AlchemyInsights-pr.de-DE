@@ -3,22 +3,21 @@ title: So fügen Sie Erweiterungen in Microsoft Edge hinzu oder entfernen sie
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/01/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9971"
 - "9005674"
-ms.openlocfilehash: f42ac7d47bd6a742ed74f695450666c8bfd5bd60
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/01/2021
+ms.openlocfilehash: 1a1ef963fff1dfa51e8b6eae21ca181aafc8f699
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63251261"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66330933"
 ---
 # <a name="how-to-add-or-remove-extensions-in-microsoft-edge"></a>So fügen Sie Erweiterungen in Microsoft Edge hinzu oder entfernen sie
 

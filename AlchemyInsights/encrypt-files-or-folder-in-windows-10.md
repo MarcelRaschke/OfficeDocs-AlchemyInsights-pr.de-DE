@@ -3,21 +3,20 @@ title: Verschlüsseln von Dateien oder Ordnern unter Windows 10
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002954"
 - "5656"
-ms.openlocfilehash: 5f7490b28b4deb86d0d731378dfc16e3d8fbf593
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 25b5750f1dabe96976e877d2a8b8f0df846d305a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63215421"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66297712"
 ---
 # <a name="encrypt-files-or-folder-in-windows-10"></a>Verschlüsseln von Dateien oder Ordnern unter Windows 10
 

@@ -1,26 +1,25 @@
 ---
-title: Hybrid- und Verbundsuche
+title: Hybrid- und Sammelsuche
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 1b72decb14222d2c7b10ff28cfdae8f42de32e10
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a074bcb265a00908c36ae81ada262d866fb4e081
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63246545"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66296704"
 ---
-# <a name="hybrid-and-federated-searches"></a>Hybrid- und Verbundsuchen 
+# <a name="hybrid-and-federated-searches"></a>Hybrid- und Sammelsuchen 
 
-Informationen zur Hybrid- und Verbundsuche in SharePoint Online finden Sie unter [Hybridsuche in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+Informationen zur Hybrid- und Sammelsuche in SharePoint Online finden Sie [unter Hybridsuche in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
 Informationen zum Planen der Hybridsammelsuche finden Sie unter [Planen der Hybridsammelsuche für SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).

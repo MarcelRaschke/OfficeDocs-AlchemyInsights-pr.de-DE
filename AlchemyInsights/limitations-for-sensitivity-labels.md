@@ -3,22 +3,21 @@ title: Einschränkungen für Vertraulichkeitsbezeichnungen für Office-Dateien i
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/21/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12451"
 - "9000181"
-ms.openlocfilehash: 74393abe3e3606f2d44bd3bd870c5bcc22f221c5
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+- "12451"
+ms.date: 07/21/2021
+ms.openlocfilehash: 699862ab001452620f796b4dca4355f4a730a845
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65588439"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66287254"
 ---
 # <a name="limitations-for-sensitivity-labels-for-office-files-in-sharepoint-and-onedrive"></a>Einschränkungen für Vertraulichkeitsbezeichnungen für Office-Dateien in SharePoint und OneDrive
 

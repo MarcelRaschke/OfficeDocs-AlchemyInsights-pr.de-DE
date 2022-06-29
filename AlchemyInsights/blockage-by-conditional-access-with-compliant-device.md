@@ -3,22 +3,21 @@ title: Ich werde mit einem kompatiblen Gerät durch bedingten Zugriff blockiert.
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9835"
 - "9003257"
-ms.openlocfilehash: 2e83a74be981c84ef4cd4f27555dc6a4ff03f34d
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9835"
+ms.date: 03/19/2021
+ms.openlocfilehash: 042edd08fbac0b0d2d6f1c23c8525409a8bb7e45
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65734700"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66274708"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-compliant-device"></a>Ich werde mit einem kompatiblen Gerät durch bedingten Zugriff blockiert.
 

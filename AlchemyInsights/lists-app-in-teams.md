@@ -3,22 +3,21 @@ title: Lists-App in Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: 0e2d96371b08928ce001d027d88b7ddf25e5cc81
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 08/20/2020
+ms.openlocfilehash: d5c357ac098f93cf0cfde42d641f06c7f923eec9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65709185"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66287182"
 ---
 # <a name="lists-app-in-teams"></a>Lists-App in Teams
 

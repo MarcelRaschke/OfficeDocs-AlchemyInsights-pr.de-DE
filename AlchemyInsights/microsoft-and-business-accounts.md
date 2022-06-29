@@ -3,21 +3,20 @@ title: Microsoft und Geschäftskonten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "4747"
-ms.openlocfilehash: 6ba794447eb51049315484f380b06f5926c0976a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 25c395aa79687c1eaca5843650e3dcd5297689a9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63169987"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66287110"
 ---
 # <a name="microsoft-and-business-accounts"></a>Microsoft und Geschäftskonten
 

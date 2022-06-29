@@ -3,7 +3,7 @@ title: Exportieren des Chatverlaufs in Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "9003839"
 - "6887"
-ms.openlocfilehash: 437a0e51b008ceb4b30e225f61f0c20630f809d3
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: f8f89f6339824fd49ee79b4a37ca57b6e3e68582
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65592904"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66354531"
 ---
 # <a name="export-chat-history-in-teams"></a>Exportieren des Chatverlaufs in Teams
 

@@ -3,26 +3,25 @@ title: Gleichzeitiges Einchecken mehrerer Dateien
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
 ms.custom:
 - "5300029"
 - "1688"
 - "986"
-ms.openlocfilehash: 7cb618eadcdbb6fc7d8733b60deef3227915c2ba
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: b0c1e90ccbb94147e9238d3ca79603f60b88b022
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63217581"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66342993"
 ---
 # <a name="check-in-several-files-at-once"></a>Gleichzeitiges Einchecken mehrerer Dateien
 
-Das Ein- und Auschecken von Dateien in eine SharePoint Bibliothek ist eine hervorragende Möglichkeit zum Nachverfolgen und Steuern der Aktualisierung von Inhalten. Wenn Sie Änderungen an einer Datei auf einer Website vornehmen möchten und sicherstellen möchten, dass sie von keinem anderen Benutzer bearbeitet werden kann, sehen Sie sich die Datei an. Wenn Sie die Datei ausgecheckt haben, können Sie sie online oder offline bearbeiten und bei Bedarf mehrmals speichern.
+Das Einchecken und Auschecken von Dateien in einer SharePoint-Bibliothek ist eine hervorragende Möglichkeit, die Aktualisierung von Inhalten nachzuverfolgen und zu steuern. Wenn Sie Änderungen an einer Datei auf einer Website vornehmen möchten und sicherstellen möchten, dass niemand sie bearbeiten kann, checken Sie die Datei aus. Wenn Sie die Datei ausgecheckt haben, können Sie sie online oder offline bearbeiten und bei Bedarf mehrmals speichern.
 
 Nachfolgend finden Sie einige hilfreiche Links zu diesem Feature.
 

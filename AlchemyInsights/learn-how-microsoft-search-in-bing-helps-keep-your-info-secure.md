@@ -3,22 +3,21 @@ title: So hält Microsoft Search in Bing Ihre Informationen sicher
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/12/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9217"
 - "9005302"
-ms.openlocfilehash: eb9ea0c192b2d397b97e3b8bc1bc523346c4acc3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9217"
+ms.date: 03/12/2021
+ms.openlocfilehash: c8d4349e31d1ff907a2fe0992201f3482192de15
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63274877"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66287470"
 ---
 # <a name="learn-how-microsoft-search-in-bing-helps-keep-your-information-secure"></a>So hält Microsoft Search in Bing Ihre Informationen sicher
 

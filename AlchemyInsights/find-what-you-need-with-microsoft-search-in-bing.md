@@ -1,5 +1,5 @@
 ---
-title: Finden Sie in Bing, was Sie mit Microsoft Search benötigen.
+title: Finden Sie das, was Sie mit Microsoft Search in Bing benötigen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -8,18 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9265"
-ms.openlocfilehash: 717c2a6fe1948b83d4614fd316dfaf8816f42e29
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 68ba53cfd4151d2254e4fc120c37242b74d14423
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65725585"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66354135"
 ---
-# <a name="find-what-you-need-with-microsoft-search-in-bing"></a>Finden Sie in Bing, was Sie mit Microsoft Search benötigen.
+# <a name="find-what-you-need-with-microsoft-search-in-bing"></a>Finden Sie das, was Sie mit Microsoft Search in Bing benötigen
 
 Suchen Sie im Web und in Ihrer Organisation, in jedem Browser und auf jedem Gerät. Sie müssen keine speziellen Begriffe oder Befehle lernen. fragen Sie einfach auf natürliche Weise. Bing versteht gängige Wörter und versucht zu verstehen, was Sie wirklich finden möchten. Hier finden Sie weitere Möglichkeiten:
 
@@ -28,6 +27,6 @@ Suchen Sie im Web und in Ihrer Organisation, in jedem Browser und auf jedem Ger�
 - **Unterhaltungen suchen:** Suchen Sie nach "Unterhaltungen zu < Thema >", um schnell die besten Ergebnisse für Microsoft Teams und Yammer Unterhaltungen zu finden. Sie sehen nicht nur öffentliche Unterhaltungen, sondern auch die letzten Unterhaltungen, an denen Sie teilgenommen haben.
 - **Suchen Microsoft 365-Gruppen:** Suchen Sie eine Gruppe, indem Sie nach ihrem Namen, ihrer E-Mail-Adresse oder ihrem E-Mail-Alias suchen. Die Ergebnisse enthalten den Besitzer, mitglieder und Kontaktinformationen.
 - **Abrufen von Vorschlägen für die Arbeitssuche:** Beginnen Sie einfach mit der Eingabe eines Namens, orts oder einer Sache. Im Suchfeld oder in der Adressleiste werden relevante Vorschläge angezeigt.
-- **Zuletzt verwendete Dokumente suchen:** Suchen Sie nach "meine Dateien" oder "Meine Dokumente", um die neuesten Excel, Word, PowerPoint, OneNote und PDF-Dateien zu finden, an denen Sie gearbeitet haben oder die für Sie freigegeben wurden.
+- **Zuletzt verwendete Dokumente suchen:** Suchen Sie nach "meine Dateien" oder "meine Dokumente", um die neuesten Excel-, Word-, PowerPoint-, OneNote- und PDF-Dateien zu finden, an denen Sie gearbeitet haben oder die für Sie freigegeben wurden.
 
-Weitere Informationen finden [Sie in Microsoft Search in Bing](https://go.microsoft.com/fwlink/?linkid=2149027).
+Weitere Informationen finden [Sie unter Finden, was Sie mit Microsoft Search in Bing benötigen](https://go.microsoft.com/fwlink/?linkid=2149027).

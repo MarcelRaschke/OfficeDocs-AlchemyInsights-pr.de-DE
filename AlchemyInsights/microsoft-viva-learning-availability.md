@@ -8,16 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8339"
-ms.openlocfilehash: 87ac44ee428fcba45c88c1af379548691b8ef3f4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: abc73fa041f4e11fda978367b657848c7f3542b7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63088426"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66286786"
 ---
 # <a name="microsoft-viva-learning-availability"></a>Microsoft Viva Learning-Verfügbarkeit
 

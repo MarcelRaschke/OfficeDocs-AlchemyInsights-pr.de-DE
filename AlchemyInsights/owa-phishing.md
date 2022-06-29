@@ -3,20 +3,20 @@ title: Umgang mit Phishing in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
 - "9000289"
-ms.openlocfilehash: 44294c68aaf1fbf7a21c52c427d492813628e453
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 04/21/2020
+ms.openlocfilehash: 3247cc4163cdec26ee34d696cff163fc3eda8db0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65718766"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66265888"
 ---
 # <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Umgang mit einer Phishing-E-Mail in Outlook im Web
 

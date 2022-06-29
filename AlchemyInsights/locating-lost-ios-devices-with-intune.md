@@ -3,22 +3,21 @@ title: Auffinden verlorener iOS-Geräte mit Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1283"
 - "6700008"
-ms.openlocfilehash: 4f29ebef4ad7d8c4f93b06a9f415da17dbdf8c81
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1283"
+ms.date: 07/27/2020
+ms.openlocfilehash: 4df62bcd6879739c2205149430f50673f59b4080
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723774"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66287218"
 ---
 # <a name="locating-lost-ios-devices-with-intune"></a>Auffinden verlorener iOS-Geräte mit Intune
 

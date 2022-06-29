@@ -3,23 +3,22 @@ title: Anfordern von Support für Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002319"
-- "4503"
 - "9002471"
 - "4818"
-ms.openlocfilehash: 30c340d535378791ce1cc3b2a21e0fed20f59cca
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "4503"
+ms.openlocfilehash: 125eb86006a18fb62d5e5c467bdf4b7459caf292
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63203468"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66354063"
 ---
 # <a name="get-support-with-microsoft-365"></a>Anfordern von Support für Microsoft 365
 

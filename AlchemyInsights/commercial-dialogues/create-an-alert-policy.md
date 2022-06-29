@@ -3,29 +3,28 @@ title: Erstellen einer Warnungsrichtlinie
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 02/17/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 5e8b242587beacadc1bd22c43fe89d9b862378aa
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.date: 02/17/2021
+ms.openlocfilehash: b0559774ded4564c0348fe0189e95a2140b127d9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65591778"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66342777"
 ---
 # <a name="create-an-alert-policy"></a>Erstellen einer Warnungsrichtlinie
 
 1. Wechseln Sie im Microsoft Purview-Complianceportal unter <https://security.microsoft.com>zu **Richtlinienwarnungsrichtlinien**  \> im Abschnitt **"Warnung**".
 
 1. Wechseln Sie zum [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Wählen Sie [AlertsAlert-Richtlinien](https://go.microsoft.com/fwlink/?linkid=2103208) >  aus.
+1. Wählen Sie **Warnungswarnungsrichtlinien** >  aus.[](https://go.microsoft.com/fwlink/?linkid=2103208)
 1. Wählen Sie **+Neue Benachrichtigungsrichtlinie** aus. Ein Flyout wird angezeigt.
 1. Legen Sie die Felder **"Name"**, **"Beschreibung**", **"Schweregrad**" und " **Kategorie** " entsprechend Ihren Anforderungen fest. Wählen Sie **Weiter** aus.
 1. Wählen Sie im Dropdownmenü **"Aktivität ist** " eine Aktivität aus.

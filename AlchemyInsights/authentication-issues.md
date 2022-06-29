@@ -3,22 +3,21 @@ title: Authentifizierungsprobleme
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7748"
 - "9004339"
-ms.openlocfilehash: 33280a944670d33a39b730d00d45e7a708bc2c4a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7748"
+ms.date: 01/25/2021
+ms.openlocfilehash: c0645cc91388a91db650a4f511ca64aa78497eb8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63094546"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66275032"
 ---
 # <a name="authentication-issues"></a>Authentifizierungsprobleme
 

@@ -3,22 +3,21 @@ title: So kaufen Sie eine Kopie von Windows 10
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/28/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9571"
 - "9005543"
-ms.openlocfilehash: 2e08f4ac0dad546d4218466a40430cba134f593e
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9571"
+ms.date: 05/28/2021
+ms.openlocfilehash: 8e27bb5e92d78763208d41aa6cf2fc64f3f95702
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733800"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66274564"
 ---
 # <a name="how-to-buy-a-copy-of-windows-10"></a>So kaufen Sie eine Kopie von Windows 10
 

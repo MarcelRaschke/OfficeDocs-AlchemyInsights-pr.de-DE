@@ -3,22 +3,21 @@ title: Umgehen der Aktivierungssperre für überwachte iOS-Geräte mit Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/23/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1277"
 - "6700008"
-ms.openlocfilehash: 18c85db8b8fd6179bfb39d0458a5e79a29713ac1
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1277"
+ms.date: 07/23/2020
+ms.openlocfilehash: 965cf27b2c3bb2d91649881469448e4ccedaeaec
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65735060"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66274420"
 ---
 # <a name="bypass-activation-lock-on-supervised-ios-devices-with-intune"></a>Umgehen der Aktivierungssperre für überwachte iOS-Geräte mit Intune
 

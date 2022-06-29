@@ -3,21 +3,20 @@ title: Weitere Informationen zu Microsoft Endpoint Manager
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001494"
 - "4387"
-ms.openlocfilehash: 4067faf6b89c833fd7a6eb03f0d1279cb1cd05d4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: dd414cb90b26113ec2761be105fba5dec4df98e2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63191840"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66287362"
 ---
 # <a name="learn-more-about-microsoft-endpoint-manager"></a>Weitere Informationen zu Microsoft Endpoint Manager
 

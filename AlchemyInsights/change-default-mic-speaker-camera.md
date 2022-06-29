@@ -3,22 +3,21 @@ title: Ändern des Standardmikrofons, -lautsprechers oder der Standardkamera
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/26/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "5616"
 - "9002537"
-ms.openlocfilehash: 628e8f0fb37eeda46945604c7d7d296e6e28d65d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "5616"
+ms.date: 04/26/2021
+ms.openlocfilehash: 60f67687844f59f2e479c93cc08fca9b413495a6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63207644"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66273700"
 ---
 # <a name="change-your-default-mic-speaker-or-camera"></a>Ändern des Standardmikrofons, -lautsprechers oder der Standardkamera
 

@@ -3,24 +3,23 @@ title: Suchen der Seite, auf der meine Kontakte angezeigt werden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: 1a7d63a8c829c62b02cec53f54120d0894abd472
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 0e00ece32fbb63859f4665788b9d9e52dacb0fb6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63238263"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66354243"
 ---
 # <a name="find-the-page-that-shows-my-contacts"></a>Suchen der Seite, auf der meine Kontakte angezeigt werden
 
 Sie können auf die gleiche Weise nach Ihren Kontakten suchen wie nach Ihren E-Mails.
  
-Tippen Sie auf das Vergrößerungsglas-Suchsymbol, und geben Sie dann Ihre Kontaktsuchanfrage in das Feld oben auf dem Bildschirm ein. (**Tippen** Sie doppelt auf das Vergrößerungsglas, um den Fokus auf das Suchfeld zu setzen.) Ihre Ergebnisse werden im Abschnitt "Kontakte" angezeigt.
+Tippen Sie auf das Lupen-Suchsymbol, und geben Sie dann Ihre Kontaktsuchanfrage in das Feld am oberen Bildschirmrand ein. (**Info**: Sie können auf die Lupe doppeltippen, um den Fokus auf das Suchfeld zu setzen.) Ihre Ergebnisse werden im Abschnitt "Kontakte" angezeigt.

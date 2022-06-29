@@ -3,21 +3,21 @@ title: Abrechnung des Kaufs reservierter Instanzen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom:
-- "6814"
 - "9003552"
-ms.openlocfilehash: 37f1a6137190af384a3b2ec88fa4394e06620c32
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "6814"
+ms.openlocfilehash: 6503d94f82e3d4006b67a6922482faa65a5bdefb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65729620"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66274911"
 ---
 # <a name="billing-for-reserved-instance-purchase"></a>Abrechnung des Kaufs reservierter Instanzen
 
@@ -29,7 +29,7 @@ Der Kauf reservierter Instanzen wird über die Zahlungsmethode abgerechnet, die 
 **Reservierung stornieren**
 
 - **Self-Service:** Sie können eine reservierte Instanz mithilfe von [Azure Portal-](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)selbst stornieren oder austauschen. Wählen Sie die Reservierung aus, und klicken Sie auf zurückerstatten oder austauschen. Bitte beachten Sie, dass Sie auf dem Reservierungsauftrag Inhaberzugriff haben müssen, um austauschen oder zurückerstatten zu können. Wenn Sie nur auf die Reservierung zugreifen, können Sie die Rückerstattung oder den Umtausch nicht fortsetzen. Bitten Sie den Besitzer des Reservierungsauftrags, Ihnen Inhaberzugriff auf den Reservierungsauftrag zu erteilen.
-- **Exchange-Richtlinie:** Sie können eine Reservierung für eine andere Reservierung desselben Typs tauschen – es gibt **kein Bußgeld** bei Reservierungsaustausch. Die Gesamtzusage bei neuer Reservierung sollte größer sein als die Summe des Erstattungsbetrags der umgetauschten Reservierung und der zukünftigen monatlichen Zahlungen (falls zutreffend)
+- **Exchange-Richtlinie:** Sie können eine Reservierung für eine andere Reservierung desselben Typs tauschen – es gibt **kein Bußgeld** bei Reservierungsaustausch. Die Gesamtverpflichtung bei einer neuen Reservierung sollte größer sein als die Summe aus dem Erstattungsbetrag der umgetauschten Reservierung und den zukünftigen monatlichen Zahlungen (falls zutreffend).
 - **Erstattungsrichtlinie:** Summe der Erstattung und der annullierten künftigen Zahlungen dürfen in einem laufenden 12-monatigen Fenster $50.000 USD nicht überschreiten. Wir **berechnen aktuell kein Bußgeld** für Erstattungen, aber könnten sie für zukünftige Erstattungen berechnen.
 
 **Ausnahmen:** Self-Service-Umtausch- und Stornierungsmöglichkeit sind für Kunden in US-Behörden nicht verfügbar
@@ -37,7 +37,7 @@ Der Kauf reservierter Instanzen wird über die Zahlungsmethode abgerechnet, die 
 - **API / PS / CLI** Support steht nicht für Stornierung und Rückerstattungen zur Verfügung [Self-Service-Umtausche und Erstattungen für Azure-Reservierungen](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Self-Service Exchange- und Stornierungsmöglichkeit sind für Kunden von US Government Enterprise Agreement nicht verfügbar. Weitere US Government-Abonnementtypen einschließlich Nutzungsbasierte Zahlung und CSP werden unterstützt
 
-Weitere Informationen : [Verarbeitung von Rückgabe- und Umtauschtransaktionen](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) Weitere Informationen : [Exchange und Rückerstattungsrichtlinien](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) Weitere Fragen: [Besuchen Sie reservierte Instanzdokumente](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Weitere Informationen : [Wie Rückgabe- und Austauschtransaktionen verarbeitet werden](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) Weitere Informationen : [Exchange- und Rückerstattungsrichtlinien](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) Weitere Fragen: [Besuchen Sie reservierte Instanzdokumente](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Tauschen einer vorhandenen reservierten Instanz (Self-Service)**
 
@@ -54,7 +54,7 @@ Wenn Sie eine Reservierung zurückerstatten möchten, wechseln Sie zu **Reservie
 
 **Anteilige Rückerstattung:**
 
-**beispiel für Pro- und Mindestanforderungsbeispiele für Rückerstattung und Austausch** einer Vorabreservierung:
+**Beispiele für Pro-ration und Mindestanforderung für Rückerstattung und Umtausch** Beispiel für eine Vorabreservierung:
 
 - Sie kaufen einen RI-Jahreszeitraum für $120 am 1. Januar.
 - Am 7. April möchten Sie diese Reservierung zurückerstatten oder austauschen.
@@ -68,7 +68,7 @@ Wenn Sie eine Reservierung zurückerstatten möchten, wechseln Sie zu **Reservie
 - Am 7. April möchten Sie diese Reservierung zurückerstatten oder austauschen.
 - Seit der letzten Zahlung sind 7 Tage vergangen, Sie erhalten (1-7/31) * $10 zurück. (D. h. $7,74)
 - Die zukünftig stornierten Zahlungen sind $80. Derzeit gibt es kein Bußgeld für Erstattungen
-- Diese Stornierung zieht 87,74 $ davon ab, dass Sie das Rückerstattungslimit von 50.000 $ haben.
+- Durch diese Stornierung werden 87,74 $ von Ihrem Erstattungslimit von 50.000 $ abgezogen
 - Bei einem Umtausch sollte Ihr neuer Kauf größer als $87,74 sein
 
 **Die Rechnung für den letzten Abrechnungszeitraum kann nicht angezeigt werden.**
@@ -110,6 +110,6 @@ Weitere Fragen: [reservierte Instanzdokumente besuchen](https://docs.microsoft.c
 - [Herunterladen oder Anzeigen Ihrer Azure-Abrechnungsrechnung und der täglichen Nutzungsdaten](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Verstehen, wie der Rabatt für reservierte Instanzen angewendet wird](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Grundlegendes zur Nutzung reservierter Instanzen für Ihr Pay-As-You-Go-Abonnement](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Grundlegendes zur Verwendung reservierter Instanzen für Ihre Enterprise Registrierung](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Windows Softwarekosten, die nicht in reservierten Instanzen enthalten sind](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Grundlegendes zur Nutzung reservierter Instanzen für Ihre Unternehmensregistrierung](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Windows-Softwarekosten, die nicht in reservierten Instanzen enthalten sind](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Reservierte Instanzen im Partner Central Cloud Solution Provider (CSP)-Programm](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)

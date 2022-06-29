@@ -3,22 +3,21 @@ title: Werden Dateien unerwartet blockiert?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/08/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9355"
 - "3200002"
-ms.openlocfilehash: 3482d5bd3046fbc8034b4345a3653f551715a392
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9355"
+ms.date: 03/08/2021
+ms.openlocfilehash: 623123de72aefd5ea3f5aae44ef7259daf931bd7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63299195"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66354387"
 ---
 # <a name="files-are-being-blocked-unexpectedly"></a>Werden Dateien unerwartet blockiert?
 

@@ -3,22 +3,21 @@ title: Einrichten, Konfigurieren und Bereitstellen von Intune for Education
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/29/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1701"
 - "9000165"
-ms.openlocfilehash: 820c71865493c753866e1c78d9245308dbd789f6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1701"
+ms.date: 07/29/2020
+ms.openlocfilehash: a7515ce6012c995fe9f9a7964288f26d815b6fc4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63091018"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66296884"
 ---
 # <a name="how-to-set-up-configure-and-deploy-intune-for-education"></a>Einrichten, Konfigurieren und Bereitstellen von Intune for Education
 

@@ -3,21 +3,20 @@ title: Microsoft 365-Drosselungsrichtlinien
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002322"
 - "4506"
-ms.openlocfilehash: dc01e5a00a8010321cb131681416754d08e42648
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 40ab76fbf4588e03cd6d2b13b57dd70433f9360e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63088750"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66309384"
 ---
 # <a name="microsoft-365-throttle-policies"></a>Microsoft 365-Drosselungsrichtlinien
 

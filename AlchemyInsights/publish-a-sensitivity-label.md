@@ -3,22 +3,21 @@ title: So wird eine Vertraulichkeitsbezeichnung veröffentlicht
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11015"
 - "9000181"
-ms.openlocfilehash: ba2ff08fee6027b5371fbc29e38f1a9724411f11
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+- "11015"
+ms.date: 04/21/2021
+ms.openlocfilehash: da3894ab316397ac57d4e54cfe379e476c5e6fa6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65588115"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66265492"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>So wird eine Vertraulichkeitsbezeichnung veröffentlicht
 

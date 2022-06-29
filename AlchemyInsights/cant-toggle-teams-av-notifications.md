@@ -3,22 +3,21 @@ title: Teams-Sound- und visuelle Benachrichtigungen können nicht aktiviert oder
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003573"
 - "6652"
-ms.openlocfilehash: 4670f6772b1cd7ae970678e2bf79566916282d62
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 08/20/2020
+ms.openlocfilehash: 438b301f2db176383f53890b458dfa0657ed6ed1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65720537"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66274168"
 ---
 # <a name="cant-turn-teams-sound-and-visual-notifications-on-or-off"></a>Teams-Sound- und visuelle Benachrichtigungen können nicht aktiviert oder deaktiviert werden.
 

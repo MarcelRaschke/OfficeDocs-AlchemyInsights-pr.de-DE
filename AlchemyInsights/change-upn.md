@@ -3,21 +3,19 @@ title: UPN ändern
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: ''
-ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 5c0d0af8a222ac53a93153b75d86337180ea3261
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.date: 04/21/2020
+ms.openlocfilehash: 2d1ef969213fc3be3c5107c1ec35e9528a0a39d7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66010517"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66343029"
 ---
 # <a name="change-a-users-email-address"></a>Ändern der E-Mail-Adresse eines Benutzers
 

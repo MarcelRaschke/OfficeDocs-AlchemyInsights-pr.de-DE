@@ -3,22 +3,21 @@ title: Anhalten geplanter Updates
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/30/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1129"
 - "6700007"
-ms.openlocfilehash: e9b3ebe2eea1858a98f5c1393b8ac45dc4600e14
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1129"
+ms.date: 07/30/2020
+ms.openlocfilehash: 340469e6fe2853125116d43cce71e3b8efc4bc06
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63158323"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66265672"
 ---
 # <a name="pausing-scheduled-updates"></a>Anhalten geplanter Updates
 

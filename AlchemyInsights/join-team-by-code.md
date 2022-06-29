@@ -3,22 +3,21 @@ title: Beitreten zu einem Team per Code
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/09/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8245"
 - "9000701"
-ms.openlocfilehash: 80ef195d66f3bb75c9a00c5f994e0c46760a651a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8245"
+ms.date: 02/09/2021
+ms.openlocfilehash: 4cd45c437b616cf66b9767b31e7415442d03bd5b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63202352"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66287506"
 ---
 # <a name="join-a-team-by-code"></a>Beitreten zu einem Team per Code
 

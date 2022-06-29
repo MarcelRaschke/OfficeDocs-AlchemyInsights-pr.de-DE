@@ -3,21 +3,20 @@ title: Erstellen einer Kommunikationscompliancerichtlinie
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 8be988320ab491161e216bd9a92fb8c17b71a8e8
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: d269cb89bc443dd4bafd56f3121a69b6bd951de8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65591256"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66342813"
 ---
 # <a name="create-a-communication-compliance-policy"></a>Erstellen einer Kommunikationscompliancerichtlinie
 

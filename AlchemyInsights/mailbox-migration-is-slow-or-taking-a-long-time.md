@@ -3,22 +3,21 @@ title: Postfachmigration ist langsam oder dauert lange
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/17/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6051"
 - "3500008"
-ms.openlocfilehash: 0c69f334b29c781f084201c34f7d6499df798d2a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6051"
+ms.date: 07/17/2020
+ms.openlocfilehash: bdd705533979032f8b3cfad7f7cdd71c3472fb46
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63170779"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66287146"
 ---
 # <a name="mailbox-migration-is-slow-or-taking-a-long-time"></a>Postfachmigration ist langsam oder dauert lange
 
