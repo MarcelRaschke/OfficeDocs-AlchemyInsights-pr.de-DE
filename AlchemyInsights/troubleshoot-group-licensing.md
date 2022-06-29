@@ -3,22 +3,21 @@ title: Behandeln von Problemen bei der Gruppenlizenzierung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/06/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6155"
 - "9003241"
-ms.openlocfilehash: 0a8d57cc7766e5013930b41b53edcedd7000620e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6155"
+ms.date: 08/06/2020
+ms.openlocfilehash: ba749d655037f194f817003ac677de16bcb82392
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63083026"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66290026"
 ---
 # <a name="troubleshoot-group-licensing"></a>Behandeln von Problemen bei der Gruppenlizenzierung
 

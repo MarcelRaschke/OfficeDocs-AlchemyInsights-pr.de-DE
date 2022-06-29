@@ -3,21 +3,20 @@ title: Teams Admin Center
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: b6339e6bda271f7d79b6a093ec4c8ef83dc53d9b
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 6dcfcd1b3d496759bef9b55c93346fcd453b9c89
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66005116"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66334281"
 ---
 # <a name="teams-admin-center"></a>Teams Admin Center
 

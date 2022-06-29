@@ -3,22 +3,21 @@ title: Fehler „403 Forbidden“ auf OneDrive oder SharePoint
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/30/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12575"
 - "9007066"
-ms.openlocfilehash: 3bb882f338843cc52e3a36a51165b085fe8b909e
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "12575"
+ms.date: 07/30/2021
+ms.openlocfilehash: 8b601dcc2135fe4e6ae868a70e4855fcb0698950
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65720717"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66289702"
 ---
 # <a name="403-forbidden-error-on-onedrive-or-sharepoint"></a>Fehler „403 Forbidden“ auf OneDrive oder SharePoint
 

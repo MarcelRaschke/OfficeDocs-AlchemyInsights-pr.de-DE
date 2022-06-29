@@ -3,22 +3,21 @@ title: App-Richtlinien in Microsoft Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/18/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "13652"
 - "9000734"
-ms.openlocfilehash: 816f778dc4eabee60835aa5d2dc521e552a0b24b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "13652"
+ms.date: 08/18/2021
+ms.openlocfilehash: fbded5038396dba9cbbf4154f004489209e6ea0c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63308489"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66289558"
 ---
 # <a name="app-policies-in-microsoft-teams"></a>App-Richtlinien in Microsoft Teams
 

@@ -3,22 +3,21 @@ title: Konfigurieren von „Angemeldet bleiben“ für Konten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/27/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11467"
 - "9006706"
-ms.openlocfilehash: 39cf596c062e05a1698646a116271b23a978ded2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11467"
+ms.date: 05/27/2021
+ms.openlocfilehash: 7e7402ca71b9f8c2eb85d5295eb52cbdf356a6ff
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63194000"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66299332"
 ---
 # <a name="configure-stay-signed-in-for-accounts"></a>Konfigurieren von „Angemeldet bleiben“ für Konten
 

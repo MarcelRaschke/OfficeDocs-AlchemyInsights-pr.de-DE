@@ -3,20 +3,20 @@ title: Synchronisieren von Benutzern aus Ihrem Windows Server Active Directory
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/22/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
-- "12305"
 - "9007383"
-ms.openlocfilehash: 23a2cdd156515121918db460ca9d53269e197dc5
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "12305"
+ms.date: 07/22/2021
+ms.openlocfilehash: 5bb30e468bc1da6f1083b9d78b285defb515a439
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65731134"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66334569"
 ---
 # <a name="sync-users-from-your-windows-server-active-directory"></a>Synchronisieren von Benutzern aus Ihrem Windows Server Active Directory
 

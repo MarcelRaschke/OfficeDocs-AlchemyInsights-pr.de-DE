@@ -3,21 +3,19 @@ title: Erstellen eines Flusses
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: ''
-ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: 645396b63df8ea4a0a539079d8995b74cbbbed36
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 6e9d8e4f41f5d03a9d6cd27ccbf3e23ca0ee8ea0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63205520"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66355863"
 ---
 # <a name="microsoft-flow"></a>Microsoft Flow
 
@@ -25,6 +23,6 @@ Microsoft Flow hilft Ihnen, allgemeine Aufgaben zu automatisieren. Verwenden Sie
   
 [Videos zu Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[Microsoft Flow Website](https://go.microsoft.com/fwlink/?linkid=864642)
+[Microsoft Flow-Website](https://go.microsoft.com/fwlink/?linkid=864642)
   
 

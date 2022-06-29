@@ -1,33 +1,32 @@
 ---
-title: AllowSelfServicePurchase-Richtlinie kann nicht festgelegt oder angezeigt werden
+title: Die AllowSelfServicePurchase-Richtlinie kann nicht festgelegt oder angezeigt werden.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 935f3200bcabbceb58cd39d04dca6fd12d461006
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f0ea23156ee34636de83b55e09e36eace843ef25
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63229569"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66344685"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>AllowSelfServicePurchase-Richtlinie kann nicht festgelegt oder angezeigt werden
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Die AllowSelfServicePurchase-Richtlinie kann nicht festgelegt oder angezeigt werden.
 
 Beim Versuch, die AllowSelfServicePurchase-Richtlinie festzulegen oder anzuzeigen, wird die folgende Fehlermeldung angezeigt:
 
-*HandleError: Fehler beim Abrufen der Produktrichtlinie mit "AllowSelfServicePurchase", ErrorMessage : Die zugrunde liegende Verbindung wurde geschlossen: Beim Senden ist ein unerwarteter Fehler aufgetreten.*
+*HandleError: Fehler beim Abrufen der Produktrichtlinie mit der PolicyId "AllowSelfServicePurchase", ErrorMessage - Die zugrunde liegende Verbindung wurde geschlossen: Unerwarteter Fehler beim Senden.*
 
-Dies kann auf eine ältere Version von Transport Layer Security (TLS) zurückzuführen sein. Um den MSTeroperabilität-Dienst zu verbinden, müssen Sie TLS 1.2 oder höher verwenden.  
+Dies kann auf eine ältere Version von Transport Layer Security (TLS) zurückzuführen sein. Um den MSCommerce-Dienst zu verbinden, müssen Sie TLS 1.2 oder höher verwenden.  
 
-Führen Sie die folgenden Schritte aus, um das TLS-Protokoll auf 1.2 zu aktivieren/festzulegen, es zu überprüfen und erneut zu versuchen.
+Führen Sie die folgenden Schritte aus, um das TLS-Protokoll auf 1.2 zu aktivieren/festlegen, zu überprüfen und erneut zu versuchen.
  1. Geben Sie an der PowerShell-Eingabeaufforderung (PS C:\) Geben Sie den folgenden Befehl ein, um das TLS-Protokoll auf Version 1.2 festzulegen:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`

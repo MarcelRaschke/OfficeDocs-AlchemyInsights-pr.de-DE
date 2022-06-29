@@ -3,22 +3,21 @@ title: Benutzer erstellen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 03/11/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 7260d33d81d1cbc0a95a66b8a6d1b93cea9af431
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 03/11/2021
+ms.openlocfilehash: 02949ee44eb429c51b6862698102607ab4c6e397
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65735789"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66288622"
 ---
 # <a name="create-user"></a>Benutzer erstellen
 

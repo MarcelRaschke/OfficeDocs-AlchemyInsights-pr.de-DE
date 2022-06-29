@@ -3,21 +3,20 @@ title: Vergrößern oder Verkleinern des Speicherplatzes
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002330"
 - "4543"
-ms.openlocfilehash: ba82ece215a559c2b6af4a0b18d59363019ae43c
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 9d09c5747abb30dc46ced249418f792a3cbafcdd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722127"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66267926"
 ---
 # <a name="increase-or-decrease-storage"></a>Vergrößern oder Verkleinern des Speicherplatzes
 

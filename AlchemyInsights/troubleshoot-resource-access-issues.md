@@ -3,22 +3,21 @@ title: Behandeln von Problemen mit dem Ressourcenzugriff
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/28/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1750"
 - "9000076"
-ms.openlocfilehash: 3c183833b5bdfb010b088ffd3f4f5db927fe6665
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1750"
+ms.date: 07/28/2020
+ms.openlocfilehash: 1a9a261f1f015027851511d57f0d5157bf7e2882
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63260333"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66345045"
 ---
 # <a name="troubleshoot-resource-access-issues"></a>Behandeln von Problemen mit dem Ressourcenzugriff
 

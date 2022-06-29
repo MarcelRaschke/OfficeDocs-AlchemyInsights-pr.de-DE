@@ -1,29 +1,28 @@
 ---
-title: Kopieren von Dateien in OneDrive
+title: Kopieren von Dateien auf OneDrive
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "7542"
 - "5300013"
-ms.openlocfilehash: e5e5f006a2179d80ffdc623a83ca1764fd0a40b2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7542"
+ms.date: 04/21/2020
+ms.openlocfilehash: 208e7bbaaa902563eeec158fe0eb3e75082adf0d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63267461"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66356309"
 ---
-# <a name="copy-files-to-onedrive"></a>Kopieren von Dateien in OneDrive
+# <a name="copy-files-to-onedrive"></a>Kopieren von Dateien auf OneDrive
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSH?autoplay=false]
 
-Sie können Dateien aus dem Webbrowser an verschiedene Speicherorte innerhalb OneDrive kopieren.
+Sie können Dateien aus dem Webbrowser an verschiedene Speicherorte in OneDrive kopieren.
 
-Weitere Informationen finden Sie unter [Verschieben oder Kopieren](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc).
+Weitere Informationen finden Sie unter [Verschieben oder Kopieren](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)

@@ -3,22 +3,21 @@ title: Hinzufügen oder Verwalten von PSTN-Minuten für Skype oder Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: f7d27246248fd87e2903fafb75fc59706537c364
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 36b6d70cc8e29cc11bc643440f392eefa613798d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63155839"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66277786"
 ---
 # <a name="add-or-manage-pstn-minutes-for-skype-or-teams"></a>Hinzufügen oder Verwalten von PSTN-Minuten für Skype oder Teams
 
-Wenn Sie eine Warnung erhalten haben, dass Ihre Skype oder Teams Minuten fast verwendet werden, überprüfen Sie, wie Sie [Guthaben hinzufügen und Kommunikationsguthaben für Ihren Mandanten verwalten](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits).
+Wenn Sie eine Warnmeldung erhalten haben, dass Ihre Skype- oder Teams-Minuten fast verwendet werden, überprüfen Sie bitte, wie Sie [Guthaben hinzufügen und Kommunikationsguthaben für Ihren Mandanten verwalten](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits).

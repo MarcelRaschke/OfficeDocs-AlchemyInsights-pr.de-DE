@@ -3,22 +3,21 @@ title: Hinzufügen von Microsoft Edge zu Microsoft Intune
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/10/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8240"
 - "9004604"
-ms.openlocfilehash: d38bfdcd14098536eb17bc8434e6c69ab945386e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8240"
+ms.date: 02/10/2021
+ms.openlocfilehash: e6d4187f256458dda002f10ac5af6edb0645c0a7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63251801"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66277894"
 ---
 # <a name="add-microsoft-edge-to-microsoft-intune"></a>Hinzufügen von Microsoft Edge zu Microsoft Intune
 

@@ -3,22 +3,21 @@ title: Vergrößern des OneDrive-Speichers
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000354"
 - "6214"
-ms.openlocfilehash: 180a0e73e6280ce81f526c1ab1f23ffe5561a725
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 08/20/2020
+ms.openlocfilehash: 0bcd90615c351114fd616899e68ac45add19b2d3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65734412"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66268048"
 ---
 # <a name="increase-onedrive-storage"></a>Vergrößern des OneDrive-Speichers
 

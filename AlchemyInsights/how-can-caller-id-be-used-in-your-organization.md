@@ -3,21 +3,20 @@ title: Einsatzmöglichkeiten der Anrufer-ID in Ihrer Organisation
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002506"
 - "4859"
-ms.openlocfilehash: b0bc6f2b16eb15b4937e440c65c85b5db7283b45
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 74176fbea3c755be82775927d885f89778cddc32
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63128477"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66268444"
 ---
 # <a name="how-can-caller-id-be-used-in-your-organization"></a>Einsatzmöglichkeiten der Anrufer-ID in Ihrer Organisation
 

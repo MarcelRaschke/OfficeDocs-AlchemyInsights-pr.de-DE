@@ -3,19 +3,18 @@ title: Erstellen von Apps in PowerApps
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
-ms.openlocfilehash: 663207f732181e69c6f890d627d26158cf41e23b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 87416383d04adc21be227714d6028902d45ab8a6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63131573"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66288715"
 ---
 # <a name="create-apps-with-powerapps"></a>Erstellen von Apps mit PowerApps
 

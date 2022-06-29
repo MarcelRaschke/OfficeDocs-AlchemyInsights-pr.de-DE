@@ -3,21 +3,20 @@ title: Informationen zum Abrechnungsbetrag
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 81712cdaf828a51eaa0e05bba5fd8d744b1b79a3
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 9c775303fac50229683ac9bc0ba8cb7da59322c9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721581"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66344469"
 ---
 # <a name="understand-billing-amount"></a>Informationen zum Abrechnungsbetrag
 

@@ -3,21 +3,20 @@ title: Hilfe zu Add-Ins
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000776"
 - "2717"
-ms.openlocfilehash: 61f3ae61dd69c1bc8da0f57e7d501ccc5d00d2c1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 1c7096fe89f660c1ea20dad8ec42f63159b8f2a5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63156055"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66277915"
 ---
 # <a name="add-in-help"></a>Hilfe zu Add-Ins
 

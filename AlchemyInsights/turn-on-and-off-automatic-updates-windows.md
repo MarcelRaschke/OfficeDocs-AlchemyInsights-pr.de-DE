@@ -3,21 +3,20 @@ title: Aktivieren und Deaktivieren von automatischen Updates in Windows
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9005716"
 - "9932"
-ms.openlocfilehash: a79742835164fdbadaa2f7d0e084513e92df00e6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c443d11e20e432a34a12e8e959e6a776005ba00b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63289961"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66289846"
 ---
 # <a name="turn-on-and-off-automatic-updates-in-windows"></a>Aktivieren und Deaktivieren von automatischen Updates in Windows
 

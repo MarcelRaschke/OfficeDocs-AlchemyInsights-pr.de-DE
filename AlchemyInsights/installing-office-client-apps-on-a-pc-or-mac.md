@@ -3,21 +3,20 @@ title: Installieren von Office-Client-Apps auf einem PC oder Mac
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: a77820cb02aad794f2503f93525976a397eae862
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 60155725246800a3b565a5a0a5f87ed6267f6503
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65729152"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66267688"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Installieren von Office-Client-Apps auf einem PC oder Mac
 

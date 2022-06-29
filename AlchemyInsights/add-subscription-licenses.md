@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "17508"
 - "1500007"
+- "17508"
 ms.date: 06/06/2022
-ms.openlocfilehash: cc82a5808fc3bb945dad7d9e7c5ea694ae761011
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 3e372d455dbd1fc84e23dc8c398d310f5fc8af69
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "65999820"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66277136"
 ---
 # <a name="add-licenses-to-your-subscription"></a>Hinzufügen von Lizenzen zu Ihrem Abonnement
 
@@ -28,4 +28,4 @@ ms.locfileid: "65999820"
 
 **Hinweis**: In der Mitte des Abrechnungszeitraums hinzugefügte Lizenzen können bis zu 7 Tage nach dem Kauf reduziert werden.
 
-Informationen zum Zuweisen von Lizenzen finden [Sie unter Zuweisen Microsoft 365 Lizenzen zu Benutzern](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+Informationen zum Zuweisen von Lizenzen finden Sie unter Zuweisen von [Microsoft 365-Lizenzen zu Benutzern](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).

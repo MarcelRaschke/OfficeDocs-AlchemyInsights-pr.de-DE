@@ -3,21 +3,20 @@ title: Steuern des Synchronisierungsdurchsatzes
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5839"
-ms.openlocfilehash: c335c3612ae84030117e8e810bc53088f1ed9ac1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 74fb7db5455fffd2ab92db9bd9db20cac4b65970
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63240065"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66288777"
 ---
 # <a name="control-sync-throughput"></a>Steuern des Synchronisierungsdurchsatzes
 

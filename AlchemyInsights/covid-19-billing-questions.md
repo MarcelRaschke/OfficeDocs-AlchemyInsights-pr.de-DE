@@ -3,25 +3,24 @@ title: COVID-19 – Abrechnungs- und Lizenzfragen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "1500005"
-- "5110"
 - "1500018"
-- "5113"
 - "9002647"
 - "5091"
-ms.openlocfilehash: fd70d18b933939b68bc53a028c4e30830d3caf3f
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "5110"
+- "5113"
+ms.openlocfilehash: a0e66125336ecffdf698ec7b913cd95fb282d640
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65726344"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66288694"
 ---
 # <a name="covid-19-billing-and-license-questions"></a>COVID-19 – Abrechnungs- und Lizenzfragen
 

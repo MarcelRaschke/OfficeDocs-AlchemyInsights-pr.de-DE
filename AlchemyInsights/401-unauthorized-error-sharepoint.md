@@ -3,22 +3,21 @@ title: „401 Nicht autorisiert“-Fehler in SharePoint
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/14/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10935"
 - "9001435"
-ms.openlocfilehash: b29143ff6224df333104d0aa5c20469d67a9a8cc
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10935"
+ms.date: 04/14/2021
+ms.openlocfilehash: 26037b6b87aa91814d29e622e7a185e6154e8e80
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63113608"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66289774"
 ---
 # <a name="401-unauthorized-error-in-sharepoint"></a>„401 Nicht autorisiert“-Fehler in SharePoint
 

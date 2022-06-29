@@ -3,21 +3,20 @@ title: Office 365-Gruppen oder -Teams auf der Adressliste aus- oder einblenden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002947"
 - "5642"
-ms.openlocfilehash: 4bad274bfa25a074850064da533dcc05954fadb5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 9656d97901468d886120e76f8b685dc134ae3ac9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63203072"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66268516"
 ---
 # <a name="hide-or-un-hide-office-365-groups-or-teams-from-address-list"></a>Office 365-Gruppen oder -Teams auf der Adressliste aus- oder einblenden
 

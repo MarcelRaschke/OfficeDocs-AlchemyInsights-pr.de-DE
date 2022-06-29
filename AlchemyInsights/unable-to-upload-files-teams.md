@@ -3,22 +3,21 @@ title: Dateien können nicht in den Teams-Chat hochgeladen werden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/01/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10803"
 - "9003042"
-ms.openlocfilehash: 0159347e3f6f367a8073fd6bc1b355ef15026734
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10803"
+ms.date: 04/01/2021
+ms.openlocfilehash: d5a2a29aaa52365f525ab4695b5862ec4edb9f1f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63259937"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66344505"
 ---
 # <a name="unable-to-upload-files-to-teams-chat"></a>Dateien können nicht in den Teams-Chat hochgeladen werden
 

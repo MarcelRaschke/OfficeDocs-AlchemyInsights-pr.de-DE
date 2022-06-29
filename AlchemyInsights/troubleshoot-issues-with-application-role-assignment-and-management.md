@@ -3,22 +3,21 @@ title: Problembehandlung bei der Zuweisung und Verwaltung von Anwendungsrollen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7816"
 - "9004358"
-ms.openlocfilehash: 59424287921a91ee8f0169240f676cb6dfd4a4e1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7816"
+ms.date: 01/15/2021
+ms.openlocfilehash: 1f75519caf038372087e4d2b868181339c59c08b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63260405"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66289918"
 ---
 # <a name="troubleshoot-issues-with-application-role-assignment-and-management"></a>Problembehandlung bei der Zuweisung und Verwaltung von Anwendungsrollen
 

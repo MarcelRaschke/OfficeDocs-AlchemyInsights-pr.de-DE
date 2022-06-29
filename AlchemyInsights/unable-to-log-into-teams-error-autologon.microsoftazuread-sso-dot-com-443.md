@@ -3,22 +3,20 @@ title: Die Anmeldung bei Teams ist aufgrund des Fehlers „autologon.microsoftaz
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.collection: Adm_O365
 ms.custom:
 - "9001686"
 - "3750"
-ms.openlocfilehash: e2f46244fa097dad6e5989ae6137e0066d83ea39
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f25f0eba38097d77ab53c1dc9ed3ee85727edaf3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63196628"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66344829"
 ---
 # <a name="unable-to-log-into-teams-due-to-error-autologonmicrosoftazuread-sso-dot-com443"></a>Die Anmeldung bei Teams ist aufgrund des Fehlers „autologon.microsoftazuread-sso dot com:443“ nicht möglich.
 

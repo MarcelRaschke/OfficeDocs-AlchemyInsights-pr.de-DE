@@ -3,21 +3,20 @@ title: Registrieren für Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002572"
 - "5031"
-ms.openlocfilehash: 0a8219fc45ba01bac9341a4b280d9f0f15a6dec5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 6a8217df16a325249b418d1094971b9babb32140
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63281897"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66334734"
 ---
 # <a name="sign-up-for-microsoft-365"></a>Registrieren für Microsoft 365
 

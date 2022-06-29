@@ -3,22 +3,21 @@ title: Benutzername (UserName) kann nicht geändert werden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1729"
 - "9000183"
-ms.openlocfilehash: 421c95dc881f0d064b32c9ffe1eb1631c4bffcdf
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1729"
+ms.date: 07/24/2020
+ms.openlocfilehash: 4d3635d7b9b2eec51e7a31268cb1be699ea5f535
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63178123"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66344901"
 ---
 # <a name="unable-to-change-username"></a>Benutzername (UserName) kann nicht geändert werden
 

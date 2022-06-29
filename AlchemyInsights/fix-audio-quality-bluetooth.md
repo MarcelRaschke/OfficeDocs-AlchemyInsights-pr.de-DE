@@ -3,22 +3,21 @@ title: Reparieren der Audioqualität meines Bluetooth-Geräts
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/01/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11508"
 - "9005365"
-ms.openlocfilehash: 67721153a90c74df9bffd4b71fa66dceb5bfdf2b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11508"
+ms.date: 06/01/2021
+ms.openlocfilehash: 23462c1c9f94853e9219885ceb3ed54c8d8668f1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63203612"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66323895"
 ---
 # <a name="fix-the-audio-quality-of-my-bluetooth-device"></a>Reparieren der Audioqualität meines Bluetooth-Geräts
 

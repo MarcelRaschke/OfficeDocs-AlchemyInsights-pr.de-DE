@@ -3,36 +3,34 @@ title: 8000053 Gruppen-E-Mails können nicht gesendet werden
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: 8000053
-ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: 30f4448bc2171b5d26bba080d29b3b144ebaeee4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 880c0a6f8db1fe4fab37b68b15a8fd7905641ba3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63289673"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66344757"
 ---
-# <a name="unable-to-send-group-emails"></a>Gruppen-E-Mails können nicht gesendet werden
+# <a name="unable-to-send-group-emails"></a>Gruppen-E-Mails können nicht gesendet werden.
 
 Wenn Sie keine E-Mails an Kontaktlisten oder Kontaktgruppen in Outlook.com senden können, versuchen Sie Folgendes:
   
-1. Verwenden Sie Outlook.com Betaversion. Weitere Informationen [finden Sie unter Outlook.com Beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Verwenden Sie Outlook.com Betaversion. Weitere Informationen finden [Sie unter Outlook.com Betaversion](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
     
-2. Wenn Sie weiterhin Probleme beim Verfassen einer E-Mail an Ihre Gruppe haben, wechseln Sie zu ["Kontakte](https://outlook.live.com/people/)", wählen Sie die Kontaktliste oder Gruppe aus, und wählen Sie dann " **E-Mail senden**" aus.
+2. Wenn Beim Verfassen einer E-Mail an Ihre Gruppe weiterhin Probleme auftreten, wechseln Sie zu ["Personen](https://outlook.live.com/people/)", wählen Sie die Kontaktliste oder Gruppe aus, und wählen Sie dann " **E-Mail senden**" aus.
     
  **Hinweise:**
   
-1. Stellen Sie sicher, dass Popups nicht blockiert sind: Das Senden von E-Mails von der Kontaktlistenseite öffnet ein neues Fenster.
+1. Stellen Sie sicher, dass Popups nicht blockiert sind: Wenn Sie E-Mails von der Kontaktlistenseite senden, wird ein neues Fenster geöffnet.
     
-2. Beim Senden von E-Mails aus der Kontaktliste wird die Liste automatisch in der **Zeile "AN** " platziert. Wenn Sie Ihre Kontaktlistendetails ausblenden möchten, klicken Sie in der oberen rechten Ecke auf **BCC** , kopieren und fügen Sie die Kontaktliste in **BCC** ein, und löschen Sie den **TO-Eintrag** . 
+2. Wenn Sie E-Mails aus der Kontaktliste senden, wird die Liste automatisch in die Zeile **"AN"** eingefügt. Wenn Sie Ihre Kontaktlistendetails ausblenden möchten, klicken Sie in der oberen rechten Ecke auf **BCC** , kopieren Sie die Kontaktliste, fügen Sie sie in **BCC** ein, und löschen **Sie den To-Eintrag** . 
     
-3. Wenn Sie **BCC** verwenden, empfiehlt es sich, immer etwas in der **TO-Zeile zu** haben, z. B. Ihre eigene "von"-Adresse. 
+3. Wenn Sie **BCC** verwenden, ist es ratsam, immer etwas in der **An-Zeile zu** haben, z. B. Ihre eigene "von"-Adresse. 
     
 

@@ -3,21 +3,20 @@ title: Löschen einer Website
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.collection: Adm_O365
 ms.custom: ''
-ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
-ms.openlocfilehash: 7d0a365b1a3e02a8beb9b3fc216a5746918584a7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 53a796ed195786f2f749329f2f77cc818b4eaa40
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63227049"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66324291"
 ---
 # <a name="delete-a-sharepoint-site"></a>Löschen einer SharePoint-Website
 

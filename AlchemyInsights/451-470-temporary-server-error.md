@@ -3,7 +3,6 @@ title: 451 4.7.0 Temporärer Serverfehler. Versuchen Sie es später noch mal. PR
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2021
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +11,13 @@ ms.localizationpriority: medium
 ms.custom:
 - "3000003"
 - "12465"
-ms.openlocfilehash: 17784e8f5c4eda2907439b5d7dde3556454de131
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.date: 07/27/2021
+ms.openlocfilehash: 7c1e79abc5602bf403f2d7307b104f49c8740ccd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66000593"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66289666"
 ---
 # <a name="451-470-temporary-server-error-please-try-again-later-prx4"></a>451 4.7.0 Temporärer Serverfehler. Versuchen Sie es später noch mal. PRX4
 
@@ -45,7 +45,7 @@ Stellen Sie sicher, dass Sie kein freigegebenes Postfach für die SMTP-Clientüb
 2. Deaktivieren Sie die Azure Security-Standardwerte, indem **Sie "Sicherheitsstandards aktivieren"** auf **"Nein**" umschalten:
 
     1. Melden Sie sich beim Azure-Portal als Sicherheitsadministrator, Administrator für bedingten Zugriff oder globaler Administrator an.
-    1. Navigieren Sie zu Azure Active Directory \> **Eigenschaften**, und wählen Sie **"Sicherheitsstandards verwalten" aus**.
+    1. Navigieren Sie zu Azure Active **Directory-Eigenschaften**\>, und wählen Sie **"Sicherheitsstandards verwalten" aus**.
     1. Legen Sie den Umschalter " **Sicherheitsstandards aktivieren** " auf **"Nein**" fest.
     1. Wählen Sie **Speichern**.
 

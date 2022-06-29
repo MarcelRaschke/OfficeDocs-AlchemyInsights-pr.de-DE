@@ -3,24 +3,23 @@ title: Hinzufügen oder Entfernen eines E-Mail-Alias für einen Benutzer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: 12a3dda96dcd506afc0975e968f7e05f30b8954a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: e25e5734355c4ae5f555efdf367612b5db5191bf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63155803"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66277714"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>Hinzufügen oder Entfernen einer E-Mail-Adresse für einen Benutzer
 
-Sie können mehrere E-Mail-Adressen für einen Benutzer haben, aber zusätzliche  *E-Mail-Aliase*  können nur zum Empfangen von E-Mails verwendet werden. Wenn Sie E-Mails mit einem Alias senden müssen, erstellen Sie ein [freigegebenes Postfach](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox). Auf diese Weise erhalten Sie den Alias zum Senden und Empfangen von E-Mails.
+Sie können mehrere E-Mail-Adressen für einen Benutzer haben, aber zusätzliche  *E-Mail-Aliase*  können nur für den Empfang von E-Mails verwendet werden. Wenn Sie E-Mails mit einem Alias senden müssen, erstellen Sie ein [freigegebenes Postfach](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox). Auf diese Weise erhalten Sie den Alias zum Senden und Empfangen von E-Mails.
   
