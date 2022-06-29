@@ -3,22 +3,21 @@ title: Erfahren Sie mehr über Microsoft Edge und bedingten Zugriff in Azure Act
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/29/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8326"
 - "9004625"
-ms.openlocfilehash: 7dc0b75f838728f4238f7c4b0b0078776ea5f3a9
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "8326"
+ms.date: 03/29/2021
+ms.openlocfilehash: fec99a79e266db0d9a4e8b02d1e08e1f85053103
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722090"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66338313"
 ---
 # <a name="learn-about-microsoft-edge-and-conditional-access-in-azure-active-directory"></a>Erfahren Sie mehr über Microsoft Edge und bedingten Zugriff in Azure Active Directory
 

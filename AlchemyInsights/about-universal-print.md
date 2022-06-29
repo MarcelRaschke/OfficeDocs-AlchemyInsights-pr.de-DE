@@ -8,16 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9005502"
 - "9434"
-ms.openlocfilehash: 244a491725127c7a2b8e06e970bd8c5e0cc83e01
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: e1bf1a0398ee04ba64f2c0d0e1fa9ca5e122d0cd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723036"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66302950"
 ---
 # <a name="about-universal-print"></a>Informationen zum universellen Drucken
 

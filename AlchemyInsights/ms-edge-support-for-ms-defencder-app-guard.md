@@ -1,26 +1,25 @@
 ---
-title: Microsoft Edge unterstützung für Microsoft Defender Application Guard
+title: Microsoft Edge-Unterstützung für Microsoft Defender Application Guard
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/05/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: db13cc556c4589abaddd4a01a5acf504f2149d8b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 12/05/2020
+ms.openlocfilehash: aabd161e5d04e9616c83f78b36406387b26e0788
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721945"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66337557"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge unterstützung für Microsoft Defender Application Guard
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge-Unterstützung für Microsoft Defender Application Guard
 
 Microsoft Defender for Identity bietet einen zentralen Ort, an dem Administratoren lokale Identitätsbedrohungen identifizieren, erkennen und untersuchen können. 
 

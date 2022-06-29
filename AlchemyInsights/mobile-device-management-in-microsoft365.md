@@ -3,22 +3,21 @@ title: Verwaltung mobiler Geräte in Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/29/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1790"
 - "9000214"
-ms.openlocfilehash: dbe6e2792cb69f65a92b2151ff6e454010d77ce8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1790"
+ms.date: 07/29/2020
+ms.openlocfilehash: 39b433e2a087b7e1e1a689d59476074af8ff2620
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63296153"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66337426"
 ---
 # <a name="mobile-device-management-in-microsoft-365"></a>Verwaltung mobiler Geräte in Microsoft 365
 

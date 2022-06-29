@@ -3,31 +3,30 @@ title: Informationen zu Exchange Server Updates
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 03/04/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 466debf8287022acb06912e56f1a5b55147d057e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 03/04/2021
+ms.openlocfilehash: cda2cf1005e2c2a8bfe5b074c33105b3ae98354b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63279809"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66303202"
 ---
 # <a name="about-exchange-server-updates"></a>Informationen zu Exchange Server Updates
 
-Microsoft veröffentlicht in der Regel Exchange Server Updates am Update-Dienstag (Sicherheitsupdates) oder vierteljährlich (kumulative Updates). Die Ankündigungen der neuesten veröffentlichten Updates finden Sie im [Exchange Teamblog](https://aka.ms/ehlo).
+Microsoft veröffentlicht in der Regel Exchange Server Updates am Update-Dienstag (Sicherheits-Aktualisierungen) oder vierteljährlich (kumulative Aktualisierungen). Die Ankündigungen der neuesten veröffentlichten Updates finden Sie im [Exchange-Teamblog](https://aka.ms/ehlo).
 
-- Um Ihre Exchange Server zu inventarisieren, verwenden Sie das [Skript Exchange Server Integritätsprüfung (GitHub, neueste Version verwenden).](https://aka.ms/ExchangeHealthChecker) Wenn Sie dieses Skript ausführen, erfahren Sie, ob einer Ihrer Exchange Server bei Updates (CUs und SUs) zurückbraucht.
+- Verwenden Sie zum Inventarisieren Ihrer Exchange-Server das [Skript Exchange Server Integritätsprüfung (GitHub, neueste Version verwenden).](https://aka.ms/ExchangeHealthChecker) Wenn Sie dieses Skript ausführen, erfahren Sie, ob sich ein Exchange-Server bei Updates (CUs und SUs) befindet.
 
-- Um auf das neueste kumulative Update zu aktualisieren, wechseln Sie zu [Exchange Update-Assistenten](https://aka.ms/ExchangeUpdateWizard), und wählen Sie Ihr derzeit ausgeführtes CU und Ihr Ziel-CU aus. Wählen Sie **"Anweisen" aus** , um Wegbeschreibungen für Ihre Umgebung zu erhalten.
+- Um auf das neueste kumulative Update zu aktualisieren, wechseln Sie zum [Exchange Update-Assistenten](https://aka.ms/ExchangeUpdateWizard) , und wählen Sie Ihr derzeit ausgeführtes CU und Ihr Ziel-CU aus. Wählen **Sie "Sie wünschen" aus** , um Wegbeschreibungen für Ihre Umgebung abzurufen.
 
-- Wenn während oder nach der Installation von Exchange Server Updates Fehler auftreten, lesen Sie "[Reparieren fehlgeschlagener Installationen von kumulativen updates und Sicherheitsupdates für Exchange](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)".
+- Wenn während oder nach der Installation von Exchange Server Updates Fehler auftreten, lesen Sie "[Reparieren fehlgeschlagener Installationen von kumulativen und Sicherheitsupdates für Exchange](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)".

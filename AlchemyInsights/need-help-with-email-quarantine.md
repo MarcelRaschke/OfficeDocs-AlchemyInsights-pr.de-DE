@@ -3,21 +3,20 @@ title: Benötigen Sie Hilfe bei der E-Mail-Quarantäne?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: 3dd71322f3d22ab3be1b2e3f3a21400f7941b3fc
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 9282c4894ace497f530342ee0e3a13e886005926
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63273113"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66337233"
 ---
 # <a name="need-help-with-email-quarantine"></a>Benötigen Sie Hilfe bei der E-Mail-Quarantäne?
 

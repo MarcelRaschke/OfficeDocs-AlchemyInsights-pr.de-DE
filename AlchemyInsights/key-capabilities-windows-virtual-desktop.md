@@ -3,22 +3,21 @@ title: Die wichtigsten Funktionen von Windows Virtual Desktop
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/5/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "10872"
-ms.openlocfilehash: 3df8b7d598fdede2924701667c68661e97a494bf
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/5/2021
+ms.openlocfilehash: ebca385a8873effe22f154fa3f5f96674cc875c2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63306941"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66338398"
 ---
 # <a name="key-capabilities-of-windows-virtual-desktop"></a>Die wichtigsten Funktionen von Windows Virtual Desktop
 

@@ -3,21 +3,20 @@ title: A1-Lizenz für Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: a823178a94f317ecdfda592806b4d0098c73ef87
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 3fac5a13d079a71e0f6a9488d2bb1ffc19bef01f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63279881"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66303274"
 ---
 # <a name="a1-license-for-office-365"></a>A1-Lizenz für Office 365
 

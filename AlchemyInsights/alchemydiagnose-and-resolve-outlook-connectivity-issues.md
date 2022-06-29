@@ -1,29 +1,27 @@
 ---
-title: Altrigy – Diagnostizieren und Beheben Outlook Verbindungsprobleme
+title: Alchemy – Diagnostizieren und Beheben von Problemen mit der Outlook-Konnektivität
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "167"
 - "1800011"
-ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: 11708f25bbd7b43d8a96ee13ab6f8650a08722ad
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "167"
+ms.date: 04/21/2020
+ms.openlocfilehash: 33992cab0a6060c8614b0e087bf2138eab694a95
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63269657"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66302914"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Diagnostizieren und Beheben Outlook Konnektivitätsprobleme
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Diagnostizieren und Beheben von Problemen mit der Outlook-Konnektivität
 
-Um Ihre Outlook Konnektivitätsprobleme zu diagnostizieren und zu beheben, können Sie das [Outlook Verbindungstool](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) auf dem betroffenen Computer ausführen.
+Um Probleme mit der Outlook-Konnektivität zu diagnostizieren und zu beheben, können Sie das [Outlook-Konnektivitätstool](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) auf dem betroffenen Computer ausführen.
   
-Dieses Tool führt Diagnoseüberprüfungen durch und schlägt mögliche Lösungen vor, mit denen Sie das Outlook Verbindungsproblem beheben können.
+Dieses Tool führt Diagnoseüberprüfungen durch und schlägt Mögliche Lösungen für Sie vor, um das Outlook-Verbindungsproblem zu beheben.
   

@@ -3,22 +3,21 @@ title: Zusammenarbeiten in Microsoft Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/16/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6036"
 - "9003218"
-ms.openlocfilehash: 2178ab7d0b98bb3ad23b711ea08f4d6c072b2392
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6036"
+ms.date: 07/16/2020
+ms.openlocfilehash: c2f1eedeec8bed2f64a6975b970e2030a4c6abf1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63264293"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66337629"
 ---
 # <a name="microsoft-teams-together-mode"></a>Zusammenarbeiten in Microsoft Teams
 
