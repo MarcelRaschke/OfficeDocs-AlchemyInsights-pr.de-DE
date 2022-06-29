@@ -3,18 +3,17 @@ title: Übersicht über Microsoft Purview Data Loss Prevention (DLP)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: 1427d65dc7b3a3388aa91fa6b170c193b55fb1af
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 2607d0f9af97065263fa62ed5922a4b83a8a98a6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65725657"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66354760"
 ---
 # <a name="microsoft-purview-data-loss-prevention-dlp-overview"></a>Übersicht über Microsoft Purview Data Loss Prevention (DLP)
 

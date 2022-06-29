@@ -3,21 +3,20 @@ title: Aktivieren der Einbettung von alten Dialogen zum Öffnen von Berichten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002931"
 - "5612"
-ms.openlocfilehash: cffd210240f6f6698688d5a02e3b1e5284cc21c5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: bd65c0e0bd11b5f74b4a85deda359a951fd1b478
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63247985"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66298268"
 ---
 # <a name="enable-embedding-legacy-dialogs-to-open-reports"></a>Aktivieren der Einbettung von alten Dialogen zum Öffnen von Berichten
 

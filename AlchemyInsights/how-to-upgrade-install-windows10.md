@@ -3,22 +3,21 @@ title: Aktualisieren oder Installieren von Windows 10
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/29/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10141"
 - "9005600"
-ms.openlocfilehash: cf8fc093b7f38eca48ce1a1208fe95f2e23201b7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10141"
+ms.date: 03/29/2021
+ms.openlocfilehash: 03cd88657f1d564013c1eac6c03fa9148dfbb284
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63236535"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66288154"
 ---
 # <a name="how-to-upgrade-or-install-windows-10"></a>Aktualisieren oder Installieren von Windows 10
 

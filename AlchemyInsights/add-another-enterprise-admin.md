@@ -3,22 +3,21 @@ title: Hinzufügen eines weiteren Unternehmensadministrators – empfohlene Schr
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/17/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: b2438da05659937358a7310ac817b0bf5d003c66
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 12/17/2020
+ms.openlocfilehash: f7049c3b7c65eb624f447296b1ef31110c07bf26
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722784"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66331833"
 ---
 # <a name="add-another-enterprise-administrator---recommended-steps"></a>Hinzufügen eines weiteren Unternehmensadministrators – empfohlene Schritte
 

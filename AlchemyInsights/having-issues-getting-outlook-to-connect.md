@@ -1,25 +1,24 @@
 ---
-title: Haben Sie Probleme beim Outlook der Verbindung?
+title: Haben Sie Probleme beim Herstellen einer Verbindung mit Outlook?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
-ms.openlocfilehash: 83b857ef3701290e3409ff1a667bc67db8226847
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.date: 04/21/2020
+ms.openlocfilehash: 409c840cbdf899acd8885feec8a6671451db86f1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66009281"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66310176"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>Haben Sie Probleme beim Outlook der Verbindung?
+# <a name="having-issues-getting-outlook-to-connect"></a>Haben Sie Probleme beim Herstellen einer Verbindung mit Outlook?
 
-Wir haben festgestellt, dass Outlook unter den folgenden Domänen nicht ordnungsgemäß konfiguriert ist:
+Wir haben festgestellt, dass Outlook nicht so konfiguriert ist, dass es unter den folgenden Domänen ordnungsgemäß funktioniert:
   
 {HealthCheckString}
   

@@ -3,22 +3,21 @@ title: Microsoft Teams kann seit dem 30. November nicht mehr in Internet Explore
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/02/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9004213"
 - "7406"
-ms.openlocfilehash: 42909780f509e47fda3e867634cc3546ee165ef1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 12/02/2020
+ms.openlocfilehash: fd405a343d828289fee01f1860657baf6af28bac
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63169267"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66266681"
 ---
 # <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft Teams kann seit dem 30. November nicht mehr in Internet Explorer 11 verwendet werden
 

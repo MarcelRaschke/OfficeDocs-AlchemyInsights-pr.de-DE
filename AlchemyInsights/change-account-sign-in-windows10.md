@@ -3,22 +3,21 @@ title: Ändern des Kontos, mit dem Sie sich bei Ihrem Windows 10-PC anmelden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9816"
 - "9005388"
-ms.openlocfilehash: 2f4969c264980fd058ad5cee63208ca29fd08bbe
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9816"
+ms.date: 03/16/2021
+ms.openlocfilehash: dc5cbdd93d3a0df7a7fb1bddaa2d5e92b96cfc0a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65717711"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66343353"
 ---
 # <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>Ändern des Kontos, mit dem Sie sich bei Ihrem Windows 10-PC anmelden
 

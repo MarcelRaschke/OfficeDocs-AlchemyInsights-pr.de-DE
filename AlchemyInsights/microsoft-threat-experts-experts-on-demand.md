@@ -1,5 +1,5 @@
 ---
-title: Microsoft-Bedrohungsexperten – Experten bei Bedarf
+title: Microsoft-Bedrohungsexperten - Experten auf Abruf
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -8,24 +8,23 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: f0735168601551f8697e885970a21e82b4488a21
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 89827fd00a92611dd34e8e393307ba7941d5a003
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63088600"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66266608"
 ---
-# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft-Bedrohungsexperten – Experten bei Bedarf
+# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft-Bedrohungsexperten - Experten auf Abruf
 
-Experts on Demand ist die zweite Microsoft-Bedrohungsexperten Funktion. Hier können Sie sich an uns wenden, wenn Sie sich zu relevanten Fragen zu Erkennungen und Angreifern beraten müssen.
+Experts on Demand ist die zweite Microsoft-Bedrohungsexperten Fähigkeit. Hier können Sie sich an uns wenden, wenn Sie Beratung zu relevanten Fragen zu Erkennungen und Gegnern benötigen.
 
-Wenn Sie bereits Defender für Endpunkt-Kunde sind, können Sie sich an Ihren Microsoft-Vertreter wenden, um Microsoft-Bedrohungsexperten – Experten bei Bedarf zu abonnieren.
+Wenn Sie bereits ein Defender für Endpunkt-Kunde sind, können Sie sich an Ihren Microsoft-Vertreter wenden, um Microsoft-Bedrohungsexperten – Experts on Demand zu abonnieren.
 
-Die Möglichkeit, **einen Bedrohungsexperten zu konsultieren** , ist in den folgenden Menüs im Portal verfügbar, in denen Sie im Rahmen Ihrer Untersuchung mit Experten zusammenarbeiten können:
+Die Option, **einen Bedrohungsexperten zu konsultieren** , steht in den folgenden Menüs im Portal zur Verfügung, in denen Sie im Rahmen Ihrer Untersuchung mit Experten interagieren können:
 
 - Menü "Hilfe und Support"
 - Menü "Geräteseitenaktionen"

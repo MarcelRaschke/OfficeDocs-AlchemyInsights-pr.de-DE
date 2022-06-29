@@ -3,21 +3,20 @@ title: Hinzufügen einer Telefonnummer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4363"
-ms.openlocfilehash: 802f752172e393a40ba3a2fcb4b75bb0ecfd099d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 349241219fe1145a90931be54f071cb4cb98d2d5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63251369"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66331113"
 ---
 # <a name="add-phone-number"></a>Hinzufügen einer Telefonnummer
 

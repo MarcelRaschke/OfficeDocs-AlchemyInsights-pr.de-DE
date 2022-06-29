@@ -3,7 +3,7 @@ title: Hinzufügen eines Mitglieds zu Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,12 @@ ms.localizationpriority: high
 ms.custom:
 - "9002256"
 - "4359"
-ms.assetid: ''
-ms.openlocfilehash: 847686b242cb77e92b1afab9a0ed02f1486bb5b4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: ad29c6716fa55ce0ebb222dbc3e7cf01d1ee0dad
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63286685"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66332157"
 ---
 # <a name="add-a-member-to-teams"></a>Hinzufügen eines Mitglieds zu Teams
 

@@ -3,21 +3,20 @@ title: 'AIP: Portal für das Nachverfolgen und Widerrufen'
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: ddd7806daa1e1a6e57bc229ad38e7d3fabf7f966
-ms.sourcegitcommit: 5cdb7885e5ac2787c6616101ee1bc7fb23809427
+ms.openlocfilehash: 408399c2f3df55f74cb7f58efd35f8f1d1a6c16c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65219571"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66275248"
 ---
 # <a name="aip-track-and-revoke-portal"></a>AIP: Portal für das Nachverfolgen und Widerrufen
 

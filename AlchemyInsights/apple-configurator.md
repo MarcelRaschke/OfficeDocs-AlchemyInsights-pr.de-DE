@@ -3,22 +3,21 @@ title: Apple-Konfigurator
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/29/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1570"
 - "9000085"
-ms.openlocfilehash: 18de0447b7b516e610c8b13c010dda5ba27c8074
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1570"
+ms.date: 07/29/2020
+ms.openlocfilehash: 1d9af04d23003e75d38ae6d5470703a410f12758
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63301567"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66275104"
 ---
 # <a name="apple-configurator"></a>Apple-Konfigurator
 

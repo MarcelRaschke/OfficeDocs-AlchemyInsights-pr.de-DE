@@ -3,21 +3,20 @@ title: Warum ist die Schaltfläche "Budget hinzufügen" für mich deaktiviert?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 7c63eee7583c4210d3d0ed7f2eb39397e95fa355
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 3706e0ed19f2aa1c3a9867e422567f3f08865319
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722748"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66331797"
 ---
 # <a name="why-is-the-add-budget-button-disabled-for-me"></a>Warum ist die Schaltfläche "Budget hinzufügen" für mich deaktiviert?
 
@@ -27,7 +26,7 @@ Zum Erstellen eines Budgets benötigen Sie eine der folgenden Berechtigungen:
 - Mitwirkender im Kostenmanagement
 - Besitzer
 - Contributor
-- nur Enterprise Kunden: Registrierung, Abteilung, Kontobereiche
+- Nur Enterprise-Kunde: Registrierung, Abteilung, Kontobereiche
 - Registrierung Admin (Budget im Registrierungsbereich festlegen)
 - Abteilung Admin (Budget auf Abteilungsebene festlegen)
 - Kontobesitzer (Budget auf Kontobereich festlegen)

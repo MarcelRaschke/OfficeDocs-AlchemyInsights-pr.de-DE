@@ -3,21 +3,20 @@ title: Hilfe für die Anzeigeeinstellungen des Nachtmodus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9005578"
 - "9930"
-ms.openlocfilehash: 8d1f979b03b1257dbe5d5f309548aee33134a779
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c1e13d2ad5599636f957bbc5b732f880438f6c63
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63275957"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66309744"
 ---
 # <a name="help-with-the-night-light-display-setting"></a>Hilfe für die Anzeigeeinstellungen des Nachtmodus
 

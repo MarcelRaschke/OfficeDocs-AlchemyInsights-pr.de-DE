@@ -3,21 +3,20 @@ title: Erste Schritte mit Skype for Business
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002421"
 - "4698"
-ms.openlocfilehash: a4c0338dd0faaa75b82a49449af20e6627e4c83f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 2c774393f6c492333355002d825d55469eeac0ed
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63247121"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66310356"
 ---
 # <a name="getting-started-using-skype-for-business"></a>Erste Schritte mit Skype for Business
 

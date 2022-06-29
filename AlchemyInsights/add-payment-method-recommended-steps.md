@@ -3,22 +3,21 @@ title: Zahlungsmethode hinzufügen – empfohlene Schritte
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/18/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004284"
 - "7649"
-ms.openlocfilehash: a4504d76bd33592804c2c3f83b1e2bc2e6a9d03f
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 12/18/2020
+ms.openlocfilehash: 7602eb7c932c3825e5365ec5fc2235437d79fc3a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722676"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66331365"
 ---
 # <a name="add-payment-method---recommended-steps"></a>Zahlungsmethode hinzufügen – empfohlene Schritte
 

@@ -3,21 +3,20 @@ title: 'AIP-Scanner: Installation und Konfiguration'
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5119"
-ms.openlocfilehash: 28fd91b7ff30e0eaee9edcac9f0e6d2e97d02ddd
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a4edd5fc48c0d7400851decc172dfc6d6fa75710
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63269729"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66275284"
 ---
 # <a name="aip-scanner-installation-and-configuration"></a>AIP-Scanner: Installation und Konfiguration
 

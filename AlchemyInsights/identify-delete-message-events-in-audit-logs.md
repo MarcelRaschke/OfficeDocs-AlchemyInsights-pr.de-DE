@@ -3,29 +3,28 @@ title: Identifizieren von Löschnachrichtenereignissen in Überwachungsprotokoll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1370"
 - "3100005"
-ms.assetid: ''
-ms.openlocfilehash: fdd25ee3017092a6f43618c1928cc83108adb7c0
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+- "1370"
+ms.date: 04/21/2020
+ms.openlocfilehash: b768296e0b674f64f7f7f6a9baf13fc3753d85a1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65588691"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66288046"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Überwachungsprotokolle für gelöschte E-Mail-Nachrichten
 
 Ab Januar 2019 aktiviert Microsoft standardmäßig die Postfachüberwachungsprotokollierung. Andernfalls müssen Sie zum Überprüfen von Löschnachrichtenereignissen für einen bestimmten Benutzer die Löschaktionen für die Überwachung manuell aktivieren. Wenn die Postfachüberwachungsprotokollierung für Ihre Organisation oder für den jeweiligen Benutzer bereits aktiviert ist, führen Sie die folgenden Schritte aus.
 
 1. Führen Sie einen der folgenden Schritte aus:
-   - Wechseln Sie in der Microsoft Purview-Complianceportal unter <https://compliance.microsoft.com>zu **"Lösungsüberwachung"**\>. Oder verwenden Sie <https://compliance.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
+   - Im Microsoft Purview-Complianceportal unter <https://compliance.microsoft.com> wechseln Sie zu **Lösungen** \> **Überwachung**. Oder verwenden Sie <https://compliance.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
    - Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> zu **Überwachung**. Oder verwenden Sie <https://sip.security.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
 
 2. Vergewissern Sie sich, auf der Seite **Überwachung**, dass die Registerkarte **Suche** ausgewählt ist, und konfigurieren Sie dann die folgenden Einstellungen:
