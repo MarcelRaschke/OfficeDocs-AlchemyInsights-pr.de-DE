@@ -3,21 +3,20 @@ title: Microsoft 365 F3-Plan erhalten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5465"
-ms.openlocfilehash: b77bbe2936bce91e030ea51697e99b4d7240fd11
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: b5fe20f20766d98e3144e744ceae9dc09c8c20ba
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66001385"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66323103"
 ---
 # <a name="get-the-microsoft-365-f3-plan"></a>Microsoft 365 F3-Plan erhalten
 

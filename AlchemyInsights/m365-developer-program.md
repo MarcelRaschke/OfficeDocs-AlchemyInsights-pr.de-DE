@@ -8,17 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12320"
 - "9001669"
+- "12320"
 ms.date: 05/20/2022
-ms.openlocfilehash: cdf444a347d0b3dc32061742344595987d0ca9ca
-ms.sourcegitcommit: bc551e8b105d0a79f09a690722a36130fdd69173
+ms.openlocfilehash: 37275d487c519b27c6368d582e7549e4cc2b88fd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65620623"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66366602"
 ---
 # <a name="microsoft-365-developer-program"></a>Microsoft 365-Entwicklerprogramm
 

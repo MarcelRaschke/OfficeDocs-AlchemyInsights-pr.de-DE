@@ -3,21 +3,20 @@ title: SFBO-Ausmusterung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000699"
 - "2596"
-ms.openlocfilehash: be41b8772e5962450e0529aaeb5ef6803d486be2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: e0364904756b1507addfbeeeb9568de75abc2785
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63157891"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66263458"
 ---
 # <a name="skype-for-business-online-retirement"></a>Einstellung von Skype for Business Online
 

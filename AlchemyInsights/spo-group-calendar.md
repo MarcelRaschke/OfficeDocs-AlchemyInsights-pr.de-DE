@@ -3,21 +3,20 @@ title: SPO-Gruppenkalender
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2736"
-ms.openlocfilehash: a366a48398593a56254c0daad3f638ff25b8057d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 2c1a7d9d47863f2886c60d927e321a8b7c36f68c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63303977"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66262774"
 ---
 # <a name="spo-group-calendar"></a>SPO-Gruppenkalender
 

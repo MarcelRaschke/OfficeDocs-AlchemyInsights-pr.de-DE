@@ -3,22 +3,21 @@ title: Einrichten eines Microsoft 365 Business-Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4795"
 ms.date: 03/30/2022
-ms.openlocfilehash: 31054905b1a8763dd79162d627f5d7f7811b2088
-ms.sourcegitcommit: dbe6e3cf593a237700fc2b7c1fb917712def61b9
+ms.openlocfilehash: 2d4bfc7ff4a64b3392c7f2ac0b12527c873dc8b7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64570792"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66263602"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>Einrichten eines Microsoft 365 Business-Abonnements
 

@@ -3,22 +3,21 @@ title: Hilfe bei der Anmeldung mit Windows Hello-PIN
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/29/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10100"
 - "9005720"
-ms.openlocfilehash: 23573c72597ab118b7cd4ddc45bd2bc22a000fa9
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "10100"
+ms.date: 03/29/2021
+ms.openlocfilehash: 3fbedb6766e0fe3e10b3870198cdaa3da0acb57c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722316"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66322455"
 ---
 # <a name="help-signing-in-with-windows-hello-pin"></a>Hilfe bei der Anmeldung mit Windows Hello-PIN
 

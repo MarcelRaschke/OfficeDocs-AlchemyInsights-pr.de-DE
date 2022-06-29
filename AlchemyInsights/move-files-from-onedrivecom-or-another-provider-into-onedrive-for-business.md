@@ -3,22 +3,21 @@ title: Verschieben von Dateien von OneDrive.com oder einem anderen Anbieter nach
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "2588"
 - "9000668"
-ms.openlocfilehash: f47f4b6b027315f9def2b1c46ca9cfa9d1d8205f
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "2588"
+ms.date: 07/24/2020
+ms.openlocfilehash: 3febb946d0123ed26ee0b8f89ce87178999e22ae
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733476"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66320907"
 ---
 # <a name="move-files-from-onedrivecom-or-another-provider-into-onedrive-for-business"></a>Verschieben von Dateien von OneDrive.com oder einem anderen Anbieter nach OneDrive for Business
 

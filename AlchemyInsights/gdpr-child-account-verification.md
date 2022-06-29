@@ -1,29 +1,28 @@
 ---
-title: 8000038 DSGVO– Überprüfung des untergeordneten Kontos
+title: 8000038 überprüfung des DSGVO-Kinderkontos
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
+- "8000038"
 - "772"
 - "788"
-- "8000038"
-ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: 032d2b1876c44e6d4c39ec36816730e861f46dad
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 6bc88c19c70f003162c01aafc499c26d51682017
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63215097"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66323211"
 ---
 # <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>Das in Ihrem Microsoft-Konto angezeigte Geburtsdatum ist falsch.
 
-Microsoft nimmt die Sicherheit sehr ernst. Möglicherweise wurden Sie kürzlich aufgefordert, die Zustimmung der Eltern für das Microsoft-Konto eines Untergeordneten zu erteilen. Wenn Sie Hilfe bei der Bereitstellung der Zustimmung der Eltern oder beim Aktualisieren des Geburtsdatums für ein Microsoft-Konto benötigen, finden Sie unter ["Altersüberprüfung" die Zustimmung der Eltern](https://go.microsoft.com/fwlink/p/?linkid=874364).
+Microsoft nimmt die Sicherheit sehr ernst. Möglicherweise wurden Sie kürzlich aufgefordert, die elterliche Zustimmung für das Microsoft-Konto eines Kindes einzufordern. Wenn Sie Hilfe bei der Erteilung der elterlichen Zustimmung oder beim Aktualisieren des Geburtsdatums in einem Microsoft-Konto benötigen, lesen Sie die [Altersüberprüfung, um die elterliche Zustimmung zu erhalten](https://go.microsoft.com/fwlink/p/?linkid=874364).
   
-Erfahren Sie mehr über [die Zustimmung der Eltern und über Microsoft-Kinderkonten](https://go.microsoft.com/fwlink/p/?linkid=874365).
+Erfahren Sie mehr über [elterliche Zustimmung und Microsoft-Kinderkonten](https://go.microsoft.com/fwlink/p/?linkid=874365).
   

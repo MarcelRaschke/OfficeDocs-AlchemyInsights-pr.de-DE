@@ -3,23 +3,21 @@ title: 597 Microsoft Bookings App
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "597"
 - "3800001"
-ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: c55bc930c7aaf5dbd6020eff5fc3f5c64f8735ec
-ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
+- "597"
+ms.date: 04/21/2020
+ms.openlocfilehash: 509f4306cb68ffd1719e78ce8ee36d04376f6e67
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65551601"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66365421"
 ---
 # <a name="microsoft-bookings-app"></a>Microsoft Bookings-App
 

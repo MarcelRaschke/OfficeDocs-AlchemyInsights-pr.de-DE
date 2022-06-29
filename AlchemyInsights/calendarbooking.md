@@ -1,23 +1,21 @@
 ---
-title: 398 Kalender – Booking
+title: 398 Kalender - Buchung
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: 398
-ms.assetid: 9b23cfd7-bff8-4f86-bd94-e5fa07f6939f
-ms.openlocfilehash: 9af55b78f52ee081dec171fa5ab51ad8c91e5375
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: cfce82b022a33941c05eb6bf8730feb2415f63a8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63250217"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66415750"
 ---
 # <a name="issues-with-microsoft-bookings"></a>Probleme mit Microsoft Bookings
 

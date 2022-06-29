@@ -3,22 +3,21 @@ title: Onboarding Microsoft Defender ATP
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/14/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6022"
 - "9002913"
-ms.openlocfilehash: 5ebb9143859ff9aa584b10a541a9078f661be243
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6022"
+ms.date: 07/14/2020
+ms.openlocfilehash: 8dd5dc83177261add82cfbd6ef5ac2419b06e78b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63245969"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66320799"
 ---
 # <a name="onboarding-microsoft-defender-atp"></a>Onboarding Microsoft Defender ATP
 

@@ -3,21 +3,19 @@ title: Verwalten synchronisierter Benutzerkonten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: ''
-ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 4c38a2fdd0b99dc07756721851d67e8fa4854095
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.date: 04/21/2020
+ms.openlocfilehash: 62eb262e91b8c67e62c28971314c911eb5560198
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66007589"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66365997"
 ---
 # <a name="manage-synchronized-user-accounts"></a>Verwalten synchronisierter Benutzerkonten
 

@@ -3,22 +3,21 @@ title: Live-Untertitel verwalten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6141"
 - "9003263"
-ms.openlocfilehash: fdd3ee04a146b129ff8243cc71d29324cdd6b298
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6141"
+ms.date: 08/03/2020
+ms.openlocfilehash: cc3231ffa08751195c227d0f7c9a3e201bee593a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63225285"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66366114"
 ---
 # <a name="manage-live-captions"></a>Live-Untertitel verwalten
 

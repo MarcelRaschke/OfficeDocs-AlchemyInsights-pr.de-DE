@@ -3,22 +3,21 @@ title: Probleme mit den Registerkarten "Mein Team" oder "Meine Organisation" in 
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9010261"
 - "16695"
 ms.date: 06/20/2022
-ms.openlocfilehash: 9ea5d3712702791b878bbfec000a676446899f5a
-ms.sourcegitcommit: cf334db648c8cdc6014180803e9c5215c21e8378
+ms.openlocfilehash: 70257b3b9d871b1188ba6f037d33df8299030d4d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/20/2022
-ms.locfileid: "66166240"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66416686"
 ---
 # <a name="my-team-or-my-organization-tabs-issues-in-viva-insights-app"></a>Probleme mit den Registerkarten "Mein Team" oder "Meine Organisation" in Viva Insights App
 

@@ -3,26 +3,24 @@ title: 611 Kalenderfreigabe
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "611"
 - "3800009"
-ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: fd4a2882d2d5297921c8bc97789b3e8ed1379fab
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "611"
+ms.openlocfilehash: 245db8c318f7e03ecb33d3348075ee6959c93138
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63250289"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66415822"
 ---
 # <a name="calendar-sharing-in-outlook"></a>Kalenderfreigabe in Outlook
 
-Informationen zum Freigeben eines Outlook Kalenders finden Sie in den folgenden Artikeln:
+Informationen zum Freigeben eines Outlook-Kalenders finden Sie in den folgenden Artikeln:
   
 - [Freigeben eines Outlook-Kalenders für andere Personen](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 

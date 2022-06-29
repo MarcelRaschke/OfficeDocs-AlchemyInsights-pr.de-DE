@@ -3,23 +3,21 @@ title: Lösungen für Fehler 30174-4
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "831"
 - "2000020"
-ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: 7a789bda6d1ade174a9c11468ac24b37676df70b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "831"
+ms.date: 04/21/2020
+ms.openlocfilehash: ca5c64aa5787d3cbe1cf85121190d1526902e801
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65732251"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66262918"
 ---
 # <a name="error-code-30174-4-when-installing-office"></a>Fehlercode 30174-4 bei der Installation von Office
 

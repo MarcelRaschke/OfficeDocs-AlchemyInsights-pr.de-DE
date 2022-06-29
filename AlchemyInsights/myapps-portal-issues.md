@@ -3,22 +3,21 @@ title: Probleme mit dem Portal „Meine Apps“
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/20/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7771"
 - "9004350"
-ms.openlocfilehash: 8062e2e4676c87eb21accae620c5d9a585ef6e04
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7771"
+ms.date: 01/20/2021
+ms.openlocfilehash: ebc7ded28544ed5e38356cbf31dd0c67bd851dfd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63183211"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66364800"
 ---
 # <a name="myapps-portal-issues"></a>Probleme mit dem Portal „Meine Apps“
 

@@ -3,23 +3,21 @@ title: Mover.io Ruhestand
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "17406"
 - "9001486"
-ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
+- "17406"
 ms.date: 05/26/2022
-ms.openlocfilehash: 215342c490d484d6a9a3353476b0edfda86c82e1
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: b3ae593d34d36dc4f68f553f354c07d4c32ae11d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723535"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66364864"
 ---
 # <a name="moverio-retirement"></a>Mover.io Ruhestand
 

@@ -1,26 +1,25 @@
 ---
-title: Öffnen Microsoft Edge DevTools
+title: Öffnen von Microsoft Edge DevTools
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
+- "9004617"
 - "9004033"
 - "7103"
 - "8296"
-- "9004617"
-ms.openlocfilehash: f19f2e67bcc5f1f931a5aaeb09f71fc59ae3189b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 962b484a1b7bff6862381a6289e74406efee14ad
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63255113"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66320532"
 ---
-# <a name="open-microsoft-edge-devtools"></a>Öffnen Microsoft Edge DevTools
+# <a name="open-microsoft-edge-devtools"></a>Öffnen von Microsoft Edge DevTools
 
 Da Benutzer schnellen Zugriff auf verschiedene Teile der DevTools-Benutzeroberfläche wünschen, gibt es verschiedene Möglichkeiten, [Microsoft Edge DevTools zu öffnen](https://go.microsoft.com/fwlink/?linkid=2135152).

@@ -3,21 +3,20 @@ title: Installieren von Windows auf einem nicht funktionsfähigen PC
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001473"
 - "3501"
-ms.openlocfilehash: cd9c711c4720919bb25397b5221015232bc0ad09
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 61554ec6b356dcf71ce047f81674535113ac0dc4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65720141"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66321483"
 ---
 # <a name="install-windows-on-a-nonfunctional-pc"></a>Installieren von Windows auf einem nicht funktionsfähigen PC
 

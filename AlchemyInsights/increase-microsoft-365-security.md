@@ -3,22 +3,21 @@ title: Erhöhte Microsoft 365 Security
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001681"
 - "3746"
 - "3821"
-ms.openlocfilehash: c5669f3fbcaeaee285e6bcc177917eede69254a9
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: ef15bf999dcdccdaf14d5e003be6a689e0a84c02
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63192488"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66321627"
 ---
 # <a name="increase-microsoft-365-security"></a>Erhöhte Microsoft 365 Security
 

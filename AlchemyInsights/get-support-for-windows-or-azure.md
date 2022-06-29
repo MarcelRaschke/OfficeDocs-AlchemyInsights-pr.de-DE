@@ -3,21 +3,20 @@ title: Support für Windows oder Azure erhalten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002474"
 - "4811"
-ms.openlocfilehash: 5ab70c34589bc143dec50917d32910a3e67c31a4
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: fa3cda7a5509593fc34152f59190bf9f69f149e8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65725549"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66323139"
 ---
 # <a name="get-support-for-windows-or-azure"></a>Support für Windows oder Azure erhalten
 

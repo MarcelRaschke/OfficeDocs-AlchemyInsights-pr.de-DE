@@ -8,27 +8,26 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000738"
 - "8431"
 ms.date: 03/30/2022
-ms.openlocfilehash: dd0fa143af42b199c43258f98e9b91140aa3e01e
-ms.sourcegitcommit: dbe6e3cf593a237700fc2b7c1fb917712def61b9
+ms.openlocfilehash: a7e2331f16fdd960ad3c85baf71048830416dcd9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64570840"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66262810"
 ---
 # <a name="some-users-may-experience-delays-with-chat-messages"></a>Bei einigen Benutzern kann es zu Verzögerungen bei Chatnachrichten kommen.
 
-Bei einigen Microsoft Teams Benutzern können fehlende Nachrichten oder Verzögerungen beim Senden und Empfangen von Chatnachrichten auftreten.
+Bei einigen Microsoft Teams-Benutzern können fehlende Nachrichten oder Verzögerungen beim Senden und Empfangen von Chatnachrichten auftreten.
 
-Vergewissern Sie sich im Microsoft Admin Center > [**Dienststatus**](https://admin.microsoft.com/servicehealth), dass kein aktives Problem für Microsoft Teams vorliegt.
+Überprüfen Sie im Microsoft Admin Center > [**Dienststatus**](https://admin.microsoft.com/servicehealth) , dass kein aktives Problem für Microsoft Teams vorliegt.
 
-Überprüfen Sie, ob das Problem für [Teams im Web](https://teams.microsoft.com/) weiterhin besteht. Wenn das Problem nur für die Teams Desktopversion auftritt, profitieren Benutzer möglicherweise davon, den Teams Clientcache auf ihrem Gerät zu löschen. Weitere Informationen finden Sie unter [Löschen Teams Caches](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-administration/clear-teams-cache).
+Überprüfen Sie, ob das Problem für [Teams im Web](https://teams.microsoft.com/) weiterhin besteht. Wenn das Problem nur in der Teams-Desktopversion auftritt, können Benutzer davon profitieren, den Teams-Clientcache auf ihrem Gerät zu löschen. Weitere Informationen finden Sie [unter Löschen des Teams-Caches](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-administration/clear-teams-cache).
 
-Weitere Informationen zu Teams Clientupdates und zur Problembehandlung Microsoft Teams Installation finden Sie unter:
+Weitere Informationen zu Microsoft Teams-Clientupdates und zur Problembehandlung bei der Installation von Microsoft Teams finden Sie unter:
 
-- [Teams Aktualisierungsprozess](https://docs.microsoft.com/microsoftteams/teams-client-update)
-- [Problembehandlung bei Microsoft Teams Installations- und Updateproblemen bei Windows](https://docs.microsoft.com/microsoftteams/troubleshoot-installation)
+- [Teams-Updateprozess](https://docs.microsoft.com/microsoftteams/teams-client-update)
+- [Behandeln von Problemen mit der Installation und Aktualisierung von Microsoft Teams unter Windows](https://docs.microsoft.com/microsoftteams/troubleshoot-installation)

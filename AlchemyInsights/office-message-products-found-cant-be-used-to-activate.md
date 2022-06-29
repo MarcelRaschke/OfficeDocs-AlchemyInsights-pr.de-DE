@@ -3,21 +3,20 @@ title: 'Meldung in Microsoft 365-Apps: "Die in Ihrem Konto gefundenen Produkte k
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: b0482fa726408e4ceef8a619fc2440d6b5ed6e42
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: fb978dc26d95efd38ec1f4bc57f9de638964ee12
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63159763"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66320943"
 ---
 # <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Meldung in Microsoft 365-Apps: "Die in Ihrem Konto gefundenen Produkte können nicht zum Aktivieren verwendet werden"
 

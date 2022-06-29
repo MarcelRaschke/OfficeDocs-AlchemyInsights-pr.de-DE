@@ -3,21 +3,20 @@ title: Eine Anlage zu einem extern ausgerichteten Formular kann nicht hinzugefü
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 4677f5926e0236aa0742e1f293eeaaaa8818ac71
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: 8bb7ae396589748a5113e7963a48310746131cb4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65592652"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66416002"
 ---
 # <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Eine Anlage zu einem extern ausgerichteten Formular kann nicht hinzugefügt werden.
 

@@ -3,22 +3,21 @@ title: Hinzufügen und Verwalten von Administratoren – empfohlene Schritte
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/07/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: c27d263f0b98cce01d72cae09e9fbf7c57f70e03
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 12/07/2020
+ms.openlocfilehash: 2cd8e047c58cf261ee84a67852dbd534b6808540
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722163"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66322095"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Hinzufügen und Verwalten von Administratoren – empfohlene Schritte
 
@@ -53,12 +52,12 @@ Der Dienstadministrator oder der Co-Administrator kann diese Aktion mithilfe der
 - [Anzeigen des Kontoadministrators](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [Verwalten des Zugriffs mithilfe von RBAC und Azure-Portal](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
-**Hinzufügen/Löschen von Benutzern mithilfe von Azure Active Directory (AD)**
+**Hinzufügen/Löschen von Benutzern mitHilfe von Azure Active Directory (AD)**
 
 Sie können neue Benutzer hinzufügen oder vorhandene Benutzer aus Ihrer Azure Active Directory (Azure AD)-Organisation löschen:
 
 1. Um einen neuen Benutzer hinzuzufügen, melden Sie sich bei der [Azure-Portal](https://ms.portal.azure.com/#home) als Benutzeradministrator für die Organisation an.
-2. Wählen Sie **Azure Active Directory** aus, wählen Sie **"Benutzer**" aus, und klicken Sie dann auf **"Neuer Benutzer"**.
+2. Wählen Sie **Azure Active Directory** aus, wählen Sie **"Benutzer** " aus, und klicken Sie dann auf **"Neuer Benutzer"**.
 3. Füllen Sie auf der Seite **"Benutzer** " die erforderlichen Informationen aus. Klicken Sie auf **Erstellen**. Der Benutzer wird erstellt und Ihrem Azure AD-Mandanten hinzugefügt.
 
 **Weitere Informationen**:

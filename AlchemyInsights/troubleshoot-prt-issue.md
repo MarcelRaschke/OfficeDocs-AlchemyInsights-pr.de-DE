@@ -3,22 +3,21 @@ title: Problembehandlung bei PRT
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/01/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: c598e4375f90d58496d05c6b6755adbc04ceb463
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 12/01/2020
+ms.openlocfilehash: 763bc78d5a6d2c3e4faa288c36d7562451791cf9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723288"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66416434"
 ---
 # <a name="troubleshoot-prt-issue"></a>Problembehandlung bei PRT
 
@@ -40,7 +39,7 @@ Dieser Registrierungsfluss wird auch als "Sync Join" bezeichnet.
 
 3. Windows 10 generiert ein selbstsigniertes Zertifikat und speichert es unter dem Computerobjekt in lokalem AD. Dies erfordert eine Sichtweite zum Domänencontroller.
 
-4. Ein Geräteobjekt mit einem Zertifikat wird über Azure AD Verbinden mit Azure AD synchronisiert. Der Synchronisierungszyklus erfolgt standardmäßig alle 30 Minuten, hängt jedoch von der Konfiguration von Azure AD Verbinden ab. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
+4. Ein Geräteobjekt mit einem Zertifikat wird über Azure AD Connect mit Azure AD synchronisiert. Der Synchronisierungszyklus erfolgt standardmäßig alle 30 Minuten, hängt jedoch von der Konfiguration von Azure AD Connect ab. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
 
 5. In dieser Phase sollten Sie das Betreffgerät im Status "Ausstehend" unter dem Geräteblatt des Azure-Portals sehen können.
 

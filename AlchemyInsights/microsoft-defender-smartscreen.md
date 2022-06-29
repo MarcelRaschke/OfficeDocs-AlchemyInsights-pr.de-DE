@@ -3,22 +3,21 @@ title: Microsoft Defender Smartscreen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11229"
 - "9005487"
-ms.openlocfilehash: d9b5df6d8174be7844c28821896af85a9e6ee47e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11229"
+ms.date: 05/25/2021
+ms.openlocfilehash: 01922b9153fb08a856571feb03ebeae58eb13b0e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63273941"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66365385"
 ---
 # <a name="microsoft-defender-smartscreen"></a>Microsoft Defender Smartscreen
 

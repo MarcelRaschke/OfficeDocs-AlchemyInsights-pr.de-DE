@@ -1,24 +1,23 @@
 ---
-title: Probleme bei der Integration von SSO-Anwendungen
+title: Probleme bei der SSO-Anwendungsintegration
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004344"
 - "7758"
-ms.openlocfilehash: b46d7013d0897831ec207ede090a6ccd4e0dcfdd
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: efb585109244982be18e47e5e0324274b78776ef
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63124049"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66417141"
 ---
-# <a name="sso-application-integration-issues"></a>Probleme bei der Integration von SSO-Anwendungen
+# <a name="sso-application-integration-issues"></a>Probleme bei der SSO-Anwendungsintegration
 
-Suchen Sie in unserer [Sammlung von Lernprogrammen zum Integrieren von Anwendungen in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) nach der spezifischen Anwendung, die Sie in das nahtlose einmalige Anmelden (Single Sign-On, SSO) integrieren möchten, und befolgen Sie die Anleitungen zur Problembehandlung bei der Integration.
+Suchen Sie nach der spezifischen Anwendung, die Sie in nahtloses einmaliges Anmelden (Seamless Single Sign-On, SSO) integrieren möchten, in unserer [Sammlung von Lernprogrammen für die Integration von Anwendungen in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) , und befolgen Sie die Anleitungen zur Problembehandlung ihrer Integration.

@@ -3,23 +3,21 @@ title: Anleitung zur SharePoint-Migrationsleistung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
 - "3179"
-ms.openlocfilehash: b91aa0800419b0f3a1e4e2f9a995e8d67c84ba0f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 5ce09a8484c5517be16fde5fb358448709326517
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63180356"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66263206"
 ---
 # <a name="sharepoint-migration-performance-guidance"></a>Anleitung zur SharePoint-Migrationsleistung
 

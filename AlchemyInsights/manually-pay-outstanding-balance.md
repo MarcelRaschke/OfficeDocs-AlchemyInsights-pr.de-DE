@@ -12,18 +12,18 @@ ms.localizationpriority: high
 ms.custom:
 - commerce_billing
 - "9001506"
-- "9147"
-- "1500012"
-- "9689"
 - "1500018"
+- "1500012"
+- "9147"
+- "9689"
 - "9690"
 ms.date: 08/10/2021
-ms.openlocfilehash: b56425045cf874078a6587e339a3071ffebb08fa
-ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
+ms.openlocfilehash: d2de8e444f4b60449c19ecac64a2f3c4b4b52903
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "66156313"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66365714"
 ---
 # <a name="manually-pay-an-outstanding-balance"></a>Manuelles Bezahlen eines ausstehenden Saldos
 

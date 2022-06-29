@@ -3,22 +3,20 @@ title: Einrichten einer Konferenzbrücke für Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 4105f79d00e1e93cb5cba0b96f07cd0e3330e819
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 03c91ede4ee8679751617eeab434e31fc4f2c04e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63235275"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66366605"
 ---
 # <a name="list-view-threshold"></a>Schwellenwert für die Listenansicht
 

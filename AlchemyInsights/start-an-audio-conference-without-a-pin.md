@@ -3,21 +3,20 @@ title: Starten einer Audiokonferenz ohne PIN
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002882"
 - "5496"
-ms.openlocfilehash: 1189728a504004ba386d080c34d414a3c0856bf7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 13bcb8ea84d30ccb2971dd0ab6df6703aa2e80d2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63179527"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66262666"
 ---
 # <a name="start-an-audio-conference-without-a-pin"></a>Starten einer Audiokonferenz ohne PIN
 

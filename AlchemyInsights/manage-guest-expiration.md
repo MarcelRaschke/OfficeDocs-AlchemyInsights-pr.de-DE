@@ -3,26 +3,25 @@ title: Verwalten des Gastablaufs für eine Website
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/21/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "12448"
-ms.openlocfilehash: 5a9f7ede9a19a7abbb955080be809ca522b24cc3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 07/21/2021
+ms.openlocfilehash: c9abdc364355dde603b02b98457353bcf773d554
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63246149"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66366186"
 ---
 # <a name="manage-guest-expiration-for-a-site"></a>Verwalten des Gastablaufs für eine Website
 
-Wenn Sie ein SharePoint Websitebesitzer sind, müssen Sie möglicherweise den ablaufenden Zugriff für die Gäste mit Zugriff auf Inhalte auf Ihrer Website verwalten.
+Wenn Sie ein SharePoint-Websitebesitzer sind, müssen Sie möglicherweise den ablaufenden Zugriff für die Gäste mit Zugriff auf Inhalte auf Ihrer Website verwalten.
 
 Weitere Informationen finden Sie unter:
 
