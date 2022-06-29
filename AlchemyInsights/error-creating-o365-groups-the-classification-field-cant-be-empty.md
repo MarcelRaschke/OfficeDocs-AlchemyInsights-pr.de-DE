@@ -3,21 +3,20 @@ title: 'Fehler beim Erstellen von O365-Gruppen: Das Klassifizierungsfeld darf ni
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000181"
 - "4835"
-ms.openlocfilehash: 5009d4d090dd61602721f159071d4a67d57b2a98
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 14a9d35e502c2f62fe4aacbbe59fe99b094dbaf8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63277361"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66258958"
 ---
 # <a name="error-creating-o365-groups-the-classification-field-cant-be-empty"></a>Fehler beim Erstellen von O365-Gruppen: Das Klassifizierungsfeld darf nicht leer sein
 

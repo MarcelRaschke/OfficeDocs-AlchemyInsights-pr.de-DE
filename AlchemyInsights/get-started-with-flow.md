@@ -3,19 +3,18 @@ title: Erste Schritte mit Flow
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
-ms.openlocfilehash: 5f632226947827088b7fe178e8289d271e24455e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 3bb120c7a0a59d0a88ec2665382118b4b7a988a7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63172075"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66310824"
 ---
 # <a name="get-started-with-microsoft-flow"></a>Erste Schritte mit Microsoft Flow
 
@@ -25,7 +24,7 @@ Mit Microsoft Flow haben Sie folgende Möglichkeiten:
     
 - Wählen Sie aus den beliebtesten Diensten.
     
-- Sehen Sie sich eine Übersicht über jeden Fluss an.
+- Sehen Sie sich einen Überblick über die einzelnen Flows an.
     
 [Weitere Informationen zu Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=874446)
   

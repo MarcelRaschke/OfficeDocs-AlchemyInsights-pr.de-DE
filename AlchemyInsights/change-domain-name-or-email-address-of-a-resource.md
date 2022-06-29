@@ -3,22 +3,21 @@ title: Ändern des Domänennamens oder der E-Mail-Adresse einer Ressource
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 10/01/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "14027"
 - "9003196"
-ms.openlocfilehash: 7c5118f0db30f6b15cc5701c6851f6bb62cc5b39
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "14027"
+ms.date: 06/23/2022
+ms.openlocfilehash: 2b122406305d45fc08f026ffbdfe2183fb72afba
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63174559"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66358707"
 ---
 # <a name="change-the-domain-name-or-email-address-of-a-resource"></a>Ändern des Domänennamens oder der E-Mail-Adresse einer Ressource
 

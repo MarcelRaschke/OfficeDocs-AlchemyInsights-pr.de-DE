@@ -3,21 +3,20 @@ title: Kommentare in Microsoft Planner
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: fa6388dd25df532421c7f89769adddb1fdc5a62f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 8ff0460908e80f604123f3157190662a334e1d35
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63186944"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66357843"
 ---
 # <a name="comments-in-microsoft-planner"></a>Kommentare in Microsoft Planner
 

@@ -3,23 +3,22 @@ title: MC210173 – SharePoint Designer – Ende der Unterstützung der neuen Fu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
+- "9000127"
 - "9002886"
 - "5508"
-- "9000127"
 - "5507"
-ms.openlocfilehash: 2310dd9849c1f8e468f7506086d2fa05663accef
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: d99a2caa5822b1fe4ff94e1937e910a2d7405e53
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65732576"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66257374"
 ---
 # <a name="mc210173---sharepoint-designer-new-custom-form-feature-deprecation"></a>MC210173 – SharePoint Designer – Ende der Unterstützung der neuen Funktion "benutzerdefiniertes Formular"
 

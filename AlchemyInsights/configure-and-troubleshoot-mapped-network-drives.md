@@ -3,21 +3,20 @@ title: Konfigurieren und Beheben von Problemen mit zugeordneten Laufwerken
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "5300002"
 - "3180"
-ms.openlocfilehash: 123347651bfb6f0099101020540421e8b67bd68f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c5676d9c71da5dbd246061c83abca61a0bfb1f91
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63307877"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66311724"
 ---
 # <a name="configure-and-troubleshoot-mapped-network-drives"></a>Konfigurieren und Beheben von Problemen mit zugeordneten Laufwerken
 

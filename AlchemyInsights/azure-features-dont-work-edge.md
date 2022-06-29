@@ -3,22 +3,21 @@ title: Vorgehensweise, wenn Azure-Features in Microsoft Edge nicht ordnungsgemä
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/26/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8315"
 - "9004429"
-ms.openlocfilehash: af324506f77b12064b9bfff487bbe5cb89fa55b2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8315"
+ms.date: 07/26/2021
+ms.openlocfilehash: 09ac459cdaac9b3af61c7a73fcdb679c691c3c98
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63175423"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66312336"
 ---
 # <a name="what-to-do-if-azure-features-dont-work-properly-in-microsoft-edge"></a>Vorgehensweise, wenn Azure-Features in Microsoft Edge nicht ordnungsgemäß funktionieren
 

@@ -3,22 +3,21 @@ title: Teams-Besprechung kann nicht aufgezeichnet werden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003306"
 - "6201"
-ms.openlocfilehash: 5dcd3338807125f44042982decc4c3e2c7b0f75f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 08/20/2020
+ms.openlocfilehash: a89bc5aec2458dfc3e72f4ecc00889c4565bb042
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63301111"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66359103"
 ---
 # <a name="cant-record-teams-meeting"></a>Teams-Besprechung kann nicht aufgezeichnet werden
 

@@ -3,21 +3,20 @@ title: Teams-Konten verwalten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003572"
 - "6659"
-ms.openlocfilehash: f637b850cda9f2c846ca640d2ac8cb6e279093a8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: abc0950f8b848a2e8fbf4b77163d962d7ac1ce79
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63126929"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66257446"
 ---
 # <a name="managing-teams-accounts"></a>Teams-Konten verwalten
 

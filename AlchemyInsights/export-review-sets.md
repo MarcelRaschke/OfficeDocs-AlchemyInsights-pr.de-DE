@@ -3,22 +3,21 @@ title: Exportieren von Prüfdateisätzen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 09/21/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "13993"
 - "3200003"
-ms.openlocfilehash: 9b2953dcbb868dd90db252e2aeda58e94cd0c1bc
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+- "13993"
+ms.date: 09/21/2021
+ms.openlocfilehash: 48484f8ed493cbbfd19c38be2569560689addbf9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65592796"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66311616"
 ---
 # <a name="export-review-sets"></a>Exportieren von Prüfdateisätzen
 

@@ -3,22 +3,21 @@ title: Probleme mit dem Abrufen von Zugriffstokens
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/20/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7776"
 - "9004351"
-ms.openlocfilehash: 2136d6851891f447a54eac72e624f79125f1399b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "7776"
+ms.date: 01/20/2021
+ms.openlocfilehash: b72535e5f8efdae49eb261edb25213cdff2a2906
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733548"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66258094"
 ---
 # <a name="issues-with-getting-access-tokens"></a>Probleme mit dem Abrufen von Zugriffstokens
 

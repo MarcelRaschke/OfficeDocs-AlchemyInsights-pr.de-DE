@@ -1,27 +1,26 @@
 ---
-title: Allgemeine Informationen Outlook-Add-Ins
+title: Allgemeine Informationen zu Outlook-Add-Ins
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 05c8d8ff011caf208caf33030723d80c9704b3d8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 8e6d10b9efbe3792cc49ab6eea2b0dfb24ccbedb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63237616"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66311184"
 ---
-# <a name="general-outlook-add-ins-information"></a>Allgemeine Informationen Outlook-Add-Ins
+# <a name="general-outlook-add-ins-information"></a>Allgemeine Informationen zu Outlook-Add-Ins
 
-Auf dieser Website finden Sie Ihre gesamten Dokumentationsressourcen zum [Erstellen von Outlook-Add-Ins](https://docs.microsoft.com/office/dev/add-ins/outlook/).
+Besuchen Sie diese Website für Ihre All-In-Dokumentationsressourcen zum [Erstellen von Outlook-Add-Ins](https://docs.microsoft.com/office/dev/add-ins/outlook/).
 
 Weitere Ressourcen zum Verwalten, Bereitstellen und Aktivieren von Add-Ins finden Sie unter:
 

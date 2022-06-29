@@ -3,26 +3,25 @@ title: Anwendungsfehler
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7841"
-ms.openlocfilehash: faf4ee3333eb2d8ffc7f15c9d6e858219cb0b069
-ms.sourcegitcommit: 5cdb7885e5ac2787c6616101ee1bc7fb23809427
+ms.date: 01/25/2021
+ms.openlocfilehash: 9f3a2ee60663cd5964189987a31cb002ce083a0f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65219742"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66312555"
 ---
 # <a name="application-errors"></a>Anwendungsfehler
 
-Suchen Sie nach Informationen zu den **AADSTS-Fehlercodes**, die vom Azure Active Directory (Azure AD) Security Token Service (STS) zurückgegeben werden? Lesen Sie [Azure AD-Authentifizierung- und Autorisierungsfehlercodes](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes), um AADSTS-Fehlerbeschreibungen, Korrekturen und einige vorgeschlagene Problemumgehungen zu finden.
+Suchen Sie nach Informationen zu den **AADSTS-Fehlercodes** , die vom Azure Active Directory (Azure AD) Security Token Service (STS) zurückgegeben werden? Lesen Sie [Azure AD-Authentifizierung- und Autorisierungsfehlercodes](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes), um AADSTS-Fehlerbeschreibungen, Korrekturen und einige vorgeschlagene Problemumgehungen zu finden.
 
 Autorisierungsfehler können infolge verschiedener Probleme auftreten, von denen die meisten eine 401- oder 403-Fehlermeldung generieren. Die folgenden Beispiele können zu Autorisierungsfehlern führen:
 
@@ -64,11 +63,11 @@ Bei delegierten Codeflüssen wertet Microsoft Graph aus, ob die Anforderung basi
 
 **„403 Forbidden“: Haben Sie die richtige Ressourcen-API ausgewählt?**
 
-API-Dienste wie Microsoft Graph überprüfen, ob der aud-Anspruch (Zielgruppe) im empfangenen Zugriffstoken dem wert entspricht, den er für sich selbst erwartet, und wenn nicht, führt dies zu einem 403 Forbidden-Fehler. Ein häufiger Fehler, der zu diesem Fehler führt, ist der Versuch, ein für Azure AD-Graph-APIs, Outlook-APIs oder Microsoft Office SharePoint Online-/OneDrive-APIs erworbenes Token zu verwenden, um Microsoft Graph aufzurufen (oder umgekehrt). Stellen Sie sicher, dass die Ressource (oder der Geltungsbereich), für die Ihre Anwendung ein Token erwirbt, mit der API übereinstimmt, die von der Anwendung aufgerufen wird.
+API-Dienste wie Microsoft Graph überprüfen, ob der aud-Anspruch (Zielgruppe) im empfangenen Zugriffstoken dem wert entspricht, den er für sich selbst erwartet, und wenn nicht, führt er zu einem 403 Forbidden-Fehler. Ein häufiger Fehler, der zu diesem Fehler führt, ist der Versuch, ein für Azure AD-Graph-APIs, Outlook-APIs oder Microsoft Office SharePoint Online-/OneDrive-APIs erworbenes Token zu verwenden, um Microsoft Graph aufzurufen (oder umgekehrt). Stellen Sie sicher, dass die Ressource (oder der Geltungsbereich), für die Ihre Anwendung ein Token erwirbt, mit der API übereinstimmt, die von der Anwendung aufgerufen wird.
 
 **„400 Bad Request“ oder „403 Forbidden“: Entspricht der Benutzer die Richtlinien für den bedingten Zugriff (CA) des Unternehmens?**
 
-Basierend auf den Ca-Richtlinien einer Organisation kann ein Benutzer, der über Ihre App auf Microsoft Graph-Ressourcen zugreift, um zusätzliche Informationen bitten, die nicht im Zugriffstoken vorhanden sind, das Ihre App ursprünglich erworben hat. In diesem Fall empfängt Ihre Anwendung den Fehler „400“ mit *interaction_required* beim Erwerb des Zugriffstokens oder den Fehler „403“ mit *insufficient_claims* beim Aufruf von Microsoft Graph. In beiden Fällen enthält die Fehlerantwort zusätzliche Informationen, die dem autorisierenden Endpunkt vorgewiesen werden können, um den Benutzer um zusätzliche Informationen zu bitten (wie Multi-Faktor-Authentifizierung oder Geräteregistrierung).
+Basierend auf den Ca-Richtlinien einer Organisation kann ein Benutzer, der über Ihre App auf Microsoft Graph-Ressourcen zugreift, aufgefordert werden, zusätzliche Informationen zu erhalten, die nicht im Zugriffstoken vorhanden sind, das Ihre App ursprünglich erworben hat. In diesem Fall empfängt Ihre Anwendung den Fehler „400“ mit *interaction_required* beim Erwerb des Zugriffstokens oder den Fehler „403“ mit *insufficient_claims* beim Aufruf von Microsoft Graph. In beiden Fällen enthält die Fehlerantwort zusätzliche Informationen, die dem autorisierenden Endpunkt vorgewiesen werden können, um den Benutzer um zusätzliche Informationen zu bitten (wie Multi-Faktor-Authentifizierung oder Geräteregistrierung).
 
 - [Behandeln von Problemen mit bedingtem Zugriff mit MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
 - [Leitfaden für Entwickler für den bedingten Azure Active Directory-Zugriff](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)

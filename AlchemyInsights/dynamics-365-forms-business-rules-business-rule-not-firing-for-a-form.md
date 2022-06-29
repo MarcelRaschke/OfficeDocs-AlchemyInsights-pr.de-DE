@@ -3,20 +3,20 @@ title: Dynamics 365 Forms Business Rules – Geschäftsregel, die nicht für ein
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1467"
 - "6200018"
-ms.openlocfilehash: 6cb399bdae4954f9a159d63761c4f4adf3188e1b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1467"
+ms.openlocfilehash: 615f23bc360e93e1c8376434ffc2b6bdd33fb65d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65729368"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66259282"
 ---
 # <a name="business-rule-not-firing-for-a-form"></a>Geschäftsregel, die nicht für ein Formular ausgelöst wird
 

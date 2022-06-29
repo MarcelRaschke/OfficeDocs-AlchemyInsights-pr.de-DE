@@ -3,25 +3,24 @@ title: Erstellen einer E-Mail-Signaturvorlage
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/18/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: bcc45c96088b070ea1bad8e328564b980a1df1f6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 12/18/2020
+ms.openlocfilehash: 4e831479c251047cb90adf916f3412d60ffc2cec
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63154291"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66357627"
 ---
 # <a name="create-an-email-signature-template"></a>Erstellen einer E-Mail-Signaturvorlage
 
-Es gibt viele Unternehmen, die sich auf Vorlagen für E-Mail-Signaturen spezialisiert haben, und sie stellen auch hervorragende Ressourcen bereit. Ich empfehlen, eine davon zu untersuchen.
+Es gibt viele Unternehmen, die sich auf E-Mail-Signaturvorlagen spezialisiert haben, und sie bieten auch großartige Ressourcen. Ich empfehle, einen davon zu betrachten.
 
-Suchen Sie im Internet nach **E-Mail-Signaturvorlagen**.
+Bitte suchen Sie im Internet nach **Vorlagen für E-Mail-Signaturen**.

@@ -3,22 +3,21 @@ title: Durchsetzung des Postfach-Empfangslimit
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/31/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "13711"
 - "9008580"
-ms.openlocfilehash: 19e4e08857e9e368020976b4a22351836cf08cd6
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "13711"
+ms.date: 08/31/2021
+ms.openlocfilehash: 4c5c2f546390b187e193a97376a41e57473301d3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65727845"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66257627"
 ---
 # <a name="mailbox-receiving-limit-enforcement"></a>Durchsetzung des Postfach-Empfangslimit
 

@@ -1,23 +1,22 @@
 ---
-title: Hinzufügen eines Gasts zu Microsoft Teams (Automatischer Vorschlag)
+title: Hinzufügen eines Gasts zu Microsoft Teams (automatischer Vorschlag)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "3182"
 - "6500001"
-ms.openlocfilehash: 39f0c3bdeda32785f9785c2b39a58cf78acbea9e
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "3182"
+ms.openlocfilehash: cb9ab839156843c32de4dd01e03c68ca8470811d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722820"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66313383"
 ---
 # <a name="add-a-guest-to-microsoft-teams"></a>Hinzufügen eines Gasts zu Microsoft Teams
 

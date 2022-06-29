@@ -3,22 +3,21 @@ title: Hybrid MDM
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6739"
 - "9003778"
-ms.openlocfilehash: 3bc70732be87230af2867a4131cf47080f7494d5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6739"
+ms.date: 08/03/2020
+ms.openlocfilehash: 36f0d600f28f08e2f144a270ac8618b2f6895ad7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63090802"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66258490"
 ---
 # <a name="hybrid-mdm"></a>Hybrid MDM
 

@@ -3,21 +3,20 @@ title: Abrufen neuer Service-Telefonnummern für Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5140"
-ms.openlocfilehash: 2494f3284ffe2c0c26192ae940fab11af728ac9e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 813ca79547d97b25ff9a930e7e4659923709e036
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63307337"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66311004"
 ---
 # <a name="get-new-service-numbers-for-teams"></a>Abrufen neuer Service-Telefonnummern für Teams
 

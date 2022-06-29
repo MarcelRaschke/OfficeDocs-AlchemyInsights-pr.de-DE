@@ -3,29 +3,28 @@ title: 8000047 Erstellen einer E-Mail-Signatur in Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
+- "8000047"
 - "810"
 - "1401"
-- "8000047"
-ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 90de3ac9f84f82a5dfb7e16593acc74698177c7c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: fe12eb97aea12bcef9f511de2abe8f3c4f1b7a98
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63171679"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66258634"
 ---
-# <a name="how-to-create-an-email-signature"></a>So erstellen Sie eine E-Mail-Signatur
+# <a name="how-to-create-an-email-signature"></a>Erstellen einer E-Mail-Signatur
 
-Wechseln Sie zu Den [Einstellungen zum Verfassen und Antworten](https://go.microsoft.com/fwlink/?linkid=2006164) (**Einstellungen** \> **Alle Outlook Einstellungen** \> **zum Verfassen und Antworten** anzeigen).
+Wechseln Sie zu Ihren [Einstellungen für Verfassen und Antworten](https://go.microsoft.com/fwlink/?linkid=2006164) (**Einstellungen** \> **Alle Outlook-Einstellungen** \> anzeigen **Verfassen und Antworten**).
   
- **Hinweis:** Sie können nur eine Signatur pro Konto haben.
+ **Hinweis:** Pro Konto kann nur eine Signatur vorhanden sein.
   
-Erfahren Sie mehr über das [Erstellen und Hinzufügen einer E-Mail-Signatur in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen zum [Erstellen und Hinzufügen einer E-Mail-Signatur in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy).
 

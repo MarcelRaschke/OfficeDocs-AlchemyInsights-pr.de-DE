@@ -1,5 +1,5 @@
 ---
-title: Offboarding von Geräten von Microsoft Defender Advanced Threat Protection
+title: Offboard-Geräte von Microsoft Defender Advanced Threat Protection
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -8,17 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 67eb68cc3c727d9ed88bd7b2f6a7b47deae7b2f1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: ab3105215144961d3ffb6a9d76016a2a3a8d333c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63154363"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66357051"
 ---
-# <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>Offboarding von Geräten von Microsoft Defender Advanced Threat Protection
+# <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>Offboard-Geräte von Microsoft Defender Advanced Threat Protection
 
-Weitere Informationen finden Sie [unter Offboarding Windows 10 Geräte](https://go.microsoft.com/fwlink/?linkid=2143629) oder [Offboarding von Nicht-Windows-Geräten](https://go.microsoft.com/fwlink/?linkid=2143630).
+Weitere Informationen finden Sie [unter Offboard Windows 10 Oder](https://go.microsoft.com/fwlink/?linkid=2143629) [Offboard-Nicht-Windows-Geräten](https://go.microsoft.com/fwlink/?linkid=2143630).

@@ -3,25 +3,24 @@ title: App-Proxykonfiguration
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7800"
-ms.openlocfilehash: 22c3c7202a26077d59e9e7c160ea05faedc456ca
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: fcc199e74a69edc0b22805f232f389d9fdeb21e4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63094942"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66312663"
 ---
 # <a name="app-proxy-configuration"></a>App-Proxykonfiguration
 
-1. Informationen zum Konfigurieren einer Anwendungsproxyanwendung innerhalb Azure AD, um Ihre lokalen Anwendungen für die Cloud verfügbar zu machen, finden Sie unter [Konfigurieren einer Anwendungsproxyanwendung](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to).
-2. Single Sign-On (SSO) ermöglicht Ihren Benutzern den Zugriff auf eine Anwendung, ohne sich mehrmals zu authentifizieren. Dadurch kann die einzelne Authentifizierung in der Cloud gegen Azure Active Directory erfolgen, und der Dienst oder Connector kann die Identität des Benutzers annehmen, um alle zusätzlichen Authentifizierungsprobleme der Anwendung auszuführen. Weitere Informationen finden Sie unter [Konfigurieren des einmaligen Anmeldens bei einer Anwendungsproxyanwendung](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to).
-3. Verwenden Sie [diesen Artikel](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) , um häufige Probleme zu beheben, die beim Erstellen einer neuen Anwendungsproxyanwendung auftreten.
-4. Wenn Sie ein Problem beim Einrichten der Back-End-Authentifizierung für Ihre Anwendung haben, müssen Sie möglicherweise [Probleme mit eingeschränkten Kerberos-Delegierungskonfigurationen für Anwendungsproxy](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) behandeln oder Anleitungen zum [Konfigurieren der Anwendung mit PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) befolgen, um das Problem zu beheben.
+1. Informationen zum Konfigurieren einer Anwendungsproxy Anwendung in Azure AD, um Ihre lokalen Anwendungen in der Cloud verfügbar zu machen, finden Sie unter [Konfigurieren einer Anwendungsproxy Anwendung](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to).
+2. Einmaliges Anmelden (Single Sign-On, SSO) ermöglicht Es Ihren Benutzern, auf eine Anwendung zuzugreifen, ohne sich mehrmals authentifizieren zu müssen. Es ermöglicht die einzelne Authentifizierung in der Cloud gegen Azure Active Directory und ermöglicht es dem Dienst oder Connector, die Identität des Benutzers anzunehmen, um alle zusätzlichen Authentifizierungsprobleme aus der Anwendung zu erfüllen. Weitere Informationen finden Sie unter [Konfigurieren des einmaligen Anmeldens bei einer Anwendungsproxy Anwendung](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to).
+3. Verwenden Sie [diesen Artikel](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) , um häufige Probleme zu beheben, mit denen Personen beim Erstellen einer neuen Anwendungsproxyanwendung konfrontiert sind.
+4. Wenn Sie ein Problem beim Einrichten der Back-End-Authentifizierung für Ihre Anwendung haben, müssen Sie [möglicherweise die Problembehandlung bei eingeschränkten Kerberos-Delegierungskonfigurationen für Anwendungsproxy](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) oder anleitungen zum [Konfigurieren der Anwendung mit PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) befolgen, um Das Problem zu beheben.

@@ -3,20 +3,20 @@ title: Dynamics 365 Forms Business Rule Using Fullname Field Not Firing
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1928"
 - "6200018"
-ms.openlocfilehash: 1f08c2e57f7235854fa5010888cc6fbb3225006e
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1928"
+ms.openlocfilehash: 4d5a41b5c626d244520cecc375d0c3fb8f17b804
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65725080"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66259318"
 ---
 # <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Feld "Vollständiger Name" wird bei einheitlichen Inteface-Apps nicht unterstützt
 

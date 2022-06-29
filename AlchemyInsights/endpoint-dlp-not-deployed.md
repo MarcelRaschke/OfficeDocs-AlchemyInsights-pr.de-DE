@@ -8,17 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11470"
 - "9000292"
+- "11470"
 ms.date: 05/26/2022
-ms.openlocfilehash: a0a4886d30911b194f4156d224351b31c4d75637
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: cb16f6e11edd50edace9e0ff8733fb8982d31115
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65718081"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66259102"
 ---
 # <a name="endpoint-dlp-not-deployed-to-users-device"></a>Verhinderung von Datenverlust am Endpunkt auf dem Gerät des Benutzers nicht bereitgestellt
 

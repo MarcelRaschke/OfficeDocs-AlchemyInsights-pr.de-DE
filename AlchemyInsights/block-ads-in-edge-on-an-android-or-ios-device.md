@@ -3,22 +3,21 @@ title: Blockieren von Werbung im Microsoft Edge-Browser auf einem Android- oder 
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8217"
 - "9004596"
-ms.openlocfilehash: d662b12b1048e1be2ba79f264b553fb9a9c1216d
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "8217"
+ms.date: 03/19/2021
+ms.openlocfilehash: 877a2d252f7280254957e7550682035189bfc9ba
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65730414"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66359715"
 ---
 # <a name="block-ads-in-the-microsoft-edge-browser-on-an-android-or-ios-device"></a>Blockieren von Werbung im Microsoft Edge-Browser auf einem Android- oder iOS-Gerät
 

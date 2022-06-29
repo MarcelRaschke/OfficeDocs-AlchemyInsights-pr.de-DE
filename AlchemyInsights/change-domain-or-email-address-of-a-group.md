@@ -3,22 +3,21 @@ title: Ändern der Domäne oder E-Mail-Adresse einer Gruppe
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 10/01/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "14026"
 - "9003196"
-ms.openlocfilehash: 885ada492007663808b869383b8c86f24b9d6a8e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "14026"
+ms.date: 10/01/2021
+ms.openlocfilehash: 69c6b8d0fbb62c6862f3c8ee2cbddb65e7dfff54
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63300757"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66358728"
 ---
 # <a name="change-the-domain-or-email-address-of-a-group"></a>Ändern der Domäne oder E-Mail-Adresse einer Gruppe
 

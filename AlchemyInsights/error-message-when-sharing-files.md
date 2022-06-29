@@ -3,30 +3,29 @@ title: Fehlermeldung beim Freigeben von Dateien
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: 736e075501d0c915847c15ac8c1de57553cde9f4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: f8fd10b8da6e7244aaa64ff82b4b6534ffb12acb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63277145"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66258994"
 ---
 # <a name="error-messages-when-sharing"></a>Fehlermeldungen beim Teilen
 
-Wenn Beim Versuch, eine Freigabe für einen externen Benutzer auszuführen, eine Fehlermeldung angezeigt wird, ist die externe Freigabe höchstwahrscheinlich nicht aktiviert oder die Freigabe ist so festgelegt, dass die Freigabestufe, die der Benutzer versucht, nicht zulässig ist.
+Wenn Sie beim Versuch, die Freigabe für einen externen Benutzer freizugeben, eine Fehlermeldung erhalten, ist die externe Freigabe höchstwahrscheinlich nicht aktiviert, oder die Freigabe ist so festgelegt, dass die Freigabeebene, die der Benutzer versucht, nicht zulässt.
   
-Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **Freigabe**. Wählen Sie die Freigabestufe aus, die Sie zulassen möchten. Stellen Sie sicher, dass die externe Freigabe für die Website aktiviert ist. 
+Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **"Freigabe** ". Wählen Sie die Freigabeebene aus, die Sie zulassen möchten. Stellen Sie sicher, dass die externe Freigabe für die Website aktiviert ist. 
   
-Wenn der Benutzer, der sich anzumelden versucht, eine Fehlermeldung erhält, führen Sie die folgenden Schritte aus:
+Wenn der Benutzer, der sich anmelden möchte, eine Fehlermeldung erhält, führen Sie die folgenden Schritte aus:
   
-- Stellen Sie sicher, dass der Benutzer die gesendete Freigabe-Einladung angenommen hat.
+- Stellen Sie sicher, dass der Benutzer die gesendete Freigabeeinladung akzeptiert hat.
     
-- Stellen Sie sicher, dass der Benutzer die Einladung mit der E-Mail-Adresse annimmt, an die er gesendet wurde.
+- Stellen Sie sicher, dass der Benutzer die Einladung mit der E-Mail-Adresse akzeptiert, an die sie gesendet wurde.
     
 

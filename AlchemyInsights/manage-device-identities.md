@@ -3,22 +3,21 @@ title: Verwalten von Geräteidentitäten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6118"
 - "9003240"
-ms.openlocfilehash: 8e75855af9dac84307bfbc0501adac902cbd54e2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6118"
+ms.date: 08/03/2020
+ms.openlocfilehash: f6522b1e42c52165eef9b4506853e75ee7d795ac
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63184389"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66257590"
 ---
 # <a name="manage-device-identities"></a>Verwalten von Geräteidentitäten
 

@@ -8,16 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 202754d033b694a34df6940dd52151a65556c18a
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 69a31657531bb4ccdf61689e02194ac8ee1674b0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65724432"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66357267"
 ---
 # <a name="disable-or-delete-an-archive-mailbox"></a>Deaktivieren oder Löschen eines Archivpostfachs
 

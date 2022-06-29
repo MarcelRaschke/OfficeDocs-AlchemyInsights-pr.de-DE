@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jamitche, jmueller
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,12 +14,12 @@ ms.custom:
 - "9002612"
 - "5073"
 ms.date: 08/10/2021
-ms.openlocfilehash: 475c64885fec6698ea0767465b366ed28172910e
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 197d596fd1aaa392023cb7ba84e95ff2a0037fe9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65717675"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66358419"
 ---
 # <a name="change-payment-method-fromto"></a>Ändern der Zahlungsmethode von/zu
 

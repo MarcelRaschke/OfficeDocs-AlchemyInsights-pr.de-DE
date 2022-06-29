@@ -3,21 +3,20 @@ title: Beendigung von Abonnements durch den Besitzer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6838"
-ms.openlocfilehash: c77ba63b80b9090532e149c6b52f1ff405849849
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 0d2fb46c4119043f79a5a57e0e6a2c3c69b9a172
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63208220"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66359211"
 ---
 # <a name="cancellation-of-a-subscription-by-owner"></a>Beendigung von Abonnements durch den Besitzer
 

@@ -3,22 +3,21 @@ title: Steuern des Zugriffs von nicht verwalteten Geräten
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1788"
 - "9000213"
-ms.openlocfilehash: d5b857b8f65bfe59c45168f6f81e7fb2707c1beb
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1788"
+ms.date: 02/19/2021
+ms.openlocfilehash: bff36a0196f41e3280e05154b2a38c2db58198d1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63162139"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66357735"
 ---
 # <a name="control-the-access-from-unmanaged-devices"></a>Steuern des Zugriffs von nicht verwalteten Geräten
 

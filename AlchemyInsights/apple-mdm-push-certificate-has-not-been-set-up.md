@@ -3,22 +3,21 @@ title: Das Apple MDM-Push-Zertifikat wurde nicht eingerichtet
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "2634"
 - "9000770"
-ms.openlocfilehash: 9a6c601b64e96a9a7b10c89daba347d5792c34b9
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "2634"
+ms.date: 07/27/2020
+ms.openlocfilehash: ce3e5fd29e186b9cae2e4d2a4742c5a1669e3846
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63242009"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66359859"
 ---
 # <a name="apple-mdm-push-certificate-has-not-been-set-up"></a>Das Apple MDM-Push-Zertifikat wurde nicht eingerichtet
 

@@ -3,29 +3,28 @@ title: Verwalten von Benutzerprofilen in Delve
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 314ba58b9c28f262865d5a65cf4e9225e433b7b3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: d220d7ac097df9e7d9a6af1e1e9d3e057e7dafa0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63255545"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66257410"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Verwalten von Benutzerprofilen in Delve
 
-mit Office Delve können Benutzer ihr Benutzerprofil verwalten. Benutzer können:
+Mit Office Delve können Benutzer ihr Benutzerprofil verwalten. Benutzer können:
   
 - Anzeigen und Aktualisieren ihrer Informationen
-- Einige Informationen privat halten
-- Ändern des Profil- oder Titelbilds
-- Ändern des Sprach- und Zeitformats für Delve
+- Halten Sie einige Informationen privat
+- Ändern des Profils oder Deckblatts
+- Ändern der Sprache und des Uhrzeitformats für Delve
 
-**Hinweis**: Wenn ein Benutzer sein Profilbild aktualisiert hat und die Änderung nicht in SharePoint oder OneDrive angezeigt wird, bitten Sie ihn, einen Webbrowser zu öffnen, [zu Office.com zu wechseln](https://www.office.com), sich mit dem Geschäfts-, Schul- oder Unikonto anzumelden und dann auf die Kachel OneDrive oder SharePoint zu klicken. Dadurch wird das Profilbild zur Synchronisierung aufgefordert. Der Benutzer muss möglicherweise versuchen, diese Schritte mit der privaten Version seines Browsers auszuführen.
+**Hinweis**: Wenn ein Benutzer sein Profilbild aktualisiert hat und die Änderung nicht in SharePoint oder OneDrive angezeigt wird, bitten Sie ihn, einen Webbrowser zu öffnen, [zu Office.com zu wechseln](https://www.office.com), sich mit dem Geschäfts-, Schul- oder Unikonto anzumelden, und klicken Sie dann auf die OneDrive- oder SharePoint-Kachel. Dadurch wird das Profilbild zur Synchronisierung aufgefordert. Möglicherweise muss der Benutzer versuchen, diese Schritte mit der privaten Version seines Browsers auszuführen.
   
 [Weitere Informationen zum Aktualisieren von Profilen in Delve](https://go.microsoft.com/fwlink/?linkid=735070)

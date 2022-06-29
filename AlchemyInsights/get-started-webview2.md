@@ -3,20 +3,20 @@ title: Erste Schritte mit Microsoft WebView2
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/22/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
-- "11938"
 - "9007100"
-ms.openlocfilehash: 3df3862da82f5eaedc49ff8c7ebc15c757efeb13
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "11938"
+ms.date: 07/22/2021
+ms.openlocfilehash: 7781b25185a795221b690ac81798d79baec09fbf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65727962"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66310896"
 ---
 # <a name="get-started-with-microsoft-webview2"></a>Erste Schritte mit Microsoft WebView2
 

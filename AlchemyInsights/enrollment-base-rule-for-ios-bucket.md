@@ -1,33 +1,32 @@
 ---
-title: Registrierungsbasisregel für iOS Bucket
+title: Registrierungsbasisregel für iOS-Bucket
 ms.author: erikje
 author: erikje
 manager: dougeby
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 3b42726966359337c099487e8f04473ded32d294
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 2e19c1673b342e796a8ff4b381b68119d40b073d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65724396"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66259066"
 ---
 # <a name="intune-device-enrollment"></a>Intune Geräteregistrierung
 
 [Informationen zur Geräteregistrierung mit InTune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-[Einrichten iOS Geräteregistrierung mit Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Einrichten der iOS-Geräteregistrierung mit Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Einrichten Android Geräteregistrierung mit Intune](https://docs.microsoft.com/intune/android-enroll)
+[Einrichten der Android-Geräteregistrierung mit Intune](https://docs.microsoft.com/intune/android-enroll)
 
-[Einrichten Windows Geräteregistrierung mit Intune](https://docs.microsoft.com/intune/windows-enroll)
+[Einrichten der Windows-Geräteregistrierung mit Intune](https://docs.microsoft.com/intune/windows-enroll)
 
 Problembehandlung bei der Geräteregistrierung
 

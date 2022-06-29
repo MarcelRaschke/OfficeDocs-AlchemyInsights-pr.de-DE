@@ -3,22 +3,21 @@ title: So verwalten Sie Junk- und Spam-E-Mails in Outlook
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/18/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "13648"
 - "9005646"
-ms.openlocfilehash: 39b479d838a51f40e61c03ac4cd4a389e0b31947
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "13648"
+ms.date: 08/18/2021
+ms.openlocfilehash: b63a0e37147f34fc65e19c518e3ff96896b1bd30
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65726236"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66258562"
 ---
 # <a name="how-to-manage-junk-and-spam-email-in-outlook"></a>So verwalten Sie Junk- und Spam-E-Mails in Outlook
 

@@ -3,24 +3,23 @@ title: Importieren von Favoriten aus Google Chrome oder Mozilla Firefox in Micro
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/30/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9447"
-- "11023"
 - "9005491"
 - "9006474"
-ms.openlocfilehash: 84d3b4600e9e58d7fa7e1753df5d1dfb1222fc9d
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9447"
+- "11023"
+ms.date: 03/30/2021
+ms.openlocfilehash: 81bda1e1451bff7fb9de1b309cebd51c2a366030
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65734448"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66258454"
 ---
 # <a name="import-favorites-from-google-chrome-or-mozilla-firefox-to-microsoft-edge"></a>Importieren von Favoriten aus Google Chrome oder Mozilla Firefox in Microsoft Edge
 

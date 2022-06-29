@@ -3,22 +3,21 @@ title: Probleme mit Token
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7774"
 - "9004351"
-ms.openlocfilehash: c1bd340fff47bbde6457e11e70fed0c983b6256b
-ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
+- "7774"
+ms.date: 01/15/2021
+ms.openlocfilehash: e7358c41c5b810559adaf1620e8bbd069ccc39a7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65395339"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66258022"
 ---
 # <a name="issues-with-tokens"></a>Probleme mit Token
 
@@ -26,7 +25,7 @@ Führen Sie die folgenden Schritte durch, um Probleme im Zusammenhang mit Token 
 
 1. Sie können die Gültigkeitsdauer für von Microsoft Identity Platform ausgestellte Zugriffs-, ID- oder SAML-Tokens angeben. Sie können die Tokengültigkeitsdauer für alle Apps in Ihrer Organisation festlegen, für eine mehrinstanzfähige (multiorganisatorische) Anwendung oder für einen bestimmten Dienstprinzipal in Ihrer Organisation. Weitere Informationen finden Sie unter [Konfigurierbare Tokengültigkeitsdauer in Microsoft Identity Platform (Vorschau)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 2. Zugriffstoken ermöglichen es Clients, geschützte Web-APIs sicher aufzurufen, und werden von Web-APIs zur Authentifizierung und Autorisierung verwendet. Gemäß der OAuth-Spezifikation sind Zugriffstoken nicht transparente Zeichenfolgen ohne festgelegtes Format. Einige Identitätsanbieter (IDPs) verwenden GUIDs, andere verschlüsselte Blobs. Microsoft Identity Platform verwendet eine Vielzahl von Zugriffstokenformaten, abhängig von der Konfiguration der API, die das Token akzeptiert. Unter [Zugriffstoken von Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/userinfo#calling-the-userinfo-endpoint) erfahren Sie, wie Ihre API die Ansprüche in einem Zugriffstoken validieren und verwenden kann.
-3. Die Microsoft-Authentifizierungsbibliothek (MSAL) unterstützt mehrere Authentifizierungsabläufe zur Verwendung in verschiedenen Anwendungsszenarien. Weitere Informationen finden Sie unter [Authentifizierungsabläufe](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows#how-each-flow-emits-tokens-and-codes).
+3. Die Microsoft-Authentifizierungsbibliothek (MSAL) unterstützt mehrere Authentifizierungsflows zur Verwendung in verschiedenen Anwendungsszenarien. Weitere Informationen finden Sie unter [Authentifizierungsflows](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows#how-each-flow-emits-tokens-and-codes).
 4. Die OAuth 2.0-Autorisierungscode-Erteilung kann in Apps verwendet werden, die auf einem Gerät installiert sind, um Zugriff auf geschützte Ressourcen, wie z. B. Web-APIs, zu erhalten. Mit der Microsoft Identity Platform-Implementierung von OAuth 2.0 können Sie Ihren mobilen und Desktop-Apps Anmelde- und API-Zugriff hinzufügen. Weitere Informationen zur direkten Programmierung für das Protokoll in Ihrer Anwendung in einer beliebigen Sprache finden Sie unter [Microsoft Identity Platform und OAuth 2.0 Autorisierungscodeflow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow#refresh-the-access-token).
 5. OpenID Connect (OIDC) ist ein auf OAuth 2.0 aufbauendes Authentifizierungsprotokoll, das Sie für die sichere Anmeldung eines Benutzers bei einer Anwendung verwenden können. Mit der Microsoft Identity Platform-Endpunktimplementierung von OpenID Connect können Sie Ihren Apps Anmelde- und API-Zugriff hinzufügen. Unter [Microsoft Identity Platform und OpenID Connect-Protokoll](https://docs.microsoft.com/azure/active-directory/develop/v2-protocols-oidc#send-the-sign-in-request) wird gezeigt, wie dies sprachunabhängig möglich ist, und beschrieben, wie HTTP-Nachrichten gesendet und empfangen werden können, ohne irgendwelche Open-Source-Bibliotheken von Microsoft zu verwenden.
     - Der UserInfo-Endpunkt ist Teil des OIDC-Standards und dient der Rückgabe von Ansprüchen über den Benutzer, der sich authentifiziert hat. Weitere Informationen finden Sie unter [UserInfo-Endpunkt in Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/userinfo#consider-use-an-id-token-instead).

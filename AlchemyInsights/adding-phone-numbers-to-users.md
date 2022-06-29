@@ -3,21 +3,20 @@ title: Hinzufügen von Telefonnummern zu Benutzern
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002538"
 - "5485"
-ms.openlocfilehash: f14b588810fb210611ed162040da4a5b25a9c772
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: e719a020090b360ec0c2743b331a411dbf3e1797
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63242513"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66313095"
 ---
 # <a name="adding-phone-numbers-to-users"></a>Hinzufügen von Telefonnummern zu Benutzern
 
