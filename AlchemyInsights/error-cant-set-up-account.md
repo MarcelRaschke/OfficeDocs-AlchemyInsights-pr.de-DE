@@ -3,22 +3,21 @@ title: 'Fehler: Leider können wir Ihr Konto im Moment nicht einrichten (NoMatch
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9807"
 - "9005648"
-ms.openlocfilehash: 0ae6ae03f5cedf96d1255a593322beac6c718de5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9807"
+ms.date: 03/16/2021
+ms.openlocfilehash: 9bc968c08020a56e9a7752eef8453eeeba47a662
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63266597"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66269884"
 ---
 # <a name="error-sorry-we-cant-set-up-your-account-right-now-nomatchingeligibleproductsfound"></a>Fehler: Leider können wir Ihr Konto im Moment nicht einrichten (NoMatchingEligibleProductsFound)
 

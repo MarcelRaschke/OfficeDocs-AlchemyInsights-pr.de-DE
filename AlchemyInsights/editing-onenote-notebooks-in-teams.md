@@ -3,21 +3,20 @@ title: Bearbeiten von OneNote-Notizbüchern in Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "4498"
-ms.openlocfilehash: 0df4b2e9ce20c7bb446b402d9d9153a5e6e2b7f2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 7700617668370e9b5ae5e035d15ea58624a3c7a8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63193784"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66339645"
 ---
 # <a name="editing-onenote-notebooks-in-teams"></a>Bearbeiten von OneNote-Notizbüchern in Teams
 

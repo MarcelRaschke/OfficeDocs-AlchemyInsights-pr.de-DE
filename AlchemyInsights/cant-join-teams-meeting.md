@@ -3,22 +3,21 @@ title: Kann Besprechung in Teams nicht beitreten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003566"
 - "6656"
-ms.openlocfilehash: c7e528227bdeb3430b5871633971249022a0904b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 08/20/2020
+ms.openlocfilehash: 17e479a63acfd21ee784be268083b297cfe2aec5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65726452"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66370551"
 ---
 # <a name="cant-join-teams-meeting"></a>Kann Besprechung in Teams nicht beitreten
 

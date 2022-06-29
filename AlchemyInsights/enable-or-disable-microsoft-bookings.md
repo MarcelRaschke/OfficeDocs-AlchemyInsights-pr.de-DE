@@ -3,21 +3,20 @@ title: Aktivieren oder Deaktivieren von Microsoft Bookings
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5499"
-ms.openlocfilehash: 0f9f8eab9b783df135ec89eec9ca558a4708c37f
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 2a63b0949c6a0129512ad14fefc7eb4ac98b7807
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66004337"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66339429"
 ---
 # <a name="enable-or-disable-microsoft-bookings"></a>Aktivieren oder Deaktivieren von Microsoft Bookings
 

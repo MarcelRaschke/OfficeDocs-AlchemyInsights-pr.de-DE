@@ -3,22 +3,21 @@ title: Microsoft Edge als Standardbrowser auf einem MacOS-Gerät festlegen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/29/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10362"
 - "9006005"
-ms.openlocfilehash: 5e073eddb5a49ac759bab3d5e3f1ceddb86027f8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10362"
+ms.date: 03/29/2021
+ms.openlocfilehash: 88a77404dcad478d74fe6c684ed414da98f34847
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63084826"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66291259"
 ---
 # <a name="set-microsoft-edge-as-the-default-browser-on-a-macos-device"></a>Microsoft Edge als Standardbrowser auf einem MacOS-Gerät festlegen
 

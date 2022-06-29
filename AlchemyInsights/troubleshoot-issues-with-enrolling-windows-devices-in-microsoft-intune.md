@@ -1,25 +1,24 @@
 ---
-title: Behandeln von Problemen bei der Registrierung Windows Geräten in Microsoft Intune
+title: Behandeln von Problemen bei der Registrierung von Windows-Geräten in Microsoft Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
-- "784"
 - "6200002"
-ms.openlocfilehash: 96c1af8830df563e7d8e8304686ded786c8d5880
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "784"
+ms.openlocfilehash: ea5c198740676caf904fa5604ffceb987537a0e7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723324"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66371523"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Behandeln von Problemen bei der Registrierung Windows Geräten in Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Behandeln von Problemen bei der Registrierung von Windows-Geräten in Microsoft Intune
 
 Überprüfen Sie die unten aufgeführten Ressourcen, um Ihr Problem jetzt zu beheben.
   
@@ -43,4 +42,4 @@ Zusätzliche Ressourcen zur Behebung Ihres Problems:
 
 -  Sehen Sie sich diese Dokumente an, um eine Liste häufig auftretender Fehler, die die Registrierung verhindern, sowie Lösungen dafür zu finden: [Anleitung zur Problembehandlung](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) und [Problembehandlungsdokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
 
-[Erfahren Sie, wie Sie Windows Geräte in Microsoft Intune registrieren](https://docs.microsoft.com/intune/windows-enroll).
+[Erfahren Sie, wie Sie Windows-Geräte in Microsoft Intune registrieren](https://docs.microsoft.com/intune/windows-enroll).

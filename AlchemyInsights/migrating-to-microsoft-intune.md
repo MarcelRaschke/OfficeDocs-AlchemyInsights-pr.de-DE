@@ -3,21 +3,20 @@ title: Migration zu Microsoft Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001216"
 - "3188"
-ms.openlocfilehash: caf769bccb9c209168e9d1733f528db78694ffe2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 10160d634532138d7bb371de52c692a613360b15
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63273401"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66351168"
 ---
 # <a name="migrating-to-microsoft-intune"></a>Migration zu Microsoft Intune
 

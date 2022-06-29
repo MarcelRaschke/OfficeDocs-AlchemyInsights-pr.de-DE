@@ -3,7 +3,7 @@ title: Ausführen der Clientanalyse unter macOS und Linux
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "9010721"
 - "17185"
 ms.date: 04/21/2022
-ms.openlocfilehash: 3b0c9d462a5a8d8fe9a04d7769a0dd87ab41da31
-ms.sourcegitcommit: 3d98d0d75a405ac1678ac3f0a1c25c67516d13f1
+ms.openlocfilehash: 08fc20194fbca66f9b99c7ff9b6af670b2e8acae
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2022
-ms.locfileid: "65036918"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66291539"
 ---
 # <a name="run-the-client-analyzer-on-macos-and-linux"></a>Ausführen der Clientanalyse unter macOS und Linux
 

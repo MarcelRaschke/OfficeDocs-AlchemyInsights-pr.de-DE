@@ -3,22 +3,21 @@ title: Benutzer durch das Senden von Schulungs-E-Mails schulen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 09/13/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12307"
 - "9007384"
-ms.openlocfilehash: 4a282f435a67d27914132c2d07d27a128bff9b77
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "12307"
+ms.date: 09/13/2021
+ms.openlocfilehash: cca2c7eb174a7b60bca028e4966ba30a67ac4f22
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63173011"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66339537"
 ---
 # <a name="educate-users-by-sending-training-emails"></a>Benutzer durch das Senden von Schulungs-E-Mails schulen
 

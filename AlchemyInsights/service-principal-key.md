@@ -3,22 +3,21 @@ title: Dienstprinzipalschlüssel
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7980"
 - "9004340"
-ms.openlocfilehash: fded51b1c2e9791e16effdbc0eb011816090fbd2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7980"
+ms.date: 01/25/2021
+ms.openlocfilehash: f0e4ba0e132e90673a936e3d74c868bc8cbff32d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63221865"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66291295"
 ---
 # <a name="service-principal-key"></a>Dienstprinzipalschlüssel
 

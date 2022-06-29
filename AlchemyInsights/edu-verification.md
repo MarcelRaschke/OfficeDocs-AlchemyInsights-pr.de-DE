@@ -3,21 +3,20 @@ title: EDU-Überprüfung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 6490888a9b604894e19c3fa886b2829a04c680bc
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 1f5d045d59e3aeba06ea14f46ec02f943cc27191
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66004625"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66339609"
 ---
 # <a name="edu-verification"></a>EDU-Überprüfung
 

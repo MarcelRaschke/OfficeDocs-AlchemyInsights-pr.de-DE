@@ -3,22 +3,21 @@ title: Gruppenrückschreiben
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8305"
 - "9003234"
-ms.openlocfilehash: d88ae874ff8d0a2139814fd451685e2715671882
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8305"
+ms.date: 02/15/2021
+ms.openlocfilehash: 4433232f7a7bc0b78cae06fdd4619972afa5591f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63203216"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66268840"
 ---
 # <a name="group-writeback"></a>Gruppenrückschreiben
 

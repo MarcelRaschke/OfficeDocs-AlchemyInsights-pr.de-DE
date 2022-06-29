@@ -3,21 +3,20 @@ title: Hilfe für Windows-Designs
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9005404"
 - "9935"
-ms.openlocfilehash: 3de58658a5957720e5a003c66c214207900731e1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c6fe740e22eff66db630e3d9deffe6481e63a0f8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63236967"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66268732"
 ---
 # <a name="help-with-windows-themes"></a>Hilfe für Windows-Designs
 

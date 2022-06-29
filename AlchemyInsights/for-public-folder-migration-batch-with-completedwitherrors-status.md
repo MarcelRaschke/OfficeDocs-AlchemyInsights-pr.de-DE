@@ -3,21 +3,20 @@ title: Für Migrationsbatch für öffentliche Ordner mit CompletedWithErrors-Sta
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: e3b7c63ca87e7f1f46cabeb1f7b3526637de036d
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 556d930dfd30c27fc64c178ed34d177572681265
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65717531"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66269200"
 ---
 # <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Für Migrationsbatch für öffentliche Ordner mit CompletedWithErrors-Status
 

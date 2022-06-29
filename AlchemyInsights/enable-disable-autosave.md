@@ -3,22 +3,21 @@ title: So wird AutoSpeichern aktiviert/ deaktiviert
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/26/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11048"
 - "9000610"
-ms.openlocfilehash: 71a8caa92169169816e726640e37fbaecceead29
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11048"
+ms.date: 04/26/2021
+ms.openlocfilehash: 9fb09f96c09a1c1c4eb29453deb1f49fa45373a8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63092098"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66339501"
 ---
 # <a name="how-to-enabledisable-autosave"></a>So wird AutoSpeichern aktiviert/ deaktiviert
 

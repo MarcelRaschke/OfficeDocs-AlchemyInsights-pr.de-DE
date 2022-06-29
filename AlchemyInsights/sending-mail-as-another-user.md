@@ -3,22 +3,21 @@ title: Senden von E-Mails als anderer Benutzer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "6439"
 - "3500009"
-ms.openlocfilehash: 207adafa270c0b87dd59921a52510cf4206aa5a8
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "6439"
+ms.date: 04/21/2020
+ms.openlocfilehash: eabeb1631827b80c5f472bd59dd44de282c50ae2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65718513"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66291367"
 ---
 # <a name="sending-mail-as-another-user"></a>Senden von E-Mails als anderer Benutzer
 

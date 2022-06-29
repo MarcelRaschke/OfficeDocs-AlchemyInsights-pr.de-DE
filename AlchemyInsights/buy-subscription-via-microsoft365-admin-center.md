@@ -4,27 +4,26 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: drjones, jmueller
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - commerce_purchase
 - "1400007"
 - "14030"
 ms.date: 10/01/2021
-ms.openlocfilehash: cd3a8905c76ec66dae3ec944cb12fa00f8de0a55
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: f2ea401120579952cc9c802de307f20cee8c2337
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66007859"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66370947"
 ---
 # <a name="buy-a-subscription-through-the-microsoft-365-admin-center"></a>Kaufen eines Abonnements über die Microsoft 365 Admin Center
 
-Wenn Sie bereits über einen Microsoft 365 Mandanten verfügen und ein globaler oder Abrechnungsadministrator sind, können Sie die [Microsoft 365 Admin Center](https://admin.microsoft.com/adminportal/home?ref=homepage) verwenden, um ein Windows 365 Business Abonnement für Ihre Organisation zu kaufen.
+Wenn Sie bereits über einen Microsoft 365-Mandanten verfügen und ein globaler oder Abrechnungsadministrator sind, können Sie die [Microsoft 365 Admin Center](https://admin.microsoft.com/adminportal/home?ref=homepage) verwenden, um ein Windows 365 Business Abonnement für Ihre Organisation zu kaufen.
 
 1. Wechseln Sie im Microsoft 365 Admin Center zur Seite "[**Abrechnungskaufdienste**](https://admin.microsoft.com/AdminPortal/Home?ref=catalog) > ".
 2. Suchen Sie auf der Seite "**Dienste kaufen**" nach Windows 365 Business. Wenn Sie es gefunden haben, klicken Sie auf **Details**.

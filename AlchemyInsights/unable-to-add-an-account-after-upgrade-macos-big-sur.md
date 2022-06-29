@@ -3,22 +3,21 @@ title: Nach dem Upgrade auf macOS 11.6 Big Sur kann kein Konto hinzugefügt werd
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 09/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "13840"
 - "9008627"
-ms.openlocfilehash: df17851f6f5e6dd2b18befe5b2582cf18e54e7f2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "13840"
+ms.date: 09/15/2021
+ms.openlocfilehash: 327434f52ebb11acd99b65fa216dd1246d8d9e6f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63270305"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66304398"
 ---
 # <a name="unable-to-add-an-account-after-upgrading-to-macos-116-big-sur"></a>Nach dem Upgrade auf macOS 11.6 Big Sur kann kein Konto hinzugefügt werden
 

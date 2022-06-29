@@ -3,25 +3,24 @@ title: Problembehandlung bei Nachrichten mit verweigertem Zugriff
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: da8fbc58ec8d0dd2b65e531da18e639269541c84
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.date: 04/21/2020
+ms.openlocfilehash: 07bd996f5d1e52efcd5adc7cb3ea53b09d1b1992
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65591850"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66371847"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Problembehandlung bei Nachrichten mit verweigertem Zugriff
 
-Wenn jemand eine Meldung "Zugriff verweigert" für einen freigegebenen Ordner in SharePoint erhalten hat, hat der Websitesammlungsadministrator möglicherweise "Sperrmodus für Benutzerberechtigungen mit eingeschränktem Zugriff" aktiviert. So deaktivieren Sie dies: 
+Wenn jemand die Meldung "Zugriff verweigert" für einen freigegebenen Ordner in SharePoint erhalten hat, hat der Websitesammlungsadministrator möglicherweise "Sperrmodus für Benutzerberechtigungen mit eingeschränktem Zugriff" aktiviert. So deaktivieren Sie dies: 
   
-1. Navigieren Sie zur Website, klicken Sie auf das Symbol Einstellungen, und klicken Sie dann auf **"Website Einstellungen**".
+1. Navigieren Sie zur Website, klicken Sie auf das Symbol "Einstellungen" und dann auf " **Websiteeinstellungen"**.
     
 2. Klicken Sie unter **Websitesammlungsverwaltung** auf **Websitesammlungsfeatures**.
     

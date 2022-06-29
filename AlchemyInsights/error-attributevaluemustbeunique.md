@@ -3,32 +3,30 @@ title: Error AttributeValueMustBeUnique
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: ''
-ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 8a7e7d6b4b3f87944dcad18650a8646bed97e684
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 6910dae57c3c1cb5fa3b6c9814e3b5c238f98753
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63247769"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66269920"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Fehler: AttributeValueMustBeUnique
 
-Der häufigste Grund für den AttributeValueMustBeUnique-Fehler sind zwei Objekte mit unterschiedlichen SourceAnchor -Objekten (immutableId) mit demselben Wert für die ProxyAddresses- und/oder UserPrincipalName-Attribute. So beheben Sie den AttributeValueMustBeUnique-Fehler:
+Der häufigste Grund für den AttributeValueMustBeUnique-Fehler ist, dass zwei Objekte mit unterschiedlichen SourceAnchor-Attributen (immutableId) denselben Wert für die Attribute "ProxyAddresses" und/oder "UserPrincipalName" aufweisen. So beheben Sie den AttributeValueMustBeUnique-Fehler:
   
-1. Identifizieren Sie die duplizierten proxyAddresses, userPrincipalName oder einen anderen Attributwert, der den Fehler verursacht. Identifizieren Sie außerdem, welche zwei (oder mehr) Objekte an dem Konflikt beteiligt sind. Der von Azure AD Verbinden Health for Sync generierte Bericht kann Ihnen helfen, die beiden Objekte zu identifizieren.
+1. Identifizieren Sie die duplizierten proxyAddresses, userPrincipalName oder einen anderen Attributwert, der den Fehler verursacht. Identifizieren Sie außerdem, welche zwei (oder mehr) Objekte am Konflikt beteiligt sind. Der von Azure AD Connect Health für die Synchronisierung generierte Bericht kann Ihnen helfen, die beiden Objekte zu identifizieren.
     
-2. Identifizieren Sie, welches Objekt weiterhin den duplizierten Wert haben soll und welches Objekt nicht.
+2. Identifizieren Sie, welches Objekt weiterhin über den duplizierten Wert verfügen soll und welches nicht.
     
-3. Entfernen Sie den duplizierten Wert aus dem Objekt, das diesen Wert NICHT aufweisen sollte. Beachten Sie, dass Sie die Änderung in dem Verzeichnis vornehmen sollten, aus dem das Objekt stammt. In einigen Fällen müssen Sie möglicherweise eines der Objekte löschen, die sich in Konflikt befinden.
+3. Entfernen Sie den duplizierten Wert aus dem Objekt, das NICHT über diesen Wert verfügen sollte. Beachten Sie, dass Sie die Änderung im Verzeichnis vornehmen sollten, aus dem das Objekt stammt. In einigen Fällen müssen Sie möglicherweise eines der in Konflikt stehenden Objekte löschen.
     
-4. Wenn Sie die Änderung im lokalen AD vorgenommen haben, lassen Sie Azure AD Verbinden die Änderung synchronisieren, damit der Fehler behoben wird.
+4. Wenn Sie die Änderung im lokalen AD vorgenommen haben, lassen Sie Azure AD Connect die Änderung synchronisieren, damit der Fehler behoben wird.
     
 

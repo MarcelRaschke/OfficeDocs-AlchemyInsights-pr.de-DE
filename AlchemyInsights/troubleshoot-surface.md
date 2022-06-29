@@ -3,22 +3,21 @@ title: Problembehandlung bei Surface
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/14/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10024"
 - "9003951"
-ms.openlocfilehash: 3ff09411305b13d674ea9e43f80411801c4ba847
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10024"
+ms.date: 04/14/2021
+ms.openlocfilehash: d98dd028d028fe28bab59ed22981f848bbc5660d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63209732"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66304694"
 ---
 # <a name="troubleshoot-surface"></a>Problembehandlung bei Surface
 

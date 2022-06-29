@@ -3,22 +3,21 @@ title: Fehlender oder ungenauer Softwarebestand
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/16/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6034"
 - "9001470"
-ms.openlocfilehash: 93b773965e1b46d8b86ca9ea33a51f13d3822a42
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6034"
+ms.date: 07/16/2020
+ms.openlocfilehash: ab1a4b818f1926883129499711de4cbcc92baa19
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63199040"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66290935"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Fehlender oder ungenauer Softwarebestand
 

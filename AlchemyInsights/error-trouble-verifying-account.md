@@ -3,22 +3,21 @@ title: 'Fehler: Wir haben Probleme, Ihr Konto auf diesem Computer zu überprüfe
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9824"
 - "9005394"
-ms.openlocfilehash: 9ba2bf74ee3baf4408d9ad02732efa9f335dde2b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9824"
+ms.date: 03/16/2021
+ms.openlocfilehash: d60f5035e4dfd2bfe7f484298e57a155e34dcdb3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63226725"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66269560"
 ---
 # <a name="error-were-having-trouble-verifying-your-account-on-this-computer"></a>Fehler: Wir haben Probleme, Ihr Konto auf diesem Computer zu überprüfen.
 

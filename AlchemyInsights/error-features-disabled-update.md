@@ -3,22 +3,21 @@ title: 'Fehler: Die meisten Features wurden deaktiviert, da für dieses Produkt 
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9826"
 - "9005394"
-ms.openlocfilehash: 30e0ffd2763c110c5fffbe8b85e83ae8f3124663
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9826"
+ms.date: 03/16/2021
+ms.openlocfilehash: 4ce9dbff336522fc9e77bce3aca99db1eaae2d45
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63277325"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66338997"
 ---
 # <a name="error-most-of-the-features-have-been-disabled-because-this-product-requires-an-update"></a>Fehler: Die meisten Features wurden deaktiviert, da für dieses Produkt ein Update erforderlich ist.
 

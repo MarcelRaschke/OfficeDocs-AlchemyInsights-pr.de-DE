@@ -3,24 +3,23 @@ title: Microsoft Purview Information Protection einrichten
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
+- "9000181"
 - "9004221"
 - "7429"
 - "9254"
-- "9000181"
-ms.openlocfilehash: ab53e871c7f35f695eaab8d42977e04238ddf806
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 12/03/2020
+ms.openlocfilehash: 29340ae89e9291ffc82723488222816508ba9068
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65735024"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66291187"
 ---
 # <a name="set-up-microsoft-purview-information-protection"></a>Microsoft Purview Information Protection einrichten
 

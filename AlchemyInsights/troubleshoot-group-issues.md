@@ -3,22 +3,21 @@ title: Beheben von Gruppenprobleme
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7814"
 - "9004358"
-ms.openlocfilehash: 8786242053fd1931bbcf329019cf584fcf7a7436
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "7814"
+ms.date: 01/15/2021
+ms.openlocfilehash: 135363f847eb2d0a7be8bcf20b9c8aac5f6dda79
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65720969"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66371667"
 ---
 # <a name="troubleshoot-group-issues"></a>Beheben von Gruppenprobleme
 

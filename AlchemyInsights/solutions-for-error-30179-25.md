@@ -3,22 +3,21 @@ title: Lösungen für Fehler 30179-25
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 858c2f23-bcf5-42e4-92c5-8749eed29dfb
 ms.custom:
-- "835"
 - "2000020"
-ms.openlocfilehash: bc7941e3e05ac9231674df43463c1eedba08d538
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "835"
+ms.date: 04/21/2020
+ms.openlocfilehash: 7b3be6e1dbdb2cb3787e80140381c4e9f239090f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65724026"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66290899"
 ---
 # <a name="solutions-for-error-30179-25"></a>Lösungen für Fehler 30179-25
 

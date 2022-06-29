@@ -3,23 +3,22 @@ title: 5.1.90 Ihre Nachricht kann nicht gesendet werden, weil Sie Ihren täglich
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 09/02/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
+- "9008610"
 - "13778"
 - "13779"
-- "9008610"
-ms.openlocfilehash: 63ff4acca86df48ee392df2e455acf1f08bca3fb
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 09/02/2021
+ms.openlocfilehash: 7422235d1e664b5108898f9b54781f11af78bd51
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63242621"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66304146"
 ---
 # <a name="5190-your-message-cant-be-sent-because-youve-reached-your-daily-limit-for-message-recipients"></a>5.1.90 Ihre Nachricht kann nicht gesendet werden, weil Sie Ihren täglichen Empfängerratengrenzwert erreicht haben.
 

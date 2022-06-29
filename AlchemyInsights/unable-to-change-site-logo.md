@@ -3,21 +3,20 @@ title: Website-Logo kann nicht geändert werden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002502"
 - "4868"
-ms.openlocfilehash: 4f7eff816ec92ee81edbc9c178c0641397609e17
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4632e956f6852ef224c69606e5d8ba30c2dce8ad
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63270269"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66304326"
 ---
 # <a name="unable-to-change-site-logo"></a>Website-Logo kann nicht geändert werden
 

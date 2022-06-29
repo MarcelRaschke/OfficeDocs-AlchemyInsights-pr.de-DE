@@ -3,22 +3,21 @@ title: Zuweisen der Sicherheitsadministratorberechtigungen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7363"
 - "9000722"
-ms.openlocfilehash: f1507e7a79d5d3ab5837af5e10c38435b3c5c947
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7363"
+ms.date: 02/19/2021
+ms.openlocfilehash: 861e4d854c90f4a07c7b055886caefbb3db805d5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63162463"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66327099"
 ---
 # <a name="assign-the-security-administrator-permission"></a>Zuweisen der Berechtigung „Sicherheitsadministrator“
 

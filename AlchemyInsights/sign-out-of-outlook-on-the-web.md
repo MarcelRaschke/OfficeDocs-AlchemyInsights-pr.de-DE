@@ -3,21 +3,20 @@ title: Abmelden von Outlook im Web
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: d7a27bf5959b959aa4263b493e3ff34104108384
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 30384f808c1fe9345460803f1adef3176dc3cc06
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63252593"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66290971"
 ---
 # <a name="sign-out-of-outlook-on-the-web"></a>Abmelden von Outlook im Web
 

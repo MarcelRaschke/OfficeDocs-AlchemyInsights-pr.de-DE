@@ -3,23 +3,21 @@ title: Migrieren zu SharePoint Online über den Migrations-Manager
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.assetid: ''
-ms.openlocfilehash: 37650a553b1d8655821edf6fe531b6436814e8d7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 0494e8af26c2ab46e42f082358b58706bced62c4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63296403"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66351255"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrieren zu SharePoint Online über den Migrations-Manager
 

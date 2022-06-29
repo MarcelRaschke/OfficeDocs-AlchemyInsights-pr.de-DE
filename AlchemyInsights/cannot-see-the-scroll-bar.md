@@ -3,21 +3,20 @@ title: Die Scrollleiste wird nicht angezeigt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002966"
 - "5671"
-ms.openlocfilehash: e8b10095afdbe59985d682aa7de4d40d3866fe1a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: e475ba5c9a9b3277f3becd469ef7a77b35df1047
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63218013"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66370911"
 ---
 # <a name="cannot-see-the-scroll-bar"></a>Die Scrollleiste wird nicht angezeigt
 

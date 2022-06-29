@@ -3,22 +3,21 @@ title: Hilfe benötigt mit "mein WLAN-Passwort"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9799"
 - "9005399"
-ms.openlocfilehash: d8ac45e19e31cb24cc67dea5e3753a3e16c6267a
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9799"
+ms.date: 03/16/2021
+ms.openlocfilehash: 0aba8dc9049eeec37386d3bffc25ec9ec1401b18
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722280"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66268753"
 ---
 # <a name="need-help-with-my-wi-fi-password"></a>Hilfe benötigt mit "mein WLAN-Passwort"
 

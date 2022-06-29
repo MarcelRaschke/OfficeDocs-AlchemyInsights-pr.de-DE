@@ -3,28 +3,27 @@ title: Aktivieren des Überwachungsprotokolls
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: dadfa731d039b2516e9bebd235216a1527cd8f85
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: c56f6b8b29de71ef75c7f8b3f1494bd4cb00eec8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65591598"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66326595"
 ---
 # <a name="enable-the-audit-log"></a>Aktivieren des Überwachungsprotokolls
 
 Für die Kommunikationscompliance sind Überwachungsprotokolle erforderlich, um Warnungen anzuzeigen und die von den Prüfern ergriffenen Abhilfemaßnahmen zu verfolgen. Die Überwachungsprotokolle sind eine Zusammenfassung aller Aktivitäten, die einer definierten Organisationsrichtlinie zugeordnet sind, einschließlich jeder Änderung einer Kommunikationscompliancerichtlinie. Gehen Sie wie folgt vor, um die Überwachungsprotokollierung zu aktivieren:
 
 1. Führen Sie eine der folgenden Aktionen aus:
-   - Wechseln Sie in der Microsoft Purview-Complianceportal unter <https://compliance.microsoft.com>zu **"Lösungsüberwachung"**\>. Oder verwenden Sie <https://compliance.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
+   - Im Microsoft Purview-Complianceportal unter <https://compliance.microsoft.com> wechseln Sie zu **Lösungen** \> **Überwachung**. Oder verwenden Sie <https://compliance.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
    - Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> zu **Überwachung**. Oder verwenden Sie <https://security.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
 2. Überprüfen Sie auf der Seite **"Überwachung** ", ob die Registerkarte **"Suchen** " ausgewählt ist, und klicken Sie dann auf das Banner **"Aufzeichnung von Benutzer- und Administratoraktivitäten** starten".
 

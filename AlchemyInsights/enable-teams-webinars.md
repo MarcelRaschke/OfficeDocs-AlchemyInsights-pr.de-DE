@@ -3,22 +3,21 @@ title: Aktivieren von Teams-Webinaren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/02/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11513"
 - "9006672"
-ms.openlocfilehash: d1d12fe7b358f65e0de1a3a567720f8a54e424da
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "11513"
+ms.date: 06/02/2021
+ms.openlocfilehash: 6f663c39b728f724642015e68aa30573a213b557
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65725621"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66339393"
 ---
 # <a name="enable-teams-webinars"></a>Aktivieren von Teams-Webinaren
 

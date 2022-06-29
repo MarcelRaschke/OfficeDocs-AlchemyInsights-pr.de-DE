@@ -3,22 +3,21 @@ title: Problembehandlung Import-Serviceauftrag steckt fest
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/27/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7907"
 - "9003046"
-ms.openlocfilehash: 1246b33b0e748ead503e3292c7b840c8a03e2271
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7907"
+ms.date: 04/27/2021
+ms.openlocfilehash: 243a286ebce70cd414d4a4cec7c7af673190fc07
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63156559"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66371199"
 ---
 # <a name="troubleshooting-import-service-job-stuck"></a>Problembehandlung Import-Serviceauftrag steckt fest
 

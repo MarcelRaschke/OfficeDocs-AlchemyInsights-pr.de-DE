@@ -3,22 +3,21 @@ title: Zuweisen von Berechtigungen für die Erstellung benutzerdefinierter Typen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7363"
 - "9000722"
-ms.openlocfilehash: 0368b89af695c8c1250fd61c0848929633ce5cec
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7363"
+ms.date: 02/19/2021
+ms.openlocfilehash: fe6073f5fed9a51a273151763c2e93f4aba531b5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63241541"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66327171"
 ---
 # <a name="assign-permissions-for-custom-sensitive-information-type-creation"></a>Zuweisen von Berechtigungen für die Erstellung benutzerdefinierter Typen für vertrauliche Informationen
 

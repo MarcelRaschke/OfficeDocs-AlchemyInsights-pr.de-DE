@@ -3,22 +3,21 @@ title: Elemente in SharePoint oder OneDrive können nicht gelöscht werden.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
+- "9000255"
 - "1851"
 - "2377"
-- "9000255"
-ms.assetid: ''
-ms.openlocfilehash: 9ae841d837d3c6da01909183fba6e8510e36a248
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: 35493f11b906b20284dca9eab1587f7aefc8077d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65593516"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66278902"
 ---
 # <a name="unable-to-delete-items"></a>Elemente können nicht gelöscht werden.
 
@@ -28,7 +27,7 @@ ms.locfileid: "65593516"
 
 - Stellen Sie sicher, dass das Element nicht für einen anderen Benutzer [ausgecheckt](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) ist.
 
-- Schließlich können Administratoren [SharePoint Patterns and Practices](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation&preserve-view=true) (PnP) verwenden, das eine Bibliothek mit PowerShell-Befehlen enthält, mit denen Sie komplexe Verwaltungsaktionen ausführen können, z. B. das Löschen hartnäckiger Elemente.
+- Schließlich können Administratoren [SharePoint Patterns and Practices](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation&preserve-view=true) (PnP) verwenden, das eine Bibliothek von PowerShell-Befehlen enthält, mit denen Sie komplexe Verwaltungsaktionen ausführen können, z. B. das Löschen hartnäckiger Elemente.
 - [PNP-Datei entfernen](https://github.com/pnp/powershell/blob/dev/documentation/Remove-PnPFile.md)
 - [PNP-Ordner entfernen](https://github.com/pnp/powershell/blob/dev/documentation/Remove-PnPFolder.md)
 - [PNP-Listenelement entfernen](https://github.com/pnp/powershell/blob/dev/documentation/Remove-PnPListItem.md)
