@@ -3,22 +3,21 @@ title: Ermöglichen Sie es einem Benutzer, ein persönliches Konto mit dem Gesch
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/26/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9127"
 - "9004429"
-ms.openlocfilehash: cbbb165a6ad6cffc8193f6ed30ec2d0bf5bbb5c1
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9127"
+ms.date: 07/26/2021
+ms.openlocfilehash: 1b981afb8171b6d08abf5a3100596f5a415f53d0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65734808"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66315399"
 ---
 # <a name="enable-a-user-to-sync-a-personal-account-with-the-work-account-in-microsoft-edge"></a>Ermöglichen Sie es einem Benutzer, ein persönliches Konto mit dem Geschäftskonto in Microsoft Edge zu synchronisieren
 

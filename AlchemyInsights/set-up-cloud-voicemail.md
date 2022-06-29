@@ -3,21 +3,20 @@ title: Einrichtung oder Problembehandlung von Cloud-Voicemail
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "4567"
-ms.openlocfilehash: 061dad930851b137f5b2c3ff1c91787a559e868e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d8ef01a42feb1b47bab24ff4ee35d92a6050d75c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63232075"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66316515"
 ---
 # <a name="set-up-or-troubleshoot-cloud-voicemail"></a>Einrichtung oder Problembehandlung von Cloud-Voicemail
 

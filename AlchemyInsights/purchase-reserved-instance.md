@@ -3,21 +3,20 @@ title: Reservierte Instanz kaufen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: f1c0e56dc6a37f441d91d6498143fbac6c935de7
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 9e8873fe184de07fcf7684124a0fc2512a0bf539
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65724119"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66318820"
 ---
 # <a name="questions-before-purchase"></a>Fragen vor dem Kauf
 

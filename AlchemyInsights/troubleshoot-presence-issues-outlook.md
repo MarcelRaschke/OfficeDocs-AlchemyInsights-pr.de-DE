@@ -3,22 +3,21 @@ title: Behebung von Präsenzproblemen in Outlook
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/8/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9257"
 - "9003349"
-ms.openlocfilehash: bb1f278102572beacfd68ded89e07f39a64bb810
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9257"
+ms.date: 04/8/2021
+ms.openlocfilehash: 82a093e3c394d76734ef7d53a6de800f1e711c01
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63082918"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66360579"
 ---
 # <a name="troubleshoot-presence-issues-in-outlook"></a>Behebung von Präsenzproblemen in Outlook
 

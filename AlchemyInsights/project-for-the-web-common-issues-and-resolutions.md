@@ -3,21 +3,20 @@ title: Gemeinsame Themen und Lösungen in Project für das Web
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002603"
 - "5021"
-ms.openlocfilehash: e631e575b28f1c739e606c373ba2ca41d717aae6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 8e9803b43d410189aa42664a900497eadc9129a8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63086338"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66363063"
 ---
 # <a name="project-for-the-web-common-issues-and-resolutions"></a>Gemeinsame Themen und Lösungen in Project für das Web
 

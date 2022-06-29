@@ -3,22 +3,21 @@ title: Proxyadressenfehler beim Erstellen eines freigegebenen Postfachs
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: a60fdd860a7a7a542cc33094b9128c2274b08c66
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 04/21/2020
+ms.openlocfilehash: 993c6dedbb6f3c509459235691ca1f4cfec441e9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65728611"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66362775"
 ---
 # <a name="proxy-address-error-while-creating-a-mailbox-or-other-email-enabled-object"></a>Proxyadressenfehler beim Erstellen eines Postfachs oder eines anderen E-Mail-aktivierten Objekts
 

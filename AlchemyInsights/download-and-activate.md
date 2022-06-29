@@ -3,21 +3,20 @@ title: Herunterladen und Aktivieren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3800"
-ms.openlocfilehash: 3536a290a34eebcd5bac7e8ae1e8bbf2f499b68a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: fb9722d6018835e4e6f3767ad6d4a09abe0c4e8b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63215565"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66259498"
 ---
 # <a name="download-and-activate"></a>Herunterladen und Aktivieren
 

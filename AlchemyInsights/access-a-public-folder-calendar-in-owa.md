@@ -3,22 +3,21 @@ title: Zugreifen auf einen Kalender in einem öffentlichen Ordner in OWA (Outloo
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/25/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "634"
 - "3500007"
-ms.openlocfilehash: e693731ebdf6b5b2815f9c9bd50a9f2d77ca3d23
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "634"
+ms.date: 08/25/2020
+ms.openlocfilehash: 26830d0da0f1cc9680437d88ab36f6b763f10b7d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63289097"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66261154"
 ---
 # <a name="access-a-public-folder-calendar-in-owa-outlook-on-the-web"></a>Zugreifen auf einen Kalender in einem öffentlichen Ordner in OWA (Outlook im Web)
 

@@ -3,22 +3,21 @@ title: Zugriff auf „Meine Apps“
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/20/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7856"
 - "9004350"
-ms.openlocfilehash: c377bea5d90386d1ce2fa6bebe6115dc61e0d70b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7856"
+ms.date: 01/20/2021
+ms.openlocfilehash: cfe16cf287eb1c9991c2f1638b3d60f790832839
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63288701"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66314607"
 ---
 # <a name="access-myapps"></a>Zugriff auf „Meine Apps“
 

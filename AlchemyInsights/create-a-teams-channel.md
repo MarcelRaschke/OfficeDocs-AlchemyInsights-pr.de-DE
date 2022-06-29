@@ -3,21 +3,20 @@ title: Erstellen eines Teams-Kanals
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5039"
-ms.openlocfilehash: b9ca30598f95c1456cc5be664eeafdddbb6654da
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 30f6d00b426c4651e3b79858528a784522d05d5b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63205304"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66260038"
 ---
 # <a name="create-a-teams-channel"></a>Erstellen eines Teams-Kanals
 

@@ -3,21 +3,20 @@ title: Auf Project Online zugreifen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "5723"
-ms.openlocfilehash: 3dbfa2d123b2527a720315640f8b6a6fece0faa1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 03426dad1437a734faf56c0fb7f2f7c16f861c05
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63288629"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66314571"
 ---
 # <a name="access-project-online"></a>Auf Project Online zugreifen
 

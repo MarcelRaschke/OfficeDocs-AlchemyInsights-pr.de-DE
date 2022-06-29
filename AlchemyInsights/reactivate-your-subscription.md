@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
 ms.custom:
 - commerce_subscriptions
+- "9001497"
 - "9002304"
 - "4473"
-- "9001497"
 - "4736"
 - "3551"
 ms.date: 08/10/2021
-ms.openlocfilehash: 96ee0098ed7ae1d434fcb7e35dc63e632f4194b2
-ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
+ms.openlocfilehash: 2186306a98d56a6c1e779d061147800eb3071bd9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "66158293"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66362667"
 ---
 # <a name="reactivate-your-subscription"></a>Reaktivieren Ihres Abonnements
 

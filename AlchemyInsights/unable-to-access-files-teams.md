@@ -3,22 +3,21 @@ title: Zugriff auf Dateien in einem Team nicht möglich
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/12/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10922"
 - "9003042"
-ms.openlocfilehash: 772fb4572abda435750acce3e90af7d6a5a008a1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10922"
+ms.date: 04/12/2021
+ms.openlocfilehash: edd49d1a42504a3c1d12ac8f3efc1957e07e3233
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63082248"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66261334"
 ---
 # <a name="unable-to-access-files-in-a-team"></a>Zugriff auf Dateien in einem Team nicht möglich
 

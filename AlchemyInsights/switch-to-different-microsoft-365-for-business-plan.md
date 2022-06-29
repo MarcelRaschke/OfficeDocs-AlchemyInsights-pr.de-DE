@@ -12,20 +12,20 @@ ms.localizationpriority: high
 ms.custom:
 - commerce_subscriptions
 - "1400007"
-- "4548"
 - "9002424"
-- "5124"
 - "9002661"
-- "5160"
 - "9002663"
+- "4548"
+- "5124"
+- "5160"
 - "5168"
 ms.date: 04/05/2022
-ms.openlocfilehash: 1ee518e067db4af677b74417aa6c6d73089cb93f
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: fcad13719d314fdd3a904ef81e949c25d3e66251
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66008138"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66360867"
 ---
 # <a name="upgrade-to-a-different-plan"></a>Zu einem anderen Plan wechseln
 

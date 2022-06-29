@@ -1,27 +1,26 @@
 ---
-title: SharePoint Onlinefreigabe und Berechtigungen
+title: SharePoint Online-Freigabe und Berechtigungen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5803"
-ms.openlocfilehash: c2fa226f617f3cc3eb5bbdc7b0cbfcaf2da487ae
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 5309f33a51dc2751ad4da45a62cfda8f084f0d5e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63180026"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66361299"
 ---
-# <a name="sharepoint-online-sharing-and-permissions"></a>SharePoint Onlinefreigabe und Berechtigungen
+# <a name="sharepoint-online-sharing-and-permissions"></a>SharePoint Online-Freigabe und Berechtigungen
 
-Hier sind einige häufig angeforderte Themen für SharePoint Onlinefreigabe und Berechtigungen
+Hier sind einige häufig angeforderte Themen für SharePoint Online-Freigabe und -Berechtigungen
 
 - [Freigaben und Berechtigungen in der modernen SharePoint-Benutzeroberfläche](https://docs.microsoft.com/sharepoint/modern-experience-sharing-permissions)
 - [SharePoint-Websiteberechtigungen](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)

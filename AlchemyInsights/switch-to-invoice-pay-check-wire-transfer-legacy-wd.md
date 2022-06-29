@@ -3,21 +3,20 @@ title: Umsteigen auf Zahlung per Rechnung (Scheck/Überweisung)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: adb8755047105d74362a8a494ea8174c8216fc42
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 3abea804ff249778d381dea9932700715d2e85a2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65726740"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66315579"
 ---
 # <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Umsteigen auf Zahlung per Rechnung (Scheck/Überweisung)
 

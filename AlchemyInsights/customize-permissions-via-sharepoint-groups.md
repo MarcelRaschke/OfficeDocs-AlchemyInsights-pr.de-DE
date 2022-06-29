@@ -1,26 +1,25 @@
 ---
-title: So passen Sie SharePoint Websiteberechtigungen über SharePoint-Gruppen an
+title: Anpassen von SharePoint-Websiteberechtigungen über SharePoint-Gruppen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3165"
-ms.openlocfilehash: f78b39b1aacf9367d1eb8538a980a90c31bbe5c4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 02e850d8328b4733f7200521c36ee97cc50a7a28
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63300045"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66259750"
 ---
-# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>So passen Sie SharePoint Websiteberechtigungen über SharePoint-Gruppen an 
+# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>Anpassen von SharePoint-Websiteberechtigungen über SharePoint-Gruppen 
 
 Eine SharePoint-Gruppe ist eine Sammlung von Benutzern, die alle über die gleichen Berechtigungen für Websites und Inhalte verfügen. Anstatt Berechtigungen Personen jeweils einzeln zuzuweisen, können Sie mithilfe von Gruppen vielen Personen gleichzeitig bequem die gleiche Berechtigungsstufe zuweisen.
 

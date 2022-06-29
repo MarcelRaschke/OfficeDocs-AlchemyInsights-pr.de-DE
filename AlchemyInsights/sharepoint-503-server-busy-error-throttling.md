@@ -3,31 +3,29 @@ title: SharePoint Online – Drosselung
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/05/2021
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
 ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 530c76bc188b77b77d4726fad0b3d584e01ef844
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d8b44cade644988bde470777ec12c4532da1081d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63231819"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66362055"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Onlinedrosselung
+# <a name="sharepoint-online-throttling"></a>SharePoint Online-Einschränkung
 
 SharePoint Online verwendet Einschränkung, um eine optimale Leistung und Zuverlässigkeit des Diensts SharePoint Online verwalten. Einschränkungsgrenzwerte Ruft die Anzahl von Aktionen eines Benutzers oder gleichzeitige (von Code- oder Skriptblock), um Ressourcen zu verhindern. 
 
-Weitere Informationen zur Drosselung finden Sie unter [Vermeiden von Einschränkungen oder Sperren in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+Weitere Informationen zur Drosselung finden [Sie unter Vermeiden von Drosselung oder Blockierung in SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
-Wenn Sie der Meinung sind, dass dieser Fehler nichts mit der Drosselung zu tun hat, können Sie überprüfen, ob aktive Wartung auf Ihrem Mandanten erfolgt, indem Sie zum [Nachrichtencenter](https://portal.office.com/adminportal/home#/MessageCenter) navigieren.
+Wenn Sie glauben, dass dieser Fehler nicht mit der Drosselung verknüpft ist, können Sie überprüfen, ob aktive Wartungen auf Ihrem Mandanten auftreten, indem Sie zum [Nachrichtencenter](https://portal.office.com/adminportal/home#/MessageCenter) navigieren.
 
- Achten Sie abschließend darauf, dass Sie die Seite ["Dienststatus](https://portal.office.com/adminportal/home#/servicehealth) " besuchen, um nach eventuell auftretenden Empfehlungen/Vorfällen zu suchen.
+ Stellen Sie schließlich sicher, dass Sie die Seite " [Dienstintegrität](https://portal.office.com/adminportal/home#/servicehealth) " besuchen, um nach etwaigen Empfehlungen/Vorfällen zu suchen.
 

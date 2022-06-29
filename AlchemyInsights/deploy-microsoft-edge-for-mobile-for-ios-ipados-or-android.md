@@ -3,25 +3,24 @@ title: Bereitstellen von Microsoft Edge für Mobile für iOS/iPadOS oder Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 86f86800b1989bb125f976c70ba3dc117a57be07
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 03a05fe9ddb3ff28596b57f314c12fdd4a50a2ca
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63129953"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66259606"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Bereitstellen von Microsoft Edge für Mobile für iOS/iPadOS oder Android
 
-Das unten zusammengefasste geführte Szenario hilft Ihnen, Microsoft Edge Benutzern von iOS-, iPadOS- und Android-Geräten zuzuweisen. Nachdem Sie diese Schritte abgeschlossen haben, aktivieren Microsoft Intune Richtlinien die folgenden Features von Microsoft Edge für Unternehmen:
+Das unten zusammengefasste geführte Szenario hilft Ihnen, Microsoft Edge Benutzern von iOS-, iPadOS- und Android-Geräten zuzuweisen. Nachdem Sie diese Schritte ausgeführt haben, aktivieren Microsoft Intune Richtlinien die folgenden Features von Microsoft Edge for Business:
 
 - Duale Identität
 - Integration mit der App-Schutzrichtlinie für Microsoft Intune

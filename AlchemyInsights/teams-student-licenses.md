@@ -3,21 +3,20 @@ title: Teams-Schülerlinzenzen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001723"
 - "3822"
-ms.openlocfilehash: 18433f96ab5242292284300739057e68742f98a4
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 41e2ffb8b2894ee968722783d596c3bc4ced86ae
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66004985"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66315232"
 ---
 # <a name="teams-student-licenses"></a>Teams-Schülerlinzenzen
 

@@ -1,24 +1,23 @@
 ---
-title: Erstellen einer Liste zugelassener Endpunkte für Microsoft Edge
+title: Erstellen einer Zulassungsliste mit Endpunkten für Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003932"
 - "6987"
-ms.openlocfilehash: 0b0a79ed4cbafc855d816180252cda13124854e0
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 491331d6c1b784d385368f1ae68eaeefee65d763
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63205268"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66259966"
 ---
-# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Erstellen einer Liste zugelassener Endpunkte für Microsoft Edge
+# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Erstellen einer Zulassungsliste mit Endpunkten für Microsoft Edge
 
-Damit Ihnen das vollständige Array der Features von Microsoft Edge zur Verfügung steht, müssen Sie es mit dem Internet verbunden haben. Um dem Browser die Kommunikation über Firewalls und andere Sicherheitsmechanismen im Internet zu ermöglichen, müssen Sie eine Reihe von Domänen-URLs zur [Zulassungsliste der Endpunkte](https://go.microsoft.com/fwlink/?linkid=2135054) hinzufügen.
+Damit Ihnen das gesamte Array der Features von Microsoft Edge zur Verfügung steht, müssen Sie es mit dem Internet verbunden haben. Um dem Browser die Kommunikation über Firewalls und andere Sicherheitsmechanismen im Internet zu ermöglichen, müssen Sie der [Zulassungsliste der Endpunkte](https://go.microsoft.com/fwlink/?linkid=2135054) eine Reihe von Domänen-URLs hinzufügen.

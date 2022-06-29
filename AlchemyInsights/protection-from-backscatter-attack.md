@@ -3,22 +3,21 @@ title: Schutz vor Backscatter-Angriffen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/18/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9779"
 - "9005743"
-ms.openlocfilehash: 74715db1f8177cb6229f21a6155400bdcaa337bf
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9779"
+ms.date: 03/18/2021
+ms.openlocfilehash: cc18b158ba6c759b6ceea55363cf01d0dd5bc83e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63252994"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66362847"
 ---
 # <a name="protection-from-backscatter-attack"></a>Schutz vor Backscatter-Angriffen
 

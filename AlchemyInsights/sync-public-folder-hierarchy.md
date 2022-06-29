@@ -1,31 +1,30 @@
 ---
-title: Synchronisieren der Hierarchie öffentlicher Ordner
+title: Öffentliche Ordnerhierarchie synchronisieren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "16396"
 ms.date: 01/21/2022
-ms.openlocfilehash: 96b23723be2910e9a623769fcded83d60c5d3884
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 7229443bcc20e0a80e0e625932bc1a5178f493a2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63179203"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66315327"
 ---
-# <a name="sync-public-folder-hierarchy"></a>Synchronisieren der Hierarchie öffentlicher Ordner
+# <a name="sync-public-folder-hierarchy"></a>Öffentliche Ordnerhierarchie synchronisieren
 
-Es könnten Probleme auftreten, z. B. dass der öffentliche Ordner für bestimmte Benutzer nicht angezeigt wird oder dass Benutzer trotz korrekten Zugriffsrechten keine Aktion ausführen können. Dies sind Indikatoren, die zeigen, dass die Hierarchie öffentlicher Ordner nicht synchronisiert ist.
+Es konnten Probleme wie der öffentliche Ordner angezeigt werden, die für bestimmte Benutzer oder Benutzer nicht in der Lage sind, eine Aktion auszuführen, obwohl sie über den richtigen Zugriff auf Rechte verfügen. Dies sind Indikatoren, die die Hierarchie öffentlicher Ordner nicht synchronisiert.
 
 Führen Sie den folgenden Befehl aus, um eine Hierarchiesynchronisierung zu erzwingen:
 
 `Update-PublicFolderMailbox <PFMailboxName> -InvokeSynchronizer`
 
-Weitere Informationen finden Sie unter ["Einführung in die Synchronisierung der Hierarchie öffentlicher Ordner"](https://aka.ms/PFHierarchy).
+Weitere Informationen finden Sie [unter Einführung in die Synchronisierung der Hierarchie öffentlicher Ordner](https://aka.ms/PFHierarchy).

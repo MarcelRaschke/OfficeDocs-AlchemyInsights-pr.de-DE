@@ -3,22 +3,21 @@ title: Erstellen eines Teams in Microsoft Teams
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/17/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9828"
 - "9004618"
-ms.openlocfilehash: 9c3b9edd98ed2f5d7dd8604f7756c3a4de08dd39
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9828"
+ms.date: 03/17/2021
+ms.openlocfilehash: 7eec32fd7677e7aae4aed921e36d9a43dd2e1afc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63239885"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66260074"
 ---
 # <a name="create-a-team-in-microsoft-teams"></a>Erstellen eines Teams in Microsoft Teams
 

@@ -3,22 +3,21 @@ title: Dienstvorfall wird ausgeführt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: f57713db-eb98-4980-a7fc-b53bf80f7e81
 ms.custom:
-- "113"
 - "1600012"
-ms.openlocfilehash: 7ac2491aaa3151c8cf4252bf7a8d42b9f7deb508
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "113"
+ms.date: 04/21/2020
+ms.openlocfilehash: 0ed91714df4293eec8d5f3ac6dab11c1bdc9f80a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65732287"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66316767"
 ---
 # <a name="service-incident-in-progress"></a>Dienstvorfall wird ausgeführt
 

@@ -8,17 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9010361"
 - "16404"
 ms.date: 01/24/2022
-ms.openlocfilehash: 2cd801593956900ec5f6fc0539b75307187799b8
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: 2d2d0d053ccb5bca13386d30b68ee7ebe2dfe041
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65591706"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66314895"
 ---
 # <a name="about-the-viva-topics-trial"></a>Informationen zur Viva Topics-Testversion
 
@@ -31,4 +30,4 @@ Hier ist, was Sie über die Viva Topics-Testversion wissen müssen:
 - Am Ende der Testversion können Benutzer keine Themenhighlights, Themenkarten, Themenseiten oder das Themencenter mehr anzeigen.  
 - Eine einmalige Verlängerung der Viva Topics Testversion finden Sie unter ["Verlängern Ihrer Testversion](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#extend-your-trial)".  
 
-Weitere Informationen finden Sie [unter Erste Schritte mit Testversionen für Microsoft Viva Topics](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/get-started-with-trials-for-microsoft-viva-topics/ba-p/2234041).  
+Weitere Informationen finden Sie unter ["Erste Schritte mit Testversionen für Microsoft Viva Topics](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/get-started-with-trials-for-microsoft-viva-topics/ba-p/2234041)".  

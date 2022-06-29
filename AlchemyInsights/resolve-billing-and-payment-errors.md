@@ -3,21 +3,20 @@ title: Beheben von Fehlern bei Abrechnung und Zahlung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003021"
 - "5757"
-ms.openlocfilehash: ab7f5ce065c617afd34d232f9e446402850e27ed
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 95eb880e1bed917c2f26b80bc17d1c5d22e74c09
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65732504"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66318027"
 ---
 # <a name="resolving-billing-and-payment-errors"></a>Beheben von Fehlern bei Abrechnung und Zahlung
 

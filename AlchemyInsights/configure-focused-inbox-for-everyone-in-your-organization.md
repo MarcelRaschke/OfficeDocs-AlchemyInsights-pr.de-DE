@@ -1,24 +1,23 @@
 ---
-title: 912 Configure Focused Inbox for everyone in your organization
+title: 912 Konfigurieren des Posteingangs mit Relevanz für alle Benutzer in Ihrer Organisation
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "912"
 - "1800019"
-ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: ea14a61edd0f52b8e8e926a2eed6d90ad427cf66
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "912"
+ms.date: 04/21/2020
+ms.openlocfilehash: ee1101b7a99fe15bcec0887be92eebdb4aa1d6c0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63240461"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66260326"
 ---
 # <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Aktivieren oder Deaktivieren des Posteingangs mit Relevanz für alle Benutzer
 

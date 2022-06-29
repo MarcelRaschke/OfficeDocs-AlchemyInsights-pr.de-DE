@@ -1,28 +1,27 @@
 ---
-title: Teams für virtualisierte Desktopinfrastruktur
+title: Microsoft Teams für Virtualized Desktop Infrastructure
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: d12f1bb1d65455d87dcb17bb9861918aef4cc14a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d998c5e68ed1a4f52940435d51632530461398ed
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63179023"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66360651"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams für virtualisierte Desktopinfrastruktur
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Microsoft Teams für Virtualized Desktop Infrastructure
 
-Ausführliche Informationen zu Teams für Virtualized Desktop Infrastructure-Umgebungen finden Sie unter [Teams für virtualisierte Desktopinfrastruktur](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
+Ausführliche Informationen zu Teams für Virtualized Desktop Infrastructure-Umgebungen finden Sie unter [Teams for Virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
 
-Bekannte Probleme und Einschränkungen in VDI-Umgebungen werden im Abschnitt " [Bekannte Probleme und Einschränkungen" ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) desselben Artikels beschrieben, der die folgenden Themen enthält:
- - Clientbereitstellung, Installation und Setup
+Bekannte Probleme und Einschränkungen in VDI-Umgebungen finden Sie im Abschnitt ["Bekannte Probleme und Einschränkungen ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) " desselben Artikels, der die folgenden Themen enthält:
+ - Clientbereitstellung, -installation und -einrichtung
  - Anrufe und Besprechungen

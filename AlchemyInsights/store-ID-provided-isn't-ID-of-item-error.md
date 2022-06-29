@@ -3,22 +3,21 @@ title: Die angegebene Store-ID ist keine ID eines Elements.
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "6828"
-ms.openlocfilehash: 17c09d1b5b00d693d5cd74cf23d0df9af3984d42
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: b1f9f5e9fda3da8dd584ec48e67d953961a7e6f2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63198572"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66361227"
 ---
-# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>Fehler "Die angegebene Speicher-ID ist keine ID eines Elements".
+# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>Fehler "Die angegebene Store-ID ist keine ID eines Elements".
 
-Wir sind uns dieses Fehlers bewusst, und wir führen eine Lösung aus, die sie in Kürze beheben sollte.
+Wir sind uns dieses Fehlers bewusst, und wir führen einen Fix aus, der ihn bald beheben sollte.

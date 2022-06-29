@@ -3,24 +3,23 @@ title: Entfernen von Daten und Zurücksetzen des Geräts aus Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1279"
 - "6700008"
 - "9004638"
+- "1279"
 - "8392"
-ms.openlocfilehash: f236ddd7f0e0bc2082dd67bc64c893826e41b968
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 07/27/2020
+ms.openlocfilehash: 674c8128753ae6bd8844e24aa81c790bd856a025
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63200012"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66318459"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Entfernen von Daten und Zurücksetzen des Geräts aus Intune
 

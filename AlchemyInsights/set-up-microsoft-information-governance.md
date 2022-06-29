@@ -3,24 +3,23 @@ title: Einrichten von Microsoft Purview-Datenlebenszyklusverwaltung
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/02/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
+- "9000273"
 - "9004220"
 - "7428"
-- "9000273"
 - "9245"
-ms.openlocfilehash: 7a933db578f0ad18bc21e921fb2b2cd26833e216
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 03/02/2021
+ms.openlocfilehash: 4d5e4c61744ac351ed247824dd3ece9f8638abca
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65735096"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66316119"
 ---
 # <a name="set-up-microsoft-purview-data-lifecycle-management"></a>Einrichten von Microsoft Purview-Datenlebenszyklusverwaltung
 

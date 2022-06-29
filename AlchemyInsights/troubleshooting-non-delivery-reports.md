@@ -3,22 +3,21 @@ title: Problembehandlung bei Unzustellbarkeitsberichten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/03/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11136"
 - "3100020"
-ms.openlocfilehash: 57dbaff54ee0a366f489b87c9c416b8777053abc
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11136"
+ms.date: 05/03/2021
+ms.openlocfilehash: 90d528678e74ef4bc56c2d84e7be9a4a00b20df2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63260161"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66261550"
 ---
 # <a name="troubleshooting-non-delivery-reports"></a>Problembehandlung bei Unzustellbarkeitsberichten
 

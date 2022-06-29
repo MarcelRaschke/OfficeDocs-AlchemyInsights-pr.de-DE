@@ -3,28 +3,26 @@ title: Einrichten von SPF
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "309"
-- "565"
 - "1100002"
 - "1100003"
-ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 6539910a1936d3d2e1fbd47543b9f0cb031af806
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+- "309"
+- "565"
+ms.openlocfilehash: 8484784eba3327c8867ae3a199e80a0e6c828702
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66000737"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66316623"
 ---
 # <a name="set-passwords-to-never-expire"></a>Festlegen von Kennwörtern, sodass sie nie ablaufen
 
-Um festzulegen, dass ALLE Kennwörter nie ablaufen, wechseln Sie in der Microsoft 365 Admin Center zur **Einstellungen** >  **Org Einstellungen** >  [**Sicherheits- und Datenschutzkennwortablaufrichtlinie**](https://admin.microsoft.com/AdminPortal/Home?ref=Settings/SecurityPrivacy) > , und deaktivieren Sie die Option **"Benutzerkennwörter festlegen" nach einer Anzahl von Tagen abläuft**.[](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)
+Um festzulegen, dass ALLE Kennwörter nie ablaufen, wechseln Sie in der Microsoft 365 Admin Center zur **Richtlinie** >  für die Sicherheits- und Datenschutzkennwortablaufrichtlinie [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) >  für Die **Organisationseinstellungen** > , und deaktivieren Sie die Option "**Benutzerkennwörter festlegen" nach einer Anzahl von Tagen abläuft**.[](https://admin.microsoft.com/AdminPortal/Home?ref=Settings/SecurityPrivacy)
   
 Ausführlichere Informationen finden Sie unter:
 

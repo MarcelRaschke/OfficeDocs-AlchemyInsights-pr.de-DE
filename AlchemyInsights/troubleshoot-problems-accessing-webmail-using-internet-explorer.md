@@ -3,21 +3,20 @@ title: Behandeln von Problemen beim Zugriff auf Webmail
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003958"
 - "7014"
-ms.openlocfilehash: c8b45e64da36d09d3e84e9bd53b463af2bfb1ed7
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.openlocfilehash: afdf7583b2da61854d381d4e120e054ee2e721bd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65588007"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66360543"
 ---
 # <a name="troubleshoot-problems-with-accessing-webmail"></a>Behandeln von Problemen beim Zugriff auf Webmail
 

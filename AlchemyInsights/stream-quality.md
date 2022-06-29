@@ -3,21 +3,20 @@ title: Qualität von Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002552"
 - "5104"
-ms.openlocfilehash: 7d95bba837f2737e8e7a6692d6a7e7b92d168af8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: e3452dc18b48f51e072dc1ae26bec77aea34d432
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63198500"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66361155"
 ---
 # <a name="stream-quality"></a>Qualität von Stream
 
