@@ -3,8 +3,7 @@ title: Outlook.com AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +11,13 @@ ms.localizationpriority: medium
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 078534089556d763d5e0f9df0f2181b7b4718f36
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 04/21/2020
+ms.openlocfilehash: 4bbf2e1ed63cab2589f6f943b07af66fde4fb6cf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65720069"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66419818"
 ---
 # <a name="adblock"></a>Adblock
 

@@ -3,22 +3,21 @@ title: Wiederherstellen eines Elements, das sich nicht mehr im Ordner "Gelöscht
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/2/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: 4ba4029a9a6f78cb801ae6a95d391cd114b2abc9
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 12/2/2020
+ms.openlocfilehash: 725399e39f71f62ab489c32902425a9342a4e969
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65728574"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66418774"
 ---
 # <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Wiederherstellen eines Elements, das sich nicht mehr im Ordner "Gelöschte Elemente" befindet
 

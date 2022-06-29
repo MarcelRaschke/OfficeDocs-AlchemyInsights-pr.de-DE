@@ -1,25 +1,25 @@
 ---
-title: Outlook.com-Kontaktlisten
+title: Outlook.com Kontaktlisten
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ms.custom:
-- "1850"
-- "9000258"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.openlocfilehash: a8ddb4f687f3bc0211a3dbdba135688f15583e5d
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.custom:
+- "9000258"
+- "1850"
+ms.date: 04/21/2020
+ms.openlocfilehash: 77e2d240eb1d1b5b1b313654bd3b307805fc5a3b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65696886"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66419494"
 ---
-# <a name="organizing-your-outlookcom-mailbox"></a>Organisieren Ihres Outlook.com-Postfachs
+# <a name="organizing-your-outlookcom-mailbox"></a>Organisieren Ihres Outlook.com Postfachs
 
 Eine Kontaktliste ist eine Sammlung von E-Mail-Adressen und eignet sich zum Senden von E-Mails an eine Gruppe von Personen. So erstellen Sie eine Kontaktliste:
 

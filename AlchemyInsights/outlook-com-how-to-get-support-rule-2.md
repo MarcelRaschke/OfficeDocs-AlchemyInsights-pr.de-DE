@@ -1,27 +1,27 @@
 ---
-title: Outlook.com Support erhalten
+title: Outlook.com So erhalten Sie Support
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1326"
 - "8000080"
-ms.openlocfilehash: 44297ec69ca343732e0a38ccd35a0c9d08a7be41
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1326"
+ms.date: 04/21/2020
+ms.openlocfilehash: 6ddc789784ffc5cae5261f51d41a9f4efe7b44fc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65728792"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66419422"
 ---
 # <a name="how-to-get-support-in-outlookcom"></a>So erhalten Sie Support in Outlook.com
 
-Leider bietet Outlook.com keinen Telefonsupport an, aber wir haben dedizierte Teams, die Ihnen helfen können.
+Leider bietet Outlook.com keinen Telefonischen Support an, aber wir haben dedizierte Teams, die Ihnen helfen können.
 Geben Sie Ihre Frage ein, oder beschreiben Sie Ihr Problem im **Hilfefeld oben** , und wählen Sie dann **"Hilfe abrufen**" aus.
 
 [Hilfe zu Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

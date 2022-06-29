@@ -3,8 +3,7 @@ title: Outlook.com kann keine E-Mails empfangen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +11,13 @@ ms.localizationpriority: medium
 ms.custom:
 - "9000252"
 - "1842"
-ms.openlocfilehash: 683e9b7d90e4c6d2f026c64066fc510f3b6b762b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 04/21/2020
+ms.openlocfilehash: 44f0acf7165e0407a8a3aee072998081e4ac5e70
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65718910"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66419674"
 ---
 # <a name="unable-to-receive-email"></a>E-Mail kann nicht empfangen werden.
 
@@ -28,8 +28,8 @@ Wenn Sie Probleme mit Outlook.com haben, überprüfen Sie zuerst den [Dienststat
 3. Überprüfen Sie Ihre **Posteingangsfilter**. 
     1. Zum Filtern wechseln Sie zum Anfang ihrer Nachrichtenliste, und wählen Sie "**Alle** **filtern** > " aus.
     2. Wählen Sie zum Sortieren **"Filtern** > **nach** > **Datum** " oder " **Von" aus**.
-4. Überprüfen Sie die Listen ["Blockierte Absender](https://outlook.live.com/mail/options/mail/junkEmail)" und "Tresor Absender".
+4. Überprüfen Sie die Listen ["Blockierte Absender](https://outlook.live.com/mail/options/mail/junkEmail) " und "Sichere Absender".
 5. Überprüfen Sie Ihre [Posteingangsregeln](https://outlook.live.com/mail/options/mail/rules).
-6. Ihr Konto ist möglicherweise vorübergehend blockiert, weil wir ungewöhnliche Anmeldeaktivitäten bemerkt haben. Siehe ["Aufheben der Blockierung meines Outlook.com-Kontos"](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
+6. Ihr Konto ist möglicherweise vorübergehend blockiert, weil wir ungewöhnliche Anmeldeaktivitäten bemerkt haben. Siehe ["Aufheben der Blockierung meines Outlook.com Kontos](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4)".
 
 Erfahren Sie mehr darüber, wie Sie [probleme mit der E-Mail-Synchronisierung Outlook.com beheben](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
