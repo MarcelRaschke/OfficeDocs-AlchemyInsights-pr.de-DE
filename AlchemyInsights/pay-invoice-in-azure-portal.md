@@ -3,22 +3,21 @@ title: Rechnung in Azure-Portal bezahlen – empfohlene Schritte
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/17/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: ec46cf1a9425c777ee7eefceeefd60e475767fed
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 12/17/2020
+ms.openlocfilehash: 97d768d22d4f1d5a5fa1ddded97d4e4d782f2a8b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65727737"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66319539"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Rechnung in Azure-Portal bezahlen – empfohlene Schritte
 

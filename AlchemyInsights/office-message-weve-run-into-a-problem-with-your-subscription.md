@@ -3,21 +3,20 @@ title: 'Meldung in Microsoft 365-Apps: "Es ist ein Problem mit Ihrem Abonnement 
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 66b36848956855cf35900ac21f888d023f3a44d2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c8c2730eb2a8e46c3ac1909ad35375b1f30ff7b5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63234663"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66364251"
 ---
 # <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Meldung in Microsoft 365-Apps: "Es ist ein Problem mit Ihrem Abonnement aufgetreten"
 

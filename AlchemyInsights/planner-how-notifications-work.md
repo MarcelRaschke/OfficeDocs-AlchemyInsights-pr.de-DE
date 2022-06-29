@@ -3,21 +3,20 @@ title: 'Planner: Wie Benachrichtigungen funktionieren'
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "3809"
 - "9001716"
-ms.openlocfilehash: c5d6fa6e94e9f078cdf1516729b0cb3800f64bb8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "3809"
+ms.openlocfilehash: b91e1a487f191cde8267600f191c2bfd9da00966
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63253673"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66363531"
 ---
 # <a name="planner-how-notifications-work"></a>Planner: Wie Benachrichtigungen funktionieren
 

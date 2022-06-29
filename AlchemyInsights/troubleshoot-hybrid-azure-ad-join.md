@@ -3,24 +3,23 @@ title: Behandeln von Problemen bei der Azure AD Hybrid-Einbindung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/06/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6162"
-- "6158"
 - "9003244"
 - "9003246"
-ms.openlocfilehash: 567214858628838952304086149f4c4f522e6128
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6162"
+- "6158"
+ms.date: 08/06/2020
+ms.openlocfilehash: 1638de38e05bae738d33dd5bb312d388bf1df5f3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63083062"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66261802"
 ---
 # <a name="troubleshoot-hybrid-azure-ad-join"></a>Behandeln von Problemen bei der Azure AD Hybrid-Einbindung
 

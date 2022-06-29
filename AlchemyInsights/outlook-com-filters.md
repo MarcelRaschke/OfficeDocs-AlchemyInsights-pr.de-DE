@@ -1,26 +1,25 @@
 ---
-title: 9000203 Outlook.com-Filter
+title: 9000203 Outlook.com Filter
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "1772"
-- "1793"
 - "9000203"
 - "9000215"
-ms.openlocfilehash: 956cdf44861713cdd764110e748a2c0cf3c28f80
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1772"
+- "1793"
+ms.date: 04/21/2020
+ms.openlocfilehash: 2433c4b095acd4fd3abdb64c1f30dde0bf0f04cc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65735384"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66320252"
 ---
 # <a name="filtering-in-outlookcom"></a>Filtern in Outlook.com
 

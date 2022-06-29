@@ -3,25 +3,24 @@ title: Berechtigungen in Microsoft Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: 3a62907b41d78c4db0dd6ac18f13697eefc62822
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: eac74aa5da898b88005871bc53d90b3e4503df27
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63166927"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66319359"
 ---
 # <a name="permissions-in-microsoft-stream"></a>Berechtigungen in Microsoft Stream
 
-Wenn Sie ein Video hochladen, werden standardmäßig die Berechtigungen festgelegt, damit das Video für das gesamte Unternehmen sichtbar ist. Wenn Sie Berechtigungen für bestimmte Benutzer/Gruppen angeben möchten, können Sie die Videoberechtigungen anpassen.
+Standardmäßig sind beim Hochladen eines Videos die Berechtigungen dafür festgelegt, dass das Video für das gesamte Unternehmen sichtbar ist. Wenn Sie Berechtigungen für bestimmte Benutzer/Gruppen angeben möchten, können Sie die Videoberechtigungen anpassen.
 
 - [Berechtigungen und Datenschutz in Microsoft Stream](https://docs.microsoft.com/stream/portal-permissions)
 

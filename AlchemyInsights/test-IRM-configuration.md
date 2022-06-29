@@ -3,22 +3,21 @@ title: IRM-Konfiguration für neue HOME-Funktionen testen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12428"
 - "9000078"
-ms.openlocfilehash: a5983572e468c1d1ad57932858ea8bed97c69f98
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "12428"
+ms.date: 07/19/2021
+ms.openlocfilehash: 1ebd4ba618138c1d1d5ed819c29fc026c6c2e23f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63260657"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66261910"
 ---
 # <a name="test-irm-configuration-for-new-ome-capabilities"></a>IRM-Konfiguration für neue HOME-Funktionen testen
 

@@ -1,28 +1,27 @@
 ---
-title: Office 2019 auf Terminalserver oder RDS
+title: Office 2019 auf Terminal Server oder RDS
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "3487"
 - "9001419"
-ms.openlocfilehash: 1ac59be85e9bdccff4e5aba3faae2ed3891ed1a8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "3487"
+ms.openlocfilehash: d54d64f4ca6eca12d82707d22537a61f4c0e261c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63305969"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66364287"
 ---
-# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Bereitstellen von Office 2019 für die gemeinsame Verwendung auf RDS, Terminalserver oder VDI
+# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Bereitstellen von Office 2019 für die gemeinsame Verwendung auf RDS, Terminal Server oder VDI
 
-Wenn Office bereits mit anderen Office Plänen auf dem RDS-Server installiert ist, deinstallieren Sie es. Wechseln Sie beispielsweise zu **"SystemsteuerungUninstall** > **" eines Programms**. Wenn Probleme auftreten, deinstallieren Sie die App mit [Microsoft Support- und Wiederherstellungs-Assistent](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
+Wenn Office bereits mit anderen Office-Plänen auf dem RDS-Server installiert ist, deinstallieren Sie es. Wechseln Sie z. B. zu **Systemsteuerung** >  **Programm einstallieren**. Wenn Probleme auftreten, deinstallieren Sie sie mit [Microsoft-Support und dem Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
 
-Verwenden Sie das Office Deployment Tool (ODT), um Office zu installieren. Ausführliche Schritte finden Sie unter [Deploy Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
+Verwenden Sie das Office-Bereitstellungstool (ODT), um Office zu installieren. Ausführliche Schritte finden [Sie unter Bereitstellen von Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
 
-Informationen zur Aktivierung finden Sie unter [Übersicht über die Volumenaktivierung von Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
+Informationen zur Aktivierung finden Sie [unter Übersicht über die Volumenaktivierung von Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).

@@ -8,19 +8,18 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9005217"
 - "10011"
-ms.openlocfilehash: c1e9cf361ddc3de21445b8434c92c5dd407cdef6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 0d295bf05bb9f6e7489e2d2e4446bd863dd8c90c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63225033"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66364359"
 ---
 # <a name="nla-authentication"></a>NLA-Authentifizierung
 
-Hilfe bei der Behandlung von Authentifizierungsfehlern oder NLA-Fehlern, die auftreten, wenn Sie eine RDP-Verbindung (Remotedesktopprotokoll) verwenden, um eine Verbindung mit einem virtuellen Azure-Computer (VM) herzustellen, finden Sie unter:
+Hilfe zur Problembehandlung bei Authentifizierungsfehlern oder NLA-Fehlern, die auftreten, wenn Sie rdp-Verbindungen (Remote Desktop Protocol) verwenden, um eine Verbindung mit einem virtuellen Azure-Computer (VM) herzustellen, finden Sie unter:
 
-[Behandeln von Authentifizierungsfehlern, wenn Sie RDP zum Herstellen einer Verbindung mit azure vm verwenden – virtuelle Computer | Microsoft-Dokumente](https://docs.microsoft.com/troubleshoot/azure/virtual-machines/cannot-connect-rdp-azure-vm)
+[Behandeln von Authentifizierungsfehlern bei Verwendung von RDP zum Herstellen einer Verbindung mit azure vm – Virtual Machines | Microsoft-Dokumentation](https://docs.microsoft.com/troubleshoot/azure/virtual-machines/cannot-connect-rdp-azure-vm)

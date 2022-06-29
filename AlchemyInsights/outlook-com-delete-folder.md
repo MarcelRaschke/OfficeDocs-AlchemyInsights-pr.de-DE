@@ -3,23 +3,21 @@ title: Löschen eines Ordners in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "271"
 - "8000016"
-ms.assetid: 052172e6-bee2-4466-b674-75187f0225e5
-ms.openlocfilehash: 6462df8887dea974bfe6e6cee1a7a170b456d4ab
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "271"
+ms.date: 04/21/2020
+ms.openlocfilehash: 7673a9edc2165cce4ea4d281e88624c2e206f6fd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65730088"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66320223"
 ---
 # <a name="delete-a-folder-in-outlookcom"></a>Löschen eines Ordners in Outlook.com
 
