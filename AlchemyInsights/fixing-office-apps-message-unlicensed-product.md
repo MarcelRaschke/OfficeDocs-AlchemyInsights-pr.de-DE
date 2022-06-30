@@ -11,12 +11,12 @@ ms.localizationpriority: high
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 9ce2566d44ed84b9e24a792722a00b69d30eb58b
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 26215537fc94e2f7b72da70bb9965caabb410ecb
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66323571"
+ms.locfileid: "66533618"
 ---
 # <a name="unable-to-activate-office"></a>Office kann nicht aktiviert werden
 
@@ -32,12 +32,12 @@ ms.locfileid: "66323571"
 
 Ergreifen Sie die folgenden Maßnahmen zur Problembehandlung:
 
-- Öffnen Sie eine Office-App, und [melden Sie sich von vorhandenen Benutzerkonten ab](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071). [Entfernen Sie die Office-Lizenz](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users), und [weisen Sie sie neu zu](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users), und [melden Sie sich dann unter Verwendung des betroffenen Benutzerkontos bei Office an](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9).
+- Öffnen Sie eine Office-App, und [melden Sie sich von vorhandenen Benutzerkonten ab](https://support.microsoft.com/office/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071). [Entfernen Sie die Office-Lizenz](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users), und [weisen Sie sie neu zu](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users), und [melden Sie sich dann unter Verwendung des betroffenen Benutzerkontos bei Office an](https://support.microsoft.com/office/about-accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 - Ausführen der [Aktivierungsproblembehandlung](https://aka.ms/SARA-OfficeActivation-Alchemy)
 - [Zurücksetzen des Office-Aktivierungsstatus](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state "Zurücksetzen des Office-Aktivierungsstatus")
-- [Ausführen einer Onlinereparatur von Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)
+- [Ausführen einer Onlinereparatur von Office](https://support.microsoft.com/office/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
 Zusätzliche Lösungen zur Problembehandlung finden Sie unter:  
 
-- [Fehler "Nicht lizenziertes Produkt" und Aktivierungsfehler in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
+- [Fehler "Nicht lizenziertes Produkt" und Aktivierungsfehler in Office](https://support.microsoft.com/office/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 - [Fehler "Leider können wir keine Verbindung mit Ihrem Konto herstellen. Versuchen Sie es bitte später erneut" bei der Aktivierung von Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

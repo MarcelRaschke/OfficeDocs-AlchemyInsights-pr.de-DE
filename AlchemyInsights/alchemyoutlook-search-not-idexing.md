@@ -1,29 +1,27 @@
 ---
-title: Alemy – Outlook-Suche nicht idexing
+title: Alchemy – Outlook-Suche nicht idexing
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: ''
-ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 06ad7b36edaeff8883f8dd3e3dce1852db0897c6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 94dcdd5b127eeb63f5ed7c7560eca73fbb030bb9
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63155335"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66517692"
 ---
-# <a name="outlook-search-not-indexing"></a>Outlook-Suche ohne Indizierung
+# <a name="outlook-search-not-indexing"></a>Outlook-Suche nicht indizieren
 
-Wir sind uns der Probleme bei der Outlook-Suche im Zusammenhang mit den aktuellen Sicherheitsupdates für Windows bewusst.
+Wir sind uns der Outlook-Suchprobleme im Zusammenhang mit den neuesten Sicherheitsupdates für Windows bewusst.
   
-Bei der Suche in Outlook erhalten Sie möglicherweise einen der folgenden Fehler: **Es ist ein Fehler aufgetreten, und Die Suche konnte nicht abgeschlossen werden**, oder **die Suchergebnisse sind unvollständig, da elemente weiterhin indiziert werden**. Der Fix wurde als optionales Windows-Update ausgegeben. Installieren Sie die version von Windows, auf der dieses Problem auftritt: 
+Bei der Suche in Outlook wird möglicherweise einer der folgenden Fehler angezeigt: **Es ist ein Fehler aufgetreten, und Die Suche konnte nicht abgeschlossen werden**, oder **die Suchergebnisse sind unvollständig, da elemente noch indiziert werden**. Der Fix wurde als optionales Windows-Update ausgegeben. Installieren Sie die Version, die der Version von Windows entspricht, auf der sie dieses Problem sehen: 
   
 > [Windows 7 – Update vom 27. Juni 2017](https://support.microsoft.com/topic/june-27-2017-kb4022168-preview-of-monthly-rollup-b8e847d5-3b84-367e-4dcb-cc7a25f06d40)
     
@@ -31,6 +29,6 @@ Bei der Suche in Outlook erhalten Sie möglicherweise einen der folgenden Fehler
     
 > [Windows 10 Version 1703 – Update vom 27. Juni 2017](https://support.microsoft.com/topic/compatibility-update-for-upgrading-to-windows-10-version-1703-june-27-2017-32a45f84-19d8-2535-029c-d083b5f6765e)
     
-Die neuesten Informationen finden Sie im Artikel: [Outlook known issues in the June 2017 security updates](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) Issue #5. 
+Die neuesten Informationen finden Sie im Artikel: [Bekannte Probleme mit Outlook im Sicherheitsupdateproblem Nr. 5 vom Juni 2017](https://support.microsoft.com/office/outlook-known-issues-in-the-june-2017-security-updates-3f6dbffd-8505-492d-b19f-b3b89369ed9b) . 
   
 

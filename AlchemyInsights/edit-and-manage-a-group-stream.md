@@ -3,21 +3,20 @@ title: Bearbeiten und Verwalten einer Gruppe in Microsoft Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6452"
-ms.openlocfilehash: e4cb08dd7c650eaaad300f356efafadc2b1168e0
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: dc24c31fee46a4c64ecc7e38ef0f968f27a38fbe
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63299487"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66391729"
 ---
 # <a name="edit-and-manage-a-group-in-microsoft-stream"></a>Bearbeiten und Verwalten einer Gruppe in Microsoft Stream
 

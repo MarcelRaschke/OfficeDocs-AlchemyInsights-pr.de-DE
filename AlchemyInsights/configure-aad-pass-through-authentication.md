@@ -3,22 +3,21 @@ title: Konfigurieren der Azure Active Directory-Pass-Through-Authentifizierung
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6970"
 - "9003915"
-ms.openlocfilehash: 888295aa364fc2391bbf5c380d36c105cf939cd7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6970"
+ms.date: 03/19/2021
+ms.openlocfilehash: e2d39e84fdbf9f613d3fb5e16d994ca4e184cdb4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63267857"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66412861"
 ---
 # <a name="configure-azure-active-directory-pass-through-authentication"></a>Konfigurieren der Azure Active Directory-Pass-Through-Authentifizierung
 

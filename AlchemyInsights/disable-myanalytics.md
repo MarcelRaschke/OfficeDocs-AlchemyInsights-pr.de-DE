@@ -3,25 +3,24 @@ title: Deaktivieren von MyAnalytics
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001697"
 - "5887"
-ms.openlocfilehash: ebb6a34903a621eb3b4ea1bed760d74e6d2af041
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 10e16dfca45936a93f9ef77c2efa0dbde5a8d2a7
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63248597"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66516468"
 ---
 # <a name="disable-myanalytics"></a>Deaktivieren von MyAnalytics
 
-Informationen zum Deaktivieren von MyAnalytics finden [Sie unter "Abmelden von MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya)". 
+Informationen zum Deaktivieren von MyAnalytics finden [Sie unter "Abmelden von MyAnalytics"](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya). 
 
-Weitere Informationen zu MyAnalytics finden Sie in der [Einführung zu MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page).
+Weitere Informationen zu MyAnalytics finden Sie in der [Einführung von MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page).

@@ -3,33 +3,32 @@ title: Suchen von Ereignissen, die für Posteingangsregeln ausgeführt wurden
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 02/26/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: e874b9bb44d51ba338f9df81aebe3d7455ee8e7b
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.date: 02/26/2021
+ms.openlocfilehash: b6e2471b4ab2e387350817c5a4773c711c1ad9c0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65592724"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66414152"
 ---
 # <a name="find-events-performed-on-inbox-rules"></a>Suchen von Ereignissen, die für Posteingangsregeln ausgeführt wurden
 
 Wenn Posteingangsregeln erstellt, geändert oder gelöscht werden, werden die Ereignisse im Überwachungsprotokoll aufgezeichnet. Hier erfahren Sie, wie Sie sie überprüfen:
 
 1. Führen Sie eine der folgenden Aktionen aus:
-   - Wechseln Sie in der Microsoft Purview-Complianceportal unter <https://compliance.microsoft.com>zu **"Lösungsüberwachung"**\>. Oder verwenden Sie <https://compliance.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
+   - Im Microsoft Purview-Complianceportal unter <https://compliance.microsoft.com> wechseln Sie zu **Lösungen** \> **Überwachung**. Oder verwenden Sie <https://compliance.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
    - Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> zu **Überwachung**. Oder verwenden Sie <https://security.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
 
     **Hinweis**: Wenn eine Benachrichtigung angezeigt wird, dass Sie die Überwachung aktivieren müssen, fahren Sie fort, und aktivieren Sie sie jetzt. Wenn dieses Feature nicht aktiviert ist, können Suchergebnisse keine Daten aus vorherigen Datumsangaben abrufen.
-1. Wählen Sie das Feld "Aktivitäten" aus, suchen Sie Exchange Postfachaktivitäten, und wählen Sie dann New-InboxRule Posteingangsregel aus Outlook Web App erstellen aus. Wenn Sie fertig sind, klicken Sie außerhalb des Bereichs, um den Aktivitätenbereich zu minimieren.
+1. Wählen Sie das Feld "Aktivitäten" aus, suchen Sie Exchange-Postfachaktivitäten, und wählen Sie dann New-InboxRule Posteingangsregel aus Outlook Web App erstellen aus. Wenn Sie fertig sind, klicken Sie außerhalb des Bereichs, um den Aktivitätenbereich zu minimieren.
 1. Geben Sie den Datumsbereich an, und wählen Sie dann im Feld "Benutzer" den Benutzernamen für den Benutzer aus, den Sie untersuchen möchten. Sie können mehrere Benutzer gleichzeitig auswählen.
 1. Wählen Sie Suchen aus. Die Aktivitäten werden unter Ergebnisse angezeigt.
 1. Um Details anzuzeigen, wählen Sie eine Aktivität aus, und wählen Sie dann "Weitere Informationen" aus. Im Abschnitt "Parameter" werden der Name der Regel, die festgelegten Bedingungen und die Aktionen angezeigt, die von der Regel ausgeführt werden.

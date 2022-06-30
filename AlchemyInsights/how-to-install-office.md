@@ -3,21 +3,20 @@ title: Installieren von Office
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
-- "904"
 - "2000023"
-ms.openlocfilehash: 09fd79a6c4a451f2e12be4989433e9dde8ac8c75
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "904"
+ms.openlocfilehash: 20de332a627b1f4fa17ff5ee7ebc6348fca98562
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65726272"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66533690"
 ---
 # <a name="how-to-install-office"></a>Installieren von Office
 
@@ -39,5 +38,5 @@ Stellen Sie zunächst sicher, dass Sie über ein aktives Abonnement verfügen, d
 
 Ausführliche Schritte und Lösungen zur Problembehandlung bei der Installation von Office finden Sie unter:
 
-- [Herunterladen und Installieren bzw. erneutes Installieren von Office auf einem PC oder Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
+- [Herunterladen und Installieren bzw. erneutes Installieren von Office auf einem PC oder Mac](https://support.microsoft.com/office/download-and-install-or-reinstall-microsoft-365-or-office-2021-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)
 - [Aktivieren von Microsoft 365-Apps](https://docs.microsoft.com/alchemyinsights/activating-office-apps)

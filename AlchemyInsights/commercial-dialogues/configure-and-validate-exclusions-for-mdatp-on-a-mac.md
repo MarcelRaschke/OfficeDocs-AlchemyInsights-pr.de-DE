@@ -8,19 +8,18 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b868e1268c5eede619c251e14f9f1b6db8903cbd
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f6e298d4694549c781be6e9d546ffef24bd90c33
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63207140"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66414350"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-mac"></a>Konfigurieren und Überprüfen von Ausschlüssen für MDATP auf einem Mac
 
-Sie können bestimmte Dateien, Ordner, Prozesse und vom Prozess geöffnete Dateien von MDATP-Scans auf einem Mac ausschließen. Ausschlüsse tragen dazu bei, eine falsche Erkennung von Software und Dateien zu verhindern, die für Ihre Organisation eindeutig oder angepasst sind. Ausschlüsse helfen auch bei der Minderung von Leistungsproblemen, die durch MDATP verursacht werden.
+Sie können bestimmte Dateien, Ordner, Prozesse und prozessgeöffnete Dateien von MDATP-Scans auf einem Mac ausschließen. Ausschlüsse verhindern eine falsche Erkennung von Software und Dateien, die für Ihre Organisation eindeutig oder angepasst sind. Ausschlüsse tragen auch dazu bei, leistungsbedingte Leistungsprobleme durch MDATP zu mindern.
 
 Weitere Informationen finden Sie unter [Konfigurieren und Überprüfen von Ausschlüssen für MDATP auf einem Mac](https://go.microsoft.com/fwlink/?linkid=2144616).

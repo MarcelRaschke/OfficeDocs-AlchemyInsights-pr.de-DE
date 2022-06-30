@@ -3,22 +3,21 @@ title: 'Microsoft Teams: Häufige Probleme bei Kunden in Bildungseinrichtungen'
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: ddc8ab5eeb449faa01ca1e1dd41128b610d9d06b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 553611b819d1dbe78df41bcdb0418e8551a303f8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733944"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66383347"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Microsoft Teams: Häufige Probleme bei Kunden in Bildungseinrichtungen
 

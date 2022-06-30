@@ -3,25 +3,24 @@ title: Sicherungskopie von Notizbüchern in OneNote erstellen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000567"
 - "4500"
-ms.openlocfilehash: f502c50dd49046a0ab466e9030c0a905e3e3e3cf
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 60de82a42dda233ad9340cf951e7a1b82e7aee3c
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65730450"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66522858"
 ---
 # <a name="backup-notebooks-in-onenote"></a>Sicherungskopie von Notizbüchern in OneNote erstellen
 
-OneNote kann Sicherungskopien all Ihrer Notizen erstellen. Dies ist derzeit jedoch nicht über OneNote im Web möglich. Eine detaillierte Anleitung für OneNote 2016-Desktop finden Sie unter [Sicherungskopien von Notizen](https://support.office.com/article/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4#id0eaabaaa=2016,_2013,_2010) und [Wiederherstellen von Notizen aus einer Sicherungskopie](https://support.microsoft.com/office/5daf9cb0-6769-4998-a5de-f044fdd0d831).
+OneNote kann Sicherungskopien all Ihrer Notizen erstellen. Dies ist derzeit jedoch nicht über OneNote im Web möglich. Eine detaillierte Anleitung für OneNote 2016-Desktop finden Sie unter [Sicherungskopien von Notizen](https://support.microsoft.com/office/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4) und [Wiederherstellen von Notizen aus einer Sicherungskopie](https://support.microsoft.com/office/5daf9cb0-6769-4998-a5de-f044fdd0d831).
 
 1. Klicken Sie in der OneNote 2016-Desktop-App auf **Datei > Optionen**.
 2. Klicken Sie im Dialogfeld OneNote-Optionen auf **Speichern und Sichern**.

@@ -3,22 +3,21 @@ title: 'Fehler: Ihre neue Installation verfügt über neuere Features als Ihre a
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9825"
 - "9005394"
-ms.openlocfilehash: 9b45952f91989a5e3d22dc0b8a74aa56f1604f31
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9825"
+ms.date: 03/16/2021
+ms.openlocfilehash: 341004808a5eeb7a724795710f078432e5b4b968
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63277217"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66391359"
 ---
 # <a name="error-your-new-install-has-newer-features-than-your-current-version-do-you-want-to-activate"></a>Fehler: Ihre neue Installation verfügt über neuere Features als Ihre aktuelle Version. Möchten Sie sie aktivieren...
 

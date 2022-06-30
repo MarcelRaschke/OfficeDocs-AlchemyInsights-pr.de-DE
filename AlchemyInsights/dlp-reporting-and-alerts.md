@@ -3,28 +3,27 @@ title: DLP-Berichterstellung und -Warnungen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "8261"
-ms.openlocfilehash: 59bb42c5a1701fa84433a7dbc0add0a05421a221
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 12/03/2020
+ms.openlocfilehash: 09d4d6d98d14df190dc3b3adba234f58a63449d0
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65730846"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66522786"
 ---
 # <a name="dlp-reporting-and-alerts"></a>DLP-Berichterstellung und -Warnungen
 
 **Microsoft Purview Data Loss Prevention Berichterstellung**: [Anzeigen der Berichte zur Verhinderung von Datenverlust – Microsoft 365 Compliance | Microsoft-Dokumentation](https://docs.microsoft.com/microsoft-365/compliance/view-the-dlp-reports)
 
-**Warnungen**: [Konfigurieren und Anzeigen von Warnungen für DLP-Richtlinien (Vorschau) – Microsoft 365 Compliance-| Microsoft-Dokumentation](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies)
+**Warnungen**: [Konfigurieren und Anzeigen von Warnungen für DLP-Richtlinien (Vorschau) – Microsoft 365 Compliance | Microsoft-Dokumentation](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies)
 
  Wenn Sie Zugriff auf 365 DLP haben, können Sie auch auf das DLP-Warnungsverwaltungsdashboard zugreifen.  Informationen zum Konfigurieren bestimmter Arten von Warnungen finden Sie unter diesen Lizenzanforderungen unter [Konfigurieren und Anzeigen von Warnungen für DLP-Richtlinien (Vorschau) – Microsoft 365 Compliance | Microsoft-Dokumentation](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies#licensing-for-alert-configuration-options&preserve-view=true)
 

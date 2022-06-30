@@ -12,12 +12,12 @@ ms.custom:
 - "9000717"
 - "2638"
 ms.date: 04/21/2020
-ms.openlocfilehash: 9c50c3597c5b2fc05e6b539d9ad7bf04122ae475
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 280cfea38d729b979141af2f5772aa61627f69fa
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66312447"
+ms.locfileid: "66517476"
 ---
 # <a name="associate-hub-sites-as-site-owner"></a>Zuordnen von Hubwebsites als Websitebesitzer
 
@@ -33,4 +33,4 @@ ms.locfileid: "66312447"
 8. Geben Sie die Benutzer oder Sicherheitsgruppen, mit denen Sie arbeiten möchten, im Element "Benutzer, die die Website diesem Hub zuordnen können" an.
 9. Wählen Sie unten auf dem Bildschirm " **Speichern** " aus.
 
-Weitere Informationen finden [Sie unter Zuordnen einer SharePoint-Website zu einer Hubwebsite](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05). 
+Weitere Informationen finden [Sie unter Zuordnen einer SharePoint-Website zu einer Hubwebsite](https://support.microsoft.com/office/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05). 

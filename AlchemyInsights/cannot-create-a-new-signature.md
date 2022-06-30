@@ -3,28 +3,26 @@ title: Eine neue Signatur kann nicht erstellt werden.
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "1949"
 - "9000323"
-ms.assetid: ''
-ms.openlocfilehash: 951384cfbafc7cdf549a07aaf7d014656c261e98
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1949"
+ms.date: 04/21/2020
+ms.openlocfilehash: 60a1f7bb8bb2540fd9ef8261d76ee7268275cf88
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65730342"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66540062"
 ---
 # <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Eine neue Signatur kann in Outlook nicht hinzugefügt oder erstellt werden.
 
-Dies ist ein bekanntes Problem. Wir arbeiten daran, das Problem zu beheben, und der Status wird in [Outlook beim Klicken auf die Schaltfläche "Signatur" eingefroren](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) wird.
+Dies ist ein bekanntes Problem. Wir arbeiten daran, das Problem zu beheben, und der Status wird in Outlook aktualisiert, [wenn auf die Schaltfläche "Signatur" geklickt](https://support.microsoft.com/office/outlook-freezes-when-selecting-the-signature-button-c70b36c2-66ca-401c-ab45-f29a46495d02) wird.
 
-Um dieses Problem zu umgehen, [versuchen Sie zunächst, die](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) vorinstallierten Microsoft Office Desktop-Apps zu deinstallieren. 
+Um dieses Problem zu umgehen, [führen Sie zunächst die Schritte](https://support.microsoft.com/office/outlook-freezes-when-selecting-the-signature-button-c70b36c2-66ca-401c-ab45-f29a46495d02) zum Deinstallieren der vorinstallierten Microsoft Office Desktop-Apps aus. 
 
-Wenn dies für den betroffenen Computer nicht funktioniert, versuchen Sie es mit der [registrierungsbasierten Problemumgehung](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Wenn dies für den betroffenen Computer nicht funktioniert, versuchen Sie es mit der [registrierungsbasierten Problemumgehung](https://support.microsoft.com/office/outlook-freezes-when-selecting-the-signature-button-c70b36c2-66ca-401c-ab45-f29a46495d02).

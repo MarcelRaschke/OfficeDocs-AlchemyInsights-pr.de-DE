@@ -4,25 +4,24 @@ ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
 ms.date: 12/18/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: fc0e1a3133b70f10258d95ced1265993c629599c
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: ae9c285879658513f8fced98e217444e2995c29d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65716991"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66414229"
 ---
 # <a name="create-a-signature-in-outlook-for-mac"></a>Erstellen einer Signatur in Outlook für Mac
 
-1.  Klicken Sie im **Menü Outlook** auf **"Einstellungen"**.
+1.  Klicken Sie im **Outlook-Menü** auf **"Einstellungen"**.
 2.  Klicken Sie unter **"E-Mail**" auf **"Signaturen"**.
 3.  Klicken Sie auf **"Hinzufügen"****+**.
 4.  Doppelklicken Sie auf " **Unbenannt**", und geben Sie dann einen Namen für die Signatur ein.

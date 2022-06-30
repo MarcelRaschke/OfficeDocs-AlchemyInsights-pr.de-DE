@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "8000036"
 - "895"
-ms.openlocfilehash: 47b9e130cccb876b3ff9a4bfdd701cdbc7049a6c
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 400a88bfea1a7d67aeecce688ed18879484b751d
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66273052"
+ms.locfileid: "66539954"
 ---
 # <a name="changing-message-or-attachment-size"></a>Ändern der Nachrichten- oder Anlagengröße
 
@@ -26,4 +26,4 @@ Als Microsoft 365-Administrator können Sie die maximale/minimale Größe von Na
 
 - Informationen dazu, wie Sie dies für alle Postfächer ändern können, finden Sie [in diesem Artikel](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 
-- Informationen zu Maximalgrenzwerten mit Outlook oder Outlook im Web finden Sie [in diesem Artikel](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile hat einen Maximalgrenzwert von 25 MB. Klicken [Sie hier, um](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243) Unterstützung für Outlook iOS und Android zu erhalten.
+- Informationen zu Maximalgrenzwerten mit Outlook oder Outlook im Web finden Sie [in diesem Artikel](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile hat einen Maximalgrenzwert von 25 MB. Klicken [Sie hier, um](https://support.microsoft.com/office/get-in-app-help-for-outlook-for-ios-and-android-218a22d1-9fa5-4889-b689-de1c63493243) Unterstützung für Outlook iOS und Android zu erhalten.

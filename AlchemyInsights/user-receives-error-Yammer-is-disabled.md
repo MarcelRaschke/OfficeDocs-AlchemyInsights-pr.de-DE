@@ -3,22 +3,21 @@ title: 'Benutzer erhält den Fehler: AADSTS7000112 Yammer ist deaktiviert'
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/16/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6010"
 - "9003111"
-ms.openlocfilehash: 83c6e4f832a915eb79c1ad95df09bfae95fa961c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6010"
+ms.date: 07/16/2020
+ms.openlocfilehash: 975bb12c196f16d7e887aa7151544e404f1c88ef
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63165127"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66516180"
 ---
 # <a name="user-receives-error-aadsts7000112-yammer-is-disabled"></a>Benutzer erhält den Fehler: AADSTS7000112 Yammer ist deaktiviert
 

@@ -3,21 +3,20 @@ title: Erste Schritte mit Live-Veranstaltungen in Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 6b468fd3438ae3e574c8db11ab9f880f5465ae98
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 105bdb7e58619e3ad6f3a41021f232bb06f7ea23
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721437"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66539810"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Erste Schritte mit Live-Veranstaltungen in Teams
 
@@ -38,6 +37,6 @@ Zum Erstellen eines Live-Ereignisses benötigen Sie Folgendes:
 - Vollständige Teammitgliedschaft in der Organisation (darf kann kein Gast oder jemand von einer anderen Organisation sein)
 Planung von privaten Besprechungen, Screensharing und IP-Videofreigabe – in der Team-Besprechungsrichtlinie aktiviert.
 
-- [Bewährte Methoden](https://support.office.com/article/Best-practices-for-producing-a-Teams-live-event-e500370e-4dd1-4187-8b48-af10ef02cf42) für Live-Ereignisse in Teams.
+- [Bewährte Methoden](https://support.microsoft.com/office/best-practices-for-producing-a-teams-live-event-e500370e-4dd1-4187-8b48-af10ef02cf42) für Live-Ereignisse in Teams.
 
-Weitere Informationen finden Sie unter [Erste Schritte mit Microsoft Teams Live-Ereignissen](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a).
+Weitere Informationen finden Sie unter [Erste Schritte mit Microsoft Teams Live-Ereignissen](https://support.microsoft.com/office/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a).

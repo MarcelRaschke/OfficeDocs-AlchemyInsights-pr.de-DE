@@ -3,22 +3,21 @@ title: Mehrere Objekte haben die gleiche E-Mail-Adresse als Identität
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1834"
 - "9000247"
-ms.openlocfilehash: 7ce77d608a4b2040384ddd30d23b8de9a21c154b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1834"
+ms.date: 07/27/2020
+ms.openlocfilehash: f978e25120d0de3ad3fd0199379c8c243fe3db21
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63306257"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66350607"
 ---
 # <a name="multiple-objects-have-the-same-email-address-as-identity"></a>Mehrere Objekte haben die gleiche E-Mail-Adresse als Identität
 
