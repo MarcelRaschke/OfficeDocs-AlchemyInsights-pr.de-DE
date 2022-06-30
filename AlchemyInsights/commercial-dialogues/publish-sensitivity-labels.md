@@ -3,22 +3,21 @@ title: Veröffentlichen von Vertraulichkeitsbezeichnungen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/05/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7455"
 - "9000181"
-ms.openlocfilehash: ea3ee2eaa61aafcf31f8aff2d2806e1759c6ebe2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7455"
+ms.date: 03/05/2021
+ms.openlocfilehash: 455d76e9a2bbf162e05ee07d7d3a1423b0330de9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63268698"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66413689"
 ---
 # <a name="publish-sensitivity-labels"></a>Veröffentlichen von Vertraulichkeitsbezeichnungen
 

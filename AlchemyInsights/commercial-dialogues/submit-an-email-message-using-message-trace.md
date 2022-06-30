@@ -8,25 +8,24 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: e2ff1c49c9525bebf16457bdd3b1f1ed531228ec
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c63ee01fec8548229898f64f41d07572f3f7d031
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63268577"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66413473"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Senden einer E-Mail-Nachricht mithilfe der Nachrichtenablaufverfolgung
 
-1. Wechseln Sie zum Exchange Admin Center (EAC) unter <https://admin.exchange.microsoft.com> \> **Nachrichtenfluss-Nachrichtenablaufverfolgung**\>.
+1. Wechseln Sie zum Exchange Admin Center (EAC) bei <https://admin.exchange.microsoft.com> \> der **Nachrichtenablaufverfolgung**\>.
 
    Um direkt zur **Nachrichtenablaufverfolgungsseite** zu wechseln, verwenden Sie <https://admin.exchange.microsoft.com/#/messagetrace>.
 
-2. Wählen Sie **+Ablaufverfolgung starten** aus.
+2. Wählen Sie **+Eine Ablaufverfolgung starten** aus.
 3. Gehen Sie durch die angezeigten Optionen. Wählen Sie die Empfänger und Absender aus, und passen Sie dann den Datumsbereich entsprechend an. Sie können die Standardeinstellungen für die verbleibenden Optionen beibehalten.
-4. Wählen Sie **Suchen** aus. Eine Liste der E-Mail-Nachrichten wird basierend auf Ihren Suchkriterien angezeigt. Doppelklicken Sie auf die Nachricht, die Sie übermitteln möchten, und wählen Sie dann **"Nachricht senden**" aus.
+4. Wählen Sie **Suchen** aus. Eine Liste der E-Mail-Nachrichten wird basierend auf Ihren Suchkriterien angezeigt. Doppelklicken Sie auf die Nachricht, die Sie senden möchten, und wählen Sie dann " **Nachricht senden**" aus.
 
-Weitere Informationen finden Sie unter [Nachrichtenablaufverfolgung im modernen EAC](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/message-trace-modern-eac).
+Weitere Informationen finden Sie [unter Nachrichtenablaufverfolgung im modernen EAC](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/message-trace-modern-eac).

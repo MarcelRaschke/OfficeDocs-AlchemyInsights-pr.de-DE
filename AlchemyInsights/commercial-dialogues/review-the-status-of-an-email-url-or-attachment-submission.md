@@ -8,21 +8,20 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5f0f0d31fb15e38c835ff55f07673c05e1d346a0
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 537519b7d10d487648dfc062908dc39557fb84ad
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63249461"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66413653"
 ---
 # <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Überprüfen des Status einer E-Mail-, URL- oder Anlagenübermittlung
 
-Nach dem Senden einer E-Mail-Nachricht, URL oder Anlage können Sie den Status und die Ergebnisse auf derselben Übermittlungsseite überprüfen.
+Nachdem Sie eine E-Mail-Nachricht, URL oder Anlage gesendet haben, können Sie den Status und die Ergebnisse auf derselben Übermittlungsseite überprüfen.
 
-Sie sehen den Übermittlungsfortschritt auf der Seite, und Sie können auch einen Drilldown zu vorherigen Übermittlungen ausführen, um die Details der Übermittlung und die Ergebnisse anzuzeigen.
+Auf der Seite wird der Übermittlungsfortschritt angezeigt, und Sie können auch einen Drilldown zu vorherigen Übermittlungen ausführen, um die Details der Übermittlung und die Ergebnisse anzuzeigen.
 
-**Hinweis**: Nachdem Sie ein Element mit dem Übermittlungs-Explorer übermittelt haben, kann es einige Minuten dauern, bis die Ergebnisse angezeigt werden.
+**Hinweis**: Nachdem Sie ein Element mithilfe des Übermittlungs-Explorers übermittelt haben, kann es einige Minuten dauern, bis die Ergebnisse angezeigt werden.
