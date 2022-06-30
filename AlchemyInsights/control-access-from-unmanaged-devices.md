@@ -3,21 +3,20 @@ title: Steuern des Zugriffs von nicht verwalteten Geräten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5711"
-ms.openlocfilehash: cd4bd0396df9084a391cf756ccbf06bab7d1d007
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c26a549ca8f6102fddf3bbe304bcee1e5fef0809
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63240173"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66392583"
 ---
 # <a name="control-access-from-unmanaged-devices"></a>Steuern des Zugriffs von nicht verwalteten Geräten
 

@@ -3,22 +3,21 @@ title: Steuern automatischer Updates für Office-Apps
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1743"
 - "9000140"
-ms.openlocfilehash: 22e94d75c59e1bb0e9b5c5ce3da0be7bec9e4830
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1743"
+ms.date: 07/24/2020
+ms.openlocfilehash: a425ef5b7c6cde04ca56012ec181867be3174ec6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63132509"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66392547"
 ---
 # <a name="control-automatic-updates-for-office-apps"></a>Steuern automatischer Updates für Office-Apps
 

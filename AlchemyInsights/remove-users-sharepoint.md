@@ -3,22 +3,21 @@ title: Benutzer aus SharePoint entfernen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/30/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12470"
 - "9000192"
-ms.openlocfilehash: 4a69f8f9a848514ebbe0e785c8a0ddd7d984b2a5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "12470"
+ms.date: 07/30/2021
+ms.openlocfilehash: ddac64a18d2aba808eac946a87a244a6201fd295
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63200084"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66373431"
 ---
 # <a name="remove-users-from-sharepoint"></a>Benutzer aus SharePoint entfernen
 

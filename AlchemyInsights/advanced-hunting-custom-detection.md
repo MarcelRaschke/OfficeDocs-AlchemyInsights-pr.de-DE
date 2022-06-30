@@ -1,29 +1,27 @@
 ---
-title: benutzerdefinierte Erkennungen für die erweiterte Suche 9001220
+title: 9001220 benutzerdefinierte Erkennungen für die erweiterte Suche
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
-ms.date: 09/25/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "3200"
 - "9001220"
-ms.assetid: ''
-ms.openlocfilehash: dc4b23f9863e60529109d6372cf950328bb0242d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "3200"
+ms.date: 09/25/2020
+ms.openlocfilehash: df11a53e9bb9ea84e617acd7271022eed03c9ffb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63301655"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66275860"
 ---
-# <a name="advanced-hunting-custom-detections"></a>Erweiterte Suche – Benutzerdefinierte Erkennungen
+# <a name="advanced-hunting-custom-detections"></a>Benutzerdefinierte Erkennungen für die erweiterte Suche
 
-Sie können erfahren, wie Sie benutzerdefinierte Erkennungsregeln basierend auf erweiterten Suchabfragen erstellen und verwalten. Mit benutzerdefinierten Erkennungen können Sie verschiedene Ereignisse und Systemzustände proaktiv überwachen und darauf reagieren, einschließlich verdächtiger Sicherheitsverletzungen und falsch konfigurierter Geräte. Sie können dies mit anpassbaren Erkennungsregeln tun, die automatisch Warnungen und Reaktionsaktionen auslösen.
+Sie erfahren, wie Sie benutzerdefinierte Erkennungsregeln basierend auf erweiterten Suchabfragen erstellen und verwalten. Benutzerdefinierte Erkennungen ermöglichen es Ihnen, proaktiv nach verschiedenen Ereignissen und Systemzuständen Ausschau zu halten, einschließlich mutmaßlicher Sicherheitsvorfälle und falsch konfigurierter Endpunkte, und darauf zu reagieren. Sie können dies mit anpassbaren Erkennungsregeln tun, die automatisch Warnungen und Reaktionsaktionen auslösen.
   
 Wenn Sie Microsoft Defender ATP verwenden, finden Sie weitere Informationen in den folgenden Themen: 
 - [Benutzerdefinierte Erkennungen – Übersicht](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
@@ -32,4 +30,4 @@ Wenn Sie Microsoft Defender ATP verwenden, finden Sie weitere Informationen in d
 
 Wenn Sie Microsoft 365 Defender verwenden, finden Sie weitere Informationen in den folgenden Themen: 
 - [Benutzerdefinierte Erkennungen – Übersicht](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [Erstellen und Verwalten benutzerdefinierter Erkennungsregeln](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+- [Erstellen und Verwalten von benutzerdefinierten Erkennungsregeln](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)

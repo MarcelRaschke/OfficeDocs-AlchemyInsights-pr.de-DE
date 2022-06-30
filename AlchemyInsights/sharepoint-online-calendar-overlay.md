@@ -3,21 +3,20 @@ title: Kalenderüberlagerung in SharePoint Online
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 31d63eebbf878b9d52499d3e922261ed7c0ddf19
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 0ac9bdf8bc01b15feb386a3a18b52916862d4d84
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63180068"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66373108"
 ---
 # <a name="sharepoint-online-calendar-overlay"></a>Kalenderüberlagerung in SharePoint Online
 

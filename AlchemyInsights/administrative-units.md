@@ -3,22 +3,21 @@ title: Verwaltungseinheiten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/17/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11254"
 - "1200008"
-ms.openlocfilehash: 8f0cf9d84bff62a702fee86a34b42899d3411a09
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11254"
+ms.date: 05/17/2021
+ms.openlocfilehash: a7a2f44fbed9a428ce2c6111a74c1f54c3bd5789
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63301705"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66276148"
 ---
 # <a name="administrative-units"></a>Verwaltungseinheiten
 

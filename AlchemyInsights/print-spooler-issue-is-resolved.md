@@ -3,22 +3,21 @@ title: Druckerspoolerproblem wurde behoben
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/8/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "5151"
 - "9002659"
-ms.openlocfilehash: 115654fd7866c41c1aa5211433f6551b447f6774
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "5151"
+ms.date: 07/8/2020
+ms.openlocfilehash: 402e9845f54389bd611c6144f1895ff865baad8e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65718658"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66400647"
 ---
 # <a name="print-spooler-issue-is-resolved"></a>Druckerspoolerproblem wurde behoben
 

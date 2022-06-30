@@ -3,22 +3,21 @@ title: Windows wiederherstellen, neu installieren oder wiederherstellen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9820"
 - "9005614"
-ms.openlocfilehash: a062e994d276834631750081af9ff2013093953f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9820"
+ms.date: 03/16/2021
+ms.openlocfilehash: ec0e64c9f9b44a3a214413c41165b0756aa8804a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63125417"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66399891"
 ---
 # <a name="recover-reinstall-or-restore-windows"></a>Windows wiederherstellen, neu installieren oder wiederherstellen
 

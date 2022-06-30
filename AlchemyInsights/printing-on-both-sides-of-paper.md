@@ -3,23 +3,22 @@ title: Beidseitiges Bedrucken von Papier
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
+- "9001214"
 - "9002957"
 - "5659"
-- "9001214"
 - "5664"
-ms.openlocfilehash: 4e3f8569e7c2e7a4d8932de1a127136599c24cbf
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 8e10225cbf82c1f70cd9020dda5ac0922464d553
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721689"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66400683"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Beidseitiges Bedrucken von Papier (Duplexdruck)
 

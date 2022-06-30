@@ -1,28 +1,26 @@
 ---
-title: Verwalten Ihres SharePoint Onlinespeichers
+title: Verwalten Ihres SharePoint Online-Speichers
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "2008"
 - "9000355"
-ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 7d572c25963d5485923abb76adea5c5c4702c677
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "2008"
+ms.openlocfilehash: ce80a9b3cbc920640503c25b4924df80479c62ed
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63282221"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66373071"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Verwalten Ihres SharePoint Onlinespeichers
+# <a name="manage-your-sharepoint-online-storage"></a>Verwalten Ihres SharePoint Online-Speichers
 
-In den meisten Organisationen wird SharePoint Speicher automatisch verwaltet, sodass Sie keine Grenzwerte pro Websitesammlung festlegen müssen. Weitere Informationen dazu, wie mandantenspeicher basierend auf Ihrem Plan berechnet wird, finden Sie unter ["Grenzwerte nach Plan"](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan).
+In den meisten Organisationen wird SharePoint-Speicher automatisch verwaltet, sodass Sie keine Grenzwerte pro Websitesammlung festlegen müssen. Weitere Informationen dazu, wie Mandantenspeicher basierend auf Ihrem Plan berechnet wird, finden Sie [unter "Grenzwerte nach Plan"](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan).
 
 Weitere Informationen finden Sie unter:
 
@@ -30,7 +28,7 @@ Weitere Informationen finden Sie unter:
 
 - [Verwalten individueller Websitespeicherlimits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-Wenn Ihre Website nicht genügend Speicherplatz hat oder Sie erfahren möchten, welche Bibliothek oder Liste den Raum nutzt, wechseln Sie zu **Website Einstellungen** >  **Storage Metriken (Websitesammlungsadministratorberechtigungen** sind erforderlich).
+Wenn Ihre Website nicht mehr verfügbar ist oder Sie erfahren möchten, welche Bibliothek oder Liste den Speicherplatz nutzt, wechseln Sie zu **Speichermetriken** für **Websiteeinstellungen** >  (Administratorberechtigungen für Websitesammlungen sind erforderlich).
 
 Weitere Informationen finden Sie unter:
 

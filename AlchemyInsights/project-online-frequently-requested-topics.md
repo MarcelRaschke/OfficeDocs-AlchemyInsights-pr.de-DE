@@ -3,22 +3,21 @@ title: Project Online häufig angeforderte Themen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 7362d819e3753ea207cab808102f7932e9af3d6d
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 04/21/2020
+ms.openlocfilehash: cc3e7bf85cf1b061320f012e75405b7c607b1168
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65729908"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66400395"
 ---
 # <a name="project-online-frequently-requested-topics"></a>Project Online häufig angeforderte Themen
 
@@ -31,6 +30,6 @@ Hier sind häufig angeforderte Themen für Project:
     - [Project Online Admin Dokumentation](https://docs.microsoft.com/projectonline/project-online)
     - [Project Online: Grenzen und Begrenzungen der Software](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits)
 2. [Fügen Sie Personen, Gruppen und Ressourcen hinzu, und geben Sie dann Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)
-3. [Optimieren der Leistung Project Web App (PWA) in Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
-4. Verbinden mit dem [Project Online Desktopclient](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)
+3. [Optimieren der Leistung von Project Web App (PWA) in Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
+4. Herstellen einer Verbindung mit dem [Project Online Desktopclient](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)
 5. [Installieren und Verwenden von Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281)

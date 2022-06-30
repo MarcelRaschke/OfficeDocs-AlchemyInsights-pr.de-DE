@@ -3,26 +3,26 @@ title: Erstellen einer Signatur in Outlook im Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 3e1e0a7e9bc5ba6eb8c0f9f66ecf080a640f2a17
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: fbfd1f3a85f357c3a532fc29b4475c7b6d73c6be
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63158575"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66401223"
 ---
 # <a name="create-an-email-signature-in-outlook-on-the-web"></a>Erstellen einer E-Mail-Signatur in Outlook im Web
 
 1. Wechseln Sie zu <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
-  >  Einstellungen **View all Outlook settingsCompose** >  **and reply**.
-1. Geben Sie unter **"E-Mail-Signatur**" Ihre Signatur ein, und verwenden Sie die verfügbaren Formatierungsoptionen, um das Erscheinungsbild zu ändern.
+ **Einstellungen** >  **Alle Outlook-Einstellungen anzeigen** >  **Verfassen und Antworten**.
+1. Geben Sie unter **"E-Mail-Signatur**" Ihre Signatur ein, und verwenden Sie die verfügbaren Formatierungsoptionen, um die Darstellung zu ändern.
 
-*Hinweis:* Sie können nur eine Signatur pro Konto haben.
+*Hinweis:* Pro Konto kann nur eine Signatur vorhanden sein.
 
-Weitere Informationen finden Sie unter [Erstellen und Hinzufügen einer E-Mail-Signatur in Outlook im Web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3).
+Weitere Informationen finden [Sie unter Erstellen und Hinzufügen einer E-Mail-Signatur in Outlook im Web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3).

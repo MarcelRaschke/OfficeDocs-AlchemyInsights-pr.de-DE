@@ -3,22 +3,21 @@ title: Vorbereiten Ihrer SharePoint-Umgebung auf die Einstellung von Internet Ex
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/02/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11527"
 - "9000292"
-ms.openlocfilehash: c3ad71d1d56d45a21780dcf7b9d82c786e34f2ca
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "11527"
+ms.date: 06/02/2021
+ms.openlocfilehash: bd6ed5c249e393561801c79531e64dc8fa9fed69
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65735312"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66400827"
 ---
 # <a name="prepare-your-sharepoint-environment-for-the-retirement-of-internet-explorer-11"></a>Vorbereiten Ihrer SharePoint-Umgebung auf die Einstellung von Internet Explorer 11
 

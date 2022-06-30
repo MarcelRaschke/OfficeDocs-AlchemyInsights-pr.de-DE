@@ -3,22 +3,21 @@ title: Entfernen des Hintergrunddienstes für Microsoft Search in Bing
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/12/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9214"
 - "9005302"
-ms.openlocfilehash: 6b5c05f2de95361494621fe57987b70101cea75a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9214"
+ms.date: 03/12/2021
+ms.openlocfilehash: d9164bb163abf66d44be56bbb533d38bc134c74e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63223053"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66373395"
 ---
 # <a name="remove-the-background-service-for-microsoft-search-in-bing"></a>Entfernen des Hintergrunddienstes für Microsoft Search in Bing
 

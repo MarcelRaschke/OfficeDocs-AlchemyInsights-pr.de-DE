@@ -3,23 +3,21 @@ title: Administratorrolle und deren Zuweisung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "2"
 - "1200008"
-ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 1e3ac721a77d34fd26f2f4bdf2e5d46bf18e5d2c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "2"
+ms.date: 04/21/2020
+ms.openlocfilehash: 38d99661fc2b1f7ca0107c0c5251333bf7ab4a05
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63242441"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66276472"
 ---
 # <a name="admin-roles"></a>Administratorrollen
 

@@ -3,22 +3,21 @@ title: Konfigurieren der Ansicht im Datei-Explorer mit Edge
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 09/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "13872"
 - "5300014"
-ms.openlocfilehash: 639f3bb520b23ef78fe69cfcad7435faeb15c0ae
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "13872"
+ms.date: 09/16/2021
+ms.openlocfilehash: a2bccde56dad0065f498d4592103ac004cb68d44
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63307841"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66392871"
 ---
 # <a name="configure-view-in-file-explorer-with-edge"></a>Konfigurieren der Ansicht im Datei-Explorer mit Edge
 
