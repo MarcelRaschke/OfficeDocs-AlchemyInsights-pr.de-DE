@@ -3,22 +3,21 @@ title: Attributzuordnung für die Benutzerbereitstellung
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/22/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7851"
 - "9004348"
-ms.openlocfilehash: 10466bace40587ec231c6400a7e2c86166302e4b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7851"
+ms.date: 01/22/2021
+ms.openlocfilehash: 9d78b01882c42447196b2d1d0c4c5dba4a8f302f
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63269909"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66507558"
 ---
 # <a name="user-provisioning-attribute-mapping"></a>Attributzuordnung für die Benutzerbereitstellung
 
