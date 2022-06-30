@@ -3,21 +3,20 @@ title: Meldung zu Microsoft 365-Apps – konnte die zugeordneten Office-Lizenzen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 1afc0ba277c452ec10af9e2c16fe7a49d1451790
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 80745e43d6e1a3be30ef02f0f9efc35d3711724d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63224673"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66431518"
 ---
 # <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Meldung zu Microsoft 365-Apps – konnte die zugeordneten Office-Lizenzen nicht finden
 

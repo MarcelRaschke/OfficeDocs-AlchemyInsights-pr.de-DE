@@ -3,26 +3,25 @@ title: Kreditanfrage aufgrund eines Dienstausfalls
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 51187d1f42b858350beb6074efcda30c56fbadf1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 51c312e13e08f6b898c820d21a51ccdbcea4b33c
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63230848"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66514992"
 ---
 # <a name="credit-request-due-to-a-service-outage"></a>Kreditanfrage aufgrund eines Dienstausfalls
 
-Um eine Kreditanfrage aufgrund eines Dienstausfalls zu beantragen, öffnen Sie eine Serviceanfrage.
+Um eine Kreditanfrage aufgrund eines Serviceausfalls zu beantragen, öffnen Sie bitte eine Serviceanfrage.
 
-Achten Sie darauf, die Vorfall-ID auf der Seite "[Dienststatus](https://docs.microsoft.com/office365/enterprise/view-service-health)" im Microsoft 365 Admin Center zu finden.
+Stellen Sie sicher, dass Sie die Vorfall-ID auf der [Seite "Dienststatus](https://docs.microsoft.com/office365/enterprise/view-service-health)" im Microsoft 365 Admin Center.
 
-Bitte beachten Sie, dass bei der Verarbeitung Ihrer Anforderung Validierungen durchgeführt werden, um die Auswirkungen des Ausfalls zu beobachten.
+Bitte beachten Sie, dass ihre Anfrage bei der Bearbeitung einer Überprüfung unterzogen wird, um die Auswirkungen des Ausfalls zu beobachten.

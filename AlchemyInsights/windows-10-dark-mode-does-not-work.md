@@ -3,22 +3,21 @@ title: Der dunkle Modus von Windows 10 funktioniert nicht
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/25/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6245"
 - "9003346"
-ms.openlocfilehash: 0dbf2db1058c4009b6300354a7eb861dff09e5b4
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "6245"
+ms.date: 08/25/2020
+ms.openlocfilehash: 8e2c82e8f71202207ea73f1deb3c559d0b412c02
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65727424"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66523983"
 ---
 # <a name="windows-10-dark-mode-does-not-work"></a>Der dunkle Modus von Windows 10 funktioniert nicht
 

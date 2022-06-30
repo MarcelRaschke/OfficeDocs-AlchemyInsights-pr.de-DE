@@ -3,22 +3,21 @@ title: Yammer-Webparts in SharePoint
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/16/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "5475"
 - "9002494"
-ms.openlocfilehash: 72ea8e7b79209d31457148c57bda6dda3dfd8be4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "5475"
+ms.date: 07/16/2020
+ms.openlocfilehash: 88a053d761f513ef8a842f872bd9e8e58be65722
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63175963"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66523866"
 ---
 # <a name="yammer-web-parts-in-sharepoint"></a>Yammer-Webparts in SharePoint
 

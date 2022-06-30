@@ -11,23 +11,23 @@ ms.localizationpriority: medium
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 76351a5b263ae1ca47a87adfdae4c5f21e6d1fb3
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 592c7ccee0f53b49848d3c761c93f9b0adc2e6de
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66313851"
+ms.locfileid: "66514848"
 ---
 # <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Beheben der Meldung "Leider ist ein anderes Konto aus Ihrer Organisation bereits angemeldet" in Microsoft 365-Apps
 
 Um diesen Fehler zu beheben, versuchen Sie Folgendes:
 
-1. Öffnen Sie eine Office-App, und [melden Sie sich von vorhandenen Benutzerkonten ab](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071).   
+1. Öffnen Sie eine Office-App, und [melden Sie sich von vorhandenen Benutzerkonten ab](https://support.microsoft.com/office/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071).   
 2. Entfernen Sie mithilfe von **E-Mail-&-Konten** für **Windows-Einstellungen** >  >  alle Geschäftskonten mit Ausnahme des betroffenen Kontos. 
 3. Trennen Sie mithilfe von **Windows-Einstellungskonten** >  > , die **auf Geschäfts-, Schul- oder Unikonten zugreifen**, alle Geschäftskonten mit Ausnahme des betroffenen Kontos. 
 4. Setzen Sie den Office-Aktivierungsstatus zurück. [Anleitung](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).
-5. [Melden Sie sich](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) mit dem betroffenen Benutzerkonto an. 
+5. [Melden Sie sich](https://support.microsoft.com/office/about-accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9) mit dem betroffenen Benutzerkonto an. 
 
 Weitere Informationen finden Sie [unter "Leider ist ein anderes Konto aus Ihrer Organisation bereits auf diesem Computer angemeldet" in Office 2013](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
 

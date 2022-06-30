@@ -3,21 +3,20 @@ title: Kombinieren von Rechnungen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002546"
 - "4959"
-ms.openlocfilehash: 880d2e10d710063b118dbc810d3f8257e9662398
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 3d743cd9b421f22d8b643ddaf97bf2665c6027db
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63217330"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66380541"
 ---
 # <a name="combine-invoices"></a>Kombinieren von Rechnungen
 

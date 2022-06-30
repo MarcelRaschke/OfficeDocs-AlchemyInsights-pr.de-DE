@@ -3,21 +3,20 @@ title: Hochladen eines Ordners oder von Dateien in eine Dokumentbibliothek
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4447"
-ms.openlocfilehash: d98a8bfbe2a864020e1511c5b786853b1b6590e9
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: dbe44f5289b986044b08d639275d8adcf3cda9a2
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63156379"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66523470"
 ---
 # <a name="upload-a-folder-or-files-to-a-document-library"></a>Hochladen eines Ordners oder von Dateien in eine Dokumentbibliothek
 

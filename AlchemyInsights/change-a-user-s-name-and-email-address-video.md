@@ -3,7 +3,7 @@ title: Ändern des Benutzernamens und der E-Mail-Adresse eines Benutzers
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "7601"
 - "4"
-ms.openlocfilehash: 43033944a1e29147567c41f65bd59b88ad9d4d3b
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 8098b7a944efbfd07e943901c19a086ef5dd24fa
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66273736"
+ms.locfileid: "66523794"
 ---
 # <a name="change-a-users-name-and-email-address"></a>Ändern des Benutzernamens und der E-Mail-Adresse eines Benutzers
 

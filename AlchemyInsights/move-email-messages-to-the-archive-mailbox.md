@@ -3,22 +3,21 @@ title: Verschieben von E-Mail-Nachrichten in das Archivpostfach
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1083"
 - "3100008"
-ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: fee23d6bc811cb4f3806f4a41712d50e5daf2056
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1083"
+ms.date: 04/21/2020
+ms.openlocfilehash: 88b651fcda1fc59a4e5e5d25041bf9c00a210aee
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65726920"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66431878"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Verschieben von E-Mails in das Archivpostfach
 
@@ -28,7 +27,7 @@ Wenn Sie möchten, dass wir automatisierte Prüfungen für die unten genannten E
 
 2. Um Nachrichten automatisch im Archivpostfach zu archivieren, muss ein Aufbewahrungstag mit der Aktion **"In Archiv verschieben** " so festgelegt werden, dass es **automatisch auf das gesamte Postfachtag (Standardtag) angewendet** wird. Führen Sie die hier aufgeführten Schritte aus, um das Tag zu erstellen: [Standardtag archivieren](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. Fügen Sie als Nächstes der Aufbewahrungsrichtlinie das **Archivtag** hinzu. Wählen Sie im Exchange Admin Center **die Option "Aufbewahrungsrichtlinien**" aus, > der Richtlinie das **Tag "In Archiv verschieben**" > **"Speichern**" hinzufügen.
+3. Fügen Sie als Nächstes der Aufbewahrungsrichtlinie das **Archivtag** hinzu. Wählen Sie im Exchange Admin Center **die Option "Aufbewahrungsrichtlinien**" aus, > der Richtlinie > **Speichern** das **Tag "In Archiv verschieben**" hinzuzufügen.
 
 4. [Weisen Sie nun die Aufbewahrungsrichtlinie](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) dem Postfach des jeweiligen Benutzers zu. Die gleiche Richtlinie wird sowohl auf das **primäre** postfach als auch auf das **Archivpostfach** angewendet.
 

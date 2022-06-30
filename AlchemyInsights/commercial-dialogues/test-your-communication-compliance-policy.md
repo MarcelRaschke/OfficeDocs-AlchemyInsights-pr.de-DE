@@ -3,21 +3,20 @@ title: Testen Ihrer Kommunikationscompliancerichtlinie
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 9e38e844b44234a5bed970eb79002afe10b2415d
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 6124c88dec7f770fb10032f1b34537e17c4fc338
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65728142"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66393195"
 ---
 # <a name="test-your-communication-compliance-policy"></a>Testen Ihrer Kommunikationscompliancerichtlinie
 

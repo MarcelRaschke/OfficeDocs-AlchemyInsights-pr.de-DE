@@ -3,22 +3,21 @@ title: Aktualisieren Ihrer Domänennamenserver, sodass sie auf Microsoft verweis
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: 7c10dd15beb1e8c1f1bdbef51f56decb0ccb9770
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: d4830e94a99bf90115e0fe9f7370b40eb8818ab8
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63177548"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66516864"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Aktualisieren Ihrer Domänennamenserver, sodass sie auf Microsoft verweisen
 
@@ -36,5 +35,5 @@ Um Ihre Domäne bei Microsoft einzurichten, müssen die Namenserver bei Ihrer Re
 
 3. Speichern Sie die Änderungen.
 
-Ausführliche Anweisungen finden Sie auch in diesem Artikel: [Ändern von Namenservern zum Einrichten von Microsoft 365 mit einer beliebigen Domänenregistrierungsstelle](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Ausführliche Anweisungen finden Sie auch in diesem Artikel: [Ändern von Namenservern zum Einrichten von Microsoft 365 bei einer beliebigen Domänenregistrierungsstelle](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

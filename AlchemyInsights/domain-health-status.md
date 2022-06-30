@@ -3,22 +3,21 @@ title: Domänen-Integritätsstatus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/27/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11443"
 - "100001"
-ms.openlocfilehash: 448893d5b96d49f1c3e56f980616aacf086ba420
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11443"
+ms.date: 05/27/2021
+ms.openlocfilehash: 4c18165dd03f74242bd7844a9065db2b3e0f771f
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63215601"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66515028"
 ---
 # <a name="domain-health-status"></a>Domänen-Integritätsstatus
 

@@ -3,22 +3,21 @@ title: Verwenden einer HTML-Datei zum Importieren von Favoriten in Microsoft Edg
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/30/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9447"
 - "9005491"
-ms.openlocfilehash: f6bd03b66f3610836404ec23f4e0fee5e3f43cab
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9447"
+ms.date: 03/30/2021
+ms.openlocfilehash: 1f42e354cdde8d541f17476f629ec668f8285011
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63303113"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66514632"
 ---
 # <a name="use-an-html-file-to-import-favorites-to-microsoft-edge"></a>Verwenden einer HTML-Datei zum Importieren von Favoriten in Microsoft Edge
 

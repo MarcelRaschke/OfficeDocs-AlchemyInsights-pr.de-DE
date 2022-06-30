@@ -3,22 +3,21 @@ title: Zuweisen einer Überwachungsprotokoll-Rolle im Office 365 Security & Comp
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/21/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7363"
 - "9000722"
-ms.openlocfilehash: d70727e91dc89ffd2344266c1831c1f178594f64
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7363"
+ms.date: 02/21/2021
+ms.openlocfilehash: 2de6c5deab1150476fd6c741d9f96e05293faade
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63269153"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66523614"
 ---
 # <a name="assign-an-audit-log-role-in-the-office-365-security--compliance-center"></a>Zuweisen einer Überwachungsprotokoll-Rolle im Office 365 Security & Compliance Center
 

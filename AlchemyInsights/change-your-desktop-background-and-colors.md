@@ -3,30 +3,29 @@ title: Ändern des Desktophintergrunds und der Farben
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 2b65a34bce6b7fdf9e07065c1d46081dd4b5c894
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d533c989211bedf5d424a2fa49997d77a679e334
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63241746"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66380937"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Ändern des Desktophintergrunds und der Farben
 
-Um ihre Farbeinstellung zu ändern, wechseln **Sie zu Start** >  **Einstellungen** >  **PersonalizationColors** > , und wählen Sie dann Ihre eigene Farbe aus, oder lassen Sie Windows eine Akzentfarbe von Ihrem Hintergrund ziehen.
+UmIhre Farbeneinstellung zu ändern, wechseln Sie zu **"Starteinstellungen** >  >  > " und wählen Sie dann Ihre eigene Farbe **aus, oder** lassen Sie Windows eine Akzentfarbe aus dem Hintergrund ziehen.
 
 ![Personalisieren Sie Ihre Farben in Windows.](media/windows-personalization-colors.png)
 
-Wechseln Sie zum Ändern des Desktophintergrunds zu **Start** >  **Einstellungen** >  **PersonalizationBackground** > , und wählen Sie dann ein Bild, eine Volltonfarbe oder eine Bildschirmpräsentation mit Bildern aus. 
+Wenn Sie Ihren Desktophintergrund ändern möchten, wechseln Sie zu **"Starteinstellungen** >  > **Personalisierungshintergrund** > ", und wählen Sie dann ein Bild, eine Volltonfarbe aus, oder erstellen Sie eine Bildschirmpräsentation mit Bildern. 
 
-![Ändern Sie ihren Windows Desktophintergrund.](media/windows-desktop-background.png)
+![Ändern Sie den Windows-Desktophintergrund.](media/windows-desktop-background.png)
 
-Möchten Sie mehr Desktophintergründe und -farben? Besuchen Sie [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes), um aus Dutzenden kostenloser Designs auszuwählen.
+Möchten Sie mehr Desktophintergründe und -farben? Besuchen Sie den [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) , um aus Dutzenden kostenlosen Designs auszuwählen.

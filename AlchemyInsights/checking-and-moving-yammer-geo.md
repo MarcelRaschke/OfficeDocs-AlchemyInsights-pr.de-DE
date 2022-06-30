@@ -3,22 +3,21 @@ title: Überprüfen und Verschieben der Yammer Geodaten
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/17/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8419"
 - "9003223"
-ms.openlocfilehash: 2d3a93c7fdd40214059638538e1d38b5516e065a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8419"
+ms.date: 03/17/2021
+ms.openlocfilehash: 058f78509f089e5ef7ce420e2f2e8b9cf05d1e74
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63187052"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66380793"
 ---
 # <a name="checking-and-moving-yammer-geo"></a>Überprüfen und Verschieben der Yammer Geodaten
 

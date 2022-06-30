@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: d119ad833196f8927fa49d46702873c4c484a336
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: b83bd0b21bace1c8dc54394d4baefb66a5081afc
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66289630"
+ms.locfileid: "66516972"
 ---
 # <a name="change-your-password"></a>Ändern Ihres Kennworts
 
@@ -26,6 +26,6 @@ Wenn Sie Ihr Outlook.com Kennwort vergessen haben, wechseln Sie zur Seite zum [Z
     
 3. Führen Sie die Schritte zum Signieren und Auswählen eines neuen Kennworts aus. 
     
-Weitere Informationen finden [Sie unter Ändern meines Kennworts in Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).
+Weitere Informationen finden [Sie unter Ändern meines Kennworts in Outlook.com](https://support.microsoft.com/office/change-your-password-in-outlook-com-2138d690-811c-4545-b2f3-e4dbe80c9735).
   
 

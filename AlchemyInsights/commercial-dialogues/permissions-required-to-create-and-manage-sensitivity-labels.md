@@ -3,22 +3,21 @@ title: Für das Erstellen und Verwalten von Vertraulichkeitsbezeichnungen erford
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7363"
 - "9000722"
-ms.openlocfilehash: 8bcd2e475065062d39d55871b0f65f14a25ddb06
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+- "7363"
+ms.date: 02/19/2021
+ms.openlocfilehash: 7efa8b3199d9f58446610b79d60e962a60c56c68
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65591742"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66393627"
 ---
 # <a name="permissions-required-to-create-and-manage-sensitivity-labels"></a>Für das Erstellen und Verwalten von Vertraulichkeitsbezeichnungen erforderliche Berechtigungen
 

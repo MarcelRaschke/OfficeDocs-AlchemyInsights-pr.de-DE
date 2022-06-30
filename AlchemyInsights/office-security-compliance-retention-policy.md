@@ -3,23 +3,22 @@ title: Weitere Informationen zu Aufbewahrungsrichtlinien
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: admin
+audience: admin
 ms.topic: article
 ms.service: o365-administration
 ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 90281504ccc0d7ed7f686a0cc2c306095d605764
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 04/21/2020
+ms.openlocfilehash: 91ea269bc7262cfd9676d72cea2e3148df1b3581
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721873"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66431482"
 ---
 # <a name="more-info-about-retention-policies"></a>Weitere Informationen zu Aufbewahrungsrichtlinien
 
@@ -46,7 +45,7 @@ In den meisten Organisationen nimmt das Volumen und die Komplexität ihrer Daten
 
 - Siehe [DIESEN](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) Artikel  
 
-## <a name="d-information-rights-management-irm"></a>D) Information Rights Management (IRM)
+## <a name="d-information-rights-management-irm"></a>D) Verwaltung von Informationsrechten (IRM)
 
 - Siehe diese Artikel
   - [IRM in einer Liste/Bibliothek](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)

@@ -3,21 +3,20 @@ title: Gemeinsame Themen und Lösungen in Yammer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002428"
 - "4712"
-ms.openlocfilehash: 74501905914bd52d8ecab94dae6727c5d8f48b9b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 1c4b39b56f57964579e001a1ae3376cf85156419
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63176071"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66517008"
 ---
 # <a name="yammer-common-issues-and-resolutions"></a>Gemeinsame Themen und Lösungen in Yammer
 

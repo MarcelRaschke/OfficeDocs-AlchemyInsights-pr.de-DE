@@ -8,22 +8,21 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 2bb19a2b9a1fa98d09be21ae0dc18c497743a669
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 3fb43f224512b535d9cf74b53340c54fd47fffbf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65724468"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66394527"
 ---
 # <a name="configure-quarantine-notifications-sent-to-users"></a>Konfigurieren von Quarantänebenachrichtigungen, die an Benutzer gesendet werden
 
 So senden Sie Benachrichtigungen an Ihre Benutzer, was sich in Quarantäne befindet:
 
-1. Navigieren Sie im Admin Center zu **Admin Centern** >  **Exchange** >  **Schutz-Spamfilter** > .
+1. Navigieren Sie im Admin Center zu den **Exchange** > **Protection-Spamfiltern** >  im **Admin Center** > .
 2. Wählen Sie die Spamfilterrichtlinie aus, für die Sie Benachrichtigungen aktivieren möchten.
 3. Wählen Sie im rechten Bereich den Link **"Spambenachrichtigungen für Endbenutzer konfigurieren** " aus.
 4. Wählen Sie im nächsten Dialogfeld " **Spambenachrichtigungen für Endbenutzer aktivieren" aus**. Wählen Sie diese Option aus, um Spambenachrichtigungen für diese Richtlinie zu aktivieren.

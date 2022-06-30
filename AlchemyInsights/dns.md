@@ -3,21 +3,20 @@ title: DNS
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5625"
-ms.openlocfilehash: b28d9c79f6b89f55e24907cc18ac1fbb0426816a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 90f2648b3ff0b8d87968e6d17c11ef4f61ab75d9
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63239093"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66515100"
 ---
 # <a name="dns"></a>DNS
 

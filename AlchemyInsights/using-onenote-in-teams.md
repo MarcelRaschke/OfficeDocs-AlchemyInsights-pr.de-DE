@@ -3,21 +3,20 @@ title: Verwenden von OneNote in Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "5665"
-ms.openlocfilehash: 92fd90671be46ee2a69178020c5aca9dc12c8c3d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f61a7e50fa6bae6d208bdd9ee823025ec86d24d9
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63242837"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66517224"
 ---
 # <a name="using-onenote-in-teams"></a>Verwenden von OneNote in Teams
 
