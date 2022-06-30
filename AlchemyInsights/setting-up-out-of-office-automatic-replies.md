@@ -3,21 +3,20 @@ title: Einrichten von automatischen Abwesenheitsantworten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002390"
 - "4658"
-ms.openlocfilehash: 5c3c9440b9423b454e62f1b38d375207f669cc46
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: b57afe8b451ee944a55b89ab7178fddd1f61e9a4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63084754"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66346602"
 ---
 # <a name="setting-up-out-of-office-automatic-replies"></a>Einrichten von automatischen Abwesenheitsantworten
 

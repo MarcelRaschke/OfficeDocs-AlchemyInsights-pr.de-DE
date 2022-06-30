@@ -3,21 +3,20 @@ title: Einrichten neuer OME-Funktionen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "11216"
-ms.openlocfilehash: b0c2727dd322d12bd8184e3c871a44df70b64e5f
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 0f27dd9b1aaae3193b17851c167ff1451ce565b9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65734952"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66346782"
 ---
 # <a name="set-up-new-ome-capabilities"></a>Einrichten neuer OME-Funktionen
 

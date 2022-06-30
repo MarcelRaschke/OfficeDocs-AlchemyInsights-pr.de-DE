@@ -1,25 +1,24 @@
 ---
-title: Die Richtlinien der Organisation ermöglichen es Ihnen nicht, diese Benutzer freizugeben.
+title: Die Richtlinien der Organisation erlauben es Ihnen nicht, diese Benutzer freizugeben.
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/08/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "7523"
-ms.openlocfilehash: 201cca3e477b951795e67df3a1b7d81118e2e7af
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 12/08/2020
+ms.openlocfilehash: 0ccbcb740fefbed8ea5a0444c8cc484216ea0c92
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63283481"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66402339"
 ---
-# <a name="organizations-policies-do-not-allow-you-to-share-with-these-users"></a>Die Richtlinien der Organisation ermöglichen es Ihnen nicht, diese Benutzer freizugeben.
+# <a name="organizations-policies-do-not-allow-you-to-share-with-these-users"></a>Die Richtlinien der Organisation erlauben es Ihnen nicht, diese Benutzer freizugeben.
 
-Wenn Sie versuchen, ein Element oder eine Website in SharePoint Online oder OneDrive for Business freizugeben, wird die Fehlermeldung angezeigt: "[Die Richtlinien Ihrer Organisation ermöglichen es Ihnen nicht, sie für diese Benutzer freizugeben](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error)".
+Wenn Sie versuchen, ein Element oder eine Website in SharePoint Online oder OneDrive for Business freizugeben, wird die Fehlermeldung "Die [Richtlinien Ihrer Organisation erlauben es Ihnen nicht, diese Benutzer freizugeben](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error)".

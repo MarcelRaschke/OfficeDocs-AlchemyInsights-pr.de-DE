@@ -3,22 +3,21 @@ title: SharePoint-Dateien fehlen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/27/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11392"
 - "9006699"
-ms.openlocfilehash: 63bc6fcb391e6744bbb25dbf8199949d7c8b8912
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11392"
+ms.date: 05/27/2021
+ms.openlocfilehash: 0e221ef4b8f73bd6237b615c9c17c2834c3b6c8e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63292753"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66346341"
 ---
 # <a name="sharepoint-files-are-missing"></a>SharePoint-Dateien fehlen
 

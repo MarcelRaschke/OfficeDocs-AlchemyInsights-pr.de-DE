@@ -3,21 +3,20 @@ title: SharePoint-Listen – Häufig gestellte Fragen (FAQ)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "5677"
-ms.openlocfilehash: 516df69fa5a6c2b6c63f5c5b90f6bb07b014f7a4
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 75c50e9c634b6b0c0738ccb8f6f1b13e48d3a113
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65726812"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66346305"
 ---
 # <a name="sharepoint-lists-faq"></a>SharePoint-Listen – Häufig gestellte Fragen (FAQ)
 

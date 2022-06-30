@@ -3,21 +3,20 @@ title: Ausgleichen einer Saldoforderung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5606"
-ms.openlocfilehash: c717bc73900eb1ec06fc707142a5f0821737031c
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 347485de7226ba29340e63a5134405d7e38a0a4d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66004589"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66346566"
 ---
 # <a name="settle-an-outstanding-balance"></a>Ausgleichen einer Saldoforderung
 

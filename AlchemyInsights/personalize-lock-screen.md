@@ -3,22 +3,21 @@ title: Personalisieren des Sperrbildschirms in Windows 10
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/28/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9787"
 - "9005401"
-ms.openlocfilehash: fe5b3b831fb28b1508d193a05826a65bb3712204
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9787"
+ms.date: 05/28/2021
+ms.openlocfilehash: d08bb60bd09689f57f5176b88846fa6ce50ae5fa
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63213549"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66374691"
 ---
 # <a name="personalize-your-lock-screen-in-windows-10"></a>Personalisieren des Sperrbildschirms in Windows 10
 

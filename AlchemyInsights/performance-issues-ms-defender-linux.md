@@ -3,22 +3,21 @@ title: Leistungsprobleme bei Microsoft Defender für Endpunkt unter Linux
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/04/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11491"
 - "9001464"
-ms.openlocfilehash: 9c389af9d3d410cd080f87fb6f3d782acee77afd
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "11491"
+ms.date: 06/04/2021
+ms.openlocfilehash: 77be222a8a1fc63e6b04cfa7a692a7469e6d12f0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65725369"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66305766"
 ---
 # <a name="performance-issues-for-microsoft-defender-for-endpoint-on-linux"></a>Leistungsprobleme bei Microsoft Defender für Endpunkt unter Linux
 

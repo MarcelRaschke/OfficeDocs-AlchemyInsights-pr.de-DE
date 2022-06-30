@@ -3,22 +3,21 @@ title: Fehler bei der Migration öffentlicher Ordner bei 95 %
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 01/03/2022
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "639"
 - "3500007"
-ms.openlocfilehash: 9b0ab0e35d6bee1536fb1c237f82bf709b81b4c7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "639"
+ms.date: 01/03/2022
+ms.openlocfilehash: c1d3d1874f517d6bc9a43b28b113f9f79b4d9dbb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63126245"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66292546"
 ---
 # <a name="public-folder-migration-fails-at-95"></a>Fehler bei der Migration öffentlicher Ordner bei 95 %
 

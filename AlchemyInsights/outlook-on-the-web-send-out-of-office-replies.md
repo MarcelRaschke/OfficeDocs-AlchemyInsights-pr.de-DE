@@ -3,21 +3,20 @@ title: 'Outlook im Web: Senden von Abwesenheitsantworten'
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: d1020d5f0de28ce2b375096e009fcab245da00fc
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: dc6ec38182e12a0a4e6e6ec7e9081c55c488f6bf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63245429"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66306558"
 ---
 # <a name="outlook-on-the-web-send-out-of-office-replies"></a>Outlook im Web: Senden von Abwesenheitsantworten
 
