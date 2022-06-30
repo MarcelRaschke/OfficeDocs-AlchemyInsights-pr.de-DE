@@ -3,22 +3,21 @@ title: Probleme im Zusammenhang mit Office-Skripts
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/24/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12064"
 - "9006408"
-ms.openlocfilehash: 2805f94b9a1925c70a5254eb20f1daa684833481
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "12064"
+ms.date: 06/24/2021
+ms.openlocfilehash: 06d335107cd038b3930eedea60e80f641dc0bdc1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65716809"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66433795"
 ---
 # <a name="issues-related-to-office-scripts"></a>Probleme im Zusammenhang mit Office-Skripts
 

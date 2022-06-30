@@ -3,33 +3,32 @@ title: Verwenden der Fingerabdruckentsperrungsoption in Windows 10
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 0f3d21d72b86d85d41a0330a148ff7bde770067c
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: b8750f5d25743d739545e6f4151201aeb129f932
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65730558"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66523362"
 ---
 # <a name="use-fingerprint-unlock-option-in-windows-10"></a>Verwenden der Fingerabdruckentsperrungsoption in Windows 10
 
 **Aktivieren Windows Hello Fingerabdrucks**
 
-Um Windows 10 mit ihrem Fingerabdruck zu entsperren, müssen Sie Windows Hello Fingerabdruck einrichten, indem Sie mindestens einen Finger hinzufügen (damit Windows lernen können, zu erkennen). 
+Um Windows 10 mit ihrem Fingerabdruck zu entsperren, müssen Sie Windows Hello Fingerabdruck einrichten, indem Sie mindestens einen Finger hinzufügen (damit Windows erkennen kann). 
 
-1. Wechseln Sie zu **Einstellungen > Konten > Anmeldeoptionen** (oder klicken Sie [hier](ms-settings:signinoptions?activationSource=GetHelp)). Die verfügbaren Anmeldeoptionen werden aufgelistet. Beispiel:
+1. Wechseln **Sie zu Einstellungen > Konten > Anmeldeoptionen** (oder klicken Sie [hier](ms-settings:signinoptions?activationSource=GetHelp)). Die verfügbaren Anmeldeoptionen werden aufgelistet. Zum Beispiel:
 
     ![Anmeldeoptionen.](media/sign-in-options.png)
 
-2. Klicken oder tippen Sie **auf Windows Hello Fingerabdruck**, und klicken Sie dann auf **"Einrichten**". Klicken Sie im Fenster Windows Hello Setup auf **Erste Schritte**. Der Fingerabdrucksensor wird aktiviert, und Sie werden aufgefordert, ihren Finger auf dem Sensor zu platzieren:
+2. Klicken oder tippen Sie **auf Windows Hello Fingerabdruck**, und klicken Sie dann auf **"Einrichten**". Klicken Sie im Fenster Windows Hello Setup auf "**Erste Schritte**". Der Fingerabdrucksensor wird aktiviert, und Sie werden aufgefordert, ihren Finger auf dem Sensor zu platzieren:
 
    ![Fingerabdrucksensor.](media/fingerprint-sensor.png)
 

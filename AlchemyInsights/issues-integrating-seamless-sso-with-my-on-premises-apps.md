@@ -3,22 +3,21 @@ title: Probleme bei der Integration nahtloser SSO in meine lokalen Apps
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 01/13/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 9f506b8ac0213162ebaf65cc569c66e0f6fcf66d
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 01/13/2021
+ms.openlocfilehash: 1e0d90cf4964f4acb42b3766ab675389d4902f1d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65724314"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66433903"
 ---
 # <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Probleme bei der Integration nahtloser SSO in meine lokalen Apps
 
@@ -31,7 +30,7 @@ Gehen Sie wie folgt vor, um Probleme mit der Integration nahtloser SSO in lokale
     1. Starten Sie den Browser, und navigieren Sie zu der Web-App.
     1. Drücken Sie **F12**, um die Debuggingkonsole zu öffnen.
     1. Versuchen Sie, die Transaktion zu reproduzieren, und überprüfen Sie die Konsolenmeldung. Eine CORS-Verletzung führt zu einem Konsolenfehler hinsichtlich des Ursprungs.
-    1. Einige CORS-Probleme können nicht behoben werden, z. B. wenn Ihre App zu login.microsoftonline.com umleitet, um sich zu authentifizieren, und das Zugriffstoken abläuft. Der CORS-Aufruf schlägt dann fehl. Eine Problemumgehung für dieses Szenario besteht darin, die Lebensdauer des Zugriffstokens zu verlängern, um zu verhindern, dass es während der Sitzung eines Benutzers abläuft. Weitere Informationen dazu finden Sie unter [Konfigurierbare Tokengültigkeitsdauer auf der Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+    1. Einige CORS-Probleme können nicht behoben werden, z. B. wenn Ihre App zu login.microsoftonline.com umleitet, um sich zu authentifizieren, und das Zugriffstoken abläuft. Der CORS-Aufruf schlägt dann fehl. Eine Problemumgehung für dieses Szenario besteht im Verlängern der Gültigkeit des Zugriffstokens, um zu verhindern, dass es während einer Benutzersitzung abläuft. Weitere Informationen dazu finden Sie unter [Konfigurierbare Tokengültigkeitsdauer auf der Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 
 **Empfohlene Dokumente**
 
