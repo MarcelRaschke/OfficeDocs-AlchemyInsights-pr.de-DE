@@ -3,22 +3,21 @@ title: Datenschutzeinstellungen der Kamera
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9005372"
 - "9311"
-ms.openlocfilehash: ac415ed3bc186ba44f25b9709c41daedc2a4171b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 08/20/2020
+ms.openlocfilehash: c90226c05f539c262c2421d4c4f3322a62503aee
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63227985"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66329061"
 ---
 # <a name="camera-privacy-settings"></a>Datenschutzeinstellungen der Kamera
 

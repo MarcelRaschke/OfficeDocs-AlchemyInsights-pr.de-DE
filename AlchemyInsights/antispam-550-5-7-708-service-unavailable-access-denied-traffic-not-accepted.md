@@ -1,25 +1,24 @@
 ---
-title: 1047 AntiSpam 550 5.7.708 Service unavailable. Zugriff verweigert, Datenverkehr von dieser IP nicht akzeptiert
+title: 1047 AntiSpam 550 5.7.708 Service nicht verfügbar. Zugriff verweigert, Datenverkehr von dieser IP nicht akzeptiert
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
+- "3100025"
 - "1047"
 - "1986"
-- "3100025"
-ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: 89fb03b347fa6454f97bc7f33e327b2bfd1ca52a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: b58bc3cb66cfdb7b405e6ff41520f65cbbbe55c1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63308669"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66301132"
 ---
 # <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 Zugriff verweigert, Datenverkehr von dieser IP nicht akzeptiert
 

@@ -8,16 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f3d633aa784316cc71d623f48a462ca5f7485beb
-ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
+ms.openlocfilehash: 641a021f22484e84832df1647e636e78938f95c5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65395693"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66356943"
 ---
 # <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>Remotebehebung von Problemen beim Onboarding Windows 10 Geräten in Microsoft Defender Advanced Threat Protection
 

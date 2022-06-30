@@ -3,24 +3,23 @@ title: Freigeben von Speicherplatz in Windows 10
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9771"
-- "9774"
 - "9005390"
 - "9005403"
-ms.openlocfilehash: 872c385e3f2fe5705607df1ed8a54cdb1bc333a8
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9771"
+- "9774"
+ms.date: 03/16/2021
+ms.openlocfilehash: fc3d04083c3d9c4ffda742ae9e798af72ed91752
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65730234"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66376995"
 ---
 # <a name="free-up-drive-space-in-windows-10"></a>Freigeben von Speicherplatz in Windows 10
 

@@ -3,21 +3,20 @@ title: Sichern von E-Mails in Exchange Online
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002333"
 - "4537"
-ms.openlocfilehash: 23422724a038e909a9597fb6ba8d3d97180ff681
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 81817f24a4a4db4b18b270b6c8aaaf1df8f49570
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63094510"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66329363"
 ---
 # <a name="backing-up-email-in-exchange-online"></a>Sichern von E-Mails in Exchange Online
 

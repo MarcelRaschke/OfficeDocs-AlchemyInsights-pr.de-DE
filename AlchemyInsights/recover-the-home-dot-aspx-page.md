@@ -3,21 +3,20 @@ title: Wiederherstellen der Seite Start.aspx
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002970"
 - "5683"
-ms.openlocfilehash: b5df127af4d8166241274845d0caa43a194527d0
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: e9dc04978a0073b9e87c8dfcc228fc053303c9e2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63223521"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66385524"
 ---
 # <a name="recover-the-homeaspx-page"></a>Wiederherstellen der Seite Start.aspx
 

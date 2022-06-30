@@ -3,25 +3,24 @@ title: Fehlende Notizen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2501"
-ms.openlocfilehash: 0c794ac6cddca65835f7a0eff01195797cd28ecd
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 8aa01796b75f0195f509301322b8fc5a90bf11ae
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733908"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66286570"
 ---
 # <a name="missing-notes-in-notebook"></a>Fehlende Notizen im Notizbuch
 
-Eine der häufigsten Ursachen für fehlende Seiten oder Abschnitte in einem Notizbuch ist ein Synchronisierungsfehler. In diesem Fall gehen die Daten nicht verloren und können wiederhergestellt werden, sobald die Synchronisierung funktioniert. Überprüfen Sie alle OneNote Clientbenutzer verwendet haben, um festzustellen, ob einer von ihnen einen Fehler für das Notizbuch anzeigt, und wenn ein Fehler vorliegt, lesen [Sie "Beheben von Problemen", wenn Sie OneNote nicht synchronisieren können](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
+Eine der häufigsten Ursachen für fehlende Seiten oder Abschnitte in einem Notizbuch ist ein Synchronisierungsfehler. In diesem Fall gehen die Daten nicht verloren und können wiederhergestellt werden, sobald die Synchronisierung funktioniert. Überprüfen Sie, ob von jedem OneNote-Clientbenutzer ein Fehler für das Notizbuch angezeigt wird. Wenn ein Fehler auftritt, lesen [Sie "Beheben von Problemen,wenn Sie OneNote nicht synchronisieren können](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)".
 
 - In OneNote für Windows 10 wird wahrscheinlich neben dem Notizbuch ein gelbes dreieckiges Warnsymbol angezeigt.
 - Klicken Sie in OneNote 2016 mit der rechten Maustaste auf den Notizbuchnamen unter dem Menüband, und klicken Sie auf "Notizbuch-Synchronisierungsstatus".

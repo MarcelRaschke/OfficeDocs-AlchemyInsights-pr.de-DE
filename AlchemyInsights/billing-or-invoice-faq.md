@@ -12,16 +12,16 @@ ms.localizationpriority: high
 ms.custom:
 - commerce_billing
 - "1500024"
-- "5525"
 - "1500005"
 - "5523"
+- "5525"
 ms.date: 05/24/2022
-ms.openlocfilehash: 80b8042b46940e60871bf6d4cc79cfe8c78a0c48
-ms.sourcegitcommit: f1deffe3c72510f188df6c8bc611093fb3888cf0
+ms.openlocfilehash: 2f68ea91e02e427ad7e9de51f029047e6e1c8a71
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/25/2022
-ms.locfileid: "65671201"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66329313"
 ---
 # <a name="billing-or-invoice-faq"></a>Häufig gestellte Fragen (FAQ) zur Abrechnung/Rechnung
 

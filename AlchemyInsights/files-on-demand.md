@@ -3,22 +3,21 @@ title: Dateien bei Bedarf
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6432"
 - "9003530"
+- "6432"
 ms.date: 07/15/2020
-ms.openlocfilehash: cdd5a7e3ccd3bf1e386b9c426ed751dbf1543353
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d7fb5c2e1c6685325d8ed1a12e90856c444e2811
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63299155"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66377643"
 ---
 # <a name="configure-files-on-demand"></a>OneDrive-Dateien bei Bedarf konfigurieren
 

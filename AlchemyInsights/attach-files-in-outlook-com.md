@@ -1,29 +1,28 @@
 ---
-title: 8000052 Anfügen von Dateien in Outlook.com
+title: 8000052 Dateien in Outlook.com anfügen
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "857"
 - "8000052"
-ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: 7619957e05d188b4ab1779b56a80c4dd1bb1f22a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "857"
+ms.openlocfilehash: 34b729d09a8e0725690363824a773e48bd1d2f70
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63094618"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66344037"
 ---
-# <a name="how-to-attach-files-in-outlook"></a>So fügen Sie Dateien in OUtlook an 
+# <a name="how-to-attach-files-in-outlook"></a>Anfügen von Dateien in OUtlook 
 
-1. Verfassen einer neuen Nachricht oder Antworten auf eine Nachricht.
+1. Verfassen Sie eine neue Nachricht, oder antworten Sie auf eine Nachricht.
 
-2. Wählen Sie am unteren Rand des Verfassenbereichs das Papierclipsymbol aus.
+2. Wählen Sie unten im Bereich "Verfassen" das Büroklammersymbol aus.
 
-Erfahren Sie mehr über [das Anfügen von Dateien in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).
+Erfahren Sie mehr darüber [, wie Sie Dateien in Outlook.com anfügen](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).
   

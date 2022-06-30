@@ -3,29 +3,27 @@ title: 763 Blockieren Exchange Online PowerShell-Zugriffs für Benutzer
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "763"
 - "3500011"
-ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 8af9c8557983acceeff7ab3548cf16b5795c10a5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "763"
+ms.date: 04/21/2020
+ms.openlocfilehash: e26c742740b0f06c25a552f14dda0992d6e1343e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63258749"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66343857"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>Blockieren des Exchange Online PowerShell-Zugriffs für Benutzer
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>Blockieren Exchange Online PowerShell-Zugriffs für Benutzer
 Als Administrator haben Sie die Möglichkeit, den Zugriff auf Exchange Online PowerShell für Ihre Benutzer zu blockieren. Weitere Informationen finden Sie unter den folgenden Themen:
 
 - [Aktivieren oder Deaktivieren des Zugriffs auf Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
 - [Clientzugriffsregeln in Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (suchen Sie nach dem **RemotePowerShell-Protokoll**) 
 
-**Hinweis**: Wie im Thema beschrieben, achten Sie darauf, den Zugriff auf Exchange Online PowerShell für Administratoren nicht zu blockieren.
+**Hinweis**: Achten Sie wie im Thema beschrieben darauf, den Zugriff auf Exchange Online PowerShell für Administratoren nicht zu blockieren.

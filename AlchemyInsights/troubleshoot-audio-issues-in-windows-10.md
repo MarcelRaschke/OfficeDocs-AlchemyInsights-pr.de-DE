@@ -3,21 +3,20 @@ title: Behandeln von Audioproblemen in Windows 10
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "3476"
 - "9001463"
-ms.openlocfilehash: d4941c00396a17e76859aef7294e5d258c3090fb
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "3476"
+ms.openlocfilehash: c20736a0a8d5929cb2f10057c0014cb365e9aa41
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723432"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66345560"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Beheben von Audioproblemen in Windows 10
 

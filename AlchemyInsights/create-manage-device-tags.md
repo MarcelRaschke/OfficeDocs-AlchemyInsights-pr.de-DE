@@ -3,22 +3,21 @@ title: Erstellen und Verwalten von Gerätekategorien oder -gruppen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/01/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11446"
 - "9003537"
-ms.openlocfilehash: c6d5b831d0f4114401aeeb16fa0fe0fe82b2183a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11446"
+ms.date: 06/01/2021
+ms.openlocfilehash: f1387d5d5a961ee392a277c3dd5b42049a79d8fa
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63131465"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66355467"
 ---
 # <a name="create-and-manage-device-tags-or-groups"></a>Erstellen und Verwalten von Gerätekategorien oder -gruppen
 

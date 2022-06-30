@@ -8,21 +8,20 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ef196ffc00701bd653e83b49ab57be31d2655e1d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f9d9ee359c5acc06d4dafd503a088edcc3b60011
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63217113"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66272980"
 ---
 # <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>Hinzufügen von Microsoft Defender für Office 365 zu Ihrem Abonnement
 
 Gehen Sie dazu wie folgt vor:
 
-1. Wechseln Sie im Admin Center zu [BillingPurchase-Diensten](https://go.microsoft.com/fwlink/p/?linkid=868433) > .
-2. Drücken Sie auf der Seite **"Dienste kaufen**" **STRG+F**, um das Suchfeld zu öffnen, und suchen Sie dann nach **Microsoft Defender für Office 365**. Wenn Sie das Add-On nicht finden, liegt dies daran, dass Ihr Plan das Hinzufügen nicht unterstützt.
+1. Wechseln Sie im Admin Center zu[Abrechnungskaufdiensten](https://go.microsoft.com/fwlink/p/?linkid=868433) > .
+2. Drücken Sie auf der Seite "**Dienste kaufen**" **STRG+F**, um das Suchfeld zu öffnen, und suchen Sie dann nach **Microsoft Defender für Office 365**. Wenn Sie das Add-On nicht finden, liegt dies daran, dass Ihr Plan das Hinzufügen nicht unterstützt.
 3. Wählen Sie **"Jetzt kaufen"** aus, und folgen Sie dann den Anweisungen auf der Seite.

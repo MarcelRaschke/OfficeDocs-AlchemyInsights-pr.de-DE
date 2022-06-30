@@ -3,21 +3,20 @@ title: Verlängern des Apple APNS-Zertifikats
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3542"
-ms.openlocfilehash: 1ecb543429ec3239919b4cac59403f17d25ce451
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: dbeec9ed1d19e1da84453ba565392e94fd41360c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733224"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66385473"
 ---
 # <a name="renew-apple-apns-certificate"></a>Verlängern des Apple APNS-Zertifikats
 

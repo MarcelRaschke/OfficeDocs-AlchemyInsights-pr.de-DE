@@ -3,21 +3,21 @@ title: Beheben 0x8004de40 Fehlers in OneDrive
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.openlocfilehash: 00b52d5db7bd10a4d6e316980bdd700428cf4ebb
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: d4efb236804401a31a25dbeee61a8cedcdfdef07
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63299037"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66377427"
 ---
 # <a name="fix-0x8004de40-error-in-onedrive"></a>Beheben 0x8004de40 Fehlers in OneDrive
 
-Fehlercode-0x8004de40 kann bedeuten, dass OneDrive Schwierigkeiten hat, eine Verbindung mit der Cloud herzustellen. 
+Fehlercode 0x8004de40 könnte bedeuten, dass OneDrive Schwierigkeiten beim Herstellen einer Verbindung mit der Cloud hat. 
 
-Weitere Informationen finden Sie unter [Fehlercode: 0x8004de40 beim Anmelden bei OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)
+Weitere Informationen finden Sie unter [Fehlercode: 0x8004de40 bei der Anmeldung bei OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)

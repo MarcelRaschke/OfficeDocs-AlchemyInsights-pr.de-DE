@@ -3,24 +3,23 @@ title: Blockieren von Popupfenstern in Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/03/2020
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004026"
-- "7093"
 - "9004596"
+- "7093"
 - "8220"
-ms.openlocfilehash: fce9ffde354edfb34527c4bab395b9136f45eb5a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 12/03/2020
+ms.openlocfilehash: b5efe6c0ab5b0a34bcce50c88037480fad29c21d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63208472"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66329133"
 ---
 # <a name="block-pop-up-windows-in-microsoft-edge"></a>Blockieren von Popupfenstern in Microsoft Edge
 

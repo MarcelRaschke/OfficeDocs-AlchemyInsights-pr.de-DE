@@ -1,38 +1,36 @@
 ---
-title: 1800005 Beheben von Suchproblemen, indem Sie Ihren Sofortsuche-Katalog neu erstellen
+title: 1800005 Beheben von Suchproblemen durch Neuerstellen des Sofortsuche-Katalogs
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "644"
 - "1800005"
-ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 2af4fd0d90eb8160e027021fe2bcfbafed6e0781
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "644"
+ms.openlocfilehash: 8a164da3210a5b55dd7c9b71f223e9f6e4f21bd0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63298863"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66377355"
 ---
-# <a name="troubleshoot-search-issues"></a>Behandeln von Suchproblemen
+# <a name="troubleshoot-search-issues"></a>Problembehandlung bei Suchproblemen
 
-Wenn Sie Probleme mit der Suche in Outlook haben, finden Sie unter den links unten Hilfe und Problembehandlung.
+Wenn Sie Probleme mit der Suche in Outlook haben, finden Sie unter den folgenden Links Hilfe und Problembehandlung.
 
-Dies sind die häufigsten Probleme und sind ein guter Ausgangspunkt:
+Dies sind die häufigsten Probleme und ein guter Ausgangspunkt:
 
-- [Outlook Suche gibt keine Ergebnisse zurück](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [Outlook Suche unvollständige Ergebnisse zurückgibt](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [Outlook Suche keine älteren E-Mails finden kann](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [Die Outlook-Suche gibt keine Ergebnisse zurück.](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Die Outlook-Suche gibt unvollständige Ergebnisse zurück.](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Die Outlook-Suche kann ältere E-Mails nicht finden](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
 Mögliche Lösungen für weniger häufige Probleme finden Sie hier:
 
-- [nur Outlook 2016: Registerkarte "Suche" ist abgeblendet](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [nur Outlook 2016: Die Registerkarte "Suchen" ist abgeblendet.](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
 - [Freigegebenes Postfach: Probleme mit Suchergebnissen](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [Fehler: Die Suchleistung wird aufgrund eines Problems bei der Konfiguration von Outlook beeinträchtigt.](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Fehler: Die Suchleistung wird aufgrund eines Problems mit der Konfiguration von Outlook beeinträchtigt.](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
 - [Suchordner zeigen unerwartete PersonMetadata-Elemente ohne Betreff an](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)

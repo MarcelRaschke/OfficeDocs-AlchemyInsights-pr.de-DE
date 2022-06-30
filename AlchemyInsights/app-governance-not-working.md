@@ -3,22 +3,21 @@ title: App-Governance funktioniert nicht
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 8/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9007647"
 - "12676"
-ms.openlocfilehash: e3cfd651423fb55a63b6b30eb74ba3beb38128aa
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.date: 8/16/2021
+ms.openlocfilehash: 67bce0d8368f4914ebfb217ac49a99ead40817da
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66003761"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66300772"
 ---
 # <a name="app-governance-is-not-working"></a>App-Governance funktioniert nicht
 
@@ -26,11 +25,11 @@ App-Governance ist jetzt für die öffentliche Vorschau verfügbar. Wenn Problem
 
 - Wenn Sie sicherstellen möchten, dass alle Voraussetzungen erfüllt sind, lesen Sie ["Schnellstart](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started)".
 
-- Führen Sie die erforderlichen Schritte aus, um die kostenlose Testversion zu aktivieren. Ausführliche Informationen finden Sie [unter Erste Schritte mit App-Governance](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started#add-app-governance-to-your-microsoft-365-account). 
+- Führen Sie die erforderlichen Schritte aus, um die kostenlose Testversion zu aktivieren. Ausführliche Informationen finden [Sie unter "Erste Schritte mit App-Governance"](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started#add-app-governance-to-your-microsoft-365-account). 
 
-    **Hinweis**: Das einfache Umschalten der Integration in Microsoft Cloud App Security (MCAS) aktiviert keine kostenlose Testversion der App-Governance. Sie müssen die Aktivierungsschritte ausführen.
+    **Hinweis**: Das einfache Umschalten der Integration in Microsoft Cloud App Security (MCAS) aktiviert keine kostenlose Testversion von App-Governance. Sie müssen die Aktivierungsschritte ausführen.
 
-- Wechseln Sie zum Lösungskatalog, um die App-Governance im linken Navigationsbereich des Microsoft Purview-Complianceportals hinzuzufügen, um App-Governance hinzuzufügen. Änderungen können bis zu 24 Stunden nach der Registrierung dauern, bis sie wirksam werden.
+- Zum Hinzufügen der App-Governance zum linken Navigationsbereich des Microsoft Purview-Complianceportal wechseln Sie zum Lösungskatalog, um App-Governance hinzuzufügen. Änderungen können bis zu 24 Stunden nach der Registrierung dauern, bis sie wirksam werden.
 
 - Stellen Sie sicher, dass Ihrem Konto die richtigen Rollen zugewiesen sind:
 
@@ -40,4 +39,4 @@ App-Governance ist jetzt für die öffentliche Vorschau verfügbar. Wenn Problem
 
     1. Wenn Ihnen keine entsprechende Rolle zugewiesen ist, bitten Sie Ihren Administrator um eine berechtigte Rollenzuweisung.
 
-Weitere Informationen zu den ersten Schritten mit App-Governance finden Sie [unter Erste Schritte mit App-Governance (in der Vorschau).](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started)
+Weitere Informationen zu den ersten Schritten mit App-Governance finden [Sie unter "Erste Schritte mit App-Governance (in der Vorschau)"](https://docs.microsoft.com/microsoft-365/compliance/app-governance-get-started).

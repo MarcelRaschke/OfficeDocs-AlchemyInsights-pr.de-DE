@@ -1,30 +1,29 @@
 ---
-title: Verwenden von Microsoft Edge zum Remotedebugging eines Android-Geräts von einem Entwicklungscomputer
+title: Verwenden von Microsoft Edge zum Remotedebuggen eines Android-Geräts von einem Entwicklungscomputer aus
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
+- "9005827"
 - "9003928"
 - "6983"
 - "10186"
-- "9005827"
-ms.openlocfilehash: a8d8f7f3699899f593df857df191180952150979
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: e53c5785c689adc1645eb43a069d906ffcaf4d47
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63085834"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66385617"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Verwenden von Microsoft Edge zum Remotedebugging eines Android-Geräts von einem Entwicklungscomputer
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Verwenden von Microsoft Edge zum Remotedebuggen eines Android-Geräts von einem Entwicklungscomputer aus
 
-So debuggen Sie Liveinhalte auf einem Android-Gerät remote von Ihrem Computer:
+So debuggen Sie Liveinhalte auf einem Android-Gerät remote von Ihrem Computer aus:
 
-1. Richten Sie das Android-Gerät für das Remotedebuggen ein, und ermitteln Sie es vom Entwicklungscomputer aus.
-2. Überprüfen und debuggen Sie auf dem Entwicklungscomputer Liveinhalte auf dem Android-Gerät.
-3. Screencast-Liveinhalte vom Android-Gerät auf eine DevTools-Instanz auf dem Entwicklungscomputer.
+1. Richten Sie das Android-Gerät für das Remotedebugging ein, und ermitteln Sie es auf dem Entwicklungscomputer.
+2. Überprüfen und debuggen Sie live Inhalte auf dem Android-Gerät auf dem Entwicklungscomputer.
+3. Screencast von Live-Inhalten vom Android-Gerät auf eine DevTools-Instanz auf dem Entwicklungscomputer.

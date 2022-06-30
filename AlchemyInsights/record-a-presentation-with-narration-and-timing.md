@@ -3,21 +3,20 @@ title: Aufzeichnen einer Präsentation mit Kommentaren und Anzeigedauern
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5473"
-ms.openlocfilehash: 97e8addddc139f6fdcceb6241d3bf7863173ab1d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 171e3fea16f3a8a4a64641b966a7a9714f17794e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63125741"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66385797"
 ---
 # <a name="record-a-presentation-with-narration-and-timing"></a>Aufzeichnen einer Präsentation mit Kommentaren und Anzeigedauern
 

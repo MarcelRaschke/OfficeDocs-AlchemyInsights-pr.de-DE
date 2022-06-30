@@ -12,22 +12,22 @@ ms.localizationpriority: high
 ms.custom:
 - commerce_subscriptions
 - "9002875"
-- "5445"
 - "9002874"
-- "5435"
 - "9002664"
-- "5176"
 - "9002663"
-- "5169"
 - "9002661"
 - "5161"
+- "5445"
+- "5435"
+- "5176"
+- "5169"
 ms.date: 07/31/2021
-ms.openlocfilehash: 2c14ac47fa4345c8297bfda220f7484c3f772698
-ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
+ms.openlocfilehash: 2429e6ef5bdd34a89473edaa3d443e944612be4c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "66156781"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66329169"
 ---
 # <a name="business-subscription-faq"></a>Häufig gestellte Fragen zu Business-Abonnements
 

@@ -8,22 +8,21 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 55d07e3543dce866100ffb197143ce585059d0ee
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 5968bad33b11d13e1caa172fdca0e5ec6cac8be5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63258029"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66356907"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Melden verdächtiger E-Mails, URLs oder Anlagen
 
-Ich bin mir bewusst, dass Sie Hilfe bei der Untersuchung einer verdächtigen E-Mail oder einer E-Mail benötigen, die falsch gefiltert wurde. Ich kann Ihnen helfen, das Problem zur Analyse über das **Übermittlungsportal** zu übermitteln, das Ihnen sofortiges Feedback gibt. Hier ist eine Zusammenfassung der Schritte:
+Ich verstehe, dass Sie Hilfe bei der Untersuchung einer verdächtigen E-Mail oder einer E-Mail benötigen, die falsch gefiltert wurde. Ich kann Ihnen helfen, das Problem mithilfe des **Übermittlungsportals** zur Analyse einzureichen, das Ihnen sofortiges Feedback gibt. Hier ist eine Zusammenfassung der Schritte:
 
-1. Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com>zu **E-Mail-& Übermittlungen für die Zusammenarbeit**\>.
+1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com>zu **"E-Mail-& Übermittlungen zur Zusammenarbeit**\>".
 
    Um direkt zur Seite **"Übermittlungen** " zu wechseln, verwenden Sie <https://security.microsoft.com/reportsubmission>.
 
@@ -31,6 +30,6 @@ Ich bin mir bewusst, dass Sie Hilfe bei der Untersuchung einer verdächtigen E-M
 
 3. Ein Flyout wird mit der Option zum Senden einer E-Mail, einer URL oder einer Datei angezeigt.
 
-Weitere Informationen finden Sie unter ["Verwenden der Administratorübermittlung" zum Übermitteln von verdächtigem Spam, Phishing, URLs und Dateien an Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission).
+Weitere Informationen finden Sie unter ["Verwenden Admin Übermittlung zum Übermitteln von verdächtigem Spam, Phishing, URLs und Dateien an Microsoft.For more information, see Use Admin Submission to submit suspected spam, phish, URLs, and files to Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission).
 
-**Hinweis**: Informieren Sie Ihre Benutzer, dass sie verdächtige Nachrichten in ihrem Posteingang mithilfe des [Add-Ins "Nachricht melden" oder des Add-Ins "Phishing melden](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)" melden sollten.
+**Hinweis**: Informieren Sie Ihre Benutzer, dass sie verdächtige Nachrichten in ihrem Posteingang mithilfe des [Add-Ins "Nachricht melden" oder des Add-Ins "Phishing melden"](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) melden sollten.

@@ -8,17 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 8176905ef2679939add8515c41aed6a830946907
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 1af0714ab85e24fe4906b809bba32aadc9471bf9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63269009"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66272908"
 ---
 # <a name="click-here-to-manage-your-subscriptions"></a>Klicken Sie hier, um Ihre Abonnements zu verwalten.
 
-Um Ihre Zahlungsmethode zu ändern, Ihre Einstellungen für die automatische Verlängerung zu aktualisieren oder pläne zu wechseln, [klicken Sie hier, um Ihre Abonnements zu verwalten](https://portal.office.com/AdminPortal/Home#/subscriptions).
+Wenn Sie Ihre Zahlungsmethode ändern, Ihre Einstellungen für die automatische Verlängerung aktualisieren oder Pläne wechseln möchten, [klicken Sie hier, um Ihre Abonnements zu verwalten](https://portal.office.com/AdminPortal/Home#/subscriptions).

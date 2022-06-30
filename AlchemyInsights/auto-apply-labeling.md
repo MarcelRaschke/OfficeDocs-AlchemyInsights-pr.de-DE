@@ -3,22 +3,21 @@ title: Bezeichnung automatisch anwenden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8232"
 - "9004597"
-ms.openlocfilehash: 688ccb11e314e08d15184f3abb36a369ba5fffc5
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+- "8232"
+ms.date: 07/19/2021
+ms.openlocfilehash: dbef9d991cd9ccab7c8037f2ab10933b7031eff5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65591814"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66343965"
 ---
 # <a name="auto-apply-labeling"></a>Bezeichnung automatisch anwenden
 

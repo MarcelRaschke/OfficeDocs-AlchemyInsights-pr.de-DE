@@ -3,22 +3,21 @@ title: Behandeln von Azure AD-Beitrittsproblemen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 03/24/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "6157"
-ms.openlocfilehash: 6b3a9fa97dc93d6689ba5f71aa2c8a98a4d1a8a8
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.date: 03/24/2021
+ms.openlocfilehash: 49f7127d234fb92c7539507438c9502a8a80921f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65592030"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66345657"
 ---
 # <a name="troubleshoot-azure-ad-join-issues"></a>Behandeln von Azure AD-Beitrittsproblemen
 
@@ -27,4 +26,4 @@ ms.locfileid: "65592030"
 1. Stellen Sie sicher, dass Sie berechtigt sind, Vorgänge in Azure AD auszuführen. Nur ein globaler Administrator in Azure AD kann Einstellungen für Geräteregistrierungen verwalten.
 1. Informationen zur Azure AD-Beitrittsimplementierung finden Sie unter [Planen des Azure AD-Beitritts](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan).
 
-Weitere Informationen zum Beheben häufiger Probleme mit der Azure AD-Teilnahme finden [Sie unter Häufig gestellte Fragen zum Azure Ad-Beitritt](https://docs.microsoft.com/azure/active-directory/devices/faq#azure-ad-join-faq) und für Windows 10 Pro-Gerät unter ["Nicht in der Lage, Windows 10 Pro Computer zu Azure AD zu verbinden – Upgrade erforderlich – Microsoft Community](https://answers.microsoft.com/en-us/msoffice/forum/all/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)
+Weitere Informationen zum Beheben häufiger Probleme mit dem Azure AD-Beitritt finden [Sie unter Häufig gestellte Fragen zum Beitritt zu Azure Ad](https://docs.microsoft.com/azure/active-directory/devices/faq#azure-ad-join-faq) und für Windows 10 Pro-Gerät unter [Unable to join Windows 10 Pro machine to Azure AD - Need to upgrade to - Microsoft Community](https://answers.microsoft.com/en-us/msoffice/forum/all/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)

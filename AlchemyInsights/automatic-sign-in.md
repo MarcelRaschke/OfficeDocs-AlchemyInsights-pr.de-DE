@@ -3,22 +3,21 @@ title: Automatische Anmeldung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/28/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10989"
 - "9006449"
-ms.openlocfilehash: bf441309963af34fcada970d1bcdb021291f60aa
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10989"
+ms.date: 04/28/2021
+ms.openlocfilehash: ded53bb966de7ce4f4b59a275e1492b4cbd6bce6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63164011"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66343929"
 ---
 # <a name="automatic-sign-in"></a>Automatische Anmeldung
 
