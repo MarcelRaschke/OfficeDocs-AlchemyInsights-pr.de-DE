@@ -3,21 +3,20 @@ title: Häufige Probleme und Lösungen in Visio
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 504834c52a0ec51f98603a68db7a580d2d439986
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 361d21a01c24fdfd9ea74c3e13a95123b444558e
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63189284"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66514344"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Häufige Probleme und Lösungen in Visio
 
