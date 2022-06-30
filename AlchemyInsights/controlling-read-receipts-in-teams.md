@@ -3,21 +3,20 @@ title: Kontrollieren von Lesebestätigungen in Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: 5a31d781c65b53e8a4c41ec16dd0706600599e42
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 6a1c372af06abc88c94181a6bce34ddba6766896
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63092998"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66412582"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>Kontrollieren von Lesebestätigungen in Teams
 

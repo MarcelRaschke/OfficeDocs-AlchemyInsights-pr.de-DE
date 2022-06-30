@@ -3,22 +3,21 @@ title: Microsoft Defender für Endpunkt unter Linux
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/01/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11490"
 - "9001464"
-ms.openlocfilehash: 3e270439be0c849ee0427ca89fad0bbed9574259
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11490"
+ms.date: 06/01/2021
+ms.openlocfilehash: fed600383b874c0d2a82295638d3cec5e6e5268d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63249029"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66412580"
 ---
 # <a name="microsoft-defender-for-endpoint-on-linux"></a>Microsoft Defender für Endpunkt unter Linux
 

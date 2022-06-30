@@ -3,22 +3,21 @@ title: Migrieren Sie Ihre öffentlichen Ordner zu Microsoft 365 Groups
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10859"
 - "3500007"
-ms.openlocfilehash: f98c873434384795e8a21fc80d08f1ed41a8084f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10859"
+ms.date: 03/16/2021
+ms.openlocfilehash: 348fd97699b14d85ae45e99bcb71c96ae6feae8a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63273509"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66402988"
 ---
 # <a name="migrate-public-folders-to-microsoft-365-groups"></a>Migrieren Sie Ihre öffentlichen Ordner zu Microsoft 365 Groups
 

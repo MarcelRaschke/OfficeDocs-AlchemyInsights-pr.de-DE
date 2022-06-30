@@ -3,22 +3,21 @@ title: Konfigurieren von Endpunkt-DLP
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6108"
 - "3200001"
+- "6108"
 ms.date: 05/26/2022
-ms.openlocfilehash: 4c2b9938319accf067aa713b94076d3f016e748f
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 045d7234b783da256d2f83114bf096b86b8a540c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65731746"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66412717"
 ---
 # <a name="configure-endpoint-dlp"></a>Konfigurieren von Endpunkt-DLP
 
