@@ -3,21 +3,20 @@ title: Defender-Clientmanipulationsschutz
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "3479"
 - "9001464"
-ms.openlocfilehash: 83cd964efa5148e546149e9d46ed12f5fce8f8ce
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "3479"
+ms.openlocfilehash: 925c71f68ef0f63641c6c6e326106fc4c3a3b05d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723882"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66422518"
 ---
 # <a name="defender-tamper-protection"></a>Defender-Manipulationsschutz
 

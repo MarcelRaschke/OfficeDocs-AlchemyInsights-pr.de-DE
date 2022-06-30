@@ -1,28 +1,27 @@
 ---
-title: Standard-Outlook Bezeichnungseinstellung nicht angewendet
+title: Outlook-Standardbezeichnungseinstellung nicht angewendet
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 8/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000181"
 - "13259"
-ms.openlocfilehash: 198ba18365bcd5d1517420890d7a52c4ad8bce17
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.date: 8/16/2021
+ms.openlocfilehash: a1aa81d1332458a6d6aeb4f192b40a84a5ef7c43
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65591562"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66422554"
 ---
-# <a name="default-outlook-label-setting-not-applied"></a>Standard-Outlook Bezeichnungseinstellung nicht angewendet
+# <a name="default-outlook-label-setting-not-applied"></a>Outlook-Standardbezeichnungseinstellung nicht angewendet
 
-Wenn Ihre Outlook Standardbezeichnungseinstellungen nicht ordnungsgemäß angewendet werden und eine andere Bezeichnung angewendet wird oder keine Bezeichnung angewendet wird, liegt möglicherweise ein bekanntes Problem (MC277818) vor, und Sie sollten eine der beiden folgenden Optionen ausführen, um das Problem zu beheben:
+Wenn Ihre Outlook-Standardbezeichnungseinstellungen nicht ordnungsgemäß angewendet werden und eine andere Bezeichnung oder keine Bezeichnung angewendet wird, liegt möglicherweise ein bekanntes Problem (MC277818) vor, und Sie sollten eine der beiden folgenden Optionen ausführen, um das Problem zu beheben:
 
 **Option 1:**
 

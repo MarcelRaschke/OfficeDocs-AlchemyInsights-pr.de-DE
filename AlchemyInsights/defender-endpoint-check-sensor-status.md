@@ -3,22 +3,21 @@ title: Defender-Endpunkt – Überprüfen Sie den Sensorstatus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/21/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11084"
 - "9003537"
-ms.openlocfilehash: 810b55f26e244be315546d7baaf1435545892661
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "11084"
+ms.date: 05/21/2021
+ms.openlocfilehash: d233170b162bf42959d60407bfef8b33fd4a4aa9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65730882"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66422335"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Defender-Endpunkt – Überprüfen Sie den Sensorstatus
 

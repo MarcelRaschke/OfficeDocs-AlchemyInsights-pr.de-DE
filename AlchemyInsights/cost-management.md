@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "17538"
-- "9010846"
 - commerce_subscriptions
+- "9010846"
+- "17538"
 ms.date: 06/09/2022
-ms.openlocfilehash: 35b047e9cfa6e8a5509291f7032b13e7d54e36a7
-ms.sourcegitcommit: 5121d86fdd8582da70b4bdca88674c0d1ab2b22b
+ms.openlocfilehash: b1fe5b71aa5f0f3247a5f059d844228ba2280223
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "65998261"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66423347"
 ---
 # <a name="what-is-cost-management"></a>Was ist Kostenmanagement?
 

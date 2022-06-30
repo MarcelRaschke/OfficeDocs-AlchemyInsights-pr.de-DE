@@ -3,22 +3,21 @@ title: DLP-Richtlinie erstellen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 09/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "13838"
 - "3200001"
-ms.openlocfilehash: eab0ee7e64b5a4655b96b5f0743d1a0b1ac8d268
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "13838"
+ms.date: 09/15/2021
+ms.openlocfilehash: 3c618cbd3481cb0c7d5171a49bf431baad3ef5ae
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65730918"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66422995"
 ---
 # <a name="create-dlp-policy"></a>DLP-Richtlinie erstellen
 

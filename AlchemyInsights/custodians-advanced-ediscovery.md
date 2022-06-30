@@ -3,22 +3,21 @@ title: Verwahrer in Advanced eDiscovery
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/05/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12580"
-ms.openlocfilehash: 315550ce3ee44f35f794858dd1149bfeb7ba17c6
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 08/05/2021
+ms.openlocfilehash: a03f16c522463f701976a4d35284a57913062cb5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65725729"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66422819"
 ---
 # <a name="custodians-in-advanced-ediscovery"></a>Verwahrer in Advanced eDiscovery
 
