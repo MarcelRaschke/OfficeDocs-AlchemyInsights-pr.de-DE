@@ -3,24 +3,22 @@ title: Benutzern Zugriff auf SharePoint und OneDrive gewähren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: ''
-ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: e4b072f817acfad9cf35909659a8f1303a348d94
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 1259126244fa2acb77fd4b3b12f18d14a7cbe3bd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63282149"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66346017"
 ---
-# <a name="sharing-and-permission-methods-to-provide-or-restrict-user-access-to-sharepoint-site"></a>Freigabe- und Berechtigungsmethoden zum Bereitstellen oder Einschränken des Benutzerzugriffs auf SharePoint Website
+# <a name="sharing-and-permission-methods-to-provide-or-restrict-user-access-to-sharepoint-site"></a>Freigabe- und Berechtigungsmethoden zum Bereitstellen oder Einschränken des Benutzerzugriffs auf die SharePoint-Website
 
-Nachdem Sie eine SharePoint-Website erstellt haben, möchten Sie möglicherweise den Benutzerzugriff auf die Website oder ihren Inhalt ermöglichen oder einschränken. Dies kann über verschiedene unten aufgeführte Freigabe- und Berechtigungsmethoden erfolgen.
+Nachdem Sie eine SharePoint-Website erstellt haben, möchten Sie möglicherweise den Benutzerzugriff auf die Website oder ihren Inhalt ermöglichen oder einschränken. Dies kann über verschiedene, unten aufgeführte Freigabe- und Berechtigungsmethoden erfolgen.
 
 - [Freigeben von SharePoint-Dateien oder -Ordnern](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 

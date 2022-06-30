@@ -3,33 +3,32 @@ title: Vorbereiten von Benutzern auf die Bereitstellung in Office 365 über die
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 03/04/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 1298f05ccab460f4722d760c53c58857151a7b3e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 03/04/2021
+ms.openlocfilehash: 23b4515da969820ca4a61fa5522fdaad08cf1a26
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63249641"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66356979"
 ---
 # <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Vorbereiten von Benutzern auf die Bereitstellung in Office 365 über die Verzeichnissynchronisierung
 
-Für die Bereitstellung der Verzeichnissynchronisierung für Benutzer sind Planung und Vorbereitungen erforderlich. Befolgen Sie die folgenden Anleitungen:
+Die Bereitstellung von Benutzern mit Verzeichnissynchronisierung erfordert Planung und Vorbereitungen. Befolgen Sie die nachstehenden Anleitungen:
 
 Einige Aktionen, die bei der Bereitstellung von Benutzern ausgeführt werden müssen, sind:
 1. **Verzeichnisbereinigung**.
 1. **Verzeichnisobjekt- und Attributvorbereitung**.
 1. **Vorbereiten von UPN-Attributen**.
 1. **Optionales Hinzufügen alternativer UPN-Suffixe zu AD DS**.
-1. **Ordnen Sie lokale UPNs mit den Office 365 UPNs ab**.
+1. **Lokale UPNs mit den Office 365 UPNs abgleichen**.
 1. **Verzeichnisintegrationstools**.
 
-Ausführliche Beschreibungen zu jedem Vorbereitungsschritt finden Sie unter ["Vorbereiten der Bereitstellung von Benutzern über die Verzeichnissynchronisierung in Office 365 Artikel](https://aka.ms/office365assistantprovisionuserstooffice365)".
+Ausführliche Beschreibungen zu den einzelnen Vorbereitungsschritten finden [Sie unter "Vorbereiten der Bereitstellung von Benutzern über die Verzeichnissynchronisierung für Office 365 Artikel](https://aka.ms/office365assistantprovisionuserstooffice365)".
