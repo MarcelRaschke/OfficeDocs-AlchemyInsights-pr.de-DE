@@ -3,21 +3,20 @@ title: 'Häufig gestellt Fragen: Microsoft 365-Gruppen '
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5704"
-ms.openlocfilehash: 12c8f986e65b173f51f2abf9ec0f09b7fa645fa7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4f87e9fb99baea2b36f8025fdb112f3476de5991
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63274265"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66420358"
 ---
 # <a name="microsoft-365-groups-faq"></a>Häufig gestellt Fragen: Microsoft 365-Gruppen 
 

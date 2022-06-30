@@ -1,24 +1,23 @@
 ---
-title: 929 Posteingangsregeln zum Ablenken von Transportregeln
+title: 929 Posteingangsregeln zu deflectTransport-Regeln
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "929"
 - "1800021"
-ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 27837a8669274683b14386453ac3c08e899d97e8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "929"
+ms.date: 04/21/2020
+ms.openlocfilehash: 01fd0d1b62be8ebcac7ba8623dcf093e2b48d032
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63090406"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66421222"
 ---
 # <a name="mail-flow-rules-also-known-as-transport-rules"></a>Nachrichtenflussregeln (auch als Transportregeln bezeichnet)
 
@@ -28,6 +27,6 @@ ms.locfileid: "63090406"
 
 - Erstellen, Ändern und Löschen von Nachrichtenflussregeln: [Verwalten von Nachrichtenflussregeln](https://technet.microsoft.com/library/jj657505.aspx)
 
-Sie können Nachrichtenflussregeln auch in Exchange Online PowerShell verwalten. Weitere Informationen finden Sie unter [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (Ansicht), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (create), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (delete), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modify existing), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (disable existing) und [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (enable existing).
+Sie können nachrichtenflussregeln auch in Exchange Online PowerShell verwalten. Weitere Informationen finden Sie unter [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (Ansicht), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (create), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (delete), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modify existing), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (disable existing) und [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (enable existing).
 
-Zusätzliche Cmdlets für Nachrichtenflussregeln: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (liste verfügbare Aktionen), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (verfügbare Bedingungen und Ausnahmen auflisten), [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (Exportregeln) und [Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (Importregeln).
+Zusätzliche Nachrichtenflussregel-Cmdlets: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (verfügbare Aktionen auflisten), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (verfügbare Bedingungen und Ausnahmen auflisten), [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (Exportregeln) und [Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (Importregeln).

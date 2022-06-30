@@ -3,22 +3,21 @@ title: Informationen über Teams-Kontakte
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/17/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8263"
 - "9004610"
-ms.openlocfilehash: 3e7bdc321dbb0e55221e922513433414de4f896e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8263"
+ms.date: 03/17/2021
+ms.openlocfilehash: d9b92625c9c00230a9433d7b6d3e1650c4b3fa6f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63275309"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66420898"
 ---
 # <a name="information-about-teams-contacts"></a>Informationen über Teams-Kontakte
 

@@ -3,22 +3,21 @@ title: 'Domänencontroller '
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/17/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7909"
 - "9003233"
-ms.openlocfilehash: 807d797420f8c85a283cda9f1b1ec29da13dfd4f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7909"
+ms.date: 01/17/2021
+ms.openlocfilehash: 6ab8f4e73b02974de3eb003124220fa5ff48a9f0
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63239021"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66507018"
 ---
 # <a name="domain-controller"></a>Domänencontroller
 

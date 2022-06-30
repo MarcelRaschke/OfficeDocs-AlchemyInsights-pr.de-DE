@@ -3,22 +3,21 @@ title: Deaktivieren oder Löschen von Warnungsrichtlinien
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 02/17/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 4406eee1a6c27597f590ffd2614197e8303e3d89
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.date: 02/17/2021
+ms.openlocfilehash: 2e3d49ba18e5063cb65de4fc42adc97df26b9a92
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65592183"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66271468"
 ---
 # <a name="turn-off-or-delete-alert-policies"></a>Deaktivieren oder Löschen von Warnungsrichtlinien
 

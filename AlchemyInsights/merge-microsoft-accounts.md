@@ -3,21 +3,20 @@ title: Zusammenführen von Microsoft-Konten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "5072"
-ms.openlocfilehash: 09b3a6e15dd947d5c9fec28b70e3303cefc63302
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a1759a9790a21631f602e834336d7a87ee767728
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63255437"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66420466"
 ---
 # <a name="merge-microsoft-accounts"></a>Zusammenführen von Microsoft-Konten
 

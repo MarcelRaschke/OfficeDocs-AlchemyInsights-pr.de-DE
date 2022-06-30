@@ -3,21 +3,20 @@ title: Häufige Probleme und Lösungen für Microsoft 365-Apps
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002483"
 - "4824"
-ms.openlocfilehash: a5938867dc5d6d267e9cc9475064e099eecedda7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 6f975699bd4cca6eee89a6ecd0571c6a27974fa0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63268289"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66270964"
 ---
 # <a name="common-issues-and-resolutions-with-microsoft-365-apps"></a>Häufige Probleme und Lösungen für Microsoft 365-Apps
 

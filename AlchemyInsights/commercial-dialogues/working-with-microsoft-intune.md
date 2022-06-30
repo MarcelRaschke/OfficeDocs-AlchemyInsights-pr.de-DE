@@ -8,20 +8,19 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 07bd09f1174c73034e16a2010aadacb7c2157382
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 3f4003acde9989377c2f098aef4f9f501fbb9ad5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63144822"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66271144"
 ---
 # <a name="working-in-microsoft-intune"></a>Arbeiten in Microsoft Intune
 
-Hier sind einige Intune-Grundlagen:
+Hier sind einige Intune Grundlagen:
 
 - [Was ist Intune?](https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune)
 - [Sie möchten sich für die Intune-Testversion registrieren?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)

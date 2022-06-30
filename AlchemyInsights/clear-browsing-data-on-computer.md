@@ -3,22 +3,21 @@ title: Löschen der auf Ihrem Gerät gespeicherten Browserdaten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/29/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9424"
 - "9005491"
-ms.openlocfilehash: 643aaf732802e200afb3a60694947e415bf50cb8
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9424"
+ms.date: 03/29/2021
+ms.openlocfilehash: b49be78993bb89401de51059bf628478386b2950
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65725116"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66327693"
 ---
 # <a name="clear-the-browsing-data-stored-on-your-computer"></a>Löschen der auf Ihrem Gerät gespeicherten Browserdaten
 

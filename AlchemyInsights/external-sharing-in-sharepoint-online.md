@@ -3,23 +3,21 @@ title: Externe Freigabe in SharePoint Online
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
-ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
 - "2389"
-ms.openlocfilehash: fd0109ceb475604ee6fd0f4a0eb752c90a5430da
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 45cbdf5e329ef5115e8187c53c636b4bd74d1b84
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65716883"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66506912"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Externe Freigabe in SharePoint Online
 
@@ -31,10 +29,10 @@ Weitere Informationen zum externen Teilen finden Sie unter den folgenden Links:
 - [Aktivieren oder Deaktivieren der externen Freigabe für eine Website](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 - [Standardfreigabeeinstellungen pro Websitetyp](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
 - [Verwenden von SharePoint Online als Business-to-Business-Extranetlösung (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
-- [Freigeben SharePoint Dateien oder Ordners](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [SharePoint-Dateien oder -Ordner freigeben](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 - [Beenden der Freigabe von OneDrive- oder SharePoint-Dateien oder -Ordnern oder Ändern von Berechtigungen](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 - [Gastzugriff in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
-- [Microsoft Guest Sharing Einstellungen Reference (Azure Active Directory, Microsoft 365 und SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
+- [Referenz zu Den Einstellungen für die Microsoft-Gastfreigabe (Azure Active Directory, Microsoft 365 und SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
 Erhalten eines Fehlers bei einem externen Benutzer? Überprüfen Sie die folgenden Links:
 

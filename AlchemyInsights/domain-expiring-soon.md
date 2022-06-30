@@ -3,23 +3,22 @@ title: Ablauf der Domänenregistrierung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/14/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10933"
 - "9006437"
 - "5300030"
-ms.openlocfilehash: 2da983e6f23380d9c57d02425c5fd6a1ea0d8a39
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10933"
+ms.date: 04/14/2021
+ms.openlocfilehash: ae4a03b9b1d20d7b8fce0db7548e77fad80c0aaf
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63238949"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66506973"
 ---
 # <a name="domain-registration-expiration"></a>Ablauf der Domänenregistrierung
 

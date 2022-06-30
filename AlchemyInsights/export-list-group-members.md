@@ -3,22 +3,21 @@ title: Exportieren der Liste der Gruppenmitglieder
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 11/05/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11179"
 - "9006559"
-ms.openlocfilehash: c83bbed0b8fe37ea5600d158c751ec1e04d6b6af
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11179"
+ms.date: 11/05/2021
+ms.openlocfilehash: 22fe7d8f5c38c65d508f47d4a2a8be45bf9d7505
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63226473"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66421294"
 ---
 # <a name="export-list-of-group-members"></a>Exportieren der Liste der Gruppenmitglieder
 

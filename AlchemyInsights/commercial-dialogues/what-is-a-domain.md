@@ -3,30 +3,29 @@ title: Was ist eine Domäne?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/23/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: f90b16d86e3604aecda2e18aee8d4094d7acabfb
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 02/23/2021
+ms.openlocfilehash: b56ee6d588a38d9794f29d104a6ba555abb60dce
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63145038"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66271397"
 ---
 # <a name="whats-a-domain"></a>Was ist eine Domäne?
 
-Eine Domäne ist der Teil Ihrer E-Mail-Adresse, der sich hinter dem @-Symbol befindet. Beispielsweise wird die Domäne in der Adresse rob@contoso.com **contoso.com**. Die meisten Unternehmen bevorzugen es, ihren eigenen Domänennamen in ihrer E-Mail-Adresse zu verwenden.
+Eine Domäne ist der Teil Ihrer E-Mail-Adresse, der hinter dem @-Symbol steht. In der Adresse rob@contoso.com ist die Domäne beispielsweise **contoso.com**. Die meisten Unternehmen bevorzugen es, ihren eigenen Domänennamen in ihrer E-Mail-Adresse zu verwenden.
 
-Im Folgenden sind einige Tipps zu Domänen aufgeführt:
+Im Folgenden werden einige Tipps zu Domänen aufgeführt:
 
-- Sie können einen Domänennamen von Microsoft kaufen. Auf diese Weise haben Sie eine benutzerdefinierte E-Mail-Adresse.
-- Oder Sie können einfach eine Domäne hinzufügen, die Sie bereits besitzen, zu Office 365.
+- Sie können einen Domänennamen von Microsoft kaufen. Auf diese Weise verfügen Sie über eine benutzerdefinierte E-Mail-Adresse.
+- Sie können auch einfach eine Domäne hinzufügen, die Sie bereits besitzen, Office 365.
 
-Weitere Informationen [hierzu sehen Sie sich dieses großartige Video an](https://www.youtube.com/watch).
+Für weitere Informationen [schauen Sie sich dieses großartige Video an](https://www.youtube.com/watch).

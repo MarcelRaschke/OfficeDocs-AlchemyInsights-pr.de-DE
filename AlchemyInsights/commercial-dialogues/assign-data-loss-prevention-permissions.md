@@ -3,22 +3,21 @@ title: Zuweisen von DLP-Berechtigungen (Verhinderung von Datenverlust, Data Loss
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7363"
 - "9000722"
-ms.openlocfilehash: 8fef6bbbc768a317b5489bb56193327765c8e88c
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "7363"
+ms.date: 02/19/2021
+ms.openlocfilehash: 667095cf92619fb787cabd62d5ce6cb38e92534b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65727280"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66369543"
 ---
 # <a name="assign-microsoft-purview-data-loss-prevention-permissions"></a>Microsoft Purview Data Loss Prevention-Berechtigungen zuweisen
 

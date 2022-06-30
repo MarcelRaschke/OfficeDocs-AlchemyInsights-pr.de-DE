@@ -3,21 +3,20 @@ title: Office 365 wird in Microsoft 365 umbenannt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002346"
 - "4566"
-ms.openlocfilehash: e7b95333f569e67f62c2314737809c13e49583d0
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: bbdd83ba3bf07d4c671131327de3464deaedad75
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63088570"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66420178"
 ---
 # <a name="microsoft-is-renaming-office-365-to-microsoft-365"></a>Office 365 wird in Microsoft 365 umbenannt
 
