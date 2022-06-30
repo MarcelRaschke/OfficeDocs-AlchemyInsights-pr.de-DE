@@ -3,21 +3,20 @@ title: Ihre Hand in Teams heben
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002646"
 - "5086"
-ms.openlocfilehash: f5405502d28e6e926dcf7aaa5d184f30d40735b5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f924568e427cba8ac4da94a85faf6bd3cac885f4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63223773"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66386085"
 ---
 # <a name="raise-your-hand-in-teams"></a>Heben Sie Ihre Hand in Teams!
 

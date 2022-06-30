@@ -3,21 +3,20 @@ title: Die Standardauthentifizierung für Exchange PowerShell wird eingestellt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "4577"
-ms.openlocfilehash: 5157dde03da52b48bb057a04f586265ae06d1645
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 84fd8a82eb63e080c7f04c48c613477109b8980e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63226595"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66338925"
 ---
 # <a name="exchange-powershell-and-basic-authentication-deprecation"></a>Die Standardauthentifizierung für Exchange PowerShell wird eingestellt
 

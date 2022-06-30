@@ -1,39 +1,39 @@
 ---
-title: Von Dynamics Server empfohlene Lösungen für die Synchronisierung
+title: Dynamics Server-side Sync Empfohlene Lösungen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
+- "6200009"
 - "1453"
 - "1454"
 - "1456"
-- "6200009"
-ms.openlocfilehash: 0d2e0104e0e05b4f04eff4c5c2c7fdc7c18ccc86
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 13c12988c4814c2d02d4a6d00c12f0d6885ad661
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63200372"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66385941"
 ---
-# <a name="dynamics-server-side-sync-recommended-solutions"></a>Von Dynamics Server empfohlene Lösungen für die Synchronisierung
+# <a name="dynamics-server-side-sync-recommended-solutions"></a>Empfohlene Lösungen für Dynamics Server-side Sync
 
-* [Anzeigen eines detaillierten Serverfehlers, der in meinem Portal angezeigt wird](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Anzeigen des detaillierten Serverfehlers, der in meinem Portal angezeigt wird](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
 * [Zurücksetzen eines Portals](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [So löschen Sie den serverseitigen Cache für ein Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [Löschen des serverseitigen Caches für ein Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [So ändern Sie die Zielgruppe und den Typ eines Dynamics 365-Portals](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Ändern der Benutzergruppe und des Typs eines Dynamics 365-Portals](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
 * [So ändern Sie die Basis-URL eines Portals](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [So konfigurieren Sie externe Identitätsanbieter mit Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Konfigurieren eines externen Identitätsanbieters mit portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Häufig gestellte Fragen](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Erste Schritte mit dem Dynamics 365-Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Erste Schritte mit meinem Dynamics 365-Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

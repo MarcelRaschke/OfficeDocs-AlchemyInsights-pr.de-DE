@@ -3,22 +3,21 @@ title: Zum Importieren des Autopilot-Gerätehashs erforderliche Informationen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "17132"
 - "9000221"
+- "17132"
 ms.date: ''
-ms.openlocfilehash: 28cf302d750cd306202c31f28e0f195951a7f208
-ms.sourcegitcommit: 29aa28c4fa26e71de062cb6319e48cd963fdf1fc
+ms.openlocfilehash: 7849a714efd01df6a4ca7ce18260c65cc77e6c47
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "65862193"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66296111"
 ---
 # <a name="information-required-to-import-autopilot-device-hash"></a>Zum Importieren des Autopilot-Gerätehashs erforderliche Informationen
 

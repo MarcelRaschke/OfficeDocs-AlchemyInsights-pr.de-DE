@@ -3,26 +3,25 @@ title: Einrichten von Audiokonferenzen für Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
+- "9002264"
+- "9000766"
 - "2711"
 - "2712"
 - "6800"
 - "3183"
 - "6808"
-- "9002264"
-- "9000766"
-ms.openlocfilehash: 26fdeab5380520cf9d5b54e99de476d318b0fdb6
-ms.sourcegitcommit: 654bbec12ffc98760723fe13ad3f69b9cff95a72
+ms.openlocfilehash: 695919be01d1ea609032acc3fe285a56edb3438d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65611809"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66376347"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Audiokonferenzen
 

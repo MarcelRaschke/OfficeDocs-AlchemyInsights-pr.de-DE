@@ -3,24 +3,22 @@ title: Externer Benutzer kann nicht auf Inhalte zugreifen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
-ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 6c8a4308bb92d01709d8bd8dd1ed25bfad61eaf0
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: d244a8f7fa750634ed05372d35d0f930264aee55
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65731674"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66338889"
 ---
-# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>Externer Benutzer kann nicht auf SharePoint oder OneDrive Inhalte zugreifen
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>Externer Benutzer kann nicht auf SharePoint- oder OneDrive-Inhalte zugreifen
 
 Wenn ein externer Benutzer eingeladen wurde und nicht auf Inhalte zugreifen kann, besuchen Sie bitte die folgenden Links:
 

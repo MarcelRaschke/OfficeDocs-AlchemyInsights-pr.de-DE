@@ -3,22 +3,21 @@ title: Erste Schritte mit Microsoft Search
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9290"
 - "9005423"
-ms.openlocfilehash: b490e53bb4b5075749b32c5fe9a6fd9ae928255b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9290"
+ms.date: 03/19/2021
+ms.openlocfilehash: 847b47a6f1b655b8a2db96ce32c52ca9613f22cf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65727926"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66310500"
 ---
 # <a name="get-started-with-microsoft-search"></a>Erste Schritte mit Microsoft Search
 
