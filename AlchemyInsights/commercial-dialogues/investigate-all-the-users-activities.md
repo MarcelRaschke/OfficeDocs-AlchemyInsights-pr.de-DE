@@ -3,29 +3,28 @@ title: Untersuchen aller Benutzeraktivitäten
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 02/17/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 2506eb7a122bff3a203d0ff45f17985c21ce6668
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+ms.date: 02/17/2021
+ms.openlocfilehash: 21d7015df87f987133a973e54836715cf0d2318e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65593084"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66380217"
 ---
 # <a name="investigate-all-the-users-activities"></a>Untersuchen aller Benutzeraktivitäten
 
 Gehen Sie dazu wie folgt vor:
 
 1. Führen Sie eine der folgenden Aktionen aus:
-   - Wechseln Sie in der Microsoft Purview-Complianceportal unter <https://compliance.microsoft.com>zu **"Lösungsüberwachung"**\>. Oder verwenden Sie <https://compliance.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
+   - Im Microsoft Purview-Complianceportal unter <https://compliance.microsoft.com> wechseln Sie zu **Lösungen** \> **Überwachung**. Oder verwenden Sie <https://compliance.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
    - Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> zu **Überwachung**. Oder verwenden Sie <https://security.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
 
     **Hinweis**: Wenn ein Hinweis angezeigt wird, dass Sie das Feature aktivieren müssen, fahren Sie fort, und aktivieren Sie es jetzt. Wenn das Feature nicht aktiviert ist, können Suchergebnisse keine Daten aus vorherigen Datumsangaben abrufen.

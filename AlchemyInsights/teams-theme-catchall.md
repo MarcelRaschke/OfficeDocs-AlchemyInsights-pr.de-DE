@@ -8,16 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "2605"
 - "9000701"
-ms.openlocfilehash: a5f7532aebb9e94f6886228ab70a672a9d6fa640
-ms.sourcegitcommit: d61bf76fd5b9f93beef0acc6a244e40258112b9b
+- "2605"
+ms.openlocfilehash: 1f86b5d0e7391c4ca2c62038693bd4dc65c79a96
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/27/2022
-ms.locfileid: "65758548"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66396831"
 ---
 # <a name="set-up-microsoft-teams"></a>Einrichten von Microsoft Teams
 

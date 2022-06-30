@@ -1,23 +1,22 @@
 ---
-title: Teams Wähltastatur fehlt
+title: Teams-VoIP-Wähltastatur fehlt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "2641"
 - "9000719"
-ms.openlocfilehash: b67ecbd6ecfe85d76dc9d04414b867d73a65a7d6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "2641"
+ms.openlocfilehash: 72c910afc7738e7ccb793af3d3ab63f4d845225a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63260729"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66396723"
 ---
 # <a name="dial-pad-is-missing-in-microsoft-teams"></a>Wähltastatur fehlt in Microsoft Teams 
 

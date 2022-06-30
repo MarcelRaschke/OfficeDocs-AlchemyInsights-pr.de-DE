@@ -8,24 +8,23 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9646613183d90610330b5368fa008dc3df8e958f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 24628d69ae6f26e87f6f4906698184573ec4d033
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63241109"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66380289"
 ---
 # <a name="fix-transport-rules"></a>Beheben von Transportregeln
 
-Diese Nachricht wurde von einer benutzerdefinierten Nachrichtenflussregel beeinflusst. Gehen Sie folgendermaßen vor, um die genaue Regel zu überprüfen:
+Eine benutzerdefinierte Nachrichtenflussregel wirkte sich auf diese Nachricht aus. Gehen Sie wie folgt vor, um die genaue Regel zu überprüfen:
 
-1. Notieren Sie in den Übermittlungsergebnissen unter **zusätzlichen Informationen** die **GUID** oder den **Richtliniennamen**.
-2. Starten Sie Exchange Verwaltungsshell. Weitere Informationen finden Sie unter [Open the Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
+1. Notieren Sie sich in den Übermittlungsergebnissen unter **"Zusätzliche Informationen**" die **GUID** oder den **Richtliniennamen**.
+2. Starten Sie die Exchange-Verwaltungsshell. Weitere Informationen finden Sie unter [Open the Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
 3. Führen Sie diesen Befehl aus (mithilfe der GUID aus Ihrer Übermittlung):  **Get-TransportRule -identity "GUID" | fl * Description***
 4. Überprüfen Sie die Beschreibung, um die konfigurierten Bedingungen anzuzeigen, die sich auf die Nachricht auswirkten.
 
-Weitere Informationen finden Sie unter ["Get-TransportRule"](https://go.microsoft.com/fwlink/?linkid=2101523).
+Weitere Informationen finden Sie unter [Get-TransportRule](https://go.microsoft.com/fwlink/?linkid=2101523).

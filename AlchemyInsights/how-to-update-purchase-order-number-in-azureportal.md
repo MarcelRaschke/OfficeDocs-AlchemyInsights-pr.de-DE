@@ -1,35 +1,34 @@
 ---
-title: So aktualisieren Sie eine Bestellnummer im Azure-Portal
+title: Aktualisieren einer Bestellnummer im Azure-Portal
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/09/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7293"
-ms.openlocfilehash: a57a9de4aa444c337962c37ef30ed4f06f310b4b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 12/09/2020
+ms.openlocfilehash: 85951307cea71e5ec0820f38a8426d9d1225affb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63246761"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66405832"
 ---
-# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>So aktualisieren Sie eine Bestellnummer im Azure-Portal
+# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Aktualisieren einer Bestellnummer im Azure-Portal
 
-Sie können die Bestellnummer im Azure-Portal aktualisieren. Dazu benötigen Sie eine Besitzer- oder Mitwirkenderolle auf dem Abrechnungskonto für einen Microsoft-Kundenvertrag (MCA). 
+Sie können die Auftragsnummer im Azure-Portal aktualisieren. Dazu benötigen Sie eine Besitzer- oder Mitwirkenderolle für das Abrechnungskonto für eine Microsoft-Kundenvereinbarung (MCA). 
 
-So aktualisieren Sie Ihre Po-Nummer:
-1. Melden Sie sich beim Azure-Portal an, und navigieren Sie zu **Kostenverwaltung + Abrechnung**.
-1. Klicken Sie auf **"Abrechnungsprofile"** , und wählen Sie ein Abrechnungsprofil aus, um die Po-Nummer zu aktualisieren.
-1. Klicken Sie auf **"Eigenschaften** ", und wählen Sie **"Po-Nummer aktualisieren**" aus. 
+So aktualisieren Sie Ihre Auftragsnummer:
+1. Melden Sie sich beim Azure-Portal an, und navigieren Sie zu **Kostenmanagement + Abrechnung**.
+1. Klicken Sie auf **"Abrechnungsprofile** ", und wählen Sie ein Abrechnungsprofil aus, um die Auftragsnummer zu aktualisieren.
+1. Klicken Sie auf **"Eigenschaften"** , und wählen Sie " **Auftragsnummer aktualisieren" aus**. 
 
 **Empfohlene Dokumentation**
 
 - [Grundlegendes zu Ihrer MCA-Rechnung](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
-- [Aktualisieren der Einstellungen für das Abrechnungskonto](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Aktualisieren der Einstellungen des Abrechnungskontos](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

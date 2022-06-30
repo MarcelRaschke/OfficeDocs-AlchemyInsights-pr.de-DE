@@ -8,16 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf43ab870253bebb69ee68bc37763179d8071105
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4b47841b1279c23be3a37832717916032fda174e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63241001"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66414013"
 ---
 # <a name="get-started-with-microsoft-365-defender"></a>Erste Schritte mit Microsoft 365 Defender
 

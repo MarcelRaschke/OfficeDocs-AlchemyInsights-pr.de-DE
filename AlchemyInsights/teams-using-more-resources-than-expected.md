@@ -3,23 +3,23 @@ title: Teams-Upgradeleitfaden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "6653"
 - "9003563"
-ms.openlocfilehash: 68aad32742a736a9cc84d8bc8f0556228aef78c9
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "6653"
+ms.openlocfilehash: f30fc8389339bbfaa9fb81154b2c26f3396f7bd6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723468"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66396795"
 ---
 # <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams verwendet mehr Computerressourcen als erwartet
 
-Große Leistung und Benutzerfreundlichkeit sind bei Microsoft die wichtigsten Bedenken. Teams Startzeit wurde verbessert, und wir werden die Teams, einschließlich des gesamten Ressourcenverbrauchs, weiter verbessern.  
+Große Leistung und Benutzerfreundlichkeit sind bei Microsoft die wichtigsten Bedenken. Die Startzeit von Teams wurde verbessert, und wir werden Teams weiter verbessern, einschließlich des gesamten Ressourcenverbrauchs.  
 
-Informationen zu Teams und Ressourcennutzung finden Sie unter ["Wie Microsoft Teams Arbeitsspeicher verwendet](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) und [Teams bei Videobesprechungen auf Laptops, die an 4K/HDR-Monitore angedockt sind, langsam ist](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+Informationen zur Verwendung von Teams und Ressourcen finden Sie unter [Wie Microsoft Teams Arbeitsspeicher verwendet](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  und  [Teams während Videobesprechungen auf Laptops, die an 4K/HDR-Monitore angedockt sind, langsam ist](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
