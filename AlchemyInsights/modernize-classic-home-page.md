@@ -3,25 +3,24 @@ title: Modernisieren der klassischen Startseite
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: ''
 ms.custom:
-- "3549"
 - "9001496"
-ms.openlocfilehash: 57b57272039e62e0a1d27d643e310209825a3c43
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "3549"
+ms.openlocfilehash: 82ea0c55fddc85ad148fbb6f2d1ed4fabd4d89ab
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65716665"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66374835"
 ---
 # <a name="modernize-the-classic-home-page"></a>Modernisieren der klassischen Startseite
 
-Eine kürzlich vorgenommene Aktualisierung der Startseiten der klassischen SharePoint Teamwebsite wirkt sich auf die Startseite klassischer Teamwebsites (STS#0) aus, wenn eine Startseite *nur standardmäßige Standardwebparts* wie erste Schritte, Dokumentbibliothek und Newsfeed enthält.
+Ein kürzlich vorgenommenes Update auf die klassischen SharePoint-Teamwebsite-Startseiten wirkt sich auf die Startseite klassischer Teamwebsites (STS#0) aus, wenn eine Startseite *nur vordefinierte Standardwebparts* wie "Erste Schritte", "Dokumentbibliothek" und "Newsfeed" enthält.
 
 Sehen Sie sich hier einen Rundgang über die Änderung [an](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
@@ -31,4 +30,4 @@ Sehen Sie sich hier einen Rundgang über die Änderung [an](https://docs.microso
 
 * [Aktualisieren Sie andere Homepages, die nicht Teil der automatischen Modernisierung waren](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
 
-* Deaktivieren Sie dieses Upgrade auf bestimmten Websites mit einem [PowerShell-Cmdlet SharePoint Patterns and Practices (PnP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)).
+* Deaktivieren Sie dieses Upgrade auf bestimmten Websites mithilfe eines [PowerShell-Cmdlets für SharePoint Patterns and Practices (PnP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)).

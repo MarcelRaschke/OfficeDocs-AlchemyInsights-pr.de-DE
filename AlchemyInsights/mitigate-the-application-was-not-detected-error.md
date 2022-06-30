@@ -3,21 +3,20 @@ title: Beheben des Fehlers "Sie Anwendung wurde nicht erkannt"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000171"
 - "1712"
-ms.openlocfilehash: 1464d56db8545e10d80083b2b39dbf779181d39b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 9da86094cf441df3c5f06560e08048606a5e76a3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65732540"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66374907"
 ---
 # <a name="mitigate-the-application-was-not-detected-error"></a>Beheben des Fehlers "Sie Anwendung wurde nicht erkannt"
 

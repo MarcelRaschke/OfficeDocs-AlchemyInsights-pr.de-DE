@@ -1,5 +1,5 @@
 ---
-title: Suchen nach einer bestimmten isolierten Nachricht
+title: Suchen einer bestimmten in Quarantäne befindlichen Nachricht
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -8,24 +8,23 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1ab4df2867b3dfb423bcab22df5c78209ffe665d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 1e0a1a0194d56109722c1454eaf130a368406f96
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63268829"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66394239"
 ---
-# <a name="find-a-specific-quarantined-message"></a>Suchen nach einer bestimmten isolierten Nachricht
+# <a name="find-a-specific-quarantined-message"></a>Suchen einer bestimmten in Quarantäne befindlichen Nachricht
 
-1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com>"**E-Mail &** Zusammenarbeitsüberprüfungsquarantäne \>  \> **"**.
+1. Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com>"**E-Mail &** **Zusammenarbeitsüberprüfungsquarantäne**\>**"**\>.
 
    Um direkt zur **Quarantäne**-Seite zu gelangen, verwenden Sie <https://security.microsoft.com/quarantine>.
 
-2. Überprüfen Sie **auf der** Quarantäneseite, ob die **Registerkarte "E-Mail"** ausgewählt ist, und klicken Sie dann auf **"Filtern**".
+2. Überprüfen Sie auf der Seite **"Quarantäne** ", ob die Registerkarte " **E-Mail** " ausgewählt ist, und klicken Sie dann auf **"Filtern"**.
 3. Wählen Sie eine beliebige Kombination von Eigenschaften aus, um die Nachricht zu filtern und zu suchen.
 
 Weitere Informationen finden Sie in den folgenden Themen:

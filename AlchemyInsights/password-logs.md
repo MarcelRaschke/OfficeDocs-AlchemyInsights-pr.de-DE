@@ -3,22 +3,21 @@ title: Kennwortprotokolle
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/08/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9361"
 - "9003259"
-ms.openlocfilehash: de7449af61c1c2b4d54db1c3150edd7c2b4b0a7c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9361"
+ms.date: 03/08/2021
+ms.openlocfilehash: 0742b35b7999a530c15e8056eaa823552185f58b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63213837"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66374763"
 ---
 # <a name="password-logs"></a>Kennwortprotokolle
 
