@@ -3,22 +3,21 @@ title: Das Benutzerbild erscheint weiterhin im Microsoft Teams Organigramm
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 09/13/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "13834"
 - "9007457"
-ms.openlocfilehash: 3cc36becb4d650fb3ee71911c09673a51eb8c6de
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+- "13834"
+ms.date: 09/13/2021
+ms.openlocfilehash: f6063f53637ff35319e1abf2b308aa6232fcbe6c
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66012093"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66512724"
 ---
 # <a name="user-picture-still-appears-in-the-microsoft-teams-organization-chart"></a>Das Benutzerbild erscheint weiterhin im Microsoft Teams Organigramm
 

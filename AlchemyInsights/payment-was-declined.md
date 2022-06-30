@@ -3,21 +3,20 @@ title: Ihre Zahlung wurde abgelehnt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 875dc79bd0aa762e18e525003c99128a2d1bf46d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: da1cdb0086b50df0bf80a7dab1695b49b1094caa
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63167035"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66430582"
 ---
 # <a name="your-payment-was-declined"></a>Ihre Zahlung wurde abgelehnt
 
@@ -41,7 +40,7 @@ Microsoft versucht mehrmals, in den 3-4 Wochen nach dem Rechnungsdatum Ihre Kred
 
 6. Geben Sie im Bereich **Zahlungsmethode hinzufügen** die Kontoinformationen ein und wählen Sie dann **Speichern** aus. Sie müssen eine Zahlungsmethode aus dem gleichen Land wie Ihr Mandant verwenden.
 
-7. Die neue Zahlungsmethode ist bereits in der Dropdownliste ausgewählt. Wählen Sie **Ersetzen** aus.
+7. Die neue Zahlungsmethode ist bereits in der Dropdownliste ausgewählt. Wählen Sie **Ersetzen**.
 
 **Zahlungsmethodendetails aktualisieren**
 

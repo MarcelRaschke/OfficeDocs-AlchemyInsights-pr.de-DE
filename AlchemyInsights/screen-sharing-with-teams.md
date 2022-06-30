@@ -3,21 +3,20 @@ title: Bildschirmfreigabe für Teams
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.custom: ''
-ms.assetid:
+ms.custom:
 - "9002254"
 - "4358"
-ms.openlocfilehash: 1066703191674b7f8cfa587cccaaeb920b4eb9ee
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: fdb80b2f853a567867e3b4556b4e02ac394f524f
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63199472"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66512832"
 ---
 # <a name="screen-sharing-with-teams"></a>Bildschirmfreigabe für Teams
 

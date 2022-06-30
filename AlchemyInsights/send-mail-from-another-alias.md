@@ -3,23 +3,21 @@ title: Senden von E-Mails von einem anderen Alias
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "703"
 - "1"
-ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: ccc6a73705bde50e7e1c706c1e39682b9eb21741
-ms.sourcegitcommit: b6ba43b438551e7558ad67d8b94f84b608d26bf9
+ms.date: 04/21/2020
+ms.openlocfilehash: 05134f6b609d77563706a704f824b0b3179d9a4e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64826069"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66399099"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Senden von E-Mails von einem Alias oder einer sekundären Adresse
 

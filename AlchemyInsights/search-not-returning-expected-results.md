@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1491"
 - "3200003"
+- "1491"
 ms.date: 04/21/2020
-ms.openlocfilehash: d6e238acecd42b8e2820ca8a2053e561041cba5c
-ms.sourcegitcommit: 5058f004f549ba7ac2b4843429b385287456a9c7
+ms.openlocfilehash: e661fe438e133eaf82546b6b1df891759dc5fa05
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65062063"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66399135"
 ---
 # <a name="content-search-not-returning-expected-results"></a>Inhaltssuche gibt keine erwarteten Ergebnisse zurück
 
-Beim Ausführen von Inhaltssuchen aus dem Microsoft 365 Security & Compliance Center erhalten Sie möglicherweise unerwartete Suchergebnisse. Berücksichtigen Sie die folgenden Punkte, die sich auf Ihre Suchergebnisse auswirken können:
+Wenn Sie Inhaltssuchen aus dem Microsoft 365 Security & Compliance Center ausführen, erhalten Sie möglicherweise unerwartete Suchergebnisse. Berücksichtigen Sie die folgenden Punkte, die sich auf Ihre Suchergebnisse auswirken können:
 
 - **Inhaltsspeicherorte und Suchbedingungen**: Stellen Sie sicher, dass Sie die richtigen Inhaltsspeicherorte und Suchbedingungen ausgewählt haben. Wenn Sie eine große Suche (mit vielen Speicherorten) ausgeführt haben, sollten Sie sie in mehrere Suchvorgänge aufteilen.
 

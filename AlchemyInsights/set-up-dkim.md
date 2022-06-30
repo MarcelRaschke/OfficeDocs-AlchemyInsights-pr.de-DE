@@ -3,22 +3,21 @@ title: Schritte zum Einrichten von DKIM in Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "3100029"
 - "17477"
 ms.date: 05/27/2022
-ms.openlocfilehash: c4b6ee244c9b9efea66e0c345753e09642601cbe
-ms.sourcegitcommit: d61bf76fd5b9f93beef0acc6a244e40258112b9b
+ms.openlocfilehash: e05f12360bfdc5427dfd06e9adae2a7e85313345
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/27/2022
-ms.locfileid: "65758661"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66346918"
 ---
 # <a name="steps-to-set-up-dkim-in-office-365"></a>Schritte zum Einrichten von DKIM in Office 365
 

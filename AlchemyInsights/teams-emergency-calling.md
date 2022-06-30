@@ -3,7 +3,7 @@ title: Teams-Notrufe
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "9002239"
 - "4348"
 ms.date: 05/19/2022
-ms.openlocfilehash: 6aca31d8acfef9c670972ccd54c9c38169951b95
-ms.sourcegitcommit: 7f407d1aeea75b3d80a25ecc7b2594ce9d0876c4
+ms.openlocfilehash: 03429ab2cead02da475b28a40a0bc2bbdb29550d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66064780"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66382521"
 ---
 # <a name="teams-emergency-calling"></a>Teams-Notrufe
 

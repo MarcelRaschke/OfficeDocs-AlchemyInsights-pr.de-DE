@@ -1,27 +1,27 @@
 ---
-title: Tastenkombinationen 8000087 Outlook.com
+title: 8000087 Outlook.com Tastenkombinationen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: 8000087
-ms.openlocfilehash: d52d1478c67d6452a71ffddbd4efa907c8469caa
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: ccbc2403bec467f41de67b2fddff90d8a7a23748
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63233979"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66431014"
 ---
 # <a name="keyboard-shortcuts-in-outlookcom"></a>Tastenkombinationen in Outlook.com
 
-In Outlook.com können Sie die gleichen Tastenkombinationen wie der E-Mail-Dienst verwenden, mit dem Sie arbeiten, z. B. Gmail, Yahoo Mail oder Outlook.com.
+In Outlook.com können Sie dieselben Tastenkombinationen wie den E-Mail-Dienst verwenden, mit dem Sie arbeiten, z. B. Gmail, Yahoo Mail oder Outlook.com.
 
-Wechseln Sie zu [Barrierefreiheitseinstellungen](https://go.microsoft.com/fwlink/?linkid=2080840) **Einstellungen** 
- > **Zeigen Sie alle Outlook** **settingsGeneralAccessibility** >  > ) an, und wählen Sie aus, welche Tastenkombinationen Sie verwenden möchten.
+Wechseln sie zu [einstellungen für barrierefreie Bedienungshilfen](https://go.microsoft.com/fwlink/?linkid=2080840)  
+ > **Alle Outlook-Einstellungen anzeigen** >  **Allgemeine** >  **Barrierefreiheit**) und wählen Sie aus, welche Tastenkombinationen Sie verwenden möchten.
 
-Die vollständige Liste der Tastenkombinationen finden Sie unter [Outlook.com-Tastenkombinationen](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd).
+Eine vollständige Liste der Tastenkombinationen finden Sie [unter Outlook.com Tastenkombinationen](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd).

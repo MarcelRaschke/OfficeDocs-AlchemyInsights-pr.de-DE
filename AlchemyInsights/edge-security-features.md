@@ -3,23 +3,22 @@ title: Erfahren Sie, wie Microsoft Edge identitätsabhängige Sicherheitsfeature
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/10/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "8642"
 - "9004625"
-ms.openlocfilehash: c0d7769bfb20eefdd7c6c3346645418ee8f2ba5c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8642"
+ms.date: 06/10/2021
+ms.openlocfilehash: 57f94b81c5acf6cf8b321955b2a9fedb5e277765
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63248237"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66341625"
 ---
 # <a name="learn-how-microsoft-edge-supports-identity-dependent-security-features"></a>Erfahren Sie, wie Microsoft Edge identitätsabhängige Sicherheitsfeatures unterstützt
 
-Microsoft Edge (Version 77 oder höher) unterstützt Synchronisierung, einmaliges Anmelden (Single Sign-On, SSO) und andere Features, die von der Identität des Benutzers abhängen. Dadurch können sich Benutzer über Active Directory-Domänendienste, Azure Active Directory und Microsoft-Konten anmelden.
+Microsoft Edge (Version 77 oder höher) unterstützt Synchronisierung, einmaliges Anmelden (Single Sign-On, SSO) und andere Features, die von der Identität des Benutzers abhängen. Auf diese Weise können sich Benutzer über Active Directory Domain Services-, Azure Active Directory- und Microsoft-Konten anmelden.

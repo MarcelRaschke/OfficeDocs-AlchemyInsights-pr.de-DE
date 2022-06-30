@@ -1,26 +1,25 @@
 ---
-title: Was ist meine E-Mail-Adresse Outlook.com?
+title: Was ist meine Outlook.com E-Mail-Adresse?
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "771"
 - "8000037"
-ms.openlocfilehash: 0581ecfe42a74ca45e564776627389b1e1973704
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "771"
+ms.date: 04/21/2020
+ms.openlocfilehash: 97180eab5307dbe1d229f0031a0268592154d024
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721185"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66293599"
 ---
-# <a name="see-your-own-outlookcom-email-address"></a>Anzeigen Ihrer eigenen Outlook.com-E-Mail-Adresse
+# <a name="see-your-own-outlookcom-email-address"></a>Anzeigen Ihrer eigenen Outlook.com E-Mail-Adresse
 
 Um die Standard-E-Mail-Adresse anzuzeigen, die Sie beim Senden von E-Mails verwenden, wechseln Sie zu Ihren [Synchronisierungs-E-Mail-Einstellungen](https://outlook.live.com/mail/options/mail/accounts) , und suchen Sie unter **"Standardadresse festlegen"**.
 
@@ -30,4 +29,4 @@ Wenn Sie ein anderes E-Mail-Konto mit Ihrem Outlook.com-Konto verbunden haben, k
  unten im Fenster "Verfassen" und wählen Sie " **Von anzeigen" aus** , um die Zeile "Von" anzuzeigen.
 2. Wählen Sie oberhalb der Zeile "An" die Option **"Von" aus** , und wählen Sie aus, welche E-Mail-Adresse Sie verwenden möchten.
 
-Erfahren Sie mehr über das [Senden von E-Mails von einer anderen Adresse in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen zum [Senden von E-Mails von einer anderen Adresse in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

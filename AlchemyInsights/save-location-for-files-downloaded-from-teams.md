@@ -3,21 +3,20 @@ title: Speicherort für von Teams heruntergeladene Dateien
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002461"
 - "4768"
-ms.openlocfilehash: 3f6f1aa8fd97f8963c983934fae19dc1791ef627
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a18410a69bfb0836ba8ea48a3b6508199afd28f6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63085036"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66430618"
 ---
 # <a name="save-location-for-files-downloaded-from-teams"></a>Speicherort für von Teams heruntergeladene Dateien
 

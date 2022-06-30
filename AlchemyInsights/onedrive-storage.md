@@ -1,26 +1,24 @@
 ---
-title: OneDrive Speicher
+title: OneDrive-Speicher
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
+- "9000354"
 - "2007"
 - "2384"
 - "2398"
-- "9000354"
-ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 2979363bac0e9fdb43ceb406ebca9ada6678e2c1
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: e8d5be29b94c8a36d0edff2c83fe4c1363098a90
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723666"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66431266"
 ---
 # <a name="manage-your-onedrive-storage"></a>Verwalten Ihres OneDrive-Speichers
 

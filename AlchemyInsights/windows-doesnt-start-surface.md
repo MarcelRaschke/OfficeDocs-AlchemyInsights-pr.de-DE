@@ -3,22 +3,21 @@ title: Windows startet nicht auf Surface
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9758"
 - "9005418"
-ms.openlocfilehash: c479330ce7e4fd73cf7d8d7c15ec3119cf21ee19
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9758"
+ms.date: 03/16/2021
+ms.openlocfilehash: 11be2b4c472d712c88210f713839611de25bb9e1
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65731026"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66513372"
 ---
 # <a name="windows-doesnt-start-on-surface"></a>Windows startet nicht auf Surface
 

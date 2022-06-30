@@ -1,32 +1,31 @@
 ---
-title: Entfernen eines Benutzerkontos in Windows 10
+title: Benutzerkonto in Windows 10 entfernen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "3449"
 - "9001448"
-ms.openlocfilehash: f4e35c622965f1c8101d6dc51fb84ab8c4b4c2f3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "3449"
+ms.openlocfilehash: 3e2050119e076321a75b8b7d29cc15d6e1529bb3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63222981"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66399459"
 ---
 # <a name="remove-an-account-in-windows-10"></a>Entfernen eines Kontos in Windows 10
 
-So entfernen Sie ein Konto aus Windows 10:
+Hier erfahren Sie, wie Sie ein Konto aus Windows 10 entfernen:
 
-1. Wechseln Sie zu **"Start** >  **Einstellungen** >  **AccountFamily** >  **& anderen Personen** (oder **anderen Personen**, wenn Sie Windows 10 Enterprise verwenden).
-2. Wählen Sie das Konto aus, das Sie entfernen möchten, wählen Sie **"Entfernen**" und dann **"Konto und Daten löschen"** aus.
+1. Wechseln Sie zu "**Kontofamilie** >  der **Starteinstellungen** >  > "**& anderen Personen** (oder **anderen Personen**, wenn Sie Windows 10 Enterprise verwenden).
+2. Wählen Sie das Konto aus, das Sie entfernen möchten, wählen Sie **"Entfernen"** und dann **"Konto und Daten löschen"** aus.
  
-**Hinweis:** Sie können kein Konto löschen, bei dem Sie derzeit angemeldet sind.  Wenn Sie das Konto ersetzen müssen, bei dem Sie angemeldet sind:
+**Hinweis:** Sie können ein Konto, bei dem Sie aktuell angemeldet sind, nicht löschen.  Wenn Sie das Konto ersetzen müssen, bei dem Sie angemeldet sind:
 
 1. Fügen Sie ein neues Benutzerkonto hinzu.
 2. Machen Sie das neue Benutzerkonto zu einem Administrator auf Ihrem PC.

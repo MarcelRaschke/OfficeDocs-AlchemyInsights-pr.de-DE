@@ -3,7 +3,7 @@ title: Teams-Datenspeicherung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,12 @@ ms.localizationpriority: high
 ms.custom:
 - "9002239"
 - "4348"
-ms.assetid: ''
-ms.openlocfilehash: 987a127bbb52cba36f4e75e795d72d250af082e6
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 8ee99761c5e975fa1c0903e83af80766fa5f983a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723504"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66382917"
 ---
 # <a name="teams-data-storage"></a>Teams-Datenspeicherung
 

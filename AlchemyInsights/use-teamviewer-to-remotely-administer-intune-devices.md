@@ -3,22 +3,21 @@ title: Verwenden von TeamViewer für die Remoteverwaltung von Intune-Geräten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/28/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1284"
 - "6700008"
-ms.openlocfilehash: e74d71efc5c735ad4350d370c59f94b472329538
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1284"
+ms.date: 07/28/2020
+ms.openlocfilehash: 6ace1d7ef92cdf819b48063aea34c904b6de1d02
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65720897"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66513588"
 ---
 # <a name="use-teamviewer-to-remotely-administer-intune-devices"></a>Verwenden von TeamViewer für die Remoteverwaltung von Intune-Geräten
 

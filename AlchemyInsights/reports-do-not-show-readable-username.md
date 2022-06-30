@@ -3,24 +3,23 @@ title: Berichte im Microsoft 365 Admin Center zeigen keinen lesbaren Benutzernam
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 09/02/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
+- "9008619"
 - "13809"
 - "13810"
 - "13812"
-- "9008619"
-ms.openlocfilehash: 8f26d2143a2062473dc032c9bf95253365baab3a
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.date: 09/02/2021
+ms.openlocfilehash: 129a16aede1c95ca8e0fd993f7c4e653b70ef20c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66008890"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66399423"
 ---
 # <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Berichte im Microsoft 365 Admin Center zeigen keinen lesbaren Benutzernamen an
 
