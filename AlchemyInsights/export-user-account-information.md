@@ -3,22 +3,21 @@ title: Exportieren von Benutzerkontoinformationen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 0c8a11dd21bfb1ec734b53caedce5ce85597111a
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.date: 04/21/2020
+ms.openlocfilehash: 32ccfdb1498c42d331928a8a8c7b6e17f40f184d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66004085"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66412066"
 ---
 # <a name="export-user-account-information"></a>Exportieren von Benutzerkontoinformationen
 

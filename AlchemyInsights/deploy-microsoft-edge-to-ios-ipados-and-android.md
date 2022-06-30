@@ -3,24 +3,23 @@ title: Bereitstellen von Microsoft Edge auf iOS, iPadOS und Android
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/10/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8241"
 - "9004604"
-- "13637"
 - "9008577"
-ms.openlocfilehash: 2984aef4fbffcc85b6799cdf3eb1fc3836f302e2
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "13637"
+- "8241"
+ms.date: 02/10/2021
+ms.openlocfilehash: 4591930028d12e04bd0b68228a4ba8cfe6431df6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65720393"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66412174"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Bereitstellen von Microsoft Edge auf iOS, iPadOS und Android
 

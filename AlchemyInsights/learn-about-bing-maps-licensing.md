@@ -3,22 +3,21 @@ title: Erfahren Sie mehr über Bing Karten Lizenzierung
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 03/12/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9213"
-ms.openlocfilehash: 87d90d1a1013940e58c4a7aa33410ee77682c0e3
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 03/12/2021
+ms.openlocfilehash: 01abd6d1787aefc574fd2a32788ac1e47855d496
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721401"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66404284"
 ---
 # <a name="learn-about-bing-maps-licensing"></a>Erfahren Sie mehr über Bing Karten Lizenzierung
 

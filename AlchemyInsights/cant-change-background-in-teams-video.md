@@ -3,22 +3,21 @@ title: Hintergrund in Teams-Video kann nicht geändert werden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003300"
 - "6211"
-ms.openlocfilehash: 946555e1c31d2522e20991b8156278449ae95549
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 08/20/2020
+ms.openlocfilehash: aef8f7014cdac67887654d1b874bd185402801d1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65735978"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66395355"
 ---
 # <a name="cant-change-background-in-teams-video"></a>Hintergrund in Teams-Video kann nicht geändert werden
 

@@ -3,21 +3,20 @@ title: Benachrichtigungen in Yammer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002878"
 - "5480"
-ms.openlocfilehash: 5a9cf87a3a0b933f8d718fc8f135e49b2f517961
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 5076bdd592e78ced236bf00bcd7932dd3a294b6d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63087742"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66387633"
 ---
 # <a name="notifications-in-yammer"></a>Benachrichtigungen in Yammer
 

@@ -3,22 +3,21 @@ title: -IgnoreLegalhold-Schalter
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/10/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6150"
 - "3100023"
-ms.openlocfilehash: fab04b9fb9329bf38d2b56768c08e4ac5233de2e
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "6150"
+ms.date: 08/10/2020
+ms.openlocfilehash: cdf976f46953b8a4a84ae2f36805bc986508acbf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65732612"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66375951"
 ---
 # <a name="-ignorelegalhold-switch"></a>-IgnoreLegalhold-Schalter
 

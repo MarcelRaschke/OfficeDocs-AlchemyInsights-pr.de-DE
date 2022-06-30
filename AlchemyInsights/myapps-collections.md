@@ -3,22 +3,21 @@ title: „Meine Apps“-Sammlungen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/20/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7772"
 - "9004350"
-ms.openlocfilehash: ccbabf30ac3b2f70bddc6311c532ce2099fd8af6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7772"
+ms.date: 01/20/2021
+ms.openlocfilehash: 2f5729ae9f72da2496761e195be5c04f5431b1af
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63183308"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66387546"
 ---
 # <a name="myapps-collections"></a>„Meine Apps“-Sammlungen
 

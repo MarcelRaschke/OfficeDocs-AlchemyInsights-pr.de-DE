@@ -3,21 +3,20 @@ title: Identifizieren Ihrer Mandanten-ID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: 9c8855b1eab66c08922c4f9fbd2337cedcad956a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 9fd9c1264f29977ab891a43528432feb69911667
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63090658"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66375987"
 ---
 # <a name="identify-your-tenant-id"></a>Identifizieren Ihrer Mandanten-ID
 

@@ -1,28 +1,26 @@
 ---
-title: SharePoint Öffentliche Onlinewebsites werden eingestellt
+title: Öffentliche SharePoint Online-Websites werden eingestellt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: ''
-ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: fa720394155ae6c13ce80cac4c5fbf6a7893d92d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: a34a059e8efee4e8778e25c5805a590f6b82d24a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63282293"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66335613"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Öffentliche Onlinewebsites wurden eingestellt
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>Öffentliche SharePoint Online-Websites wurden eingestellt
 
-SharePoint öffentliche Onlinewebsites wurden eingestellt.
+Öffentliche SharePoint Online-Websites wurden eingestellt.
 
-Wenn Sie eine SharePoint öffentlichen Onlinewebsite erstellt haben, konnten Sie sie bis zum 31. März 2018 weiterhin verwenden. Wenn Sie weiterhin eine öffentliche Website haben möchten, müssen Sie eine neue mit einem neuen Anbieter erstellen. Der Inhalt Ihrer öffentlichen SharePoint Online-Website wurde gelöscht.
+Wenn Sie eine öffentliche SharePoint Online-Website erstellt haben, konnten Sie sie bis zum 31. März 2018 weiterhin verwenden. Wenn Sie weiterhin über eine öffentliche Website verfügen möchten, müssen Sie eine neue Website mit einem neuen Anbieter erstellen. Der Inhalt Ihrer öffentlichen SharePoint Online-Website wurde gelöscht.
 
-Informationen zum Abbruch der öffentlichen Website finden Sie unter [Details zum Featureeinstellungsprozess](https://go.microsoft.com/fwlink/?linkid=866980).
+Informationen zur Einstellung der öffentlichen Website finden [Sie unter Details zum Featureabbruch.](https://go.microsoft.com/fwlink/?linkid=866980)

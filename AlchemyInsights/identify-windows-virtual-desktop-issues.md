@@ -3,22 +3,21 @@ title: Identifizieren von Problemen mit Windows Virtual Desktop
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/5/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O364
 ms.custom:
 - "9004219"
 - "10871"
-ms.openlocfilehash: f3b74e7a7d1189ed687ed2132f15584d2d95cf63
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/5/2021
+ms.openlocfilehash: 4f4faaf41104d52d8b3adf29a8c084fbcb11f559
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63297733"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66376059"
 ---
 # <a name="identify-windows-virtual-desktop-issues"></a>Identifizieren von Problemen mit Windows Virtual Desktop
 

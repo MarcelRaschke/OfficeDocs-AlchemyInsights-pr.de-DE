@@ -8,16 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: 1273cdd6a67dc730343973c8a5eedd69464a6c86
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: b2374aed5e25971fe6f6095f573ae03a4a07b1dc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63187664"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66395463"
 ---
 # <a name="cancel-subscription"></a>Abonnement kündigen
 
