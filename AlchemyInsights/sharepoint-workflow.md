@@ -1,37 +1,35 @@
 ---
-title: Problembehandlung für Workflows in SharePoint
+title: Problembehandlung bei Workflows in SharePoint
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000317"
 - "9000147"
 - "1940"
 - "1718"
-ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: d6d2a163dc37e93c524fb07a3bb4d6e1d883a757
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 810d4c6573026186a253993fcb7110e5716b1826
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63211497"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66397659"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Problembehandlung für Workflows in SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Problembehandlung bei Workflows in SharePoint
 
 Weitere Informationen finden Sie unter:
 
-- [Problembehandlung bei SharePoint Workflowvalidierungsfehlern](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
-- [Debuggen SharePoint Workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- [Sammeln SharePoint 2013-Workflowproblembehandlungsdaten mit ShowScopeDebugInfo](https://docs.microsoft.com/sharepoint/troubleshoot/workflows/gather-workflow-data)
+- [Problembehandlung bei SharePoint-Workflowüberprüfungsfehlern](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Debuggen von SharePoint-Workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- [Sammeln von SharePoint 2013-Workflow-Problembehandlungsdaten mit ShowScopeDebugInfo](https://docs.microsoft.com/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
 **Power Automate**
 
-Wenn Sie gerade erst mit Workflows beginnen, sollten Sie [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) anstelle der klassischen SharePoint-Workflowlösungen verwenden.
+Wenn Sie gerade erst mit Workflows beginnen, sollten Sie die Verwendung von [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) anstelle der klassischen SharePoint-Workflowlösungen in Betracht ziehen.
 
-Weitere Informationen finden Sie unter [SharePoint Workflows, die sich zurückziehen](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
+Weitere Informationen finden Sie unter [Zurückziehen von SharePoint-Workflows](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).

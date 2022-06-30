@@ -8,17 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9289"
-ms.openlocfilehash: d80f943ca4a23627b0f8a2b39e2096d5c09b3d42
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: b2796e57cd7ba7dfa8c7b77d5bc96925d265616a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63184458"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66352047"
 ---
 # <a name="make-microsoft-bing-your-default-search-engine"></a>Microsoft Bing zur Standardsuchmaschine machen
 
-Um Bing Ihre Standardsuchmaschine für Microsoft Edge, Google Chrome oder Internet Explorer zu erstellen, folgen Sie den Anweisungen unter [Make Bing the default search engine](https://go.microsoft.com/fwlink/?linkid=2148834).
+Um Bing zu Ihrer Standardsuchmaschine für Microsoft Edge, Google Chrome oder Internet Explorer zu machen, folgen Sie den Anweisungen in [Make Bing the default search engine](https://go.microsoft.com/fwlink/?linkid=2148834).

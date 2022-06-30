@@ -3,21 +3,20 @@ title: Globale Leseberechtigung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5672"
-ms.openlocfilehash: df340f3d84f77d4ae66ebb9abbf154b2248064b7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f68034325307e33919feb32450bf82f5e25933b6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63276137"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66434632"
 ---
 # <a name="global-reader"></a>Globale Leseberechtigung
 

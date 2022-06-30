@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
 - commerce_subscriptions
-- "458"
 - "1500020"
+- "458"
 ms.date: 04/21/2020
-ms.openlocfilehash: 3c3031a2429e47ac7c238d01d7faa1782fb4e42f
-ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
+ms.openlocfilehash: 167071eb1c0afe87d0e5caaf334793f13a256e5e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "66153145"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66302554"
 ---
 # <a name="all-subscriptions-are-active"></a>Alle Abonnements sind aktiv
 

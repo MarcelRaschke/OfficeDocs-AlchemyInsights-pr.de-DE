@@ -3,22 +3,22 @@ title: Outlook Mobile-Ordner in neuer Reihenfolge
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "3072"
 - "9001111"
-ms.openlocfilehash: 20320164816d8378e6003490b0260f0c2338079b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "3072"
+ms.date: 04/21/2020
+ms.openlocfilehash: 46abe4389451518fc12bf80dc90d06b800d57e06
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63167575"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66285194"
 ---
 # <a name="my-folders-are-in-a-new-order"></a>Meine Ordner befinden sich in einer neuen Reihenfolge
 
-Durch das Hinzufügen von Favoritenordnern und Gruppen zu Outlook für iOS und Android können Sie feststellen, dass sich Ihre Ordner in einer neuen Reihenfolge befinden. Wenn Sie Favoriten haben, wird oben auf der Seitenleiste ein Favoritenabschnitt angezeigt. Sie können Favoriten mithilfe des Stiftsymbols am oberen Rand der Randleiste hinzufügen. Dadurch werden alle wichtigen Ordner und Gruppen ganz oben angezeigt, wo Sie einfach darauf zugreifen können.
+Durch das Hinzufügen von Favoritenordnern und Gruppen zu Outlook für iOS und Android stellen Sie möglicherweise fest, dass Ihre Ordner in einer neuen Reihenfolge vorliegen. Wenn Sie Favoriten haben, wird oben in der Randleiste ein Abschnitt "Favoriten" angezeigt. Sie können Favoriten mithilfe des Bleistiftsymbols oben in der Randleiste hinzufügen. Auf diese Weise bleiben alle Ihre wichtigsten Ordner und Gruppen ganz oben, wo Sie einfach darauf zugreifen können.

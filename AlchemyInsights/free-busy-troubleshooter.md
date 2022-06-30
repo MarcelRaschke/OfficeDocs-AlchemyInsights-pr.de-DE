@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "607"
 - "3800005"
+- "607"
 ms.date: ''
-ms.openlocfilehash: 565826b6019a4709286e2e1ab1c1bd20afbdafde
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: d052c066d1b7297bbd4c89f6e22e3f72cf475909
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63237831"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66434884"
 ---
 # <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Problembehandlungsschritte für die Kalenderverfügbarkeit (Frei/Gebucht)
 
-Im Allgemeinen ist der [Exchange Remote Connectivity Analyzer (RCA)](https://testconnectivity.microsoft.com/tests/FreeBusy/input) das beste Tool zur Behandlung von Frei/Gebucht-Problemen, um festzustellen, wo er fehlschlägt. Der RCA liefert Ihnen einen detaillierten Überblick darüber, was funktioniert hat und was mit bestimmten Fehlermeldungen fehlgeschlagen ist, und Sie können nach Lösungen suchen. Es enthält auch einen Link zum [Microsoft-Support- und Wiederherstellungs-Assistenten](https://diagnostics.office.com/).
+Im Allgemeinen ist die [Exchange Remote Connectivity Analyzer (RCA)](https://testconnectivity.microsoft.com/tests/FreeBusy/input) das beste Tool für die Problembehandlung bei Frei/Gebucht-Problemen, um festzustellen, wo ein Fehler auftritt. Die RCA gibt Ihnen einen detaillierten Überblick darüber, was funktioniert hat und was bei bestimmten Fehlermeldungen fehlgeschlagen ist, die Sie nachschlagen können, um Lösungen zu finden. Es verfügt auch über einen Link zum [Microsoft-Support- und Wiederherstellungs-Assistenten](https://diagnostics.office.com/).
 
 Ein weiteres gutes Tool, das Sie ausprobieren können, ist das [Kalenderüberprüfungstool für Outlook](https://www.microsoft.com/download/details.aspx?id=28786) , wenn der Benutzer Über Outlook verfügt.

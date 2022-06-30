@@ -3,22 +3,21 @@ title: Microsoft 365-Gruppen werden in Outlook nicht synchronisiert
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/17/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11250"
 - "9000037"
-ms.openlocfilehash: a644c9d0a426e8184b217f52410e678ee123ad05
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11250"
+ms.date: 05/17/2021
+ms.openlocfilehash: b86a8a9859888b167e1cdf2f289502edf2622ef1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63307193"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66389334"
 ---
 # <a name="microsoft-365-groups-not-synching-in-outlook"></a>Microsoft 365-Gruppen werden in Outlook nicht synchronisiert
 

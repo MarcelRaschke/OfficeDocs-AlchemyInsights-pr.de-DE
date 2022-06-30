@@ -1,25 +1,25 @@
 ---
-title: Outlook.com-Updates
+title: Outlook.com Updates
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1840"
 - "9000250"
-ms.openlocfilehash: f8bede3ce0301a396debc3a5f6cf93422452fa70
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1840"
+ms.date: 04/21/2020
+ms.openlocfilehash: 60b730aa907fa9e8456f4887a207bd960128a35a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65724792"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66285133"
 ---
-# <a name="outlookcom-updates"></a>Outlook.com-Updates
+# <a name="outlookcom-updates"></a>Outlook.com Updates
 
 **Aktuelle Updates**
 
@@ -27,4 +27,4 @@ ms.locfileid: "65724792"
 
 **E-Mail-Updates**
 
-- Wenn Ihr Outlook.com-Postfach nicht aktualisiert wird, finden [Sie Informationen dazu unter Beheben Outlook.com-E-Mail-Synchronisierungsprobleme](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Wenn Ihr Outlook.com Postfach nicht aktualisiert wird, lesen [Sie "Beheben Outlook.com E-Mail-Synchronisierungsprobleme](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)".

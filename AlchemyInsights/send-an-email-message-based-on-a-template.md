@@ -3,21 +3,20 @@ title: Senden einer E-Mail-Nachricht basierend auf einer Vorlage
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 9ea85ab7c4b83d1af34e94751c9161333dd8b5fb
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: a4ce2f913619a0d978689810815e453be613c7c5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65718549"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66427054"
 ---
 # <a name="send-an-email-message-based-on-a-template"></a>Senden einer E-Mail-Nachricht basierend auf einer Vorlage
 

@@ -3,21 +3,20 @@ title: Posteingangsregeln in Outlook Web App
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "1800021"
 - "922"
-ms.openlocfilehash: d7ec1d0d9752a0c445ffeec5f0857dbf3f9dd9f8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 18077d604fae306917932d82fb4a7e503f2b2641
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63297685"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66434407"
 ---
 # <a name="inbox-rules-in-outlook-web-app"></a>Posteingangsregeln in Outlook Web App
 

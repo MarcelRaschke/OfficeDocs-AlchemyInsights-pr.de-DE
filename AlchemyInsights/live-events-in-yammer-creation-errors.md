@@ -3,21 +3,20 @@ title: Probleme beim Erstellen von Live-Ereignissen in Yammer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002495"
 - "5112"
-ms.openlocfilehash: 542bb97e311b9ea697e420764360bcf962b3bc40
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 9025278a17d50ac8fd0df854bb5ee746bdafa926
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721981"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66352083"
 ---
 # <a name="live-events-in-yammer-creation-errors"></a>Probleme beim Erstellen von Live-Ereignissen in Yammer
 
