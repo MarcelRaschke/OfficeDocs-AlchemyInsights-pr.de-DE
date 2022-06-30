@@ -3,22 +3,21 @@ title: So wird eine Vertraulichkeitsbezeichnung erstellt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11014"
 - "9000181"
-ms.openlocfilehash: 0b9363db9ba489328f61da6995b7971006ded780
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+- "11014"
+ms.date: 04/21/2021
+ms.openlocfilehash: 1803b22b7867ae92129a9d1f188257181fd1dea0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65593444"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66392475"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>So wird eine Vertraulichkeitsbezeichnung erstellt
 

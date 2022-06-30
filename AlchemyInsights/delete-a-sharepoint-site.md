@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.date: 04/21/2020
-ms.openlocfilehash: 6504143a184418409c010012d06deb8f97427df5
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 5cd7abd672716d0411d1936192f1e3b590bfb3cc
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66324903"
+ms.locfileid: "66537542"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Löschen einer Website aus dem neuen SharePoint Admin Center
 
@@ -26,4 +26,4 @@ Tipps:
 - SharePoint-Administratoren können jetzt Websites löschen, die zu **Microsoft 365-Gruppen** gehören. Dadurch werden die Gruppe und alle zugehörigen Ressourcen gelöscht, einschließlich des Outlook-Postfachs und -Kalenders sowie aller Teams-Kanäle. Weitere Informationen finden Sie unter [Löschen einer SharePoint-Website](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
 - Sie können gelöschte Websites 93 Tage lang wiederherstellen. Beachten Sie, dass gelöschte Gruppen innerhalb von 30 Tagen wiederhergestellt werden müssen. Weitere Informationen finden Sie unter ["Anzeigen und Wiederherstellen gelöschter Websites"](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
 - Informationen zum endgültigen Entfernen einer Website finden Sie [unter "Dauerhaftes Löschen einer Website"](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Dieser Schritt ist erforderlich, wenn Sie die URL erneut verwenden möchten. 
-- Informationen zum Entfernen einer Unterwebsite finden [Sie unter "Schnellschritte zum Löschen einer Website oder Unterwebsite"](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut).
+- Informationen zum Entfernen einer Unterwebsite finden [Sie unter "Schnellschritte zum Löschen einer Website oder Unterwebsite"](https://support.microsoft.com/office/delete-a-sharepoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb).

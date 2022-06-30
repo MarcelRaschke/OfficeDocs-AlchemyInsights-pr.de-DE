@@ -3,24 +3,22 @@ title: eDiscovery-Exporttool
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "263"
-- "928"
 - "1100001"
 - "3100022"
-ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 88ccc1d79faeaa5516ee5df1193f385b260d3ca4
-ms.sourcegitcommit: 654bbec12ffc98760723fe13ad3f69b9cff95a72
+- "263"
+- "928"
+ms.openlocfilehash: cd32ecc4191c70b997672aed6d23ac8b00691e56
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65611761"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66391827"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kann das eDiscovery-Exporttool nicht installiert oder ausgeführt werden?
 
@@ -36,7 +34,7 @@ Wenn Sie das eDiscovery-Exporttool nicht installieren oder ausführen können, u
 
     - Microsoft Edge
 
-      Informationen zum Aktivieren ClickOnce Unterstützung in Microsoft Edge finden [Sie unter Verwenden des eDiscovery-Exporttools in Microsoft Edge](https://docs.microsoft.com/microsoft-365/compliance/configure-edge-to-export-search-results).
+      Informationen zum Aktivieren der ClickOnce-Unterstützung in Microsoft Edge finden [Sie unter Verwenden des eDiscovery-Exporttools in Microsoft Edge](https://docs.microsoft.com/microsoft-365/compliance/configure-edge-to-export-search-results).
 
       Oder
 
@@ -46,7 +44,7 @@ Wenn Sie das eDiscovery-Exporttool nicht installieren oder ausführen können, u
 
 - Ihre Organisation kann eine Verbindung mit dem Endpunkt in Azure herstellen, **der blob.core.windows.net ist\*** (der Platzhalter stellt einen eindeutigen Bezeichner für Ihren Exportauftrag dar).
 
-- Ihnen wird die Rolle "Exportieren" im Microsoft 365 Security &amp; Compliance Center zugewiesen. Standardmäßig wird diese Rolle nur der Rollengruppe "eDiscovery-Manager" zugewiesen. Siehe [Zuweisen von eDiscovery-Berechtigungen](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- Ihnen wird die Exportrolle im Microsoft 365 Security &amp; Compliance Center zugewiesen. Standardmäßig wird diese Rolle nur der Rollengruppe "eDiscovery-Manager" zugewiesen. Siehe [Zuweisen von eDiscovery-Berechtigungen](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Weitere Informationen finden Sie unter [Exportieren von Inhaltssuchergebnissen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
 

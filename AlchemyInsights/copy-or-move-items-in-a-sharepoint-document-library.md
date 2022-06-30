@@ -12,12 +12,12 @@ ms.custom:
 - "5300013"
 - "454"
 ms.date: 04/21/2020
-ms.openlocfilehash: 4ef8006f8b36fdfad6a2dd1f0342692130d95cee
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 8e86db4c705e35ddc89783b5aed96b112401c598
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66270640"
+ms.locfileid: "66537254"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopieren oder Verschieben von Elementen in einer SharePoint-Dokumentbibliothek
 
@@ -41,5 +41,5 @@ Sie können Dateien, Ordner und Links zu verschiedenen Speicherorten in einer Do
 
 Weitere Informationen finden Sie unter:
 
- - [Verschieben oder Kopieren von Dateien in SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office-Supportartikel)
+ - [Verschieben oder Kopieren von Dateien in SharePoint](https://support.microsoft.com/office/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office-Supportartikel)
  - [Verschieben von Dateien aus einem beliebigen Ordner](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community-Blogartikel)  

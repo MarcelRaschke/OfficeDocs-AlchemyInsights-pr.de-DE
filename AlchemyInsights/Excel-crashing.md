@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2200003"
 - "157"
-ms.openlocfilehash: 794001fd8917aae368bcc5cac6a2255ab0121774
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: b4ad3204ba8132820b8b878b923ea829a7a58588
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66303614"
+ms.locfileid: "66536678"
 ---
 # <a name="frequent-excel-crashes"></a>Häufige Excel-Abstürze?
 
@@ -32,8 +32,8 @@ Häufige Abstürze in Excel können durch ein fehlerhaftes Add-In verursacht wer
   
 Wenn weiterhin Probleme auftreten, lesen Sie die folgenden Artikel:
   
-- [Beim Starten von Office 2016- oder 2013-Anwendungen auf meinem PC wird die Fehlermeldung "Funktioniert nicht mehr" angezeigt](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [Beim Starten von Office 2016- oder 2013-Anwendungen auf meinem PC wird die Fehlermeldung "Funktioniert nicht mehr" angezeigt](https://support.microsoft.com/office/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
 
 - [Behandeln von Abstürzen und nicht reagierenden Problemen mit Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Excel reagiert nicht, hängt, fixiert oder funktioniert nicht mehr](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel reagiert nicht, hängt, fixiert oder funktioniert nicht mehr](https://support.microsoft.com/office/excel-not-responding-hangs-freezes-or-stops-working-37e7d3c9-9e84-40bf-a805-4ca6853a1ff4)

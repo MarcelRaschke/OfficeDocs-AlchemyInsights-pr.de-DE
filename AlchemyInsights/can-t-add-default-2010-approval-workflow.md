@@ -3,28 +3,27 @@ title: Standardgenehmigungsworkflow 2010 kann nicht hinzugefügt werden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1403"
 - "5200024"
-ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: 89329970c7e7f89b8ad8773107393dd58c22c2b1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1403"
+ms.date: 04/21/2020
+ms.openlocfilehash: 31065c265cc13a1f832d13d0057df917a8a6df87
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63163543"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66537290"
 ---
 # <a name="cant-add-default-2010-approval-workflow"></a>Standardgenehmigungsworkflow 2010 kann nicht hinzugefügt werden
 
-In einer Microsoft SharePoint-Websitesammlung können Sie zu einer Liste oder Bibliothek keinen global wiederverwendbaren Workflow (z. B. „Genehmigung – SharePoint 2010“) hinzufügen. Möglicherweise fehlt der Genehmigungsworkflow. Informationen zum Beheben dieses Problems finden Sie unter [Kann einem SharePoint Liste oder Bibliothek keinen global wiederverwendbaren Workflow hinzufügen](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
+In einer Microsoft SharePoint-Websitesammlung können Sie zu einer Liste oder Bibliothek keinen global wiederverwendbaren Workflow (z. B. „Genehmigung – SharePoint 2010“) hinzufügen. Möglicherweise fehlt der Genehmigungsworkflow. Informationen zum Beheben dieses Problems finden Sie unter ["Hinzufügen eines global wiederverwendbaren Workflows zu einer SharePoint-Liste oder -Bibliothek nicht](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library) möglich."
 
-Weitere Informationen zu Workflow-Genehmigungen finden Sie unter ["Alles über Genehmigungsworkflows"](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
+Weitere Informationen zu Workflowgenehmigungen finden [Sie unter "Alles über Genehmigungsworkflows](https://support.microsoft.com/office/all-about-approval-workflows-078c5a89-821f-44a9-9530-40bb34f9f742)". 
  
 Erfahren Sie mehr über [moderne Genehmigungen in Flow](https://flow.microsoft.com/blog/introducing-modern-approvals). 
   

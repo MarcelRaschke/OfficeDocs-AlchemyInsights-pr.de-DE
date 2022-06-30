@@ -1,26 +1,25 @@
 ---
-title: Benutzerpostfach, das erstellt wird
+title: Benutzerpostfach wird erstellt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 6ad981b2-cb62-4495-b852-88df10299fe3
-ms.openlocfilehash: df415507795034a4adad32c0a709d7ecff4cac92
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: ab07853ea8cc7fc34125bc658062734b14fc6129
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63177007"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66520842"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Das Postfach Ihres Benutzers wird erstellt.
+# <a name="your-users-mailbox-is-being-created"></a>Das Postfach Ihres Benutzers wird gerade erstellt.
 
-Es kann bis zu einer Stunde dauern, bis ein neues Postfach verwendet werden kann.
+Es kann bis zu einer Stunde dauern, bis ein neues Postfach einsatzbereit ist.
   
-Wenn sich das Postfach des Benutzers seit mehr als einer Stunde "vorbereitet" hat, können Sie versuchen, den Benutzer zu löschen und neu zu erstellen, oder die Option "Lassen Sie uns Sie anrufen" verwenden, um mit einem Supporttechniker zu sprechen.
+Wenn sich das Postfach des Benutzers mehr als eine Stunde lang "vorbereitet" hat, können Sie versuchen, den Benutzer zu löschen und neu zu erstellen, oder die Option "Lassen Sie sich anrufen" verwenden, um mit einem Supporttechniker zu sprechen.
   
 

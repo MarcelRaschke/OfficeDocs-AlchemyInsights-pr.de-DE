@@ -3,28 +3,27 @@ title: Ändern von Berechtigungen für öffentliche Ordner
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ms.collection: Adm_O365
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "633"
 - "3500007"
+- "633"
 ms.date: 01/21/2022
-ms.openlocfilehash: 85fde7a478776fb95fbb460a2175a6d39fe62837
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 21cfa84519182cbf10913a790ed5897b81aab847
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66002888"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66519564"
 ---
 # <a name="changing-public-folder-permissions"></a>Ändern von Berechtigungen für öffentliche Ordner
 
 Berechtigungen für öffentliche Ordner können von Benutzern und Administratoren in Outlook geändert werden. Administratoren können berechtigungen auch über das Exchange Admin Center (EAC) steuern, indem sie folgendermaßen vorgehen:
   
-1. Wechseln Sie im Microsoft 365 Admin Center zu **admin center** \> [**Exchange**](https://admin.exchange.microsoft.com/#/homepage).
+1. Wechseln Sie in der Microsoft 365 Admin Center zu **Admin Center** \> [**Exchange**](https://admin.exchange.microsoft.com/#/homepage).
 2. Wählen Sie **öffentliche Ordner aus**.
 3. Von dort aus können Sie Berechtigungen für einzelne öffentliche Ordner ändern, indem Sie Berechtigungen Sicherheitsgruppen zuweisen. Damit ein Endbenutzer Berechtigungen für öffentliche Ordner ändern kann, muss der Benutzer über Besitzerberechtigungen für den Ordner verfügen.
 

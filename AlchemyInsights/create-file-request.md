@@ -12,12 +12,12 @@ ms.custom:
 - "9001432"
 - "3413"
 ms.date: 04/21/2020
-ms.openlocfilehash: ab7882f4f398a37ba32b700259f273d657d87c63
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 5746830368595f8e8671d29cb10683e0d52e420b
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66355611"
+ms.locfileid: "66537218"
 ---
 # <a name="how-to-create-a-file-request"></a>So erstellen Sie eine Dateianforderung
 
@@ -25,4 +25,4 @@ Mit der Dateianforderungsfunktion in OneDrive können Sie einen Ordner auswähle
 
 **Hinweis**: Ein Administrator muss ["Jeder"-Links](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) in OneDrive aktivieren, damit Dateianforderungen funktionieren.
 
-- Weitere Informationen finden Sie unter [Erstellen einer Dateianforderung](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).
+- Weitere Informationen finden Sie unter [Erstellen einer Dateianforderung](https://support.microsoft.com/office/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).

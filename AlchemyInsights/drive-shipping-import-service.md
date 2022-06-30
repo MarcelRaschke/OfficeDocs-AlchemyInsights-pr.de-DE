@@ -3,22 +3,21 @@ title: Laufwerkversand im Microsoft 365-Importdienst
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/01/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11514"
 - "9003046"
-ms.openlocfilehash: f3454e2a6a942adbfd78de9836fe2975e40a7a54
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+- "11514"
+ms.date: 06/01/2021
+ms.openlocfilehash: edbc861a44834a09bb1004aecd4f06497ee61551
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65593336"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66392007"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>Laufwerkversand im Microsoft 365-Importdienst
 

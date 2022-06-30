@@ -3,21 +3,20 @@ title: Richtlinie erstellen, die das Herunterladen für nicht verwaltete Geräte
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003042"
 - "11071"
-ms.openlocfilehash: f8d3bbc02cf88ca9c275fd9138e6f3f22f785437
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: d4f9fcbdbeba5cbcdefeac967221ef93021ec2c1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65730954"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66392439"
 ---
 # <a name="create-a-block-download-policy-for-unmanaged-devices"></a>Richtlinie erstellen, die das Herunterladen für nicht verwaltete Geräte blockiert
 

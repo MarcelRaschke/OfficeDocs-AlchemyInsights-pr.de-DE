@@ -3,22 +3,21 @@ title: Verwenden von E-Mail-Profilen mit Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/28/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1559"
 - "9000076"
-ms.openlocfilehash: 4f815d63f6ef413b9038314296fe87eb62280f56
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1559"
+ms.date: 07/28/2020
+ms.openlocfilehash: 1a0b91c9314bcdd9347b3af6903bb70305c7fc8f
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63280889"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66520662"
 ---
 # <a name="using-email-profiles-with-intune"></a>Verwenden von E-Mail-Profilen mit Intune
 

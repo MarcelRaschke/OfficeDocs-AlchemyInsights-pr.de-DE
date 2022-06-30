@@ -3,30 +3,29 @@ title: Verwenden von benutzerdefinierten Profilen in Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "1566"
 - "6700005"
-ms.openlocfilehash: 578b9fc8d83fedfc2a2e442c776b8ff9c77a0103
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1566"
+ms.date: 04/21/2020
+ms.openlocfilehash: ce933c54db48f4b87377cf16a57c77dd021b47c1
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63281177"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66520770"
 ---
 # <a name="using-custom-policy-in-intune"></a>Verwenden einer benutzerdefinierten Richtlinie in Intune
 
-Intune verfügt über viele integrierte Einstellungen für Android-, iOS-, macOS- und Windows-Geräte. Sie können auch ein benutzerdefiniertes Profil erstellen und dann diese benutzerdefinierten Einstellungen mit Intune auf Ihren Geräten bereitstellen. Benutzerdefinierte Profile dienen zum Hinzufügen von Geräteeinstellungen und Features, die nicht in Intune integriert sind.
+Intune verfügt über viele Einstellungen, die für Android-, iOS-, macOS- und Windows-Geräte integriert sind. Sie können auch ein benutzerdefiniertes Profil erstellen und diese benutzerdefinierten Einstellungen dann mit Intune auf Ihren Geräten bereitstellen. Benutzerdefinierte Profile wurden entwickelt, um Geräteeinstellungen und Features hinzuzufügen, die nicht in Intune integriert sind.
 
 [Benutzerdefinierte Einstellungen für Android-Geräte in Intune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Benutzerdefinierte Einstellungen für Android-Enterprise-Geräte in Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Benutzerdefinierte Einstellungen für Android Enterprise-Geräte in Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
 [Benutzerdefinierte Einstellungen für iOS-Geräte in Intune](https://docs.microsoft.com/intune/custom-settings-ios)
 
