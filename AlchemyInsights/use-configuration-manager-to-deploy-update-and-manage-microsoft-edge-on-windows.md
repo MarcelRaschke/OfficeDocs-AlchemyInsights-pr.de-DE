@@ -3,22 +3,21 @@ title: Verwenden von Configuration Manager zum Bereitstellen, Aktualisieren und 
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004030"
 - "7100"
-ms.openlocfilehash: 91c6541071bb1d92d1732e879bb697b2ee5c48ce
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 12/03/2020
+ms.openlocfilehash: bf0131cea20bca28afab708ed7235c84fc4c58c7
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63229281"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66522246"
 ---
 # <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Verwenden von Configuration Manager zum Bereitstellen, Aktualisieren und Verwalten von Microsoft Edge unter Windows
 

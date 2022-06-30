@@ -3,22 +3,21 @@ title: DLP-Regel für US-Bankkontonummer funktioniert nicht
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1287"
 - "3200001"
-ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: 73e6359a7dce425a8627de3275e3004abca21e00
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1287"
+ms.date: 04/21/2020
+ms.openlocfilehash: 79dca575d49c8f15512e2ea444fa7a8c6037f773
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733620"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66525829"
 ---
 # <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP-Probleme mit US-Bankkontonummern
 

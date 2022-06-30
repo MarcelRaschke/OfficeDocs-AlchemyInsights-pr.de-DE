@@ -3,22 +3,21 @@ title: DLP-Regel für Kreditkartennummer funktioniert nicht
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1270"
 - "3200001"
-ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: c0d6f926167a1d62794acaa800c5dab25e81a52b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1270"
+ms.date: 04/21/2020
+ms.openlocfilehash: 4fb93c6dfa2fdc815474f9c69f16fd4a8579741c
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722424"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66524820"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>DLP-Probleme mit Kreditkartennummern
 

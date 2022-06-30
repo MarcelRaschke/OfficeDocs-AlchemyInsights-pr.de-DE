@@ -3,21 +3,20 @@ title: Senden als Microsoft 365-Gruppe
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/19/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003200"
-ms.openlocfilehash: c4692e9f272730e5c21be704a0d751c6f6c57718
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 08/19/2020
+ms.openlocfilehash: 19886c2619c3eedfcad9526b4a30df6ed2bb1e18
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63262709"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66426946"
 ---
 # <a name="send-as-microsoft-365-group"></a>Senden als Microsoft 365-Gruppe
 
