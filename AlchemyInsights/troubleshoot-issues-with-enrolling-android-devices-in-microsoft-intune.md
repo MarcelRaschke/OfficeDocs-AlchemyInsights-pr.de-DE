@@ -1,26 +1,25 @@
 ---
-title: Behandeln von Problemen beim Registrieren Android Geräten in Microsoft Intune
+title: Behandeln von Problemen bei der Registrierung von Android-Geräten in Microsoft Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
-- "787"
 - "6200002"
-ms.openlocfilehash: 3b41d17ca23e593926c6cce8db24331bce740903
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "787"
+ms.date: 04/21/2020
+ms.openlocfilehash: b38a164e696abcd0d12dae916f4597623790e89c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65732936"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66396313"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Behandeln von Problemen beim Registrieren Android Geräten in Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Behandeln von Problemen bei der Registrierung von Android-Geräten in Microsoft Intune
 
 Überprüfen Sie die unten aufgeführten Ressourcen, um Ihr Problem jetzt zu beheben.
   
@@ -44,4 +43,4 @@ Zusätzliche Ressourcen zur Behebung Ihres Problems:
 
 2. Überprüfen Sie [dieses Dokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) auf eine Liste der häufig auftretenden Fehler, die registrierungs- und lösungsbehebungen für jeden verhindern.
 
-3. [Erfahren Sie, wie Sie Android Geräte in Microsoft Intune registrieren](https://docs.microsoft.com/intune/android-enroll).
+3. [Erfahren Sie, wie Sie Android-Geräte in Microsoft Intune registrieren](https://docs.microsoft.com/intune/android-enroll).

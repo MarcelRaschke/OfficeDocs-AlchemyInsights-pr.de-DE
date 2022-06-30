@@ -3,22 +3,21 @@ title: Herunterladen von Microsoft Excel
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/26/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11058"
 - "9006480"
-ms.openlocfilehash: b4a542dabecb68020dc7509d25bec6f0f3f57f58
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11058"
+ms.date: 04/26/2021
+ms.openlocfilehash: 91c53655ae5a9551853a7521ae9a25bfb9f4d3be
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63257309"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66298720"
 ---
 # <a name="download-microsoft-excel"></a>Herunterladen von Microsoft Excel
 

@@ -3,22 +3,20 @@ title: Vergrößern der Postfachgröße
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "556"
 - "3500006"
-ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 700d0a62add925640ceb70fdc9dcf014a4d9f5c8
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+- "556"
+ms.openlocfilehash: c81877916ebb5f882bcd33a024bb303bac22c26a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66010409"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66388605"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Abonnements wechseln, um die Postfachgröße zu erhöhen
 

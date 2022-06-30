@@ -3,22 +3,21 @@ title: Verwenden von Vertraulichkeitsbezeichnungen in Microsoft 365
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/21/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7455"
 - "9000181"
-ms.openlocfilehash: 0c4546cc5981f4d48cf3ffce80c20ef5bddb0e09
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7455"
+ms.date: 02/21/2021
+ms.openlocfilehash: ce287ac1c17cd3aec275bc818d15efde26c43a56
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63216717"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66413185"
 ---
 # <a name="use-sensitivity-labels-in-microsoft-365"></a>Verwenden von Vertraulichkeitsbezeichnungen in Microsoft 365
 

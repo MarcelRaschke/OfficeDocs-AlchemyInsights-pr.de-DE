@@ -3,22 +3,21 @@ title: Problem beim Öffnen oder Herunterladen von Dateien in Yammer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/15/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6041"
 - "9003112"
-ms.openlocfilehash: ed87d7bec8ca3d476be14612029f79d02b3e33ec
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6041"
+ms.date: 07/15/2020
+ms.openlocfilehash: 6ba691a1941e4eb01b7f4b20883a115651505009
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63235599"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66405166"
 ---
 # <a name="issue-opening-or-downloading-files-in-yammer"></a>Problem beim Öffnen oder Herunterladen von Dateien in Yammer
 

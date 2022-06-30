@@ -3,21 +3,20 @@ title: Herunterladen und Installieren von Microsoft To Do
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: 66fac889cdf89f94ae6be808de5d4eb8dbc84c4b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4919225f9f8abaafa5380aefb5e1644aa31516ce
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63277793"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66298792"
 ---
 # <a name="how-to-download-and-install-microsoft-to-do"></a>Herunterladen und Installieren von Microsoft To Do
 

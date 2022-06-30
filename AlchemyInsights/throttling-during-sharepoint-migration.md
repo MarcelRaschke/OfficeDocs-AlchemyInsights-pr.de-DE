@@ -3,23 +3,22 @@ title: Einschränkungen während einer SharePoint-Migration
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
 ms.custom:
+- "9000136"
 - "9000353"
 - "1987"
-- "9000136"
 - "2968"
-ms.assetid: ''
-ms.openlocfilehash: 51a7a5a0690a74ed5e6a3ab06220b65746f9ac8a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 547a9c084cbab523185d6512a36c4a9357d36dfd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63197636"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66396615"
 ---
 # <a name="sharepoint-migration-throttling"></a>SharePoint-Migrationseinschränkung
 

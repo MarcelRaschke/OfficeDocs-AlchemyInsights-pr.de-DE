@@ -3,22 +3,21 @@ title: Behandlung von Problemen mit Kamera oder Mikrofon
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/28/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12086"
 - "9007198"
-ms.openlocfilehash: d90f5d61c441cb6e33656abe97be0920837e94c6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "12086"
+ms.date: 06/28/2021
+ms.openlocfilehash: 16294d6a7d32924dabaae821bd33bd9d85517e2d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63290681"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66396471"
 ---
 # <a name="troubleshoot-your-camera-or-microphone"></a>Behandlung von Problemen mit Kamera oder Mikrofon
 

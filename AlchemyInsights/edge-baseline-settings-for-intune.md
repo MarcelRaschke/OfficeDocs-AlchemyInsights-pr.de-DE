@@ -1,27 +1,26 @@
 ---
-title: Verwenden von Microsoft Edge-Basiseinstellungen für Microsoft Intune
+title: Verwenden von Microsoft Edge-Basisplaneinstellungen für Microsoft Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/04/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11141"
-ms.openlocfilehash: c173be654e27d486bb5d2beb4df29872ace3de73
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 06/04/2021
+ms.openlocfilehash: 9b4bc5041146618d72843169e2ca753e9481e2d0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63238805"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66298612"
 ---
-# <a name="use-microsoft-edge-baseline-settings-for-microsoft-intune"></a>Verwenden von Microsoft Edge-Basiseinstellungen für Microsoft Intune
+# <a name="use-microsoft-edge-baseline-settings-for-microsoft-intune"></a>Verwenden von Microsoft Edge-Basisplaneinstellungen für Microsoft Intune
 
-Der Bereich "Versionen" einer Sicherheitsbaseline enthält eine Liste der einzelnen Versionen der Baseline, die Sie bereitgestellt haben. Diese Liste enthält die neuesten und aktiven Versionen des Basisplans.
+Der Versionsbereich einer Sicherheitsbaseline enthält eine Liste der einzelnen Versionen des Basisplans, den Sie bereitgestellt haben. Diese Liste enthält die neuesten und aktiven Versionen des Basisplans.
 
-Um zu sehen, was sich zwischen zwei Versionen geändert hat, aktivieren Sie das Kontrollkästchen für jede Version, und wählen Sie dann **"Baselines vergleichen" aus**. Sie werden aufgefordert, eine .csv Datei herunterzuladen, die die Änderungen detailliert beschreibt.
+Wenn Sie sehen möchten, was sich zwischen zwei Versionen geändert hat, aktivieren Sie das Kontrollkästchen für jede Version, und wählen Sie dann **"Basispläne vergleichen**" aus. Sie werden aufgefordert, eine .csv Datei herunterzuladen, die die Änderungen detailliert beschreibt.

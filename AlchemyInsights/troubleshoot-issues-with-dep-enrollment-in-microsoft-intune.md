@@ -3,22 +3,21 @@ title: Behandeln von Problemen mit der DEP-Registrierung in Microsoft Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
 ms.custom:
-- "783"
 - "6200002"
-ms.openlocfilehash: 0520039b91ffeba993e521e5521dacbe3cd26d69
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "783"
+ms.date: 04/21/2020
+ms.openlocfilehash: 8f837d571c64556c936d560c463bf53ee3bf0a6b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65727535"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66396291"
 ---
 # <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Behandeln von Problemen mit der DEP-Registrierung in Microsoft Intune
 

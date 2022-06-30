@@ -1,28 +1,27 @@
 ---
-title: iOS-Bereitstellungsprofile Regel-ID 1029
+title: iOS-Bereitstellungsprofile – Regel-ID 1029
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "322"
 - "3100011"
-ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 61bb7a756c29a16c2518702e6b9f6e9534f98141
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "322"
+ms.date: 04/21/2020
+ms.openlocfilehash: b2716842d2d6ad6655e740d8e8a463ae7e612c05
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63275093"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66405382"
 ---
 # <a name="ios-provisioning-profiles"></a>iOS-Bereitstellungsprofile
 
-Apple iOS line-of-business verwendet das Konzept eines Bereitstellungsprofils, das verwendet wird, um die Integrität der Anwendung zu überprüfen und die im Profil definierten Richtlinien zu erzwingen. Diese Bereitstellungsprofile laufen nach 12 Monaten ab, sodass der bereitgestellten App ein neues Profil zugeordnet werden muss, damit die Apps weiterhin ausgeführt werden können.
+Apple iOS Line-of-Business verwendet das Konzept eines Bereitstellungsprofils, das verwendet wird, um die Integrität der Anwendung zu überprüfen und im Profil definierte Richtlinien durchzusetzen. Diese Bereitstellungsprofile laufen nach 12 Monaten ab, sodass der bereitgestellten App ein neues Profil zugeordnet werden muss, damit die Apps weiterhin ausgeführt werden können.
   
-Im folgenden Artikel wird beschrieben, wie Sie ein neues Bereitstellungsprofil mit einer über Intune bereitgestellten iOS-Branchen-App verknüpfen: [Verwenden Von iOS-App-Bereitstellungsprofilen, um zu verhindern, dass Ihre Apps ablaufen](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+Im folgenden Artikel wird beschrieben, wie Sie ein neues Bereitstellungsprofil mit einer iOS-Branchen-App verknüpfen, die über Intune bereitgestellt wird: [Verwenden von iOS-App-Bereitstellungsprofilen, um zu verhindern, dass Ihre Apps ablaufen](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
   

@@ -8,17 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12455"
 - "6700006"
+- "12455"
 ms.date: 06/02/2022
-ms.openlocfilehash: 113ca60ec224ca2dbff064444182746658d9f0a9
-ms.sourcegitcommit: 29aa28c4fa26e71de062cb6319e48cd963fdf1fc
+ms.openlocfilehash: f883684e9db004912851edca8fb5e7b3ebbc7244
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "65862183"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66405482"
 ---
 # <a name="ios-application-protection-policy-app"></a>iOS Anwendungsschutzrichtlinie (APP)
 

@@ -3,22 +3,21 @@ title: InTune und Jamf
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/29/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1561"
 - "9000085"
-ms.openlocfilehash: 07e3d29a815e30659ebf358bcc3bd7e7c7792b14
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1561"
+ms.date: 07/29/2020
+ms.openlocfilehash: 2b66f01f5456696b8688966e8b5fc734538523de
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63235856"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66388461"
 ---
 # <a name="intune-and-jamf"></a>InTune und Jamf
 

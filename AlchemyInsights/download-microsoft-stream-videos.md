@@ -3,21 +3,20 @@ title: Herunterladen von Microsoft Stream-Videos
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002470"
 - "4806"
-ms.openlocfilehash: d8178c855bad252ef509579745731770efd1e4a1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 1cd3aba18338f75c4da24992af66d9e7611932f3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63215457"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66298684"
 ---
 # <a name="download-microsoft-stream-videos"></a>Herunterladen von Microsoft Stream-Videos
 

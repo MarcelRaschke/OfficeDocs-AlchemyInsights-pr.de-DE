@@ -3,21 +3,20 @@ title: Verwalten Ihres Kontos und Ihrer Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: 15a150c40c2b1d3d72ec0ef77ac56c19d5624e8c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4c28b37c19b170657df77b47b64a711cf9d2cc2a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63214341"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66388353"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Verwalten Ihres Kontos und Ihrer Abonnements
 

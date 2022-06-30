@@ -3,22 +3,21 @@ title: Problem beim Verbinden von VMs
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7924"
 - "9004395"
-ms.openlocfilehash: f23dfc33f549cfcccd2a11a5ed6cfe3085d44553
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7924"
+ms.date: 01/15/2021
+ms.openlocfilehash: af312ef94d10e11f9d91b47fb666db16e8b22938
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63275057"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66405202"
 ---
 # <a name="issue-joining-vms"></a>Problem beim Verbinden von VMs
 

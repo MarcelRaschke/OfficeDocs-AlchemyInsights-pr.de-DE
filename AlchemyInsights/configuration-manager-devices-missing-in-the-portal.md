@@ -3,21 +3,20 @@ title: Im-Portal fehlen Configuration Manager-Geräte
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001495"
 - "4384"
-ms.openlocfilehash: 61b229fb835093ee2f6411d611aa1fc97ed8c7d8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 55f46df8f7ec496f26fa0c8ff2a3cc09672e9ca0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63307913"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66413041"
 ---
 # <a name="configuration-manager-devices-missing-in-the-portal"></a>Im-Portal fehlen Configuration Manager-Geräte
 
