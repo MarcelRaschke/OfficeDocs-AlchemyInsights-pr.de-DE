@@ -3,21 +3,20 @@ title: Ändern des Standardlinktyps für eine Site
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002578"
 - "4996"
-ms.openlocfilehash: a5343e03dc61723ce45b4724f522b51bbdf335fc
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 026029a05e301913fe093162811040a96ab940de
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63278873"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66370263"
 ---
 # <a name="change-the-default-link-type-for-a-site"></a>Ändern des Standardlinktyps für eine Site
 

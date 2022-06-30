@@ -1,25 +1,25 @@
 ---
-title: Outlook.com ändert das Aussehen Ihres Postfachs
+title: Outlook.com das Aussehen Ihres Postfachs ändern
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1849"
 - "9000257"
-ms.openlocfilehash: 7b900c3bbf385c666099f2528e6e3cc7dcd0a8df
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1849"
+ms.date: 04/21/2020
+ms.openlocfilehash: 3b73daf3030981d745febf2d84bb5504421922cc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733332"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66349144"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Ändern des Aussehens Ihres Outlook.com-Postfachs
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Ändern des Aussehens Ihres Outlook.com Postfachs
 
 Sie können die Darstellung der Nachrichtenliste und des Lesebereichs in Outlook.com ändern.
 

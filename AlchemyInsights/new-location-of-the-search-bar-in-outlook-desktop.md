@@ -3,21 +3,20 @@ title: Neue Position der Suchleiste in Outlook Desktop
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "1800005"
 - "5620"
-ms.openlocfilehash: e33dd2ca112f743b501fe084abc50ee7f13cac99
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 0b54396efbb23f2584d9d512054fb4c17120633a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63272969"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66308160"
 ---
 # <a name="new-location-of-the-search-bar-in-outlook-desktop"></a>Neue Position der Suchleiste in Outlook Desktop
 

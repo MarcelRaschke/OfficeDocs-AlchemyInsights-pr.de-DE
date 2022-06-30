@@ -3,21 +3,20 @@ title: Office-Aktivierungsfehler auf einem Mac
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4488"
-ms.openlocfilehash: 7e99be5ad0eee2d0eabb1b47aa7a7a703b80a66a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f2bc922200557066193344c70b21072a0ba42f0e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63224709"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66336837"
 ---
 # <a name="office-activation-errors-on-mac"></a>Office-Aktivierungsfehler auf einem Mac
 

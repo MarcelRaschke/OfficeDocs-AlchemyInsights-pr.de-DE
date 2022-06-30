@@ -3,22 +3,21 @@ title: Probleme beim Bearbeiten von Microsoft Listen offline
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 09/23/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "14010"
 - "9008720"
-ms.openlocfilehash: d498e8905ec08f20b8d4ca038e1db3d04463fc44
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "14010"
+ms.date: 09/23/2021
+ms.openlocfilehash: 54bdc192e226e952d689969c86537da8749c1923
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63202568"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66295687"
 ---
 # <a name="issues-with-editing-microsoft-lists-offline"></a>Probleme beim Bearbeiten von Microsoft Listen offline
 

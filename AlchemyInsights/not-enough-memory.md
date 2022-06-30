@@ -3,21 +3,20 @@ title: Nicht genügend Arbeitsspeicher
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "2564"
 - "9000678"
-ms.openlocfilehash: b0d3b6520d3a3166c2b956a5cb04aa920aaaaba8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "2564"
+ms.openlocfilehash: 97057e1ae7bccb2860103591708a734e5fe5ade8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63272825"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66336873"
 ---
 # <a name="there-isnt-enough-memory-to-complete-this-action"></a>Es ist nicht genügend Arbeitsspeicher vorhanden, um diese Aktion abzuschließen.
 
@@ -30,4 +29,4 @@ Wenn Sie mit einer Microsoft Excel-Datei arbeiten, wird eine der folgenden Fehle
     - Verwenden einer 64-Bit-Version von Microsoft Excel.
     - Hinzufügen von weiterem Arbeitsspeicher zu Ihrem Gerät.
 
-Informationen zur Problembehandlung finden Sie unter ["Verfügbare Ressourcen"-Fehler in Excel](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).
+Informationen zur Problembehandlung für diese Fehler finden Sie [unter "Problembehandlung bei verfügbaren Ressourcen" in Excel](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).

@@ -3,29 +3,28 @@ title: Einrichten von Regeln zum Beantworten eingehender E-Mails
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: a4cef6fd1628d54a6dd76f2d683928f468bc4bf8
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: aaec175dd200db22e832c8cce1f887ec6484c9bc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65731854"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66379569"
 ---
 # <a name="set-up-rules-to-reply-to-incoming-emails"></a>Einrichten von Regeln zum Beantworten eingehender E-Mails
 
-Führen Sie die folgenden Schritte aus, um eine Vorlage zum Beantworten von Nachrichten zu erstellen, und richten Sie dann Outlook ein, um auf jede empfangene Nachricht zu antworten.
+Führen Sie die folgenden Schritte aus, um eine Vorlage zum Beantworten von Nachrichten zu erstellen, und richten Sie dann Outlook so ein, dass auf jede empfangene Nachricht geantwortet wird.
 
 1. Erstellen Sie in Outlook eine neue E-Mail-Nachricht, und geben Sie einen Betreff und nachrichtentext für Ihre Abwesenheitsvorlage ein.
 2. Wählen Sie **"Datei" > "Speichern unter" aus**.
-3. Wählen Sie im Dialogfeld **"Speichern** unter" in der Dropdownliste "**Dateityp**" **Outlook Vorlage (*.oft) aus.** Geben Sie ihm einen entsprechenden Namen, und klicken Sie dann auf **"Speichern"**.
+3. Wählen Sie im Dialogfeld **"Speichern** unter" in der Dropdownliste " **Dateityp** " die Option **Outlook-Vorlage (*.oft) aus.** Geben Sie ihm einen entsprechenden Namen, und klicken Sie dann auf **"Speichern"**.
 4. Wählen Sie die **Dateiverwaltungsregeln** > **& Warnungen** aus.
 5. Klicken Sie im Dialogfeld **"Regeln und Benachrichtigungen** " auf der Registerkarte " **E-Mail-Regeln** " auf **"Neue Regel"**.
 6. Wählen Sie im Dialogfeld **"Regel-Assistent** " unter " **Mit einer leeren Regel beginnen**" die Option **"Regel auf empfangene Nachrichten anwenden"** aus, und klicken Sie dann auf **"Weiter**".

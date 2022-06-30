@@ -3,22 +3,21 @@ title: Sofortige Zahlung – empfohlene Schritte
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/17/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: 13830f4633ca9dd192afdc7b0589072f07faacaf
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 12/17/2020
+ms.openlocfilehash: 184e2a9d44ad7d8916332d4f7a0b6335089ea373
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65697187"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66295030"
 ---
 # <a name="make-immediate-payment---recommended-steps"></a>Sofortige Zahlung – empfohlene Schritte
 

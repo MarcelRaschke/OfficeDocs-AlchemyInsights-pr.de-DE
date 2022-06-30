@@ -3,22 +3,21 @@ title: Nachricht zum Ausführen von Enable-OrganizationCustomization
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "13726"
 - "9008593"
-ms.openlocfilehash: 042787b3c26127b1e73fd0279ce9c653cad93f86
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "13726"
+ms.date: 08/25/2021
+ms.openlocfilehash: 8ccbdc9d7df611fa3b8634f534cc9229ddcbf10b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63170383"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66294922"
 ---
 # <a name="message-to-run-enable-organizationcustomization"></a>Nachricht zum Ausführen von Enable-OrganizationCustomization
 

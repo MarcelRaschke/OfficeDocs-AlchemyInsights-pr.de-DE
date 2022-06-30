@@ -3,22 +3,21 @@ title: Probleme mit Microsoft-Anwendungen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7844"
-ms.openlocfilehash: 0d120875252ee3aa9bb8d32fb53ea98ae5221617
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 01/25/2021
+ms.openlocfilehash: 151ccb869bf458393e88a2648f2e2677e7ae006c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63256049"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66295606"
 ---
 # <a name="issues-with-microsoft-applications"></a>Probleme mit Microsoft-Anwendungen
 

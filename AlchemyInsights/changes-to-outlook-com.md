@@ -3,7 +3,7 @@ title: 8000026 Änderungen bei Outlook.com
 author: daeite
 ms.author: daeite
 manager: jackiesm
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "8000026"
 - "576"
 ms.date: 04/21/2020
-ms.openlocfilehash: 844dcc4db29f47a13b26c9058aa09f4cc81bfbb6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: fa0c9da4114bbc74b86d9dc42b7d4250d6c4f49f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63258497"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66369831"
 ---
 # <a name="learn-about-the-new-outlookcom"></a>Informationen zum neuen Outlook.com
 

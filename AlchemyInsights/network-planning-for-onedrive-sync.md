@@ -3,21 +3,20 @@ title: Planen der Netzwerkauslastung für die OneDrive-Synchronisierungs-App
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5838"
-ms.openlocfilehash: 5e300a394ed2b0a7b8340f7d77f5f7ce02c430ca
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: b6af21e720ce21906a8a9d90f4b237dcabf97ddb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63306113"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66308196"
 ---
 # <a name="network-utilization-planning-for-the-onedrive-sync-app"></a>Planen der Netzwerkauslastung für die OneDrive-Synchronisierungs-App
 

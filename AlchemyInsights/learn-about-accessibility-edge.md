@@ -3,22 +3,21 @@ title: Informationen zur Barrierefreiheit in Microsoft Edge
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/26/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8370"
 - "9004622"
-ms.openlocfilehash: 57c8f4d95f0e19c9a5d2efb9f57a023b3e94e897
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8370"
+ms.date: 05/26/2021
+ms.openlocfilehash: 3ba64daec1c4b4f907c740448f5cb49c0fa02223
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63265085"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66295498"
 ---
 # <a name="learn-about-accessibility-in-microsoft-edge"></a>Informationen zur Barrierefreiheit in Microsoft Edge
 

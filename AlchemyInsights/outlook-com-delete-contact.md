@@ -3,23 +3,21 @@ title: Löschen eines Kontakts in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "262"
 - "8000012"
-ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: 9806ff8986b2adf6020659fca3db0a5b1645c124
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "262"
+ms.date: 04/21/2020
+ms.openlocfilehash: 87afa879174f99c7f3321d097063520b51f7d6e0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721801"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66349059"
 ---
 # <a name="delete-a-contact-in-outlookcom"></a>Löschen eines Kontakts in Outlook.com
 
@@ -27,5 +25,5 @@ ms.locfileid: "65721801"
 .
 2. Wählen Sie den Kontakt aus, den Sie löschen möchten, und wählen Sie **"Löschen"** aus.
 
-Wenn Sie "**Löschen**" nicht auswählen können, kann der Kontakt von Skype oder einem verbundenen Konto des sozialen Netzwerks stammen. Um den Kontakt zu löschen, wechseln Sie zu Skype oder dem Konto, in dem sich der Kontakt befindet.
+Wenn Sie " **Löschen**" nicht auswählen können, befindet sich der Kontakt möglicherweise über Skype oder ein verbundenes Konto eines sozialen Netzwerks. Um den Kontakt zu löschen, wechseln Sie zu Skype oder dem Konto, in dem sich der Kontakt befindet.
 

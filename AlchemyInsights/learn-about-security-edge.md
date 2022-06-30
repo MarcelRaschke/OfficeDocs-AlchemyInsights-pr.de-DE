@@ -3,22 +3,21 @@ title: Informationen über die Sicherheitsfunktionen von Microsoft Edge
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/17/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10978"
 - "9006450"
-ms.openlocfilehash: 0cec0e2f5f7e6bd7dfc998776014bbf678e0d664
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10978"
+ms.date: 06/17/2021
+ms.openlocfilehash: 005713fbc77e365cf88a0ddfa10388d5605b690b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63159799"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66295354"
 ---
 # <a name="learn-about-the-security-features-of-microsoft-edge"></a>Informationen über die Sicherheitsfunktionen von Microsoft Edge
 

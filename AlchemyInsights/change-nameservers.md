@@ -3,22 +3,21 @@ title: Ändern von Namenservern
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "5"
 - "14"
-ms.openlocfilehash: 664fbcb7508e83c7f44b5c0a6c1dac64ee12d913
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "5"
+ms.date: 04/21/2020
+ms.openlocfilehash: d1006cc12ef6425427e78769d5751c093acd520e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63174379"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66370335"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Aktualisieren Ihrer Domänennamenserver, sodass sie auf Microsoft verweisen
 

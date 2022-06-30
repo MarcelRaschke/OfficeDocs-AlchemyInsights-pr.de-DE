@@ -3,22 +3,21 @@ title: Änderungen an Automatisch erweiternden Archiven
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 10/14/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "14097"
 - "3100006"
-ms.openlocfilehash: f547ad5a2695de4d7fbdb25d38d97414190fe79c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "14097"
+ms.date: 10/14/2021
+ms.openlocfilehash: 9d225b5b016302f8654e4b71a0a92855e24c93cf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63162751"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66370047"
 ---
 # <a name="changes-to-auto-expanding-archives"></a>Änderungen an Automatisch erweiternden Archiven
 

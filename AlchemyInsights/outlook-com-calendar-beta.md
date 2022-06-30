@@ -3,24 +3,23 @@ title: 9000198 Outlook.com Kalender Beta
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "1758"
 - "9000198"
-ms.openlocfilehash: ad518726dbcca721e781774e018ef4d25330a553
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1758"
+ms.date: 04/21/2020
+ms.openlocfilehash: 4cfd53b8ace4dc2d6033dd34c61fcd8f64940868
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65718946"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66349455"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Neue Kalendererfahrungen für Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Neue Kalenderoberflächen werden Outlook.com
 
 Der neue Look bringt die besten Designs und Erkenntnisse aus der Mail-Erfahrung in den Kalender.
 

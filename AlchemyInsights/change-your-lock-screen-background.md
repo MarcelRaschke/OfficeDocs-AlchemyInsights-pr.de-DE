@@ -3,25 +3,24 @@ title: Ändern des Hintergrunds des Sperrbildschirms
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: d35bae242b85e8b868465dba2e27e77476b6c6ee
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: d2e112d9ed9142920ade6a3c0345e1978c4832ed
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65734592"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66370191"
 ---
 # <a name="change-your-lock-screen-background"></a>Ändern des Hintergrunds des Sperrbildschirms
 
-- Wechseln Sie zum **Sperrbildschirm "Einstellungen** >  **Personalisierung** > **"**. Oder klicken oder tippen Sie [hier](ms-settings:lockscreen?activationSource=GetHelp).
+- Wechseln Sie zum **Sperrbildschirm** "**Einstellungen** > **für die Personalisierung** > ". Oder klicken oder tippen Sie [hier](ms-settings:lockscreen?activationSource=GetHelp).
 
 - Wenn Sie ein benutzerdefiniertes Hintergrundbild festlegen möchten, wählen Sie in der Dropdownliste "**Hintergrund**" die Option **"Bild**" aus, und wählen Sie das Bild aus, oder **navigieren Sie** zum Bild.
 
