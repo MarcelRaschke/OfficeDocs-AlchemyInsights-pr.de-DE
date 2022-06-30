@@ -1,32 +1,31 @@
 ---
-title: Verbinden zum MSModule-Modul
+title: Herstellen einer Verbindung mit dem MSCommerce-Modul
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: f73779c16b3eda6876b0f3c207dee06f42c39749
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 51dd8ded574fc23e4ed9ad8e24b122e89ca2e9a5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63307697"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66423436"
 ---
-# <a name="connect-to-the-mscommerce-module"></a>Verbinden zum MSModule-Modul
+# <a name="connect-to-the-mscommerce-module"></a>Herstellen einer Verbindung mit dem MSCommerce-Modul
 
-Sie müssen mit dem MSPolicy-Modul verbunden sein, bevor Sie die AllowSelfServicePurchase-Richtlinie anzeigen oder festlegen können.  
+Sie müssen mit dem MSCommerce-Modul verbunden sein, bevor Sie die AllowSelfServicePurchase-Richtlinie anzeigen oder festlegen können.  
 
-Um eine Verbindung mit dem MSModule herzustellen, geben Sie an der PowerShell-Eingabeaufforderung (PS C:\)) den folgenden Befehl ein:
+Um eine Verbindung mit dem MSCommerce-Modul herzustellen, geben Sie an der PowerShell-Eingabeaufforderung (PS C:\)) den folgenden Befehl ein:
 
 `Connect-MSCommerce`
 
 Dadurch wird ein Anmeldedialogfeld geöffnet. Geben Sie Ihren Benutzernamen und Ihr Kennwort für die Anmeldung ein.
 
-**HINWEIS:**&nbsp;&nbsp; Das Konto, das für die Anmeldung verwendet wird, muss ein Unternehmen oder ein Abrechnungsadministrator sein.
+**HINWEIS:**&nbsp;&nbsp; Das Konto, das für die Anmeldung verwendet wird, muss ein Unternehmens- oder Abrechnungsadministrator sein.
