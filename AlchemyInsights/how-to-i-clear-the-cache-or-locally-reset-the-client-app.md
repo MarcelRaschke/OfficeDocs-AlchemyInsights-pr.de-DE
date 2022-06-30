@@ -1,28 +1,27 @@
 ---
-title: Wie kann ich den Cache löschen oder den Client/die App lokal zurücksetzen/aktualisieren?
+title: Gewusst wie den Cache löschen oder client/app lokal zurücksetzen/aktualisieren?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "3060"
 - "9001099"
-ms.openlocfilehash: 61f66139ebbbbb2b777d99cae30f8149ba86b524
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "3060"
+ms.openlocfilehash: 76ae2b1e242be6d4c7be8f23093d14a97cf6afb2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63225825"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66406336"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Wie kann ich den Cache löschen oder den Client/die App lokal zurücksetzen/aktualisieren?
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Gewusst wie den Cache löschen oder client/app lokal zurücksetzen/aktualisieren?
 
 Wenn unvollständige oder falsche Daten angezeigt werden, versuchen Sie, das Schließen zu erzwingen und die App erneut zu öffnen.  
 
-Wenn dies nicht funktioniert, können Sie versuchen, das Konto auf dem Gerät zurückzusetzen.
+Wenn das nicht funktioniert, können Sie versuchen, das Konto auf dem Gerät zurückzusetzen.
  
-Öffnen Sie die App, wechseln Sie zu **Einstellungen**, wählen Sie das E-Mail-Konto aus, und wählen Sie **"Konto zurücksetzen" aus**.
+Öffnen Sie die App, wechseln **Sie zu "Einstellungen"**, wählen Sie das E-Mail-Konto und dann **"Konto zurücksetzen"** aus.

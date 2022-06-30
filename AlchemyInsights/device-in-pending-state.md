@@ -3,27 +3,26 @@ title: Gerät im Status "Ausstehend"
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: ba2bafa760a3f911fc7e5dafef561d4414be0b41
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 37fb1089632615cae04515482f5f5bdcaf2f575d
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723810"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66519141"
 ---
 # <a name="device-in-pending-state"></a>Gerät im Status "Ausstehend"
 
 **Voraussetzungen:**
 
-1. Wenn Sie Geräteregistrierungen zum ersten Mal einrichten, stellen Sie sicher, dass Sie die [Einführung in die Geräteverwaltung in Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) überprüft haben, die Sie dazu führt, wie Sie Geräte unter die Kontrolle von Azure AD bringen.
+1. Wenn Sie Geräteregistrierungen zum ersten Mal einrichten, stellen Sie sicher, dass Sie die [Einführung in die Geräteverwaltung in Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) überprüft haben, die Sie beim Abrufen von Geräten unter die Kontrolle von Azure AD führt.
 2. Wenn Sie Geräte direkt bei Azure AD registrieren und bei Intune registrieren, müssen Sie sicherstellen, dass Sie [Intune konfiguriert](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) haben und zuerst über die [Lizenzierung](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) verfügen.
 3. Stellen Sie sicher, dass Sie berechtigt sind, Vorgänge in Azure AD und lokalen AD auszuführen. Nur ein globaler Administrator in Azure AD kann Einstellungen für Geräteregistrierungen verwalten. Wenn Sie außerdem automatische Registrierungen in Ihrem lokalen Active Directory einrichten, müssen Sie außerdem Administrator von Active Directory und (sofern zutreffend) AD FS sein.
 
@@ -48,7 +47,7 @@ Hier ist eine Aufschlüsselung, was während des Registrierungsprozesses geschie
 
 3. Windows 10 generiert ein selbstsigniertes Zertifikat und speichert es unter dem Computerobjekt in lokales Active Directory. Dies erfordert eine Sichtweite zum Domänencontroller.
 
-4. Geräteobjekt mit Zertifikat wird über Azure AD Verbinden mit Azure AD synchronisiert. Der Synchronisierungszyklus erfolgt standardmäßig alle 30 Minuten, hängt jedoch von der Konfiguration der Azure AD-Verbinden ab. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
+4. Geräteobjekt mit Zertifikat wird über Azure AD Connect mit Azure AD synchronisiert. Der Synchronisierungszyklus erfolgt standardmäßig alle 30 Minuten, hängt jedoch von der Konfiguration von Azure AD Connect ab. Weitere Informationen finden Sie in diesem [Dokument](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
 
 5. In dieser Phase sollten Sie das Betreffgerät im Status "**Ausstehend**" unter dem Geräteblatt des Azure-Portals sehen können.
 
@@ -59,4 +58,4 @@ Hier ist eine Aufschlüsselung, was während des Registrierungsprozesses geschie
     Stellen Sie lokal eine `dsregcmd /join` Administratoraufforderung oder remote über PSExec auf Ihren PC aus.\
     Beispiel: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
-Häufig auftretende Probleme bei Azure Active Directory Geräteregistrierung finden Sie unter [Häufig gestellte Fragen zu Geräten](https://docs.microsoft.com/azure/active-directory/devices/faq).
+Allgemeine Probleme bei der Azure Active Directory-Geräteregistrierung finden Sie unter [Häufig gestellte Fragen zu Geräten](https://docs.microsoft.com/azure/active-directory/devices/faq).

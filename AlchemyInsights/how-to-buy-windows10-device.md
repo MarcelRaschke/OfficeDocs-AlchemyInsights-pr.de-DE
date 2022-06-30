@@ -3,22 +3,21 @@ title: Wie Sie ein neues Windows 10-Gerät kaufen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/29/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10101"
 - "9005711"
-ms.openlocfilehash: 27fad2bc0be1afe71d0f6129b1cb2fde390c98bd
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "10101"
+ms.date: 03/29/2021
+ms.openlocfilehash: fb0994936b7f808d37db9bdcd2be99b5ad14b46a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65716847"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66406552"
 ---
 # <a name="how-to-buy-a-new-windows-10-device"></a>Wie Sie ein neues Windows 10-Gerät kaufen
 

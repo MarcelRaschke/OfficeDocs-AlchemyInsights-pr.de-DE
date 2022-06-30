@@ -3,21 +3,20 @@ title: Rolle "Moderner Commercebenutzer"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 2db924f88c54004ec1bbd5d8115d8ea7e82ab3b2
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: f4efee7032b38c139ffdc67c1a3a4d7ec91c56fd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66009629"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66387777"
 ---
 # <a name="modern-commerce-user-role"></a>Rolle "Moderner Commercebenutzer"
 

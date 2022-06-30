@@ -3,22 +3,21 @@ title: Probleme mit Links und URLs
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7720"
 - "9004329"
-ms.openlocfilehash: dbfd815c113f1826dba8879dbdca8f9733934f95
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7720"
+ms.date: 02/25/2021
+ms.openlocfilehash: 7005ae8d1848e630295cc889842ff52619a4c15a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63256114"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66404392"
 ---
 # <a name="issues-with-links-and-urls"></a>Probleme mit Links und URLs
 

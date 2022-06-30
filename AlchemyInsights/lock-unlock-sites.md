@@ -3,22 +3,21 @@ title: Sperren und Entsperren von Websites
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/01/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11509"
 - "9000292"
-ms.openlocfilehash: 6317951885ed899130c1b1d10b14a090f1e737c5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11509"
+ms.date: 06/01/2021
+ms.openlocfilehash: 9d8b36f7a06a02134eed6e1c210b1b846183e946
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63089902"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66433399"
 ---
 # <a name="lock-and-unlock-sites"></a>Sperren und Entsperren von Websites
 

@@ -3,22 +3,21 @@ title: Verwalten von Add-Ins beim Lesen einer Nachricht
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/16/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "5890"
 - "9003117"
-ms.openlocfilehash: 8eb796b4e343623d6925ae98f2b155ce26220bf4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "5890"
+ms.date: 07/16/2020
+ms.openlocfilehash: 763b263c475391fc5235f5d33ec83ad6540cc71f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63307013"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66406228"
 ---
 # <a name="how-to-manage-add-ins-while-reading-a-message"></a>Verwalten von Add-Ins beim Lesen einer Nachricht
 

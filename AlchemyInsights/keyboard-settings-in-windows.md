@@ -3,28 +3,27 @@ title: 'Tastatureinstellungen in Windows 10 '
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: ecacb1dfe340a05c7c73da104956b22ead6a9bec
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 1b6fca15dda2793047f0d515a517f2ef7645c56b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63170995"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66433615"
 ---
 # <a name="keyboard-settings-in-windows-10"></a>Tastatureinstellungen in Windows 10
 
 **Typeinstellungen**
 
-Wenn Sie Windows Einstellungen in Bezug auf Rechtschreibprüfung, Autokorrektur, Vorschläge und andere Aspekte Ihrer Hardware- und Bildschirmtastatur ändern möchten, wechseln Sie zu **Einstellungen > Geräte > Eingabe**. 
+Um Windows-Einstellungen im Zusammenhang mit Rechtschreibprüfung, Autokorrektur, Vorschlägen und anderen Aspekten Ihrer Hardware und Bildschirmtastatur zu ändern, wechseln Sie zu **Einstellungen > Geräte > Eingabe**. 
 
 **Sprach- und Tastatureinstellungen**
 
-Um Einstellungen zu ändern, die sich auf die Tastatur oder Eingabemethode beziehen, die für eine Windows Sprache verwendet werden soll, wechseln Sie zu **Einstellungen > Time & Language > Language**. Wählen Sie Sprachen in der Liste der **bevorzugten Sprachen** aus, und klicken Sie auf **Optionen** zum Hinzufügen/Entfernen von Tastaturen oder Eingabemethoden (IMEs).
+Um Einstellungen zu ändern, die sich auf die Tastatur oder Eingabemethode beziehen, die für eine Windows-Sprache verwendet werden soll, wechseln Sie zu **Einstellungen > Uhrzeit & Sprache > Sprache**. Wählen Sie in der Liste **"Bevorzugte Sprachen** " Sprachen aus, und klicken Sie auf **"Optionen** ", um Tastaturen oder Eingabemethoden (IMEs) hinzuzufügen/zu entfernen.

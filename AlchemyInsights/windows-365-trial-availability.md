@@ -3,22 +3,21 @@ title: Verfügbarkeit der Windows 365-Testversion
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/4/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12621"
 - "9002620"
-ms.openlocfilehash: f56b2c6785f4eeac3b3c63d8cace75ce4aa25016
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "12621"
+ms.date: 08/4/2021
+ms.openlocfilehash: d8ad956b6d6a4a2962ec7ca9aaf0163998798272
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63280277"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66522966"
 ---
 # <a name="windows-365-trial-availability"></a>Verfügbarkeit der Windows 365-Testversion
 

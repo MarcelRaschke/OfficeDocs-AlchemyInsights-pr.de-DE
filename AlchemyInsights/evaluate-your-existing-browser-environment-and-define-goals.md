@@ -3,22 +3,21 @@ title: Beurteilen der bestehenden Browserumgebung und Definieren von Zielen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/08/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9141"
 - "9005291"
-ms.openlocfilehash: 6d968c8e64fa9636294bb17e99c8dcf4ed9ffd8a
-ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
+- "9141"
+ms.date: 03/08/2021
+ms.openlocfilehash: 90f32224f4709adb283c2baff7a178f3c506cc26
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65550989"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66391143"
 ---
 # <a name="evaluate-your-existing-browser-environment-and-define-goals"></a>Beurteilen der bestehenden Browserumgebung und Definieren von Zielen
 

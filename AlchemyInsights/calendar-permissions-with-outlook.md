@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: 3c4ede8bf37a8b3c6cb1d83dc34a05b813ae85a5
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 647800ac897a96552105a754f95b00a550bc20a5
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66415894"
+ms.locfileid: "66540170"
 ---
 # <a name="calendar-permissions"></a>Kalenderberechtigungen
 
@@ -35,7 +35,7 @@ Weitere Informationen finden Sie in den folgenden Themen:
 
 Kalenderberechtigungen werden bei der Freigabe von Kalendern verwendet. Weitere Informationen zum Freigeben eines Outlook-Kalenders finden Sie in den folgenden Artikeln:
 
-- [Freigeben eines Outlook-Kalenders für andere Personen](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [Freigeben Ihres Kalenders in Outlook im Web for Business](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Freigeben eines Outlook-Kalenders für andere Personen](https://support.microsoft.com/office/share-an-outlook-calendar-with-other-people-353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [Freigeben Ihres Kalenders in Outlook im Web for Business](https://support.microsoft.com/office/share-your-calendar-in-outlook-on-the-web-7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
 Um Probleme mit Kalenderberechtigungen zu beheben, können Sie das [Tool "Support- und Wiederherstellungs-Assistent"](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) verwenden.

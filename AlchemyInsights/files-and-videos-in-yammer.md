@@ -3,22 +3,21 @@ title: Dateien und Videos in Yammer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/15/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6040"
 - "9003112"
-ms.openlocfilehash: 8a9bd9457aa87dbb2ee403abb88054d3beae4478
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6040"
+ms.date: 07/15/2020
+ms.openlocfilehash: 57b1a5a4012fcc5ba0313c84bf502a107d5783f5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63185360"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66390999"
 ---
 # <a name="files-and-videos-in-yammer"></a>Dateien und Videos in Yammer
 

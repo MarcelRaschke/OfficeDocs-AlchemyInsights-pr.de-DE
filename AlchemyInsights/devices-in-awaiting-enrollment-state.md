@@ -3,21 +3,20 @@ title: Geräte befinden sich im Status "Registrierung warten".
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: cec34bd13cfd48957bf16fa74673cd89983e132b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: a400051330857292b4afcdcb47c694091b5069ce
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65729404"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66519165"
 ---
 # <a name="devices-are-in-awaiting-enrollment-state"></a>Geräte befinden sich im Status "Auf Registrierung warten".
 
