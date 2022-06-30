@@ -3,7 +3,7 @@ title: Erwerben eines Domänennamens in Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,12 @@ ms.localizationpriority: high
 ms.custom:
 - "9002245"
 - "4349"
-ms.assetid: ''
-ms.openlocfilehash: 3d0e38d21d030d190846475b38b303fdc01ac1c5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a9bd7c0af91dc47aaf28b0c4c6c1d2851910a68a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63208400"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66343641"
 ---
 # <a name="buy-a-domain-name-in-microsoft-365"></a>Erwerben eines Domänennamens in Microsoft 365
 

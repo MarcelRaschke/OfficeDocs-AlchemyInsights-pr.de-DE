@@ -3,21 +3,20 @@ title: Ändern des Kontonamens in Windows 10
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9005297"
 - "9913"
-ms.openlocfilehash: 3ae7019b9672ecfa3751fdd91efbc9796dc1ae48
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f36aa9d5a4689025a78ce769c4b141c69d9dd72b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63174631"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66343425"
 ---
 # <a name="change-account-name-in-windows-10"></a>Ändern des Kontonamens in Windows 10
 
