@@ -9,15 +9,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "7599"
 - "1300007"
-ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 68faabcf670cc1ca636fd29a21a1bf20d87276d0
-ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
+- "7599"
+ms.openlocfilehash: 5188cbd1043e1ff32f6024a9d3bf7c2ec5be2675
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65591490"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66353595"
 ---
 # <a name="configure-mfa"></a>MFA konfigurieren
 

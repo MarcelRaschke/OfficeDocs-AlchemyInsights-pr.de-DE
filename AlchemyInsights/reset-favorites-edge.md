@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
 ms.custom:
+- "9007099"
 - "9006474"
 - "17052"
-- "9007099"
 - "11937"
 ms.date: 03/31/2022
-ms.openlocfilehash: 9f82a76dd9af423feb300b2a48d885396060dbb1
-ms.sourcegitcommit: 01c1bc49e5972cd4a4aec6426774d9ff0ec99ae1
+ms.openlocfilehash: 8b0a55fc0b8a92df2cc211c55cf8d7f14514d5d4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64592447"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66281350"
 ---
 # <a name="reset-favorites-in-microsoft-edge"></a>Favoriten in Microsoft Edge zurücksetzen
 

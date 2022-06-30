@@ -3,21 +3,20 @@ title: Port-Order-Anfrage
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4554"
-ms.openlocfilehash: 64b55fd881774e7df4f075834bb8c8f73a106c77
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: f6a7e4b613b80a595066a3e90cd7d8de72bbf487
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65726884"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66281386"
 ---
 # <a name="port-order-request"></a>Port-Order-Anfrage
 

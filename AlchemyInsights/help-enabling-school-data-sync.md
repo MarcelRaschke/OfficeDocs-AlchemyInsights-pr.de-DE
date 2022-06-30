@@ -3,21 +3,20 @@ title: Unterstützung bei der Bereitstellung von School Data Sync
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001732"
 - "3834"
-ms.openlocfilehash: f5fecbc6c7186fba0bb038ed21b86f435f13f540
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 587d42f53d5a3f743607fac5818f4564352a3ad2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63246869"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66353498"
 ---
 # <a name="help-enabling-school-data-sync"></a>Unterstützung bei der Bereitstellung von School Data Sync
 

@@ -3,20 +3,20 @@ title: Verwenden von JavaScript in WebView2
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/22/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
-- "12051"
 - "9007100"
-ms.openlocfilehash: 860946cb5559a4eed70fb43a3eca871226c04543
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "12051"
+ms.date: 07/22/2021
+ms.openlocfilehash: 6c17c5987db4d04b9ae74b0fd1fe872ed24dc877
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65728972"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66352335"
 ---
 # <a name="use-javascript-in-webview2"></a>Verwenden von JavaScript in WebView2
 

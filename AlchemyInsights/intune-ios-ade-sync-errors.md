@@ -8,16 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: 48dce941ff5d2ba66cc7321de7e1506cff752722
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 08672beca2903db425c4d1bba3fd91a62d71e0c9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65725477"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66375375"
 ---
 # <a name="apple-automatic-device-enrollment-sync-errors"></a>Synchronisierungsfehler bei der automatischen Geräteregistrierung von Apple
 
@@ -39,7 +38,7 @@ Wenn eines oder mehrere Ihrer Token abgelaufen sind, lesen Sie die folgende Doku
 
 Darüber hinaus sehen Sie die folgende Dokumentation, um mögliche Korrekturen für andere Fehler anzuzeigen, die Tokensynchronisierungsfehler verursachen:
 
-[ABM/ASM-Synchronisierungsfehler für iOS/iPadOS und macOS automatisierte Geräteregistrierungstoken](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
+[ABM/ASM-Synchronisierungsfehler für iOS/iPadOS- und macOS-Automatische Geräteregistrierungstoken](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
 
 
 
@@ -47,4 +46,4 @@ Darüber hinaus sehen Sie die folgende Dokumentation, um mögliche Korrekturen f
 
 
 
-[ABM/ASM-Synchronisierungsfehler für iOS/iPadOS und macOS automatisierte Geräteregistrierungstoken](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
+[ABM/ASM-Synchronisierungsfehler für iOS/iPadOS- und macOS-Automatische Geräteregistrierungstoken](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)

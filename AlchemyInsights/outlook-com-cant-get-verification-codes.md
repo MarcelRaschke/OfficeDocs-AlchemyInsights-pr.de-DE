@@ -1,23 +1,23 @@
 ---
-title: Outlook.com kann keine Überprüfungscodes erhalten
+title: Outlook.com können keine Überprüfungscodes empfangen.
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ms.custom:
-- "1005"
-- "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fc43fff91b9ebef60d588e842e8411ec4572228
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.custom:
+- "8000060"
+- "1005"
+ms.date: 04/21/2020
+ms.openlocfilehash: 3dad10f3c9df4f1f506f3c3496add90d543693cc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65718838"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66307719"
 ---
 # <a name="cant-get-verification-codes"></a>Überprüfungscodes können nicht abgerufen werden.
 

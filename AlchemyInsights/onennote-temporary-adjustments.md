@@ -3,21 +3,20 @@ title: Temporäre Anpassungen in OneNote
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4508"
-ms.openlocfilehash: f7cd596e1be768b7179ed468076868e0d5478d8d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 11b938ba1086f4ff2a58de36b6135013bf48b8c7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63295563"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66307899"
 ---
 # <a name="onenote-temporary-adjustments"></a>Temporäre Anpassungen in OneNote
 

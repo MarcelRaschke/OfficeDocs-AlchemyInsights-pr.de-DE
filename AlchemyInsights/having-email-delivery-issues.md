@@ -3,19 +3,18 @@ title: Haben Sie Probleme bei der E-Mail-Übermittlung?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: cab78cdb209fde17241c05dac1d7f5e7db21b8a4
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.date: 04/21/2020
+ms.openlocfilehash: 20866e7c7b4a94d1a550240f0abbd2dde4eb42ff
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66003478"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66353811"
 ---
 # <a name="having-email-delivery-issues"></a>Haben Sie Probleme bei der E-Mail-Übermittlung?
 

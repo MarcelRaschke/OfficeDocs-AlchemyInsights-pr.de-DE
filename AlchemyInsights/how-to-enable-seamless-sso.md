@@ -3,36 +3,34 @@ title: So aktivieren Sie nahtloses SSO
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "628"
 - "1300012"
-ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 2f94758fddaf243cfa48470bd408ad7ef15f47af
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "628"
+ms.openlocfilehash: 8fb0b6bb9f11be51b8f3bbd07aebe92b34812b78
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63275813"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66353501"
 ---
 # <a name="how-to-enable-seamless-sso"></a>So aktivieren Sie nahtloses SSO
 
-Ermöglichen Sie nahtloses SSO über [Azure AD Verbinden](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Aktivieren Sie nahtloses SSO über [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Wenn Sie eine Neuinstallation von Azure AD Verbinden durchführen, wählen Sie den [benutzerdefinierten Installationspfad](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom) aus. Wählen Sie **auf der Benutzeranmeldungsseite** die Option **"Einmaliges Anmelden aktivieren"** aus.
+Wenn Sie eine Neuinstallation von Azure AD Connect durchführen, wählen Sie den [benutzerdefinierten Installationspfad](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom) aus. Wählen Sie auf der Seite **"Benutzeranmeldung** " die Option **"Einmaliges Anmelden aktivieren** " aus.
   
-So stellen Sie sicher, dass Sie nahtloses SSO richtig aktiviert haben:
+So überprüfen Sie, ob Sie nahtloses SSO ordnungsgemäß aktiviert haben:
   
-1. Melden Sie sich beim [Azure Active Directory Administrative Center](https://aad.portal.azure.com) als globaler Administrator an.
+1. Melden Sie sich beim [Azure Active Directory Admin Center](https://aad.portal.azure.com) als globaler Administrator an.
 
 2. Wählen Sie auf der linken Seite die Option **Azure Active Directory**.
 
 3. Stellen Sie sicher, dass das nahtlose einmalige Anmelden **aktiviert** ist.
 
-Weitere Informationen finden Sie [unter Azure Active Directory nahtloses einmaliges Anmelden: Schnellstart](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Weitere Informationen finden Sie [unter Azure Active Directory Seamless Single Sign-On: Schnellstart](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   

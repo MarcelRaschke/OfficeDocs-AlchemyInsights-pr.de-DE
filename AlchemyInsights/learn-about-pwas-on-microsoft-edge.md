@@ -3,22 +3,21 @@ title: Erfahren Sie mehr über die Progressive Web Apps (PWAs) auf Microsoft Edg
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/17/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8223"
 - "9004596"
-ms.openlocfilehash: 2d74dfb687d63dc6cfed11b057d052f97cf7e04e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8223"
+ms.date: 03/17/2021
+ms.openlocfilehash: c6a083c67cf9139eb9708c3b9287fca9a0ff918f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63159835"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66352371"
 ---
 # <a name="learn-about-the-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Erfahren Sie mehr über die Progressive Web Apps (PWAs) auf Microsoft Edge (Chromium)
 

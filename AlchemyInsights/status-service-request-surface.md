@@ -3,22 +3,21 @@ title: Überprüfen des Status einer Serviceauftragsanfrage für Surface oder Xb
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9752"
 - "9005678"
-ms.openlocfilehash: f0d4a5b635a0cdffa66ba934c30b297aaed106e8
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9752"
+ms.date: 03/16/2021
+ms.openlocfilehash: 96cbcf0a90f30e425d0828332247c850a8dd94d7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63261953"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66383457"
 ---
 # <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Überprüfen des Status einer Serviceauftragsanfrage für Surface oder Xbox
 
