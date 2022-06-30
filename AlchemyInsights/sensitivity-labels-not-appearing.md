@@ -3,27 +3,27 @@ title: Vertraulichkeitsbezeichnungen werden nicht angezeigt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: admin
+audience: admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1778"
 - "9000181"
-ms.openlocfilehash: aca6ea19ade4a7741f34bc2ab84e73826323d8a8
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1778"
+ms.date: 04/21/2020
+ms.openlocfilehash: d1e416ba0991294d2638e59c544bb772b04ed247
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65732323"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66384645"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Vertraulichkeitsbezeichnungen werden nicht angezeigt
 
 Vertraulichkeitsbezeichnungen ermöglichen Es Ihnen, Ihre vertraulichen Inhalte zu klassifizieren und zu schützen. Sie können im Microsoft Purview-Complianceportal, Microsoft 365 Security Center oder Microsoft 365 Security & Compliance Center unter Klassifizierung > Vertraulichkeitsbezeichnungen erstellt werden. Weitere Informationen zu diesem Feature finden Sie [unter Übersicht über Vertraulichkeitsbezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Wenn Sie Ihre Vertraulichkeitsbezeichnungen konfiguriert haben, diese aber nicht in den Microsoft 365-Apps angezeigt werden, überprüfen Sie Folgendes:
+Wenn Sie Ihre Vertraulichkeitsbezeichnungen konfiguriert haben, diese aber in den Microsoft 365-Apps nicht angezeigt werden, überprüfen Sie Folgendes:
 
 - Vergewissern Sie sich, dass die Vertraulichkeitsbezeichnung für die gewünschten Benutzer und Gruppen [veröffentlicht](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) wurde.
 

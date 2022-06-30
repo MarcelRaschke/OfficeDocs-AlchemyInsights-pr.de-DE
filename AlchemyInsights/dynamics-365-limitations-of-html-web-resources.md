@@ -3,20 +3,20 @@ title: Dynamics 365 Form XML Schema
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1473"
 - "6200020"
-ms.openlocfilehash: 35cdf2a48a9a15ef512d731336d2fcc0f9e1bf7d
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1473"
+ms.openlocfilehash: fcdfc495c8e4e2ea599d0bb45c06f49387595325
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65729332"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66341433"
 ---
 # <a name="webpage-html-web-resources-limitations"></a>Einschränkungen für Webseitenwebressourcen (HTML)
 

@@ -3,22 +3,21 @@ title: Klassische Seiten im SharePoint Admin Center einstellen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/13/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6165"
 - "9001459"
-ms.openlocfilehash: 038a05b00feb8478d77004c478f54169ce6f40e1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6165"
+ms.date: 08/13/2020
+ms.openlocfilehash: 16df4dd888f2474d62bac97835a7867a4eacafe9
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63199616"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66384717"
 ---
 # <a name="retire-classic-pages-in-sharepoint-admin-center"></a>Klassische Seiten im SharePoint Admin Center einstellen
 

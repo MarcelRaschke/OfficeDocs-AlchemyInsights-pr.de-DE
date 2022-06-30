@@ -3,22 +3,21 @@ title: Anpassen des Portals „Meine Apps“
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/20/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7773"
 - "9004350"
-ms.openlocfilehash: 7643074fd761f0e7c32b6cc1d5fc267b5fba9b66
-ms.sourcegitcommit: f3903d6919d46a31a38edef25d9717a6d005bb15
+- "7773"
+ms.date: 01/20/2021
+ms.openlocfilehash: 4d7b6b6dc9a3dd2663ee6c4559130ff359ad4ad2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65395320"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66341517"
 ---
 # <a name="customize-myapps-portal"></a>Anpassen des Portals „Meine Apps“
 
