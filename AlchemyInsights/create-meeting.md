@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "9000736"
 - "2678"
-ms.openlocfilehash: 96cd9d568d9521e3059892d0cc80bfb62852c6d7
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 678703953253325fd4d3e88c749d678d654340f6
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66342057"
+ms.locfileid: "66539283"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Planen einer Besprechung in Teams
 
@@ -32,7 +32,7 @@ ms.locfileid: "66342057"
 
 3. Auf der rechten Seite des Planungsformulars können Sie einen Kanal oder einzelne Personen hinzufügen oder beide leer lassen, um einen privaten Termin zu planen.
 
-Weitere Informationen zum Erstellen und Planen von Besprechungen in Microsoft Teams finden [Sie unter Planen einer Besprechung in Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+Weitere Informationen zum Erstellen und Planen von Besprechungen in Microsoft Teams finden [Sie unter Planen einer Besprechung in Teams](https://support.microsoft.com/office/schedule-a-meeting-in-teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
 
 Weitere Informationen zu Grenzwerten und Spezifikationen für Besprechungen finden Sie unter [Grenzwerte und Spezifikationen für Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
 

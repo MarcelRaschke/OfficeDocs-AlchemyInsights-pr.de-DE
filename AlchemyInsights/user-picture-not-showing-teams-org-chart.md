@@ -3,22 +3,21 @@ title: Benutzerbild wird im Microsoft Teams-Organigramm nicht angezeigt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/23/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12620"
 - "9007457"
-ms.openlocfilehash: 27195c6eb88d7e155ed97a888ff3d564ec0c1543
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+- "12620"
+ms.date: 08/23/2021
+ms.openlocfilehash: 2e5bfceb400a3bf56a0a4bfcaa972129b0008ebc
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66004661"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66527952"
 ---
 # <a name="user-picture-not-showing-in-microsoft-teams-organization-chart"></a>Benutzerbild wird im Microsoft Teams-Organigramm nicht angezeigt
 

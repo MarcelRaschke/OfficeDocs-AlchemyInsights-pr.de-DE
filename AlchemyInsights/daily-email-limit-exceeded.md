@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: a251e97fbcf2ec509aba12de91b82dcc16e36c9f
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: b460d558f572b137eb6be240798dc509bb3a9f13
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66325119"
+ms.locfileid: "66539162"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Das tägliche E-Mail-Limit wurde überschritten. Der Workflow wird angehalten.
 
@@ -33,5 +33,5 @@ Um dieses Problem zu umgehen, konfigurieren Sie Ihren Workflow so, dass E-Mail-N
 Weitere Informationen finden Sie im folgenden [Artikel](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
 
 ## <a name="related-topics"></a>Verwandte Themen
-- [Fluss erstellen](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [Fluss erstellen](https://support.microsoft.com/office/create-a-flow-for-a-list-or-library-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint und Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
