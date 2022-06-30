@@ -3,22 +3,21 @@ title: Ändern Ihrer Microsoft 365-Adresse
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/04/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11543"
 - "9001671"
-ms.openlocfilehash: 24dd0c1d6fcf3f0d876b7f098b3829f44c40664b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "11543"
+ms.date: 06/04/2021
+ms.openlocfilehash: 652c6f240a51e0456101244eafc1f15477e09ef8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65724504"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66273304"
 ---
 # <a name="change-your-microsoft-365-address"></a>Ändern Ihrer Microsoft 365-Adresse
 

@@ -3,21 +3,20 @@ title: Erstellen einer Organisationsbeziehung, um es Ihren Benutzern zu ermögli
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: e50f962452a8742c12df8bd5485fa5e5048cf190
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 777ba301948078018839a6a108b2db70ebb086ce
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66005656"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66378885"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Erstellen einer Organisationsbeziehung, um es Ihren Benutzern zu ermöglichen, mit einer anderen Organisation zusammenzuarbeiten
 

@@ -3,22 +3,21 @@ title: Probleme beim Verwenden der Intune-Verwaltungskonsole
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/29/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1790"
 - "9000214"
-ms.openlocfilehash: be34fa2eec6b5da373be54da9ad54674dcc84ddb
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1790"
+ms.date: 07/29/2020
+ms.openlocfilehash: 0019d8258ec63302f824dbc98e5c2f845291d1ef
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63245285"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66386841"
 ---
 # <a name="problems-using-the-intune-admin-console"></a>Probleme beim Verwenden der Intune-Verwaltungskonsole
 

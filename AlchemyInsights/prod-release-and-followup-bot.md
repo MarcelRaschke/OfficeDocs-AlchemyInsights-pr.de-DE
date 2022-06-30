@@ -3,22 +3,21 @@ title: 'Azure Apps V1.2 – Phase 7: Produktfreigabe und Nachverfolgung – Bot'
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/10/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8426"
 - "9004648"
-ms.openlocfilehash: 98cca194634a342ee91640ce510fe45acb92f8e4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8426"
+ms.date: 03/10/2021
+ms.openlocfilehash: 18eb8cd42d3da9335acd52aded5feca702bdef0d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63233691"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66386733"
 ---
 # <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Azure Apps V1.2 – Phase 7: Produktfreigabe und Nachverfolgung – Bot
 

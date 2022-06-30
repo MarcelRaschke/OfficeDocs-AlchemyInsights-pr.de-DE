@@ -1,26 +1,24 @@
 ---
-title: Zugriff auf öffentliche Ordner von mobilen Geräten
+title: Zugriff auf öffentliche Ordner von mobilen Geräten aus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
-ms.assetid: 5943ac36-e093-4813-95c9-f9d9b35f2b32
-ms.openlocfilehash: 2fac4db8bc7cd164ff285abea184a7cf3fef2b1b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 25201e663e9cd9ebf7f23dd466267ea1d6043d0b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63252809"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66386265"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a>Zugriff auf öffentliche Ordner von mobilen Geräten
+# <a name="public-folder-access-from-mobile-devices"></a>Zugriff auf öffentliche Ordner von mobilen Geräten aus
 
 Auf öffentliche Ordner kann auf mobilen Geräten nicht zugegriffen werden.
   
-Wenn Sie ähnliche Funktionen wie öffentliche Ordner wünschen und von mobilen Geräten darauf zugreifen möchten, finden [Sie unter Informationen zu Microsoft 365 Gruppen](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) eine bessere Alternative.
+Wenn Sie ähnliche Funktionen wie öffentliche Ordner haben und von mobilen Geräten darauf zugreifen möchten, finden [Sie unter "Weitere Informationen zu Microsoft 365-Gruppen](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)" eine bessere Alternative.
   

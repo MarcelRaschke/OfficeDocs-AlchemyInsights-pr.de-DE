@@ -3,21 +3,20 @@ title: Sofortige Zahlung
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7285"
-ms.openlocfilehash: 69fc351dcdb9625db939bf563edc4cb82a9c26e3
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 0483222d4608a18a121376239eeaa1c7215ccfa5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65735573"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66296245"
 ---
 # <a name="make-an-immediate-payment"></a>Sofortige Zahlung
 
