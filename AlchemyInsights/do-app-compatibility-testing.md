@@ -3,22 +3,21 @@ title: Durchführen von App-Kompatibilitätstests
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/08/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9138"
 - "9005291"
-ms.openlocfilehash: fea1d0050a931dbe888f5f4731a18076c4f2d8bc
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9138"
+ms.date: 03/08/2021
+ms.openlocfilehash: 88f20aad676eded81b146db4a4b87c752cda7bea
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65734520"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66525612"
 ---
 # <a name="do-app-compatibility-testing"></a>Durchführen von App-Kompatibilitätstests
 

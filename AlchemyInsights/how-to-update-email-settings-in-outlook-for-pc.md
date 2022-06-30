@@ -1,10 +1,9 @@
 ---
-title: Aktualisieren von E-Mail-Einstellungen in Outlook für PCs
+title: Aktualisieren von E-Mail-Einstellungen in Outlook für PC
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/07/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +11,28 @@ ms.localizationpriority: medium
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: 602ad87af7086276609056bea0012ed675564c87
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 12/07/2020
+ms.openlocfilehash: f39a880a37fee0c8efada2fa66ce337b4af1667b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63236607"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66406012"
 ---
-# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Aktualisieren von E-Mail-Einstellungen in Outlook für PCs
+# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Aktualisieren von E-Mail-Einstellungen in Outlook für PC
 
-1. Öffnen Sie Outlook, und wählen Sie **"Datei > Konto Einstellungen > Konto Einstellungen**" aus.
+1. Öffnen Sie Outlook, und wählen Sie **"> Kontoeinstellungen > Kontoeinstellungen**" aus.
 
-2. Wählen Sie das E-Mail-Konto aus, das Sie ändern möchten, und klicken Sie dann auf **"Ändern**". 
+2. Wählen Sie das E-Mail-Konto aus, das Sie ändern möchten, und klicken Sie dann auf **"Ändern"**. 
 
-3. Aktualisieren Sie auf der **Einstellungen** Seite Ihre Namen für eingehende und ausgehende Server, Ihre E-Mail-Adresse, Ihren Namen, Ihren Benutzernamen und Ihr Kennwort nach Bedarf. Wenn Sie Ihre SSL-Einstellungen oder Porteinstellungen ändern müssen, klicken Sie auf **Weitere Einstellungen**. Die am häufigsten zu aktualisierenden Einstellungen befinden sich auf der Registerkarte " **Ausgehender Server** " und auf der Registerkarte **"Erweitert** ".
+3. Aktualisieren Sie auf der Seite **"Einstellungen** " nach Bedarf Ihre Namen für ein- und ausgehende Server, Ihre E-Mail-Adresse, Ihren Namen, Ihren Benutzernamen und Ihr Kennwort. Wenn Sie Ihre SSL-Einstellungen oder Porteinstellungen ändern müssen, klicken Sie auf **"Weitere Einstellungen"**. Die am häufigsten zu aktualisierenden Einstellungen befinden sich auf der Registerkarte " **Postausgangsserver** " und auf der Registerkarte " **Erweitert** ".
 
-4. Wenn Beim Senden von E-Mails Probleme auftreten oder Nachrichten über Ihren ausgehenden Server empfangen werden, stellen Sie sicher, dass das Kontrollkästchen " **Meine ausgehenden Server (SMTP) die Authentifizierung erfordert** " aktiviert ist.
+4. Wenn Sie Probleme beim Senden von E-Mails oder beim Empfangen von Nachrichten über Ihren Postausgangsserver haben, stellen Sie sicher, dass das Kontrollkästchen **"Mein Postausgangsserver (SMTP) erfordert Authentifizierung** " aktiviert ist.
 
-5. Wenn Sie Ihre ein- oder ausgehenden Serverports oder SSL-Einstellungen aktualisieren müssen, wechseln Sie zur Registerkarte **"Erweitert** ", und nehmen Sie die gewünschten Änderungen vor.
+5. Wenn Sie Ihre Posteingangs- oder Postausgangsserverports oder SSL-Einstellungen aktualisieren müssen, wechseln Sie zur Registerkarte **"Erweitert** ", und nehmen Sie die gewünschten Änderungen vor.
 
-    **Hinweis**: **Für AOL- und Verizon-Kunden**: Wenn Sie **SSL/TLS** im Dropdownfeld unter **"Verschlüsselte Verbindungen für eingehende und ausgehende Server"** auswählen, wird sichergestellt, dass Sie auch nach dem 7. November 2017 weiterhin E-Mails senden und empfangen können.
+    **Hinweis**: **Für AOL- und Verizon-Kunden**: Wenn Sie **SSL/TLS** aus dem Dropdownfeld unter **"Verschlüsselte Verbindungen mit eingehendem und ausgehendem Server** " auswählen, wird sichergestellt, dass Sie nach dem 7. November 2017 weiterhin E-Mails senden und empfangen können.
 
-6. Wenn Sie die Aktualisierung Ihrer Einstellungen abgeschlossen haben, klicken Sie auf **"OK**", klicken Sie auf **"Weiter**" und dann auf **"Fertig stellen**".
+6. Wenn Sie die Aktualisierung Ihrer Einstellungen abgeschlossen haben, klicken Sie auf **"OK**", dann auf **"Weiter**" und dann auf " **Fertig stellen**".
 
 

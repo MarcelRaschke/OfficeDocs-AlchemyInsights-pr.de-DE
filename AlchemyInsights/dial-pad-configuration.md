@@ -3,21 +3,20 @@ title: Konfiguration der Teams-Wähltastatur
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000719"
 - "6438"
-ms.openlocfilehash: d802124c3ec21d7b16f83d83346c1e7a8151ef20
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 3ddaab33e0fdc81596e3ad14c7d78e8bab8f3b96
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63248813"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66518922"
 ---
 # <a name="teams-dial-pad-configuration"></a>Konfiguration der Teams-Wähltastatur
 

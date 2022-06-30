@@ -1,25 +1,24 @@
 ---
-title: Aktualisieren der Steuer-/Umsatzsteuer-ID
+title: Steuer-/USt-ID aktualisieren
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/09/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7323"
-ms.openlocfilehash: fe4e16af7637dd02fdea5ddfdc6f2c7722189632
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 12/09/2020
+ms.openlocfilehash: 3a7b01408a1aac528083fff77dede14442a071b9
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63303149"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66518856"
 ---
-# <a name="update-taxvat-id"></a>Aktualisieren der Steuer-/Umsatzsteuer-ID
+# <a name="update-taxvat-id"></a>Steuer-/USt-ID aktualisieren
 
-Wenn Sie Probleme im Zusammenhang mit Ihrer STEUER-/Umsatzsteuer-ID haben, wenden Sie sich an Ihren Microsoft Licensing Partner (Partner oder Software Advisor). Sie wenden sich an das Regional Operations Center (OA), um Fragen zu Ihrer STEUER-/Umsatzsteuer-ID zu erhalten. 
+Wenn Sie Probleme im Zusammenhang mit Ihrer STEUER-/USt-ID haben, wenden Sie sich an Ihren Microsoft-Lizenzierungspartner (Partner oder Softwareberater). Sie wenden sich an das Regionale Operations Center (ROC) für Fragen zu Ihrer STEUER-/UST-ID. 

@@ -3,22 +3,21 @@ title: Probleme bei der Entwicklung von Anwendungen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7754"
 - "9004342"
-ms.openlocfilehash: b211752ea678bf27ecb3b37c0f75600f04a63131
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7754"
+ms.date: 01/25/2021
+ms.openlocfilehash: 91bed409b771101420d848667fd9f7e6a8d3ff3c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63159979"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66404824"
 ---
 # <a name="issues-developing-applications"></a>Probleme bei der Entwicklung von Anwendungen
 

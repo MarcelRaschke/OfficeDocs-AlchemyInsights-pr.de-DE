@@ -3,21 +3,20 @@ title: Mehr Erreichen mit Multitasking in Windows 10
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002958"
 - "5660"
-ms.openlocfilehash: a23103de8ad5b7edd320d10338bc9333050d069b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: fdb9e9308d871afb5021fca3361aaf138643a88d
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63278225"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66525648"
 ---
 # <a name="do-more-with-multitasking-in-windows-10"></a>Mehr Erreichen mit Multitasking in Windows 10
 

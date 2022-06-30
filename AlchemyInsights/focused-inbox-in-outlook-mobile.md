@@ -3,22 +3,21 @@ title: 1800019 Posteingang mit Relevanz in Outlook Mobile
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "910"
 - "1800019"
-ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: a5285217a49297604127309c340aef4caff6c960
-ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
+- "910"
+ms.date: 04/21/2020
+ms.openlocfilehash: 8c619706f3646391628d18996cab53457e2d9db2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65551673"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66390315"
 ---
 # <a name="focused-inbox-for-outlook-mobile"></a>Posteingang mit Relevanz für Outlook Mobile
 
@@ -32,5 +31,5 @@ ms.locfileid: "65551673"
   
 [Gewusst wie zwischen "Relevant" und "Sonstige" umschalten?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-Weitere Informationen: [In-App-Hilfe für Outlook für iOS und Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
+Weitere Informationen: [Abrufen von In-App-Hilfe für Outlook für iOS und Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   

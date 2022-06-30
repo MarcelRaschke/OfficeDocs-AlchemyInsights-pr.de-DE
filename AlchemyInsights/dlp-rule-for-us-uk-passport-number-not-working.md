@@ -3,22 +3,21 @@ title: DLP-Regel für US/UK Passport Number funktioniert nicht
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1319"
 - "3200001"
-ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: dcbe56d3065d5e78e0c546affcb2d00b91dc90ce
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1319"
+ms.date: 04/21/2020
+ms.openlocfilehash: 794d7f54f77cbc53915cbb3e3ac8183ac842f915
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722352"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66525698"
 ---
 # <a name="problems-with-dlp---usuk-passport-numbers"></a>Probleme mit DLP – US/UK-Reisepassnummern
 
