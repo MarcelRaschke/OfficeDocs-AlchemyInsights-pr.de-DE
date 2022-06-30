@@ -8,17 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "13808"
 - "9000738"
+- "13808"
 ms.date: 03/30/2022
-ms.openlocfilehash: 8cab1be2d81f633fffc33164cc846f43f1ba03d1
-ms.sourcegitcommit: dbe6e3cf593a237700fc2b7c1fb917712def61b9
+ms.openlocfilehash: b2f4c0d6c434aad787f10978efc6316f174a722e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64570948"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66422302"
 ---
 # <a name="delete-chat-messages"></a>Chatnachrichten löschen
 

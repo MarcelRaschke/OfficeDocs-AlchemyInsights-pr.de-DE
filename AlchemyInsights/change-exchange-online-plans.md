@@ -4,23 +4,22 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 - "9002450"
 - "4766"
 ms.date: 08/10/2021
-ms.openlocfilehash: 50d16846a5eba2d65bc832dbd7cded44e2b0a384
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 2d22a5602efc1902da32ae56736379503ce72414
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66004481"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66328341"
 ---
 # <a name="change-exchange-online-plans"></a>Ändern der Exchange Online-Pläne
 

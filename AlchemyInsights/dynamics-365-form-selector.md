@@ -3,21 +3,21 @@ title: Dynamics 365-Formularauswahl
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1469"
 - "6200014"
-ms.openlocfilehash: c60ae9c75d250733ca5427f51be8906f7eec0d94
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1469"
+ms.openlocfilehash: e9f85b009230b7850387607891af896c91641987
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63173083"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66422097"
 ---
 # <a name="dynamics-365-form-selector"></a>Dynamics 365-Formularauswahl
 
-* [Erläuterung der Formularzugriffssteuerung](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [Formular Access Control Erläutert](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)

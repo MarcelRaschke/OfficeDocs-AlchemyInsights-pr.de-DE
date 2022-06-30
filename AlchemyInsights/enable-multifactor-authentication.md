@@ -3,8 +3,7 @@ title: Aktivieren der mehrstufigen Authentifizierung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ms.localizationpriority: medium
@@ -16,13 +15,13 @@ search.appverid:
 - MED150
 - MOP150
 - MBS150
-ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 21cb2281280389251393326dc06b719a336b840f
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.date: 04/21/2020
+ms.openlocfilehash: db0ae6286c5650547730898e1cb5e03ae1cd676e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66004409"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66421978"
 ---
 # <a name="enable-multi-factor-authentication"></a>Aktivieren der mehrstufigen Authentifizierung
 
@@ -38,6 +37,6 @@ So aktivieren Sie die mehrstufige Authentifizierung in der Microsoft 365 Admin C
     
 5.  Wählen Sie im rechten Benutzerinformationsbereich unter **"Schnelle Schritte**" die Option **"Aktivieren"** aus. 
     
-6. Wählen Sie im daraufhin geöffneten Dialogfeld " **Mehrstufige Authentifizierung aktivieren**" aus. 
+6. Wählen Sie im sich öffnenden Dialogfeld **Multi-Factor Auth** aktivieren aus. 
     
 

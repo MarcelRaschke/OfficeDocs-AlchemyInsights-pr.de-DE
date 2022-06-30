@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
 - commerce_billing
+- "1500025"
 - "469"
 - "4552"
-- "1500025"
 ms.date: 05/24/2022
-ms.openlocfilehash: a765225350ccc9a2a77d7c9f6a4b03b8643861fb
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: dda14d61151986a1bddbd3f54378802459ebe30d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66004445"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66328305"
 ---
 # <a name="change-how-often-you-pay"></a>Ändern, wie oft Sie bezahlen
 

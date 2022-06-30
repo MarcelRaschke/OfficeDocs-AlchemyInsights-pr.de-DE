@@ -4,23 +4,22 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jamitche, jmueller
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - commerce_billing
 - "9002612"
 - "10967"
 ms.date: 04/16/2021
-ms.openlocfilehash: c9c978ce395be26c867568662ab1c19ed682b9f3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 73b945ade96a472dfd9bf968a7b6001e44557cb2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63154651"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66328449"
 ---
 # <a name="change-from-credit-card-or-bank-account-payments-to-invoice"></a>Wechsel der Zahlungsmethode von Kreditkarten- oder Bankkontozahlungen zur Rechnung
 

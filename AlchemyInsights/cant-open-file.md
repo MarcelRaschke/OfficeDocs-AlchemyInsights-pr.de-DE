@@ -3,24 +3,23 @@ title: Datei kann nicht geöffnet werden
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9006403"
 - "13987"
-ms.openlocfilehash: 108caf545374ddac312ec2a0291fd54565e40e4c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: af2b5d9e4fb206fc132938fc629cb5a4f1d00179
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63250001"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66328485"
 ---
 # <a name="cant-open-file"></a>Datei kann nicht geöffnet werden
 
-Manchmal können Sie Schwierigkeiten haben, Office Dateien und Dokumente von SharePoint oder OneDrive for Business in Ihren lokalen Office-Clients zu öffnen. 
+Manchmal haben Sie möglicherweise Schwierigkeiten beim Öffnen von Office-Dateien und -Dokumenten aus SharePoint oder OneDrive for Business in Ihren lokalen Office-Clients. 
 
-Informationen zur Problembehandlung finden Sie unter [Can't open Office files from SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files).
+Informationen zur Problembehandlung finden [Sie unter "Office-Dateien können nicht aus SharePoint Online geöffnet](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files) werden".

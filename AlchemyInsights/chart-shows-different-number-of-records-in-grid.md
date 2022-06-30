@@ -3,22 +3,21 @@ title: Diagramm mit einer unterschiedlichen Anzahl von Datensätzen im Raster
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "5611"
 - "9002930"
-ms.openlocfilehash: 641cc6564ed305ac336db307a02f5b625be9e71f
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "5611"
+ms.date: 07/24/2020
+ms.openlocfilehash: 3c5bacbd228d0ada22101f329befda6db3d5d65e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65717027"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66327812"
 ---
 # <a name="chart-shows-different-number-of-records-in-grid"></a>Diagramm mit einer unterschiedlichen Anzahl von Datensätzen im Raster
 

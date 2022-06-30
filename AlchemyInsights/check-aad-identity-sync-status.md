@@ -3,23 +3,21 @@ title: Überprüfen des AAD-Identitätssynchronisierungsstatus
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "304"
 - "1300008"
-ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 2b5c90e3383978fe6d642bf26e7903921eeb955a
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+- "304"
+ms.date: 04/21/2020
+ms.openlocfilehash: 630eefffa842bcaaa044e92c0925edf6af6eee37
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66002205"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66327873"
 ---
 # <a name="check-aad-identity-sync-status"></a>Überprüfen des AAD-Identitätssynchronisierungsstatus
 

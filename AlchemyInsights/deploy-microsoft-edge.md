@@ -3,24 +3,23 @@ title: Bereitstellen von Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/08/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9139"
-- "11088"
 - "9005291"
 - "9006490"
-ms.openlocfilehash: 210d6fb5ebb95db69aed57497bc0d7ce03b4c864
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9139"
+- "11088"
+ms.date: 03/08/2021
+ms.openlocfilehash: 47e2ba311b04a17fe3f25a43c7e04b16b506c734
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63173371"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66422194"
 ---
 # <a name="deploy-microsoft-edge"></a>Bereitstellen von Microsoft Edge
 

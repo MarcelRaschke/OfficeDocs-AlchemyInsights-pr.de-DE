@@ -3,22 +3,21 @@ title: Upgrade auf TeamsOnly kann nicht abgeschlossen werden
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/17/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7556"
 - "9004252"
-ms.openlocfilehash: a1d683a407f2ebe247014f491057ed77d2baef90
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7556"
+ms.date: 01/17/2021
+ms.openlocfilehash: 5279c46780137e905d405ae72898b32186aa54b0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63207969"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66328569"
 ---
 # <a name="cannot-complete-upgrade-to-teamsonly"></a>Upgrade auf TeamsOnly kann nicht abgeschlossen werden
 
