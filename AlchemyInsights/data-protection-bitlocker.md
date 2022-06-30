@@ -3,53 +3,52 @@ title: DataProtection – Bitlocker
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "1802"
 - "9000220"
-ms.openlocfilehash: 0b5ca78821068bbf85f1e1749ee6ce935ff58dfc
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1802"
+ms.openlocfilehash: 514f94a96fc2207db0ada5408d6d382671951bb1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63185936"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66435640"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Aktivieren der Bitlocker-Verschlüsselung mit Intune
 
-Intune Endpoint Protection-Richtlinie kann verwendet werden, um BitLocker-Verschlüsselungseinstellungen für Windows-Geräte zu konfigurieren. Weitere Informationen finden Sie unter [Windows 10 -Einstellungen (und höher), um Geräte mit Intune zu schützen](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+Intune Endpoint Protection-Richtlinie kann verwendet werden, um Bitlocker-Verschlüsselungseinstellungen für Windows-Geräte zu konfigurieren. Weitere Informationen finden Sie [unter Windows 10 (und höher) Einstellungen zum Schutz von Geräten mit Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
 
-Zusätzlich zur Endpunktschutzrichtlinie gibt es auch einen Verschlüsselungsbericht, der eine detailliertere Ansicht des Verschlüsselungsstatus für Geräte bereitstellt. Auf diesen Bericht kann über das MEM-Portal unter **"Geräte > Monitor**" zugegriffen werden, und dann unter **"Konfiguration** wählen [Verschlüsselungsbericht" aus](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+Zusätzlich zur Endpoint Protection-Richtlinie gibt es auch einen Verschlüsselungsbericht, der eine detailliertere Ansicht des Verschlüsselungsstatus für Geräte bietet. Auf diesen Bericht kann über das MEM-Portal unter **"Geräte > Überwachen**" zugegriffen werden, und dann unter **"Konfiguration** " wählen Sie " [Verschlüsselungsbericht](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)" aus.
 
-Wenn Sie feststellen, dass Bitlocker nicht wie erwartet aktiviert werden kann oder dass sich das Profil, das zum Aktivieren von BitLocker verwendet wird, in einem Fehlerzustand befindet, lesen Sie den Verschlüsselungsbericht, um ein besseres Verständnis des Verhaltens zu erhalten.
+Wenn Sie feststellen, dass Bitlocker nicht wie erwartet aktiviert werden kann oder sich das zum Aktivieren von Bitlocker verwendete Profil in einem Fehlerzustand befindet, lesen Sie den Verschlüsselungsbericht, um besser zu verstehen, warum das Verhalten auftritt.
 
-Ausführliche Informationen zur Interpretation des Berichts einschließlich der verschiedenen Verschlüsselungsstatuswerte finden Sie unter [Überwachen der Geräteverschlüsselung mit Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+Ausführliche Informationen zum Interpretieren des Berichts, einschließlich der verschiedenen Verschlüsselungsstatuswerte, finden Sie unter ["Geräteverschlüsselung mit Intune überwachen](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)".
 
-Beachten Sie, dass viele neuere Geräte unter Windows 10 die automatische Bitlocker-Verschlüsselung unterstützen, die ohne die Anwendung der MDM-Richtlinie ausgelöst wird. Dies kann sich auf die Anwendung von Richtlinien auswirken, wenn nicht standardmäßige Einstellungen konfiguriert sind. Weitere Informationen finden Sie in den folgenden häufig gestellten Fragen.
+Sie sollten beachten, dass viele neuere Geräte, auf denen Windows 10 ausgeführt werden, die automatische Bitlocker-Verschlüsselung unterstützen, die ohne anwendung der MDM-Richtlinie ausgelöst wird. Dies kann sich auf die Anwendung der Richtlinie auswirken, wenn nicht standardmäßige Einstellungen konfiguriert sind. Weitere Informationen finden Sie in den folgenden häufig gestellten Fragen(FAQ).
 
-Informationen zur Problembehandlung von BitLocker-Problemen finden Sie unter [Problembehandlung für BitLocker-Richtlinien in Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
+Informationen zur Problembehandlung bei Bitlocker-Problemen finden Sie [unter Problembehandlung für BitLocker-Richtlinien in Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
 **Häufig gestellte Fragen**
 
 F: Welche Editionen von Windows unterstützen die Geräteverschlüsselung mithilfe der Endpoint Protection-Richtlinie?<br>
-A: Die Einstellungen in der Intune Endpoint Protection-Richtlinie werden mithilfe des [Bitlocker-CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) implementiert. Nicht alle Editionen oder Builds von Windows unterstützen den Bitlocker-CSP. <br><br>
+Antwort: Die Einstellungen in Intune Endpoint Protection-Richtlinie werden mithilfe des [Bitlocker-CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) implementiert. Nicht alle Editionen oder Builds von Windows unterstützen den Bitlocker-CSP. <br><br>
 
-F: Wie kann BitLocker auf Geräten ohne Endbenutzerinteraktion aktiviert werden?<br>
-Antwort: Solange die erforderlichen Voraussetzungen erfüllt sind, ist es möglich, bitlocker "Automatische Verschlüsselung" über Intune zu aktivieren. Details zu den Geräteanforderungen und Beispielrichtlinieneinstellungen zum Aktivieren der automatischen Verschlüsselung finden Sie im folgenden Dokument: [Automatisches Aktivieren der Bitlocker-Verschlüsselung](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+F: Wie kann Bitlocker auf Geräten aktiviert werden, ohne dass eine Endbenutzerinteraktion erforderlich ist?<br>
+Antwort: Solange die erforderlichen Voraussetzungen erfüllt sind, ist es möglich, Bitlocker "Silent Encryption" über Intune zu aktivieren. Details zu den Geräteanforderungen und Beispielrichtlinieneinstellungen zum Aktivieren der automatischen Verschlüsselung finden Sie im folgenden Dokument: [Automatisches Aktivieren der Bitlocker-Verschlüsselung](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
 
-F: Wenn ein Gerät bereits mit Bitlocker verschlüsselt ist, indem die Standardeinstellungen des Betriebssystems für verschlüsselungsmethode und Verschlüsselungsstärke (XTS-AES-128) verwendet werden, löst das Anwenden einer Richtlinie mit anderen Einstellungen automatisch die erneute Verschlüsselung des Laufwerks mit den neuen Einstellungen aus?<br>
+F: Wenn ein Gerät bereits mit Bitlocker verschlüsselt ist und die Standardeinstellungen des Betriebssystems für verschlüsselungsmethode und Verschlüsselungsstärke (XTS-AES-128) verwendet wird, löst das Anwenden einer Richtlinie mit anderen Einstellungen automatisch eine erneute Verschlüsselung des Laufwerks mit den neuen Einstellungen aus?<br>
 A: Nein. Um die neuen Verschlüsselungseinstellungen anzuwenden, muss das Laufwerk zuerst entschlüsselt werden.<br><br>
-**Hinweis:** Bei Geräten, die bei Autopilot registriert sind, wird die automatische Verschlüsselung, die während der Windows-Willkommensseite auftreten würde, erst ausgelöst, wenn die Intune-Richtlinie ausgewertet wird, sodass die richtlinienbasierten Einstellungen anstelle der Standardeinstellungen des Betriebssystems verwendet werden können.
+**Hinweis:** Bei Geräten, die bei Autopilot registriert werden, wird die automatische Verschlüsselung, die während der Windows-Willkommensseite auftreten würde, erst ausgelöst, wenn Intune Richtlinie ausgewertet wird, wodurch die richtlinienbasierten Einstellungen anstelle der Betriebssystemstandards verwendet werden können.
  
-F: Wenn ein Gerät aufgrund der Anwendung der Intune-Richtlinie verschlüsselt ist, wird es entschlüsselt, wenn diese Richtlinie entfernt wird?<br>
-A: Das Entfernen verschlüsselungsbezogener Richtlinien führt NICHT zur Entschlüsselung der konfigurierten Laufwerke.
+F: Wenn ein Gerät aufgrund der Anwendung Intune Richtlinie verschlüsselt wird, wird es entschlüsselt, wenn diese Richtlinie entfernt wird?<br>
+A: Das Entfernen der verschlüsselungsbezogenen Richtlinie führt NICHT zur Entschlüsselung der konfigurierten Laufwerke.
  
-F: Warum zeigt die Intune-Compliancerichtlinie, dass bitlocker auf meinem Gerät nicht aktiviert ist, obwohl dies der Typ ist?<br>
-A: Die Einstellung "Bitlocker aktiviert" in der Intune-Compliancerichtlinie verwendet den Windows Device Health Attestation (DHA)-Client. Dieser Client misst nur den Gerätestatus beim Start. Wenn ein Gerät also seit Abschluss der Bitlocker-Verschlüsselung nicht neu gestartet wurde, meldet der DHA-Clientdienst Bitlocker nicht als aktiv.
+F: Warum zeigt Intune Compliancerichtlinie an, dass auf meinem Gerät Bitlocker nicht aktiviert ist, obwohl dies der Grund ist?<br>
+A: Die Einstellung "Bitlocker aktiviert" in der Intune Compliancerichtlinie verwendet den Windows Device Health Attestation (DHA)-Client. Dieser Client misst nur den Gerätestatus zum Startzeitpunkt. Wenn also ein Gerät seit Abschluss der Bitlocker-Verschlüsselung nicht neu gestartet wurde, meldet der DHA-Clientdienst Bitlocker nicht als aktiv.
  
  

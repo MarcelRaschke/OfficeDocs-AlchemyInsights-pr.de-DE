@@ -3,22 +3,21 @@ title: Festlegen von Feldwerten mit an ein Formular übergebenen Parametern – 
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1927"
 - "9000307"
-ms.openlocfilehash: 402e9bec42effe095742c9a0b731760d12578169
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1927"
+ms.date: 07/27/2020
+ms.openlocfilehash: e02511c3ed5ce93f80294d26a5feaad92e73e582
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65730738"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66398595"
 ---
 # <a name="set-field-values-using-parameters-passed-to-a-form---lookup-fields"></a>Festlegen von Feldwerten mit an ein Formular übergebenen Parametern – Nachschlagefelder
 

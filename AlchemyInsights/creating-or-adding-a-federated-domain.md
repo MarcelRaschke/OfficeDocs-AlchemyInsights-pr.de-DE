@@ -3,22 +3,21 @@ title: Erstellen oder Hinzufügen einer Verbunddomäne
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/06/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6160"
 - "9003238"
-ms.openlocfilehash: b33a4c25eb3c387b22091ce543eba5359dbc40b7
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6160"
+ms.date: 08/06/2020
+ms.openlocfilehash: 69a9c615ef770a6fd1858c59c6e8417b8c0e7227
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63239561"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66435784"
 ---
 # <a name="creating-or-adding-a-federated-domain"></a>Erstellen oder Hinzufügen einer Verbunddomäne
 

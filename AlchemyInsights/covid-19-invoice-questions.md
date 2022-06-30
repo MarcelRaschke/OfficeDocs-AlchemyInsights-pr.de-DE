@@ -3,21 +3,20 @@ title: COVID-19 Fragen zur Rechnung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "1500005"
 - "5110"
-ms.openlocfilehash: 08bb89dc1bdc34208d63c77f853817e539292718
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 262ca0e4d35856f170cd84100e41523eb465a251
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65726704"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66435856"
 ---
 # <a name="covid-19-invoice-questions"></a>COVID-19 Fragen zur Rechnung
 
