@@ -3,22 +3,21 @@ title: Verwenden der Microsoft Intune-Sicherheitsgrundsätze zum Konfigurieren v
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/10/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8371"
 - "9004622"
-ms.openlocfilehash: 4a0b53e08f9652593b73335736300b25113d5466
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "8371"
+ms.date: 03/10/2021
+ms.openlocfilehash: 5a8c37559198c07e19273e3ebf05158c0ffa8055
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65725837"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66524104"
 ---
 # <a name="use-the-microsoft-intune-security-baselines-for-configuring-windows-10-devices"></a>Verwenden der Microsoft Intune-Sicherheitsgrundsätze zum Konfigurieren von Windows 10-Geräten
 

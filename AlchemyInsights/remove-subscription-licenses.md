@@ -3,22 +3,21 @@ title: Entfernen von Lizenzen aus Ihrem Abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "17508"
 - "1500007"
+- "17508"
 ms.date: 06/06/2022
-ms.openlocfilehash: 8e241a37685645eaf92ddb1d6a7de3bbb1e8f2f7
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 6aaaa6119be82c8c47647f95144ee85bc9f41604
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66010545"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66524263"
 ---
 # <a name="remove-licenses-from-your-subscription"></a>Entfernen von Lizenzen aus Ihrem Abonnement
 

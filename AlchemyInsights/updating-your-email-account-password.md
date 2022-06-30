@@ -3,27 +3,26 @@ title: Aktualisieren des Kennworts ihres E-Mail-Kontos
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9001098"
 - "3059"
-ms.openlocfilehash: 09d3dc5e42a885f59aba45147be90e8ca218c2c5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: aa3904a9947a83e673c152af97c4eb45dd69224b
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63229461"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66524103"
 ---
 # <a name="updating-your-email-account-password"></a>Aktualisieren des Kennworts ihres E-Mail-Kontos
 
 Wenn Sie Ihr Kennwort ändern, sollten Sie von unserer App aufgefordert werden, Ihr neuestes Kennwort einzugeben.
 
-Sie können die Kennwörter für Ihre jeweiligen Konten an den Jeweiligen Anbieterstandorten ändern:
+Sie können die Kennwörter für Ihre jeweiligen Konten an ihren Anbieterstandorten ändern:
 
 - [Icloud](https://support.apple.com/HT201487)
 
@@ -35,6 +34,6 @@ Sie können die Kennwörter für Ihre jeweiligen Konten an den Jeweiligen Anbiet
 
 - [Gmail](https://support.google.com/mail/answer/41078?co=GENIE.Platform%3DDesktop&hl=en)
 
-- Exchange: Sie müssen sich an Ihren IT-Administrator wenden.
+- Exchange: Sie müssen sich an Ihre IT-Admin wenden.
 
 - IMAP: Ihr IMAP-Anbieter hat möglicherweise einen Link auf seiner Seite, oder Sie müssen sich an Ihren IMAP-Anbieter wenden.
