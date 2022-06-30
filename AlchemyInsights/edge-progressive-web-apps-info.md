@@ -1,25 +1,24 @@
 ---
-title: Erfahren Sie mehr über Progressive Web-Apps (PWAs) auf Microsoft Edge (Chromium)
+title: Erfahren Sie mehr über Progressive Web-Apps (PWAs) in Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 6176e9f99224adadd5235672ee030052d6390af8
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 6c20c4e846f597604ff936963834cd1a54fcaa3b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721473"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66435460"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Erfahren Sie mehr über Progressive Web-Apps (PWAs) auf Microsoft Edge (Chromium)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Erfahren Sie mehr über Progressive Web-Apps (PWAs) in Microsoft Edge (Chromium)
 
 PWAs sind Websites, die schrittweise so erweitert werden, dass sie wie native Apps auf Plattformen funktionieren, die sie unterstützen. PWAs kombinieren die besten Eigenschaften von Web- und nativen Apps.
 

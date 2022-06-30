@@ -3,22 +3,21 @@ title: Leeren des Ordners "Gelöschte Elemente" in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 0b787a0874787b050f857e583d03f24dcbe5dbfe
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 04/21/2020
+ms.openlocfilehash: b166ce9a3a67a7156bfd5c0ed1804fae67121a19
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65724864"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66307350"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Leeren des Ordners "Gelöschte Elemente"
 

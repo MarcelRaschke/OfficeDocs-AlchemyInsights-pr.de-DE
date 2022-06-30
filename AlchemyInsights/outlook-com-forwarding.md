@@ -1,23 +1,23 @@
 ---
-title: 9000239 Outlook.com-Weiterleitung
+title: 9000239 Outlook.com Weiterleitung
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1824"
 - "9000239"
-ms.openlocfilehash: f90a45cd103497e3f9106caaf0ffda226f7fad3f
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1824"
+ms.date: 04/21/2020
+ms.openlocfilehash: 205150bd3eedfe58c1d0b6f7b6a1e52c48467d2f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65697115"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66307248"
 ---
 # <a name="forwarding-email-in-outlookcom"></a>Weiterleiten von E-Mails in Outlook.com
 

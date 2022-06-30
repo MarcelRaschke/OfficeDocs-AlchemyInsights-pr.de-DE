@@ -3,22 +3,21 @@ title: 'Fehler: Problem beim Überprüfen des Lizenzstatus des Geräts.'
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9810"
 - "9005394"
-ms.openlocfilehash: 4e56f2986239fa6df42a004ef75f8e69cbdf9541
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 03/16/2021
+ms.openlocfilehash: a0342f8490fed4b5a048097a5682c204ba74124b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63193388"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66435244"
 ---
 # <a name="error-there-was-a-problem-checking-this-devices-license-status"></a>Fehler: Problem beim Überprüfen des Lizenzstatus des Geräts.
 
