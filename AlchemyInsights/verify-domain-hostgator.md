@@ -3,25 +3,24 @@ title: Überprüfen Ihrer Domäne mit Hostgator
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 1a54ecd17aecb66a3e22387a439d737689e86c87
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: eb5c4f100a8c2a304bf7c062fdb90c5699d21d77
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63228849"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66508998"
 ---
 # <a name="verify-your-domain-with-hostgator"></a>Überprüfen Ihrer Domäne mit Hostgator
 
-Um Ihre Domäne zu überprüfen, müssen Sie Ihrer Domänenregistrierungsstelle einen TXT-Eintrag hinzufügen, um zu überprüfen, ob Sie Ihre Domäne besitzen. 
+Um Ihre Domäne zu überprüfen, müssen Sie Ihrer Domänenregistrierungsstelle einen TXT-Eintrag hinzufügen, um zu überprüfen, ob Sie der Besitzer Ihrer Domäne sind. 
 
-Folgen Sie zuerst dem [Assistenten zum Hinzufügen von Domänen](https://admin.microsoft.com/Adminportal#/Domains), indem Sie **Einstellungen** \> **Domänen** auswählen und dann **Domäne hinzufügen**.
+Folgen Sie zuerst dem [Assistenten "Domäne hinzufügen](https://admin.microsoft.com/Adminportal#/Domains)**", indem** Sie **"Domäneneinstellungen"** \> und dann **"Domäne hinzufügen"** auswählen.
   
-Schritt-für-Schritt-Anleitungen finden [Sie unter Erstellen von DNS-Einträgen bei Hostgator für Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator).
+Eine schrittweise Anleitung finden [Sie unter Erstellen von DNS-Einträgen bei Hostgator für Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) .

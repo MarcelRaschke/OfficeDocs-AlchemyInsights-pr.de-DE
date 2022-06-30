@@ -3,22 +3,21 @@ title: Behandeln von Problemen mit OAuth 2.0- und OpenID Connect-Protokollen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/17/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9776"
 - "9004342"
-ms.openlocfilehash: 9dd8353eda3a88331e5a4d7585e848039edd89a6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9776"
+ms.date: 03/17/2021
+ms.openlocfilehash: 120903dcfba95480e1abce61d90df15c6df8341c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63220533"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66371307"
 ---
 # <a name="troubleshoot-oauth-20-and-openid-connect-protocols"></a>Behandeln von Problemen mit OAuth 2.0- und OpenID Connect-Protokollen
 
@@ -29,7 +28,7 @@ Weitere Informationen finden Sie in den folgenden Artikeln zur Konfiguration und
 - [Microsoft Identity Platform und OAuth 2.0 Autorisierungscodeflow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow): In diesem Artikel wird die direkte Programmierung in einer beliebigen Sprache für den **Code-Genehmigungsablauf (PKCE)** in Ihrer Anwendung erläutert.
 - [Microsoft Identity Platform und der OAuth 2.0-Clientanmeldeinformationsfluss](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow): In diesem Artikel wird beschrieben, wie Sie direkt für den **Clientanmeldeinformationsfluss** in Ihrer Anwendung programmieren können.
 - [Microsoft Identity Platform und OAuth 2.0-Anmeldeinformationen des Ressourcenbesitzers (ROPC, Resource Owner Password Credentials)](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth-ropc): In diesem Artikel wird beschrieben, wie Sie direkt für den **ROPC-Ablauf** programmieren können.
-    - Die Microsoft Identity Platform unterstützt nur ROPC für Azure AD-Mandanten und nicht für persönliche Konten. Dies bedeutet, dass Sie einen mandantenspezifischen Endpunkt **(https://login.microsoftonline.com/{TenantId_or_Name})** oder den **Organisations**-Endpunkt verwenden müssen.
+    - Die Microsoft Identity Platform unterstützt nur ROPC für Azure AD-Mandanten und nicht für persönliche Konten. Dies bedeutet, dass Sie einen mandantenspezifischen Endpunkt `**(https://login.microsoftonline.com/{TenantId_or_Name})**` oder den **Organisations**-Endpunkt verwenden müssen.
     - Persönliche Konten, die zu einem Azure AD-Mandanten eingeladen wurden, können kein ROPC verwenden.
     - Konten, die nicht über Kennwörter verfügen, können sich nicht über ROPC anmelden. Für dieses Szenario empfehlen wir, stattdessen einen anderen Ablauf für Ihre App zu verwenden.
     - Wenn Benutzer sich mittels [mehrstufiger Authentifizierung (Multi-Factor Authentication, MFA)](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-howitworks) bei der Anwendung anmelden müssen, werden sie blockiert.
