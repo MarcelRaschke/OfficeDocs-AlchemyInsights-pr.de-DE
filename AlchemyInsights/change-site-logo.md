@@ -12,12 +12,12 @@ ms.custom:
 - "9002502"
 - "4869"
 - "4870"
-ms.openlocfilehash: 01801292f65d66937581d5f838c36573a02c5f2a
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 5017297db0070d611ad3fb1c91d82b89e2fdc1c1
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66358455"
+ms.locfileid: "66538082"
 ---
 # <a name="change-site-logo"></a>Websitelogo ändern
 
@@ -32,5 +32,5 @@ SharePoint Online-Teamwebsites, die mit einer Office 365-Gruppe verbunden sind, 
 
 **Zusätzliche Informationen**
 
-- [Verwalten der Einstellungen Ihrer SharePoint-Website](https://support.office.com/article/manage-your-sharepoint-site-settings-8376034d-d0c7-446e-9178-6ab51c58df42)
+- [Verwalten der Einstellungen Ihrer SharePoint-Website](https://support.microsoft.com/office/change-a-site-s-title-description-logo-and-site-information-settings-8376034d-d0c7-446e-9178-6ab51c58df42)
 - [Website-Logo kann nicht geändert werden](https://docs.microsoft.com/sharepoint/troubleshoot/sites/error-when-changing-o365-site-logo)

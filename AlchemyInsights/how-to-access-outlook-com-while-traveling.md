@@ -12,13 +12,13 @@ ms.custom:
 - "8000056"
 - "921"
 ms.date: 04/21/2020
-ms.openlocfilehash: be9da87c577e894e30ba654b0e055f1bf4982e1a
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: bd481c605dc3ec271234854480b9cf0d4b8f3665
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66322167"
+ms.locfileid: "66538118"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>Zugreifen auf Outlook.com während der Reise
 
-Um auf Outlook.com während der Reise zuzugreifen, stellen Sie sicher, dass Ihre Sicherheitsinformationen für Ihr Microsoft-Konto – eine alternative E-Mail-Adresse oder Telefonnummer, unter der Sie Sicherheitscodes erhalten können – auf dem neuesten Stand sind. Weitere Informationen finden Sie unter [Zugreifen auf Outlook.com auf Reisen](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).
+Um auf Outlook.com während der Reise zuzugreifen, stellen Sie sicher, dass Ihre Sicherheitsinformationen für Ihr Microsoft-Konto – eine alternative E-Mail-Adresse oder Telefonnummer, unter der Sie Sicherheitscodes erhalten können – auf dem neuesten Stand sind. Weitere Informationen finden Sie unter [Zugreifen auf Outlook.com auf Reisen](https://support.microsoft.com/office/how-to-access-outlook-com-when-traveling-c44f16da-7156-4890-853c-286aafeda87e).

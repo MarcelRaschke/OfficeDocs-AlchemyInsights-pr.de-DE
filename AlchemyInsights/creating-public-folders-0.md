@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "3500007"
 - "632"
-ms.openlocfilehash: f2d25d2a613013de7dcb8fd9c314367f74f29cfb
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 85bb10d3cb7bccadacb280f72f4d784ec296e862
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66412559"
+ms.locfileid: "66537794"
 ---
 # <a name="creating-public-folders"></a>Erstellen öffentlicher Ordner
 
@@ -30,5 +30,5 @@ Bevor Ihre Benutzer öffentliche Ordner verwenden können, müssen Sie mindesten
 
 4. Klicken Sie auf **Speichern**.
 
-Nachdem ein Postfach erstellt wurde, können Sie mit dem Erstellen einzelner Ordner beginnen oder Ihre Benutzer anweisen, [mit dem Erstellen und Verwenden öffentlicher Ordner in Outlook zu beginnen](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+Nachdem ein Postfach erstellt wurde, können Sie mit dem Erstellen einzelner Ordner beginnen oder Ihre Benutzer anweisen, [mit dem Erstellen und Verwenden öffentlicher Ordner in Outlook zu beginnen](https://support.microsoft.com/office/create-and-share-a-public-folder-in-outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
   

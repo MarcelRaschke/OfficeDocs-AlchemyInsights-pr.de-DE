@@ -3,21 +3,20 @@ title: Verwenden von PowerShell für Freigaberichtlinien und Organisationsbezieh
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 85cf5f89a66707f088c04e628ae692f9f1dabc25
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: c812cc9487108ea6e2a36f315df1fce06a96828e
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63209300"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66526368"
 ---
 # <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>Verwenden von PowerShell für Freigaberichtlinien und Organisationsbeziehungen
 

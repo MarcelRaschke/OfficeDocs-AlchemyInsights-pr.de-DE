@@ -14,12 +14,12 @@ ms.custom:
 - "737"
 - "2671"
 ms.date: 06/06/2022
-ms.openlocfilehash: d8e4a294543293b5b8fae3d8cd1df15ef75c4ad6
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 9bf5a8a2b2a6dc0f5170174084e45d20499589e1
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66298216"
+ms.locfileid: "66538910"
 ---
 # <a name="enable-and-use-microsoft-teams"></a>Aktivieren und Verwenden von Microsoft Teams
 
@@ -27,4 +27,4 @@ Verwenden Sie den [Microsoft Teams-Einrichtungsleitfaden](https://go.microsoft.c
 
 Wenn Sie bereits über Microsoft Teams verfügen und wissen müssen, wie Sie es konfigurieren und verwalten, lesen [Sie "Verwalten von Microsoft Teams-Einstellungen für Ihre Organisation](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)".
 
-Wenn Sie überhaupt keinen Zugriff auf Microsoft Teams haben, lesen Sie [Gewusst wie Zugriff auf Microsoft Teams zu erhalten](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
+Wenn Sie überhaupt keinen Zugriff auf Microsoft Teams haben, lesen Sie [Gewusst wie Zugriff auf Microsoft Teams zu erhalten](https://support.microsoft.com/office/how-do-i-get-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b).

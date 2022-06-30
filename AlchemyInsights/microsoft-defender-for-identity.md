@@ -3,24 +3,23 @@ title: Microsoft Defender for Identity
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/09/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9007390"
+- "9007399"
 - "12322"
 - "12354"
-- "9007399"
-ms.openlocfilehash: 10b6719291fa4dca6917290b58eec5b648adb0eb
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 07/09/2021
+ms.openlocfilehash: d59faa225e68bb35b56fd738f2aeb2331c6810ed
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65735501"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66403672"
 ---
 # <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
 

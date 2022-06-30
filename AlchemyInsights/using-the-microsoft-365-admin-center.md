@@ -3,21 +3,20 @@ title: Verwenden von Microsoft 365 Admin Center
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002613"
 - "5042"
-ms.openlocfilehash: 38a37dbb774722d3e424bedcbcc73d4f8e778658
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 0a69a5a4bb0d91147b0c5f1982015e54010f3ef1
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66006205"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66526692"
 ---
 # <a name="using-the-microsoft-365-admin-center"></a>Verwenden von Microsoft 365 Admin Center
 

@@ -3,21 +3,20 @@ title: Zugriff auf Microsoft Bookings erhalten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5498"
-ms.openlocfilehash: 004bd065895ea5067c7bb68df376fc60ce478bcb
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 1448200f11908e68fa4da1cca719fe429cedaaeb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66006109"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66407416"
 ---
 # <a name="get-access-to-microsoft-bookings"></a>Zugriff auf Microsoft Bookings erhalten
 

@@ -3,22 +3,21 @@ title: Update auf Office 2019
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1746"
 - "9000140"
-ms.openlocfilehash: e0d8696b23dda9335cbe6db63272c94bd1305986
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1746"
+ms.date: 07/24/2020
+ms.openlocfilehash: 1927d206d48a1b82320494795cdd93e986be17c2
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63082126"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66527413"
 ---
 # <a name="update-to-office-2019"></a>Update auf Office 2019
 

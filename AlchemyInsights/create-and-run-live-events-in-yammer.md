@@ -11,12 +11,12 @@ ms.localizationpriority: high
 ms.custom:
 - "9002495"
 - "4834"
-ms.openlocfilehash: bde7647a6f0ce1b7da0cef6368583e66d979b144
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 3dd12668c482b927a16f81aa78b61e79c9eb96f0
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66355683"
+ms.locfileid: "66538404"
 ---
 # <a name="create-and-run-live-events-in-yammer"></a>Live-Ereignisse in Yammer erstellen und abhalten
 
@@ -30,8 +30,8 @@ Unser [Unterstützungsteam für Live-Veranstaltungen](https://aka.ms/AA87gbh) hi
 
 **Weitere Artikel und Ressourcen**
 
-- [Häufig gestellte Fragen zu Liveereignissen](https://support.office.com/article/43bbd59d-a734-4c8f-923d-6a239d137d34)
-- [Das Engagement bei einem Yammer-Live-Event anfachen](https://support.office.com/article/drive-engagement-in-a-yammer-live-event-c0244ad8-6dcb-419c-add9-2e4a00543412?ui=en-US&rs=en-US&ad=US)
+- [Häufig gestellte Fragen zu Liveereignissen](https://support.microsoft.com/office/classic-yammer-live-event-faq-43bbd59d-a734-4c8f-923d-6a239d137d34)
+- [Das Engagement bei einem Yammer-Live-Event anfachen](https://support.microsoft.com/office/drive-engagement-in-a-classic-yammer-live-event-c0244ad8-6dcb-419c-add9-2e4a00543412)
 - [Yammer und Office 365-Gruppen](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) (eine wichtige Voraussetzung für Live-Ereignisse in Yammer)
 - [Hosten eines Liveereignisses im Yammer-Playbook](https://aka.ms/LiveEventsinYammerplaybook)
 - [Ressourcen und Vorlagen für Ihre Live-Ereignisse](https://aka.ms/LiveEventYammerTemplates)

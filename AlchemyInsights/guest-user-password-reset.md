@@ -3,22 +3,21 @@ title: Kennwortzurücksetzung für Gastbenutzer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/7/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10891"
 - "1100004"
-ms.openlocfilehash: bb45d26076827bc6da4782a25603afd1218b57e6
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+- "10891"
+ms.date: 04/7/2021
+ms.openlocfilehash: 1f5aa73efed9f6e73425bc4a9ea4c9ee5705ee81
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66001277"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66407319"
 ---
 # <a name="guest-user-password-reset"></a>Kennwortzurücksetzung für Gastbenutzer
 

@@ -3,21 +3,20 @@ title: HIPPA-Compliance und Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002430"
 - "4720"
-ms.openlocfilehash: a3c164fe2d76e8b9a38534b43fb679b64b1b3c87
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 1765beaaf4226ac6c469f2e5b8ed7667f1a7b351
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722244"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66406948"
 ---
 # <a name="hippa-compliance-and-office-365"></a>HIPPA-Compliance und Office 365
 

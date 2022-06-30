@@ -3,21 +3,20 @@ title: Ein Konto entsperren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "4863"
-ms.openlocfilehash: d3d5b1ec3014d16e06786f5c212bc6bb07fd0619
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f851c371916db5115fd44445de18a76c4088c10e
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63289241"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66527160"
 ---
 # <a name="windows-enrolment-error-codes"></a>Fehlercodes bei der Windows-Registrierung
 
