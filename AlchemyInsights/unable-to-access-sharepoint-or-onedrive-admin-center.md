@@ -3,21 +3,20 @@ title: Zugriff auf SharePoint oder OneDrive Admin Center nicht möglich
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001459"
 - "5638"
-ms.openlocfilehash: 122a793cec914103f776134be806b453eb6f4bca
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: c3c4dc64568e4c21ffa3b548a61b71db8bc7a9a6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65696935"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66333309"
 ---
 # <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>Zugriff auf SharePoint oder OneDrive Admin Center nicht möglich
 

@@ -3,22 +3,21 @@ title: Deaktivieren des Chats für Kursteilnehmer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/04/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6143"
 - "9003097"
-ms.openlocfilehash: 76b60e43f79debe1f705375c2018a2e284abf356
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6143"
+ms.date: 08/04/2020
+ms.openlocfilehash: 5913ac05f6e7498ec3b4d387e3f0cdfeb2efce54
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63248705"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66511140"
 ---
 # <a name="disable-chat-for-students"></a>Deaktivieren des Chats für Kursteilnehmer
 

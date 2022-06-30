@@ -11,12 +11,12 @@ ms.localizationpriority: high
 ms.custom:
 - "9002635"
 - "5068"
-ms.openlocfilehash: ebf6f83180ebd8fdc9fe791f3e7088f50d958320
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 5e178cd20ae268a6a7e0cc51552252a135fc1466
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66366294"
+ms.locfileid: "66511314"
 ---
 # <a name="mail-flow-transport-rules-in-exchange-online"></a>Nachrichtenflussregeln (Transportregeln) in Exchange Online
 

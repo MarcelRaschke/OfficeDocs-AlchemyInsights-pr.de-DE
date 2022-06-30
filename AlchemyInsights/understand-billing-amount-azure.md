@@ -3,21 +3,20 @@ title: Erklärungen zu Ihrer Rechnung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: fde711329d12515b3ee743272d6ce58447efb759
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: ea823a9fd1a30e0c00a803804f5ddfe265e84278
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65716268"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66333165"
 ---
 # <a name="understand-billing-amount"></a>Informationen zum Abrechnungsbetrag
 

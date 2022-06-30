@@ -3,21 +3,20 @@ title: Deaktivieren oder Aktivieren von Clutter in Outlook
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localizationpriority: high
-ms.collection: Adm_O365
+ms.localizationpriority: hig
 ms.custom:
 - "9002504"
 - "4853"
-ms.openlocfilehash: cb597c85c3ae7f83f9425df780a0581e0ea86220
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
-ms.translationtype: HT
+ms.openlocfilehash: f67cc1cb787c6d8a22cf8e984bbbe29b18655ed0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63290033"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66333525"
 ---
 # <a name="turn-off-or-on-clutter-in-outlook"></a>Deaktivieren oder Aktivieren von Clutter in Outlook
 

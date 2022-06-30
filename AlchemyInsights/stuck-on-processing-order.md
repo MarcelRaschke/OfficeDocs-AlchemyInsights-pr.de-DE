@@ -3,21 +3,20 @@ title: Geht bei der Auftragsverarbeitung nicht weiter
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002358"
 - "4584"
-ms.openlocfilehash: 5488833405d17172d2ecd0dd46b13c99c1bd4cb6
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 189a08f4e299027922b87d49f38324899dafbecd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63210704"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66372423"
 ---
 # <a name="stuck-on-processing-order"></a>Geht bei der Auftragsverarbeitung nicht weiter
 
