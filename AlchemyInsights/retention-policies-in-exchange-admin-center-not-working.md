@@ -3,22 +3,21 @@ title: Aufbewahrungsrichtlinien im Exchange Admin Center funktionieren nicht
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "308"
 - "3100007"
-ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 725e0dbcacab3863a5e006480a18018118ef6745
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "308"
+ms.date: 04/21/2020
+ms.openlocfilehash: 2d7497f15998ffcbf997090c92d177b41de4ee40
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65725333"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66509070"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Aufbewahrungsrichtlinien im Exchange Admin Center
 

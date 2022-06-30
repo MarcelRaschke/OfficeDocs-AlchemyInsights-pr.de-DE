@@ -3,22 +3,21 @@ title: DLP-Regel für SSN funktioniert nicht
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1242"
 - "3200001"
-ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 7bf4265ca721a4d8019f126082aa448ef17e156b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1242"
+ms.date: 04/21/2020
+ms.openlocfilehash: dbac6d3e081e56435c1dffd6f8b75b2a7c715c2e
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722388"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66509171"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>DLP-Probleme mit Sozialversicherungsnummern
 
@@ -26,7 +25,7 @@ ms.locfileid: "65722388"
 
 **DLP-Probleme mit SSNs**
 
-Haben Sie Probleme mit Microsoft Purview Data Loss Prevention nicht für Inhalte mit einer **Sozialversicherungsnummer (SSN)** zu arbeiten, wenn Sie einen vertraulichen Informationstyp in Microsoft 365 verwenden? Wenn dies der Fall ist, stellen Sie sicher, dass Ihre Inhalte die erforderlichen Informationen für das, was die DLP-Richtlinie sucht, enthalten. 
+Haben Sie Probleme mit Microsoft Purview Data Loss Prevention bei der Verwendung eines vertraulichen Informationstyps in Microsoft 365 nicht für Inhalte mit einer **Sozialversicherungsnummer (Social Security Number, SSN)** zu arbeiten? Wenn dies der Fall ist, stellen Sie sicher, dass Ihre Inhalte die erforderlichen Informationen für das, was die DLP-Richtlinie sucht, enthalten. 
   
 Für eine SSN-Richtlinie, die mit einem Konfidenzniveau von 85 % konfiguriert ist, werden beispielsweise Folgendes ausgewertet und müssen erkannt werden, damit die Regel ausgelöst wird:
   

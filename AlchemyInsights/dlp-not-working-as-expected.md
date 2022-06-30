@@ -3,22 +3,21 @@ title: DLP funktioniert nicht wie erwartet
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1241"
 - "3200001"
-ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 6759db25c47211eef0fc8486ad077e375f0ca26a
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1241"
+ms.date: 04/21/2020
+ms.openlocfilehash: 65ee79544848036f00fa5b9720fb4cf23c6bd830
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65722460"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66509154"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP funktioniert nicht wie erwartet
 

@@ -3,21 +3,20 @@ title: Verwenden des MIP-SDKs
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: 15d916a06b4ad4920ddafc20249f905ed723b7d2
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: c0cc9dd67201cc087111b9f6464aab87c9017576
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65720861"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66509802"
 ---
 # <a name="using-mip-skd"></a>Verwenden des MIP-SDKs
 

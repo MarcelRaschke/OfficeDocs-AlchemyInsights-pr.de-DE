@@ -3,22 +3,21 @@ title: Website-Ermittlung durchführen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/08/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9143"
 - "9005291"
-ms.openlocfilehash: 812be8a8ccb8827739b5b5c802ab4c633c7045c1
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9143"
+ms.date: 03/08/2021
+ms.openlocfilehash: 4e1bac726e9ceee5af027f431a3b39fa4a8b14ae
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65735753"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66510600"
 ---
 # <a name="do-site-discovery"></a>Website-Ermittlung durchführen
 

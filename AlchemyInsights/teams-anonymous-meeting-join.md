@@ -3,21 +3,20 @@ title: Zulassen oder Verhindern, dass anonyme Benutzer an Teams-Besprechungen te
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 25d6072d41b574d66716fb1fcbe460a5abbc43f4
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 114016e6dd92689aa97afb35744ebe165b9e3e00
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63260981"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66424786"
 ---
 # <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Zulassen oder Verhindern, dass anonyme Benutzer an Teams-Besprechungen teilnehmen
 

@@ -3,25 +3,24 @@ title: Arbeiten mit Dateien in SharePoint Online
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5804"
-ms.openlocfilehash: 7d05a55553ca758889ea018f022c153ea3aefed9
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a681f98e4b0002aaf92078b66399bdd7ab81a568
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63279917"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66509334"
 ---
 # <a name="working-with-files-in-sharepoint-online"></a>Arbeiten mit Dateien in SharePoint Online
 
-Hier sind einige häufig angeforderte Themen für SharePoint Onlinedateiverwaltung:
+Hier sind einige häufig angeforderte Themen für die SharePoint Online-Dateiverwaltung:
 
 - [Arbeiten mit Dateien in einer Dokumentbibliothek](https://support.microsoft.com/office/a9d89171-1673-4892-9dd2-1ca52037dea2)
 - [Dateieinschränkungen](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)

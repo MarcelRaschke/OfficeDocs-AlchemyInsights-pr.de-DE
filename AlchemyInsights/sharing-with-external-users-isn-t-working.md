@@ -1,42 +1,40 @@
 ---
-title: Freigabe für externe Benutzer funktioniert nicht
+title: Die Freigabe für externe Benutzer funktioniert nicht
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: ''
-ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 4c6781efd282bb7795b8f704c3a0ecfe2e83c54f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 9512d44a7b905667e6ad4d99a05411b283091eb7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63292251"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66425506"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Beheben von Problemen bei der Freigabe SharePoint Inhalten für externe Benutzer
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Beheben von Problemen beim Freigeben von SharePoint-Inhalten für externe Benutzer
 
 Stellen Sie sicher, dass die externe Freigabe für Ihre Organisation aktiviert ist:
   
-1. Wechseln Sie im [Microsoft 365 Admin Center zur Seite "Dienste-Add-Ins&amp;](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)", und klicken Sie auf **"Websites**".
+1. Wechseln Sie im [Microsoft 365 Admin Center zur Seite "Dienste-Add-Ins&amp;](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)", und klicken Sie auf **"Websites"**.
     
-2. Stellen Sie sicher, dass die Einstellung auf "Ein" aktiviert ist. Wenn "Nur vorhandene externe Benutzer" ausgewählt ist, stellen Sie sicher, dass der externe Benutzer im Microsoft 365 Admin Center aufgeführt ist.
+2. Stellen Sie sicher, dass die Einstellung auf "Ein" aktiviert ist. Wenn "Nur vorhandene externe Benutzer" ausgewählt ist, stellen Sie sicher, dass der externe Benutzer in der Microsoft 365 Admin Center aufgeführt ist.
     
 Stellen Sie sicher, dass die externe Freigabe für die Website aktiviert ist. Für eine klassische Websitesammlung:
   
 1. Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **Websites**.
     
-2. Wählen Sie die Website oder Websites aus, und klicken Sie auf dem Menüband auf **"Freigabe**".
+2. Wählen Sie die Website oder Websites aus, und klicken Sie im Menüband auf **"Freigeben"**.
     
-Für eine Teamwebsite, die zu einer Microsoft 365 Gruppe oder einer Kommunikationswebsite gehört:
+Für eine Teamwebsite, die zu einer Microsoft 365-Gruppe gehört, oder für eine Kommunikationswebsite:
   
-- Diese neuen Websitetypen haben die gleiche Freigabeeinstellung wie Ihre organisationsweite Einstellung, es sei denn, die organisationsweite Einstellung ermöglicht das Freigeben von Dateien über Links, für die keine Anmeldung erforderlich ist. In diesem Fall ermöglichen die Websites die Freigabe für neue und vorhandene externe Benutzer, die sich anmelden. Um die Einstellung für bestimmte Websites zu ändern, verwenden Sie das neue SharePoint Admin Center oder PowerShell. [Weitere Informationen](https://go.microsoft.com/fwlink/?linkid=871863).
+- Diese neuen Websitetypen haben dieselbe Freigabeeinstellung wie Ihre organisationsweite Einstellung, es sei denn, die organisationsweite Einstellung ermöglicht das Freigeben von Dateien über Links, für die keine Anmeldung erforderlich ist. In diesem Fall erlauben die Websites die Freigabe für neue und vorhandene externe Benutzer, die sich anmelden. Um die Einstellung für bestimmte Websites zu ändern, verwenden Sie das neue SharePoint Admin Center oder PowerShell. [Weitere Informationen](https://go.microsoft.com/fwlink/?linkid=871863).
     
-**Hinweis**: Die Einstellung für die externe Freigabe für jede Website kann restriktiver sein als ihre organisationsweite Einstellung, aber nicht weniger restriktiv als die organisationsweite Einstellung. 
+**Hinweis**: Die Einstellung für die externe Freigabe für jede Website kann restriktiver sein als ihre organisationsweite Einstellung, aber nicht eingeschränkter als die organisationsweite Einstellung. 
   
 

@@ -1,29 +1,28 @@
 ---
-title: Oberflächenreparaturen
+title: Surface-Reparaturen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/11/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "11648"
 - "9003951"
-ms.openlocfilehash: bfc98aa9e26c0e663b54839be863cce6f8004eea
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11648"
+ms.date: 06/11/2021
+ms.openlocfilehash: 59856af048ec46327a73b189ea73e63787232b45
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63261305"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66425110"
 ---
-# <a name="surface-repairs"></a>Oberflächenreparaturen
+# <a name="surface-repairs"></a>Surface-Reparaturen
 
-So platzieren Sie einen Surface-Reparaturauftrag im Microsoft 365-Verwaltungsportal:
+So tätigen Sie einen Surface-Reparaturauftrag über das Microsoft 365-Administratorportal:
 
-- Wechseln Sie zu **SupportSurface-Gerätereparaturen** > , und wählen Sie "**Reparatur erstellen"** aus. 
+- Wechseln Sie zu **"Surface****Device Repairs** unterstützen > ", und wählen Sie "**Reparatur erstellen**" aus. 
 
-Ausführliche Schritte finden Sie unter [Surface Self-Serve-Garantie und -Service](https://docs.microsoft.com/surface/self-serve-warranty-service).
+Ausführliche Schritte finden Sie unter [Surface Self-Serve Garantie und Service](https://docs.microsoft.com/surface/self-serve-warranty-service).

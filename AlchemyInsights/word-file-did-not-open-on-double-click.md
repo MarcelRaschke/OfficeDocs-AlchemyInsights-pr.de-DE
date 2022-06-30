@@ -3,21 +3,20 @@ title: Word-Datei wurde beim Doppelklicken nicht geöffnet
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "850"
 - "2100002"
-ms.openlocfilehash: 9a9df2b451a164e60eb85c8955ab39eaa476fe85
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "850"
+ms.openlocfilehash: 5e9f4e9cd886fd762ddada56910598d5775a63ed
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65726596"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66509347"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-Dokument, das in der falschen App geöffnet wurde oder nicht geöffnet wurde
 
@@ -31,11 +30,11 @@ Probieren Sie einen der folgenden Vorschläge aus:
 
 1. Wechseln Sie zu **Systemsteuerung > Programme > Programme und Funktionen**.
 
-2. Wählen Sie das Office Produkt aus, das Sie reparieren möchten, und wählen Sie dann **"Ändern"** aus.
+2. Wählen Sie das Office-Produkt aus, das Sie reparieren möchten, und wählen Sie dann **"Ändern"** aus.
 
 3. Wählen Sie die Option **"Schnellreparatur** " und dann " **Reparieren**" aus.
 
-**Deinstallieren von Versionen von Office, die Sie nicht verwenden**
+**Deinstallieren von Office-Versionen, die Sie nicht verwenden**
 
 1. Wechseln Sie zu **Systemsteuerung > Programm deinstallieren**, und wählen Sie dann die Version von Office aus, die Sie entfernen möchten.
 
@@ -43,7 +42,7 @@ Probieren Sie einen der folgenden Vorschläge aus:
 
 3. Restart your computer.
 
-**Führen Sie diese Problembehandlung aus, um festzulegen, Office Dateierweiterungen in Office**
+**Führen Sie diese Problembehandlung aus, um festzulegen, dass Office-Dateierweiterungen in Office geöffnet werden.**
 
 1. Führen Sie diese Problembehandlung aus: [Problembehandlung](https://www.microsoft.com/download/details.aspx?id=55948)
 

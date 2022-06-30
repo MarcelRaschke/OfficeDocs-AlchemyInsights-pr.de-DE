@@ -3,22 +3,21 @@ title: Abonnement, das für die Microsoft Edge-Synchronisierung erforderlich ist
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/26/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8306"
 - "9004429"
-ms.openlocfilehash: 35d258edce8bf3ac8547e2e5a71db6bc87209bb1
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8306"
+ms.date: 07/26/2021
+ms.openlocfilehash: 5993ad003883fac261b62d1cc6b988b4785d6340
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63291149"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66371955"
 ---
 # <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Abonnement, das für die Microsoft Edge-Synchronisierung erforderlich ist, um mit Azure Active Directory-Konten zu arbeiten
 

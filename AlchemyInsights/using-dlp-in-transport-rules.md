@@ -3,21 +3,20 @@ title: Verwenden von DLP in Transportregeln
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5153"
-ms.openlocfilehash: 983d9a4d76b2baac624aeac6d4d8ffbc20605a12
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 7b45d504e70544b382004a705ab70d16058e6929
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65732070"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66509862"
 ---
 # <a name="using-dlp-in-transport-rules"></a>Verwenden von DLP in Transportregeln
 

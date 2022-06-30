@@ -3,22 +3,21 @@ title: Senden einer Reparaturanforderung für ein Surface- oder Xbox-Gerät
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 03/16/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9753"
 - "9005678"
-ms.openlocfilehash: 375af0c4ea533662d5e680dd9de239e2db8e5b07
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9753"
+ms.date: 03/16/2021
+ms.openlocfilehash: 3b1b8fd6c255c75af940a5cf4772f3aa27bdc8c5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65718261"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66425398"
 ---
 # <a name="submit-a-repair-request-for-a-surface-or-xbox-device"></a>Senden einer Reparaturanforderung für ein Surface- oder Xbox-Gerät
 

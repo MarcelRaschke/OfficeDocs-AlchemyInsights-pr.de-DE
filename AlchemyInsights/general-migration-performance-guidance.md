@@ -8,16 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 9d98874cddd7d74ee949fe660efcbeed11939358
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 8da2699fa496b0f5b3918baa2263ead663db0870
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66311220"
+ms.locfileid: "66510411"
 ---
 # <a name="general-migration-performance-guidance"></a>Anleitung zur allgemeinen Migrationsleistung
 

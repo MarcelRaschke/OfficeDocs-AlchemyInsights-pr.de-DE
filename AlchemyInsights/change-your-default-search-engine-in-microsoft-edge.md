@@ -3,22 +3,21 @@ title: Ändern Ihrer Standardsuchmaschine in Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/18/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "8215"
 - "9004596"
-ms.openlocfilehash: 79503df05dcce575a7cf98171a1543e065c94b83
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "8215"
+ms.date: 03/18/2021
+ms.openlocfilehash: c27251d0c97b564d73cc029e91ae75eaa6827124
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63195008"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66273448"
 ---
 # <a name="change-your-default-search-engine-in-microsoft-edge"></a>Ändern Ihrer Standardsuchmaschine in Microsoft Edge
 
