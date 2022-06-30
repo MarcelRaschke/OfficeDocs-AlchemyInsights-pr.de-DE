@@ -3,23 +3,21 @@ title: 1581 Öffnen und Verwenden eines freigegebenen Postfachs in Outlook im We
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "1581"
 - "9000089"
-ms.assetid: ''
-ms.openlocfilehash: be2fc2e7ecfe72cbdc3d7c741f0658775503b19f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "1581"
+ms.date: 04/21/2020
+ms.openlocfilehash: 632034821244acf1f7e6baa6f6f9cb962b0d19ee
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63255186"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66294670"
 ---
 # <a name="open-and-use-a-shared-mailbox-in-outlook"></a>Öffnen und Verwenden eines geteilten Postfachs in Outlook
 

@@ -3,22 +3,21 @@ title: Problembehandlung bei nicht angezeigten Vertraulichkeitsbezeichnungen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11017"
 - "9000181"
-ms.openlocfilehash: da019c89e0ff0575e92b6868c48b1abc6f04de68
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11017"
+ms.date: 04/21/2021
+ms.openlocfilehash: 65f17a3a20a266c15d191875c2a10450f7f47665
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63082840"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66304794"
 ---
 # <a name="troubleshoot-sensitivity-labels-not-appearing"></a>Problembehandlung bei nicht angezeigten Vertraulichkeitsbezeichnungen
 

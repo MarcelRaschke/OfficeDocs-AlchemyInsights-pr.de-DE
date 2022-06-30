@@ -3,22 +3,21 @@ title: PowerPoint-Folien werden in Skype for Business auf Android-Geräten nicht
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/14/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6017"
 - "9003195"
-ms.openlocfilehash: cedc2394f0eff2ba725778c98b804118b1d39a87
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6017"
+ms.date: 07/14/2020
+ms.openlocfilehash: 3a6160d6651af9d8a4644bc85f421fb78a93ab0e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63283085"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66374367"
 ---
 # <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a>PowerPoint-Folien werden in Skype for Business auf Android-Geräten nicht angezeigt
 

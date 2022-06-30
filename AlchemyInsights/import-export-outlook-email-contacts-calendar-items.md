@@ -3,21 +3,20 @@ title: Importieren und Exportieren von Outlook-E-Mails, -Kontakten und -Kalender
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002365"
 - "4594"
-ms.openlocfilehash: 59e180ff6f6089367a9f87336e13d5e04601d073
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f5aadbbe0404313e87dc80ae7954075b6f636d79
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63214593"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66352767"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importieren und Exportieren von Outlook-E-Mails, -Kontakten und -Kalenderelementen
 

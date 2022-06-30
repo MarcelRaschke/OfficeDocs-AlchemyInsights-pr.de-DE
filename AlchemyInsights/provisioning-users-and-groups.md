@@ -3,22 +3,21 @@ title: Bereitstellen von Benutzern und Gruppen.
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/22/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "7852"
 - "9004348"
-ms.openlocfilehash: a7d5f135660f9fa7532cf0b88745d6f02b004d59
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "7852"
+ms.date: 01/22/2021
+ms.openlocfilehash: 43b076787a799af87aa9081c4794669950a47d3b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63294565"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66373971"
 ---
 # <a name="provisioning-users-and-groups"></a>Bereitstellen von Benutzern und Gruppen.
 

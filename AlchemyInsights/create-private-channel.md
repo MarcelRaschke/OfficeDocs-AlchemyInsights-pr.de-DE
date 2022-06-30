@@ -3,22 +3,21 @@ title: Erstellen eines privaten Kanals
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/01/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6874"
 - "9001223"
-ms.openlocfilehash: 2aad474939ebbf31523a08ca68a6813f11dfa9f2
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6874"
+ms.date: 03/01/2021
+ms.openlocfilehash: 26caf07eef00b09deede3a0d343af236fc65dadc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63186152"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66341985"
 ---
 # <a name="create-a-private-channel"></a>Erstellen eines privaten Kanals
 

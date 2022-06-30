@@ -3,22 +3,21 @@ title: Erstellen einer dynamischen Gruppe
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/06/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6156"
 - "9003234"
-ms.openlocfilehash: e5c2d1180f9a9126cbd9bcfa8dd1bd6a18ca00eb
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6156"
+ms.date: 08/06/2020
+ms.openlocfilehash: 16b4913e6140b26691361fd307ec1565ca0b7de8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63205556"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66342129"
 ---
 # <a name="create-a-dynamic-group"></a>Erstellen einer dynamischen Gruppe
 

@@ -3,22 +3,21 @@ title: 8000045 Hinzufügen von Emojis
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "1402"
 - "8000045"
-ms.openlocfilehash: 36621fe6600e69fde8b7882d9d03baa2570dcfb9
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1402"
+ms.date: 04/21/2020
+ms.openlocfilehash: 7d1192c54e81600b87e8ac0c5ca01e04e00c36d1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65719925"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66294166"
 ---
 # <a name="adding-emojis-to-email-messages"></a>Hinzufügen von Emojis zu E-Mail-Nachrichten
 

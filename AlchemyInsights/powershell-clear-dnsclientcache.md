@@ -3,22 +3,21 @@ title: PowerShell Clear-DnsClientCache-Cmdlet
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/30/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12458"
 - "9007450"
-ms.openlocfilehash: 6bedb98223a93e932b19ae58b248bbba6fbda69c
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "12458"
+ms.date: 07/30/2021
+ms.openlocfilehash: b440ddb0f6d25d2354fb7562615babe7b6c047d6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63253457"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66374115"
 ---
 # <a name="powershell-clear-dnsclientcache-cmdlet"></a>PowerShell Clear-DnsClientCache-Cmdlet
 

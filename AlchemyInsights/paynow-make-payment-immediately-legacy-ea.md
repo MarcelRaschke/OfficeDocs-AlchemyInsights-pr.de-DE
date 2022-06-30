@@ -3,21 +3,20 @@ title: PayNow/Zahlung sofort vornehmen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: e91924d937008839338bb18b1c07c54c78ecf996
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 950d5a937b7ddca57b6d783a7104bb4ada4f2408
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721725"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66281854"
 ---
 # <a name="paynowmake-payment-immediately"></a>PayNow/Zahlung sofort vornehmen
 

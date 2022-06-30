@@ -3,21 +3,20 @@ title: Einladungen zu Teams-Besprechungen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 1d83fb4ac22d574dc29575838f84228de01f9cad
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a1279d15be0f1686f81a1a32579b206fe5a3700a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63178987"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66305190"
 ---
 # <a name="teams-meeting-invitations"></a>Einladungen zu Teams-Besprechungen
 

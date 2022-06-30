@@ -3,21 +3,20 @@ title: Microsoft qualifizierte Bildungseinrichtung und Fernstudium (Lehren und L
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.custom: ''
-ms.assetid:
+ms.custom:
 - "1500009"
 - "4495"
-ms.openlocfilehash: 57093d7a6191a278e78c4bbf162b437adae64ce1
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 05ea3bb50cf15ad4f1baedf463e74c8f96fec56e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66004553"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66373935"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Microsoft qualifizierte Bildungseinrichtung und Fernstudium (Lehren und Lernen)
 

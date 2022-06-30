@@ -3,21 +3,20 @@ title: Unzureichende Benutzerberechtigungen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002274"
 - "4492"
-ms.openlocfilehash: 089f74011656a1e3569ff1753d102dd9ba94b15f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 70d1587cf77e13cfc9012e4cbeb3d359e3f91b42
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63202856"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66352695"
 ---
 # <a name="insufficient-user-permissions"></a>Unzureichende Benutzerberechtigungen
 

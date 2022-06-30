@@ -3,22 +3,21 @@ title: Feiertagskalender in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "1812"
 - "9000229"
-ms.openlocfilehash: 1fa7f037670b4b2d589667e8c7e6fb4e834ee05b
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1812"
+ms.date: 04/21/2020
+ms.openlocfilehash: ff2814bf24e0a4d086ddf5ffc13b1e9e3384444f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65719961"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66294310"
 ---
 # <a name="add-a-holiday-calendar-in-outlookcom"></a>Hinzufügen eines Feiertagskalenders in Outlook.com
 

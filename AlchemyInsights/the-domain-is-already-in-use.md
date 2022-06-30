@@ -3,21 +3,20 @@ title: Die Domäne wird bereits verwendet
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.custom:
 - "29"
 - "10"
-ms.openlocfilehash: 36f6a82dd1ac16bcd876c77eaba44f370da41936
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 75ea2bdca5a44d8d83bca293cfbdba1cb9f444ba
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63197744"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66305118"
 ---
 # <a name="the-domain-is-already-in-use"></a>Die Domäne wird bereits verwendet
 

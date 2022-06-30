@@ -1,27 +1,26 @@
 ---
-title: Outlook.com sendet E-Mails "im Auftrag von" meiner E-Mail-Adresse.
+title: Outlook.com sendet E-Mails "im Auftrag" meiner E-Mail-Adresse
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "812"
 - "8000048"
-ms.assetid: fe180c8c-d9e5-4a8c-af54-3fe8fa4a4331
-ms.openlocfilehash: 64889d19a13b80dcb07c9ef3438051f1b922c8fa
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "812"
+ms.date: 04/21/2020
+ms.openlocfilehash: af591641b756c0ba05f57ae9b79f6348b51d06f5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63263501"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66293734"
 ---
-# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com sendet E-Mails "im Auftrag von" meiner E-Mail-Adresse.
+# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com sendet meine E-Mail-Adresse "im Auftrag von"
 
-E-Mails, die von einem verbundenen Konto gesendet werden, werden als "im Auftrag" Ihres Microsoft-Kontos gesendet. Dieses Problem ist bekannt und wird in einer zukünftigen Version behoben. Bis dahin können Sie Ihre Absenderadresse so ändern, dass sie dem primären Microsoft-Kontoalias entspricht.
+E-Mails, die von einem verbundenen Konto gesendet werden, werden als "im Auftrag" Ihres Microsoft-Kontos gesendet. Dieses Problem ist bekannt und wird in einer zukünftigen Version behoben. Bis dahin können Sie Ihre Absenderadresse so ändern, dass sie ihrem primären Microsoft-Kontoalias entspricht.
   
-For more information, see [Outlook.com send email "on behalf of" my email address](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie [unter Outlook.com Senden von E-Mails "im Auftrag von" meiner E-Mail-Adresse](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy).
