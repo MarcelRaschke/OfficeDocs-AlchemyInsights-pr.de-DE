@@ -3,22 +3,21 @@ title: DLP benötigt möglicherweise einen benutzerdefinierten Typ
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1647"
 - "3200001"
-ms.assetid: ''
-ms.openlocfilehash: 75822a6dc2d3d14d5a4b7c22086ed629a520a867
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1647"
+ms.date: 04/21/2020
+ms.openlocfilehash: 63c0eb476707e8ed8e1c5a77899b238697504190
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65727998"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66518376"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP benötigt möglicherweise einen benutzerdefinierten Typ
 
@@ -36,7 +35,7 @@ Wenn ein integrierter vertraulicher Informationstyp Ihre Anforderungen mit nur w
 
 **Erstellen eines benutzerdefinierten vertraulichen Informationstyps**
 
-Wenn Sie jedoch einen anderen Typ vertraulicher Informationen vollständig identifizieren und schützen müssen, können Sie einen benutzerdefinierten vertraulichen Informationstyp in der Microsoft Purview-Complianceportal erstellen. Weitere Informationen finden Sie [unter Erste Schritte mit benutzerdefinierten typen vertraulicher Informationen](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type).
+Wenn Sie jedoch einen anderen Typ vertraulicher Informationen vollständig identifizieren und schützen müssen, können Sie einen benutzerdefinierten vertraulichen Informationstyp in der Microsoft Purview-Complianceportal erstellen. Weitere Informationen finden Sie unter ["Erste Schritte mit benutzerdefinierten typen vertraulicher Informationen"](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type).
 
 **Erstellen eines benutzerdefinierten Typs für vertrauliche Informationen in Security & Compliance Center PowerShell**
 

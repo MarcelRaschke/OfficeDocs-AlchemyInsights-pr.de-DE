@@ -3,21 +3,20 @@ title: Verwalten der globalen Adressliste und des Offlineadressbuchs der Organis
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002895"
 - "5550"
-ms.openlocfilehash: 15b7e1202ed8a8504a72ebd7da1458ce8c168331
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f0969c720f85b115fe703dc1ae0e8745337d2d44
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63127037"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66432931"
 ---
 # <a name="managing-organization-global-address-list-gal-and-offline-address-book-oab"></a>Verwalten der globalen Adressliste (GAL) und des Offlineadressbuchs (OAB) der Organisation
 

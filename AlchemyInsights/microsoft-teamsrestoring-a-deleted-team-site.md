@@ -3,21 +3,20 @@ title: Microsoft Teams – Wiederherstellen einer gelöschten Teamwebsite
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "404"
 - "6500002"
-ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 7e38d845e48484ad276d539c5962cae4b9b1f443
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "404"
+ms.openlocfilehash: 9d1c772a535dfd3ce676b0ff73720fb5113b1505
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65728900"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66432343"
 ---
 # <a name="restoring-a-deleted-team-in-microsoft-teams"></a>Wiederherstellen eines gelöschten Teams in Microsoft Teams
 

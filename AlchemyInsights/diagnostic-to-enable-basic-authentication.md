@@ -3,22 +3,21 @@ title: Diagnose zum Aktivieren der Standardauthentifizierung für Exchange Onlin
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 05/27/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11392"
 - "9006699"
-ms.openlocfilehash: 39bc68e04f63a2c5262ac139f07d52dfcc6cee4a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "11392"
+ms.date: 05/27/2021
+ms.openlocfilehash: b7aa2d353be8385c0b18ea6f8e9982f9f51d9db8
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63248921"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66515460"
 ---
 # <a name="diagnostic-to-enable-basic-authentication-for-exchange-online-protocols"></a>Diagnose zum Aktivieren der Standardauthentifizierung für Exchange Online-Protokolle
 

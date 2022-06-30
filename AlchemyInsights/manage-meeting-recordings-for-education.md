@@ -3,22 +3,21 @@ title: Verwalten von Besprechungsaufzeichnungen für die Bildung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6131"
 - "9002530"
-ms.openlocfilehash: 4d8988cc92e390d45a38fd6079e9fa339f278861
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "6131"
+ms.date: 08/03/2020
+ms.openlocfilehash: b61ec0b83b9e456e0fd1a8a16d993bae0d8b0792
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65730774"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66433147"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>Verwalten von Besprechungsaufzeichnungen für die Bildung
 

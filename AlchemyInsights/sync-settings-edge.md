@@ -3,22 +3,21 @@ title: Synchronisierungseinstellungen in Microsoft Edge
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/01/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10131"
 - "9005681"
-ms.openlocfilehash: 85b412e6bf565ff0b2c41db51ca61b419f5f12f5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10131"
+ms.date: 04/01/2021
+ms.openlocfilehash: b897abe65ccac69207d6ff309a90afc7dabdae90
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63190148"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66383313"
 ---
 # <a name="sync-settings-in-microsoft-edge"></a>Synchronisierungseinstellungen in Microsoft Edge
 

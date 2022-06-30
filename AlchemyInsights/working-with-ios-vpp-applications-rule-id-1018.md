@@ -1,30 +1,29 @@
 ---
-title: Arbeiten mit iOS VPP-Anwendungsregel-ID 1018
+title: Arbeiten mit iOS-VPP-Anwendungen – Regel-ID 1018
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "1018"
 - "6700004"
-ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: cbc2518d7cbaa6fde97c095d57f97c0083d60586
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "1018"
+ms.date: 04/21/2020
+ms.openlocfilehash: da3b8088fc68284fa43d93a230e45e5a14dec7b7
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65729656"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66524884"
 ---
-# <a name="working-with-ios-vpp-applications"></a>Arbeiten mit iOS VPP-Anwendungen
+# <a name="working-with-ios-vpp-applications"></a>Arbeiten mit iOS-VPP-Anwendungen
 
-Lesen Sie[, wie Sie iOS Apps verwalten, die über ein Volumenkaufprogramm erworben wurden, mit Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios), um mehr über Features, Einschränkungen und Schritte zu erfahren, um das Apple Volume Purchase Program und den Support dafür in Microsoft Intune zu nutzen.
+Lesen Sie[, wie Sie iOS-Apps verwalten, die über ein Volumenkaufprogramm erworben wurden, mit Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios), um mehr über Features, Einschränkungen und Schritte zu erfahren, um das Apple Volume Purchase Program und den Support dafür in Microsoft Intune zu nutzen.
   
- **Häufige Probleme:** "Ich habe meinen Benutzern eine iOS VPP-App zugewiesen, aber die Installation ist fehlgeschlagen."
+ **Häufige Probleme:** "Ich habe meinen Benutzern eine iOS-VPP-App zugewiesen, aber die Installation ist fehlgeschlagen."
   
 - Dies kann passieren, wenn ein einzelnes VPP-Token über mehrere Anbieter für die Verwaltung mobiler Geräte hinweg verwendet wird. VPP-Token von Apple dürfen nur mit einem Anbieter verwendet werden. Wenn Sie ein VPP-Token mit mehreren Anbietern verwendet haben, müssen Sie das Token erneut in Intune hochladen.
 

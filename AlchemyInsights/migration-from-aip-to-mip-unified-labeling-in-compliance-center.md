@@ -3,21 +3,20 @@ title: Migration von AIP zu MIP/einheitlichen Bezeichnungen im Compliance Center
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: acaadafa4e7573a148bc3ff717a66ed8ca773d00
-ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
+ms.openlocfilehash: 1a27e946a13750c9ba3c50bff25295eaa8e70b11
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65551493"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66402844"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migration von AIP zu MIP/einheitlichen Bezeichnungen im Compliance Center
 

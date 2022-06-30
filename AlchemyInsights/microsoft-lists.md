@@ -3,22 +3,21 @@ title: Microsoft Lists
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/14/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "5677"
 - "9002964"
-ms.openlocfilehash: 308ca665a8c0833c18b55d89ab2cc8f0b41f8f64
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "5677"
+ms.date: 07/14/2020
+ms.openlocfilehash: e97c371acdc9387e35f42ed6f917a27cd46c563e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63264509"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66432499"
 ---
 # <a name="microsoft-lists"></a>Microsoft Lists
 

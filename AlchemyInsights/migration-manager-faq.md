@@ -3,21 +3,20 @@ title: Häufig gestellte Fragen zum Migrations-Manager
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5669"
-ms.openlocfilehash: cb14167847e23009d41e38ec1613f899e14340b3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: bd105abbd636494670fb5dc05a592f97fcf70a56
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63273365"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66402808"
 ---
 # <a name="migration-manager-faq"></a>Häufig gestellte Fragen zum Migrations-Manager
 

@@ -3,22 +3,21 @@ title: Resolve "Wir können die Manifestdatei nicht lesen. Versuchen Sie es spä
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9010305"
 - "16343"
 ms.date: 01/13/2022
-ms.openlocfilehash: b75db79bf1680612fe8e2340211702dcdfa9d8be
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 4786470dd780a916881090f4c8a674ee63ef1785
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65720825"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66525036"
 ---
 # <a name="resolve-we-cant-read-the-manifest-file-try-again-later-when-uploading-viva-connections"></a>Resolve "Wir können die Manifestdatei nicht lesen. Versuchen Sie es später erneut." beim Hochladen von Viva Connections
 

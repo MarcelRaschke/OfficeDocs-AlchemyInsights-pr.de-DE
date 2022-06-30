@@ -3,22 +3,21 @@ title: Live-Untertitel für Bildungseinrichtungen verwalten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "6140"
 - "9003263"
-ms.openlocfilehash: cdbf95232cde64b989aa417351dea5ba15f6b718
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "6140"
+ms.date: 08/03/2020
+ms.openlocfilehash: ead3f7fca1a33418f4a041958385de3f59ae5bdc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63127109"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66432967"
 ---
 # <a name="managing-live-captions-for-education-organizations"></a>Live-Untertitel für Bildungseinrichtungen verwalten
 

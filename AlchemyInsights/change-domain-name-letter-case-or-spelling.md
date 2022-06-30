@@ -3,22 +3,21 @@ title: Ändern der Groß-/Kleinschreibung oder Schreibweise eines Domänennamens
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/13/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "5996"
 - "9003201"
-ms.openlocfilehash: 32e874bb749c2380b06b88061aa5c3c058f1a2fc
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "5996"
+ms.date: 07/13/2020
+ms.openlocfilehash: 27394187e08f8220253d8cea7aeb14a5110fb4a4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63207536"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66381045"
 ---
 # <a name="change-a-domain-name-letter-case-or-spelling"></a>Ändern der Groß-/Kleinschreibung oder Schreibweise eines Domänennamens
 

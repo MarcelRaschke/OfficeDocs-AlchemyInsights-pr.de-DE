@@ -3,22 +3,21 @@ title: Was ist Microsoft Search in Bing?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9291"
 - "9005423"
-ms.openlocfilehash: fa236b015aa236242a2c30ff3edce4829fb9907e
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9291"
+ms.date: 03/19/2021
+ms.openlocfilehash: 3f39946da3fac93baf4d9360c719880193d78474
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65720753"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66518124"
 ---
 # <a name="what-is-microsoft-search-in-bing"></a>Was ist Microsoft Search in Bing?
 

@@ -3,22 +3,21 @@ title: Einrichtungsleitfaden für Microsoft Defender für Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/09/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9007398"
 - "12353"
-ms.openlocfilehash: d58531365e469c8d6840385a509504d1339a8c99
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 07/09/2021
+ms.openlocfilehash: 34f6b0fbef1adefed36700fc9ae7e90fd5a35b45
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65724242"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66432751"
 ---
 # <a name="microsoft-defender-for-office-365-setup-guide"></a>Einrichtungsleitfaden für Microsoft Defender für Office 365
 

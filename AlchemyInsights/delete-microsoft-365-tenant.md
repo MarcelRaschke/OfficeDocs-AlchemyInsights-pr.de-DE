@@ -3,7 +3,7 @@ title: Löschen des Microsoft 365-Mandanten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,12 @@ ms.localizationpriority: high
 ms.custom:
 - "9002250"
 - "4355"
-ms.assetid: ''
-ms.openlocfilehash: 8cff682fa907fe0b84ff6567ddd69cb48dcc65c3
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: a6b0f7e3f654759a6a57e1de0736bfe6b46a4e81
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63130349"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66412393"
 ---
 # <a name="delete-microsoft-365-tenant"></a>Löschen des Microsoft 365-Mandanten
 

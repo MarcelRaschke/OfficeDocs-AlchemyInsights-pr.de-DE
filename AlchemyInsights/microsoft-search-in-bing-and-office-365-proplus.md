@@ -3,17 +3,17 @@ title: Microsoft Search in Bing und Microsoft 365 Apps for Enterprise
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.openlocfilehash: 157aad90381efeb4f44c4a945bbe20bf84cdf3b2
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: fe96764e12d6e161e9dc312a45c5cf04904403b5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66008984"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66432454"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsoft Search in Bing und Microsoft 365 Apps for Enterprise
 

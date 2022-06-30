@@ -3,21 +3,20 @@ title: Reservierung stornieren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 69c69807ec33f7c309ca72b9af01ad91e6c7d3f1
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: ca5811cb7f90227daed53cac81b22ee39b1ed0a0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65720573"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66381477"
 ---
 # <a name="cancelling-reservation"></a>Reservierung stornieren
 

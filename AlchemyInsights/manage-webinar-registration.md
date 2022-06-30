@@ -3,22 +3,21 @@ title: Verwalten der Webinarregistrierung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 06/02/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "11512"
 - "9006672"
-ms.openlocfilehash: c700d1f410e9639d9622f0644190e467cece1c5f
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "11512"
+ms.date: 06/02/2021
+ms.openlocfilehash: b10405bd0e4ff3882e0873423fe2b442f9c9aede
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65716773"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66433039"
 ---
 # <a name="manage-webinar-registration"></a>Verwalten der Webinarregistrierung
 
@@ -40,6 +39,6 @@ Wenn die Besprechungsregistrierung auf **Ein** festgelegt ist, können Sie auch 
 
 **Hinweis**: Wenn die anonyme Teilnahme in den Besprechungseinstellungen deaktiviert ist, können anonyme Benutzer nicht an Webinaren teilnehmen. Weitere Informationen zum Aktivieren dieser Einstellung finden Sie unter [Verwalten von Besprechungseinstellungen in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams). 
 
-Weitere Informationen zum Konfigurieren, wer sich für Webinare registrieren kann, und zum Verwalten dieser Richtlinien mithilfe von Teams PowerShell finden Sie unter [Konfigurieren, wer sich für Webinare registrieren kann](https://docs.microsoft.com/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Weitere Informationen zu den Einstellungen für Microsoft Listen finden Sie unter [Steuern der Einstellungen für Microsoft Listen](https://docs.microsoft.com/sharepoint/control-lists). 
+Weitere Informationen zum Konfigurieren der Personen, die sich für Webinare anmelden können, und zum Verwalten dieser Richtlinien mit Teams PowerShell finden Sie unter [Konfigurieren der Personen, die sich für Webinare anmelden können](https://docs.microsoft.com/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars). Weitere Informationen zu den Einstellungen für Microsoft Listen finden Sie unter [Steuern der Einstellungen für Microsoft Listen](https://docs.microsoft.com/sharepoint/control-lists). 
 
  

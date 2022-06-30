@@ -3,19 +3,18 @@ title: Testen von Alchemy-Inlinevideos
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: d00e9a23-6443-4f4d-8ea7-bb75fb590b74
-ms.openlocfilehash: f4bf9774eacb747a53944184c270db76b58f8475
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: b148600daa7fda3d2f0b642cf00270b9ad71f12d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63260693"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66382197"
 ---
 # <a name="set-up-domain-and-users"></a>Einrichten von Domäne und Benutzern
 
