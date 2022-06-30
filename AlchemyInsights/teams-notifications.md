@@ -3,21 +3,20 @@ title: Teams-Benachrichtigungen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: 04ca6cbc7a61bb6c6b6bf6ab36db65e53a304817
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 4ade8f18d0eae38bd23ecb8845a7d685230dc9a3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63260909"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66397011"
 ---
 # <a name="teams-notifications-faq"></a>Teams-Benachrichtigungen – Häufig gestellte Fragen
 

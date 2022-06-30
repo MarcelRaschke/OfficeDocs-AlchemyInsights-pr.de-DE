@@ -3,21 +3,20 @@ title: Organisationsrichtlinieneinstellungen für externe Benutzer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "2674"
 - "9000196"
-ms.openlocfilehash: 8784dd5f72db3b7cf57a5ec4ac4676916810d4c3
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+- "2674"
+ms.openlocfilehash: 7e13517ec6fbe6622cc71c4da6d59d1a19b61e82
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66010922"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66286390"
 ---
 # <a name="organization-policy-settings-for-external-users"></a>Organisationsrichtlinieneinstellungen für externe Benutzer
 

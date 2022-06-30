@@ -8,16 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6814"
-ms.openlocfilehash: 6503d94f82e3d4006b67a6922482faa65a5bdefb
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: c3a824fcde75533fce7019f6e7dc248823cd80d8
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66274911"
+ms.locfileid: "66512148"
 ---
 # <a name="billing-for-reserved-instance-purchase"></a>Abrechnung des Kaufs reservierter Instanzen
 

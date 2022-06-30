@@ -15,12 +15,12 @@ search.appverid:
 - MOE150
 - MED150
 - MBS150
-ms.openlocfilehash: 6879ff5d1f57bdfb10c7af2a64b0ffacbd226752
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: c5d991ea6e87d00c1cabb7ec9c9227ffe9b95925
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66001133"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66513084"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Wiederherstellen eines gelöschten Postfachs
 

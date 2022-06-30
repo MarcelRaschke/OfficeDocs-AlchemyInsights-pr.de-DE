@@ -3,21 +3,20 @@ title: Kalendersymbol wird im Teams-Client nicht angezeigt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001219"
 - "4375"
-ms.openlocfilehash: 5c655b9e9715481fa48a5330b743c4b3e95a8863
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: f0edda27d2859af74444cff9facd0b4a745acf12
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63094438"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66381729"
 ---
 # <a name="calendar-icon-not-showing-in-teams-client"></a>Kalendersymbol wird im Teams-Client nicht angezeigt
 

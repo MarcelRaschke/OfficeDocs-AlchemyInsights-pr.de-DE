@@ -3,22 +3,21 @@ title: Surface Pro X Bereitstellen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/14/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "10394"
 - "9005762"
-ms.openlocfilehash: b6498d42b4a4cc8b0e14baf4f177ac53793a6673
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "10394"
+ms.date: 04/14/2021
+ms.openlocfilehash: 33d9c9afb0b175de12185ebbab004e16fa564251
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63299641"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66512076"
 ---
 # <a name="deploy-surface-pro-x"></a>Surface Pro X Bereitstellen
 

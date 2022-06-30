@@ -3,22 +3,21 @@ title: Behandeln von Problemen mit Registrierungsoptionen Microsoft Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
-- "786"
 - "6200002"
-ms.openlocfilehash: 6f790d2c44f3a5b28b577c601e612b27835c2fa6
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "786"
+ms.date: 04/21/2020
+ms.openlocfilehash: 858497d725463fa75117b2572b75631eba08970e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65732900"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66396075"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Behandeln von Problemen mit Registrierungsoptionen Microsoft Intune
 

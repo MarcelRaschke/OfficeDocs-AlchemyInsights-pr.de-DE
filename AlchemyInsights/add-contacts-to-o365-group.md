@@ -12,16 +12,16 @@ ms.custom:
 - "1200017"
 - "78"
 ms.date: 04/21/2020
-ms.openlocfilehash: ea7be0308a9211918fda122bbd593c8542b7b296
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: a8c80fe1596bdbe710650cd3bd71f696ec82f7dc
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66278074"
+ms.locfileid: "66512265"
 ---
 # <a name="add-contacts-to-a-microsoft-365-group"></a>Hinzufügen von Kontakten zu einer Microsoft 365-Gruppe
 
-Gruppenbesitzer können externe Benutzer und E-Mail-Kontakte in Outlook hinzufügen, indem sie die folgenden Anweisungen befolgen: [Hinzufügen und Entfernen von Gruppenmitgliedern in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)
+Gruppenbesitzer können externe Benutzer und E-Mail-Kontakte in Outlook hinzufügen, indem sie die folgenden Anweisungen befolgen: [Hinzufügen und Entfernen von Gruppenmitgliedern in Outlook](https://support.microsoft.com/office/add-and-remove-group-members-in-outlook-3b650f4a-5c9b-4f94-a1bb-0cca4b1091de)
   
 Sie können auch Gruppenmitglieder im Admin Portal hinzufügen oder entfernen: [Hinzufügen oder Entfernen von Mitgliedern aus Microsoft 365-Gruppen mithilfe der Microsoft 365 Admin Center](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
 

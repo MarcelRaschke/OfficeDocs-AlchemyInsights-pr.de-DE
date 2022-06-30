@@ -3,22 +3,21 @@ title: Behandeln von Problemen mit Skype for Business auf dem Mac
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/30/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "5984"
 - "9003195"
-ms.openlocfilehash: 901deb1a2568f992d95627f545fc41756885c8ba
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "5984"
+ms.date: 07/30/2020
+ms.openlocfilehash: ca0d2d0b639a4a537d527fb35bd4cf251cbb070d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65734772"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66396039"
 ---
 # <a name="troubleshoot-issues-with-skype-for-business-on-mac"></a>Behandeln von Problemen mit Skype for Business auf dem Mac
 

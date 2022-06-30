@@ -3,21 +3,20 @@ title: Auschecken oder Einchecken von Dateien in einer Bibliothek nicht möglich
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "5300029"
 - "1688"
-ms.openlocfilehash: 7913d6411521eef3120270cf223ecf536226be8b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 7b6f7f67ee7f229f8beba55120cb648a03707b21
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63303415"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66381981"
 ---
 # <a name="unable-to-check-out-or-check-in-files-in-a-library"></a>Auschecken oder Einchecken von Dateien in einer Bibliothek nicht möglich
 

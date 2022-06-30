@@ -1,24 +1,23 @@
 ---
-title: 'CSS: PSTN-Säulen-Deep Link-Regel'
+title: 'CSS: PSTN Pillar Deep Link Rule'
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
-- "2555"
 - "9000675"
-ms.openlocfilehash: 1dff6fc266020599b0991212986be61a680e2f49
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "2555"
+ms.openlocfilehash: c6af82a2b6600eb819a6adb718d32527c2e95873
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63277973"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66288514"
 ---
 # <a name="pstn-calling-with-microsoft-teams"></a>PSTN-Anrufe mit Microsoft Teams
 
-Weitere Informationen zu Microsoft Teams Phone und PSTN-Anrufen in Microsoft Teams finden Sie unter [Was ist Microsoft Teams Phone in Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)
+Weitere Informationen zu Microsoft Teams Telefon und PSTN-Anrufen in Microsoft Teams finden Sie unter [Was ist Microsoft Teams Telefon in Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)
