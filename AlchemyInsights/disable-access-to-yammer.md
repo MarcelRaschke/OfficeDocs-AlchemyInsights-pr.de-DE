@@ -1,24 +1,23 @@
 ---
-title: Deaktivieren des Zugriffs auf Yammer
+title: Zugriff auf Yammer deaktivieren
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "722"
 - "6000004"
-ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: f7520b99846dcccb22ebc5a3bd5af4d08781f7cc
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "722"
+ms.date: 04/21/2020
+ms.openlocfilehash: 460d7a63f5ab3b1f1eb39a8ceae36e89fdb3e9a2
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63257453"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66521526"
 ---
 # <a name="disable-access-to-yammer"></a>Zugriff auf Yammer deaktivieren
 

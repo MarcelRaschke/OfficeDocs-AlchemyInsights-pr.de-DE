@@ -3,22 +3,21 @@ title: Sprach- und Anrufrichtlinien
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/18/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "13651"
 - "9000734"
-ms.openlocfilehash: 4472ebf4b18489081bf4da63fac90638a85e7b3f
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "13651"
+ms.date: 08/18/2021
+ms.openlocfilehash: 7f0529c4a8c7da9ed39121333ddc50dea804a6cd
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63189212"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66521958"
 ---
 # <a name="voice-and-calling-policies"></a>Sprach- und Anrufrichtlinien
 

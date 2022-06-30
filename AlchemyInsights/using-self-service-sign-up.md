@@ -3,22 +3,21 @@ title: Verwenden der Self-Service-Registrierung in Ihrer Organisation
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/8/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "5994"
 - "9002572"
-ms.openlocfilehash: 1649dcecb631436f7c16a42018ddf5bc06aaba70
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "5994"
+ms.date: 07/8/2020
+ms.openlocfilehash: c12642dfda7dd4a7bfd945532bead42e58de104d
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63176863"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66522066"
 ---
 # <a name="using-self-service-sign-up-in-your-organization"></a>Verwenden der Self-Service-Registrierung in Ihrer Organisation
 

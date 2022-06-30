@@ -3,29 +3,28 @@ title: Abrufen von Microsoft Search-Berichten nach Updates
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9010386"
 - "16552"
 ms.date: 01/28/2022
-ms.openlocfilehash: c079cc3ac5141626ef988bb615aef75f809034dd
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 562f6993c6f8a9847d7b70a6ebc4c30db1bb5ff7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63273869"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66403312"
 ---
 # <a name="where-to-get-microsoft-search-reports-after-updates"></a>Abrufen von Microsoft Search-Berichten nach Updates
 
-Nach dem Ausführen von Updates werden drei Kategorien von Suchberichten angeboten:
+Drei Kategorien von Suchberichten werden angeboten, nachdem Sie Aktualisierungen durchgeführt haben:
 
-- **Mandantenweite Suchberichte** For searches completed from SharePoint Home (the site with URL ending in /SharePoint.aspx), Office.com, and Microsoft Search in Bing search boxes ONLY. Weitere Informationen finden Sie unter [Suchverwendungsberichte](https://docs.microsoft.com/microsoftsearch/usage-reports).  
-- **Klassische Websitesammlungsberichte** Für Suchvorgänge, die von klassischen Websites abgeschlossen wurden. Diese Berichte sind auf einer klassischen SharePoint-Website > **WebsiteeinstellungenMicrosoft** >  **SearchConfigure Search** >  **SettingsInsights** >  verfügbar. Weitere Informationen finden Sie unter [klassische Nutzungs- und Beliebtheitsberichte, die eingestellt werden sollen](https://docs.microsoft.com/sharepoint/troubleshoot/sites/classic-site-collection-search-usage-reports).
+- **Mandantenweite Suchberichte** Für Suchvorgänge, die über SharePoint Home (die Website mit der URL, die auf "/SharePoint.aspx" endet), Office.com und Microsoft Search nur in Bing-Suchfeldern abgeschlossen wurden. Weitere Informationen finden Sie unter [Suchverwendungsberichte](https://docs.microsoft.com/microsoftsearch/usage-reports).  
+- **Klassische Websitesammlungsberichte** Für Suchvorgänge, die von klassischen Websites abgeschlossen wurden. Diese Berichte sind auf einer klassischen SharePoint-Website > **Websiteeinstellungen** >  verfügbar **. Microsoft Search** > **Konfiguriert Sucheinstellungeneinblicke** > . Weitere Informationen finden Sie unter [Klassische Nutzungs- und Beliebtheitsberichte, die eingestellt werden sollen](https://docs.microsoft.com/sharepoint/troubleshoot/sites/classic-site-collection-search-usage-reports).
 
-    **Hinweis** Diese Berichte gelten nicht für GCC- oder GCC-H-Organisationen. Diese Organisationen müssen die Links " **Popularity** " und " **Search Reports** " verwenden.
-- **Moderne Websitesammlungsberichte** Für Suchvorgänge, die von modernen Kommunikations- oder Teamwebsites abgeschlossen wurden. Diese Berichte sind in einer modernen Website > **Site InformationView** >  **All Site SettingsMicrosoft** >  **SearchConfigure Search** >  **SettingsInsights** >  verfügbar. Weitere Informationen finden Sie unter [Anzeigen von Suchnutzungsberichten auf modernen Websites](https://docs.microsoft.com/SharePoint/view-search-usage-reports-modern-sites).  
+    **Hinweis** Diese Berichte gelten nicht für GCC- oder GCC-H-Organisationen. Diese Organisationen müssen die Links **"Beliebtheit** " und " **Suchberichte"** verwenden.
+- **Moderne Websitesammlungsberichte** Für Suchvorgänge, die von modernen Kommunikations- oder Teamwebsites abgeschlossen wurden. Diese Berichte sind über eine moderne Website > **Websiteinformationsansicht** > **alle Websiteeinstellungen** >  verfügbar **. Microsoft Search** > **Konfiguriert Sucheinstellungen** > **Insights.** Weitere Informationen finden Sie unter [Anzeigen von Suchnutzungsberichten auf modernen Websites](https://docs.microsoft.com/SharePoint/view-search-usage-reports-modern-sites).  

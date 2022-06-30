@@ -3,22 +3,21 @@ title: Kamera-App Datenschutzeinstellungen
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9005290"
 - "9120"
-ms.openlocfilehash: 063e9d7f9073f2a07a50e20f246cfee64a915805
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 08/20/2020
+ms.openlocfilehash: 198113d3afff76a89e2ce49c24e7fa1db570513f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63228129"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66415381"
 ---
 # <a name="camera-app-privacy-settings"></a>Kamera-App Datenschutzeinstellungen
 

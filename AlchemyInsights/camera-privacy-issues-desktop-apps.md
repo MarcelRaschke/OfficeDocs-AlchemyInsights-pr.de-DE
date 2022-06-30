@@ -3,22 +3,21 @@ title: Kamera-Datenschutzeinstellungen für Desktop-Apps
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9005290"
 - "9121"
-ms.openlocfilehash: 00e6f1741190c27ab93c5dea4ccfe93e28f56611
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 08/20/2020
+ms.openlocfilehash: 8842a095e939cfde7a81ec9ae0bea42e16179ac3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63228057"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66415345"
 ---
 # <a name="camera-privacy-settings-for-desktop-apps"></a>Kamera-Datenschutzeinstellungen für Desktop-Apps
 

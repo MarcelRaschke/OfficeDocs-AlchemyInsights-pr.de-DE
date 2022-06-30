@@ -3,21 +3,20 @@ title: Einrichten von Skype for Business Online.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002393"
 - "4666"
-ms.openlocfilehash: aecf925b2929c15f6d3bc710d4eca300bf6d7a74
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 9763a818959f2aff22ac98740853a05b5c55a20c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63221289"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66426766"
 ---
 # <a name="set-up-skype-for-business-online"></a>Einrichten von Skype for Business Online.
 

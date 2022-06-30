@@ -3,21 +3,20 @@ title: Kündigen eines Microsoft-Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002287"
 - "4420"
-ms.openlocfilehash: 509e8436ec0a8c52234409bdcc0fa62b236cb071
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: a4e619f470a6997ee514ac53aeb90bbd84a95370
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65728214"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66415201"
 ---
 # <a name="cancel-microsoft-subscription"></a>Kündigen eines Microsoft-Abonnements
 

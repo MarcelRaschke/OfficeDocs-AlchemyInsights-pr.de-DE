@@ -1,23 +1,21 @@
 ---
-title: 400 Kalender – FreeBusy
+title: 400 Kalender - FreeBusy
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom: 400
-ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: 7fe2e88dbba02929295868a9730e64d916196fe5
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 14836aed30531403aa714fdeb0f2f375469795ef
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63218157"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66415678"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>Probleme beim Anzeigen von Frei/Gebucht-Kalenderinformationen
 
-Wenn Sie keine Frei/Gebucht-Kalenderinformationen in anderen Outlook Kalendern sehen können oder wenn andere Personen keine Frei/Gebucht-Informationen in Ihrem Kalender sehen können, verwenden Sie die [Microsoft Support- und Wiederherstellungs-Assistent für Microsoft 365](https://diagnostics.office.com/).
+Wenn in anderen Outlook-Kalendern keine Frei/Gebucht-Kalenderinformationen angezeigt werden oder andere Personen in Ihrem Kalender keine Frei/Gebucht-Informationen sehen können, verwenden Sie den [Microsoft-Support- und Wiederherstellungs-Assistenten für Microsoft 365](https://diagnostics.office.com/).

@@ -3,22 +3,21 @@ title: Verwenden von Microsoft Intune
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/17/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "862"
 - "670000"
-ms.openlocfilehash: e1d1208363ff06a72e2c16c9e136a8af928ee29f
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "862"
+ms.date: 07/17/2020
+ms.openlocfilehash: 387da8093f387ac200f553c4c6cc52f9b0fc6ba4
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65717099"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66521778"
 ---
 # <a name="working-with-microsoft-intune"></a>Verwenden von Microsoft Intune
 
