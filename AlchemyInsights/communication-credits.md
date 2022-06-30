@@ -3,21 +3,20 @@ title: Kommunikationsguthaben
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: 4638370c4f5cef85895a351d663f549af0301d4e
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 289b009645acf884ca6ec175681d6e5a645387f3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63194396"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66424012"
 ---
 # <a name="communication-credits"></a>Kommunikationsguthaben
 

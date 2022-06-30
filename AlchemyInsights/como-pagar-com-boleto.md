@@ -3,21 +3,20 @@ title: Como Pagar com Boleto
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: 6c552ab6273d7a7c8dd90dc9edd62fb2b1fb426c
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 7bd506f505b77d44577bc44f56abb96161ac2021
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733692"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66423904"
 ---
 # <a name="como-pagar-com-boleto"></a>Como Pagar com Boleto
 

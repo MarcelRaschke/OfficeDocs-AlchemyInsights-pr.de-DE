@@ -8,16 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 10159d994a71dfb0941df0ea9dd4bb16eee1d1a2
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 5465ded1a095b982e6d7c3ddc78a50225e085020
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65731818"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66424156"
 ---
 # <a name="what-happens-to-quarantined-messages"></a>Was geschieht mit in Quarantäne befindlichen Nachrichten?
 

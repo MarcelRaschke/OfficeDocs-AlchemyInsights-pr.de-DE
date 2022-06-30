@@ -3,22 +3,21 @@ title: Arbeiten mit Authentifizierungsbibliotheken
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/17/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9775"
 - "9004342"
-ms.openlocfilehash: f2f401622253e6b2c3da14bf88deeecdc1353d6b
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "9775"
+ms.date: 03/17/2021
+ms.openlocfilehash: 649b9fe02e8c00699bf0f5eed5260716b5ec21d9
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63279953"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66508350"
 ---
 # <a name="working-with-authentication-libraries"></a>Arbeiten mit Authentifizierungsbibliotheken
 

@@ -8,16 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: ab5cfa4fba3d3ada32eb9e68ff658e6d20ddbf81
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 817a705749b4f327b203d41c831036fdcf1a980c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65733728"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66424228"
 ---
 # <a name="use-securescore"></a>Verwenden von SecureScore
 

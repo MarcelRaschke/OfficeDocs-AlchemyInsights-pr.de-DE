@@ -3,21 +3,20 @@ title: Trennen sie die Kamera, und schließen Sie sie wieder an.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 563b2c5cfc5c90e07f4bf55fb235a87278d26119
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 04/21/2020
+ms.openlocfilehash: d531c8d1028bf79f493017c166fa1d609a663b0b
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65721545"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66508530"
 ---
 # <a name="unplug-and-reconnect-camera"></a>Trennen sie die Kamera, und schließen Sie sie wieder an.
 
