@@ -3,22 +3,21 @@ title: Webinhaltsfilterung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/14/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "12383"
 - "9005487"
-ms.openlocfilehash: 009ba36464817be9280ffecca1c4d9ad80ba5a3a
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "12383"
+ms.date: 07/14/2021
+ms.openlocfilehash: b01584e7a3207e17f5aa9e6399c4c4ed14372b18
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63219849"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66528924"
 ---
 # <a name="web-content-filtering"></a>Webinhaltsfilterung
 

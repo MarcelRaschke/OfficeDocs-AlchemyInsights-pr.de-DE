@@ -3,33 +3,32 @@ title: Dateien sind für die Bearbeitung gesperrt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: e2f06c533b714df69052c9a0ecdda7d57fd9899d
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.date: 04/21/2020
+ms.openlocfilehash: 87ec8703055ea0140468e3a1fe40a3e07ce49591
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63188780"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66528888"
 ---
 # <a name="why-cant-i-edit-files"></a>Warum kann ich Dateien nicht bearbeiten?
 
 Werfen Sie einen kurzen Blick auf einige der Gründe [warum Sie die Datei möglicherweise nicht bearbeiten können](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Wenn Sie Bibliotheken mit Spalten oder Metadaten für **"Auschecken", "Erforderlich**" oder **"Validierung**" haben oder wenn **"Entwurfselementsicherheit**" auf **"Nur Benutzer" festgelegt ist, die** Elemente in Version Einstellungen der Bibliothek bearbeiten können, oder **"Nur Benutzer", die Elemente in** Version Einstellungen der Bibliothek genehmigen können:
+Wenn Sie über Bibliotheken mit Spalten für **Auschecken, Erforderlich** oder **Gültigkeitsprüfung** oder Metadaten verfügen oder wenn **"Entwurfselementsicherheit** " auf " **Nur Benutzer" festgelegt ist, die bearbeiten können** , oder **"Nur Benutzer", die Elemente** in den Versionseinstellungen der Bibliothek genehmigen können:
 
-- Bei SharePoint Dokumentbibliotheken werden diese Elemente schreibgeschützt synchronisiert.
+- Für SharePoint-Dokumentbibliotheken werden diese Elemente schreibgeschützt synchronisiert.
 
-- Für OneDrive Bibliotheken zeigt OneDrive neben dem Synchronisierungsstatus ein Sperrsymbol ( OneDrive Symbol für gesperrte Datei ) an, und der Benutzer kann die Bibliothek erst synchronisieren, wenn die erwähnten Einstellungen entfernt wurden. 
+- Für OneDrive-Bibliotheken zeigt OneDrive neben dem Synchronisierungsstatus ein Sperrsymbol (Symbol für gesperrte OneDrive-Datei) an, und der Benutzer kann die Bibliothek erst synchronisieren, wenn die genannten Einstellungen entfernt wurden. 
 
 Weitere Informationen zu gesperrten Dateien für Word oder Excel finden Sie in den folgenden Artikeln.
 

@@ -3,22 +3,21 @@ title: Windows 365-Netzwerk
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 10/14/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "13771"
 - "9008608"
-ms.openlocfilehash: be38db06db7d26f0a7420e3372a61000c9946a12
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "13771"
+ms.date: 10/14/2021
+ms.openlocfilehash: 3b457075494dd2b03bc72f91a9f837a2f80100fa
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63280349"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66528492"
 ---
 # <a name="windows-365-networking"></a>Windows 365-Netzwerk
 

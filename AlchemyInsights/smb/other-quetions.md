@@ -6,19 +6,18 @@ manager: anita.danford
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ms.collection: Adm_O365
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
 - "9006438"
 - "10939"
 ms.date: 02/11/2022
-ms.openlocfilehash: e10958be27659507e140a278bb93ef686bbe1397
-ms.sourcegitcommit: b4b034cf2e51e500744c03e8dcbeba5ab9ab9d7e
+ms.openlocfilehash: 6a9b678d7904fbf8520acb4981788c4e335a039e
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2022
-ms.locfileid: "64885730"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66529104"
 ---
 # <a name="other-questions"></a>Andere Fragen
 

@@ -3,21 +3,20 @@ title: Verwenden von kabellosen Anzeigegeräten und Docks
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 28e13b4ccac0bf8e7597f754bce6a7b153fad702
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 54d2d39a4efcb0eef97c4e614a46d253b51a5f05
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63220029"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66528096"
 ---
 # <a name="use-wireless-displays-or-docks"></a>Verwenden von kabellosen Anzeigegeräten und Docks
 
