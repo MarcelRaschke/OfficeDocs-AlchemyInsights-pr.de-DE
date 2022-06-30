@@ -3,24 +3,23 @@ title: Auswählen der Bereitstellungsmethode
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/08/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9142"
-- "11090"
 - "9005291"
 - "9006490"
-ms.openlocfilehash: 82ac8c5019937c432921b68faf31f6bd7ba4add2
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9142"
+- "11090"
+ms.date: 03/08/2021
+ms.openlocfilehash: 66ca460a4e4279774fb6821f5dc6fa101551337b
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65728034"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66505038"
 ---
 # <a name="determine-your-deployment-method"></a>Auswählen der Bereitstellungsmethode
 

@@ -12,20 +12,16 @@ ms.custom:
 - "9009965"
 - "15860"
 ms.date: 06/02/2022
-ms.openlocfilehash: 7fd51a5ec7efe4050eb71322c494ee01908e417e
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.openlocfilehash: 4342cdec447133844152580b3b0ff54cddca96fa
+ms.sourcegitcommit: 6bb8dd2dc45a4efe2469c9db430cd36fdb6a7fea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66002822"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66504193"
 ---
 # <a name="bill-refund"></a>Rechnungserstattung
 
-*Berechtigung*: Wenn Sie weniger als 25 Lizenzen benutzern zugewiesen haben, können Sie Ihre Microsoft 365 for Business-Testversion oder ihr kostenpflichtiges Abonnement jederzeit online im Microsoft 365 Admin Center kündigen. Wenn Sie mehr als 25 Lizenzen für Benutzer zugewiesen haben, reduzieren Sie sie auf weniger als 25 oder rufen Sie den Support an, um Ihr Abonnement zu kündigen.
-
-*Rückerstattung*: Jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.
-
-Bevor Sie kündigen oder eine Rückerstattung anfordern, müssen Sie wissen, ob Sie über ein Abrechnungsprofil verfügen. Ein Abrechnungsprofil enthält eine Zahlungsmethode, Informationen zu Rechnungen und andere Rechnungseinstellungen, z. B. Bestellnummer und E-Mail-Rechnungseinstellung.
+Bevor Sie eine Rückerstattung anfordern, müssen Sie wissen, ob Sie über ein Abrechnungsprofil verfügen. Ein Abrechnungsprofil enthält eine Zahlungsmethode, Informationen zu Rechnungen und andere Rechnungseinstellungen, z. B. Bestellnummer und E-Mail-Rechnungseinstellung.
 
 **So zeigen Sie Ihr Abrechnungsprofil an:**
 
@@ -42,4 +38,4 @@ Bevor Sie kündigen oder eine Rückerstattung anfordern, müssen Sie wissen, ob 
 - Wenn Sie ihr Abonnement kündigen, nachdem Sie ihr Abonnement gestartet oder verlängert haben, erhalten Sie eine anteilige Gutschrift oder Rückerstattung.
 - Der Betrag wird entweder auf Ihre nächste Rechnung angerechnet oder im nächsten Abrechnungszyklus an Sie zurückgegeben.
 
-Für die Rückerstattungsverarbeitung und weitere Anfragen zur Rückerstattung empfehlen wir Ihnen, **sich mit unserem Microsoft-Spezialisten in Verbindung zu setzen**. Um sich für weitere Hilfe mit einem Microsoft-Spezialisten in Verbindung zu setzen, **wählen Sie unten Live Chat** aus.
+Für die Rückerstattungsverarbeitung und weitere Anfragen zur Rückerstattung empfehlen wir Ihnen, **sich mit unserem Microsoft-Spezialisten in Verbindung zu setzen**. Um sich für weitere Hilfe mit einem Microsoft-Spezialisten in Verbindung zu setzen, **wählen Sie unten den Live-Chat** aus.

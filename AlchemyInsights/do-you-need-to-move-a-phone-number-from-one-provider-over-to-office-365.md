@@ -1,24 +1,23 @@
 ---
-title: Müssen Sie eine Telefon Nummer von einem Anbieter zu Microsoft verschieben?
+title: Müssen Sie eine Telefonnummer von einem Anbieter zu Microsoft verschieben?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
-- "248"
 - "4000003"
+- "248"
 ms.date: 05/20/2022
-ms.openlocfilehash: 77ea075402d5d4d8f00718009f962e00d8191a95
-ms.sourcegitcommit: 654bbec12ffc98760723fe13ad3f69b9cff95a72
+ms.openlocfilehash: bd00455c949b2882d0f98203aa7a88d1acbea6cf
+ms.sourcegitcommit: 6bb8dd2dc45a4efe2469c9db430cd36fdb6a7fea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65611685"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66504112"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Portieren bestehender Nummern zu Teams
 
@@ -36,4 +35,4 @@ Informationen zum direkten Support für Telefonnummern finden Sie unter [Telefon
 
 Weitere Informationen zum Portierungsprozess finden Sie unter [Übertragen von Telefonnummern an Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/transfer-phone-numbers-to-teams).
 
-Um Skype for Business Hybridtelefonnummern zu übertragen, ptn@microsoft.com per E-Mail.
+Wenn Sie eine Anforderung beim [Telefonnummerndienste-Team](https://pstnsd.powerappsportals.com/) zum Portieren von Hybridtelefonnummern (migrieren von Direct Routing oder Telefonieanbieter zu Anrufplänen) öffnen, stellen Sie sicher, dass Sie einen Hinweis angeben, dass es sich bei den Nummern um Hybridtelefonnummern handelt.

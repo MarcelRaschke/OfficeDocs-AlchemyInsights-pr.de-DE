@@ -3,24 +3,23 @@ title: Festlegen der Kanalstrategie
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 03/08/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "9144"
 - "9005291"
-- "11089"
 - "9006490"
-ms.openlocfilehash: 1db5e3be7925cd877fbf486a882a44d4dd639c20
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+- "9144"
+- "11089"
+ms.date: 03/08/2021
+ms.openlocfilehash: 83b39a8783aff57505aa87bbaea377b44dbf43c4
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65709302"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66504830"
 ---
 # <a name="determine-channel-strategy"></a>Festlegen der Kanalstrategie
 

@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.openlocfilehash: 090b82b59fdbdcdcdee41e363e27e1b1e7360464
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: b4717b21808e9f555c60852e5e6789437cbdf059
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66313167"
+ms.locfileid: "66505075"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>Hinzufügen externer Benutzer zu einer Verteilergruppe
 
@@ -41,5 +41,5 @@ Das Hinzufügen eines externen Kontakts zu einer Verteilergruppe (DG) erfolgt in
     
 Wenn ihre externen Benutzer nach diesen Schritten keine E-Mails an die GD senden oder keine E-Mails von ihr erhalten können, kann es sein, dass die GD so gekennzeichnet ist, dass sie nur E-Mails von internen Benutzern zulässt. Sie können diese Konfiguration überprüfen und anhand der [hier angegebenen](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online) Anweisungen korrigieren.
   
- **Hinweis:** Diese Anweisungen gelten nicht, wenn der Typ Ihrer Gruppe "Microsoft 365-Gruppe" anstelle von "Verteilergruppe" lautet. Wenn dies der Fall ist, können Sie den externen Benutzer direkt aus Outlook zur Gruppe hinzufügen. Ausführliche Informationen zu Microsoft 365-Gruppen Gästen sowie Anweisungen zum Hinzufügen externer Gäste finden Sie in [diesem Artikel](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+ **Hinweis:** Diese Anweisungen gelten nicht, wenn der Typ Ihrer Gruppe "Microsoft 365-Gruppe" anstelle von "Verteilergruppe" lautet. Wenn dies der Fall ist, können Sie den externen Benutzer direkt aus Outlook zur Gruppe hinzufügen. Ausführliche Informationen zu Microsoft 365-Gruppen Gästen sowie Anweisungen zum Hinzufügen externer Gäste finden Sie in [diesem Artikel](https://support.microsoft.com/office/adding-guests-to-microsoft-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6).
   
