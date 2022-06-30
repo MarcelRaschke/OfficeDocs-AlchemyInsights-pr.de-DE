@@ -14,12 +14,12 @@ ms.custom:
 - "1500028"
 - "4744"
 ms.date: 08/10/2020
-ms.openlocfilehash: 02d31700e3ce77d600c7b2a769ce32e1fb3d3190
-ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
+ms.openlocfilehash: 309e49d47e7112d9923eb3f2d1c29419cc06c68d
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "66152713"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66511392"
 ---
 # <a name="activate-your-subscription"></a>Aktivieren Ihres Abonnements
 
@@ -42,5 +42,5 @@ Weitere Informationen finden Sie unter [Ihr Abonnement reaktivieren](https://doc
 
 **Aktivieren eines neuen Abonnements mit einem Product Key**
 
-- Informationen dazu, wie Sie ein neues Microsoft 365-Abonnement mit Ihrem Product Key aktivieren, finden Sie unter [Eingabeort für den Office-Product Key](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Informationen dazu, wie Sie ein neues Microsoft 365-Abonnement mit Ihrem Product Key aktivieren, finden Sie unter [Eingabeort für den Office-Product Key](https://support.microsoft.com/office/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 - Geben Sie Ihren Microsoft 365-Product Key ein, und folgen Sie den Eingabeaufforderungen, um Ihr Abonnement zu aktivieren. Wenn bei der Aktivierung Probleme auftreten, schauen Sie die Liste der [häufig auftretenden Fehler mit Product Keys und die zugehörigen Lösungen](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) an.

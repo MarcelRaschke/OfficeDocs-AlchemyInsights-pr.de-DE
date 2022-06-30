@@ -3,22 +3,21 @@ title: Erweiterter AIP-Clientkonfiguration
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
-- "4781"
 - "9002277"
-ms.openlocfilehash: d79319ca4c25d4bbb5d7192972533db7105a50ac
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+- "4781"
+ms.date: 08/03/2020
+ms.openlocfilehash: d085d215f0b42468a1826c3b63403e1230c3cb86
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63175855"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66275644"
 ---
 # <a name="aip-client-advanced-configuration"></a>Erweiterter AIP-Clientkonfiguration
 

@@ -12,12 +12,12 @@ ms.custom:
 - "2000021"
 - "909"
 ms.date: 04/21/2020
-ms.openlocfilehash: 0746037b9408b65dc6d154a2f914f7e0a51cd192
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 78da7e5e1ac6b925b471963d8a9cf825f0d649fe
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66313779"
+ms.locfileid: "66511860"
 ---
 # <a name="activation-troubleshooting"></a>Aktivierungsproblembehandlung
 
@@ -29,4 +29,4 @@ Wenn Office noch nicht lizenziert ist, wechseln Sie zurück zu **den Systemsteue
   
 Wenn Office noch nicht lizenziert ist, laden Sie die [Aktivierungsproblembehandlung](https://aka.ms/SARA-OfficeActivation-Alchemy) herunter, und führen Sie sie dann auf dem betroffenen Computer aus, um die Aktivierungsprobleme zu beheben.
   
-Weitere Informationen finden Sie unter: [Fehler "Nicht lizenziertes Produkt" und Aktivierungsfehler in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Weitere Informationen finden Sie unter: [Fehler "Nicht lizenziertes Produkt" und Aktivierungsfehler in Office](https://support.microsoft.com/office/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
