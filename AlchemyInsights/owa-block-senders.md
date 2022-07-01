@@ -12,12 +12,12 @@ ms.custom:
 - "8000015"
 - "2001"
 ms.date: 04/21/2020
-ms.openlocfilehash: 5c61c9c9c7ed71ce9254cd360bf3f4515d8bcb87
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 3819ec06ff814cc2b06c899af37d8dca5d33b550
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66319683"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66583562"
 ---
 # <a name="block-or-unblock-senders-in-outlook-on-the-web"></a>Blockieren oder Aufheben der Blockierung von Absendern in Outlook im Web
 
@@ -36,4 +36,4 @@ ms.locfileid: "66319683"
 
 Um die Blockierung eines Absenders aufzuheben, wählen Sie das Papierkorbsymbol neben der E-Mail-Adresse oder Domäne aus, die Sie entsperren möchten.
 
-Weitere Informationen finden Sie [unter Blockieren von Absendern oder Aufheben der Blockierung von Absendern in Outlook im Web](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
+Weitere Informationen finden Sie [unter Blockieren von Absendern oder Aufheben der Blockierung von Absendern in Outlook im Web](https://support.microsoft.com/office/block-senders-or-unblock-senders-in-outlook-on-the-web-9bf812d4-6995-4d19-901a-76d6e26939b0).

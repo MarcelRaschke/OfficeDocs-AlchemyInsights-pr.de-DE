@@ -12,12 +12,12 @@ ms.custom:
 - "8000014"
 - "2000"
 ms.date: 04/21/2020
-ms.openlocfilehash: 4fc3c36927fd8ae0314c418df8fe8434720f81c6
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: a7f44f9c9325fd64ab20206392660834bd33e75a
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66285274"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66584030"
 ---
 # <a name="change-your-language-date-and-time-format-or-time-zone-in-outlook-on-the-web"></a>Ändern der Sprache, des Datums- und Uhrzeitformats oder der Zeitzone in Outlook im Web
 
@@ -27,4 +27,4 @@ ms.locfileid: "66285274"
 3. Wählen Sie die Sprache aus, die Sie verwenden möchten.
 4. Wählen Sie **Speichern**.
 
-Weitere Informationen finden Sie unter [Ändern der Zeitzonen- und Spracheinstellungen in Outlook im Web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273).
+Weitere Informationen finden Sie unter [Ändern der Zeitzonen- und Spracheinstellungen in Outlook im Web](https://support.microsoft.com/office/change-the-time-zone-and-language-settings-in-outlook-on-the-web-65239869-12e7-4a9d-bca1-76b0ad7ce273).

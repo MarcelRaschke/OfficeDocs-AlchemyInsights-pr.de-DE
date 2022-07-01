@@ -12,12 +12,12 @@ ms.custom:
 - "8000020"
 - "279"
 ms.date: 04/21/2020
-ms.openlocfilehash: b034baff1eb69d39cde21a94e012f264f1a6517e
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: d2ea9969dd213af09260fe0bbcb3dcb1302a2c9d
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66431122"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66583094"
 ---
 # <a name="export-your-contacts-in-outlookcom"></a>Exportieren Ihrer Kontakte in Outlook.com
 
@@ -27,4 +27,4 @@ ms.locfileid: "66431122"
 3. Wählen Sie aus, ob Sie alle Kontakte oder nur Kontakte aus einem bestimmten Ordner exportieren möchten, und wählen Sie **"Exportieren**" aus.
 4. Wählen Sie unten auf der Seite " **Speichern** " aus, und "contacts.csv" wird in Ihrem Standardordner "Downloads" gespeichert. Um auszuwählen, wo die .csv Datei gespeichert werden soll, wählen Sie den Pfeil neben "Speichern" und dann " **Speichern unter" aus**.
 
-Weitere Informationen finden Sie unter [Exportieren von Kontakten aus Outlook.com in eine CSV-Datei](https://support.office.com/article/578cca22-3550-4c73-b3f0-9978cfeac83f?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie unter [Exportieren von Kontakten aus Outlook.com in eine CSV-Datei](https://support.microsoft.com/office/export-contacts-from-outlook-com-to-a-csv-file-578cca22-3550-4c73-b3f0-9978cfeac83f).

@@ -13,12 +13,12 @@ ms.custom:
 - "1002"
 - "1003"
 ms.date: 04/21/2020
-ms.openlocfilehash: 11a065ca4ab3ff68a1c5e331add344f186e03f41
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 9312fc2b601dafecede07009563215a81bc08d7e
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66266428"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66582806"
 ---
 # <a name="print-an-attachment-in-outlookcom"></a>Drucken einer Anlage in Outlook.com
 
@@ -26,4 +26,4 @@ ms.locfileid: "66266428"
 2. Bewegen Sie den Cursor über die Anlage, und wählen Sie die drei Punkte (weitere Aktionen) > **Herunterladen** aus.
 3. Nachdem die Datei heruntergeladen wurde, öffnen Sie sie mit dem entsprechenden Programm, und wählen Sie die Option zum Drucken aus. Öffnen Sie beispielsweise eine .doc-Datei in Word, und drucken Sie dann.
 
-Weitere Informationen finden Sie [unter Drucken von E-Mail-Nachrichten, Anlagen und Kalendern in Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie [unter Drucken von E-Mail-Nachrichten, Anlagen und Kalendern in Outlook.com](https://support.microsoft.com/office/print-email-messages-attachments-and-calendars-in-outlook-com-c835b8e5-b310-4cab-ac15-b6eb95149855).

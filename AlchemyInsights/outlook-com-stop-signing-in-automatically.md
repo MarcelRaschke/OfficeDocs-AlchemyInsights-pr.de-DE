@@ -12,16 +12,16 @@ ms.custom:
 - "8000008"
 - "853"
 ms.date: 04/21/2020
-ms.openlocfilehash: d5ed935c0437618b96e62530d7aef820e6dd00fe
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: fdcd97b152ab5aa75d8a906ce7b61d1d76fb0f7b
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66285562"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66583825"
 ---
 # <a name="how-to-stop-signing-in-automatically"></a>So beenden Sie die automatische Anmeldung
 
 Um die automatische Anmeldung bei Outlook.com zu beenden, deaktivieren Sie das Kontrollkästchen " **Angemeldet bleiben** " auf der Seite, auf der Sie Ihr Kennwort eingeben.
   
-Weitere Informationen finden Sie unter [Anmelden bei oder Abmelden bei Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie unter [Anmelden bei oder Abmelden bei Outlook.com](https://support.microsoft.com/office/how-to-sign-in-to-or-out-of-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e).
   
