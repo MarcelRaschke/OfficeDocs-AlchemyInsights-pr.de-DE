@@ -3,25 +3,24 @@ title: Wiederherstellen gelöschter Elemente aus dem Exchange Admin Center
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
-ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: 4494c122677142f7ef491beaf496aaaf652a7691
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: 458cd04062ab211831f4f5293a111b3923ea3b59
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65728538"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66520509"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>Wiederherstellen gelöschter Elemente aus dem Exchange Admin Center
 
-Innerhalb der vereinfachten und [aktualisierten Postfachverwaltungsoberfläche](https://admin.exchange.microsoft.com/#/mailboxes) im Exchange Admin Center (EAC) können Sie das benutzerspezifische Postfach auswählen und Elemente wiederherstellen.
+Innerhalb der vereinfachten und [aktualisierten Oberfläche für die Postfachverwaltung](https://admin.exchange.microsoft.com/#/mailboxes)können Sie im Exchange Admin Center (EAC) das benutzerspezifische Postfach auswählen und Elemente wiederherstellen.
 
 1. Wählen Sie die Option **Postfächer** unter **Empfänger** aus.
 2. Wählen Sie den Benutzer aus, von dem Sie E-Mails wiederherstellen möchten.
