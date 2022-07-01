@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c5948924ea411bb6e5aecb944eaf15865a72494
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 4f7ca729f852719e025f0e2722318b76e009fa88
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66361911"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66591187"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>IRM-Schutz für SharePoint-Dateien
 
@@ -28,7 +28,7 @@ Weitere Informationen finden Sie unter:
 
 - [IRM aktiviert SharePoint-Dokumentbibliotheken und -Listen](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
-- [Verwaltung von Informationsrechten in Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+- [Verwaltung von Informationsrechten in Office](https://support.microsoft.com/office/open-a-file-that-has-restricted-permissions-c7a70797-6b1e-493f-acf7-92a39b85e30c).
 
 - [Verwaltung von Informationsrechten in Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online).
 

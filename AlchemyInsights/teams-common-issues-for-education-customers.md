@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 553611b819d1dbe78df41bcdb0418e8551a303f8
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 81acf59d37d03ceffc1dddf7b865a0018117b911
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66383347"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66592015"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Microsoft Teams: Häufige Probleme bei Kunden in Bildungseinrichtungen
 
@@ -27,7 +27,7 @@ Wenn Sie Hilfe bei der Bereitstellung von Teams zur Unterstützung von Fernunter
 
 - Sie sehen sie die Meldung "**Sie verpassen etwas!**" Stellen Sie sicher, dass Sie [Microsoft Teams für Ihre Schule aktivieren](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams). Bei EDU-Mandanten ist Microsoft Teams standardmäßig nicht aktiviert. Sie müssen es zuerst aktivieren.
 
-- **Neu bei Teams?** Lesen Sie als Nächstes [Fernstudium (Lehren und Lernen) in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Schülern zu erhalten.
+- **Neu bei Teams?** Lesen Sie als Nächstes [Fernstudium (Lehren und Lernen) in Office 365 Education](https://support.microsoft.com/topic/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Schülern zu erhalten.
 
 - Sobald es aktiviert ist, können Ihre Benutzer Teams ausführen, indem Sie es entweder den [Desktop](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client) und [mobile Clients](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) oder über den Browser unter https://teams.microsoft.com installieren.
 
@@ -90,4 +90,4 @@ Wenn Sie Hilfe bei der Bereitstellung von Teams zur Unterstützung von Fernunter
   - Stellen Sie sicher, dass dem Benutzer ein [Anrufplan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) zugewiesen wurde.
   - Aktivieren Sie die Benutzer für [Enterprise-VoIP](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 
-- **Problembehandlung bei Teams-Anmeldung:** Stellen Sie zuerst sicher, dass der [Microsoft Teams-Dienst fehlerfrei funktioniert](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Überprüfen Sie dann, ob häufige Fehlercodes vorhanden sind, und lesen Sie [Warum habe ich Probleme beim Anmelden bei Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f) Möglicherweise müssen Sie auch [Identitätsmodelle und Authentifizierung in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication) überprüfen.
+- **Problembehandlung bei Teams-Anmeldung:** Stellen Sie zuerst sicher, dass der [Microsoft Teams-Dienst fehlerfrei funktioniert](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Überprüfen Sie dann, ob häufige Fehlercodes vorhanden sind, und lesen Sie [Warum habe ich Probleme beim Anmelden bei Microsoft Teams?](https://support.microsoft.com/office/why-am-i-having-trouble-signing-in-to-microsoft-teams-a02f683b-61a3-4008-9447-ee60c5593b0f) Möglicherweise müssen Sie auch [Identitätsmodelle und Authentifizierung in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication) überprüfen.

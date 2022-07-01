@@ -13,12 +13,12 @@ ms.custom:
 - "9000660"
 - "2599"
 - "2509"
-ms.openlocfilehash: 6d9f3071971bbd5821e21514ad8e07b045d7be67
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 6e21836f71df4e839575f67d851650983d9aa70c
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66382461"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66587623"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams mit Office-Updates installiert
 
@@ -30,7 +30,7 @@ Darüber hinaus wird Teams ab Version 1906 im aktuellen Kanal schrittweise zu **
 
 Wenn Ihre Organisation nicht bereit ist, Teams bereitzustellen, können Sie Teams von [neuen](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) oder [vorhandenen](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Installationen von Office ***ausschließen***. Wenn Teams installiert werden soll, Teams aber nicht automatisch für den Benutzer gestartet werden soll, nachdem es installiert wurde, lesen Sie ["Verhindern, dass Microsoft Teams nach der Installation automatisch gestartet](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) wird".
 
-Informationen zum ***Deinstallieren von Teams*** von einem Gerät unter Windows finden [Sie unter "Deinstallieren von Microsoft Teams"](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Informationen zum Bereinigen von Microsoft Teams von mehreren Zielcomputern oder Benutzern finden Sie unter [Bereinigung der Microsoft Teams-Bereitstellung](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+Informationen zum ***Deinstallieren von Teams*** von einem Gerät unter Windows finden [Sie unter "Deinstallieren von Microsoft Teams"](https://support.microsoft.com/office/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Informationen zum Bereinigen von Microsoft Teams von mehreren Zielcomputern oder Benutzern finden Sie unter [Bereinigung der Microsoft Teams-Bereitstellung](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 
 Wenn Sie gemeinsam genutzte Computer, Remotedesktopdienste (RDS) oder Virtual Desktop Infrastructure (VDI) verwenden, lesen Sie [freigegebene Computer- und VDI-Umgebungen mit Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Wenn Sie Office für Mac verwenden, lesen Sie [Microsoft Teams-Installationen auf einem Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
 

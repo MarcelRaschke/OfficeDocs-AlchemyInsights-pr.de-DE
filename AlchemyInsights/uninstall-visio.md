@@ -12,12 +12,12 @@ ms.custom:
 - "9000201"
 - "1936"
 ms.date: 04/21/2020
-ms.openlocfilehash: 7bcca7791f30da5d99741217126d0c2197990a13
-ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
+ms.openlocfilehash: 7751b09bc005ed01d8f490b10ce7e705539b3c72
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66511954"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66591871"
 ---
 # <a name="uninstall-visio"></a>Deinstallieren von Visio
 
@@ -29,6 +29,6 @@ Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-
     
     Nach dem Neustart wird der Support- und Wiederherstellungs-Assistent automatisch erneut geöffnet, um den Deinstallationsvorgang abzuschließen.
     
-3. Folgen Sie den verbleibenden Eingabeaufforderungen, und wenn Sie über ein Abonnement für Visio Online verfügen, können Sie Visio über das Microsoft 365-Kontoportal erneut [installieren](https://portal.office.com/account#installs). Weitere Hilfe oder Hilfe zum Installieren von Visio-Versionen ohne Abonnement, z. B. Visio Professional, finden [Sie unter Installieren von Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
+3. Folgen Sie den verbleibenden Eingabeaufforderungen, und wenn Sie über ein Abonnement für Visio Online verfügen, können Sie Visio über das Microsoft 365-Kontoportal erneut [installieren](https://portal.office.com/account#installs). Weitere Hilfe oder Hilfe zum Installieren von Visio-Versionen ohne Abonnement, z. B. Visio Professional, finden [Sie unter Installieren von Visio](https://support.microsoft.com/office/install-visio-or-access-visio-for-the-web-f98f21e3-aa02-4827-9167-ddab5b025710). 
     
-Wählen Sie für eine Liste der anderen Deinstallationsoptionen ["Office von einem PC deinstallieren" aus](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).
+Wählen Sie für eine Liste der anderen Deinstallationsoptionen ["Office von einem PC deinstallieren" aus](https://support.microsoft.com/office/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8).

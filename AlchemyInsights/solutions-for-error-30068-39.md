@@ -12,20 +12,20 @@ ms.custom:
 - "2000020"
 - "833"
 ms.date: 04/21/2020
-ms.openlocfilehash: ed2640568a509277dd434280d83b548d01a16123
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 1e91e2b6c19cfa928f4bd70518223a0ccf914d26
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66397299"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66597664"
 ---
 # <a name="solutions-for-error-30068-39"></a>Lösungen für Fehler 30068-39
 
-Versuchen Sie folgende Lösungen, um Fehler [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) zu beheben:
+Versuchen Sie folgende Lösungen, um Fehler [30068-39](https://support.microsoft.com/office/error-code-30068-when-installing-office-963ca3e4-217a-4c16-9c02-ff946548357b) zu beheben:
   
 - Starten Sie Ihren Computer neu, und versuchen Sie [, Office zu installieren](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Überprüfen Sie, ob der **Microsoft Klick-und-Los-Dienst** [deaktiviert ist](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) , und ändern Sie den Status in **"Manuell"** oder " **Automatisch**", wenn er deaktiviert ist.
+- Überprüfen Sie, ob der **Microsoft Klick-und-Los-Dienst** [deaktiviert ist](https://support.microsoft.com/office/error-code-30068-when-installing-office-963ca3e4-217a-4c16-9c02-ff946548357b) , und ändern Sie den Status in **"Manuell"** oder " **Automatisch**", wenn er deaktiviert ist.
 
 - Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) herunter, und installieren Sie ihn.
 

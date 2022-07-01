@@ -8,16 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.openlocfilehash: a5242bbee8066f689209252a894af92ce4d59275
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 16742bfe21e3b766a4a95d75a0e3db7170dc3019
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66317667"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66597119"
 ---
 # <a name="save-site-or-list-as-a-template"></a>Speichern einer Website oder Liste als Vorlage
 
-SharePoint-Websitevorlagen sind vorkonfigurierte Definitionen, die einem bestimmten Geschäftszweck dienen. Weitere Informationen finden [Sie unter Verwenden von Vorlagen zum Erstellen verschiedener Arten von SharePoint-Websites](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+SharePoint-Websitevorlagen sind vorkonfigurierte Definitionen, die einem bestimmten Geschäftszweck dienen. Weitere Informationen finden [Sie unter Verwenden von Vorlagen zum Erstellen verschiedener Arten von SharePoint-Websites](https://support.microsoft.com/office/create-different-kinds-of-sharepoint-sites-using-site-templates-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
 
 Im Folgenden finden Sie einige häufige Probleme/Lösungen im Zusammenhang mit dem Speichern einer Website oder Liste als Vorlage in SharePoint Online.
 
@@ -34,7 +34,7 @@ Im Folgenden finden Sie einige häufige Probleme/Lösungen im Zusammenhang mit d
 - Möglicherweise fehlt der Vorlage ein [Feature](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) und wird nicht aktiviert. Wenn das Feature in der aktuellen Websitesammlung nicht aktiviert werden kann, können Sie die Websitevorlage nicht zum Erstellen einer Website verwenden.
 
 
-- Überprüfen Sie, ob irgendwelche Listen oder Bibliotheken den oberen [Schwellenwert der Listenansicht](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) von 5000 Elementen überschreiten, da hierdurch die Erstellung einer Websitevorlage verhindert werden kann.
+- Überprüfen Sie, ob irgendwelche Listen oder Bibliotheken den oberen [Schwellenwert der Listenansicht](https://support.microsoft.com/office/manage-large-lists-and-libraries-b8588dae-9387-48c2-9248-c24122f07c59) von 5000 Elementen überschreiten, da hierdurch die Erstellung einer Websitevorlage verhindert werden kann.
 
 
 - Die Website verwendet möglicherweise zu viele Ressourcen, und daher überschreitet die Websitevorlage den Grenzwert von 50 MB.
@@ -43,5 +43,5 @@ Im Folgenden finden Sie einige häufige Probleme/Lösungen im Zusammenhang mit d
 - Es treten Probleme beim Anzeigen von Daten aus einer Liste auf, die eine Nachschlagespalte verwendet. Weitere Informationen finden Sie unter [Mithilfe einer Vorlage generierte Liste zeigt nicht die Daten aus der richtigen Nachschlageliste in SharePoint Online an](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
 
-Ausführlichere Informationen zu allgemeinen Problemen und Lösungen finden Sie unter ["Erstellen und Verwenden von Websitevorlagen](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)".
+Ausführlichere Informationen zu allgemeinen Problemen und Lösungen finden Sie unter ["Erstellen und Verwenden von Websitevorlagen](https://support.microsoft.com/office/create-and-use-site-templates-in-sharepoint-server-versions-60371b0f-00e0-4c49-a844-34759ebdd989)".
 

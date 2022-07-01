@@ -12,12 +12,12 @@ ms.custom:
 - "9000181"
 - "1778"
 ms.date: 04/21/2020
-ms.openlocfilehash: d1e416ba0991294d2638e59c544bb772b04ed247
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 08319bed879a884f5fd4ad934f4985f8db9f87ac
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66384645"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66597055"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Vertraulichkeitsbezeichnungen werden nicht angezeigt
 
@@ -27,7 +27,7 @@ Wenn Sie Ihre Vertraulichkeitsbezeichnungen konfiguriert haben, diese aber in de
 
 - Vergewissern Sie sich, dass die Vertraulichkeitsbezeichnung für die gewünschten Benutzer und Gruppen [veröffentlicht](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) wurde.
 
-- Vergewissern Sie sich, dass der Benutzer eine App verwendet, die Vertraulichkeitsbezeichnungen unterstützt . Weitere Informationen finden Sie [unter Vertraulichkeitsbezeichnungen in Ihrem Dokument](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
+- Vergewissern Sie sich, dass der Benutzer eine App verwendet, die Vertraulichkeitsbezeichnungen unterstützt . Weitere Informationen finden Sie [unter Vertraulichkeitsbezeichnungen in Ihrem Dokument](https://support.microsoft.com/office/apply-sensitivity-labels-to-your-files-and-email-in-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ui=en-us&rs=en-us&ad=us#bkmk_whereavailable).
 
 - Wenn Sie [Azure Information Protection Bezeichnungen migrieren](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), beachten Sie die [hier](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels) aufgeführten Überlegungen.
 
@@ -38,4 +38,4 @@ Wenn Sie Ihre Vertraulichkeitsbezeichnungen konfiguriert haben, diese aber in de
     - Benutzern die Zuweisung von Berechtigungen überlassen
 
 
-Weitere Informationen zu möglichen Problemen finden Sie unter [Bekannte Probleme mit Vertraulichkeitsbezeichnungen](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Weitere Informationen zu möglichen Problemen finden Sie unter [Bekannte Probleme mit Vertraulichkeitsbezeichnungen](https://support.microsoft.com/office/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

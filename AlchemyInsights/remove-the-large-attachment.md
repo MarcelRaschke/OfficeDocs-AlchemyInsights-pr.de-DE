@@ -13,12 +13,12 @@ ms.custom:
 - "9002385"
 - "2713"
 - "4645"
-ms.openlocfilehash: feb5943234812d9c2976afa23b8b1b0f3c0ceba9
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 263a7c95376de2d6fd137fd820a09a9d8de9efb2
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66362379"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66591439"
 ---
 # <a name="remove-the-large-attachment"></a>Entfernen der großen Anlage
 
@@ -33,4 +33,4 @@ ms.locfileid: "66362379"
 Nachrichten bleiben auch im Postausgang hängen, wenn Sie auf **"Senden**" klicken, aber Sie sind nicht verbunden. Klicken Sie auf **"Senden/Empfangen** ", und sehen Sie sich die Schaltfläche " **Offline arbeiten** " an. Wenn es blau ist, werden Sie getrennt. Klicken Sie darauf, um eine Verbindung herzustellen (die Schaltfläche wird weiß), und klicken Sie dann auf **"Alle senden**".
  
  Ausführliche Informationen finden Sie unter:
-- [Video: Senden oder Löschen einer hängen gebliebenen E-Mail](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [Video: Senden oder Löschen einer hängen gebliebenen E-Mail](https://support.microsoft.com/office/video-send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 

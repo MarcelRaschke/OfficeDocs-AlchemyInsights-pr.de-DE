@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.openlocfilehash: 82cf457b70b1eba21e085acd312411d3ffe89c13
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 3c8e404d5dd70728cec267ae420d32f3c7e57afa
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66279923"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66591979"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Problembehandlung bei Fehler 404, Datei nicht gefunden
 
@@ -27,6 +27,6 @@ Informationen zu modernen Websites (Kommunikation, gruppenverbundene oder andere
 
 So beheben Sie Fehler 404 für eine Datei (oder ein anderes Element), die umbenannt, verschoben oder gelöscht wurde:
 
-Wechseln Sie zur SharePoint- oder OneDrive-Website, und zeigen Sie den Papierkorb aus den Websiteinhalten an. Siehe [Wiederherstellen von Elementen im Papierkorb einer SharePoint-Website](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+Wechseln Sie zur SharePoint- oder OneDrive-Website, und zeigen Sie den Papierkorb aus den Websiteinhalten an. Siehe [Wiederherstellen von Elementen im Papierkorb einer SharePoint-Website](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be?ui=en-us&rs=en-us&ad=us#ID0EAADAAA=Online).
 
 Wenn Sie das Element immer noch nicht finden können, können Sie das Überwachungsprotokoll durchsuchen, wenn die Protokollierung aktiviert ist. [Durchsuchen Sie das Überwachungsprotokoll im Microsoft 365 Security & Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).

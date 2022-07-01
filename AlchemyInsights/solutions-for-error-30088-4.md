@@ -12,16 +12,16 @@ ms.custom:
 - "2000020"
 - "829"
 ms.date: 04/21/2020
-ms.openlocfilehash: 70b4aa88feed4228de63305d627027f79b0e2846
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: e9edb96c1ec353962f1f52cc12c64c81738fc398
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66397119"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66590899"
 ---
 # <a name="solutions-for-error-30088-4"></a>Lösungen für Fehler 30088-4
 
-Versuchen Sie folgende Lösungen, um Fehler [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA) zu beheben:
+Versuchen Sie folgende Lösungen, um Fehler [30088-4](https://support.microsoft.com/office/fix-office-installation-errors-d5df89a9-0507-4b4c-92f9-22f457e630aa) zu beheben:
   
 - Starten Sie Ihren Computer neu, und versuchen Sie [, Office zu installieren](https://portal.office.com/OLS/MySoftware.aspx).
 

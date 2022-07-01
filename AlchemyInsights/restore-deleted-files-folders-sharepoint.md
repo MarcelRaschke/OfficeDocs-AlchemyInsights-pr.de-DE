@@ -12,12 +12,12 @@ ms.custom:
 - "9000210"
 - "3173"
 ms.date: 04/21/2020
-ms.openlocfilehash: d658dbc6abdf149baf67bb7eaabe746701f69ae3
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: c7089884c0be156ec9078d88e63970556ea06ae3
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66430415"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66591223"
 ---
 # <a name="restore-deleted-files-or-folders-in-sharepoint"></a>Wiederherstellen gelöschter Dateien oder Ordner in SharePoint
 
@@ -27,4 +27,4 @@ Wenn Sie versehentlich eine Datei oder einen Ordner in SharePoint löschen, kön
 
 Wenn viele Ihrer SharePoint-Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie Ihre gesamte SharePoint-Bibliothek auf ein früheres Mal wiederherstellen.
 
-* [Wiederherstellen einer Dokumentbibliothek](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+* [Wiederherstellen einer Dokumentbibliothek](https://support.microsoft.com/office/restore-a-shared-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

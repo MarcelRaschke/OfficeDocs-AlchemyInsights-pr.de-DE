@@ -11,18 +11,18 @@ ms.localizationpriority: high
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 15ea14fb69419c9174046999f83e89dec15d75ba
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: fe7ad89ebd8a982b577d19ff52f713eaef655bc2
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66360687"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66596980"
 ---
 # <a name="teams-client-crashing"></a>Teams-Client stürzt ab
 
 Wenn Ihr Team-Client abstürzt, versuchen Sie bitte Folgendes:
 
-- Wenn Sie die Team-Desktop-App verwenden, [Stellen Sie sicher, dass die App vollständig aktualisiert wurde](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
+- Wenn Sie die Team-Desktop-App verwenden, [Stellen Sie sicher, dass die App vollständig aktualisiert wurde](https://support.microsoft.com/office/update-microsoft-teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
 - Stellen Sie sicher, dass auf alle [Microsoft 365-URLs und -Adressbereiche](https://docs.microsoft.com/microsoftteams/connectivity-issues) zugegriffen werden kann.
 

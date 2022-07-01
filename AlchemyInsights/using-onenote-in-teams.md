@@ -11,12 +11,12 @@ ms.localizationpriority: high
 ms.custom:
 - "9002316"
 - "5665"
-ms.openlocfilehash: f61a7e50fa6bae6d208bdd9ee823025ec86d24d9
-ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
+ms.openlocfilehash: 49b9d3fa7d044333e7b86a61b98efccd10008115
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66517224"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66597919"
 ---
 # <a name="using-onenote-in-teams"></a>Verwenden von OneNote in Teams
 
@@ -25,5 +25,5 @@ Vereinfachen Sie Ihre Notizen und haben Sie einen einzigen Ort, an dem Sie alle 
 - **Hinzufügen eines Notizbuchs**: Sie können [Teams ein neues oder vorhandenes Notizbuch](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) hinzufügen.
 - **Verwalten des Zugriffs auf OneNote**: Sie können den Benutzerzugriff auf OneNote im Microsoft Teams Admin Center verwalten. Weitere Informationen finden Sie unter [Verwalten Ihrer Anwendungen im Microsoft Teams Admin Center](https://docs.microsoft.com/MicrosoftTeams/manage-apps).
 - **Wiederherstellen von Notizbüchern aus gelöschten Gruppen**: Befolgen Sie die Schritte zum [Wiederherstellen eines gelöschten Teams](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) und seines Inhalts durch Wiederherstellen der Office 365-Gruppen.
-- **Probleme mit dem Kurs-Notizbuch**: Siehe [OneNote-Update und bewährte Methoden für Lehrkräfte und Kursteilnehmer](https://support.office.com/article/onenote-update-and-best-practices-for-educators-and-students-dde775f0-8b06-4263-8b54-1e9ddc3dd146) und [OneNote-Update und bewährte Methoden für IT-Administratoren im Bildungsbereich](https://support.office.com/article/onenote-update-and-best-practices-for-it-admins-in-education-9d78f2b2-5e25-4288-b597-b4ba463c7b46).
+- **Probleme mit dem Kurs-Notizbuch**: Siehe [OneNote-Update und bewährte Methoden für Lehrkräfte und Kursteilnehmer](https://support.microsoft.com/topic/onenote-update-and-best-practices-for-educators-and-students-dde775f0-8b06-4263-8b54-1e9ddc3dd146) und [OneNote-Update und bewährte Methoden für IT-Administratoren im Bildungsbereich](https://support.microsoft.com/topic/onenote-update-and-best-practices-for-it-admins-in-education-9d78f2b2-5e25-4288-b597-b4ba463c7b46).
 - Wenn Sie die **Registerkarte OneNote in Teams nicht verwenden können** oder wenn Ihr **Notizbuch Synchronisierungsprobleme hat**, melden Sie sich bei Ihrem Mandanten-Verwaltungskonto an und überprüfen Sie Ihr [Dienststatus-Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health), um sicherzustellen, dass keine Ausfälle oder Leistungseinbußen vorliegen.

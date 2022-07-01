@@ -13,12 +13,12 @@ ms.custom:
 - "1988"
 - "1989"
 ms.date: 04/21/2020
-ms.openlocfilehash: c3c692c5b967c03270594e240ba98295f25d318b
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 9c2daeb8ba3b47431af9fe3f5307c630d5058e03
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66285094"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66597595"
 ---
 # <a name="turn-off-focused-inbox"></a>Deaktivieren des Posteingangs mit Relevanz
 
@@ -26,4 +26,4 @@ ms.locfileid: "66285094"
  um den Einstellungsbereich zu öffnen.
 2. Verschieben Sie im Bereich "Einstellungen" den Umschalter " **Posteingang mit Relevanz** " auf "Aus".
 
-Weitere Informationen finden Sie unter [Deaktivieren des Posteingangs mit Relevanz](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2#bkmk_outlookonweb).
+Weitere Informationen finden Sie unter [Deaktivieren des Posteingangs mit Relevanz](https://support.microsoft.com/office/turn-off-focused-inbox-f714d94d-9e63-4217-9ccb-6cb2986aa1b2?ui=en-us&rs=en-us&ad=us#bkmk_outlookonweb).

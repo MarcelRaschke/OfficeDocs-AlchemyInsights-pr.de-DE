@@ -12,16 +12,16 @@ ms.custom:
 - "1600027"
 - "164"
 ms.date: 04/21/2020
-ms.openlocfilehash: e2f42dfef7d46216f07063c2e4e6a59902e8970e
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: bdf3b2bbc12774fb47032d61be8b4cd2724fea7f
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66264727"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66588631"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Erforderliche Lizenzen für Microsoft ToDo
 
-[Erforderliche Lizenzen für Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Erforderliche Lizenzen für Microsoft ToDo](https://support.microsoft.com/office/assign-microsoft-to-do-licenses-381e9d1b-c500-49b5-973e-890fd86528d7)
   
 Ein Benutzer muss über eine der folgenden Lizenzen verfügen, um Microsoft ToDo verwenden zu können:
   

@@ -12,12 +12,12 @@ ms.custom:
 - "9000260"
 - "1860"
 ms.date: 04/21/2020
-ms.openlocfilehash: 4776af2465471ff4fd87b8be67a161f38b75a8ec
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 273f9db6209413ef4d09248a48e5d82e6865734c
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66399963"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66588511"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Zurückrufen oder Ersetzen einer E-Mail-Nachricht in Microsoft 365
 
@@ -35,7 +35,7 @@ ms.locfileid: "66399963"
 5. Wenn Sie eine Ersatznachricht senden, verfassen Sie die Nachricht, und wählen Sie " **Senden**" aus.
 6. Der Erfolg oder Fehler eines Nachrichtenrückrufs hängt von den Einstellungen der Empfänger in Outlook ab.
 
-Weitere Informationen, einschließlich der Überprüfung des Rückrufs, finden Sie unter ["Rückruf" oder "Ersetzen einer von Ihnen gesendeten E-Mail-Nachricht](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)".
+Weitere Informationen, einschließlich der Überprüfung des Rückrufs, finden Sie unter ["Rückruf" oder "Ersetzen einer von Ihnen gesendeten E-Mail-Nachricht](https://support.microsoft.com/office/recall-or-replace-an-email-message-that-you-sent-35027f88-d655-4554-b4f8-6c0729a723a0)".
 
 ***Wenn Sie in Ihrer Organisation nach E-Mail-Nachrichten suchen und diese löschen*** möchten, ist es am einfachsten, wenn Sie ein globaler Administrator sind. Wenn Sie kein globaler Administrator sind, muss Ihr Konto der Rollengruppe "eDiscovery-Manager" oder der Verwaltungsrolle "Compliancesuche" hinzugefügt werden. Zum Löschen von Nachrichten müssen Sie der Rollengruppe "Organisationsverwaltung" oder der Verwaltungsrolle "Suchen und Löschen" beitreten. Berechtigungen für diese Rollen werden im [Security & Compliance Center](https://protection.office.com/) zugewiesen.
 

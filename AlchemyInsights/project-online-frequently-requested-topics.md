@@ -12,12 +12,12 @@ ms.custom:
 - "9000685"
 - "2573"
 ms.date: 04/21/2020
-ms.openlocfilehash: cc3e7bf85cf1b061320f012e75405b7c607b1168
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 43e0236ae729766be40bc5ea5821f4aa702b3a3a
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66400395"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66597415"
 ---
 # <a name="project-online-frequently-requested-topics"></a>Project Online häufig angeforderte Themen
 
@@ -32,4 +32,4 @@ Hier sind häufig angeforderte Themen für Project:
 2. [Fügen Sie Personen, Gruppen und Ressourcen hinzu, und geben Sie dann Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)
 3. [Optimieren der Leistung von Project Web App (PWA) in Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
 4. Herstellen einer Verbindung mit dem [Project Online Desktopclient](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)
-5. [Installieren und Verwenden von Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281)
+5. [Installieren und Verwenden von Project Professional](https://support.microsoft.com/office/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281)

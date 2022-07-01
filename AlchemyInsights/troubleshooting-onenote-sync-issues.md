@@ -11,16 +11,16 @@ ms.localizationpriority: medium
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 7d730128e111e20583025cf3f32b3274f2023bdc
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 06d6dd93cd034ecc069958df5c5371bf5aeb7fcf
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66333935"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66590611"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>Behandeln von OneNote-Synchronisierungsproblemen
 
-* Um die häufigsten Probleme im Zusammenhang mit der OneNote-Synchronisierung zu beheben, führen Sie die Schritte zum [Beheben von Problemen aus, wenn Sie OneNote nicht synchronisieren können](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+* Um die häufigsten Probleme im Zusammenhang mit der OneNote-Synchronisierung zu beheben, führen Sie die Schritte zum [Beheben von Problemen aus, wenn Sie OneNote nicht synchronisieren können](https://support.microsoft.com/office/fix-issues-when-you-can-t-sync-onenote-299495ef-66d1-448f-90c1-b785a6968d45).
 
 Wenn das Notizbuch, das nicht synchronisiert wird, auf OneDrive oder in neueren Versionen von SharePoint gespeichert ist, versuchen Sie, das Notizbuch in OneNote für das Web (unter www.onenote.com) zu öffnen. Auf diese Weise kann ermittelt werden, ob das Problem vom Server oder von OneNote verursacht wird.
 
@@ -34,4 +34,4 @@ Wenn das Notizbuch, das nicht synchronisiert wird, auf OneDrive oder in neueren 
 
 Wenn Sie das Notizbuch nicht in OneNote für das Web öffnen können und die Änderungen angezeigt werden, kann das Problem durch die Desktopversion von OneNote verursacht werden. Beim Schließen und erneuten Öffnen des Notizbuchs wird die Verbindung in der Regel gelöscht und erfolgreich zurückgesetzt.
 
-* Es wird empfohlen, die Schritte unter ["Installieren von Office-Updates](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) " zu befolgen, um die neuesten OneNote-Updates auf Ihrem PC zu installieren. Wenn Sie sich auf einem Mac befinden, führen Sie die Schritte unter ["Automatisches Überprüfen auf Office für Mac Updates" aus](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).
+* Es wird empfohlen, die Schritte unter ["Installieren von Office-Updates](https://support.microsoft.com/office/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) " zu befolgen, um die neuesten OneNote-Updates auf Ihrem PC zu installieren. Wenn Sie sich auf einem Mac befinden, führen Sie die Schritte unter ["Automatisches Überprüfen auf Office für Mac Updates" aus](https://support.microsoft.com/office/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).

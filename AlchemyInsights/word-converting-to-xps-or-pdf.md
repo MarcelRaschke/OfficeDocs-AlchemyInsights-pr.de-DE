@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 5580fcc4004ad6da38f17097dffbe58369c6e54b
-ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
+ms.openlocfilehash: e2421c12cbb1ba868d9cc9cb9634b34ab5e65108
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66507594"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66597883"
 ---
 # <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Beheben von Problemen beim Konvertieren eines Word-Dokuments in XPS oder PDF
 
@@ -40,4 +40,4 @@ Hier sind einige Lösungen für häufig auftretende Probleme.
 
 2. Wählen Sie im Fenster **"Als PDF oder XPS veröffentlichen**" **die Option "Dokumentstrukturtags "Optionen** > " aus, um **barrierefrei zu sein**. Legen Sie alle anderen gewünschten Optionen fest, und wählen Sie **"OK**" aus.
 
-Weitere Informationen zu Optionen zum Konvertieren von Office-Dateien in XPS oder PDF finden [Sie unter Speichern oder Konvertieren in PDF oder XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).
+Weitere Informationen zu Optionen zum Konvertieren von Office-Dateien in XPS oder PDF finden [Sie unter Speichern oder Konvertieren in PDF oder XPS](https://support.microsoft.com/office/save-or-convert-to-pdf-or-xps-in-office-desktop-apps-d85416c5-7d77-4fd6-a216-6f4bf7c7c110).
