@@ -12,12 +12,12 @@ ms.custom:
 - "9000336"
 - "1964"
 ms.date: 04/21/2020
-ms.openlocfilehash: 0d5986a7345c3b6601de9250f0245900f2ee7aa4
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 5d7a75097dd07df63f10f1d927296f3d659fb2de
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66401583"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66582230"
 ---
 # <a name="permanently-delete-email-in-outlookcom"></a>Dauerhaftes Löschen von E-Mails in Outlook.com
 
@@ -28,4 +28,4 @@ Wenn Sie E-Mails löschen oder Ihren Posteingang leeren möchten:
 1. Wählen Sie oben auf der Seite die Option **"Löschen"** aus (für den gesamten **Ordner "Leerer Ordner"** oder "**Leerer** /  Ordner mit Relevanz **" "Sonstige**", wenn der Posteingang mit Relevanz aktiviert ist).
 1. Um alle gelöschten E-Mails zu löschen, öffnen Sie den [Ordner "Gelöschte Elemente](https://outlook.live.com/mail/deleteditems) ", und wählen Sie **"Ordner leeren**" aus. Wählen Sie dann oben auf der Seite " **Wiederherstellbare Elemente** " aus, und wählen Sie " **Ordner leeren** " erneut aus.
 
-Weitere Informationen finden Sie [unter Löschen von E-Mails in Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie [unter Löschen von E-Mails in Outlook.com](https://support.microsoft.com/office/delete-email-in-outlook-com-a9b63739-5392-412a-8e9a-d4b02708dee4).

@@ -14,12 +14,12 @@ ms.custom:
 - "1399"
 - "1626"
 ms.date: 04/21/2020
-ms.openlocfilehash: d1e388cc55de57379c2d04d8046f7335c435783e
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: d768654b68e71f27eef0b5b92cb6508afc607767
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66285994"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66579062"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Speichern von Nachrichten in Outlook.com
 
@@ -37,4 +37,4 @@ Das in Windows 10 enthaltene Microsoft Print To PDF-Hilfsprogramm ermöglicht es
 
 **Hinweis:** Dies wird auf freigegebenen oder öffentlichen Computern nicht empfohlen, da andere Benutzer Zugriff auf pdf-Dateien haben können, die Sie auf dem PC speichern und nicht löschen.
 
-Weitere Informationen zum Drucken finden Sie unter [Drucken von E-Mail-Nachrichten, Anlagen und Kalendern in Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen zum Drucken finden Sie unter [Drucken von E-Mail-Nachrichten, Anlagen und Kalendern in Outlook.com](https://support.microsoft.com/office/print-email-messages-attachments-and-calendars-in-outlook-com-c835b8e5-b310-4cab-ac15-b6eb95149855).

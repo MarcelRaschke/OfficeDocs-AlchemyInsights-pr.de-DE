@@ -12,12 +12,12 @@ ms.custom:
 - "8000013"
 - "1999"
 ms.date: 04/21/2020
-ms.openlocfilehash: ae5d074677cbe01259c200516b5bb32e9b51da77
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 87bd6c1b16d9219c82ad84a56aa8f1f34d585dbf
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66306198"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66585290"
 ---
 # <a name="change-font-or-font-size-in-outlook-on-the-web"></a>Ändern der Schriftart oder des Schriftgrads in Outlook im Web
 
@@ -32,4 +32,4 @@ So ändern Sie die Schriftart oder den Schriftgrad beim Verfassen einer Nachrich
     
 Wenn das Menü "Formatierungsoptionen" unten im Bereich "Verfassen" nicht angezeigt wird, wählen Sie <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAARCAYAAAAG/yacAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFgkLmMb9xQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABOklEQVQokZWTIa7CQBCGPwjJgoG0YkXTVV1HHSHBIHqCXgLDiSoRnIArYBC9QoNZQBRBitlUvWfoPkih5P1uk/l2vsxkevf7/YdHyrJku92yWq2YTCZ8Sv/5URQFAIfD4SPQgowxTKdTB3+FyrLker2SJAlCCKqq+g4VRYFSCiEEWutORQc1agBKqU7FQaN2Op0YDoeuuK5rqqp6O8V+oxaGIUoppJRIKQnD0Claa9nv9+R5/tfJGMNsNkNr7X4bj8cYY7DWkmUZnudxPB7xfZ9+XddIKVFKvShorVksFmRZRhRFpGlKEAScz2cGQgiSJGl5Nx2iKGK5XLLb7bDWMp/PX5fbBdxuN9brNaPRqA19A9z0/gO0oDzP8TyvEwDoPZ/GZrPhcrm4oncAPPb0nCAIiOOYOI7fAgC/6HCjfMhhDgMAAAAASUVORK5CYII=' /> **Formatierungsoptionen**.
   
-Weitere Informationen finden Sie unter [Ändern des Schriftgrads in Outlook im Web](https://support.office.com/article/43a2137f-8c3c-46df-af4a-73a12c9bb86e).
+Weitere Informationen finden Sie unter [Ändern des Schriftgrads in Outlook im Web](https://support.microsoft.com/office/change-font-size-in-outlook-on-the-web-43a2137f-8c3c-46df-af4a-73a12c9bb86e).

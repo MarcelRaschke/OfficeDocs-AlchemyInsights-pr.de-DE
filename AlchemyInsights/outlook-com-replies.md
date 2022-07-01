@@ -12,12 +12,12 @@ ms.custom:
 - "9000240"
 - "1825"
 ms.date: 04/21/2020
-ms.openlocfilehash: b0c89133bef1d32ac098a240206698351a1a771c
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 89b1b14ef00428e311b2b6f5a435eba05cfe6ccb
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66307314"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66582194"
 ---
 # <a name="replying-in-outlookcom"></a>Antworten in Outlook.com
 
@@ -41,4 +41,4 @@ So antworten Sie automatisch auf alle Nachrichten:
 5. Wenn Sie nur Antworten an Ihre Kontakte senden möchten, aktivieren Sie das Kontrollkästchen " **Antworten nur an Kontakte senden** ".
 6. Wählen Sie **Speichern**.
 
-Erfahren Sie mehr über [die automatische Weiterleitung in Outlook.com](https://support.office.com/article/14614626-9855-48dc-a986-dec81d07b1a0?wt.mc_id=Office_Outlook_com_Alchemy).
+Erfahren Sie mehr über [die automatische Weiterleitung in Outlook.com](https://support.microsoft.com/office/create-a-signature-and-automatic-reply-fff72394-8de9-48ce-92ab-13cc120f6545).

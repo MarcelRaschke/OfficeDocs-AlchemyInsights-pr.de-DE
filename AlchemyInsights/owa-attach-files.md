@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: ''
 ms.date: 04/21/2020
-ms.openlocfilehash: ab9905d3e5a67b8d0373bb1abaf555440073302c
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 01a94f4042c417a1f9246f07aa32942eff88a7c7
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66401331"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66580538"
 ---
 # <a name="how-to-attach-files-in-outlook-on-the-web"></a>Anfügen von Dateien in Outlook im Web
 
@@ -23,4 +23,4 @@ ms.locfileid: "66401331"
 .
 1. Wählen Sie **"Diesen Computer durchsuchen** " aus, um eine Datei auf Ihrem Computer anzufügen, oder **"Cloudspeicherorte durchsuchen** ", um eine Onlinedatei anzufügen.
 
-Weitere Informationen finden [Sie unter "Dateien anfügen" in Outlook im Web](https://support.office.com/article/48b8dca1-7a76-43ce-97d1-e1cf73893f55).
+Weitere Informationen finden [Sie unter "Dateien anfügen" in Outlook im Web](https://support.microsoft.com/office/attach-files-in-outlook-on-the-web-48b8dca1-7a76-43ce-97d1-e1cf73893f55).

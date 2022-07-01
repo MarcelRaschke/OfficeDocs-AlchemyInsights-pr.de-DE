@@ -12,12 +12,12 @@ ms.custom:
 - "8000078"
 - "1271"
 - "1963"
-ms.openlocfilehash: a2865265f3dc88223482d18fe4081dbb3adea0c1
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 068c46d09d885bb9eb6aecb9c6ba07c8820509e8
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66419314"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66581726"
 ---
 # <a name="empty-inbox"></a>Leerer Posteingang
 
@@ -34,4 +34,4 @@ Wenn Sie Ihren Posteingang leeren und alle Ihre E-Mails löschen möchten:
 1. Wählen Sie **"Alle löschen"** aus.
 1. Um alle gelöschten Nachrichten zu löschen, öffnen Sie den [Ordner "Gelöschte Elemente](https://outlook.live.com/mail/deleteditems) ", und wählen Sie " **Ordner "Alle** > **löschen**" aus. Wählen Sie dann oben auf der Seite " **Gelöschte Elemente wiederherstellen" und** dann erneut **"Ordner leeren** " aus.
 
-Weitere Informationen finden [Sie unter "Löschen von E-Mails in Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy)
+Weitere Informationen finden [Sie unter "Löschen von E-Mails in Outlook.com](https://support.microsoft.com/office/delete-email-in-outlook-com-a9b63739-5392-412a-8e9a-d4b02708dee4)

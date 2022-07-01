@@ -16,12 +16,12 @@ ms.custom:
 - "1393"
 - "1394"
 ms.date: 04/21/2020
-ms.openlocfilehash: 61250822e52263358f21b2047e8a1fcec0de56d4
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 729b159130cdb9c9aec4d5aa3506446da7b4b21a
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66320187"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66585506"
 ---
 # <a name="insert-pictures-in-an-email-message-or-calendar-event"></a>Einfügen von Bildern in eine E-Mail-Nachricht oder ein Kalenderereignis
 
@@ -33,4 +33,4 @@ Sie können Fotos, GIF-Dateien oder ClipArts von Ihrem Computer oder OneDrive al
 4. Ziehen Sie die Ecken, um die Größe des Bilds zu ändern.
 5. Klicken Sie mit der rechten Maustaste auf das Bild, um Formatierungsoptionen anzuzeigen.
 
-Weitere Informationen zum [Anfügen von Dateien in Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen zum [Anfügen von Dateien in Outlook.com](https://support.microsoft.com/office/add-pictures-or-attach-files-in-outlook-com-8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab).

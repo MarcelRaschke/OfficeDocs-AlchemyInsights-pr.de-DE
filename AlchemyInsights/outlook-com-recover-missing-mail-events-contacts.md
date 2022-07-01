@@ -19,19 +19,19 @@ ms.custom:
 - "802"
 - "803"
 ms.date: 04/21/2020
-ms.openlocfilehash: 83902989acde7eb34d3171a9759978108ef34bcd
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: e5fd27a17c776387873961d2188b4877ef750e05
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66256042"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66582158"
 ---
 # <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Suchen und Wiederherstellen fehlender oder gelöschter E-Mails, Kalenderereignisse oder Kontakte Outlook.com
 
 - Verwenden Sie in Mail die <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- **Suchleiste** am oberen Rand der Seite, um [nach Nachrichten oder Kontakten zu suchen](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy).
+ **Suchleiste** am oberen Rand der Seite, um [nach Nachrichten oder Kontakten zu suchen](https://support.microsoft.com/office/search-mail-and-people-in-outlook-com-88108edf-028e-4306-b87e-7400bbb40aa7).
   
 - Verwenden Sie im Kalender die <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- **Suchleiste** am oberen Rand der Seite, um [mithilfe eines Worts, Namens oder Ausdrucks nach Ereignissen zu suchen](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy). Wenn mehr als ein Kalender geöffnet ist, konzentriert sich die Suche auf den aktuell ausgewählten Kalender.
+ **Suchleiste** am oberen Rand der Seite, um [mithilfe eines Worts, Namens oder Ausdrucks nach Ereignissen zu suchen](https://support.microsoft.com/office/search-your-calendar-in-outlook-com-5bc05289-c84c-4849-95a8-7eac05ed478a). Wenn mehr als ein Kalender geöffnet ist, konzentriert sich die Suche auf den aktuell ausgewählten Kalender.
   
-- Wenn Sie versehentlich eine Nachricht, ein Kalenderereignis oder einen Kontakt löschen, können Sie [diese Elemente wiederherstellen, wenn sie sich noch im Ordner "Gelöschte Elemente" oder "Junk-E-Mail" befinden](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+- Wenn Sie versehentlich eine Nachricht, ein Kalenderereignis oder einen Kontakt löschen, können Sie [diese Elemente wiederherstellen, wenn sie sich noch im Ordner "Gelöschte Elemente" oder "Junk-E-Mail" befinden](https://support.microsoft.com/office/restore-deleted-email-messages-in-outlook-com-cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).

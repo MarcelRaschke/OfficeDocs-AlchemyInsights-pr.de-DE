@@ -12,12 +12,12 @@ ms.custom:
 - "8000019"
 - "2002"
 ms.date: 04/21/2020
-ms.openlocfilehash: d47e803c7e300f7431065c3d7e4f6ab75ac11364
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 18c682d6e365ac161ff2bcd9431fd286ee77a66f
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66265996"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66581186"
 ---
 # <a name="import-contacts"></a>Importieren von Kontakten
 
@@ -29,5 +29,5 @@ Bevor Sie Kontakte in Outlook im Web importieren, müssen Sie sie von Ihrem ande
 3. Wählen Sie **"Durchsuchen"**, dann Ihre CSV-Datei und dann **"Öffnen**" aus.
 4. Wählen Sie **Importieren** aus.
 
-Weitere Informationen finden Sie unter ["Importieren von Kontakten in Outlook](https://support.office.com/article/bb796340-b58a-46c1-90c7-b549b8f3c5f8#ID0EAACAAA=Outlook_on_the_web)".
+Weitere Informationen finden Sie unter ["Importieren von Kontakten in Outlook](https://support.microsoft.com/office/import-contacts-to-outlook-bb796340-b58a-46c1-90c7-b549b8f3c5f8?ui=en-us&rs=en-us&ad=us#ID0EAACAAA=Outlook_on_the_web)".
 

@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: ''
 ms.date: 04/21/2020
-ms.openlocfilehash: 09ae41c72d4a6f7895001d43f93be2e0e81b39cf
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 7389cd2eb74507bcd0b3afa91ee1c7d91138d7e9
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66285134"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66584354"
 ---
 # <a name="change-the-look-of-your-outlook-mailbox"></a>Ändern des Aussehens Ihres Outlook-Postfachs
 
@@ -26,4 +26,4 @@ Sie können die Darstellung der Nachrichtenliste und des Lesebereichs so ändern
 1. Wählen Sie Ihre Einstellungen für Posteingang mit Relevanz, Anzeigedichte, Unterhaltungsansicht und Lesebereich aus.
 1. Wählen Sie oben in der Nachrichtenliste " **Filtern** > **nach" aus** , um auszuwählen, wie Ihre E-Mails sortiert werden sollen.
 
-Weitere Informationen finden Sie unter [Ändern des Aussehens Ihres Postfachs](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
+Weitere Informationen finden Sie unter [Ändern des Aussehens Ihres Postfachs](https://support.microsoft.com/office/change-the-look-of-your-mailbox-in-outlook-com-and-the-new-outlook-on-the-web-b41c2ecb-f23c-42b3-b7f8-659646d5e58c).

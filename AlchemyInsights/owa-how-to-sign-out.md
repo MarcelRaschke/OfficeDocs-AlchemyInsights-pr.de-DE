@@ -12,12 +12,12 @@ ms.custom:
 - "8000008"
 - "1993"
 ms.date: 04/21/2020
-ms.openlocfilehash: cc1add62f6c6dc3a6b2a1d815b774c0fca2f71e7
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 249f1efaf3b7e20a8aa842b7532dcdec7eb2fa81
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66306126"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66579026"
 ---
 # <a name="how-to-sign-out-of-outlook-on-the-web"></a>Abmelden von Outlook im Web
 
@@ -29,4 +29,4 @@ So beenden Sie die automatische Anmeldung bei Ihrem Geschäfts-, Schul- oder Uni
 1. Wechseln Sie zu [Outlook.office.com](https://outlook.office.com/) , und wählen Sie **"Anderes Konto verwenden" aus**.
 1. Melden Sie sich mit der E-Mail-Adresse an, die Sie verwenden möchten.
 
-Weitere Informationen finden Sie unter [Anmelden bei oder Abmelden bei Outlook im Web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Weitere Informationen finden Sie unter [Anmelden bei oder Abmelden bei Outlook im Web](https://support.microsoft.com/office/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79).

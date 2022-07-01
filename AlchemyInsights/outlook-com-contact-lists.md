@@ -12,12 +12,12 @@ ms.custom:
 - "9000258"
 - "1850"
 ms.date: 04/21/2020
-ms.openlocfilehash: 77e2d240eb1d1b5b1b313654bd3b307805fc5a3b
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: afb7bfdc2a907f9d91dc7d82f07ae87ebdec838e
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66419494"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66579710"
 ---
 # <a name="organizing-your-outlookcom-mailbox"></a>Organisieren Ihres Outlook.com Postfachs
 
@@ -28,4 +28,4 @@ Eine Kontaktliste ist eine Sammlung von E-Mail-Adressen und eignet sich zum Send
 1. Geben Sie einen Namen für die Liste ein, und fügen Sie dann Namen oder E-Mail-Adressen hinzu.
 1. Wählen Sie **Erstellen** aus.
 
-Weitere Informationen zum [Erstellen, Anzeigen und Bearbeiten von Kontakten und Kontaktlisten in Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen zum [Erstellen, Anzeigen und Bearbeiten von Kontakten und Kontaktlisten in Outlook.com](https://support.microsoft.com/topic/5b909158-036e-4820-92f7-2a27f57b9f01).

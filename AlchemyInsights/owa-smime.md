@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: 9000329
 ms.date: 04/21/2020
-ms.openlocfilehash: 8eb3aa6713bd63343742670ca55ac2c5b837116f
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: a5760d6fd943f4324034140ce2ae933cf333adf6
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66305838"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66579998"
 ---
 # <a name="encrypt-messages-using-smime"></a>Verschlüsseln von Nachrichten mit S/MIME
 
@@ -29,4 +29,4 @@ So ändern Sie Ihre S/MIME-Einstellungen in Outlook im Web:
  **Einstellungen** >  **Alle Outlook-Einstellungen anzeigen**.
 2. Wählen Sie **Mail** > **S/MIME** aus.
 
-Weitere Informationen finden Sie [unter Verwendung von S/MIME in Outlook im Web zum Verschlüsseln von Nachrichten](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie [unter Verwendung von S/MIME in Outlook im Web zum Verschlüsseln von Nachrichten](https://support.microsoft.com/office/encrypt-messages-by-using-s-mime-in-outlook-on-the-web-878c79fc-7088-4b39-966f-14512658f480).

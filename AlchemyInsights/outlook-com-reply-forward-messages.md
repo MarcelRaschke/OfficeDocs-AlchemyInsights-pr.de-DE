@@ -12,12 +12,12 @@ ms.custom:
 - "8000033"
 - "762"
 ms.date: 04/21/2020
-ms.openlocfilehash: 996525b0c43dcf0816499b24728f8ac3b499092a
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 1aaf5690d4dfd326eec1822c8036e5344fce76bf
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66307192"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66585398"
 ---
 # <a name="how-to-reply-to-or-forward-messages-in-outlookcom"></a>So wird's möglich: Beantworten oder Weiterleiten von Nachrichten in Outlook.com
 
@@ -26,4 +26,4 @@ Wählen Sie in der oberen rechten Ecke des Nachrichtenbereichs <img src='data:im
  Allen antworten oder <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wgCEgsi70uv9wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAvUlEQVQ4jc3VsQ3EIAwF0J8jC6RJQ8lKDBGlZYtIKF3EJkxDSRNWiMQVpysv2BCkc+XqgcyXGXLOGR3q1QP9HzilhOu6noVjjNi2DdZaEk6GpZRYlgXneZJw1iiUUljXlYSzH4+KV6WCglfHrYQ35fgOH7+N9x77vlcfIoSAUgpaawDA0LorQgg4jgPzPMMYg3H83LVpFL/QJvgOrYZLaBVMQdkwFWXBMUY450gowIxbSgnTNBVRNsypbl/TG8jdhvj9M88MAAAAAElFTkSuQmCC' />
  Vorwärts.
   
-Erfahren Sie mehr über das [Erstellen, Beantworten oder Weiterleiten von E-Mail-Nachrichten in Outlook.com](https://support.office.com/article/5a240eb5-8840-4146-b5e8-b078dce6e5e4?wt.mc_id=Office_Outlook_com_Alchemy).
+Erfahren Sie mehr über das [Erstellen, Beantworten oder Weiterleiten von E-Mail-Nachrichten in Outlook.com](https://support.microsoft.com/topic/5a240eb5-8840-4146-b5e8-b078dce6e5e4).

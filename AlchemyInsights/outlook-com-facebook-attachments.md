@@ -12,12 +12,12 @@ ms.custom:
 - "9001198"
 - "3158"
 ms.date: 04/21/2020
-ms.openlocfilehash: 806ea9b0aa7c98540a7c41394b1d8e4c1a0f27fa
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 2957c265f2f35e34aaf5a1252bfc77c327437826
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66349023"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66579746"
 ---
 # <a name="unable-to-attach-or-upload-files-from-facebook"></a>Dateien von Facebook können nicht angefügt oder hochgeladen werden.
 
@@ -25,5 +25,5 @@ Aufgrund einer Änderung der Facebook-Geschäftsbedingungen sind Sie nach dem 23
 
 Sie können Ihre Liste anderer Cloudspeicherorte in Ihren [Speicherkonten](https://go.microsoft.com/fwlink/?linkid=2111075) verwalten.
 
-Erfahren Sie mehr über [Speicherkonten](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
+Erfahren Sie mehr über [Speicherkonten](https://support.microsoft.com/office/use-a-storage-account-with-outlook-com-477cb7cc-5732-4c40-8f23-30472de8138a).
   

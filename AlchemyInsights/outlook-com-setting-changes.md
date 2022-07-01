@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: 9000302
-ms.openlocfilehash: f543e581bac0d4a76b7d4b251ee95ac6623e5c93
-ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
+ms.openlocfilehash: 5f0d42bbcd163c4c23748a852160f9d48a7932b3
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66522642"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66581612"
 ---
 # <a name="settings-in-outlookcom"></a>Einstellungen in Outlook.com
 
@@ -30,9 +30,9 @@ Wenn der Empfänger intern oder extern zu Ihrer Organisation ist UND wenn er ein
     
     - Eine Einmalkennung wird an dieselbe E-Mail-Adresse gesendet. Geben Sie den Code in das Browserfenster ein, und wählen Sie dann **"Weiter** " aus, um Ihre Nachricht zu lesen.
 
-- Wenn Sie Nachrichten aus einer anderen Organisation nicht verschlüsseln können, führen Sie die in diesem [Artikel](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164) angegebenen Lösungsschritte aus.
+- Wenn Sie Nachrichten aus einer anderen Organisation nicht verschlüsseln können, führen Sie die in diesem [Artikel](https://support.microsoft.com/office/known-issues-opening-irm-protected-emails-sent-from-users-in-other-microsoft-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164) angegebenen Lösungsschritte aus.
 
-- Wenn sich das Empfängerpostfach auf **Yahoo oder Gmail** befindet, folgen Sie bitte den Anweisungen</span> in diesem [Artikel](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
+- Wenn sich das Empfängerpostfach auf **Yahoo oder Gmail** befindet, folgen Sie bitte den Anweisungen</span> in diesem [Artikel](https://support.microsoft.com/office/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
 
 - Schutzrichtlinien gelten nur für [bekannte Dateiformate](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). OneDrive for Business Anlagen werden für die Verschlüsselung nicht unterstützt.
 

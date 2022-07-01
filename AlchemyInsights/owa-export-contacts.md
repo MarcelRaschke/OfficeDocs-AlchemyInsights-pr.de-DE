@@ -12,12 +12,12 @@ ms.custom:
 - "8000020"
 - "2003"
 ms.date: 04/21/2020
-ms.openlocfilehash: 4873c93bbe918b3de595274c2f5acffecd34abca
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: c073bc3f3a3207b1849631292751935e9db9909e
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66348555"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66580400"
 ---
 # <a name="export-contacts"></a>Exportieren von Kontakten
 
@@ -27,5 +27,5 @@ ms.locfileid: "66348555"
 3. Wählen Sie aus, ob alle Kontakte oder nur Kontakte aus einem bestimmten Ordner exportiert werden sollen, und wählen Sie dann **"Exportieren**" aus.
 4. Wählen Sie unten auf der Seite " **Speichern** " aus, um "contacts.csv" im Standardordner "Downloads" zu speichern. Oder wählen Sie den Pfeil neben **"Speichern"** und dann **"Speichern unter" aus**.
 
-Weitere Informationen finden Sie unter [Exportieren von Kontakten aus Outlook](https://support.office.com/article/10f09abd-643c-4495-bb80-543714eca73f#ID0EAACAAA=Outlook_on_the_web).
+Weitere Informationen finden Sie unter [Exportieren von Kontakten aus Outlook](https://support.microsoft.com/office/export-contacts-from-outlook-10f09abd-643c-4495-bb80-543714eca73f?ui=en-us&rs=en-us&ad=us#ID0EAACAAA=Outlook_on_the_web).
 

@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: 8000083
 ms.date: 04/21/2020
-ms.openlocfilehash: 55a7b28e7262397583062772a1c9db8777efc5a5
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 62e7cbc274fe9dc110eb2286c4b411b3904251bd
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66319900"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66581006"
 ---
 # <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Meine personalisierte Outlook.com E-Mail-Adresse sendet oder empfängt nicht
 
@@ -25,4 +25,4 @@ Wenn in Ihrem Posteingang kein Rautensymbol angezeigt wird (und Anzeigen angezei
 
 Wenn die Registerkarte "Personalisierte E-Mail-Adresse" eine rote Statusleiste aufweist, ist Ihre Domäne möglicherweise abgelaufen.
 
-Weitere Schritte zur Problembehandlung zu [personalisierten E-Mail-Adressen in Microsoft 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Schritte zur Problembehandlung zu [personalisierten E-Mail-Adressen in Microsoft 365](https://support.microsoft.com/office/get-a-personalized-email-address-in-microsoft-365-75416a58-b225-4c02-8c07-8979403b427b).

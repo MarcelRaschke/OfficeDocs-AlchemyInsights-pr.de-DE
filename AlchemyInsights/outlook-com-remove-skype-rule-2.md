@@ -12,12 +12,12 @@ ms.custom:
 - "8000082"
 - "1347"
 ms.date: 04/21/2020
-ms.openlocfilehash: bb8e5eb7dc0d612c54cc1f4decfa0d02042ba345
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 0f398a1ed81e9a21086ac91a088bb292e35eb5ac
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66336189"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66581573"
 ---
 # <a name="how-do-i-turn-off-skype-in-outlookcom"></a>Gewusst wie Skype in Outlook.com deaktivieren?
 
@@ -27,4 +27,4 @@ Sie können Skype nicht aus Outlook.com entfernen, aber Sie können Benachrichti
  **Einstellungen** >  **Allgemeine** >  **[Benachrichtigungen](https://outlook.live.com/mail/options/general/notifications)**. 
 2. Deaktivieren Sie unter **"Chat und Anruf**" die nicht mehr gewünschten Benachrichtigungstypen.
 
-Weitere Informationen zur Verwendung von Skype finden [Sie unter "Mit Familie und Freunden in Skype in Outlook.com sprechen](https://support.office.com/article/83c6a5b1-3921-479c-b9e9-e753ce59c1fa?wt.mc_id=Office_Outlook_com_Alchemy)".
+Weitere Informationen zur Verwendung von Skype finden [Sie unter "Mit Familie und Freunden in Skype in Outlook.com sprechen](https://support.microsoft.com/office/chat-and-call-in-outlook-com-and-office-for-the-web-83c6a5b1-3921-479c-b9e9-e753ce59c1fa)".

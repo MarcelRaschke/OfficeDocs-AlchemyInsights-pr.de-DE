@@ -12,12 +12,12 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.date: 04/21/2020
-ms.openlocfilehash: 084b7f0db376dc7077fd538e5ba57fd534f69cd3
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: fc1ea958a449b996101bf9de49e12f2f9a5a4c19
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66348483"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66579239"
 ---
 # <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Löschen eines Ordners in Outlook im Web
 
@@ -25,5 +25,5 @@ ms.locfileid: "66348483"
 2. Wählen Sie **"Ordner löschen" aus**.
 3. Wählen Sie zum Bestätigen **OK** aus.
 
-Weitere Informationen finden Sie unter [Arbeiten mit Nachrichtenordnern in Outlook im Web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Weitere Informationen finden Sie unter [Arbeiten mit Nachrichtenordnern in Outlook im Web](https://support.microsoft.com/office/working-with-message-folders-in-outlook-on-the-web-ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 

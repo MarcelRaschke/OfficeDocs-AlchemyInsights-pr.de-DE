@@ -14,12 +14,12 @@ ms.custom:
 - "809"
 - "1327"
 ms.date: 04/21/2020
-ms.openlocfilehash: 7ecd59b518a2c57f55767a946a04f5e9e440e885
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: fdcb2c8506441a966802e7bb78ee091160bf0753
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66293914"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66585470"
 ---
 # <a name="print-email-and-calendars-in-outlookcom"></a>Drucken von E-Mails und Kalendern in Outlook.com
 
@@ -33,4 +33,4 @@ So drucken Sie Ihren Kalender:
 1. Wählen Sie in der oberen rechten Ecke der Seite <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' /> **Drucken**.
 1. Wählen Sie die Ansicht und den Zeitraum und **dann "Drucken" aus**.
 
-Weitere Informationen zum Drucken von [E-Mails und Kalendern in Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen zum Drucken von [E-Mails und Kalendern in Outlook.com](https://support.microsoft.com/office/print-email-messages-attachments-and-calendars-in-outlook-com-c835b8e5-b310-4cab-ac15-b6eb95149855).

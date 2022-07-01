@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: ''
 ms.date: 04/21/2020
-ms.openlocfilehash: fbfd1f3a85f357c3a532fc29b4475c7b6d73c6be
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: c654b7c4795a79fe832bf8656eb8d1b327a53e51
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66401223"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66579959"
 ---
 # <a name="create-an-email-signature-in-outlook-on-the-web"></a>Erstellen einer E-Mail-Signatur in Outlook im Web
 
@@ -25,4 +25,4 @@ ms.locfileid: "66401223"
 
 *Hinweis:* Pro Konto kann nur eine Signatur vorhanden sein.
 
-Weitere Informationen finden [Sie unter Erstellen und Hinzufügen einer E-Mail-Signatur in Outlook im Web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3).
+Weitere Informationen finden [Sie unter Erstellen und Hinzufügen einer E-Mail-Signatur in Outlook im Web](https://support.microsoft.com/office/create-and-add-an-email-signature-in-outlook-on-the-web-5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3).

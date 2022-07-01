@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: 9000260
 ms.date: 04/21/2020
-ms.openlocfilehash: c02da2bcefa0be30aaae439c7b5b595d422e808d
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 3e462dd78179762571e7bfbd5de2d2d0f3da9c5c
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66303670"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66580427"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Zurückrufen oder Ersetzen einer Outlook-E-Mail-Nachricht
 
@@ -30,7 +30,7 @@ So rufen Sie eine E-Mail-Nachricht zurück oder ersetzen sie:
 1. Wählen Sie die Registerkarte **"Nachricht** " und dann " **Aktionen** > **" aus, um diese Nachricht zurückzurufen**.
 1. Wählen Sie **"Ungelesene Kopien dieser Nachricht löschen** " oder " **Ungelesene Kopien löschen" aus, ersetzen Sie sie durch eine neue Nachricht**, und wählen Sie dann **"OK**" aus.
 1. Wenn Sie eine Ersatznachricht senden, verfassen Sie die Nachricht, und wählen Sie " **Senden**" aus.
-1. Der Erfolg oder Fehler eines Nachrichtenrückrufs hängt von den Einstellungen des Empfängers in Outlook ab. Schritte zum Überprüfen des Rückrufs finden Sie [in diesem Artikel](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+1. Der Erfolg oder Fehler eines Nachrichtenrückrufs hängt von den Einstellungen des Empfängers in Outlook ab. Schritte zum Überprüfen des Rückrufs finden Sie [in diesem Artikel](https://support.microsoft.com/office/recall-or-replace-an-email-message-that-you-sent-35027f88-d655-4554-b4f8-6c0729a723a0).
 
 Suchen nach und Löschen von E-Mail-Nachrichten in der Organisation
 

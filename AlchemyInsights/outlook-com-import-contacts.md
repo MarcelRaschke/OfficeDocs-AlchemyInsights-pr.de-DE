@@ -12,12 +12,12 @@ ms.custom:
 - "8000019"
 - "278"
 ms.date: 04/21/2020
-ms.openlocfilehash: c470892aec689fc4a3cc7f75685db4c4df3711d1
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 9cbf869c686b9ddceddfca33a9127dd9b4959d3e
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66320301"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66582266"
 ---
 # <a name="import-contacts"></a>Importieren von Kontakten
 
@@ -28,5 +28,5 @@ Bevor Sie Kontakte in Outlook.com importieren, müssen Sie sie von Ihrem anderen
 2. Wählen Sie oben auf der Seite "**Kontakte importieren****" aus**\>.
 3. Wählen Sie **"Durchsuchen"** aus, navigieren Sie zu dem Ordner, in dem Sie Ihre exportierten Kontakte gespeichert haben, und wählen Sie **"Öffnen**" aus.
 
-Weitere Informationen finden Sie unter [Importieren von Kontakten in Outlook.com](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie unter [Importieren von Kontakten in Outlook.com](https://support.microsoft.com/office/import-contacts-to-outlook-com-285a3b55-8d93-4ac8-93df-43fffd13b2f1).
 

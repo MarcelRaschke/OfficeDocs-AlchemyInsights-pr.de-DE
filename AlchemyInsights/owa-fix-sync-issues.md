@@ -12,12 +12,12 @@ ms.custom:
 - "9000641"
 - "2478"
 ms.date: 04/21/2020
-ms.openlocfilehash: 90f8ac53a14c86e4eb5fe83132a8306d2b58ac5d
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 2126302dde52b0735447afcf7bddad9ea75d3049
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66266176"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66580466"
 ---
 # <a name="fix-outlook-on-the-web-sync-issues"></a>Beheben Outlook im Web Synchronisierungsprobleme
 
@@ -30,6 +30,6 @@ Outlook im Web zeigt die mobilen Geräte an, die Sie zum Herstellen einer Verbin
 1. Wechseln Sie zu Ihrem mobilen Gerät, und schalten Sie es vollständig aus.
 1. Starten Sie Ihr mobiles Gerät nach ein paar Sekunden neu, und synchronisieren Sie das Postfach erneut.
 
-Weitere Informationen finden Sie unter [Beheben von Problemen bei der E-Mail-Synchronisierung oder Entfernen eines Geräts aus Ihrem Outlook im Web Postfach](https://support.office.com/article/775ed31c-05bd-4ee4-b1b3-33fad7b5b992)
+Weitere Informationen finden Sie unter [Beheben von Problemen bei der E-Mail-Synchronisierung oder Entfernen eines Geräts aus Ihrem Outlook im Web Postfach](https://support.microsoft.com/office/fix-email-sync-issues-or-remove-a-device-from-your-outlook-on-the-web-mailbox-775ed31c-05bd-4ee4-b1b3-33fad7b5b992)
 
-*Hinweis:* Verbundene Konten werden in Outlook im Web nicht mehr unterstützt. Weitere Informationen finden Sie [unter "Verbundene Konten" in Outlook im Web](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)
+*Hinweis:* Verbundene Konten werden in Outlook im Web nicht mehr unterstützt. Weitere Informationen finden Sie [unter "Verbundene Konten" in Outlook im Web](https://support.microsoft.com/office/connected-accounts-are-no-longer-supported-in-outlook-on-the-web-office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
