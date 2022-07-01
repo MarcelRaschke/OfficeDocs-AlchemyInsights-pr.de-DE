@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.date: 04/21/2020
-ms.openlocfilehash: c1831fca007f7ce0e0ca76bba0d2ad094282514e
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 0449a634d77906e900356ca24949ec973442bc3b
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66305515"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66593743"
 ---
 # <a name="setting-up-visio"></a>Einrichten von Visio
 
@@ -22,6 +22,6 @@ Anscheinend benötigen Sie Hilfe beim Einrichten von Visio mit Ihrem Microsoft 3
   
 Hinweis für Mac-Benutzer: Das Visio-Produkt ist derzeit für MacOS nicht verfügbar. Wenn Sie über einen PC verfügen, sollten Sie in der Lage sein, die Software mithilfe der folgenden Schritte zu installieren.
   
-Sie können die Schritte in [diesem Artikel](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) ausführen, um ihr Setup fertig zu stellen. 
+Sie können die Schritte in [diesem Artikel](https://support.microsoft.com/office/install-visio-or-access-visio-for-the-web-f98f21e3-aa02-4827-9167-ddab5b025710) ausführen, um ihr Setup fertig zu stellen. 
   
 

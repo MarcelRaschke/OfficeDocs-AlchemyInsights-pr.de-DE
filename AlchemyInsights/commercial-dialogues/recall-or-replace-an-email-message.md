@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 20e50f8a57f9ba272c960e9f4d54c912e84503a3
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: b0dec1974696ebc54671eb3a861749ccb53de869
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66393483"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66592879"
 ---
 # <a name="recall-or-replace-email-message"></a>Zurückrufen oder Ersetzen einer E-Mail-Nachricht
 
@@ -27,4 +27,4 @@ Sie können nur Nachrichten zurückrufen oder ersetzen, die an Adressen in Ihrer
 3. Wählen Sie auf der Registerkarte " **Nachricht** " **die Option "Aktionen** > **" aus, um diese Nachricht zurückzurufen**.
 4. Klicken Sie auf **"Ungelesene Kopien dieser Nachricht löschen** " oder " **Ungelesene Kopien löschen", und ersetzen Sie sie durch eine neue Nachricht**, und klicken Sie dann auf **"OK**".
 5. Wenn Sie eine Ersatznachricht senden, verfassen Sie die Nachricht, und klicken Sie dann auf **"Senden**".
-6. Der Erfolg oder Fehler eines Nachrichtenrückrufs hängt von den Einstellungen der Empfänger in Outlook ab. Schritte zum Überprüfen des Rückrufs [finden Sie in diesem Artikel](https://support.office.com/article/recall-or-replace-an-email-message-that-you-sent-35027f88-d655-4554-b4f8-6c0729a723a0#tocheck).
+6. Der Erfolg oder Fehler eines Nachrichtenrückrufs hängt von den Einstellungen der Empfänger in Outlook ab. Schritte zum Überprüfen des Rückrufs [finden Sie in diesem Artikel](https://support.microsoft.com/office/recall-or-replace-an-email-message-that-you-sent-35027f88-d655-4554-b4f8-6c0729a723a0?ui=en-us&rs=en-us&ad=us#tocheck).

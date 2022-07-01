@@ -12,12 +12,12 @@ ms.custom:
 - "2000023"
 - "1251"
 ms.date: 04/21/2020
-ms.openlocfilehash: 3c3223aa698e6e82f3b529efaf3b2f764e2c86a8
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: c07ac8b0aff6461c1aa1e3a056b0ba1b7b0b6128
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66292429"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66594139"
 ---
 # <a name="about-office-2019"></a>Informationen zu Office 2019
 
@@ -33,5 +33,5 @@ Weitere Informationen finden Sie unter:
   
 [Die Hauptversionsnummer von Office 2019 bleibt bei 16.0.](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Jahresbezeichnung in Office 2016 und Microsoft 365-Client-Apps werden aus den Einträgen im Startmenü entfernt](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Jahresbezeichnung in Office 2016 und Microsoft 365-Client-Apps werden aus den Einträgen im Startmenü entfernt](https://support.microsoft.com/office/year-designation-in-office-2016-and-microsoft-365-client-apps-will-be-removed-from-start-menu-entries-8fe5e052-76d2-49de-af30-2e84ed3da907)
   

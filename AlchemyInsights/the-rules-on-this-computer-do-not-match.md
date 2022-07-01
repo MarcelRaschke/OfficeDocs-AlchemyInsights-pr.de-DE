@@ -11,16 +11,16 @@ ms.localizationpriority: medium
 ms.custom:
 - "1800021"
 - "3518"
-ms.openlocfilehash: 041ebc75553a887abb9f1ba68786685fb2e7482b
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 3b29a915150b80ecc1b51f042874e465844c243e
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66255502"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66595615"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Fehler: Die Regeln auf diesem Computer stimmen nicht überein
 
-Wenn Sie den aktualisierten Status dieses bekannten Problems anzeigen möchten, lesen Sie [die Regeln auf diesem Computer, die nicht mit den Regeln in Microsoft Exchange übereinstimmen](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0).
+Wenn Sie den aktualisierten Status dieses bekannten Problems anzeigen möchten, lesen Sie [die Regeln auf diesem Computer, die nicht mit den Regeln in Microsoft Exchange übereinstimmen](https://support.microsoft.com/office/the-rules-on-this-computer-do-not-match-the-rules-on-microsoft-exchange-d032e037-b224-429e-b325-633afde9b5f0).
 
 Das Outlook-Team hat einen Fix in Build 12928.10000 implementiert. Der Fix ist bereits bei Insider Fast und wird Ende Juni 2020 zum monatlichen Kanal wechseln. Sobald Sie den festen Build haben, erhalten Sie möglicherweise ein letztes Mal die Eingabeaufforderung "Welche Regeln möchten Sie beibehalten". Wählen Sie "Server" aus, wenn Sie dazu aufgefordert werden, und wechseln Sie dann zurück in Outlook, und aktivieren Sie alle deaktivierten Regeln erneut.
 

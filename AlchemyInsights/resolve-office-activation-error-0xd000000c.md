@@ -13,12 +13,12 @@ ms.custom:
 - "9002310"
 - "4487"
 - "3496"
-ms.openlocfilehash: 56e935a936971be032f60ce3babea65061306640
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 826375ae3b9804a3e78e07001314bd0503089008
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66418508"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66594103"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Beheben des Office-Aktivierungsfehlers 0xD000000C
 
@@ -32,6 +32,6 @@ ms.locfileid: "66418508"
 
 Weitere Informationen finden Sie unter:
 
-- [Fehler 0xD000000C beim Aktivieren von Office für Mac](https://support.office.com/article/error-0xd000000c-when-activating-office-for-mac-da865931-4658-4829-ba2d-8133390c6d25)
+- [Fehler 0xD000000C beim Aktivieren von Office für Mac](https://support.microsoft.com/office/error-0xd000000c-when-activating-office-for-mac-da865931-4658-4829-ba2d-8133390c6d25)
 
-- [Was Sie versuchen können, wenn Sie Office für Mac nicht installieren oder aktivieren können](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+- [Was Sie versuchen können, wenn Sie Office für Mac nicht installieren oder aktivieren können](https://support.microsoft.com/office/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)

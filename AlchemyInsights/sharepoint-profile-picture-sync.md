@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "9000231"
 - "1828"
-ms.openlocfilehash: 509e65011ffedc410638f49f01a90818a794d519
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: d30289f6cc916ddb722b61168de83a75f27a1adc
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66315939"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66595003"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Wann werden meine Profiländerungen mit der SharePoint-Benutzerprofilanwendung synchronisiert?
 
@@ -28,7 +28,7 @@ Wenn ein Benutzer noch nie eine Aktion ausgeführt hat, die eine Synchronisierun
 
 2. Melden Sie sich mit ihrem Geschäfts-, Schul- oder Unikonto an, und klicken Sie auf die OneDrive- oder SharePoint-Kachel.
 
-3. [Fügen Sie ihr Profilfoto zu Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7) hinzu.
+3. [Fügen Sie ihr Profilfoto zu Microsoft 365](https://support.microsoft.com/topic/add-your-profile-photo-to-microsoft-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7) hinzu.
 
-[Informationen zur Profilbildsynchronisierung in Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
+[Informationen zur Profilbildsynchronisierung in Microsoft 365](https://docs.microsoft.com/sharepoint/manage-user-profiles)
 

@@ -12,12 +12,12 @@ ms.custom:
 - "9000677"
 - "2586"
 ms.date: 04/21/2020
-ms.openlocfilehash: a30fe7c7b05f9763c5ccf35a709d4dc9ec54e5a2
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 2ef227f4fc65d5d99e56968d9b70e3b25ac12d3e
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66416794"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66595651"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Probleme beim Synchronisieren Ihres Kalenders mit Geräten
 
@@ -32,4 +32,4 @@ Führen Sie die folgenden Schritte aus, um einen SharePoint-Kalender mit Outlook
 
 **Hinweis**: Wenn Sie eine Änderung am synchronisierten Outlook-Kalender vornehmen, wird er im SharePoint-Kalender angezeigt und umgekehrt.
 
-Weitere Informationen zu Microsoft 365-Gruppen finden Sie in diesem [Artikel](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Weitere Informationen zu Microsoft 365-Gruppen finden Sie in diesem [Artikel](https://support.microsoft.com/office/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

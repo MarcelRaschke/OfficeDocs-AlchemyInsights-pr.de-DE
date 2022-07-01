@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 6825e84b7ead88d78d784ae5faa62cb14cc67492
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 79f350c12e0fd2b932e93e9999ebbbc98dd9a26e
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66342633"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66592915"
 ---
 # <a name="enable-auto-expanding-archiving"></a>Automatisch erweiterte Archivierung aktivieren
 
@@ -29,4 +29,4 @@ Wenn das Archivpostfach voll ist (Kontingent erreicht) oder Sie die Archivgröß
 
 - Nachdem Sie die automatische Erweiterung aktiviert haben, kann es bis zu 30 Tage dauern, bis zusätzlicher Speicher bereitgestellt wird.
 - Wenn sich ein Postfach im Haltebereich befindet oder einer Office 365 Aufbewahrungsrichtlinie zugewiesen ist, erhöht sich das Speicherkontingent des Archivpostfachs auf insgesamt **110 GB**, wenn unbegrenzte Archive aktiviert sind.
-- Um Speicherplatz im Archivpostfach freizugeben, können Ihre Benutzer, wenn keine Haltebereiche vorhanden sind, [die Elemente des Archivpostfachs mithilfe von Outlook in eine PST-Datei exportieren](https://support.office.com/article/Export-or-backup-email-contacts-and-calendar-to-an-Outlook-pst-file-14252b52-3075-4e9b-be4e-ff9ef1068f91) oder die nicht benötigten Elemente im Archivpostfach löschen.
+- Um Speicherplatz im Archivpostfach freizugeben, können Ihre Benutzer, wenn keine Haltebereiche vorhanden sind, [die Elemente des Archivpostfachs mithilfe von Outlook in eine PST-Datei exportieren](https://support.microsoft.com/office/export-or-backup-email-contacts-and-calendar-to-an-outlook-pst-file-14252b52-3075-4e9b-be4e-ff9ef1068f91) oder die nicht benötigten Elemente im Archivpostfach löschen.

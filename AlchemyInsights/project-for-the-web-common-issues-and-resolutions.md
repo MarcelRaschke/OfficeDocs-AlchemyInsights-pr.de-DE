@@ -11,12 +11,12 @@ ms.localizationpriority: high
 ms.custom:
 - "9002603"
 - "5021"
-ms.openlocfilehash: 8e9803b43d410189aa42664a900497eadc9129a8
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 035f84863237c9ae653ec4231470ed7470d74cdd
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66363063"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66594283"
 ---
 # <a name="project-for-the-web-common-issues-and-resolutions"></a>Gemeinsame Themen und Lösungen in Project für das Web
 
@@ -26,5 +26,5 @@ Hier sind einige gefragte Themen für Project für das Web:
 - Stellen Sie sicher, dass die [erforderlichen AAD-Anwendungen aktiviert sind](https://techcommunity.microsoft.com/t5/project-support-blog/roadmap-have-you-disabled-some-necessary-services/ba-p/815067), um Fehler beim Öffnen oder Erstellen eines neuen Projekts oder einer Roadmap zu vermeiden.
 - [Aktivieren oder deaktivieren Sie Project für das Web oder die Roadmap für Benutzer in Ihrer Organisation](https://docs.microsoft.com/project-for-the-web/turn-project-for-the-web-off).
 - Verwenden Sie die [Project- oder Roadmap-App in Teams](https://support.microsoft.com/office/2dc584e6-2f6c-4e2d-9008-0b3f6845eb52).
-- Erste Schritte mit der [Project für das Web-Schulung](https://support.office.com/article/50bf3e29-0f0d-4b7a-9d2c-7c78389b67ad).
+- Erste Schritte mit der [Project für das Web-Schulung](https://support.microsoft.com/office/get-started-with-project-for-the-web-50bf3e29-0f0d-4b7a-9d2c-7c78389b67ad).
 - [Einschränkungen und Grenzen von Project für das Web](https://docs.microsoft.com/project-for-the-web/project-for-the-web-limits-and-boundaries).

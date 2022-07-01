@@ -9,16 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.date: 04/21/2020
-ms.openlocfilehash: 25201e663e9cd9ebf7f23dd466267ea1d6043d0b
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 5f883e945b156738169e9cc18a105e8ca45e3d5e
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66386265"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66592735"
 ---
 # <a name="public-folder-access-from-mobile-devices"></a>Zugriff auf öffentliche Ordner von mobilen Geräten aus
 
 Auf öffentliche Ordner kann auf mobilen Geräten nicht zugegriffen werden.
   
-Wenn Sie ähnliche Funktionen wie öffentliche Ordner haben und von mobilen Geräten darauf zugreifen möchten, finden [Sie unter "Weitere Informationen zu Microsoft 365-Gruppen](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)" eine bessere Alternative.
+Wenn Sie ähnliche Funktionen wie öffentliche Ordner haben und von mobilen Geräten darauf zugreifen möchten, finden [Sie unter "Weitere Informationen zu Microsoft 365-Gruppen](https://support.microsoft.com/office/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)" eine bessere Alternative.
   

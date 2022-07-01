@@ -13,12 +13,12 @@ ms.custom:
 - "1178"
 - "1179"
 ms.date: 04/21/2020
-ms.openlocfilehash: b001a6a04853b28594979f9a00955f3a47b5f7e1
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 9e0c38dfec7b1ad2dd3b0a3c1091bab430fc44c0
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66315231"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66589819"
 ---
 # <a name="unable-to-delete-photos-from-files"></a>Fotos können nicht aus Dateien gelöscht werden.
 
@@ -28,5 +28,5 @@ So löschen Sie die Fotos aus Dateien in Outlook.com:
 
 2. Entfernen Sie die Elemente aus den **gelöschten Elementen**.
 
-Weitere Informationen finden Sie [unter "Löschen von Dateien oder Fotos in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)".
+Weitere Informationen finden Sie [unter "Löschen von Dateien oder Fotos in Outlook.com](https://support.microsoft.com/topic/how-to-delete-files-or-photos-in-outlook-com-bae0531f-040f-4c42-90b9-786ca718c16d)".
   

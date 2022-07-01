@@ -12,12 +12,12 @@ ms.custom:
 - "9000147"
 - "2492"
 ms.date: 04/21/2020
-ms.openlocfilehash: dddea4c1819606a5f872500c086f94c4e0b96071
-ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
+ms.openlocfilehash: 7639ce701f4cc5f3bedc1f8b30ebed87324400da
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66526476"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66594463"
 ---
 # <a name="workflow-troubleshooting"></a>Workflowproblembehandlung
 
@@ -28,7 +28,7 @@ Weitere Informationen zum Debuggen von SharePoint-Workflows sind in den folgende
 
 ## <a name="related-topics"></a>Verwandte Themen
 Möchten Sie Microsoft Flow in SharePoint Online testen?
-- [Fluss erstellen](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [Fluss erstellen](https://support.microsoft.com/office/create-a-flow-for-a-list-or-library-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint und Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

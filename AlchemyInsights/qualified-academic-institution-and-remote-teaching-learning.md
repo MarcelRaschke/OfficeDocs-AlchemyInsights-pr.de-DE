@@ -11,12 +11,12 @@ ms.localizationpriority: high
 ms.custom:
 - "1500009"
 - "4495"
-ms.openlocfilehash: 05ea3bb50cf15ad4f1baedf463e74c8f96fec56e
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 7b9e61e1ad70c6783783c61886847e5e65edc24f
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66373935"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66592699"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Microsoft qualifizierte Bildungseinrichtung und Fernstudium (Lehren und Lernen)
 
@@ -30,6 +30,6 @@ Wenn Sie die Genehmigung erhalten haben, können Sie zur Registerkarte [Dienste 
 
 **Fernstudium (Lehren und Lernen)**
 
-Schauen Sie sich bitte [Fernstudium (Lehren und Lernen) in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) an, um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Schülern zu erhalten.
+Schauen Sie sich bitte [Fernstudium (Lehren und Lernen) in Office 365 Education](https://support.microsoft.com/topic/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) an, um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Schülern zu erhalten.
 
 Zusätzliche IT-Anleitungen finden Sie unter[Erste Schritte mit Microsoft Teams für Fernunterricht](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)und[Übergang zum Fernunterricht](https://www.microsoft.com/education/remote-learning).

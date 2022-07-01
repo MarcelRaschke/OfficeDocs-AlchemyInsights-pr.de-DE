@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "1200004"
 - "20"
-ms.openlocfilehash: 86c96d5e3e30dbcba520e2230e2f07aff3ad93d5
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 3cd6b1e1b121f4dc7dcf81e12395fa7f51f2970d
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66398414"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66593959"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Überprüfen der E-Mail-Weiterleitungseinstellungen für ein Postfach
 
@@ -30,6 +30,6 @@ Es ist einfach, die E-Mail-Weiterleitungseinstellungen für ein Postfach zu übe
 
 Weitere Informationen finden Sie unter [Konfigurieren der E-Mail-Weiterleitung in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
   
-Um Anweisungen an Ihre Benutzer zu senden, damit sie die E-Mail-Weiterleitung in ihren eigenen Postfächern einrichten können, verweisen Sie sie darauf, [E-Mails von Microsoft 365 an ein anderes E-Mail-Konto weiterzuleiten](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Bitte beachten Sie, dass Sie nur eine E-Mail-Adresse weiterleiten können. Wenn Sie die Weiterleitung an eine Gruppe von Personen einrichten müssen, erstellen Sie eine Verteilerliste (unter **"Gruppen**"), fügen Sie Ihre Benutzer hinzu, und konfigurieren Sie dann die Weiterleitung an diese Gruppe.
+Um Anweisungen an Ihre Benutzer zu senden, damit sie die E-Mail-Weiterleitung in ihren eigenen Postfächern einrichten können, verweisen Sie sie darauf, [E-Mails von Microsoft 365 an ein anderes E-Mail-Konto weiterzuleiten](https://support.microsoft.com/office/create-reply-to-or-forward-email-messages-in-outlook-on-the-web-ecafbc06-e812-4b9e-a7af-5074a9c7abd0). Bitte beachten Sie, dass Sie nur eine E-Mail-Adresse weiterleiten können. Wenn Sie die Weiterleitung an eine Gruppe von Personen einrichten müssen, erstellen Sie eine Verteilerliste (unter **"Gruppen**"), fügen Sie Ihre Benutzer hinzu, und konfigurieren Sie dann die Weiterleitung an diese Gruppe.
   
 Haben Sie einen Mitarbeiter verlassen? Die empfohlenen Schritte finden [Sie unter Entfernen eines ehemaligen Mitarbeiters aus Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) .

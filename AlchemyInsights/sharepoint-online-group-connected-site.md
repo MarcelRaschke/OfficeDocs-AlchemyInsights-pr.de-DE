@@ -11,18 +11,18 @@ ms.localizationpriority: medium
 ms.custom:
 - "5200004"
 - "5766"
-ms.openlocfilehash: 49d0265908758844edd02772b83a382376b15139
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 66f01de589d4a37ca1bfc507153fcc31f94071fb
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66425818"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66593419"
 ---
 # <a name="common-issues-when-creating-a-group-connected-site-in-sharepoint"></a>Häufige Probleme beim Erstellen einer mit einer Gruppe verbundenen Website in SharePoint
 
 1. Wenn Sie eine Gruppe und ihre verbundene Website gelöscht haben und eine andere Website mit derselben URL erstellen möchten, müssen Sie die vorherige Website endgültig entfernen.
 
-   - [Herunterladen der SPO-Verwaltungsshell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+   - [Herunterladen der SPO-Verwaltungsshell](https://support.microsoft.com/office/introduction-to-the-sharepoint-management-shell-c16941c3-19b4-4710-8056-34c034493429)
    - Weitere Informationen zu den ersten Schritten mit PowerShell finden [Sie unter "Erste Schritte mit der SharePoint Online-Verwaltungsshell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite)".
    - Entfernen Sie die Website mithilfe des Cmdlets [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps&preserve-view=true) Powershell von gelöschten Websites. Powershell ist erforderlich, um Gruppenwebsites dauerhaft zu löschen.
 

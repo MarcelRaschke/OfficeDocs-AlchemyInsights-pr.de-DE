@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 91ee260053853f8fca810786a0fb174226e308af
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 6c55a94953fef5cfb1e1a5b728c0676c8908dcb2
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66363099"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66594355"
 ---
 # <a name="project-common-issues-and-resolutions"></a>Projekt häufig auftretende Probleme und Lösungen
 
@@ -30,4 +30,4 @@ Hier sind einige häufig angeforderte Themen mit Project:
 
 4. **Herstellen einer Verbindung mit Project Online mit dem Project Desktop-Client:** Verwenden Sie den [Project Online Desktopclient](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client), um eine Verbindung mit Project Online in Ihrer Microsoft 365-Umgebung herzustellen.
 
-5. **Installieren sie Project Professional:** [Installieren und verwenden Sie Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) mit den Abonnementversionen von Project Online und den Nicht-Abonnementversionen von Project 2019, 2016 oder 2013.
+5. **Installieren sie Project Professional:** [Installieren und verwenden Sie Project Professional](https://support.microsoft.com/office/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) mit den Abonnementversionen von Project Online und den Nicht-Abonnementversionen von Project 2019, 2016 oder 2013.

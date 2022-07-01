@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.date: 04/21/2020
-ms.openlocfilehash: bbff7f3148f0c5d65bbe6343255bd43bf60050b9
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 58f2e39d5c4b58a2c6d1e9d05d3051fd6629b32d
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66281494"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66594391"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>Benutzerprofil- und Fotosynchronisierung
 
@@ -26,6 +26,6 @@ Weitere Informationen zum Prozess der Fotosynchronisierung finden Sie unter [Inf
   
 Weitere Informationen zum Profilsynchronisierungsprozess finden Sie [unter Informationen zur Benutzerprofilsynchronisierung in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Profil in Office Delve** aktualisieren – Delve-Benutzer können ihr Microsoft 365-Profil verwalten. Weitere Informationen finden Sie [unter Anzeigen und Aktualisieren Ihres Profils in Office Delve](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Profil in Office Delve** aktualisieren – Delve-Benutzer können ihr Microsoft 365-Profil verwalten. Weitere Informationen finden Sie [unter Anzeigen und Aktualisieren Ihres Profils in Office Delve](https://support.microsoft.com/office/view-and-update-your-profile-in-delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

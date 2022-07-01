@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: ''
 ms.date: 04/21/2020
-ms.openlocfilehash: ac9bff2bd43081b69f53c36aaea2245623f5cb00
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 5db9dd14557caeaf930bde30a973192543e2a04d
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66384177"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66593995"
 ---
 # <a name="permissions-and-public-folders"></a>Berechtigungen und öffentliche Ordner
 
 Sie können die Berechtigungen für Ihre öffentlichen Ordner mitHilfe von Outlook, dem Exchange Admin Center (EAC) oder PowerShell ändern:
   
-- Klicken [Sie hier, um](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx) Anweisungen zu Outlook zu erhalten.
+- Klicken [Sie hier, um](https://support.microsoft.com/office/set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005) Anweisungen zu Outlook zu erhalten.
     
 - Anweisungen zu EAC finden Sie [in diesem Artikel](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) . 
     

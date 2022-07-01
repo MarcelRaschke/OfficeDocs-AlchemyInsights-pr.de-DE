@@ -12,12 +12,12 @@ ms.custom:
 - "1800027"
 - "1226"
 ms.date: 04/21/2020
-ms.openlocfilehash: 09527ed22af01342ce526128796109b30c220f86
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 0fa892dbd52f0cf26b723a49a0d48974c3c2e989
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66291894"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66589171"
 ---
 # <a name="repair-pst-or-ost-files"></a>Reparieren von PST- oder OST-Dateien
 
@@ -33,4 +33,4 @@ ms.locfileid: "66291894"
 
 5. Wenn in der Datei Fehler gefunden werden, klicken Sie auf **"Reparieren"**, und klicken Sie dann auf **"OK** ", wenn die Reparatur abgeschlossen ist.
 
-Weitere Informationen finden Sie unter [Reparieren von Outlook-Datendateien](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) und [Beheben von Problemen beim Importieren einer Outlook-PST-Datei](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+Weitere Informationen finden Sie unter [Reparieren von Outlook-Datendateien](https://support.microsoft.com/office/repair-outlook-data-files-pst-and-ost-25663bc3-11ec-4412-86c4-60458afc5253) und [Beheben von Problemen beim Importieren einer Outlook-PST-Datei](https://support.microsoft.com/topic/fix-problems-importing-an-outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).

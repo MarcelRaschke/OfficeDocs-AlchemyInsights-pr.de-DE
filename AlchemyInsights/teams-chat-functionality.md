@@ -11,16 +11,16 @@ ms.localizationpriority: high
 ms.custom:
 - "9000738"
 - "4367"
-ms.openlocfilehash: aa4809f15bbea18e35323f83047268d356323945
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 6da37790ea1473899e94ea23ef2fa6a160646716
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66290647"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66589052"
 ---
 # <a name="teams-chat-functionality"></a>Teams-Chatfunktion
 
-- [Starten eines Chats](https://support.office.com/article/start-a-chat-in-teams-0c71b32b-c050-4930-a887-5afbe742b3d8) in Microsoft Teams.
+- [Starten eines Chats](https://support.microsoft.com/office/start-a-chat-in-teams-0c71b32b-c050-4930-a887-5afbe742b3d8) in Microsoft Teams.
 
 - [Chatverlauf, Exportieren oder Speichern von Teams-Chats](https://docs.microsoft.com/alchemyinsights/chat-history-in-microsoft-teams).
 
@@ -32,4 +32,4 @@ ms.locfileid: "66290647"
 
 - Erstellen eines [organisationsweiten Teams](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team), um mit Ihrer gesamten Organisation zu chatten.
 
-- [Ausblenden, Stummschalten oder Anheften eines Chats in Teams](https://support.office.com/article/hide-mute-or-pin-a-chat-in-teams-9aee02ef-713d-495b-8a73-9762d8e4b066).
+- [Ausblenden, Stummschalten oder Anheften eines Chats in Teams](https://support.microsoft.com/office/hide-unhide-mute-or-pin-a-chat-in-teams-9aee02ef-713d-495b-8a73-9762d8e4b066).

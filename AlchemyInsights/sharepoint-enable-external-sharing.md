@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.openlocfilehash: 4346ce7aee18db2f48360ca3d457ec754bd64900
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: e7aabf364615eedf35d9e0264aaaa7ca5138d25b
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66398199"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66592591"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Aktivieren der externen Freigabe in SharePoint Online
 
@@ -33,9 +33,9 @@ Weitere Informationen zum externen Teilen (Gäste) finden Sie unter den folgende
 
 - [Verwenden von SharePoint Online als Business-to-Business-Extranetlösung (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [SharePoint-Dateien oder -Ordner freigeben](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [SharePoint-Dateien oder -Ordner freigeben](https://support.microsoft.com/office/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Beenden der Freigabe von OneDrive- oder SharePoint-Dateien oder -Ordnern oder Ändern von Berechtigungen](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Beenden der Freigabe von OneDrive- oder SharePoint-Dateien oder -Ordnern oder Ändern von Berechtigungen](https://support.microsoft.com/office/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
 - [Löschen eines externen Benutzers](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 

@@ -12,12 +12,12 @@ ms.custom:
 - "2000023"
 - "906"
 ms.date: 04/21/2020
-ms.openlocfilehash: 4bd16f8e44cef9745c48ee06ff6f7c384fce95a4
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 1b8fec0ddd2e61d98195f84ef0c14ce3e2e0448e
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66290755"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66589936"
 ---
 # <a name="solutions-for-unsupported-operating-system"></a>Lösungen für "Nicht unterstütztes Betriebssystem"
 
@@ -31,5 +31,5 @@ Microsoft 365 erfordert:
 
 - Mac OS X 10.10
 
-Wenn diese Meldung beim Versuch, Office auf einem mobilen Gerät oder einem Chromebook zu installieren, angezeigt wird, lesen Sie ["Installieren und Ausführen von Microsoft Office auf einem Chromebook"](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
+Wenn diese Meldung beim Versuch, Office auf einem mobilen Gerät oder einem Chromebook zu installieren, angezeigt wird, lesen Sie ["Installieren und Ausführen von Microsoft Office auf einem Chromebook"](https://support.microsoft.com/office/how-to-access-microsoft-office-on-a-chromebook-32f14a23-2c1a-4579-b973-d4b1d78561ad).
   
