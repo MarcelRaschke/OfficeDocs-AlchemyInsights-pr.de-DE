@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "6500001"
 - "311"
-ms.openlocfilehash: 179305e1b722fd1c859b24429b3e8b392670e69b
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: bcff286f1ce396276b3d9bf695c9c14aa2bfe226
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66375303"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66570217"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams – Gastzugriff
 
@@ -26,7 +26,7 @@ Wenn Sie Hilfe bei der Kommunikation mit Benutzern außerhalb Ihrer Organisation
 
 **Option 1: Gastzugriff aktivieren** Wechseln Sie im Teams Admin Center zu [organisationsweiten Einstellungen > Gastzugriff](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration), und aktivieren Sie "Gastzugriff in Teams zulassen".  Für einen Mandanten mit allen anderen Standardeinstellungen sollte dies alles sein, was Sie tun müssen.  Um Ihre Gastzugriffskonfiguration anzupassen, stellen Sie sicher, dass Sie alle Schritte in der [Checkliste für den Gastzugriff](https://docs.microsoft.com/microsoftteams/guest-access-checklist) ausführen. Sobald Sie fertig sind, müssen Sie [bis zu 24 Stunden warten](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , bis die Einstellungen wirksam werden.
 
-Wenn Sie sicher sind, dass Sie alle Schritte in der Checkliste abgeschlossen haben und es mehr als 24 Stunden war, fahren Sie fort, und versuchen Sie, [einen Gast zu Ihrem Team hinzuzufügen](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Wenn Sie sicher sind, dass Sie alle Schritte in der Checkliste abgeschlossen haben und es mehr als 24 Stunden war, fahren Sie fort, und versuchen Sie, [einen Gast zu Ihrem Team hinzuzufügen](https://support.microsoft.com/office/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f).
 
 Weitere Informationen, einschließlich Anleitungsvideos, finden [Sie unter Gastzugriff in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 

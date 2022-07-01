@@ -12,12 +12,12 @@ ms.custom:
 - "1800021"
 - "922"
 ms.date: 04/21/2020
-ms.openlocfilehash: d60c7ba70cc3506bb4f56136350bd37f35cb5873
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 9d6bb0effe3c7e797e5aaed4dae96bc510d6c433
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66421150"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66570901"
 ---
 # <a name="inbox-rules-in-outlook-desktop"></a>Posteingangsregeln in Outlook Desktop
 
@@ -27,4 +27,4 @@ ms.locfileid: "66421150"
 4. Klicken **Sie in Schritt 2: Bearbeiten des Regelbeschreibungsfelds** auf unterstrichene Optionen, um sie festzulegen. Wenn Sie beispielsweise in Schritt 1 **Nachrichten von jemandem zur Nachverfolgung** kennzeichnen ausgewählt haben, klicken Sie auf **Personen oder öffentliche Gruppen** , um auszuwählen, welche Absendernachrichten Sie kennzeichnen möchten. klicken Sie **zu diesem Zeitpunkt auf "Nachverfolgung** ", um eine Kennzeichnung und ein Nachverfolgungsdatum auszuwählen.
 5. Klicken Sie auf **Weiter**.
 
-Weitere Informationen zum Arbeiten mit Posteingangsregeln finden Sie unter [Verwalten von E-Mail-Nachrichten mithilfe von Regeln](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
+Weitere Informationen zum Arbeiten mit Posteingangsregeln finden Sie unter [Verwalten von E-Mail-Nachrichten mithilfe von Regeln](https://support.microsoft.com/office/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).

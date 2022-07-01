@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "6500001"
 - "2679"
-ms.openlocfilehash: b6fe1c7706085892bd7427038f4a5a4c270441be
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 00ec61b028182a8f6046ebccfa56f2b8c5c962a1
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66375195"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66570253"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams – Gastzugriff
 
@@ -24,7 +24,7 @@ Benötigen Sie Hilfe beim Aktivieren und Einrichten der Gastzugriffsfunktion in 
 
 Stellen Sie zunächst sicher, dass Sie alle Schritte in der [Checkliste für den Gastzugriff](https://docs.microsoft.com/microsoftteams/guest-access-checklist) ausgeführt haben. Sobald alle diese Schritte abgeschlossen sind, müssen Sie [bis zu 24 Stunden warten](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , bis die Einstellungen wirksam werden.
 
-Wenn Sie sicher sind, dass Sie alle Schritte in der Checkliste abgeschlossen haben und es mehr als 24 Stunden war, fahren Sie fort, und versuchen Sie, [einen Gast zu Ihrem Team hinzuzufügen](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Wenn Sie sicher sind, dass Sie alle Schritte in der Checkliste abgeschlossen haben und es mehr als 24 Stunden war, fahren Sie fort, und versuchen Sie, [einen Gast zu Ihrem Team hinzuzufügen](https://support.microsoft.com/office/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f).
 
 Weitere Informationen, einschließlich Anleitungsvideos, finden [Sie unter Gastzugriff in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 

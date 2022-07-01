@@ -12,12 +12,12 @@ ms.custom:
 - "6000003"
 - "720"
 ms.date: 04/21/2020
-ms.openlocfilehash: 4759bb871d56978a79cee28fdf8c1e9c9ebbe363
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 6f513a12a229724730d166efddd4da1f7c65db1a
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66433219"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66570397"
 ---
 # <a name="manage-groups-in-yammer"></a>Verwalten von Gruppen in Yammer
 
@@ -27,5 +27,5 @@ ms.locfileid: "66433219"
 
 - **Gelöschte Gruppen werden wiederhergestellt.** Das Wiederherstellen Yammer Gruppen ist über das [Wiederherstellen einer gelöschten Nicht verbundenen Microsoft 365-Gruppe](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group) möglich und kann nach dem Löschen nicht wiederhergestellt werden.
 
-Weitere Informationen zum Verwalten einer Gruppe finden [Sie unter Verwalten einer Gruppe in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Informationen zu verbundenen Microsoft 365-Gruppen finden Sie [unter Yammer und Microsoft 365-Gruppen](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
+Weitere Informationen zum Verwalten einer Gruppe finden [Sie unter Verwalten einer Gruppe in Yammer](https://support.microsoft.com/office/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Informationen zu verbundenen Microsoft 365-Gruppen finden Sie [unter Yammer und Microsoft 365-Gruppen](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
   

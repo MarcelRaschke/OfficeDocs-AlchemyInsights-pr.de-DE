@@ -12,12 +12,12 @@ ms.custom:
 - "9000214"
 - "1790"
 ms.date: 07/29/2020
-ms.openlocfilehash: 39b433e2a087b7e1e1a689d59476074af8ff2620
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: b75a1579206bf24ab02c9a0da5ecd526dec1aaef
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66337426"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66571081"
 ---
 # <a name="mobile-device-management-in-microsoft-365"></a>Verwaltung mobiler Geräte in Microsoft 365
 
@@ -25,6 +25,6 @@ Weitere Informationen finden Sie hier:
 
 - [Wählen Sie zwischen grundlegender Mobilität + Sicherheit und Intune](https://docs.microsoft.com/office365/securitycompliance/choose-between-mdm-and-intune)
 
-- [Einrichten von grundlegender Mobilität und Sicherheit](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
+- [Einrichten von grundlegender Mobilität und Sicherheit](https://docs.microsoft.com/microsoft-365/admin/basic-mobility-security/set-up)
 
 - [Intune-Migrationshandbuch](https://docs.microsoft.com/intune/migration-guide)
