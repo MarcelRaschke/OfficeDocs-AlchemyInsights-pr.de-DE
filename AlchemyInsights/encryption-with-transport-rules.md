@@ -11,16 +11,16 @@ ms.localizationpriority: high
 ms.custom:
 - "9002635"
 - "5154"
-ms.openlocfilehash: 126f02d70285024dd8f69ece3f35c51155b7fff5
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: e383e240ae1f74cd1a796d6a25f0a8d6a326dd75
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/29/2022
-ms.locfileid: "66421798"
+ms.locfileid: "66505632"
 ---
 # <a name="encryption-with-transport-rules"></a>Verschlüsselung mit Transportregeln
 
-Im [Exchange Admin Center](https://go.microsoft.com/fwlink/p/?linkid=834822) (EAC) können Sie die Funktionen der Office-Nachrichtenverschlüsselung (OME) in ihren Nachrichtenflussregeln verwenden, um die Nachrichtenverschlüsselung auszulösen. Wählen Sie die Option **Office 365-Nachrichtenverschlüsselung und Rechteschutz** in der Transportregelbedingung aus.
+Im [Exchange Admin Center](https://go.microsoft.com/fwlink/p/?linkid=834822) (EAC) können Sie die Funktionen der Office-Nachrichtenverschlüsselung (OME) in Ihren Nachrichtenflussregeln verwenden, um die Nachrichtenverschlüsselung auszulösen. Wählen Sie die Option **Office 365-Nachrichtenverschlüsselung und Rechteschutz** in der Transportregelbedingung aus.
 
 - Weitere Informationen finden Sie unter [Definieren von Nachrichtenflussregeln zum Verschlüsseln von E-Mails](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
 
