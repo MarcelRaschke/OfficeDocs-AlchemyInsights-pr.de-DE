@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: 1755
-ms.openlocfilehash: 046f3849324749fab6a414f14bf9958b7c327251
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 6b401617fa6db24746eebca04313fa67f509083d
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66433723"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66565429"
 ---
 # <a name="issues-with-spoofing-phishing-or-impersonation"></a>Probleme mit Spoofing, Phishing oder Identitätswechsel?
 
@@ -30,8 +30,8 @@ Weitere Empfehlungen:
 
 - Überprüfen Sie, ob Absender in Ihrer eigenen Domäne nicht so konfiguriert sind, dass Antispamfilter mithilfe von Nachrichtenflussregeln (auch als Transportregeln bezeichnet) umgangen oder Listeneinträge zugelassen werden. Weitere Informationen finden Sie unter [Warnungen vor der Umgehung von Microsoft-Spamfiltern](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- Stellen Sie sicher, dass Benutzer keine [Listeneinträge für sichere Absender](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) konfiguriert haben, die Phishingangriffe zulassen könnten.
+- Stellen Sie sicher, dass Benutzer keine [Listeneinträge für sichere Absender](https://support.microsoft.com/office/add-recipients-of-my-email-messages-to-the-safe-senders-list-be1baea0-beab-4a30-b968-9004332336ce) konfiguriert haben, die Phishingangriffe zulassen könnten.
 
 - Erwägen Sie, Spam- und Phishingnachrichten mit hoher Vertrauenswürdigkeit anstelle des Junk-E-Mail-Ordners in Quarantäne zu stellen. Weitere Informationen finden Sie unter [Quarantäne von E-Mail-Nachrichten](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
 
-**[Das Melden von Nachrichten an Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) ist die beste Möglichkeit, um uns mitzuteilen, wie die Filter funktionieren.**
+**[Das Melden von Nachrichten an Microsoft](https://support.microsoft.com/office/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2) ist die beste Möglichkeit, um uns mitzuteilen, wie die Filter funktionieren.**

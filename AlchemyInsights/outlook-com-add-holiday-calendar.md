@@ -12,12 +12,12 @@ ms.custom:
 - "9000229"
 - "1812"
 ms.date: 04/21/2020
-ms.openlocfilehash: ff2814bf24e0a4d086ddf5ffc13b1e9e3384444f
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: ae8791286c5a2660340d5ba0cfcec1e6bfbcebd9
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66294310"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66566221"
 ---
 # <a name="add-a-holiday-calendar-in-outlookcom"></a>Hinzufügen eines Feiertagskalenders in Outlook.com
 
@@ -25,4 +25,4 @@ ms.locfileid: "66294310"
 1. Wählen Sie im linken Bereich "**Kalender hinzufügen****Interessante Kalender** > **Feiertage** > " aus.
 1. Wählen Sie den gewünschten Feiertagskalender und dann in der oberen Ecke **X** aus, um Ihre Auswahl zu speichern und das Fenster " **Kalender hinzufügen" zu** schließen.
 
-Weitere Informationen zum [Hinzufügen oder Entfernen von Geburtstags- und Feiertagskalendern](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen zum [Hinzufügen oder Entfernen von Geburtstags- und Feiertagskalendern](https://support.microsoft.com/office/add-a-birthday-calendar-in-outlook-com-b8e636da-fda8-413f-940e-68396efa49a6).

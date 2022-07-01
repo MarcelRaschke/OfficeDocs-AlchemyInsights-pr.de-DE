@@ -11,17 +11,17 @@ ms.localizationpriority: medium
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 95b84c0de49f5cad26eeac6509c7499e3f4b8cdf
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 4a61777324c60ca6f7df82aed81c22236071bb46
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66287602"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66565609"
 ---
 # <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>Leerer Anmeldebildschirm in Microsoft 365-Apps
 
 Um dieses Problem zu beheben, versuchen Sie Folgendes:
-- Installieren Sie die neuesten Updates für [Windows](https://support.microsoft.com/help/4027667/windows-10-update) und [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
+- Installieren Sie die neuesten Updates für [Windows](https://support.microsoft.com/help/4027667/windows-10-update) und [Office](https://support.microsoft.com/office/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5).
 - Internet Explorer-Optionen zurücksetzen: Wechseln Sie zu **Extras** > **Internetoptionen** > **Advanced** > **Reset Internet Explorer Settings** (beachten Sie, dass Benutzerdefinierte Einstellungen verloren gehen), und versuchen Sie dann erneut, sich bei Office anzumelden.
 - Deaktivieren Sie die Windows Defender Application Guard (WDAG) oder ein ähnliches Firewall- oder Antivirenprogramm:
     1. Wechseln Sie in Systemsteuerung zu **"Programme**", und wählen **Sie dann "Windows-Features aktivieren oder deaktivieren" aus**.

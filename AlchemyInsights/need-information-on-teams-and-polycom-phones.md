@@ -11,16 +11,16 @@ ms.localizationpriority: high
 ms.custom:
 - "9000170"
 - "1703"
-ms.openlocfilehash: bece9cc3f699db9cf8e6c124ee953ea2376c00eb
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 6d54b1fdb3c947bfbec2985f527a6029e495df61
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66256798"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66568417"
 ---
 # <a name="need-information-on-teams-and-polycom-phones"></a>Informationen zu Teams und Polycom-Telefonen benötigt
 
 Detailliertere Informationen zu Polycom-Telefonen finden Sie in den [FAQ zu Polycom-Telefonen und Microsoft Teams](https://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf). Sie können außerdem: 
 
 - Überprüfen Sie die Liste der anderen [Telefone für Microsoft Teams](https://docs.microsoft.com/microsoftteams/phones-for-teams). 
-- Überprüfen Sie die Liste der [Geräte mit bekannten Einschränkungen und Problemen](https://support.office.com/article/control-calls-using-a-headset-in-teams-65d6e104-444d-4013-b8c2-f11317dd69a8). 
+- Überprüfen Sie die Liste der [Geräte mit bekannten Einschränkungen und Problemen](https://support.microsoft.com/office/use-certified-teams-devices-to-help-manage-calls-and-meetings-65d6e104-444d-4013-b8c2-f11317dd69a8). 

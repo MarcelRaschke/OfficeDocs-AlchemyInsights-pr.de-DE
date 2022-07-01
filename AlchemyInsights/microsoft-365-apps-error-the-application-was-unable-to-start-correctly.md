@@ -12,12 +12,12 @@ ms.custom:
 - "9003283"
 - "6177"
 ms.date: 08/13/2020
-ms.openlocfilehash: a85358da33561c7fa9610513eb3f28916334cf3f
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 89b4a1b8f4986a07692b464b5036293dfc59d733
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66387922"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66566797"
 ---
 # <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly-0xc0000142"></a>Microsoft 365 Apps-Fehler: Die Anwendung konnte nicht ordnungsgemäß gestartet werden (0xc0000142)
 
@@ -32,6 +32,6 @@ Weitere Informationen finden Sie hier:
 
 - [Fehler beim Öffnen von Microsoft Office-Apps](https://support.microsoft.com/office/error-0xc0000142-when-you-start-an-office-application-64b3a500-ee74-4b66-b370-9d607ef92b6c)  
 
-- [Ich erhalte die Fehlermeldung "... funktioniert nicht mehr", wenn ich versuche, Office-Anwendungen auf meinem PC zu starten](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)  
+- [Ich erhalte die Fehlermeldung "... funktioniert nicht mehr", wenn ich versuche, Office-Anwendungen auf meinem PC zu starten](https://support.microsoft.com/office/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)  
 
 - [Behandeln von Problemen, die beim Starten oder Verwenden von Word auftreten](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

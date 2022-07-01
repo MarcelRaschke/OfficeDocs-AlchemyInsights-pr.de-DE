@@ -11,13 +11,13 @@ ms.localizationpriority: high
 ms.custom:
 - "9002297"
 - "4450"
-ms.openlocfilehash: 0eb3bf892ae9f03eada55ce9b550d3b7ceef1cda
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 310c3551655b8c9b8499fa17f93085375430733b
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66363783"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66569713"
 ---
 # <a name="onedrive-storage-plans"></a>OneDrive-Speicherpläne
 
-Erfahren Sie mehr über OneDrive-Speicherpläne. [Weitere Informationen](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28).
+Erfahren Sie mehr über OneDrive-Speicherpläne. [Weitere Informationen](https://support.microsoft.com/office/manage-your-onedrive-storage-and-limits-989fce19-ade6-4e2f-81fb-941eabefee28).

@@ -12,12 +12,12 @@ ms.custom:
 - "1800027"
 - "1245"
 ms.date: 04/21/2020
-ms.openlocfilehash: aceed8331f34837b0e0a76ae277fda4ef8546c9d
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.openlocfilehash: da091c963c4f3bff14c7948c10a5f9f59027afa2
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65723144"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66566869"
 ---
 # <a name="import-service-in-the-office-365-security--compliance-center"></a>Importdienst im Office 365 Security & Compliance Center
 
@@ -30,5 +30,5 @@ So greifen Sie auf den Importdienst und die Tools zum Importieren mehrerer PST-D
 
 Weitere Informationen und schrittweise Anleitungen zum Importieren mehrerer PST-Dateien finden Sie [in der Übersicht über das Importieren der PST-Dateien Ihrer Organisation](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365).
 
-Informationen zum Importieren einer einzelnen PST-Datei finden Sie unter [Importieren und Exportieren Outlook E-Mails, Kontakte und Kalenders](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac).
+Informationen zum Importieren einer einzelnen PST-Datei finden Sie unter [Importieren und Exportieren von Outlook-E-Mails, Kontakten und Kalendern](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 

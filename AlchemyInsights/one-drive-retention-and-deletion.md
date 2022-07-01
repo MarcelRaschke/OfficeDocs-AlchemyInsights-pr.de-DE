@@ -12,12 +12,12 @@ ms.custom:
 - "9000596"
 - "2440"
 ms.date: 04/21/2020
-ms.openlocfilehash: 781e44aee19891bb14131964b935e0096e5e01a7
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 17349203cf737469f5214e30152c00438d7eb1df
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66364215"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66568453"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Aufbewahrung und Löschung in OneDrive
 
@@ -29,7 +29,7 @@ ms.locfileid: "66364215"
     - Konfigurieren der automatischen Zugriffsdelegierung
     - Funktionsweise des OneDrive-Löschvorgangs.
 
-- Informationen zum Wiederherstellen von Elementen aus dem Papierkorb in OneDrive finden Sie unter [Wiederherstellen gelöschter Dateien oder Ordner](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- Informationen zum Wiederherstellen von Elementen aus dem Papierkorb in OneDrive finden Sie unter [Wiederherstellen gelöschter Dateien oder Ordner](https://support.microsoft.com/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f).
 
 - Sind Sie an der Aufbewahrung und Aufbewahrung im Security and Compliance Center interessiert?
     - [Aufbewahrungsrichtlinien für OneDrive- und SharePoint-Websites](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)

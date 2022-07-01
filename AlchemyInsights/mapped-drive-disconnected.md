@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: ''
 ms.date: 04/21/2020
-ms.openlocfilehash: a6e1579dc57a1b7db26b61287f3f586787f02490
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 098d706b71d60a8c1cb045c94cdaa97c2b1eaa42
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66365637"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66569569"
 ---
 # <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>SharePoint-Bibliotheken, die Netzwerklaufwerken zugeordnet sind, werden getrennt
 
@@ -23,6 +23,6 @@ Das Zuordnen einer SharePoint-Dokumentbibliothek zu einem Netzwerklaufwerk ist t
   
 [Erhalten Sie Hilfe beim Konfigurieren und Behandeln von Problemen mit zugeordneten Netzwerklaufwerken](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Um mit einer Bibliothek in Explorer zu arbeiten, [synchronisieren Sie SharePoint-Dateien mit dem neuen OneDrive-Synchronisation-Client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx), der [Dateien bei Bedarf](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx) enthält. Greifen Sie auf alle Ihre Dateien auf OneDrive zu, ohne lokalen Speicherplatz zu verwenden.
+Um mit einer Bibliothek in Explorer zu arbeiten, [synchronisieren Sie SharePoint-Dateien mit dem neuen OneDrive-Synchronisation-Client](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88), der [Dateien bei Bedarf](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) enthält. Greifen Sie auf alle Ihre Dateien auf OneDrive zu, ohne lokalen Speicherplatz zu verwenden.
   
 

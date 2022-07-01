@@ -13,12 +13,12 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.date: 04/21/2020
-ms.openlocfilehash: 91ea269bc7262cfd9676d72cea2e3148df1b3581
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 6bf79a928688aaf9b79c7bc442289088d91b9db8
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66431482"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66569001"
 ---
 # <a name="more-info-about-retention-policies"></a>Weitere Informationen zu Aufbewahrungsrichtlinien
 
@@ -39,16 +39,16 @@ In den meisten Organisationen nimmt das Volumen und die Komplexität ihrer Daten
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) Legacy-eDiscovery-Richtlinien
 
-- Siehe [DIESEN](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) Artikel
+- Siehe [DIESEN](https://support.microsoft.com/office/set-up-an-ediscovery-center-in-sharepoint-online-a18f8975-aa7f-43b4-a7d6-001d14744d8e) Artikel
 
 ## <a name="c-site-closure-and-deletion-policies"></a>C) Richtlinien für das Schließen und Löschen von Websites
 
-- Siehe [DIESEN](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) Artikel  
+- Siehe [DIESEN](https://support.microsoft.com/office/use-policies-for-site-closure-and-deletion-a8280d82-27fd-48c5-9adf-8a5431208ba5) Artikel  
 
 ## <a name="d-information-rights-management-irm"></a>D) Verwaltung von Informationsrechten (IRM)
 
 - Siehe diese Artikel
   - [IRM in einer Liste/Bibliothek](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [ÜBERSICHT ÜBER IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+  - [ÜBERSICHT ÜBER IRM](https://support.microsoft.com/office/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 **Hinweis**: Es wird dringend empfohlen, zu Sicherheits- und Compliancerichtlinien zu wechseln, wenn Sie weiterhin Legacy-eDiscovery- oder IRM- oder Websiteschließungs- und Löschrichtlinien verwenden.

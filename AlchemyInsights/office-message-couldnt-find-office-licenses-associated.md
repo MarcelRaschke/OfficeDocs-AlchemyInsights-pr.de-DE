@@ -11,12 +11,12 @@ ms.localizationpriority: high
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 80745e43d6e1a3be30ef02f0f9efc35d3711724d
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 1d48d96cf6254d775d017a75639ed50ce52fde92
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66431518"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66567550"
 ---
 # <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Meldung zu Microsoft 365-Apps – konnte die zugeordneten Office-Lizenzen nicht finden
 
@@ -24,7 +24,7 @@ Um diesen Fehler zu beheben, versuchen Sie Folgendes:
 
 - Entfernen und [weisen Sie die Office-Lizenz](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) für den betroffenen Benutzer neu zu.
 
-- Öffnen Sie eine Office-Anwendung und [melden Sie sich von allen vorhandenen Benutzerkonten ab](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071).
+- Öffnen Sie eine Office-Anwendung und [melden Sie sich von allen vorhandenen Benutzerkonten ab](https://support.microsoft.com/office/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071).
 
 - Wechseln Sie zu **Windows-Einstellungen > Konten > E-Mail- und Konten**, und entfernen Sie vorhandene Geschäftskonten.
 
@@ -42,6 +42,6 @@ Wenn das Problem weiterhin besteht, führen Sie die folgenden Schritte aus:
 
 Zusätzliche Lösungen zur Problembehandlung finden Sie unter:
 
-[Fehler "Nicht lizenziertes Produkt" und Aktivierungsfehler in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
+[Fehler "Nicht lizenziertes Produkt" und Aktivierungsfehler in Office](https://support.microsoft.com/office/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 [Microsoft 365-URLs und-IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

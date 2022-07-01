@@ -12,12 +12,12 @@ ms.custom:
 - "9000304"
 - "1921"
 ms.date: 04/21/2020
-ms.openlocfilehash: 68bd8863026ace709e2f1c67d7d1d563c57ea516
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: f99a473146e03be8a6b716e5c1a258b7fb3427f0
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66320511"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66567013"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Hinzufügen von Flags und Erinnerungen in Outlook.com
 
@@ -33,4 +33,4 @@ Um sich selbst daran zu erinnern, eine Nachricht nachzuverfolgen, können Sie ei
 1. Zeigen Sie in der Nachrichtenliste auf die Nachricht, um die Kennzeichnungsoption anzuzeigen.
 1. Auswählen des Kennzeichnungssymbols <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gUVEjU52ukFVAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAA30lEQVQ4jWP8////fwYqAiZqGkZfA19fWMrQmJXPMGnHa+oYyPD1O8OPvz8YfnxjYFjXlc1Q0beK4cjtpwQNZCHO3j8M72/uZVh85zjDfiMXBi9XMwZjeVESXYgN/P3G8OT0JoZZXb0MfauOU8FAGPjznuHm3gUMWYXNDLN3XkWRItLLmICFR47B0MmDIcVdmzIDmbnEGTQsPRnywiyxW0S0QWzCDCq2XgxFYTZ41RFloLh+AEN6tAmDvjT2mCXZQGt3T2KUMTAwDOm8TH0DuTkZOJg5GDi4SDOQceQVsAB8iTrQ4HKYLgAAAABJRU5ErkJggg==' /> um die Nachricht zu kennzeichnen. Um alle gekennzeichneten Nachrichten anzuzeigen, aktivieren Sie das Häkchen in der unteren linken Ecke der Seite, um zu "Aufgaben" zu wechseln.
  
-Weitere Informationen finden Sie [unter Kennzeichnen oder Anheften einer Nachricht in Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie [unter Kennzeichnen oder Anheften einer Nachricht in Outlook.com](https://support.microsoft.com/office/flag-or-pin-a-message-in-outlook-com-8e911e69-30d6-4cc8-8c71-a1163560618a).

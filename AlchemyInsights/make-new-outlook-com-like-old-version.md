@@ -12,12 +12,12 @@ ms.custom:
 - "8000035"
 - "794"
 ms.date: 04/21/2020
-ms.openlocfilehash: 4cedaee59ba099c3d07f83cdebd3cc1d493e27df
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 88a68acfe4854f3956380ea3d3f3a903bb03e396
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66433327"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66568885"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>So gestalten Sie die neue Outlook.com wie die alte Version?
 
@@ -31,4 +31,4 @@ Hier sind einige Einstellungen, die Sie ändern können, damit die neue Outlook.
 1. Wählen Sie unter **"Nachrichtenvorschautext**" die Option **"Vorschautext anzeigen"** aus.
 1. Wählen Sie unter **"Inlinevorschauen****" die Option "Anlagen in Nachrichtenliste nicht anzeigen"** aus.
 
-Informationen zum Ändern Ihrer E-Mail-Einstellungen, damit Ihr Posteingang so aussieht und sich wie gewünscht verhält, finden Sie [unter Ändern des Aussehens Ihres Postfachs in Outlook.com und der neuen Outlook im Web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Informationen zum Ändern Ihrer E-Mail-Einstellungen, damit Ihr Posteingang so aussieht und sich wie gewünscht verhält, finden Sie [unter Ändern des Aussehens Ihres Postfachs in Outlook.com und der neuen Outlook im Web](https://support.microsoft.com/office/change-the-look-of-your-mailbox-in-outlook-com-and-the-new-outlook-on-the-web-b41c2ecb-f23c-42b3-b7f8-659646d5e58c).

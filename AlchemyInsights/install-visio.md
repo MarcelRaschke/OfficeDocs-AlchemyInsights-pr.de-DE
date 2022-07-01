@@ -12,12 +12,12 @@ ms.custom:
 - "9000201"
 - "1764"
 ms.date: 04/21/2020
-ms.openlocfilehash: 93b3f13dd4602105d71189c6dacd6c6572413d55
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 94e4251641d35029d7748efaeebd09d1669b36e4
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66434119"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66568921"
 ---
 # <a name="install-visio"></a>Installieren von Visio
 
@@ -29,7 +29,7 @@ Wenn Sie über ein Abonnement für Visio Online Plan 2 verfügen, müssen Sie [e
 
 Nicht-Volumenlizenzversionen von Visio Standard oder Visio Professional sind Microsoft-Konten zugeordnet und können nicht im Admin Center verwaltet werden. Um diese Versionen zu installieren, müssen sich Benutzer bei [account.microsoft.com](https://account.microsoft.com) mit dem Microsoft-Konto anmelden, das dieser Version von Visio zugeordnet ist.
 
-Ausführlichere Hilfe finden [Sie unter Installieren von Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) und Befolgen der Schritte für Ihre Visio-Version.
+Ausführlichere Hilfe finden [Sie unter Installieren von Visio](https://support.microsoft.com/office/install-visio-or-access-visio-for-the-web-f98f21e3-aa02-4827-9167-ddab5b025710) und Befolgen der Schritte für Ihre Visio-Version.
 
 Weitere Informationen finden Sie unter:<br>
 [Bereitstellungshandbuch für Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>

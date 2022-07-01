@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "9000672"
 - "2549"
-ms.openlocfilehash: cbe3ee531bbe43d704ea0bd97b76d36fe35901e0
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 56b8bf59855027b670d225cbf22561e6a9fa7dd3
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66308952"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66569533"
 ---
 # <a name="get-information-about-microsoft-forms"></a>Abrufen von Informationen zu Microsoft Forms
 
@@ -24,10 +24,10 @@ Um spezifische Informationen zu Microsoft Forms zu erhalten, formulieren Sie Ihr
 
 Hier sind einige zusätzliche Ressourcen:
 
-- [Überprüfen der Lizenzaktivierung und des Status von Azure CollabDBService für Ihren Mandanten](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43)
-- [Freigeben eines Quiz oder Formulars in Microsoft Forms](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
-- [Verwalten der Möglichkeit zum externen Freigeben von Formularen](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?#PickTab=Configure)
-- [Löschen eines Formulars oder Wiederherstellen eines gelöschten Formulars](https://support.office.com/article/Delete-a-form-2207e468-ce1b-4c4a-a256-caf631d87af0)
-- [Drucken der Ergebnisse in Form einer Zusammenfassung der Antworten](https://support.office.com/article/Print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc)
-- [Verschieben einer Umfrage, eines Quiz oder einer Umfrage in eine Gruppe](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
-- [Übertragen des Besitzes eines Formulars an einen anderen Benutzer](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
+- [Überprüfen der Lizenzaktivierung und des Status von Azure CollabDBService für Ihren Mandanten](https://docs.microsoft.com/microsoft-forms/turn-off-turn-on-microsoft-forms)
+- [Freigeben eines Quiz oder Formulars in Microsoft Forms](https://support.microsoft.com/office/share-a-form-or-quiz-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
+- [Verwalten der Möglichkeit zum externen Freigeben von Formularen](https://docs.microsoft.com/microsoft-forms/set-up-microsoft-forms)
+- [Löschen eines Formulars oder Wiederherstellen eines gelöschten Formulars](https://support.microsoft.com/office/delete-a-form-or-recover-a-deleted-form-2207e468-ce1b-4c4a-a256-caf631d87af0)
+- [Drucken der Ergebnisse in Form einer Zusammenfassung der Antworten](https://support.microsoft.com/office/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc)
+- [Verschieben einer Umfrage, eines Quiz oder einer Umfrage in eine Gruppe](https://support.microsoft.com/office/move-your-form-to-a-group-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
+- [Übertragen des Besitzes eines Formulars an einen anderen Benutzer](https://support.microsoft.com/office/move-your-form-to-a-group-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)

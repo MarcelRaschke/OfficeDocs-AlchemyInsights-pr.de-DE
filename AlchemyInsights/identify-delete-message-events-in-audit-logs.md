@@ -12,12 +12,12 @@ ms.custom:
 - "3100005"
 - "1370"
 ms.date: 04/21/2020
-ms.openlocfilehash: b768296e0b674f64f7f7f6a9baf13fc3753d85a1
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 8fba06792e19cad02947114e348d8170b72b8ae4
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66288046"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66568273"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Überwachungsprotokolle für gelöschte E-Mail-Nachrichten
 
@@ -38,4 +38,4 @@ Ab Januar 2019 aktiviert Microsoft standardmäßig die Postfachüberwachungsprot
 
 Weitere Informationen finden Sie unter [Ermitteln, wer die E-Mail-Weiterleitung für ein Postfach eingerichtet](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items) hat.
 
-**Hinweis**: Sie können gelöschte Elemente nicht mithilfe des Überwachungsprotokollfeatures abrufen. Informationen zum Abrufen gelöschter Nachrichten in Outlook im Web finden Sie unter [Wiederherstellen gelöschter Elemente in Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Hinweis**: Sie können gelöschte Elemente nicht mithilfe des Überwachungsprotokollfeatures abrufen. Informationen zum Abrufen gelöschter Nachrichten in Outlook im Web finden Sie unter [Wiederherstellen gelöschter Elemente in Outlook Web App](https://support.microsoft.com/office/recover-deleted-items-or-email-in-outlook-web-app-c3d8fc15-eeef-4f1c-81df-e27964b7edd4).

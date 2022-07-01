@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "9000669"
 - "2651"
-ms.openlocfilehash: 90ca86e5e096afb7950a8b3c3e8821a391d11c36
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: d31a8205664f0bd2e75f885d29a09e558a81c874
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66402375"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66569641"
 ---
 # <a name="issues-signing-in-to-onenote-notebooks"></a>Probleme beim Anmelden bei OneNote-Notizbüchern
 
@@ -28,6 +28,6 @@ Wenn Sie beim Versuch, Ihr Notizbuch zu öffnen, Anmelde- oder Kennwortfehler er
 
 - Löschen Sie [Die Office-Anmeldeinformationen](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) mit dem [Windows-Anmeldeinformations-Manager](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
 
-- Wählen Sie in OneNote 2016 **"Dateikonto** > **"** aus, und **melden Sie sich von** allen Konten ab. Melden Sie sich mit einem Benutzerkonto mit einer gültigen Lizenz erneut an. Ausführliche Informationen finden Sie unter [Konten in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Wählen Sie in OneNote 2016 **"Dateikonto** > **"** aus, und **melden Sie sich von** allen Konten ab. Melden Sie sich mit einem Benutzerkonto mit einer gültigen Lizenz erneut an. Ausführliche Informationen finden Sie unter [Konten in Office](https://support.microsoft.com/office/about-accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
 - Wählen Sie in OneNote für Windows die Auslassungspunkte (**...**) oben rechts auf dem Bildschirm aus, wählen Sie **"Einstellungskonten"** >  aus, und stellen Sie sicher, dass ein Geschäfts-, Schul- oder Unikonto aufgeführt ist.
