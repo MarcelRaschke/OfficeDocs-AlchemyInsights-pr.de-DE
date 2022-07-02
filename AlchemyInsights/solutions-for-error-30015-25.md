@@ -12,16 +12,16 @@ ms.custom:
 - "2000020"
 - "830"
 ms.date: 04/21/2020
-ms.openlocfilehash: 3aeea4b6bcc430c355519e7e873bf35e5712b051
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: bb246bb08cb13285c7636bc24dcae1d5d1551aa8
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66397382"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66600295"
 ---
 # <a name="solutions-for-error-30015-25"></a>Lösungen für Fehler 30015-25
 
-Versuchen Sie folgende Lösungen, um Fehler [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA) zu beheben:
+Versuchen Sie folgende Lösungen, um Fehler [30015-25](https://support.microsoft.com/office/fix-office-installation-errors-d5df89a9-0507-4b4c-92f9-22f457e630aa) zu beheben:
   
 - Starten Sie Ihren Computer neu, und versuchen Sie [, Office zu installieren](https://portal.office.com/OLS/MySoftware.aspx).
 

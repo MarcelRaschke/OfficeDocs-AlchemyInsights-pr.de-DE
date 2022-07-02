@@ -11,12 +11,12 @@ ms.localizationpriority: high
 ms.custom:
 - "9003084"
 - "5885"
-ms.openlocfilehash: cb8410e777fd468507149b2bb00027edf86fd72b
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: b28b1f7d11261aa84d3e58ccd857f91173985ea5
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66261694"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66600151"
 ---
 # <a name="troubleshoot-onedrive-crashes"></a>Fehlerbehandlung bei OneDrive-Abstürzen
 
@@ -43,5 +43,5 @@ Hinweise:
 
 Hinweise:
 
-- Wenn Sie vor dem Zurücksetzen ausgewählt hatten, dass nur einige Ordner synchronisiert werden sollen, müssen Sie dies nach Abschluss der Synchronisierung erneut tun. Weitere Informationen finden Sie unter [Auswählen der OneDrive-Ordner, die mit Ihrem Computer synchronisiert werden sollen](https://support.office.com/article/98b8b011-8b94-419b-aa95-a14ff2415e85).
+- Wenn Sie vor dem Zurücksetzen ausgewählt hatten, dass nur einige Ordner synchronisiert werden sollen, müssen Sie dies nach Abschluss der Synchronisierung erneut tun. Weitere Informationen finden Sie unter [Auswählen der OneDrive-Ordner, die mit Ihrem Computer synchronisiert werden sollen](https://support.microsoft.com/office/choose-which-onedrive-folders-to-sync-to-your-computer-98b8b011-8b94-419b-aa95-a14ff2415e85).
 - Sie müssen dies für Ihr persönliches OneDrive und für OneDrive for Business ausführen.

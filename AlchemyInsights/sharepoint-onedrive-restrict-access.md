@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.date: 04/21/2020
-ms.openlocfilehash: 04ed1f9a9af42fce52150d650ae74f873e3c69c2
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: b35e0c95e0464d609f49795bdaff134fd3ce6928
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66280630"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66598963"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Einschränken des Zugriffs in SharePoint oder OneDrive
 
@@ -24,11 +24,11 @@ Es gibt viele Möglichkeiten, den Zugriff auf SharePoint Online/OneDrive-Dienste
 
 In SharePoint Online und OneDrive for Business schränken wir den Zugriff auf Elemente wie Websites, Dateien und Ordner ein, indem nur diesen Gruppen/Personen Zugriff gewährt wird, die Zugriff haben sollen.
 
-- [Anpassen von Berechtigungen für eine SharePoint-Liste oder -Bibliothek](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Anpassen von Berechtigungen für eine SharePoint-Liste oder -Bibliothek](https://support.microsoft.com/office/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
 - [Anpassen von SharePoint-Websiteberechtigungen](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [Ändern der Berechtigungen für einen Unterordner](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [Ändern der Berechtigungen für einen Unterordner](https://support.microsoft.com/office/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6)
 
 - [Steuern des Zugriffs von nicht verwalteten Geräten](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

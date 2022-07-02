@@ -11,16 +11,16 @@ ms.localizationpriority: medium
 ms.custom:
 - "9000592"
 - "3042"
-ms.openlocfilehash: 73ddebdcdaced0dfd247c50feaa135e3a4c4ba07
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 96e4d52eb65485e4c5c580032299502496bf1df0
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66416722"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66598528"
 ---
 # <a name="table-of-contents"></a>Inhaltsverzeichnis
 
-Informationen zum Erstellen eines Inhaltsverzeichnisses in Word finden Sie unter [Einfügen eines Inhaltsverzeichnisses](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0), oder laden Sie unser [Lernprogramm zum Inhaltsverzeichnis](https://go.microsoft.com/fwlink/?linkid=2065106) herunter.
+Informationen zum Erstellen eines Inhaltsverzeichnisses in Word finden Sie unter [Einfügen eines Inhaltsverzeichnisses](https://support.microsoft.com/office/insert-a-table-of-contents-882e8564-0edb-435e-84b5-1d8552ccf0c0), oder laden Sie unser [Lernprogramm zum Inhaltsverzeichnis](https://go.microsoft.com/fwlink/?linkid=2065106) herunter.
 
 **Lösungen für häufige Probleme**
 

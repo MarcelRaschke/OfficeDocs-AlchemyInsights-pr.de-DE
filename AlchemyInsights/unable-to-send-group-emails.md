@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: 8000053
 ms.date: 04/21/2020
-ms.openlocfilehash: 880c0a6f8db1fe4fab37b68b15a8fd7905641ba3
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: e557d2491709a3753217a3dffc1557a530999df2
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66344757"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66600198"
 ---
 # <a name="unable-to-send-group-emails"></a>Gruppen-E-Mails können nicht gesendet werden.
 
 Wenn Sie keine E-Mails an Kontaktlisten oder Kontaktgruppen in Outlook.com senden können, versuchen Sie Folgendes:
   
-1. Verwenden Sie Outlook.com Betaversion. Weitere Informationen finden [Sie unter Outlook.com Betaversion](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Verwenden Sie Outlook.com Betaversion. Weitere Informationen finden [Sie unter Outlook.com Betaversion](https://support.microsoft.com/office/get-help-with-outlook-com-40676ad0-c831-45ac-a023-5be633be798d).
     
 2. Wenn Beim Verfassen einer E-Mail an Ihre Gruppe weiterhin Probleme auftreten, wechseln Sie zu ["Personen](https://outlook.live.com/people/)", wählen Sie die Kontaktliste oder Gruppe aus, und wählen Sie dann " **E-Mail senden**" aus.
     

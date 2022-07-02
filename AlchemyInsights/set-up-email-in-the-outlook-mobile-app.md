@@ -14,12 +14,12 @@ ms.custom:
 - "598"
 - "900"
 ms.date: 04/21/2020
-ms.openlocfilehash: 9ad73fdaf62c305dcda439de103451ccd21b19bb
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 683223f6f36ba0e76faa8eaaafed35f5512e297e
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66316299"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66596659"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Einrichten von E-Mail in der mobilen Outlook-App
 
@@ -35,10 +35,10 @@ ms.locfileid: "66316299"
 
 6. Outlook kann die Berechtigung für den Zugriff auf Ihren Kalender, Ihre Kontakte und andere Informationen anfordern. Wählen Sie **"Ja** " oder **"Zulassen"** aus.
 
-Hier erhalten Sie detaillierte Einrichtungsanweisungen [für Outlook für Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) oder [Outlook für iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) .
+Hier erhalten Sie detaillierte Einrichtungsanweisungen [für Outlook für Android](https://support.microsoft.com/office/set-up-email-in-the-outlook-for-android-app-886db551-8dfa-4fd5-b835-f8e532091872) oder [Outlook für iOS](https://support.microsoft.com/office/set-up-an-outlook-account-in-the-ios-mail-app-b2de2161-cc1d-49ef-9ef9-81acd1c8e234) .
   
  **Benötigen Sie Hilfe?**
   
-- [Problembehandlung bei der E-Mail-Einrichtung auf mobilgeräten](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [Problembehandlung bei der E-Mail-Einrichtung auf mobilgeräten](https://support.microsoft.com/office/troubleshoot-outlook-mobile-issues-a264ef01-9c88-48fb-9285-7017e4f31f02)
 
-- [Abrufen von In-App-Hilfe für Outlook für iOS und Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Abrufen von In-App-Hilfe für Outlook für iOS und Android](https://support.microsoft.com/office/get-in-app-help-for-outlook-for-ios-and-android-218a22d1-9fa5-4889-b689-de1c63493243?ui=en-us&rs=en-us&ad=us#ID0EAABAAA=Contact_Support)

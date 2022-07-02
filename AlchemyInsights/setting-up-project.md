@@ -11,16 +11,16 @@ ms.localizationpriority: medium
 ms.custom:
 - "1600006"
 - "33"
-ms.openlocfilehash: 64aa583be23a9a4dc37334b182e84d40eefcf5d3
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 6ea5567040279730a29670c1158ac1baa2d6c593
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66417874"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66600583"
 ---
 # <a name="setting-up-project"></a>Einrichten von Project
 
- Führen Sie zum Einrichten von Microsoft Project die Schritte in [diesem Artikel](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx) aus.
+ Führen Sie zum Einrichten von Microsoft Project die Schritte in [diesem Artikel](https://support.microsoft.com/office/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) aus.
 
 **Hinweis für Mac-Benutzer:** Das Project-Produkt ist derzeit nicht für MacOS verfügbar. 
   

@@ -12,12 +12,12 @@ ms.custom:
 - "2000021"
 - "849"
 ms.date: ''
-ms.openlocfilehash: d1f01dd65f34db10218e5d730cd2a674b058b88f
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: b2868ef9520f52dca0959e3cca6caee4000bad81
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66315759"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66598496"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Vorschläge zum Beheben von Fehlern des "Nicht lizenzierten Produkts"
 
@@ -31,7 +31,7 @@ Führen Sie die [Aktivierungsproblembehandlung](https://aka.ms/SARA-OfficeActiva
   
 Auf der Seite [Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health) werden mögliche bekannte Probleme mit dem Dienst angezeigt.
   
-[Führen Sie eine Onlinereparatur von Office durch](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Führen Sie eine Onlinereparatur von Office durch](https://support.microsoft.com/office/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
   
-Weitere Lösungen zur Problembehandlung finden Sie unter: [Nicht lizenziertes Produkt und Aktivierungsfehler in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Weitere Lösungen zur Problembehandlung finden Sie unter: [Nicht lizenziertes Produkt und Aktivierungsfehler in Office](https://support.microsoft.com/topic/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   

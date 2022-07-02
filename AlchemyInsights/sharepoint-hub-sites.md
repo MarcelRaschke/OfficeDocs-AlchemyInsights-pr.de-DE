@@ -11,12 +11,12 @@ ms.localizationpriority: medium
 ms.custom:
 - "5300012"
 - "1591"
-ms.openlocfilehash: 09f0cbdcdf66b78e66e12bb573b6701b4a0e08f6
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: a36394fb27462a2a6294f27960a69f160c28b0fb
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66361659"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66600547"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>SharePoint-Hubwebsites – Übersicht
 
@@ -31,7 +31,7 @@ SharePoint-Hubwebsites helfen Ihnen dabei, die Anforderungen Ihrer Organisation 
 Weitere Informationen zu Hubwebsites finden Sie im Folgenden:
 - [Erstellen einer Hubwebsite in SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Erfahren Sie, wie Sie eine Hubwebsite aus dem neuen Admin Center oder PowerShell erstellen.
 
-- [Zuordnen einer SharePoint-Website zu einer Hubwebsite](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Erfahren Sie mehr über das Zuordnen vorhandener Websites zu einer Hubwebsite aus dem neuen Admin Center oder PowerShell.
+- [Zuordnen einer SharePoint-Website zu einer Hubwebsite](https://support.microsoft.com/office/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Erfahren Sie mehr über das Zuordnen vorhandener Websites zu einer Hubwebsite aus dem neuen Admin Center oder PowerShell.
 
 - [Entfernen einer Hubwebsite](https://docs.microsoft.com/sharepoint/remove-hub-site): Erfahren Sie, wie Sie eine vorhandene Hubwebsite im neuen Admin Center oder powerShell entfernen.
 

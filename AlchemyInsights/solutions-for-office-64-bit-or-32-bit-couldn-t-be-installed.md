@@ -12,12 +12,12 @@ ms.custom:
 - "2000023"
 - "905"
 ms.date: 04/21/2020
-ms.openlocfilehash: fe76f96a4e0c739b173fb292a937e3259116ff95
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: cb057f3b45259ddf6d1f562ccb3b6ea5c2ec2a46
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66290791"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66596335"
 ---
 # <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Lösungen für "Office (64-Bit oder 32-Bit) konnten nicht installiert werden
 
@@ -35,7 +35,7 @@ Um diesen Fehler zu beheben und von 32-Bit zu 64-Bit zu wechseln, müssen Sie di
 
 3. Folgen Sie den verbleibenden Eingabeaufforderungen, und [installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx) mit der richtigen 32-Bit- oder 64-Bit-Version erneut.
 
-    Führen Sie die Schritte unter ["Installieren von Office auf einem PC" aus](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
+    Führen Sie die Schritte unter ["Installieren von Office auf einem PC" aus](https://support.microsoft.com/office/download-and-install-or-reinstall-microsoft-365-or-office-2021-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).
 
-Weitere Informationen finden Sie [unter "Fehler "Office (64-Bit oder 32-Bit) konnte nicht installiert werden" beim Versuch, die Installation zu starten](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA).
+Weitere Informationen finden Sie [unter "Fehler "Office (64-Bit oder 32-Bit) konnte nicht installiert werden" beim Versuch, die Installation zu starten](https://support.microsoft.com/office/-office-64-bit-or-32-bit-couldn-t-be-installed-error-when-trying-to-install-2e2dc9e5-3eb0-420c-862a-ab085b38597f).
   

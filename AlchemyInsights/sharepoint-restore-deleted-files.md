@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 4c5d3af23a4485c9c49d62038d149f9bbe75dbb6
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 868e90f7e07389f612118c3c9ea43404021b028d
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66263170"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66598783"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Wiederherstellen einer gelöschten Datei oder eines gelöschten Ordners
 
@@ -24,7 +24,7 @@ Wenn Sie ein Element oder eine Website aus SharePoint löschen, wird es nicht so
 
 [Elemente im Papierkorb einer SharePoint-Website wiederherstellen](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be).
 
-[Wiederherstellen gelöschter Dateien oder Ordner in OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+[Wiederherstellen gelöschter Dateien oder Ordner in OneDrive](https://support.microsoft.com/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 [Wiederherstellen einer gelöschten Websitesammlung (einschließlich Gruppe, Kommunikation und anderen Websites)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
@@ -36,6 +36,6 @@ Für Massen-Papierkorbaktionen können Administratoren die Verwendung von [Share
 
 Wenn viele Ihrer OneDrive- oder SharePoint-Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie Ihre gesamte OneDrive- oder SharePoint-Bibliothek mithilfe des Features zum Wiederherstellen von Dateien auf ein früheres Mal wiederherstellen.
 
-[Wiederherstellen einer OneDrive-Bibliothek](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+[Wiederherstellen einer OneDrive-Bibliothek](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 
-[Wiederherstellen einer Dokumentbibliothek](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+[Wiederherstellen einer Dokumentbibliothek](https://support.microsoft.com/office/restore-a-shared-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

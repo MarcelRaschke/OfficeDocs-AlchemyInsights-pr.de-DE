@@ -11,18 +11,18 @@ ms.localizationpriority: medium
 ms.custom:
 - "9001714"
 - "3796"
-ms.openlocfilehash: 0be07045dbffbd6d4d133141c673ecc74726e1ff
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 954be00ab214d73440649be92fb0449f46cb3ec3
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66318495"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66599575"
 ---
 # <a name="remove-or-turn-off-microsoft-teams"></a>Entfernen oder Deaktivieren von Microsoft Teams
 
 Ist Ihre Organisation noch nicht bereit, [mit Microsoft Teams zusammenzuarbeiten oder remote zu arbeiten](https://products.office.com/microsoft-teams/group-chat-software?&OCID=AID2000955_SEM_WiLWtgAAAKcGoHNG:20200305184100:s&msclkid=cbe12a5675e41135662d7437325dbd9a&ef_id=WiLWtgAAAKcGoHNG:20200305184100:s)?
 
-- So [deinstallieren Sie Microsoft Teams](https://support.office.com/article/Uninstall-Microsoft-Teams-3b159754-3c26-4952-abe7-57d27f5f4c81).
+- So [deinstallieren Sie Microsoft Teams](https://support.microsoft.com/office/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81).
 
 - [So aktivieren oder deaktivieren Sie Teams für Ihre gesamte Organisation](https://docs.microsoft.com/MicrosoftTeams/office-365-set-up).
 

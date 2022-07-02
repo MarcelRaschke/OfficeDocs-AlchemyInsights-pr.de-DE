@@ -12,12 +12,12 @@ ms.custom:
 - "2000020"
 - "834"
 ms.date: 04/21/2020
-ms.openlocfilehash: 3e40b7923ff5a4d44e29b5966a21d48c2063a63f
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 1072b8a4ebe95d3920cc0795daec7292ef34a981
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66417262"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66595770"
 ---
 # <a name="solutions-for-error-30015-4"></a>Lösungen für Fehler 30015-4
 
@@ -33,5 +33,5 @@ ms.locfileid: "66417262"
 
 3. Folgen Sie den verbleibenden Eingabeaufforderungen, und [installieren Sie Office erneut](https://portal.office.com/OLS/MySoftware.aspx) , oder schließen Sie den Assistenten.
 
-[Beheben von Office-Installationsfehlern](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
+[Beheben von Office-Installationsfehlern](https://support.microsoft.com/office/fix-office-installation-errors-d5df89a9-0507-4b4c-92f9-22f457e630aa)
   
