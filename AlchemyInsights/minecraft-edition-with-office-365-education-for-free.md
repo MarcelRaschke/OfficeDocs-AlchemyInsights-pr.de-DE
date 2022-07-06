@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: mijeffer, jmueller
-audience: ITPro
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,12 +14,12 @@ ms.custom:
 - "1500009"
 - "1427"
 ms.date: 04/21/2020
-ms.openlocfilehash: ebae9d46415c3cbf99da6aa5d74c50838402e78b
-ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
+ms.openlocfilehash: 6b907d693add09712b853249d1f12e5215a4855f
+ms.sourcegitcommit: b7fd3841d28b7e4164495ae610fe38d49e1cfac4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "66157717"
+ms.lasthandoff: 07/06/2022
+ms.locfileid: "66644814"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition mit Office 365 Education kostenlos
 

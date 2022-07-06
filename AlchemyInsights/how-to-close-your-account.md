@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-audience: ITPro
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,12 +14,12 @@ ms.custom:
 - "9002317"
 - "4502"
 ms.date: 09/14/2020
-ms.openlocfilehash: 483315fdb8eb0094b7c979709ba25563d1c1587c
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 50046c81c220c9af82eeb9acdce681e34bfaa5bf
+ms.sourcegitcommit: b7fd3841d28b7e4164495ae610fe38d49e1cfac4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66288298"
+ms.lasthandoff: 07/06/2022
+ms.locfileid: "66644840"
 ---
 # <a name="how-to-close-your-account"></a>So schließen Sie Ihr Konto
 

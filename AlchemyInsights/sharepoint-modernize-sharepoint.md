@@ -8,15 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-custom.ms:
+ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: a2ca2d69728fb8ab3fcbaa477623048881250b9a
-ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
+ms.openlocfilehash: c1dacf0134acc77ed66ae18c6117068f71de02dd
+ms.sourcegitcommit: b7fd3841d28b7e4164495ae610fe38d49e1cfac4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2022
-ms.locfileid: "66593635"
+ms.lasthandoff: 07/06/2022
+ms.locfileid: "66644869"
 ---
 # <a name="modernize-your-classic-sharepoint-experience"></a>Modernisieren Ihrer klassischen SharePoint-Oberfläche
 
