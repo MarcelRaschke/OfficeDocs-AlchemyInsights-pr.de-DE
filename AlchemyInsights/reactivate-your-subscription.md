@@ -16,13 +16,13 @@ ms.custom:
 - "4473"
 - "4736"
 - "3551"
-ms.date: 08/10/2021
-ms.openlocfilehash: 2186306a98d56a6c1e779d061147800eb3071bd9
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.date: 07/12/2022
+ms.openlocfilehash: 6773cd655b107908b9fb0cba626bf78b693151f2
+ms.sourcegitcommit: 528f020a7e485d388f7506a8ea3a7a3ec8f3bcaa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66362667"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66756221"
 ---
 # <a name="reactivate-your-subscription"></a>Reaktivieren Ihres Abonnements
 
@@ -37,7 +37,7 @@ Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](https://
 
 **Abonnementverlängerung verwalten**
 
-Sie können die **wiederholte Abrechnung** aktivieren oder deaktivieren, um eine monatliche oder jährliche Abrechnung zu verwalten.
+Um Ihre Abonnementabrechnung zu verwalten, können Sie die wiederkehrende **Abrechnung** ein oder ausschalten.
 
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie ändern möchten.

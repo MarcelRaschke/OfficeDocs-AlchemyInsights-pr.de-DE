@@ -14,17 +14,17 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.date: 08/10/2021
-ms.openlocfilehash: c0b18762cf989fa4f4109bd1b887e1492033cf9e
-ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
+ms.date: 07/12/2022
+ms.openlocfilehash: d7f63ef11b4e6d58dfe1c316f9cbe219157c41e4
+ms.sourcegitcommit: 528f020a7e485d388f7506a8ea3a7a3ec8f3bcaa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "66154657"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66756173"
 ---
 # <a name="manage-subscription-renewal"></a>Abonnementverlängerung verwalten
 
-Sie können die **wiederholte Abrechnung** aktivieren oder deaktivieren, um eine monatliche oder jährliche Abrechnung zu verwalten.
+Um Ihre Abonnementabrechnung zu verwalten, können Sie die wiederkehrende **Abrechnung** ein oder ausschalten.
 
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > **[Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement, das Sie verwalten möchten, wählen Sie die drei Punkte (weitere Aktionen) und dann **Wiederholte Abrechnung bearbeiten** aus.
