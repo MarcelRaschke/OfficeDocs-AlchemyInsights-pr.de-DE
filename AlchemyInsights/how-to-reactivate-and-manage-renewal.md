@@ -13,13 +13,13 @@ ms.custom:
 - commerce_subscriptions
 - "1500012"
 - "349"
-ms.date: 08/10/2021
-ms.openlocfilehash: fb04ab1ff62adfc00e50a2eb2fd3406801ab6c73
-ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
+ms.date: 07/12/2022
+ms.openlocfilehash: 3d4df290337506e91f5420aee7d3657010753605
+ms.sourcegitcommit: 528f020a7e485d388f7506a8ea3a7a3ec8f3bcaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "66152677"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66756222"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Reaktivieren eines Abonnements und Verwalten der wiederkehrenden Abrechnung
 
@@ -32,7 +32,7 @@ Es sieht so aus, als hätten Sie ein Abonnement, das abgelaufen ist. Wenn Sie es
 
 Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-Sie können die **wiederholte Abrechnung** aktivieren oder deaktivieren, um eine monatliche oder jährliche Abrechnung zu verwalten.
+Um Ihre Abonnementabrechnung zu verwalten, können Sie die **wiederkehrende Abrechnung** aktivieren oder deaktivieren.
   
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie ändern möchten.
