@@ -8,14 +8,20 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.custom: ''
+ms.custom:
+- "9010260"
+- "16723"
+- "9010263"
+- "16722"
+- "9010265"
+- "17761"
 ms.date: 07/12/2022
-ms.openlocfilehash: ce2883081499a2a62d1dbfbdcb11d83e427e5b21
-ms.sourcegitcommit: 528f020a7e485d388f7506a8ea3a7a3ec8f3bcaa
+ms.openlocfilehash: 0c300badd048ae6d589c8b219a160a0ac14da72c
+ms.sourcegitcommit: 1a60bb6d03e4fca8b6550447ff1a5c2fe11b1ffc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66756386"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "66792612"
 ---
 # <a name="deploy-microsoft-viva-advanced-insights"></a>Bereitstellen erweiterter Einblicke in Microsoft Viva
 

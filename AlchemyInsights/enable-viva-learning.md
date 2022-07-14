@@ -8,14 +8,24 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.custom: ''
+ms.custom:
+- "9010270"
+- "17151"
+- "9010271"
+- "17148"
+- "9010272"
+- "17149"
+- "9010277"
+- "17162"
+- "9010696"
+- "17150"
 ms.date: 07/12/2022
-ms.openlocfilehash: db25ae6acf6be158b27720ea5e27b37910eb50e4
-ms.sourcegitcommit: 528f020a7e485d388f7506a8ea3a7a3ec8f3bcaa
+ms.openlocfilehash: 9476311cbce975ef9d9e046283ce891f70d16000
+ms.sourcegitcommit: 1a60bb6d03e4fca8b6550447ff1a5c2fe11b1ffc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66756371"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "66792630"
 ---
 # <a name="enable-viva-learning"></a>Aktivieren von Viva Learning
 

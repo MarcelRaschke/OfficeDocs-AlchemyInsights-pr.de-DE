@@ -8,14 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.custom: ''
+ms.custom:
+- "9010261"
+- "16695"
 ms.date: 07/12/2022
-ms.openlocfilehash: 938c265ae690a363e6f5ec10130334b0e502e34e
-ms.sourcegitcommit: 528f020a7e485d388f7506a8ea3a7a3ec8f3bcaa
+ms.openlocfilehash: ffac238feff2bcbda1cbba71107adcb391147ca4
+ms.sourcegitcommit: 1a60bb6d03e4fca8b6550447ff1a5c2fe11b1ffc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66756378"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "66792613"
 ---
 # <a name="deploy-microsoft-viva-manager-and-leadership-insights"></a>Bereitstellen von Microsoft Viva Manager und Leadership Insights
 
