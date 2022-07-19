@@ -3,7 +3,7 @@ title: Neue Preise für Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: sguatam, jmueller
+ms.reviewer: sgautam, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "1500026"
 - "16930"
 ms.date: 05/20/2022
-ms.openlocfilehash: b53d719af3e161f160c582642ac8751e45cfb302
-ms.sourcegitcommit: 654bbec12ffc98760723fe13ad3f69b9cff95a72
+ms.openlocfilehash: 5bd0fa3315813bf1d625f2e48b7c6100fecb181e
+ms.sourcegitcommit: dbf69ba807fac0f6d88ba6da5bc8d5e912c7bbd2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65611842"
+ms.lasthandoff: 07/19/2022
+ms.locfileid: "66852959"
 ---
 # <a name="new-pricing-for-microsoft-365"></a>Neue Preise für Microsoft 365
 
