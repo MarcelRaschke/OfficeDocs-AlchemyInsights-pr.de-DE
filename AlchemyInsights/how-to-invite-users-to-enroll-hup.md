@@ -1,5 +1,5 @@
 ---
-title: Gewusst wie Benutzer einladen, sich für das Home Use Program (HUP) zu registrieren?
+title: Gewusst wie Benutzer einladen, sich für das Microsoft Workplace Discount-Programm zu registrieren?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,21 +13,21 @@ ms.custom:
 - commerce_subscriptions
 - "9004233"
 - "7499"
-ms.date: 04/27/2022
-ms.openlocfilehash: 0f862a06f84140c73e93edca46dad94ddd244bd3
-ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
+ms.date: 07/19/2022
+ms.openlocfilehash: 260e405a12585f3c7528956c00bf3bc05df817e9
+ms.sourcegitcommit: d234ba2daf4a5d659e223dae82bbc7b79b6c5ce1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2022
-ms.locfileid: "66001746"
+ms.lasthandoff: 07/19/2022
+ms.locfileid: "66884363"
 ---
-# <a name="how-do-i-invite-users-to-enroll-in-the-home-use-program-hup"></a>Gewusst wie Benutzer einladen, sich für das Home Use Program (HUP) zu registrieren?
+# <a name="how-do-i-invite-users-to-enroll-in-the-microsoft-workplace-discount-program"></a>Gewusst wie Benutzer einladen, sich für das Microsoft Workplace Discount-Programm zu registrieren?
 
-So laden Sie Benutzer zur Registrierung beim Microsoft Home Use Program (HUP) ein:
+So laden Sie Benutzer zur Registrierung beim Microsoft Workplace Discount-Programm ein:
 
-- Volumenlizenzkunden verwenden die Microsoft Home Use Program auf der [Microsoft Store für Unternehmen Website](https://go.microsoft.com/fwlink/p/?linkid=2139192).
-- Alle anderen Kunden greifen im Microsoft 365 Admin Center auf HUP zu, indem Sie zur Seite "Abrechnung > [Ihre Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions)" wechseln, die Registerkarte "Vorteile" und dann Microsoft Home Use Program auswählen.
+- Volumenlizenzkunden verwenden das Workplace Discount-Programm auf der [Microsoft Store für Unternehmen Website](https://go.microsoft.com/p/fwlink/p/?linkid=2139192).
+- Alle anderen Kunden greifen im Microsoft 365 Admin Center auf den Arbeitsplatzrabatt zu: Wechseln Sie zu **"Abrechnung** > [Ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)", wählen Sie die Registerkarte **"Vorteile**" und dann **"Microsoft Workplace Discount Program"** aus.
 
-Damit Mitarbeiter den Microsoft Home Use Program Rabatt nutzen können, benötigen sie eine gültige Unternehmens-E-Mail-Adresse und ein aktives Microsoft-Konto.
+Damit Mitarbeiter das Workplace Discount-Programm nutzen können, benötigen sie eine gültige Unternehmens-E-Mail-Adresse und ein aktives Microsoft-Konto.
 
-Weitere Informationen finden Sie [unter Microsoft Home Use Program häufig gestellten Fragen (FAQ).For more information, see Microsoft Home Use Program frequently-asked questions (FAQ)](https://docs.microsoft.com/microsoft-365/commerce/microsoft-home-use-program-faq#why-should-my-company-participate-in-the-home-use-program-).
+Weitere Informationen finden Sie unter [Häufig gestellte Fragen (FAQ) zum Microsoft Workplace Discount-Programm](https://docs.microsoft.com/microsoft-365/commerce/microsoft-workplace-discount-program-faq).

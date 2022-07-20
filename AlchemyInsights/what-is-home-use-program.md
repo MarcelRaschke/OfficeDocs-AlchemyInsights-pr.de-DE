@@ -1,5 +1,5 @@
 ---
-title: Was ist die Microsoft Home Use Program?
+title: Was ist das Microsoft Workplace Discount-Programm?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - commerce_subscriptions
 - "9004233"
 - "7500"
-ms.date: 03/31/2022
-ms.openlocfilehash: 2d5dad37f82f53aaa44912a95470d3d0272276c9
-ms.sourcegitcommit: b2b49d5a8639e46c13a75f48fe929d9c0acd36f2
+ms.date: 07/19/2022
+ms.openlocfilehash: 2fff2bf5e1f7a08c876f63356da255c0194f716b
+ms.sourcegitcommit: d234ba2daf4a5d659e223dae82bbc7b79b6c5ce1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65624532"
+ms.lasthandoff: 07/19/2022
+ms.locfileid: "66884250"
 ---
-# <a name="what-is-the-microsoft-home-use-program"></a>Was ist die Microsoft Home Use Program?
+# <a name="what-is-the-microsoft-workplace-discount-program"></a>Was ist das Microsoft Workplace Discount-Programm?
 
-Mit dem Microsoft Home Use Program (HUP) können Mitarbeiter in berechtigten Unternehmen Microsoft-Verbraucherprodukte zu einem Rabatt kaufen. Aktuelle Rabatte für jedes Produktangebot finden Sie auf der [Produktseite des Home Use Program](https://www.microsoft.com/home-use-program).
+Mit dem Microsoft Workplace Discount-Programm können Mitarbeiter in berechtigten Unternehmen Microsoft-Verbraucherprodukte zu einem Rabatt kaufen. Aktuelle Rabatte für jedes Produktangebot finden Sie [auf der Produktseite des Microsoft Workplace Discount-Programms](https://www.microsoft.com/workplace-discount-program).
 
-Weitere Informationen finden Sie [unter Microsoft Home Use Program häufig gestellten Fragen (FAQ).For more information, see Microsoft Home Use Program frequently-asked questions (FAQ)](https://docs.microsoft.com/microsoft-365/commerce/microsoft-home-use-program-faq#why-should-my-company-participate-in-the-home-use-program-).
+Weitere Informationen finden Sie unter [Häufig gestellte Fragen (FAQ) zum Microsoft Workplace Discount-Programm](https://docs.microsoft.com/microsoft-365/commerce/microsoft-workplace-discount-program-faq).

@@ -1,5 +1,5 @@
 ---
-title: Wie qualifiziert sich eine Organisation für Rabatte des Home Use Program?
+title: Wie qualifiziert sich eine Organisation für die Vorteile des Microsoft Workplace Discount-Programms?
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
@@ -13,22 +13,22 @@ ms.custom:
 - commerce_subscriptions
 - "9004233"
 - "7498"
-ms.date: 05/03/2022
-ms.openlocfilehash: 5ac2a550a3c090ec9b81c6e68e1aa83920f915a3
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 07/19/2022
+ms.openlocfilehash: 74ec71a12d8b68a54b48e420a1d8ad6916016286
+ms.sourcegitcommit: d234ba2daf4a5d659e223dae82bbc7b79b6c5ce1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65724343"
+ms.lasthandoff: 07/19/2022
+ms.locfileid: "66884322"
 ---
-# <a name="how-does-an-organization-qualify-for-home-use-program-discounts"></a>Wie qualifiziert sich eine Organisation für Rabatte des Home Use Program?
+# <a name="how-does-an-organization-qualify-for-microsoft-workplace-discount-program-benefits"></a>Wie qualifiziert sich eine Organisation für die Vorteile des Microsoft Workplace Discount-Programms?
 
-Um sich für die Vorteile des Home Use Program zu qualifizieren, muss Ihre Organisation eines der folgenden Kriterien erfüllen:
+Um sich für die Vorteile des Microsoft Workplace Discount Program zu qualifizieren, muss Ihre Organisation eines der folgenden Kriterien erfüllen:
 
-- Kunden, die über eine aktive Software Assurance verfügen, um Office Anwendungen zu qualifizieren.
-- Kunden, die über Microsoft 365/Microsoft 365 E3/E5 von Software Assurance verfügen.
-- Geschäfts- und Regierungskunden, die mindestens 2.000 Lizenzen eines oder einer Mischung aus Microsoft 365 E3 und E5 erworben haben.
+- Kunden, die über eine aktive Software Assurance für berechtigte Office-Anwendungen verfügen.
+- Kunden mit Microsoft 365/Microsoft 365 E3/E5 von Software Assurance.
+- Geschäfts- und Regierungskunden, die mindestens 2.000 Lizenzen einer oder einer Mischung aus Microsoft 365 E3 und E5 erworben haben.
 - Bildungseinrichtungen und gemeinnützige Kunden.
-- Geschäfts- und Regierungskunden, die in den letzten 12 Monaten 250.000 USD oder mehr für berechtigte Power BI, Office, Surface-Geräte & Zubehör, Windows und Enterprise Mobility ausgegeben haben.
+- Geschäfts- und Regierungskunden, die in den letzten 12 Monaten 250.000 USD oder mehr für berechtigte Power BI-, Office-, Surface-Geräte & Zubehör, Windows und Enterprise Mobility ausgegeben haben.
 
-Weitere Informationen zur Berechtigung finden Sie [unter Microsoft Home Use Program häufig gestellten Fragen (FAQ).For more information about eligibility, visit Microsoft Home Use Program frequently-asked questions (FAQ)](https://docs.microsoft.com/microsoft-365/commerce/microsoft-home-use-program-faq).
+Weitere Informationen zur Berechtigung finden Sie unter [Häufig gestellte Fragen (FAQ) zum Microsoft Workplace Discount-Programm](https://docs.microsoft.com/microsoft-365/commerce/microsoft-workplace-discount-program-faq).
