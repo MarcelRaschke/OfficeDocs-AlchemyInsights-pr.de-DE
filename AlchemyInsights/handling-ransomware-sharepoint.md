@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
 ms.custom:
-- "17499"
 - "9000650"
+- "17499"
 ms.date: 06/02/2022
-ms.openlocfilehash: 31c432502dcdb33a2b066cc955b05b7398bdad9e
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 741796229ce815539be30634c27da1eaca1eb415
+ms.sourcegitcommit: 4161edd5135b339311452742655d5f720953184e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66434507"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66929843"
 ---
 # <a name="handling-ransomware-in-sharepoint-online"></a>Handhabung von Ransomware in SharePoint Online
 

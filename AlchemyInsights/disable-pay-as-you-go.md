@@ -13,13 +13,13 @@ ms.custom:
 - commerce_billing
 - "9010846"
 - "17539"
-ms.date: 06/27/2022
-ms.openlocfilehash: 8c188a6b602336d521e02c2c81d77759152dceb9
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.date: 07/21/2022
+ms.openlocfilehash: cad79a5ba57bbe144c233e5129d070675639a496
+ms.sourcegitcommit: 4161edd5135b339311452742655d5f720953184e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66436062"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66929915"
 ---
 # <a name="disabling-pay-as-you-go-on-your-subscription"></a>Deaktivieren von "Pay-as-you-go" für Ihr Abonnement
 
@@ -27,3 +27,5 @@ ms.locfileid: "66436062"
 2. Wählen Sie auf der Registerkarte " **Produkte** " das berechtigte Abonnement aus, für das Sie die Kostenpflichtigen Dienste deaktivieren möchten.
 3. Wählen Sie unter **Pay-as-you-go-Dienste** den Produktnamen oder -status aus.
 4. Wählen Sie in den **Optionen "Pay-as-you-go** ändern" die Option **"Aus**" und dann " **Speichern"** aus. Dadurch wird die Überlastung Ihres Abonnements deaktiviert.
+
+Weitere Informationen finden [Sie unter Aktivieren von "Pay-as-you-go" für Ihr Abonnement im Microsoft 365 Admin Center](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-pay-as-you-go-services).
