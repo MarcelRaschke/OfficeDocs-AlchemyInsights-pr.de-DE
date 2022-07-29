@@ -1,5 +1,5 @@
 ---
-title: Überprüfungscode wird nicht abgerufen
+title: Erstellen einer SharePoint-Website
 ms.author: v-ftangonan
 author: IpeTangonan
 manager: anita.danford
@@ -12,14 +12,14 @@ ms.custom:
 - "9010137"
 - "17683"
 ms.date: 07/21/2022
-ms.openlocfilehash: b1f1b8066a1d5f877a911f386c4a49fa2be72924
-ms.sourcegitcommit: f1e6658997064c4d7aba78de4519188874e653a3
+ms.openlocfilehash: 71961d68b0baa64e06de88b6e9a314ecce45c3b3
+ms.sourcegitcommit: b7ec572b250ab6a4e140e36a64db063df3e55c24
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66961257"
+ms.lasthandoff: 07/28/2022
+ms.locfileid: "67070125"
 ---
-# <a name="not-getting-a-verification-code"></a>Überprüfungscode wird nicht abgerufen
+# <a name="create-a-sharepoint-site"></a>Erstellen einer SharePoint-Website
 
 Erstellen einer SharePoint Online-Website
 

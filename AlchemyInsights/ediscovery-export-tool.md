@@ -1,5 +1,5 @@
 ---
-title: eDiscovery-Exporttool
+title: Microsoft Purview-eDiscovery (Premium)-Exporttool
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,16 +13,17 @@ ms.custom:
 - "3100022"
 - "263"
 - "928"
-ms.openlocfilehash: cd32ecc4191c70b997672aed6d23ac8b00691e56
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.date: 07/22/2022
+ms.openlocfilehash: 655d49184d0e7ee9a5b58766ca02e1c8b63f7128
+ms.sourcegitcommit: b7ec572b250ab6a4e140e36a64db063df3e55c24
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66391827"
+ms.lasthandoff: 07/28/2022
+ms.locfileid: "67070334"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Kann das eDiscovery-Exporttool nicht installiert oder ausgeführt werden?
+# <a name="cant-install-or-run-the-microsoft-purview-ediscovery-premium-export-tool"></a>Kann das Microsoft Purview-eDiscovery (Premium)-Exporttool nicht installiert oder ausgeführt werden?
 
-Wenn Sie das eDiscovery-Exporttool nicht installieren oder ausführen können, um Suchergebnisse herunterzuladen, überprüfen Sie Folgendes:
+Wenn Sie das Microsoft Purview-eDiscovery (Premium)-Exporttool zum Herunterladen von Suchergebnissen nicht installieren oder ausführen können, überprüfen Sie Folgendes:
   
 - Der von Ihnen genutzte Computer erfüllt die folgenden Voraussetzungen:
 
@@ -44,7 +45,7 @@ Wenn Sie das eDiscovery-Exporttool nicht installieren oder ausführen können, u
 
 - Ihre Organisation kann eine Verbindung mit dem Endpunkt in Azure herstellen, **der blob.core.windows.net ist\*** (der Platzhalter stellt einen eindeutigen Bezeichner für Ihren Exportauftrag dar).
 
-- Ihnen wird die Exportrolle im Microsoft 365 Security &amp; Compliance Center zugewiesen. Standardmäßig wird diese Rolle nur der Rollengruppe "eDiscovery-Manager" zugewiesen. Siehe [Zuweisen von eDiscovery-Berechtigungen](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- Ihnen wird die Rolle "Exportieren" im Microsoft Purview-Complianceportal zugewiesen. Standardmäßig wird diese Rolle nur der Rollengruppe "eDiscovery-Manager" zugewiesen. Siehe [Zuweisen von eDiscovery-Berechtigungen im Complianceportal](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Weitere Informationen finden Sie unter [Exportieren von Inhaltssuchergebnissen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
 
