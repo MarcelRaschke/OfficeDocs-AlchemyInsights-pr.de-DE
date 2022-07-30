@@ -1,5 +1,5 @@
 ---
-title: Einrichten des Insider-Risikomanagements
+title: Microsoft Purview Insider-Risikomanagement einrichten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,23 +11,23 @@ ms.localizationpriority: high
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 17b9a5a58eda7608fce3e3451ae298d6f3640d22
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 58a7f6c014673f3236498272ef24196c34f81315
+ms.sourcegitcommit: b7ec572b250ab6a4e140e36a64db063df3e55c24
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66316263"
+ms.lasthandoff: 07/28/2022
+ms.locfileid: "67070266"
 ---
-# <a name="set-up-insider-risk-management"></a>Einrichten des Insider-Risikomanagements
+# <a name="set-up-microsoft-purview-insider-risk-management"></a>Microsoft Purview Insider-Risikomanagement einrichten
 
-Für den Zugriff auf und die Nutzung des Insider-Risikomanagements muss Ihre Organisation über eines der folgenden Abonnements verfügen:
+Für den Zugriff auf und die Nutzung des Microsoft Purview Insider-Risikomanagements muss Ihre Organisation über eines der folgenden Abonnements verfügen:
 
 - Microsoft 365 G5-Abonnement (kostenpflichtige oder Testversion)
 - Microsoft 365 G3-Abonnement mit dem Microsoft 365 G5-Compliance-Add-On
 - Microsoft 365 G3-Abonnement und das Microsoft 365 G5 Insider Risikomanagement-Add-On
 - Office 365 E3 Abonnement + Enterprise Mobility and Security E3 + das Microsoft 365 E5 Compliance-Add-On
 
-Wenn Sie noch nicht über einen Microsoft 365 E5-Plan verfügen und das Insider-Risikomanagement testen möchten, können Sie Ihrem vorhandenen Abonnement Microsoft 365 hinzufügen oder sich für eine Testversion von Microsoft 365 Enterprise E5 registrieren.
+Wenn Sie keinen vorhandenen Microsoft 365 E5-Plan besitzen und das Microsoft Purview Insider-Risikomanagement testen möchten, können Sie Ihrem vorhandenen Abonnement Microsoft 365 hinzufügen oder sich für eine Testversion von Microsoft 365 Enterprise E5 registrieren.
 
 **Tipps**:
 
@@ -37,8 +37,7 @@ Wenn Sie noch nicht über einen Microsoft 365 E5-Plan verfügen und das Inside
 
 - Wenn einem Administrator keine Warnungen angezeigt werden, stellen Sie sicher, dass der Benutzer einer der folgenden Gruppen zugewiesen ist:
 
-    Insider-Risikomanagement-Analysten.
+  - Insider-Risikomanagement-Analysten.
+  - Insider-Risikomanagement-Prüfer
 
-    Insider-Risikomanagement-Prüfer
-
-Weitere Informationen dazu, wie Insider-Risikorichtlinien Ihnen bei der Verwaltung von Risiken in Ihrer Organisation helfen können, finden Sie unter [Informationen zum Insider-Risikomanagement in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management).
+Weitere Informationen dazu, wie Insider-Risikorichtlinien Ihnen bei der Verwaltung von Risiken in Ihrer Organisation helfen können, finden Sie unter [Informationen zum Insider-Risikomanagement](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management).
