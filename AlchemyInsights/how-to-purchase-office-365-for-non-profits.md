@@ -1,9 +1,9 @@
 ---
-title: Microsoft 365 für gemeinnützige Organisationen - wird überprüft
+title: Microsoft 365 für gemeinnützige Organisationen – wird überprüft
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
-ms.reviewer: drjones, jmueller
+ms.reviewer: zainzaigham, pablom
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,14 +14,14 @@ ms.custom:
 - "1500010"
 - "341"
 ms.date: 04/18/2022
-ms.openlocfilehash: 9135eace874d577ab908adfe9f1c92e2521b6203
-ms.sourcegitcommit: dcf228daa5240abe7299c1d6a298f61812b175b7
+ms.openlocfilehash: 4853b5b1c7d060f330656dc7b0931996f8480012
+ms.sourcegitcommit: 085bab9640d94a170df2f8e67aa05577d7413009
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/19/2022
-ms.locfileid: "64916695"
+ms.lasthandoff: 08/01/2022
+ms.locfileid: "67111262"
 ---
-# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 für gemeinnützige Organisationen - wird überprüft
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 für gemeinnützige Organisationen – wird überprüft
 
 Ihre Berechtigung als microsoftqualifizierte gemeinnützige Organisation wird **überprüft**. Diese Überprüfung kann bis zu **sieben Tage** dauern. Sie erhalten eine E-Mail, in der Sie benachrichtigt werden, wenn Ihre Registrierung genehmigt wurde. Bitte erlauben Sie mindestens **sieben Tagen** , diese Benachrichtigung zu erhalten, bevor Sie eine Serviceanfrage öffnen.
 

@@ -3,7 +3,7 @@ title: Deaktivieren von "Pay-as-you-go" für Ihr Abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: drjones, jmueller
+ms.reviewer: sgautam, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "9010846"
 - "17539"
 ms.date: 07/21/2022
-ms.openlocfilehash: cad79a5ba57bbe144c233e5129d070675639a496
-ms.sourcegitcommit: 4161edd5135b339311452742655d5f720953184e
+ms.openlocfilehash: c330e2a68c1917a99327b7f9dcec58c03927561e
+ms.sourcegitcommit: 085bab9640d94a170df2f8e67aa05577d7413009
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/21/2022
-ms.locfileid: "66929915"
+ms.lasthandoff: 08/01/2022
+ms.locfileid: "67111190"
 ---
 # <a name="disabling-pay-as-you-go-on-your-subscription"></a>Deaktivieren von "Pay-as-you-go" für Ihr Abonnement
 

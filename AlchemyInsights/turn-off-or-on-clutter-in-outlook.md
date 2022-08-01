@@ -7,16 +7,16 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localizationpriority: hig
+ms.localizationpriority: high
 ms.custom:
 - "9002504"
 - "4853"
-ms.openlocfilehash: 8fc2d499a40fbd2062525aa538cf4b4c1bf9e358
-ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
-ms.translationtype: MT
+ms.openlocfilehash: 00b0c8efa1b3698225dc7a5f4a20c879f6b2a405
+ms.sourcegitcommit: 085bab9640d94a170df2f8e67aa05577d7413009
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2022
-ms.locfileid: "66598312"
+ms.lasthandoff: 08/01/2022
+ms.locfileid: "67111082"
 ---
 # <a name="turn-off-or-on-clutter-in-outlook"></a>Deaktivieren oder Aktivieren von Clutter in Outlook
 

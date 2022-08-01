@@ -3,7 +3,7 @@ title: Aktivieren von "Pay-as-you-go" für Ihr Abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: drjones, jmueller
+ms.reviewer: sgautam, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "9010846"
 - "17539"
 ms.date: 06/27/2022
-ms.openlocfilehash: 017963d127d7597705b90ca86c7d32f4a2be64e8
-ms.sourcegitcommit: 4161edd5135b339311452742655d5f720953184e
+ms.openlocfilehash: 887ccec875b6a33e14c1639b0e175bdf251535c0
+ms.sourcegitcommit: 085bab9640d94a170df2f8e67aa05577d7413009
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/21/2022
-ms.locfileid: "66929807"
+ms.lasthandoff: 08/01/2022
+ms.locfileid: "67111226"
 ---
 # <a name="enabling-pay-as-you-go-on-your-subscription"></a>Aktivieren von "Pay-as-you-go" für Ihr Abonnement
 
