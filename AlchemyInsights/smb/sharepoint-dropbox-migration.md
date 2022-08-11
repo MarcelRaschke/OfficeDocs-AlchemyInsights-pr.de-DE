@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010137"
 - "17675"
 ms.date: 07/21/2022
-ms.openlocfilehash: 44b6d4c9aadf304b81c5f1381ec7ca6b1d24298d
-ms.sourcegitcommit: f1e6658997064c4d7aba78de4519188874e653a3
+ms.openlocfilehash: ce92e7fb9ea98d6e2b602adbb3fd00c98757a4d3
+ms.sourcegitcommit: 732576eaa18bdb099ee56bc6873dd135004048e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66961272"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "67310514"
 ---
 # <a name="migrate-dropbox-files"></a>Migrieren von Ablagedateien
 

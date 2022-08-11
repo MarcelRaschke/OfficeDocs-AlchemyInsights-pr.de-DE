@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localization_priority: medium
+ms.localizationpriority: medium
 ms.custom:
 - "9010937"
 - "17682"
 ms.date: 07/21/2022
-ms.openlocfilehash: c97eadf88aa0b1ec71ed7e6913f0e8b5e2dbe604
-ms.sourcegitcommit: f1e6658997064c4d7aba78de4519188874e653a3
+ms.openlocfilehash: 99e1e2dd793e9bcee04ccda2f2ccdc82f65cb637
+ms.sourcegitcommit: 732576eaa18bdb099ee56bc6873dd135004048e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66961265"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "67310838"
 ---
 # <a name="not-getting-a-verification-code"></a>Überprüfungscode wird nicht abgerufen
 

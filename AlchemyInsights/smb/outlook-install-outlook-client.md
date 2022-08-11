@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9009993"
 - "17676"
 ms.date: 07/21/2022
-ms.openlocfilehash: 34bc6bb346c6ee396ba2da5f37824500cfc9d282
-ms.sourcegitcommit: f1e6658997064c4d7aba78de4519188874e653a3
+ms.openlocfilehash: 76d0d6770b14564b45645e2b6b5bf3e8ebdc62dd
+ms.sourcegitcommit: 732576eaa18bdb099ee56bc6873dd135004048e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66961268"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "67310586"
 ---
 # <a name="install-outlook-client"></a>Installieren des Outlook-Clients
 

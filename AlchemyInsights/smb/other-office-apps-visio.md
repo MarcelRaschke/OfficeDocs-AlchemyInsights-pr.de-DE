@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "901011"
 - "15859"
 ms.date: 07/21/2022
-ms.openlocfilehash: 47bbbf35af0e385895ae9b45062149b8da0ea95a
-ms.sourcegitcommit: f1e6658997064c4d7aba78de4519188874e653a3
+ms.openlocfilehash: 464e319e99813e22c27bd63f011d28f729b8f84d
+ms.sourcegitcommit: 732576eaa18bdb099ee56bc6873dd135004048e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66961169"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "67310622"
 ---
 # <a name="microsoft-visio-application"></a>Microsoft Visio-Anwendung
 

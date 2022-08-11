@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localization_priority: medium
+ms.localizationpriority: medium
 ms.custom:
 - "9010137"
 - "17683"
 ms.date: 07/21/2022
-ms.openlocfilehash: 71961d68b0baa64e06de88b6e9a314ecce45c3b3
-ms.sourcegitcommit: b7ec572b250ab6a4e140e36a64db063df3e55c24
+ms.openlocfilehash: 74f77e0355c6a8fe97beff3e605bb6aa5e6553a9
+ms.sourcegitcommit: 732576eaa18bdb099ee56bc6873dd135004048e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/28/2022
-ms.locfileid: "67070125"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "67310658"
 ---
 # <a name="create-a-sharepoint-site"></a>Erstellen einer SharePoint-Website
 

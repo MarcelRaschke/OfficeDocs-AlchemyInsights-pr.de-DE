@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localization_priority: medium
+ms.localizationpriority: medium
 ms.custom:
 - "9009992"
 - "17698"
 ms.date: 07/21/2022
-ms.openlocfilehash: 35d2b4072c47a19ab54e5867e8018998caad1acd
-ms.sourcegitcommit: f1e6658997064c4d7aba78de4519188874e653a3
+ms.openlocfilehash: 7aa1a3faa91b9f3ad0488bd04c090a237f41a0de
+ms.sourcegitcommit: 732576eaa18bdb099ee56bc6873dd135004048e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66961302"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "67310478"
 ---
 # <a name="convert-mailbox-to-shared-mailbox"></a>Konvertieren eines Postfachs in ein freigegebenes Postfach
 

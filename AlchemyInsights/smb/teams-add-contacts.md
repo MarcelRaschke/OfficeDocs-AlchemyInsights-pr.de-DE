@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localization_priority: medium
+ms.localizationpriority: medium
 ms.custom:
 - "9010153"
 - "17680"
 ms.date: 07/21/2022
-ms.openlocfilehash: c62e553ec4f53414d87009265e55cf60cc12cf2e
-ms.sourcegitcommit: f1e6658997064c4d7aba78de4519188874e653a3
+ms.openlocfilehash: 2140b3476c112b5cb9ee32cf7c81f061e983ccc7
+ms.sourcegitcommit: 732576eaa18bdb099ee56bc6873dd135004048e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66961308"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "67310434"
 ---
 # <a name="add-contacts-to-ms-teams"></a>Hinzufügen von Kontakten zu MS Teams
 

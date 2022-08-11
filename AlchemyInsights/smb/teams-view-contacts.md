@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localization_priority: medium
+ms.localizationpriority: medium
 ms.custom:
 - "9010153"
 - "17684"
 ms.date: 07/21/2022
-ms.openlocfilehash: 11e73d37c65bd44c4ba9b0757e487c7ecccc8027
-ms.sourcegitcommit: f1e6658997064c4d7aba78de4519188874e653a3
+ms.openlocfilehash: 2cc5dbd07f470b3992cd2d3f033cda0b7230ce0c
+ms.sourcegitcommit: 732576eaa18bdb099ee56bc6873dd135004048e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66961260"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "67310262"
 ---
 # <a name="view-contacts-in-ms-teams"></a>Anzeigen von Kontakten in MS Teams
 

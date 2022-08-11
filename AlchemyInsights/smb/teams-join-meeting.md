@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localization_priority: medium
+ms.localizationpriority: medium
 ms.custom:
 - "9010153"
 - "17681"
 ms.date: 06/28/2022
-ms.openlocfilehash: 718cd39571ab680242e2a74ae66d5767fcb8f75d
-ms.sourcegitcommit: f1e6658997064c4d7aba78de4519188874e653a3
+ms.openlocfilehash: 4894b857338a88d99786bf2a08f35a1c2a9c7175
+ms.sourcegitcommit: 732576eaa18bdb099ee56bc6873dd135004048e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66961307"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "67310982"
 ---
 # <a name="join-meetings-in-ms-teams"></a>Teilnehmen an Besprechungen in MS Teams
 

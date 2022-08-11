@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localization_priority: medium
+ms.localizationpriority: medium
 ms.custom:
 - "9010112"
 - "17679"
 ms.date: 07/21/2022
-ms.openlocfilehash: 5cd48a051e81449be8c7940136566f37d6549cc9
-ms.sourcegitcommit: f1e6658997064c4d7aba78de4519188874e653a3
+ms.openlocfilehash: 086452d4fa5506393e048dd17c5f79bbb0daa003
+ms.sourcegitcommit: 732576eaa18bdb099ee56bc6873dd135004048e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66961261"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "67310946"
 ---
 # <a name="download-onedrive-for-mobile"></a>OneDrive for Mobile herunterladen
 

@@ -7,17 +7,17 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9010137"
 - "17672"
 ms.date: 07/21/2022
-ms.openlocfilehash: 149371cec35b1c0915646cea6685d60b4509986c
-ms.sourcegitcommit: f1e6658997064c4d7aba78de4519188874e653a3
+ms.openlocfilehash: 7b47658942622189bd3953af046016294e90e18f
+ms.sourcegitcommit: 732576eaa18bdb099ee56bc6873dd135004048e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66961301"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "67310766"
 ---
 # <a name="migrate-google-files"></a>Migrieren von Google-Dateien
 

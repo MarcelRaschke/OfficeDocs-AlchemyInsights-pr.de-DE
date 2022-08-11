@@ -7,19 +7,19 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-ms.localization_priority: medium
+ms.localizationpriority: medium
 ms.custom:
 - "9010112"
 - "17678"
 ms.date: 07/21/2022
-ms.openlocfilehash: d1004a8c730b506fb2e66fc3b7cd1f9f8ad0d964
-ms.sourcegitcommit: f1e6658997064c4d7aba78de4519188874e653a3
+ms.openlocfilehash: 6ec8d011ab88c65248ec5fdb18640e3656a4075c
+ms.sourcegitcommit: 732576eaa18bdb099ee56bc6873dd135004048e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66961269"
+ms.lasthandoff: 08/11/2022
+ms.locfileid: "67310406"
 ---
-# <a name="download-onedrive-for-mac-os"></a>Herunterladen OneDrive für Mac Betriebssystems
+# <a name="download-onedrive-for-mac-os"></a>Herunterladen Mac को लागि OneDrive Betriebssystems
 
 Wenn Sie Ihre OneDrive-Anwendung auf Ihrem Mac installieren möchten, können Sie den folgenden Link aufrufen, um die Onedrive-App herunterzuladen.
 Hinweis: Die Seite fragt möglicherweise Ihre E-Mail-Adresse oder Telefonnummer an, an die das System den Downloadlink senden kann.
