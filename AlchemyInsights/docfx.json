@@ -39,7 +39,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-	  "ocv-translation-feedback": true,
+      "ocv-translation-feedback": true,
       "breadcrumb_path": "/AlchemyInsights/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None",
