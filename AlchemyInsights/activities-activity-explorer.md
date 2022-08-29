@@ -11,21 +11,21 @@ ms.localizationpriority: medium
 ms.custom:
 - "9010776"
 - "17285"
-ms.openlocfilehash: 5e913ca24239fbd80ad8dc0a1949e0102f66ec04
-ms.sourcegitcommit: 9edb4aa99886a74c1f391d1927d5f8d16d6b6904
+ms.openlocfilehash: 0e77a15647dc38db026fb532140568680f83b6fc
+ms.sourcegitcommit: 7acf85b81ce9e2975e2fddfe6d674a51643bffa7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2022
-ms.locfileid: "65552001"
+ms.lasthandoff: 08/29/2022
+ms.locfileid: "67453461"
 ---
 # <a name="activities-in-the-activity-explorer"></a>Aktivitäten im Aktivitäts-Explorer
 
 Aktivitäten, die im Aktivitäts-Explorer angezeigt werden, werden aus den Unified Audit-Protokollen gesammelt und berichten bis zu 30 Tage mit Daten. Überprüfen Sie Folgendes, wenn Aktivitäten fehlen:
 
 - Vergewissern Sie sich, dass die einheitliche Überwachung aktiviert ist. Weitere Informationen finden [Sie unter Aktivieren oder Deaktivieren der Überwachung](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off?msclkid=a4fd700bcfb011ecad168c1bfb789cfd).
-- Bestätigen Sie die richtigen Lizenzen/Abonnements und Berechtigungen für die Konten. Weitere Informationen finden Sie [unter Erste Schritte mit dem Aktivitäts-Explorer](https://docs.microsoft.com/microsoft-365/compliance/data-classification-activity-explorer#prerequisites). 
-- Überprüfen Sie, ob die gewünschten Aktivitätstypen, die Sie überwachen möchten, tatsächlich erfasst werden. Weitere Informationen finden Sie [unter Erste Schritte mit dem Aktivitäts-Explorer](https://docs.microsoft.com/microsoft-365/compliance/data-classification-activity-explorer#permissions).
+- Bestätigen Sie die richtigen Lizenzen/Abonnements und Berechtigungen für die Konten. Weitere Informationen finden Sie unter ["Erste Schritte mit dem Aktivitäts-Explorer"](https://docs.microsoft.com/microsoft-365/compliance/data-classification-activity-explorer#prerequisites). 
+- Überprüfen Sie, ob die gewünschten Aktivitätstypen, die Sie überwachen möchten, tatsächlich erfasst werden. Weitere Informationen finden Sie unter ["Erste Schritte mit dem Aktivitäts-Explorer"](https://docs.microsoft.com/microsoft-365/compliance/data-classification-activity-explorer#permissions).
 
     **Hinweis**: Die Aufbewahrung von Exchange Online Aktivitäten wird nicht überwacht.
 
-Weitere Informationen zu Bezeichnungsaktivitäten finden Sie [unter Erste Schritte mit dem Aktivitäts-Explorer](https://docs.microsoft.com/microsoft-365/compliance/data-classification-activity-explorer#activity-types).
+Weitere Informationen zu Bezeichnungsaktivitäten finden Sie [unter Bezeichnungsaktivitäten, die im Aktivitäts-Explorer verfügbar sind](https://docs.microsoft.com/microsoft-365/compliance/data-classification-activity-explorer-available-events).

@@ -1,5 +1,5 @@
 ---
-title: Kein Zugriff auf SharePoint möglich
+title: Auf SharePoint oder OneDrive kann nicht zugegriffen werden.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,15 +11,15 @@ ms.localizationpriority: high
 ms.custom:
 - "9000158"
 - "1676"
-ms.date: 04/21/2020
-ms.openlocfilehash: ba6e452dfe3b95e22d79da5b9648bc200f774ab6
-ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
-ms.translationtype: HT
+ms.date: 08/29/2022
+ms.openlocfilehash: 95b6e54a36da2eebb8e5c2b468d47a80e317fb18
+ms.sourcegitcommit: 7acf85b81ce9e2975e2fddfe6d674a51643bffa7
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66519681"
+ms.lasthandoff: 08/29/2022
+ms.locfileid: "67453569"
 ---
-# <a name="cannot-access-sharepoint"></a>Kein Zugriff auf SharePoint möglich
+# <a name="cannot-access-sharepoint-or-onedrive"></a>Auf SharePoint oder OneDrive kann nicht zugegriffen werden.
 
 Es gibt mehrere Gründe, warum SharePoint oder OneDrive möglicherweise unzugänglich wird. Wenn Sie nicht auf SharePoint oder OneDrive zugreifen können, führen Sie die folgenden Schritte aus, um dieses Problem zu beheben.
 
