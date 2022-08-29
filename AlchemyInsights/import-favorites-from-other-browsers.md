@@ -11,13 +11,14 @@ ms.localizationpriority: high
 ms.custom:
 - "9005491"
 - "9450"
+- "11026"
 ms.date: 03/30/2021
-ms.openlocfilehash: c024f0186ecd8e25a2690bf55e4d0f582ca350d2
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
-ms.translationtype: HT
+ms.openlocfilehash: 4f8c2d365804aa62ef9a7ad7e6c08fa67e90d54f
+ms.sourcegitcommit: c524d66c406fcb7c0de677d2aa465e04e4f5553a
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66268156"
+ms.lasthandoff: 08/16/2022
+ms.locfileid: "67358267"
 ---
 # <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a>Importieren von Favoriten aus einem anderen Browser als Internet Explorer, Google Chrome oder Mozilla Firefox
 

@@ -10,13 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
 ms.custom:
 - "3500011"
+- "3500007"
 - "5106"
-ms.openlocfilehash: c76c7ae87272557720dce455b8b31c4bddffffef
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
-ms.translationtype: HT
+- "7871"
+ms.openlocfilehash: 648b5eb587c061511f5fafffbc55556da478c5c1
+ms.sourcegitcommit: c524d66c406fcb7c0de677d2aa465e04e4f5553a
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66321087"
+ms.lasthandoff: 08/16/2022
+ms.locfileid: "67358321"
 ---
 # <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a>Mikroverzögerungen oder Drosselung in Exchange Online PowerShell
 

@@ -11,13 +11,14 @@ ms.localizationpriority: high
 ms.custom:
 - "9004219"
 - "10871"
+- "10874"
 ms.date: 04/5/2021
-ms.openlocfilehash: 4f4faaf41104d52d8b3adf29a8c084fbcb11f559
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
-ms.translationtype: HT
+ms.openlocfilehash: d5137ece9207ce191044577749ae3f70c05da594
+ms.sourcegitcommit: c524d66c406fcb7c0de677d2aa465e04e4f5553a
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66376059"
+ms.lasthandoff: 08/16/2022
+ms.locfileid: "67358375"
 ---
 # <a name="identify-windows-virtual-desktop-issues"></a>Identifizieren von Problemen mit Windows Virtual Desktop
 

@@ -1,5 +1,5 @@
 ---
-title: Einrichtungsleitfaden für Microsoft Defender für Office 365
+title: Einrichten von Microsoft Defender for Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,21 +12,20 @@ ms.custom:
 - "3100021"
 - "10088"
 ms.date: 03/30/2021
-ms.openlocfilehash: ae99993dad7e90e76f3c80120b300dee2e1e5984
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
-ms.translationtype: HT
+ms.openlocfilehash: a2865c7bf6e9d64b0bec5a1b9c6db22e810e7228
+ms.sourcegitcommit: 6c12ac97959a108b901df139dd88cd90d562ee23
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66324939"
+ms.lasthandoff: 08/15/2022
+ms.locfileid: "67339546"
 ---
-# <a name="microsoft-defender-for-office-365-setup-guide"></a>Einrichtungsleitfaden für Microsoft Defender für Office 365
+# <a name="set-up-microsoft-defender-for-office-365"></a>Einrichten von Microsoft Defender for Office 365
 
-Müssen Sie Ihre Organisation auf Microsoft Defender für Office 365 vorbereiten?
+Informationen zum Einrichten und Bereitstellen von Microsoft Defender for Office 365 für Ihre Organisation finden Sie im [Microsoft Defender for Office 365 Setuphandbuch](https://go.microsoft.com/fwlink/?linkid=2190925).
 
-- Um Voraussetzungen zu identifizieren, Berechtigungen einzurichten und Einstellungen wie "Sichere Anlagen", "Sichere Links", "Bedrohungsverfolgungen" und "Angriffssimulator" zu konfigurieren, verwenden Sie den[Setupleitfaden für Microsoft Defender für Office 365](https://go.microsoft.com/fwlink/?linkid=2190925).
+Der Einrichtungsleitfaden vereinfacht Microsoft Defender for Office 365 Bereitstellung und sorgt für Erfolg, indem sie Ihnen bewährte Methoden, Tools und Ressourcen, einschließlich Informationen zum Einrichten von Berechtigungen, bereitstellt, um Ihre Organisation in den folgenden Bereichen vorzubereiten:
 
-- Sparen Sie Zeit, indem Sie den Setupleitfaden verwenden, um Ihre Organisation mit der automatischen Untersuchung und Reaktion zu beginnen.
-
-- Informationen zu den ersten Schritte finden Sie im [Microsoft Defender für Office 365 Setupleitfaden](https://go.microsoft.com/fwlink/?linkid=2190925). 
- 
-Der Setupleitfaden enthält Hinweise und Anleitungen zu ATP für SharePoint, OneDrive, Microsoft Teams, erweitertem Anti-Phishing-Schutz, Echtzeit-Erkennungen, sicheren Anhängen, sicheren Links, Threat Trackers Threat Explorer Angriffssimulator, automatisierter Untersuchung und Reaktion (AIR) sowie Empfehlungen für andere Bereiche.
+- Sichere Links
+- Sichere Anlagen
+- Bedrohungsschutz für SharePoint, OneDrive und Teams (Bedrohungsverfolgungen)
+- Erweiterter Antiphishingschutz (Angriffssimulator)

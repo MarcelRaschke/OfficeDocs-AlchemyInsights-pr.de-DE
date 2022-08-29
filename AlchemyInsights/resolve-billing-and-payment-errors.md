@@ -11,24 +11,26 @@ ms.localizationpriority: high
 ms.custom:
 - "9003021"
 - "5757"
-ms.openlocfilehash: 95eb880e1bed917c2f26b80bc17d1c5d22e74c09
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
-ms.translationtype: HT
+ms.openlocfilehash: af21818d5620b4af9ae84d51653b2063dc94d720
+ms.sourcegitcommit: b52a81c62e8ec915617cf4939abf271139b87f69
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66318027"
+ms.lasthandoff: 08/23/2022
+ms.locfileid: "67408824"
 ---
 # <a name="resolving-billing-and-payment-errors"></a>Beheben von Fehlern bei Abrechnung und Zahlung
 
-Nachfolgend finden Sie einige häufige Szenarien im Zusammenhang mit Fehlern bei Abrechnung und Zahlung.
+Wenn sich der berechnete Betrag von dem unterscheidet, was Sie erwartet haben, kann dies auf eines der folgenden Szenarien zurückzuführen sein:
 
-- Der **abgerechnete Betrag** unterscheidet sich von dem, was Sie erwartet haben.
 - Ihrem Abonnement wurden Lizenzen hinzugefügt bzw. daraus entfernt. Wenn zwischendurch Lizenzen geändert werden, wird dies auf der darauf folgenden Rechnung ausgewiesen. Möglicherweise wird dort eine Gutschrift und eine anteilige Gebühr für den vorhergehenden Dienstzeitraum angezeigt, um diese Änderung abzurechnen.
-- Das Abonnement wurde gekündigt. Sie erhalten nach der Kündigung eine Rechnung mit einem eventuell offenen Saldo minus eventuellen Gutschriften.
+- Das Abonnement wurde gekündigt. Sie erhalten nach der Stornierung eine Rechnung mit einem ausstehenden Saldo abzüglich eines Guthabens.
 - Ihr Abonnement wurde für eine neue Laufzeit verlängert und der Lizenzpreis geändert.
-- Weitere Informationen zu Ihrer Rechnung finden Sie unter: [Grundlegendes zu Ihrer Rechnung.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
-- Sie haben **Probleme bei der Verarbeitung einer Kreditkartenzahlung**.
 
- Wechseln Sie im **Admin Center** zur Seite **Abrechnung** \> **Rechnungen & Zahlungen** \> **[Zahlungsmethoden](https://go.microsoft.com/fwlink/p/?linkid=2018806)**. Wählen Sie Ihre Zahlungsmethode aus, und vergewissern Sie sich, dass Name, Ablaufdatum und Adresse korrekt sind. Weitere Informationen finden Sie unter [Problembehandlung bei Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).
+Weitere Informationen zu Ihrer Rechnung finden Sie unter ["Grundlegendes zu Ihrer Rechnung](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)".
 
-- Sie müssen die **Zahlungsmethode ändern**. Sie können eine Zahlungsmethode [hinzufügen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method), [aktualisieren](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details), [ersetzen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method) oder [löschen](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method). Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Wenn Bei der Verarbeitung einer Kreditkartenzahlung Probleme auftreten:
+
+1. Wechseln Sie im Admin Center zur Seite **"****Abrechnungsrechnungen** >  & Zahlungen > Zahlungsmethoden". 
+2. Wählen Sie Ihre Zahlungsmethode aus, und überprüfen Sie, ob Name, Ablaufdatum und Adresse korrekt sind. 
+
+Weitere Informationen finden Sie unter [Problembehandlung bei Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).

@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Setuphandbuch für Business Premium und Enterprise
+title: Microsoft 365-Setuphandbuch für Business Premium und Enterprise
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
@@ -11,14 +11,14 @@ ms.localizationpriority: medium
 ms.custom:
 - "9010360"
 - "16403"
-ms.date: 04/12/2022
-ms.openlocfilehash: 41696b2ea8a6c60976a6bdd8907f02e88bd4c00a
-ms.sourcegitcommit: b6ba43b438551e7558ad67d8b94f84b608d26bf9
+ms.date: 08/24/2022
+ms.openlocfilehash: 56a2ff08008e1376ea22d1d50079fdf7a946dc9c
+ms.sourcegitcommit: 26ebd27a7a98a0730483d243bb196cb214330c08
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64826097"
+ms.lasthandoff: 08/24/2022
+ms.locfileid: "67426343"
 ---
-# <a name="microsoft-365-setup-guide-for-business-premium-and-enterprise"></a>Microsoft 365 Setuphandbuch für Business Premium und Enterprise
+# <a name="microsoft-365-setup-guide-for-business-premium-and-enterprise"></a>Microsoft 365-Setuphandbuch für Business Premium und Enterprise
 
-Das [Microsoft 365 Setuphandbuch](https://admin.microsoft.com/adminportal/home#/modernonboarding/m365setup) enthält Setup- und Konfigurationsschritte, mit denen Benutzer Produktivitätstools, Geräteverwaltung und Sicherheitsfeatures herunterladen können. Das Handbuch ist vollständig anpassbar und bietet schrittweise Unterstützung zum Aktualisieren von Geräten in Ihrer Organisation.
+Das [Microsoft 365-Setuphandbuch](https://go.microsoft.com/fwlink/?linkid=2204975) enthält Setup- und Konfigurationsschritte für Benutzer zum Herunterladen von Produktivitätstools, Geräteverwaltung und Sicherheitsfeatures. Das Handbuch ist vollständig anpassbar und bietet schrittweise Unterstützung zum Aktualisieren von Geräten in Ihrer Organisation.

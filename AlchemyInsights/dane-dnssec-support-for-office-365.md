@@ -10,14 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
 - "9010292"
+- "3200003"
 - "16312"
-ms.date: 01/13/2022
-ms.openlocfilehash: 048ef3d2b7d803ce5eaa53add424ef3c72b79c4e
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+- "13753"
+ms.date: 08/16/2022
+ms.openlocfilehash: 4ad2f3013ee81a8c75999b37db2e6969957c1d4f
+ms.sourcegitcommit: cfb31af0138b5370c878e0801441eab1878ebf3a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66354855"
+ms.lasthandoff: 08/17/2022
+ms.locfileid: "67364750"
 ---
 # <a name="dane-and-dnssec-support-for-office-365"></a>DANE- und DNSSEC-Unterstützung für Office 365
 

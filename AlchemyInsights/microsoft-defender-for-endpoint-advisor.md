@@ -1,5 +1,5 @@
 ---
-title: Onboarding Microsoft Defender für Endpunkt (MDE)
+title: Einrichten von Microsoft Defender for Endpoint (MDE)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -10,18 +10,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
 - "9004195"
+- "13878"
 - "7377"
-ms.openlocfilehash: e7d9955dd9fd5fc7bb254655bd79aedeaeff9f5d
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 86f40c74389a9f889290ace0ef4c1f2b3b380d55
+ms.sourcegitcommit: 6c12ac97959a108b901df139dd88cd90d562ee23
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66267148"
+ms.lasthandoff: 08/15/2022
+ms.locfileid: "67339510"
 ---
-# <a name="onboard-microsoft-defender-for-endpoint-mde"></a>Onboarding Microsoft Defender für Endpunkt (MDE)
+# <a name="set-up-microsoft-defender-for-endpoint-mde"></a>Einrichten von Microsoft Defender for Endpoint (MDE)
 
-Verwenden Sie das [Setuphandbuch für Microsoft Defender für Endpunkt (MDE),](https://go.microsoft.com/fwlink/?linkid=2192812) um Features anzuzeigen und zu konfigurieren sowie Zeit mit automatisierter Untersuchung und Reaktion zu sparen. Diese Anwendung ermöglicht eine verbesserte Sicherheit, indem sie vor Cyberbedrohungen, erweiterten Angriffen und Datenschutzverletzungen schützt, Sicherheitsvorfälle automatisiert und das aktuelle Sicherheitsniveau verbessert, das bereits vorhanden ist.
+Das Microsoft Defender for Endpoint Setuphandbuch vereinfacht die Implementierung mit den richtigen Tools und Ressourcen sowie automatisierte Untersuchung und Reaktion. Ausführliche Informationen finden Sie [Microsoft Defender for Endpoint Setuphandbuch](https://go.microsoft.com/fwlink/?linkid=2204352).
 
-Die Einrichtungsanleitung enthält Anleitungen dazu, wie die Sicherheit erhöht wird, welcher Schutz verfügbar ist, wie Angriffe, Datenschutzverletzungen oder andere Sicherheitsverletzungen erkannt werden können, Sicherheitsrisikenverwaltung, was zur Vorbereitung der Umgebung erforderlich ist, verfügbare Konfigurationsfeatures und deren Anforderungen, art der erforderlichen Lizenzierung, Arten von Bereitstellungsmethoden, welche Verwaltungstools unterstützt werden, welche Features konfigurierbar sind,  Verringerung der Angriffsfläche, Schutz der nächsten Generation, Sicherheitsbewertung für Geräte und andere Empfehlungen.
+Das Handbuch enthält Schritte zum Konfigurieren:
+
+- Verringerung der Angriffsfläche
+- Schutz der nächsten Generation
+- Konfigurationsbewertung
+- Microsoft-Bedrohungsexperten
 
 **Hinweis**: Für Defender für Endpunkt ist eine Microsoft-Volumenlizenz erforderlich.

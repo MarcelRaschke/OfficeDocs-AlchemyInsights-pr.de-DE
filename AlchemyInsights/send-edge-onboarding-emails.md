@@ -1,5 +1,5 @@
 ---
-title: Senden Microsoft Edge Onboarding von E-Mails an Ihre Benutzer
+title: Senden von Microsoft Edge-Onboarding-E-Mails an Ihre Benutzer
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
@@ -11,14 +11,15 @@ ms.localizationpriority: medium
 ms.custom:
 - "9007384"
 - "16320"
+- "16820"
 ms.date: 03/01/2022
-ms.openlocfilehash: 7fea964e494ca53e843caf84171464ac135a62dc
-ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
+ms.openlocfilehash: 05d69e811e8dffb96fadcb1a3fabbfda6d6f8814
+ms.sourcegitcommit: c524d66c406fcb7c0de677d2aa465e04e4f5553a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63230802"
+ms.lasthandoff: 08/16/2022
+ms.locfileid: "67358411"
 ---
-# <a name="send-microsoft-edge-onboarding-emails-to-your-users"></a>Senden Microsoft Edge Onboarding von E-Mails an Ihre Benutzer
+# <a name="send-microsoft-edge-onboarding-emails-to-your-users"></a>Senden von Microsoft Edge-Onboarding-E-Mails an Ihre Benutzer
 
-Passen Sie Ihre Benutzer an und senden Sie eine E-Mail-Vorlage, die sie auffordert, Microsoft Edge for Business herunterzuladen und [Microsoft Edge Funktionen für die Arbeit](https://admin.microsoft.com/adminportal/home#/featureexplorer/apps/EdgeBrowserPromotion) zu nutzen. Durch die Verwendung von Microsoft Edge for Business wird Ihre Organisation auch von Antiphishingschutz und Schutz vor Schadsoftware profitieren. Passen Sie Ihre E-Mails für Gruppen an, oder senden Sie sie an Einzelpersonen mit Informationen zu Einstellungen, Sicherheits- und Leistungsfeatures.
+Passen Sie eine E-Mail-Vorlage an Ihre Benutzer an, und senden Sie sie an, um sie zum Herunterladen von Microsoft Edge for Business und zum Nutzen der [Microsoft Edge-Features für die Arbeit](https://admin.microsoft.com/adminportal/home#/featureexplorer/apps/EdgeBrowserPromotion) zu ermutigen. Durch die Verwendung von Microsoft Edge for Business profitiert Ihre Organisation auch von Antiphishingschutz und Schutz vor Schadsoftware. Passen Sie Ihre E-Mails für Gruppen an, oder senden Sie sie an Einzelpersonen mit Informationen zu Einstellungen, Sicherheits- und Leistungsfeatures.

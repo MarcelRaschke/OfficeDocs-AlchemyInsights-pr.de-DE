@@ -8,13 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.date: 04/21/2020
-ms.openlocfilehash: eaf9c5444cd089aae6a9eaff1d2d4257a55f404a
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.custom:
+- "6700003"
+- "979"
+ms.date: 08/16/2022
+ms.openlocfilehash: 486fef72946f255042448f0289b8b7fc70fdae02
+ms.sourcegitcommit: c524d66c406fcb7c0de677d2aa465e04e4f5553a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66413077"
+ms.lasthandoff: 08/16/2022
+ms.locfileid: "67358304"
 ---
 # <a name="conditional-access-with-intune"></a>Bedingter Zugriff mit Intune
 
@@ -32,7 +35,7 @@ Die Verwendung **des bedingten Zugriffs** mit Intune erfordert drei Schritte:
 
 [Problembehandlungsrichtlinie](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-Um E-Mail (Exchange Online) vor dem Zugriff durch nicht kompatible Geräte zu schützen, müssen beide Dokumente befolgt werden:
+Um Email (Exchange Online) vor dem Zugriff durch nicht kompatible Geräte zu schützen, müssen beide Dokumente befolgt werden:
 
 1. [Schützen des E-Mail-Zugriffs von Geräten mithilfe von EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
 2. [Schützen des E-Mail-Zugriffs von Geräten mit modernen Authentifizierungsclients wie Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
