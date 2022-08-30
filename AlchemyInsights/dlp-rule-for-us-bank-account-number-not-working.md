@@ -1,7 +1,7 @@
 ---
 title: DLP-Regel für US-Bankkontonummer funktioniert nicht
-ms.author: deniseb
-author: denisebmsft
+ms.author: chrfox
+author: chrfox
 manager: laurawi
 audience: ITPro
 ms.topic: article
@@ -12,12 +12,12 @@ ms.custom:
 - "3200001"
 - "1287"
 ms.date: 04/21/2020
-ms.openlocfilehash: 79dca575d49c8f15512e2ea444fa7a8c6037f773
-ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
+ms.openlocfilehash: 7acc1703f089fd632e7a7d3dec5ae0fd7cf6d1ee
+ms.sourcegitcommit: de048ec631aaa5712637a76a2d1e2c2d18fac720
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66525829"
+ms.lasthandoff: 08/30/2022
+ms.locfileid: "67461822"
 ---
 # <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP-Probleme mit US-Bankkontonummern
 

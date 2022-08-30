@@ -1,7 +1,7 @@
 ---
 title: DLP-Regel für SSN funktioniert nicht
-ms.author: deniseb
-author: denisebmsft
+ms.author: chrfox
+author: chrfox
 manager: laurawi
 audience: ITPro
 ms.topic: article
@@ -12,12 +12,12 @@ ms.custom:
 - "3200001"
 - "1242"
 ms.date: 04/21/2020
-ms.openlocfilehash: dbac6d3e081e56435c1dffd6f8b75b2a7c715c2e
-ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
+ms.openlocfilehash: 853193e68738bcc66173368bc57011006c54cebe
+ms.sourcegitcommit: de048ec631aaa5712637a76a2d1e2c2d18fac720
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66509171"
+ms.lasthandoff: 08/30/2022
+ms.locfileid: "67462127"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>DLP-Probleme mit Sozialversicherungsnummern
 

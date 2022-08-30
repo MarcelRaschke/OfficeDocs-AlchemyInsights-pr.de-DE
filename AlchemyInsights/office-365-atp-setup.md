@@ -1,7 +1,7 @@
 ---
 title: Microsoft Defender for Office 365 Setup
-ms.author: deniseb
-author: denisebmsft
+ms.author: tracyp
+author: msfttracyp
 manager: laurawi
 audience: Admin
 ms.topic: article
@@ -12,12 +12,12 @@ ms.custom:
 - "3100021"
 - "1036"
 ms.date: 07/21/2022
-ms.openlocfilehash: b230475e6664973f5252b88a3b5ccc2be3e97b25
-ms.sourcegitcommit: 4161edd5135b339311452742655d5f720953184e
+ms.openlocfilehash: ad34f9ceb81e02c4ae5dfd273b53cb5e8fceeec1
+ms.sourcegitcommit: de048ec631aaa5712637a76a2d1e2c2d18fac720
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/21/2022
-ms.locfileid: "66929951"
+ms.lasthandoff: 08/30/2022
+ms.locfileid: "67461851"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender für Office 365
 
@@ -29,7 +29,7 @@ Informationen zum Ausführen Microsoft Defender for Office 365 Aufgaben finden S
 
 - Nutzen Sie zusätzliche Schutzmaßnahmen, die für Mitglieder Ihrer c-suite entwickelt wurden. Weitere Informationen finden Sie unter [Schützen Ihrer c-suite mit prioritätsbasiertem Kontoschutz](https://docs.microsoft.com/microsoft-365/security/office-365-security/step-by-step-guides/protect-your-c-suite-with-priority-account-protection).
 
-- Schnell und einfach eine neue Simulation einrichten oder automatisieren. Weitere Informationen finden Sie unter [Ausführen von Angriffssimulationen für Ihr Team](https://docs.microsoft.com/microsoft-365/security/office-365-security/step-by-step-guides/how-to-run-attack-simulations-for-your-team) und [Einrichten von automatisierten Angriffen und Schulungen innerhalb von Angriffssimulationsschulungen](https://docs.microsoft.com/microsoft-365/security/office-365-security/step-by-step-guides/how-to-setup-attack-simulation-training-for-automated-attacks-and-training).
+- Schnell und einfach eine neue Simulation einrichten oder automatisieren. Weitere Informationen finden Sie unter [Ausführen von Angriffssimulationen für Ihr Team](https://docs.microsoft.com/microsoft-365/security/office-365-security/step-by-step-guides/how-to-run-attack-simulations-for-your-team) und [Einrichten automatisierter Angriffe und Schulungen innerhalb Angriffssimulationstraining](https://docs.microsoft.com/microsoft-365/security/office-365-security/step-by-step-guides/how-to-setup-attack-simulation-training-for-automated-attacks-and-training).
 
 **URL-Umbruch und Detonation für sichere Links**
 

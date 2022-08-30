@@ -1,7 +1,7 @@
 ---
 title: DLP funktioniert nicht wie erwartet
-ms.author: deniseb
-author: denisebmsft
+ms.author: chrfox
+author: chrfox
 manager: laurawi
 audience: ITPro
 ms.topic: article
@@ -12,12 +12,12 @@ ms.custom:
 - "3200001"
 - "1241"
 ms.date: 08/24/2022
-ms.openlocfilehash: bd5fa5c5b362f420a64b60d6ca6670ecc4ecb144
-ms.sourcegitcommit: 26ebd27a7a98a0730483d243bb196cb214330c08
+ms.openlocfilehash: 3d723d3160344a195af75c75b537437a7769f516
+ms.sourcegitcommit: de048ec631aaa5712637a76a2d1e2c2d18fac720
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/24/2022
-ms.locfileid: "67426342"
+ms.lasthandoff: 08/30/2022
+ms.locfileid: "67462091"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP funktioniert nicht wie erwartet
 
