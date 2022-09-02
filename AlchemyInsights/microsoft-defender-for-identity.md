@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender for Identity
+title: Microsoft Defender for Identity Setuphandbuch
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,18 +11,25 @@ ms.localizationpriority: medium
 ms.custom:
 - "9007390"
 - "9007399"
+- "9004024"
 - "12322"
 - "12354"
-ms.date: 08/30/2022
-ms.openlocfilehash: f047122e32139b0a29b7f5798676ea4475c01bab
-ms.sourcegitcommit: de048ec631aaa5712637a76a2d1e2c2d18fac720
+- "7090"
+ms.date: 09/02/2022
+ms.openlocfilehash: 04cb2ab1e5041ceb53047b0ad5d941bb1188d212
+ms.sourcegitcommit: 7c650f8e0593bbb15db359384b89550a35ab7707
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/30/2022
-ms.locfileid: "67462043"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67571813"
 ---
-# <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
+# <a name="microsoft-defender-for-identity-setup-guide"></a>Microsoft Defender for Identity Setuphandbuch
 
-Microsoft Defender for Identity, früher Azure Advanced Threat Protection, verwendet Ihre lokales Active Directory, um erweiterte Bedrohungen, kompromittierte Identitäten und böswillige Insideraktionen, die an Ihre Organisation gerichtet sind, zu identifizieren, zu erkennen und zu untersuchen. 
+Verwenden Sie den [Installationsleitfaden "Bereitstellen Microsoft Defender for Identity](https://go.microsoft.com/fwlink/?linkid=2204974)", um Sensoren zu installieren und Benachrichtigungseinstellungen einzurichten, um Benutzer, Entitätsverhalten und verdächtige Benutzeraktivitäten zu überwachen und gleichzeitig in Active Directory gespeicherte Benutzeridentitäten und Anmeldeinformationen zu schützen.
 
-Verwenden Sie das [Microsoft Defender for Identity Setuphandbuch](https://go.microsoft.com/fwlink/?linkid=2204974), um Sensoren zu installieren und Benachrichtigungseinstellungen einzurichten, um Benutzer, Entitätsverhalten und verdächtige Benutzeraktivitäten zu überwachen und gleichzeitig in Active Directory gespeicherte Benutzeridentitäten und Anmeldeinformationen zu schützen.
+Dieses Handbuch hilft Administratoren:
+
+- Erstellen einer Instanz
+- Verbinden einer Instanz mit Active Directory
+- Installieren eines Sensors
+- Einrichten des Portals und Festlegen von Einstellungen

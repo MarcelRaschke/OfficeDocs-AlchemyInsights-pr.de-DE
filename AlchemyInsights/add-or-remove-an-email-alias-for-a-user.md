@@ -12,14 +12,17 @@ ms.custom:
 - "9"
 - "1"
 ms.date: 04/21/2020
-ms.openlocfilehash: e25e5734355c4ae5f555efdf367612b5db5191bf
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: bfc20cea63160ce2245031c465ed23a8990bfd8a
+ms.sourcegitcommit: 7c650f8e0593bbb15db359384b89550a35ab7707
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66277714"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67571777"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>Hinzufügen oder Entfernen einer E-Mail-Adresse für einen Benutzer
 
-Sie können mehrere E-Mail-Adressen für einen Benutzer haben, aber zusätzliche  *E-Mail-Aliase*  können nur für den Empfang von E-Mails verwendet werden. Wenn Sie E-Mails mit einem Alias senden müssen, erstellen Sie ein [freigegebenes Postfach](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox). Auf diese Weise erhalten Sie den Alias zum Senden und Empfangen von E-Mails.
+Sie können mehrere E-Mail-Adressen für einen Benutzer haben, aber standardmäßig können zusätzliche  *E-Mail-Aliase*  nur für den Empfang von E-Mails verwendet werden. Wenn Sie E-Mails mit einem Alias senden müssen, haben Sie mehrere Optionen:
+
+- Aktivieren Sie das Feature ["Senden von Email Aliase – Öffentliche Vorschau](https://techcommunity.microsoft.com/t5/exchange-team-blog/sending-from-email-aliases-public-preview/ba-p/3070501)" in Ihrem Mandanten.
+- Erstellen Sie ein [freigegebenes Postfach](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) , und weisen Sie ihm die E-Mail zu, von der Sie senden möchten. Erteilen Sie benutzern dann die Berechtigung zum Senden als dieses freigegebene Postfach.
   
