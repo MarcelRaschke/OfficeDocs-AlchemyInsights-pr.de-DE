@@ -13,17 +13,16 @@ ms.custom:
 - commerce_billing
 - "1500001"
 - "4852"
-ms.date: 06/24/2022
-ms.openlocfilehash: e4ce36bd1cdb8bd5fbfcb403b00a3bfa1da65d65
-ms.sourcegitcommit: 6bb8dd2dc45a4efe2469c9db430cd36fdb6a7fea
+ms.date: 09/08/2022
+ms.openlocfilehash: 1e30dfcf34451475f5f2cbeb5bfc9e6db56b241f
+ms.sourcegitcommit: 257eca543d955d79eb9591b88b9101f07c8dadbf
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66504176"
+ms.lasthandoff: 09/08/2022
+ms.locfileid: "67629601"
 ---
 # <a name="invoice-pay-currently-unavailable"></a>Rechnungen sind zurzeit nicht verfügbar
 
-In Microsoft 365 Admin Center Zahlungsoptionen wird eine vorübergehende Änderung vorgenommen. Rechnung als Zahlungsmethode steht erst für neue Abonnementkäufe zur Verfügung, wenn innerhalb Microsoft 365 Admin Center zusätzliche Berechtigungsüberprüfungen hinzugefügt wurden. Diese Änderung wirkt sich nicht auf vorhandene Abonnements aus, die zuvor mit der Rechnungszahlungsmethode (Scheck oder Überweisung) erworben wurden.
+Es wird eine vorübergehende Änderung an Microsoft 365 Admin Center Zahlungsoptionen vorgenommen. Rechnung als Zahlungsmethode ist für neue Abonnementkäufe erst verfügbar, wenn innerhalb Microsoft 365 Admin Center zusätzliche Berechtigungsüberprüfungen hinzugefügt wurden. Diese Änderung wirkt sich nicht auf vorhandene Abonnements aus, die zuvor mit der Rechnungszahlungsmethode erworben wurden. Darüber hinaus können Käufe weiterhin per Kreditkarte oder über einen [Partner oder Händler](https://go.microsoft.com/fwlink/p/?LinkId=613304) getätigt werden.
 
-Während die Rechnung als Zahlungsmethode nicht verfügbar ist, können Einkäufe per Kreditkarte oder [mithilfe eines Partners oder Händlers](https://go.microsoft.com/fwlink/p/?LinkId=613304) getätigt werden. Sie werden benachrichtigt, wenn die Rechnungszahlungsmethode für neue Einkäufe wieder verfügbar ist.
-
+Wenn Sie einen Kauf mithilfe einer Rechnungszahlung tätigen müssen und die Berechtigungsanforderungen erfüllen, wenden Sie sich an den Support, um Unterstützung zu erhalten. Eine Liste der Berechtigungsanforderungen finden Sie unter ["Bezahlen für Ihr Abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#paying-by-invoice)".

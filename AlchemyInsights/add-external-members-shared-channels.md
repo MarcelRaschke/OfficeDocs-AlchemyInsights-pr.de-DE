@@ -11,20 +11,20 @@ ms.localizationpriority: high
 ms.custom:
 - "9011182"
 - "18175"
-ms.openlocfilehash: 5dd9df25dfdbb39c71263129008cbc9226172874
-ms.sourcegitcommit: 88adb5a8ce6c6cdcda5b28796aad30c5d13fb02b
+ms.openlocfilehash: 7120efda4948c19bbbc03b73b268e78bfce8f80c
+ms.sourcegitcommit: 257eca543d955d79eb9591b88b9101f07c8dadbf
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/07/2022
-ms.locfileid: "67618740"
+ms.lasthandoff: 09/08/2022
+ms.locfileid: "67629629"
 ---
 # <a name="add-external-members-on-shared-channels"></a>Hinzufügen externer Mitglieder zu freigegebenen Kanälen
 
 Führen Sie die folgenden Schritte aus, um Richtlinien zum Hinzufügen externer Benutzer zu freigegebenen Kanälen zu konfigurieren:
 
 1. Stellen Sie sicher, dass der Benutzer über die entsprechende TeamsChannelPolicy verfügt, um externe Benutzer zu freigegebenen Kanälen einzuladen. Weitere Informationen finden [Sie unter Verwalten von Kanalrichtlinien in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-policies).
-1. Stellen Sie sicher, dass die Azure B2B Direct Connect-Richtlinie für Ihre Mandanten und Partnermandanten eingerichtet wurde. Weitere Informationen finden Sie unter [Konfigurieren des mandantenübergreifenden Zugriffs von B2B Direct Connect]()
-1. Stellen Sie sicher, dass der B2B-Gastzugriff in Ihrem Mandanten aktiviert ist. Weitere Informationen finden Sie unter [Konfigurieren des mandantenübergreifenden Zugriffs für die B2B-Zusammenarbeit]() 
+1. Stellen Sie sicher, dass die Azure B2B Direct Connect-Richtlinie für Ihre Mandanten und Partnermandanten eingerichtet wurde. Weitere Informationen finden Sie unter [Konfigurieren des mandantenübergreifenden Zugriffs von B2B Direct Connect](https://docs.microsoft.com/azure/active-directory/external-identities/cross-tenant-access-settings-b2b-direct-connect).
+1. Stellen Sie sicher, dass der B2B-Gastzugriff in Ihrem Mandanten aktiviert ist. Weitere Informationen finden Sie unter [Konfigurieren des mandantenübergreifenden Zugriffs für die B2B-Zusammenarbeit](https://docs.microsoft.com/azure/active-directory/external-identities/cross-tenant-access-settings-b2b-collaboration). 
 
 **Hinweise**:
 
