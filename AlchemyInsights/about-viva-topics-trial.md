@@ -12,16 +12,16 @@ ms.custom:
 - "9010361"
 - "16404"
 ms.date: 01/24/2022
-ms.openlocfilehash: 2d2d0d053ccb5bca13386d30b68ee7ebe2dfe041
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 7b82e541d773b823e7ae835dbca768db76e54873
+ms.sourcegitcommit: 88adb5a8ce6c6cdcda5b28796aad30c5d13fb02b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66314895"
+ms.lasthandoff: 09/07/2022
+ms.locfileid: "67618626"
 ---
 # <a name="about-the-viva-topics-trial"></a>Informationen zur Viva Topics-Testversion
 
-Das [Microsoft Viva Learning Setuphandbuch](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/VivaLearningTrial) enthält Setup- und Konfigurationsschritte für Viva Topics Testversion. Das Handbuch ist vollständig anpassbar und bietet schrittweise Unterstützung zum Aktualisieren von Geräten in Ihrer Organisation.
+Das [Microsoft Viva Learning Setuphandbuch](https://go.microsoft.com/fwlink/?linkid=2207324) enthält Setup- und Konfigurationsschritte für Viva Topics Testversion. Das Handbuch ist vollständig anpassbar und bietet schrittweise Unterstützung zum Aktualisieren von Geräten in Ihrer Organisation.
 
 Hier ist, was Sie über die Viva Topics-Testversion wissen müssen:
 
