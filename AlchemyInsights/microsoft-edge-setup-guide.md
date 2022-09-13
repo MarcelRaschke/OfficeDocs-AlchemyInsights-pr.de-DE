@@ -15,19 +15,20 @@ ms.custom:
 - "7280"
 - "10908"
 - "13635"
-ms.openlocfilehash: 1ef09b9c25a4bf44945901d681e6ef16c52a62c5
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 0e9e005d90c9dc30dfebfa59cfab5df7e525368c
+ms.sourcegitcommit: d8257778f0613eae471afd537cec40bbd2d40c58
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66286822"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "67655090"
 ---
 # <a name="start-using-microsoft-edge"></a>Verwenden von Microsoft Edge
 
-Microsoft hat den neuen Microsoft Edge veröffentlicht, der die nächste Generation seines Webbrowsers ist. Es basiert auf der Chromium Open Source Foundation und wurde für die Arbeit mit Microsoft-Produkten wie SharePoint und OneDrive optimiert.
+Verwenden Sie zum Konfigurieren von Microsoft Edge für Ihre Organisation das [Microsoft Edge-Setuphandbuch](https://go.microsoft.com/fwlink/?linkid=2208303).
 
-Wenn Probleme mit Google Chrome, Mozilla Firefox oder Safari auftreten, empfehlen wir die Verwendung von Microsoft Edge.
+Der Einrichtungsleitfaden vereinfacht die Microsoft Edge-Bereitstellung und gewährleistet den Erfolg mit bewährten Methoden, Tools und Ressourcen, um Ihre Organisation auf Folgendes vorzubereiten:
 
-Wenn Sie ein Administrator einer großen Organisation sind, verwenden Sie unseren [Microsoft Edge-Setupleitfaden](https://go.microsoft.com/fwlink/?linkid=2142423) für die ersten Schritte.
-
-Wenn Sie Microsoft Edge jeweils auf einem Gerät herunterladen möchten, wechseln Sie zu ["Einführung in das neue Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049)".
+- Einrichtung des IE-Modus und des bedingten Zugriffs.
+- Konfigurieren Sie Microsoft Edge-Kanäle und Websiteermittlung.
+- Konfiguration von Richtlinien und Sicherheitseinstellungen.
+- Verwalten des Webzugriffs von Benutzern auf mobilen Geräten.
