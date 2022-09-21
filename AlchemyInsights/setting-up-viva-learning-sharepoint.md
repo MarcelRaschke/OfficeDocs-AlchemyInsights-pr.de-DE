@@ -11,19 +11,24 @@ ms.localizationpriority: medium
 ms.custom:
 - "9010696"
 - "17150"
-ms.date: 04/12/2022
-ms.openlocfilehash: 9aa70ebe3b5fcc7fdc2b8ff87a43a8812fda2c2e
-ms.sourcegitcommit: b6ba43b438551e7558ad67d8b94f84b608d26bf9
+ms.date: 09/21/2022
+ms.openlocfilehash: 79f95c021f50f259b4725033332098a8b23b9b35
+ms.sourcegitcommit: 7624e3522d83bbfa0022eef24e672a160c24a64d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64826462"
+ms.lasthandoff: 09/21/2022
+ms.locfileid: "67859352"
 ---
 # <a name="setting-up-viva-learning-with-sharepoint"></a>Einrichten von Viva Learning mit SharePoint
 
 Informationen zum Einrichten Viva Learning mit SharePoint als Inhaltsquelle finden Sie unter:
 
 - [Verwalten von Inhaltsquellen für Microsoft Viva Learning im Microsoft 365 Admin Center](https://docs.microsoft.com/viva/learning/content-sources-365-admin-center)
-- [Hinzufügen SharePoint als Inhaltsquelle für Microsoft Viva Learning](https://docs.microsoft.com/viva/learning/configure-sharepoint-content-source)
+- [Hinzufügen von SharePoint als Inhaltsquelle für Microsoft Viva Learning](https://docs.microsoft.com/viva/learning/configure-sharepoint-content-source)
 
-**Hinweis:** Es kann 24 bis 48 Stunden dauern, bis Viva Learning Benutzer Inhalte für die Quellen sehen, die Sie im Verwaltungsportal aktiviert haben.
+Stellen Sie für einen erfolgreichen Inhaltssynchronisierungsprozess Folgendes sicher: 
+
+- Microsoft 365-Gruppenberechtigungen werden ordnungsgemäß auf die Inhaltsordner angewendet. Weitere Informationen finden Sie unter [Verwenden von Microsoft 365-Gruppen-Berechtigungen für SharePoint-Inhalte in Viva Learning](https://learn.microsoft.com/viva/learning/sharepoint-permissions).
+- Das Format der Inhaltsordner-URL, die dem Inhaltsrepository der Lern-App hinzugefügt wurde, ist richtig. Weitere Informationen finden Sie unter [Ordner-URL-Dokumentbibliothekskuration](https://learn.microsoft.com/viva/learning/configure-sharepoint-content-source#folder-url-document-library-curation).
+
+**Hinweis:** Es kann 24 bis 48 Stunden dauern, bis Viva Learning Benutzer Inhalte sehen, nachdem die Quellen im Verwaltungsportal aktiviert wurden.
