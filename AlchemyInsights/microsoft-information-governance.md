@@ -1,5 +1,5 @@
 ---
-title: Microsoft Purview Information Protection einrichten
+title: Einrichten von Microsoft Purview-Datenlebenszyklusverwaltung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,26 +12,27 @@ ms.custom:
 - "9007400"
 - "9000181"
 - "3200001"
+- "9000273"
 - "12355"
 - "9254"
 - "13838"
-ms.date: 08/15/2022
-ms.openlocfilehash: f84f6de985fcd7a572a3a4661ff7d34a59035cbb
-ms.sourcegitcommit: 6c12ac97959a108b901df139dd88cd90d562ee23
+- "9245"
+ms.date: 09/22/2022
+ms.openlocfilehash: 129c174940e8255532ff628f073b7d4153fa720d
+ms.sourcegitcommit: 3314b7b91d84ed00ffa590c16db4528f57d42c6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/15/2022
-ms.locfileid: "67339474"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "67890871"
 ---
-# <a name="set-up-microsoft-purview-information-protection"></a>Microsoft Purview Information Protection einrichten
+# <a name="set-up-microsoft-purview-data-lifecycle-management"></a>Einrichten von Microsoft Purview-Datenlebenszyklusverwaltung
 
-Bereiten Sie Ihre Organisation auf die Einhaltung von Vorschriften vor und schützen Sie proprietäre Informationen. Das [Microsoft Purview Information Protection Setuphandbuch](https://go.microsoft.com/fwlink/?linkid=2204047) bietet das Framework, den Prozess und die Funktionen, um sicher zu sein, dass Ihre vertraulichen Informationen geschützt sind.
+Der [Microsoft Purview-Datenlebenszyklusverwaltung-Setupleitfaden](https://go.microsoft.com/fwlink/?linkid=2201922) hilft Ihnen, Ihre Organisation darauf vorzubereiten, eine Governancestrategie für Inhalte und Datensätze mithilfe von Aufbewahrungsbezeichnungen und -richtlinien zu initiieren. Insbesondere hilft Ihnen der Leitfaden:
 
-Es werden Anleitungen für die Durchführung jeder der folgenden Phasen bereitgestellt:
+- Erfahren Sie mehr über die Verwaltung des Datenlebenszyklus und die Datensatzverwaltung.
+- Erstellen von Aufbewahrungsrichtlinien.
+- Erstellen und Veröffentlichen von Aufbewahrungsbezeichnungen.
+- Überprüfen und Verwalten von beschrifteten Inhalten.
+- Erstellen sie einen adaptiven Bereich.
 
-- Suche
-- Klassifizieren
-- Schützen
-- Überwachen
-
-Implementieren Sie Microsoft Purview Information Protection erfolgreich und schützen Sie vertrauliche Informationen in Office 365 Anwendungen mithilfe des Setuphandbuchs. Ausführliche Informationen finden Sie [Microsoft Purview Information Protection Setuphandbuch](https://go.microsoft.com/fwlink/?linkid=2204047).
+Informationen zu den ersten Schritte finden Sie im [Microsoft Purview-Datenlebenszyklusverwaltung Setuphandbuch](https://go.microsoft.com/fwlink/?linkid=2201922).
