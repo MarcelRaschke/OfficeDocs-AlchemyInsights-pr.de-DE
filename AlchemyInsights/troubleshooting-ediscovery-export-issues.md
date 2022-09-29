@@ -11,22 +11,27 @@ ms.localizationpriority: high
 ms.custom:
 - "3200003"
 - "12336"
-ms.date: 07/19/2021
-ms.openlocfilehash: 2eb28d4f0a86e3161450062577d96c738e68cb18
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
-ms.translationtype: HT
+ms.date: 09/28/2022
+ms.openlocfilehash: 0ec7bf226dc831163d1849a90f096636aa6e9495
+ms.sourcegitcommit: 7b596d39efa1413d41f299b4fe217034037978eb
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66416362"
+ms.lasthandoff: 09/29/2022
+ms.locfileid: "68140979"
 ---
 # <a name="troubleshooting-ediscovery-export-issues"></a>Problembehandlung von eDiscovery-Exportproblemen
 
 Wenn Sie Probleme mit eDiscovery-Exporten haben, versuchen Sie Folgendes:
 
-- Stellen Sie sicher, dass Sie die Anforderungen für eDiscovery-Exporte erfüllen. Weitere Informationen finden Sie unter [Exportieren von eDiscovery-Suchergebnissen in eine PST-Datei](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/export-search-results#what-do-you-need-to-know-before-you-begin).
+- Stellen Sie sicher, dass Sie die Anforderungen für eDiscovery-Exporte erfüllen. Weitere Informationen finden Sie unter: 
+    - eDiscovery(Standard) [Exportieren und Herunterladen von Inhalten aus einem eDiscovery(Standard)-Fall](https://learn.microsoft.com/microsoft-365/compliance/export-content-in-core-ediscovery)
+    - eDiscovery(Premium) [Exportieren von Falldaten in eDiscovery (Premium)](https://learn.microsoft.com/microsoft-365/compliance/exporting-data-ediscover20)
+- Überprüfen Sie eDiscovery-Berechtigungen. Weitere Informationen finden Sie unter:
+    - Ediscovery(Standard) [Erste Schritte mit eDiscovery(Standard)-Fällen in Microsoft Purview](https://learn.microsoft.com/microsoft-365/compliance/get-started-core-ediscovery?source=recommendations#step-2-assign-ediscovery-permissions)
+    - Ediscovery(Premium) [Einrichten von eDiscovery (Premium) in Microsoft Purview](https://learn.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery#step-2-assign-ediscovery-permissions)
 - Überprüfen Sie eDiscovery-Exportlimiten. Weitere Informationen finden Sie unter [Limiten für die eDiscovery-Suche](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search#export-limits).
 - Bei langsamen Downloads versuchen Sie, den Export auf ein lokales Laufwerk statt auf ein Netzwerk-Laufwerk zu speichern.
-- Wenn die Suche hängen bleibt oder nicht voranschreitet, versuchen Sie die Suche und den Export erneut auszuführen. Führen Sie Suchen neu aus, die älter als 7 Tage sind.
+- If the search is stuck or not progressing, try re-running the search and export again. Re-run searches more than 7 days old.
 
 Weitere Informationen zur Problembehandlung bei anderen häufigen eDiscovery-Problemen finden Sie unter [Untersuchung, Problembehandlung und Lösung häufiger eDiscovery-Probleme](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues).
 
