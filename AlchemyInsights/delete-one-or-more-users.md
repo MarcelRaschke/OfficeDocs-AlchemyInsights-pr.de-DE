@@ -11,12 +11,14 @@ ms.localizationpriority: high
 ms.custom:
 - "1500007"
 - "5776"
-ms.openlocfilehash: c256b4dbac6373993c187efdc3a0a27aae690cba
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
-ms.translationtype: HT
+- "1500008"
+- "18177"
+ms.openlocfilehash: f35d218ed6befe7d38bfe6212cbe4492c64959cb
+ms.sourcegitcommit: bccf0b06e65ae38605d76b8cae664064c33b28cc
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66341574"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "68239629"
 ---
 # <a name="delete-one-or-more-users"></a>Löschen von Benutzern
 
