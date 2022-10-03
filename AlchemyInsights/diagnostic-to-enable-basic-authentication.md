@@ -11,16 +11,22 @@ ms.localizationpriority: high
 ms.custom:
 - "9006699"
 - "11392"
+- "17492"
 ms.date: 05/27/2021
-ms.openlocfilehash: b7aa2d353be8385c0b18ea6f8e9982f9f51d9db8
-ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
-ms.translationtype: HT
+ms.openlocfilehash: 79f008fab1926f265b34c7ad2f902aad5b87462c
+ms.sourcegitcommit: fd40ab0f1a1d678e25c5165e8f4612919d72e9b5
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66515460"
+ms.lasthandoff: 10/03/2022
+ms.locfileid: "68325822"
 ---
 # <a name="diagnostic-to-enable-basic-authentication-for-exchange-online-protocols"></a>Diagnose zum Aktivieren der Standardauthentifizierung für Exchange Online-Protokolle
 
-Mit dieser Diagnose können Sie die Standardauthentifizierung für Exchange Online-Protokolle wie POP3, IMAP4, Exchange ActiveSync, Exchange Web Services, Offline-Adressbuch, MAPI, RPC und Remote-PowerShell aktivieren, die Microsoft möglicherweise kürzlich für Ihre Organisation deaktiviert hat. 
+Microsoft hat diese Diagnose möglicherweise kürzlich deaktiviert, die in der Regel verwendet wird, um die Standardauthentifizierung für Exchange Online Protokolle wie POP3, IMAP4, Exchange ActiveSync, Exchange-Webdienste, Offlineadressbuch, MAPI, RPC und Remote PowerShell zu aktivieren. 
 
-Wir senden direkte Mitteilungen über das Nachrichtencenter, um die Mandanten darüber zu informieren, wo sie die Standardauthentifizierung in ihrer Umgebung wegen Nichtverwendung deaktivieren können, um dazu beizutragen, ihre Umgebungen vor entsprechenden Sicherheitsrisiken zu schützen.
+Microsoft sendet direkte Kommunikation über das Nachrichtencenter, um Mandanten mitzuteilen, wo sie die Standardauthentifizierung in der Mandantenumgebung aufgrund mangelnder Verwendung deaktivieren. Dadurch werden Mandantenumgebungen vor damit verbundenen Sicherheitsrisiken geschützt.
+
+Weitere Informationen finden Sie unter:
+
+- [Einstellung der Standardauthentifizierung in Exchange Online](https://learn.microsoft.com/exchange/clients-and-mobile-in-exchange-online/deprecation-of-basic-authentication-exchange-online)
+- [Standardauthentifizierungsdeprecation in Exchange Online – Update vom September 2022](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-deprecation-in-exchange-online-september/ba-p/3609437)
