@@ -13,18 +13,18 @@ ms.custom:
 - "11392"
 - "17492"
 ms.date: 05/27/2021
-ms.openlocfilehash: 79f008fab1926f265b34c7ad2f902aad5b87462c
-ms.sourcegitcommit: fd40ab0f1a1d678e25c5165e8f4612919d72e9b5
+ms.openlocfilehash: 486e6575e8f758e27ac4ddd2660bc113f1c2a6aa
+ms.sourcegitcommit: befe8fd0085cba92b1da54b469c7536e95b20eab
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/03/2022
-ms.locfileid: "68325822"
+ms.locfileid: "68327676"
 ---
 # <a name="diagnostic-to-enable-basic-authentication-for-exchange-online-protocols"></a>Diagnose zum Aktivieren der Standardauthentifizierung für Exchange Online-Protokolle
 
-Microsoft hat diese Diagnose möglicherweise kürzlich deaktiviert, die in der Regel verwendet wird, um die Standardauthentifizierung für Exchange Online Protokolle wie POP3, IMAP4, Exchange ActiveSync, Exchange-Webdienste, Offlineadressbuch, MAPI, RPC und Remote PowerShell zu aktivieren. 
+Mit dieser Diagnose können Sie die Standardauthentifizierung für Exchange Online-Protokolle wie POP3, IMAP4, Exchange ActiveSync, Exchange Web Services, Offline-Adressbuch, MAPI, RPC und Remote-PowerShell aktivieren, die Microsoft möglicherweise kürzlich für Ihre Organisation deaktiviert hat.
 
-Microsoft sendet direkte Kommunikation über das Nachrichtencenter, um Mandanten mitzuteilen, wo sie die Standardauthentifizierung in der Mandantenumgebung aufgrund mangelnder Verwendung deaktivieren. Dadurch werden Mandantenumgebungen vor damit verbundenen Sicherheitsrisiken geschützt.
+Wir senden direkte Kommunikation über das Nachrichtencenter & Dienststatus-Dashboard in Microsoft 365 Admin Center, um Mandanten mitzuteilen, dass wir jetzt die Standardauthentifizierung für Exchange Online-Mandanten deaktivieren.
 
 Weitere Informationen finden Sie unter:
 
