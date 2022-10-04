@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "3200003"
-- "13753"
+- "9011241"
+- "18307"
 ms.date: 09/02/2022
-ms.openlocfilehash: 09947edef5094012f2292966abdfd58a48a131c6
-ms.sourcegitcommit: 7c650f8e0593bbb15db359384b89550a35ab7707
+ms.openlocfilehash: bcdeed56288ad48a1006834e92434ef9ca6ba9b5
+ms.sourcegitcommit: 00019315aac844f1d4068767611d4078bb3c641e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2022
-ms.locfileid: "67571990"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "68374244"
 ---
 # <a name="review-and-export-threaded-conversations-in-advanced-ediscovery"></a>Überprüfen und Exportieren von Unterhaltungsthreads in Advanced eDiscovery
 

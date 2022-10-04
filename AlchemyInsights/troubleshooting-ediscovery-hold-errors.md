@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
 ms.custom:
-- "3200003"
-- "11274"
-ms.date: 05/20/2021
-ms.openlocfilehash: 383022d40c328f6345e1fb7e905e59698813632d
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
-ms.translationtype: HT
+- "9010644"
+- "16953"
+ms.date: 10/04/2022
+ms.openlocfilehash: 448929431ba3791b352cdccecb8bf7740ad67780
+ms.sourcegitcommit: 00019315aac844f1d4068767611d4078bb3c641e
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66279226"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "68374273"
 ---
 # <a name="troubleshooting-ediscovery-holds-errors"></a>Beheben von Fehlern bei der eDiscovery-Aufbewahrung
 
-Gibt es Probleme bei der eDiscovery-Aufbewahrung? Hier finden Sie einige bewährte Methoden, die Sie berücksichtigen sollten:
+Antworten auf Ihre Fragen zum Erstellen von eDiscovery(Standard)-Haltebereichen finden [Sie unter Erstellen eines eDiscovery-Haltebereichs](https://learn.microsoft.com/microsoft-365/compliance/create-ediscovery-holds). Hier finden Sie einige bewährte Methoden, die Sie berücksichtigen sollten:
 
 - Überprüfen Sie den Verteilungsstatus der Aufbewahrung. Wenn der Status auf **Ein (Ausstehend)** oder **Aus (Ausstehend)** festgelegt ist, warten Sie, bis die Aufbewahrungsverteilung abgeschlossen ist.
 - Führen Sie eDiscovery-Aufbewahrungsaktualisierungen in einer einzelnen Massenanforderung zusammen, statt die Richtlinie für jede Transaktion einzeln zu aktualisieren.

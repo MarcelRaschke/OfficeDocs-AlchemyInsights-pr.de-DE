@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
 ms.custom:
-- "3200003"
-- "12580"
+- "9011282"
+- "18305"
 ms.date: 07/22/2022
-ms.openlocfilehash: f28da806f381cbfb962ef6efdb80fefdca2f2548
-ms.sourcegitcommit: b7ec572b250ab6a4e140e36a64db063df3e55c24
-ms.translationtype: HT
+ms.openlocfilehash: 7ecc5f85be5fd8237a863794d4cba446e72e3f55
+ms.sourcegitcommit: 00019315aac844f1d4068767611d4078bb3c641e
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/28/2022
-ms.locfileid: "67070230"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "68374173"
 ---
 # <a name="custodians-in-microsoft-purview-ediscovery-premium"></a>Verwahrer in Microsoft Purview eDiscovery (Premium)
 

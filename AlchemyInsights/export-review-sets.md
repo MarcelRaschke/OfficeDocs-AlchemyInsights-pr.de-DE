@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
 ms.custom:
-- "3200003"
-- "13993"
+- "911241"
+- "18190"
 ms.date: 09/21/2021
-ms.openlocfilehash: 48484f8ed493cbbfd19c38be2569560689addbf9
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
-ms.translationtype: HT
+ms.openlocfilehash: 9585c966ec560e43713ee54626c98fd81b79f622
+ms.sourcegitcommit: 00019315aac844f1d4068767611d4078bb3c641e
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66311616"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "68373884"
 ---
 # <a name="export-review-sets"></a>Exportieren von Prüfdateisätzen
 

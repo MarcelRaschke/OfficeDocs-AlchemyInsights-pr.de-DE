@@ -9,14 +9,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "3200003"
-- "18191"
-ms.openlocfilehash: f0ff5746b2e26d525a9bfbdaee04b1eec9bd2471
-ms.sourcegitcommit: 7c650f8e0593bbb15db359384b89550a35ab7707
+- "9011281"
+- "18331"
+ms.openlocfilehash: a3711028a175a0640b2a188af86c21fd2cb10719
+ms.sourcegitcommit: 00019315aac844f1d4068767611d4078bb3c641e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2022
-ms.locfileid: "67571947"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "68374199"
 ---
 # <a name="teams-content-in-ediscovery"></a>Teams-Inhalte in eDiscovery
 

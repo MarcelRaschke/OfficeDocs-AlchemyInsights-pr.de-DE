@@ -9,14 +9,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "3200003"
-- "3533"
-ms.openlocfilehash: 647fd780faaa97a3d9fd4065047daccfa5753a5b
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+- "9011280"
+- "18331"
+ms.openlocfilehash: f55452c94093e7f742e56e2e918dab5ced9b73e5
+ms.sourcegitcommit: 00019315aac844f1d4068767611d4078bb3c641e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66391791"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "68373983"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery in Yammer Networks
 

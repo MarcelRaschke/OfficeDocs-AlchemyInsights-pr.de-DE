@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: high
 ms.custom:
-- "3200003"
-- "12336"
-ms.date: 09/28/2022
-ms.openlocfilehash: 0ec7bf226dc831163d1849a90f096636aa6e9495
-ms.sourcegitcommit: 7b596d39efa1413d41f299b4fe217034037978eb
+- "9010644"
+- "2513"
+ms.date: 10/04/2022
+ms.openlocfilehash: 04925273009652a33c6b122b0cfb55bd7b465700
+ms.sourcegitcommit: 00019315aac844f1d4068767611d4078bb3c641e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2022
-ms.locfileid: "68140979"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "68373596"
 ---
 # <a name="troubleshooting-ediscovery-export-issues"></a>Problembehandlung von eDiscovery-Exportproblemen
 

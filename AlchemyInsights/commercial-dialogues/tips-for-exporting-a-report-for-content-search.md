@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "3200003"
-- "7221"
+- "9011281"
+- "18333"
 ms.date: 02/26/2021
-ms.openlocfilehash: f71437fec9e4e88e69f51228ba004d058451488f
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: b4fbc6988ab3644ccbd72c8bed3301d9aca9c1f1
+ms.sourcegitcommit: 00019315aac844f1d4068767611d4078bb3c641e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66413330"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "68373920"
 ---
 # <a name="tips-for-exporting-a-report-for-content-search"></a>Tipps zum Exportieren eines Berichts für die Inhaltssuche
 

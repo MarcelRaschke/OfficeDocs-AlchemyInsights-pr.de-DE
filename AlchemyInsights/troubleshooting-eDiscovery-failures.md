@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
 ms.custom:
-- "3200003"
-- "1490"
-ms.date: 04/21/2020
-ms.openlocfilehash: b185f24c7ae5ff3a700e1c3a5d54476c56278d28
-ms.sourcegitcommit: 5058f004f549ba7ac2b4843429b385287456a9c7
+- "9011281"
+- "18330"
+ms.date: 10/04/2022
+ms.openlocfilehash: 9bdb42c20f6b46365def6dfdbf9d909443173215
+ms.sourcegitcommit: 00019315aac844f1d4068767611d4078bb3c641e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65062639"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "68374064"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Behandeln von Fehlern bei der Inhaltssuche
 
