@@ -8,15 +8,13 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.localizationpriority: medium
-ms.custom:
-- "9011234"
-- "18157"
-ms.openlocfilehash: ee8abaf23abd2a95a696e7dccdc88ef6616cb4fe
-ms.sourcegitcommit: 7acf85b81ce9e2975e2fddfe6d674a51643bffa7
+ms.custom: ''
+ms.openlocfilehash: e3fee6c2ed418ee3fbc3bbaf42e48dd14292dd5e
+ms.sourcegitcommit: aa2e2ea79535b333776e335fed7798b1b12c8f0f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2022
-ms.locfileid: "67453607"
+ms.lasthandoff: 10/05/2022
+ms.locfileid: "68474670"
 ---
 # <a name="support-for-microsoft-viva-sales"></a>Unterstützung für Microsoft Viva Sales
 
