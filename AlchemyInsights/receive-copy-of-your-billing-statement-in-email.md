@@ -3,7 +3,7 @@ title: Kopie Ihrer Rechnung per E-Mail erhalten
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: prkalid, guyb
+ms.reviewer: prkalid, vijayav
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "9000137"
 - "1643"
 ms.date: 04/21/2020
-ms.openlocfilehash: f589119cdad1a52558ca27105751ca5b81d24e3c
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 8c1b2998d229c07523d914d881e6d9766e160ebb
+ms.sourcegitcommit: 4bc864fcfd8147e87cdf4e8080e1ca296c2632f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66386157"
+ms.lasthandoff: 10/05/2022
+ms.locfileid: "68467398"
 ---
 # <a name="receive-copy-of-your-billing-statement-in-email"></a>Kopie Ihrer Rechnung per E-Mail erhalten
 
