@@ -14,16 +14,20 @@ ms.custom:
 - "844"
 - "845"
 - "7959"
-ms.date: 04/18/2022
-ms.openlocfilehash: 4d273ff955e3fc5e5e45e86403564bb6c6fa6ec2
-ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
+ms.date: 10/10/2022
+ms.openlocfilehash: bfde9b7a5bbca233f15ed6ec2d456600c6377ad2
+ms.sourcegitcommit: 3cfb2331f24a9283e6a0ea149534a229c87f7c07
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65734376"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68540413"
 ---
 # <a name="install-and-configure-onedrive"></a>Installieren und Konfigurieren von OneDrive
 
-Das [Setuphandbuch für Microsoft One Drive](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) erleichtert eine reibungslose Installation von Microsoft OneDrive. Verwenden Sie dieses Handbuch, um die Synchronisierungs-App zu starten, die externe Freigabe zu konfigurieren, Daten zu migrieren und erweiterte Einstellungen zu konfigurieren.
+Informationen zu einer reibungslosen Installation von Microsoft OneDrive finden Sie im [Microsoft OneDrive-Setuphandbuch](https://admin.microsoft.com/Concierge/RedirectToArticle?uri=https:%2f%2fadmin.microsoft.com%2fadminportal%2fhome%23%2fmodernonboarding%2fonedrivequickstartguide&solutionType=AlchemyInsight&title=Install%20and%20configure%20OneDrive&clientAppName=SupportCentralSearch&client-request-id=8ad89b9e-9001-429c-a839-7acc0b433dce). 
 
-Themen, die der Einrichtungsleitfaden behandelt und enthält Anleitungen zu folgenden Themen: App-Synchronisierung, Verteilung, Windows und Mac-Computer, Gruppenrichtlinien, Synchronisierungseinstellungen, erforderliche Features und Dienste, Automatisierung mit PowerShell, Problembehandlungsfeatures und -dienste, KFM (Known Folder Move), Konfiguration des Benutzerkontos, Dokument- und Websitefreigabe, externe Freigabe, temporärer Zugriff, Datenmigration, Lizenzen, Verwaltung von Benutzerdateien und Ordnern,  Migrationsunterstützung, Migrations-Manager, SharePoint Migrationstool (SPMT), Sichern und Verwalten mobiler Apps, Gerätesynchronisierung, Microsoft Purview Data Loss Prevention, Schützen und Steuern von Dateien, Informationen Rights Management, Konnektivität und Empfehlungen in verschiedenen Bereichen.
+Weitere Informationen zum Konfigurieren der OneDrive-Synchronisierung finden Sie unter: 
+
+- [Synchronisieren von Dateien mit OneDrive in Windows](https://support.microsoft.com/office/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [Synchronisieren von SharePoint- und Teams-Dateien mit Ihrem Computer](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)
+- [Synchronisieren von SharePoint-Dateien und -Ordnern](https://support.microsoft.com/office/sync-sharepoint-files-and-folders-87a96948-4dd7-43e4-aca1-53f3e18bea9b)
