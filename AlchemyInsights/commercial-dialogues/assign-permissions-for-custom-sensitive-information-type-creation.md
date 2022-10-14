@@ -12,18 +12,18 @@ ms.custom:
 - "9000722"
 - "7363"
 ms.date: 02/19/2021
-ms.openlocfilehash: fe6073f5fed9a51a273151763c2e93f4aba531b5
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
-ms.translationtype: HT
+ms.openlocfilehash: 0bac39584b7550e726b7a16d7d53dd28ce1cf7ea
+ms.sourcegitcommit: f9d7390a97f6fff46165c17b5cc413c21f1642f6
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66327171"
+ms.lasthandoff: 10/14/2022
+ms.locfileid: "68574877"
 ---
 # <a name="assign-permissions-for-custom-sensitive-information-type-creation"></a>Zuweisen von Berechtigungen für die Erstellung benutzerdefinierter Typen für vertrauliche Informationen
 
 Führen Sie die folgenden Schritte aus, um Berechtigungen für die Erstellung benutzerdefinierter Typen für vertrauliche Informationen zuzuweisen:
 
-1. Melden Sie sich im [Security & Compliance Center](https://sip.protection.office.com/) an, und klicken Sie dann auf **Berechtigungen**.
+1. Melden Sie sich beim [Microsoft Purview Compliance-Portal](https://compliance.microsoft.com/homepage) an, und klicken Sie dann auf **"Berechtigungen"**.
 2. Klicken Sie auf **Complianceadministrator** und dann auf **Bearbeiten**.
 3. Klicken Sie auf der Seite mit den **Eigenschaften des Complianceadministrators** neben **Mitglieder** auf **Bearbeiten**.
 4. Klicken Sie auf der Seite **Mitgliederauswahl bearbeiten** auf **Mitglieder auswählen**.
