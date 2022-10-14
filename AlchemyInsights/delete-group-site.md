@@ -13,12 +13,12 @@ ms.custom:
 - "7996"
 - "567"
 ms.date: 04/21/2020
-ms.openlocfilehash: 305e835ec0ec0ede5e67d6c8ce841e32bf17ac45
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.openlocfilehash: 8115d60816e2fd17716e12927522af4658d7b75b
+ms.sourcegitcommit: f9d7390a97f6fff46165c17b5cc413c21f1642f6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66324651"
+ms.lasthandoff: 10/14/2022
+ms.locfileid: "68575381"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Löschen einer SharePoint-Website, die zu einer Microsoft 365-Gruppe gehört
 
@@ -27,6 +27,6 @@ Durch das Löschen einer mit einer Gruppe verbundenen Website werden die Gruppe 
 Wichtig:
 
 - Sie können gelöschte Websites 93 Tage lang wiederherstellen. Gelöschte Gruppen müssen innerhalb von 30 Tagen wiederhergestellt werden. [Sie können gelöschte Websites](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) direkt im SharePoint Admin Center anzeigen und wiederherstellen. Um [**gelöschte Gruppen** anzuzeigen und wiederherzustellen](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups), wählen Sie **"Gruppen verwalten"** und dann "**Gelöscht"** aus.
-- Wenn die Website Teil einer Aufbewahrungsrichtlinie ist, können Sie sie möglicherweise erst löschen, wenn die Website aus dem [Security & Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/retention) entfernt wurde. Weitere Informationen finden Sie in der [Übersicht über Aufbewahrungsrichtlinien](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Wenn die Website Teil einer Aufbewahrungsrichtlinie ist, können Sie sie möglicherweise erst löschen, wenn die Website aus dem [Microsoft Purview Compliance-Portal](https://compliance.microsoft.com/informationgovernance?viewid=retention) entfernt wurde. Weitere Informationen finden Sie in der [Übersicht über Aufbewahrungsrichtlinien](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
   
 Weitere Informationen finden [Sie unter Verwalten von Websites im neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
