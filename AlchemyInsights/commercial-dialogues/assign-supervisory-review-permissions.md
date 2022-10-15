@@ -12,16 +12,16 @@ ms.custom:
 - "9000722"
 - "7363"
 ms.date: 02/21/2021
-ms.openlocfilehash: b2213187e8eb84d2fc5d67a3c747163e4ed79c10
-ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
-ms.translationtype: HT
+ms.openlocfilehash: 7d05c191f78a29f757c42a1c21bc0b65aa0e0e42
+ms.sourcegitcommit: f9d7390a97f6fff46165c17b5cc413c21f1642f6
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66394599"
+ms.lasthandoff: 10/14/2022
+ms.locfileid: "68574841"
 ---
 # <a name="assign-supervisory-review-permissions"></a>Zuweisen von Aufsichtsüberprüfungsberechtigungen
 
-1. Wählen Sie im [Office 365 Security & Compliance Center](https://sip.protection.office.com/homepage) die Option **Berechtigungen > Aufsichtsüberprüfung** aus.
+1. Wählen Sie im [Microsoft Purview Compliance-Portal](https://compliance.microsoft.com/homepage) **Berechtigungen > Aufsichtsüberprüfung** aus.
 2. Klicken Sie im Bereich **Aufsichtsüberprüfung** neben **Mitglieder** auf **Bearbeiten**.
 3. Klicken Sie im Bereich **Mitgliederauswahl bearbeiten** auf **Mitglieder auswählen**.
 4. Klicken Sie im Bereich **Mitglieder auswählen** auf **+ Hinzufügen**, und wählen Sie dann die Namen der Benutzer aus.

@@ -1,5 +1,5 @@
 ---
-title: Rechnungen sind zurzeit nicht verfügbar
+title: Rechnung nicht verfügbar
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,16 +13,17 @@ ms.custom:
 - commerce_billing
 - "1500001"
 - "4852"
-ms.date: 09/08/2022
-ms.openlocfilehash: 1e30dfcf34451475f5f2cbeb5bfc9e6db56b241f
-ms.sourcegitcommit: 257eca543d955d79eb9591b88b9101f07c8dadbf
+ms.date: 10/12/2022
+ms.openlocfilehash: 50f3192f8232f6434023cca33d13bb89664cfaa4
+ms.sourcegitcommit: f9d7390a97f6fff46165c17b5cc413c21f1642f6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/08/2022
-ms.locfileid: "67629601"
+ms.lasthandoff: 10/14/2022
+ms.locfileid: "68575525"
 ---
-# <a name="invoice-pay-currently-unavailable"></a>Rechnungen sind zurzeit nicht verfügbar
+# <a name="invoice-pay-unavailable"></a>Rechnung nicht verfügbar
 
-Es wird eine vorübergehende Änderung an Microsoft 365 Admin Center Zahlungsoptionen vorgenommen. Rechnung als Zahlungsmethode ist für neue Abonnementkäufe erst verfügbar, wenn innerhalb Microsoft 365 Admin Center zusätzliche Berechtigungsüberprüfungen hinzugefügt wurden. Diese Änderung wirkt sich nicht auf vorhandene Abonnements aus, die zuvor mit der Rechnungszahlungsmethode erworben wurden. Darüber hinaus können Käufe weiterhin per Kreditkarte oder über einen [Partner oder Händler](https://go.microsoft.com/fwlink/p/?LinkId=613304) getätigt werden.
+Wenn Sie ein neuer Kunde sind, ist die Zahlung per Rechnung nicht als Zahlungsmethode verfügbar. Sie können Abonnements jedoch mit einer Kreditkarte oder über einen [Partner oder Händler](https://go.microsoft.com/fwlink/p/?LinkId=613304) kaufen.
 
-Wenn Sie einen Kauf mithilfe einer Rechnungszahlung tätigen müssen und die Berechtigungsanforderungen erfüllen, wenden Sie sich an den Support, um Unterstützung zu erhalten. Eine Liste der Berechtigungsanforderungen finden Sie unter ["Bezahlen für Ihr Abonnement](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#paying-by-invoice)".
+Wenn Sie ein vorhandener Kunde sind und die Berechtigungsanforderungen erfüllen, die unter ["Bezahlen für Ihr Abonnement](https://learn.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#paying-by-invoice)" beschrieben sind, können Sie sich an den Support wenden, um Sie beim Ändern eines aktuellen Abonnements auf Zahlung per Rechnung zu unterstützen. Wenn Sie ein neues Abonnement kaufen möchten und die Berechtigungsanforderungen erfüllen, können Sie möglicherweise Ihre Zahlungsmethode ändern, um per Rechnung zu bezahlen. Wenden Sie sich an den Support, um herauszufinden, ob Sie per Rechnung bezahlen können, und um Ihnen zu helfen, ein neues Abonnement mithilfe der Option "Zahlung per Rechnung" zu kaufen.
+ [Partner oder Händler](https://go.microsoft.com/fwlink/p/?LinkId=613304).
