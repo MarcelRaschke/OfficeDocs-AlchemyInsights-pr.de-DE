@@ -1,24 +1,23 @@
 ---
 title: Ändern von Updatekanälen für Office-Apps
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2020
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1740"
 - "9000140"
-ms.openlocfilehash: 4239875c5d75b75787f9b93316f3153c94806b16
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+- "1740"
+ms.date: 07/27/2020
+ms.openlocfilehash: 4db3fd3f5791d303cc4eeb35f55940428546105e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448606"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66380901"
 ---
 # <a name="change-update-channels-for-office-apps"></a>Ändern von Updatekanälen für Office-Apps
 

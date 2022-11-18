@@ -1,23 +1,22 @@
 ---
 title: 'Azure Information Protection: AIP-Clientinstallation'
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: 230f857bd35f4cf381fc71de04231834fb8d0ee6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 415666eec71626675926cc083da7a98ddd402fd8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714903"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66329889"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: AIP-Clientinstallation
 
@@ -38,4 +37,4 @@ Weitere Informationen:
 
 - Lesen Sie die [Dokumentation zu Azure Information Protection (AIP)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection), und sehen Sie sich die Einrichtungs[anforderungen](https://docs.microsoft.com/azure/information-protection/get-started/requirements) und den Speicherort zum [Herunterladen des AIP-Clients](https://www.microsoft.com/download/details.aspx?id=53018) an.
 
-- Informationen zu Azure-Abonnements finden Sie unter [Azure Information Protection – Abonnements und Funktionen](https://azure.microsoft.com/pricing/details/information-protection).
+- Informationen zu Azure-Abonnements finden Sie unter [Azure Information Protection – Abonnements und Funktionen](https://docs.microsoft.com/office365/servicedescriptions/azure-information-protection#available-plans).

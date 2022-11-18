@@ -1,30 +1,28 @@
 ---
-title: Neue Signatur kann nicht erstellt werden
+title: Eine neue Signatur kann nicht erstellt werden.
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1949"
 - "9000323"
-ms.assetid: ''
-ms.openlocfilehash: 382eb4c8d973353c1fb61f49cf0993bce3f626cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1949"
+ms.date: 04/21/2020
+ms.openlocfilehash: 60a1f7bb8bb2540fd9ef8261d76ee7268275cf88
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812510"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66540062"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Hinzufügen oder Erstellen einer neuen Signatur in Outlook nicht möglich
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Eine neue Signatur kann in Outlook nicht hinzugefügt oder erstellt werden.
 
-Dies ist ein bekanntes Problem. Wir arbeiten daran, das Problem zu beheben, und der Status wird in [Outlook-Einfrieren auf die Schaltfläche "Signatur"](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)aktualisiert.
+Dies ist ein bekanntes Problem. Wir arbeiten daran, das Problem zu beheben, und der Status wird in Outlook aktualisiert, [wenn auf die Schaltfläche "Signatur" geklickt](https://support.microsoft.com/office/outlook-freezes-when-selecting-the-signature-button-c70b36c2-66ca-401c-ab45-f29a46495d02) wird.
 
-Um dieses Problem zu umgehen, [führen Sie zunächst die Schritte](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) zum Deinstallieren der vorinstallierten Microsoft Office Desktop-Apps aus. 
+Um dieses Problem zu umgehen, [führen Sie zunächst die Schritte](https://support.microsoft.com/office/outlook-freezes-when-selecting-the-signature-button-c70b36c2-66ca-401c-ab45-f29a46495d02) zum Deinstallieren der vorinstallierten Microsoft Office Desktop-Apps aus. 
 
-Wenn das für den betroffenen Computer nicht funktioniert, versuchen Sie es mit der [registrierungsbasierten Problemumgehung](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Wenn dies für den betroffenen Computer nicht funktioniert, versuchen Sie es mit der [registrierungsbasierten Problemumgehung](https://support.microsoft.com/office/outlook-freezes-when-selecting-the-signature-button-c70b36c2-66ca-401c-ab45-f29a46495d02).

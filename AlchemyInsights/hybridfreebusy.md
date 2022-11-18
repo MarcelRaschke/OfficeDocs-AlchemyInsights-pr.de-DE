@@ -1,23 +1,22 @@
 ---
-title: 401 Hybrid-freebusy
+title: 401 Hybrid - FreeBusy
 ms.author: chrisda
 author: chrisda
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: dansimp
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: 401
-ms.assetid: 13bb2a1b-6433-4249-8b0f-c01e23e5d7f1
-ms.openlocfilehash: ce28f5612df65aeb909512d16c6ee9d423993ef1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: c6c338cf48b483b11754f72b4668e9e3bff747a8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725442"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66296560"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Frei/Gebucht-Kalender Probleme in Hybrid Umgebungen
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Frei/Gebucht-Kalenderprobleme in Hybridumgebungen
 
-Wenn Benutzer Probleme beim Anzeigen von Kalender Frei/Gebucht-Informationen in Hybrid Umgebungen haben, führen Sie den Assistenten für die Hybrid Konfiguration erneut aus. Weitere Informationen zum Assistenten für die Hybrid Konfiguration finden Sie unter [Hybrid Configuration Wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Wenn Benutzer Probleme beim Anzeigen von Frei/Gebucht-Kalenderinformationen in Hybridumgebungen haben, führen Sie den Assistenten für die Hybridkonfiguration erneut aus. Weitere Informationen zum Assistenten für die Hybridkonfiguration finden Sie im [Assistenten für die Hybridkonfiguration](https://go.microsoft.com/fwlink/p/?linkid=528149).

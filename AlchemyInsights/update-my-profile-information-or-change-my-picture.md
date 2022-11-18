@@ -1,34 +1,33 @@
 ---
-title: Meine Profilinformationen aktualisieren oder mein Bild ändern
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Aktualisieren meiner Profilinformationen oder Ändern meines Bilds
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e76de26590942114094fc8b638a6c17ba358f141
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796935"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66514020"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Meine Profilinformationen aktualisieren oder mein Bild ändern
+# <a name="update-my-profile-information-or-change-my-picture"></a>Aktualisieren meiner Profilinformationen oder Ändern meines Bilds
 
-Derzeit ist es nicht möglich, Ihre Profilinformationen direkt in Outlook für IOS zu bearbeiten und zu aktualisieren, aber diese Informationen können an anderer Stelle bearbeitet werden. 
+Derzeit ist es nicht möglich, Ihre Profilinformationen direkt aus Outlook für iOS zu bearbeiten und zu aktualisieren, aber es ist möglich, diese Informationen an anderer Stelle zu bearbeiten. 
 
-Sie können in Outlook für Windows oder Outlook im Internet (OWA) Aktualisierungen an Ihrem Profil vornehmen. 
+Sie können Änderungen an Ihrem Profil in Outlook für Windows oder Outlook im Web (OWA) vornehmen. 
 
 **Outlook für Windows**: 
 
-- **Datei**  >  **Office-Konto**  >  **Benutzerinformationen**  >  **Über mich** (bringt Sie zu Microsoft 365 profile Online) > **Update Profil** oder klicken Sie auf das Kamerasymbol, um Ihr Foto zu ändern.  
+- **Datei** >  **Office-Konto** >  **Benutzerinformationen** >  **Über mich** (bringt Sie zu Microsoft 365-Profil online) > **Profil aktualisieren** oder auf das Kamerasymbol klicken, um Ihr Foto zu ändern  
   
-**Outlook im Internet (OWA)**: 
+**Outlook im Web (OWA)**: 
 
-- **Profilbild**  >  **Mein Profil**  >  **Profil aktualisieren**
+- **Profilbild** >  **Mein Profil** >  **Profil aktualisieren**

@@ -3,29 +3,29 @@ title: Bereitstellen von Microsoft Edge auf iOS, iPadOS und Android
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/10/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "8241"
 - "9004604"
-ms.openlocfilehash: 524e87ab57e29823361053093708c83831f19687
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+- "9008577"
+- "13637"
+- "8241"
+ms.date: 02/10/2021
+ms.openlocfilehash: 4591930028d12e04bd0b68228a4ba8cfe6431df6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50178005"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66412174"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Bereitstellen von Microsoft Edge auf iOS, iPadOS und Android
 
 Das unten zusammengefasste geführte Szenario hilft Ihnen, Microsoft Edge Benutzern von iOS-, iPadOS- und Android-Geräten zuzuweisen.
 
-> [!NOTE]
-> Wenn Sie die Registrierung mobiler Geräten für Benutzer blockiert haben, funktioniert dieses geführte Szenario nicht, und die Benutzer müssen Microsoft Edge selbst installieren.
+**Hinweis**: Wenn Sie die Registrierung mobiler Geräte für Benutzer blockiert haben, funktioniert dieses geführte Szenario nicht, und die Benutzer müssen Microsoft Edge selbst installieren.
 
 Das geführte Szenario umfasst die folgenden Schritte:
 

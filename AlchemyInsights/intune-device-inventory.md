@@ -1,24 +1,23 @@
 ---
 title: Intune-Gerätebestand
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1281"
+ms.date: 07/27/2020
+ms.openlocfilehash: 971285ea143cd4bfcd3c9df962a697a0ee788749
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667877"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66287722"
 ---
 # <a name="intune-device-inventory"></a>Intune-Gerätebestand
 
@@ -30,7 +29,7 @@ Weitere Informationen finden Sie unter [Anzeigen von Gerätedetails in Intune](h
 
 **Häufig gestellte Fragen**
 
-F: Ich erhalte keine vollständige Bestandsliste der Anwendungen auf bei Intune registrierten Windows-Geräten. Warum nicht?
+F: Ich erhalte keine vollständige Bestandsliste der Anwendungen, die auf von Intune registrierten Windows-Geräten vorhanden sind. Warum nicht?
 
 A: Gegenwärtig werden nur moderne Apps für als Unternehmensgeräte identifizierte Windows 10-PCs aufgeführt. Intune sammelt keine Informationen über Win32-Anwendungen, die auf diesen Geräten installiert sind.
 

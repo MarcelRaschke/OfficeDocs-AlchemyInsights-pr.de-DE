@@ -1,28 +1,27 @@
 ---
-title: Deaktivieren von Text Vorhersagen
+title: Deaktivieren von Textvorhersagen
 ms.author: v-smandalika
 author: v-smandalika
 manager: v-aiyengar
-ms.date: 11/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "8000059"
 - "6217"
-ms.openlocfilehash: 3ee4aecabb8fc534bc45d40a7546928eee679bc8
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.date: 11/20/2020
+ms.openlocfilehash: ea93ae8d44e6e089c9e85d5640f235f09ed302c1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49371810"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66261370"
 ---
-# <a name="turn-off-text-predictions"></a>Deaktivieren von Text Vorhersagen
+# <a name="turn-off-text-predictions"></a>Deaktivieren von Textvorhersagen
 
-1. Wählen Sie **Einstellungen > alle Outlook-Einstellungen > Mail > verfassen und Antworten anzeigen** aus.
-2. Deaktivieren Sie unter **Text Vorhersagen** die Option **Wörter von Ausdrücken bei der Eingabe vorschlagen**.
+1. Wählen Sie **"Einstellungen" aus, > Alle Outlook-Einstellungen > E-Mail > Verfassen und Antworten anzeigen**.
+2. Heben Sie unter **"Textvorhersagen**" die Option " **Wörter von Ausdrücken während der Eingabe vorschlagen**" auf.
 
-Weitere Informationen finden Sie unter [use Intelligent Technology in Outlook im Internet und Outlook.com](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70).
+Weitere Informationen finden [Sie unter Verwenden intelligenter Technologien in Outlook im Web und Outlook.com](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70).

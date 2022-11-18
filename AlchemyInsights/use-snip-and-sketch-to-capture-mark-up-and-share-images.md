@@ -1,40 +1,39 @@
 ---
-title: Verwenden von Snip & Skizze zum erfassen, markieren und Freigeben von Bildern
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Verwenden von Snip & Sketch zum Erfassen, Markieren und Freigeben von Bildern
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e6526aba0c2b2eec31d1d82d3cc082a1fadcc61
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773198"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66521022"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Verwenden von Snip & Skizze zum erfassen, markieren und Freigeben von Bildern
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Verwenden von Snip & Sketch zum Erfassen, Markieren und Freigeben von Bildern
 
-Die Bildschirmskizze wird nun als **Snip & Skizze**bezeichnet. **So führen Sie schnell einen Ausschnitt**aus:
+Bildschirmskizze heißt jetzt **Snip & Skizze**. **So nehmen Sie schnell eine Wischbewegung** vor:
 
-1. Drücken Sie die **Windows-Logo-Taste + Umschalt + S**. Sie werden sehen, wie Ihr Bildschirm verdunkelt wird und Ihr Cursor als Kreuz angezeigt wird. 
+1. Drücken Sie die **Windows-Logo-TASTE+UMSCHALT+S**. Der Bildschirm wird dunkler und der Cursor als Kreuz angezeigt. 
 
-2. Wählen Sie einen Punkt am Rand des Bereichs aus, den Sie kopieren möchten, und klicken Sie mit der linken Maustaste auf den Cursor. 
+2. Wählen Sie einen Punkt am Rand des Zu kopierenden Bereichs aus, und klicken Sie mit der linken Maustaste auf den Cursor. 
 
-3. Bewegen Sie den Cursor, um den Bereich hervorzuheben, den Sie erfassen möchten. Der erfasste Bereich wird auf dem Bildschirm angezeigt.
+3. Bewegen Sie den Cursor, um den Bereich hervorzuheben, den Sie erfassen möchten. Der Bereich, den Sie erfassen, wird auf dem Bildschirm angezeigt.
 
-   ![Bild der markierten Auswahl](media/snipone.png)
+   ![Bild der hervorgehobenen Auswahl](media/snipone.png)
 
-Das Bild, das Sie geschnitten haben, wird in der Zwischenablage gespeichert und kann in eine e-Mail oder ein Dokument eingefügt werden. 
+Das Bild, das Sie gekippt haben, wird in der Zwischenablage gespeichert und kann in eine E-Mail oder ein Dokument eingefügt werden. 
 
 **Wenn Sie das Bild bearbeiten oder anzeigen möchten**: 
 
-- Klicken Sie auf das Symbol Benachrichtigungen auf der rechten Seite der Taskleiste; Klicken Sie dann auf das Bild, das Sie soeben erfasst haben. Ihr Snip wird in der App "Snip & Sketch" geöffnet.
+- Klicken Sie auf das Benachrichtigungssymbol ganz rechts auf der Taskleiste. klicken Sie dann auf das Bild, das Sie gerade aufgenommen haben. Ihr Snip wird in der App "Snip & Sketch" geöffnet.
 
-   ![Bild der in der Ausschnitt-App angezeigten Grafik](media/sniptwo.png)
+   ![Abbildung des Bilds, das in der Snipping-App angezeigt wird](media/sniptwo.png)

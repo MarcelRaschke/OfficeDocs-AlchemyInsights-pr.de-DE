@@ -1,25 +1,26 @@
 ---
-title: Office 365 für Enterprise-Plan
+title: Office 365 für Enterprise Plan
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.audience: Admin
+manager: scotv
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "474"
+- commerce_subscriptions
 - "1500026"
-ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 37fee31a4c2fa0dcf9661376533dfbf7b1035971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "474"
+ms.date: 07/30/2021
+ms.openlocfilehash: 7505c9f4897e453d0f9617e2b8ac18c08f9e5e98
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729438"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66156709"
 ---
-# <a name="office-365-for-enterprise-plan"></a>Office 365 für Enterprise-Plan
+# <a name="office-365-for-enterprise-plan"></a>Office 365 für Enterprise Plan
 
-Für Office 365 für Unternehmen stehen verschiedene Pläne zur Verfügung. [Vergleichen Sie Office 365 für Enterprise-Pläne und-Preise](https://products.office.com/business/compare-more-office-365-for-business-plans).  
+Für Enterprise stehen verschiedene Pläne mit Office 365 zur Verfügung. [Vergleichen Sie Office 365 für Enterprise Pläne und Preise](https://products.office.com/business/compare-more-office-365-for-business-plans).

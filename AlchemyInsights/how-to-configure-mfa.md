@@ -3,24 +3,24 @@ title: 955 Konfigurieren von MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "955"
 - "1300007"
-ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: f2431c33f4114ea0f6774aac45bc095402eecd8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "955"
+ms.date: 05/26/2022
+ms.openlocfilehash: bc8b5d2a90fee4e69e1acf573932239fb36f47ee
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704452"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66258670"
 ---
-# <a name="configure-multi-factor-authentication"></a>Konfigurieren der mehrstufigen Authentifizierung
+# <a name="configure-multifactor-authentication"></a>Konfigurieren der mehrstufigen Authentifizierung
 
-Informationen zum Konfigurieren von MFA finden Sie unter [Einrichten der mehr](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication)stufigen Authentifizierung.
+Das [Setuphandbuch zum Konfigurieren der mehrstufigen Authentifizierung (MFA)](https://admin.microsoft.com/adminportal/home?Q=AlchemyBot#/modernonboarding/mfasetupguide) unterstützt Sie bei der Verarbeitung der App-Auswahl und der Konfiguration von Office 365 für Remotemitarbeiter. Der Abschluss dieses Setuphandbuchs hilft Organisationen, die Belastung ihrer VPN-Infrastruktur zu reduzieren und/oder zusätzliche Sicherheitsmaßnahmen zu implementieren. 
 
-Beachten Sie, dass Sie ein globaler Administrator sein müssen, um MFA zu aktivieren und zu konfigurieren.
+Einige der im Setuphandbuch erläuterten Themen sind app-erforderliche Tools, verfügbare Ressourcen, VPN-Setup, Domänen, Benutzerkonten, Lizenzierung, Azure Active Directory (AAD), Mehrstufige Authentifizierung (MFA), bedingter Zugriff, mobile Geräte, Intune, BYOD, Exchange Online Protection (EOP), Microsoft Defender für Endpunkt , Richtlinien zur Verhinderung von Datenlecks, Azure-App Proxy, Azure Virtual Desktop, Microsoft Teams sowie Empfehlungen in verschiedenen Bereichen.

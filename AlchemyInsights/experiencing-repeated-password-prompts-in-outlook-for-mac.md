@@ -1,27 +1,27 @@
 ---
-title: Sie haben wiederholte Kenn Wort Ansagen in Outlook für Mac?
-ms.author: pebaum
-author: CrystalThomasMS
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Werden in Outlook für Mac wiederholte Kennwortaufforderungen angezeigt?
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: c70d9b41d8905f668c8c413f298f61588ca8b9e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.date: 04/21/2020
+ms.openlocfilehash: 8a72c99638628a3425030ff6bfdf9c15e744ad5c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783010"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66377787"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Sie haben wiederholte Kenn Wort Ansagen in Outlook für Mac?
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Werden in Outlook für Mac wiederholte Kennwortaufforderungen angezeigt?
 
-Wir unterstützen Sie bei der Bereitstellung spezieller Outlook für Mac Hilfe direkt aus der Anwendung.
+Wir können Ihnen dabei helfen, speziellere Outlook für Mac Hilfe direkt aus der Anwendung bereitzustellen.
   
-Wechseln Sie zum Mac des betroffenen Benutzers, öffnen Sie Outlook, und klicken Sie auf **Help** \> **Contact Support**.
+Wechseln Sie zum Mac des betroffenen Benutzers, öffnen Sie Outlook, und klicken Sie auf **"Hilfe** \> **kontaktieren"**.
   
-Weitere Informationen zur Verwendung Outlook für Mac in-App-Kunden Unterstützung finden Sie in diesem Artikel: [New Contact Support Feature in Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Weitere Informationen zur Verwendung Outlook für Mac In-App-Kundensupports finden Sie in diesem Artikel: [Neues Feature "Support kontaktieren" in Outlook 2016 für Mac](https://answers.microsoft.com/en-us/outlook_com/forum/all/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
   
 

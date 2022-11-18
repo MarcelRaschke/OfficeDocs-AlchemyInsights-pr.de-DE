@@ -1,32 +1,32 @@
 ---
-title: 1800021 Gewusst wie Erstellen einer Regel in Outlook für Mac
-ms.author: supravee
-author: supravee
-ms.audience: ITPro
+title: 1800021 Erstellen einer Regel in Outlook für Mac
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "923"
 - "1800021"
-ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: dbfb47da690244b34e1879c3d8d879fcc5631f75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "923"
+ms.openlocfilehash: 12786ce4306ceed1d1d8f9b52a64f11702feaf61
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704344"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66376275"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Vorgehensweise Erstellen einer Regel in Outlook für Mac
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Erstellen einer Regel in Outlook für Mac
 
-1. Zum Erstellen eines Ordners, in dem die von der Regel gesendeten e-Mail-Nachrichten gespeichert werden sollen, wählen Sie das Stamm Postfach auf der Registerkarte **organisieren** aus, klicken Sie auf **neuer Ordner**, geben Sie den Namen des Ordners ein, und drücken Sie die EINGABETASTE.
+1. Um einen Ordner zu erstellen, in dem die von der Regel gesendeten E-Mail-Nachrichten gespeichert werden sollen, wählen Sie das Stammpostfach aus, klicken Sie auf der Registerkarte " **Organisieren** " auf **"Neuer Ordner**", geben Sie den Namen des Ordners ein, und drücken Sie die EINGABETASTE.
 
-2. Klicken Sie in der Nachrichtenliste auf eine e-Mail-Nachricht, für die o eine Regel erstellt werden soll.
+2. Klicken Sie in der Nachrichtenliste auf eine E-Mail-Nachricht, für die Sie eine Regel erstellen möchten.
 
-3. Klicken Sie auf der Registerkarte **Start** auf **Regeln**, und klicken Sie dann auf **Regel erstellen**.
+3. Klicken Sie auf der Registerkarte " **Start** " auf **"Regeln"** und dann auf " **Regel erstellen"**.
 
-4. Bearbeiten Sie unter **beim Eintreffen einer neuen Nachricht** die Kriterien entsprechend Ihren Anforderungen. 
+4. Bearbeiten Sie unter **"Wenn eine neue Nachricht eintrifft** " die Kriterien entsprechend Ihren Anforderungen. 
 
-Ausführliche Anweisungen zum Erstellen von benutzerdefinierten Regeln finden Sie unter [Create a rule in Outlook für Mac](https://aka.ms/AA1uy0v)
+Ausführliche Anweisungen zum Erstellen benutzerdefinierter Regeln finden [Sie unter Erstellen einer Regel in Outlook für Mac](https://aka.ms/AA1uy0v)
   

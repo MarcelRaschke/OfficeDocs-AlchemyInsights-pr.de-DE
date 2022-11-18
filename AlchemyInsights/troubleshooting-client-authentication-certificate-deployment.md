@@ -1,24 +1,23 @@
 ---
 title: Problembehandlung bei der Bereitstellung von Clientauthentifizierungszertifikaten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/28/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1546"
 - "9000076"
-ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1546"
+ms.date: 07/28/2020
+ms.openlocfilehash: 2de7b5848af01778ed6ff777804b582b913cf033
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658985"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66279298"
 ---
 # <a name="troubleshooting-client-authentication-certificate-deployment"></a>Problembehandlung bei der Bereitstellung von Clientauthentifizierungszertifikaten
 
@@ -44,7 +43,7 @@ Die Lösung besteht darin, Internet Explorer als SYSTEM auszuführen und einen P
 
 **Benutzergeräte empfangen keine SCEP-Zertifikate mehr von NDES.**
 
-Es ist möglich, dass das Clientauthentifizierungszertifikat, das für den NDES-Server ausgestellt und während der NDES-Connectorinstallation angegeben wurde, abgelaufen oder nicht vorhanden ist. Problemlösung: 
+Es ist möglich, dass das Clientauthentifizierungszertifikat, das für den NDES-Server ausgestellt und während der NDES-Connectorinstallation angegeben wurde, abgelaufen oder nicht vorhanden ist. Gehen Sie zur Behebung folgendermaßen vor: 
  
 1. Deinstallieren Sie den NDES-Connector.  
 2. Verwenden Sie diese Details, um ein neues Clientauthentifizierungs- oder Serverauthentifizierungszertifikat anzufordern: 

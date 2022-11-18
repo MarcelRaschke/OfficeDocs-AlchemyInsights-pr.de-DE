@@ -1,23 +1,22 @@
 ---
 title: Fehlende Dateien/Ordner in SharePoint Online
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002302"
 - "4465"
-ms.openlocfilehash: 22dc27acae4297dc67620e2ab3977cf2ea2e592a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5df25afb0a344ee5aed1addd56c3cf09763c772
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667409"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66337425"
 ---
 # <a name="missing-filesfolders-in-sharepoint-online"></a>Fehlende Dateien/Ordner in SharePoint Online
 

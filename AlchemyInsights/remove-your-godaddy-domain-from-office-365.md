@@ -1,27 +1,27 @@
 ---
-title: Entfernen Ihrer GoDaddy-Domäne von Microsoft 365
-ms.author: pebaum
-author: CrystalThomasMS
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Entfernen Ihrer GoDaddy-Domäne aus Microsoft 365
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 32314f8a-aaec-4d01-9fd3-009bfdcecd12
+ms.localizationpriority: medium
 ms.custom:
 - "26"
 - "11"
-ms.openlocfilehash: c1891d3ce5e7605ec7c0dec8a249e922aff364ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 75ffb5e9615f30ab75070f4e57111513a403d3af
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701534"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66264807"
 ---
-# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Entfernen Ihrer GoDaddy-Domäne von Microsoft 365
+# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Entfernen Ihrer GoDaddy-Domäne aus Microsoft 365
 
-Ihre GoDaddy-Domäne kann nicht von Microsoft 365 für Sie entfernt werden. Rufen Sie den [GoDaddy-Kundendienst](https://aka.ms/contact-godaddy) um Hilfe an.
+Wir können Ihre GoDaddy-Domäne nicht für Sie aus Microsoft 365 entfernen. Rufen Sie den [GoDaddy-Kundendienst](https://aka.ms/contact-godaddy) an, um Hilfe zu benötigen.
   
-Wenn der Name der Organisation nicht "NETORG" enthält oder nicht von GoDaddy erworben wurde, entfernen Sie Ihre Domäne, indem Sie die folgenden Schritte [Entfernen einer Domäne von Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
+Wenn der Name der Organisation nicht "NETORG" enthält oder nicht bei GoDaddy erworben wurde, entfernen Sie Ihre Domäne, indem Sie die folgenden Schritte ausführen [: Entfernen Sie eine Domäne aus Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
   

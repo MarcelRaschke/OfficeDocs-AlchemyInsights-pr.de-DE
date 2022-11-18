@@ -3,22 +3,22 @@ title: 8000049 Skype-Symbol fehlt in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 8000049
-ms.openlocfilehash: 6ff0c00245c8f6121b688e306fd56179f6cdf862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: ccd5bb4d9c9236e35bcfc301e9d00db004ebd573
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802236"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66285742"
 ---
 # <a name="skype-icon-missing"></a>Skype-Symbol fehlt
 
-Wir haben das Skype-Symbol aus Outlook.com vorübergehend als Teil einer Entwurfs Aktualisierung und eines Feature-Updates entfernt, die wir freuen uns darauf, dass Sie bereit sind. Wir freuen uns über Ihre Geduld, während wir eine neue und verbesserte Erfahrung für Sie vorbereiten.
+Wir haben das Skype-Symbol vorübergehend aus Outlook.com im Rahmen einer Designaktualisierung und eines Funktionsupdates entfernt, das wir gerne einführen werden. Wir schätzen Ihre Geduld, während wir eine neue und verbesserte Erfahrung für Sie vorbereiten.
 
-Sie können Skype weiterhin über Ihren Browser unter [Web.Skype.com](https://web.skype.com)verwenden.
+Sie können Skype weiterhin über Ihren Browser unter [web.skype.com](https://web.skype.com) verwenden.

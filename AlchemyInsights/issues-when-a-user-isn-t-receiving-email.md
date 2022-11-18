@@ -1,24 +1,23 @@
 ---
-title: 321 Probleme, wenn ein Benutzer keine e-Mails empfängt
+title: 321 Probleme, wenn ein Benutzer keine E-Mails empfängt
 ms.author: chrisda
 author: chrisda
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: dansimp
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: 321
-ms.assetid: 2a1f6f67-d69f-4cbf-b0f2-5f10998b5ba1
-ms.openlocfilehash: b0534c8eef97c1e2ba3a92a243b089905a395fd4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: bcf34fea39c837bca8afe2f38c09877a8a289964
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769866"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66352623"
 ---
-# <a name="a-user-isnt-receiving-email-messages"></a>Ein Benutzer empfängt keine e-Mail-Nachrichten
+# <a name="a-user-isnt-receiving-email-messages"></a>Ein Benutzer empfängt keine E-Mail-Nachrichten
 
-Es sieht so aus, als ob Sie ein Nachrichtenflussproblem haben. Wir verfügen über eine Diagnose, mit der viele häufige Probleme beim Nachrichtenfluss identifiziert werden können. Klicken Sie unten auf **Diagnose ausführen** .
+Es sieht so aus, als hätten Sie ein Problem mit dem Nachrichtenfluss. Wir verfügen über Diagnosen, die dazu beitragen, viele häufige Probleme mit dem Nachrichtenfluss zu identifizieren. Klicken Sie unten auf **Diagnose ausführen** .
  

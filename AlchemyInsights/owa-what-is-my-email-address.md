@@ -1,26 +1,26 @@
 ---
-title: Was ist meine e-Mail-Adresse in Outlook im Internet
+title: Was ist meine E-Mail-Adresse in Outlook im Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 235e84dc70aff078aa5413dd3e1ef38c86e17d60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: e03f1ccf5419fc5f93f854bba7748115f08ed270
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665825"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66599719"
 ---
-# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Wie lautet meine e-Mail-Adresse in Outlook im Internet?
+# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Was ist meine E-Mail-Adresse in Outlook im Web?
 
-Ihre e-Mail-Adresse wird Ihnen von ihrer Arbeit oder Schule zugewiesen. Es sieht wie Ellen@contoso.onmicrosoft.com, Ellen@contoso.edu oder Ellen@contoso.com aus. Dieses Arbeits-oder Schulkonto ist die e-Mail-Adresse und das Konto, das Sie verwenden, um sich bei Microsoft 365 für Arbeit oder Schule anzumelden.
+Ihre E-Mail-Adresse wird Ihnen von Ihrem Unternehmen oder Ihrer Schule zugewiesen. Es sieht wie ellen@contoso.onmicrosoft.com, ellen@contoso.edu oder ellen@contoso.com aus. Dieses Geschäfts-, Schul- oder Unikonto ist die E-Mail-Adresse und das Konto, mit dem Sie sich bei Microsoft 365 für Geschäfts-, Schul- oder Unikonten anmelden.
 
-Ihr geschäftliches oder Schulkonto unterscheidet sich von Ihrem Microsoft-Konto. Sie verwenden Ihr Microsoft-Konto für persönliche Dienste wie Outlook.com, Xbox Live, Skype und vieles mehr.
+Ihr Geschäfts-, Schul- oder Unikonto unterscheidet sich von Ihrem Microsoft-Konto. Sie verwenden Ihr Microsoft-Konto für persönliche Dienste wie Outlook.com, Xbox Live, Skype und mehr.
 
-Weitere Informationen finden Sie unter [Was ist meine Benutzer-ID, und Warum benötige ich Sie für Microsoft 365 for Business?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
+Weitere Informationen finden Sie unter [Was ist meine Benutzer-ID und warum benötige ich sie für Microsoft 365 Business?](https://support.microsoft.com/office/what-is-my-user-id-and-why-do-i-need-it-for-office-365-for-business-37da662b-5da6-4b56-a091-2731b2ecc8b4)

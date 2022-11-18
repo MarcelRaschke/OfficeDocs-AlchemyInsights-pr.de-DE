@@ -3,22 +3,21 @@ title: Problem mit Sicherheitsgruppen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/09/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "8252"
 - "9004397"
-ms.openlocfilehash: 1198b79c3301bd2752a7385a6ba6746c8f0c2b5b
-ms.sourcegitcommit: 22eaf0a151ab95414476f596db8d318b6540ff31
+- "8252"
+ms.date: 02/09/2021
+ms.openlocfilehash: 77e9800f12ad785464d70eccc257b1120281bd5c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50162926"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66405040"
 ---
 # <a name="issue-with-security-groups"></a>Problem mit Sicherheitsgruppen
 

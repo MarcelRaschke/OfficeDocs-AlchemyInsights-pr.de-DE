@@ -1,26 +1,26 @@
 ---
-title: Microsoft 365 for Business-Pläne und-Preise
-ms.author: cmcatee
+title: Vergleichen von Microsoft 365 für Unternehmen
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+ms.author: cmcatee
+manager: scotv
+ms.reviewer: nalinkla, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "475"
+- commerce_purchase
 - "1500026"
-ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 9db0179b8f755cec931b6b630b038b2b05cc553b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "475"
+ms.date: 04/21/2020
+ms.openlocfilehash: 5d190650c613702c9e86682dca46ad115389b92b
+ms.sourcegitcommit: de17cf643683f8406831eecaf6299ace609f5599
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729726"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65733404"
 ---
-# <a name="compare-microsoft-365-for-business"></a>Vergleich von Microsoft 365 for Business
+# <a name="compare-microsoft-365-for-business"></a>Vergleichen von Microsoft 365 für Unternehmen
 
-Es gibt drei verschiedene Pläne, die mit Microsoft 365 for Business verfügbar sind. [Vergleichen Sie Microsoft 365 für Business-Pläne und-Preise](https://products.office.com/compare-all-microsoft-office-products?tab=2).  
+Es gibt verschiedene Pläne mit Microsoft 365 für Unternehmen. Informationen zu Features und Preisen finden Sie unter [Vergleichen von Microsoft 365 business-Plänen](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products).

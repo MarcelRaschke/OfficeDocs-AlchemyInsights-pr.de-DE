@@ -1,30 +1,29 @@
 ---
 title: Übertragen des Besitzes von Azure-Abrechnungen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 8a22628ceec1533e2e8b7ee8f9483d889a9c86c3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755546"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66329529"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Übertragen des Besitzes von Azure-Abrechnungen
 
 Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) als Administrator des Abrechnungskontos mit dem Abonnement an, das Sie übertragen möchten. Wenn Sie nicht genau wissen, ob Sie Administrator sind, oder wenn Sie ermitteln möchten, wer dies ist, lesen Sie [Ermitteln des Administrators des Abrechnungskontos](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
 1. Suchen Sie nach _Kostenverwaltung und Abrechnung_.
-1. Wählen Sie im linken Bereich **Abonnements** aus. Je nach Zugriff müssen Sie möglicherweise einen Abrechnungsumfang und dann **Abonnements** oder **Azure-Abonnements** auswählen.
+1. Wählen Sie im linken Bereich **Abonnements** aus. Je nach Zugriff müssen Sie möglicherweise einen Abrechnungsbereich und dann **Abonnements** oder **Azure-Abonnements** auswählen.
 1. Wählen Sie **Übertragen des Besitzes von Abrechnungen** für das Abonnement, das Sie übertragen möchten.
 1. Geben Sie die E-Mail-Adresse eines Benutzers ein, der ein Rechnungsadministrator des Kontos ist, das der neue Eigentümer für das Abonnement sein wird, und wählen Sie dann **Übertragungsanforderung** senden.
 1. Der Benutzer erhält eine E-Mail mit Anweisungen zur Überprüfung Ihrer Übertragungsanforderung. Um die Übertragungsanforderung zu genehmigen, wählt der Benutzer den Link in der E-Mail aus und folgt den Anweisungen.
@@ -33,9 +32,9 @@ Beachten Sie, dass durch das Übertragen des Besitzes von Abrechnungen Ihres Abo
 
 _**Wichtige Auswirkung auf Ihre Rechnungen**_: Wenn Sie den Rechnungsbesitz für ein Azure-Abonnement übertragen haben, werden Ihre Gebühren anteilig berechnet. Sie können auf die Rechnungen wie folgt zugreifen:  
 
-1. Wählen Sie auf der Seite  [Abonnements](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)  im Azure-Portal Ihr Abonnement als  [Benutzer mit Zugriff auf Rechnungen](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) und dann  **Rechnungen** aus.
-1. Klicken Sie auf  **Rechnung herunterladen** , um eine Kopie Ihrer PDF-Rechnung anzuzeigen. Wenn  _Nicht verfügbar_ angezeigt wird, lesen Sie  [Warum wird keine Rechnung für den letzten Abrechnungszeitraum angezeigt?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-1. Sie können auch die tägliche Nutzung durch Anklicken des **Abrechnungszeitraums** anzeigen, um eine PDF-Version Ihrer Rechnung sowie eine Kopie der Datei mit detaillierten täglichen Nutzungsdaten (CSV) zu erhalten. Weitere Informationen finden Sie unter  [Abrufen von Rechnungen und Nutzungsdaten](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
+1. Wählen Sie auf der Seite [Abonnements](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) im Azure-Portal Ihr Abonnement als [Benutzer mit Zugriff auf Rechnungen](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) und dann **Rechnungen** aus.
+1. Klicken Sie auf **Rechnung herunterladen**, um eine Kopie Ihrer PDF-Rechnung anzuzeigen. Wenn _Nicht verfügbar_ angezeigt wird, lesen Sie [Warum wird keine Rechnung für den letzten Abrechnungszeitraum angezeigt?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
+1. Sie können auch die tägliche Nutzung durch Anklicken des **Abrechnungszeitraums** anzeigen, um eine PDF-Version Ihrer Rechnung sowie eine Kopie der Datei mit detaillierten täglichen Nutzungsdaten (CSV) zu erhalten. Weitere Informationen finden Sie unter [Abrufen von Rechnungen und Nutzungsdaten](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Empfohlene Dokumente**
 

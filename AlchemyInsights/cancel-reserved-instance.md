@@ -1,28 +1,27 @@
 ---
 title: Reservierung stornieren
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 04875e33f07c6d0a4306b3579ef81f2d28c7f506
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: ca5811cb7f90227daed53cac81b22ee39b1ed0a0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791482"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66381477"
 ---
 # <a name="cancelling-reservation"></a>Reservierung stornieren
 
 - **Self-Service:** Sie können eine reservierte Instanz mithilfe von [Azure Portal-](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)selbst stornieren oder austauschen. Wählen Sie die Reservierung aus, und klicken Sie auf zurückerstatten oder austauschen. Bitte beachten Sie, dass Sie auf dem Reservierungsauftrag Inhaberzugriff haben müssen, um austauschen oder zurückerstatten zu können. Wenn Sie nur auf die Reservierung zugreifen, können Sie die Rückerstattung oder den Umtausch nicht fortsetzen. Bitten Sie den Besitzer des Reservierungsauftrags, Ihnen Inhaberzugriff auf den Reservierungsauftrag zu erteilen.
-- **Exchange-Richtlinie:** Sie können eine Reservierung für eine andere Reservierung desselben Typs tauschen – es gibt **kein Bußgeld** bei Reservierungsaustausch. Die Gesamtverpflichtung mit neuer Buchung sollte höher sein als die Summe der Erstattungsbeträge der ausgetauschten Reservationen und der künftigen monatlichen Zahlungen (sofern zutreffend).
+- **Exchange-Richtlinie:** Sie können eine Reservierung für eine andere Reservierung desselben Typs tauschen – es gibt **kein Bußgeld** bei Reservierungsaustausch. Die Gesamtverpflichtung bei einer neuen Reservierung sollte größer sein als die Summe aus dem Erstattungsbetrag der umgetauschten Reservierung und den zukünftigen monatlichen Zahlungen (falls zutreffend).
 - **Erstattungsrichtlinie:** Summe der Erstattung und der annullierten künftigen Zahlungen dürfen in einem laufenden 12-monatigen Fenster $50.000 USD nicht überschreiten. Wir **berechnen aktuell kein Bußgeld** für Erstattungen, aber könnten sie für zukünftige Erstattungen berechnen.  
     **Ausnahmen:** Self-Service-Umtausch- und Stornierungsmöglichkeit sind für Kunden in US-Behörden nicht verfügbar
 - **API / PS / CLI** Support steht nicht für Stornierung und Rückerstattungen zur Verfügung [Self-Service-Umtausche und Erstattungen für Azure-Reservierungen](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
@@ -61,9 +60,9 @@ Beispiel für die Vorabreservierung:
 
 - Sie kaufen einen RI-Jahreszeitraum für $10 pro Monat
 - Am 7. April möchten Sie diese Reservierung zurückerstatten oder austauschen.
-- Seit der letzten Zahlung 7 Tage, erhalten Sie (1-7/31) * $10 zurück. (d. h. $7,74).
+- Seit der letzten Zahlung sind 7 Tage vergangen, Sie erhalten (1-7/31) * $10 zurück. (D. h. $7,74)
 - Die zukünftig stornierten Zahlungen sind $80. Derzeit gibt es kein Bußgeld für Erstattungen
-- Bei dieser Kündigung wird $87,74 von Ihrem $50.000-Erstattungslimit abgezogen.
+- Durch diese Stornierung werden 87,74 $ von Ihrem Erstattungslimit von 50.000 $ abgezogen
 - Bei einem Umtausch sollte Ihr neuer Kauf größer als $87,74 sein
 
 **Empfohlene Dokumente**

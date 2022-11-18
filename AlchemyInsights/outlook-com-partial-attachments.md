@@ -1,24 +1,24 @@
 ---
-title: Vorschau aller Anlagen in Outlook.com kann nicht angezeigt werden
+title: Eine Vorschau aller Anlagen in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9000576"
 - "2431"
-ms.openlocfilehash: 8e8c2535e0fe4f71f0a3115601bd336de6f5a12e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 0a4d32d56b412627f28a677c3d49afcf8502c81c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799347"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66293950"
 ---
-# <a name="cant-preview-all-of-an-attachment"></a>Gesamte Anlage kann nicht in der Vorschau angezeigt werden
+# <a name="cant-preview-all-of-an-attachment"></a>Eine Vorschau einer Anlage kann nicht in der Vorschau angezeigt werden.
 
-Wir sind uns eines Problems bewusst, bei dem einige Kunden keine Vorschau aller Anlagen anzeigen können. Sie können das Problem umgehen, indem Sie die Anlage in einem neuen Fenster öffnen.
+Uns ist ein Problem bekannt, bei dem einige Kunden nicht die gesamte Anlage in der Vorschau anzeigen können. Als Problemumgehung öffnen Sie die Anlage in einem neuen Fenster.

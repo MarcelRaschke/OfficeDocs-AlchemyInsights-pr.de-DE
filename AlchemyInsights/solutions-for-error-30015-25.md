@@ -1,38 +1,36 @@
 ---
 title: Lösungen für Fehler 30015-25
-ms.author: janellem
-author: janellem
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "830"
 - "2000020"
-ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
-ms.openlocfilehash: cb5836189a011ce67941329cbdbcf8fc2a6c4734
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "830"
+ms.date: 04/21/2020
+ms.openlocfilehash: bb246bb08cb13285c7636bc24dcae1d5d1551aa8
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691322"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66600295"
 ---
 # <a name="solutions-for-error-30015-25"></a>Lösungen für Fehler 30015-25
 
-Versuchen Sie es mit diesen Lösungen, um den Fehler [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)zu beheben:
+Versuchen Sie folgende Lösungen, um Fehler [30015-25](https://support.microsoft.com/office/fix-office-installation-errors-d5df89a9-0507-4b4c-92f9-22f457e630aa) zu beheben:
   
-- Starten Sie Ihren Computer neu, und [Installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Starten Sie Ihren Computer neu, und versuchen Sie [, Office zu installieren](https://portal.office.com/OLS/MySoftware.aspx).
 
 - Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) herunter, und installieren Sie ihn.
 
-1. Wenn es geöffnet wird, wählen Sie unter **Office-Produkte deinstallieren** die Version aus, die Sie deinstallieren möchten, und wählen Sie **weiter**aus.
+1. Wenn es geöffnet wird, wählen Sie aus **"Office-Produkte deinstallieren** " die Version aus, die Sie deinstallieren möchten, und wählen Sie **"Weiter**" aus.
 
 2. Klicken Sie sich durch die Bildschirme, und starten Sie Ihren Computer bei entsprechender Aufforderung neu.
 
-    Nach dem Neustart wird der Support-und Wiederherstellungs-Assistent automatisch erneut geöffnet, um den Deinstallationsvorgang abzuschließen.
+    Nach dem Neustart wird der Support- und Wiederherstellungs-Assistent automatisch erneut geöffnet, um den Deinstallationsvorgang abzuschließen.
 
-3. Befolgten verbleibenden Eingabeaufforderungen, und [Installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx) oder schließen Sie den Assistenten.
+3. Folgen Sie den verbleibenden Eingabeaufforderungen, und [installieren Sie Office erneut](https://portal.office.com/OLS/MySoftware.aspx) , oder schließen Sie den Assistenten.

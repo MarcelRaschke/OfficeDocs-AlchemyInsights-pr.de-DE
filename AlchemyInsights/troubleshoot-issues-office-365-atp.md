@@ -1,31 +1,34 @@
 ---
-title: Behandeln von Problemen mit Microsoft Defender für Office 365 (ATP)
-ms.author: deniseb
-author: denisebmsft
-manager: laurawi
-ms.date: 04/21/2020
-ms.audience: Admin
+title: Behandeln von Problemen mit Microsoft Defender for Office 365
+ms.author: chrisda
+author: chrisda
+manager: dansimp
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Admin_O365
+ms.localizationpriority: medium
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.date: 04/21/2020
+ms.openlocfilehash: 8cdcb78eaacba6d888ddbca27afe56bb3e571e52
+ms.sourcegitcommit: de048ec631aaa5712637a76a2d1e2c2d18fac720
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801406"
+ms.lasthandoff: 08/30/2022
+ms.locfileid: "67462020"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Behandeln von Problemen mit Office 365 ATP
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Behandeln von Problemen mit Microsoft Defender for Office 365
 
-- **Beachten Sie Verzögerungen bei der Zustellung von e-Mail-Nachrichten** Versuchen Sie, die dynamische Zustellungsoption für Ihre Richtlinien für ATP-sichere Anlagen zu verwenden. Dadurch werden Verzögerungen bei der Zustellung von e-Mails vermieden, während Empfänger vor bösartigen Dateien geschützt werden.
-- **Möchten Sie falsch positive Ergebnisse oder falsch negative Meldungen melden** ? Über diesen Link können Sie Ihre Datei zur Analyse übermitteln: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Wussten Sie, dass Sie den Schutz für ATP-sichere Links für e-Mails aktivieren können, die zwischen Personen in Ihrer Organisation gesendet werden** ? Gehen Sie folgendermaßen vor:
-    1. Wechseln Sie zu https://protection.office.com , und melden Sie sich an.
-    2. Wechseln Sie **Threat management** zu  >  **Policy**  >  **sichere Links** zu Threat Management Policy.
-    3. Bearbeiten (oder hinzufügen) einer Richtlinie unter **Richtlinien, die für bestimmte Empfänger gelten** .
-    4. Wählen Sie **sichere Links auf Nachrichten anwenden, die innerhalb der Organisation gesendet werden** .
-    5. Speichern Sie Ihre Richtlinie, und lassen Sie etwa 30 Minuten zu, bis sich Ihre Änderungen durch Ihr Rechenzentrum durchsetzen.
-- Weitere Hilfe zu ATP erhalten Sie unter [Microsoft Defender für Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+- **Bemerken Sie Verzögerungen bei der Zustellung von E-Mail-Nachrichten?** Erwägen Sie die Verwendung der [dynamischen Übermittlung](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#dynamic-delivery-in-safe-attachments-policies) in Ihren Richtlinien für sichere Anlagen. Mit dieser Aktion werden Verzögerungen bei der Zustellung von E-Mail-Nachrichten vermieden, während Empfänger vor schädlichen Dateien geschützt werden.
+- **Möchten Sie falsch positive oder falsch negative Ergebnisse melden?** Verwenden Sie die Seite **"Übermittlungen**" im Microsoft 365 Defender Portal unter <https://sip.security.microsoft.com/reportsubmission?viewid=admin>.
+- **Wussten Sie, dass Sie den Schutz sicherer Links für E-Mails aktivieren können, die zwischen Personen in Ihrer Organisation gesendet werden?** Gehen Sie folgendermaßen vor:
+  1. Wechseln Sie im Microsoft 365 Defender Portal unter <https://security.microsoft.com/>zu **Email & Richtlinien** für die Zusammenarbeit \> **& Richtlinien für sichere** **Links** für **Regelbedrohungen** \> \> im Abschnitt **"Richtlinien**". Oder wechseln Sie direkt zu <https://security.microsoft.com/safelinksv2>.
+  2. Führen Sie auf der Seite **"Sichere Links** " einen der folgenden Schritte aus:
+     - **Neu**: Klicken Sie auf **"Erstellen** ", und rufen Sie die Seite **"Schutzeinstellungen"** des Richtlinienerstellungs-Assistenten auf.
+     - **Ändern**: Wählen Sie eine vorhandene Richtlinie aus, indem Sie auf den Namen klicken. Führen Sie im daraufhin angezeigten Flyout "Details" den Abschnitt **"Schutzeinstellungen"** aus, und klicken Sie dann auf " **Schutzeinstellungen bearbeiten"**.
+  3. Konfigurieren Sie auf der Seite **"Schutzeinstellungen"** die folgenden Einstellungen:
+     - **Wählen Sie die Aktion für unbekannte potenziell böswillige URLs in Nachrichten** aus: Wählen Sie **"Ein**" aus.
+     - Wählen Sie **"Sichere Links auf E-Mail-Nachrichten anwenden" aus, die innerhalb der Organisation gesendet werden**.
+  4. Speichern Sie die Richtlinie, und lassen Sie bis zu 30 Minuten zeit, bis Ihre Änderungen angewendet werden.
+
+- Weitere Hilfe zu Microsoft Defender for Office 365 finden Sie [unter Microsoft Defender for Office 365 Sicherheitsübersicht](https://docs.microsoft.com/microsoft-365/security/office-365-security/overview).

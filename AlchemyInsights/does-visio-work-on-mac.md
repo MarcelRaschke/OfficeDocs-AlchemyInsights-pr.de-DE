@@ -1,27 +1,26 @@
 ---
 title: Funktioniert Visio auf einem Mac
-ms.author: janellem
-author: janellemcintosh-msft
-manager: eliree
-ms.date: 04/21/2020
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1799"
 - "9000201"
-ms.openlocfilehash: be1ebb680a99c1a91fa6c9a4272ec28786c87bda
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1799"
+ms.date: 04/21/2020
+ms.openlocfilehash: 2f7f881027f7805726c960afcdb52720a4a9e527
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678791"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66537434"
 ---
 # <a name="does-visio-work-on-a-mac"></a>Funktioniert Visio auf einem Mac?
 
-Es gibt keine Visio-Desktopanwendung für Mac. Solange dem Benutzer, der die APP benötigt, jedoch eine [Visio Online-Lizenz zugewiesen](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)ist, kann er [Diagramme in Visio Online in einem Webbrowser anzeigen, erstellen und bearbeiten](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) .
+Es gibt keine Visio-Desktopanwendung für Mac. Solange dem Benutzer, der die App benötigt, jedoch eine [Visio Online-Lizenz zugewiesen ist](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users), kann er [Diagramme in Visio Online in einem Webbrowser anzeigen, erstellen und bearbeiten](https://support.microsoft.com/office/view-create-and-edit-a-diagram-in-visio-for-the-web-06f04845-91b8-4e8f-881f-a43c970735fc) .
   
   

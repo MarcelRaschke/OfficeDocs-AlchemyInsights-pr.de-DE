@@ -3,22 +3,21 @@ title: TLS-Zertifikate
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7833"
 - "9004340"
-ms.openlocfilehash: 072334eedaf7b2b7ed24e6ae5f758870dbe17673
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+- "7833"
+ms.date: 01/25/2021
+ms.openlocfilehash: 7a9945d6f13e574a090f461e67abe85cbcb534df
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950717"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66290431"
 ---
 # <a name="tls-certificates"></a>TLS-Zertifikate
 

@@ -1,38 +1,38 @@
 ---
-title: Reaktivieren und Verwalten der Erneuerung
+title: Reaktivieren und Verwalten der Verlängerung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "349"
+- commerce_subscriptions
 - "1500012"
-ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: f2d3daba78f9f33bb17219b8987689d5992dcdbe
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+- "349"
+ms.date: 07/12/2022
+ms.openlocfilehash: 3d4df290337506e91f5420aee7d3657010753605
+ms.sourcegitcommit: 528f020a7e485d388f7506a8ea3a7a3ec8f3bcaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307053"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66756222"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Reaktivieren eines Abonnements und Verwalten der wiederkehrenden Abrechnung
 
-Sieht so aus, als ob Sie ein Abonnement haben, das abgelaufen ist. Wenn Sie ihn reaktivieren möchten, gehen Sie wie folgt vor.
+Es sieht so aus, als hätten Sie ein Abonnement, das abgelaufen ist. Wenn Sie es reaktivieren möchten, gehen Sie wie folgt vor.
   
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie reaktivieren möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) und dann **Dieses Abonnement reaktivieren** aus.
+2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement, das Sie reaktivieren möchten. Wählen Sie die drei Punkte (Weitere Aktionen) und dann **Dieses Abonnement reaktivieren** aus.
 3. Wählen Sie im Bereich **Dieses Abonnement reaktivieren** eine Zahlungsmethode aus der Dropdownliste aus, oder wählen Sie **Zahlungsmethode hinzufügen** aus.
 4. Klicken Sie auf **Speichern**.
 
-Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription).
+Weitere Informationen finden Sie unter [Reaktivieren Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-Sie können die **wiederholte Abrechnung** aktivieren oder deaktivieren, um eine monatliche oder jährliche Abrechnung zu verwalten.
+Um Ihre Abonnementabrechnung zu verwalten, können Sie die **wiederkehrende Abrechnung** aktivieren oder deaktivieren.
   
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie ändern möchten.

@@ -1,34 +1,32 @@
 ---
-title: 8000031 Fotos aus Dateien können nicht gelöscht werden
+title: 8000031 Fotos können nicht aus Dateien gelöscht werden
 ms.author: daeite
 author: daeite
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
+- "8000031"
 - "1178"
 - "1179"
-- "8000031"
-ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.date: 04/21/2020
+ms.openlocfilehash: 9e0c38dfec7b1ad2dd3b0a3c1091bab430fc44c0
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653359"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66589819"
 ---
-# <a name="unable-to-delete-photos-from-files"></a>Fotos konnten nicht aus Dateien gelöscht werden
+# <a name="unable-to-delete-photos-from-files"></a>Fotos können nicht aus Dateien gelöscht werden.
 
 So löschen Sie die Fotos aus Dateien in Outlook.com:
   
-1. Wechseln Sie zum Ordner **Posteingang** oder **Gesendete Elemente** , und löschen Sie die e-Mail-Nachricht, an die Sie angefügt sind.
+1. Wechseln Sie zu Ihrem **Ordner "Posteingang** " oder " **Gesendete Elemente** ", und löschen Sie die E-Mail-Nachricht, an die sie angefügt sind.
 
 2. Entfernen Sie die Elemente aus den **gelöschten Elementen**.
 
-Weitere Informationen finden Sie unter [Gewusst wie: Löschen von Dateien oder Fotos in Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Weitere Informationen finden Sie [unter "Löschen von Dateien oder Fotos in Outlook.com](https://support.microsoft.com/topic/how-to-delete-files-or-photos-in-outlook-com-bae0531f-040f-4c42-90b9-786ca718c16d)".
   

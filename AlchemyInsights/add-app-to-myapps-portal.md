@@ -3,22 +3,21 @@ title: Hinzufügen von Anwendungen zum Portal „Meine Apps“
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7857"
 - "9004350"
-ms.openlocfilehash: b8afb16394fca36c33fbc9b6ed793f0bc73cea1a
-ms.sourcegitcommit: 688642f4ebc0f1c335e954e780bb9ec8893e2f3f
+- "7857"
+ms.date: 01/15/2021
+ms.openlocfilehash: ca69082a98f4891fb29c6b7aac284ee4493b2709
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911583"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66278182"
 ---
 # <a name="adding-applications-to-the-myapps-portal"></a>Hinzufügen von Anwendungen zum Portal „Meine Apps“
 

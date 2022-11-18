@@ -1,22 +1,23 @@
 ---
-title: OSE-Freigabe Fehler in SharePoint und OneDrive
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+title: OSE-Freigabefehler in SharePoint und OneDrive
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1939"
 - "9000314"
-ms.openlocfilehash: dd053bbff803caaa35a56ed49cecef37b9ac7f17
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+- "1939"
+ms.openlocfilehash: 885c38833a072629239bbc368427326a3c063808
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668477"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66294562"
 ---
-# <a name="ose-sharing-errors"></a>OSE-Freigabe Fehler
+# <a name="ose-sharing-errors"></a>OSE-Freigabefehler
 
-Weitere Informationen zu ose-Fehlercodes finden Sie unter [Sharing Errors in SharePoint and OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Weitere Informationen zu OSE-Fehlercodes finden Sie [unter Freigabefehler in SharePoint und OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

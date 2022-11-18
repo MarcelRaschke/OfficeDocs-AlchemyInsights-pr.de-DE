@@ -1,31 +1,28 @@
 ---
-title: Öffnen einer SharePoint-Bibliothek im Datei-Explorer
-ms.author: toresing
-author: tomresing
+title: Öffnen einer SharePoint-Bibliothek in Explorer
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: b47bbec23a6e96559d5ed516b9470c36fa06335a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 0bcee9ef05c2f0b6c42b29f8adb595e6e9d21260
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729078"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66419998"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>Öffnen einer SharePoint-Bibliothek im Datei-Explorer
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>Öffnen einer SharePoint-Bibliothek in Explorer
 
-1. Navigieren Sie zur Bibliothek in Internet Explorer 10 oder Internet Explorer 11. 
+1. Navigieren Sie zu der Bibliothek in Internet Explorer 10 oder Internet Explorer 11. 
     
-2. Klicken Sie auf das Ansichtssymbol in der oberen rechten Ecke, und klicken Sie dann **im Datei-Explorer auf Ansicht**.
+2. Klicken Sie oben rechts auf das Symbol "Ansicht", und klicken Sie dann **in Explorer auf "Ansicht**".
     
-> [!NOTE]
-> Das Öffnen einer Bibliothek im Datei-Explorer ist praktisch, wenn Sie mehrere Dateien und Ordner einmal kopieren oder umlegen müssen, aber wenn Sie regelmäßig in der Bibliothek arbeiten möchten, empfehlen wir die Synchronisierung. Informationen zum Behandeln von Problemen, die im Datei-Explorer geöffnet werden, finden Sie unter [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Informationen zum Einrichten der Synchronisierung finden Sie unter [Synchronisieren von SharePoint-Dateien mit dem neuen OneDrive-synchronisierungsclient](https://go.microsoft.com/fwlink/?linkid=871666). 
+**Hinweis**: Das Öffnen einer Bibliothek in Explorer ist praktisch, wenn Sie mehrere Dateien und Ordner einmal kopieren oder verschieben müssen, aber wenn Sie regelmäßig in der Bibliothek arbeiten möchten, empfehlen wir, sie zu synchronisieren. Informationen zum Beheben von Problemen beim Öffnen in Explorer finden Sie [unter "Im Explorer öffnen"](https://go.microsoft.com/fwlink/?linkid=871665). Informationen zum Einrichten der Synchronisierung finden Sie unter [Synchronisieren von SharePoint-Dateien mit dem neuen OneDrive-Synchronisation-Client](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

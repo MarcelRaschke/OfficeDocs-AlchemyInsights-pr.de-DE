@@ -1,40 +1,39 @@
 ---
-title: E-Mail-Nachrichten in das Archivpostfach migrieren
+title: Verschieben von E-Mail-Nachrichten in das Archivpostfach
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1083"
 - "3100008"
-ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 61d0b1a58fff6655b745bb9d39e8384f0a543336
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1083"
+ms.date: 04/21/2020
+ms.openlocfilehash: 88b651fcda1fc59a4e5e5d25041bf9c00a210aee
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799779"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66431878"
 ---
-# <a name="move-email-to-the-archive-mailbox"></a>E-Mail-Nachricht in das Archivpostfach migrieren
+# <a name="move-email-to-the-archive-mailbox"></a>Verschieben von E-Mails in das Archivpostfach
 
-Wenn Sie möchten, dass automatisierte Prüfungen für die unten aufgeführten Einstellungen ausgeführt werden, wählen Sie die Schaltfläche Zurück <--oben auf dieser Seite aus, und geben Sie dann die e-Mail-Adresse des Benutzers ein, der Probleme beim Verschieben von e-Mails in das Archivpostfach hat.
+Wenn Sie möchten, dass wir automatisierte Prüfungen für die unten genannten Einstellungen durchführen, wählen Sie die Schaltfläche "Zurück" <- oben auf dieser Seite aus, und geben Sie dann die E-Mail-Adresse des Benutzers ein, der Probleme beim Verschieben von E-Mails in sein Archivpostfach hat.
 
-1. Stellen Sie sicher, dass ein **Archivpostfach** aktiviert wurde. Wenn dies nicht der Fall ist, verwenden Sie die Schritte in [diesem Artikel](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) , um das Archivpostfach zu aktivieren.
+1. Vergewissern Sie sich, dass ein **Archivpostfach** aktiviert wurde. Wenn nicht, verwenden Sie die Schritte in [diesem Artikel](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) , um das Archivpostfach zu aktivieren.
 
-2. Um Nachrichten automatisch in das Archivpostfach zu archivieren, muss ein Aufbewahrungs mit der Aktion **in Archiv** verlegen auf **automatisch auf gesamtes Postfach (Standard) angewendet**werden. Verwenden Sie die Schritte hier, um das Tag: [Archive default-Tag](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag)zu erstellen.
+2. Um Nachrichten automatisch im Archivpostfach zu archivieren, muss ein Aufbewahrungstag mit der Aktion **"In Archiv verschieben** " so festgelegt werden, dass es **automatisch auf das gesamte Postfachtag (Standardtag) angewendet** wird. Führen Sie die hier aufgeführten Schritte aus, um das Tag zu erstellen: [Standardtag archivieren](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. Fügen Sie als nächstes das **Archiv** -Tag zu ihrer Aufbewahrungsrichtlinie hinzu. Wählen Sie in der Exchange-Verwaltungskonsole die Option **Aufbewahrungsrichtlinien** > fügen Sie der Richtlinie > **Speichern**das **Element zum Archivieren** hinzu.
+3. Fügen Sie als Nächstes der Aufbewahrungsrichtlinie das **Archivtag** hinzu. Wählen Sie im Exchange Admin Center **die Option "Aufbewahrungsrichtlinien**" aus, > der Richtlinie > **Speichern** das **Tag "In Archiv verschieben**" hinzuzufügen.
 
-4. [Weisen Sie die Aufbewahrungsrichtlinie](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) nun dem Postfach des jeweiligen Benutzers zu. Dieselbe Richtlinie wird sowohl auf das **primäre** als auch auf das **Archiv** Postfach angewendet.
+4. [Weisen Sie nun die Aufbewahrungsrichtlinie](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) dem Postfach des jeweiligen Benutzers zu. Die gleiche Richtlinie wird sowohl auf das **primäre** postfach als auch auf das **Archivpostfach** angewendet.
 
-Es kann erforderlich sein, die Ausführung des Assistenten für verwaltete Ordner (MFA) zu erzwingen und die neuen Einstellungen auf das Postfach des Benutzers anzuwenden. Führen Sie den folgenden Befehl aus, während eine [Verbindung mit Exo PowerShell hergestellt](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) wurde, um den Assistenten für verwaltete Ordner für ein bestimmtes Postfach zu starten:
+Es kann erforderlich sein, die Ausführung des Assistenten für verwaltete Ordner (Managed Folder Assistant, MFA) zu erzwingen und die neuen Einstellungen auf das Postfach des Benutzers anzuwenden. Führen Sie den folgenden Befehl aus, während Sie [mit EXO PowerShell verbunden sind](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true) , um den Assistenten für verwaltete Ordner für ein bestimmtes Postfach zu starten:
   
-Start-ManagedFolderAssistant-Identity <name of the mailbox>
+`Start-ManagedFolderAssistant -Identity <name of the mailbox>`
 
-Weitere Informationen zum Einrichten einer Archivrichtlinie finden Sie unter [Einrichten einer Archiv-und Löschrichtlinie für Postfächer](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Weitere Informationen zum Einrichten einer Archivrichtlinie finden [Sie unter Einrichten einer Archiv- und Löschrichtlinie für Postfächer](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

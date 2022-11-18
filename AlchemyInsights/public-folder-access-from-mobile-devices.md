@@ -1,28 +1,27 @@
 ---
-title: Zugriff auf Öffentliche Ordner von mobilen Geräten
-ms.author: dmaguire
-author: msdmaguire
-manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Zugriff auf öffentliche Ordner von mobilen Geräten aus
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "634"
 - "3500007"
-ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
-ms.openlocfilehash: 8be6ae5faec7bf2703dcd4582c60e5d98d7f87af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "634"
+ms.date: 04/21/2020
+ms.openlocfilehash: caf9c8b8fcb669cfddfe45481c66f84f39434cd0
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768462"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66600691"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a>Zugriff auf Öffentliche Ordner von mobilen Geräten
+# <a name="public-folder-access-from-mobile-devices"></a>Zugriff auf öffentliche Ordner von mobilen Geräten aus
 
-Der Zugriff auf Öffentliche Ordner funktioniert nicht mit mobilen Geräten, bitte verwenden Sie OWA (Outlook im Internet) oder Outlook für Windows-Desktop oder Outlook für Mac Clients für den Zugriff auf Öffentliche Ordner.
+Der Zugriff auf öffentliche Ordner funktioniert nicht auf mobilen Geräten. Verwenden Sie OWA (Outlook im Web) oder Outlook für Windows Desktop oder Outlook für Mac Clients, um auf öffentliche Ordner zuzugreifen.
 
-Wenn Sie ähnliche Funktionen wie öffentliche Ordner haben möchten und Inhalte auf mobilen Geräten zugänglich sind, finden Sie weitere Informationen zu [Microsoft 365-Gruppen](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) für eine bessere Alternative.
+Wenn Sie ähnliche Funktionen wie öffentliche Ordner wünschen und auf mobilen Geräten auf Inhalte zugreifen können möchten, finden [Sie weitere Informationen zu Microsoft 365-Gruppen](https://support.microsoft.com/office/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2), um eine bessere Alternative zu erhalten.
   

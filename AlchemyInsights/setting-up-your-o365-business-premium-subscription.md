@@ -1,24 +1,24 @@
 ---
 title: Einrichten Ihres O365 Business Premium-Abonnements
-ms.author: pebaum
-author: CrystalThomasMS
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: a9192d32-8a5a-459d-808a-d18ce0e397da
+ms.localizationpriority: medium
 ms.custom:
-- "31"
 - "1600002"
-ms.openlocfilehash: 3b7728796c941e1190bb7447a6d4279ecd1b44a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "31"
+ms.openlocfilehash: 8f422fc6bd2474d23254ad7089da121fcd25f9cf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739752"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66362127"
 ---
 # <a name="setting-up-your-o365-business-premium-subscription"></a>Einrichten Ihres O365 Business Premium-Abonnements
 
-Wenn Sie Hilfe beim Einrichten Ihres Microsoft 365-Abonnements benötigen, führen Sie die Schritte in [diesem Artikel](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide&tabs=BusPremium) aus, um das Setup abgeschlossen zu erhalten.
+Wenn Sie Hilfe beim Einrichten Ihres Microsoft 365-Abonnements benötigen, führen Sie die Schritte in [diesem Artikel](https://docs.microsoft.com/microsoft-365/admin/setup/business-set-up) aus, um Ihr Setup fertig zu stellen.
   

@@ -3,22 +3,21 @@ title: So konfigurieren Sie die automatische Antwort für alle an die Microsoft 
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "8586"
 - "9003200"
-ms.openlocfilehash: c3c1d4e6b16b54d92771d7bdecdc9cb12bbf888c
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+- "8586"
+ms.date: 02/19/2021
+ms.openlocfilehash: cc08ab0e8cd7c2ff032cfa09bde750e1eeb7136d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430737"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66299800"
 ---
 # <a name="to-configure-auto-reply-for-all-emails-sent-to-microsoft-365-group"></a>So konfigurieren Sie die automatische Antwort für alle an die Microsoft 365-Gruppe gesendeten E-Mails
 
@@ -26,6 +25,5 @@ ms.locfileid: "50430737"
 
 `Set-MailboxAutoReplyConfiguration -Identity groupmailbox -AutoReplyState Enabled -InternalMessage "Internal auto-reply message." -ExternalMessage "External auto-reply message`
 
-> [!NOTE]
-> Ändern Sie **groupmailbox** in einen Gruppennamen, für den Sie die automatische Antwort konfigurieren möchten.
+**Hinweis**: Ändern Sie **groupmailbox** in einen Gruppennamen, für den Sie die automatische Antwort konfigurieren möchten.
 

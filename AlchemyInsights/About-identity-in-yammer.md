@@ -1,24 +1,23 @@
 ---
 title: Informationen zur Identität in Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/15/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6039"
 - "9003111"
-ms.openlocfilehash: f417117acac4c3040932fc0a35e5d0b1c3709cd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6039"
+ms.date: 07/15/2020
+ms.openlocfilehash: 612149bf7f4cfff128d6755d33c17a9b5cb8d28f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664169"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66304038"
 ---
 # <a name="about-identity-in-yammer"></a>Informationen zur Identität in Yammer
 

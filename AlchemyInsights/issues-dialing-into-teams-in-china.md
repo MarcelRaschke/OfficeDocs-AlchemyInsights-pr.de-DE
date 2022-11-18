@@ -1,24 +1,23 @@
 ---
 title: Probleme bei der Einwahl in Teams in China
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "3787"
 - "9001707"
-ms.openlocfilehash: 42064703c997cdbda007bc07734c7453a54cbf21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "3787"
+ms.date: 07/24/2020
+ms.openlocfilehash: f5207e33776eb93aa1dd7dcde0c23b54a8571891
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695540"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66404716"
 ---
 # <a name="issues-dialing-into-teams-in-china"></a>Probleme bei der Einwahl in Teams in China
 
@@ -26,5 +25,5 @@ Microsoft ist sich bewusst, dass einige Nutzer in der Region China Probleme bei 
 
 Wir empfehlen Folgendes, wenn Sie Probleme mit Audiokonferenzen haben:
 
--   Bitten Sie den Anrufer oder Besprechungsorganisator, Ihre Festnetz- oder Mobiltelefonnummer anzurufen.
--   Nehmen Sie an einem Anruf oder einer Besprechung vom Desktop oder von mobilen Clients aus mithilfe von VoIP teil.
+- Bitten Sie den Anrufer oder Besprechungsorganisator, Ihre Festnetz- oder Mobiltelefonnummer anzurufen.
+- Nehmen Sie an einem Anruf oder einer Besprechung vom Desktop oder von mobilen Clients aus mithilfe von VoIP teil.

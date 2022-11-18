@@ -1,31 +1,30 @@
 ---
 title: Fragen zur Verwendung des Office-Bereitstellungstools (ODT)
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: c5b055989014b464d3136895702c8ea40e8eb701
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.localizationpriority: medium
+ms.date: 04/21/2020
+ms.openlocfilehash: 8d6a16a908c99814936fe42f8c56ce7acdd3cc7b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086155"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66362739"
 ---
 # <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Fragen zur Verwendung des Office-Bereitstellungstools (ODT)
 
 Laden Sie das Office-Bereitstellungstool aus dem [Microsoft Download Center herunter](https://go.microsoft.com/fwlink/p/?LinkID=626065).
   
-Führen Sie nach dem Herunterladen der Datei die selbstextrahierende ausführbare Datei aus, die die ausführbare Datei des Office-Bereitstellungstools (setupodt.exe) und eine Beispielkonfigurationsdatei (configuration.xml) enthält.
+Führen Sie nach dem Download die selbst entpackende ausführbare Datei aus, die die ausführbare Datei (setup.exe) und eine Beispielkonfigurationsdatei (configuration.xml) für das Office-Bereitstellungstool enthält.
   
- **So schließen Sie Microsoft 365-Apps für Enterprise-Produkte von Clientcomputern aus oder entfernen Sie:**
+ **So schließen Sie Microsoft 365 Apps for Enterprise Produkte von Clientcomputern aus oder entfernen sie:**
   
-Bei der Installation von Microsoft 365-Apps für Enterprise können Sie bestimmte Produkte ausschließen. Führen Sie dazu die Schritte für die Installation von Office mit dem ODT aus, fügen Sie jedoch das ExcludeApp-Element in der Konfigurationsdatei hinzu. In dieser Konfigurationsdatei werden beispielsweise alle Microsoft 365-Apps für Enterprise-Produkte mit Ausnahme von Publisher installiert:
+Bei der Installation von Microsoft 365 Apps for Enterprise können Sie bestimmte Produkte ausschließen. Führen Sie dazu die Schritte für die Installation von Office mit dem ODT aus, fügen Sie jedoch das ExcludeApp-Element in der Konfigurationsdatei hinzu. Mit dieser Konfigurationsdatei werden beispielsweise alle Microsoft 365 Apps for Enterprise Produkte mit Ausnahme von Publisher installiert:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">

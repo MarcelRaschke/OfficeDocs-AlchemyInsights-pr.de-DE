@@ -1,35 +1,33 @@
 ---
-title: Überprüfen des Aad-Identitäts Synchronisierungs Status
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+title: Überprüfen des AAD-Identitätssynchronisierungsstatus
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "304"
 - "1300008"
-ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: e06eab76adcdb2b99b8aaa738f677950fa1af16b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "304"
+ms.date: 04/21/2020
+ms.openlocfilehash: 630eefffa842bcaaa044e92c0925edf6af6eee37
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793901"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66327873"
 ---
-# <a name="check-aad-identity-sync-status"></a>Überprüfen des Aad-Identitäts Synchronisierungsstatus
+# <a name="check-aad-identity-sync-status"></a>Überprüfen des AAD-Identitätssynchronisierungsstatus
 
-Die Überprüfung des Synchronisierungsstatus ist einfach:
+Das Überprüfen des Synchronisierungsstatus ist einfach:
   
-- Melden Sie sich beim Microsoft 365 Admin Center an, und wählen Sie auf der Startseite **Dirsync-Status** aus.
+- Melden Sie sich beim Microsoft 365 Admin Center an, und wählen Sie auf der Startseite **"DirSync-Status**" aus.
 
-- Alternativ können Sie zu "Benutzer aktive Benutzer" wechseln \> und auf der Seite "aktive Benutzer" Weitere \> Verzeichnis Synchronisierungen auswählen.
+- Alternativ können Sie zu "Aktive **Benutzer**\>" wechseln und auf der Seite "Aktive [**Benutzer**](https://admin.microsoft.com/AdminPortal/Home?ref=users)" die Option "Weitere \> Verzeichnissynchronisierung" auswählen.
 
-- Wählen Sie im Bereich Verzeichnissynchronisierung die Option zu Dirsync-Verwaltung wechseln aus.
+- Wählen Sie im Bereich "Verzeichnissynchronisierung" die Option "Zur DirSync-Verwaltung wechseln" aus.
 
-Wenn ein Problem mit der Verzeichnissynchronisierung vorliegt, werden die Fehler auf dieser Seite aufgeführt. Weitere Informationen zu unterschiedlichen Fehlern, die auftreten können, finden Sie unter [Anzeigen von Verzeichnis Synchronisierungsfehlern](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
+Wenn ein Problem mit der Verzeichnissynchronisierung vorliegt, werden die Fehler auf dieser Seite aufgeführt. Weitere Informationen zu verschiedenen Fehlern, die auftreten können, finden Sie unter ["Verzeichnissynchronisierungsfehler anzeigen"](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

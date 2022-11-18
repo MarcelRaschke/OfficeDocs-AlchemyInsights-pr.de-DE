@@ -1,27 +1,28 @@
 ---
-title: ﻿Kostenlose Office 365 Bildung
+title: Office 365 Education kostenlos
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: ITPro
+manager: scotv
+ms.reviewer: mijeffer, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1426"
+- commerce_subscriptions
 - "1500009"
-ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
-ms.openlocfilehash: 3769774271ac88d359071e8ea741f2a0faa4dc7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1426"
+ms.date: 04/21/2020
+ms.openlocfilehash: e208c83ffa10563e28f1b21ad1d29de871f0c83a
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729942"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66156169"
 ---
-# <a name="office-365-education-for-free"></a>﻿Kostenlose Office 365 Bildung
+# <a name="office-365-education-for-free"></a>Office 365 Education kostenlos
 
-[﻿Kostenlose Office 365 Bildung](https://products.office.com/student/office-in-education?ms.officeurl=students)
+[Office 365 Education kostenlos](https://products.office.com/student/office-in-education?ms.officeurl=students)
   
-Es handelt sich nicht um eine Testversion! Studierende und Lehrer sind für Office 365 Bildung berechtigt, einschließlich Word-, Excel-, PowerPoint-, OneNote-und now Microsoft Teams sowie zusätzlicher Schulungsraum Tools.
+Es ist keine Testversion! Kursteilnehmer und Lehrkräfte sind für Office 365 Education berechtigt, einschließlich Word, Excel, PowerPoint, OneNote und jetzt Microsoft Teams sowie zusätzlicher Unterrichtstools.

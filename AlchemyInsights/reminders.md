@@ -1,25 +1,24 @@
 ---
 title: Erinnerungen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "3415"
 - "9001434"
-ms.openlocfilehash: 04380315483f59fc0a1fb59aae3356abac32880c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "3415"
+ms.openlocfilehash: 32ac735e560b210e66890d229508d221bb852d87
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693698"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66418699"
 ---
-# <a name="cannot-dismiss-reminders"></a>Erinnerungen können nicht verwerfen werden
+# <a name="cannot-dismiss-reminders"></a>Erinnerungen können nicht ausgeblendet werden.
 
-Informationen dazu, was Sie tun müssen, wenn Sie Kalendererinnerungen nicht zurückweisen können, finden Sie unter [Sie können Kalendererinnerungen in Outlook nicht erfolgreich kündigen](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders).
+Informationen dazu, was sie tun können, wenn Sie Kalendererinnerungen nicht schließen können, finden [Sie unter "Sie können Kalendererinnerungen in Outlook nicht erfolgreich schließen](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders)".
 

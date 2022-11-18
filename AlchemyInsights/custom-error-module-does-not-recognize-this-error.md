@@ -1,24 +1,23 @@
 ---
-title: Beim Abruf eines benutzerdefinierten Fehler Moduls wird dieser Fehler beim Herunterladen einer Nachrichtenablaufverfolgung nicht erkannt?
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Beim Abrufen eines benutzerdefinierten Fehlermoduls wird dieser Fehler beim Herunterladen einer Nachrichtenablaufverfolgung nicht erkannt?
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: 3d60a36cea90a78a31263ad78a72855c274e8e08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d49df5b55b49c6c53333a41ab65ad0c4fd7c3bcb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731958"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66259786"
 ---
-# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Beim Herunterladen einer Nachrichtenablaufverfolgung wird dieser Fehler vom "Custom Error Module" nicht erkannt?
+# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>"Benutzerdefiniertes Fehlermodul erkennt diesen Fehler nicht" beim Herunterladen einer Nachrichtenablaufverfolgung?
 
-Wir sind uns des Problems bewusst und arbeiten an einer Korrektur.  Versuchen Sie in der Zwischenzeit, den **Browsercache zu löschen**oder den InPrivate-Modus zu verwenden, um dieses Problem zu beheben.
+Wir sind uns des Problems bewusst und arbeiten an einer Lösung.  Versuchen Sie in der Zwischenzeit, **den Browsercache zu löschen**, oder verwenden Sie den InPrivate-Modus, um dieses Problem zu beheben.

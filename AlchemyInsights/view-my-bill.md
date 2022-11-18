@@ -2,30 +2,29 @@
 title: Anzeigen meiner Rechnung
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.audience: Admin
+manager: scotv
+ms.reviewer: amberb, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "437"
+- commerce_billing
 - "1500005"
-ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 05df0632b94862e96b21f6c68c0dde392e7b0cdc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "437"
+ms.date: 08/10/2021
+ms.openlocfilehash: 2dfe132a72211d9c3e9ae508f5a715f8f0772a68
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796467"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66155629"
 ---
 # <a name="view-my-bill-or-invoice"></a>Anzeigen meiner Rechnung
 
-1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Billing** \> [Bills & Zahlungen](https://go.microsoft.com/fwlink/p/?linkid=848039) .
-
+1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **"**[Abrechnungsrechnungen](https://admin.microsoft.com/AdminPortal/Home?ref=billoverview/invoice-list) \> & Zahlungen".
 2. Wählen Sie einen Datumsbereich aus der Dropdown-Liste aus und wählen Sie dann die Reihenfolge aus, die Sie anzeigen möchten.
-
-3. Laden Sie die Rechnung als PDF-Datei herunter, und klicken Sie auf **Drucken**, um die Rechnung zu drucken.
+3. Um die Rechnung zu drucken, laden Sie die Rechnung als PDF-Datei herunter, und klicken Sie auf **"Drucken**".
 
 Weitere Informationen finden Sie unter [Anzeigen Ihrer Rechnung](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).

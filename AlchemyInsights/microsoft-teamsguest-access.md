@@ -1,30 +1,31 @@
 ---
 title: Microsoft Teams – Gastzugriff
-ms.author: heidip
-author: microsoftheidi
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "2679"
 - "6500001"
-ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 83739b66057dd25ef9c95a138598e61db4f221bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "2679"
+ms.openlocfilehash: 00ec61b028182a8f6046ebccfa56f2b8c5c962a1
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777639"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66570253"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams – Gastzugriff
 
-Benötigen Sie Hilfe beim Aktivieren und Einrichten der Funktion "Gastzugriff" in Microsoft Teams?  
+Benötigen Sie Hilfe beim Aktivieren und Einrichten der Gastzugriffsfunktion in Microsoft Teams?  
 
-Stellen Sie zunächst sicher, dass Sie alle Schritte in der [Prüfliste für den Gastzugriff](https://docs.microsoft.com/microsoftteams/guest-access-checklist)befolgt haben. Nachdem alle diese Schritte abgeschlossen sind, müssen Sie [bis zu 24 Stunden warten](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , bis die Einstellungen wirksam werden.
+Stellen Sie zunächst sicher, dass Sie alle Schritte in der [Checkliste für den Gastzugriff](https://docs.microsoft.com/microsoftteams/guest-access-checklist) ausgeführt haben. Sobald alle diese Schritte abgeschlossen sind, müssen Sie [bis zu 24 Stunden warten](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , bis die Einstellungen wirksam werden.
 
-Wenn Sie sicher sind, dass Sie alle Schritte in der Prüfliste abgeschlossen haben, und es sich um mehr als 24 Stunden handelt, gehen Sie vor und versuchen Sie, [einen Gast zu Ihrem Team hinzuzufügen](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Wenn Sie sicher sind, dass Sie alle Schritte in der Checkliste abgeschlossen haben und es mehr als 24 Stunden war, fahren Sie fort, und versuchen Sie, [einen Gast zu Ihrem Team hinzuzufügen](https://support.microsoft.com/office/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f).
 
-Weitere Informationen, einschließlich Gewusst-wie-Videos, finden Sie unter [Gastzugriff in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
+Weitere Informationen, einschließlich Anleitungsvideos, finden [Sie unter Gastzugriff in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
+
+Eine schrittweise Anleitung, einschließlich Informationen zum Einrichten des Gastzugriffs, finden Sie im [Teams-Setuphandbuch](https://go.microsoft.com/fwlink/?linkid=2196202).

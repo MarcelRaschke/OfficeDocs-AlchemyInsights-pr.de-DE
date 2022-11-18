@@ -1,23 +1,22 @@
 ---
 title: Microsoft 365-Gruppen, die mit einer Vertraulichkeitsbezeichnung versehen sind
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: 6875076da9d1984d94cd65c9cf1e582c9e5e7e8f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b571c2b000236be4f37e35ccf206bc921815db6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803064"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66256582"
 ---
 # <a name="microsoft-365-groups-showing-sensitivity-label"></a>Microsoft 365-Gruppen, die mit einer Vertraulichkeitsbezeichnung versehen sind
 

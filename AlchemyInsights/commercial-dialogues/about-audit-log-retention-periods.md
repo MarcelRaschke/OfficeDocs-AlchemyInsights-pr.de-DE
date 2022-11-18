@@ -3,32 +3,31 @@ title: Informationen zu Aufbewahrungszeiträumen für Überwachungsprotokolle
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 02/26/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5a8601bc7757e77882d8dab709e007a2f6df3b0c
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.date: 02/26/2021
+ms.openlocfilehash: b8e1ecd1c243aa1c79bf9345ad539c45b0539697
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464664"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66380397"
 ---
 # <a name="about-audit-logs-retention-periods"></a>Informationen zu Aufbewahrungszeiträumen für Überwachungsprotokolle
 
-Der Aufbewahrungszeitraum für Überwachungsprotokolle hängt vom Office 365-Abonnement Ihrer Organisation ab.
+Der Aufbewahrungszeitraum für Überwachungsprotokolle hängt vom Office 365 Abonnement Ihrer Organisation ab.
 
 - **Office 365 E3**: 90 Tage.
-- **Office 365 E5**: 365 Tage. Die Ein-Jahres-Aufbewahrung befindet sich derzeit in der Vorschau.
-- **E3- und Office 365 Advanced Compliance-Add-On**: 365 Tage. Die Ein-Jahres-Aufbewahrung befindet sich derzeit in der Vorschau.
-- Um sich beim Vorschauprogramm zu registrieren, senden Sie eine Anforderung beim Microsoft Support, und geben Sie folgendes als Beschreibung der Hilfe an: Private Vorschau des **langfristigen Office 365-Überwachungsprotokolls.**
-> [!NOTE]
-> Der Aufbewahrungszeitraum basiert auf der Benutzerlizenzierung. Wenn beispielsweise ein Benutzer in Ihrer Organisation über eine E3-Lizenz verfügt, werden die Überwachungsdatensätze für Aktivitäten, die von diesem Benutzer ausgeführt werden, für 90 Tage aufbewahrt. Wenn ein anderer Benutzer über eine E5-Lizenz verfügt, werden die Überwachungsdatensätze für ein Jahr aufbewahrt.
+- **Office 365 E5**: 365 Tage. Die Einjahresaufbewahrung befindet sich derzeit in der Vorschau.
+- **E3 und Office 365 Advanced Compliance-Add-On**: 365 Tage. Die Einjahresaufbewahrung befindet sich derzeit in der Vorschau.
+- Um sich für das Vorschauprogramm zu registrieren, stellen Sie eine Anforderung mit Microsoft-Support und geben Sie Folgendes als Beschreibung an, wozu Sie Hilfe benötigen: **Langfristige Office 365 private Vorschau des Überwachungsprotokolls**.
 
-Weitere Informationen finden Sie in diesen [Häufig gestellten Fragen](https://go.microsoft.com/fwlink/?linkid=2115336).
+**Hinweis**: Der Aufbewahrungszeitraum basiert auf der Lizenzierung pro Benutzer. Wenn beispielsweise ein Benutzer in Ihrer Organisation über eine E3-Lizenz verfügt, werden die Überwachungsdatensätze für von diesem Benutzer ausgeführte Aktivitäten 90 Tage lang aufbewahrt. Wenn ein anderer Benutzer über eine E5-Lizenz verfügt, werden seine Überwachungsdatensätze ein Jahr lang aufbewahrt.
+
+Weitere Informationen finden Sie in diesen [häufig gestellten Fragen](https://go.microsoft.com/fwlink/?linkid=2115336).

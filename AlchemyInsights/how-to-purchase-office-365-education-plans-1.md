@@ -1,28 +1,28 @@
 ---
-title: So erwerben Sie Office 365 Bildungspläne
+title: So kaufen Sie Office 365 Education-Pläne
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.reviewer: mijeffer, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "335"
+- commerce_purchase
 - "1500009"
-ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 88cbd28f81b699088a1985f31873427998435428
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "335"
+ms.date: 04/21/2020
+ms.openlocfilehash: b0ddc8794c60b9b876a354acc7d91ee7b14fdc16
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703515"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66154585"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>So erwerben Sie Office 365 Bildungspläne
+# <a name="how-to-purchase-office-365-education-plans"></a>So kaufen Sie Office 365 Education-Pläne
 
-Wir haben Ihre Anfrage überprüft und festgestellt, dass diese Organisation nicht als eine von Microsoft qualifizierte akademische Institution berechtigt ist. Ihre aktuellen akademischen Testangebote laufen am Ende des Testzeitraums ab.
+Wir haben Ihre Anfrage überprüft und festgestellt, dass diese Organisation nicht als microsoftqualifizierte akademische Einrichtung berechtigt ist. Ihre aktuellen Studienangebote laufen am Ende des Testzeitraums ab.
   
-Informationen zum Kauf von Microsoft 365 kommerziell finden Sie unter [Verfügbare Angebote](https://go.microsoft.com/fwlink/p/?linkid=868433).  
+Um Microsoft 365 kommerziell zu kaufen, sehen Sie sich die [verfügbaren Angebote](https://go.microsoft.com/fwlink/p/?linkid=868433) an.

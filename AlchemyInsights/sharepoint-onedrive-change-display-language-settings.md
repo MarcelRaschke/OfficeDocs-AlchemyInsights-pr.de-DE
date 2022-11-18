@@ -1,29 +1,29 @@
 ---
-title: Ändern der standardmäßigen Website Sprache in SharePoint oder OneDrive
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Ändern der Standardwebsitesprache in SharePoint oder OneDrive
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
+ms.localizationpriority: medium
 ms.custom:
 - "9000298"
 - "1924"
-ms.openlocfilehash: a8c6fdd8790ec5b50c36c910448e0e1580902caf
-ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
+ms.date: 04/21/2020
+ms.openlocfilehash: db802a31d8753dba6e9007ada2af7b303c94954c
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49002592"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66600475"
 ---
-# <a name="change-the-default-site-language-in-sharepoint-or-onedrive"></a>Ändern der standardmäßigen Website Sprache in SharePoint oder OneDrive 
+# <a name="change-the-default-site-language-in-sharepoint-or-onedrive"></a>Ändern der Standardwebsitesprache in SharePoint oder OneDrive 
 
-Sie können die standardmäßige Website Sprache für SharePoint oder OneDrive nicht ändern, **nachdem die Website erstellt** wurde. Sie können jedoch Ihre persönlichen Anzeige Spracheinstellungen ändern.
+Sie können die Standardwebsitesprache für SharePoint oder OneDrive nicht ändern **, nachdem die Website erstellt wurde**. Sie können jedoch Ihre persönlichen Anzeigespracheneinstellungen ändern.
 
-Informationen zum Ändern Ihrer persönlichen Einstellungen finden Sie unter [Ändern der persönlichen sprach-und Regionseinstellungen](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
+Informationen zum Ändern Ihrer persönlichen Einstellungen finden [Sie unter "Ändern der Einstellungen für Ihre persönliche Sprache und Region"](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
 
-Informationen zum Ändern der Website-Benutzeroberfläche finden Sie unter [Auswählen der Sprachen, die für die Benutzeroberfläche einer Website verfügbar gemacht werden sollen](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8).
+Informationen zum Ändern der Benutzeroberfläche einer Website finden [Sie unter Auswählen der Sprachen, die Sie für die Benutzeroberfläche einer Website verfügbar machen möchten](https://support.microsoft.com/office/choose-the-languages-for-a-sharepoint-site-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8).
 

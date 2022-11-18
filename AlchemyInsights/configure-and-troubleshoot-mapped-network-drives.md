@@ -1,26 +1,25 @@
 ---
 title: Konfigurieren und Beheben von Problemen mit zugeordneten Laufwerken
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "5300002"
 - "3180"
-ms.openlocfilehash: 48fc45ea6a307e6eb6468b04b0b19889c4aaa01c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6be2acaaed0bccece0b07245ca67d2992127663c
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812186"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66538802"
 ---
 # <a name="configure-and-troubleshoot-mapped-network-drives"></a>Konfigurieren und Beheben von Problemen mit zugeordneten Laufwerken
 
-Das Zuordnen einer Bibliothek als Netzlaufwerk ist temporär und wird nur über Internet Explorer unterstützt. Stattdessen [SharePoint-Dateien mit dem neuen OneDrive-Synchronisierungsclient synchronisieren](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88), der [Dateien auf Anforderung](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e) bereitstellt. Greifen Sie auf alle Ihre Dateien auf OneDrive zu, ohne lokalen Speicherplatz zu verwenden.
+Das Zuordnen einer Bibliothek als Netzlaufwerk ist temporär und wird nur über Internet Explorer unterstützt. Stattdessen [SharePoint-Dateien mit dem neuen OneDrive-Synchronisierungsclient synchronisieren](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88), der [Dateien auf Anforderung](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) bereitstellt. Greifen Sie auf alle Ihre Dateien auf OneDrive zu, ohne lokalen Speicherplatz zu verwenden.
 
 - [Problembehandlung bei zugeordneten Netzwerken, die mit SharePoint Online verbunden sind](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)

@@ -1,28 +1,31 @@
 ---
 title: Herunterladen von Besuchsberichten in Teams
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: cf2f1852112fa28d209e2929bda23318e9b545af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4bd3d2ee5574febbf10776bfd6216877a2fbf0b3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712111"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66299037"
 ---
 # <a name="download-attendance-reports-in-teams"></a>Herunterladen von Besuchsberichten in Teams
 
-Besprechungsorganisatoren können Besprechungsberichte während Besprechungen herunterladen. Als Administrator können Sie steuern, ob Besprechungsorganisatoren Besprechungsberichte herunterladen, indem Sie eine Besprechungsrichtlinie für Teams festlegen. Standardmäßig ist die Option zum Herunterladen des Berichts deaktiviert. Die Schritte zum Aktivieren dieses Features finden Sie unter [Einstellungen für Besprechungsrichtlinien – Besprechungsbesuchsbericht](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report).
+Besprechungsorganisatoren können während und nach Besprechungen Anwesenheitsberichte herunterladen. Besprechungsteilnehmer haben nicht die Möglichkeit, Anwesenheitsberichte herunterzuladen.
 
-Sobald diese Option aktiviert ist, können Besprechungsorganisatoren während der Besprechung **Teilnehmer anzeigen** und **Teilnehmerliste herunterladen** auswählen. Weitere Informationen finden Sie unter [Herunterladen von Besprechungsberichten in Teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) und [Microsoft Teams Besprechungsbesuchsbericht](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report).
+Standardmäßig ist die Möglichkeit zum Herunterladen des Anwesenheitsberichts deaktiviert. Ein Administrator muss die Einstellung **Einsatzbericht** der Besprechungsrichtlinie über das Teams Admin Center oder PowerShell aktivieren, wenn er Organisatoren das Herunterladen von Anwesenheitsberichten gestatten möchte.
 
-**Wichtig**: Sie können den Anwesenheitsbericht nur herunterladen, während die Besprechung ausgeführt wird und die Teilnehmer weiterhin anwesend sind.
+Als Administrator können Sie den Anwesenheitsbericht nicht für Besprechungen anzeigen, die Sie nicht organisieren. Administratoren können jedoch die Teilnehmerdetails für eine bestimmte Besprechung innerhalb von 24 Stunden nach dieser Besprechung anzeigen.
+
+Informationen zum Aktivieren der Einstellung für die Besprechungsrichtlinie und dazu, wie Administratoren auf Teilnehmerdetails zugreifen können, finden Sie im Abschnitt „Engagementbericht“ in [diesem Artikel](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams-general#engagement-report).
+
+Um [einen Teilnehmer-Mitwirkungsbericht für ein Teams-Liveereignis abzurufen](https://support.microsoft.com/office/get-an-attendee-engagement-report-for-a-teams-live-event-b3101733-2eda-48a6-aeb3-de2f2bfecb3a), müssen Sie beim Planen des Live-Ereignisses die Option „Teilnehmer-Mitwirkungsbericht“ auswählen.  

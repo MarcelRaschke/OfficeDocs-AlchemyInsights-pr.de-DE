@@ -1,24 +1,23 @@
 ---
 title: Sparen von Akku-Energie
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/25/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6021"
 - "9003211"
-ms.openlocfilehash: c70f393ce70905ded6a4ad5c08089aacb2273b47
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6021"
+ms.date: 08/25/2020
+ms.openlocfilehash: 50f9f4d74fd22fa00c9e6c334eb4c6cbc41bfaff
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759904"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66296956"
 ---
 # <a name="how-to-save-battery"></a>Sparen von Akku-Energie
 

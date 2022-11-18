@@ -1,25 +1,23 @@
 ---
-title: Fehler beim Hochladen von Microsoft Stream
+title: Microsoft Stream Uploadfehler
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.audience: Admin
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
+ms.localizationpriority: medium
 ms.custom:
 - "9002643"
 - "5094"
-ms.openlocfilehash: 25adfcf9df258c29b21f78e37ce4247ba5bdc61b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 77cfad7b3604d11d9890af5604bb2a91d1fa7b18
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675261"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66403348"
 ---
-# <a name="microsoft-stream-upload-errors"></a>Fehler beim Hochladen von Microsoft Stream
+# <a name="microsoft-stream-upload-errors"></a>Microsoft Stream Uploadfehler
 
-Wenn Sie Uploadfehler in Microsoft Stream erhalten, lesen Sie [Stream Hochladen von Fehlern](https://docs.microsoft.com/stream/portal-understanding-upload-errors).
+Wenn Sie Uploadfehler in Microsoft Stream erhalten, lesen Sie [bitte Stream-Uploadfehler](https://docs.microsoft.com/stream/portal-understanding-upload-errors).

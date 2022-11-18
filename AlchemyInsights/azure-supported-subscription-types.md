@@ -1,23 +1,22 @@
 ---
 title: Unterstützte Abonnementtypen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: f2d7c6e9405c5566ad25dbf3ac0c921444a418ff
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791475"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66329601"
 ---
 # <a name="supported-subscription-types"></a>Unterstützte Abonnementtypen
 
@@ -29,7 +28,7 @@ Bitte überprüfen Sie die unterstützten Abonnementtypen, um fortzufahren.
 
 Azure-Portal als [Konto-Administrator](https://ms.portal.azure.com/) des Abrechnungskontos mit dem Abonnement, das Sie übertragen möchten
 
-- Suchen nach **Kostenverwaltung + Abrechnung** . Wählen Sie im linken Bereich **Abonnements** aus. Je nach Zugriff müssen Sie möglicherweise einen Abrechnungsumfang und dann **Abonnements** oder **Azure-Abonnements** auswählen.
+- Suchen nach **Kostenverwaltung + Abrechnung**. Wählen Sie im linken Bereich **Abonnements** aus. Je nach Zugriff müssen Sie möglicherweise einen Abrechnungsumfang und dann **Abonnements** oder **Azure-Abonnements** auswählen.
 - Wählen Sie „Übertragen des Besitzes von Abrechnungen“ für das Abonnement, das Sie übertragen möchten.
 - Geben Sie die E-Mail-Adresse eines Benutzers ein, der ein Rechnungsadministrator des Kontos ist, das der neue Eigentümer für das Abonnement sein wird, und wählen Sie dann **Übertragungsanforderung** senden 
 - Der Benutzer erhält eine E-Mail mit Anweisungen zur Überprüfung Ihrer Übertragungsanforderung. Um die Übertragungsanforderung zu genehmigen, wählt der Benutzer den Link in der E-Mail aus und folgt den Anweisungen.
@@ -50,7 +49,7 @@ Bei der Übertragung des Besitzes von Abonnements verliert die rollenbasierte Zu
 Azure Key Vaults
 
 - [SQL-bezogene Benutzer und Datenbanken](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) könnten betroffen sein, insbesondere wenn der Kunde eine Azure Active Directory bezogene Authentifizierung verwendet
-- **App-Dienste** , die mit Azure Active Directory-Authentifizierung konfiguriert sind, könnten beeinträchtigt werden
+- **App-Dienste**, die mit Azure Active Directory-Authentifizierung konfiguriert sind, könnten beeinträchtigt werden
 - **Visual Studio-Team** Dienstleistungskonten, die mit Azure-Abonnements verbunden sind, können vorübergehend den Zugriff verlieren, wenn das verbundene Azure-Abonnement gekündigt wird
 
 **Empfohlene Dokumente**

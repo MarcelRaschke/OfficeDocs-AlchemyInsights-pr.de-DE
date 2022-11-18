@@ -1,40 +1,40 @@
 ---
-title: Automatisches Anwenden von Sensitivitäts Bezeichnungen
-ms.author: pebaum
-author: pebaum
-manager: laurawi
-ms.date: 04/21/2020
-ms.audience: admin
+title: Automatisches Anwenden von Vertraulichkeitsbezeichnungen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1737"
 - "9000181"
-ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1737"
+ms.date: 04/21/2020
+ms.openlocfilehash: 32dd1f2e01bedb34e2d5e492618561e4b303cb0a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715164"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66260866"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Automatisches Anwenden von Sensitivitäts Bezeichnungen
+# <a name="auto-apply-sensitivity-labels"></a>Automatisches Anwenden von Vertraulichkeitsbezeichnungen
 
-Vertraulichkeits Bezeichnungen können manuell auf Inhalte von Benutzern angewendet werden, oder Sie können Sie so konfigurieren, dass Sie automatisch auf Inhalte angewendet werden.
+Vertraulichkeitsbezeichnungen können von Benutzern manuell auf Inhalte angewendet werden, oder Sie können sie so konfigurieren, dass sie automatisch auf Inhalte angewendet werden.
 
-Durch automatisches Anwenden von Sensitivitäts Bezeichnungen wird den Benutzern das Klassifizieren von Inhalten und die Notwendigkeit, diese über Richtlinienkonfigurationen zu informieren, nicht mehr geübt.
+Durch die automatische Anwendung von Vertraulichkeitsbezeichnungen müssen Benutzer nicht mehr darüber informiert werden, wie Inhalte klassifiziert werden, und sie müssen nicht mehr über Richtlinienkonfigurationen benachrichtigt werden.
 
-Um Beschriftungen automatisch anzuwenden, ist Folgendes erforderlich:
+Um Bezeichnungen automatisch anzuwenden, ist Folgendes erforderlich:
 
-- Azure Information Protection-P2-Abonnement
-- [Herunterladen und Installieren des Azure Information Protection Unified Labeling-Clients](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure Information Protection P2-Abonnement
+- [Herunterladen und Installieren des Azure Information Protection Client für einheitliche Bezeichnungen](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Wir arbeiten an der systemeigenen Unterstützung, die in Zukunft nicht den Unified Labeling-Client für Azure Information Protection erfordert.
+Wir arbeiten an systemeigenem Support, für den in Zukunft kein Azure Information Protection Client für einheitliche Bezeichnungen erforderlich ist.
 
-Derzeit unterstützt nur Windows den Unified Labeling-Client.  Das Feature wird auf Mac, IOS und Android noch nicht unterstützt.
+Derzeit unterstützt nur Windows den Client für einheitliche Bezeichnungen.  Das Feature wird unter Mac, iOS und Android noch nicht unterstützt.
 
-Weitere Informationen zu Sensitivitäts Bezeichnungen und zur automatischen Anwendung auf Inhalte finden Sie unter:
+Weitere Informationen zu Vertraulichkeitsbezeichnungen und deren automatische Anwendung auf Inhalte finden Sie unter:
 
 - [Übersicht über Vertraulichkeitsbezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Automatisches Anwenden einer Vertraulichkeitsbezeichnung auf Inhalte](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Automatisches Anwenden einer Vertraulichkeitsbezeichnung auf Inhalte](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)

@@ -1,30 +1,30 @@
 ---
 title: Aktivieren von Office
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "936"
 - "2000023"
-ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: a3dcb4e87965ad655164c100f43b2355675c620b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "936"
+ms.openlocfilehash: 7965f9d8ecaae8306a84a0f2e0b697e7da580435
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705082"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66533546"
 ---
 # <a name="how-to-activate-office"></a>Aktivieren von Office
 
-Um Office erfolgreich zu installieren und zu aktivieren, muss der Administrator eine [Office-Lizenz](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) für das Geschäfts-oder Schulkonto eines Benutzers zugewiesen haben.
+Um Office erfolgreich zu installieren und zu aktivieren, muss der Administrator dem Geschäfts-, Schul- oder Unikonto eines Benutzers eine [Office-Lizenz](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) zugewiesen haben.
   
-Nach der Installation von Office werden die apps in vielen Fällen automatisch aktiviert, und wenn ein Benutzer nicht zur Aktivierung aufgefordert wird, kann er sofort mit der Verwendung von Office beginnen.
+Nach der Installation von Office werden die Apps in vielen Fällen automatisch aktiviert, und wenn ein Benutzer nicht zur Aktivierung aufgefordert wird, kann er sofort mit der Verwendung von Office beginnen.
   
-Wenn ein Benutzer jedoch aufgefordert wird, sich beim **Einrichten von Office anzumelden**, muss er sich mit seinem Geschäfts-oder Schulkonto anmelden, das bereits über eine [zugewiesene Office-Lizenz](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)verfügen sollte.
+Wenn ein Benutzer jedoch aufgefordert wird, sich anzumelden, **um Office einzurichten**, muss er sich mit dem Geschäfts-, Schul- oder Unikonto anmelden, dem bereits eine [Office-Lizenz zugewiesen](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) sein sollte.
   
-Ausführliche Informationen finden Sie unter [Aktivieren von Office auf einem PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) oder [Aktivieren von Office auf einem Mac](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
+Ausführliche Informationen finden [Sie unter Aktivieren von Office auf einem PC](https://support.microsoft.com/office/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) oder [Aktivieren von Office auf einem Mac](https://support.microsoft.com/office/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2).
   

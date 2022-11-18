@@ -1,30 +1,29 @@
 ---
-title: '**– IgnoreLegalhold** Schalter'
-ms.author: pebaum
-author: pebaum
+title: -IgnoreLegalhold-Schalter
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/10/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6150"
 - "3100023"
-ms.openlocfilehash: 3adeb60f65d711a08da821a786c68fb51b4f8102
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6150"
+ms.date: 08/10/2020
+ms.openlocfilehash: cdf976f46953b8a4a84ae2f36805bc986508acbf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667985"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66375951"
 ---
-# <a name="ignorelegalhold-switch"></a>**– IgnoreLegalhold** Schalter
+# <a name="-ignorelegalhold-switch"></a>-IgnoreLegalhold-Schalter
 
-Das im folgenden Commandlet verwendete **–IgnoreLegalhold** ist für Exchange Online-Benutzerobjekte nicht verfügbar oder funktionsfähig.
+Der in den folgenden Cmdlets verwendete Schalter "-IgnoreLegalhold" ist für Exchange Online-Benutzerobjekte nicht verfügbar oder funktionsfähig:
 
 - Disable-Mailbox
 - Remove-Mailbox
-- Disable-MailUser
+- Disable-mailUser
 - Remove-MailUser

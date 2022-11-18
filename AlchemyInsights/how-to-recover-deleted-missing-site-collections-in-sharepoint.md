@@ -1,33 +1,25 @@
 ---
 title: Wiederherstellen einer gelöschten Website
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 20211a15d02d5051782f6fc6c044211f0b70661d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 133e41f7cbc36ae51dfb7e1fe7dda28e2ae78a09
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779338"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66297208"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>Wiederherstellen fehlender oder gelöschter Websitesammlungen
 
-In den folgenden Artikeln finden Sie Informationen zum Wiederherstellen fehlender oder gelöschter Websitesammlungen in SharePoint.
+Informationen zum Wiederherstellen fehlender oder gelöschter Websitesammlungen in SharePoint finden Sie unter [Wiederherstellen gelöschter Websites](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection). 
 
-[Wiederherstellen von gelöschten Websites](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
-
-[Wiederherstellen mithilfe des SpO PowerShell-Moduls](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
-
-Wenn Sie die Website nicht finden können, möchten Sie [das Überwachungsprotokoll möglicherweise im Microsoft 365 Security &amp; Compliance Center durchsuchen](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
-
-**Hinweis:** "Moderne" Teamwebsites sind in der **klassischen** SharePoint-Administrator-Benutzeroberfläche nicht sichtbar. Sie können auf die Liste der modernen Websites aus dem [neuen SharePoint Admin Center](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)zugreifen.
+Wenn Sie die Website nicht finden können, lesen [Sie das Durchsuchen des Überwachungsprotokolls im Complianceportal](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
 
 

@@ -3,22 +3,21 @@ title: Gruppensynchronisierung
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "8304"
 - "9003234"
-ms.openlocfilehash: 52c19b6dcc79968150a188b389c5481c122f7945
-ms.sourcegitcommit: 6900c2b7208ca51a9873dfc2e00be6f66cb25e3c
+- "8304"
+ms.date: 02/15/2021
+ms.openlocfilehash: 08ddb4a5545f15633bdcca8e041fe18ae29b310a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50243904"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66434596"
 ---
 # <a name="group-sync"></a>Gruppensynchronisierung
 

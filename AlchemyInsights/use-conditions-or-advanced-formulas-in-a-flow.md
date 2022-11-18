@@ -1,28 +1,24 @@
 ---
 title: Verwenden von Bedingungen oder erweiterten Formeln in einem Fluss
-ms.author: toresing
-author: tomresing
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: c25cae12-c04d-43ac-b26f-bc0264854f48
-ms.openlocfilehash: e025535333bb66f0adc52fc9849f015ddf301cb3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 814c4703b3bffb8e49980527a3cca7477941f781
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798519"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66522318"
 ---
 # <a name="use-conditions-or-advanced-formulas-in-a-flow"></a>Verwenden von Bedingungen oder erweiterten Formeln in einem Fluss
 
-In Microsoft Flow können Sie einen Fluss so anpassen, dass er nur dann Aufgaben ausführt, wenn eine Bedingung erfüllt ist. Informationen finden Sie unter [Hinzufügen einer Bedingung zu einem Fluss](https://go.microsoft.com/fwlink/?linkid=872112).
+In Microsoft Flow können Sie einen Fluss so anpassen, dass er Aufgaben nur dann ausführt, wenn eine Bedingung zutrifft. Weitere Informationen finden [Sie unter Hinzufügen einer Bedingung zu einem Fluss](https://go.microsoft.com/fwlink/?linkid=872112).
   
-Informationen zum Erstellen einer erweiterten Formel finden Sie unter [Workflow Definition Language Schema for Azure Logic apps](https://aka.ms/logicexpressions).
-  
-
+Informationen zum Erstellen einer erweiterten Formel finden Sie unter [Workflowdefinitionssprachenschema für Azure-Logik-Apps](https://aka.ms/logicexpressions).

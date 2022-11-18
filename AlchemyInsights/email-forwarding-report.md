@@ -1,27 +1,24 @@
 ---
-title: E-Mail-Weiterleitungsbericht
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Bericht über automatisch weitergeleitete Nachrichten
+author: cmcatee-MSFT
+ms.author: cmcatee
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Once
+ms.localizationpriority: medium
 ms.custom:
-- "1195"
 - "1200004"
-ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 05921c935721975c0a6a983861cc45f26eae8966
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+- "1195"
+ms.date: 04/21/2020
+ms.openlocfilehash: 2ca6beb8d8fd91462c69d65f1359123b7bc629a0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710194"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66422014"
 ---
-# <a name="email-forwarding-report"></a>E-Mail-Weiterleitungsbericht
+# <a name="auto-forwarded-messages-report"></a>Bericht über automatisch weitergeleitete Nachrichten
 
-Wenn Sie einen Bericht über die Anzahl der automatisch weitergeleiteten Nachrichten in Ihrer Organisation anzeigen möchten, lesen Sie [Nachrichtenübermittlung und Einblicke](https://docs.microsoft.com//office365/securitycompliance/mail-flow-insights-v2) im [Microsoft 365 Security &amp; Compliance Center](https://protection.office.com/#/homepage).
-  
-Hinweis: Wenn Sie sich zum ersten Mal beim Security &amp; Compliance Center anmelden, müssen Sie möglicherweise nach ein paar Minuten den Browser aktualisieren, damit alle verfügbaren Optionen angezeigt werden.
-  
+Wenn Sie einen Bericht darüber anzeigen möchten, wie viele automatisch weitergeleitete Nachrichten es in Ihrer Organisation gibt, überprüfen Sie den [Bericht über automatisch weitergeleitete Nachrichten](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) im Exchange Admin Center (EAC) unter [https://admin.exchange.microsoft.com](https://admin.exchange.microsoft.com) \> **"Nachrichtenflussberichte**\>". Oder verwenden Sie [https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages](https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages), um direkt zur Seite "**Automatisch weitergeleitete Nachrichten**" zu wechseln.

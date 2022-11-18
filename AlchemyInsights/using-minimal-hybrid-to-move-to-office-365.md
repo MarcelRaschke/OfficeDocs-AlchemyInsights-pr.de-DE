@@ -1,25 +1,24 @@
 ---
-title: Verwenden von minimal Hybriden für den Wechsel zu Microsoft
+title: Verwenden einer minimalen Hybridbereitstellung für den Umstieg auf Microsoft
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "691"
 - "3500010"
-ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
-ms.openlocfilehash: 78906cf95cbb9e6cccc9f960d44fb5d3dad29eec
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+- "691"
+ms.date: 04/21/2020
+ms.openlocfilehash: 3785b99f3bfc276ca1520681c31b60601f7d2a63
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653512"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66508494"
 ---
-# <a name="using-minimal-hybrid-to-move-to-microsoft-365"></a>Verwenden von minimal Hybrid für den Wechsel zu Microsoft 365
+# <a name="using-minimal-hybrid-to-move-to-microsoft-365"></a>Verwenden einer minimalen Hybridbereitstellung zum Umstieg auf Microsoft 365
 
-Weitere Informationen zu minimal Hybrid, auch als Express Migration bezeichnet, finden Sie unter [use minimal Hybrid to Quick migrate Exchange mailboxes to Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).
+Weitere Informationen zu "Minimale Hybridbereitstellung", auch als Expressmigration bezeichnet, finden [Sie unter "Minimale Hybridbereitstellung verwenden", um Exchange-Postfächer schnell zu Microsoft 365 zu migrieren](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).

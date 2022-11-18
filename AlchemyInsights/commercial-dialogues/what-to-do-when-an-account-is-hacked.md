@@ -1,31 +1,30 @@
 ---
-title: Was tun, wenn ein Konto gehackt wird
+title: Was zu tun ist, wenn ein Konto gehackt wird
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 50451a32b4e798f3e2fd8ddebe573ef3435a4c71
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.date: 02/17/2021
+ms.openlocfilehash: 08dc4baeedf4768a37442c579e7e17f1bdd93d8d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464546"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66271288"
 ---
-# <a name="what-to-do-when-an-account-is-hacked"></a>Was tun, wenn ein Konto gehackt wird
+# <a name="what-to-do-when-an-account-is-hacked"></a>Was zu tun ist, wenn ein Konto gehackt wird
 
-Wenn Sie der Meinung sind, dass ein Benutzerkonto gehackt wurde, gehen Sie wie folgt vor:
+Wenn Sie der Meinung sind, dass ein Benutzerkonto gehackt wurde, gehen Sie folgendermaßen vor:
 
-1. [Setzen Sie das Kennwort des Benutzers sofort](https://go.microsoft.com/fwlink/?linkid=2103704) *zurück.* Senden Sie das neue Kennwort nicht per E-Mail an den Benutzer.
-1. [Entfernen Sie alle verdächtigen Weiterleitungsadressen,](https://go.microsoft.com/fwlink/?linkid=2103705) die für das Postfach festgelegt sind.
-1. [Entfernen Sie alle Weiterleitungsregeln, die](https://go.microsoft.com/fwlink/?linkid=2103706) für das Postfach festgelegt sind.
-1. Wenn der Benutzer am Senden von E-Mails blockiert ist, vergewissern Sie sich, dass ihr Konto nicht gefährdet wurde, und entfernen Sie ihn dann von der Seite [Eingeschränkte Benutzer](https://go.microsoft.com/fwlink/?linkid=2103706).
-1. Entfernen Sie das Benutzerkonto aus allen [administrativen Rollengruppen.](https://go.microsoft.com/fwlink/?linkid=2092294)
+1. [Setzen Sie das Kennwort des Benutzers](https://go.microsoft.com/fwlink/?linkid=2103704) *sofort* zurück. Senden Sie das neue Kennwort nicht per E-Mail an den Benutzer.
+1. [Entfernen Sie verdächtige Weiterleitungsadressen](https://go.microsoft.com/fwlink/?linkid=2103705) , die für das Postfach festgelegt wurden.
+1. [Entfernen Sie alle für das Postfach festgelegten Weiterleitungsregeln](https://go.microsoft.com/fwlink/?linkid=2103706) .
+1. Wenn der Benutzer am Senden von E-Mails gehindigt ist, vergewissern Sie sich, dass sein Konto nicht kompromittiert wurde, und entfernen Sie es dann von der [Seite "Eingeschränkte Benutzer"](https://go.microsoft.com/fwlink/?linkid=2103706).
+1. Entfernen Sie das Benutzerkonto aus [allen administrativen Rollengruppen](https://go.microsoft.com/fwlink/?linkid=2092294).

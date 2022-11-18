@@ -1,30 +1,29 @@
 ---
-title: Apps auf dem Desktop platzieren
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Platzieren von Apps auf dem Desktop
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ee02d742485dcebc9c23d0d93a2c0b5946090858
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768246"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66418846"
 ---
-# <a name="put-apps-on-the-desktop"></a>Apps auf dem Desktop platzieren
+# <a name="put-apps-on-the-desktop"></a>Platzieren von Apps auf dem Desktop
 
-Suchen Sie im **Startmenü** nach der APP, und greifen Sie auf das App-Symbol, indem Sie die linke Maustaste gedrückt halten und das Symbol auf den Desktop verschieben.
+Suchen Sie im **Startmenü** nach der App, und greifen Sie zum App-Symbol, indem Sie die linke Maustaste gedrückt halten und das Symbol auf den Desktop verschieben.
 
-Sie können auch die **Windows-Taste + R** drücken und dann den folgenden Befehl eingeben:
+Sie können auch die **Windows-TASTE +R** drücken und dann den folgenden Befehl eingeben:
 
 `shell:appsfolder`
 
-Dadurch wird der Ordner " **Applications** " im **Datei-Explorer**geöffnet. Sie können das App-Symbol nun per Drag & Drop auf den Desktop verschieben.
+Dadurch **wird der** Anwendungsordner in **Explorer** geöffnet. Sie können nun das App-Symbol auf den Desktop ziehen und ablegen.

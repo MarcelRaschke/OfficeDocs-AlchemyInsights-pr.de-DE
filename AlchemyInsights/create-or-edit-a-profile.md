@@ -1,38 +1,36 @@
 ---
-title: 1800001 erstellen oder Bearbeiten eines Profils
-ms.author: pdigia
-author: pebaum
-manager: jackiesm
-ms.date: 04/21/2020
-ms.audience: Admin
+title: 1800001 Erstellen oder Bearbeiten eines Profils
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: 1800001
-ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: fb703fb2365751c709eaae8dd21ea5da8cbb4383
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732426"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66342021"
 ---
 # <a name="create-or-edit-an-outlook-profile"></a>Erstellen oder Bearbeiten eines Outlook-Profils
 
 Führen Sie die folgenden Schritte aus, um ein neues Outlook-Profil zu erstellen, ein Profil zu bearbeiten oder ein Profil umzubenennen.
   
-1. Wählen Sie in Outlook **Datei** \> **Kontoeinstellungen** \> **Verwalten von Profilen**aus.
+1. Wählen Sie in Outlook **"****Dateikontoeinstellungen** \> \> **" "Profile verwalten**" aus.
     
-2. Wählen Sie im Dialogfeld **Mail-Setup** die Option **Profile anzeigen**aus.
+2. Wählen Sie im Dialogfeld " **E-Mail-Setup** " die Option **"Profile anzeigen"** aus.
     
-3. Führen Sie eine der folgenden Aktionen aus:
+3. Führen Sie einen der folgenden Schritte aus:
     
-  - Um ein neues Profil zu erstellen, wählen Sie **Hinzufügen**aus.
+  - Um ein neues Profil zu erstellen, wählen Sie **"Hinzufügen"** aus.
     
-  - Zum Bearbeiten oder Umbenennen eines Profils wählen Sie **Eigenschaften**aus.
+  - Um ein Profil zu bearbeiten oder umzubenennen, wählen Sie **"Eigenschaften"** aus.
     
-Wenn beim Erstellen oder Bearbeiten eines Outlook-Profils Probleme auftreten, können Sie das [Outlook-Profil Tool](https://aka.ms/SaRA-OutlookSetupProfile) auf dem betroffenen Computer ausführen. Es werden einige Überprüfungen durchgeführt, und wenn Sie fertig sind, wird ein Outlook-Profil mit Ihrer e-Mail-Adresse erstellt. 
+Wenn Sie Probleme beim Erstellen oder Bearbeiten eines Outlook-Profils haben, können Sie das [Outlook-Profiltool](https://aka.ms/SaRA-OutlookSetupProfile) auf dem betroffenen Computer ausführen. Es werden einige Prüfungen durchgeführt, und wenn Sie bereit sind, wird ein Outlook-Profil mit Ihrer E-Mail-Adresse erstellt. 
   
 

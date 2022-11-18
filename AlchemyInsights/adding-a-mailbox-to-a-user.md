@@ -1,24 +1,23 @@
 ---
 title: Hinzufügen eines Postfachs zu einem Benutzer
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6070"
 - "1200022"
-ms.openlocfilehash: 39fe0d25285fe0f91ab8e5d61ba5e267b77df78b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6070"
+ms.date: 07/21/2020
+ms.openlocfilehash: 375e6e43576d6e48252e187dbad6913e582b9825
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687109"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66330717"
 ---
 # <a name="adding-a-mailbox-to-a-user"></a>Hinzufügen eines Postfachs zu einem Benutzer
 

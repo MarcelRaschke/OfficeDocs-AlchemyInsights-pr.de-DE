@@ -1,23 +1,22 @@
 ---
 title: Meldung zu Microsoft 365-Apps – konnte die zugeordneten Office-Lizenzen nicht finden
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d48d96cf6254d775d017a75639ed50ce52fde92
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802776"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66567550"
 ---
 # <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Meldung zu Microsoft 365-Apps – konnte die zugeordneten Office-Lizenzen nicht finden
 
@@ -25,7 +24,7 @@ Um diesen Fehler zu beheben, versuchen Sie Folgendes:
 
 - Entfernen und [weisen Sie die Office-Lizenz](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) für den betroffenen Benutzer neu zu.
 
-- Öffnen Sie eine Office-Anwendung und [melden Sie sich von allen vorhandenen Benutzerkonten ab](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071).
+- Öffnen Sie eine Office-Anwendung und [melden Sie sich von allen vorhandenen Benutzerkonten ab](https://support.microsoft.com/office/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071).
 
 - Wechseln Sie zu **Windows-Einstellungen > Konten > E-Mail- und Konten**, und entfernen Sie vorhandene Geschäftskonten.
 
@@ -43,6 +42,6 @@ Wenn das Problem weiterhin besteht, führen Sie die folgenden Schritte aus:
 
 Zusätzliche Lösungen zur Problembehandlung finden Sie unter:
 
-[Fehler "Nicht lizenziertes Produkt" und Aktivierungsfehler in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
+[Fehler "Nicht lizenziertes Produkt" und Aktivierungsfehler in Office](https://support.microsoft.com/office/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 [Microsoft 365-URLs und-IP-Adressbereiche](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

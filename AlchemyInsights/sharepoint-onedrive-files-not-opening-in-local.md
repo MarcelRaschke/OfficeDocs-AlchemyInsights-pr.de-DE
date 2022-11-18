@@ -1,34 +1,32 @@
 ---
-title: Öffnen einer SharePoint-Bibliothek im Datei-Explorer
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
-ms.audience: Admin
+title: Öffnen einer SharePoint-Bibliothek in Explorer
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 0d2d73fd425e213289b627703c987c2e9a987e55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ca9b4b0f03f8171116fc5a8a5e8e8f328940aa0
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670903"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66593455"
 ---
-# <a name="problems-opening-office-files-from-sharepoint"></a>Probleme beim Öffnen von Office-Dateien aus SharePoint
+# <a name="problems-opening-office-files-from-sharepoint"></a>Probleme beim Öffnen von Office-Dateien in SharePoint
 
-Wenn beim Öffnen von Office-Dateien und-Dokumenten aus SharePoint in Ihren lokalen Office-Clients Probleme auftreten, lesen Sie die folgenden Links. 
+Wenn Sie Probleme beim Öffnen von Office-Dateien und -Dokumenten aus SharePoint in Ihren lokalen Office-Clients haben, lesen Sie die folgenden Links. 
 
-- [Überprüfen Sie die Datei Einschränkungen, um sicherzustellen, dass die Datei unterstützt wird](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- [Überprüfen Sie die Dateieinschränkungen, um sicherzustellen, dass die Datei unterstützt wird](https://support.microsoft.com/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
-- [Löschen Sie den Office-Dokument Cache](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).
+- [Löschen Sie den Cache Ihres Office-Dokuments](https://support.microsoft.com/topic/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).
 
-- [Ausführen einer Reparatur in Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- [Führen Sie eine Reparatur in Office aus](https://support.microsoft.com/office/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-Weitere Informationen oder Details finden Sie im Artikel [Behebung von Problemen beim Öffnen von Dokumenten in SharePoint-Bibliotheken](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
+Weitere Informationen oder Details finden Sie im Artikel " [Beheben von Problemen beim Öffnen von Dokumenten in SharePoint-Bibliotheken](https://support.microsoft.com/office/fix-problems-opening-documents-in-sharepoint-libraries-31329fa1-4ad0-47fc-95d8-bb0c5b12a536)".
 
-**Hinweis:** Wenn Sie Probleme mit Dokumenten haben, die standardmäßig im Browser oder im Client geöffnet werden, müssen Sie möglicherweise die Einstellung für die Bibliothek ändern. Navigieren Sie dazu zu der Bibliothek mit Problemen > Zahnradsymbol in der oberen rechten Ecke > **Bibliothekseinstellungen**  >   **Erweiterte Einstellungen**  >  **Öffnen von Dokumenten im Browser**.
+**Hinweis:** Wenn Standardmäßig Probleme mit Dokumenten auftreten, die im Browser oder Client geöffnet werden, müssen Sie möglicherweise die Bibliothekseinstellung ändern. Navigieren Sie dazu zur Bibliothek, die Probleme > Zahnradsymbol in der oberen rechten Ecke >**Erweiterten Einstellungen** für **Bibliothekseinstellungen** >   > **beim Öffnen von Dokumenten im Browser aufweist**.
 

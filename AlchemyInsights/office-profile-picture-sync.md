@@ -1,34 +1,34 @@
 ---
 title: Synchronisieren des Profilbilds eines Benutzers
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: f243a68b5eb7f23f096183a923a32c1eb7b9508e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.openlocfilehash: 478dfbf78cbe99ee7bfe0d8a6f92580b4b68b2af
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694781"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66567481"
 ---
 # <a name="sync-a-users-profile-picture"></a>Synchronisieren des Profilbilds eines Benutzers
 
-Sie können Ihr Profilfoto in Microsoft 365 von [Office.com](https://www.office.com)oder während der Verwendung von Microsoft-Anwendungen auf Ihrem Computer oder in einem Browser auf dem Telefon hinzufügen oder ändern. Ihr Foto wird überall dort angezeigt, wo es in Microsoft 365 einen Profilfoto-Kreis gibt.
+Sie können Ihr Profilfoto in Microsoft 365 von [Office.com](https://www.office.com) oder während der Verwendung von Microsoft-Anwendungen auf Ihrem Computer oder in einem Browser auf Ihrem Smartphone hinzufügen oder ändern. Ihr Foto wird überall dort angezeigt, wo es einen Profilfotokreis in Microsoft 365 gibt.
 
-So fügen Sie Ihr Profilfoto zu Microsoft 365 for Business hinzu
+So fügen Sie Ihr Profilfoto zu Microsoft 365 Business hinzu
 
-- Suchen Sie ein Foto, das Sie verwenden möchten, und speichern Sie es auf Ihrem Computer, OneDrive oder an einem anderen Speicherort, zu dem Sie gelangen können.
+- Suchen Sie ein Foto, das Sie verwenden möchten, und speichern Sie es auf Ihrem Computer, OneDrive oder einem anderen Speicherort, an den Sie gelangen können.
 
-- Melden Sie sich bei Microsoft 365 mit ihrem geschäftlichen oder Schulkonto bei [Office.com](https://www.office.com)an.
+- Melden Sie sich bei Microsoft 365 mit Ihrem Geschäfts-, Schul- oder Unikonto bei [office.com](https://www.office.com) an.
 
-- Wählen Sie den Kreis in der oberen rechten Ecke der Seite aus, auf dem Ihre Initialen oder ein Symbol einer Person angezeigt wird.
+- Wählen Sie den Kreis in der oberen rechten Ecke der Seite aus, der Ihre Initialen oder ein Symbol einer Person anzeigt.
 
-- Wählen Sie im Bereich meine Konten den Kreis aus, in dem Ihre Initialen oder ein Symbol einer Person angezeigt wird. Ändern Sie Ihr Foto im Popup-Fenster, das angezeigt wird.
+- Wählen Sie im Bereich "Meine Konten" den Kreis aus, in dem Ihre Initialen oder ein Symbol einer Person angezeigt werden. Ändern Sie Ihr Foto in dem eingeblendeten Popup.
 
-Hinweis: Wenn Sie bereits ein Bild hochgeladen haben, können Sie versuchen, auf die SharePoint-oder OneDrive-Kachel zu klicken, um das Bild erneut zu synchronisieren.
+Hinweis: Wenn Sie bereits ein Bild hochgeladen haben, können Sie versuchen, auf die SharePoint- oder OneDrive-Kachel zu klicken, um das Bild erneut zu synchronisieren.
 
-Weitere Informationen finden Sie [unter Informationen zur Synchronisierung von Profilbildern in Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
+Weitere Informationen finden Sie [unter Informationen zur Profilbildsynchronisierung in Microsoft 365](https://support.microsoft.com/office/information-about-profile-picture-synchronization-in-microsoft-365-20594d76-d054-4af4-a660-401133e3d48a).

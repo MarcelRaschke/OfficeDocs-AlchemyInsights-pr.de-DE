@@ -1,37 +1,36 @@
 ---
-title: Bearbeiten des Abrechnungs Profils für apps
+title: Abrechnungsprofil für Apps bearbeiten
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/02/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.date: 12/02/2020
+ms.openlocfilehash: 3de3001da5cd13775492e08f72306bbc0f01cb38
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571736"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66270290"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Bearbeiten des Abrechnungs Profils für apps
+# <a name="edit-billing-profile-for-apps"></a>Abrechnungsprofil für Apps bearbeiten
 
-**Bearbeiten von Abrechnungs Profilen**
+**Abrechnungsprofile bearbeiten**
 
-1. Wechseln Sie zur Seite **Billing**  >  **[Bills & Zahlungen](https://go.microsoft.com/fwlink/p/?linkid=848039)** , und klicken Sie dann auf **Abrechnungsprofile**.
+1. Wechseln Sie zur Seite **"Abrechnungsrechnungen** > **[" & Zahlungsseite](https://go.microsoft.com/fwlink/p/?linkid=848039)** , und klicken Sie dann auf **"Abrechnungsprofile"**.
 
 2. Wählen Sie in der Liste der Abrechnungsprofile das Abrechnungsprofil aus, das Sie bearbeiten möchten.
 
-**So ändern Sie das Abrechnungsprofil in apps**
+**So ändern Sie das Abrechnungsprofil für Apps**
 
-1. Wechseln Sie zur Seite **Fakturierung**  >  **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** , und klicken Sie dann auf die Registerkarte **apps** .
+1. Wechseln Sie zur Seite **"Abrechnung** > **[Ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** ", und klicken Sie dann auf die Registerkarte " **Apps** ".
 
-2. Suchen Sie die APP, die Sie verwalten möchten, und wählen Sie Sie aus.  
+2. Suchen Sie die App, die Sie verwalten möchten, und wählen Sie sie aus.  
 
-3. Klicken Sie neben **Abrechnungsprofil** auf **Bearbeiten** , und wählen Sie das Abrechnungsprofil aus, das Sie der APP zuordnen möchten.
+3. Klicken Sie neben dem **Abrechnungsprofil** auf **"Bearbeiten** ", und wählen Sie das Abrechnungsprofil aus, das Sie der App zuordnen möchten.

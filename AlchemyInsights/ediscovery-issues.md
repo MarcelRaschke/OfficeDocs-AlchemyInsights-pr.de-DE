@@ -1,33 +1,31 @@
 ---
-title: 1829-eDiscovery-Issues
-ms.author: markjjo
-author: markjjo
-manager: lauraw
-ms.date: 04/21/2020
-ms.audience: Admin
+title: 1829-ediscovery-issues
+author: cmcatee-MSFT
+ms.author: cmcatee
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: 1829
-ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: c84f4e09ce7e95712b6defb6ef0b6cd961167371
+ms.sourcegitcommit: 5058f004f549ba7ac2b4843429b385287456a9c7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710950"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "65061775"
 ---
 # <a name="ediscovery-issues"></a>eDiscovery-Probleme
 
-Suchen Sie nach eDiscovery-Optionen? Mit der neu entworfenen Navigation im Security & Compliance Center sind Ihre eDiscovery-Optionen möglicherweise bereits verschoben worden.  Die eDiscovery-Optionen finden Sie in den folgenden Speicherorten im Security & Compliance Center basierend auf den Schritten, die Sie ausführen möchten:
+Suchen Sie nach eDiscovery-Optionen? Mit der neu gestalteten Navigation im Security & Compliance Center wurden Ihre eDiscovery-Optionen möglicherweise bereits verschoben.  Die eDiscovery-Optionen finden Sie an den folgenden Speicherorten im Security & Compliance Center, je nachdem, was Sie tun möchten:
 
-- Verwenden der Inhaltssuche zum Durchsuchen Ihrer Organisation nach Inhalten in e-Mails, Dokumenten, Skype for Business Unterhaltungen und Exportieren der Daten – gehe zu **Suche > Inhaltssuche**
+- Verwenden sie die Inhaltssuche, um in Ihrer Organisation nach Inhalten in E-Mails, Dokumenten, Skype for Business Unterhaltungen zu suchen und dann die Daten zu exportieren – Zur **Suche > Inhaltssuche wechseln**
 
-- Erstellen eines eDiscovery-Falls zum Suchen nach Inhalten und Platzieren von Inhaltsspeicherorten in der Warteschleife – gehen Sie zu **eDiscovery > eDiscovery**
+- Erstellen eines eDiscovery-Falls, um nach Inhalten zu suchen und Inhaltsspeicherorte in den Haltebereich zu setzen – Wechseln Sie zu **eDiscovery > eDiscovery**
 
-- Verwenden Sie die neue End-to-End-eDiscovery-Lösung, um Verwalter zu identifizieren und mit Ihnen zu kommunizieren, die für den Fall relevanten Depotbank-Daten zu schützen, Daten zu sammeln und zu einem Überprüfungs hinzuzufügen und die Datenmenge zu reduzieren, indem Sie Analysen anwenden, um unnötige Daten auszumerzen und sich auf die relevantesten Fälle zu konzentrieren – zu **eDiscovery >**
+- Verwenden Sie die neue End-to-End-Advanced eDiscovery Lösung, um Verwahrer zu identifizieren und mit ihnen zu kommunizieren, die für den Fall relevanten Verwahrerdaten beizubehalten, Daten zu sammeln und einem Prüfdateisatz hinzuzufügen, und das Datenvolumen zu verringern, indem Sie Analysen anwenden, um unnötige Daten zu entfernen und sich auf das zu konzentrieren, was für den Fall am relevantesten ist – wechseln Sie zu **eDiscovery > Advanced eDiscovery**
 
 Weitere Informationen finden Sie unter:
 

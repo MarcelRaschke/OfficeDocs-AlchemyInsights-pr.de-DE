@@ -3,27 +3,28 @@ title: Wie verwendet Microsoft Edge Microsoft Defender SmartScreen?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/05/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
+- "9004625"
 - "9003847"
 - "6897"
-ms.openlocfilehash: 2a08bd507c77e9735028b30f7bf7bc8f8f018cad
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8331"
+ms.date: 12/05/2020
+ms.openlocfilehash: 0473b16a53e60ba5d7c26307248058199f64bb19
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576468"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66309672"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>So verwendet Microsoft Edge den SmartScreen-Schutz von Microsoft Defender
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Wie Microsoft Edge Microsoft Defender SmartScreen verwendet
 
-Um Sie im Web zu schützen, verwendet Microsoft Edge Microsoft Defender SmartScreen als Frühwarnsystem für Websites, die Phishing-Angriffe durchführen und Malware mithilfe gezielter Angriffe verteilen.
+Um Sie im Web zu schützen, verwendet Microsoft Edge Microsoft Defender SmartScreen als Frühwarnsystem gegen Websites, die Phishingangriffe verüben und Schadsoftware durch gezielte Angriffe verteilen.
 
-Administratoren können Microsoft Defender SmartScreen mithilfe von Gruppenrichtlinien, Microsoft InTune oder MDM-Einstellungen (Mobile Device Management) konfigurieren. Je nachdem, wie Sie den SmartScreen-Wert von Microsoft Defender einrichten, können Sie den Benutzern eine Warn Seite anzeigen und Sie auf der Website weitergeben oder die Website vollständig blockieren.
+Administratoren können Microsoft Defender SmartScreen mithilfe von einstellungen für Gruppenrichtlinie, Microsoft Intune oder mobile Geräteverwaltung (Mobile Device Management, MDM) konfigurieren. Basierend auf der Einrichtung von Microsoft Defender SmartScreen können Sie Benutzern eine Warnseite anzeigen und ihnen erlauben, mit der Website fortzufahren oder die Website vollständig zu blockieren.
 
-Weitere Informationen finden Sie unter [Microsoft Edge Support for Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) and [Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2132839).
+Weitere Informationen finden Sie unter [Microsoft Edge-Unterstützung für Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) und [Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2132839).

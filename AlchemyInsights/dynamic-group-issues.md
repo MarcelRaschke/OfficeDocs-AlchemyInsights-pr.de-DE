@@ -1,24 +1,23 @@
 ---
 title: Probleme bei dynamischen Gruppen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/10/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6174"
 - "9003234"
-ms.openlocfilehash: 4bc66c2e1a8c0d839974f41fb6bf919f3261e571
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6174"
+ms.date: 08/10/2020
+ms.openlocfilehash: 19776d54c511cdd807971f1f5c9f8123618d9362
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678539"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66391899"
 ---
 # <a name="dynamic-group-issues"></a>Probleme bei dynamischen Gruppen
 

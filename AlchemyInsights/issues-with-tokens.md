@@ -3,22 +3,21 @@ title: Probleme mit Token
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7774"
 - "9004351"
-ms.openlocfilehash: 14a9681c08920094813497e7a75eb87bb0733cbc
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+- "7774"
+ms.date: 01/15/2021
+ms.openlocfilehash: e7358c41c5b810559adaf1620e8bbd069ccc39a7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49912003"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66258022"
 ---
 # <a name="issues-with-tokens"></a>Probleme mit Token
 
@@ -30,7 +29,7 @@ Führen Sie die folgenden Schritte durch, um Probleme im Zusammenhang mit Token 
 4. Die OAuth 2.0-Autorisierungscode-Erteilung kann in Apps verwendet werden, die auf einem Gerät installiert sind, um Zugriff auf geschützte Ressourcen, wie z. B. Web-APIs, zu erhalten. Mit der Microsoft Identity Platform-Implementierung von OAuth 2.0 können Sie Ihren mobilen und Desktop-Apps Anmelde- und API-Zugriff hinzufügen. Weitere Informationen zur direkten Programmierung für das Protokoll in Ihrer Anwendung in einer beliebigen Sprache finden Sie unter [Microsoft Identity Platform und OAuth 2.0 Autorisierungscodeflow](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow#refresh-the-access-token).
 5. OpenID Connect (OIDC) ist ein auf OAuth 2.0 aufbauendes Authentifizierungsprotokoll, das Sie für die sichere Anmeldung eines Benutzers bei einer Anwendung verwenden können. Mit der Microsoft Identity Platform-Endpunktimplementierung von OpenID Connect können Sie Ihren Apps Anmelde- und API-Zugriff hinzufügen. Unter [Microsoft Identity Platform und OpenID Connect-Protokoll](https://docs.microsoft.com/azure/active-directory/develop/v2-protocols-oidc#send-the-sign-in-request) wird gezeigt, wie dies sprachunabhängig möglich ist, und beschrieben, wie HTTP-Nachrichten gesendet und empfangen werden können, ohne irgendwelche Open-Source-Bibliotheken von Microsoft zu verwenden.
     - Der UserInfo-Endpunkt ist Teil des OIDC-Standards und dient der Rückgabe von Ansprüchen über den Benutzer, der sich authentifiziert hat. Weitere Informationen finden Sie unter [UserInfo-Endpunkt in Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/userinfo#consider-use-an-id-token-instead).
-    - Im Beispiel [Aufrufen einer Web-API in einer Web-App unter Verwendung von Azure AD und OpenID Connect](https://docs.microsoft.com/samples/azure-samples/active-directory-dotnet-webapp-webapi-openidconnect/active-directory-dotnet-webapp-webapi-openidconnect/) wird die Erstellung einer MVC-Webanwendung gezeigt, die Azure AD für die Anmeldung über das OpenID Connect-Protokoll verwendet und dann eine Web-API aufruft. Dies erfolgt unter der Identität des angemeldeten Benutzers anhand von Token, die über OAuth 2.0 abgerufen wurden. In diesem Beispiel werden die OpenID Connect ASP .Net OWIN-Middleware und ADAL.Net verwendet.
+    - Im Beispiel [Aufrufen einer Web-API in einer Web-App unter Verwendung von Azure AD und OpenID Connect](https://github.com/Azure-Samples/active-directory-dotnet-webapp-webapi-openidconnect) wird die Erstellung einer MVC-Webanwendung erläutert, die Azure AD für die Anmeldung über das OpenID Connect-Protokoll verwendet und dann eine Web-API aufruft. Dies erfolgt unter der Identität des angemeldeten Benutzers anhand von Token, die über OAuth 2.0 abgerufen wurden. In diesem Beispiel werden die OpenID Connect ASP .Net OWIN-Middleware und ADAL.Net verwendet.
 6. [Konfigurieren einer Anwendung zur Bereitstellung einer Web-API](https://docs.microsoft.com/azure/active-directory/develop/quickstart-configure-app-expose-web-apis): In diesem Schnellstart registrieren Sie eine Web-API bei Microsoft Identity Platform und machen sie für Client-Apps verfügbar, indem Sie einen Beispielbereich hinzufügen. Indem Sie Ihre Web-API registrieren und über Bereiche verfügbar machen, können Sie autorisierten Benutzern und Client-Apps, die auf Ihre API zugreifen, einen berechtigungsbasierten Zugriff auf deren Ressourcen gewähren.
 7. In Azure Active Directory B2C (Azure AD B2C) ist der Flow „Anmeldeinformationen des Resourcenbesitzers“ (Resource Owner Password Credentials, ROPC) ein OAuth-Standardauthentifizierungsflow. In diesem Flow tauscht eine Anwendung, die auch als vertrauende Partei bezeichnet wird, gültige Anmeldeinformationen gegen Token aus. Die Anmeldeinformationen umfassen eine Benutzer-ID und ein Kennwort. Die zurückgegebenen Token sind ein ID-Token, ein Zugriffstoken und ein Aktualisierungstoken. Weitere Informationen finden Sie unter [Einrichten eines Flows „Anmeldeinformationen des Resourcenbesitzers“ in Azure Active Directory B2C](https://docs.microsoft.com/azure/active-directory-b2c/add-ropc-policy?tabs=app-reg-ga&pivots=b2c-user-flow). 
 

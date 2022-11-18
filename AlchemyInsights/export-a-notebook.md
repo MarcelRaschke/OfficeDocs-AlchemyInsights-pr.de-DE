@@ -1,23 +1,22 @@
 ---
 title: Exportieren eines Notizbuchs
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9000739"
 - "4709"
-ms.openlocfilehash: 8a8ed7918fecd863f0477fba544f55cea6421267
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2714fd6a718f3f55de03bf5dde59dfd01a0f3f1a
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708898"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66537650"
 ---
 # <a name="export-a-notebook"></a>Exportieren eines Notizbuchs
 
@@ -30,4 +29,4 @@ ms.locfileid: "47708898"
 Wenn Sie den Besitz von Dateien übertragen möchten, die in der Cloud gespeichert sind, können Sie auch die Abschnittsfunktionen **Teilen** oder **Verschieben/Kopieren** für die Migration der Inhalte von Notizbüchern verwenden.  
 
 - Klicken oder tippen Sie in der oberen rechten Ecke des App-Fensters auf **Teilen**.
-- Informationen zum Verschieben eines Notizbuchs finden Sie unter [Verschieben eines mit anderen Personen geteilten OneNote für Windows-Notizbuchs](https://support.office.com/article/move-a-onenote-for-windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4?ui=en-US&rs=en-US&ad=US).
+- Informationen zum Verschieben eines Notizbuchs finden Sie unter [Verschieben eines mit anderen Personen geteilten OneNote für Windows-Notizbuchs](https://support.microsoft.com/office/move-a-onenote-for-windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4).

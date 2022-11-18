@@ -1,24 +1,23 @@
 ---
-title: Bereitstellen und Bereitstellen von Azure Active Directory Identity Protection
+title: Bereitstellung und Bereitstellung von Azure Active Directory Identity Protection
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/17/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.date: 12/17/2020
+ms.openlocfilehash: 81592abd3da36bd5c2776859d8f47732f294cc1e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706971"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66389145"
 ---
 # <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Wie wird Azure Active Directory Identity Protection bereitgestellt und bereitgestellt?
 

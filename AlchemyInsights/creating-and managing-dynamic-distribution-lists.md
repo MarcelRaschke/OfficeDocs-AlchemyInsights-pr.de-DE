@@ -1,26 +1,25 @@
 ---
 title: Erstellen und Verwalten von dynamischen Verteilerlisten
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "3"
 - "5029"
-ms.openlocfilehash: d5d5450a9c6e000b5bc8b15dbd2520290613c148
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "3"
+ms.openlocfilehash: 5c3a7b3aa7d9e673ee1ce33ae83451ab0185f690
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732280"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66511187"
 ---
 # <a name="creating-and-managing-dynamic-distribution-lists"></a>Erstellen und Verwalten von dynamischen Verteilerlisten
 
-Um dynamische Verteilerlisten in Exchange Online zu erstellen oder zu verwalten, müssen Sie zum **Exchange Admin Center** wechseln und dann unter **Empfänger** auf **Gruppen** klicken.
+Um dynamische Verteilerlisten in Exchange Online zu erstellen oder zu verwalten, müssen Sie zum **Exchange Admin Center** gehen und dann unter **Empfänger** auf **Gruppen** klicken.
 
 Weitere Informationen finden Sie unter [Verwalten dynamischer Verteilergruppen](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-dynamic-distribution-groups/manage-dynamic-distribution-groups).

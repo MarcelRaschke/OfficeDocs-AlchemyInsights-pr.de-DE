@@ -1,28 +1,27 @@
 ---
-title: Für den Migrationsbatch für Öffentliche Ordner mit CompletedWithErrors Status
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Für Migrationsbatch für öffentliche Ordner mit CompletedWithErrors-Status
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 556d930dfd30c27fc64c178ed34d177572681265
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744112"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66269200"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Für den Migrationsbatch für Öffentliche Ordner mit CompletedWithErrors Status
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Für Migrationsbatch für öffentliche Ordner mit CompletedWithErrors-Status
 
-Führen Sie die folgenden Schritte aus, um den Batch abzuschließen und die großen/schlechten Elemente zu überspringen: 
-1. Genehmigen der übersprungenen Elemente im Migrationsbatch:
+Führen Sie die folgenden Schritte aus, um den Batch abzuschließen und die großen/fehlerhaften Elemente zu überspringen: 
+1. Genehmigen sie die übersprungenen Elemente im Migrationsbatch:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
 2. Verwenden Sie den folgenden Befehl, um die übersprungenen Elemente für Migrationsanforderungen zu genehmigen, die "synchronisiert", aber nicht abgeschlossen sind:

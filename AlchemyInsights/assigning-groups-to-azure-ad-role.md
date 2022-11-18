@@ -3,22 +3,21 @@ title: Zuweisen von Gruppen zu Azure AD-Rollen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7898"
 - "9003230"
-ms.openlocfilehash: feca81fe785bc45e47f6faa876230b5c7701713d
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+- "7898"
+ms.date: 01/15/2021
+ms.openlocfilehash: 1bb4c7fd0035a45b7fd1a965c34711b4ca9697fd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875404"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66299872"
 ---
 # <a name="assigning-groups-to-azure-ad-role"></a>Zuweisen von Gruppen zu Azure AD-Rollen
 

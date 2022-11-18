@@ -1,24 +1,23 @@
 ---
 title: Erstellen und Freigeben von Kalendern für öffentliche Ordner in Exchange Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/25/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "634"
 - "3500007"
-ms.openlocfilehash: d8b28d373db21da42b90aeef75139affd802a5d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "634"
+ms.date: 08/25/2020
+ms.openlocfilehash: cb761efc2534f271ce3888d1ca009b0803fc5f57
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712643"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66325371"
 ---
 # <a name="create-and-share-public-folder-calendars-in-exchange-online"></a>Erstellen und Freigeben von Kalendern für öffentliche Ordner in Exchange Online
 

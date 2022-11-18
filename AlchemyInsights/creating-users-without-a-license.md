@@ -3,25 +3,24 @@ title: 743 Erstellen von Benutzern ohne Lizenz
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "743"
 - "1200022"
-ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
-ms.openlocfilehash: 03fb05ffcb939e0fd05cf93f7ab5de080da0eaa4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "743"
+ms.date: 04/21/2020
+ms.openlocfilehash: 80ee4f684a3778edcb5a66ef622b92738d6c7b59
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746524"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66540386"
 ---
-# <a name="create-mailboxes-that-dont-require-licenses"></a>Erstellen von Postfächern, die keine Lizenzen erfordern
+# <a name="create-mailboxes-that-dont-require-licenses"></a>Erstellen von Postfächern, für die keine Lizenzen erforderlich sind
 
-- Wenn Sie eine Gruppen-e-Mail-Adresse für mehrere Personen benötigen, lesen Sie [Erstellen eines freigegebenen Postfachs](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+- Wenn Sie eine Gruppen-E-Mail-Adresse für mehrere Personen benötigen, lesen [Sie "Erstellen eines freigegebenen Postfachs](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)".
 
-- Informationen zum zusammenarbeiten und Freigeben von e-Mails und Dateien für ein Team von Personen finden Sie unter Weitere Informationen zu [Microsoft 365-Gruppen](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+- Informationen zu [Microsoft 365-Gruppen](https://support.microsoft.com/office/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2), um es einem Team von Personen zu ermöglichen, zusammenzuarbeiten und E-Mails und Dateien freizugeben.

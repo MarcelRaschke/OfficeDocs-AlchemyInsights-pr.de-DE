@@ -1,23 +1,22 @@
 ---
 title: Behandeln von Problemen und Fehlern im Migration Manager
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "5300030"
 - "7915"
-ms.openlocfilehash: 51e97fec700c239653a0da77ae879192697438e2
-ms.sourcegitcommit: 2500f4bfdf2383a968bd43b5d22286ef952093bf
+ms.openlocfilehash: 6a212f3fad5a0297d4bf8fb910844929ea5de8b1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49871267"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66255466"
 ---
 # <a name="troubleshoot-migration-manager-issues-and-errors"></a>Behandeln von Problemen und Fehlern im Migration Manager
 

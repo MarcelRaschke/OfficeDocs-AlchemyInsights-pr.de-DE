@@ -1,26 +1,26 @@
 ---
-title: Preis sieht nicht richtig aus?
+title: Der Preis sieht nicht richtig aus?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.reviewer: amberb, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "473"
+- commerce_billing
 - "1500027"
-ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 3a3fb90af53f4c098fb4eb7673464cd373c40f99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "473"
+ms.date: 04/21/2020
+ms.openlocfilehash: 113ed6632d74f49655486830e43964f654c9448e
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693662"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66158257"
 ---
-# <a name="price-doesnt-look-correct"></a>Preis sieht nicht richtig aus?
+# <a name="price-doesnt-look-correct"></a>Der Preis sieht nicht richtig aus?
 
-Wenn der Preis auf Ihrer Rechnung nicht richtig aussieht, kann dies an einer Preisänderung bei der Verlängerung liegen. Wenn Sie nicht glauben, dass dieses Problem erläutert wird, verwenden Sie die Option "Wir rufen Sie an", um mit einem Supporttechniker zu sprechen.
+Wenn der Preis auf Ihrer Rechnung nicht korrekt aussieht, kann dies auf eine Preisänderung bei der Verlängerung zurückzuführen sein. Wenn Sie nicht glauben, dass dies das Problem erklärt, verwenden Sie die Option "Lassen Sie sich anrufen", um mit einem Supporttechniker zu sprechen.

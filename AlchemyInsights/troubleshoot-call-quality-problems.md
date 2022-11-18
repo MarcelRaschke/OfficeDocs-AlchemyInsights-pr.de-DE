@@ -1,23 +1,22 @@
 ---
 title: Beheben von Problemen mit der Anrufqualität
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9001224"
 - "5489"
-ms.openlocfilehash: 1e323ca437fdd62aab23b5ed8e13b08605a51366
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 967612554f1c6d728dbea345e77c535c0ba22507
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750234"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66261874"
 ---
 # <a name="troubleshoot-call-quality-problems"></a>Beheben von Problemen mit der Anrufqualität
 

@@ -1,22 +1,22 @@
 ---
 title: Die Kommunikation zwischen Ihren Benutzern und Benutzern von Skype Consumer zulassen
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.custom: ''
-ms.assetid:
+ms.localizationpriority: high
+ms.custom:
 - "9001733"
 - "4401"
-ms.openlocfilehash: 84ba2dcd6e83aa62223b7b62a0976aa20bd109dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7259fc0c8b11a87f750e4b967a78f1e30895fc4c
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718260"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66507126"
 ---
 # <a name="allow-your-users-to-communicate-with-skype-consumer-users"></a>Die Kommunikation zwischen Ihren Benutzern und Benutzern von Skype Consumer zulassen
 

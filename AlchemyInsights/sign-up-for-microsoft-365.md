@@ -1,23 +1,22 @@
 ---
 title: Registrieren für Microsoft 365
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002572"
 - "5031"
-ms.openlocfilehash: 8f71d568b998f776a3467738227d474c0f17e669
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a8217df16a325249b418d1094971b9babb32140
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797511"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66334734"
 ---
 # <a name="sign-up-for-microsoft-365"></a>Registrieren für Microsoft 365
 

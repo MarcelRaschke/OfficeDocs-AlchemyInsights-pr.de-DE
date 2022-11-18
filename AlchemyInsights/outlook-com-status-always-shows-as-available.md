@@ -1,27 +1,26 @@
 ---
-title: Outlook.com Status wird immer als verfügbar angezeigt
+title: Outlook.com Status wird immer als verfügbar angezeigt.
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
+- "8000049"
 - "817"
 - "1767"
 - "1768"
-- "8000049"
-ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 09a830d6542d0856b666b89c4b3b5d0c11171c7e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777004"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66285634"
 ---
-# <a name="my-status-always-shows-as-available"></a>Mein Status wird immer als verfügbar angezeigt
+# <a name="my-status-always-shows-as-available"></a>Mein Status wird immer als verfügbar angezeigt.
 
-Jedes Mal, wenn Sie sich bei Outlook.com anmelden, wird Ihr Kontostatus auf verfügbar zurückgesetzt. Sie können verhindern, dass sich Ihr Status ändert, indem Sie sich nicht bei Outlook.com abmelden. Wenn Sie beim Schließen Ihres Browsers angemeldet bleiben möchten, aktivieren Sie das Kontrollkästchen **angemeldet** bleiben auf der Outlook.com-Anmeldeseite.
+Jedes Mal, wenn Sie sich bei Outlook.com anmelden, wird Ihr Kontostatus auf "Verfügbar" zurückgesetzt. Sie können die Änderung Ihres Status verhindern, indem Sie sich nicht von Outlook.com abmelden. Wenn Sie beim Schließen Ihres Browsers angemeldet bleiben möchten, aktivieren Sie auf der Anmeldeseite Outlook.com das Kontrollkästchen "Angemeldet **bleiben** ".

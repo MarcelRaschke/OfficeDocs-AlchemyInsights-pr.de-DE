@@ -1,29 +1,28 @@
 ---
-title: Project Online befindet sich im schreibgeschützten Zustand
-ms.author: pebaum
-author: pebaum
-manager: pamg
-ms.date: 04/21/2020
-ms.audience: Admin
+title: Project Online ist schreibgeschützt.
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1776"
 - "9000205"
-ms.openlocfilehash: ad2a9f95bf30708772edb166945f3f42e0f1f503
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1776"
+ms.date: 04/21/2020
+ms.openlocfilehash: 050821d722569b755daae7bdab3ff6fcb2f8ab0b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801651"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66386625"
 ---
-# <a name="project-online-is-in-a-read-only-state"></a>Project Online befindet sich im schreibgeschützten Zustand
+# <a name="project-online-is-in-a-read-only-state"></a>Project Online ist schreibgeschützt.
 
-Es gibt drei häufige Gründe, warum Project online einen schreibgeschützten Zustand erreichen können:
+Es gibt drei häufige Gründe, warum Project Online einen schreibgeschützten Zustand erreichen können:
 
-1. Organisationen haben nur eine Project Online Essentials-Lizenz (en). Dies reicht nicht aus, um die Website am Leben zu erhalten, und Sie wird schließlich degeplant.Wir platzieren die Website in einem schreibgeschützten Zustand, sodass Administratoren wissen, dass etwas nicht stimmt und die richtigen Lizenzen erwerben kann. Administratoren müssen eine Project Online Professional-und/oder Premium-Lizenz hinzufügen. Die Website wird an diesem Ort schreibgeschützt sein. Weitere Informationen finden Sie unter [Compare Project Management Solutions](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Zugewiesenes Kontingent wurde erreicht. Weitere Informationen finden Sie unter [Project Web App Quota](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota). Überprüfen Sie [configure Rollup of Zeitphasen-Berichtsdaten in Project Online](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) , um zu sehen, wie sich die Berichts Granularität auf die Kontingent Nutzung auswirken kann.
-3. Read-Only kann eine sehr temporäre Bedingung sein, die während der Wartung auftreten kann. Die meisten Wartungsarbeiten werden von unseren Kunden nicht einmal bemerkt, und Sie werden dies nicht oft sehen, aber es gibt Zeiten, in denen nur ein schreibgeschützter Zeitaufwand vorliegt.
+1. Organisationen verfügen nur über eine Project Online Essentials Lizenz(en). Dies reicht nicht aus, um die Website am Leben zu erhalten, und die Bereitstellung wird schließlich aufgehoben. Wir platzieren die Website in einem schreibgeschützten Zustand, damit Administratoren wissen, dass etwas nicht stimmt und die richtigen Lizenzen erworben werden können. Administratoren müssen eine Project Online Professional- und/oder Premium-Lizenz hinzufügen. Die Website ist zu diesem Zeitpunkt schreibgeschützt. Weitere Informationen finden [Sie unter Projektmanagementlösungen vergleichen](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
+2. Das zugewiesene Kontingent wurde erreicht. Weitere Informationen finden Sie unter [Project Web App-Kontingent](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota). Überprüfen Sie [das Konfigurieren des Rollups von Zeitphasenberichtsdaten in Project Online](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online), um zu sehen, wie sich die Granularität der Berichterstellung auf die Kontingentnutzung auswirken kann.
+3. Schreibgeschützt kann eine sehr temporäre Bedingung sein, die während der Wartung auftreten kann. Die meisten Wartungsarbeiten werden nicht einmal von unseren Kunden bemerkt, und Sie werden dies nicht oft sehen, aber es gibt Zeiten, in denen kurze Zeiträume mit Schreibschutz erlebt werden.

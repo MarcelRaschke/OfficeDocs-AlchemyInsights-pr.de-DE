@@ -1,32 +1,31 @@
 ---
-title: Ändern des Sperrbildschirm Hintergrunds
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Ändern des Hintergrunds des Sperrbildschirms
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2e112d9ed9142920ade6a3c0345e1978c4832ed
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714471"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66370191"
 ---
-# <a name="change-your-lock-screen-background"></a>Ändern des Sperrbildschirm Hintergrunds
+# <a name="change-your-lock-screen-background"></a>Ändern des Hintergrunds des Sperrbildschirms
 
-- Wechseln Sie zu **Einstellungen**  >  **Personalisierung**  >  **Sperrbildschirm**. Oder klicken oder tippen Sie [hier](ms-settings:lockscreen?activationSource=GetHelp).
+- Wechseln Sie zum **Sperrbildschirm** "**Einstellungen** > **für die Personalisierung** > ". Oder klicken oder tippen Sie [hier](ms-settings:lockscreen?activationSource=GetHelp).
 
-- Um ein benutzerdefiniertes Hintergrundbild festzulegen, wählen Sie in der Dropdownliste **Hintergrund** die Option **Bild** aus, und wählen Sie aus, oder **Navigieren** Sie zur Grafik.
+- Wenn Sie ein benutzerdefiniertes Hintergrundbild festlegen möchten, wählen Sie in der Dropdownliste "**Hintergrund**" die Option **"Bild**" aus, und wählen Sie das Bild aus, oder **navigieren Sie** zum Bild.
 
   ![Legen Sie ein benutzerdefiniertes Hintergrundbild fest.](media/set-custom-background-pic.png)
 
-- Um eine Diashow von benutzerdefinierten Bildern einzurichten, wählen Sie in der Dropdownliste **Hintergrund** die Option **Diashow** aus, und wählen Sie ein Album aus, oder fügen Sie einen Ordner hinzu, der die Bilder für die Diashow enthält.
+- Um eine Bildschirmpräsentation mit benutzerdefinierten Bildern einzurichten, wählen Sie in der Dropdownliste "**Hintergrund**" die Option **"Bildschirmpräsentation**" und dann ein Album aus, oder fügen Sie einen Ordner hinzu, der die Bilder für die Bildschirmpräsentation enthält.
 
-  ![Einrichten einer Diashow von benutzerdefinierten Bildern.](media/set-up-slideshow-background.png)
+  ![Richten Sie eine Bildschirmpräsentation mit benutzerdefinierten Bildern ein.](media/set-up-slideshow-background.png)

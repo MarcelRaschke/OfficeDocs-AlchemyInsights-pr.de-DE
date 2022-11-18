@@ -1,30 +1,29 @@
 ---
 title: Verwalten von Besprechungsaufzeichnungen für die Bildung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6131"
 - "9002530"
-ms.openlocfilehash: 144480dbed8b74f8b395b6b80c586038a1f12697
-ms.sourcegitcommit: e1d72cf118451ed62e975970e5a2faa4b13282f5
+- "6131"
+ms.date: 08/03/2020
+ms.openlocfilehash: b61ec0b83b9e456e0fd1a8a16d993bae0d8b0792
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48753670"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66433147"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>Verwalten von Besprechungsaufzeichnungen für die Bildung
 
-Ab dem **20. August 2020** stehen Besprechungsaufzeichnung in Teams für Benutzer mit A1- oder A1 Plus-Lizenzen während 21 Tagen zur Verfügung.
+Ab dem **20. August 2020** stehen Besprechungsaufzeichnung in Teams für Benutzer mit A1- oder A1 Plus-Lizenzen während 21 Tagen zur Verfügung.
 
-Weitere Informationen, einschließlich der Vorgehensweise zum Speichern der Aufzeichnung an einem anderen Speicherort, finden Sie unter [Hochladen einer Microsoft Teams-Besprechungsaufzeichnung in Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
+Weitere Informationen, einschließlich der Vorgehensweise zum Speichern der Aufzeichnung an einem anderen Speicherort, finden Sie unter [Hochladen einer Microsoft Teams-Besprechungsaufzeichnung in Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
 
 Microsoft Teams Besprechungsaufzeichnungen können jetzt in OneDrive SharePoint gespeichert werden. Weitere Informationen sowie die Möglichkeit zur Anmeldung dazu finden Sie im folgenden Nachrichtencenter-Beitrag:
 

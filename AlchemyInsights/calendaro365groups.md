@@ -1,23 +1,22 @@
 ---
-title: 402 Kalender-O365Groups
+title: 402 Kalender - O365Groups
 ms.author: chrisda
 author: chrisda
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: dansimp
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: 402
-ms.assetid: 3f6b7230-28a3-40d9-b30a-c7f252b91d37
-ms.openlocfilehash: 3306a1d68d44b8b2e6b64ae4f591107d4f4559f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 2ccd890ee1868bb234a4d9fb2ba31824fed25aaa
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748756"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66537074"
 ---
 # <a name="calenders-in-microsoft-365-groups"></a>Kalender in Microsoft 365-Gruppen
 
-Weitere Informationen zu Kalendern in Microsoft 365-Gruppen finden Sie unter [Learn about Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).
+Weitere Informationen zu Kalendern in Microsoft 365-Gruppen finden [Sie unter "Weitere Informationen zu Microsoft 365-Gruppen](https://support.microsoft.com/office/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)".

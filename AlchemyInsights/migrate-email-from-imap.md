@@ -1,23 +1,23 @@
 ---
 title: Migrieren von E-Mails aus IMAP
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
-- "732"
 - "1200030"
-ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: e59912d98125002cf97a6b4a5201c2c73421c98f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "732"
+ms.date: 04/21/2020
+ms.openlocfilehash: a4127fc58a3789e3ffc62410ce41f477e59ff34c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754842"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66308844"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>Bei der Fehlermeldung „Keine akzeptierte Domäne“
 

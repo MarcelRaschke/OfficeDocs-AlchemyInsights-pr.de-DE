@@ -1,24 +1,23 @@
 ---
 title: Anmelden bei Teams nicht möglich
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9003569"
 - "6660"
-ms.openlocfilehash: 12fbd78ca8213df9b060609d06816ff1110645b5
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.date: 08/20/2020
+ms.openlocfilehash: c0e67ea586331600f40f66af5230912d67dc9371
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334121"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66415129"
 ---
 # <a name="cant-sign-in-to-teams"></a>Anmelden bei Teams nicht möglich
 

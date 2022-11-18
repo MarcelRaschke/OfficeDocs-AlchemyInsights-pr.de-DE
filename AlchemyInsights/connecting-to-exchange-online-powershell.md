@@ -3,24 +3,22 @@ title: 760 Herstellen einer Verbindung mit Exchange Online PowerShell
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "760"
 - "3500011"
-ms.assetid: 0f9e4dc5-1e06-4941-860b-4474a6f63247
-ms.openlocfilehash: b6990956eae6d83d6b6e0cef964b9d77330ca87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "760"
+ms.date: 04/21/2020
+ms.openlocfilehash: fe61e6d911739f4e8c88872252beeb4cb19a8ecf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748027"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66412789"
 ---
 # <a name="connect-to-exchange-online-powershell"></a>Herstellen einer Verbindung mit Exchange Online PowerShell
 
-Informationen zum Verwenden von PowerShell in Exchange Online finden Sie unter [Verwenden der Exchange Online PowerShell mit moderner Authentifizierung mithilfe des v2-Moduls](https://aka.ms/exops-docs).
+Informationen zur Verwendung von PowerShell in Exchange Online finden Sie unter [Verwenden des Exchange Online PowerShell mit moderner Authentifizierung mithilfe des V2-Moduls](https://aka.ms/exops-docs).

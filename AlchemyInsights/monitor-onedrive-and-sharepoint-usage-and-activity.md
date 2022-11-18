@@ -1,27 +1,27 @@
 ---
-title: Überwachen von OneDrive und SharePoint-Nutzung und-Aktivität
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Überwachen der Nutzung und Aktivität von OneDrive und SharePoint
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "865"
 - "5300020"
-ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 7bf2c8dbb542773fce8830890f869d9dc99a9f66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "865"
+ms.date: 04/21/2020
+ms.openlocfilehash: 655c429b3a524fde92511c2fd517396c2f30dd39
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666653"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66402483"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Anzeigen von Berichten zu OneDrive und SharePoint-Aktivitäten und-Verwendung
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Anzeigen von Berichten zu OneDrive- und SharePoint-Aktivitäten und -Nutzung
 
-Wechseln Sie zur [Seite Verwendungsberichte im Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home). Wählen Sie unter **Bericht auswählen**den Bericht OneDrive oder SharePoint-Aktivität oder-Nutzung aus.
+Wechseln Sie zur [Seite "Verwendungsberichte](https://admin.microsoft.com/Adminportal/Home?ref=reportsUsage)" im Microsoft 365 Admin Center. Wählen **Sie unter "Bericht auswählen**" den OneDrive- oder SharePoint-Aktivitäts- oder Nutzungsbericht aus.
   
 [Weitere Informationen zu OneDrive-Berichten](https://go.microsoft.com/fwlink/?linkid=875239)
   

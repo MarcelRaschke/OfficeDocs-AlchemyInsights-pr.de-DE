@@ -1,26 +1,29 @@
 ---
-title: Verwenden von JAMF zum Konfigurieren von Microsoft-Edge-Richtlinieneinstellungen unter macOS
+title: Verwenden von Jamf zum Konfigurieren von Microsoft Edge-Richtlinieneinstellungen unter macOS
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9003852"
+- "9004632"
+- "9006494"
 - "6901"
-ms.openlocfilehash: 7874ce15417958cfe2e3b2ff068b3eb7241e6812
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8360"
+- "11115"
+ms.openlocfilehash: 873ad17f456102e61ce2a7b8437d761019395137
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617548"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66412753"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Verwenden von JAMF zum Konfigurieren von Microsoft-Edge-Richtlinieneinstellungen unter macOS
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Verwenden von Jamf zum Konfigurieren von Microsoft Edge-Richtlinieneinstellungen unter macOS
 
-Verwenden Sie zum Konfigurieren von Microsoft Edge (stable Channel 81 oder höher) unter macOS eine Microsoft Edge Policy Manifest-Datei auf JAMF pro 10,19.
+Verwenden Sie zum Konfigurieren von Microsoft Edge (Stable Channel 81 oder höher) unter macOS eine Microsoft Edge-Richtlinienmanifestdatei auf Jamf Pro 10.19.
 
-Weitere Informationen finden Sie unter [configure Microsoft Edge Policy settings on macOS with JAMF](https://go.microsoft.com/fwlink/?linkid=2134761).
+Weitere Informationen finden Sie unter [Konfigurieren von Microsoft Edge-Richtlinieneinstellungen unter macOS mit Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).

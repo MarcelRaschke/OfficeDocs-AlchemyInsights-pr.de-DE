@@ -1,24 +1,23 @@
 ---
 title: Abschalten des Azure Rights Management Service (RMS)
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "5070"
 - "9002278"
-ms.openlocfilehash: 6bacfd0e383c1a7c02b50e60f9626a733ee68cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "5070"
+ms.date: 08/03/2020
+ms.openlocfilehash: f502d68f7a5356f940f4eb8d3855250bb14b8a21
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745786"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66422662"
 ---
 # <a name="decommission-azure-rights-management-service-rms"></a>Abschalten des Azure Rights Management Service (RMS)
 
@@ -32,7 +31,7 @@ Zusätzliche Informationen zum Abschalten und Deaktivieren des Schutzes für Azu
     
 - [Migrieren von Azure Information Protection-Bezeichnungen zu einheitlichen Vertraulichkeitsbezeichnungen](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)  
     
-- [Azure Information Protection – Preisgestaltung](https://azure.microsoft.com/pricing/details/information-protection)  
+- [Azure Information Protection – Preisgestaltung](https://azure.microsoft.com/solutions/information-protection)  
     
 - [Azure Information Protection – Anforderungen](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
     

@@ -3,21 +3,23 @@ title: Lizenz fehlt oder wird im Admin Center nicht mehr angezeigt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+ms.reviewer: argani, nicholak
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
+- commerce_licensing
 - "9003038"
 - "5800"
-ms.openlocfilehash: 3480d5d05917837fa03f8e714efa3856275a73b9
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.date: 06/06/2022
+ms.openlocfilehash: c58a7bca169911bd1d33bde89257a269cf71969c
+ms.sourcegitcommit: b4049885146fc15ae6b8c2a565b6895ddabf8ee5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286885"
+ms.lasthandoff: 06/07/2022
+ms.locfileid: "65917849"
 ---
 # <a name="license-missing-or-disappears-from-the-admin-center"></a>Lizenz fehlt oder wird im Admin Center nicht mehr angezeigt
 

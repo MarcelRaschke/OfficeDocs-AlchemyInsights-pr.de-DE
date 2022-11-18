@@ -1,25 +1,25 @@
 ---
-title: Veröffentlichungs Infrastruktur mit einer Kommunikationswebsite
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Veröffentlichungsinfrastruktur mit einer Kommunikationswebsite
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: e67fc09d66fcd75e08ebf815f4cb3eddfb68cb3e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.date: 04/21/2020
+ms.openlocfilehash: 83491796e3c4e2b4936423c2550a48ae926b6a01
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751818"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66400287"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a>Veröffentlichungs Infrastruktur mit einer Kommunikationswebsite
+# <a name="publishing-infrastructure-with-a-communication-site"></a>Veröffentlichungsinfrastruktur mit einer Kommunikationswebsite
 
 
-Das Aktivieren des Features für die SharePoint Server Veröffentlichungs Infrastruktur wird für Kommunikationswebsites **nicht unterstützt** . 
+Das Aktivieren der SharePoint Server-Veröffentlichungsinfrastruktur wird bei Kommunikationswebsites **nicht unterstützt** . 
   
 Weitere Informationen finden Sie unter [Veröffentlichtungsseiten in Kommunikationswebsites umwandeln](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
   

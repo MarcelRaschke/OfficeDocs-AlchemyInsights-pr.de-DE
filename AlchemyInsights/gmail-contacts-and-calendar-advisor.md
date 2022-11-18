@@ -1,30 +1,32 @@
 ---
-title: Migrieren von gmail-Kontakten oder Google-Kalendern zu Office 365 oder Outlook
+title: Migrieren von Gmail-Kontakten oder Google-Kalendern zu Office 365 oder Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- 9004197/7378
-- 9003961/7017
-ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
-ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
+- "9004197"
+- "9003961"
+- "7378"
+- "7017"
+ms.date: 07/11/2022
+ms.openlocfilehash: cc872fc572dd08d5ffd9035d864882a4758e5326
+ms.sourcegitcommit: dde4791e51e33ff281189c98c5e70e66f2559214
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "49731737"
+ms.lasthandoff: 07/12/2022
+ms.locfileid: "66720105"
 ---
-# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Migrieren von gmail-Kontakten oder Google-Kalendern zu Office 365 oder Outlook
+# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Migrieren von Gmail-Kontakten oder Google-Kalendern zu Office 365 oder Outlook
 
-Die einfachste Möglichkeit zum Importieren von gmail-Kontakten und Kalender in Office ist die Verwendung der Gmail-Kontakte und des Kalender Ratgebers.
+Die einfachste Möglichkeit zum Importieren von Gmail-Kontakten und -Kalendern in Office ist die Verwendung des Gmail-Kontakt- und Kalenderratgebers.
 
-Der [Gmail contacts and Calendar Advisor](https://go.microsoft.com/fwlink/?linkid=2134386) zeigt Ihnen, wie Sie Ihre Gmail-Kontakte und Kalenderelemente mit verschiedenen Import-und Exportmethoden mit Office 365 synchronisieren.
+Der [Gmail-Kontakt- und Kalenderratgeber](https://go.microsoft.com/fwlink/p/?linkid=2201256) zeigt Ihnen, wie Sie Ihre Gmail-Kontakte und Kalenderelemente mithilfe verschiedener Import- und Exportmethoden mit Office 365 synchronisieren.
 
-Wenn Sie Ihre e-Mails noch nicht migriert haben, bietet der [e-Mail-Setup Ratgeber](https://go.microsoft.com/fwlink/?linkid=2133951) schrittweise Anweisungen zum Abschließen der Postfachmigration.
+Wenn Sie Ihre E-Mails noch nicht migriert haben, enthält der [Email Setup-Advisor](https://go.microsoft.com/fwlink/p/?linkid=2201384) schrittweise Anleitungen zum Abschließen der Postfachmigration.
 
-Informationen zum Anzeigen Ihres Google-Kalenders in Outlook [finden Sie unter Google Calendar in Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).
+Wenn Sie erfahren möchten, wie Sie Ihren Google-Kalender in Outlook anzeigen, sehen [Sie sich Ihren Google-Kalender in Outlook](https://go.microsoft.com/fwlink/?linkid=2083939) an.

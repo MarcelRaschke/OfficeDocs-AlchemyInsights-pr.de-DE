@@ -1,28 +1,27 @@
 ---
 title: Hinzufügen von Bookings zu Teams
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002238"
-- "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: a189e8d74efb869b1068accbe6e065a0aebd0b1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "5041"
+ms.openlocfilehash: 5892cdbfe31e3e3aa9888a0f1455f386d18af7de
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697088"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66276652"
 ---
 # <a name="adding-bookings-to-teams"></a>Hinzufügen von Bookings zu Teams
 
 Microsoft Bookings ist eine Terminplanungs-App, die Ihnen hilft, Ihre Buchungen, Mitarbeiter und Kunden nachzuverfolgen. Administratoren können Bookings durch [Verwalten von Richtlinien für das App-Setup in Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) als App zur Microsoft Teams-App-Leiste ihrer Benutzer hinzufügen.
 
-Informationen oder Problembehandlung für die Bookings-App finden Sie in den Artikeln zu [Microsoft Bookings](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).
+Informationen oder Problembehandlung für die Bookings-App finden Sie in den Artikeln zu [Microsoft Bookings](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq).

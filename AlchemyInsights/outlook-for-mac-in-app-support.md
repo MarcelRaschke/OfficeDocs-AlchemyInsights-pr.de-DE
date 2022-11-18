@@ -1,27 +1,25 @@
 ---
-title: 1800009 Outlook für Mac in-app-Unterstützung
-ms.author: supravee
-author: supravee
+title: 1800009 Outlook für Mac In-App-Unterstützung
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "135"
 - "1800009"
-ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: e56e283e3a587616e24a49f96be07c0a7805134d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "135"
+ms.openlocfilehash: 7347198b2137fc9180649da367b2f62705b2641b
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722094"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66583778"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>In-app-Unterstützung in Outlook für Mac
+# <a name="in-app-support-in-outlook-for-mac"></a>In-App-Unterstützung in Outlook für Mac
 
-Wenn Sie Unterstützung in-App für Outlook für Mac Probleme erhalten möchten, öffnen Sie Outlook, und klicken Sie auf **Help** \> **Contact Support**. Geben Sie Ihre Frage ein, und ein Mitglied des Outlook für Mac Support Teams wird sich mit Ihnen in Verbindung setzen. 
+Um Support in der App für Outlook für Mac Probleme zu erhalten, öffnen Sie Outlook, und klicken Sie auf **"Hilfe** \> **kontaktieren"**. Geben Sie Ihre Frage ein, und ein Mitglied des Outlook für Mac Supportteams wird sich mit Ihnen in Verbindung setzen. 
 
-Weitere Informationen: [kontaktieren des Supports in Outlook für Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
+Weitere Informationen: [Kontaktieren des Supports in Outlook für Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

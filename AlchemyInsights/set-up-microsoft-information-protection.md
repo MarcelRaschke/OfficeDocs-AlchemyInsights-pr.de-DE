@@ -1,25 +1,26 @@
 ---
-title: Einrichten von Microsoft Information Protection
+title: Microsoft Purview Information Protection einrichten
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
+- "9000181"
 - "9004221"
 - "7429"
-ms.openlocfilehash: bde2c53eccb4ac687a064c3ab44c362d995e2fa6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "9254"
+ms.date: 12/03/2020
+ms.openlocfilehash: 45a23f02441710782e66367bff3b2ef80dcb18eb
+ms.sourcegitcommit: 64d850cc22b72c0443cde335841db1d3174fe4b6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609615"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66578474"
 ---
-# <a name="set-up-microsoft-information-protection"></a>Einrichten von Microsoft Information Protection
+# <a name="set-up-microsoft-purview-information-protection"></a>Microsoft Purview Information Protection einrichten
 
-Verschaffen Sie sich einen Überblick über die Funktionen, die Sie für Ihre Informationsschutzstrategie einsetzen können, um sicher zu sein, dass Ihre vertraulichen Informationen geschützt sind. Verwenden Sie einen vierstufigen Lebenszyklusansatz zum Ermitteln, Klassifizieren, Schützen und Überwachen von vertraulichen Informationen. Der Leitfaden „Einrichten von Microsoft Information Protection“ enthält Anleitungen zum Durchführen jeder dieser Phasen.
+Verschaffen Sie sich einen Überblick über die Funktionen, die Sie für Ihre Informationsschutzstrategie einsetzen können, um sicher zu sein, dass Ihre vertraulichen Informationen geschützt sind. Verwenden Sie einen vierstufigen Lebenszyklusansatz zum Ermitteln, Klassifizieren, Schützen und Überwachen von vertraulichen Informationen. Der [Microsoft Purview Information Protection-Einrichtungsleitfaden](https://go.microsoft.com/fwlink/p/?linkid=2198230) enthält Anleitungen zum Durchführen jeder dieser Stufen.

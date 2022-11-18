@@ -1,32 +1,31 @@
 ---
 title: Kachelfehler
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/22/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1331"
 - "2500002"
-ms.openlocfilehash: 880002a3aba20d363e892a8adafcc9b469f9c748
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1331"
+ms.date: 07/22/2020
+ms.openlocfilehash: 22644198e3c966711378d42ac743f67dcd5316d4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805642"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66279982"
 ---
 # <a name="tile-errors"></a>Kachelfehler
 
-- „Unerwartete Fehler beim Laden des Modells.“ Versuchen Sie es später erneut.
+- „Unerwartete Fehler beim Laden des Modells.“ Versuchen Sie es später noch mal.
 
-- "Sie haben keine Berechtigungen zum Anzeigen dieser Kachel.“ Wenden Sie sich an den Dashboardbesitzer.
+- „Keine Berechtigungen zum Anzeigen dieser Kachel.“ Wenden Sie sich an den Besitzer des Dashboards..
 
-- "Daten-Shapes müssen mindestens eine Gruppe oder eine Berechnung enthalten, die Daten ausgibt.“ Wenden Sie sich an den Dashboardbesitzer.
+- „Datenformen müssen mindestens eine Gruppe oder Berechnung enthalten, die Daten ausgibt." Wenden Sie sich an den Besitzer des Dashboards.
 
 - „Es gibt keine Daten, die angezeigt werden können, weil die Abfrage leer ist.“ Versuchen Sie, einige Felder aus der Feldliste zu Ihrem visuellen Element hinzuzufügen und es dann erneut anzuheften.
 

@@ -2,33 +2,30 @@
 title: Bereits bezahlt?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.reviewer: lishepar, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "466"
+- commerce_billing
 - "1500024"
-ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 1e3915f2120b5ba017741dbb9bac42528db9cee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "466"
+ms.date: 04/21/2020
+ms.openlocfilehash: 7253c6531d04d5cdcdec3c67f1c562cec856f366
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718008"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66302194"
 ---
 # <a name="already-paid"></a>Bereits bezahlt?
 
-Wenn Sie bereits über die Zahlung versandt haben, können Sie uns Bescheid geben:
+Wenn Sie bereits eine Zahlung gesendet haben, können Sie uns Folgendes mitteilen:
   
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Abonnements](https://go.microsoft.com/fwlink/p/?linkid=842054).
-
-2. Wählen Sie ein Abonnement aus, und wählen Sie im Abschnitt **meine Rechnung** die Option **Rechnung anzeigen**aus.
-
-3. Wählen Sie auf der Seite **Zahlungsdetails** die Option **bereits bezahlt? aus.** Sie werden aufgefordert, Informationen in Bezug auf die gesendete Zahlung einzugeben.
-
-4. Wenn alle erforderlichen Informationen eingegeben wurden, wählen Sie **senden**aus.
+2. Wählen Sie ein Abonnement und dann im Abschnitt **"Meine Rechnung** " die Option " **Rechnung anzeigen"** aus.
+3. Wählen Sie auf der Seite **"Rechnungsdetails** " **die Option "Bereits bezahlt" aus?** Sie werden aufgefordert, Informationen im Zusammenhang mit der Zahlung einzugeben, die gesendet wurde.
+4. Wenn alle erforderlichen Informationen eingegeben wurden, wählen Sie **"Senden" aus**.

@@ -1,28 +1,27 @@
 ---
-title: 1374 lösen von zwei Postfächern howto
+title: 1374 Auflösen von zwei Postfächern wiezu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
+- "3500014"
 - "1374"
 - "2692"
-- "3500014"
-ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: b19bece1b3f8eba7ebcc06f00e11cdf6f1f0df11
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720897"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66430540"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Ein Benutzer verfügt über zwei Postfächer
 
-Hybrid Umgebungen, die Azure Active Directory Connect (AAD Connect) oder Dirsync verwenden, können versehentlich dazu führen, dass ein Benutzer über zwei Postfächer verfügt: einen lokal und einen in der Cloud. An beiden stellen konnte ein doppeltes Postfach erstellt werden.
+Hybridumgebungen, die Azure Active Directory Connect (AAD Connect) oder DirSync verwenden, führen möglicherweise versehentlich dazu, dass ein Benutzer zwei Postfächer hat: ein lokales und eins in der Cloud. An beiden Stellen kann ein doppeltes Postfach erstellt werden.
 
-Informationen zum Beheben dieses Problems finden Sie unter [Wiederherstellen, wenn ein Postfach sowohl in Exchange Online als auch lokal vorhanden ist](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Wenn Sie mehr darüber erfahren möchten, wie dies in Zukunft vermieden werden kann, finden Sie unter [mein Benutzer verfügt über ein Postfach sowohl lokal als auch in Exchange Online. Hilfe!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Informationen zum Beheben dieses Problems finden Sie unter [Wiederherstellen, wenn ein Postfach sowohl in Exchange Online als auch lokal vorhanden ist](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Wenn Sie mehr darüber erfahren möchten, wie Sie dies zukünftig vermeiden können, lesen [Sie "Mein Benutzer hat ein Postfach sowohl lokal als auch in Exchange Online". Hilfe!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

@@ -2,25 +2,24 @@
 title: 414 Sucherfahrung aktualisiert
 ms.author: chrisda
 author: chrisda
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: dansimp
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
+- "1600043"
 - "415"
 - "414"
-- "1600043"
-ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: 66f42725118b078bd833ae6a143f89825e1627aa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: ee6a9435323ebfab02cdb1a0c825b52eba2a3c90
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691862"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66317343"
 ---
-# <a name="search-experience-updated"></a>Aktualisierte Suchumgebung
+# <a name="search-experience-updated"></a>Suchoberfläche aktualisiert
 
-Die Suche befindet sich jetzt unten in der app. Durch Tippen darauf haben Sie direkten Zugriff auf Ihre besten Kontakte, bevorstehende Reisepläne, Paketlieferungen und zuletzt verwendete Anlagen. Sie können in einem einzigen Suchfeld nach e-Mail-Nachrichten, Dateien und Kontakten in ihren Konten suchen oder die Suche mithilfe unserer neuen Filter einschränken.
+Die Suche befindet sich jetzt am unteren Rand der App. Wenn Sie darauf tippen, erhalten Sie direkten Zugriff auf Ihre wichtigsten Kontakte, anstehende Reiserouten, Paketlieferungen und zuletzt verwendete Anlagen. Sie können in einem einzigen Suchfeld nach E-Mail-Nachrichten, Dateien und Kontakten in einem Ihrer Konten suchen oder unsere neuen Filter verwenden, um Ihre Suche einzugrenzen.

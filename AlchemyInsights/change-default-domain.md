@@ -1,24 +1,23 @@
 ---
 title: Ändern der Standarddomäne
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/8/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "5993"
 - "9003196"
-ms.openlocfilehash: 6e7f56498326b3fb4038fbb9cdc191ec4692ca65
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+- "5993"
+ms.date: 07/8/2020
+ms.openlocfilehash: 69b348e1dbc09e5686709684a3f69d0821087a6f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815676"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66381081"
 ---
 # <a name="change-default-domain"></a>Ändern der Standarddomäne
 
@@ -26,8 +25,6 @@ Nach dem Hinzufügen einer benutzerdefinierten Domäne mithilfe des [Assistenten
 
 - Um die Standarddomäne in eine vorhandene Domäne zu ändern, wählen Sie die Domäne auf der Seite [Domänen](https://admin.microsoft.com/Adminportal/Home#/Domains) und dann **Als Standard festlegen** aus.
 
-- Um den Domänennamen für vorhandene Benutzer zu ändern, wählen Sie auf der Seite [Aktive Benutzer](https://admin.microsoft.com/Adminportal/Home#/users) mehrere Benutzer aus, wählen Sie **...** und dann **Domänen ändern** aus.
+- Um den Domänennamen für vorhandene Benutzer zu ändern, wählen Sie auf der [Seite „Aktive Benutzer“](https://admin.microsoft.com/Adminportal/Home#/users) mehrere Benutzer aus und wählen Sie dann **Domänen ändern** aus.
 
 - Um die Domäne zu ändern oder einen Alias für einen einzelnen Benutzer hinzuzufügen, wählen Sie auf der Seite [Aktive Benutzer](https://admin.microsoft.com/Adminportal/Home#/users) den Benutzernamen und dann **Benutzernamen und E-Mail verwalten** aus.
-
-Die ursprüngliche "onmicrosoft.com"-Domäne kann nicht umbenannt oder entfernt werden.

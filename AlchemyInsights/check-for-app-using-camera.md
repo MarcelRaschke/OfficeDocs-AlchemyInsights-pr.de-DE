@@ -1,25 +1,24 @@
 ---
-title: Überprüfen der App mithilfe der Kamera
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+title: Überprüfen auf App mit Kamera
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - gethelp
-ms.openlocfilehash: 611cdb28c8fac766f25583100e28854149b8f79a
-ms.sourcegitcommit: 56e0cd81b44ae8fe7a63810a043a452f407e87d6
+ms.date: 04/21/2020
+ms.openlocfilehash: d55bed3c94cbc2845d669e98d29d9978e07aa141
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48210385"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66327765"
 ---
-# <a name="check-for-app-using-camera"></a>Überprüfen der App mithilfe der Kamera
+# <a name="check-for-app-using-camera"></a>Überprüfen auf App mit Kamera
 
-1. Wählen Sie **Start**und dann **Einstellungen > Datenschutz > Kamera** aus (MS-Settings: Privacy-Webcam)
-2. Suchen Sie in der Liste Anwendung die APP mit der "aktuell verwendeten", und schließen Sie die Anwendung.
+1. Wählen Sie **"Start**" und dann **"Einstellungen" > "Datenschutz > Kamera** " (ms-settings:privacy-webcam) aus.
+2. Suchen Sie in der Anwendungsliste die App mit der aktuell verwendeten App, und schließen Sie die Anwendung.

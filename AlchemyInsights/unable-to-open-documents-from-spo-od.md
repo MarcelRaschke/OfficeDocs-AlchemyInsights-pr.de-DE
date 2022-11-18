@@ -1,22 +1,22 @@
 ---
 title: Dokumente können über SharePoint oder OneDrive nicht geöffnet werden
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9000104"
 - "7227"
-ms.openlocfilehash: dab30b9e4d726af426829e63c8475d7d1755a8ce
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: cae015daae442668df9fc8880b3be4d3e7e54027
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019730"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66333237"
 ---
 # <a name="unable-to-open-documents-from-sharepoint-or-onedrive"></a>Dokumente können über SharePoint oder OneDrive nicht geöffnet werden
 

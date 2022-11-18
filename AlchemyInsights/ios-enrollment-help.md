@@ -1,32 +1,31 @@
 ---
-title: Unterstützung für IOS-Registrierung
+title: Hilfe zur iOS-Registrierung
 ms.author: erikje
 author: erikje
 manager: dougeby
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 967088dfda5445d4c77f51eb177dbbb721f8a775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 88b11ffb652b853602eb69647d1795cd8b5d9bee
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695900"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66405418"
 ---
-# <a name="ios-enrollment-help"></a>Unterstützung für IOS-Registrierung
+# <a name="ios-enrollment-help"></a>Hilfe zur iOS-Registrierung
 
-Wir haben bemerkt, dass Sie möglicherweise ein Problem mit der IOS-Registrierung haben. Hier sind einige Artikel, die wir denken könnten helfen: 
+Wir haben festgestellt, dass Sie möglicherweise ein Problem mit der iOS-Registrierung haben. Hier sind einige Artikel, die unserer Meinung nach hilfreich sein könnten: 
 
-[Häufige Fehler und Lösungen für IOS-Registrierungen](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
+[Häufige iOS-Registrierungsfehler und -Lösungen](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
 
-[Erste Schritte mit InTune und IOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Erste Schritte mit Intune und iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Allgemeine Problembehandlung bei der Registrierung](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Allgemeine Registrierungsproblembehandlung](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Verwenden des InTune-Problem Behandlungs Portals zum Diagnostizieren und Beheben allgemeiner Registrierungsfehler](https://docs.microsoft.com/intune/help-desk-operators)
+[Verwenden des Intune-Portals zur Problembehandlung zum Diagnostizieren und Beheben häufiger Registrierungsfehler](https://docs.microsoft.com/intune/help-desk-operators)

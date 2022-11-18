@@ -1,31 +1,28 @@
 ---
-title: Verhinderung von Datenverlust (DLP) (Übersicht)
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+title: Übersicht über Microsoft Purview Data Loss Prevention (DLP)
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: f4f4757e652b276d44b266eef73f5b5161615281
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.openlocfilehash: 2607d0f9af97065263fa62ed5922a4b83a8a98a6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731310"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66354760"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Verhinderung von Datenverlust (DLP) (Übersicht)
+# <a name="microsoft-purview-data-loss-prevention-dlp-overview"></a>Übersicht über Microsoft Purview Data Loss Prevention (DLP)
 
 Eine DLP-Richtlinie bietet Ihnen folgende Möglichkeiten:
 
-- Identifizieren von vertraulichen Informationen über mehrere Standorte hinweg, beispielsweise Exchange Online, SharePoint Online und OneDrive für Unternehmen.
+- Identifizieren Sie vertrauliche Informationen an vielen Standorten, z. B. Exchange Online, SharePoint Online und OneDrive for Business.
 
-
-Beispielsweise können Sie alle Dokumente ermitteln, die eine Kreditkartennummer enthalten und auf einer OneDrive for Business-Website gespeichert sind. Sie können auch nur die OneDrive-Websites bestimmter Personen überwachen.
+    Beispielsweise können Sie alle Dokumente ermitteln, die eine Kreditkartennummer enthalten und auf einer OneDrive for Business-Website gespeichert sind. Sie können auch nur die OneDrive-Websites bestimmter Personen überwachen.
 
 - Verhindern, dass vertrauliche Informationen unbeabsichtigt an andere Personen weitergegeben werden.
 
-
-Lesen Sie den folgenden [Artikel](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies), um weitere Informationen zu erhalten.
-
+Weitere Informationen finden Sie in der [Referenz zur Verhinderung von Datenverlust](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies).

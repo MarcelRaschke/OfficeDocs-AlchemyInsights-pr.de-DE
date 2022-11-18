@@ -1,23 +1,22 @@
 ---
 title: Aktivieren des Entwicklermodus unter Windows 10
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002955"
 - "5657"
-ms.openlocfilehash: aa4d75c6e293355ef0bdd965bcdf4789f4548624
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c635deafe3a94715b8513e80379703945e6a04b3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806470"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66270100"
 ---
 # <a name="enable-developer-mode-in-windows-10"></a>Aktivieren des Entwicklermodus unter Windows 10
 

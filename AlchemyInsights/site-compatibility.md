@@ -1,24 +1,23 @@
 ---
-title: Informationen zur Website Kompatibilität – Auswirkungen auf Änderungen, die in Microsoft Edge kommen
+title: Erfahren Sie mehr über die Websitekompatibilität– auswirkungen auf Änderungen, die an Microsoft Edge vorgenommen werden
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9003849"
 - "6899"
-ms.openlocfilehash: e7b4bc2a896133affa40b38c326cada6fcb396c6
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 8f2d4544c11bfeebecc2b22e9928cf284353d5cc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49652169"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66263098"
 ---
-# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>Informationen zur Website Kompatibilität – Auswirkungen auf Änderungen, die in Microsoft Edge kommen
+# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>Erfahren Sie mehr über die Websitekompatibilität– auswirkungen auf Änderungen, die an Microsoft Edge vorgenommen werden
 
-Das Internet entwickelt sich ständig weiter, um die Benutzerfreundlichkeit, die Sicherheit und den Datenschutz zu verbessern. Einige Änderungen sind erheblich genug, um die Funktionalität vorhandener Seiten zu beeinflussen. Das Microsoft Edge-Team aktualisiert die Seiten, wenn sich denken entwickelt, Zeitpläne verfestigen und [Änderungen angekündigt werden](https://go.microsoft.com/fwlink/?linkid=2135534).
+Das Web entwickelt sich ständig weiter, um die Benutzerfreundlichkeit, Sicherheit und Privatsphäre zu verbessern. Einige Änderungen sind erheblich genug, um die Funktionalität vorhandener Seiten zu beeinflussen. Das Microsoft Edge-Team aktualisiert die Seiten, während sich das Denken weiterentwickelt, Zeitachsen verfestigt [und Änderungen angekündigt werden](https://go.microsoft.com/fwlink/?linkid=2135534).

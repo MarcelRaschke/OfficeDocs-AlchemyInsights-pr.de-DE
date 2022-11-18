@@ -1,29 +1,29 @@
 ---
-title: Ändern der Größe von Nachrichten oder Anlagen
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+title: Ändern der Nachrichten- oder Anlagengröße
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "895"
 - "8000036"
-ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: d939f9fa4f95a247d1db83cea1afb02161c19259
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "895"
+ms.openlocfilehash: 400a88bfea1a7d67aeecce688ed18879484b751d
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714210"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66539954"
 ---
-# <a name="changing-message-or-attachment-size"></a>Ändern der Größe von Nachrichten oder Anlagen
+# <a name="changing-message-or-attachment-size"></a>Ändern der Nachrichten- oder Anlagengröße
 
-Als Microsoft 365-Administrator können Sie die maximale/minimale Größe von Nachrichten (einschließlich Anlagen) ändern, die Ihre Benutzer senden. Dies ist für einzelne Benutzer oder alle Benutzer möglich (Organisationsstandard). Nachdem Sie diese Einstellung geändert haben, dauert es etwa 30 Minuten, bis Sie wirksam werden.
+Als Microsoft 365-Administrator können Sie die maximale/minimale Größe von Nachrichten (einschließlich Anlagen) ändern, die Ihre Benutzer senden. Sie können dies für einzelne Benutzer oder alle Benutzer tun (Standardeinstellung der Organisation). Nachdem Sie diese Einstellung geändert haben, dauert es ca. 30 Minuten, bis sie wirksam wird.
   
-- Um die Nachrichtengröße für einen bestimmten Benutzer zu ändern, wechseln Sie zu **Admin Centers** \> **Exchange** \> **Recipients** \> **Mailboxes**. Wählen Sie das Postfach eines Benutzers aus. Wählen Sie das Symbol bearbeiten aus, wählen Sie **Postfachfunktionen**aus, und wählen Sie dann unter Einschränkungen für die **Nachrichtengröße**die Option **Details anzeigen** aus, und geben Sie neue maximale Nachrichtengröße an.
+- Um die Nachrichtengröße für einen bestimmten Benutzer zu ändern, wechseln Sie zu **Admin Die** \> **Postfächer** der **Exchange-Empfänger** \> werden **zentriert**\>. Wählen Sie das Postfach eines Benutzers aus. Wählen Sie das Symbol "Bearbeiten", dann **die Postfachfeatures** aus, und wählen Sie dann unter " **Einschränkungen der Nachrichtengröße**" die Option " **Details anzeigen"** aus, und geben Sie eine neue maximale Nachrichtengröße an.
 
-- Informationen darüber, wie Sie dies für alle Postfächer ändern können, finden Sie in [diesem Artikel](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- Informationen dazu, wie Sie dies für alle Postfächer ändern können, finden Sie [in diesem Artikel](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 
-- Informationen zu maximalen Grenzwerten mithilfe von Outlook oder Outlook im Web finden Sie in [diesem Artikel](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile hat einen maximalen Grenzwert von 25 MB erhöht. Um Unterstützung für Outlook IOS und Android zu erhalten, [Klicken Sie hier](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
+- Informationen zu Maximalgrenzwerten mit Outlook oder Outlook im Web finden Sie [in diesem Artikel](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile hat einen Maximalgrenzwert von 25 MB. Klicken [Sie hier, um](https://support.microsoft.com/office/get-in-app-help-for-outlook-for-ios-and-android-218a22d1-9fa5-4889-b689-de1c63493243) Unterstützung für Outlook iOS und Android zu erhalten.

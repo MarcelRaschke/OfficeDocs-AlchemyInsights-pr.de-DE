@@ -1,27 +1,26 @@
 ---
 title: Beantragen des Status einer Steuerbefreiung
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 0e84de8568adca684e4d2497438f54c9d31ea49e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 22e73f213d05c2f2ed80da2f5dce2b2cc796609b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716784"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66289342"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Beantragen des Status einer Steuerbefreiung
 
-Bitte halten Sie die folgende Unterlagen bereit. Sie müssen [einen Dienstantrag stellen](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products), damit der Status einer Steuerbefreiung festgelegt werden kann.
+Bitte halten Sie die folgende Unterlagen bereit. Sie müssen [einen Dienstantrag stellen](https://go.microsoft.com/fwlink/p/?linkid=518322), damit der Status einer Steuerbefreiung festgelegt werden kann.
 
 - **Vereinigte Staaten** – Bitte halten Sie das **Zertifikat für die Befreiung von der Umsatzsteuer** bereit.
 

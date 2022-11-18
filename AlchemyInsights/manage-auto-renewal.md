@@ -1,31 +1,31 @@
 ---
-title: Automatische Verlängerung verwalten
+title: Verwalten der automatischen Verlängerung
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "350"
+- commerce_subscriptions
 - "1500012"
-ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: d26d9976fa4ebcd98ee4a8a0547f706293e78f9a
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+- "350"
+ms.date: 07/30/2021
+ms.openlocfilehash: 94bd362bf5365fd5d8bf716c73e91ad1c7bad8a3
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488808"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66154153"
 ---
-# <a name="manage-recurring-billing"></a>Verwalten von wiederkehrenden Rechnungen
+# <a name="manage-recurring-billing"></a>Verwalten der wiederkehrenden Abrechnung
 
 Sie können die wiederkehrende Abrechnung im Microsoft 365 Admin Center aktivieren oder deaktivieren.
   
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Ihre Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions).
 2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie ändern möchten.
 3. Wählen Sie auf der Seite Abonnementdetails, unter **Abonnement- und Zahlungseinstellungen**, **Wiederkehrende Abrechnung bearbeiten** aus.
 4. Wählen Sie im Bereich **Einstellungen für die wiederkehrende Abrechnung bearbeiten** zwischen den Optionen **Ein**, **Ein, aber einmal verlängern** oder **Deaktivieren** aus.

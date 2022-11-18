@@ -1,29 +1,28 @@
 ---
 title: Microsoft 365 F3-Plan erhalten
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002873"
 - "5465"
-ms.openlocfilehash: 984dfa90d6cb65199afea78563d4f97e994baa68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5fe20f20766d98e3144e744ceae9dc09c8c20ba
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706918"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66323103"
 ---
 # <a name="get-the-microsoft-365-f3-plan"></a>Microsoft 365 F3-Plan erhalten
 
-Vernetzen Sie Ihre Mitarbeiter an vorderster Front mit speziell entworfenen Tools und Oberflächen, die es ihnen ermöglichen, mit dem Microsoft 365 F3-Plan ihre beste Arbeit abzuliefern. Sie können das F3-Abonnement über das **Microsoft 365 Admin Center** hinzufügen.
+Vernetzen Sie Ihre Mitarbeiter an vorderster Front mit speziell entworfenen Tools und Oberflächen, die es ihnen ermöglichen, mit dem Microsoft 365 F3-Plan ihre beste Arbeit abzuliefern. Sie können das F3-Abonnement über das Microsoft 365 Admin Center hinzufügen.
 
-1. Navigieren Sie zu **Abrechnung > [Dienste kaufen](https://go.microsoft.com/fwlink/p/?linkid=868433)**.
+1. Navigieren Sie zu **Abrechnung > [Dienste kaufen](https://admin.microsoft.com/AdminPortal/Home?ref=catalog)**.
 
 2. Verwenden Sie das Suchfeld, um nach "F3" zu suchen.
 

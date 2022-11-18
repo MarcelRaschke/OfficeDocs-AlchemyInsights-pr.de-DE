@@ -1,50 +1,49 @@
 ---
-title: Word-Datei wurde bei Doppelklick nicht geöffnet
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Word-Datei wurde beim Doppelklicken nicht geöffnet
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "850"
 - "2100002"
-ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "850"
+ms.openlocfilehash: 5e9f4e9cd886fd762ddada56910598d5775a63ed
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794802"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66509347"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-Dokument, das in der falschen app geöffnet oder nicht geöffnet wurde
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-Dokument, das in der falschen App geöffnet wurde oder nicht geöffnet wurde
 
-Versuchen Sie einen der folgenden Vorschläge:
+Probieren Sie einen der folgenden Vorschläge aus:
 
 **Auswählen von Word als Standard**
 
-- Klicken Sie mit der rechten Maustaste auf das Dokument, wählen Sie **Öffnen mit**aus, und wählen Sie dann **Word**
+- Klicken Sie mit der rechten Maustaste auf das Dokument, wählen Sie "**Öffnen mit**" und dann **"Word**" aus.
 
 **Ausführen einer Schnellreparatur**
 
 1. Wechseln Sie zu **Systemsteuerung > Programme > Programme und Funktionen**.
 
-2. Wählen Sie das Office-Produkt aus, das Sie reparieren möchten, und wählen Sie dann **ändern**aus.
+2. Wählen Sie das Office-Produkt aus, das Sie reparieren möchten, und wählen Sie dann **"Ändern"** aus.
 
-3. Wählen Sie die Option **Schnellreparatur** aus, und wählen Sie dann **Reparieren**aus.
+3. Wählen Sie die Option **"Schnellreparatur** " und dann " **Reparieren**" aus.
 
 **Deinstallieren von Office-Versionen, die Sie nicht verwenden**
 
-1. Wechseln Sie zur Systemsteuerung, um **ein Programm > deinstallieren**, und wählen Sie dann die Office-Version aus, die Sie entfernen möchten.
+1. Wechseln Sie zu **Systemsteuerung > Programm deinstallieren**, und wählen Sie dann die Version von Office aus, die Sie entfernen möchten.
 
-2. Klicken Sie auf **deinstallieren**.
+2. Klicken Sie auf **Deinstallieren**.
 
 3. Restart your computer.
 
-**Ausführen dieser Problembehandlung zum Festlegen von Office-Dateierweiterungen zum Öffnen in Office**
+**Führen Sie diese Problembehandlung aus, um festzulegen, dass Office-Dateierweiterungen in Office geöffnet werden.**
 
-1. Führen Sie diese Problembehandlung aus: https://aka.ms/diag_officefile .
+1. Führen Sie diese Problembehandlung aus: [Problembehandlung](https://www.microsoft.com/download/details.aspx?id=55948)
 
-2. Je nach Browser **Öffnen** oder **Speichern** Sie die Problembehandlung auf dem Desktop, und **führen** Sie Sie dann aus.
+2. **Öffnen** oder **speichern Sie** je nach Browser die Problembehandlung auf Ihrem Desktop, und **führen Sie** sie dann aus.

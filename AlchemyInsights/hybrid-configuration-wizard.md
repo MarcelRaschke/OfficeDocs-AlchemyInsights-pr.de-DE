@@ -3,28 +3,27 @@ title: Assistent für die Hybridkonfiguration
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "603"
 - "3500010"
-ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 13361962fe2a3ee88a820c44c0839611c2b9b4e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "603"
+ms.date: 04/21/2020
+ms.openlocfilehash: 87d227167f81e7c95c45d9b8621d826543529ccd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743762"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66296632"
 ---
 # <a name="hybrid-configuration-wizard"></a>Assistent für die Hybridkonfiguration
 
-Der Assistent für die Hybrid Konfiguration ist eine APP, die Sie beim Einrichten einer neuen hybridbereitstellung zwischen Ihrer lokalen Exchange-Organisation und Microsoft 365 unterstützt. Wenn Sie bereits eine hybridbereitstellung eingerichtet haben, unterstützt Sie der Assistent beim Aktualisieren der Einstellungen für die hybridbereitstellung. Weitere Informationen finden Sie unter:
+Der Assistent für die Hybridkonfiguration ist eine App, mit der Sie eine neue Hybridbereitstellung zwischen Ihrer lokalen Exchange-Organisation und Microsoft 365 einrichten können. Wenn Sie bereits eine Hybridbereitstellung eingerichtet haben, hilft Ihnen der Assistent beim Aktualisieren Ihrer Hybridbereitstellungseinstellungen. Weitere Informationen finden Sie unter:
   
-- [Ausführen des Assistenten für die Hybrid Konfiguration](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [Ausführen des Assistenten für die Hybridkonfiguration](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
 - [Assistent für die Hybridkonfiguration](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
 

@@ -1,24 +1,25 @@
 ---
 title: Dynamics 365-Formular nicht sichtbar
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1470"
 - "6200014"
-ms.openlocfilehash: db70e1a9aa41bbee46ddb9a50b32370b1150ad30
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1470"
+ms.openlocfilehash: 9c0c07d2665886cabacc1dde66ced87302ca9947
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678179"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66378768"
 ---
 # <a name="dynamics-365-form-not-visible"></a>Dynamics 365-Formular nicht sichtbar
 
-* [Formular im Formularmarkierer nicht sichtbar](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [Formular in der Formularauswahl nicht sichtbar](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
 
-* [Warum wird mein Formular in der Dropdownliste der Formularauswahl in jeder APP nicht angezeigt?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)
+* [Warum ist mein Formular in der Dropdownliste "Formularauswahl" in einer App nicht sichtbar?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)

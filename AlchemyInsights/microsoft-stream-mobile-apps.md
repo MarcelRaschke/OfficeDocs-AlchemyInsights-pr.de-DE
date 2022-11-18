@@ -1,29 +1,27 @@
 ---
-title: Mobile Microsoft Stream-Apps
+title: Microsoft Stream mobile Apps
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/24/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
+ms.localizationpriority: medium
 ms.custom:
 - "9001509"
 - "8646"
-ms.openlocfilehash: 0c6846d4c0f6e85ee245985a2b849f982030e470
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.date: 02/24/2021
+ms.openlocfilehash: 714f7f1cd4dba05afd42677512169b2fe2162a73
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50449132"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66365061"
 ---
-# <a name="microsoft-stream-mobile-apps"></a>Mobile Microsoft Stream-Apps
+# <a name="microsoft-stream-mobile-apps"></a>Microsoft Stream mobile Apps
 
-Microsoft Stream ist über mobile iOS- und Android-Apps auf Smartphones und Tablets verfügbar, damit Sie unterwegs Videos ansehen können.
+Microsoft Stream ist über mobile iOS- und Android-Apps auf Smartphones und Tablets verfügbar, damit Sie Videos unterwegs ansehen können.
 
-- [Mobile Microsoft Stream-Apps](https://docs.microsoft.com/stream/mobile-apps-overview)
-- [Mobile Microsoft Stream-Apps herunterladen](https://docs.microsoft.com/stream/mobile-get-apps)
+- [Microsoft Stream mobile Apps](https://docs.microsoft.com/stream/mobile-apps-overview)
+- [Abrufen Microsoft Stream mobiler Apps](https://docs.microsoft.com/stream/mobile-get-apps)

@@ -3,22 +3,21 @@ title: Domänendienst konfigurieren
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7931"
 - "9004400"
-ms.openlocfilehash: 51e0bd78240627876721cbce654188afac1ee365
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
+- "7931"
+ms.date: 01/15/2021
+ms.openlocfilehash: 693876539a671edd4cdc84369579667722ca33bf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49884592"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66412897"
 ---
 # <a name="unable-to-enable-aad-ds-or-deployment-is-failing"></a>AAD-DS kann nicht aktiviert werden oder die Bereitstellung schlägt fehl
 

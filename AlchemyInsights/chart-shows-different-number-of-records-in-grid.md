@@ -1,30 +1,29 @@
 ---
 title: Diagramm mit einer unterschiedlichen Anzahl von Datensätzen im Raster
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "5611"
 - "9002930"
-ms.openlocfilehash: e499a439e7cf7e9ecbb6566f9f089f3b7b82f48e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "5611"
+ms.date: 07/24/2020
+ms.openlocfilehash: 3c5bacbd228d0ada22101f329befda6db3d5d65e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793757"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66327812"
 ---
 # <a name="chart-shows-different-number-of-records-in-grid"></a>Diagramm mit einer unterschiedlichen Anzahl von Datensätzen im Raster
 
 **Symptom**
 
-Wenn Sie bei einem Diagramm auf der Dashboardseite auf das Diagramm „...“ klicken und auf „Datensätze anzeigen“ klicken, navigieren Sie zur Rasterseite, um alle Datensätze zu sehen. Manchmal ändert sich die Anzahl der Datensätze.
+Wenn Sie bei einem Diagramm auf der Dashboard-Seite auf das Diagramm „...“ und dann auf „Datensätze anzeigen“ klicken, gelangen Sie auf die Rasterseite, auf der Sie alle Datensätze sehen können, wobei sich manchmal die Anzahl der Datensätze ändert.
 
 **Ursache**
 

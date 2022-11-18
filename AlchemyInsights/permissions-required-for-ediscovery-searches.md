@@ -1,34 +1,34 @@
 ---
-title: 1489-Permissions-Required-for-eDiscovery-searches
-ms.author: markjjo
-author: markjjo
-manager: lauraw
-ms.date: 04/21/2020
-ms.audience: Admin
+title: 1489-permissions-required-for-ediscovery-searches
+author: cmcatee-MSFT
+ms.author: cmcatee
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: 1489
-ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 876fe32f87b4b90eeb9ff54a7a0a307595aa0c53
+ms.sourcegitcommit: c2b6eee90fbce71e65b4f7e95979344d875adc61
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795819"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65593696"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Erforderliche Berechtigungen für eDiscovery-suchen
+# <a name="permissions-required-for-ediscovery-searches"></a>Für eDiscovery-Suchvorgänge erforderliche Berechtigungen
 
-Um die Inhaltssuche im Security & Compliance Center durchführen zu können, muss ein Benutzer mindestens Mitglied der Rollengruppe "eDiscovery-Manager" sein, die es Ihnen ermöglicht, Suchvorgänge durchzuführen und Aufbewahrungsmöglichkeiten für Postfächer, SharePoint-Websites und OneDrive-Speicherorte zu platzieren. Mitglieder können auch eDiscovery-Fälle erstellen und verwalten, Mitglieder zu einem Fall hinzufügen und entfernen, Inhalts suchen erstellen und bearbeiten sowie auf Groß-und klein Schreibungs Daten in Advanced eDiscovery zugreifen.
+Um Inhalts-Xearchen im Security & Compliance Center auszuführen, muss ein Benutzer mindestens Mitglied der Rollengruppe "eDiscovery-Manager" sein.
 
-Um Compliance-eDiscovery-suchen im Exchange Admin Center (EAC) durchführen zu können, muss der Benutzer Mitglied der Rollengruppe "Discoveryverwaltung" in Exchange Online sein.
+Um Inhaltssuchen im Microsoft Purview-Complianceportal durchführen zu können, muss ein Benutzer mindestens Mitglied der Rollengruppe "eDiscovery-Manager" sein.  
 
-Weitere Informationen zu eDiscovery-Berechtigungen finden Sie unter: 
+So weisen Sie Berechtigungen zu:
 
-- [Zuweisen von eDiscovery-Berechtigungen im Security & Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+1. Wechseln Sie zu [Microsoft Purview-Complianceportal](https://compliance.microsoft.com/) >  **Permissions**.
+1. Wählen Sie im **Complianceportal** **"Rollen**" und dann **"eDiscovery-Manager**" aus.
+1. Fügen Sie den Benutzer im Flyout der gewünschten Rolle hinzu, indem Sie neben dem eDiscovery-Manager oder der eDiscovery-Administratorrolle " **Bearbeiten"** auswählen.
 
-- [Zuweisen von eDiscovery-Berechtigungen in Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+**Hinweis**: Nach dem Zuweisen von eDiscovery-Berechtigungen müssen Sie möglicherweise einige Minuten warten, bis die Berechtigungen weitergegeben werden.
 
-**Hinweis**: nach dem Zuweisen von eDiscovery-Berechtigungen müssen Sie möglicherweise einige Minuten warten, bis die Berechtigungen weitergegeben werden.
+Weitere Informationen zu eDiscovery-Berechtigungen finden [Sie unter Zuweisen von eDiscovery-Berechtigungen im Microsoft Purview-Complianceportal](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).

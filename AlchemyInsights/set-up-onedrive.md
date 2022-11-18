@@ -1,25 +1,25 @@
 ---
 title: Einrichten von OneDrive
-ms.author: matteva
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "819"
 - "5800002"
-ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: b47056c9d2ca15008807038a5028f393ec11209d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "819"
+ms.date: 04/21/2020
+ms.openlocfilehash: f775206a30e126db15e0e6e6abd10ea50da9835a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773891"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66398405"
 ---
-# <a name="use-the-onedrive-sync-client-to-sync-onedrive-or-sharepoint-files"></a>Verwenden des OneDrive-Synchronisierungs Clients zum Synchronisieren von OneDrive-oder SharePoint-Dateien
+# <a name="use-the-onedrive-sync-client-to-sync-onedrive-or-sharepoint-files"></a>Verwenden des OneDrive-Synchronisation-Clients zum Synchronisieren von OneDrive- oder SharePoint-Dateien
 
-Sie können [Ihre OneDrive für Unternehmen Dateien synchronisieren](https://go.microsoft.com/fwlink/?linkid=533375) oder [SharePoint-Dateien](https://go.microsoft.com/fwlink/?linkid=871666) mit dem OneDrive-synchronisierungsclient synchronisieren.
+Sie können [Ihre OneDrive for Business-Dateien synchronisieren](https://go.microsoft.com/fwlink/?linkid=533375) oder [SharePoint-Dateien](https://go.microsoft.com/fwlink/?linkid=871666) mit dem OneDrive-Synchronisation-Client synchronisieren.
   

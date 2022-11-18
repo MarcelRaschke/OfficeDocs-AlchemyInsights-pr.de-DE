@@ -1,23 +1,22 @@
 ---
 title: A1-Lizenz für Office 365
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: e8f384c753652edbb02c3178cb9fe45082328aae
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 45296a69363b3cf4df5c7904155c1d69d29d4ace
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663737"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66508278"
 ---
 # <a name="a1-license-for-office-365"></a>A1-Lizenz für Office 365
 
@@ -31,4 +30,4 @@ ms.locfileid: "47663737"
 
 **Wichtig**: Sie müssen ggf. bis zu 24 Stunden warten, bis Ihre Änderungen wirksam werden.
 
-Weitere Informationen finden Sie unter [Office 365 Education, Fernunterricht und -lehre](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) und [Übergang zum Fernunterricht](https://www.microsoft.com/education/remote-learning).
+Weitere Informationen finden Sie unter [Office 365 Education, Fernunterricht und -lehre](https://support.microsoft.com/topic/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) und [Übergang zum Fernunterricht](https://www.microsoft.com/education/remote-learning).

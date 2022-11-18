@@ -1,36 +1,35 @@
 ---
-title: Probleme mit der Apple-Uhr
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Probleme mit der Apple Watch
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74ac5fb4a07b30dde5a397f2969dad72bfd2fc64
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700022"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66345729"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Probleme mit der Apple-Uhr
+# <a name="trouble-with-the-apple-watch"></a>Probleme mit der Apple Watch
 
-Wenn Sie Probleme mit Outlook auf der Apple Watch haben, finden Sie hier einige Schritte zur Problembehandlung: 
+Wenn Sie Probleme bei der Verwendung von Outlook auf der Apple Watch haben, finden Sie hier einige Schritte zur Problembehandlung: 
 
 1. Wechseln Sie zur Watch-App auf dem iPhone.
 
-2. Scrollen Sie zur Outlook-app.
+2. Scrollen Sie zur Outlook-App.
 
-3. Toggle "App auf Apple Watch anzeigen" auf **aus** zur Deinstallation.
+3. Schalten Sie "App auf Apple Watch anzeigen" auf **OFF** um, um die App zu deinstallieren.
 
-4. Aktivieren Sie die Option "App auf Apple Watch anzeigen", **um Sie auf** der Uhr erneut zu installieren.
+4. Schalten Sie "App auf Apple Watch anzeigen" auf **"EIN** ", um die Installation auf der Watch erneut zu starten.
 
-5. Starten Sie die Outlook-App auf der Apple-Uhr, und warten Sie, bis die Daten mit der neuesten synchronisiert sind. 
+5. Starten Sie die Outlook-App auf der Apple Watch, und warten Sie, bis die Daten mit den neuesten Daten synchronisiert werden. 
 
-Wenn Ihr Problem nicht behoben wurde, hilft Ihnen das Support Team gerne weiter. Wechseln Sie zu **Einstellungen > Hilfe & Feedback > wenden Sie sich an den Support**. 
+Wenn Ihr Problem nicht behoben ist, hilft ihnen das Supportteam gerne weiter. Wechseln Sie zu **"Einstellungen" > Hilfe & Feedback, > wenden Sie sich an den Support**. 

@@ -1,32 +1,30 @@
 ---
-title: Ändern des Kennworts in Outlook.com
+title: Ändern Ihres Kennworts in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "201"
 - "8000002"
-ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: f69fcd8330bbb86cbda67156e69abb6450ea160d
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+- "201"
+ms.date: 04/21/2020
+ms.openlocfilehash: da4b1b8d00560b7a7e8e44c3dd29e3d1f92a6230
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452299"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66585002"
 ---
-# <a name="change-your-password"></a>Ändern des Kennworts
+# <a name="change-your-password"></a>Ändern Ihres Kennworts
 
-Ihr Outlook.com-Kennwort entspricht dem Kennwort Ihres Microsoft-Kontos.
+Ihr Outlook.com Kennwort entspricht Dem Kennwort Ihres Microsoft-Kontos.
   
-Um Ihr Kennwort zu ändern, wechseln Sie zu [Microsoft-Kontosicherheit](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) , und wählen Sie **Kennwortsicherheit**aus.
+Um Ihr Kennwort zu ändern, wechseln Sie zu [Microsoft-Kontosicherheit](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) , und wählen Sie **"Kennwortsicherheit"** aus.
   
-Wenn Sie Ihr Kennwort vergessen haben, wechseln Sie zur Seite [Konto wiederherstellen](https://go.microsoft.com/fwlink/p/?linkid=841909) .
+Wenn Sie Ihr Kennwort vergessen haben, wechseln Sie zur Seite " [Ihr Konto wiederherstellen](https://go.microsoft.com/fwlink/p/?linkid=841909) ".
   
-Weitere Informationen finden Sie unter [Ändern Ihres Kennworts in Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie [unter Ändern Ihres Kennworts in Outlook.com](https://support.microsoft.com/office/change-your-password-in-outlook-com-2138d690-811c-4545-b2f3-e4dbe80c9735).

@@ -3,22 +3,21 @@ title: Microsoft Graph-Connectors
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "5910"
 - "9003123"
-ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "5910"
+ms.date: 04/21/2020
+ms.openlocfilehash: a074f49fe6dbca8216ffe621bfb7e1d2da1b39e2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724902"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66286750"
 ---
 # <a name="microsoft-graph-connectors"></a>Microsoft Graph-Connectors
 
@@ -27,4 +26,4 @@ Mit Microsoft Graph Connectors kann Ihre Organisation Daten von Drittanbietern i
 - [Connectors von Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
 - [Connectors von unseren Partnern](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-Weitere Informationen finden Sie unter  [Overview of Microsoft Graph Connectors](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Weitere Informationen finden Sie  [unter Übersicht über Microsoft Graph-Connectors](https://docs.microsoft.com/microsoftsearch/connectors-overview).

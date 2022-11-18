@@ -1,23 +1,22 @@
 ---
 title: Abmelden von Teams, um den „Fehler beim Laden von Segment“ zu beheben
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002922"
 - "5592"
-ms.openlocfilehash: c78ab298471b490ec3a0fa1ac3411545de8602eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 330b9f0a6e1056cd5073afd06775bdcf90e9e019
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661883"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66417334"
 ---
 # <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Abmelden von Teams, um den „Fehler beim Laden von Segment“ zu beheben
 

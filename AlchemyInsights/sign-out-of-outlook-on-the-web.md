@@ -1,23 +1,22 @@
 ---
 title: Abmelden von Outlook im Web
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 4cdfec98e65038cdb79f65707a30136965f071fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ddd462a278ce1f068a4a59ad6ec047879a21cb9
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797583"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66594859"
 ---
 # <a name="sign-out-of-outlook-on-the-web"></a>Abmelden von Outlook im Web
 
@@ -27,4 +26,4 @@ ms.locfileid: "47797583"
 
 3. Sollte die Option "Abmelden" nicht vorhanden sein, so handelt es sich um ein bekanntes Problem. Wir arbeiten derzeit daran, in einem zukünftigen Release eine Korrektur zu veröffentlichen.  Versuchen Sie, das Problem zu beheben, indem Sie den Cache leeren und die Cookies löschen. Möglicherweise kann das Problem dadurch behoben werden.  Wenn dies nicht der Fall ist, [melden Sie sich manuell von Ihrem Konto ab](https://login.live.com/logout.srf), und schließen Sie alle Browserfenster.
 
-Weitere Informationen hierzu finden Sie unter [Anmelden bei Outlook im Web](https://support.office.com/article/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79).
+Weitere Informationen hierzu finden Sie unter [Anmelden bei Outlook im Web](https://support.microsoft.com/office/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79).

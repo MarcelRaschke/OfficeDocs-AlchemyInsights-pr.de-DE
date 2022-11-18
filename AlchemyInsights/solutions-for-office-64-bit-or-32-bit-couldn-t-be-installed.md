@@ -1,43 +1,41 @@
 ---
 title: Lösungen für "Office (64-Bit oder 32-Bit) konnten nicht installiert werden
-ms.author: janellem
-author: janellem
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "905"
 - "2000023"
-ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: 9a5615a02f58ae747aebe88099629ad0bacb8add
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "905"
+ms.date: 04/21/2020
+ms.openlocfilehash: cb057f3b45259ddf6d1f562ccb3b6ea5c2ec2a46
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738240"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66596335"
 ---
 # <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Lösungen für "Office (64-Bit oder 32-Bit) konnten nicht installiert werden
 
-Der Fehler "Office (64-Bit oder 32-Bit) konnte nicht installiert werden" tritt auf, weil Sie keine 64-Bit-und 32-Bit-Versionen von Office kombinieren können.
+Der Fehler "Office (64-Bit oder 32-Bit) konnte nicht installiert werden" tritt auf, da Sie 64-Bit- und 32-Bit-Versionen von Office nicht kombinieren können.
   
 Um diesen Fehler zu beheben und von 32-Bit zu 64-Bit zu wechseln, müssen Sie die folgenden Schritte in dieser Reihenfolge ausführen.
   
 1. Laden Sie den [Support- und Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy) herunter, und installieren Sie ihn.
 
-1. Wenn es geöffnet wird, wählen Sie unter **Office-Produkte deinstallieren** die Version aus, die Sie deinstallieren möchten, und wählen Sie **weiter**aus.
+1. Wenn es geöffnet wird, wählen Sie aus **"Office-Produkte deinstallieren** " die Version aus, die Sie deinstallieren möchten, und wählen Sie **"Weiter**" aus.
 
 2. Klicken Sie sich durch die Bildschirme, und starten Sie Ihren Computer bei entsprechender Aufforderung neu.
 
-    Nach dem Neustart wird der Support-und Wiederherstellungs-Assistent automatisch erneut geöffnet, um den Deinstallationsvorgang abzuschließen.
+    Nach dem Neustart wird der Support- und Wiederherstellungs-Assistent automatisch erneut geöffnet, um den Deinstallationsvorgang abzuschließen.
 
-3. Befolgten verbleibenden Ansagen und [Installieren von Office](https://portal.office.com/OLS/MySoftware.aspx) mit der richtigen 32-Bit-oder 64-Bit-Version.
+3. Folgen Sie den verbleibenden Eingabeaufforderungen, und [installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx) mit der richtigen 32-Bit- oder 64-Bit-Version erneut.
 
-    Führen Sie die Schritte unter [Installieren von Office auf einem PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA) aus.
+    Führen Sie die Schritte unter ["Installieren von Office auf einem PC" aus](https://support.microsoft.com/office/download-and-install-or-reinstall-microsoft-365-or-office-2021-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).
 
-Weitere Informationen finden Sie unter ["Office-Fehler (64-Bit oder 32-Bit) konnte nicht installiert werden" beim Versuch, eine Installation durchführen](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA) .
+Weitere Informationen finden Sie [unter "Fehler "Office (64-Bit oder 32-Bit) konnte nicht installiert werden" beim Versuch, die Installation zu starten](https://support.microsoft.com/office/-office-64-bit-or-32-bit-couldn-t-be-installed-error-when-trying-to-install-2e2dc9e5-3eb0-420c-862a-ab085b38597f).
   

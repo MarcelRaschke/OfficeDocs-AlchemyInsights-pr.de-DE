@@ -3,22 +3,21 @@ title: Anwendungsintegration
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7742"
 - "9004337"
-ms.openlocfilehash: b2231d07087561b074d6c356ee84e5d7083eab95
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+- "7742"
+ms.date: 01/25/2021
+ms.openlocfilehash: 624cbffc7fd307d0bbc768af7d905a8c92afa0f1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950736"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66344145"
 ---
 # <a name="application--integration"></a>Anwendungsintegration
 

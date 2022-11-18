@@ -1,29 +1,27 @@
 ---
-title: Problembehandlung von Problemen und Fehlern beim SharePoint-Migrations Tool
-ms.author: v-miegge
-author: v-miegge
-manager: v-cojank
-ms.date: 04/21/2020
-ms.audience: Admin
+title: Problembehandlung bei Problemen und Fehlern im SharePoint-Migrationstool
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "5300030"
 - "3178"
-ms.assetid: ''
-ms.openlocfilehash: 4277c524f5900ef92d39608655453a210f4ed601
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: b2fa38cd3ea163d5a6b3d937495433afd8cacebd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735738"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66359967"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Problembehandlung von Problemen und Fehlern beim SharePoint-Migrations Tool
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Problembehandlung bei Problemen und Fehlern im SharePoint-Migrationstool
 
-Bei der Verwendung des SharePoint-Migrationstools (SPMT) treten möglicherweise einige häufig auftretende Probleme auf. Weitere Informationen finden Sie unter den Links unten.
+Bei Verwendung des SharePoint-Migrationstools (SPMT) treten möglicherweise einige häufige Probleme und Fehler auf. Weitere Informationen finden Sie unter den nachstehenden Links.
 
 - [Problembehandlung häufig auftretender SPMT-Probleme und Fehler](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 

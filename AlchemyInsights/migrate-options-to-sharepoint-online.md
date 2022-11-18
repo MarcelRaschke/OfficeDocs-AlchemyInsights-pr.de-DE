@@ -1,24 +1,24 @@
 ---
 title: Migrieren von Optionen zu SharePoint Online
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 198b888597405dead67fe35eb568ee86d8577af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.date: 04/21/2020
+ms.openlocfilehash: f6ec2d1df9e131ad3ba099414b6938036f774348
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674685"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66351327"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>Migrieren von Optionen zu SharePoint Online
 
-Es stehen verschiedene Optionen zur Verfügung, um Inhalte in SharePoint Online zu migrieren, je nach Größe und Menge der Dateien, die Sie verschieben müssen.
+Es gibt verschiedene Optionen zum Migrieren von Inhalten zu SharePoint Online, je nach Größe und Menge der Dateien, die Sie verschieben müssen.
   
 Weitere Informationen finden Sie unter [Migrieren zu SharePoint Online](https://go.microsoft.com/fwlink/?linkid-2022029)
   

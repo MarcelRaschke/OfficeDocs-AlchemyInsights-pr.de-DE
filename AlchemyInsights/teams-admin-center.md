@@ -1,23 +1,22 @@
 ---
 title: Teams Admin Center
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dcfcd1b3d496759bef9b55c93346fcd453b9c89
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670363"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66334281"
 ---
 # <a name="teams-admin-center"></a>Teams Admin Center
 
@@ -32,5 +31,5 @@ Wenn Benutzer nicht im Team Admin Center angezeigt werden, überprüfen Sie die 
 
 - Haben Sie in den letzten 24 Stunden Benutzer erstellt oder Lizenzen zugewiesen? Stellen Sie sicher, dass Sie mindestens 24 Stunden warten, bevor Sie ein Supportticket öffnen.
 - Überprüfen Sie, ob Sie geeignete Lizenzen zugewiesen haben.
-- Wenn Sie über ein lokales Active Directory verfügen, stellen Sie sicher, dass [der Wert von „msRTCSIP-PrimaryUserAddress“ oder die SIP-Adresse im Feld „ProxyAddresses“ in Ihrem lokalen Active Directory eindeutig ist und das Format dem „](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress)sip:**Benutzernamen**“ des Benutzers aus dem [Microsoft 365 Admin Center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) entspricht.
+- Wenn Sie über ein lokales Active Directory verfügen, stellen Sie sicher, dass [der Wert von „msRTCSIP-PrimaryUserAddress“ oder die SIP-Adresse im Feld „ProxyAddresses“ in Ihrem lokalen Active Directory eindeutig ist und das Format dem „](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress)sip:**Benutzernamen**“ des Benutzers aus dem [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home?ref=users) entspricht.
 - Wenn Sie beabsichtigen, eine Bereitstellung von Skype for Business Server beizubehalten, und Sie Benutzer sowohl lokal als auch in Online haben, befolgen Sie **„Einrichten von Hybrid mit Teams und Skype for Business Online“** in Ihrer Skype for Business Server-Systemsteuerung, und verschieben Sie die Benutzer nach Online.

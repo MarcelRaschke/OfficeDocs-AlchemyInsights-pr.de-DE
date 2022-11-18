@@ -1,31 +1,30 @@
 ---
-title: Konfigurieren von Microsoft Teams Direct Routing
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Gewusst wie Konfigurieren von Teams Direct Routing
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
+- "9000321"
 - "1945"
 - "2659"
-- "9000321"
-ms.openlocfilehash: 7143fda9fc744375571e8b39dc281fbac2d17d46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 806494bfbfc91c8c45dc8e6f39e8c49117e9733d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704893"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66389181"
 ---
-# <a name="phone-system-direct-routing-for-microsoft-teams"></a>Direktes Telefon System-Routing für Microsoft Teams
+# <a name="direct-routing-for-microsoft-teams"></a>Direct Routing für Microsoft Teams
 
-Lesen Sie die folgenden Artikel, um mehr über das [Telefon System Direktes Routing für Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page)zu erfahren: 
+Lesen Sie die folgenden Artikel, um mehr über [Direct Routing für Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page) zu erfahren: 
 
 - [Planen von direktem Routing](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
 - [Konfigurieren von direktem Routing](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
-- [Überwachung und Problembehandlung von direktem Routing](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
+- [Überwachung und Problembehandlung von Direct Routing](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
 
-**Hinweis:** Sie können auch das YouTube-Video " [Teams Academy Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) " lesen.
+**Hinweis:** Sie können auch das YouTube-Video der [Teams Academy Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) ansehen.

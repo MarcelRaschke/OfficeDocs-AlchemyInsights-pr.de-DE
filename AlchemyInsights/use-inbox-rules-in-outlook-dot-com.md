@@ -1,24 +1,23 @@
 ---
 title: Verwenden von Posteingangsregeln in Outlook.com
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/28/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6433"
 - "9003531"
-ms.openlocfilehash: d41c4a77bf8874f462a0a20f0d86806f1d6fc85b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6433"
+ms.date: 07/28/2020
+ms.openlocfilehash: c1c3411c3076d2ea3d242d6e2b10ace24bfb5ea8
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795154"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66510780"
 ---
 # <a name="use-inbox-rules-in-outlookcom"></a>Verwenden von Posteingangsregeln in Outlook.com
 

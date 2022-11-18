@@ -1,30 +1,30 @@
 ---
-title: Office 365 für Bildungspläne und-Preise
-ms.author: cmcatee
+title: Office 365 für Education-Pläne und -Preise
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+ms.author: cmcatee
+manager: scotv
+ms.reviewer: nalinkla, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "476"
+- commerce_purchase
 - "1500026"
-ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 6d6292fddfceb03191c29dc14e9b2295da52e4ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "476"
+ms.date: 04/21/2020
+ms.openlocfilehash: ff5e858be809f257b3b74a5310d938038869da63
+ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729582"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "64712626"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a>Holen Sie sich Microsoft 365 kostenlos für Ihre gesamte Schule
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>Erhalten Sie Microsoft 365 kostenlos für Ihre gesamte Schule
 
-Verbessern Sie die Klassenzimmer-und Schul Zusammenarbeit mit kostenlosen Produktivitätstools. Sie müssen sich vergewissern, dass Sie eine akkreditierte akademische Institution sind, um diese Angebote nutzen zu können.
+Verbessern Sie die Zusammenarbeit im Unterricht und in der Schule mit kostenlosen Produktivitätstools. Sie müssen überprüfen, ob Sie eine akkreditierte akademische Einrichtung sind, um diese Angebote nutzen zu können.
   
-- [Überprüfen der Bildungspläne](https://products.office.com/academic/compare-office-365-education-plans)
-
-- [Alle Microsoft 365-Abonnements vergleichen](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Überprüfen der Education-Pläne](https://products.office.com/academic/compare-office-365-education-plans)
+- [Erste Schritte mit Microsoft 365 Education](https://support.microsoft.com/en-us/topic/get-started-with-microsoft-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14)
+- [Vergleichen aller Microsoft 365 Abonnements](https://products.office.com/business/compare-more-office-365-for-business-plans)

@@ -1,27 +1,26 @@
 ---
-title: Senden von PowerApps-oder Microsoft Flow-Supportanforderungen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Übermitteln von PowerApps- oder Microsoft Flow-Supportanfragen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
+- "6200027"
 - "1494"
 - "1495"
-- "6200027"
-ms.openlocfilehash: 0546a222eeb68fd9138a1ab846ebe190ddcbbc0b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 6ff0a5dbb6ab8ac90997a388dddc6e40fbc1da7f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653440"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66372243"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Senden von PowerApps-oder Microsoft Flow-Supportanforderungen
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Übermitteln von PowerApps- oder Microsoft Flow-Supportanfragen
 
-Wenn Sie ein **PowerApps** -oder **Microsoft Flow** -Kunde sind, senden Sie Ihr Ticket über das neue [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Das neue Portal bietet einen direkteren Pfad zur unterstützten Unterstützung, die für PowerApps und andere Power Platform-Produkte optimiert ist.
+Wenn Sie **PowerApps**- oder **Microsoft Flow-Kunde** sind, übermitteln Sie Ihr Ticket über das neue [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Das neue Portal bietet einen direkteren Weg zur unterstützten Unterstützung, die für PowerApps und andere Power Platform-Produkte optimiert ist.
 
-[Senden der Microsoft Flow-Supportanforderung](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Senden einer Microsoft Flow-Supportanfrage](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

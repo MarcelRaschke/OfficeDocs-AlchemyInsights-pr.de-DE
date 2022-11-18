@@ -3,22 +3,21 @@ title: Probleme bei der Benutzerbereitstellung
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/22/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7762"
 - "9004348"
-ms.openlocfilehash: eed5886e5de391a203882f373f7ba8a71830b0d1
-ms.sourcegitcommit: 28a79ef23c4a510397f4a8339ac2c5ff70eec713
+- "7762"
+ms.date: 01/22/2021
+ms.openlocfilehash: db662c8de16aa4dd2392dbaf5a66764877e96f13
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50034391"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66505515"
 ---
 # <a name="user-provisioning-issues"></a>Probleme bei der Benutzerbereitstellung
 

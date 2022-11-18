@@ -1,23 +1,22 @@
 ---
 title: Ändern der Bildschirmhelligkeit in Windows 10
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002940"
 - "5633"
-ms.openlocfilehash: ac9b3b6155713e95d11c2aeab600ad686a5abb20
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 620dbf00845fa362c539bcb95789abd3c03f4253
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681979"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66370407"
 ---
 # <a name="change-screen-brightness-in-windows-10"></a>Ändern der Bildschirmhelligkeit in Windows 10
 

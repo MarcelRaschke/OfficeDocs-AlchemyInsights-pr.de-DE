@@ -1,20 +1,20 @@
 ---
 title: Desktop-App für SharePoint
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 3df9fb6d1c52926877b7d7a03dbe5d2ec46b3854
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.openlocfilehash: 631a5aa11660a8bdf780dfce24b6ca7b04d59377
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806686"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66516504"
 ---
 # <a name="desktop-app-for-sharepoint"></a>Desktop-App für SharePoint
 
-Ihre Organisation wird in das private Preview-Programm für die Desktop-App für SharePoint eingegeben. Microsoft unterstützt derzeit nicht die Desktop-App für SharePoint (private Vorschau). Verwenden Sie bitte Ihre eingetragenen Microsoft private Preview-Partner, um Unterstützung bei der Desktop-App für SharePoint zu erhalten.
+Ihre Organisation wird in das Private Preview-Programm für die Desktop-App für SharePoint eingegeben. Die Desktop-App für SharePoint (private Vorschau) wird von Microsoft derzeit nicht unterstützt. Verwenden Sie Ihre in die Liste aufgenommenen Microsoft Private Preview-Partner, um Unterstützung bei der Desktop-App für SharePoint zu erhalten.

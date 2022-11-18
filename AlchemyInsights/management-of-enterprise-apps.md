@@ -3,22 +3,21 @@ title: Verwaltung von Unternehmens-Apps
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/10/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "8212"
 - "9003230"
-ms.openlocfilehash: 39de45a1c51a35e8592d11f70d9daa3f081817f6
-ms.sourcegitcommit: 23e778f7414e5f1a98cc786146fe76d622b458bc
+- "8212"
+ms.date: 02/10/2021
+ms.openlocfilehash: bb8e8975427328c56e389cf6b721d0d603104516
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177316"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66420503"
 ---
 # <a name="management-of-enterprise-apps"></a>Verwaltung von Unternehmens-Apps
 

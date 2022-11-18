@@ -1,33 +1,33 @@
 ---
 title: Freigeben einer Kommunikationswebsite für externe Benutzer
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.date: 04/21/2020
+ms.openlocfilehash: 1bac044c8606aac3abfc9880ffaece200c9c4bf8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739428"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66417730"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>Freigeben einer Kommunikationswebsite für externe Benutzer
 
-Führen Sie die folgenden Schritte aus, um die externe Benutzer Freigabe für Kommunikationswebsites zu aktivieren: 
+Führen Sie die folgenden Schritte aus, um die externe Benutzerfreigabe für Kommunikationswebsites zu aktivieren: 
   
-1. Öffnen Sie das **moderne Admin Center** -Wenn Sie sich im klassischen Admin Center befinden, sehen Sie **es jetzt testen** oder * * testen Sie die Vorschau * *-Schaltfläche von oben rechts. Dadurch gelangen Sie zum modernen Admin Center. 
+1. Öffnen Sie das **moderne Admin Center** – Wenn Sie sich im klassischen Admin Center befinden, wird eine Schaltfläche "**Jetzt testen**" oder ** "Vorschau testen **" von oben rechts angezeigt. Dadurch gelangen Sie zum Modern Admin Center. 
   
-2. Wählen Sie **aktive Websites aus.**
+2. Wählen Sie **"Aktive Websites" aus.**
   
-3. Wählen Sie eine Website mit einer **Kommunikationswebsite Vorlage**aus. 
+3. Wählen Sie eine Website mit einer **Kommunikationswebsitevorlage aus**. 
   
-4. Wählen Sie im oberen Menü die Schaltfläche **Freigabe** aus. 
+4. Wählen Sie im oberen Menü die Schaltfläche " **Freigabe** " aus. 
   
- **Hinweis:** Wenn Sie mehr als eine Website ausgewählt haben, wird die **Freigabe** Schaltfläche deaktiviert angezeigt. Wählen Sie nur einen Standort aus. 
+ **Hinweis:** Wenn Sie mehrere Websites ausgewählt haben, wird die Schaltfläche " **Freigeben** " deaktiviert angezeigt. Wählen Sie nur eine Website aus. 
   
 

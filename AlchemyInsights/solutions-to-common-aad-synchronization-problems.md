@@ -1,23 +1,22 @@
 ---
 title: Lösungen für häufige AAD-Synchronisierungsprobleme
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002418"
 - "4867"
-ms.openlocfilehash: 0ca019322ff4ccb2ad1b7dcc109082cc6b55eb18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 570905b7bec87e3e0a273d72b3fcfab241193a2a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738132"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66280594"
 ---
 # <a name="solutions-to-common-aad-synchronization-problems"></a>Lösungen für häufige AAD-Synchronisierungsprobleme
 

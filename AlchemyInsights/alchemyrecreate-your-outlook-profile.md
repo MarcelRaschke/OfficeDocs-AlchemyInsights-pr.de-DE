@@ -1,28 +1,26 @@
 ---
-title: Alchemy-Erstellen Ihres Outlook-Profils
-ms.author: pdigia
-author: pebaum
-manager: jackiesm
-ms.date: 04/21/2020
-ms.audience: Admin
+title: Alchemy – Erstellen Sie Ihr Outlook-Profil neu.
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "65"
 - "1800001"
-ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 3c6fb8639291c210452c7391d249d44a110d77f5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "65"
+ms.date: 04/21/2020
+ms.openlocfilehash: 83d88fa78db76815995f06864e445740422ab6c2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718368"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66302590"
 ---
 # <a name="create-an-outlook-profile"></a>Erstellen eines Outlook-Profils
 
-Um Ihr Outlook-Profil zu erstellen oder neu zu erstellen, können Sie das [Outlook-Profil Tool](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) auf dem betroffenen Computer ausführen.
+Zum Erstellen oder erneuten Erstellen Ihres Outlook-Profils können Sie das [Outlook-Profiltool](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) auf dem betroffenen Computer ausführen.
 
-Das Tool führt verschiedene Prüfungen durch, und wenn Sie fertig sind, wird ein Outlook-Profil mit Ihrer e-Mail-Adresse erstellt.
+Das Tool führt verschiedene Überprüfungen durch, und wenn Sie bereit sind, wird ein Outlook-Profil mit Ihrer E-Mail-Adresse erstellt.

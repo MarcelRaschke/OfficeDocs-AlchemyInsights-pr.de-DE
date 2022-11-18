@@ -1,34 +1,33 @@
 ---
 title: Probleme beim Migrieren von Daten zu SharePoint Online
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5fbc4d4da0cc5c95e588a995ecf063c7f0a0e70
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700886"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66417658"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Probleme beim Migrieren von Daten zu SharePoint Online
 
-**Migrieren von 100TB Daten**
+**Migrieren von mehr als 100 TB Daten**
 
-Es wird angezeigt, dass Sie über 100TB Daten zu SharePoint Online migrieren. Führen Sie die folgenden Schritte aus, damit wir Ihnen so schnell wie möglich behilflich sein können. 
+Es scheint, dass Sie mehr als 100 TB Daten zu SharePoint Online migrieren. Bitte führen Sie die folgenden Schritte aus, damit wir Sie so schnell wie möglich unterstützen können. 
 
-1. Wählen Sie **Neue Dienstanforderung**und dann **Neue Dienstanforderung**aus. 
-2. Lassen Sie den Titel und die Beschreibung als **SharePoint-Migration über 100TB**.
-3. Sobald das Ticket übermittelt wurde, aktualisieren Sie es mit den folgenden Informationen: 
+1. Wählen Sie **"Support kontaktieren**" und dann " **Neue Serviceanfrage**" aus. 
+2. Belassen Sie den Titel und die Beschreibung als **SharePoint-Migration über 100 TB**.
+3. Nachdem das Ticket eingereicht wurde, aktualisieren Sie es bitte mit den folgenden Informationen: 
 
     - die geschätzte Größe Ihrer Migration.
     - eine Schätzung der Zeitpunkte, zu denen Sie die Migration beginnen und abschließen möchten.
-    - Beschreiben Sie, wo Sie Ihre Inhalte migrieren, beispielsweise SharePoint Server, Box, GDrive, Dateifreigaben usw.
+    - Beschreiben Sie, von wo Sie Ihre Inhalte migrieren, z. B. SharePoint Server, Box, GDrive, Dateifreigaben usw.

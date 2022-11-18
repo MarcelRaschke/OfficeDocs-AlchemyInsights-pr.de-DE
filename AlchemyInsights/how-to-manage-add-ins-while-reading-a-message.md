@@ -1,30 +1,29 @@
 ---
 title: Verwalten von Add-Ins beim Lesen einer Nachricht
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/16/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "5890"
 - "9003117"
-ms.openlocfilehash: 163dfcc720cb15800ec6a6ae8a0ea909e588f191
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "5890"
+ms.date: 07/16/2020
+ms.openlocfilehash: 763b263c475391fc5235f5d33ec83ad6540cc71f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "49768398"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66406228"
 ---
 # <a name="how-to-manage-add-ins-while-reading-a-message"></a>Verwalten von Add-Ins beim Lesen einer Nachricht
 
 1. Wählen Sie in Outlook im Web eine Nachricht aus.
     
-2. Wählen Sie oben in der Nachricht **Weitere Aktionen** aus.
+2. Wählen Sie die drei Punkte (weitere Aktionen) oben in der Nachricht aus.
 
 3. Gehen Sie zum Ende der Liste, und wählen Sie **Add-Ins abrufen** aus.
     

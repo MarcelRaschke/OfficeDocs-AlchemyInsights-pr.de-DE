@@ -1,36 +1,35 @@
 ---
 title: Installieren von Visio
-ms.author: janellem
-author: janellemcintosh-msft
-manager: eliree
-ms.date: 04/21/2020
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1764"
 - "9000201"
-ms.openlocfilehash: e11c356e5a49667d26906989038215fe65f609f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1764"
+ms.date: 04/21/2020
+ms.openlocfilehash: 94e4251641d35029d7748efaeebd09d1669b36e4
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811610"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66568921"
 ---
 # <a name="install-visio"></a>Installieren von Visio
 
-Visio wird als eigenständige Anwendung verkauft, wenn Sie es jedoch noch nicht haben, [kaufen oder testen Sie Visio](https://products.office.com/visio). 
+Visio wird als eigenständige Anwendung verkauft. Wenn Sie sie noch nicht haben, [kaufen oder testen Sie Visio](https://products.office.com/visio). 
 
-**Hinweis**: Visio Online Plan 1 enthält keine Desktop Version von Visio, daher ist keine Installation möglich.
+**Hinweis**: Visio Online Plan 1 enthält keine Desktopversion von Visio, daher ist keine Installation möglich.
 
-Wenn Sie über ein Abonnement für Visio Online Plan 2 verfügen, müssen Sie einem Benutzer [eine Lizenz zuweisen](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) , oder es wird keine Option zum Installieren von Visio von " **meine Installationen** " im [My-Konto Portal](https://portal.office.com/account#installs)installiert. 
+Wenn Sie über ein Abonnement für Visio Online Plan 2 verfügen, müssen Sie [einem Benutzer eine Lizenz zuweisen](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) , oder er hat keine Option, Visio über **"Meine Installationen** " im [Portal "Mein Konto"](https://portal.office.com/account#installs) zu installieren. 
 
-Nicht-Volumenlizenzversionen von Visio Standard oder Visio Professional sind Microsoft-Konten zugeordnet und können nicht im Admin Center verwaltet werden. Um diese Versionen zu installieren, müssen sich die Benutzer bei [Account.Microsoft.com](https://account.microsoft.com) mit dem Microsoft-Konto anmelden, das dieser Visio-Version zugeordnet ist.
+Nicht-Volumenlizenzversionen von Visio Standard oder Visio Professional sind Microsoft-Konten zugeordnet und können nicht im Admin Center verwaltet werden. Um diese Versionen zu installieren, müssen sich Benutzer bei [account.microsoft.com](https://account.microsoft.com) mit dem Microsoft-Konto anmelden, das dieser Version von Visio zugeordnet ist.
 
-Ausführlichere Informationen finden Sie unter [Installieren von Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) und befolgen der Schritte für Ihre Version von Visio.
+Ausführlichere Hilfe finden [Sie unter Installieren von Visio](https://support.microsoft.com/office/install-visio-or-access-visio-for-the-web-f98f21e3-aa02-4827-9167-ddab5b025710) und Befolgen der Schritte für Ihre Visio-Version.
 
 Weitere Informationen finden Sie unter:<br>
 [Bereitstellungshandbuch für Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>

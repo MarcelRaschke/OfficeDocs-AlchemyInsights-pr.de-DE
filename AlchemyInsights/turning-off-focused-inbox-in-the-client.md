@@ -1,27 +1,26 @@
 ---
-title: 911 Deaktivieren des fokussierten Posteingangs im Client
+title: 911 Deaktivieren des Posteingangs mit Relevanz im Client
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "911"
 - "1800019"
-ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 7d9d065c3b95f5fe75eca5df844fbe7a9f3e6de9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "911"
+ms.date: 04/21/2020
+ms.openlocfilehash: 6c85ed42021f4e12930704562858789a043cd889
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795207"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66595472"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a>Deaktivieren des Posteingangs mit Fokus in e-Mail-Clients
+# <a name="turn-off-focused-inbox-in-email-clients"></a>Deaktivieren des Posteingangs mit Relevanz in E-Mail-Clients
 
-Informationen zum Deaktivieren des Posteingangs in Outlook 2016, Outlook im Internet, Outlook.com/hotmail.com, Outlook 2016 für Mac oder e-Mail für Windows 10 finden Sie unter [Turn Off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
+Informationen zum Deaktivieren des Posteingangs mit Relevanz in Outlook 2016, Outlook im Web, Outlook.com/Hotmail.com, Outlook 2016 für Mac oder E-Mail für Windows 10 finden Sie [unter Deaktivieren des Posteingangs mit Relevanz](https://support.microsoft.com/office/turn-off-focused-inbox-f714d94d-9e63-4217-9ccb-6cb2986aa1b2).
 
-Informationen zum Deaktivieren des Posteingangs für alle Benutzer in der Organisation finden Sie unter [configure Focused inbox for everyone in your organization](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
+Informationen zum Deaktivieren des Posteingangs mit Relevanz für alle Benutzer in der Organisation finden Sie unter [Konfigurieren des Posteingangs mit Relevanz für alle Benutzer in Ihrer Organisation](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).

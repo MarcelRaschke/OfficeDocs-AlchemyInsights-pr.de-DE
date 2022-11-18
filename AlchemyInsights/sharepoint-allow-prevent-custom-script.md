@@ -1,26 +1,24 @@
 ---
 title: Benutzerdefiniertes Skript zum Aktivieren von Features zulassen
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: d202ca6e932099f9e68d4e2c5da754b9b56db896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b29c46074c95c5d762119ab93397ddd0fd8d8654
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738960"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66362019"
 ---
 # <a name="allow-custom-script-to-enable-features"></a>Benutzerdefiniertes Skript zum Aktivieren von Features zulassen
 
-Administratoren müssen möglicherweise **benutzerdefinierten Skripts erlauben** , bestimmte Features zu aktivieren. Beispielsweise können Benutzer den Fehler 403 beim Herstellen einer Verbindung mit SharePoint mit SharePoint Designer erhalten. Ausführliche Schritte, Beispiele und Überlegungen finden Sie unter [zulassen oder verhindern von benutzerdefiniertem Skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Administratoren müssen möglicherweise **benutzerdefiniertes Skript zulassen** , um bestimmte Features zu aktivieren. Beispielsweise erhalten Benutzer möglicherweise Fehler 403, wenn sie eine Verbindung mit SharePoint mit SharePoint Designer herstellen. Ausführliche Schritte, Beispiele und Überlegungen finden Sie [unter Zulassen oder Verhindern von benutzerdefinierten Skripts](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
-Wenn Benutzer einen **Fehler 403** mit SharePoint oder OneDrive haben, können Sie das [Dienststatus-Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) überprüfen, um festzustellen, ob es sich um ein bekanntes Problem mit einer laufenden Lösung handelt, bevor Sie den Support anrufen oder die Problembehandlung verbringen. Das Problem kann sehr temporär sein und bereits von Microsoft identifiziert werden, aber es kann eine Zeitspanne zwischen der Problemerkennung und der Veröffentlichung im Dienststatus-Dashboard liegen. Bitte fahren Sie mit der Überprüfung des Service Health Dashboards fort, um weitere Updates zu erhalten.
+Wenn bei Benutzern ein Fehler 403 mit SharePoint oder OneDrive auftritt, können Sie das [Dienststatus-Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) überprüfen, um festzustellen, ob es sich um ein bekanntes Problem mit einer derzeit ausgeführten Lösung handelt, bevor Sie den Support anrufen oder Zeit für die Problembehandlung aufwenden.If users are experiencing an **Error 403** with SharePoint or OneDrive, you can check the Service Health dashboard to determine whether it is a known issue with a resolution in progress before you call support or spend time troubleshooting. Das Problem kann sehr temporär sein und bereits von Microsoft identifiziert werden, aber es kann zu einem Zeitraffer zwischen der Problemidentifizierung und der Bereitstellung im Dienststatus-Dashboard kommen. Weitere Updates finden Sie im Dashboard "Dienststatus".
 

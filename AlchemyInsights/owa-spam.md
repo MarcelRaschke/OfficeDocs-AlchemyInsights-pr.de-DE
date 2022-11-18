@@ -1,29 +1,29 @@
 ---
-title: Umgang mit Spam und Junk in Outlook im Internet
+title: Umgang mit Spam und Junk in Outlook im Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 4a12668ee95aa4dd3c07b0d781a3935f69792211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 9c1bf96bb80f94616ecbb1eedafc946a7fd115a2
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795891"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66583742"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Kennzeichnen von e-Mail-Nachrichten als Junk in Outlook im Internet
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Markieren von E-Mail-Nachrichten als Junk-E-Mail in Outlook im Web
 
-Wenn Sie eine Nachricht als Junk-e-Mail oder Spam markieren möchten, wählen Sie die Nachricht in Ihrer Nachrichtenliste aus, und wählen Sie **Junk**  >  **Junk**aus.
+Wenn Sie eine Nachricht als Junk-E-Mail oder Spam markieren möchten, wählen Sie die Nachricht in Ihrer Nachrichtenliste und dann **Junk-Junk** >  aus.
 
-Wenn Sie alle Nachrichten von einer bestimmten e-Mail-Adresse blockieren möchten, wählen Sie die Nachricht oder Nachrichten in der Nachrichtenliste aus, und wählen Sie dann **Junk**-  >  **Block**aus.
+Um alle Nachrichten von einer bestimmten E-Mail-Adresse zu blockieren, wählen Sie die Nachricht oder Nachrichten in Ihrer Nachrichtenliste und dann **Junk-Block** >  aus.
 
-Wenn Sie eine Nachricht versehentlich als Junk markieren, wählen Sie die Nachricht in Ihrem Junk-e-Mail-Ordner aus, und wählen Sie **nicht**Junk  >  **nicht**Junk aus. (*Hinweis:* Elemente in Ihrem Junk-e-Mail-Ordner werden nach 30 Tagen gelöscht.)
+Wenn Sie eine Nachricht versehentlich als Junk-E-Mail markieren, wählen Sie die Nachricht in Ihrem Junk-E-Mail-Ordner aus, und wählen Sie **"Keine Junk-E-Mail** > **"** aus. (*Hinweis:* Elemente in Ihrem Junk-E-Mail-Ordner werden nach 30 Tagen gelöscht.)
 
-Erfahren Sie mehr darüber, wie Sie [Spam-und Junk-e-Mails aus Ihrem Outlook im Posteingang heraushalten können.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Erfahren Sie mehr darüber, wie Sie [Spam und Junk-E-Mails aus Ihrem Outlook im Web-Posteingang heraushalten können](https://support.microsoft.com/office/filter-junk-email-and-spam-in-outlook-on-the-web-db786e79-54e2-40cc-904f-d89d57b7f41d).

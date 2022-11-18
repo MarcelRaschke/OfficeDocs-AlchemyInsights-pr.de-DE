@@ -1,24 +1,23 @@
 ---
 title: Zuweisen eigener Berechtigungen in SharePoint
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/15/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6869"
 - "9000156"
-ms.openlocfilehash: ed07dea56090d1816fe59d2839fdecb58916a849
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+- "6869"
+ms.date: 07/15/2020
+ms.openlocfilehash: 27826483b03058c29e0517125317a094909eb92f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791459"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66300052"
 ---
 # <a name="assign-unique-permissions-in-sharepoint"></a>Zuweisen eigener Berechtigungen in SharePoint
 

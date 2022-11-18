@@ -1,31 +1,29 @@
 ---
-title: 1800014 verwenden eines freigegebenen Postfachs auf einem mobilen Gerät
+title: 1800014 Verwenden eines freigegebenen Postfachs auf einem mobilen Gerät
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "599"
-- "621"
 - "1800014"
 - "3500003"
-ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: 8e54307e4a91fcfae1729c968b05df9d4da6ee9f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "599"
+- "621"
+ms.date: 04/21/2020
+ms.openlocfilehash: e46408d7d8cbc9b01cd70255bb1ab9ccd64f1154
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749117"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66591619"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Verwenden eines freigegebenen Postfachs auf einem mobilen Gerät
 
-Um ein freigegebenes Postfach auf Ihrem mobilen Gerät zu verwenden, sollten Sie [Outlook Mobile herunterladen](https://products.office.com/outlook-mobile-for-android-and-ios) und dann [ein freigegebenes Postfach zu Outlook Mobile hinzufügen](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).
+Um ein freigegebenes Postfach auf Ihrem mobilen Gerät zu verwenden, sollten Sie [Outlook Mobile herunterladen](https://products.office.com/outlook-mobile-for-android-and-ios) und dann [ein freigegebenes Postfach zu Outlook Mobile hinzufügen](https://support.microsoft.com/office/add-a-shared-mailbox-to-outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).
   
-So erhalten Sie Hilfe: [in-App-Hilfe für Outlook für IOS und Android erhalten](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+So erhalten Sie Hilfe: [Abrufen von In-App-Hilfe für Outlook für iOS und Android](https://support.microsoft.com/office/get-in-app-help-for-outlook-for-ios-and-android-218a22d1-9fa5-4889-b689-de1c63493243)
   

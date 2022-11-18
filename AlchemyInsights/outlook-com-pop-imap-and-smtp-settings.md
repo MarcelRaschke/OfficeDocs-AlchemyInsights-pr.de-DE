@@ -1,38 +1,37 @@
 ---
-title: Pop-, IMAP-und SMTP-Einstellungen für Outlook.com
+title: POP-, IMAP- und SMTP-Einstellungen für Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
+- "8000043"
 - "780"
 - "1415"
-- "8000043"
-ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 1885297a578b433e5c74a4fc72557a1e0807cf40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 4cc4aa863251b8abf4836ba0f59f2882005f6885
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798159"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66582914"
 ---
-# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Pop-, IMAP-und SMTP-Einstellungen für Outlook.com
+# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>POP-, IMAP- und SMTP-Einstellungen für Outlook.com
 
-Wenn Sie Ihr Outlook.com-Konto zu einer Mail-app hinzufügen möchten, die Pop oder IMAP unterstützt, finden Sie hier die Servereinstellungen, die Sie benötigen:
+Wenn Sie Ihr Outlook.com-Konto einer Mail-App hinzufügen möchten, die POP oder IMAP unterstützt, benötigen Sie die folgenden Servereinstellungen:
   
-- **IMAP-Servername:** Outlook.office365.com
+- **IMAP-Servername:** outlook.office365.com
 - **IMAP-Port:** 993
 - **IMAP-Verschlüsselungsmethode:** TLS
-- **Pop-Servername:** Outlook.office365.com  
-- **Pop-Port:** 995  
-- **Pop-Verschlüsselungsmethode:** TLS  
-- **SMTP-Servername:** SMTP.office365.com
+- **POP-Servername:** outlook.office365.com  
+- **POP-Port:** 995  
+- **POP-Verschlüsselungsmethode:** TLS  
+- **SMTP-Servername:** smtp.office365.com
 - **SMTP-Port:** 587
 - **SMTP-Verschlüsselungsmethode:** STARTTLS
 
-Erfahren Sie mehr über [das Hinzufügen Ihres Outlook.com-Kontos zu einer anderen Mail-APP oder einem intelligenten Gerät](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen zum [Hinzufügen Ihres Outlook.com-Kontos zu einer anderen Mail-App oder einem smarten Gerät](https://support.microsoft.com/office/add-your-outlook-com-account-to-another-mail-app-or-smart-device-73f3b178-0009-41ae-aab1-87b80fa94970).

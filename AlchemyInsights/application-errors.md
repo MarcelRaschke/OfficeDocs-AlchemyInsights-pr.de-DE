@@ -3,42 +3,41 @@ title: Anwendungsfehler
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9004342"
 - "7841"
-ms.openlocfilehash: 2ef90b54ce222a06740e05891fabe87b6565cb14
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.date: 01/25/2021
+ms.openlocfilehash: 9f3a2ee60663cd5964189987a31cb002ce083a0f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976917"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66312555"
 ---
 # <a name="application-errors"></a>Anwendungsfehler
 
-Suchen Sie nach Informationen zu **den AADSTS-Fehlercodes,** die vom Azure Active Directory (Azure AD)-Sicherheitstokendienst (STS) zurückgegeben werden? Lesen [Sie die Fehlercodes](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) für die Azure AD-Authentifizierung und -Autorisierung, um nach AADSTS-Fehlerbeschreibungen, Fehlerbehebungen und einigen vorgeschlagenen Problemumgehungen zu suchen.
+Suchen Sie nach Informationen zu den **AADSTS-Fehlercodes** , die vom Azure Active Directory (Azure AD) Security Token Service (STS) zurückgegeben werden? Lesen Sie [Azure AD-Authentifizierung- und Autorisierungsfehlercodes](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes), um AADSTS-Fehlerbeschreibungen, Korrekturen und einige vorgeschlagene Problemumgehungen zu finden.
 
-Autorisierungsfehler können das Ergebnis verschiedener Probleme sein, von denen die meisten einen 401- oder 403-Fehler generieren. Die folgenden Beispiele können zu Autorisierungsfehlern führen:
+Autorisierungsfehler können infolge verschiedener Probleme auftreten, von denen die meisten eine 401- oder 403-Fehlermeldung generieren. Die folgenden Beispiele können zu Autorisierungsfehlern führen:
 
 - Falsche [Flüsse für den Erwerb von Zugriffstoken](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
 - Schlecht konfigurierte [Berechtigungsumfänge](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
 - Fehlende [Zustimmung](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
 
-Um häufige Autorisierungsfehler zu beheben, probieren Sie die unten aufgeführten Schritte aus, die dem empfangenen Fehler am besten entspricht. Es können mehr als eins gelten.
+Um häufige Autorisierungsfehler zu beheben, führen Sie die unten aufgeführten Schritte aus, die dem empfangenen Fehler am ehesten entsprechen. Es können mehrere gelten.
 
 **Fehler „401 Unauthorized“: Ist Ihr Token gültig?**
 
-Stellen Sie sicher, dass Ihre Anwendung ein gültiges Zugriffstoken für Microsoft Graph als Teil der Anforderung präsentiert. Dieser Fehler bedeutet oft, dass das Zugriffstoken im HTTP-Authentifizierungsanforderungs-Header fehlen kann oder dass das Token ungültig oder abgelaufen ist. Wir empfehlen dringend, für den Erwerb von Zugriffstoken die [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) zu verwenden. Darüber hinaus kann dieser Fehler auftreten, wenn Sie versuchen, ein delegiertes Zugriffstoken zu verwenden, das einem persönlichen Microsoft-Konto gewährt wurde, um auf eine API zu zugreifen, die nur Arbeits- oder Schulkonten (Organisationskonten) unterstützt.
+Stellen Sie sicher, dass Ihre Anwendung ein gültiges Zugriffstoken für Microsoft Graph als Teil der Anforderung vorstellt. Dieser Fehler bedeutet oft, dass das Zugriffstoken im HTTP-Authentifizierungsanforderungs-Header fehlen kann oder dass das Token ungültig oder abgelaufen ist. Wir empfehlen dringend, für den Erwerb von Zugriffstoken die [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) zu verwenden. Darüber hinaus kann dieser Fehler auftreten, wenn Sie versuchen, ein delegiertes Zugriffstoken zu verwenden, das einem persönlichen Microsoft-Konto gewährt wurde, um auf eine API zuzugreifen, die nur Geschäfts-, Schul- oder Unikonten (Organisationskonten) unterstützt.
 
 **Fehler „403 Forbidden“: Haben Sie den richtigen Berechtigungssatz ausgewählt?**
 
-Überprüfen Sie, ob Sie basierend auf den Microsoft Graph-APIs, die Ihre App aufruft, den richtigen Satz von Berechtigungen angefordert haben. Empfohlene Berechtigungen mit geringsten Berechtigungen werden in allen Themen der Microsoft Graph-API-Referenzmethode bereitgestellt. Darüber hinaus müssen diese Berechtigungen durch einen Benutzer oder einen Administrator für die Anwendung gewährt werden. Berechtigungen werden normalerweise über eine Zustimmungsseite oder mithilfe des Anwendungsregistrierungblatts im Azure Portal gewährt. Klicken Sie auf dem Blatt **Einstellungen** für die Anwendung auf **Erforderliche Berechtigungen** und dann auf **Berechtigungen gewähren**.
+Überprüfen Sie, ob Sie den richtigen Satz von Berechtigungen basierend auf den Microsoft Graph-APIs angefordert haben, die Ihre App aufruft. Die empfohlenen Berechtigungen mit den geringsten Rechten werden in allen Themen zur Microsoft Graph-API-Referenzmethode bereitgestellt. Darüber hinaus müssen diese Berechtigungen durch einen Benutzer oder einen Administrator für die Anwendung gewährt werden. Berechtigungen werden normalerweise über eine Zustimmungsseite oder mithilfe des Anwendungsregistrierungblatts im Azure Portal gewährt. Klicken Sie auf dem Blatt **Einstellungen** für die Anwendung auf **Erforderliche Berechtigungen** und dann auf **Berechtigungen gewähren**.
 
 - [Microsoft Graph-Berechtigungen](https://docs.microsoft.com/graph/permissions-reference) 
 - [Grundlegendes zu Azure AD-Berechtigungen und -Zustimmung](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
@@ -47,9 +46,9 @@ Stellen Sie sicher, dass Ihre Anwendung ein gültiges Zugriffstoken für Microso
 
 Stellen Sie sicher, dass die Art der angeforderten oder gewährten Berechtigungen mit der Art des Zugriffstokens übereinstimmt, das von Ihrer App erworben wird. Möglicherweise fordern Sie Anwendungsberechtigungen an und gewähren diese, verwenden aber delegierte interaktive Codefluss-Token anstelle von Clientanmeldeinformationsfluss-Token, oder Sie fordern delegierte Berechtigungen an und gewähren diese, verwenden aber Clientanmeldeinformationsfluss-Token anstelle delegierter Codefluss-Token.
 
-- [Zugriff im Namen von Benutzern und delegierte Berechtigungen erhalten](https://docs.microsoft.com/graph/auth_v2_user) 
+- [Zugriff im Namen von Benutzern und delegierte Berechtigungen erhalten](https://docs.microsoft.com/graph/auth-v2-user) 
 - [Azure AD Version 2.0 – OAuth 2.0 Autorisierungscode-Fluss](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [Zugriff ohne Benutzer (Daemon-Dienst) und Anwendungsberechtigungen erhalten](https://docs.microsoft.com/graph/auth_v2_service) 
+- [Zugriff ohne Benutzer (Daemon-Dienst) und Anwendungsberechtigungen erhalten](https://docs.microsoft.com/graph/auth-v2-service) 
 - [Azure AD Version 2.0 – OAuth 2.0-Clientanmeldeinformationsfluss](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
 
 **Fehler „403 Forbidden“: Passwort zurücksetzen**
@@ -60,15 +59,15 @@ Derzeit gibt es keine Anwendungsberechtigungs-Daemon-Dienst-zu-Dienst-Berechtigu
 
 **„403 Forbidden“: Hat der Benutzer Zugriff und ist er lizenziert?**
 
-Bei delegierten Codeflüssen wertet Microsoft Graph aus, ob die Anforderung basierend auf den Berechtigungen, die der App erteilt wurden, und den Berechtigungen des angemeldeten Benutzers zulässig ist. Dieser Fehler deutet im Allgemeinen darauf hin, dass der Benutzer nicht genügend Rechte besitzt, die Anforderung auszuführen, oder dass der Benutzer nicht für die Daten lizenziert ist, auf die zugegriffen wird. Nur Benutzer mit den erforderlichen Berechtigungen oder Lizenzen können die Anfrage erfolgreich stellen.
+Bei delegierten Codeflüssen wertet Microsoft Graph aus, ob die Anforderung basierend auf den der App erteilten Berechtigungen und den Berechtigungen des angemeldeten Benutzers zulässig ist. Dieser Fehler deutet im Allgemeinen darauf hin, dass der Benutzer nicht genügend Rechte besitzt, die Anforderung auszuführen, oder dass der Benutzer nicht für die Daten lizenziert ist, auf die zugegriffen wird. Nur Benutzer mit den erforderlichen Berechtigungen oder Lizenzen können die Anfrage erfolgreich stellen.
 
 **„403 Forbidden“: Haben Sie die richtige Ressourcen-API ausgewählt?**
 
-API-Dienste wie Microsoft Graph überprüfen, ob der aud-Anspruch (Zielgruppe) im empfangenen Zugriffstoken dem wert entspricht, den er für sich selbst erwartet, und wenn nicht, führt er zu dem Fehler "403 Forbidden". Ein häufiger Fehler, der zu diesem Fehler führt, ist der Versuch, ein token zu verwenden, das für Azure AD Graph-APIs, #A0 oder SharePoint/OneDrive-APIs zum Aufrufen von Microsoft Graph (oder umgekehrt) erworben wurde. Stellen Sie sicher, dass die Ressource (oder der Geltungsbereich), für die Ihre Anwendung ein Token erwirbt, mit der API übereinstimmt, die von der Anwendung aufgerufen wird.
+API-Dienste wie Microsoft Graph überprüfen, ob der aud-Anspruch (Zielgruppe) im empfangenen Zugriffstoken dem wert entspricht, den er für sich selbst erwartet, und wenn nicht, führt er zu einem 403 Forbidden-Fehler. Ein häufiger Fehler, der zu diesem Fehler führt, ist der Versuch, ein für Azure AD-Graph-APIs, Outlook-APIs oder Microsoft Office SharePoint Online-/OneDrive-APIs erworbenes Token zu verwenden, um Microsoft Graph aufzurufen (oder umgekehrt). Stellen Sie sicher, dass die Ressource (oder der Geltungsbereich), für die Ihre Anwendung ein Token erwirbt, mit der API übereinstimmt, die von der Anwendung aufgerufen wird.
 
 **„400 Bad Request“ oder „403 Forbidden“: Entspricht der Benutzer die Richtlinien für den bedingten Zugriff (CA) des Unternehmens?**
 
-Basierend auf den Zertifizierungsstellenrichtlinien einer Organisation wird ein Benutzer, der über Ihre App auf Microsoft Graph-Ressourcen zu zugegriffen hat, möglicherweise nach zusätzlichen Informationen herausgefordert, die im Zugriffstoken, das Ihre App ursprünglich erworben hat, nicht vorhanden sind. In diesem Fall empfängt Ihre Anwendung den Fehler „400“ mit *interaction_required* beim Erwerb des Zugriffstokens oder den Fehler „403“ mit *insufficient_claims* beim Aufruf von Microsoft Graph. In beiden Fällen enthält die Fehlerantwort zusätzliche Informationen, die dem autorisierenden Endpunkt vorgewiesen werden können, um den Benutzer um zusätzliche Informationen zu bitten (wie Multi-Faktor-Authentifizierung oder Geräteregistrierung).
+Basierend auf den Ca-Richtlinien einer Organisation kann ein Benutzer, der über Ihre App auf Microsoft Graph-Ressourcen zugreift, aufgefordert werden, zusätzliche Informationen zu erhalten, die nicht im Zugriffstoken vorhanden sind, das Ihre App ursprünglich erworben hat. In diesem Fall empfängt Ihre Anwendung den Fehler „400“ mit *interaction_required* beim Erwerb des Zugriffstokens oder den Fehler „403“ mit *insufficient_claims* beim Aufruf von Microsoft Graph. In beiden Fällen enthält die Fehlerantwort zusätzliche Informationen, die dem autorisierenden Endpunkt vorgewiesen werden können, um den Benutzer um zusätzliche Informationen zu bitten (wie Multi-Faktor-Authentifizierung oder Geräteregistrierung).
 
-- [Umgang mit Problemen mit dem bedingten Zugriff mithilfe von MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
+- [Behandeln von Problemen mit bedingtem Zugriff mit MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
 - [Leitfaden für Entwickler für den bedingten Azure Active Directory-Zugriff](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)

@@ -1,28 +1,27 @@
 ---
-title: Der Teams-Client bleibt beim Laden hängen
+title: Teams-Client bleibt beim Laden hängen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9000701"
 - "8019"
-ms.openlocfilehash: d8e9e57967fd1b4952f6d03dbc0070eec39910d6
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: 7c3a286c873d1ff7b43a33711e0cc4829bcb8253
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50074160"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66396975"
 ---
-# <a name="teams-client-is-stuck-on-loading"></a>Der Teams-Client bleibt beim Laden hängen
+# <a name="teams-client-is-stuck-on-loading"></a>Teams-Client bleibt beim Laden hängen
 
-Microsoft ist sich eines Fehlers in einem neueren Teams-Desktop-App-Build bewusst, der verhindert, dass sich Benutzer anmelden. Betroffener Benutzer wird eine Meldung angezeigt, die microsoft Teams lädt.
+Microsoft ist sich eines Fehlers in einem kürzlichen Teams-Desktop-App-Build bewusst, der verhindert, dass sich Benutzer anmelden. Betroffene Benutzer sehen eine Meldung zum Laden von Microsoft Teams, die angezeigt wird.
 
-Die einfachste Problemumgehung für den Zeitpunkt ist die Verwendung der Teams-Web-App unter <https://teams.microsoft.com/> .
+Die einfachste Problemumgehung ist derzeit die Verwendung der Teams-Web-App unter <https://teams.microsoft.com/>.
 
-Weitere Informationen und den aktuellen Status finden Sie im Beitrag zum Service Health Dashboard unter <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>
+Weitere Informationen und den aktuellen Status finden Sie im Beitrag des Dienststatus-Dashboards unter <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>

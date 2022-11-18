@@ -1,24 +1,23 @@
 ---
 title: F3-Testlizenz
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002873"
 - "5565"
-ms.openlocfilehash: e521c8961df1ac81fe51f25fd495b3da7cd90868
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94cc152b3fdf92124d7a9222cd652663b2d652bb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782758"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66412039"
 ---
 # <a name="f3-trail-license"></a>F3-Testlizenz
 
-Sie können sich kostenlos für ein F3-Testabonnement registrieren und es 30 Tage testen. Siehe [Kostenlose Testversion von Office 365 F3](https://go.microsoft.com/fwlink/p/?LinkID=848845&clcid=0x409&culture=en-us&country=US).
+Sie können sich kostenlos für ein F3-Testabonnement registrieren und es 30 Tage testen. Siehe [Kostenlose Testversion mit Office 365 F3](https://go.microsoft.com/fwlink/p/?LinkID=848845&clcid=0x409&culture=en-us&country=US).

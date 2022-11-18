@@ -1,24 +1,23 @@
 ---
 title: Brauchen Sie Hilfe bei der Untersuchung von Vorfällen in Microsoft Defender ATP?
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/16/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6025"
 - "9001221"
-ms.openlocfilehash: 39f563e43bf1a315768d3ef198340914142cb75d
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- "6025"
+ms.date: 07/16/2020
+ms.openlocfilehash: 477670fff516f35f7a3e2f159abf44dad8ea7e05
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801262"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66364692"
 ---
 # <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>Brauchen Sie Hilfe bei der Untersuchung von Vorfällen in Microsoft Defender ATP?
 
@@ -28,4 +27,4 @@ Wenn Sie Unterstützung bei der Untersuchung eines Vorfalls im Microsoft Defende
 2. Überprüfen Sie die Geräte, die Teil des Vorfalls sind oder mit dem Vorfall zusammenhängen. Anweisungen finden Sie unter [Untersuchen von Geräten in der Microsoft Defender ATP-Geräteliste](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines).<br/>
  
     Auf der Registerkarte "Untersuchungen" werden alle automatischen Untersuchungen angezeigt, die das System als Reaktion auf die Vorfallwarnungen eingeleitet hat.
-3. Verwenden Sie das Vorfallsdiagramm, um den Eintrittspunkt, Hinweise auf eine Kompromittierung und andere verdächtige Aktivitäten, die an dem/den Gerät(en) beobachtet wurden, zu identifizieren. Weitere Informationen hierzu finden Sie unter [Visualisieren zugehöriger Cyberbedrohungen](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats).  
+3. Verwenden Sie das Vorfalldiagramm, um den Einstiegspunkt, Anzeichen für eine Kompromittierung und andere verdächtige Aktivitäten, die auf dem Gerät (den Geräten) beobachtet wurden, zu identifizieren. Weitere Informationen finden Sie unter [Visualisieren zugehöriger Cybersicherheitsbedrohungen](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats).  

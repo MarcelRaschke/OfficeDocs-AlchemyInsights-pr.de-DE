@@ -1,28 +1,28 @@
 ---
 title: Erstellen von Posteingangsregeln für freigegebene Postfächer
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "930"
-- "820"
 - "1800021"
 - "3500003"
-ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: 6398367ac94a1d3cf4f03165c4d4decb7ff9beb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "930"
+- "820"
+ms.openlocfilehash: dbe85b68660bd0e4c04e26fbc0e77d847f58d94a
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732223"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66540098"
 ---
 # <a name="creating-inbox-rules-for-shared-mailboxes"></a>Erstellen von Posteingangsregeln für freigegebene Postfächer
 
-Sie können Regeln für ein freigegebenes Postfach, auf das Sie Zugriff haben, auf ähnliche Weise wie das Hinzufügen von Regeln zu Ihrem eigenen Konto hinzufügen.
+Sie können Regeln für ein freigegebenes Postfach, auf das Sie Zugriff haben, auf ähnliche Weise hinzufügen, wie Sie Regeln zu ihrem eigenen Konto hinzufügen.
   
-Stellen Sie sicher, dass Sie ein Mitglied des betreffenden freigegebenen Postfachs sind, und befolgen Sie dann die Schritte in diesem Artikel: [Hinzufügen von Regeln zu einem freigegebenen Postfach](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)
+Stellen Sie sicher, dass Sie Mitglied des betreffenden freigegebenen Postfachs sind, und führen Sie dann die Schritte in diesem Artikel aus: [Hinzufügen von Regeln zu einem freigegebenen Postfach](https://support.microsoft.com/topic/add-rules-to-a-shared-mailbox-b0963400-2a51-4c64-afc7-b816d737d164)
   

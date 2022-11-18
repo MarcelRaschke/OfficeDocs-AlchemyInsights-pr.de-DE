@@ -1,29 +1,28 @@
 ---
-title: Microsoft Edge User Agent-Zeichenfolge (Desktop)
+title: Microsoft Edge-Benutzer-Agent-Zeichenfolge (Desktop)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.date: 12/03/2020
+ms.openlocfilehash: c5faaedcc703a88dd977614895260210d4401eeb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609612"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66365277"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge User Agent-Zeichenfolge (Desktop)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge-Benutzer-Agent-Zeichenfolge (Desktop)
 
-Benutzer-Agent-Zeichenfolgen können verwendet werden, um festzustellen, welche Version eines bestimmten Browsers auf einem bestimmten Betriebssystem verwendet wird. Wie andere Browser enthält auch Microsoft Edge diese Informationen in den "User-Agent"-http-Header, wenn eine Anforderung an eine Website erfolgt. Auf die Browser Versionsinformationen kann auch über JavaScript zugegriffen werden, indem der Wert von "Navigator. UserAgent" abgefragt wird.
+Benutzer-Agent (UA)-Zeichenfolgen können verwendet werden, um festzustellen, welche Version eines bestimmten Browsers auf einem bestimmten Betriebssystem verwendet wird. Wie andere Browser auch nimmt Microsoft Edge diese Informationen in den „Benutzer-Agent“-HTTP-Header auf, wenn er eine Anfrage an eine Website stellt. Auf die Browserversionsinformationen kann auch über JavaScript zugegriffen werden, indem der Wert von "navigator.userAgent" abgefragt wird.
 
-Es wird empfohlen, dass Webentwickler nach Möglichkeit die Feature-Erkennung verwenden, um die Verwaltbarkeit von Code zu verbessern, die Anfälligkeit von Code zu verringern und das Risiko von Code Unterbrechungen bei zukünftigen UA-Zeichenfolgen Aktualisierungen zu vermeiden.
+Wir empfehlen Webentwicklern, nach Möglichkeit die Feature-Erkennung zu verwenden, um die Wartbarkeit des Codes zu verbessern, die Fragilität des Codes zu verringern und das Risiko eines Codebruchs bei zukünftigen Aktualisierungen von UA-Zeichenfolgen auszuschließen.
 
-Weitere Informationen finden Sie unter [Microsoft Edge User Agent String (Desktop)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).
+Weitere Informationen finden Sie unter [Benutzer-Agent-Zeichenfolgen für Microsoft Edge (Desktop)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string)

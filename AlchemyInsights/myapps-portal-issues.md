@@ -3,22 +3,21 @@ title: Probleme mit dem Portal „Meine Apps“
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/20/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+- "7771"
+ms.date: 01/20/2021
+ms.openlocfilehash: ebc7ded28544ed5e38356cbf31dd0c67bd851dfd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49912006"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66364800"
 ---
 # <a name="myapps-portal-issues"></a>Probleme mit dem Portal „Meine Apps“
 
@@ -28,9 +27,9 @@ Informationen zur Behebung von Problemen, die bei der Anmeldung oder Verwendung 
 
 Eine Anleitung, wie Sie herausfinden können, warum die von Ihnen erwarteten Anwendungen nicht im Zugriffsbereich der Anwendung angezeigt werden, finden Sie unter:
 
-- [Ich verstehe nicht, warum eine Anwendung, die ich zugewiesen habe, im Zugriffsbereich nicht angezeigt wird](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [Ich verstehe nicht, warum eine Anwendung, die ich zugewiesen habe, im Zugriffsbereich nicht angezeigt wird](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Ich verstehe nicht, warum eine Anwendung im Zugriffsbereich angezeigt wird](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [Ich verstehe nicht, warum eine Anwendung im Zugriffsbereich angezeigt wird](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
 **Ich habe Probleme bei der Anmeldung im Zugriffsbereich der Anwendung**
 

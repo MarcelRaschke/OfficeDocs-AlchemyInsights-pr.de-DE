@@ -1,33 +1,32 @@
 ---
-title: Blockieren von benutzerdefinierten E-Mail-Signaturen
+title: Blockieren von vom Benutzer erstellten E-Mail-Signaturen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 12/18/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.date: 12/18/2020
+ms.openlocfilehash: 3cab11af70790f7e3ff5f648e13aeb8944c37b1f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464618"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66342849"
 ---
-# <a name="block-user-made-email-signatures"></a>Blockieren von benutzerdefinierten E-Mail-Signaturen
+# <a name="block-user-made-email-signatures"></a>Blockieren von vom Benutzer erstellten E-Mail-Signaturen
 
-Die folgende Lösung gilt nur für E-Mail-Signaturen, die in Outlook im Web erstellt wurden. Sie können Signaturen in der Outlook-App nur blockieren, wenn Sie über eine lokale Exchange Server.
+Die folgende Lösung gilt nur für E-Mail-Signaturen, die in Outlook im Web erstellt wurden. Sie können Signaturen in der Outlook-App nur blockieren, wenn Sie über eine lokale Exchange Server verfügen.
 
-1. Wählen Sie im Admin Center Admin **Center**  >  **Exchange aus.**
-2. Klicken Sie **auf Berechtigungen** Outlook  >  **Web App-Richtlinien**.
-3. Wählen Sie die Richtlinie aus, und klicken Sie dann auf das Stiftsymbol, um sie zu bearbeiten.
-4. Klicken Sie **auf Features**  >  **Weitere Optionen**.
-5. Aktivieren **Sie unter Benutzererfahrung** das Kontrollkästchen **E-Mail-Signatur,** und klicken Sie dann auf **Speichern**.
+1. Wählen Sie im Admin Center **Admin Center** > **Exchange** aus.
+2. Klicken Sie auf **Berechtigungen** >  **Outlook Web App Richtlinien**.
+3. Wählen Sie die Richtlinie aus, und klicken Sie dann auf das Bleistiftsymbol, um sie zu bearbeiten.
+4. Klicken Sie auf **"Weitere** > **Optionen"**.
+5. Deaktivieren Sie unter **"Benutzererfahrung**" das Kontrollkästchen " **E-Mail-Signatur** ", und klicken Sie dann auf **"Speichern"**.
 
-**Wichtig:** Wenn vor dem Löschen dieses Kontrollkästchens eine Signatur hinzugefügt wurde, kann der Benutzer sie weiterhin verwenden. Bitten Sie sie, sie zu entfernen.
+**Wichtig:** Wenn vor dem Deaktivieren dieses Kontrollkästchens eine Signatur hinzugefügt wurde, kann der Benutzer sie weiterhin verwenden. Bitten Sie ihn, ihn zu entfernen.

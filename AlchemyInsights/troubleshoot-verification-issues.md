@@ -1,27 +1,26 @@
 ---
 title: 'Fehlersuche: Probleme mit der Überprüfung'
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002657"
 - "5619"
-ms.openlocfilehash: 9eb1ec0364ce0a3e44dc898464d65d2ef587e9c0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c88baf470b794ab6d6aca88b06f8f6b84410a618
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757704"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66589747"
 ---
 # <a name="troubleshoot-verification-issues"></a>Fehlersuche: Probleme mit der Überprüfung
 
-Wird beim Öffnen einer Microsoft 365-Anwendung ein Hinweis zu Ihrem Abonnement angezeigt, führen Sie die [hier](https://support.office.com/article/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) aufgeführten Schritte zur Fehlerbehebung aus, um diese Benachrichtigungen nicht mehr zu erhalten.
+Wird beim Öffnen einer Microsoft 365-Anwendung ein Hinweis zu Ihrem Abonnement angezeigt, führen Sie die [hier](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) aufgeführten Schritte zur Fehlerbehebung aus, um diese Benachrichtigungen nicht mehr zu erhalten.
 
 **Beispiel**: Am oberen Rand der Anwendung wird möglicherweise folgende gelbe Warnleiste angezeigt: **Abonnement konnte nicht verifiziert werden**.
 

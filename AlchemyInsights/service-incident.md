@@ -1,24 +1,25 @@
 ---
-title: Neu auftretende Probleme
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+title: Neu auftretendes Problem
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1965"
 - "9000337"
-ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1965"
+ms.openlocfilehash: 7d477bbe8c68ef3dba72b616936fcfd03ff7f574
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797691"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66346971"
 ---
-# <a name="emerging-issue"></a>Neu auftretende Probleme
+# <a name="emerging-issue"></a>Neu auftretendes Problem
 
-Mehrere Kunden haben sich über ein ähnliches Problem wie das, was Sie melden, beklagt. Wir betrachten dieses Problem.
+Mehrere Kunden haben sich über ein Problem beschwert, das dem ähnelt, was Sie melden. Wir befassen uns mit diesem Thema.
 
-Überprüfen Sie das [Service-Integritäts Dashboard](https://admin.microsoft.com/adminportal/home#/servicehealth) , um über alle Beeinträchtigungen des Diensts informiert zu bleiben.
+Überprüfen Sie das [Dienstintegritätsdashboard](https://admin.microsoft.com/adminportal/home#/servicehealth) , um über alle Dienste auf dem Laufenden zu bleiben, die Sich auf Vorfälle auswirken.

@@ -1,24 +1,23 @@
 ---
 title: Microsoft Stream-Wiedergabefehler
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6454"
 - "9001509"
-ms.openlocfilehash: 2f7a716c55093e1e3109a83a9e29f2f71c03bd10
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+- "6454"
+ms.date: 07/20/2020
+ms.openlocfilehash: 969afb750fd5d4af923324e06104a037d1304739
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48278430"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66383421"
 ---
 # <a name="microsoft-stream-playback-errors"></a>Microsoft Stream-Wiedergabefehler
 

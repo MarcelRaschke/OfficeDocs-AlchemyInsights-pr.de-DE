@@ -1,27 +1,26 @@
 ---
 title: Administratoren können bestimmte Funktionen im Teams Admin Center nicht ausführen.
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9001721"
-- "5055"
 - "9002613"
-- "5057"
 - "9000701"
 - "5067"
-ms.openlocfilehash: 0c4bd0b7a5999b81d0dc48209cbc738a0f1d77df
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "5055"
+- "5057"
+ms.openlocfilehash: 102c108cb75370b4143554474c5f4166366b50d3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696836"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66276004"
 ---
 # <a name="admins-unable-to-perform-certain-functions-in-the-teams-admin-center"></a>Administratoren können bestimmte Funktionen im Teams Admin Center nicht ausführen.
 

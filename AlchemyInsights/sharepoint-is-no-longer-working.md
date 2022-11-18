@@ -1,23 +1,22 @@
 ---
 title: SharePoint funktioniert nicht mehr
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9003047"
 - "5801"
-ms.openlocfilehash: 1880ef923a1e0f2b2c8ce8eb539cba485f8601da
-ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
+ms.openlocfilehash: 36171c2ff2f9c4b0203836b314e3c3c4e95959e8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49002700"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66426190"
 ---
 # <a name="sharepoint-is-no-longer-working"></a>SharePoint funktioniert nicht mehr
 

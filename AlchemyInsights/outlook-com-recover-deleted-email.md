@@ -1,36 +1,34 @@
 ---
-title: Wiederherstellen gelöschter e-Mails in Outlook.com
+title: Wiederherstellen gelöschter E-Mails in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "261"
 - "8000011"
-ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: c24980ff28d0400faadfa413eacfba37401068a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "261"
+ms.date: 04/21/2020
+ms.openlocfilehash: 9214157ad23da66f56795968df74a424546ecfd1
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723606"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66579098"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Wiederherstellen gelöschter e-Mail-Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Gelöschte E-Mail-Outlook.com wiederherstellen
 
-1. Wählen Sie im linken Bereich **Gelöschte Elemente**aus.
-2. Wählen Sie das Element aus, das Sie wiederherstellen möchten, und wählen Sie **Restore**aus.
-3. Wenn sich die Nachricht nicht in den gelöschten Elementen befindet, wählen Sie im oberen Bereich des Fensters **Gelöschte Elemente wiederherstellen aus diesem Ordner aus** .
+1. Wählen Sie im linken Bereich **"Gelöschte Elemente" aus**.
+2. Wählen Sie das Element aus, das Sie wiederherstellen möchten, und wählen Sie **"Wiederherstellen"** aus.
+3. Wenn sich die Nachricht nicht in "Gelöschte Elemente" befindet, wählen Sie oben im Fenster " **Aus diesem Ordner gelöschte Elemente wiederherstellen" aus** .
 
  **Wichtige Informationen zu gelöschten Elementen:**
   
 - Elemente, die aus dem Ordner "Gelöschte Elemente" entfernt wurden, können 30 Tage lang wiederhergestellt werden.
-- Wenn Sie sich seit 365 Tagen nicht bei Ihrem Konto angemeldet haben, wird Ihre e-Mail gelöscht und kann nicht wiederhergestellt werden.
-- Es ist nicht möglich, gelöschte e-Mails aus untergeordneten Konten wiederherzustellen.
+- Wenn Sie sich 365 Tage lang nicht bei Ihrem Konto angemeldet haben, werden Ihre E-Mails gelöscht und können nicht wiederhergestellt werden.
+- Es ist nicht möglich, von untergeordneten Konten gelöschte E-Mails wiederherzustellen.
 
-Weitere Informationen finden Sie unter [Wiederherstellen gelöschter e-Mail-Nachrichten in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie [unter Wiederherstellen gelöschter E-Mail-Nachrichten in Outlook.com](https://support.microsoft.com/office/restore-deleted-email-messages-in-outlook-com-cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).

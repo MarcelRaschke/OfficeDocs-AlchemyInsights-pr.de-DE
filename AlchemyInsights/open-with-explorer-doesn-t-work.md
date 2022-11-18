@@ -1,33 +1,30 @@
 ---
 title: "\"Mit Explorer öffnen\" funktioniert nicht"
-ms.author: toresing
-author: tomresing
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: 5bf28982533d8ca9998605cf3592f317c0ef99b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 3345ac9bf1085253afc35b679876824c12123476
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694455"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66349815"
 ---
-# <a name="open-with-explorer-isnt-working"></a>Öffnen mit Explorer ist nicht funktionsfähig
+# <a name="open-with-explorer-isnt-working"></a>"Mit Explorer öffnen" funktioniert nicht
 
-Wenn **Open with Explorer** oder **View im Datei-Explorer** nicht funktioniert, stellen Sie sicher, dass der WebClient-Dienst auf " **Running** " festgelegt ist, indem Sie die folgenden Schritte ausführen. Es kann beispielsweise eine lange Zeit dauern, eine SharePoint-oder OneDrive-Bibliothek zu öffnen, wenn der Dienst nicht ausgeführt wird. 
+Wenn **"Mit Explorer** öffnen" oder **"Anzeigen in Explorer**" nicht funktioniert, stellen Sie sicher, dass der WebClient-Dienst auf **"Ausführen"** festgelegt ist, indem Sie die folgenden Schritte ausführen. Das Öffnen einer SharePoint- oder OneDrive-Bibliothek kann beispielsweise sehr lange dauern, wenn der Dienst nicht ausgeführt wird. 
   
-1. Geben Sie im Feld Windows-Suche ausführen ein, wählen Sie die Desktop-App ausführen aus, geben Sie Services. msc ein, und drücken Sie die **EINGABETASTE**.
+1. Geben Sie im Windows-Suchfeld "Run" ein, wählen Sie die Desktop-App "Run" aus, geben Sie "services.msc" ein, und drücken Sie dann die **EINGABETASTE**.
     
-2. Scrollen Sie nach unten zum WebClient Dienst, und überprüfen Sie die Spalte **Status** . Wenn der WebClient-Dienststatus nicht **aktiv**ist, doppelklicken Sie auf den Dienst, klicken Sie auf **Start**, und klicken Sie dann auf **OK**. Aktivieren Sie den Dienst, falls erforderlich, indem Sie im Feld **Starttyp** entweder **manuell** oder **automatisch** auswählen. 
+2. Scrollen Sie nach unten zum WebClient-Dienst, und überprüfen Sie die Spalte **"Status"** . Wenn der WebClient-Dienststatus nicht **ausgeführt** wird, doppelklicken Sie auf den Dienst, klicken Sie auf **"Start**", und klicken Sie dann auf **"OK**". Aktivieren Sie den Dienst bei Bedarf, indem Sie im **Feld "Starttyp**" entweder "**Manuell**" oder "**Automatisch**" auswählen. 
     
-> [!NOTE]
-> Informationen zum Behandeln von Problemen, die im Datei-Explorer geöffnet werden, finden Sie unter [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Durchsuchen Sie die Synchronisierung als bessere Alternative: [Synchronisieren Sie SharePoint-Dateien mit dem neuen OneDrive-synchronisierungsclient](https://go.microsoft.com/fwlink/?linkid=871666). 
+**Hinweis**: Informationen zum Beheben von Problemen beim Öffnen in Explorer finden Sie [unter "Im Explorer öffnen"](https://go.microsoft.com/fwlink/?linkid=871665). Erkunden Sie die Synchronisierung als bessere Alternative: [Synchronisieren Sie SharePoint-Dateien mit dem neuen OneDrive-Synchronisation-Client](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

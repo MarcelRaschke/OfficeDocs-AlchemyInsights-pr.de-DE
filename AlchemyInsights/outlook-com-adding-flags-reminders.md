@@ -1,36 +1,36 @@
 ---
-title: Outlook.com hinzufügen von Flags oder Erinnerungen
+title: Outlook.com Hinzufügen von Flags oder Erinnerungen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ms.custom:
-- "1921"
-- "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 865650d8b7a39be33ba8105799916740273cf020
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.custom:
+- "9000304"
+- "1921"
+ms.date: 04/21/2020
+ms.openlocfilehash: f99a473146e03be8a6b716e5c1a258b7fb3427f0
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753942"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66567013"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Hinzufügen von Flags und Erinnerungen in Outlook.com
 
-So legen Sie eine Erinnerung für ein Ereignis fest oder bearbeiten Sie:
+So legen Sie eine Erinnerung für ein Ereignis fest oder bearbeiten sie:
 
-1. Wechseln Sie zu [Kalender](https://outlook.live.com/calendar/).
-1. Wählen Sie das Ereignis aus, an das Sie erinnert werden möchten, und wählen Sie dann die Pfeile in der oberen rechten Ecke aus. <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gcCFAQmIj9P5wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAo0lEQVQ4jd3Uuw0DIQwG4J8oYgA2gIYKZvASDE9zbMAANE51kdBxCY+TLoolGmx9wsIgmJlxcTyuBv8cDSFACFEt731dxAuhtWYpJTvnqv3p9o0xAABr7SE3he7gtm3N/HMVVEodasTI8H874R7d7feC3egI2ESJCEQ0DQKNi8o5L4HAh/ZnwVM0xjgNnqKlFKSU3m87hDCEDs1pb/zG13cb+gIdRoJ0pVkSQgAAAABJRU5ErkJggg==' /> , um ihn zu erweitern.
-1. Wählen Sie als nächstes die Option Erinnerungszeit aus, um **mich daran zu erinnern**.Outlook.com speichert die Änderungen automatisch.
+1. Wechseln Sie zum [Kalender](https://outlook.live.com/calendar/).
+1. Wählen Sie das Ereignis aus, an das Sie erinnert werden möchten, und wählen Sie dann die Pfeile in der oberen rechten Ecke aus. <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gcCFAQmIj9P5wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAo0lEQVQ4jd3Uuw0DIQwG4J8oYgA2gIYKZvASDE9zbMAANE51kdBxCY+TLoolGmx9wsIgmJlxcTyuBv8cDSFACFEt731dxAuhtWYpJTvnqv3p9o0xAABr7SE3he7gtm3N/HMVVEodasTI8H874R7d7feC3egI2ESJCEQ0DQKNi8o5L4HAh/ZnwVM0xjgNnqKlFKSU3m87hDCEDs1pb/zG13cb+gIdRoJ0pVkSQgAAAABJRU5ErkJggg==' /> aus, um sie zu erweitern.
+1. Wählen **Sie neben "Erinnerung"** eine Erinnerungszeit aus. Outlook.com speichert Ihre Änderungen automatisch.
 
-Wenn Sie sich daran erinnern möchten, dass eine Nachricht nachverfolgt werden soll, können Sie eine Nachverfolgungskennzeichnung hinzufügen:
+Um sich selbst daran zu erinnern, eine Nachricht nachzuverfolgen, können Sie eine Nachverfolgungskennzeichnung hinzufügen:
 
-1. Zu [e-Mail](https://outlook.live.com/mail/) wechseln
-1. Zeigen Sie in der Nachrichtenliste auf die Nachricht, um die Option Flag anzuzeigen.
-1. Auswählen des Kennzeichnungs Symbols <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gUVEjU52ukFVAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAA30lEQVQ4jWP8////fwYqAiZqGkZfA19fWMrQmJXPMGnHa+oYyPD1O8OPvz8YfnxjYFjXlc1Q0beK4cjtpwQNZCHO3j8M72/uZVh85zjDfiMXBi9XMwZjeVESXYgN/P3G8OT0JoZZXb0MfauOU8FAGPjznuHm3gUMWYXNDLN3XkWRItLLmICFR47B0MmDIcVdmzIDmbnEGTQsPRnywiyxW0S0QWzCDCq2XgxFYTZ41RFloLh+AEN6tAmDvjT2mCXZQGt3T2KUMTAwDOm8TH0DuTkZOJg5GDi4SDOQceQVsAB8iTrQ4HKYLgAAAABJRU5ErkJggg==' /> , um die Nachricht zu kennzeichnen. Wenn Sie alle gekennzeichneten Nachrichten anzeigen möchten, aktivieren Sie das Häkchen in der unteren linken Ecke der Seite, um zu Aufgaben zu wechseln.
+1. Zu [E-Mail wechseln](https://outlook.live.com/mail/)
+1. Zeigen Sie in der Nachrichtenliste auf die Nachricht, um die Kennzeichnungsoption anzuzeigen.
+1. Auswählen des Kennzeichnungssymbols <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gUVEjU52ukFVAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAA30lEQVQ4jWP8////fwYqAiZqGkZfA19fWMrQmJXPMGnHa+oYyPD1O8OPvz8YfnxjYFjXlc1Q0beK4cjtpwQNZCHO3j8M72/uZVh85zjDfiMXBi9XMwZjeVESXYgN/P3G8OT0JoZZXb0MfauOU8FAGPjznuHm3gUMWYXNDLN3XkWRItLLmICFR47B0MmDIcVdmzIDmbnEGTQsPRnywiyxW0S0QWzCDCq2XgxFYTZ41RFloLh+AEN6tAmDvjT2mCXZQGt3T2KUMTAwDOm8TH0DuTkZOJg5GDi4SDOQceQVsAB8iTrQ4HKYLgAAAABJRU5ErkJggg==' /> um die Nachricht zu kennzeichnen. Um alle gekennzeichneten Nachrichten anzuzeigen, aktivieren Sie das Häkchen in der unteren linken Ecke der Seite, um zu "Aufgaben" zu wechseln.
  
-Weitere Informationen finden Sie [unter kennzeichnen oder anheften einer Nachricht in Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie [unter Kennzeichnen oder Anheften einer Nachricht in Outlook.com](https://support.microsoft.com/office/flag-or-pin-a-message-in-outlook-com-8e911e69-30d6-4cc8-8c71-a1163560618a).

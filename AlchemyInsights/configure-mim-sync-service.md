@@ -3,22 +3,21 @@ title: Konfigurieren des MIM Sync-Diensts
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "8472"
 - "9004688"
-ms.openlocfilehash: 48e9a0e8c26088b690092bfaedfba641841739f6
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+- "8472"
+ms.date: 02/19/2022
+ms.openlocfilehash: 709225781f1b253fc848ac269718163cbc309273
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430742"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66260290"
 ---
 # <a name="configure-mim-sync-service"></a>Konfigurieren des MIM Sync-Diensts
 

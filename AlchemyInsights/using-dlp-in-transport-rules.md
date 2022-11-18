@@ -1,27 +1,26 @@
 ---
 title: Verwenden von DLP in Transportregeln
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002635"
 - "5153"
-ms.openlocfilehash: 00ea5e67d1277e4a2a73d616b1f90d6e4bc5b54f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b45d504e70544b382004a705ab70d16058e6929
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773162"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66509862"
 ---
 # <a name="using-dlp-in-transport-rules"></a>Verwenden von DLP in Transportregeln
 
-Wenn Sie die Verhinderung von Datenverlust (DLP) in einen vorhandenen Transport integrieren möchten, verwenden Sie die Bedingung "**Wenn die Nachricht enthält... Vertrauliche Informationen**" in der Einstellung der Transportregel.
+Um Microsoft Purview Data Loss Prevention in einen vorhandenen Transport zu integrieren, verwenden Sie die Bedingung "**Wenn die Nachricht...Vertrauliche Informationen...enthält**" in der Transportregeleinstellung.
 
 **Weitere Informationen finden Sie hier:**
 
@@ -31,4 +30,4 @@ Sie können die Regel mit oder ohne Richtlinientest auch testen, indem Sie die R
 
 - Siehe [Nachrichtenflussregel (Transportregel) testen](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/test-mail-flow-rules).
 
-**Hinweis**: Wenn Sie eine neue DLP-Richtlinie mit Transportregeln im EAC implementieren möchten, verwenden Sie stattdessen [DLP-Richtlinien im Security & Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide).
+**Hinweis**: Wenn Sie eine neue DLP-Richtlinie mit Transportregeln im EAC implementieren möchten, verwenden Sie stattdessen [DLP-Richtlinien im Security & Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies).

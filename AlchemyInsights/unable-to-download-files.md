@@ -1,26 +1,25 @@
 ---
 title: Dateien können nicht heruntergeladen werden
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9000213"
 - "5731"
-ms.openlocfilehash: 75da75da95d87c93bda84be0ed6be2f8c4a483fe
-ms.sourcegitcommit: bca3d6d885bf7fdba5605541f60a824f4a5028b8
+ms.openlocfilehash: 38175c599a73bb814d2fab2b58a925c5200cb336
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49671142"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66591907"
 ---
 # <a name="unable-to-download-files"></a>Dateien können nicht heruntergeladen werden
 
 Wenn Sie eine Datei oder einen Ordner aus SharePoint nicht herunterladen können, müssen Sie die Einschränkungen überprüfen.
 
-Weitere Informationen finden Sie unter [Herunterladen von Dateien und Ordnern aus OneDrive oder SharePoint](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).
+Weitere Informationen finden Sie unter [Herunterladen von Dateien und Ordnern aus OneDrive oder SharePoint](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df055).

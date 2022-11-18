@@ -3,28 +3,27 @@ title: Hinzufügen von Microsoft Edge zu Microsoft Intune
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/10/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "8240"
 - "9004604"
-ms.openlocfilehash: d56c65910d1c2170d3e0ce9676e913663701db96
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+- "8240"
+ms.date: 02/10/2021
+ms.openlocfilehash: e6d4187f256458dda002f10ac5af6edb0645c0a7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177998"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66277894"
 ---
 # <a name="add-microsoft-edge-to-microsoft-intune"></a>Hinzufügen von Microsoft Edge zu Microsoft Intune
 
 Um Microsoft Edge für Windows 10 bereitstellen, konfigurieren, überwachen und schützen zu können, müssen Sie es zunächst zu Microsoft Intune hinzufügen.
 
-> [!IMPORTANT]
+> **Wichtig**:
 - Intune unterstützt Microsoft Edge 77 und spätere Versionen.
 - Intune erkennt alle bereits vorhandenen Installationen von Microsoft Edge.
 - Wenn Microsoft Edge im Benutzerkontext installiert wird, überschreibt eine Systeminstallation die Installation im Benutzerkontext.

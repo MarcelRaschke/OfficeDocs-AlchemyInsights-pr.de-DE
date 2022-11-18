@@ -1,29 +1,27 @@
 ---
 title: Erstellen einer Website in SharePoint Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: dcc0f24e807c4fcf4930cd9d988d053d894171f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 2fa3d46c8b625a7dfa7de2cc2015fce34d73bc13
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756210"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66355755"
 ---
 # <a name="create-a-site"></a>Erstellen einer Website
 
-In SharePoint Online können Sie unterschiedliche Typen von Websites erstellen. Weitere Informationen zur Vorgehensweise im neuen SharePoint Admin Center finden Sie unter [Create a Site](https://go.microsoft.com/fwlink/?linkid=866295). Informationen dazu, wie Sie Benutzern das Erstellen eigener Websites ermöglichen, finden Sie unter [Verwalten der Websiteerstellung in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+Sie können verschiedene Arten von Websites in SharePoint Online erstellen. Informationen dazu finden Sie im neuen SharePoint Admin Center unter ["Erstellen einer Website](https://go.microsoft.com/fwlink/?linkid=866295)". Informationen dazu, wie Benutzer ihre eigenen Websites erstellen können, finden [Sie unter Verwalten der Websiteerstellung in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
  
-Informationen zu den neuen Websitetypen finden Sie unter [Gruppieren verbundener Teamwebsites](https://go.microsoft.com/fwlink/?linkid=866292) oder [Kommunikationswebsites](https://go.microsoft.com/fwlink/?linkid=866294).
+Informationen zu den neuen Websitetypen finden Sie unter ["Mit Gruppen verbundene Teamwebsites](https://go.microsoft.com/fwlink/?linkid=866292) " oder ["Kommunikationswebsites](https://go.microsoft.com/fwlink/?linkid=866294)".
     
 
 

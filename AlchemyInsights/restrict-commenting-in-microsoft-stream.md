@@ -1,23 +1,22 @@
 ---
 title: Einschränken der Kommentarfunktion in Microsoft Stream
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002650"
 - "5099"
-ms.openlocfilehash: 4b93a64ebe13233b3c7260f59ad57eb679250f5d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c565706c059287c0551ca6171d88d49c98d280e5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701030"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66264142"
 ---
 # <a name="restrict-commenting-in-microsoft-stream"></a>Einschränken der Kommentarfunktion in Microsoft Stream
 

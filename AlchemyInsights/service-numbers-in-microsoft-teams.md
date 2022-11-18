@@ -1,22 +1,22 @@
 ---
 title: Dienstnummern in Teams
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - "9002256"
 - "4359"
-ms.assetid: ''
-ms.openlocfilehash: 6bf7cca2d17b4e31a0f10ef41a2b77dcf0cf7efa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0d1ba549ad43ceb910c82b36b40e9c19ec62bd7f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799023"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66316678"
 ---
 # <a name="service-numbers-in-teams"></a>Dienstnummern in Teams
 

@@ -1,32 +1,31 @@
 ---
-title: Zugreifen auf Berichte zu App-Schutzrichtlinien in Microsoft Intune
+title: Zugriffsberichte zu App-Schutzrichtlinien in Microsoft Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 02/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9004635"
 - "8383"
-ms.openlocfilehash: 6de9c28c7c13141d86b643eae8d53fcd40317011
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.date: 02/25/2021
+ms.openlocfilehash: b92cce9f39c2dc069aaebeb0c1562264bbb5273b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50417039"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66314535"
 ---
-# <a name="access-reports-about-app-protection-policies-in-microsoft-intune"></a>Zugreifen auf Berichte zu App-Schutzrichtlinien in Microsoft Intune
+# <a name="access-reports-about-app-protection-policies-in-microsoft-intune"></a>Zugriffsberichte zu App-Schutzrichtlinien in Microsoft Intune
 
-Sie können auf Berichte zugreifen und diese herunterladen, die den Status Ihrer App-Schutzrichtlinien aus Microsoft Intune anzeigen. Leicht zu sehen, welche Benutzer Richtlinien zugewiesen werden, ob Benutzer für verdächtige Aktivitäten gekennzeichnet sind oder welche Benutzer potenziell schädliche Apps auf ihren Geräten installiert haben.
+Sie können auf Berichte zugreifen und diese herunterladen, in denen der Status Ihrer App-Schutzrichtlinien von Microsoft Intune angezeigt wird. Sehen Sie auf einfache Weise, welche Benutzer Richtlinien zugewiesen haben, ob Benutzer für verdächtige Aktivitäten gekennzeichnet sind oder welche Benutzer potenziell schädliche Apps auf ihren Geräten installiert haben.
 
-1. Wechseln Sie zum [Microsoft Endpoint Manager Admin Center](https://go.microsoft.com/fwlink/?linkid=2109431).
-1. Wählen **Sie Apps**  >  **Monitor** App protection  >  **status** Reports  >  **aus.**
-1. Wählen Sie den Bericht aus, den Sie anzeigen möchten, und wählen Sie dann die Benutzer oder Apps aus, die Sie je nach Bericht anzeigen möchten.
-1. Klicken Sie auf Bericht herunterladen, um eine Kopie des Berichts in einer **CSV-Datei herunterzuladen.**
+1. Navigieren Sie zum [Microsoft Endpoint Manager Admin Center](https://go.microsoft.com/fwlink/?linkid=2109431).
+1. Wählen Sie **"Apps** > **überwachen** >  **App-Schutz Statusberichte** >  aus.
+1. Wählen Sie den Bericht aus, den Sie anzeigen möchten, und wählen Sie dann je nach Bericht die Benutzer oder Apps aus, die Sie anzeigen möchten.
+1. Wenn Sie eine Kopie des Berichts in einer .csv Datei herunterladen möchten, klicken Sie auf **"Bericht herunterladen"**.
 
-Weitere Informationen finden Sie unter [Berichtsansicht](https://go.microsoft.com/fwlink/?linkid=2109431).
+Weitere Informationen finden Sie in der [Berichtsansicht](https://go.microsoft.com/fwlink/?linkid=2109431).

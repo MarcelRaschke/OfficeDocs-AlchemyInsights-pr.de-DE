@@ -3,22 +3,21 @@ title: Problem mit Attribut- und Bereichsdefinitionsfilter
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "8470"
 - "9004687"
-ms.openlocfilehash: 78df24c0d8a670d678e26879cf81476f1ae9b92d
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+- "8470"
+ms.date: 02/19/2021
+ms.openlocfilehash: d54e7a21c5287756354eb6f66e2367cb1ac4ede0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430751"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66374007"
 ---
 # <a name="problem-with-attribute-and-scoping-filter"></a>Problem mit Attribut- und Bereichsdefinitionsfilter
 

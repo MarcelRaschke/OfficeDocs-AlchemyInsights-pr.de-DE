@@ -3,22 +3,21 @@ title: Konfigurieren und Verlängern der Tokengültigkeitsdauer
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/20/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7778"
 - "9004351"
-ms.openlocfilehash: 505e79ae9a163b89a6df2a7085480728bb0f1051
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+- "7778"
+ms.date: 01/20/2021
+ms.openlocfilehash: 80f21d01a7b3b2c3fbf2f1c445fd6cd31ea83dda
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911996"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66368031"
 ---
 # <a name="configure-and-extend-token-lifetimes"></a>Konfigurieren und Verlängern der Tokengültigkeitsdauer
 
@@ -34,8 +33,7 @@ Der Artikel [Konfigurieren des Sitzungsverhaltens in Azure Active Directory B2C]
 
 Die Tokengültigkeitsdauer beträgt 1 Stunde und die Sitzungsgültigkeitsdauer beträgt 24 Stunden. Das bedeutet, dass Sie sich erneut anmelden müssen, bevor Sie ein neues Token anfordern können, wenn innerhalb von 24 Stunden keine Anforderung erfolgt ist.
 
-> [!NOTE]
-> Nach dem 30. Mai 2020 können neue Mandanten die Richtlinie „Gültigkeitsdauer konfigurierbarer Token“ nicht mehr verwenden, um Sitzungs- und Aktualisierungstoken zu konfigurieren. Die Einstellung erfolgt in den nächsten Monaten, was bedeutet, dass bestehende Richtlinien für Sitzungs- und Aktualisierungstokens nicht mehr berücksichtigt werden. Sie können die Gültigkeitsdauer von Token auch nach der Einstellung noch konfigurieren.
+**Hinweis**: Nach dem 30. Mai 2020 können neue Mandanten die Richtlinie „Gültigkeitsdauer konfigurierbarer Token“ nicht mehr verwenden, um Sitzungs- und Aktualisierungstoken zu konfigurieren. Die Einstellung erfolgt in den nächsten Monaten, was bedeutet, dass bestehende Richtlinien für Sitzungs- und Aktualisierungstokens nicht mehr berücksichtigt werden. Sie können die Gültigkeitsdauer von Token auch nach der Einstellung noch konfigurieren.
 
 
 

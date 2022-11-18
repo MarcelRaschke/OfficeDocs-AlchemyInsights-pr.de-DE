@@ -1,32 +1,31 @@
 ---
-title: Microsoft Graph-Rest-API-Referenz
-ms.author: pebaum
-author: pebaum
-manager: mnirke
-ms.date: 04/21/2020
-ms.audience: Admin
+title: Referenz zur Microsoft Graph-REST-API
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "7071"
 - "9004013"
-ms.openlocfilehash: 8401b153a3ceb4cd854c7441689cf1e10d18bb07
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+- "7071"
+ms.date: 04/21/2020
+ms.openlocfilehash: bcc0b397ffb89a2f6eb64b6fcfbb7b3845c9b52e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348847"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66420214"
 ---
-# <a name="microsoft-graph-rest-api-reference"></a>Microsoft Graph-Rest-API-Referenz
+# <a name="microsoft-graph-rest-api-reference"></a>Referenz zur Microsoft Graph-REST-API
 
-Die Graph-API-Sätze auf dem v 1.0-Endpunkt befinden sich im allgemeinen Verfügbarkeitsstatus (GA) und haben einen rigorosen Überprüfungs-und Feedbackprozess mit Kunden durchlaufen, um die praktischen Produktionsanforderungen zu erfüllen.
+Die Graph-API-Sets auf dem v1.0-Endpunkt befinden sich im Allgemeinen Verfügbarkeitsstatus (GA) und haben einen strengen Überprüfungs- und Feedbackprozess mit Kunden durchlaufen, um praktische Produktionsanforderungen zu erfüllen.
 
-- Weitere Informationen zur Graph-API v 1.0 finden Sie in der [Microsoft Graph-Rest-API v 1.0 Reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true). 
-- Weitere Informationen zur Beta Version der Graph-API finden Sie unter [Microsoft Graph Beta Endpoint Reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true).
+- Weitere Informationen zu Graph-API v1.0 finden Sie in der [Referenz zur Rest-API v1.0 von Microsoft Graph](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true). 
+- Weitere Informationen zu Graph-API Betaversion finden Sie in der [Referenz zum Beta-Endpunkt von Microsoft Graph](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true).
 
 Weitere Informationen zu Microsoft Graph finden Sie in der [Microsoft Graph-Dokumentation](https://docs.microsoft.com/graph/).
 
-Kunden von Unified und Premier Support können ein Support Ticket mithilfe dieses Portals heraufstufen. Wenn Sie keinen einheitlichen oder Premier-Support haben, können Sie auf die ﻿kostenlose Entwickler Unterstützung für Microsoft Graph unter Microsoft Q&A zugreifen. Bitte posten Sie hier Ihre Frage: https://aka.ms/AskGraph
+Unified- und Premier Support-Kunden können über dieses Portal ein Supportticket erstellen. Wenn Sie nicht über Unified- oder Premier-Support verfügen, können Sie auf den kostenlosen Entwicklersupport für Microsoft Graph auf Microsoft Q&A zugreifen. Bitte stellen Sie Ihre Frage hier: https://aka.ms/AskGraph

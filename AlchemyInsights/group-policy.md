@@ -3,22 +3,21 @@ title: Gruppenrichtlinie
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "8303"
 - "9003234"
-ms.openlocfilehash: a829a78bbe947300b6dabb9fdb36088c17809742
-ms.sourcegitcommit: 6900c2b7208ca51a9873dfc2e00be6f66cb25e3c
+- "8303"
+ms.date: 02/15/2021
+ms.openlocfilehash: ccb05c5020d06b19d78ed668e207c8a32a6f4dc5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50243903"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66268984"
 ---
 # <a name="group-policy"></a>Gruppenrichtlinie
 

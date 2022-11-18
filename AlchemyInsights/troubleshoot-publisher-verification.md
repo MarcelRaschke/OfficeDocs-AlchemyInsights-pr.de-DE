@@ -3,22 +3,21 @@ title: Problembehandlung bei Publisher-Überprüfung
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9004323"
 - "7712"
-ms.openlocfilehash: d4d0a78256a869ef4c1e19fe1ceb590824b10817
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.date: 01/15/2021
+ms.openlocfilehash: 375a7d508e93e836f9339ffe954c3dedfc4563f3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875396"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66261658"
 ---
 # <a name="issues-related-to-publisher-verification-for-developers"></a>Probleme bei der Publisher-Überprüfung für Publisher
 

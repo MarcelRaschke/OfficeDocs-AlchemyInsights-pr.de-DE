@@ -1,29 +1,30 @@
 ---
 title: Organisationsprofil ändern
-ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+ms.author: cmcatee
+manager: scotv
+ms.reviewer: mijeffer, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
+- commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.date: 04/21/2020
+ms.openlocfilehash: eb1cc3cdbf8a1f7ae1ff45f5f15abf71caaaec80
+ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726388"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "64712698"
 ---
 # <a name="change-organization-profile"></a>Organisationsprofil ändern
 
-Ändern Sie den Namen Ihres Unternehmens, die Adresse, technische Kontaktinformationen und vieles mehr im Admin Center auf der  >  Registerkarte Organisationsprofil der Einstellungen **org Settings**  >  [](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) .
+Ändern Sie ihren Firmennamen, Ihre Adresse, technische Kontaktinformationen und mehr im Admin Center auf der Profilregisterkarte **Einstellungen** >  **Org Einstellungen** >  [Organizational](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation).
 
-Stellen Sie sicher, dass Sie alle mit einem * markierten Felder ausfüllen, um das Speichern Ihrer Änderungen zu ermöglichen.
+Achten Sie darauf, alle mit * gekennzeichneten Pflichtfelder auszufüllen, damit Ihre Änderungen gespeichert werden können.
 
-[Weitere Informationen finden Sie unter Adress-oder Rechnungs Adressänderungen](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).
+[Weitere Informationen zu Adress- oder Rechnungsadressenänderungen](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).

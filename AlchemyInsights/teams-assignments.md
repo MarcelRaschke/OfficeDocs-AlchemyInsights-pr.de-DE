@@ -1,28 +1,28 @@
 ---
 title: Teams-Aufgaben
-ms.author: pebaum
-author: pebaum
+author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
-ms.date: 08/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6142"
 - "9003098"
-ms.openlocfilehash: 75e755bf35f4ee969159d3488d4daf04d524c464
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+- "6142"
+ms.date: 04/05/2022
+ms.openlocfilehash: 624b2add44acd8f265cf1352c45f09b4e68856f1
+ms.sourcegitcommit: 30b5ecda157eb16e15db9d9be25fae59edae12ec
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669859"
+ms.lasthandoff: 04/06/2022
+ms.locfileid: "64662755"
 ---
 # <a name="teams-assignments"></a>Teams-Aufgaben
 
 Aufgaben oder Arbeitseinheiten werden einem Kursteilnehmer oder Teammitglied in einem Kurs als Teil des Unterrichts zugewiesen. Sie können Aufgaben innerhalb Ihres Teams-Kurses erstellen.
 
-- Weitere Informationen zu Aufgaben finden Sie unter [Microsoft Teams-Aufgaben](https://support.microsoft.com/de-DE/office/microsoft-teams-5aa4431a-8a3c-4aa5-87a6-b6401abea114#ID0EAABAAA=Assignments).
-- Weitere Informationen zum Verwalten von Aufgaben im Microsoft Teams Admin Center finden Sie unter [Aufgaben in Teams für Bildungseinrichtungen](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams).
+- Weitere Informationen zu Aufgaben finden Sie unter [Microsoft Teams-Aufgaben](https://support.microsoft.com/office/microsoft-teams-5aa4431a-8a3c-4aa5-87a6-b6401abea114#ID0EAABAAA=Assignments).
+- Weitere Informationen zum Verwalten von Aufgabenfeatures im Microsoft Teams Admin Center, einschließlich [Massenexport](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams#bulk-export-assignment-data-outside-of-sharepoint-document-libraries), [Massenlöschung](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams#bulk-delete-assignment-data-outside-of-sharepoint-document-libraries) und [Entfernen von Aufgaben und Noten](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams#removing-assignments-and-grades), finden Sie [unter "Aufgaben in Teams für Education](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams)".
+- Die Dateien von Kursteilnehmern, die einer Übermittlung zur Aufgabe zugeordnet sind, werden in einer SharePoint Dokumentbibliothek mit dem Namen "Schülerarbeit" gespeichert. Weitere Informationen finden Sie unter [Zuordnungsdaten](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams#assignments-data) in ["Zuordnungen" in Teams für Education](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams).

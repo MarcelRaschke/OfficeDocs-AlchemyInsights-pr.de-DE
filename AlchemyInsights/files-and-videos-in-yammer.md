@@ -1,24 +1,23 @@
 ---
 title: Dateien und Videos in Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/15/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6040"
 - "9003112"
-ms.openlocfilehash: c5f2b7f6ac4686bc9ef81c38525994d032a57f78
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6040"
+ms.date: 07/15/2020
+ms.openlocfilehash: 57b1a5a4012fcc5ba0313c84bf502a107d5783f5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745201"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66390999"
 ---
 # <a name="files-and-videos-in-yammer"></a>Dateien und Videos in Yammer
 
@@ -36,4 +35,4 @@ In Yammer können standardmäßig alle Dateitypen hochgeladen werden. Administra
 
 Yammer ist in Microsoft 365 integriert und verwendet SharePoint Online für Dateiuploads. Weitere Informationen finden Sie unter [Übersicht über die Dateispeicherung in Yammer](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage). 
 
-Für eine optimale Erfahrung bei der Migration von Dateien zu SharePoint Online empfehlen wir, Ihr Yammer-Netzwerk für den nativen Modus zu konfigurieren. Weitere Informationen finden Sie unter [Übersicht über den nativen Modus](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode). 
+Für eine optimale Benutzerfreundlichkeit bei der Migration von Dateien zu SharePoint Online wird empfohlen, Ihr Yammer-Netzwerk für den nativen Modus zu konfigurieren. Weitere Informationen finden Sie unter [Übersicht über den nativen Modus](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode). 

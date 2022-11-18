@@ -1,24 +1,23 @@
 ---
-title: Exportieren von Chat Verlauf in Microsoft Teams
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Exportieren des Chatverlaufs in Teams
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9003839"
 - "6887"
-ms.openlocfilehash: afce8ac024a03d51473cfdad0131be0556915cdb
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: f8f89f6339824fd49ee79b4a37ca57b6e3e68582
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48840604"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66354531"
 ---
-# <a name="export-chat-history-in-teams"></a>Exportieren von Chat Verlauf in Microsoft Teams
+# <a name="export-chat-history-in-teams"></a>Exportieren des Chatverlaufs in Teams
 
-- Das exportieren, sichern, Drucken und Archivieren des Unterhaltungsverlaufs steht Benutzern derzeit nicht direkt in Microsoft Teams zur Verfügung. Stimmen Sie über diese Funktion in [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20)ab.
-- Als Administrator oder eDiscovery-Manager können Sie eine [Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search?view=o365-worldwide)  im Microsoft 365 Compliance Center erstellen, um nach und dann Chat Unterhaltungen in Ihrer Organisation zu exportieren. Weitere Informationen finden Sie unter [Exportieren von Inhalts Suchergebnissen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide).
+Als Administrator oder eDiscovery-Manager können Sie eine [Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search) im Microsoft Purview-Complianceportal erstellen und dann Chatunterhaltungen in Ihrer Organisation exportieren. Weitere Informationen finden Sie unter ["Exportieren von Inhaltssuchergebnissen](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)".

@@ -1,30 +1,30 @@
 ---
-title: 126 Fehler beim Aufrufen eines Postfachs in OWA gefunden?
+title: 126 Fehler beim Abrufen eines Postfachs in OWA nicht gefunden?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "126"
 - "1600020"
-ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 9a8897767ebfebac5807116251634c615ef6767d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "126"
+ms.date: 04/21/2020
+ms.openlocfilehash: 909460b16115dce76236d1a4a97c2de45a40d972
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706749"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66269128"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Fehler beim Aufrufen eines Postfachs nicht gefunden in Outlook im Internet?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Fehlermeldung "Postfach nicht gefunden" in Outlook im Web erhalten?
 
-Wenn Sie Outlook im Internet verwenden und ein Postfach wegen eines Fehlers **nicht gefunden werden konnte** , hat das Konto, das Sie zum Herstellen einer Verbindung mit Outlook im Internet verwendet haben, keine Exchange Online Lizenz und daher ist dem Konto kein Postfach zugeordnet. Ihr Administrator kann Ihrem Konto eine Lizenz zuweisen, indem Sie die folgenden Schritte ausführen:
+Wenn eine Outlook Web App (OWA)-Fehlermeldung angezeigt wird: "Ein Postfach konnte für *den Benutzer* nicht gefunden werden". Dies bedeutet, dass der angemeldete Benutzer nicht über eine Exchange Onlince-Lizenz und sp verfügt, kein Exchange Online Postfach diesem Benutzerkonto zugeordnet ist. 
 
-1. Öffnen Sie das [Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/homepage) , und wechseln Sie zu **aktive Benutzer** im Abschnitt **Benutzer** , und wählen Sie den Benutzer aus, der den Fehler sieht.
+Ein Organisationsadministrator kann dem Benutzer über die Microsoft 365 Admin Center eine Exchange-Lizenz zuweisen, indem er die folgenden Schritte ausführt:
 
-2. Wechseln Sie auf der Seite Benutzer, die geöffnet wird, zum Abschnitt **Lizenzen und apps** , wählen Sie den entsprechenden **Standort** Wert aus, und weisen Sie eine Lizenz zu, die Exchange Online enthält (erweitern Sie die Lizenz, um die Details anzuzeigen). Klicken Sie nach Abschluss des Vorgangs auf **Änderungen speichern**.
+1. Wechseln Sie zu ["Aktive Benutzer](https://admin.microsoft.com/AdminPortal/Home?ref=users)", wählen Sie den Benutzer aus, und wählen Sie " **Produktlizenzen** > **bearbeiten"** aus. 
+1. Legen Sie den erforderlichen Speicherort fest.
+1. Weisen Sie eine Lizenz zu, die über einen Exchange Online Serviceplan verfügt.

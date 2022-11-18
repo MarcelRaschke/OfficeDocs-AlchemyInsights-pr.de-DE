@@ -1,25 +1,24 @@
 ---
-title: 924 Regel Grenzwerte
+title: 924 Regelgrenzwerte
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "924"
 - "1800021"
-ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
-ms.openlocfilehash: 185f19f58a9efd3c83f5f3c0ec2682a0849b6675
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "924"
+ms.date: 04/21/2020
+ms.openlocfilehash: f0b48ee2e337056e8d99ed12bc0d3a08e57b45cc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727638"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66347223"
 ---
-# <a name="rule-limits"></a>Regel Grenzwerte
+# <a name="rule-limits"></a>Regelbeschränkungen
 
-Regel Grenzwerte können in Planoptionen und eigenständigen Optionen variieren. Weitere Informationen finden Sie unter [Journal-, Transport-und Posteingangsregel Grenzwerte](https://technet.microsoft.com/library/exchange-online-limits.aspx).
+Regelbeschränkungen können zwischen Planoptionen und eigenständigen Optionen variieren. Weitere Informationen finden Sie unter [Journal-, Transport- und Posteingangsregelbeschränkungen](https://technet.microsoft.com/library/exchange-online-limits.aspx).

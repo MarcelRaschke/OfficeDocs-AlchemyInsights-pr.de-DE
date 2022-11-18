@@ -1,28 +1,27 @@
 ---
 title: Geringe Leistung mit Project Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "2588"
 - "9000668"
-ms.openlocfilehash: 2333dcfb13083157e7752901755b6715fee52a47
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "2588"
+ms.date: 07/24/2020
+ms.openlocfilehash: 21487bcbfc96fa8fef1ed1e6cf062d3f535e70c6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770478"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66262954"
 ---
 # <a name="slow-performance-with-project-online"></a>Geringe Leistung mit Project Online
 
-Project Online kann aus verschiedenen Gründen langsam sein, keinen Zugriff ermöglichen oder nicht verfügbar sein. Weitere Informationen finden Sie hier:
+Project Online kann aus verschiedenen Gründen langsam sein, keinen Zugriff ermöglichen oder nicht verfügbar sein. Weitere Informationen erhalten Sie hier:
 
 - Im Dienststatus-Dashboard können Sie sehen, ob Ihre Organisation von einem vorübergehenden Dienstproblem betroffen ist, bei dem Benutzer beim Zugriff auf Project zeitweilige Verzögerungen oder Navigationsfehler feststellen. Informationen zum Zugriff auf das Dienststatus-Dashboard finden Sie unter [Dienststatus-Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).</br>
     **Hinweis** Das Problem des Dienststatus kann für SharePoint oder Project oder beide angegeben sein, je nachdem, wo das Problem auftritt.

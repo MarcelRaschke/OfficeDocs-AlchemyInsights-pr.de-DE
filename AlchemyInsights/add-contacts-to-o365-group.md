@@ -1,28 +1,28 @@
 ---
-title: Hinzufügen von Kontakten zur Gruppe "O365"
+title: Hinzufügen von Kontakten zur O365-Gruppe
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "78"
 - "1200017"
-ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 649a299fa03453c5255e938017ab53b578a05037
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "78"
+ms.date: 04/21/2020
+ms.openlocfilehash: a8c80fe1596bdbe710650cd3bd71f696ec82f7dc
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688225"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66512265"
 ---
 # <a name="add-contacts-to-a-microsoft-365-group"></a>Hinzufügen von Kontakten zu einer Microsoft 365-Gruppe
 
-Gruppenbesitzer können in Outlook externe Benutzer und e-Mail-Kontakte hinzufügen, indem Sie die folgenden Anweisungen ausführen: [Hinzufügen und Entfernen von Gruppenmitgliedern in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)
+Gruppenbesitzer können externe Benutzer und E-Mail-Kontakte in Outlook hinzufügen, indem sie die folgenden Anweisungen befolgen: [Hinzufügen und Entfernen von Gruppenmitgliedern in Outlook](https://support.microsoft.com/office/add-and-remove-group-members-in-outlook-3b650f4a-5c9b-4f94-a1bb-0cca4b1091de)
   
-Sie können auch Gruppenmitglieder im Administrator Portal hinzufügen oder entfernen: [Mitglieder aus Microsoft 365-Gruppen mithilfe des Microsoft 365 Admin Center hinzufügen oder entfernen](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+Sie können auch Gruppenmitglieder im Admin Portal hinzufügen oder entfernen: [Hinzufügen oder Entfernen von Mitgliedern aus Microsoft 365-Gruppen mithilfe der Microsoft 365 Admin Center](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+
+Ein Gast kann nicht direkt auf den Posteingang der Gruppe zugreifen, aber Nachrichten an die Gruppe senden. Alle Nachrichten, die von anderen Mitgliedern an die Gruppe gesendet werden, werden im Posteingang der Gäste angezeigt. In [diesem Artikel](https://aka.ms/M365GroupGuest) erfahren Sie, was ein Gast als Mitglied der Microsoft 365-Gruppe kann.

@@ -1,33 +1,34 @@
 ---
 title: Zuweisen von Power BI zu Benutzern
-ms.author: cmcatee
 author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
-ms.audience: Admin
+ms.reviewer: sinakassaw, nicholak
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
+- commerce_licensing
 - "9002564"
 - "4964"
-- commerce
-ms.openlocfilehash: 9f95fff929f5637bccfa3f9d6a79281d2cb09003
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.date: 04/22/2022
+ms.openlocfilehash: e6fab33ef25827f77176797178f4a511ed3ccf94
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469553"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66007625"
 ---
 # <a name="assign-power-bi-to-users"></a>Zuweisen von Power BI zu Benutzern
 
-Power BI kann Benutzern über das **Microsoft 365 Admin Center** zugewiesen werden.  
+Power BI kann Benutzern über das Microsoft 365 Admin Center zugewiesen werden.  
 
-1. Wechseln Sie zu **Abrechnung > [Lizenzen](https://go.microsoft.com/fwlink/p/?linkid=842264)**.
+1. Wechseln Sie zu **Abrechnung > [Lizenzen](https://admin.microsoft.com/adminportal/home?ref=licenses)**.
 2. Wählen Sie ein Produkt aus, für das Sie Lizenzen zuweisen möchten.
 3. Klicken Sie auf **Lizenzen zuweisen**.
-4. Beginnen Sie im Bereich **Lizenzen an Benutzer zuweisen** mit der Eingabe eines Benutzernamens, und wählen Sie ihn dann aus den Ergebnissen aus. Sie können bis zu 20 Benutzer gleichzeitig hinzufügen.
+4. Beginnen Sie im Bereich **Lizenzen an Benutzer zuweisen** mit der Eingabe eines Namens, und wählen Sie ihn dann aus den Ergebnissen aus, um ihn der Liste hinzuzufügen. Sie können bis zu 20 Benutzer gleichzeitig hinzufügen.
 5. Klicken Sie auf **Apps und Dienste aktivieren oder deaktivieren**, um bestimmte Elemente zuzuweisen oder zu entfernen.
 6. Klicken Sie auf **Zuweisen** und dann auf **Schließen**.
 

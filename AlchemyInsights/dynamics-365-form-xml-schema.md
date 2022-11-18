@@ -1,22 +1,23 @@
 ---
-title: Dynamics 365-Formular-XML-Schema
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+title: Dynamics 365 Form XML Schema
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1471"
 - "6200019"
-ms.openlocfilehash: 57796a0845bc518d8d6bdbdf36398bd727abe704
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1471"
+ms.openlocfilehash: bed2ad830144baf446bebeddd568db54992a57d3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711895"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66259354"
 ---
 # <a name="dynamics-365-form-xml-schema"></a>Dynamics 365-Formular-XML-Schema
 
-[Formular-XML-Schema Definition für Formularanpassungen für Dynamics 365-Kundenengagements](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)
+[Formular-XML-Schemadefinition für Formularanpassungen für Dynamics 365 Customer Engagements](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)

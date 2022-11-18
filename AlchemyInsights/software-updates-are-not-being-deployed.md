@@ -1,24 +1,23 @@
 ---
 title: Softwareupdates werden nicht bereitgestellt
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/23/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1125"
 - "6700007"
-ms.openlocfilehash: d9a37e4c2d977083cf2ccbf6580159f92524f936
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1125"
+ms.date: 07/23/2020
+ms.openlocfilehash: ecbda636e38a2411b61254bd7c8b1ba8f9ba779d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665249"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66397443"
 ---
 # <a name="software-updates-are-not-being-deployed"></a>Softwareupdates werden nicht bereitgestellt
 

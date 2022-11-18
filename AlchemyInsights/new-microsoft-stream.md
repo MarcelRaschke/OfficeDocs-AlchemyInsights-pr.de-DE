@@ -1,28 +1,26 @@
 ---
-title: Migrieren von Microsoft Stream (klassisch) zum neuen Microsoft-Datenstrom
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Migrieren von Microsoft Stream (klassisch) zum neuen Microsoft Stream
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: bb4143d241f403093090640078d2a9bded37a874
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 83b511bffd8246ee4cc78803acab699dd5a887e7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236262"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66364569"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream ist ein Enterprise-Videodienst, mit dem Personen in Ihrer Organisation Videos sicher hochladen, anzeigen und teilen können. Sie können Aufzeichnungen von Kursen, Besprechungen, Präsentationen, Schulungssitzungen oder andere Videos freigeben, die die Zusammenarbeit Ihres Teams fördern.  
+Eine neue Vision für Microsoft Stream ermöglicht benutzern das Erstellen, Teilen, Entdecken und Verwalten von Videos wie jede andere Datei. Weitere Informationen finden Sie unter:
 
-- [Der neue Microsoft-Stream](https://docs.microsoft.com/stream/new-stream)
-- [Microsoft Stream (klassisch)](https://docs.microsoft.com/stream/overview)
-- [Migrieren von Microsoft Stream (klassisch) zum neuen Microsoft-Datenstrom](https://docs.microsoft.com/stream/classic-migration)
+- [Stream (basierend auf SharePoint), die neue Version von Microsoft Stream](https://docs.microsoft.com/stream/streamnew/new-stream)
+- [Übersicht über die Migration von Microsoft Stream (klassisch) zu Stream (basierend auf SharePoint)](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)

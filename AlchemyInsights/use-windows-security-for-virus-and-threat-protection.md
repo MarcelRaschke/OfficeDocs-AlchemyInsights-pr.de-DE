@@ -1,23 +1,22 @@
 ---
 title: Windows-Sicherheit für Viren- und Bedrohungsschutz verwenden
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9001517"
 - "5609"
-ms.openlocfilehash: 1a92ae582919ddd11b62498d2c91111165e34595
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b77376fb59b215a7030f5485fd0bfa6443d65c17
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795090"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66520878"
 ---
 # <a name="use-windows-security-for-virus-and-threat-protection"></a>Windows-Sicherheit für Viren- und Bedrohungsschutz verwenden
 

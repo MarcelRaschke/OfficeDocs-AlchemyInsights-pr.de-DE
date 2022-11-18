@@ -1,23 +1,22 @@
 ---
 title: Ausblenden, Einblenden oder Zurücksetzen der Sprachenleiste
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002950"
 - "5647"
-ms.openlocfilehash: ac8b52ebaf317dc5e93a30e528004ddedc2a0fac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a21033f7ff86cb3e71a7a71217646322cfaf77f4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782362"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66268609"
 ---
 # <a name="hide-display-or-reset-the-language-bar"></a>Ausblenden, Einblenden oder Zurücksetzen der Sprachenleiste
 
@@ -35,6 +34,6 @@ Wenn Sie die Sprachenleiste nicht an die Taskleiste anheften möchten, klicken S
 
 **So stellen Sie die standardmäßige Sprachenleiste wieder her:**
 
-Klicken Sie mit der rechten Maustaste auf die Schaltfläche „Sprache“ in der Symbolleiste, und klicken Sie dann im Menü auf die Option **Sprachenleiste wiederherstellen**. Dadurch wird sie auf die Standardeinstellungen zurückgesetzt.
+Klicken Sie mit der rechten Maustaste auf die Schaltfläche „Sprache“ in der Symbolleiste, und klicken Sie dann im Menü auf die Option **Sprachenleiste wiederherstellen**. Dies stellt die Standardeinstellung wird wiederhergestellt.
 
 ![Sprachenleiste wiederherstellen](media/restore-language-bar.png)

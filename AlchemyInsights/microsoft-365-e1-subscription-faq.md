@@ -3,22 +3,23 @@ title: Häufig gestellte Fragen zum Microsoft 365 E1-Abonnement
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
+- commerce_subscriptions
 - "9002870"
 - "5407"
-- commerce
-ms.openlocfilehash: ba8df2816f8e8a65be7af528a7e5b2e823312e04
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.date: 07/30/2021
+ms.openlocfilehash: d834ccb621542d2ed11f60b269e64ef0d3fc1e37
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469639"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66153901"
 ---
 # <a name="microsoft-365-e1-subscription-and-license-management-faq"></a>Häufig gestellte Fragen zur Verwaltung von Microsoft 365 E1-Abonnements und Lizenzen
 
@@ -27,7 +28,7 @@ ms.locfileid: "50469639"
 - Um **Pläne zu ändern**, ziehen Sie [Upgrade auf einen anderen Plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan) zurate.
 - Wenn Sie Benutzern E1-Lizenzen **zuweisen** möchten, navigieren Sie zu **Abrechnung > [Lizenzen](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Weitere Informationen finden Sie unter [Zuweisen von Lizenzen zu Benutzern](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Um E1-Lizenzen **zu kaufen oder zu entfernen**, navigieren Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Weitere Informationen finden Sie unter [Lizenzen kaufen oder entfernen](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
-- Um ein E1-Abonnement zu **kündigen**, navigieren Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**, wählen Sie das Abonnement und dann im Abschnitt **Abonnement- und Zahlungseinstellungen** die Option **Abonnement kündigen** aus. Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Um ein E1-Abonnement zu **kündigen**, navigieren Sie zu **Abrechnung > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)**, wählen das Abonnement und dann im Bereich **Abonnement- und Zahlungseinstellungen** die Option **Abonnement kündigen** aus. Weitere Informationen finden Sie unter [Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Informationen zum **Aktivieren** eines E1-Abonnements finden Sie unter [Aktivieren Ihres Abonnements](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Informationen zum **Reaktivieren** eines E1-Abonnements finden Sie unter [Reaktivieren Ihres Abonnements](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Informationen zum **Verlängern** einer E1-Testversion finden Sie unter [Verlängern Ihrer Testversion](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).

@@ -1,26 +1,26 @@
 ---
-title: So erwerben Sie Office 365 Bildungspläne
-ms.author: cmcatee
+title: So kaufen Sie Office 365 Education-Pläne
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+ms.author: cmcatee
+manager: scotv
+ms.reviewer: nalinkla, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "332"
+- commerce_purchase
 - "1500009"
-ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 9d7d950c55f010d84707d51e3aa045afc4a11623
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "332"
+ms.date: 04/21/2020
+ms.openlocfilehash: 1663e7b9c0ab11e827d1c0cf147cf725b3d2b66c
+ms.sourcegitcommit: bf8d563e7a7e901efba4f371aa069cac84318b9b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703587"
+ms.lasthandoff: 04/08/2022
+ms.locfileid: "64712014"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>So erwerben Sie Office 365 Bildungspläne
+# <a name="how-to-purchase-office-365-education-plans"></a>So kaufen Sie Office 365 Education-Pläne
 
-Ihre Office 365 Ausbildungsqualifikation wird derzeit überprüft. Sie können erwarten, dass Sie eine Benachrichtigung über die Bestimmung ihrer Eignung erhalten, bevor Ihre Testversion abläuft.
+Ihre Office 365 Education Qualifikation wird überprüft. Sie können davon ausgehen, dass Sie eine Benachrichtigung über die Bestimmung Ihrer Berechtigung erhalten, bevor Ihre Testversion abläuft.

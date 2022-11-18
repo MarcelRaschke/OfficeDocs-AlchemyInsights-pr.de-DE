@@ -1,28 +1,26 @@
 ---
 title: Administratorrolle und deren Zuweisung
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: d6d652d107d453692751ad802ebe397e52df5627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef6f02a902e7f86e08adf91060bce000b74c3758
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724686"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66403431"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Probleme mit einem Cloud-Dienst?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Haben Sie Probleme mit einem Clouddienst?
 
-Wenn Probleme mit einem clouddienst auftreten, können Sie den [Dienststatus](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) im Microsoft 365 Admin Center überprüfen, um festzustellen, ob es sich um ein bekanntes Problem mit einer laufenden Lösung handelt, bevor Sie den Support anrufen oder die Problembehandlung verbringen. Das Problem kann sehr temporär sein und bereits von Microsoft identifiziert werden, es kann jedoch zwischen der Problemerkennung und dem Veröffentlichen im Service Health Dashboard zu Zeitverzögerungen geben. Lesen Sie bitte weiterhin das Dienst Dashboard, um weitere Updates zu erhalten.
+Wenn Sie Probleme mit einem Clouddienst haben, können Sie die [Dienststatus](https://admin.microsoft.com/adminportal/home?ref=servicehealth) im Microsoft 365 Admin Center überprüfen, um festzustellen, ob es sich um ein bekanntes Problem mit einer laufenden Lösung handelt, bevor Sie den Support anrufen oder Zeit für die Problembehandlung aufwenden. Das Problem kann sehr temporär sein und bereits von Microsoft identifiziert werden, es kann jedoch zwischen der Problemidentifizierung und der Bereitstellung im Dienststatusdashboard verstrichen sein. Weitere Updates finden Sie im Dienstdashboard.
 
 **Benachrichtigungsrichtlinie**
 
-Microsoft ist sich bewusst, dass im Fall eines Dienstincidents zeitnahe, zielgerichtete und genaue Informationen für die Kunden entscheidend sind. Microsoft benachrichtigt Administratoren, indem Sie das mandantenspezifische [Service Health Dashboard (](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) "") im Microsoft 365-Verwaltungs Portal aktualisieren. Dienstincidentupdates werden stündlich bereitgestellt oder, wenn ein anderes Intervall erforderlich ist, in einer SHD-Kommunikationsveröffentlichung bekanntgegeben. Weitere Informationen finden Sie unter [How to Check Microsoft 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Microsoft ist sich bewusst, dass im Fall eines Dienstincidents zeitnahe, zielgerichtete und genaue Informationen für die Kunden entscheidend sind. Microsoft benachrichtigt Administratoren, indem das mandantenspezifische [Dienststatus-Dashboard (Service Health Dashboard, SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) im Microsoft 365 Admin Portal aktualisiert wird. Dienstincidentupdates werden stündlich bereitgestellt oder, wenn ein anderes Intervall erforderlich ist, in einer SHD-Kommunikationsveröffentlichung bekanntgegeben. Weitere Informationen finden Sie unter ["Überprüfen des Microsoft 365-Dienststatus](https://docs.microsoft.com/office365/enterprise/view-service-health)".
 

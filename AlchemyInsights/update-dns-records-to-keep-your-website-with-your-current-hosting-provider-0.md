@@ -1,29 +1,27 @@
 ---
 title: Aktualisieren von DNS-Einträgen, um die Website beim aktuellen Hostinganbieter zu belassen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
+- "100002"
 - "42"
 - "43"
-- "100002"
-ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 238b6f4582e2b0345a5dacee842ce528a16ddd17
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815784"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66505668"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Aktualisieren von DNS-Einträgen, um die Website beim aktuellen Hostinganbieter zu belassen
 
-1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Setup**  >  [Domänen](https://admin.microsoft.com/Adminportal#/Domains) , und wählen Sie in der Liste der Domänen die Domäne aus, die Sie für Ihre Website verwenden.
+1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **"Domänen einrichten** > ", und wählen Sie in der Liste der Domänen die Domäne aus, die Sie für Ihre Website verwenden.[](https://admin.microsoft.com/AdminPortal/Home?ref=Domains)
 
 2. Wählen Sie **+ Neuer benutzerdefinierter Eintrag** aus, und geben Sie Folgendes ein:
 

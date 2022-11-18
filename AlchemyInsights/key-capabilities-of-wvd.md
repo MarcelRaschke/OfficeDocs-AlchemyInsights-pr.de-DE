@@ -1,39 +1,38 @@
 ---
-title: Wichtige Funktionen des virtuellen Windows-Desktops
+title: Die wichtigsten Funktionen von Windows Virtual Desktop
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/17/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.date: 12/17/2020
+ms.openlocfilehash: 03c6d0d2fba0993e1cd53456428e65a6f9f4ae25
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706182"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66295534"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>Wichtige Funktionen des virtuellen Windows-Desktops
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Die wichtigsten Funktionen von Windows Virtual Desktop
 
-Windows Virtual Desktop ist ein Dienst für Desktop-Virtualisierung und App-Virtualisierung, der in der Cloud ausgeführt wird. Hier erfahren Sie, was Sie tun können, wenn Sie Windows Virtual Desktop unter Azure ausführen:
+Windows Virtual Desktop ist ein Desktop- und App-Virtualisierungsdienst, der in der Cloud ausgeführt wird. Dies sind die möglichen Aktionen, wenn Sie Windows Virtual Desktop in Azure ausführen:
 
-- Einrichten einer Windows 10-Bereitstellung mit mehreren Sitzungen, die eine vollständige Windows 10-Umgebung mit Skalierbarkeit bietet
-- Virtualisieren von Microsoft 365-apps und Optimieren der Ausführung in virtuellen Szenarien mit mehreren Benutzern
-- Bereitstellen Windows 7 virtueller Desktops mit kostenlosen Extended Security Updates (ESU)
-- Bringen Sie Ihre vorhandenen Remote Desktop Dienste (RDS) und Windows Server-Desktops und-Apps auf jeden Computer
-- Verwalten von Desktops und Apps für Windows 10, Windows Server und Windows 7 mit einer einheitlichen Verwaltungsumgebung
-- Erstellen einer vollständigen Desktop-Virtualisierungs-Umgebung in Ihrem Azure-Abonnement, ohne dass zusätzliche Gatewayserver ausgeführt werden müssen
-- Veröffentlichen Sie so viele Host Pools, wie Sie benötigen, um Ihre unterschiedlichen Arbeitslasten zu erfüllen.
-- Holen Sie in der Azure Gallery eigene Bilder für Produktionsarbeitslasten und Tests ein.
-- Geringere Kosten durch Verwendung von Pooled-, Multi-Session-Ressourcen
-- Bereitstellen von individuellem Besitz durch persönliche (permanente) Desktops
+- Einrichten einer Bereitstellung mit mehreren Sitzungen Windows 10, die eine vollständige Windows 10 Erfahrung mit Skalierbarkeit bietet
+- Virtualisieren sie Microsoft 365 Apps, und optimieren Sie sie für die Ausführung in virtuellen Szenarien mit mehreren Benutzern.
+- Bereitstellen von virtuellen Windows 7-Desktops mit kostenloser erweiterter Aktualisierungen (Extended Security Aktualisierungen, ESU)
+- Bringen Sie Ihre vorhandenen Remotedesktopdienste (RDS) und Windows Server-Desktops und -Apps auf einen beliebigen Computer.
+- Verwalten von Windows 10, Windows Server und Windows 7-Desktops und -Apps mit einer einheitlichen Verwaltungsoberfläche
+- Erstellen einer vollständigen Desktopvirtualisierungsumgebung in Ihrem Azure-Abonnement, ohne zusätzliche Gatewayserver ausführen zu müssen
+- Veröffentlichen Sie so viele Hostpools, wie Sie benötigen, um Ihre vielfältigen Workloads zu berücksichtigen.
+- Bringen Sie aus dem Azure-Katalog Ihre eigenen Bilder für Produktionsworkloads und -tests mit.
+- Reduzieren der Kosten durch die Verwendung von ressourcen mit mehreren Sitzungen
+- Bereitstellen des individuellen Besitzes über persönliche (persistente) Desktops
 
-Weitere Informationen finden Sie unter [Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) und [wichtige Funktionen](https://go.microsoft.com/fwlink/?linkid=2127033).
+Weitere Informationen finden Sie unter [Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) und [Wichtigste Funktionen](https://go.microsoft.com/fwlink/?linkid=2127033).
 

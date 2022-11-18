@@ -1,35 +1,34 @@
 ---
-title: Ändern des Konto Bilds
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Kontobild ändern
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: c2a7ac823c9a50d66e597ca1ca0cbf6906efe183
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b1ece0934f94c8f2928ce7c386d64ad26d87ad65
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734046"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66370371"
 ---
-# <a name="change-account-picture"></a>Ändern des Konto Bilds
+# <a name="change-account-picture"></a>Kontobild ändern
 
-Wenn Sie einen Benutzernamen und ein Kennwort für die Anmeldung bei Windows 10 verwenden, verwenden Sie ein lokales Konto. **So ändern Sie das Bild des lokalen Kontos**:
+Wenn Sie einen Benutzernamen und ein Kennwort zum Anmelden bei Windows 10 verwenden, verwenden Sie ein lokales Konto. **So ändern Sie das Bild Ihres lokalen Kontos**:
 
-1. Wechseln Sie zu **Start**  >  **Einstellungen**  >  **Konten**  >  **Ihre Informationen**.
-2. Klicken Sie unter **Bild erstellen**auf **nach eins suchen**. Wenn Ihr Gerät über eine Kamera verfügt, klicken Sie auf **Kamera** , und nehmen Sie einen selfie. 
-    **Hinweis**: Windows merkt sich die letzten drei Bilder, die Sie verwendet haben. Klicken Sie auf der Seite Ihre Informationen auf das Bild, um zu diesem zu wechseln.
+1. Wechseln Sie zu **"Einstellungen** > **starten"** > **– Ihre** > **Informationen**.
+2. Klicken **Sie unter "Bild erstellen**" auf " **Nach einem Bild suchen**". Oder, wenn Ihr Gerät über eine Kamera verfügt, klicken Sie auf **"Kamera"** , und machen Sie ein Selfie. 
+    **Hinweis**: Windows merkt sich die letzten drei Bilder, die Sie verwendet haben. Klicken Sie auf der Seite "Ihre Informationen" auf das Bild, um zu diesem Bild zu wechseln.
 
-Wenn Sie eine e-Mail-Adresse und ein Kennwort für die Anmeldung verwenden, verwenden Sie ein Microsoft-Konto. So ändern Sie das Microsoft-Konto Bild:
+Wenn Sie sich mit einer E-Mail-Adresse und einem Kennwort anmelden, verwenden Sie ein Microsoft-Konto. So ändern Sie ihr Microsoft-Kontobild:
 
-1. Melden Sie sich mit Ihrem Microsoft-Konto bei der **Informations** Seite an.
-2. Klicken Sie auf **Bild hinzufügen** oder **Grafik ändern**, und folgen Sie den Anweisungen.
+1. Melden Sie sich mit Ihrem Microsoft-Konto auf der Seite **"Ihre Informationen** " an.
+2. Klicken Sie auf **"Bild hinzufügen"** oder **"Bild ändern**", und folgen Sie dann den Anweisungen.
 
-[Weitere Informationen zum Einrichten und Verwalten Ihres Microsoft-Kontos finden Sie unter](https://support.microsoft.com/products/microsoft-account?category=manage-account).
+[Erhalten Sie weitere Hilfe beim Einrichten und Verwalten Ihres Microsoft-Kontos](https://support.microsoft.com/products/microsoft-account?category=manage-account).

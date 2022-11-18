@@ -1,35 +1,35 @@
 ---
-title: Vorgehensweise hinzufügen oder Bearbeiten eines VatID
-ms.author: cmcatee
+title: Hinzufügen oder Bearbeiten einer VatID
 author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
-ms.date: ''
-ms.audience: ITPro
+ms.reviewer: amberb, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "664"
+- commerce_billing
 - "1500034"
-ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 7f31038370b09fef179ac7d42e28e9d57b57d24d
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+- "664"
+ms.date: 08/11/2021
+ms.openlocfilehash: 43ede044fff6d3227fcda5e42e173881ef91433e
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489060"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66153361"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>Vorgehensweise hinzufügen oder Bearbeiten eines VatID
+# <a name="how-to-add-or-edit-a-vatid"></a>Hinzufügen oder Bearbeiten einer VatID
 
-> [!NOTE]
-> Wenn Sie sich in einem Land befinden, in dem die Mehrwertsteuer (VAT), wie beispielsweise das Vereinigte Königreich, verwendet wird, berechnet Microsoft Invoicing die Mehrwertsteuer für Sie und wendet den Betrag auf Ihre Rechnungen an. Weitere Informationen finden Sie unter [MIAS Disclaimer](https://go.microsoft.com/fwlink/p/?LinkID=841741) veröffentlicht von der Europäischen Kommission.
+**Hinweis**: Wenn Sie sich in einem Land befinden, in dem die Mehrwertsteuer (MwSt.) verwendet wird, z. B. Großbritannien, berechnet Microsoft Invoicing die Mehrwertsteuer für Sie und wendet den Betrag auf Ihre Rechnungen an. Weitere Informationen finden Sie im [VIES-Haftungsausschluss](https://go.microsoft.com/fwlink/p/?LinkID=841741) , der von der Europäischen Kommission veröffentlicht wurde.
 
-**Hinzufügen oder Bearbeiten eines VatID**
+**Hinzufügen oder Bearbeiten einer VatID**
 
 1. Navigieren Sie im Admin Center zur Seite **Abrechnung** \> [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
 2. Wählen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie aktualisieren möchten.
-3. Wählen Sie auf der Seite Abonnementdetails im Abschnitt **Dienstnutzungsadresse** die Option **Dienst Verwendungs Adresse bearbeiten**aus.
-4. Geben Sie im Bereich **Dienst Verwendungs Adresse bearbeiten** Ihre MwSt.-ID in das Feld MwSt.- **Nummer** ein, und wählen Sie dann **Speichern**aus. Nachdem Sie dies getan haben, wird die Mehrwertsteuer für Ihre nächste Rechnung nicht belastet.
+3. Wählen Sie auf der Seite mit den Abonnementdetails im Abschnitt **Dienstnutzungsadresse** die Option **Dienstnutzungsadresse bearbeiten** aus.
+4. Geben **Sie im Adressbereich "Dienstnutzung bearbeiten** " Ihre USt-ID in das Feld " **Umsatzsteuernummer** " ein, und wählen Sie dann **"Speichern"** aus. Nachdem Sie dies tun, wird die Mehrwertsteuer auf Ihrer nächsten Rechnung nicht in Rechnung gestellt.
 
-Weitere Informationen finden Sie unter [welche Steuern werden mir für Microsoft 365 berechnet?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+Weitere Informationen finden Sie unter [Welche Steuern werden mir für Microsoft 365 berechnet?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).

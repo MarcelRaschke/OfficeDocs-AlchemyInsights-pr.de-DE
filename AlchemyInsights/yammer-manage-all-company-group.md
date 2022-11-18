@@ -1,26 +1,32 @@
 ---
-title: Jammern Verwalten aller Unternehmensgruppen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Yammer Alle Unternehmensgruppen verwalten
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1019"
+ms.openlocfilehash: 849c81b22b817cdaf30077668ca5b19e85a26722
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688837"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66515821"
 ---
-# <a name="all-company-group"></a>Alle Unternehmensgruppen
+# <a name="all-company-group"></a>Gesamte Unternehmensgruppe
 
-Die Gruppe " **all Company** " wird automatisch erstellt, wenn Sie ein Jammer Netzwerk erstellen. Es handelt sich um eine Standardsystem Gruppe, die nicht umbenannt oder gelöscht werden kann. Jeder kann in der Gruppe " **all Company** " Posten, aber nur jammern von Netzwerkadministratoren können Ankündigungen in der Gruppe veröffentlichen. Verwenden Sie **Gruppen Einblicke**, um Informationen zum Engagement in der Gruppe " **alle Firmen** " anzuzeigen.
+Die Community "Alle Unternehmen" unterstützt jetzt ähnliche Funktionen wie andere Communitys in Yammer. Dazu gehören Optionen wie Titelfotos und Benennungen. Es ist auch möglich, alle Unternehmensbeiträge in Yammer einzuschränken. Weitere Informationen finden Sie unter ["Gesamtes Unternehmen", das jetzt wie andere Yammer-Communitys funktioniert](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).
 
-Weitere Informationen finden Sie unter [Verwalten einer Gruppe in "jammern"](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
+## <a name="common-issues-and-solutions"></a>Häufige Probleme und Lösungen
+
+- Alle Anpassungs- oder Buchungseinschränkungen des Unternehmens sind für Netzwerkadministratoren nicht verfügbar. Öffnen Sie eine Serviceanfrage, um die moderne Gruppe "Gesamtes Unternehmen" zu aktivieren.
+
+- Community Insights zeigt keine alten Daten an. Da "All Company" nun eine echte Community ist, werden die vorherigen Daten für das Netzwerk nicht angezeigt.
+
+- Das gesamte Unternehmen scheint gelöscht zu werden. Wenn die Community mit einer Microsoft 365-Gruppe verbunden ist, kann diese Gruppe gelöscht werden. Die Microsoft 365-Gruppe muss im Mandanten wiederhergestellt werden.
+

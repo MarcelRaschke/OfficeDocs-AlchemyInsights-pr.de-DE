@@ -1,35 +1,35 @@
 ---
 title: Suchen in SharePoint Online
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.openlocfilehash: 952d55074ae7e7033ddcd976d6a3cefd51e0d979
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770766"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66398091"
 ---
 # <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Durchforsten und Indizieren von Inhalten in SharePoint Online
 
-Inhalte müssen durchforstet und dem Suchindex hinzugefügt werden, damit Benutzer in SharePoint Online nach Ihren Suchvorgängen suchen können.
+Inhalte müssen durchforstet und dem Suchindex hinzugefügt werden, damit Benutzer in SharePoint Online finden, wonach sie suchen.
 
-- Stellen Sie sicher, dass Inhalte gefunden werden können, indem [Websiteinhalte durchsuchbar gemacht](https://docs.microsoft.com/sharepoint/make-site-content-searchable)werden.
+- Stellen Sie sicher, dass Inhalte gefunden werden können, indem [Sie Websiteinhalte durchsuchbar machen](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- Wenn Sie eine verwaltete Eigenschaft geändert oder die Zuordnung von durchforstete und verwalteten Eigenschaften geändert haben, muss die Website erneut durchforstet werden, bevor Ihre Änderungen im Suchindex wiedergegeben werden.
+- Wenn Sie eine verwaltete Eigenschaft geändert haben oder wenn Sie die Zuordnung von durchforsteten und verwalteten Eigenschaften geändert haben, muss die Website erneut durchforstet werden, bevor ihre Änderungen im Suchindex widergespiegelt werden.
 
-- Weitere Informationen finden Sie unter [Manuelles anfordern der Durchforstung und erneuten Indizierung einer Website, einer Bibliothek oder einer Liste](https://docs.microsoft.com/sharepoint/crawl-site-content).
+- Weitere Informationen finden Sie unter [Manuelles Anfordern des Durchforstens und erneuten Indizierens einer Website, einer Bibliothek oder einer Liste](https://docs.microsoft.com/sharepoint/crawl-site-content).
 
-- Warten Sie mindestens 24 Stunden nach der manuellen Anforderung einer Durchforstung und der vollständigen erneuten Indizierung, um zu sehen, ob noch ein Problem auftritt.
+- Warten Sie mindestens 24 Stunden, nachdem Sie manuell eine Durchforstung und einen vollständigen erneuten Index angefordert haben, um festzustellen, ob weiterhin ein Problem auftritt.
 
-- Wenn seit dem Initiieren der Durchforstung und der vollständigen erneuten Indizierung mehr als 24 Stunden vergangen sind, melden Sie sich einen Supportfall an. In vielen Fällen arbeiten wir bereits an einer Lösung. Geben Sie uns mindestens 24 Stunden, um eine Lösung zu vervollständigen.
+- Wenn seit dem Initiieren der Durchforstung und der vollständigen Neuindizierung mehr als 24 Stunden vergangen sind, protokollieren Sie einen Supportfall. In vielen Fällen arbeiten wir bereits an einer Lösung. Bitte geben Sie uns mindestens 24 Stunden, um eine Lösung abzuschließen.
 
-**Wichtig**: Wenn eine Website, ein Dokument (eine Bibliothek) oder eine Liste gelöscht wurde und weiterhin in den Suchergebnissen angezeigt wird, sollte der Benutzer eine **Fehler 404-Datei** erhalten, die nicht gefunden wurde, wenn er versucht, darauf zuzugreifen. Dieses Problem sollte bei weiteren Untersuchungen als Supportfall protokolliert werden.
+**Wichtig**: Wenn eine Website, ein Dokument (Bibliothek) oder eine Liste gelöscht wurde und weiterhin in den Suchergebnissen angezeigt wird, sollten Benutzer beim Versuch, darauf zuzugreifen, eine **Fehlermeldung 404 "Datei nicht gefunden** " erhalten. Dieses Problem sollte als Supportfall für weitere Untersuchungen protokolliert werden.
 
 
 

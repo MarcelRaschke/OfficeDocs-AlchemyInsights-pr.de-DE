@@ -1,26 +1,25 @@
 ---
 title: Entfernen von Daten und Zurücksetzen des Geräts aus Intune
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1279"
 - "6700008"
 - "9004638"
+- "1279"
 - "8392"
-ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
-ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.date: 07/27/2020
+ms.openlocfilehash: 674c8128753ae6bd8844e24aa81c790bd856a025
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416312"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66318459"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Entfernen von Daten und Zurücksetzen des Geräts aus Intune
 
@@ -32,8 +31,7 @@ Die Aktionen "Gerät zurücksetzen" und "Gerät abkoppeln" können verwendet wer
 4. Wählen Sie zum Bestätigen **Ja** aus. Bis zum Löschen wird der Status der Geräteaktion als *Abkoppeln ausstehend* angezeigt.
     Nach Abschluss der Aktion wird das mobile Gerät nicht mehr in der Liste der verwalteten Geräte angezeigt.
 
-> [!NOTE]
-> Unternehmensdaten können nicht von Geräten entfernt werden, die mit Azure AD verbunden sind. 
+**Hinweis**: Unternehmensdaten können nicht von Geräten entfernt werden, die mit Azure AD VERBUNDEN sind. 
 
 Ausführliche Informationen zu den Auswirkungen der Aktionen "Abkoppeln" und "Zurücksetzen", einschließlich der beibehaltenen und gelöschten Aktionen, finden Sie in der folgenden Dokumentation:
 

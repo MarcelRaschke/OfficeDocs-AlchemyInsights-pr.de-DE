@@ -1,24 +1,23 @@
 ---
 title: Empfohlene Lösung für die serverseitige Synchronisierung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1457"
 - "6200010"
-ms.openlocfilehash: 5325296fbcd89f016b0bcec0083ef8588e2ea301
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1457"
+ms.date: 07/21/2020
+ms.openlocfilehash: 22cbabc31827f6be8ba9396de7d012b353049c8f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693086"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66418810"
 ---
 # <a name="recommended-solution-for-server-side-synchronization"></a>Empfohlene Lösung für die serverseitige Synchronisierung
 

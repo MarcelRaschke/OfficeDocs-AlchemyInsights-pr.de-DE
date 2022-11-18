@@ -1,23 +1,22 @@
 ---
 title: Ausführen von Windows-Speicherdiagnose in Windows 10
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002959"
 - "5661"
-ms.openlocfilehash: f2b8306d0cd604b144b82275243c5a84580bc609
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 313bbda42c8048f78d80588730f49332d8b3a726
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720789"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66430654"
 ---
 # <a name="run-windows-memory-diagnostics-in-windows-10"></a>Ausführen von Windows-Speicherdiagnose in Windows 10
 
@@ -25,14 +24,13 @@ Wenn Windows und Apps auf Ihrem PC abstürzen, einfrieren oder sich instabil ver
 
 Geben Sie in das Suchfeld in der Taskleiste **Speicherdiagnose** ein, und wählen Sie dann **Windows-Speicherdiagnose**. 
 
-Um die Diagnose auszuführen, muss der PC neu gestartet werden. Sie haben die Möglichkeit, sofort neu zu starten (bitte speichern Sie Ihre Arbeit und schließen Sie zuerst geöffnete Dokumente und E-Mails), oder Sie können die Diagnose so planen, dass sie beim nächsten Neustart des PCs automatisch ausgeführt wird:
+Damit die Diagnose ausgeführt werden kann, muss der PC neu gestartet werden. Sie haben die Möglichkeit, sofort neu zu starten (bitte speichern Sie Ihre Arbeit und schließen Sie zuerst geöffnete Dokumente und E-Mails), oder Sie können die Diagnose so planen, dass sie beim nächsten Neustart des PCs automatisch ausgeführt wird:
 
 ![Windows-Speicherdiagnose](media/windows-memory-diagnostic.png)
 
 Wenn der PC neu gestartet wird, wird das **Windows-Speicherdiagnosetool** automatisch ausgeführt. Status und Fortschritt werden während des Diagnoselaufs angezeigt, und Sie haben die Möglichkeit, die Diagnose durch Drücken der Taste **ESC** auf Ihrer Tastatur abzubrechen.
 
-Nach Abschluss der Diagnose wird Windows normal gestartet.
-Unmittelbar nach dem Neustart, wenn der Desktop angezeigt wird, erscheint eine Benachrichtigung (neben dem Symbol  **Info-Center** in der Taskleiste), um anzuzeigen, ob Speicherfehler gefunden wurden. Zum Beispiel:
+Nach Abschluss der Diagnose wird Windows normal gestartet. Unmittelbar nach dem Neustart, wenn der Desktop angezeigt wird, erscheint eine Benachrichtigung (neben dem Symbol **Info-Center** in der Taskleiste), um anzuzeigen, ob Speicherfehler gefunden wurden. Beispielsweise:
 
 Das ist das Symbol „Info-Center“: ![Symbol „Info-Center“](media/action-center-icon.png) 
 

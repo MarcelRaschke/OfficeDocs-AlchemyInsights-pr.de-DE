@@ -1,32 +1,31 @@
 ---
-title: Eingeben von IMAP-Portnummern
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: ImAP-Portnummern eingeben
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e5981f0c90defa1c4b24b7d8eca1a4cd0a0b532
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709438"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66339357"
 ---
-# <a name="enter-imap-port-numbers"></a>Eingeben von IMAP-Portnummern
+# <a name="enter-imap-port-numbers"></a>ImAP-Portnummern eingeben
 
-Melden Sie sich über den Bildschirm Advance-Setup an, und fügen Sie Ihre Port Details hinter einem Doppelpunkt in Einklang mit den Adressen für einen eingehenden und ausgehenden Server ein. (Diese Details können Sie von Ihrem e-Mail-Dienstanbieter erhalten.) 
+Melden Sie sich über den Vorherigen Setupbildschirm an, und fügen Sie Ihre Portdetails hinter einem Doppelpunkt entsprechend Ihren Posteingangs- und Postausgangsserveradressen hinzu. (Sie können diese Details von Ihrem E-Mail-Dienstanbieter abrufen.) 
 
-Wechseln Sie zu **Einstellungen**  >  **Add Account**  >  **IMAP** > und klicken Sie auf **Erweiterte Einstellungen anzeigen**; dann geben Sie Ihre Daten ein. 
+Wechseln Sie zu **"Einstellungen** > **Konto hinzufügen** > **" imAP** ->, und klicken Sie auf **"Erweiterte Einstellungen anzeigen"**. Geben Sie dann Ihre Details ein. 
 
-*Eingehender e-Mail-Server*: IMAP.Servername.com:000 (normalerweise 993 oder 143) 
+*Posteingangsserver*: imap.servername.com:000 (in der Regel 993 oder 143) 
 
-Post *Ausgangsserver*: SMTP.Servername.com:000 (normalerweise 465 oder 25) 
+*Postausgangsserver*: smtp.servername.com:000 (in der Regel 465 oder 25) 
 
-Beachten Sie, dass der Doppelpunkt wichtig ist. 
+Denken Sie daran, dass der Doppelpunkt wichtig ist. 

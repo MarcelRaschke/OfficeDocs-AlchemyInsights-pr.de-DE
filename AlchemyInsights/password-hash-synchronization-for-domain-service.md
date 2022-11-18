@@ -3,24 +3,23 @@ title: Kennworthashsynchronisierung für Domänendienst
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/09/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "8248"
 - "9004400"
-- "8249"
 - "9003245"
-ms.openlocfilehash: 7f138837b720926c5b687285a105eb0417ca5b39
-ms.sourcegitcommit: 22eaf0a151ab95414476f596db8d318b6540ff31
+- "8248"
+- "8249"
+ms.date: 02/09/2021
+ms.openlocfilehash: 32fa4d82599f0b0ba81c78acba348b4a3034cc38
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50162922"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66255970"
 ---
 # <a name="password-hash-synchronization-for-domain-service"></a>Kennworthashsynchronisierung für Domänendienst
 

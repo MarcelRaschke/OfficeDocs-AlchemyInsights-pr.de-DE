@@ -1,29 +1,28 @@
 ---
-title: Microsoft-Datenstrom Speicher
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Microsoft Stream Speicher
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 448052dba14e42d21ec965c9b38d85a498ac4b82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17b41b37c0b73de73a6b699ef25bed85d887dc56
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675297"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66266968"
 ---
-# <a name="microsoft-stream-storage"></a>Microsoft-Datenstrom Speicher
+# <a name="microsoft-stream-storage"></a>Microsoft Stream Speicher
 
-Microsoft Stream-Mandanten erhalten eine feste Zuweisung von 500 GB Speicherplatz und einen zusätzlichen Speicher von 0,5 GB pro lizenziertem Benutzer.
+Microsoft Stream Mandanten erhalten eine feste Zuweisung von 500 GB Speicher und zusätzlich 0,5 GB Speicherplatz pro lizenziertem Benutzer.
 Weitere Informationen zum Speicher finden Sie unter:
 
-- [Übersicht über den Microsoft Stream-Speicher](https://docs.microsoft.com/stream/license-overview#storage)
+- [Microsoft Stream Speicherübersicht](https://docs.microsoft.com/stream/license-overview#storage)
 - [Hinzufügen von Speicher zu Microsoft Stream](https://docs.microsoft.com/stream/storage-add-on)
 - [Kontingente und Einschränkungen in Microsoft Stream](https://docs.microsoft.com/stream/quotas-and-limitations)

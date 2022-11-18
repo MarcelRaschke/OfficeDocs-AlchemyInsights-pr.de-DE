@@ -1,29 +1,30 @@
 ---
-title: Abrechnungszyklus-Kreditkarte
+title: Kreditkarte für Abrechnungszyklus
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.audience: Admin
+manager: scotv
+ms.reviewer: lishepar, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "485"
+- commerce_billing
 - "1500018"
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: ce3cd7b592966399b5e79a8916e631cafcbb49fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "485"
+ms.date: 08/10/2021
+ms.openlocfilehash: bf2c92c4372db0456ab7226ce0543b5f73e1efb7
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685993"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66153397"
 ---
 # <a name="payment-methods-for-microsoft-for-business"></a>Zahlungsmethoden für Microsoft for Business
 
-Wenn Sie ein Microsoft 365 for Business-Abonnement direkt bei Microsoft kaufen, können Sie mit einer Kredit-oder Debitkarte bezahlen. In einigen Ländern oder Regionen können Sie auch mit einem Bankkonto bezahlen.
+Wenn Sie ein Microsoft 365 business-Abonnement direkt bei Microsoft kaufen, können Sie mit einer Kredit- oder Debitkarte bezahlen. In einigen Ländern oder Regionen können Sie auch mit einem Bankkonto bezahlen.
   
-Wenn Sie sich für die Verwendung einer Kreditkarte als Zahlungsmethode entscheiden, erfahren Sie, wie Sie die Verwaltung und Problembehandlung von [Zahlungsmethoden verwalten](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)können.
+Wenn Sie sich für die Verwendung einer Kreditkarte als Zahlungsmethode entscheiden, erfahren Sie, wie Sie [Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) verwalten und Problembehandlungen ausführen können.
   
-Dieser Artikel enthält auch Vorschläge zur Problembehandlung, wenn Ihre Kreditkarte abgelehnt wird, sowie Informationen zum Ändern von Kreditkarteninformationen, damit die Karte akzeptiert wird.
+Dieser Artikel enthält auch Vorschläge zur Problembehandlung, wenn Ihre Kreditkarte abgelehnt wird, sowie Informationen zum Ändern von Kreditkarteninformationen, sodass die Karte akzeptiert wird.

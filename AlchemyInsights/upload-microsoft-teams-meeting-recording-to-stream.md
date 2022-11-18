@@ -1,24 +1,23 @@
 ---
 title: Hochladen einer Microsoft Teams-Besprechungsaufzeichnung in Stream (A1)
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/17/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6184"
 - "9002643"
-ms.openlocfilehash: 5c03d4863916c18cc25983b260d15e73c90530c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6184"
+ms.date: 08/17/2020
+ms.openlocfilehash: dabfb826a87c788f4b0a5c04a070cd51fe5564a1
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798627"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66508458"
 ---
 # <a name="upload-a-microsoft-teams-meeting-recording-to-stream-a1"></a>Hochladen einer Microsoft Teams-Besprechungsaufzeichnung in Stream (A1)
 

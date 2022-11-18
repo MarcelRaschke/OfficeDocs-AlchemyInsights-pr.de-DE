@@ -3,24 +3,27 @@ title: Outlook.com Entfernen von Skype
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1348"
 - "8000082"
-ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1329"
+- "1345"
+- "1348"
+- "1348"
+ms.date: 04/21/2020
+ms.openlocfilehash: d25ec5cb2ca87f5a17bce0256b29e6e19e15cf80
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723317"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66336153"
 ---
 # <a name="skype-icon-missing"></a>Skype-Symbol fehlt
 
-Wir haben das Skype-Symbol aus Outlook.com vorübergehend als Teil einer Entwurfs Aktualisierung und eines Funktionsupdates entfernt, die wir mit Begeisterung für das Rollout bereitstellen möchten. Wir freuen uns über Ihre Geduld, während wir eine neue und verbesserte Erfahrung für Sie vorbereiten.
+Wir haben das Skype-Symbol vorübergehend aus Outlook.com als Teil einer Designaktualisierung und eines Funktionsupdates entfernt, die wir gerne einführen werden. Wir schätzen Ihre Geduld, während wir eine neue und verbesserte Erfahrung für Sie vorbereiten.
 
-Sie können Skype weiterhin über Ihren Browser unter [Web.Skype.com](https://web.skype.com/)verwenden.
+Sie können Skype weiterhin über Ihren Browser unter [web.skype.com](https://web.skype.com/) verwenden.

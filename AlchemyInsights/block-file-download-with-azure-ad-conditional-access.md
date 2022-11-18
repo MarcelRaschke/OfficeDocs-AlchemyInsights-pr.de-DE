@@ -1,23 +1,22 @@
 ---
 title: Blockieren des Dateidownloads mit bedingtem Azure AD-Zugriff
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9000213"
 - "5710"
-ms.openlocfilehash: e52c8f5a0710b4c596d533bac76e03b357faf89d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9b5d92404903cf847e891edc828f3c8880c230
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685705"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66359391"
 ---
 # <a name="block-file-download-with-azure-ad-conditional-access"></a>Blockieren des Dateidownloads mit bedingtem Azure AD-Zugriff
 

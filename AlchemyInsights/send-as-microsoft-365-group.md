@@ -1,23 +1,22 @@
 ---
 title: Senden als Microsoft 365-Gruppe
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/19/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9003200"
-ms.openlocfilehash: 51bd8a10c3da23941cc16d7ba860406f8477044a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 08/19/2020
+ms.openlocfilehash: 19886c2619c3eedfcad9526b4a30df6ed2bb1e18
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740150"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66426946"
 ---
 # <a name="send-as-microsoft-365-group"></a>Senden als Microsoft 365-Gruppe
 
@@ -29,4 +28,4 @@ Sie können "Senden als"-Berechtigungen zuweisen, um bestimmten Benutzern das Se
 
     Add-RecipientPermission `<GroupName>` -Trustee `<MailboxName>` -AccessRights SendAs
 
-Weitere Informationen finden Sie unter [Zulassen, dass Mitglieder mit "Senden als" oder "Senden im Auftrag von" E-Mails für eine Gruppe senden](https://docs.microsoft.com/microsoft-365/admin/create-groups/allow-members-to-send-as-or-send-on-behalf-of-group?view=o365-worldwide).
+Weitere Informationen finden Sie unter [Zulassen, dass Mitglieder mit "Senden als" oder "Senden im Auftrag von" E-Mails für eine Gruppe senden](https://docs.microsoft.com/microsoft-365/admin/create-groups/allow-members-to-send-as-or-send-on-behalf-of-group).

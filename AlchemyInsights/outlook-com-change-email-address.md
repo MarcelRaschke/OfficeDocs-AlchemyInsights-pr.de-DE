@@ -1,28 +1,26 @@
 ---
-title: Ändern der e-Mail-Adresse in Outlook.com
+title: Ändern meiner E-Mail-Adresse in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "259"
 - "8000010"
-ms.assetid: fa795da0-f04b-4032-bd27-177ecdd488f9
-ms.openlocfilehash: ef2ed382c187e899bf20295a7aa9fe0b8f619a75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "259"
+ms.date: 04/21/2020
+ms.openlocfilehash: d3662f6e2134d2d0fb2a8c2c30ae3fd23cbf1894
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798303"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66585542"
 ---
-# <a name="change-your-email-address"></a>Ändern Ihrer e-Mail-Adresse
+# <a name="change-your-email-address"></a>Ändern Ihrer E-Mail-Adresse
 
-Um Ihre Outlook.com-e-Mail-Adresse zu ändern, müssen Sie ein weiteres hinzufügen und es als primären e-Mail-Alias festlegen.
+Um Ihre Outlook.com E-Mail-Adresse zu ändern, müssen Sie eine weitere hinzufügen und sie zu Ihrem primären E-Mail-Alias machen.
   
-Befolgen Sie die Anweisungen unter [Hinzufügen oder Entfernen eines e-Mail-Alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Folgen Sie den Anweisungen unter [Hinzufügen oder Entfernen eines E-Mail-Alias in Outlook.com](https://support.microsoft.com/office/add-or-remove-an-email-alias-in-outlook-com-459b1989-356d-40fa-a689-8f285b13f1f2).

@@ -1,23 +1,22 @@
 ---
 title: Cortana spricht nicht mit mir oder kann mich nicht hören
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: 015c4089682e5313d51a05223d82c5f3c29586db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e31be977268729f9282d720cde16767597ae930
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807046"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66356151"
 ---
 # <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana spricht nicht mit mir oder kann mich nicht hören
 

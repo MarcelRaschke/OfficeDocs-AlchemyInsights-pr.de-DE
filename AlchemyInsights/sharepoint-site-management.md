@@ -1,27 +1,26 @@
 ---
-title: SharePoint Online Site Verwaltung
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: SharePoint Online-Websiteverwaltung
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9000292"
 - "5808"
-ms.openlocfilehash: 247a8652ae70751bc6504fed9c91b2267fa3bda6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b242d5a790574da8c3e9f59d0eaa873ff3bf48f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795495"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66397736"
 ---
-# <a name="sharepoint-online-site-management"></a>SharePoint Online Site Verwaltung
+# <a name="sharepoint-online-site-management"></a>SharePoint Online-Websiteverwaltung
 
-Hier finden Sie einige häufig angeforderte Themen für SharePoint Online Websiteverwaltung:
+Hier sind einige häufig angeforderte Themen für die SharePoint Online-Websiteverwaltung:
 
 - [Verwalten von Websites](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)
 - [Verwalten von Websitespeichergrenzwerten](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)

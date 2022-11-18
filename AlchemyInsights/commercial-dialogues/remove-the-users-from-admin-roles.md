@@ -3,28 +3,27 @@ title: Entfernen der Benutzer aus den Administratorrollen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: fc4bd22861fbc1d254d0fdd4d6c5fa46e63d550e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.date: 02/17/2021
+ms.openlocfilehash: 5bafccab7b86054663f657285067ac47ef122f71
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464567"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66299473"
 ---
 # <a name="remove-the-users-from-the-admin-roles"></a>Entfernen der Benutzer aus den Administratorrollen
 
-Hier erfahren Sie, wie Sie dies tun:
+Gehen Sie dazu wie folgt vor:
 
-1. Wählen Sie im Admin Center Die Option **Benutzer**  >  [**Aktive Benutzer aus.**](https://go.microsoft.com/fwlink/p/?linkid=834822)
-1. Wählen Sie den Benutzer aus, dessen Konto gefährdet wurde.
-1. Wählen Sie im angezeigten Flyout **Bearbeiten** für **Rollen aus.** Entfernen Sie den Benutzer aus administratorrollen, bis Sie sicher sind, dass ihr Konto nicht mehr gefährdet ist.
+1. Wählen Sie im Admin Center "**Aktive Benutzer"** >  aus.[](https://go.microsoft.com/fwlink/p/?linkid=834822)
+1. Wählen Sie den Benutzer aus, dessen Konto kompromittiert wurde.
+1. Wählen Sie im angezeigten Flyout "Für **Rollen** **bearbeiten"** aus. Entfernen Sie den Benutzer aus allen Administratorrollen, bis Sie sicher sind, dass sein Konto nicht mehr kompromittiert ist.
 

@@ -3,22 +3,21 @@ title: Synchronisierungsprobleme der Benutzerbereitstellung
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/22/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7855"
 - "9004348"
-ms.openlocfilehash: d0b12aa12cb461133254411fd822b0a3f3716fe6
-ms.sourcegitcommit: 953a8567ebcd9835f8c5c49472b223107c92549b
+- "7855"
+ms.date: 01/22/2021
+ms.openlocfilehash: d28328fb3e65d92b1eeae095bce5e3794c0746ec
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49935375"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66520806"
 ---
 # <a name="user-provisioning-sync-issues"></a>Synchronisierungsprobleme der Benutzerbereitstellung
 

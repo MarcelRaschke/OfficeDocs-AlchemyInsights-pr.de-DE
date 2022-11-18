@@ -3,25 +3,24 @@ title: Externe Benutzer erhalten Berechtigungsfehler beim Zugriff auf eine Websi
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/08/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9000191"
 - "7521"
-ms.openlocfilehash: f6211b4bb295e87cbdf0441491d87cf0081d6342
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.date: 12/08/2020
+ms.openlocfilehash: 2d8e22bb784e04a71094cf3c28703b9a975682d0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49600106"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66391035"
 ---
 # <a name="external-users-receive-permission-errors-when-accessing-a-site"></a>Externe Benutzer erhalten Berechtigungsfehler beim Zugriff auf eine Website
 
-Es gibt viele Szenarien, bei denen beim Freigeben Fehlermeldungen angezeigt werden können. 
+Es gibt viele Szenarien, in denen während der Freigabe Fehlermeldungen angezeigt werden können. 
 
-Weitere Informationen finden Sie unter [Berechtigungsfehler beim Zugriff auf SharePoint Online oder OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).
+Weitere Informationen finden Sie [unter Berechtigungsfehler beim Zugriff auf SharePoint Online oder OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).

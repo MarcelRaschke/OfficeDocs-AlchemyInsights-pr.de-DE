@@ -1,39 +1,40 @@
 ---
 title: Co-Management
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1556"
 - "9000080"
-ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1556"
+ms.openlocfilehash: 607ebdf72714c75d56cc7cc350bf85ee85b36cc2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681259"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66414517"
 ---
 # <a name="co-management"></a>Co-Management
 
-**Voraussetzungen für die Migration von config Manager Hybrid zu InTune**
+**Voraussetzungen für die Migration von Config Manager Hybrid zu Intune**
 
-- Lesen Sie [diesen Artikel](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Fügen Sie Ihren Benutzern eine InTune-Lizenz hinzu](https://docs.microsoft.com/intune/licenses-assign).
-- Verwenden Sie den [Edge-Browser](https://www.microsoft.com/windows/microsoft-edge) beim Konfigurieren der gemeinsamen Verwaltung.
+- Lesen Sie [diesen Artikel](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
+- [Fügen Sie Ihren Benutzern eine Intune-Lizenz hinzu](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
+- Verwenden Sie den [Edge-Browser](https://www.microsoft.com/edge) beim Konfigurieren der Co-Verwaltung.
 
-**Vorgehensweise installieren des Konfigurations-Manager-Clients auf von InTune verwalteten Geräten**
+Eine geführte, schrittweise Einrichtung der Co-Verwaltung finden Sie [hier](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide).
 
-Siehe [InTune-Windows-Geräte mit MDM-Verwaltung](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+**So installiere ich den Config Manager-Client auf Intune verwalteten Geräten**
 
-**Was geschieht, wenn ich die MDM-Autorität nur ändern möchte?**
+Weitere Informationen [finden Sie unter Intune von MDM verwalteten Windows-Geräten](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-Die MDM-Autorität kann geändert werden, ohne dass ein Supportfall geöffnet wird. Lesen Sie die folgende Dokumentation, um Sie bei der Änderung ihrer MDM-Autorität zu unterstützen:
+**Was geschieht, wenn ich nur die MDM-Autorität ändern möchte?**
 
-- [Ändern der MDM-Autorität von Configuration Manager in InTune Standalone](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [Ändern der MDM-Autorität von InTune Standalone in Configuration Manager](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+MDM Authority kann geändert werden, ohne einen Supportfall zu öffnen. Bitte lesen Sie die folgende Dokumentation, um ihre MDM-Autorität zu ändern:
+
+- [Ändern der MDM-Autorität von Configuration Manager in Intune eigenständigen Instanz](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Ändern der MDM-Autorität von Intune eigenständigen in Configuration Manager](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

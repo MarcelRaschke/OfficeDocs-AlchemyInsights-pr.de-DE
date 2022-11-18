@@ -1,32 +1,30 @@
 ---
-title: Aktivieren von Microsoft-Aufgaben
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+title: Aktivieren von Microsoft To-Do
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: ba45cd308114037a0090aa218c7764442b0d81d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 1d7ca19a2883c65c9fb3653839956fe4e8f7e0fd
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709870"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66536786"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Aktivieren von Microsoft-Aufgaben
+# <a name="how-to-enable-microsoft-to-do"></a>Aktivieren von Microsoft To-Do
 
-Um Microsoft to-do verwenden zu können, muss ein Administrator die APP auf dem Konto jedes Benutzers aktivieren. Wechseln Sie zur Seite [Dienste &amp; -Add-ins](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) auf der Seite Microsoft 365-Administratoreinstellungen, um die Aufgaben für jeden Benutzer zu aktivieren.
+Um Microsoft To-Do verwenden zu können, muss ein Administrator die App für jedes Benutzerkonto aktivieren. Wechseln Sie zur [Seite "Dienst-Add-Ins&amp;](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)" auf der Seite "Microsoft 365-Administratoreinstellungen", um To-Do für jeden Benutzer zu aktivieren.
   
-Microsoft to-do verwendet Features in Exchange Online, um Aufgaben von Benutzern zu synchronisieren und zu speichern. Um Microsoft to-do verwenden zu können, benötigt ein Benutzer ein gültiges Exchange Online Postfach.
+Microsoft To-Do verwendet Features in Exchange Online zum Synchronisieren und Speichern von Aufgabenelementen von Benutzern. Um Microsoft To-Do verwenden zu können, benötigt ein Benutzer ein gültiges Exchange Online Postfach.
   
-Weitere Informationen finden Sie unter [Microsoft to-do Preview Administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+Weitere Informationen finden Sie [unter Microsoft To-Do Preview-Verwaltung](https://support.microsoft.com/office/set-up-microsoft-to-do-490c1a8c-2333-4952-8125-841afadb9620).
   
- **Hinweis**: Wenn Sie einen 501-Fehler erhalten, wenn Sie versuchen, sich anzumelden [https://todo.microsoft.com](https://todo.microsoft.com) , versuchen Sie es [https://to-do.microsoft.com](https://to-do.microsoft.com) .
+ **Hinweis**: Wenn beim Versuch, sich anzumelden [https://todo.microsoft.com](https://todo.microsoft.com), ein 501-Fehler angezeigt wird, versuchen Sie [https://to-do.microsoft.com](https://to-do.microsoft.com)es.
   
 

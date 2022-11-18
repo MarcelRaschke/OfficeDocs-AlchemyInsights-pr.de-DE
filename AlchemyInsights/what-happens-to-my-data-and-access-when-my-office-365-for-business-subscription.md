@@ -1,32 +1,32 @@
 ---
-title: Was geschieht mit meinen Daten und dem Zugriff, wenn mein Microsoft 365 for Business-Abonnement endet?
+title: Was geschieht mit meinen Daten und dem Zugriff darauf, wenn mein Microsoft 365 Business-Abonnement endet?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+ms.reviewer: jkinma, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "484"
+- commerce_subscriptions
 - "1500030"
-ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 5861aa9b952b571b620dca1d56adef7cc0fa420c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "484"
+ms.date: 05/24/2022
+ms.openlocfilehash: 3085dba81d525e5e4289d0a339b5ccd769b706d0
+ms.sourcegitcommit: f1deffe3c72510f188df6c8bc611093fb3888cf0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668922"
+ms.lasthandoff: 05/25/2022
+ms.locfileid: "65671237"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Was geschieht mit meinen Daten und dem Zugriff, wenn mein Microsoft 365 for Business-Abonnement endet?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Was geschieht mit meinen Daten und dem Zugriff darauf, wenn mein Microsoft 365 Business-Abonnement endet?
 
-Wenn Ihr Abonnement endet – entweder weil es abläuft oder weil Sie sich entscheiden, zu kündigen – wird der Zugriff auf Dienste, Anwendungen und Kundendaten in mehreren Status durchlaufen, bevor das Abonnement vollständig deaktiviert oder nicht mehr  *bereit*  gestellt wird. Wenn Sie diese Progression kennen, können Sie Ihr Abonnement besser in einen aktiven Zustand zurückversetzen, bevor es zu spät ist, oder – wenn Sie Microsoft verlassen – die Daten sichern, bevor Sie endgültig gelöscht werden.
+Wenn Ihr Abonnement endet – entweder weil es abläuft oder weil Sie sich entscheiden, zu kündigen –, durchläuft Ihr Zugriff auf Dienste, Anwendungen und Kundendaten mehrere Zustände, bevor das Abonnement vollständig deaktiviert oder *aufgehoben* wird. Wenn Sie sich dieser Entwicklung bewusst sind, sind Sie besser dafür gerüstet, Ihr Abonnement in einen aktiven Zustand zurückzugeben, bevor es zu spät ist, oder – wenn Sie Microsoft verlassen – Ihre Daten sichern, bevor sie letztendlich gelöscht werden.
   
-Bevor das Abonnement das Ablaufdatum tatsächlich erreicht, haben Sie einige Optionen zum **Verwalten der wiederkehrenden Abrechnung für das Abonnement**.
+Bevor das Abonnement tatsächlich das Ablaufdatum erreicht, haben Sie einige Optionen zum **Verwalten der wiederkehrenden Abrechnung für das Abonnement**.
   
-- Wenn die **wiederkehrende Abrechnung** bereits aktiviert ist, müssen Sie keine Aktion durchführen. Ihr Abonnement wird mit dem Fälligkeitsdatum in Rechnung gestellt, und je nach **Aktueller Abrechnungs Häufigkeit** werden Sie ein weiteres Jahr oder einen Monat zahlen. Wenn Sie aus irgendeinem Grund **wiederkehrende Abrechnung** deaktiviert haben, können Sie immer [wiederkehrende Abrechnung wieder aktivieren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Wenn die **wiederkehrende Abrechnung** bereits aktiviert ist, müssen Sie nichts tun. Ihr Abonnement wird am **wiederkehrenden Abrechnungsdatum** in Rechnung gestellt, und Sie werden für einen zusätzlichen Zeitraum in Rechnung gestellt, je nachdem, welche Abrechnungshäufigkeit Sie gewählt haben. Wenn Sie aus irgendeinem Grund die **wiederkehrende Abrechnung** deaktiviert haben, können Sie die [wiederkehrende Abrechnung jederzeit wieder aktivieren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Wenn Sie ein offener Volumenlizenzkunde mit einem Prepaid-Abonnement mit einem Jahr sind, wenden Sie sich an Ihren Partner, um einen neuen Product Key zu erwerben. Sie erhalten per E-Mail Anweisungen zum Aktivieren Ihres Product Keys im [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Informationen zum Auffinden eines neuen Partners oder des Partners, mit dem Sie in der Vergangenheit zusammengearbeitet haben, finden Sie unter [Suchen Ihres Microsoft 365-Partners oder-Händlers](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- Wenn Sie ein Open-Volumenlizenzkunde mit einem im Voraus bezahlten Jahresabonnement sind, wenden Sie sich an Ihren Partner, um einen neuen Product Key zu erwerben. Sie erhalten dann per E-Mail Anweisungen zum Aktivieren Ihres Product Keys im [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016). Informationen dazu, wie Sie einen neuen Partner oder den Partner finden, mit dem Sie in der Vergangenheit zusammengearbeitet haben, finden [Sie unter "Suchen Ihres Microsoft 365 Partners oder Händlers](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)".

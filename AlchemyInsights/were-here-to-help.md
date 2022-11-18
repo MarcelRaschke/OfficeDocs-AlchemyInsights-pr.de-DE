@@ -1,24 +1,23 @@
 ---
 title: Wir helfen Ihnen gerne weiter
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/30/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "3513"
 - "9001480"
-ms.openlocfilehash: b0d37fcce2fc68add12a99f0ef87f93cfbdb9b7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "3513"
+ms.date: 07/30/2020
+ms.openlocfilehash: 131aacfd3577ff0d0fbb74cf54d4504cfa19b3b8
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725730"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66527808"
 ---
 # <a name="were-here-to-help"></a>Wir helfen Ihnen gerne weiter
 

@@ -1,34 +1,34 @@
 ---
-title: Gmail-Konto zu Outlook.com hinzufügen
+title: Hinzufügen eines Gmail-Kontos zu Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1820"
 - "9000236"
-ms.openlocfilehash: ad2ab70e9f2b34e1921b75122b85162ea70a521a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1820"
+ms.date: 04/21/2020
+ms.openlocfilehash: 71fa41f6742f4396a5ea01474583cf4a9cb2beb2
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672559"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66566185"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Hinzufügen Ihres gmail-Kontos zu Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>Hinzufügen Ihres Gmail-Kontos zu Outlook.com
 
-1. Öffnen Sie Ihre [e-Mail-Synchronisierungseinstellungen](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Wählen Sie unter **Verbundene Konten**die Option **Gmail**aus.
-3. Geben Sie einen Anzeigenamen ein (der Name der Empfänger wird angezeigt, wenn Sie eine e-Mail-Nachricht von Ihnen erhalten).
-4. Wählen Sie aus, ob Outlook.com Ihre e-Mails aus Gmail importieren soll und wo importierte e-Mails gespeichert werden sollen.
-5. Wählen Sie **OK** aus, um zur Google-Anmeldeseite zu wechseln.
+1. Öffnen Sie Ihre [E-Mail-Synchronisierungseinstellungen](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Wählen Sie unter **"Verbundene Konten**" **gmail** aus.
+3. Geben Sie einen Anzeigenamen ein (der Name, den Empfänger sehen, wenn sie eine E-Mail-Nachricht von Ihnen erhalten).
+4. Wählen Sie aus, ob Outlook.com Ihre E-Mails aus Gmail importieren und wo importierte E-Mails gespeichert werden sollen.
+5. Wählen Sie **"OK** " aus, um zur Google-Anmeldeseite zu wechseln.
 
-Die Synchronisierung von einem verbundenen Konto mit Ihrem Outlook.com-Konto erfolgt nur in eine Richtung. E-Mails, die von Ihrem Gmail-Konto mit Outlook.com gesendet werden, werden nicht in "Gesendete Elemente in Gmail" angezeigt.
+Die Synchronisierung von einem verbundenen Konto mit Ihrem Outlook.com Konto erfolgt nur unidirektionale. E-Mails, die von Ihrem Gmail-Konto mit Outlook.com gesendet wurden, werden in Gmail nicht in "Gesendete Elemente" angezeigt.
 
-Sie können e-Mails in Outlook.com aus Ihrem verbundenen Gmail-Konto senden. Wenn Sie eine e-Mail erstellen, wählen Sie aus, und wählen Sie Ihre gmail-Adresse **aus** , oder [Aktualisieren Sie Ihre standardmäßige Absenderadresse](https://go.microsoft.com/fwlink/?linkid=875264).
+Sie können E-Mails in Outlook.com von Ihrem verbundenen Gmail-Konto senden. Wenn Sie eine E-Mail verfassen, wählen Sie " **Von" aus** , und wählen Sie Ihre Gmail-Adresse aus, oder [aktualisieren Sie Ihre standardmäßige Absenderadresse](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Weitere Informationen finden Sie unter [Hinzufügen Ihrer anderen e-Mail-Konten zu Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie unter [Hinzufügen Ihrer anderen E-Mail-Konten zu Outlook.com](https://support.microsoft.com/office/add-your-other-email-accounts-to-outlook-com-c5224df4-5885-4e79-91ba-523aa743f0ba).

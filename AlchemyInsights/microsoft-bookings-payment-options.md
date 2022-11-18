@@ -1,24 +1,23 @@
 ---
 title: Microsoft Bookings – Zahlungsoptionen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/20/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6052"
 - "9002883"
-ms.openlocfilehash: ce6b90ac62a4e0620546198a62fbeab92d3e067f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6052"
+ms.date: 07/20/2020
+ms.openlocfilehash: 00aa19d8987850055d78631196766ff8978ee5e0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725154"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66287038"
 ---
 # <a name="microsoft-bookings-payment-options"></a>Microsoft Bookings – Zahlungsoptionen
 

@@ -1,32 +1,32 @@
 ---
-title: Wann wird die Abrechnungs Anweisung generiert?
+title: Wann wird die Abrechnung generiert?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
-ms.audience: Admin
+ms.reviewer: amberb, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "494"
+- commerce_billing
 - "1500024"
-ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 7ed64f01d3376541eba80013ae354005f2366214
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "494"
+ms.date: 07/24/2020
+ms.openlocfilehash: 5591a7afeef8069fe96abfa75207c9ad4d03b098
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719196"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66153829"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Wann wird die Abrechnungs Anweisung generiert?
+# <a name="when-is-the-billing-statement-generated"></a>Wann wird die Abrechnung generiert?
 
-Ihr Auszugsdatum wird auf den Tag des Monats festgelegt, nach dem Ihr Konto erstellt wurde. Wenn Sie beispielsweise Ihr Konto am 20. Januar erstellt haben, wird Ihr Auszugsdatum auf den 21. für jeden nachfolgenden Monat festgelegt.
+Ihr Abrechnungsdatum wird auf den Tag des Monats festgelegt, nachdem Ihr Konto erstellt wurde. Wenn Sie Ihr Konto beispielsweise am 20. Januar erstellt haben, wird ihr Abrechnungsdatum für jeden nachfolgenden Monat auf den 21. festgelegt.
 
-Zusätzliche Gebühren, die während eines aktiven Abrechnungszyklus auftreten, sind in der Rechnung für den folgenden Monat enthalten. Die Start-und Enddaten für die Rechnungs Zyklen für jede Rechnung werden in der **Abrechnungszusammenfassung** der Rechnung aufgeführt.
+Zusätzliche Gebühren, die während eines aktiven Abrechnungszyklus anfallen, sind in der Rechnung für den folgenden Monat enthalten. Die Anfangs- und Endtermine des Abrechnungszyklus für jede Rechnung sind in der **Abrechnungszusammenfassung** der Rechnung aufgeführt.
 
-Kreditkarten-und/oder Bankkonten (sofern zutreffend) Zahlungen werden am Tag nach dem **Rechnungsdatum**abgewickelt.
+Kreditkarten- und/oder Bankkontozahlungen (sofern zutreffend) werden am Tag nach dem **Rechnungsdatum** beglichen.
   
-Weitere Informationen finden Sie Untergrund [Legendes zu Ihrer Rechnung](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Weitere Informationen finden Sie unter ["Grundlegendes zu Ihrer Rechnung](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)".

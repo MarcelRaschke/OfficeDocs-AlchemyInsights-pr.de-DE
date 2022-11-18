@@ -1,52 +1,59 @@
 ---
-title: Bereitstellen von Microsoft 365-Apps für Enterprise für die gemeinsame Verwendung auf RDS, Terminal Server oder VDI
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+title: Bereitstellen von Microsoft 365 Apps für die gemeinsame Verwendung auf RDS, Terminal Server oder VDI
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 22ded616e82b2e82023b55a1d3ca6251cfb71712
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: ''
+ms.openlocfilehash: 70fbd8ecab2d467117494a819ae928638fd77e25
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745534"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66341386"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Bereitstellen von Microsoft 365-Apps für Enterprise für die gemeinsame Verwendung auf RDS, Terminal Server oder VDI
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>Bereitstellen von Microsoft 365 Apps für die gemeinsame Verwendung auf RDS, Terminal Server oder VDI
 
-So stellen Sie Microsoft 365-Apps für Unternehmen mithilfe von Remote Desktop Dienste (RDS) bereit, die früher als Terminal Dienste bezeichnet wurden:
-- Sie benötigen einen Microsoft 365 for Business-Plan oder einen Office 365 Plan, der Microsoft 365-Apps für Unternehmen wie Office 365 Enterprise E3 oder Enterprise E5 umfasst.
-   > [!NOTE] 
-   > Die Standard Pläne für Microsoft 365 apps for Business und Microsoft 365 Business Premium beinhalten keine Microsoft 365-Apps für Enterprise.
-- Sie müssen die [Aktivierung gemeinsam genutzter Computer](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)aktivieren.
+Um Microsoft 365 Apps mithilfe von Remotedesktopdiensten (Remote Desktop Services, RDS), vormals Terminaldienste, bereitzustellen, müssen Sie Folgendes ausführen:
 
-> [!NOTE]
-> Sie können den [Microsoft-Support-und Wiederherstellungs-Assistenten](https://aka.ms/SaRA_OfficeSCA_M365Portal) auch herunterladen und ausführen, um Microsoft 365-Apps für Enterprise im freigegebenen Computer Aktivierungsmodus zu installieren.
+- Verwenden Sie die einfache Lösung, um TLS 1.2 standardmäßig zu aktivieren, wenn Sie eine ältere Version von Windows ausführen (z. B. Windows 7 SP1, Windows Server 2008 R2). Eine einfache Behebung und weitere Informationen finden Sie unter [Update, um TLS 1.1 und TLS 1.2 als sichere Standardprotokolle in WinHTTP unter Windows zu aktivieren](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392#bkmk_easy). 
+- Verfügen Sie über einen Plan, der Microsoft 365 Apps for Enterprise (zuvor Office 365 Plus) enthält. Beispielsweise Office 365 E3 oder Microsoft 365 E5 oder ein Plan, der die Desktopversion von Project oder Visio enthält, z. B. Project Plan 3 oder Visio Plan 2, oder den Microsoft 365 Business Premium-Plan, der auch Microsoft 365 Apps for Business.
+- Aktivieren sie die Aktivierung gemeinsam genutzter Computer. Weitere Informationen finden Sie [unter Übersicht über die Aktivierung gemeinsam genutzter Computer für Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
 
-Weitere Informationen zu Voraussetzungen, Setupanweisungen und Anleitungen für benutzerdefinierte Installationen mithilfe des Office-Bereitstellungstools finden Sie unter [Deploy Microsoft 365 apps for Enterprise by using Remote Desktop Services](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
+**Hinweis**: Um Microsoft 365 Apps im Aktivierungsmodus für gemeinsam genutzte Computer zu installieren, laden Sie den [Microsoft-Support- und Wiederherstellungs-Assistenten herunter, und führen Sie diesen aus](https://aka.ms/SaRA_OfficeSCA_M365Portal). Ausführliche Informationen zu den Voraussetzungen, Setupanweisungen und Anleitungen zum Anpassen von Installationen mithilfe des Office-Bereitstellungstools finden [Sie unter Bereitstellen von Microsoft 365 Apps mithilfe von Remotedesktopdiensten](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services).
 
-So beheben Sie Fehler im Zusammenhang mit der Aktivierung gemeinsam genutzter Computer:
-- Weitere Informationen finden Sie unter [Beheben von Problemen mit der Aktivierung gemeinsam genutzter Computer für Microsoft 365 apps for Enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
-- Siehe [Aktivierungsstatus von Microsoft 365 Apps für Unternehmen zurücksetzen](https://go.microsoft.com/fwlink/?linkid=2109218).
+Informationen zum Beheben von Fehlern im Zusammenhang mit der Aktivierung gemeinsam genutzter Computer finden Sie unter:
 
-Wenn Sie Microsoft 365-Apps für Enterprise im RDS aus dem Microsoft 365 Admin Center installieren möchten, in ***dem die Standardinstallationseinstellungen verwendet***werden, führen Sie die folgenden Schritte aus:
+- [Behandlung von Problemen mit der Aktivierung eines gemeinsam genutzten Computers für Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation)
+- [Aktivierungsstatus von Microsoft 365 Apps für Unternehmen zurücksetzen](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
 
-1.    Überprüfen Sie, welches Abonnement Sie haben. [Anleitung](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
-2.    Wechseln Sie bei Bedarf zu einem anderen Abonnement. [Anleitung](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
-3.    Wenn Office bereits auf dem RDS-Server mit anderen Microsoft-Abonnements installiert ist, deinstallieren Sie es. Wenn Sie beispielsweise zur **System**Steuerung wechseln,  >  **deinstallieren Sie ein Programm**. Deinstallieren Sie mit dem [Microsoft-Support-und Wiederherstellungs-Assistenten,](https://aka.ms/SARA-OfficeUninstall-Alchemy) wenn Probleme auftreten.
-4.    Melden Sie sich auf dem RDS-Server beim Microsoft 365 Admin Center mit Ihrem Administratorkonto an, und [Installieren Sie Microsoft 365 apps for Enterprise](https://portal.office.com/OLS/MySoftware.aspx).
-5.    ***Öffnen oder melden*** Sie sich nach der Installation von Office nicht bei Office-Anwendungen an.
-6.    Aktivieren Sie auf dem RDS-Server die Aktivierung freigegebener Computer durch Bearbeiten der Registrierung, indem Sie die folgenden Schritte ausführen:
-   1. Klicken Sie mit der rechten Maustaste auf die Windows-Schaltfläche in der unteren linken Ecke des Bildschirms, und wählen Sie **Ausführen**aus. Geben Sie im Feld Öffnen den **Befehl regedit**ein, und wählen Sie dann **OK**aus.
-   2. Wählen Sie **Ja** aus, wenn Sie dazu aufgefordert werden, dass der Registrierungs-Editor Änderungen an Ihrem Gerät vorzunehmen hat.
-   3. Fügen Sie im Registrierungs-Editor einen Zeichenfolgenwert von **SharedComputerLicensing** mit der Einstellung 1 unter HKEY_LOCAL_MACHINE \Software\Microsoft \Office\ClickToRun\Configuration.
-   4. Melden Sie sich auf dem RDS-Server ***als Endbenutzer an*** , und [Stellen Sie sicher, dass die Aktivierung gemeinsam genutzter Computer für Microsoft 365 apps for Enterprise aktiviert ist](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
+Wenn Sie Microsoft 365 Apps auf RDS über die Microsoft 365 Admin Center installieren möchten, die Standardinstallationseinstellungen verwendet, führen Sie die folgenden Schritte aus:
 
+1. Überprüfen Sie, über welchen Microsoft 365-Plan Sie verfügen. Weitere Informationen finden Sie unter [Welches Abonnement habe ich?](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+
+1. Wechseln Sie bei Bedarf zu einem anderen Microsoft 365-Plan. Weitere Informationen finden Sie unter [Zu einem anderen Plan wechseln](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+
+1. Wenn Microsoft 365 Apps bereits mit anderen inkompatiblen Plänen auf dem RDS-Server installiert ist, deinstallieren Sie es, indem Sie ein Programm **Systemsteuerung** >  **Einstallieren**. Wenn Probleme auftreten, deinstallieren Sie Microsoft-Support [und den Wiederherstellungs-Assistenten](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+
+1. Melden Sie sich auf dem RDS-Server mit Ihrem Administratorkonto bei der Microsoft 365 Admin Center an, und [installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx).
+
+   Nachdem Office installiert wurde, öffnen Sie keine Office-Anwendungen oder melden Sie sich bei diesen an.
+
+1. Aktivieren Sie auf dem RDS-Server die Aktivierung gemeinsam genutzter Computer, indem Sie die Registrierung bearbeiten:
+
+   1. Klicken Sie mit der rechten Maustaste auf die Windows-Schaltfläche in der unteren linken Ecke des Bildschirms, und wählen Sie **"Ausführen**" aus. Geben Sie regedit in das Feld **Öffnen** ein, und klicken Sie dann auf **OK**.
+
+   1. Wenn Sie aufgefordert werden, dem Registrierungs-Editor das Vornehmen von Änderungen an Ihrem Gerät zu gestatten, wählen Sie **"Ja**" aus.
+
+   1. Fügen Sie im Registrierungs-Editor unter HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration einen Zeichenfolgenwert von **SharedComputerLicensing** mit der Einstellung **1** hinzu.
+
+1. Melden Sie sich auf dem RDS-Server als Endbenutzer an, und stellen Sie sicher, dass die Aktivierung gemeinsam genutzter Computer für Microsoft 365 Apps aktiviert ist. 
+
+   Ausführliche Informationen finden [Sie unter Überprüfen, ob die Aktivierung gemeinsam genutzter Computer für Microsoft 365 Apps aktiviert ist](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation#verify-that-shared-computer-activation-is-enabled-for-microsoft-365-apps).

@@ -1,24 +1,24 @@
 ---
-title: Drucken in Outlook.com nicht möglich
+title: Drucken in Outlook.com nicht
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "8000046"
 - "2507"
-ms.openlocfilehash: ca4d0bb958c26a602a0e044e9b97a05d59c14537
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 91cc0b312de317e4322d5c49e6242145942b85e4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752970"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66419602"
 ---
 # <a name="unable-to-print"></a>Drucken nicht möglich
 
-Wir kennen ein Problem, bei dem einige Benutzer nicht drucken können, wenn Sie Safari oder Edge-Browser verwenden. Während wir an einer Lösung für diese arbeiten, verwenden Sie einen anderen Browser. We apologize for the inconvenience.
+Uns ist ein Problem bekannt, bei dem einige Benutzer nicht drucken können, wenn sie Safari- oder Edge-Browser verwenden. Während wir an einem Fix für dieses Problem arbeiten, verwenden Sie bitte einen anderen Browser. We apologize for the inconvenience.

@@ -1,37 +1,37 @@
 ---
-title: Fragen im Zusammenhang mit Office 2019
-ms.author: janellem
-author: janellem
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Fragen zu Office 2019
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1251"
 - "2000023"
-ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 9e14a18174d7bd5be5b64ecf1ee71befc3b96201
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1251"
+ms.date: 04/21/2020
+ms.openlocfilehash: c07ac8b0aff6461c1aa1e3a056b0ba1b7b0b6128
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774746"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66594139"
 ---
 # <a name="about-office-2019"></a>Informationen zu Office 2019
 
-Office 2019 ist für Kunden gedacht, die noch nicht für die Cloud bereit sind oder die einen bestimmten Bedarf an einer lokalen oder hybriden Office-Bereitstellung haben. Es enthält eine sinnvolle Teilmenge von Features, die Microsoft 365 in den letzten drei Jahren bereits hinzugefügt wurden, aber nicht Teil von Microsoft 365.
+Office 2019 richtet sich an Kunden, die noch nicht für die Cloud bereit sind oder einen speziellen Bedarf an einer lokalen oder hybriden Office-Bereitstellung haben. Es enthält eine sinnvolle Teilmenge von Features, die bereits in den letzten drei Jahren zu Microsoft 365 hinzugefügt wurden, aber nicht Teil von Microsoft 365 ist.
   
-Microsoft 365 apps for Enterprise, die Cloud-verbundene Version von Office, bietet die produktivste und sicherste Office-Erfahrung. Es bietet Zugriff auf eine Suite von Diensten, die über das hinausgehen, was in den lokalen Versionen enthalten ist, und erhält laufend neue Feature-Updates.
+Microsoft 365 Apps for Enterprise, die mit der Cloud verbundene Version von Office, bietet die produktivste und sicherste Office-Erfahrung. Es bietet Zugriff auf eine Suite von Diensten, die über das hinausgehen, was die lokalen Versionen haben, und erhält fortlaufend neue Featureupdates.
   
-Wenn Sie also die Office-Desktop-Apps als Teil Ihres Microsoft 365-Abonnements haben, haben Sie bereits die neueste Version von Office.
+Wenn Sie also über die Office-Desktop-Apps als Teil Ihres Microsoft 365-Abonnements verfügen, verfügen Sie bereits über die neueste Version von Office.
   
 Weitere Informationen finden Sie unter:
   
-[Office 2019 Commercial für Windows und Mac-häufig gestellte Fragen](https://support.microsoft.com/help/4133312)
+[Häufig gestellte Fragen zu Office 2019 Commercial für Windows und Mac](https://support.microsoft.com/help/4133312)
   
-[Die Hauptversionsnummer von Office 2019 liegt bei 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[Die Hauptversionsnummer von Office 2019 bleibt bei 16.0.](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Jahresbezeichnung in Office 2016 und Microsoft 365-Client-Apps werden aus den Einträgen im Startmenü entfernt](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Jahresbezeichnung in Office 2016 und Microsoft 365-Client-Apps werden aus den Einträgen im Startmenü entfernt](https://support.microsoft.com/office/year-designation-in-office-2016-and-microsoft-365-client-apps-will-be-removed-from-start-menu-entries-8fe5e052-76d2-49de-af30-2e84ed3da907)
   

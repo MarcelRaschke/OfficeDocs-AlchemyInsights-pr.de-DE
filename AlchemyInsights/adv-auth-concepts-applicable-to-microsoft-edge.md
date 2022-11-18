@@ -1,38 +1,40 @@
 ---
-title: Erweiterte Authentifizierungskonzepte, die für Microsoft Edge gelten
+title: Erweiterte Authentifizierungskonzepte für Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/03/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "9003931"
+- "9004625"
 - "6986"
-ms.openlocfilehash: 241d594fac6664dd1e85fd60e30a6344c432555e
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8329"
+ms.date: 12/03/2020
+ms.openlocfilehash: 40d063928dadfcd162e68c8a7b12fcc4e79d934c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571827"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66275917"
 ---
-# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Erweiterte Authentifizierungskonzepte, die für Microsoft Edge gelten
+# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Erweiterte Authentifizierungskonzepte für Microsoft Edge
 
-Im folgenden sind die erweiterten Authentifizierungskonzepte aufgeführt, die auf Microsoft Edge zutreffen:
+Es folgen die erweiterten Authentifizierungskonzepte, die für Microsoft Edge gelten:
 
 **Proaktive Authentifizierung**
 
-Wenn Sie die [ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) -Richtlinie aktivieren, versucht Microsoft Edge die aktive Authentifizierung von angemeldeten Benutzern über Microsoft-Dienste. In regelmäßigen Abständen wird ein Onlinedienst verwendet, um nach einem aktualisierten Manifest zu suchen, das die Konfiguration für die proaktive Authentifizierung enthält.
+Wenn Sie die [ProactiveAuthEnabled-Richtlinie](https://go.microsoft.com/fwlink/?linkid=2134621) aktivieren, versucht Microsoft Edge, angemeldete Benutzer proaktiv über Microsoft-Dienste zu authentifizieren. In regelmäßigen Abständen wird ein Onlinedienst verwendet, um nach einem aktualisierten Manifest zu suchen, das die Konfiguration für die proaktive Authentifizierung enthält.
 
-Vorteile: die proaktive Authentifizierung ermöglicht die Authentifizierung für wichtige Dienste, wie beispielsweise die Registerkarte "Office New". Wenn Bing als Such Modul verwendet wird, verbessert die proaktive Authentifizierung auch die Leistung der Adressleiste und hilft bei der Generierung von Suchergebnissen, die auf die Anforderungen Ihres Unternehmens zugeschnitten sind.
+Vorteile: Die proaktive Authentifizierung ermöglicht die Authentifizierung bei wichtigen Diensten, z. B. der Office-Seite "Neue Registerkarte". Wenn Bing als Suchmaschine verwendet wird, verbessert die proaktive Authentifizierung außerdem die Leistung der Adressleiste und hilft, Suchergebnisse zu generieren, die an die Anforderungen Ihres Unternehmens angepasst sind.
 
-**Windows Hello CredUI für die NTLM-Authentifizierung**
+**Windows Hello CredUI für NTLM-Authentifizierung**
 
-Wenn einmaliges Anmelden (Single Sign-on, SSO) nicht verfügbar ist, wenn eine Website versucht, sich über den NTLM-oder Negotiate-Mechanismus am Benutzer anzumelden, ermöglicht diese Funktion dem Benutzer, die Betriebssystem Anmeldeinformationen für die Website freizugeben und die Authentifizierungsanforderung mithilfe der Windows Hello cred-Benutzeroberfläche zu erfüllen. Dieser Anmelde Fluss wird nur in Windows 10 und nur für Benutzer angezeigt, die nicht SSO während einer NTLM-oder Negotiate-Herausforderung erhalten.
+Wenn einmaliges Anmelden (Single Sign-On, SSO) nicht verfügbar ist, wenn eine Website versucht, den Benutzer über den NTLM- oder Negotiate-Mechanismus anzumelden, ermöglicht dieses Feature dem Benutzer, die Betriebssystemanmeldeinformationen für die Website freizugeben und die Authentifizierungs-Herausforderung mithilfe Windows Hello Cred UI zu erfüllen. Dieser Anmeldefluss wird nur in Windows 10 und nur für Benutzer angezeigt, die während einer NTLM- oder Aushandlungs-Abfrage keinen SSO erhalten.
 
-**Automatisches Anmelden mit gespeicherten Kennwörtern**
+**Automatische Anmeldung mit gespeicherten Kennwörtern**
 
-Benutzer, die Kennwörter in Microsoft Edge speichern, können die automatische Anmeldung bei Websites aktivieren, auf denen Sie Anmeldeinformationen gespeichert haben. Benutzer können diese Funktion in Edge://Settings/passwords aktivieren oder deaktivieren, und Sie können Sie in den [Password Manager-](https://go.microsoft.com/fwlink/?linkid=2134622) Richtlinien konfigurieren.
+Benutzer, die Kennwörter in Microsoft Edge speichern, können die automatische Anmeldung bei Websites aktivieren, auf denen sie Anmeldeinformationen gespeichert haben. Benutzer können dieses Feature in edge://settings/passwords aktivieren oder deaktivieren, und Sie können es in den [Kennwort-Manager-Richtlinien](https://go.microsoft.com/fwlink/?linkid=2134622) konfigurieren.

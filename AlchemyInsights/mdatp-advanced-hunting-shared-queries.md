@@ -1,28 +1,26 @@
 ---
-title: 9001220 mdatp Advanced Hunting Shared Queries
+title: 9001220 freigegebene Mdatp Advanced Hunting-Abfragen
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
-ms.date: 09/23/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "3201"
 - "9001220"
-ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+- "3201"
+ms.date: 09/23/2020
+ms.openlocfilehash: 201cc0a1f54b0958780272ad1a36907bd0dcc008
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48278501"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66388137"
 ---
-# <a name="sharing-advanced-hunting-queries"></a>Weiterleiten von erweiterten Jagd Abfragen
+# <a name="sharing-advanced-hunting-queries"></a>Freigeben erweiterter Suchabfragen
 
-Erweiterte Suchabfragen können von Benutzern in der gleichen Organisation gemeinsam verwendet werden. Sie können öffentlich freigegebene Abfragen auch auf GitHub finden. Mit diesen Abfragen können Sie bestimmte Bedrohungsszenarien schnell verfolgen, ohne dass Sie Abfragen von Grund auf neu erstellen müssen.
+Erweiterte Suchabfragen können für Benutzer in derselben Organisation freigegeben werden. Sie können öffentlich freigegebene Abfragen auch auf GitHub finden. Mit diesen Abfragen können Sie bestimmte Bedrohungsszenarien schnell verfolgen, ohne dass Sie Abfragen von Grund auf neu erstellen müssen.
   
-Ausführliche Informationen finden Sie unter [use Shared Queries in Advanced Hunting](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
+Ausführliche Informationen finden [Sie unter Verwenden freigegebener Abfragen in der erweiterten Suche](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).

@@ -1,57 +1,52 @@
 ---
-title: Vorgehensweise hinzufügen oder Entfernen einer Stellvertretung in Outlook für Windows
+title: Hinzufügen oder Entfernen einer Stellvertretung in Outlook für Windows
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "3800004"
 - "7334"
-ms.openlocfilehash: fcbd6082c104f0e1bca022a23cbbeb6e3363a6c5
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 201910ba5b02ad3892dff55aaecaa7ab6177c6e7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571836"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66406732"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Vorgehensweise hinzufügen oder Entfernen einer Stellvertretung in Outlook für Windows
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Hinzufügen oder Entfernen einer Stellvertretung in Outlook für Windows
 
-So fügen Sie in Outlook für Windows eine Stellvertretung hinzu: 
+So fügen Sie eine Stellvertretung in Outlook für Windows hinzu: 
 
-1. Klicken Sie auf die Registerkarte **Datei** , gefolgt von den **Kontoeinstellungen**, und wählen Sie dann **Stellvertretungszugriff** aus.
-2. Klicken Sie auf **Hinzufügen**. Wenn **Add** nicht angezeigt wird, ist zwischen Outlook und Exchange möglicherweise keine aktive Verbindung vorhanden. In der Outlook-Statusleiste wird der Verbindungsstatus angezeigt.
-3. Geben Sie den Namen der Person ein, die Sie als Stellvertreter festlegen möchten, oder suchen Sie den Namen in der Liste mit den Suchergebnissen aus, und wählen Sie ihn aus.
+1. Klicken Sie auf die Registerkarte **"Datei** " gefolgt von **"Kontoeinstellungen"**, und wählen Sie dann " **Stellvertretungszugriff**" aus.
+2. Klicken Sie auf **"Hinzufügen"**. Wenn **"Hinzufügen"** nicht angezeigt wird, ist möglicherweise keine aktive Verbindung zwischen Outlook und Exchange vorhanden. In der Outlook-Statusleiste wird der Verbindungsstatus angezeigt.
+3. Geben Sie den Namen der Person ein, die Sie als Stellvertretung festlegen möchten, oder suchen Sie, und wählen Sie den Namen in der Liste der Suchergebnisse aus.
 
-    > [!NOTE]
-    > Bei der Stellvertretung muss es sich um eine Person in der globalen Exchange-Adressliste (GAL) Ihrer Organisation handeln.
-4. Klicken Sie auf **Hinzufügen** , gefolgt von **OK**.
-5. Übernehmen Sie im Dialogfeld **Berechtigungen delegieren** die Standard Berechtigungseinstellungen, oder wählen Sie benutzerdefinierte Zugriffsebenen für Exchange-Ordner aus.
+    **Hinweis**: Bei der Stellvertretung muss es sich um eine Person in der globalen Exchange-Adressliste (GAL) Ihrer Organisation handeln.
+4. Klicken Sie auf **"Hinzufügen"** , gefolgt von **"OK"**.
+5. Akzeptieren Sie im Dialogfeld " **Berechtigungen delegieren** " die Standardberechtigungseinstellungen, oder wählen Sie benutzerdefinierte Zugriffsebenen für Exchange-Ordner aus.
 
-    - Wenn ein Stellvertreter die Berechtigung zum Arbeiten nur mit Besprechungsanfragen und-Antworten benötigt, werden die Standard Berechtigungseinstellungen wie **Stellvertreter Kopien von Besprechungs bezogenen Nachrichten erhalten, die an mich gesendet** wurden, genügen. Sie können die Einstellung **Posteingangs** Berechtigung auf **None** belassen. Besprechungsanfragen und-Antworten gelangen direkt in den Posteingang des Stellvertreters.
+    - Wenn eine Stellvertretung die Berechtigung benötigt, nur mit Besprechungsanfragen und -antworten zu arbeiten, reichen die **Standardberechtigungseinstellungen wie "Stellvertretung" aus, die Kopien von Besprechungsnachrichten empfängt, die an mich gesendet** wurden. Sie können die Berechtigungseinstellung " **Posteingang** " bei **"Keine**" belassen. Besprechungsanfragen und -antworten gehen direkt in den Posteingang der Stellvertretung.
 
-    > [!NOTE]
-    > Standardmäßig wird der Stellvertretung die Berechtigung **Editor (Elemente lesen, erstellen und ändern)** für den Ordner **Kalender** erteilt. Wenn der Stellvertreter auf eine Besprechung in Ihrem Namen antwortet, wird dieser automatisch Ihrem **Kalender** Ordner hinzugefügt.
+    **Hinweis**: Standardmäßig wird der Stellvertretung die Berechtigung **"Editor" (kann Elemente lesen, erstellen und ändern)** für Ihren **Kalenderordner** erteilt. Wenn die Stellvertretung in Ihrem Auftrag auf eine Besprechung antwortet, wird sie automatisch ihrem **Kalenderordner** hinzugefügt.
 
-5. Um eine Nachricht zu senden, um die Stellvertretung über die geänderten Berechtigungen zu benachrichtigen, aktivieren Sie das Kontrollkästchen **eine Nachricht wird automatisch an delegierende dieser Berechtigungen gesendet** .
-6. Wenn Sie möchten, aktivieren Sie das Kontrollkästchen **Stellvertretung kann private Elemente anzeigen** .
+5. Wenn Sie eine Nachricht senden möchten, um den Stellvertreter über die geänderten Berechtigungen zu benachrichtigen, aktivieren Sie das Kontrollkästchen **"Nachricht automatisch an Stellvertretung senden** ", in dem diese Berechtigungen zusammengefasst werden.
+6. Aktivieren Sie bei Bedarf das Kontrollkästchen **"Stellvertretung kann meine privaten Elemente anzeigen** ".
 
-    > [!IMPORTANT]
-    > Diese Einstellung wirkt sich auf alle Exchange-Ordner aus. Dies umfasst alle Ordner "e-Mail", "Kontakte", "Kalender", "Aufgaben", "Notizen" und "Journal". Es gibt keine Möglichkeit, privaten Elementen nur in bestimmten Ordnern Zugriff zu gewähren.
+    **Wichtig**: Diese Einstellung wirkt sich auf alle Exchange-Ordner aus. Dazu gehören alle Ordner "E-Mail", "Kontakte", "Kalender", "Aufgaben", "Notizen" und "Journal". Es gibt keine Möglichkeit, nur in angegebenen Ordnern Zugriff auf private Elemente zu gewähren.
 
 7. Wählen Sie **OK** aus.
 
-    > [!NOTE]
-    >
-    > - Nachrichten, die mit Berechtigungen zum Senden im Auftrag von gesendet werden, umfassen sowohl die Stellvertretung als auch ihre Namen neben **aus**. Wenn eine Nachricht mit "Senden als"-Berechtigungen gesendet wird, wird nur Ihr Name angezeigt.
-    > - Nachdem Sie eine Person als Stellvertretung hinzugefügt haben, können Sie Ihr Exchange-Postfach Ihrem Outlook-Profil hinzufügen. Anweisungen finden Sie unter [Verwalten der e-Mails und Kalenderelemente einer anderen Person](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
+    **Hinweis**:
+    - Nachrichten, die mit den Berechtigungen "Im Auftrag senden" gesendet werden, enthalten sowohl die Namen der Stellvertretung als auch Ihre Namen neben **"Von**". Wenn eine Nachricht mit den Berechtigungen "Senden als" gesendet wird, wird nur Ihr Name angezeigt.
+    - Nachdem Sie eine Person als Stellvertretung hinzugefügt haben, kann sie Ihr Exchange-Postfach zu ihrem Outlook-Profil hinzufügen. Anweisungen hierzu finden [Sie unter Verwalten der E-Mail- und Kalenderelemente einer anderen Person](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
 
 So entfernen Sie eine Stellvertretung in Outlook für Windows:
 
-1. Klicken Sie auf die Registerkarte **Datei** .
-2. Klicken Sie auf **Kontoeinstellungen** gefolgt von **Stellvertretungszugriff**.
-3. Wählen Sie den Namen des Stellvertreters aus, für den Sie Berechtigungen ändern möchten, und klicken Sie dann auf **Entfernen** , gefolgt von **OK**.
+1. Klicken Sie auf die Registerkarte **"Datei** ".
+2. Klicken Sie auf **"Kontoeinstellungen"** , gefolgt von **"Stellvertretungszugriff**".
+3. Wählen Sie den Namen der Stellvertretung aus, für die Sie Berechtigungen ändern möchten, und klicken Sie dann auf **"Entfernen"** , gefolgt von **"OK"**.

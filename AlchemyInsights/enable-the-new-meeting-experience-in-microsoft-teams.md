@@ -1,28 +1,27 @@
 ---
 title: Aktivieren der neuen Besprechungsumgebung in Microsoft Teams
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/18/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6188"
 - "9003281"
-ms.openlocfilehash: 6c814eccb6e6327e81f10fe015df789204ac2297
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6188"
+ms.date: 08/18/2020
+ms.openlocfilehash: 494366d1d8df764dc3acb01ab6cf83b672b3e0c7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806326"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66297928"
 ---
 # <a name="enable-the-new-meeting-experience-in-microsoft-teams"></a>Aktivieren der neuen Besprechungsumgebung in Microsoft Teams
 
-Neue Features werden schrittweise bereitgestellt. Nachdem Sie den Build mit der neuen Benutzeroberfläche (nur Teams-Desktop-App) erhalten haben, können Sie ihn aktivieren. Wenn Sie sehen möchten, ob Sie den neuesten Build haben, wählen Sie oben in der Teams-App Ihr Profilbild und dann **Nach Updates suchen** aus. Features werden nach und nach für Mandanten bereitgestellt. Selbst wenn Sie den Build zuvor aktualisiert haben, wurde das Feature deshalb möglicherweise noch nicht bereitgestellt.  
+Wir führen schrittweise neue Features ein. Nachdem Sie den Build mit der neuen Oberfläche (nur Teams-Desktop-App) erhalten haben, haben Sie die Möglichkeit, ihn zu aktivieren. Wenn Sie sehen möchten, ob Sie den neuesten Build haben, wählen Sie oben in der Teams-App Ihr Profilbild und dann **Nach Updates suchen** aus. Features werden nach und nach für Mandanten bereitgestellt. Selbst wenn Sie den Build zuvor aktualisiert haben, wurde das Feature deshalb möglicherweise noch nicht bereitgestellt.  
 
 So aktivieren Sie die neue Benutzeroberfläche in den Teams-Einstellungen:
 
@@ -33,6 +32,6 @@ So aktivieren Sie die neue Benutzeroberfläche in den Teams-Einstellungen:
     2. Wählen Sie **Beenden** aus.
     3. Starten Sie Teams erneut.
 
-Möglicherweise wird auch eine Benachrichtigung angezeigt, in der die neue Benutzeroberfläche angekündigt wird oder Sie daran erinnert werden, dass Sie sie aktivieren können, wenn Sie **Jetzt aktivieren** auswählen (falls Sie dazu bereit sind), oder **Vielleicht später** auswählen (falls Sie gerade etwas anderes tun).  
+Möglicherweise wird auch eine Benachrichtigung angezeigt, die die neue Benutzeroberfläche ankündigt oder Sie daran erinnert, sie zu aktivieren, wobei Sie die Option **Jetzt aktivieren** wählen können, wenn Sie bereit sind, oder **Vielleicht später**, wenn Sie gerade mit etwas beschäftigt sind.  
 
 Weitere Informationen hierzu finden Sie unter [Neue Besprechungs- und Anrufumgebung in Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/new-meeting-and-calling-experience-in-microsoft-teams/ba-p/1537581).

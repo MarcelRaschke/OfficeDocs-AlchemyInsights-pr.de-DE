@@ -1,26 +1,24 @@
 ---
 title: Erste Schritte mit SharePoint Online
-ms.author: toresing
-author: tomresing
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 4920ee43afd20d6e4a6ebfca10eff75b2a86faf3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: d96cc389b0fd2e34a5819f81eac83b6ca473e299
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707242"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66389825"
 ---
 # <a name="get-started-with-sharepoint-online"></a>Erste Schritte mit SharePoint Online
 
-Lassen Sie sich mit unserer [SharePoint Online Videoschulung](https://go.microsoft.com/fwlink/?linkid=866438) und [Schnellstartanleitung](https://go.microsoft.com/fwlink/?linkid=866437)auf dem laufenden halten. Wenn Sie eine umfassendere, schrittweise Anleitung benötigen, führen Sie die Schritte im [SharePoint Online Bereitstellungs Ratgeber aus.](https://portal.office.com/onboarding/sharepointonline#/)
+Beginnen Sie mit unserer [SharePoint Online-Videoschulung](https://go.microsoft.com/fwlink/?linkid=866438) und unserem [Schnellstarthandbuch](https://go.microsoft.com/fwlink/?linkid=866437). Wenn Sie nach einer umfassenderen schrittweisen Anleitung suchen, führen Sie die Schritte im [SharePoint Online-Bereitstellungsratgeber aus.](https://portal.office.com/onboarding/sharepointonline#/)
   
 

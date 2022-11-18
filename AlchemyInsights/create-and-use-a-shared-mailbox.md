@@ -1,29 +1,28 @@
 ---
 title: Erstellen und Verwenden eines freigegebenen Postfachs
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+author: cmcatee-MSFT
+ms.author: cmcatee
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
-ms.common:
-- "358"
-- "624"
+ms.localizationpriority: medium
+ms.custom:
 - "3500003"
-ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "358"
+ms.openlocfilehash: 36b20450372dcc10270355ae830ec71367c291ef
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712660"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63131681"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Erstellen und Verwenden eines freigegebenen Postfachs
 
 Über ein freigegebenes Postfach können mehrere Personen E-Mails für einen Alias wie "vertrieb@contoso.com" senden und empfangen, ohne dass eine weitere Lizenz zugewiesen werden muss.
   
-- [Führen Sie die folgenden Schritte](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) im Microsoft 365 Admin Center aus, um die ersten Schritte auszuführen. 
+- [Führen Sie die folgenden Schritte](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) im Microsoft 365 Admin Center aus, um zu beginnen. 
 
-Sie können auch den Artikel [Erstellen eines freigegebenen Post Fachs](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) lesen, in dem Sie erfahren, was Sie über freigegebene Postfächer wissen müssen, einschließlich ihrer Verwendung.
+Sie können auch den Artikel [zum Erstellen eines freigegebenen Postfachs](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) lesen, in dem Sie alles wissen, was Sie über freigegebene Postfächer wissen müssen, einschließlich deren Verwendung.
   

@@ -1,33 +1,32 @@
 ---
 title: HIPPA-Compliance und Office 365
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002430"
 - "4720"
-ms.openlocfilehash: ea0d01150f7dbf4d9788deb3430bc27862a54c45
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1765beaaf4226ac6c469f2e5b8ed7667f1a7b351
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782161"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66406948"
 ---
 # <a name="hippa-compliance-and-office-365"></a>HIPPA-Compliance und Office 365
 
-Möchten Sie mehr darüber erfahren, wie Sie die Clouddienste von Microsoft nutzen können, um die Anforderungen des HIPAA an Sicherheit und Datenschutz zu erfüllen?  Fragen zur Verwendungsweise der Microsoft-Compliancebewertung zur Beurteilung Ihres Risikos oder zum Abschluss eines Vertrags für Geschäftspartner (BAA) mit Microsoft?  
+Möchten Sie mehr darüber erfahren, wie Sie die Clouddienste von Microsoft verwenden können, um die HIPAA-Sicherheits- und Datenschutzanforderungen zu erfüllen?  Fragen zur Verwendungsweise der Microsoft-Compliancebewertung zur Beurteilung Ihres Risikos oder zum Abschluss eines Vertrags für Geschäftspartner (BAA) mit Microsoft?  
 
 In den folgenden Ressourcen finden Sie zusätzliche Informationen:
 
-- Für einen **Überblick über das HIPAA und das HITECH-Gesetz** siehe [Health Insurance Portability and Accountability (HIPAA) und HITECH Act](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide).
+- Für einen **Überblick über das HIPAA und das HITECH-Gesetz** siehe [Health Insurance Portability and Accountability (HIPAA) und HITECH Act](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech).
 
-- **Verwenden der [Compliancebewertung](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide#use-microsoft-compliance-score-to-assess-your-risk)** zur Beurteilung Ihres Risikos.
+- **Verwenden der [Compliancebewertung](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech#use-microsoft-compliance-score-to-assess-your-risk)** zur Beurteilung Ihres Risikos.
 
 - **Office 365-Complianceangebote-Dokument**, siehe [Office 365, Office 365 U.S. Government und Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751).
 

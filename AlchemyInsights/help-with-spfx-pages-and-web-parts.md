@@ -1,23 +1,22 @@
 ---
 title: Hilfe zu SPFx-Seiten und Webparts
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: a55208747662f2aebbd230c51a00596893cc972b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a0617fd708f3c73b31349f4801613562248bf4b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782290"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66406912"
 ---
 # <a name="help-with-spfx-pages-and-web-parts"></a>Hilfe zu SPFx-Seiten und Webparts
 

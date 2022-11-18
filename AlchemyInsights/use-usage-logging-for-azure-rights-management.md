@@ -1,24 +1,23 @@
 ---
 title: Verwenden der Verwendungsprotokollierung für Azure Rights Management
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "5506"
 - "9002281"
-ms.openlocfilehash: f1483e177ec6fcdd39d0aae481d3b329b11577d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "5506"
+ms.date: 08/03/2020
+ms.openlocfilehash: ea405ff35a3eda00565772d86e6f8bdd11c9dd32
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796791"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66512865"
 ---
 # <a name="use-usage-logging-for-azure-rights-management"></a>Verwenden der Verwendungsprotokollierung für Azure Rights Management
 

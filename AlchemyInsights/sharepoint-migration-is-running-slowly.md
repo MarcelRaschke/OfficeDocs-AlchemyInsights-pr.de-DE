@@ -1,23 +1,22 @@
 ---
 title: Warum kann ich diese Datei nicht bearbeiten?
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: 56031848ef23fb4823327970efa65b00d0bf9218
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89a8fab23ee3f2cd9327b09d5210bdce257deddf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661991"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66346269"
 ---
 # <a name="sharepoint-migration-is-running-slowly"></a>SharePoint-Migration wird sehr langsam ausgeführt
 

@@ -1,24 +1,24 @@
 ---
-title: Ändern des Kennworts in Outlook im Internet
+title: Ändern Ihres Kennworts in Outlook im Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "8000002"
 - "1990"
-ms.openlocfilehash: 8e6c77435e468b82dd304b1045aece5ce760b1df
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 0aca2522db2f352d5b5c64ed134c4b8b09bbebd8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795927"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66430798"
 ---
 # <a name="change-your-microsoft-365-password"></a>Ändern Ihres Microsoft 365-Kennworts
 
-Wenn Sie Ihr Microsoft 365-Kennwort ändern oder zurücksetzen müssen, können Sie direkt zu dieser Seite wechseln: [setzen Sie Ihr Microsoft-Kennwort zurück](https://go.microsoft.com/fwlink/p/?linkid=841910) .
+Wenn Sie Ihr Microsoft 365-Kennwort ändern oder zurücksetzen müssen, können Sie direkt zu dieser Seite wechseln: [Zurücksetzen Ihres Microsoft-Kennworts](https://go.microsoft.com/fwlink/p/?linkid=841910)

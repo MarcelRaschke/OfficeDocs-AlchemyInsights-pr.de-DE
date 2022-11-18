@@ -1,24 +1,23 @@
 ---
 title: Probleme mit Yammer-Lizenzen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/14/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "5900"
 - "9003071"
-ms.openlocfilehash: f0a7625c7b77860e5ba0e29f2df47101749aace3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "5900"
+ms.date: 07/14/2020
+ms.openlocfilehash: b29523efd13b48acd8775454b85b3839737fd11f
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657275"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66527748"
 ---
 # <a name="yammer-licensing-issues"></a>Probleme mit Yammer-Lizenzen
 

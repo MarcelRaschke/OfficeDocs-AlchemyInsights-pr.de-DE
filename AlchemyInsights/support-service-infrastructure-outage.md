@@ -1,24 +1,23 @@
 ---
-title: Ausfall der Support Dienstinfrastruktur
-ms.author: pebaum
-author: pebaum
+title: Supportdienst-Infrastrukturausfall
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "5151"
 - "9002659"
-ms.openlocfilehash: a41cd828b41d871053e2fa78a3a706b6dedf26e5
-ms.sourcegitcommit: 201c70a805ee76a13f97696e5a07ba27d0ce70a7
+- "5151"
+ms.openlocfilehash: e9497803963da11978f25ef78ac9d35f0437a6b8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "48355430"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66383385"
 ---
-# <a name="support-service-infrastructure-outage"></a>Ausfall der Support Dienstinfrastruktur
+# <a name="support-service-infrastructure-outage"></a>Supportdienst-Infrastrukturausfall
 
-Wir erleben derzeit einen Ausfall in der Supportdienst Infrastruktur. Wir arbeiten daran, das Problem so schnell wie möglich zu lösen, aber in der Zwischenzeit können Sie Verzögerungen bei der Antwortzeit sehen, wenn Sie versuchen, Microsoft zu kontaktieren.
+Derzeit kommt es zu einem Ausfall der Supportdienstinfrastruktur. Wir arbeiten daran, das Problem so schnell wie möglich zu beheben, aber in der Zwischenzeit können Verzögerungen bei der Reaktionszeit auftreten, wenn Sie versuchen, Microsoft zu kontaktieren.

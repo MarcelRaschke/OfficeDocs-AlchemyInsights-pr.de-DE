@@ -1,28 +1,27 @@
 ---
-title: Team Ablauf und-Verlängerung in Microsoft Teams
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Ablauf und Verlängerung des Teams in Microsoft Teams
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "6666"
 - "9003760"
-ms.openlocfilehash: 4514f06282f33a5dc360c2214cedf714633b34f0
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+- "6666"
+ms.openlocfilehash: e7031077b658ddc94447f93a941e92de4963a0cf
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334113"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66262378"
 ---
-# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Team Ablauf und-Verlängerung in Microsoft Teams
+# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Ablauf und Verlängerung des Teams in Microsoft Teams
 
-Team Ablauf und-Verlängerung in Microsoft Teams können zur Verwaltung nicht verwendeter Teams beitragen. Als Administrator können Sie  [Microsoft 365 Group-Ablaufrichtlinie](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  verwenden, um nicht verwendete Teams automatisch zu bereinigen. Da Teams von Gruppen unterstützt werden, gelten Gruppen Ablaufrichtlinien automatisch auch für Teams.
+Ablauf und Verlängerung von Teams in Microsoft Teams können dabei helfen, nicht verwendete Teams zu verwalten. Als Administrator können Sie die  [Ablaufrichtlinie für Microsoft 365-Gruppen](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  verwenden, um nicht verwendete Teams automatisch zu bereinigen. Da Teams von Gruppen unterstützt werden, gelten die Ablaufrichtlinien für Gruppen automatisch auch für Teams.
 
-Um versehentliches Löschen zu verhindern, wird die automatische Verlängerung für ein Team in der Gruppen Ablaufrichtlinie automatisch aktiviert. Wenn die Gruppen Ablaufrichtlinie eingerichtet ist, wird jedes Team, das über mindestens einen Kanal Besuch von einem Teammitglied vor seinem Ablaufdatum verfügt, automatisch ohne manuellen Eingriff durch den Teambesitzer erneuert.  
+Um ein versehentliches Löschen zu verhindern, wird die automatische Verlängerung automatisch für ein Team in der Ablaufrichtlinie der Gruppe aktiviert. Wenn die Gruppenablaufrichtlinie eingerichtet ist, wird jedes Team, das mindestens einen Kanalbesuch von einem Teammitglied vor seinem Ablaufdatum hat, automatisch ohne manuellen Eingriff des Teambesitzers erneuert.  
 
-Weitere Informationen finden Sie unter  [Team Ablauf und-Erneuerung in Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  .
+Weitere Informationen finden Sie  [unter Ablauf und Verlängerung des Teams in Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  .

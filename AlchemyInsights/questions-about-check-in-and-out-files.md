@@ -1,23 +1,23 @@
 ---
 title: Fragen zum Einchecken und Auschecken von Dateien
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 5a5eaebc-5818-4ce8-9d2c-e0d04f8c6f7d
-ms.openlocfilehash: 784b4c3e3375930a9391b4665f245f30a4567fe5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.date: 04/21/2020
+ms.openlocfilehash: 368da9d6b8d2a4ef14edc45810ea473d6aee6dfe
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811934"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66362811"
 ---
 # <a name="questions-about-check-in-and-out-files"></a>Fragen zum Einchecken und Auschecken von Dateien
 
-Informationen zu häufig gestellten Fragen, beispielsweise zum ein-und Auschecken von Dateien und zum Verwerfen eines Auscheckens in SharePoint Online finden Sie unter [Top Questions about Check out, Check in.](https://go.microsoft.com/fwlink/?linkid=2018786)
+Um einige häufig gestellte Fragen zu überprüfen, z. B. wie Sie Dateien ein- und auschecken und wie Sie ein Auschecken in SharePoint Online verwerfen, lesen Sie [die wichtigsten Fragen zum Aus- und Einchecken.](https://go.microsoft.com/fwlink/?linkid=2018786)
   
 

@@ -1,46 +1,45 @@
 ---
-title: Erstellen von InTune-Richtlinien und Profilen
+title: Erstellen von Intune Richtlinien und Profilen
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1064"
 - "6700005"
-ms.openlocfilehash: 9026beac824ebc3849241dbb534c27b00ef1d0eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1064"
+ms.date: 04/18/2022
+ms.openlocfilehash: 64cd2e91715539bb8606cff2e028a9e80979e388
+ms.sourcegitcommit: dcf228daa5240abe7299c1d6a298f61812b175b7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746758"
+ms.lasthandoff: 04/19/2022
+ms.locfileid: "64916731"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Erstellen von InTune-Richtlinien und Profilen
+# <a name="creating-intune-policy-and-profiles"></a>Erstellen von Intune Richtlinie und Profilen
 
-In InTune können Sie Richtlinien und Profile erstellen, die verschiedene Dinge tun.
+In Intune können Sie Richtlinien und Profile erstellen, die unterschiedliche Aktionen ausführen.
 
-- **Registrierungs profile**: vorkonfigurieren Ihrer Geräte nach Plattform, Benutzer Affinität aktivieren, mehrstufige Authentifizierung verwenden und vieles mehr.
+- **Registrierungsprofile**: Vorkonfigurieren Sie Ihre Geräte nach Plattform, aktivieren Sie die Benutzeraffinität, verwenden Sie die mehrstufige Authentifizierung und vieles mehr.
 
-  [Was ist die Geräteregistrierung](https://docs.microsoft.com/intune/device-enrollment)und Erstellen von Registrierungs Profilen für [Android](https://docs.microsoft.com/intune/android-enroll), [IOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)und [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) sind gute Ressourcen.
+  [Was ist die Geräteregistrierung](https://docs.microsoft.com/intune/device-enrollment) und das Erstellen von Registrierungsprofilen für [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll) und [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) sind gute Ressourcen.
 
-- **Konformitätsrichtlinien**: definieren Sie die Regeln und Einstellungen, denen die Geräte folgen müssen, um konform zu sein. Sie können auch Konformitätsrichtlinien verwenden, um Geräte zu überwachen und Benutzer über die Nichteinhaltung zu informieren.
+- **Compliancerichtlinien**: Definieren Sie die Regeln und Einstellungen, denen Geräte folgen müssen, um konform zu sein. Sie können Compliancerichtlinien auch verwenden, um Geräte zu überwachen und Benutzer über Nichtkonformität zu benachrichtigen.
 
-  Erste Schritte mit [Geräte Konformitätsrichtlinien](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Richtlinien für bedingten Zugriff**: unterstützen Sie bei der Sicherung von organisatorischen Ressourcen, abhängig von den von Ihnen eingegebenen Bedingungen. Verwenden Sie beispielsweise für Geräte, die nicht kompatibel sind, den bedingten Zugriff, um den Zugriff auf e-Mail und SharePoint einzuschränken.
+  Erste Schritte mit [Gerätekompatibilitätsrichtlinien](https://docs.microsoft.com/intune/device-compliance-get-started).
+- **Richtlinien für bedingten Zugriff**: Schützen Sie Organisationsressourcen, je nachdem, welche Bedingungen Sie eingeben. Verwenden Sie beispielsweise für Geräte, die nicht konform sind, bedingten Zugriff, um den Zugriff auf E-Mails und SharePoint einzuschränken.
 
-  [Was bedingter Zugriff](https://docs.microsoft.com/intune/conditional-access) und [Häufige Methoden zur Verwendung von bedingtem Zugriff](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) ist, sind gute Ressourcen für die ersten Schritte.
+  [Was bedingter Zugriff und](https://docs.microsoft.com/intune/conditional-access) [allgemeine Methoden zum Verwenden des bedingten Zugriffs](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) sind gute Ressourcen für die ersten Schritte.
 
-- **Konfigurationsprofile**: Verwalten von Features und Einstellungen auf Geräten, einschließlich e-Mail-Einstellungen, Hinzufügen eines WLAN-Netzwerks, Verwenden integrierter Vorlagen, Steuern von IOS-und macOS-Gerätefunktionen und vieles mehr.
+- **Konfigurationsprofile**: Verwalten von Features und Einstellungen auf Geräten, einschließlich E-Mail-Einstellungen, Hinzufügen eines WLAN-Netzwerks, Verwenden integrierter Vorlagen, Steuern von iOS- und macOS-Gerätefeatures und mehr.
 
-  Erste Schritte bei [Geräte Konfigurationsprofilen](https://docs.microsoft.com/intune/device-profiles).
+  Erste Schritte bei [Gerätekonfigurationsprofilen](https://docs.microsoft.com/intune/device-profiles).
 
-Hilfreiche Links:
+Nützliche Links:
 
-- [Häufige Fragen, Probleme und Lösungen mit Geräterichtlinien und-Profilen in InTune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
-
-- [Problembehandlung bei Richtlinien und Profilen in InTune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Allgemeine Fragen, Probleme und Lösungen mit Geräterichtlinien und Profilen in Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Problembehandlung von Richtlinien und Profilen in Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+- [Intune geführten Einrichtung](https://go.microsoft.com/fwlink/?linkid=2192111)

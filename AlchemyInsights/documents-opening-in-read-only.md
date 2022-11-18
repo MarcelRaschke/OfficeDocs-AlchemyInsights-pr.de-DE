@@ -1,26 +1,25 @@
 ---
 title: Öffnen eines Dokuments in schreibgeschütztem Modus
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/22/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
+- "9000093"
+- "9000093"
 - "6896"
-- "9000093"
 - "1613"
-- "9000093"
-ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
-ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.date: 07/22/2020
+ms.openlocfilehash: af37150fd4927ba56171c2f08ca0264da48caff8
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49528981"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66523542"
 ---
 # <a name="documents-opening-in-read-only"></a>Öffnen von Dokumenten in schreibgeschütztem Modus
 

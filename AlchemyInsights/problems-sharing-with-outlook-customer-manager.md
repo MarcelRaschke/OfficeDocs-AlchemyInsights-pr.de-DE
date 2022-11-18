@@ -1,32 +1,30 @@
 ---
-title: Probleme-Sharing-with-Outlook-Customer-Manager
+title: problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1868"
 - "9000274"
-ms.assetid: ''
-ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1868"
+ms.date: 04/21/2020
+ms.openlocfilehash: f8af455ee2836853687ac6a3f0da24688d1f1772
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728250"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66419098"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Probleme bei der Freigabe mit dem Outlook-Kunden Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Probleme bei der Freigabe mit Outlook Customer Manager
 
-Wenn Sie Probleme mit der Freigabe mit dem Outlook-Kunden Manager haben, empfehlen wir Ihnen zunächst, den Browsercache zu löschen. Beispielsweise in Internet Explorer würden Sie Folgendes tun:
+Wenn Sie Probleme mit der Freigabe mit Outlook Customer Manager haben, empfehlen wir Ihnen, zuerst den Browsercache zu löschen. In Internet Explorer würden Sie z. B. folgende Aktionen ausführen:
 
-1. Wechseln Sie zu **Einstellungen**  >  **Allgemein** > Einstellungen unter **Browserverlaufs**  >  **Caches und Datenbanken**.
+1. Wechseln Sie unter "**Browserverlaufcaches** >  und Datenbanken **" zu "Einstellungen** > **allgemein** > Einstellungen".
 2. Löschen Sie Cachedateien für die Website "outlookapps.com".
 3. Starten Sie Outlook neu.
 
-Weitere Informationen zur Freigabe finden Sie unter [Freigeben von Informationen im Outlook-Kunden Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Weitere Informationen zur Freigabe finden [Sie unter "Freigeben von Informationen in Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)".

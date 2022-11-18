@@ -1,24 +1,23 @@
 ---
 title: Auffinden verlorener iOS-Geräte mit Intune
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1283"
 - "6700008"
-ms.openlocfilehash: 70f12328813a312631c67cd72cc75559ed2eca1b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1283"
+ms.date: 07/27/2020
+ms.openlocfilehash: 4df62bcd6879739c2205149430f50673f59b4080
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675159"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66287218"
 ---
 # <a name="locating-lost-ios-devices-with-intune"></a>Auffinden verlorener iOS-Geräte mit Intune
 
@@ -37,14 +36,14 @@ Weitere Informationen hierzu finden Sie unter [Aktivieren des Modus für verlore
 
 **Häufig gestellte Fragen**
 
-F: Ich habe eine Remoteaktion zum Entfernen von Unternehmensdaten von einem Gerät gesendet, und jetzt ist das Gerät im Zustand „Ausstehend“ hängen geblieben.
+F: Ich habe eine Remote-Aktion ausgegeben, um Unternehmensdaten von einem Gerät zu entfernen, und jetzt bleibt es in einem ausstehenden Zustand hängen.
 
 A: Damit eine Remoteaktion erfolgreich abgeschlossen werden kann, muss das Zielgerät online und fehlerfrei sein. In den folgenden Situationen bleibt die Remoteaktion 30 Tage lang im Zustand „Ausstehend“ oder bis das Gerät den Befehl bestätigt:
 
 - Wenn das Gerät keine Verbindung hat.
 - Wenn das Gerät seinen Verwaltungsstatus bei Intune verloren hat.
 
-Wenn Sie der Meinung sind, dass das Gerät keinen Check-In mehr vornimmt und dass es nicht mehr in der Lage ist, Unternehmensdaten zu entfernen, wählen Sie „Löschen“ aus. Durch das Löschen wird der Gerätedatensatz entfernt, sodass er nicht mehr in der Liste der Geräte in Intune angezeigt wird. Wenn das Gerät wieder aktiv wird, muss sein Benutzer es erneut registrieren.
+Wenn Sie der Meinung sind, dass ein Gerät nicht mehr eincheckt und keine Unternehmensdaten entfernen kann, wählen Sie Löschen aus. Durch das Löschen wird der Gerätedatensatz entfernt, sodass er nicht mehr in der Liste der Geräte in Intune angezeigt wird. Wenn das Gerät wieder aktiv wird, muss sein Benutzer es erneut registrieren.
 
 F: Warum sind bestimmte Remoteaktionen für mich nicht verfügbar?
 

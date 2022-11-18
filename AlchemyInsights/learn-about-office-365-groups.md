@@ -1,26 +1,24 @@
 ---
-title: 610 Informationen zu Microsoft 365-Gruppen
+title: 610 Erfahren Sie mehr über Microsoft 365-Gruppen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "610"
 - "3800008"
-ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 7ada16406b79317882831c54bdee117153723dd9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "610"
+ms.date: 04/21/2020
+ms.openlocfilehash: 4ec9538de8c677de1fa80676a5b24872a6b91882
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676773"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66571477"
 ---
 # <a name="learn-about-microsoft-365-groups"></a>Informationen zu Microsoft 365-Gruppen
 
-Microsoft 365 Groups ist ein Dienst, der mit den Office 365 Tools funktioniert, die Sie bereits verwenden, sodass Sie mit ihren Teamkollegen zusammenarbeiten können, wenn Sie Dokumente schreiben, Arbeitsblätter erstellen, Projektpläne bearbeiten, Besprechungen planen oder e-Mails senden. Weitere Informationen finden Sie unter Informationen [zu Microsoft 365-Gruppen](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Microsoft 365-Gruppen ist ein Dienst, der mit den Office 365 Tools arbeitet, die Sie bereits verwenden, sodass Sie beim Schreiben von Dokumenten, beim Erstellen von Kalkulationstabellen, beim Arbeiten an Projektplänen, beim Planen von Besprechungen oder beim Senden von E-Mails mit Ihren Teamkollegen zusammenarbeiten können. Mehr dazu erfahren Sie unter [Weitere Informationen zu Microsoft 365 Groups](https://support.microsoft.com/office/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

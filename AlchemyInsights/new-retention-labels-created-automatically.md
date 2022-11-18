@@ -1,36 +1,36 @@
 ---
-title: Automatische Erstellung neuer Aufbewahrungs Bezeichnungen
-ms.author: pebaum
-author: pebaum
-manager: laurawi
-ms.date: 04/21/2020
-ms.audience: admin
+title: Automatisch erstellte neue Aufbewahrungsbezeichnungen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1958"
 - "9000331"
-ms.openlocfilehash: 2f0e7c418a909d1adfb8e6ad5cd1755839cb22e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1958"
+ms.date: 04/21/2020
+ms.openlocfilehash: 8ab82f3dca923e99dbf4c74f514ccb94d9f4fccd
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803136"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66256762"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Automatische Erstellung neuer Aufbewahrungs Bezeichnungen
+# <a name="new-retention-labels-created-automatically"></a>Automatisch erstellte neue Aufbewahrungsbezeichnungen
 
-Möglicherweise werden [drei neue Aufbewahrungs Bezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) , die automatisch in Ihrer Organisation erstellt werden, unter **Aufbewahrungs Bezeichnungen** im Security or Compliance Admin Center angezeigt. Die Namen der Bezeichnungen lauten wie folgt:
+Möglicherweise werden [drei neue Aufbewahrungsbezeichnungen](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) , die automatisch in Ihrer Organisation unter **Aufbewahrungsbezeichnungen** erstellt wurden, im Security oder Compliance Admin Center angezeigt. Die Bezeichnungsnamen lauten:
 
 - Operative Prozesse
 - Allgemeines Geschäft
 - Vertragliche Vereinbarung
 
-Dies geschieht, wenn Sie den **Dateiplan** zum ersten Mal auswählen, wenn keine anderen Aufbewahrungs Bezeichnungen erstellt wurden. Diese Beschriftungen werden automatisch erstellt und können, falls erforderlich, entfernt werden, wenn Sie noch nicht auf Inhalte angewendet wurden. So entfernen Sie die Bezeichnungen:
+Dies geschieht beim ersten Auswählen des **Dateiplans** , wenn keine anderen Aufbewahrungsbezeichnungen erstellt wurden. Diese Bezeichnungen werden automatisch erstellt und können ggf. entfernt werden, wenn sie noch nicht auf Inhalte angewendet wurden. So entfernen Sie die Bezeichnungen:
 
-1. Wählen Sie im Sicherheits-oder Compliance-Admin Center die Registerkarte **Klassifikationen**für  >  **Etiketten**  >  **Aufbewahrung** aus.
+1. Wählen Sie im Security or Compliance Admin Center die Registerkarte "**Aufbewahrung" für Klassifizierungsbezeichnungen** >  >  aus.
 
-1. Wählen Sie die Aufbewahrungs Bezeichnungen aus, die Sie > **Lösch Bezeichnung**  >  **Ja** entfernen möchten, um die Bezeichnung zu löschen.
+1. Wählen Sie die Aufbewahrungsbezeichnungen aus, die Sie entfernen möchten, > **Bezeichnung** >  löschen **Ja**, um die Bezeichnung zu löschen.
 
-Mit dem Dateiplan-Manager können Sie Aufbewahrungs Bezeichnungen und-Richtlinien in Ihrer Organisation verwalten – weitere Informationen finden Sie unter [Overview of the file PlanManager](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).
+Mit dem Dateiplan-Manager können Sie Aufbewahrungsbezeichnungen und Richtlinien in Ihrer Organisation verwalten . Weitere Informationen finden Sie [unter Übersicht über den Dateiplan-Manager](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).

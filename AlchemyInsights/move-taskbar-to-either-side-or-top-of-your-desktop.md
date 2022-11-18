@@ -1,27 +1,26 @@
 ---
 title: Verschieben der Taskleiste entweder zur Seite oder an den oberen Rand Ihres Desktops
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002939"
 - "5632"
-ms.openlocfilehash: d0f34d67a8b3f6101a2db8bbe7d07624bf264aa3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3d85ceac777898c3f0fce6397b6a6a9a6508735
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702794"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66257014"
 ---
 # <a name="move-the-taskbar-to-either-side-or-the-top-of-your-desktop"></a>Verschieben der Taskleiste entweder zur Seite oder an den oberen Rand Ihres Desktops
 
-Stellen Sie zunächst sicher, dass die Taskleiste nicht fixiert ist. Um herauszufinden, ob diese entsperrt ist, klicken Sie mit der rechten Maustaste auf eine beliebige leere Stelle in der Taskleiste und überprüfen Sie, ob die Option ** Taskleiste fixieren** ausgewählt ist. Falls ausgewählt, ist die Taskleiste fixiert und kann nicht verschoben werden. Wenn Sie die Option**Taskleiste fixieren** einmal anklicken, wird die Fixierung aufgehoben und das Häkchen entfernt.
+Stellen Sie zunächst sicher, dass die Taskleiste nicht fixiert ist. Um herauszufinden, ob diese entsperrt ist, klicken Sie mit der rechten Maustaste auf eine beliebige leere Stelle in der Taskleiste und überprüfen Sie, ob die Option **Taskleiste fixieren** ausgewählt ist. Falls ausgewählt, ist die Taskleiste fixiert und kann nicht verschoben werden. Wenn Sie die Option **Taskleiste fixieren** einmal anklicken, wird die Fixierung aufgehoben und das Häkchen entfernt.
 
 Wenn Sie über mehrere Bildschirme verfügen, die die Taskleiste anzeigen, wird die Option **Alle Taskleisten fixieren** angezeigt.
 

@@ -1,30 +1,28 @@
 ---
 title: Einrichten von SPF
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "309"
-- "565"
 - "1100002"
 - "1100003"
-ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
-ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
+- "309"
+- "565"
+ms.openlocfilehash: 8484784eba3327c8867ae3a199e80a0e6c828702
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295605"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66316623"
 ---
 # <a name="set-passwords-to-never-expire"></a>Festlegen von Kennwörtern, sodass sie nie ablaufen
 
-Um alle Kennwörter so festzulegen, dass Sie nie ablaufen, wechseln Sie im Microsoft 365 Admin Center zu **Einstellungen**für  >  **Organisationseinstellungen > [Sicherheits-und Datenschutz](https://portal.office.com/adminportal/home#/settings/security)  >  [Kennwortablaufrichtlinie](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) ** , und deaktivieren Sie "Benutzerkennwörter nach einer bestimmten Anzahl von Tagen ablaufen lassen".
+Um festzulegen, dass ALLE Kennwörter nie ablaufen, wechseln Sie in der Microsoft 365 Admin Center zur **Richtlinie** >  für die Sicherheits- und Datenschutzkennwortablaufrichtlinie [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) >  für Die **Organisationseinstellungen** > , und deaktivieren Sie die Option "**Benutzerkennwörter festlegen" nach einer Anzahl von Tagen abläuft**.[](https://admin.microsoft.com/AdminPortal/Home?ref=Settings/SecurityPrivacy)
   
 Ausführlichere Informationen finden Sie unter:
 

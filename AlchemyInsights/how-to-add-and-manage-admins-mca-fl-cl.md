@@ -3,40 +3,39 @@ title: Hinzufügen und Verwalten von Administratoren
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 8f0dd4d962e435cf152671e9a5cf6761d2cc8bfb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755494"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66297505"
 ---
 # <a name="how-to-add-and-manage-admins"></a>Hinzufügen und Verwalten von Administratoren
 
-Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten Ihr Problem selbst lösen, nachdem Sie unsere Dokumentation befolgen.
+Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten ihr Problem nach dem Folgen unserer Dokumentation selbst beheben.
 
-Um Ihr Abrechnungskonto für einen Microsoft-Kundenvertrag (MCA) zu verwalten, können Sie unterschiedliche Rollen mit der gewünschten Zugriffsebene verwenden. Diese Rollen sind zusätzlich zu den integrierten Azure-Dienstrollen, die Sie bei der Steuerung Ihrer Ressourcen unterstützen.
+Um Ihr Abrechnungskonto für eine Microsoft-Kundenvereinbarung (MCA) zu verwalten, können Sie verschiedene Rollen mit der gewünschten Zugriffsebene verwenden. Diese Rollen sind zusätzlich zu den integrierten Azure-Dienstrollen, die Ihnen helfen, Ihre Ressourcen zu steuern.
 
-**So fügen Sie Abrechnungs Rollen im Azure-Portal hinzu:**
+**So fügen Sie Abrechnungsrollen in der Azure-Portal hinzu:**
 
 1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) an.
-2. Suchen Sie nach *Kosten Management + Abrechnung*.
-3. Wählen Sie Zugriffssteuerung (IAM) in einem Bereich wie Abrechnungskonto, Abrechnungsprofil oder Rechnungsbereich aus, in dem Sie Zugriff gewähren möchten.
-4. Auf der Seite Zugriffssteuerung (IAM) werden Benutzer und Gruppen aufgelistet, die jeder Rolle für diesen Bereich zugewiesen sind.
-5. Um einem Benutzer Zugriff zu geben, wählen Sie am oberen Rand der Seite **Hinzufügen** aus. Wählen Sie in der Dropdownliste *Rolle* eine Rolle aus. Geben Sie die e-Mail-Adresse des Benutzers ein, dem Sie Zugriff gewähren möchten. Wählen Sie **Speichern** aus, um die Rolle zuzuweisen.
-6. Um den Zugriff für einen Benutzer zu entfernen, wählen Sie den Benutzer mit der Rollenzuweisung aus, die Sie entfernen möchten. Wählen Sie **Entfernen** aus.
+2. Suchen Sie nach *Kostenverwaltung und Abrechnung*.
+3. Wählen Sie die Zugriffssteuerung (Access Control, IAM) in einem Bereich wie Abrechnungskonto, Abrechnungsprofil oder Rechnungsabschnitt aus, auf den Sie Zugriff gewähren möchten.
+4. Auf der Seite mit dem Zugriffssteuerelement (Access Control, IAM) werden Benutzer und Gruppen aufgelistet, die jeder Rolle für diesen Bereich zugewiesen sind.
+5. Um einem Benutzer Zugriff zu gewähren, wählen Sie oben auf der Seite " **Hinzufügen"** aus. Wählen Sie in der Dropdownliste " *Rolle* " eine Rolle aus. Geben Sie die E-Mail-Adresse des Benutzers ein, dem Sie Zugriff gewähren möchten. Wählen Sie **Speichern** aus, damit die Rolle zugewiesen wird.
+6. Um den Zugriff für einen Benutzer zu entfernen, wählen Sie den Benutzer mit der Rollenzuweisung aus, die Sie entfernen möchten. Wählen Sie **"Entfernen" aus**.
 
-**Empfohlene Dokumente**
+**Empfohlene Dokumentationen**
 
-- [Fakturierungs Rollendefinitionen](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+- [Definitionen der Abrechnungsrolle](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
 - [Rollen und Aufgaben des Abrechnungskontos](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)
 - [Erste Schritte mit Ihrem MCA-Abrechnungskonto](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-overview)
-- [Überprüfen des Zugriffs auf einen Microsoft-Kundenvertrag](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Überprüfen des Zugriffs auf eine Microsoft-Kundenvereinbarung](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)

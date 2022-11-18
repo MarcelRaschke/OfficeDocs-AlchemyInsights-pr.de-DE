@@ -1,25 +1,23 @@
 ---
-title: 1221-Import-Export-Outlook-e-Mail-Contacts-Calendar
-ms.author: markjjo
-author: markjjo
-manager: lauraw
-ms.date: 04/21/2020
-ms.audience: Admin
+title: 1221-import-export-outlook-email-contacts-calendar
+author: cmcatee-MSFT
+ms.author: cmcatee
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1221"
 - "1800027"
-ms.assetid: ''
-ms.openlocfilehash: 6aec4ba38e90ef120542e1b30855a232a59db6ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1221"
+ms.date: 04/21/2020
+ms.openlocfilehash: 1ad8146ae556e9488c9fad6fc22d6f3fa03fcdfe
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778942"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66568201"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importieren und Exportieren von Outlook-E-Mails, -Kontakten und -Kalenderelementen
 
@@ -29,6 +27,6 @@ ms.locfileid: "47778942"
 
     Hiermit wird der Import/Export-Assistent geöffnet.
 
-Einen vollständigen Satz von Import-und Export Anweisungen für Outlook finden Sie in  [diesem Artikel](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Eine vollständige Reihe von Import- und Exportanweisungen für Outlook finden Sie  [in diesem Artikel](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Wenn Sie Administrator sind und mehrere PST-Dateien in Microsoft 365-Postfächer Massenimportieren möchten, lesen Sie [diesen Artikel](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+Wenn Sie Administrator sind und mehrere PST-Dateien in Mehreren Massenimporten in Microsoft 365-Postfächer ausführen möchten, lesen Sie [diesen Artikel](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).

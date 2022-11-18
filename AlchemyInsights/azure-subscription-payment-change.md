@@ -1,23 +1,22 @@
 ---
 title: Ändern von Zahlungsinformationen in Azure
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: c46f1cd65ae5a07a4aab33c641ebfcb7ef6fd42d
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 9128221c606d4231ef5e8e49700ff53e0c62f145
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791519"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66329673"
 ---
 # <a name="change-payment-information-in-azure"></a>Ändern von Zahlungsinformationen in Azure
 
@@ -26,17 +25,17 @@ Im Azure-Portal können Sie als Kontoverwalter eine neue Kreditkarte hinzufügen
 **Hinzufügen einer neuen Kredit- oder Debitkarte zu einem Azure-Abonnement**
 
 1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) als [Konto-Administrator](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) an. Suchen Sie nach **Kostenverwaltung + Abrechnung**
-2. Wählen Sie ein Abonnement aus, dem Sie die Kredit- oder Debitkarte hinzufügen möchten. Wählen Sie **Zahlungsmethoden** aus
-3. Wählen Sie in der linken oberen Ecke „+“, um eine Karte hinzuzufügen. Auf der rechten Seite erscheint ein Kreditkartenformular. Geben Sie Kredit- oder Debitkartendetails ein. 4. Um diese Karte zu Ihrer aktiven Zahlungsmethode zu machen, aktivieren Sie das Kontrollkästchen neben „Dies zu meiner aktiven Zahlungsmethode machen“ oberhalb des Formulars. Diese Karte wird zum aktiven Zahlungsinstrument für alle Abonnements, die die gleiche Karte wie das ausgewählte Abonnement verwenden. Wählen Sie **Weiter** 5. Um **eine andere Kreditkarte zu verwenden** , aktivieren Sie das Kontrollkästchen neben der Karte, die Sie zur aktiven Zahlungsmethode machen möchten.
+2. Wählen Sie ein Abonnement aus, dem Sie die Kredit- oder Debitkarte hinzufügen möchten. Wählen Sie **Zahlungsmethoden** aus.
+3. Wählen Sie in der linken oberen Ecke „+“, um eine Karte hinzuzufügen. Auf der rechten Seite erscheint ein Kreditkartenformular. Geben Sie Kredit- oder Debitkartendetails ein. 4. Um diese Karte zu Ihrer aktiven Zahlungsmethode zu machen, aktivieren Sie das Kontrollkästchen neben „Dies zu meiner aktiven Zahlungsmethode machen“ oberhalb des Formulars. Diese Karte wird zum aktiven Zahlungsinstrument für alle Abonnements, die die gleiche Karte wie das ausgewählte Abonnement verwenden. Wählen Sie **Weiter** 5. Um **eine andere Kreditkarte zu verwenden**, aktivieren Sie das Kontrollkästchen neben der Karte, die Sie zur aktiven Zahlungsmethode machen möchten.
 6. Klicken Sie auf **Aktive festlegen**
 
 **Aktualisieren/Ändern/Entfernen einer vorhandenen Kredit- oder Debitkarte**
 
-1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) als [Konto-Administrator](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) an. Suchen Sie nach **Kostenverwaltung + Abrechnung** .
+1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) als [Konto-Administrator](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) an. Suchen Sie nach **Kostenverwaltung + Abrechnung**.
 2. Wählen Sie **Zahlungsmethoden** aus. Klicken Sie auf die Kredit- oder Debitkarte, die Sie bearbeiten möchten. Auf der rechten Seite erscheint ein Kreditkartenformular. 3. Aktualisieren Sie die Kredit- oder Debitkartendetails. Wählen Sie **Speichern** aus.
-4. Zum **Entfernen** , aktivieren Sie das Kontrollkästchen neben der Karte, die Sie entfernen möchten. 5. Klicken Sie auf **Löschen**
+4. Zum **Entfernen**, aktivieren Sie das Kontrollkästchen neben der Karte, die Sie entfernen möchten. 5. Klicken Sie auf **Löschen**
 
-_Hinweis_ : Sie können Ihre Kreditkarte nicht entfernen, wenn Sie mit anderen aktiven Microsoft-Abonnements verknüpft ist. Sie müssen die Kreditkarte von allen aktiven Abonnements, die Sie bei Microsoft haben, entfernen und es erneut versuchen.
+_Hinweis_: Sie können Ihre Kreditkarte nicht entfernen, wenn Sie mit anderen aktiven Microsoft-Abonnements verknüpft ist. Sie müssen die Kreditkarte von allen aktiven Abonnements, die Sie bei Microsoft haben, entfernen und es erneut versuchen.
 
 Weitere Informationen: [Aktualisieren, Ändern, Entfernen der Zahlungsmethoden](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
@@ -44,7 +43,7 @@ Weitere Informationen: [Aktualisieren, Ändern, Entfernen der Zahlungsmethoden](
 
 Siehe [Problembehandlung bei Zahlungsproblemen/Fehlerszenarien](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues), um zu sehen, ob Ihr Problem dadurch gelöst wird.
 
-Wenn eine Zahlung auf der Karte aussteht, seit die Karte von Ihrem Finanzinstitut verweigert wurde, wenden Sie sich bitte an Ihr **Finanzinstitut** , um das Problem zu lösen. Verwenden Sie die folgenden Hinweise:
+Wenn eine Zahlung auf der Karte aussteht, seit die Karte von Ihrem Finanzinstitut verweigert wurde, wenden Sie sich bitte an Ihr **Finanzinstitut**, um das Problem zu lösen. Verwenden Sie die folgenden Hinweise:
 
 - Möglicherweise müssen Sie sich bei der Bank erkundigen, ob die internationale Transaktion auf der Karte aktiviert ist.
 - Wenn die Karte über ein Kreditlimit zur Begleichung des Saldos verfügt

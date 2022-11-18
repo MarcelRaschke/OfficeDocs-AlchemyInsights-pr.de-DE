@@ -1,36 +1,35 @@
 ---
-title: Hilfe beim Verständnis Ihrer Rechnung
+title: Helfen Sie, Ihre Rechnung zu verstehen
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.reviewer: amberb, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "267"
+- commerce_billing
 - "1500005"
-ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: bf09bf13ae38f6fee0d8e9451504e26ea68c68e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "267"
+ms.date: 09/12/2022
+ms.openlocfilehash: cc249ef017a001a9b593e14bc61a76a2a3c12e15
+ms.sourcegitcommit: ac762f4ee4f63cb732e2090f0d152fb2368421bf
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705442"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "67646939"
 ---
-# <a name="help-understanding-your-bill"></a>Hilfe beim Verständnis Ihrer Rechnung
+# <a name="help-understanding-your-bill"></a>Helfen Sie, Ihre Rechnung zu verstehen
 
-Der in Rechnung gestellte Betrag für Ihr Abonnement entspricht dem Lizenzpreis multipliziert mit der Anzahl erworbener Lizenzen und den erforderlichen Steuern/Gebühren.
+Der für Ihr Abonnement in Rechnung gestellten Betrag spiegelt den Lizenzpreis multipliziert mit der Anzahl der erworbenen Lizenzen und allen erforderlichen Steuern/Gebühren wider.
   
-Wenn der in Rechnung gestellte Betrag anders ist als erwartet, gibt es einige Gründe, die auftreten können:
+Wenn der in Rechnung gestellten Betrag anders als erwartet ist, gibt es einige Gründe dafür:
   
-- Ihrem Abonnement wurden Lizenzen hinzugefügt bzw. daraus entfernt. Wenn zwischendurch Lizenzen geändert werden, wird dies auf der darauf folgenden Rechnung ausgewiesen. Möglicherweise wird dort eine Gutschrift und eine anteilige Gebühr für den vorhergehenden Dienstzeitraum angezeigt, um diese Änderung abzurechnen.
-
-- Das Abonnement wurde gekündigt. Sie erhalten nach der Kündigung eine Rechnung mit einem eventuell offenen Saldo minus eventuellen Gutschriften.
-
+- Sie haben nach einer Zahlung eine Rechnung erhalten. Die Veröffentlichung einer Rechnung kann ein oder zwei Tage dauern, und möglicherweise wird auf der Seite "Zahlungsmethoden" ein Saldo angezeigt, bevor die Rechnung verfügbar ist. Wenn Sie vor der Veröffentlichung der Rechnung eine Zahlung vornehmen, spiegelt die Rechnung die ursprünglich fälligen Gebühren wider.
+- Ihrem Abonnement wurden Lizenzen hinzugefügt bzw. daraus entfernt. Lizenzen, die während der Laufzeit geändert werden, werden in der nächsten Rechnung ausgewiesen. Sie könnten eine Gutschrift und eine erneute Rechnung für den vorherigen Servicezeitraum sehen, um diese Änderung zu berücksichtigen.
+- Das Abonnement wurde gekündigt. Nach der Kündigung erhalten Sie eine Rechnung mit einem ausstehenden Saldo abzüglich Guthaben.
 - Ihr Abonnement wurde für eine neue Laufzeit verlängert und der Lizenzpreis geändert.
 
-Weitere Informationen zu Ihrer Rechnung finden Sie unter: [understand your Invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+Weitere Informationen zu Ihrer Rechnung finden Sie unter: [Grundlegendes zu Ihrer Rechnung](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

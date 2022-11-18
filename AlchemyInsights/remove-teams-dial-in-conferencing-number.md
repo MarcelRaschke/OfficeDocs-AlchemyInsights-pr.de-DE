@@ -1,23 +1,22 @@
 ---
 title: Einwahlnummer für Teams-Konferenz entfernen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: 129913c77a9a603289b6e23e57b96aa4ff9628e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8697a201ee59bd1bf32300c7cfebb0088ea596e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795747"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66399531"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Einwahlnummer für Teams-Konferenz entfernen
 
@@ -29,7 +28,7 @@ Die Standardtelefonnummer der Konferenzbrücke definiert die Anrufer-ID, die ver
 
 2. Navigieren Sie zum **Microsoft 365 Admin Center**.
 
-3. Navigieren Sie zum **Admin Center | Teams & Skype**.
+3. Navigieren Sie zu [**Admin Center | Teams & Skype**](https://admin.teams.microsoft.com/dashboard).
 
 4. Navigieren Sie zu **Besprechungen**.
 

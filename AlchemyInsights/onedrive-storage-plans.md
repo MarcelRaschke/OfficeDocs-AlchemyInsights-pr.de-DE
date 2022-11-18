@@ -1,24 +1,23 @@
 ---
 title: OneDrive-Speicherpläne
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002297"
 - "4450"
-ms.openlocfilehash: 90b47fe82de9d7760d85a72e7051b1537519e390
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 310c3551655b8c9b8499fa17f93085375430733b
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754230"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66569713"
 ---
 # <a name="onedrive-storage-plans"></a>OneDrive-Speicherpläne
 
-Erfahren Sie mehr über OneDrive-Speicherpläne. [Weitere Informationen...](https://support.office.com/article/OneDrive-storage-plan-and-billing-questions-989fce19-ade6-4e2f-81fb-941eabefee28)
+Erfahren Sie mehr über OneDrive-Speicherpläne. [Weitere Informationen](https://support.microsoft.com/office/manage-your-onedrive-storage-and-limits-989fce19-ade6-4e2f-81fb-941eabefee28).

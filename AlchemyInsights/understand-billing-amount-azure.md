@@ -1,23 +1,22 @@
 ---
 title: Erklärungen zu Ihrer Rechnung
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: ea823a9fd1a30e0c00a803804f5ddfe265e84278
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791531"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66333165"
 ---
 # <a name="understand-billing-amount"></a>Informationen zum Abrechnungsbetrag
 
@@ -25,7 +24,7 @@ Das kostenlose Azure-Kontoangebot umfasst Azure-Guthaben im Wert von 200 USD (zu
 
 Dieses Angebot ist auf eine Registrierung pro anspruchsberechtigtem Kunden beschränkt und kann nicht mit anderen Angeboten kombiniert werden, es sei denn, dies ist anderweitig durch Microsoft gestattet.
 
-Innerhalb von 30 Tagen nach der Registrierung oder nach Erschöpfung des Guthabens des Kunden (je nachdem, welcher Fall zuerst eintritt) muss der Kunde ein Upgrade auf ein Konto mit nutzungsbasierter Bezahlung durchführen, indem er das Ausgabenlimit aufhebt. Dadurch wird die fortgesetzte Nutzung des kostenlosen Azure-Kontos für die restlichen 11 Monate ermöglicht. Nach dem Upgrade durch den Kunden werden die Nutzung über das anfängliche Guthaben und die ausgewählten kostenlosen Dienste hinaus zu nutzungsbasierten Tarifen abgerechnet. Wenn der Kunde kein Upgrade durchführt, wird das ﻿kostenlose Konto-Abonnement deaktiviert.
+Innerhalb von 30 Tagen nach der Anmeldung oder nach Erschöpfung des Kundenguthabens (je nachdem, was zuerst eintritt) muss der Kunde auf ein Pay-As-You-Go-Konto upgraden, indem er das Ausgabenlimit entfernt. Dadurch wird die fortgesetzte Nutzung des kostenlosen Azure-Kontos für die restlichen 11 Monate ermöglicht. Nach dem Upgrade durch den Kunden werden die Nutzung über das anfängliche Guthaben und die ausgewählten kostenlosen Dienste hinaus zu nutzungsbasierten Tarifen abgerechnet. Wenn der Kunde kein Upgrade durchführt, wird das ﻿kostenlose Konto-Abonnement deaktiviert.
 
 Weitere Informationen: [Produkte, die im Rahmen des kostenlosen Azure-Kontos monatlich kostenlos zur Verfügung stehen](https://azure.microsoft.com/free/free-account-faq/)
 
@@ -54,7 +53,7 @@ Es besteht eine Beschränkung von einem kostenlosen Azure-Konto-Abonnement pro K
 
 **Wie funktioniert das kostenlose Azure-Konto für Enterprise Agreement (EA)-Kunden?**  
 
-Dieses Angebot gilt nicht für EA-Kunden. Wenn ein Kunde jedoch über ein kostenloses Konto verfügt und später zu einer EA-Stufe wechselt, sind die Vorteile des kostenlosen Kontos 12 Monate ab dem Zeitpunkt der Registrierung für das kostenlose Konto nutzbar.
+Dieses Angebot steht EA-Kunden nicht zur Verfügung. Wenn ein Kunde jedoch über ein kostenloses Konto verfügt und später zu einer EA-Stufe wechselt, sind die Vorteile des kostenlosen Kontos 12 Monate ab dem Zeitpunkt der Registrierung für das kostenlose Konto nutzbar.
 
 **Wird für die Nutzung der im kostenlosen Angebot inbegriffenen Dienste das anfängliche Guthaben von 200 USD verwendet?**  
 
@@ -70,7 +69,9 @@ Nein. Kunden erhalten eine feststehende Anzahl kostenloser Dienste und ein Gutha
 
 **Wie kann ich überprüfen, ob ﻿kostenlose Dienste aktiv sind oder wann sie ablaufen?**
 
-Scrollen Sie unter "Ibiza-Portal > Abonnement > Übersicht" nach unten zu "12 Monate lang kostenlose Dienste", und klicken Sie auf das "Infosymbol". Dadurch wird das Datum angezeigt, an dem die kostenlosen Dienste ablaufen. **Hinweis** : Zu den im kostenlosen Azure-Konto inbegriffenen Diensten gehören keine V1-Dienste. Die aktuellste Liste der kostenlosen Dienste finden Sie unter [Welche Produkte für 12 Monate kostenlos sind](http://www.microsoftazuresponsorships.com/).
+Scrollen Sie unter "Ibiza-Portal > Abonnement > Übersicht" nach unten zu "12 Monate lang kostenlose Dienste", und klicken Sie auf das "Infosymbol". Dadurch wird das Datum angezeigt, an dem kostenlose Dienste ablaufen.
+
+**Hinweis**: Keine V1-Dienste sind Teil von Azure Free Inclusive Services. Die aktuellste Liste der kostenlosen Dienste finden Sie unter [Welche Produkte für 12 Monate kostenlos sind](http://www.microsoftazuresponsorships.com/).
 
 Weitere häufig gestellte Fragen (FAQ): [Häufig gestellte Fragen zu kostenlosen Konten](https://azure.microsoft.com/free/free-account-faq/)
 

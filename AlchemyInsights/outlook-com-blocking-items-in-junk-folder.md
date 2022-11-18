@@ -1,26 +1,25 @@
 ---
-title: Blockieren von Elementen im Ordner "Junk-e-Mail"
+title: Blockieren von Elementen im Junk-E-Mail-Ordner
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/23/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "2682"
-ms.openlocfilehash: 7f372a623ead564a341e0b4abc0c26ffa6148f15
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/23/2020
+ms.openlocfilehash: f14a844cb3d7a8377e88735b7a4007b3890a44e6
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753402"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66582374"
 ---
-# <a name="blocking-items-in-your-junk-email-folder"></a>Blockieren von Elementen in Ihrem Junk-e-Mail-Ordner
+# <a name="blocking-items-in-your-junk-email-folder"></a>Blockieren von Elementen in Ihrem Junk-E-Mail-Ordner
 
-Durch das Blockieren eines Elements, das sich bereits im Junk-e-Mail-Ordner befindet, wird es gelöscht Elemente in Ihrem [Junk-e-Mail-Ordner](https://outlook.live.com/mail/junkemail) werden nach 30 Tagen automatisch gelöscht. Wählen Sie ein Element in Ihrem Junk-e-Mail-Ordner aus, um zu sehen, wann es gelöscht wird.
+Wenn Sie ein Element blockieren, das sich bereits in Ihrem Junk-E-Mail-Ordner befindet, wird es gelöscht. Elemente in Ihrem [Junk-E-Mail-Ordner](https://outlook.live.com/mail/junkemail) werden nach 30 Tagen automatisch gelöscht. Wählen Sie ein Element in Ihrem Junk-E-Mail-Ordner aus, um zu sehen, wann es gelöscht wird.
 
-Erfahren Sie mehr darüber, wie Sie [Absender blockieren oder e-Mails als Junk-e-Mails markieren](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+Erfahren Sie mehr darüber, wie [Sie Absender blockieren oder E-Mails als Junk-E-Mail markieren](https://support.microsoft.com/office/block-senders-or-mark-email-as-junk-in-outlook-com-a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

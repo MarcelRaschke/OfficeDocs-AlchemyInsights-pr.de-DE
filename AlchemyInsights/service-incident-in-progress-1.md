@@ -1,30 +1,30 @@
 ---
-title: Dienst Vorfall wird ausgeführt
-ms.author: pebaum
-author: CrystalThomasMS
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Dienstvorfall wird ausgeführt
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
+ms.localizationpriority: medium
 ms.custom:
-- "121"
 - "1600017"
-ms.openlocfilehash: 9bd973c26d7decb40a97884ab241bbde7165f31a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "121"
+ms.date: 04/21/2020
+ms.openlocfilehash: 03cd328eb2e63e7508403ac69529a5d7b2d4933a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767859"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66316731"
 ---
-# <a name="service-incident-in-progress"></a>Dienst Vorfall wird ausgeführt
+# <a name="service-incident-in-progress"></a>Dienstvorfall wird ausgeführt
 
-Möglicherweise sind Sie von einem Dienst Vorfall oder einer Empfehlung betroffen, die derzeit untersucht wird. Sie können den neuesten Status überprüfen, indem Sie zur Seite [Dienst Integrität](https://admin.microsoft.com/adminportal/home#/servicehealth) wechseln.
+Möglicherweise sind Sie von einem Dienstvorfall oder einer Beratung betroffen, die derzeit untersucht wird. Sie können den aktuellen Status überprüfen, indem Sie zur Seite " [Dienststatus](https://admin.microsoft.com/adminportal/home#/servicehealth) " wechseln.
   
-Nachfolgend finden Sie eine Zusammenfassung dieses Vorfalls:
+Der Einfachheit halber finden Sie unten eine Zusammenfassung dieses Vorfalls:
   
-> **Vorfallnummer:**[{Vorfall](https://admin.microsoft.com/adminportal/home#/servicehealth) -ID}
+> **Vorfallnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Beschreibung der Auswirkung: {ImpactDescription}
+> Beschreibung der Auswirkungen: {ImpactDescription}

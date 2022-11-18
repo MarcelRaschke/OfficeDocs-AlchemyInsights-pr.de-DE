@@ -3,36 +3,46 @@ title: Lesen der Überwachungsprotokolle für gelöschte Ereignisse
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 02/26/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 9739fb1eb8e4f5adf81cd699c851a51176f0429e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.date: 02/26/2021
+ms.openlocfilehash: af142e03f8495aba6c6b49eabcb2fe22a5e58065
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464603"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66368787"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Lesen der Überwachungsprotokolle für gelöschte Ereignisse
 
-Hier erfahren Sie, wie Sie dies tun:
+Gehen Sie dazu wie folgt vor:
 
-1. Wechseln Sie zum [Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Wählen **Sie Suche**  >  [**Überwachungsprotokollsuche aus.**](https://go.microsoft.com/fwlink/?linkid=2103759)
-    > [!NOTE]
-    > Wenn Sie eine Benachrichtigung sehen, dass Sie das Feature aktivieren müssen, fahren Sie mit dem Feature voran, und aktivieren Sie es jetzt. Wenn das Feature nicht aktiviert ist, können Suchergebnisse keine Daten aus früheren Datumsangaben ziehen.
-1. Wählen **Sie Aktivitäten** aus, und suchen Sie dann nach **Exchange-Postfachaktivitäten.** Wählen Sie **die Ordneroptionen Gelöschte Nachrichten** aus dem Ordner Gelöschte Elemente und **In Gelöschte Elemente** verschobene Nachrichten aus. Wenn Sie fertig sind, klicken Sie außerhalb des Bereichs, um den Bereich **Aktivitäten zu** minimieren.
-1. Geben Sie den Datumsbereich an, und wählen Sie dann im Feld **Benutzer** den Benutzernamen für den Benutzer aus, den Sie untersuchen möchten. Sie können mehrere Benutzer gleichzeitig auswählen.
-1. Wählen Sie **Suchen aus.** Die Aktivitäten werden unter **Ergebnisse angezeigt.**
-1. Wählen Sie zum Anzeigen der Details eine Aktivität aus, und wählen Sie dann **Weitere Informationen aus.** Zusätzliche Informationen zum gelöschten Element, z. B. die Betreffzeile und der Speicherort des Elements, wenn es gelöscht wurde, werden im **Feld AffectedItems** angezeigt.
-    > [!NOTE]
-    > Gelöschte Elemente können nicht mithilfe des Überwachungsprotokollfeatures wiederhergestellt werden. Informationen zum Wiederherstellen gelöschter Elemente finden Sie unter [Wiederherstellen gelöschter Elemente oder E-Mails in Outlook Web App](https://go.microsoft.com/fwlink/?linkid=2103759).
+1. Führen Sie eine der folgenden Aktionen aus:
+   - Im Microsoft Purview-Complianceportal unter <https://compliance.microsoft.com> wechseln Sie zu **Lösungen** \> **Überwachung**. Oder verwenden Sie <https://compliance.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
+   - Wechseln Sie im Microsoft 365 Defender-Portal unter <https://security.microsoft.com> zu **Überwachung**. Oder verwenden Sie <https://security.microsoft.com/auditlogsearch>, um direkt zur Seite **Überwachung** zu wechseln.
 
-Weitere Informationen finden Sie unter [Durchsuchen des Office 365-Überwachungsprotokolls zur Problembehandlung gängiger Szenarien.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    **Hinweis**: Wenn ein Hinweis angezeigt wird, dass Sie das Feature aktivieren müssen, fahren Sie fort, und aktivieren Sie es jetzt. Wenn das Feature nicht aktiviert ist, können Suchergebnisse keine Daten aus vorherigen Datumsangaben abrufen.
+
+2. Konfigurieren Sie auf der Registerkarte **"Suchen** " auf der Seite " **Überwachung** " die folgenden Einstellungen:
+   - **Datums- und Uhrzeitbereich**: Wählen Sie den Datums-/Uhrzeitbereich in den Feldern **Start** und **Ende** aus.
+   - **Aktivitäten**: Geben Sie **Exchange-Postfachaktivitäten ein** , und wählen Sie dann die folgenden Werte aus:
+     - **Nachrichten aus Ordner „Gelöschte Elemente“ gelöscht**
+     - **Nachrichten in Ordner "Gelöschte Elemente" verschoben**
+
+       Wenn Sie fertig sind, klicken Sie außerhalb des Bereichs, **um den** Aktivitätenbereich zu minimieren.
+
+   - **Benutzer**: Übernehmen Sie den leeren Standardwert, um Ergebnisse für alle Benutzer zurückzugeben, bzw. geben Sie einen oder mehrere Benutzer ein.
+
+3. Wenn Sie den Vorgang abgeschlossen haben, klicken Sie auf **Suchen**. Die Aktivitäten werden auf der neuen Seite **Suche überwachen** angezeigt.
+
+4. Wählen Sie in den Ergebnissen eine Aktivität aus, um das Detail-Flyout zu öffnen. Zusätzliche Informationen zum gelöschten Element, z. B. die Betreffzeile und die Position des Elements, als es gelöscht wurde, werden im Feld **"Betroffene Elemente** " angezeigt.
+
+   **Hinweis**: Sie können gelöschte Elemente nicht mithilfe des Überwachungsprotokollfeatures wiederherstellen. Informationen zum Wiederherstellen gelöschter Elemente finden [Sie unter Wiederherstellen gelöschter E-Mail-Nachrichten in Outlook im Web](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11).
+
+Weitere Informationen finden [Sie unter Durchsuchen des Überwachungsprotokolls, um allgemeine Supportprobleme zu untersuchen](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios).

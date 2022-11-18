@@ -3,24 +3,24 @@ title: 9000234 Outlook.com interner Serverfehler
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1818"
 - "9000234"
-ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1818"
+ms.date: 04/21/2020
+ms.openlocfilehash: 58a79292f6cde7d18f5ccd9b0edeb15894c171bb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671587"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66431050"
 ---
 # <a name="internal-server-errors-in-outlookcom"></a>Interne Serverfehler in Outlook.com
 
-Oh nein! Wenn die Meldung "Fehler 500" oder "interner Server Fehler" angezeigt wird, sind es uns und nicht Sie – sorry.
+Oh nein! Wenn die Meldung "Fehler 500" oder "Interner Serverfehler" angezeigt wird, sind wir es und nicht Sie – das tut uns leid.
 
-Sehen Sie sich die [Seite Office Service Status](https://portal.office.com/servicestatus) an, um sicherzustellen, dass nichts weiter passiert, aber die beste Lösung besteht darin, ein paar Minuten Pause zu machen und dann den Browser durch Drücken von **STRG** und **F5**zu aktualisieren.
+Sehen Sie sich die [Seite "Office-Dienststatus](https://portal.office.com/servicestatus) " an, um sicherzustellen, dass nichts anderes vor sich geht. Die beste Lösung besteht jedoch darin, für einige Minuten eine Pause einzulegen. Aktualisieren Sie dann Ihren Browser, indem Sie **STRG** und **F5** drücken.

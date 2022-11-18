@@ -1,23 +1,23 @@
 ---
 title: Aktualisieren von DNS-Einträgen
-ms.author: pebaum
-author: pebaum
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
+- "100001"
 - "39"
 - "41"
-- "100001"
-ms.openlocfilehash: de163d4385249e49db76de8997a7f8f3fb3cd198
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b8e105564ae3bc4ceaa7c18ad24a3c7a43d1eea
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699338"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66514056"
 ---
 # <a name="update-dns-records"></a>Aktualisieren von DNS-Einträgen
 

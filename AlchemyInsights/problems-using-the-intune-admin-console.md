@@ -1,24 +1,23 @@
 ---
 title: Probleme beim Verwenden der Intune-Verwaltungskonsole
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/29/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1790"
 - "9000214"
-ms.openlocfilehash: 10b37b2ffda50dc77396039a9e0e443ad81aef72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1790"
+ms.date: 07/29/2020
+ms.openlocfilehash: 0019d8258ec63302f824dbc98e5c2f845291d1ef
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728286"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66386841"
 ---
 # <a name="problems-using-the-intune-admin-console"></a>Probleme beim Verwenden der Intune-Verwaltungskonsole
 
@@ -35,7 +34,7 @@ Weisen Sie den Benutzer an, zu **Intune** > **Intune-Rollen** > **Meine Berechti
 
 **Ich habe eine Bereichsgruppe zu einer Rolle hinzugefügt, aber die Benutzer in dieser Rolle sehen weiterhin andere Benutzer oder Geräte.**
 
-Bereichsgruppen filtern keine Benutzer oder Geräte heraus. Bereichsgruppen:
+Bereichsgruppen filtern keine Benutzer oder Geräte heraus. Bereichsgruppen tun Folgendes:
 
 - Beschränken, web Benutzer Richtlinien oder Anwendungen zuordnen können.
 - Erlauben nur bestimmten Benutzern das Ausführen von Remoteaufgaben auf Geräten.
@@ -44,7 +43,7 @@ Weitere Informationen über Bereichsgruppen finden Sie unter [Rollenbasierte Zug
 
 **Ich habe einen Benutzer zu einer Intune-Rolle hinzugefügt, aber er hat immer noch vollen Zugriff auf die Intune-Verwaltungskonsole.**
 
-Navigieren Sie im Azure-Portal zu Intune > **Benutzer**dem Benutzer keine der folgenden Rollen im Azure-Portal zugewiesen ist:
+Navigieren Sie im Azure-Portal zu Intune > **Benutzer** dem Benutzer keine der folgenden Rollen im Azure-Portal zugewiesen ist:
 
 - Globaler Administrator
 - Intune-Dienstadministrator

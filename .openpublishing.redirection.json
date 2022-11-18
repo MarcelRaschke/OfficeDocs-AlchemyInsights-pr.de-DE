@@ -1,0 +1,9 @@
+{
+  "redirections": [
+        {
+            "source_path": "alchemyinsights/change-email-address-m365-redirect.md",
+            "redirect_url": "change-email-address-m365",
+            "redirect_document_id": false
+        }
+  ]
+}

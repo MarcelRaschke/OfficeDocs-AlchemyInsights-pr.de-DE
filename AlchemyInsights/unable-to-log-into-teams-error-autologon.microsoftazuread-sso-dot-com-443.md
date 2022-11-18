@@ -1,23 +1,22 @@
 ---
 title: Die Anmeldung bei Teams ist aufgrund des Fehlers „autologon.microsoftazuread-sso.com:443“ nicht möglich.
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9001686"
 - "3750"
-ms.openlocfilehash: 649124db135805d8101b43dbead63860d36853ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f25f0eba38097d77ab53c1dc9ed3ee85727edaf3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799959"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66344829"
 ---
 # <a name="unable-to-log-into-teams-due-to-error-autologonmicrosoftazuread-sso-dot-com443"></a>Die Anmeldung bei Teams ist aufgrund des Fehlers „autologon.microsoftazuread-sso dot com:443“ nicht möglich.
 
@@ -27,7 +26,7 @@ Sehen Sie sich die Checkliste unter [Problembehandlung beim nahtlosen einmaligen
 
 Befolgen Sie diese Schritte, um eine URL zur Liste der Intranetsites hinzuzufügen:
 
-1. Öffnen Sie Internet Explorer, indem Sie auf die Schaltfläche**Start** klicken. Geben Sie im Suchfeld „Internet Explorer“ ein, und klicken Sie dann in der Liste der Ergebnisse auf **Internet Explorer**.
+1. Öffnen Sie Internet Explorer, indem Sie auf die Schaltfläche **Start** klicken. Geben Sie im Suchfeld „Internet Explorer“ ein, und klicken Sie dann in der Liste der Ergebnisse auf **Internet Explorer**.
 2. Klicken Sie auf **Extras**, und klicken Sie anschließend auf **Internetoptionen**.
 3. Klicken Sie auf die Registerkarte **Sicherheit**.
 4. Klicken Sie nun auf **Lokales Intranet** und dann auf die Schaltfläche **Sites** und auf **Erweitert**.

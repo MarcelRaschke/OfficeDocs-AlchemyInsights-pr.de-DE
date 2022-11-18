@@ -3,21 +3,23 @@ title: Aktivieren Ihres Microsoft 365-Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
+- commerce_subscriptions
 - "1500028"
 - "4744"
-ms.openlocfilehash: 90cfb7886b610b6dfd8233791d665321a317c3a7
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.date: 08/10/2020
+ms.openlocfilehash: 309e49d47e7112d9923eb3f2d1c29419cc06c68d
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307102"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66511392"
 ---
 # <a name="activate-your-subscription"></a>Aktivieren Ihres Abonnements
 
@@ -31,14 +33,14 @@ ms.locfileid: "48307102"
 
 Wenn Ihr Abonnement abgelaufen ist oder von Microsoft deaktiviert wurde, oder wenn Sie das Abonnement in der Mitte eines Bereitstellungszeitraums gekündigt haben, können Sie es im Microsoft 365 Admin Center reaktivieren.
 
-1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054).
-2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement aus, das Sie reaktivieren möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) und dann **Dieses Abonnement reaktivieren** aus.
+1. Navigieren Sie im Admin Center zur Seite **Abrechnung** > [Ihre Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions).
+2. Suchen Sie auf der Registerkarte **Produkte** das Abonnement, das Sie reaktivieren möchten. Wählen Sie die drei Punkte (Weitere Aktionen) und dann **Dieses Abonnement reaktivieren** aus.
 3. Wählen Sie im Bereich **Dieses Abonnement reaktivieren** eine Zahlungsmethode aus der Dropdownliste aus, oder wählen Sie **Zahlungsmethode hinzufügen** aus.
-4. Klicken Sie auf **Speichern**.
+4. Wählen Sie **Speichern** aus.
 
 Weitere Informationen finden Sie unter [Ihr Abonnement reaktivieren](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Aktivieren eines neuen Abonnements mit einem Product Key**
 
-- Informationen dazu, wie Sie ein neues Microsoft 365-Abonnement mit Ihrem Product Key aktivieren, finden Sie unter [Eingabeort für den Office-Product Key](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
-- Geben Sie Ihren Microsoft 365-Product Key ein, und folgen Sie den Eingabeaufforderungen, um Ihr Abonnement zu aktivieren. Wenn bei der Aktivierung Probleme auftreten, sehen Sie sich die Liste [häufig auftretender Fehler mit Product Keys und die zugehörigen Lösungen](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) an.
+- Informationen dazu, wie Sie ein neues Microsoft 365-Abonnement mit Ihrem Product Key aktivieren, finden Sie unter [Eingabeort für den Office-Product Key](https://support.microsoft.com/office/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Geben Sie Ihren Microsoft 365-Product Key ein, und folgen Sie den Eingabeaufforderungen, um Ihr Abonnement zu aktivieren. Wenn bei der Aktivierung Probleme auftreten, schauen Sie die Liste der [häufig auftretenden Fehler mit Product Keys und die zugehörigen Lösungen](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) an.

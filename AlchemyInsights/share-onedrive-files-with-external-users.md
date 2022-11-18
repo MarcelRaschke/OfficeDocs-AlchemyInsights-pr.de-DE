@@ -1,44 +1,41 @@
 ---
 title: Freigeben von OneDrive-Dateien für externe Benutzer
-ms.author: mikeplum
-author: MikePlumleyMSFT
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: dc304deeba897fed290cba8ecb5a7b6e0468e720
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739032"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66426550"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Freigeben von Dateien in OneDrive für Personen außerhalb Ihrer Organisation
 
 1. Verwenden Sie das App-Startfeld, um in Ihrem Webbrowser zu OneDrive zu wechseln. 
     
-2. Wählen Sie die Datei oder den Ordner aus, die Sie freigeben möchten, und wählen Sie dann **Freigeben**aus. 
+2. Wählen Sie die Dateien oder Ordner aus, die Sie freigeben möchten, und wählen Sie dann **Freigeben** aus. 
     
-3. Wenn der Verknüpfungstyp auf "Personen in" festgelegt ist \<your organization\> , klicken Sie auf den Pfeil nach unten, und wählen Sie eine der folgenden Optionen aus: 
+3. Wenn der Linktyp auf "Personen in \<your organization\>" festgelegt ist, klicken Sie auf den Pfeil nach unten, und wählen Sie eine der folgenden Optionen aus: 
     
-  - **Jeder** Benutzer erhält Zugriff auf alle Personen, die diesen Link erhalten, unabhängig davon, ob Sie ihn direkt von Ihnen erhalten oder von einer anderen Person weitergeleitet werden. Dies kann auch Personen von außerhalb Ihrer Organisation einschließen. 
+  - **Jeder** gibt jedem Zugriff, der diesen Link erhält, unabhängig davon, ob er ihn direkt von Ihnen erhält oder von einer anderen Person weitergeleitet wird. Dies kann auch Personen von außerhalb Ihrer Organisation einschließen. 
     
-  - **Bestimmte Personen** gewähren nur Zugriff auf die von Ihnen angegebenen Personen, obwohl andere Personen möglicherweise bereits Zugriff haben. Wenn Personen die Freigabeeinladung weiterleiten, können nur Personen, die bereits Zugriff auf das Element haben, den Link verwenden. 
+  - **Bestimmte Personen** gewähren nur den von Ihnen angegebenen Personen Zugriff, obwohl andere Personen möglicherweise bereits Zugriff haben. Wenn Personen die Freigabeeinladung weiterleiten, können nur Personen, die bereits Zugriff auf das Element haben, den Link verwenden. 
     
-    > [!NOTE]
-    > Wenn eine dieser Optionen nicht verfügbar ist oder wenn standardmäßig ein anderer Linktyp angezeigt werden soll, können Sie Ihre organisationsweiten Einstellungen ändern, indem Sie zum OneDrive Admin Center wechseln und im linken Bereich auf **Freigabe** klicken. [Weitere Informationen](https://go.microsoft.com/fwlink/?linkid=871961)
+    **Hinweis**: Wenn eine dieser Optionen nicht verfügbar ist oder ein anderer Linktyp standardmäßig angezeigt werden soll, können Sie die organisationsweiten Einstellungen ändern, indem Sie zum OneDrive Admin Center wechseln und im linken Bereich auf **"Freigeben** " klicken. [Weitere Informationen](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Standardmäßig ist die Option **Bearbeitung zulassen** aktiviert. Wenn Sie möchten, dass Benutzer Ihre Dateien nur anzeigen, deaktivieren Sie das Kontrollkästchen. 
+4. Standardmäßig ist **"Bearbeiten zulassen"** aktiviert. Wenn Personen nur Ihre Dateien anzeigen sollen, deaktivieren Sie das Kontrollkästchen. 
     
-5. Geben Sie bei Bedarf die Namen der Personen ein, für die Sie freigeben möchten, und eine Nachricht.
+5. Geben Sie bei Bedarf die Namen der Personen, für die Sie die Freigabe wünschen, und eine Nachricht ein.
     
-6. Wenn Sie zum Senden des Links zur Verfügung stehen, klicken Sie auf **senden**. 
+6. Wenn Sie bereit sind, den Link zu senden, klicken Sie auf **"Senden**". 
     
 [Weitere Informationen](https://go.microsoft.com/fwlink/?linkid=871861)
   

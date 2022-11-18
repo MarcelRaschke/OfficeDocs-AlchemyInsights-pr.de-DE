@@ -1,39 +1,38 @@
 ---
-title: So erwerben Sie Office 365 Bildungspläne
-ms.author: cmcatee
+title: Office 365 Education - genehmigt
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+ms.author: cmcatee
+manager: scotv
+ms.reviewer: nalinkla, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "330"
-- "370"
+- commerce_purchase
 - "1500009"
-ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 7199f8321d68ad9641dda265adba804216dede92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "328"
+ms.date: 10/03/2022
+ms.openlocfilehash: 5a790bdcc796198de2688746bd73609c9ea9563a
+ms.sourcegitcommit: fd40ab0f1a1d678e25c5165e8f4612919d72e9b5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703335"
+ms.lasthandoff: 10/03/2022
+ms.locfileid: "68325786"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>So erwerben Sie Office 365 Bildungspläne
+# <a name="office-365-education---approved"></a>Office 365 Education - genehmigt
 
-Ihr Einsatz von Office 365 Education wurde genehmigt.  So kaufen Sie es:
+Ihr Einsatz von Office 365 Education wurde genehmigt. So tätigen Sie einen Kauf:
 
-1. Navigieren Sie zu **[Abrechnung > Dienste kaufen](https://portal.office.com/AdminPortal/Home#/catalog)**.
+1. Wechseln Sie zu **[Abrechnung > Dienste kaufen](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
 2. Wählen Sie aus der Liste unter **Education-Pläne** aus.
 
-3. Zeigen Sie auf das Abonnement, das Sie kaufen möchten, und klicken Sie auf **Jetzt kaufen**.
+3. Zeigen Sie auf das Abonnement, das Sie kaufen möchten, und wählen Sie **"Jetzt kaufen"** aus.
 
 **Fernstudium (Lehren und Lernen)**
 
-- Schauen Sie sich bitte [Fernstudium (Lehren und Lernen) in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) an, um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Schülern zu erhalten.
+- Informationen zu den aktuellsten Anleitungen zum Einrichten der Unterrichtsplanung Ihrer Schule, zum virtuellen Treffen und zum Teilen von Inhalten mit Schülern finden Sie [unter Fernunterricht und -lernen in Office 365 Education](https://support.microsoft.com/topic/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4).
 
-- Zusätzliche IT-Anleitungen finden Sie unter[Erste Schritte mit Microsoft Teams für Fernunterricht](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)und[Übergang zum Fernunterricht](https://www.microsoft.com/education/remote-learning).
+- Weitere IT-Anleitungen finden [Sie unter "Erste Schritte mit Microsoft Teams für Remote Learning](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) und [Den Übergang zum Remote learning](https://www.microsoft.com/education/remote-learning)".

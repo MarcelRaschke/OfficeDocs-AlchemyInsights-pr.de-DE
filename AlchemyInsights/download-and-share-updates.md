@@ -1,24 +1,23 @@
 ---
 title: Herunterladen und Freigeben von Updates
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/23/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1127"
 - "6700007"
-ms.openlocfilehash: a147983e4ac5ee5c1bc0a6b5932e00557e8d6c10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1127"
+ms.date: 07/23/2020
+ms.openlocfilehash: a88722963c6430b485f39020d4fd91bc6520fe4f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712255"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66299045"
 ---
 # <a name="download-and-share-updates"></a>Herunterladen und Freigeben von Updates
 

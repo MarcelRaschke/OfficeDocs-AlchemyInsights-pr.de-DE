@@ -1,35 +1,34 @@
 ---
-title: Erstellen Öffentlicher Ordner
-ms.author: dmaguire
-author: msdmaguire
-manager: dansimp
-ms.audience: ITPro
+title: Erstellen öffentlicher Ordner
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "632"
 - "3500007"
-ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 7c6cd03163dba1b0b64e2f6dbe3abac747065645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "632"
+ms.openlocfilehash: 85bb10d3cb7bccadacb280f72f4d784ec296e862
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746686"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66537794"
 ---
-# <a name="creating-public-folders"></a>Erstellen Öffentlicher Ordner
+# <a name="creating-public-folders"></a>Erstellen öffentlicher Ordner
 
-Bevor Benutzer Öffentliche Ordner verwenden können, müssen Sie mindestens ein Postfach für Öffentliche Ordner erstellen. So erstellen Sie Folgendes:
+Bevor Ihre Benutzer öffentliche Ordner verwenden können, müssen Sie mindestens ein Postfach für öffentliche Ordner erstellen. Erschaffen:
   
-1. Wechseln Sie im Microsoft 365 Admin Center zu **Admin Centers** \> **Exchange**.
+1. Wechseln Sie in der Microsoft 365 Admin Center zu **Admin Center** \> [**Exchange**](https://admin.exchange.microsoft.com/#/homepage).
 
-2. Navigieren Sie **zu öffentlichen** \> **Ordner-Postfächern**für Öffentliche Ordner, und klicken Sie dann auf **Hinzufügen**.
+2. Navigieren Sie zu **Postfächern für öffentliche** **Ordner**\>, und klicken Sie dann auf **"Hinzufügen"**.
 
 3. Geben Sie in **Postfach für öffentliche Ordner** einen Namen für das Postfach für den öffentlichen Ordner an.
 
 4. Klicken Sie auf **Speichern**.
 
-Nachdem ein Postfach erstellt wurde, können Sie mit dem Erstellen einzelner Ordner beginnen oder Ihren Benutzern mitteilen, dass Sie mit dem [Erstellen und Verwenden öffentlicher Ordner in Outlook beginnen](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)möchten.
+Nachdem ein Postfach erstellt wurde, können Sie mit dem Erstellen einzelner Ordner beginnen oder Ihre Benutzer anweisen, [mit dem Erstellen und Verwenden öffentlicher Ordner in Outlook zu beginnen](https://support.microsoft.com/office/create-and-share-a-public-folder-in-outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
   

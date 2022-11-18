@@ -3,22 +3,21 @@ title: Zertifizierungsstellen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7835"
 - "9004340"
-ms.openlocfilehash: 3fb4920a962b8b975f0235fabaa0ae1b38ac7b09
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+- "7835"
+ms.date: 01/25/2021
+ms.openlocfilehash: 76c64b382edd79e9270649d513a8703dc5120b6d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950720"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66273808"
 ---
 # <a name="certificate-authorities"></a>Zertifizierungsstellen
 

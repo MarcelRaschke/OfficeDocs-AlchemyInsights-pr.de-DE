@@ -1,30 +1,29 @@
 ---
-title: 898 Informationen zu externen Kalenderfreigabe Optionen
+title: 898 Weitere Informationen zu Optionen für die Freigabe externer Kalender
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "898"
 - "3800014"
-ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 1512892d0712c9a00b4a105d95a39ddbff55333b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "898"
+ms.openlocfilehash: b5da6a16fc034cfc10e05f5430a27407c0c75d55
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676957"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66571117"
 ---
 # <a name="exchange-online-collaboration-options"></a>Optionen für die Zusammenarbeit in Exchange Online
 
-- Eine **Übersicht über die externe Kalenderfreigabe**erhalten Sie unter [Freigabe in Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).
+- Eine **Übersicht über die externe Kalenderfreigabe** finden Sie [unter "Freigeben in Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx)".
 
-- Informationen zum **Freigeben von Kalendern für eine andere Office 365 Organisation**finden Sie unter [Organization Relationships in Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).
+- Informationen zum **Freigeben von Kalendern für eine andere Office 365 Organisation** finden Sie [unter Organisationsbeziehungen in Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).
 
-- Um zu **Steuern, wie Ihre Benutzer ihre Kalender für Personen außerhalb Ihrer Organisation freigeben**, lesen Sie [Freigeben von Richtlinien in Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).
+- Informationen dazu **, wie Ihre Benutzer ihre Kalender für Personen außerhalb Ihrer Organisation freigeben**, finden Sie [unter Freigaberichtlinien in Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).
 
-- Informationen zu **Verbesserungen** bei der Kalenderfreigabe finden Sie unter [Kalenderfreigabe in Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).
+- **Verbesserungen** bei der Kalenderfreigabe finden Sie unter [Kalenderfreigabe in Microsoft 365](https://support.microsoft.com/office/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).

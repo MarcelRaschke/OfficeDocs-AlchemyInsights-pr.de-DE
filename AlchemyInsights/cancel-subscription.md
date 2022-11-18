@@ -1,25 +1,24 @@
 ---
 title: Abonnement kündigen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9003797"
-- "6837"
 - "9003797"
 - "6839"
-ms.openlocfilehash: 5b1f336202c621f45b98b91772faf0b84887e48a
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+- "6837"
+ms.openlocfilehash: 1e0881a3c610bdbc150db4851dbe4db6b1872895
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086247"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66343497"
 ---
 # <a name="cancel-subscription"></a>Abonnement kündigen
 
@@ -27,7 +26,7 @@ Das Abonnement, das Sie auf der Seite „Grundlagen“ ausgewählt haben, wurde 
 
 Sie können das Azure-Abonnement im Azure-Portal nur kündigen, wenn Sie der Besitzer des Abonnements oder der Kontoadministrator sind. Führen Sie die folgenden Schritte aus.
 
-1. Wählen Sie das Abonnement, das Sie kündigen möchten, über die [Seite „Abonnements“ im Azure-Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) aus.
+1. Wählen Sie das Abonnement über die [Seite „Abonnements“ im Azure-Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) aus.
 2. Wählen Sie **Übersicht** und dann **Abonnement kündigen** aus.
 
 **Was geschieht nach der Kündigung meines Abonnements?**

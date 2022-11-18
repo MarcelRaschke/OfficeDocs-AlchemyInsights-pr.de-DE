@@ -3,22 +3,21 @@ title: SCIM-Bereitstellungsprobleme
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/22/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7854"
 - "9004348"
-ms.openlocfilehash: aa5b4cbb99cb1a5a323b39101766bea55fd49064
-ms.sourcegitcommit: 953a8567ebcd9835f8c5c49472b223107c92549b
+- "7854"
+ms.date: 01/22/2021
+ms.openlocfilehash: 5886a8c559570a88bca0a1809271235301ec5527
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49935378"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66317595"
 ---
 # <a name="scim-provisioning-issue"></a>SCIM-Bereitstellungsprobleme
 

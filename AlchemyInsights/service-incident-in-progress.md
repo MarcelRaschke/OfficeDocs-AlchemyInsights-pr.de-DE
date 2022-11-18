@@ -1,30 +1,30 @@
 ---
-title: Dienst Vorfall wird ausgeführt
-ms.author: pebaum
-author: CrystalThomasMS
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Dienstvorfall wird ausgeführt
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
+ms.localizationpriority: medium
 ms.custom:
-- "118"
 - "1600016"
-ms.openlocfilehash: 344507c74530f6f7b91fad68025554d0c6a6a004
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "118"
+ms.date: 04/21/2020
+ms.openlocfilehash: a2080397e58860ac53fd720c5d25bbed3ac6773b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799059"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66291331"
 ---
-# <a name="service-incident-in-progress"></a>Dienst Vorfall wird ausgeführt
+# <a name="service-incident-in-progress"></a>Dienstvorfall wird ausgeführt
 
-Möglicherweise sind Sie von einem Dienst Vorfall oder einer Empfehlung betroffen, die derzeit untersucht wird. Sie können den neuesten Status überprüfen, indem Sie zur Seite [Dienst Integrität](https://admin.microsoft.com/adminportal/home#/servicehealth) wechseln.
+Möglicherweise sind Sie von einem Dienstvorfall oder einer Beratung betroffen, die derzeit untersucht wird. Sie können den aktuellen Status überprüfen, indem Sie zur Seite " [Dienststatus](https://admin.microsoft.com/adminportal/home#/servicehealth) " wechseln.
   
-Nachfolgend finden Sie eine Zusammenfassung dieses Vorfalls:
+Der Einfachheit halber finden Sie unten eine Zusammenfassung dieses Vorfalls:
   
-> **Vorfallnummer:**[{Vorfall](https://admin.microsoft.com/adminportal/home#/servicehealth) -ID}
+> **Vorfallnummer:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
 
-> Beschreibung der Auswirkung: {ImpactDescription}
+> Beschreibung der Auswirkungen: {ImpactDescription}

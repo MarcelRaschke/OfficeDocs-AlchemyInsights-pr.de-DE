@@ -1,23 +1,22 @@
 ---
 title: Voraussetzungen für die Installation von AADConnect
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "1300023"
 - "4533"
-ms.openlocfilehash: b0b95296ef6e5cbdd27d36969d09a57dcc554e51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82e10eeabe8ea29baf52b7b670e3f1561dbb6ec7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720969"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66374151"
 ---
 # <a name="pre-requisites-for-installing-aadconnect"></a>Voraussetzungen für die Installation von AADConnect
 

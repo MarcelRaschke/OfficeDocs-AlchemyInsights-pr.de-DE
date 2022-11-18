@@ -1,24 +1,23 @@
 ---
 title: Verbinden von PowerShell-Skripts mit Exchange Online
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6069"
 - "3500011"
-ms.openlocfilehash: 3a8383a57bc1267311daf03c78841070cca8fb8f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6069"
+ms.date: 07/21/2020
+ms.openlocfilehash: 60e967a96c77cf5c57b0750a1b534e7c2be97197
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748063"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66356302"
 ---
 # <a name="connecting-powershell-scripts-to-exchange-online"></a>Verbinden von PowerShell-Skripts mit Exchange Online
 

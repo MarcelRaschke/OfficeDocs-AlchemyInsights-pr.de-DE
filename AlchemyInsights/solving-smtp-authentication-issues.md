@@ -1,28 +1,44 @@
 ---
-title: Beheben von Problemen mit der SMTP-Authentifizierung
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Aktivieren von SMTP-Authentifizierung und Problembehandlung
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 3eaab2c601f78e20f2ee67bc21a9598cb45a24f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0d0859967015dca9e5fbf268c1683abe6fb8042b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737988"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66334770"
 ---
-# <a name="solving-smtp-authentication-issues"></a>Beheben von Problemen mit der SMTP-Authentifizierung
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>Aktivieren von SMTP-Authentifizierung und Problembehandlung
 
-Wenn Sie beim Versuch, eine SMTP-E-Mail zu versenden und diese über einen Client oder eine Anwendung zu authentifizieren, die Fehlermeldungen 5.7.57 oder 5.7.3 erhalten, sollten Sie Folgendes überprüfen:
+Wenn Sie die SMTP-Authentifizierung für ein Postfach aktivieren möchten oder beim Versuch, E-Mails durch Authentifizierung eines Geräts oder einer Anwendung bei Microsoft 365 weiterzuleiten, eine Fehlermeldung wie „Client nicht authentifiziert“, „Authentifizierung nicht erfolgreich“ oder „SmtpClientAuthentication“ mit Code 5.7.57, 5.7.3 oder 5.7.139 erhalten, führen Sie die folgenden drei Aktionen durch, um das Problem zu beheben:
 
-- Die authentifizierte SMTP-Übermittlung ist möglicherweise in Ihrem Mandanten oder dem Postfach, das Sie verwenden möchten, deaktiviert (überprüfen Sie beide Einstellungen). Weitere Informationen finden Sie unter [Authentifizierte Client-SMTP-Übermittlung aktivieren oder deaktivieren](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission).
+1. Deaktivieren Sie die [Azure-Sicherheitsstandards](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), indem Sie die Option **Sicherheitsstandards aktivieren** auf **Nein** festlegen.
 
-- Überprüfen Sie, ob [Azure Sicherheitsvorgaben](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) für Ihren Mandanten aktiviert sind. Wenn diese Option aktiviert ist, schlägt die SMTP-Authentifizierung mithilfe der Standardauthentifizierung (auch als „Legacy-Authentifizierung“ bekannt; diese verwendet Benutzernamen und Kennwort) fehl.
+    1. Melden Sie sich beim Azure-Portal als Sicherheitsadministrator, Administrator für bedingten Zugriff oder globaler Administrator an.
+    2. Navigieren Sie zu Azure Active Directory > **Eigenschaften**.
+    3. Wählen Sie **Sicherheitsstandards verwalten** aus.
+    4. Legen Sie **Sicherheitsstandards aktivieren** auf **Nein** fest.
+    5. Wählen Sie **Speichern** aus.
+
+2. [Aktivieren Sie die SMTP-Clientübermittlung](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) für das lizenzierte Postfach.
+
+    1. Navigieren Sie im Microsoft 365 Admin Center zu [**Aktive Benutzer**](https://admin.microsoft.com/AdminPortal/Home?ref=users), und wählen Sie den Benutzer aus.
+    2. Navigieren Sie zur Registerkarte „E-Mail“, und wählen Sie unter **E-Mail-Apps** die Option **E-Mail-Apps verwalten** aus.
+    3. Stellen Sie sicher, dass **Authentifiziertes SMTP** ausgewählt (aktiviert) ist.
+    4. Wählen Sie **Änderungen speichern** aus.
+
+3. [Deaktivieren Sie die mehrstufige Authentifizierung (MFA)](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) für das lizenzierte Postfach.
+
+    1. Gehen Sie zum Microsoft 365 Admin Center, und wählen Sie im linken Navigationsmenü **Benutzer** > [**Aktive Benutzer**](https://admin.microsoft.com/AdminPortal/Home?ref=users) aus.
+    2. Wählen Sie **Mehrstufige Authentifizierung** aus.
+    3. Wählen Sie den Benutzer aus, und deaktivieren Sie **Mehrstufige Authentifizierung**.

@@ -1,23 +1,22 @@
 ---
 title: 'Einreichen von Dynamics 365-Supportanfragen '
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "274"
 - "6200001"
-ms.openlocfilehash: 453745d04adfafbf8a60e71f6600475726b6cef1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "274"
+ms.openlocfilehash: 316695a8a489d6ef7e2015c91e493b26625b0a77
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670435"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66262535"
 ---
 # <a name="submit-dynamics-365-support-requests"></a>Einreichen von Dynamics 365-Supportanfragen 
 

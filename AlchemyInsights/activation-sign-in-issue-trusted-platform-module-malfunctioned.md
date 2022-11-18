@@ -1,31 +1,30 @@
 ---
-title: Aktivierung/Anmeldeproblem – Fehler beim vertrauenswürdigen Plattformmodul
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Aktivierungs-/Anmeldeproblem – vertrauenswürdiges Plattformmodul ist fehlerhaft
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "3406"
 - "9001429"
-ms.openlocfilehash: 13e6fcd18047e511452f0180dc2e4677466d4db3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "3406"
+ms.openlocfilehash: c32d15d0a5d9826411a54f6cb0ccd931c86b6245
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697520"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66507162"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Beheben von Microsoft 365-Apps "vertrauenswürdige Plattformmodul Ihres Computers funktioniert nicht ordnungsgemäß"-Meldung
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Beheben der Meldung "Das Modul der vertrauenswürdigen Plattform Ihres Computers funktioniert nicht ordnungsgemäß" in Microsoft 365-Apps
 
 Um diesen Fehler zu beheben, versuchen Sie Folgendes:
 
-1. Öffnen Sie eine Office-App, und [melden Sie sich von vorhandenen Benutzerkonten ab](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071).   
-2. Entfernen vorhandener Arbeits Konten mithilfe von Windows- **Einstellungs**  >  **Konten**  >  **e-Mail & Konten**. 
-3. Verwenden von Windows- **Einstellungen**  >  **Konten**  >  **Zugriff auf Arbeit oder Schule**, trennen vorhandener Konten. 
+1. Öffnen Sie eine Office-App, und [melden Sie sich von vorhandenen Benutzerkonten ab](https://support.microsoft.com/office/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071).   
+2. Entfernen Sie vorhandene Geschäftskonten mithilfe von **E-Mail-&-Konten** für **Windows-Einstellungen** >  > . 
+3. Trennen Sie vorhandene Konten mithilfe von **Windows-Einstellungskonten** >  > , die **auf Geschäfts-, Schul- oder Unikonten zugreifen**. 
 4. Setzen Sie den Office-Aktivierungsstatus zurück. [Anleitung](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).
-5. Versuchen Sie den [Benutzer Wiederherstellungsprozess](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) zum Beheben von TPM-Fehlern (Trusted Platform Module).
+5. Versuchen Sie es mit dem [Benutzerwiederherstellungsprozess](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) , um TPM-Fehler (Trusted Platform Module) zu beheben.

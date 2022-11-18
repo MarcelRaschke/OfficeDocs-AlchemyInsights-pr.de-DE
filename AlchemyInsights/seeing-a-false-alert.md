@@ -1,24 +1,23 @@
 ---
 title: Anzeigen einer falschen Warnung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/16/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "3202"
 - "9001221"
-ms.openlocfilehash: e2e3133f6a78f4d6943edb8ce6784ef04f807a56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "3202"
+ms.date: 07/16/2020
+ms.openlocfilehash: 8d4a47fffc652db6c9308886383422c838f69d44
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740078"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66317055"
 ---
 # <a name="seeing-a-false-alert"></a>Anzeigen einer falschen Warnung
 

@@ -1,25 +1,25 @@
 ---
-title: Entfernen Ihrer GoDaddy-Domäne von Microsoft 365
-ms.author: pebaum
-author: CrystalThomasMS
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Entfernen Ihrer GoDaddy-Domäne aus Microsoft 365
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
+ms.localizationpriority: medium
 ms.custom:
 - "27"
 - "11"
-ms.openlocfilehash: 91bb74e9bcc53217e698afd523f0affd71157ebf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 3288562b395839334672a943afe9fafc0551e9e6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701498"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66318387"
 ---
-# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Entfernen Ihrer GoDaddy-Domäne von Microsoft 365
+# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Entfernen Ihrer GoDaddy-Domäne aus Microsoft 365
 
-Ihre GoDaddy-Domäne kann nicht von Microsoft 365 für Sie entfernt werden. Rufen Sie den [GoDaddy-Kundendienst](https://aka.ms/contact-godaddy) um Hilfe an.
+Wir können Ihre GoDaddy-Domäne nicht für Sie aus Microsoft 365 entfernen. Rufen Sie den [GoDaddy-Kundendienst](https://aka.ms/contact-godaddy) an, um Hilfe zu benötigen.
   

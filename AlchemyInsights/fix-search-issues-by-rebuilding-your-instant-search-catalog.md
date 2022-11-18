@@ -1,38 +1,36 @@
 ---
-title: 1800005 Beheben von Suchproblemen durch erneutes Erstellen des sofort Suchkatalogs
-ms.author: pdigia
-author: pebaum
-manager: jackiesm
-ms.audience: Admin
+title: 1800005 Beheben von Suchproblemen durch Neuerstellen des Sofortsuche-Katalogs
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "644"
 - "1800005"
-ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: d9f0048b9c79345714f8e9ab3d5a593ea13771de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "644"
+ms.openlocfilehash: 504cedf1119e5abb72c11671aa0c0a2ea5881446
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677602"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66539522"
 ---
-# <a name="troubleshoot-search-issues"></a>Behandeln von Problemen bei der Suche
+# <a name="troubleshoot-search-issues"></a>Problembehandlung bei Suchproblemen
 
-Wenn Sie Probleme mit der Suche in Outlook haben, lesen Sie die folgenden Links, um Hilfe und Problembehandlung zu erhalten.
+Wenn Sie Probleme mit der Suche in Outlook haben, finden Sie unter den folgenden Links Hilfe und Problembehandlung.
 
-Dies sind die am häufigsten auftretenden Probleme und sind ein guter Ausgangspunkt:
+Dies sind die häufigsten Probleme und ein guter Ausgangspunkt:
 
-- [Outlook-Suche gibt keine Ergebnisse zurück](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [Outlook-Suche gibt unvollständige Ergebnisse zurück](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [Outlook-Suche kann ältere e-Mails nicht finden](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [Die Outlook-Suche gibt keine Ergebnisse zurück.](https://support.microsoft.com/office/troubleshooting-outlook-search-issues-2556b11f-f4d8-46be-b0a7-de33a3f4f066)
+- [Die Outlook-Suche gibt unvollständige Ergebnisse zurück.](https://support.microsoft.com/office/troubleshooting-outlook-search-issues-2556b11f-f4d8-46be-b0a7-de33a3f4f066)
+- [Die Outlook-Suche kann ältere E-Mails nicht finden](https://support.microsoft.com/office/troubleshooting-outlook-search-issues-2556b11f-f4d8-46be-b0a7-de33a3f4f066)
 
-Mögliche Lösungen für seltenere Probleme finden Sie hier:
+Mögliche Lösungen für weniger häufige Probleme finden Sie hier:
 
-- [Nur Outlook 2016: Suchregisterkarte ist abgeblendet](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [Freigegebenes Postfach: Probleme mit Suchergebnissen](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [Fehler: die Suchleistung wird aufgrund eines Problems mit der Konfiguration von Outlook beeinträchtigt.](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [Suchordner zeigen unerwartete PersonMetadata-Elemente ohne Betreff an.](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [nur Outlook 2016: Die Registerkarte "Suchen" ist abgeblendet.](https://support.microsoft.com/office/troubleshooting-outlook-search-issues-2556b11f-f4d8-46be-b0a7-de33a3f4f066?ui=en-us&rs=en-us&ad=us#bkmk_greytab)
+- [Freigegebenes Postfach: Probleme mit Suchergebnissen](https://support.microsoft.com/office/troubleshooting-outlook-search-issues-2556b11f-f4d8-46be-b0a7-de33a3f4f066?ui=en-us&rs=en-us&ad=us#bkmk_sharedmailbox)
+- [Fehler: Die Suchleistung wird aufgrund eines Problems mit der Konfiguration von Outlook beeinträchtigt.](https://support.microsoft.com/office/no-search-results-for-pop-imap-or-exchange-accounts-51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Suchordner zeigen unerwartete PersonMetadata-Elemente ohne Betreff an](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)

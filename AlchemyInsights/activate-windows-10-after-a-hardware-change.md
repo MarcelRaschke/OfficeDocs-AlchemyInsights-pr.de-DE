@@ -1,30 +1,29 @@
 ---
-title: Aktivieren von Windows 10 nach einer Hardwareänderung
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Aktivieren Windows 10 nach einer Hardwareänderung
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "3484"
 - "9001418"
-ms.openlocfilehash: 6e341b057cb0ba20a0bbcfd05008875f59a24684
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "3484"
+ms.openlocfilehash: 295333e1f0e4cdff278de0955aaf57addbacf252
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698276"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66314067"
 ---
-# <a name="reactivating-windows-10-after-a-hardware-change"></a>Erneutes Aktivieren von Windows 10 nach einer Hardwareänderung
+# <a name="reactivating-windows-10-after-a-hardware-change"></a>Reaktivieren von Windows 10 nach einer Hardwareänderung
 
-Wenn Sie eine erhebliche Hardwareänderung am Gerät vorgenommen haben, beispielsweisedurch ersetzen der Hauptplatine, kann es sein, dass Windows nicht mehr aktiviert wird. Versuchen Sie, Windows 10 mithilfe der Aktivierungsproblem Behandlung zu reaktivieren:
+Wenn Sie eine erhebliche Hardwareänderung an Ihrem Gerät vorgenommen haben, z. B. das Ersetzen der Hauptplatine, wird Windows möglicherweise nicht mehr aktiviert. Versuchen Sie, die Aktivierungsproblembehandlung zu verwenden, um Windows 10 zu reaktivieren:
 
-Wechseln Sie zu **Start**  >  **Settings**  >  **Update & Security**  >  **Activation**, und wählen Sie dann **Problembehandlung**aus. Sie müssen als Administrator angemeldet sein, um die Problembehandlung verwenden zu können.
+Wechseln Sie zu **"Update****der Starteinstellungen** >  > **" & Sicherheitsaktivierung** > , und wählen Sie dann **"Problembehandlung"** aus. Sie müssen als Administrator angemeldet sein, um die Problembehandlung verwenden zu können.
 
-**Hinweis:** Wenn die Problembehandlung nicht hilfreich ist oder die Schaltfläche **Problembehandlung** nicht angezeigt wird, müssen Sie mit einer Person sprechen, um Hilfe beim Aktivieren Ihrer Windows-Kopie zu erhalten. (Klicken Sie in der linken unteren Ecke dieser APP auf die Schaltfläche **Kontakt US** .)
+**Hinweis:** Wenn das Ausführen der Problembehandlung nicht hilft oder die Schaltfläche " **Problembehandlung** " nicht angezeigt wird, müssen Sie mit einer Person sprechen, um Hilfe beim Aktivieren Ihrer Kopie von Windows zu erhalten. (Klicken Sie in der unteren linken Ecke dieser App auf die Schaltfläche " **Kontakt** ".)
 
 [Weitere Informationen zur Aktivierung in Windows 10](https://support.microsoft.com/help/12440/windows-10-activate)

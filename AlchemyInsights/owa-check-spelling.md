@@ -1,25 +1,24 @@
 ---
-title: Überprüfen der Rechtschreibung in Outlook im Internet
+title: Rechtschreibprüfung in Outlook im Web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "8000007"
 - "1992"
-ms.openlocfilehash: f8968b14b952c1198a8e185b8391d6dccdd257ba
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: a6c46357caada1391b6721b354708dcfdea5aef2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799275"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66266284"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Überprüfen der Rechtschreibung mithilfe des Browsers
+# <a name="use-your-browser-to-check-spelling"></a>Verwenden Ihres Browsers zum Überprüfen der Rechtschreibung
 
-Es gibt keine Option für Rechtschreibprüfung in Outlook im Internet. Um die Rechtschreibung zu überprüfen, müssen Sie Ihren Webbrowser verwenden. Die Rechtschreibprüfung ist in Microsoft Edge, Internet Explorer 10 und höheren Versionen sowie in aktuellen Versionen von Firefox, Chrome und Safari verfügbar. Überprüfen Sie die Optionen für den Webbrowser, um weitere Informationen zum Überprüfen der Rechtschreibung zu erhalten.
+Es gibt keine Rechtschreibprüfungsoption in Outlook im Web. Um Ihre Rechtschreibung zu überprüfen, müssen Sie Ihren Webbrowser verwenden. Die Rechtschreibprüfung ist in Microsoft Edge, Internet Explorer 10 und höher sowie in aktuellen Versionen von Firefox, Chrome und Safari verfügbar. Überprüfen Sie die Optionen für Ihren Webbrowser, um mehr über die Rechtschreibprüfung zu erfahren.

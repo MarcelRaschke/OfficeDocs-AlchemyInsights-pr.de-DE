@@ -1,23 +1,22 @@
 ---
 title: Festlegen von automatischen Antworten für ein Postfach
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 03c530e7ce5f00fce2222cf9993930b97e5a2818
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfb5ecc07e030e7cc034ed1bcaffdddcc4e78d89
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715128"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66260794"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Festlegen von automatischen Antworten für das Postfach eines Benutzers
 

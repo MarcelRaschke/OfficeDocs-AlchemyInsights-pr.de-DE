@@ -1,24 +1,23 @@
 ---
 title: Planen einer Azure AD Hybrid-Implementierung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6138"
 - "9003244"
-ms.openlocfilehash: a5756977f9dc485342a1f0f79610d42857790fa2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6138"
+ms.date: 08/03/2020
+ms.openlocfilehash: 0c4c1ce96e6b49026d288f573d514f1f18e5afd7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741914"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66401043"
 ---
 # <a name="plan-hybrid-azure-ad-implementation"></a>Planen einer Azure AD Hybrid-Implementierung
 

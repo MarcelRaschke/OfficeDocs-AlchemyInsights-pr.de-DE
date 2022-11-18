@@ -1,22 +1,22 @@
 ---
 title: Erhalten von Non-Profit-Angeboten
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.assetid: ''
+ms.localizationpriority: high
 ms.custom:
 - "1500010"
 - "3819"
-ms.openlocfilehash: cd8777d29b3db623d715552a1e3939ccbf4d0454
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ff6649ceda3dffe61c5206dcde74e32387f5997
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780382"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66406372"
 ---
 # <a name="how-to-get-nonprofit-offers"></a>Erhalten von Non-Profit-Angeboten
 
@@ -28,7 +28,7 @@ Um Non-Profit-Angebote zu erhalten, müssen Sie wie folgt vorgehen:
 
 3. Wechseln Sie nach dem Kauf im Verwaltungsportal zur Registerkarte [Benutzer](https://admin.microsoft.com/Adminportal/Home#/users), um Ihre Benutzer ihren neuen Microsoft 365 Non-Profit-Abonnements zuzuweisen.
 
-Weitere Antworten auf häufig gestellte Fragen finden Sie in unseren [Häufig gestellten Fragen](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit#coreui-heading-67lnrlz). Siehe auch:
+Weitere Antworten auf häufig gestellte Fragen finden Sie in unseren [FAQ](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit#coreui-heading-67lnrlz). Siehe auch:
 
 - [Zuweisen von Microsoft Teams-Lizenzen](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)
 

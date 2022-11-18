@@ -1,24 +1,23 @@
 ---
 title: 'Benutzer erhält den Fehler: AADSTS7000112 Yammer ist deaktiviert'
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/16/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6010"
 - "9003111"
-ms.openlocfilehash: 3a3a1b531f3d775f7e5150ce86733a3012df8d0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6010"
+ms.date: 07/16/2020
+ms.openlocfilehash: 975bb12c196f16d7e887aa7151544e404f1c88ef
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796647"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66516180"
 ---
 # <a name="user-receives-error-aadsts7000112-yammer-is-disabled"></a>Benutzer erhält den Fehler: AADSTS7000112 Yammer ist deaktiviert
 
@@ -34,4 +33,4 @@ So beheben Sie dieses Problem im Azure-Portal und stellen den Benutzerzugriffs a
 5.  Legen Sie den Wert für **Für Benutzeranmeldung aktiviert?** auf **Ja** fest, und wählen Sie dann **Speichern** aus.
 6.  Melden Sie sich wieder bei Yammer an. Möglicherweise müssen Sie Cookies löschen.
 
-Alternativ können Sie den Wert unter Verwendung von PowerShell-Befehlen festlegen. Weitere Informationen finden Sie unter [Fehler "Leider können wir Sie nicht anmelden" beim Klicken auf die Yammer-Kachel in Office 365](https://docs.microsoft.com/yammer/troubleshoot-problems/error-when-click-the-yammer-tile-in-office-365). 
+Alternativ können Sie den Wert unter Verwendung von PowerShell-Befehlen festlegen. Weitere Informationen finden Sie unter Fehler ["Leider können wir Sie nicht anmelden" beim Klicken auf die Yammer-Kachel in Office 365](https://docs.microsoft.com/yammer/troubleshoot-problems/error-when-click-the-yammer-tile-in-office-365). 

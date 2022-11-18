@@ -1,37 +1,29 @@
 ---
 title: Fehler bei der Migration öffentlicher Ordner bei 95 %
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/25/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "639"
 - "3500007"
-ms.openlocfilehash: b22dce778b4507e0a3337a59a55531ce248b59c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "639"
+ms.date: 01/03/2022
+ms.openlocfilehash: c1d3d1874f517d6bc9a43b28b113f9f79b4d9dbb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662422"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66292546"
 ---
 # <a name="public-folder-migration-fails-at-95"></a>Fehler bei der Migration öffentlicher Ordner bei 95 %
-
-Möglicherweise haben Sie den Abschluss eines Migrationsbatch eingeleitet, und der Status des Migrationsbatches zeigt für lange Zeit den Status **Synchronisiert** an. Dieses Verhalten ist zu erwarten.
-
-Es ist üblich, dass der Status eines Migrationsbatches einige Stunden lang auf **Synchronisiert** stehen bleibt, bevor er zu **Wird abgeschlossen** wechselt. Bei Migrationen mit einer großen Anzahl an Zielpostfächern ist es normal, dass der Status „synchronisiert“ länger als 24 Stunden zu sehen ist, solange keine der zugrunde liegenden Migrationsanforderungen öffentlicher Ordner fehlgeschlagen ist oder isoliert wurde. Bitte warten Sie 24-48 Stunden, bis im Migrationsbatch die Aufgaben abgeschlossen wurden.
 
 Fehler bei Migrationen öffentlicher Ordner bei 95 % mit dem Fehler „FailedToMailEnablePublicFoldersException“:
 
 1. Laden Sie das Skript [ValidateMailEnabledPublicFolders](https://aka.ms/ValidateMEPF) auf Ihrem lokalen Exchange-Server herunter, und führen Sie es aus.
-
 2. Führen Sie die vom Skript vorgeschlagenen Korrekturmaßnahmen aus.
-
 3. Führen Sie Sync-MailPublicFolders (für Exchange 2010) oder Sync-ModernMailPublicFolders (für Exchange 2013 und höher) aus.
-
 4. Setzen Sie die Migration öffentlicher Ordner fort.

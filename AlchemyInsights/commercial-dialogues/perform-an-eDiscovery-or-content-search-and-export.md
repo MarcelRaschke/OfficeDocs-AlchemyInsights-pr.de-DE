@@ -1,33 +1,32 @@
 ---
-title: Ausführen einer eDiscovery-/Inhaltssuche und -export
+title: Durchführen einer eDiscovery-/Inhaltssuche und -export
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 02/26/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "3200003"
-- "7221"
-ms.openlocfilehash: e76467c42ffb9583aff51a05ea8ceaadb265a8ac
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+- "9011281"
+- "18333"
+ms.date: 02/26/2021
+ms.openlocfilehash: afc8f429cd9e32043127185095f430e289cafc6d
+ms.sourcegitcommit: 00019315aac844f1d4068767611d4078bb3c641e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464606"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "68374028"
 ---
-# <a name="perform-an-ediscoverycontent-search-and-export"></a>Ausführen einer eDiscovery-/Inhaltssuche und -export
+# <a name="perform-an-ediscoverycontent-search-and-export"></a>Durchführen einer eDiscovery-/Inhaltssuche und -export
 
-Hier erfahren Sie, wie Sie nach Inhalten in Ihrer Organisation suchen und diese exportieren:
+Hier erfahren Sie, wie Sie nach Inhalten in Ihrer Organisation suchen und sie exportieren:
 
-1. Wechseln Sie zum [Security & Compliance Center,](https://go.microsoft.com/fwlink/?linkid=2086958) und navigieren Sie zu **Suche**  >  **nach Inhaltssuche**  >  **+ Neue Suche**.
-1. Geben Sie die Schlüsselwörter und Bedingungen ein, nach der sie suchen möchten.
-1. Geben Sie unten auf der Seite die zu durchsuchende Speicherorte an (z. B. E-Mails, Teams-Nachrichten, SharePoint-Websites), oder klicken Sie auf **Alle Speicherorte**.
-1. Klicken **Sie auf Speichern & ausführen**. Nennen Sie die Suchabfrage, und klicken Sie dann auf **Speichern**. Die Abfrage wird ausgeführt und zeigt die Ergebnisse an.
+1. Wechseln Sie zum [Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2086958), und navigieren Sie zur **Inhaltssuche** > **+** >  **Neue Suche**.
+1. Geben Sie die Schlüsselwörter und Bedingungen ein, nach deren Suche Sie suchen möchten.
+1. Geben Sie unten auf der Seite die Speicherorte an, die gesucht werden sollen (z. B. E-Mail, Teams-Nachrichten, SharePoint-Websites), oder klicken Sie auf **"Alle Speicherorte"**.
+1. Klicken Sie auf **"Speichern & ausführen**". Benennen Sie Ihre Suchabfrage, und klicken Sie dann auf **"Speichern"**. Die Abfrage wird ausgeführt und zeigt Ihnen die Ergebnisse an.
 
 Informationen zum Exportieren von Suchergebnissen finden Sie unter [Exportieren von Inhaltssuchergebnissen](https://go.microsoft.com/fwlink/?linkid=2102118).
 

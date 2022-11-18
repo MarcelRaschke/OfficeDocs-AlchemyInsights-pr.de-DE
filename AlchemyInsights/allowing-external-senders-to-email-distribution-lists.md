@@ -1,31 +1,29 @@
 ---
-title: 714 zulassen der e-Mail-Verteilerlisten durch externe Absender
+title: 714 Zulassen von E-Mail-Verteilerlisten für externe Absender
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "714"
 - "3"
-ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 8f3511f0dc8c7951eaa7b0496797584efe2e7d4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 25b2d3bf05bae75a6ae04b8ec99c168b5432dd04
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718152"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66302266"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Zulassen, dass externe Absender Nachrichten an Verteilergruppen senden
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Externen Absendern das Senden von Nachrichten an Verteilergruppen gestatten
 
-Wenn Benutzer außerhalb Ihrer Organisation Fehler erhalten, wenn Sie Nachrichten an ihre Verteilergruppen senden, oder wenn Sie überprüfen möchten, ob ihre Verteilergruppen für den Empfang von e-Mails von externen Absendern konfiguriert sind, führen Sie die folgenden Schritte aus:
+Wenn Benutzer außerhalb Ihrer Organisation Fehler erhalten, wenn sie Nachrichten an Ihre Verteilergruppen senden, oder Sie überprüfen möchten, ob Ihre Verteilergruppen für den Empfang von E-Mails von externen Absendern konfiguriert sind, führen Sie die folgenden Schritte aus:
 
-1. Wechseln Sie im Microsoft 365 Admin Center zur Seite **Gruppen**  >  [Gruppen](https://portal.office.com/adminportal/home#/groups) .  
+1. Wechseln Sie in der Microsoft 365 Admin Center zur Seite **"Gruppengruppen** > ".[](https://admin.microsoft.com/adminportal/home?ref=groups)  
 
-2. Wählen Sie die Verteilergruppe aus, und wählen Sie im Bereich Gruppeneigenschaften die Registerkarte **Einstellungen** aus.
+2. Wählen Sie die Verteilergruppe aus, und wählen Sie im Bereich "Gruppeneigenschaften" die Registerkarte **"Einstellungen** " aus.
 
-3. Wählen Sie **externe Absender zulassen aus, um diese Gruppe per e-Mail zu senden**, und wählen Sie dann **Speichern**aus.
+3. Wählen Sie **"Externe Absender zum Senden einer E-Mail an diese Gruppe zulassen**" und dann " **Speichern"** aus.

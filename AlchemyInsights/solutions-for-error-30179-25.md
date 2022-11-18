@@ -1,28 +1,27 @@
 ---
 title: Lösungen für Fehler 30179-25
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 858c2f23-bcf5-42e4-92c5-8749eed29dfb
+ms.localizationpriority: medium
 ms.custom:
-- "835"
 - "2000020"
-ms.openlocfilehash: 34118e85d7a16be963f2ff0ee3bab93fcbe69f4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "835"
+ms.date: 04/21/2020
+ms.openlocfilehash: acf60f75e1a217542eee79726bd3a2699c5b46e7
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738672"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66590719"
 ---
 # <a name="solutions-for-error-30179-25"></a>Lösungen für Fehler 30179-25
 
-Möglicherweise wird ein Fehler mit der Meldung "Couldn 't Stream Office" (Fehlercode [30179-25](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)) angezeigt, wenn auf Ihrer Festplatte kein Speicherplatz mehr vorhanden ist.
+Möglicherweise wird eine Fehlermeldung mit der Meldung "Office konnte nicht gestreamt werden" (Fehlercode [30179-25](https://support.microsoft.com/office/error-code-30179-25-when-installing-office-e40d3c7d-98f6-4284-94a0-882beaa44593)) angezeigt, wenn der Speicherplatz auf Ihrer Festplatte knapp wird.
   
-[Geben Sie Speicherplatz auf Ihrer Festplatte frei](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) , und installieren Sie dann [Office erneut](https://portal.office.com/OLS/MySoftware.aspx).
+[Geben Sie Speicherplatz auf Ihrer Festplatte](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) frei, und [installieren Sie Office](https://portal.office.com/OLS/MySoftware.aspx) erneut.
   

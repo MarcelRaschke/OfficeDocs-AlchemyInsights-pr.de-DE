@@ -1,26 +1,24 @@
 ---
 title: Verwenden des OneDrive-Setup-Assistenten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: 8b711af6-3d0e-4334-ae67-8b3cb76293de
-ms.openlocfilehash: 38b985b1aeba19604e7dfc9a9156a22795fa35ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 4b0fb62b1ed7fc344b9f7fbfd7a8b594d551b88a
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749440"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66516216"
 ---
 # <a name="set-up-onedrive"></a>Einrichten von OneDrive
 
-[Verwenden Sie den OneDrive-Setup-Assistenten](https://portal.office.com/onboarding/odfbquickstartguide), um OneDrive schnell für Ihre Organisation einzurichten.
+Verwenden [Sie den OneDrive-Setup-Assistenten](https://portal.office.com/onboarding/odfbquickstartguide), um OneDrive schnell für Ihre Organisation einzurichten.
   
 

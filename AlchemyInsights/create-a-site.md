@@ -1,30 +1,30 @@
 ---
 title: Erstellen einer Website
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
-ms.openlocfilehash: ecbaf5a52a0867893c470f759a030bafea376e34
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.openlocfilehash: 4dfdce5e9bd3ee67593b7a9cd66fbb71ba2aa6f6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747406"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66260110"
 ---
 # <a name="create-a-site"></a>Erstellen einer Website
 
-- Wechseln Sie zur [Seite Websites im Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/SitesList), und wählen Sie dann **Website hinzufügen**aus. 
-    
-- Klicken Sie im neuen SharePoint Admin Center auf der Seite Websites auf **Erstellen**. 
-    
-**Hinweis:** Sie können keine neue Website mit derselben URL mit einer vorhandenen Website erstellen. 
+1. Wechseln Sie im [Microsoft 365 Admin Center zur Seite "Websites](https://admin.microsoft.com/AdminPortal/Home?ref=SitesList)", und wählen Sie dann **"Website hinzufügen"** aus. 
+
+1. Wählen Sie im neuen SharePoint Admin Center auf der Seite "Websites" die Option **"Erstellen"** aus. 
+
+**Hinweis:** Sie können keine neue Website erstellen, die dieselbe URL wie eine vorhandene Website aufweist. 
   
-Weitere Informationen zum Erstellen einer Website finden Sie unter [Create a Site](https://go.microsoft.com/fwlink/?linkid=866295).
+Weitere Informationen zum Erstellen einer Website finden Sie unter [Erstellen einer Website](https://go.microsoft.com/fwlink/?linkid=866295).
   
-Informationen dazu, wie Sie Benutzern das Erstellen eigener Websites ermöglichen, finden Sie unter [Verwalten der Websiteerstellung in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+Informationen dazu, wie Benutzer ihre eigenen Websites erstellen können, finden [Sie unter Verwalten der Websiteerstellung in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
   
 

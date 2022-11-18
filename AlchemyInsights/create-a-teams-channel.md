@@ -1,23 +1,22 @@
 ---
 title: Erstellen eines Teams-Kanals
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002512"
 - "5039"
-ms.openlocfilehash: e8717530e95d3efedc8de0592444fc07a3c320dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30f6d00b426c4651e3b79858528a784522d05d5b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713021"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66260038"
 ---
 # <a name="create-a-teams-channel"></a>Erstellen eines Teams-Kanals
 
@@ -31,4 +30,4 @@ Weitere Informationen finden Sie unter:
 
 - [Bewährte Methoden zum Organisieren von Teams in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/best-practices-organizing)
 
-Sie können auch [New-TeamChannel](https://docs.microsoft.com/powershell/module/teams/new-teamchannel?view=teams-ps) verwenden, um Kanäle in PowerShell zu erstellen. 
+Sie können auch [New-TeamChannel](https://docs.microsoft.com/powershell/module/teams/new-teamchannel?view=teams-ps&preserve-view=true) verwenden, um Kanäle in PowerShell zu erstellen.

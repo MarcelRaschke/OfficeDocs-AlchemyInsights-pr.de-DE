@@ -1,33 +1,33 @@
 ---
-title: Aktivieren eines Microsoft Volume License-Abonnements
-ms.author: cmcatee
+title: Aktivieren eines Microsoft-Volumenlizenzabonnements
 author: cmcatee-MSFT
+ms.author: cmcatee
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+ms.reviewer: jkinma, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "481"
+- commerce_subscriptions
 - "1500028"
-ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: b98f8c2da22e07c6e99e04c7e7e06f4d9b1fbcc7
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+- "481"
+ms.date: 04/06/2022
+ms.openlocfilehash: a0b638948108c30ab1ce5570e730b7cc4f446149
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307123"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "66001313"
 ---
-# <a name="activating-a-microsoft-volume-license-subscription"></a>Aktivieren eines Microsoft Volume License-Abonnements
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Aktivieren eines Microsoft-Volumenlizenzabonnements
 
-1. Melden Sie sich beim [Volume Licensing Service Center (VLSC)-Portal](https://go.microsoft.com/fwlink/p/?LinkId=329762)an.
-2. Navigieren Sie zu Ihrem Abonnement, und wählen Sie **aktivieren**aus.
-3. Eine e-Mail wird an Ihren Online Dienste-Kontakt (OLS) gesendet.
-4. In der Aktivierungs-e-Mail stehen Ihnen zwei Optionen zur Verfügung: **registrieren**oder **Anmelden**. Wenn Sie zuvor eine Testversion erstellt haben, wählen Sie **Anmelden aus**. Wenn Sie noch nicht über einen Microsoft 365-Mandanten verfügen, wählen Sie **registrieren**aus.
-5. Melden Sie sich beim Microsoft 365 Admin Center ( [https://admin.microsoft.com](https://admin.microsoft.com) ) mit Ihren vorhandenen Administratoranmeldeinformationen an. Nachdem Sie sich erfolgreich angemeldet haben, erhalten Sie eine weitere e-Mail, die Ihren Kauf bestätigt.
-6. Nachdem Sie sich angemeldet haben, rufen Sie die Seite **Abrechnung** \> [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) auf, um zu überprüfen, ob Ihre erworbenen Abonnements jetzt aktiv sind. 
-    > [!NOTE]
-    > Sie können auch die Registerkarte **Abonnement** in der VLSC auswählen, um Details anzuzeigen, die überprüfen, ob Ihr Abonnement aktiviert wurde.)
+1. Melden Sie sich bei Ihrem [VLSC-Portal (Volume Licensing Service Center)](https://go.microsoft.com/fwlink/p/?LinkId=329762) an.
+2. Navigieren Sie zu Ihrem Abonnement, und wählen Sie **"Aktivieren"** aus.
+3. Eine E-Mail wird an Ihren OLS-Kontakt (Online Services) gesendet.
+4. Die Aktivierungs-E-Mail bietet Ihnen zwei Optionen: **"Registrieren"** oder **"Anmelden**". Wenn Sie zuvor eine Testversion erstellt haben, wählen Sie **"Anmelden" aus**. Wenn Sie noch keinen Microsoft 365 Mandanten haben, wählen Sie **"Registrieren"** aus.
+5. Melden Sie sich mit Ihren vorhandenen Administratoranmeldeinformationen beim [Microsoft 365 Admin Center](https://admin.microsoft.com/adminportal/home?ref=homepage) an. Nachdem Sie sich erfolgreich angemeldet haben, erhalten Sie eine weitere E-Mail, die Ihren Kauf bestätigt.
+6. Nachdem Sie sich angemeldet haben, wechseln Sie zur Seite **"Abrechnung** \> [Ihrer Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions) ", um zu überprüfen, ob Ihre erworbenen Abonnements jetzt aktiv sind. 
+
+    **Hinweis**: Sie können auch die Registerkarte **"Abonnement** " im VLSC auswählen, um Details anzuzeigen, um zu überprüfen, ob Ihr Abonnement aktiviert wurde.)

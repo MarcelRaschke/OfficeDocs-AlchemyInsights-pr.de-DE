@@ -1,38 +1,31 @@
 ---
-title: OneNote-Design catch all
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: OneNote-Design fängt alle ab
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: d37f114c8349bcd1d6c3c2d896c54f3a31fada66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 03/30/2022
+ms.openlocfilehash: 47084f4fd75dfde72e680b81a0b2e34bf45b885d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729150"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66256294"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>Häufige Probleme und Lösungen mit OneNote
 
-Hier finden Sie einige häufig angeforderte OneNote-Themen:
+Hier sind einige häufig angeforderte Themen zu OneNote-Problemen.
 
-- [Beheben von Synchronisierungsproblemen](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) : Verwenden Sie die Schritte unter [Beheben von Problemen, wenn Sie OneNote nicht synchronisieren können](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45), um die häufigsten Probleme im Zusammenhang mit der OneNote-Synchronisierung zu behandeln.
+- Um die häufigsten Probleme im Zusammenhang mit der OneNote-Synchronisierung zu beheben, führen Sie die Schritte unter [Beheben von Problemen aus, wenn Sie OneNote nicht synchronisieren können](https://support.microsoft.com/office/fix-issues-when-you-can-t-sync-onenote-299495ef-66d1-448f-90c1-b785a6968d45).
+- Fragen zum Verwalten von [OneNote-Kursnotizbüchern](https://support.microsoft.com/topic/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Troubleshoot&ID0EBD=Troubleshooting), einschließlich [der Suche nach einem Kursnotizbuch](https://support.microsoft.com/topic/unable-to-find-my-class-notebook-d14a7a27-c1d4-4b4f-83fd-e478b334d2e5), [Synchronisierungsverzögerungen](https://support.microsoft.com/topic/fix-slow-sync-times-and-delays-when-distributing-pages-in-class-notebook-d800d720-60f4-49b6-a2b2-7af3bb377510) und [Problemen beim Hinzufügen von Kursteilnehmern zu einem Kursnotizbuch](https://support.microsoft.com/topic/unable-to-add-students-groups-to-class-notebook-8a5b570e-5645-4a59-8850-5c7150ca1bfd), finden Sie unter [Kursnotizbuch: Problembehandlung](https://support.microsoft.com/topic/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Troubleshoot&ID0EBD=Troubleshooting).
+- Wenn Sie eine ältere Version von OneNote verwendet und Notizbücher auf Ihrer lokalen Festplatte erstellt haben, müssen Sie sie zu einem Cloudkonto migrieren. Informationen zum Beheben verwandter Probleme finden Sie [unter Problembehandlung beim Verschieben von Notizbüchern von Ihrem Computer in die Cloud](https://support.microsoft.com/office/troubleshoot-moving-notebooks-from-your-computer-to-the-cloud-70528107-11dc-4f3f-b695-b150059dfd78).
+- Beheben Des [Fehlers Dieser Abschnitt wurde ursprünglich in einer älteren Version von OneNote erstellt](https://support.microsoft.com/office/resolve-the-this-section-was-originally-created-in-an-older-version-of-onenote-error-2abf5ead-2426-44eb-9b98-29e858bb86da).
 
-- Verwenden [von OneNote in Microsoft Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) 
-
-- [Verwenden von OneNote-Klassen Notizbuch in Microsoft Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) beantwortet Fragen zum Einrichten eines Klassen-Notebooks in Microsoft Teams.
-
-- [Notebook in die Cloud migrieren](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).
-
-- [Problembehandlung beim Verschieben von Notizbüchern in die Cloud](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).
-
-- [Installieren von OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -ab dem März 2020, wenn Sie Office 365 oder Office 2019 installieren, wird die OneNote-Desktop-App neben den Word-, PowerPoint-und Excel-Desktop-Apps installiert.
-
-- [Exportieren und Importieren von OneNote-Notizbüchern](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).
+Weitere Informationen zu OneNote finden Sie in der [OneNote-Hilfe & Lernen](https://support.microsoft.com/onenote?msclkid=cd56bddfaf7611ec9a4ac0e7a44e08a0).

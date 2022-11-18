@@ -1,56 +1,55 @@
 ---
-title: DLP-Regel für SSN nicht funktionsfähig
-ms.author: deniseb
-author: denisebmsft
+title: DLP-Regel für SSN funktioniert nicht
+ms.author: chrfox
+author: chrfox
 manager: laurawi
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1242"
 - "3200001"
-ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1242"
+ms.date: 04/21/2020
+ms.openlocfilehash: 853193e68738bcc66173368bc57011006c54cebe
+ms.sourcegitcommit: de048ec631aaa5712637a76a2d1e2c2d18fac720
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679368"
+ms.lasthandoff: 08/30/2022
+ms.locfileid: "67462127"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>DLP-Probleme mit Sozialversicherungsnummern
 
 **Wichtig**: Während dieser beispiellosen Zeiten unternehmen wir die erforderlichen Schritte, um sicherzustellen, dass SharePoint Online und OneDrive-Dienste weiterhin in hohem Ausmaß verfügbar bleiben – Bitte besuchen Sie [SharePoint Online – Temporäre Feature-Anpassungen](https://aka.ms/ODSPAdjustments), um weitere Informationen zu erhalten.
 
-**DLP-Probleme mit Sozialversicherungsnummern**
+**DLP-Probleme mit SSNs**
 
-Haben Sie Probleme mit der **Verhinderung von Datenverlust (DLP)** , die bei der Verwendung eines vertraulichen Informationstyps in Microsoft 365 für Inhalte mit einer **Sozialversicherungsnummer (SSN)** nicht funktioniert? Wenn dies der Fall ist, stellen Sie sicher, dass Ihre Inhalte die erforderlichen Informationen für die Suchfunktion der DLP-Richtlinie enthalten. 
+Haben Sie Probleme mit Microsoft Purview Data Loss Prevention bei der Verwendung eines vertraulichen Informationstyps in Microsoft 365 nicht für Inhalte mit einer **Sozialversicherungsnummer (Social Security Number, SSN)** zu arbeiten? Wenn dies der Fall ist, stellen Sie sicher, dass Ihre Inhalte die erforderlichen Informationen für das, was die DLP-Richtlinie sucht, enthalten. 
   
-Für eine SSN-Richtlinie, die mit einer Konfidenz Stufe von 85% konfiguriert ist, werden beispielsweise die folgenden Werte ausgewertet und müssen erkannt werden, damit die Regel ausgelöst wird:
+Für eine SSN-Richtlinie, die mit einem Konfidenzniveau von 85 % konfiguriert ist, werden beispielsweise Folgendes ausgewertet und müssen erkannt werden, damit die Regel ausgelöst wird:
   
-- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 Ziffern, die sich möglicherweise in einem formatierten oder unformatierten Muster befinden
+- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 Ziffern, die in einem formatierten oder unformatierten Muster vorliegen können
 
-- **[Muster:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Vier Funktionen suchen nach Sozialversicherungsnummern in vier verschiedenen Mustern:
+- **[Muster:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Vier Funktionen suchen nach SSNs in vier verschiedenen Mustern:
 
-  - Func_ssn findet Sozialversicherungsnummern mit starker Formatierung vor 2011, die mit Bindestrichen oder Leerzeichen formatiert sind (DDD-DD-dddd oder DDD DD dddd)
+  - Func_ssn findet SSNs mit starker Formatierung vor 2011, die mit Strichen oder Leerzeichen formatiert sind (ddd-dd-dddd OR ddd dd dd ddd)
 
-  - Func_unformatted_ssn findet Sozialversicherungsnummern mit starker Formatierung vor 2011, die als neun aufeinanderfolgende Ziffern (ddddddddd) unformatiert sind.
+  - Func_unformatted_ssn findet SSNs mit starker Formatierung vor 2011, die als neun aufeinander folgende Ziffern unformatiert sind (dddddddddd)
 
-  - Func_randomized_formatted_ssn findet Post-2011-Sozialversicherungsnummern, die mit Bindestrichen oder Leerzeichen formatiert sind (DDD-DD-dddd oder DDD DD dddd)
+  - Func_randomized_formatted_ssn findet SSNs nach 2011, die mit Bindestrichen oder Leerzeichen formatiert sind (ddd-dd-dddd OR ddd dd dd ddd)
 
-  - Func_randomized_unformatted_ssn findet Post-2011 Sozialversicherungsnummern, die als neun aufeinanderfolgende Ziffern (ddddddddd) unformatiert sind.
+  - Func_randomized_unformatted_ssn findet SSNs nach 2011, die als neun aufeinander folgende Ziffern unformatiert sind (ddddddddddd)
 
 - **[Prüfsumme:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Nein, es gibt keine Prüfsumme
 
-- **[Definition:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** Eine DLP-Richtlinie ist 85% sicher, dass diese Art von vertraulichen Informationen erkannt wurde, wenn Sie in einer Nähe von 300 Zeichen:
+- **[Definition:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** Eine DLP-Richtlinie ist zu 85 % sicher, dass diese Art vertraulicher Informationen erkannt wird, wenn innerhalb einer Näherung von 300 Zeichen:
 
-  - Die [Funktion Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) sucht nach Inhalten, die mit dem Muster übereinstimmen.
+  - Die [Funktion Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) findet Inhalt, der dem Muster entspricht.
 
-  - Ein Schlüsselwort aus [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) wurde gefunden. Beispiele für Schlüsselwörter:  *soziale Sicherheit, soziale Sicherheit #, Soc Sec, SSN*  . Das folgende Beispiel würde beispielsweise für die DLP-SSN-Richtlinie ausgelöst: **SSN: 489-36-8350**
+  - Ein Schlüsselwort aus [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) wurde gefunden. Beispiele für Schlüsselwörter sind:  *Sozialversicherung, Sozialversicherung#, Soc Sec , SSN*  . Das folgende Beispiel würde beispielsweise für die DLP-SSN-Richtlinie ausgelöst **: SSN: 489-36-8350**
   
-Weitere Informationen dazu, was für die Sozialversicherungsnummern-Erkennung für Ihre Inhalte erforderlich ist, finden Sie im folgenden Abschnitt in diesem Artikel: [was die Typen für vertrauliche Informationen für Sozialversicherungsnummern suchen](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
+Weitere Informationen dazu, was erforderlich ist, damit SSNs für Ihre Inhalte erkannt werden, finden Sie im folgenden Abschnitt in diesem Artikel: [Wonach die Typen vertraulicher Informationen nach SSNs suchen](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
-Unter Verwendung eines anderen integrierten vertraulichen Informationstyps finden Sie im folgenden Artikel Informationen darüber, was für andere Typen erforderlich ist: [was die Typen für vertrauliche Informationen suchen](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Unter Verwendung eines anderen integrierten vertraulichen Informationstyps finden Sie im folgenden Artikel Informationen dazu, was für andere Typen erforderlich ist: [Wonach die Typen vertraulicher Informationen suchen](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

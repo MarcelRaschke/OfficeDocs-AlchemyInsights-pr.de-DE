@@ -1,24 +1,23 @@
 ---
-title: Ausgehende Spam
+title: Ausgehender Spam
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - "2643"
-ms.assetid: ''
-ms.openlocfilehash: 182cec016346dbc32d807a2d43ef0bd29209dcca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: f0e01c36237c360090f9e0fe5f5c1e137d45fd3f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769254"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66402303"
 ---
-# <a name="outbound-spam"></a>Ausgehende Spam
+# <a name="outbound-spam"></a>Ausgehender Spam
 
-Wenn Sie falsch positive Ergebnisse für ausgehende Spam anzeigen (gute ausgehende Nachrichten werden als Spam gekennzeichnet), öffnen Sie ein Support Ticket mit Beispiel Meldungen.
+Wenn Sie falsch positive Ergebnisse für ausgehenden Spam sehen (gute ausgehende Nachrichten werden als Spam gekennzeichnet), öffnen Sie ein Supportticket mit Beispielnachrichten.

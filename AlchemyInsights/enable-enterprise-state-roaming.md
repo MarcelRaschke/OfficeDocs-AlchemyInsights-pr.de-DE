@@ -1,24 +1,23 @@
 ---
 title: Aktivieren von Enterprise State Roaming
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6116"
 - "9003236"
-ms.openlocfilehash: ce89060fc9e470c594970245bd003951ad09cd8b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6116"
+ms.date: 07/27/2020
+ms.openlocfilehash: 300fb13f79c71594345929fb1941644f3d1192d4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806398"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66298324"
 ---
 # <a name="enable-enterprise-state-roaming"></a>Aktivieren von Enterprise State Roaming
 

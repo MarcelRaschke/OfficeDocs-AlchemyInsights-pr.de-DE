@@ -1,22 +1,21 @@
 ---
 title: Verbundene Erfahrung mit Office-Add-Ins
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/16/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom: ''
-ms.openlocfilehash: ca4aa57acfa8f2ddfd5b8ddbaa6d7214cfbb9140
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 07/16/2020
+ms.openlocfilehash: c6eb3d138aef0ebed488ae75e5e35b781730665c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748288"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66367599"
 ---
 # <a name="connected-experience-with-office-add-ins"></a>Verbundene Erfahrung mit Office-Add-Ins
 

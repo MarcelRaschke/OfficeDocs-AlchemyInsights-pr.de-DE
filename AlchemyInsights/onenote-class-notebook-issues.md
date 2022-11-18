@@ -1,38 +1,37 @@
 ---
-title: Notizbuch-Probleme in OneNote-Kursen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Probleme mit dem OneNote-Kursnotizbuch
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9000676"
 - "2577"
-ms.openlocfilehash: c4f487e8c823d7b1684ff74487d2d6af03948bac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29f1e18ff97f6d6a024858c934aca1dd3b38aeba
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729330"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66567409"
 ---
-# <a name="onenote-class-notebook-issues-and-resolutions"></a>OneNote-Klassen Notizbuch-Probleme und Lösungen
+# <a name="onenote-class-notebook-issues-and-resolutions"></a>Probleme und Lösungen für OneNote-Kursnotizbücher
 
-Hier finden Sie einige häufig angeforderte Themen und Problembehandlung für Klassen-Notebooks.
+Hier sind einige häufig angeforderte Themen und Problembehandlungen für Kursnotizbücher.
 
-- **Teams:** [OneNote-Klassen Notizbuch in Microsoft Teams verwenden](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) beantwortet Fragen zum Einrichten eines Klassen-Notebooks in Microsoft Teams.
+- **Teams:** [Mithilfe des OneNote-Kursnotizbuchs in Teams](https://support.microsoft.com/topic/use-onenote-class-notebook-in-teams-bd77f11f-27cd-4d41-bfbd-2b11799f1440) werden Fragen zum Einrichten eines Kursnotizbuchs in Teams beantwortet.
 
-- **Studenten hinzufügen:** Lesen [Sie, wie Sie einem Kurs Notizbuch Schüler hinzufügen](https://support.office.com/article/149882af-506a-4689-9fee-39309b97aae8). Wenn Sie Probleme mit der Anzeige neuer Kursteilnehmer haben, lesen Sie [neu hinzugefügte Kursteilnehmer, die nicht im Kurs Notizbuch angezeigt](https://support.office.com/article/4da02c45-b435-4af1-921b-51b8ee40e1c9)werden.
+- **Kursteilnehmer hinzufügen:** Überprüfen Sie, wie [Sie Kursteilnehmer zu einem Kursnotizbuch hinzufügen](https://support.microsoft.com/topic/add-students-to-a-class-notebook-in-onenote-149882af-506a-4689-9fee-39309b97aae8). Wenn Sie Probleme beim Anzeigen neuer Kursteilnehmer haben, lesen Sie, dass [neu hinzugefügte Kursteilnehmer nicht im Kursnotizbuch angezeigt werden](https://support.microsoft.com/topic/newly-added-students-not-showing-in-class-notebook-4da02c45-b435-4af1-921b-51b8ee40e1c9).
 
-- **Entfernen von Kursteilnehmern:** Beginnen [Sie mit Entfernen von Kursteilnehmern im Kurs Notizbuch für OneNote](https://support.office.com/article/86dcf019-408f-4de8-8055-eb61f1578c3c). Informationen zu Problemen im Zusammenhang mit dem Entfernen von Kursteilnehmern finden Sie unter [Student wurde gelöscht, aber Ihr Ordner wird weiterhin angezeigt](https://support.office.com/article/0ed81eaa-c14a-436f-bb6f-ce95f130cc71).
+- **Schüler entfernen:** Beginnen [Sie mit "Schüler im Kursnotizbuch für OneNote entfernen](https://support.microsoft.com/topic/remove-students-in-class-notebook-for-onenote-86dcf019-408f-4de8-8055-eb61f1578c3c)". Probleme im Zusammenhang mit dem Entfernen von Kursteilnehmern finden [Sie unter Student was deleted but their folder still appears](https://support.microsoft.com/topic/student-was-deleted-but-their-folder-still-appears-in-class-notebook-0ed81eaa-c14a-436f-bb6f-ce95f130cc71).
 
-- **Neue Lehrkräfte:** Um neuen Lehrern zu helfen, Ihr Klassen Notizbuch einzurichten, lesen [Sie Add or Remove Co-Teachers in Class Notebook for OneNote](https://support.office.com/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) oder [Transfer Class Notebook to an New Teacher](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027).
+- **Neue Lehrer:** Wenn Sie neuen Lehrern beim Einrichten ihres Kursnotizbuchs helfen möchten, lesen [Sie "Hinzufügen oder Entfernen von weiteren Lehrern im Kursnotizbuch für OneNote](https://support.microsoft.com/topic/add-or-remove-co-teachers-in-onenote-class-notebook-fdcb870b-49a7-4a14-9ea6-d817f88026f8) " oder ["Übertragen des Kursnotizbuchs auf einen neuen Lehrer](https://support.microsoft.com/topic/transfer-class-notebook-to-a-new-educator-84ef5d4a-0eec-4d5b-bc22-1317bc3b9027)".
 
-- Verwenden Sie die Schritte unter [Beheben von Problemen, wenn Sie OneNote nicht synchronisieren können](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45), um die häufigsten Probleme im Zusammenhang mit der Notizbuch-Synchronisierung in OneNote zu behandeln.
+- Um die häufigsten Probleme im Zusammenhang mit der Synchronisierung von OneNote-Kursnotizbüchern zu beheben, führen Sie die Schritte unter [Beheben von Problemen aus, wenn Sie OneNote nicht synchronisieren können](https://support.microsoft.com/office/fix-issues-when-you-can-t-sync-onenote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-Wenn das Problem, das Sie sehen, hier nicht aufgeführt ist, lesen Sie den Abschnitt [zur Problembehandlung](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Manage&ID0EABAAA=Troubleshoot) in der [Klasse Notizbuch](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea). 
+Wenn das angezeigte Problem hier nicht aufgeführt ist, lesen Sie den Abschnitt [zur Problembehandlung](https://support.microsoft.com/topic/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea?ui=en-us&rs=en-us&ad=us#ID0EAABAAA=Manage&ID0EABAAA=Troubleshoot) im [Kursnotizbuch](https://support.microsoft.com/topic/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea). 
 
 

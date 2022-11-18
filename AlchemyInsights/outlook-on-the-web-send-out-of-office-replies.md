@@ -1,29 +1,28 @@
 ---
 title: 'Outlook im Web: Senden von Abwesenheitsantworten'
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: f9a33534000b6ceec2bd71e933b36c2af48816c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a58a92f0d34c23aed23b8755bc8227485449c3f2
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702182"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66583886"
 ---
 # <a name="outlook-on-the-web-send-out-of-office-replies"></a>Outlook im Web: Senden von Abwesenheitsantworten
 
 **Festlegen automatischer Antworten in Outlook im Web**
 
-1. [Anmelden bei Outlook im Web](https://support.office.com/article/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79).
+1. [Anmelden bei Outlook im Web](https://support.microsoft.com/office/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79).
 
 2. Klicken Sie oben auf der Seite auf **Einstellungen > Alle Outlook-Einstellungen anzeigen > Mail > Automatische Antworten**.
 

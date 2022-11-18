@@ -1,24 +1,23 @@
 ---
 title: Wiederherstellen von gelöschten Benutzern und Gruppen
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/06/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6159"
 - "9003228"
-ms.openlocfilehash: 5a5051f0560fc78b8dff1119c00ad65b73c1a4b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6159"
+ms.date: 08/06/2020
+ms.openlocfilehash: d097dd86f6d08b4ae36789f2ff40cd196fafc421
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807262"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66384802"
 ---
 # <a name="restore-deleted-users-and-groups"></a>Wiederherstellen von gelöschten Benutzern und Gruppen
 

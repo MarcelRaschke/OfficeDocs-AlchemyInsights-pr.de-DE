@@ -1,26 +1,24 @@
 ---
-title: 744 Erstellen von Benutzern, wenn sich die Organisation im Hybrid Modus befindet
+title: 744 Erstellen von Benutzern, wenn sich die Organisation im Hybridmodus befindet
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "744"
 - "1200022"
-ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 8365e8687939e8759b5e9e0ae3b321b5e0a21c5f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "744"
+ms.date: 04/21/2020
+ms.openlocfilehash: 5ba5b929d478eaa7b7ae61bd57b975fff46c9fee
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746511"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66288586"
 ---
-# <a name="create-users-in-hybrid-deployments"></a>Erstellen von Benutzern in hybridbereitstellungen
+# <a name="create-users-in-hybrid-deployments"></a>Erstellen von Benutzern in Hybridbereitstellungen
 
-Wenn Ihre Organisation eine hybridbereitstellung zwischen einer lokalen Umgebung und Microsoft 365 ist, müssen Sie alle Benutzerobjekte in Ihrer lokalen Active Directory erstellen. Sie erstellen die Benutzerobjekte in der entsprechenden Organisationseinheit (Organizational Unit, OU), sodass Sie in Ihrer Organisation synchronisiert werden.
+Wenn Ihre Organisation eine Hybridbereitstellung zwischen einer lokalen Umgebung und Microsoft 365 ist, müssen Sie alle Benutzerobjekte in Ihrem lokales Active Directory erstellen. Sie erstellen die Benutzerobjekte in der entsprechenden Organisationseinheit (OU), damit sie mit Ihrer Organisation synchronisiert werden.

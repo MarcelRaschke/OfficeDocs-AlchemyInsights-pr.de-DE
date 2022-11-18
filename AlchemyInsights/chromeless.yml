@@ -1,8 +1,2 @@
-### YamlMime:Yaml
-ms.openlocfilehash: 7f0d8bbf94ba99e8f141702a6cbda6c1f795b333
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29470556"
+## YamlMime:ContextObject
 chromeless: true

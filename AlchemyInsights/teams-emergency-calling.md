@@ -1,7 +1,8 @@
 ---
 title: Teams-Notrufe
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +12,12 @@ ms.custom:
 - "9002239"
 - "4348"
 ms.assetid: ''
-ms.openlocfilehash: 13478e3b991f9abe38a39f9c5cf93a45379a53ff
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: a7df90b26ad5ccf67d74e1d2dee453272e7bd701
+ms.sourcegitcommit: c26373c21c837937b41026f56fedfc51b7b80ea7
+ms.translationtype: Auto
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736719"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61955290"
 ---
 # <a name="teams-emergency-calling"></a>Teams-Notrufe
 

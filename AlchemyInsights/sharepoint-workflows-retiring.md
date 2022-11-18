@@ -1,28 +1,27 @@
 ---
 title: SharePoint-Workflows werden eingestellt
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/14/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "5900"
 - "9003071"
-ms.openlocfilehash: cf85e4c45f1d88c3a643e298fac5d539cd127fdf
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+- "5900"
+ms.date: 06/14/2022
+ms.openlocfilehash: 91c66a7fe09baedb88c44ebe08118b5ac5703e78
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477455"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66345921"
 ---
 # <a name="sharepoint-workflows-retiring"></a>SharePoint-Workflows werden eingestellt
 
-SharePoint 2010-Workflows wurden eingestellt. Es wird empfohlen, zu [Power Automate](https://docs.microsoft.com/power-automate/getting-started) oder einer anderen unterstützten Lösung zu migrieren. 
+SharePoint 2010 Workflows wurde zum 1. November 2020 eingestellt mit der Ankündigung, dass wir auch SharePoint Workflow 2013 in Zukunft einstellen würden. Obwohl wir derzeit keine Zeitachse für die Abschaffung von SharePoint 2013 Workflow haben, empfehlen wir Ihnen, Ihre 2013 Workflows auf die Power Automate-Plattform oder eine andere moderne Workflow-Lösung zu verschieben.
 
 Wichtige Termine:
 
@@ -30,4 +29,10 @@ Wichtige Termine:
 
 - Am 1. November 2020 werden alle SharePoint 2010-Workflow-Dienste von bestehenden Mandanten **entfernt**.
 
-Weitere Informationen hierzu finden Sie unter [SharePoint-Workflows-Support](https://aka.ms/sp-workflows-support).
+Weitere Informationen finden Sie unter:
+
+[Anleitung: Anleitung: Von klassischen Workflows zu Power Automate-Flows in SharePoint migrieren](https://aka.ms/sp-workflows-guidance)
+
+[SharePoint 2013-Workflows modernisieren](https://aka.ms/modernize-workflows)
+
+[Microsoft 365 Bewertungstool](https://aka.ms/assessment/workflow)

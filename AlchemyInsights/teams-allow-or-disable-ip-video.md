@@ -1,23 +1,22 @@
 ---
 title: Zulassen oder Deaktivieren von IP-Video in Teams
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: cf2d67170f846db1d5d2f1ca8c8b50902e200e45
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 080661e0c9ead4a524565f934a130aedce09e2e0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670183"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66334245"
 ---
 # <a name="teams-allow-or-disable-ip-video"></a>Zulassen oder Deaktivieren von IP-Video in Teams
 

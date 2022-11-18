@@ -1,24 +1,23 @@
 ---
 title: Ordner „Archiv“ in Outlook und OWA
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/22/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1903"
 - "3100008"
-ms.openlocfilehash: 57a72758e4b00a6822e834b2b8dfda2d079eebf5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1903"
+ms.date: 07/22/2020
+ms.openlocfilehash: 980f90709da8c96e70ad4ef1ed5d626cbe49652a
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716388"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66509286"
 ---
 # <a name="archive-folder-in-outlook-and-owa"></a>Ordner „Archiv“ in Outlook und OWA
 
@@ -26,6 +25,6 @@ ms.locfileid: "47716388"
 
 Wenn Sie den Ordner **Archiv** anzeigen möchten, sorgen Sie dafür, dass die Ordnerliste angezeigt wird, indem Sie **Ansicht** > **Ordnerbereich** und dann **Normal** auswählen.
 
-**Hinweis** Wenn Elemente unerwartet automatisch in den Outlook-Ordner „Archiv“ verschoben werden, haben Sie in Outlook möglicherweise die RÜCKTASTE gedrückt, oder Sie haben in Outlook Desktop, Outlook Web App oder Outlook Mobile App auf die Option **Archivieren** geklickt.
+**Hinweis** Wenn Elemente unerwartet automatisch in den Outlook-Archivordner verschoben werden, haben Sie möglicherweise die Rücktaste in Outlook verwendet oder Sie haben in Outlook Desktop, Outlook Web App oder Outlook Mobile App auf die **Archivoption** geklickt.
 
-Weitere Informationen zum Ordner „Archiv“ in Outlook finden Sie unter [Ordner „Archiv“ in Outlook](https://support.office.com/article/archive-in-outlook-for-windows-25f75777-3cdc-4c77-9783-5929c7b47028) oder für OWA unter [Ordner „Archiv“ in OWA](https://support.office.com/article/organize-your-inbox-with-archive-sweep-and-other-tools-in-outlook-on-the-web-49b26f63-6399-4b4a-a580-14b9b1efe96d?ui=en-US&rs=en-US&ad=US).
+Weitere Informationen zum Ordner „Archiv“ in Outlook finden Sie unter [Ordner „Archiv“ in Outlook](https://support.microsoft.com/office/archive-in-outlook-for-windows-25f75777-3cdc-4c77-9783-5929c7b47028) oder für OWA unter [Ordner „Archiv“ in OWA](https://support.microsoft.com/office/organize-your-inbox-with-archive-sweep-and-other-tools-in-outlook-on-the-web-49b26f63-6399-4b4a-a580-14b9b1efe96d).

@@ -1,37 +1,32 @@
 ---
-title: Behandeln von Problemen mit "Öffnen mit Explorer"
-ms.author: toresing
-author: tomresing
+title: Behandeln von Problemen mithilfe von "Mit Explorer öffnen"
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: e7fe59b94d216d89c2f2f7100a3d8bf7a0b0196e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: d78a347c09abe037b54438d9daca1e6cc64b6ae0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659057"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66345563"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Beheben von Problemen mit dem Öffnen mit dem Explorer
+# <a name="fix-problems-with-open-with-explorer"></a>Beheben von Problemen mit "Mit Explorer öffnen"
 
-Beheben Sie häufige Probleme beim Öffnen einer Dokumentbibliothek in SharePoint oder OneDrive mit dem Befehl **Öffnen mit Explorer** : 
+Beheben Sie häufige Probleme beim Öffnen einer Dokumentbibliothek in SharePoint oder OneDrive mithilfe des Befehls **"Mit Explorer öffnen** ": 
   
-- Verwenden Sie Internet Explorer 10 oder Internet Explorer 11. **Open with Explorer** ist nicht mit Microsoft Edge, Google Chrome, Firefox und anderen kompatibel. **Mit Explorer öffnen** ist in allen Browsern außer Internet Explorer deaktiviert. 
+- Verwenden Sie Internet Explorer 10 oder Internet Explorer 11. **"Mit Explorer öffnen** " ist nicht kompatibel mit Microsoft Edge, Google Chrome, Firefox und anderen. **"Mit Explorer öffnen** " ist in allen Browsern außer Internet Explorer deaktiviert. 
     
-- **Open with Explorer** steht in der modernen Benutzeroberfläche für SharePoint-Bibliotheken nicht zur Verfügung. Verwenden Sie stattdessen die **Ansicht im Datei-Explorer** . Wählen Sie Ansichts **Optionen** \> **anzeigen im Datei-Explorer**aus. Die Ansicht im Datei-Explorer ist nicht mit Microsoft Edge, Google Chrome, Firefox und anderen kompatibel. Im **Datei-Explorer anzeigen** nur in Internet Explorer verfügbar. 
+- **"Mit Explorer öffnen** " ist in der modernen Benutzeroberfläche für SharePoint-Bibliotheken nicht verfügbar. Verwenden Sie **stattdessen "Ansicht in Explorer**". Wählen Sie **"Ansichtsoptionen** \> **anzeigen" in Explorer** aus. Ansicht in Explorer ist nicht kompatibel mit Microsoft Edge, Google Chrome, Firefox und anderen. **Anzeigen in Explorer** nur in Internet Explorer verfügbar. 
     
-- Stellen Sie sicher, dass der WebClient-Dienst aktiv ist. Geben Sie im Feld Windows-Suche ausführen ein, wählen Sie die Option Desktop-App ausführen aus, geben Sie Services. msc ein, und drücken Sie dann die EINGABETASTE. Scrollen Sie nach unten zum WebClient Dienst, und stellen Sie sicher, dass in der Spalte **Status** die Meldung "Running" angezeigt wird. Wenn dies nicht der Fall ist, doppelklicken Sie auf den Dienst, klicken Sie auf **Start**, und klicken Sie dann auf **OK**. (Möglicherweise müssen Sie den Dienst zunächst aktivieren, indem Sie im Feld **Starttyp** entweder **manuell** oder **automatisch** auswählen.) 
+- Stellen Sie sicher, dass der WebClient-Dienst ausgeführt wird. Geben Sie im Windows-Suchfeld "Run" ein, wählen Sie die "Desktop-App ausführen", geben Sie "services.msc" ein, und drücken Sie dann die EINGABETASTE. Scrollen Sie nach unten zum WebClient-Dienst, und stellen Sie sicher, dass in der Spalte " **Status** " "Wird ausgeführt" angezeigt wird. Doppelklicken Sie andernfalls auf den Dienst, klicken Sie auf **"Start**" und dann auf **"OK**". (Möglicherweise müssen Sie den Dienst zuerst aktivieren, indem Sie im **Feld "Starttyp**" entweder "**Manuell**" oder "**Automatisch**" auswählen.) 
     
-> [!NOTE]
-> Das Öffnen einer Bibliothek im Datei-Explorer ist praktisch, wenn Sie mehrere Dateien und Ordner einmal kopieren oder umlegen müssen, aber wenn Sie regelmäßig in der Bibliothek arbeiten möchten, empfehlen wir die Synchronisierung. Informationen zum Behandeln von Problemen, die im Datei-Explorer geöffnet werden, finden Sie unter [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Informationen zum Einrichten der Synchronisierung finden Sie unter [Synchronisieren von SharePoint-Dateien mit dem neuen OneDrive-synchronisierungsclient](https://go.microsoft.com/fwlink/?linkid=871666).
+**Hinweis**: Das Öffnen einer Bibliothek in Explorer ist praktisch, wenn Sie mehrere Dateien und Ordner einmal kopieren oder verschieben müssen, aber wenn Sie regelmäßig in der Bibliothek arbeiten möchten, empfehlen wir, sie zu synchronisieren. Informationen zum Beheben von Problemen beim Öffnen in Explorer finden Sie [unter "Im Explorer öffnen"](https://go.microsoft.com/fwlink/?linkid=871665). Informationen zum Einrichten der Synchronisierung finden Sie unter [Synchronisieren von SharePoint-Dateien mit dem neuen OneDrive-Synchronisation-Client](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Weitere Informationen finden Sie im Artikel [Verwenden des Befehls "Open with Explorer" zur Behandlung von Problemen in SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) . 
-  
-
+Weitere Informationen finden Sie [im Artikel "Verwenden des Befehls "Mit Explorer öffnen", um Probleme in SharePoint Online zu beheben](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) . 

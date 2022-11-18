@@ -1,35 +1,37 @@
 ---
-title: 305 Vergrößern der Archiv Postfachgröße
+title: 305 Vergrößern des Archivpostfachs
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.custom: 305
-ms.assetid: ''
-ms.openlocfilehash: 6bebc17eafd8615a6ffa95dbdf16f60768204aa7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.custom:
+- "3100006"
+- "305"
+- "7494"
+ms.openlocfilehash: f5f9c5d6d84f5922450911e825f9d493d15d1578
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778582"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66434335"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>Vergrößern der Archiv Postfachgröße
+# <a name="increase-the-archive-mailbox-size"></a>Vergrößern des Archivpostfachs
 
+Microsoft 365 schränkt die Größe von Archivpostfächern basierend auf der Lizenz ein, die dem Benutzerkonto zugewiesen ist. Der Benutzer erhält eine E-Mail-Benachrichtigung, wenn das Archivpostfach 90 % seiner zulässigen Größe erreicht.
 
-Wenn Sie möchten, dass automatisierte Prüfungen für die unten aufgeführten Einstellungen ausgeführt werden, wählen Sie die Schaltfläche Zurück <--oben auf dieser Seite aus, und geben Sie dann die e-Mail-Adresse des Benutzers ein, der die Größe des Archivpostfachs erhöhen muss.
+Wenn ein Archivpostfach seine Größenbeschränkung erreicht, kann der Benutzer nicht mehr Elemente in das Archivpostfach verschieben. Microsoft 365 erhöht die Größe eines Archivpostfachs nicht mehr, sobald die Größenbeschränkung erreicht ist. Stattdessen können Benutzer die folgenden Aktionen ausführen, um Speicherplatz im Archivpostfach freizugeben:
 
-Microsoft 365 [schränkt](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) die Größe von archivpostfächern basierend auf der Lizenz ein, die dem Benutzerkonto zugewiesen ist. Wenn das Archivpostfach 90% seiner zulässigen Größe erreicht, erhält der Benutzer eine e-Mail-Benachrichtigung. Wenn ein Archivpostfach seine Größenbeschränkung erreicht, kann der Benutzer keine weiteren Elemente in das Archivpostfach verlagern. Microsoft 365 erhöht nicht die Größe eines Archivpostfachs, nachdem die Größenbeschränkung erreicht wurde. Stattdessen können Benutzer die folgenden Aktionen ausführen, um Speicherplatz im Archivpostfach freizugeben:
-
-- Exportieren Sie die Elemente in eine PST-Datei mit Outlook.
-
+- Exportieren Sie die Elemente mithilfe von Outlook in eine PST-Datei.
 - Elemente aus dem Archivpostfach löschen.
 
-Microsoft 365 bietet **unbegrenzte Archivierung** für Office 365 Enterprise E3-und E5-Lizenzen. Ein Administrator muss dieses Feature aktivieren, bevor das Archivpostfach seine maximale Größe erreicht. Wenn die unbegrenzte Archivierung aktiviert ist, kann es bis zu 30 Tage dauern, bis dem Archivpostfach freier Speicherplatz hinzugefügt wird. Daher wird empfohlen, dass Administratoren den freien Speicherplatz im Archivpostfach überprüfen, sodass der Benutzer das Archivpostfach weiterhin verwenden kann, während es erweitert wird. Weitere Informationen finden Sie unter [Overview of Unlimited Archiving in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) und [enable Unlimited Archiving in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
+Microsoft 365 bietet jedoch die automatisch erweiterte Archivierung für Office 365 Enterprise E3- und E5-Lizenzen. Dies muss aktiviert sein, bevor das Archivpostfach seine maximale Größe erreicht. Wenn das automatisch erweiterte Archiv aktiviert ist, kann es bis zu 30 Tage dauern, bis freie Speicherplatz zum Archivpostfach hinzugefügt wird.
 
-Weitere Informationen zum Zugriff auf das Archivpostfach in Outlook finden Sie unter [Outlook-Anforderungen für den Zugriff auf Elemente in einem automatisch erweiterten Archiv](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Informationen zum Konfigurieren einer Aufbewahrungsrichtlinie, die Elemente automatisch in das Archivpostfach verschiebt, finden Sie unter [Einrichten einer Archiv-und Löschrichtlinie für Postfächer in Ihrer Microsoft 365-Organisation](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
+Weitere Informationen finden Sie [unter Übersicht über automatisch erweiterte Archivierung](https://docs.microsoft.com/microsoft-365/compliance/autoexpanding-archiving) und Aktivieren der [automatisch erweiterten Archivierung – Admin Hilfe](https://docs.microsoft.com/microsoft-365/compliance/enable-autoexpanding-archiving).
 
-**Hinweis**: automatisch expandierende Archive werden für primäre Postfächer in Exchange 2010 nicht unterstützt.
+Informationen zum Zugreifen auf das Archiv mit Outlook finden Sie unter [Outlook-Anforderungen für den Zugriff auf Elemente in einem automatisch erweiterten Archiv](https://docs.microsoft.com/microsoft-365/compliance/autoexpanding-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive).
+
+Informationen zum Konfigurieren einer Aufbewahrungsrichtlinie, die Elemente automatisch in das Archivpostfach verschiebt, finden Sie unter [Einrichten einer Archiv- und Löschrichtlinie für Postfächer in Ihrer Microsoft 365-Organisation](https://docs.microsoft.com//microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes).

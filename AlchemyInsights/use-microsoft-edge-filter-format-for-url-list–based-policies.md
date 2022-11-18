@@ -1,25 +1,24 @@
 ---
-title: Verwenden des Microsoft Edge-Filter Formats für URL-listenbasierte Richtlinien
+title: Verwenden des Microsoft Edge-Filterformats für listenbasierte URL-Richtlinien
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9004031"
 - "7101"
-ms.openlocfilehash: 285864ccc74d40e3bf1472a1bf2e120827f85fc6
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.date: 12/03/2020
+ms.openlocfilehash: 042c6924d492b7d32afb51f8c369ff03d2a3abf1
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571831"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66522030"
 ---
-# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>Verwenden des Microsoft Edge-Filter Formats für URL-listenbasierte Richtlinien
+# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>Verwenden des Microsoft Edge-Filterformats für listenbasierte URL-Richtlinien
 
-In Microsoft Edge-Versionen 77 und höher kann das Filter Format für [URL-listenbasierte Richtlinien](https://go.microsoft.com/fwlink/?linkid=2135179)verwendet werden.
+In Microsoft Edge, Version 77 und höher, kann das Filterformat für [URL-listenbasierte Richtlinien](https://go.microsoft.com/fwlink/?linkid=2135179) verwendet werden.

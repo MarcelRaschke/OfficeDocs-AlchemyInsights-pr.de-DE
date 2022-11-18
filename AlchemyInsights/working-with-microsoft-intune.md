@@ -1,28 +1,27 @@
 ---
 title: Verwenden von Microsoft Intune
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/17/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "862"
 - "670000"
-ms.openlocfilehash: 8d900198114703fb31157fa9724f4f9711b7b8c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "862"
+ms.date: 07/17/2020
+ms.openlocfilehash: 387da8093f387ac200f553c4c6cc52f9b0fc6ba4
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796359"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66521778"
 ---
 # <a name="working-with-microsoft-intune"></a>Verwenden von Microsoft Intune
 
-Es scheint, dass Sie Fragen zu Intune haben. Möglicherweise können wir Ihnen eine genauere Antwort geben, wenn Sie Ihre Frage mit einem oder zwei kurzen Sätzen, die Ihr Problem beschreiben, umformulieren, z. B. Fehler, verwendete Features und so weiter. In der Zwischenzeit finden Sie hier einige Informationen zu Intune.
+Es scheint, dass Sie Fragen zu Intune haben. Wir können Ihnen möglicherweise bei einer präziseren Antwort helfen, wenn Sie Ihre Frage mit einem oder zwei kurzen Sätzen neu formulieren, in denen Ihr Problem beschrieben wird, einschließlich Fehlern, verwendeten Features usw. In der Zwischenzeit finden Sie hier einige Informationen zu Intune.
 
 - [Was ist Intune?](https://docs.microsoft.com/intune/what-is-intune)
 - [Sie möchten sich für die Intune-Testversion registrieren?](https://docs.microsoft.com/intune/free-trial-sign-up)

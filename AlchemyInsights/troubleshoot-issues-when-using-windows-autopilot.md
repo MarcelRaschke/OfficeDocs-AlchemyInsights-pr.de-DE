@@ -1,30 +1,29 @@
 ---
-title: Behandeln von Problemen bei der Verwendung von Windows Autopilot
+title: Behandeln von Problemen bei der Verwendung von Windows AutoPilot
 ms.author: erikje
 author: erikje
 manager: dougeby
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: b86230d1073f2423a6abf694d5330dd72fec7912
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: b8ea1daf0561fb0c381cbe1c6bc4aaeefab63a8e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949744"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66371631"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Behandeln von Problemen bei der Verwendung von Windows Autopilot
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Behandeln von Problemen bei der Verwendung von Windows AutoPilot
 
-Wenn Sie ein Problem mit Autopilot haben, lesen Sie die Seite [Autopilot Troubleshooting](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) and [Known Issues](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) .
+Wenn Sie ein Problem mit AutoPilot haben, lesen Sie die [Autopilot-Seite "Problembehandlung"](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) und " [Bekannte Probleme"](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) .
 
-Wenn Sie ein Problem mit dem Windows Autopilot-anhalten während einer Phase der Registrierungs Status Seite (ESP) haben, lesen Sie das folgende Dokument, um Hinweise zur Problembehandlung zu erhalten. [Verstehen und Problembehandlung der Registrierungs Status Seite](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
+Wenn sie ein Problem haben, dass Windows AutoPilot während einer Registrierungsstatusseite (ESP)-Phase beendet wird, lesen Sie das folgende Dokument, um Hinweise zur Problembehandlung zu erhalten. [Grundlegendes zur Seite "Registrierungsstatus" und Problembehandlung](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
 
-Wenn Sie Autopilot mit Hololens 2-Geräten ausprobieren möchten, lesen Sie unbedingt die Dokumentation "[Windows Autopilot for Hololens 2](https://docs.microsoft.com/hololens/hololens2-autopilot) ". Dies hilft Ihnen, die Voraussetzungen und empfohlenen Schritte für die Registrierung von Hololens 2 mithilfe von Autopilot zu verstehen.  
+Wenn Sie Autopilot mit Hololens 2-Geräten ausprobieren möchten, überprüfen Sie bitte die Dokumentation "[Windows Autopilot für HoloLens 2](https://docs.microsoft.com/hololens/hololens2-autopilot). Dies hilft Ihnen, die Voraussetzungen und empfohlenen Schritte für die Registrierung von Hololens 2 mit Autopilot zu verstehen.  
 
-Weitere Informationen zum Einrichten von Windows Autopilot finden Sie unter [Registrieren von Windows-Geräten in InTune mithilfe von Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)
+Weitere Informationen zum Einrichten von Windows Autopilot finden Sie unter [Registrieren von Windows-Geräten in Intune mithilfe von Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)

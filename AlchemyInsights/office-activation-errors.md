@@ -1,23 +1,22 @@
 ---
 title: Office-Aktivierungsfehler
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: e3c3f53b5e053cec00010e8d321f3f48bbfd5bab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 18c5fc7486818ba230aa2af7124501a349766de8
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702146"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66565393"
 ---
 # <a name="office-activation-errors"></a>Office-Aktivierungsfehler
 
@@ -29,4 +28,4 @@ ms.locfileid: "47702146"
 
 4. Wenn Office noch nicht lizenziert ist, [setzen Sie den Office-Aktivierungsstatus zurück](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). Starten Sie Office anschließend neu, und melden Sie sich mit Ihrem Geschäfts-, Schul- oder Unikonto an.  
 
-5. Weitere Informationen zu Problembehandlungsmaßnahmen finden Sie unter [Fehler "Nicht lizenziertes Produkt" und Aktivierungsfehler in Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+5. Weitere Informationen zu Problembehandlungsmaßnahmen finden Sie unter [Fehler "Nicht lizenziertes Produkt" und Aktivierungsfehler in Office](https://support.microsoft.com/office/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).

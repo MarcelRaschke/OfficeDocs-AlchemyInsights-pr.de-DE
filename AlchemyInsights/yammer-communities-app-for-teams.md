@@ -1,25 +1,24 @@
 ---
 title: Yammer Communities-App für Microsoft Teams
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
+- "9002653"
 - "9002493"
 - "5134"
-- "9002653"
 - "5129"
-ms.openlocfilehash: 89d71126b5663ea11f7ca9166b2e72e854953dcf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08650f09619632c01f0566948f75d7d3214ffb3e
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664385"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66508386"
 ---
 # <a name="yammer-communities-app-for-microsoft-teams"></a>Yammer Communities-App für Microsoft Teams
 

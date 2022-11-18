@@ -1,33 +1,29 @@
 ---
 title: Zuordnen einer SharePoint-Bibliothek zu einem Netzlaufwerk
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 9115a3ab8d1234127a95628a9a49679ef06f6d39
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 617be6e145755018f856faef163f9d9fc1662d9c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806182"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66432859"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>Zuordnen einer SharePoint-Bibliothek zu einem Netzlaufwerk
 
-Das Zuordnen einer Bibliothek als Netzlaufwerk ist temporär und wird nur über Internet Explorer unterstützt. Sie müssen die SharePoint-Website gelegentlich in Internet Explorer öffnen und die Option " **angemeldet bleiben** " auswählen, um zu verhindern, dass die Sitzung abläuft. Synchronisieren Sie stattdessen [SharePoint-Dateien mit dem neuen OneDrive-synchronisierungsclient](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) , </a> der [Dateien bei Bedarf](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)bereitstellt. Greifen Sie auf alle Ihre Dateien auf OneDrive zu, ohne lokalen Speicherplatz zu verwenden.
+Synchronisieren Sie SharePoint-Dateien mit dem neuen OneDrive-Synchronisation-Client, der Dateien bei Bedarf bereitstellt, anstatt ein Netzlaufwerk zu zuordnen. Greifen Sie auf alle Ihre Dateien auf OneDrive zu, ohne lokalen Speicherplatz zu verwenden. Weitere Informationen finden Sie unter [Synchronisieren von SharePoint- und Teams-Dateien mit Ihrem Computer](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88) und [Speichern von Speicherplatz mit OneDrive-Dateien bei Bedarf für Windows 10](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e).
 
-Wenn Sie ein Laufwerk anstelle des [neuen OneDrive-Synchronisierungs Clients](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)zuordnen möchten, müssen Sie die Schritte im folgenden Artikel durchführen. 
+Wenn Sie ein Laufwerk zuordnen möchten, anstatt [den neuen OneDrive-Synchronisation-Client](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88) zu verwenden, stellen Sie sicher, dass Sie die folgenden Schritte ausführen:
 
+- [Problembehandlung bei zugeordneten Netzwerken, die mit SharePoint Online verbunden sind](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-**Konfigurieren und Problembehandlung von zugeordneten Netzlaufwerken**
+- [Authentifizierungsfehler treten auf, wenn der Client keine TLS 1.2-Unterstützung hat](https://docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
-
-Siehe [Problembehandlung bei zugeordneten Netzlaufwerken, die eine Verbindung mit SharePoint Online herstellen](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
-
-Hinweis: Wenn Sie Internet Explorer 10 mit Windows 8 oder Windows 7 verwenden und beim Zuordnen eines Laufwerks **auf Zugriff verweigert** oder **Pfad nicht zugegriffen** werden kann, installieren Sie [diesen Hotfix](https://support.microsoft.com/help/2846960) , um dieses Problem zu beheben. 
+**HINWEIS:** Wenn Sie Internet Explorer 10 mit Windows 8 oder Windows 7 verwenden und **Zugriff verweigert** erhalten oder der Pfad beim Zuordnen eines Laufwerks **nicht zugänglich ist**, beheben Sie dieses Problem, indem Sie diesen [Hotfix](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d) installieren.

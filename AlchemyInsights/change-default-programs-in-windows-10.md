@@ -1,24 +1,23 @@
 ---
 title: Ändern von Standardprogrammen in Windows 10
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/25/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6020"
 - "9003210"
-ms.openlocfilehash: a315796f4e03f6bb5e94e6115493310d2b1a1ea2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6020"
+ms.date: 08/25/2020
+ms.openlocfilehash: 92b90ee5a7c4843a699df1f04b6f6346bd5d651b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748271"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66328413"
 ---
 # <a name="change-default-programs-in-windows-10"></a>Ändern von Standardprogrammen in Windows 10
 

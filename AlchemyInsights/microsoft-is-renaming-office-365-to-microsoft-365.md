@@ -1,23 +1,22 @@
 ---
 title: Office 365 wird in Microsoft 365 umbenannt
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002346"
 - "4566"
-ms.openlocfilehash: 9d201cc2286fc609e1295caecd60b9453fd124f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bbdd83ba3bf07d4c671131327de3464deaedad75
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724830"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66420178"
 ---
 # <a name="microsoft-is-renaming-office-365-to-microsoft-365"></a>Office 365 wird in Microsoft 365 umbenannt
 

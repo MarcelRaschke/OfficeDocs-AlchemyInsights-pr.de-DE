@@ -1,22 +1,22 @@
 ---
 title: Microsoft qualifizierte Bildungseinrichtung und Fernstudium (Lehren und Lernen)
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.custom: ''
-ms.assetid:
+ms.localizationpriority: high
+ms.custom:
 - "1500009"
 - "4495"
-ms.openlocfilehash: 8943f2f8243d908f07823da534e16f80cd7d4903
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b9e61e1ad70c6783783c61886847e5e65edc24f
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795783"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66592699"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Microsoft qualifizierte Bildungseinrichtung und Fernstudium (Lehren und Lernen)
 
@@ -26,10 +26,10 @@ Sie erhalten die Office 365 A1 für Lehrpersonal – Testversion und Office 365 
 
 Sie erhalten eine Е-Mail, in der Sie darüber informiert werden, ob die Teilnahmeberechtigung Ihrer Organisation genehmigt wurde.  
 
-Wenn Sie die Genehmigung erhalten haben, können Sie zur Registerkarte [Dienste kaufen](https://admin.microsoft.com/Adminportal/Home#/catalog) im Microsoft 365 Admin Center wechseln, um Abonnements zu kaufen.
+Wenn Sie die Genehmigung erhalten haben, können Sie zur Registerkarte [Dienste kaufen](https://admin.microsoft.com/AdminPortal/Home?ref=catalog) im Microsoft 365 Admin Center wechseln, um Abonnements zu kaufen.
 
 **Fernstudium (Lehren und Lernen)**
 
-Schauen Sie sich bitte [Fernstudium (Lehren und Lernen) in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) an, um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Schülern zu erhalten.
+Schauen Sie sich bitte [Fernstudium (Lehren und Lernen) in Office 365 Education](https://support.microsoft.com/topic/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) an, um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Schülern zu erhalten.
 
 Zusätzliche IT-Anleitungen finden Sie unter[Erste Schritte mit Microsoft Teams für Fernunterricht](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)und[Übergang zum Fernunterricht](https://www.microsoft.com/education/remote-learning).

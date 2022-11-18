@@ -1,29 +1,28 @@
 ---
-title: Ersetzen eines Wortes oder einer Phrase
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Ersetzen eines Worts oder Ausdrucks
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001453"
 - "3465"
-ms.openlocfilehash: 47a631bd045d3a3ae889d00d8e4ac615948a0d0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 424b4f014e465b26e26e6deea892dd17ce401d6e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692690"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66347763"
 ---
-# <a name="replace-a-word-or-phrase"></a>Ersetzen eines Wortes oder einer Phrase
+# <a name="replace-a-word-or-phrase"></a>Ersetzen eines Worts oder Ausdrucks
 
-So ersetzen Sie mehrere Instanzen eines Wortes oder einer Phrase in einem Word-Dokument:
+So ersetzen Sie mehrere Instanzen eines Worts oder Ausdrucks in einem Word-Dokument
 
-1. Wechseln Sie zu **Pos1**  >  **ersetzen**, oder drücken Sie STRG + H.
-2. Geben Sie im Feld **Suchen** nach das Wort oder den Ausdruck ein, den Sie ersetzen möchten. 
-3. Geben Sie im Feld **Ersetzen durch** den neuen Text ein.
-3. Wählen Sie **Alle ersetzen** aus, um alle Vorkommen des Wortes oder Satzes zu ändern, oder wählen Sie **weiter suchen** aus, bis Sie die zu aktualisierenden (n) suchen, und wählen Sie dann **ersetzen**aus.
+1. Wechseln Sie zu **"Start** > **ersetzen"**, oder drücken Sie STRG+H.
+2. Geben Sie im Feld **"Suchen nach** " das Wort oder den Ausdruck ein, das bzw. den Sie ersetzen möchten. 
+3. Geben Sie im Feld **"Ersetzen durch** " ihren neuen Text ein.
+3. Wählen Sie **"Alle ersetzen"** aus, um alle Vorkommen des Worts oder Ausdrucks zu ändern, oder wählen Sie " **Weitersuchen** " aus, bis Sie die zu aktualisierenden Elemente gefunden haben, und wählen Sie dann **"Ersetzen"** aus.

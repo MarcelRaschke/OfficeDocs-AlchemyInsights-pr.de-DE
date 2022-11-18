@@ -1,27 +1,27 @@
 ---
-title: Anrufwarteschlangen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Anrufwarteschleifen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 2cbb823c2051fd3c78233ce9ec5b090519654e69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efac2efb73482d84e38b4e166e2a4639fa14645b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734334"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66274276"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Anrufwarteschlangen in Microsoft Teams und Skype for Business 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Anrufwarteschleifen in Microsoft Teams und Skype for Business 
 
-Die ersten Schritte zur Verwendung von Anrufwarteschlangen finden Sie unter den folgenden Links.
+Anrufwarteschleifen erfordern spezifische Lizenzierungs- und Ressourcenkonten. Ausführliche Informationen finden [Sie unter Planen automatischer Telefonzentralen und Anrufwarteschleifen für Teams: Voraussetzungen](https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites). 
 
-- [Erstellen einer Cloudanrufwarteschleife](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Direktes Beantworten von Anrufen aus der automatischen Telefonzentrale und der Anrufwarteschleife aus Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+Informationen zum Erstellen und Einrichten von Anrufwarteschleifen in Microsoft Teams finden [Sie unter Erstellen einer Anrufwarteschleife](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue). 
+
+Weitere Informationen finden Sie [unter Antworten auf automatische Telefonzentralen und Anrufwarteschleifenanrufe direkt aus Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 

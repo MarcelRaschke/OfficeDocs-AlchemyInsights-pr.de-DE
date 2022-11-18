@@ -1,23 +1,22 @@
 ---
 title: Steuern des Zugriffs auf Öffentliche Ordner mit Outlook
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 4ef62fe8c9cc438c48ed8897a8b3385b15669cdc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33033b6581d7c6d1e656f4aaadbd661b82a9fa1e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680485"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66325515"
 ---
 # <a name="control-access-to-public-folders-using-outlook"></a>Steuern des Zugriffs auf Öffentliche Ordner mit Outlook
 

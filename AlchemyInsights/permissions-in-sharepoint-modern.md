@@ -1,24 +1,23 @@
 ---
 title: Berechtigungen in der modernen SharePoint-Oberfläche
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/15/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6870"
 - "9000156"
-ms.openlocfilehash: 1a0eccacbb6521aa4ffc15f08d99ebc10b32a15c
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+- "6870"
+ms.date: 07/15/2020
+ms.openlocfilehash: 00caf90e91540415143fc2c96edac7653a92c337
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791525"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66363567"
 ---
 # <a name="permissions-in-the-sharepoint-modern-experience"></a>Berechtigungen in der modernen SharePoint-Oberfläche
 

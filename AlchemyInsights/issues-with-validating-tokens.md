@@ -3,22 +3,21 @@ title: Probleme mit der Validierung von Token
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/20/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7779"
 - "9004351"
-ms.openlocfilehash: 6f38c07bcf37ab31381bbc0eed04b666ac56fb6b
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+- "7779"
+ms.date: 01/20/2021
+ms.openlocfilehash: 6ceced077ae90bf1bbb1493b5c43eeb87e15c94f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911999"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66433651"
 ---
 # <a name="issues-with-validating-tokens"></a>Probleme mit der Validierung von Token
 

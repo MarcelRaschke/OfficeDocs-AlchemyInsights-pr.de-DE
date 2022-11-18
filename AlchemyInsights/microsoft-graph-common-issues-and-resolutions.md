@@ -1,31 +1,30 @@
 ---
-title: Microsoft Graph-häufige Probleme und Lösungen
-ms.author: v-aiyengar
+title: Microsoft Graph häufig auftretende Probleme und Lösungen
 author: AshaIyengar21
+ms.author: v-aiyengar
 manager: dansimp
-ms.date: 11/16/2020
-ms.audience: Admin
+audience: Admin
 ms.service: o365-administration
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: f6473c35cd0a0b2b5450039fca1b407f0f3f6fda
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.date: 11/16/2020
+ms.openlocfilehash: 478076c9d220faf23e00bef2ad7c43cbc0decf0b
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086375"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63306617"
 ---
-# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graph-häufige Probleme und Lösungen
+# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graph häufig auftretende Probleme und Lösungen
 
-Eine vollständige Liste der bekannten Probleme mit Microsoft Graph finden Sie unter [bekannte Probleme mit Microsoft Graph](https://docs.microsoft.com/graph/known-issues). Weitere Fragen und Ressourcen finden Sie auf der [Microsoft Graph-Haupt Dokumentations](https://docs.microsoft.com/graph/) Seite.
+Eine vollständige Liste bekannter Probleme mit Microsoft Graph finden Sie unter [Bekannte Probleme mit Microsoft Graph](https://docs.microsoft.com/graph/known-issues). Weitere Fragen und Ressourcen finden Sie auf der Hauptseite der [Microsoft Graph-Dokumentation](https://docs.microsoft.com/graph/).
 
-- [Referenz zur Microsoft Graph-Rest-API v 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
-- Erfahren Sie, was sich in der Microsoft Graph-API aus dem [ChangeLog](https://docs.microsoft.com/graph/changelog)geändert hat. 
-- Stellen [Sie eine Frage oder geben Sie Feedback zu den Graph-APIs und-Dokumenten](https://aka.ms/GraphDeveloperSupport) mit dem Entwickler Support Team.
+- [Referenz zur Microsoft Graph REST-API v1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true).
+- Erfahren Sie im [Changelog](https://docs.microsoft.com/graph/changelog), was sich in der Microsoft Graph-API geändert hat.
+- [Stellen Sie eine Frage oder geben Sie Feedback zu den Graph APIs und Dokumenten](https://aka.ms/GraphDeveloperSupport) mit dem Entwicklersupportteam.
 
-Unified Support und Premier-Kunden können ein Support Ticket mithilfe dieses Portals auslösen. Andere können auf die ﻿kostenlose Entwickler Unterstützung für Microsoft Graph unter [Microsoft Q&A](https://aka.ms/AskGraph)zugreifen.
+Unified Support und Premier-Kunden können über dieses Portal ein Supportticket lösen. Andere können auf den kostenlosen Entwicklersupport für Microsoft Graph in [Microsoft Q&A](https://aka.ms/AskGraph) zugreifen.

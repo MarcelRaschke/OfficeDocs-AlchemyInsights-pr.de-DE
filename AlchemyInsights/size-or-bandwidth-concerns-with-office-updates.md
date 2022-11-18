@@ -1,24 +1,23 @@
 ---
 title: Probleme mit Größe oder Bandbreite von Office-Updates
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1745"
 - "9000140"
-ms.openlocfilehash: 2bc79cbb2213392211a7be4c7746e97d2186227c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1745"
+ms.date: 07/24/2020
+ms.openlocfilehash: fe3b91182dec82894585f894577e877d564c5d85
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719556"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66262990"
 ---
 # <a name="size-or-bandwidth-concerns-with-office-updates"></a>Probleme mit Größe oder Bandbreite von Office-Updates
 

@@ -3,22 +3,21 @@ title: Anforderung zum Entsperren der Godaddy-Domäne
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "7682"
 - "9"
-ms.openlocfilehash: 6273a97f264a40c30c27e58ece7d305d1421aceb
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.date: 01/15/2021
+ms.openlocfilehash: 9b96bf4ba6db4548eeb06f7eef941686b1a27de6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886824"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66389775"
 ---
 # <a name="godaddy-domain-unblock-request"></a>Anforderung zum Entsperren der Godaddy-Domäne
 

@@ -1,24 +1,23 @@
 ---
 title: Behandeln von Problemen mit dem Ressourcenzugriff
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/28/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1750"
 - "9000076"
-ms.openlocfilehash: 720dc31dc4db98714e5f8aa7a6ce95d83b6b0229
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1750"
+ms.date: 07/28/2020
+ms.openlocfilehash: 1a9a261f1f015027851511d57f0d5157bf7e2882
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664889"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66345045"
 ---
 # <a name="troubleshoot-resource-access-issues"></a>Behandeln von Problemen mit dem Ressourcenzugriff
 

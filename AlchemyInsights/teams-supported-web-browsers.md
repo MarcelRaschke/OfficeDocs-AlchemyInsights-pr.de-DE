@@ -1,24 +1,23 @@
 ---
-title: Von Microsoft Teams unterstützte Webbrowser
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Von Teams unterstützte Webbrowser
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 7ede4f52740835b0690648ad17cafbea50929f61
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: deceeb0cc38d8f2c83d71c2e56be8b7c56b31985
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750522"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66262126"
 ---
-# <a name="teams-supported-web-browsers"></a>Von Microsoft Teams unterstützte Webbrowser
+# <a name="teams-supported-web-browsers"></a>Von Teams unterstützte Webbrowser
 
-Microsoft Teams unterstützt die im Artikel " [Limits and Specifications" für Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)aufgelisteten Internet Browser mit festgestellten Ausnahmen für Anrufe und Besprechungen vollständig.
+Teams unterstützt die im Artikel, [den Grenzwerten und Spezifikationen für Microsoft Teams aufgeführten](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers) Internetbrowser vollständig, mit den aufgeführten Ausnahmen für Anrufe und Besprechungen.

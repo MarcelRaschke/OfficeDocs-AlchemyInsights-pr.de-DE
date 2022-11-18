@@ -1,30 +1,29 @@
 ---
 title: Zugreifen auf einen Kalender in einem öffentlichen Ordner in OWA (Outlook im Web)
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/25/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "634"
 - "3500007"
-ms.openlocfilehash: 15b0e35b754150ef0fc9e7a0eb9ac20fa7fbf14d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "634"
+ms.date: 08/25/2020
+ms.openlocfilehash: 26830d0da0f1cc9680437d88ab36f6b763f10b7d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663684"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66261154"
 ---
 # <a name="access-a-public-folder-calendar-in-owa-outlook-on-the-web"></a>Zugreifen auf einen Kalender in einem öffentlichen Ordner in OWA (Outlook im Web)
 
 1. Melden Sie sich bei OWA an, klicken Sie mit der rechten Maustaste auf **Ordner**, und wählen Sie **Öffentlichen Ordner zu Favoriten hinzufügen** aus.
 
-2. Navigieren Sie durch die Hierarchie, wählen Sie den gewünschten öffentlichen Ordner aus, und wählen Sie **Öffentlichen Ordner hinzufügen** aus. Schließen Sie das Menü **Öffentlichen Ordner hinzufügen**.  
+2. Browsen Sie durch die Hierarchie, wählen Sie den gewünschten öffentlichen Ordner aus, und wählen Sie **Öffentlichen Ordner hinzufügen** aus. Schließen Sie das Menü **Öffentlichen Ordner hinzufügen**.  
 
 3. Wählen Sie das Symbol „Kalender“ aus. Der Kalender im öffentlichen Ordner wird unter **Andere Kalender** angezeigt.  
 

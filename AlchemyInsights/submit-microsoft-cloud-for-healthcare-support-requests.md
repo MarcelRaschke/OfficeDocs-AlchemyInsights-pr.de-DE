@@ -1,23 +1,22 @@
 ---
 title: Senden Sie Microsoft Cloud für Gesundheitswesen-Supportanfragen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6811"
 - "9003813"
-ms.openlocfilehash: 4dd4b38efa361372d6d59874f9738a0bf5d0a7c7
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+- "6811"
+ms.openlocfilehash: 2f6de7982205eaa9025f06f4d36e75f897eba3e7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48816000"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66372351"
 ---
 # <a name="submit-microsoft-cloud-for-healthcare-support-requests"></a>Senden Sie Microsoft Cloud für Gesundheitswesen-Supportanfragen
 

@@ -1,24 +1,23 @@
 ---
 title: Automatische Bereinigung veralteter Geräte in Intune
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/28/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1285"
 - "6700008"
-ms.openlocfilehash: 49a15132253c59189e343aeaa1c11d450b344896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1285"
+ms.date: 07/28/2020
+ms.openlocfilehash: a4f7138e7cbe4e4b4beb2f5c2e7f673c68aa201c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715020"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66359787"
 ---
 # <a name="automatic-cleanup-of-stale-devices-in-intune"></a>Automatische Bereinigung veralteter Geräte in Intune
 

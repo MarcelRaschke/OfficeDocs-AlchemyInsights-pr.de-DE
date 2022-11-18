@@ -1,31 +1,30 @@
 ---
-title: Ändern des Bilds in Outlook.com
+title: Bild in Outlook.com ändern
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 81ce6c8b-6f73-4489-9539-f14680168a8e
+ms.localizationpriority: medium
 ms.custom:
 - "8000036"
 - "793"
-ms.openlocfilehash: 9b3f884bc30f2d61bab47cacbf0188f05e00c343
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: a2152fa2e6873f51869773caa2faa2dac58eeb2c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802452"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66419566"
 ---
-# <a name="change-your-microsoft-account-picture"></a>Ändern Ihres Microsoft-Konto Bilds
+# <a name="change-your-microsoft-account-picture"></a>Ändern des Microsoft-Kontobilds
 
-1. Wechseln [Sie zu Ihren Microsoft-Kontoinformationen](https://go.microsoft.com/fwlink/p/?linkid=860841).
-2. Wählen Sie **Grafik ändern**aus.
-3. Wählen Sie **Neues Bild**aus.
-4. Wählen Sie das Bild aus, das Sie verwenden möchten, und wählen Sie **Öffnen**aus.
-5. Ziehen oder ändern Sie die Größe des Bild Felds, und wählen Sie **Speichern**aus.
+1. Wechseln Sie zu [Ihren Microsoft-Kontoinformationen](https://go.microsoft.com/fwlink/p/?linkid=860841).
+2. Wählen Sie **"Bild ändern" aus**.
+3. Wählen Sie **"Neues Bild" aus**.
+4. Wählen Sie das Bild aus, das Sie verwenden möchten, und wählen Sie **"Öffnen**" aus.
+5. Ziehen oder ändern Sie die Größe des Bildfelds, und wählen Sie **"Speichern"** aus.
 
-Bitte warten Sie bis zu 24 Stunden, bis Änderungen an Ihrem Profilfoto wirksam werden.
+Bitte lassen Sie bis zu 24 Stunden zu, bis Änderungen an Ihrem Profilfoto wirksam werden.

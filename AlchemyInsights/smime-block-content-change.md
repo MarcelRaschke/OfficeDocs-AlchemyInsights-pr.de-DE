@@ -1,26 +1,26 @@
 ---
-title: Änderung von SMIME-Blockinhalten
+title: SMIME-Inhaltsänderung blockieren
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1275"
 - "1800028"
-ms.openlocfilehash: f337e48f12e3900bcf5ed37a1905835c096ecb33
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1275"
+ms.date: 04/21/2020
+ms.openlocfilehash: 763f7918c243dd76692bc67c9dd122b7a641781e
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770262"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66595786"
 ---
-# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook wird nun standardmäßig Blockieren externer Inhalte in S/MIME
+# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook blockiert nun standardmäßig externe Inhalte in S/MIME
 
-Wir führen zusätzliche Sicherheitsmaßnahmen in Outlook für Windows ein, indem Sie externe Inhalte in S/MIME-verschlüsselten und signierten Nachrichten standardmäßig blockieren und Außerkraftsetzungen pro Nachricht verhindern.
+Wir führen zusätzliche Sicherheitsmaßnahmen in Outlook für Windows ein, indem externe Inhalte in S/MIME-verschlüsselten und signierten Nachrichten standardmäßig blockiert und Außerkraftsetzungen pro Nachricht verhindert werden.
 
-Ausführliche Informationen finden Sie unter [Outlook für Windows blockiert externe Inhalte in S/MIME-Nachrichten](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e).
+Ausführliche Informationen finden Sie unter [Outlook für Windows blockiert externe Inhalte in S/MIME-Nachrichten](https://support.microsoft.com/office/outlook-for-windows-blocks-external-content-in-s-mime-messages-2d3a4af1-fe41-475f-a888-fc7b997d112e).

@@ -1,22 +1,22 @@
 ---
 title: Endgültiges Löschen einer Site in SharePoint
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.custom: ''
-ms.assetid:
+ms.localizationpriority: high
+ms.custom:
 - "5200006"
 - "4391"
-ms.openlocfilehash: bde31f9b197118467ed96d665a9c8edf6b789965
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5468eaa64a0b1f8493299faff2e78972af20543e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771720"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66305535"
 ---
 # <a name="permanently-delete-a-site-in-sharepoint"></a>Endgültiges Löschen einer Site in SharePoint
 

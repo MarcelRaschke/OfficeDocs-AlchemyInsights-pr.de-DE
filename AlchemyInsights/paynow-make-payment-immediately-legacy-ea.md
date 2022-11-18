@@ -1,32 +1,31 @@
 ---
-title: Jetzt bezahlen/Zahlung sofort tätigen
+title: PayNow/Zahlung sofort vornehmen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 950d5a937b7ddca57b6d783a7104bb4ada4f2408
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755690"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66281854"
 ---
-# <a name="paynowmake-payment-immediately"></a>Jetzt bezahlen/Zahlung sofort tätigen
+# <a name="paynowmake-payment-immediately"></a>PayNow/Zahlung sofort vornehmen
 
-Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten Ihr Problem selbst lösen, nachdem Sie unsere Dokumentation befolgen.
+Basierend auf Ihrer Problembeschreibung haben wir eine Lösung für Sie gefunden. Die meisten Kunden konnten ihr Problem nach dem Folgen unserer Dokumentation selbst beheben.
 
-Bei einem Azure Enterprise-Vertrags Abonnement wird die Methode hinzufügen/aktualisieren/ändern der Zahlungsmethode nicht unterstützt. Wenn Sie die Adresse in einer vorhandenen Rechnung ändern möchten, wenden Sie sich an Ihren Microsoft-Mitarbeiter.
+Für ein Azure Enterprise-Vertragsabonnement wird das Hinzufügen/Aktualisieren/Ändern der Zahlungsmethode nicht unterstützt. Wenn Sie die Adresse auf einer vorhandenen Rechnung ändern möchten, wenden Sie sich bitte an Ihren Microsoft-Vertreter.
 
-Wenn Sie Ihre Azure-Vorauszahlung zum Ausgleich der Rechnungen für Azure-Verbrauch und/oder-Käufe verwenden möchten, wenden Sie sich an den Support. Beachten Sie, dass Gebühren separat abgerechnet werden und Marketplace-Dienste nicht mit Azure-Vorauszahlung versetzt werden können. Stellen Sie bei indirekter Registrierung sicher, dass Ihre Partner über mögliche Auswirkungen auf Rechnungen informiert sind. Für Direktkunden empfiehlt es sich, ihren Bill-To Kontakt auf dem Laufenden zu halten.
+Wenn Sie Ihre Azure-Vorauszahlung verwenden möchten, um die Rechnungen für Azure-Verbrauch und/oder -Einkäufe zu begleichen, wenden Sie sich an den Support. Beachten Sie, dass Gebühren, die separat in Rechnung gestellt werden, und Marketplace-Dienste nicht mit Azure Prepayment verrechnet werden können. Stellen Sie für die indirekte Registrierung sicher, dass Ihre Partner über die potenziellen Auswirkungen auf Rechnungen informiert sind. Für direkte Kunden sollten Sie Ihren Bill-To Kontakt auf dem Laufenden halten.
 
-**Empfohlene Dokumente**
+**Empfohlene Dokumentationen**
 
-- [Bezahlen ihrer Überzahlungen mit ihrer Azure-Vorauszahlung](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)
+- [Bezahlen Sie Ihre Überzahlung mit Ihrer Azure-Vorauszahlung](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)

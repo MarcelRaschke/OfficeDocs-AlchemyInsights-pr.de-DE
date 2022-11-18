@@ -1,31 +1,31 @@
 ---
 title: Fehlermeldung beim Freigeben von Dateien
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: dccbe62fa95e2934cf6ed6d7dd317b2b99e77ec0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.date: 04/21/2020
+ms.openlocfilehash: f8fd10b8da6e7244aaa64ff82b4b6534ffb12acb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783771"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66258994"
 ---
-# <a name="error-messages-when-sharing"></a>Fehlermeldungen bei Freigabe
+# <a name="error-messages-when-sharing"></a>Fehlermeldungen beim Teilen
 
-Wenn beim Versuch, eine Freigabe für einen externen Benutzer durchführen, eine Fehlermeldung angezeigt wird, ist die höchstwahrscheinliche externe Freigabe nicht aktiviert, oder die Freigabe wird so festgelegt, dass die Freigabestufe, die der Benutzer versucht, nicht zulässig ist.
+Wenn Sie beim Versuch, die Freigabe für einen externen Benutzer freizugeben, eine Fehlermeldung erhalten, ist die externe Freigabe höchstwahrscheinlich nicht aktiviert, oder die Freigabe ist so festgelegt, dass die Freigabeebene, die der Benutzer versucht, nicht zulässt.
   
-Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **Freigabe** . Wählen Sie die Freigabeebene aus, die Sie zulassen möchten. Stellen Sie sicher, dass die externe Freigabe für die Website aktiviert ist. 
+Klicken Sie im neuen SharePoint Admin Center im linken Bereich auf **"Freigabe** ". Wählen Sie die Freigabeebene aus, die Sie zulassen möchten. Stellen Sie sicher, dass die externe Freigabe für die Website aktiviert ist. 
   
-Wenn der Benutzer, der versucht, sich anzumelden, eine Fehlermeldung erhält, führen Sie die folgenden Schritte aus:
+Wenn der Benutzer, der sich anmelden möchte, eine Fehlermeldung erhält, führen Sie die folgenden Schritte aus:
   
 - Stellen Sie sicher, dass der Benutzer die gesendete Freigabeeinladung akzeptiert hat.
     
-- Stellen Sie sicher, dass der Benutzer die Einladung mit der e-Mail-Adresse akzeptiert, an die er gesendet wurde.
+- Stellen Sie sicher, dass der Benutzer die Einladung mit der E-Mail-Adresse akzeptiert, an die sie gesendet wurde.
     
 

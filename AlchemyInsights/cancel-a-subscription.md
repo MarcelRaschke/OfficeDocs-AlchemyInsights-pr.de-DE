@@ -1,23 +1,22 @@
 ---
 title: Beendigung von Abonnements durch den Besitzer
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9003797"
 - "6838"
-ms.openlocfilehash: 9078c61f693294973f820e94bcea798dd319c34d
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 0d2fb46c4119043f79a5a57e0e6a2c3c69b9a172
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086386"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66359211"
 ---
 # <a name="cancellation-of-a-subscription-by-owner"></a>Beendigung von Abonnements durch den Besitzer
 

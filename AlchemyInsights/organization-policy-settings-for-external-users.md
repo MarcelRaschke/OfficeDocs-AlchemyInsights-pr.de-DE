@@ -1,32 +1,32 @@
 ---
-title: Organisationsrichtlinien Einstellungen für externe Benutzer
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+title: Organisationsrichtlinieneinstellungen für externe Benutzer
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "2674"
 - "9000196"
-ms.openlocfilehash: 893b954ef6c1333f52dac645902236984a209599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "2674"
+ms.openlocfilehash: 7e13517ec6fbe6622cc71c4da6d59d1a19b61e82
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769434"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66286390"
 ---
-# <a name="organization-policy-settings-for-external-users"></a>Organisationsrichtlinien Einstellungen für externe Benutzer
+# <a name="organization-policy-settings-for-external-users"></a>Organisationsrichtlinieneinstellungen für externe Benutzer
 
-Benutzern wird möglicherweise die folgende Warnmeldung angezeigt, wenn Sie versuchen, Sie für externe Benutzer Ihrer Organisation freizugeben: 
+Benutzern wird möglicherweise die folgende Warnmeldung angezeigt, wenn sie versuchen, sie für externe Benutzer Ihrer Organisation freizugeben: 
 
-   **Die Richtlinien Ihrer Organisation erlauben keine Freigabe für diese Benutzer. Wechseln Sie zur externen Freigabe im Microsoft 365 Admin Center, um Sie zu aktivieren.** 
+   **Die Richtlinien Ihrer Organisation erlauben es Ihnen nicht, diese Benutzer freizugeben. Wechseln Sie in der [Microsoft 365 Admin Center](https://admin.microsoft.com/adminportal/home?ref=homepage) zur externen Freigabe, um sie zu aktivieren.** 
 
-Dies geschieht häufig beim ersten Versuch, für externe Benutzer freizugeben, oder wenn Sie für neue externe Benutzer freigeben. Weitere Informationen finden Sie im folgenden Artikel:
+Dies geschieht häufig beim ersten Versuch, die Freigabe für externe Benutzer oder bei der Freigabe für neue externe Benutzer. Weitere Informationen finden Sie im folgenden Artikel:
 
-[Die Richtlinien Ihrer Organisation erlauben keine Freigabe für diese Benutzer.](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[Die Richtlinien Ihrer Organisation erlauben es Ihnen nicht, diese Benutzer freizugeben.](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 

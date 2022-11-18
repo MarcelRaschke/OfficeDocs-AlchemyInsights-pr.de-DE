@@ -1,32 +1,34 @@
 ---
 title: Hinzufügen eines Partners zu Ihrem Abonnement
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
+- commerce_subscriptions
 - "9001683"
 - "5066"
-ms.openlocfilehash: 3a876b70a739788768bfbabf7777d727f0a5e748
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 05/09/2022
+ms.openlocfilehash: cfdae5b95c3e8ee353d594d215c93ef11b8bad1b
+ms.sourcegitcommit: 5afc3c4a1270409ed3691c90ba139878d845e7a3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688693"
+ms.lasthandoff: 06/10/2022
+ms.locfileid: "65999945"
 ---
 # <a name="add-a-partner-to-your-subscription"></a>Hinzufügen eines Partners zu Ihrem Abonnement
 
-Partner können zum [Zeitpunkt des Kaufs Ihres Abonnements](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-at-the-time-of-purchase) oder zu Ihrem [vorhandenen Abonnement](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-to-an-existing-subscription) im **Microsoft 365 Admin Center** hinzugefügt werden.
+Partner können zum [Zeitpunkt des Kaufs Ihres Abonnements](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner#add-a-partner-at-the-time-of-purchase) oder zu Ihrem [vorhandenen Abonnement](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner#add-a-partner-to-an-existing-subscription) im Microsoft 365 Admin Center hinzugefügt werden.
 
 **Hinzufügen eines Partners zu einem vorhandenen Abonnement**
 
-1. Navigieren Sie im Admin Center zu **Abrechnung > [Produkte und Dienste](https://go.microsoft.com/fwlink/p/?linkid=842054)**. 
-2. Wenn Sie über mehrere Abonnements verfügen, wählen Sie den Namen des zu bearbeitenden Abonnements aus. 
-3. Wählen Sie auf der Seite "Abonnement" die Registerkarte **Partner** aus, und geben Sie dann die **Partnernetzwerk-ID** für den Partner ein, den Sie hinzufügen möchten. Fragen Sie den Partner nach seiner Microsoft Partner-ID. 
+1. Wechseln Sie im Admin Center zu **Abrechnung** > **[Ihre Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions)**.
+2. Wenn Sie über mehrere Abonnements verfügen, wählen Sie den Namen des zu bearbeitenden Abonnements aus.
+3. Wählen Sie auf der Seite "Abonnement" die Registerkarte **Partner** aus, und geben Sie dann die **Partnernetzwerk-ID** für den Partner ein, den Sie hinzufügen möchten. Fragen Sie den Partner nach seiner Microsoft Partner-ID.
 
-Weitere Informationen finden Sie unter [Hinzufügen, Ändern oder Löschen eines Abonnementberaterpartners](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner). 
+Weitere Informationen finden Sie unter [Hinzufügen, Ändern oder Löschen eines Abonnementberaterpartners](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner).

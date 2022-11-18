@@ -1,24 +1,23 @@
 ---
 title: Hilfe beim Drucken in Excel
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "2715"
 - "9000773"
-ms.openlocfilehash: 53eada8da3f9695e067aa45d7db6e98080e7a33c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "2715"
+ms.date: 07/27/2020
+ms.openlocfilehash: 86dde6561b4ddaba51cd5d12ccf4b8a402962d48
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705045"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66389109"
 ---
 # <a name="help-with-printing-in-excel"></a>Hilfe beim Drucken in Excel
 

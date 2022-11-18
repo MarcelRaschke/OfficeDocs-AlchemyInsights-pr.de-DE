@@ -1,23 +1,22 @@
 ---
 title: Zoom-Add-In für Outlook
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002503"
 - "4851"
-ms.openlocfilehash: ffa0ae15f1b3b52688e17f58b0725839134e9fed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 875639b27676b505d4abd3a9262663cd76e4591e
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796215"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66528420"
 ---
 # <a name="zoom-add-in-for-outlook"></a>Zoom-Add-In für Outlook
 

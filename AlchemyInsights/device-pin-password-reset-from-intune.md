@@ -1,24 +1,23 @@
 ---
 title: Zurücksetzen von Geräte-PIN oder Gerätekennwort in Intune
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1278"
 - "6700008"
-ms.openlocfilehash: 66255fc87a55161158aa4121d68d7ccd04b552ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1278"
+ms.date: 07/27/2020
+ms.openlocfilehash: 617762780015beeecfa59d2ca9b4f6ec32fb78c7
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730986"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66507054"
 ---
 # <a name="device-pinpassword-reset-from-intune"></a>Zurücksetzen von Geräte-PIN oder Gerätekennwort in Intune
 

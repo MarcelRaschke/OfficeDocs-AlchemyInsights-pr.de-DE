@@ -3,30 +3,30 @@ title: Vergleichen von Microsoft-Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
-ms.audience: Admin
+ms.reviewer: nalinkla, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "472"
+- commerce_subscriptions
 - "1500026"
-ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 0542cc6cbd9ca7a8d0845e2866be831631c8e389
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+- "472"
+ms.date: 07/30/2021
+ms.openlocfilehash: 9bb30282c98efa9f0f5f311d7f235a95c44a5a0b
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416591"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66153973"
 ---
-# <a name="compare-upgrade-or-purchase-subscriptions"></a>Vergleichen, aktualisieren oder erwerben von Abonnements
+# <a name="compare-upgrade-or-purchase-subscriptions"></a>Abonnements vergleichen, aktualisieren oder kaufen
   
-Abonnements [stehen für Unternehmen und](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?tab=2&rtc=1)Unternehmen auf [Unternehmensebene](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1)zur Verfügung. Darüber hinaus steht Microsoft 365 für [akademische Institutionen](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1), [Regierungsorganisationen](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1)und [gemeinnützige](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit-plans-and-pricing?&rtc=1&activetab=tab%3aprimaryr1)Einrichtungen zur Verfügung.
+Abonnements sind für [Unternehmen](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?tab=2&rtc=1) und [Unternehmen verfügbar](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1). Darüber hinaus steht Microsoft 365 [akademischen Einrichtungen](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1), [Regierungsorganisationen](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1) und [gemeinnützigen Organisationen](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit-plans-and-pricing?&rtc=1&activetab=tab%3aprimaryr1) zur Verfügung.
   
-Wenn Ihre Organisation an einem Vergleich aller Pläne und Preise interessiert ist, überprüfen Sie [alle Abonnements vergleichen](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1).
+Wenn Ihre Organisation an einem Vergleich aller Pläne und Preise interessiert ist, lesen [Sie "Alle Abonnements vergleichen](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1)".
   
-Wenn Ihre Organisation bereits Abonnements erworben hat und an einer Änderung an einem anderen Plan interessiert ist, können Sie dies über das Microsoft 365 Admin Center tun. Wechseln Sie zur Seite **Fakturierung** \> [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) , und wählen Sie das Abonnement aus, das Sie ändern möchten. Wählen Sie auf der Seite Abonnementdetails unter **Produkt Details und Upgrades**die Option **für Ihre Organisation empfohlene Upgrades anzeigen** aus, um eine Liste der verfügbaren neuen Pläne anzuzeigen.
+Wenn Ihre Organisation bereits Abonnements erworben hat und daran interessiert ist, zu einem anderen Plan zu wechseln, können Sie dies über die Microsoft 365 Admin Center tun. Wechseln Sie zur Seite **"Abrechnung** \> [Ihrer Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions) ", und wählen Sie das Abonnement aus, das Sie ändern möchten. Wählen Sie auf der Seite "Abonnementdetails" unter **"Produktdetails und Upgrades**" die Option "Upgrades anzeigen" aus, die **für Ihre Organisation empfohlen** wurden, um die Liste der verfügbaren neuen Pläne anzuzeigen.
   
-Ihre Organisation kann Abonnements auch kombinieren und abgleichen, um die Anforderungen und Funktionen von Benutzern zu erfüllen. Wechseln Sie im Admin Center zur Seite **Abrechnungs** - \> [Einkaufsdienste](https://go.microsoft.com/fwlink/p/?linkid=868433) . 
+Ihre Organisation kann Abonnements auch kombinieren und anpassen, um die Anforderungen und Featureanforderungen der Benutzer zu erfüllen. Wechseln Sie im Admin Center zur Seite "[Abrechnungskaufdienste](https://go.microsoft.com/fwlink/p/?linkid=868433)  \>".

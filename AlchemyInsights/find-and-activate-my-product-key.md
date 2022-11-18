@@ -1,44 +1,33 @@
 ---
-title: Suchen und Aktivieren des Product Keys
-ms.author: cmcatee
+title: Microsoft Open License Program
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+manager: scotv
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
+- commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: 107916aae8aef805e2adb5caaef1d06f97edeaa3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 08/11/2021
+ms.openlocfilehash: c4f06a2871a70485a484c86450a4eec78334b6a5
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708574"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66155269"
 ---
-# <a name="find-and-activate-my-product-key"></a>Suchen und Aktivieren des Product Keys
+# <a name="microsoft-open-license-program"></a>Microsoft Open License Program
 
-Wenn Sie Microsoft 365 for Business über ein [Microsoft Open License-Programm](https://go.microsoft.com/fwlink/p/?LinkID=613298)erworben haben, erfahren Sie hier, wie Sie Ihren Product Key finden und aktivieren.
+Wenn Sie Microsoft 365 for Business über ein [Microsoft Open License Program](https://go.microsoft.com/fwlink/p/?LinkID=613298) erworben haben, finden und aktivieren Sie Ihren Product Key.
 
-1. Nachdem Sie einen Schlüssel von einem Microsoft 365-Partner erworben haben, überprüfen Sie Ihren Posteingang auf eine e-Mail von Microsoft, die einen Aktivierungslink enthält.  **Hinweis**: die e-Mail wird an die Person gesendet, die als Online Administrator im Volumenlizenz Vertrag aufgeführt ist.  Wenn Sie nicht sicher sind, wer als Online Administrator festgelegt ist, Fragen Sie Ihren Microsoft 365-Partner.
+1. Nachdem Sie einen Schlüssel von einem Microsoft 365 Partner erworben haben, suchen Sie in Ihrem Posteingang nach einer E-Mail von Microsoft, die einen Aktivierungslink enthält.
 
-2. Klicken Sie auf den Link in der e-Mail, um sich mit Ihrem Geschäfts-oder Schulkonto anzumelden, den offenen Lizenzvertrag zu akzeptieren und das Abonnement zu erneuern.  Eine schrittweise Anleitung finden Sie im PDF-Handbuch unter [Aktivieren von Online Diensten: Microsoft 365-Abonnement](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
+    **Hinweis**: Die E-Mail wird an die Person gesendet, die im Volumenlizenzvertrag als Onlineadministrator aufgeführt ist. Wenn Sie nicht sicher sind, wer als Onlineadministrator festgelegt ist, fragen Sie Ihren Microsoft 365 Partner.
+1. Folgen Sie dem Link in der E-Mail, um sich mit Ihrem Geschäfts-, Schul- oder Unikonto anzumelden, den Open-Lizenzvertrag zu akzeptieren und das Abonnement zu verlängern. Eine schrittweise exemplarische Vorgehensweise finden Sie im PDF-Leitfaden ["Activate Online Services: Microsoft 365 Subscription](https://go.microsoft.com/fwlink/p/?LinkId=618100)".
 
-**Hinweis**: Volumenlizenzkunden können auch die Aktivierung von Abonnements im [Volumen Lizenzierungs-Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016)auswählen.  Informationen zum Herunterladen des PDF-Handbuchs finden Sie unter [Active Online Services im Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=618096).
-
-Wenn Sie Microsoft 365 Business Premium Standard in einem Einzelhandelsgeschäft erworben haben, führen Sie die folgenden Schritte aus, um das Ablaufdatum zu verlängern oder eine Lizenz zu einem vorhandenen Abonnement hinzuzufügen.
-
-**Hinweis**: Wenn Sie einen Product Key zum Verlängern des Ablaufdatums oder zum Hinzufügen einer Lizenz zu Ihrem vorhandenen Microsoft 365 Business Premium-Standard Abonnement verwenden möchten, benötigen Sie einen neuen und unverwendeten Schlüssel für dasselbe Microsoft 365-Abonnement.  Das Eingeben Ihres ursprünglichen Microsoft 365-Product Keys funktioniert nicht, da ein bereits eingelöster Schlüssel nicht erneut verwendet werden kann.
-
-1. Wechseln Sie im Admin Center zur Seite **Fakturierung**  >  **[ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Suchen Sie nach dem Abonnement, für das Sie das Ablaufdatum verlängern oder Lizenzen hinzufügen möchten.  Klicken Sie auf [Enddatum verlängern](https://go.microsoft.com/fwlink/p/?linkid=842054) oder [Weitere Lizenzen hinzufügen](https://go.microsoft.com/fwlink/p/?linkid=842054).
-
-3. Klicken Sie auf **neuen und nicht verwendeten Product Key verwenden** und dann auf **weiter**.
-
-4. Geben Sie den Product Key ein, und klicken Sie auf **weiter**.
-
-5. Überprüfen Sie Ihre Bestelldetails.  Wenn alles richtig aussieht, klicken Sie auf **einlösen**.
+    **Hinweis**: Kunden mit Volumenlizenzierung können abonnements auch im [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkID=282016) aktivieren. Um zu erfahren, wie das geht, laden Sie das PDF-Handbuch [Active Online Services im Volume Licensing Service Center herunter](https://go.microsoft.com/fwlink/p/?LinkId=618096).

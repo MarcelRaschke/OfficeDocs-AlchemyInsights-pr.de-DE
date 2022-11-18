@@ -1,23 +1,22 @@
 ---
-title: 398 Kalender-Buchung
+title: 398 Kalender - Buchung
 ms.author: chrisda
 author: chrisda
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: dansimp
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: 398
-ms.assetid: 9b23cfd7-bff8-4f86-bd94-e5fa07f6939f
-ms.openlocfilehash: 08d9a5155c50a61a54c22493e85431f6999ba790
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: cfce82b022a33941c05eb6bf8730feb2415f63a8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684193"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66415750"
 ---
-# <a name="issues-with-microsoft-bookings"></a>Probleme mit Microsoft-Buchungen
+# <a name="issues-with-microsoft-bookings"></a>Probleme mit Microsoft Bookings
 
-Informationen zur Behandlung von Problemen mit der neuen Microsoft-Buchungsfunktion finden Sie unter [Reservierungen](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092.aspx).
+Informationen zur Behandlung von Problemen mit dem neuen Microsoft Bookings-Feature finden Sie in den [Bookings-Artikeln](https://docs.microsoft.com/microsoft-365/bookings/bookings-faq).

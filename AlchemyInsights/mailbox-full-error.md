@@ -1,11 +1,26 @@
 ---
-Title: "NDR mit Fehlercode" 554 5.2.2 Mailbox voll "" MS. Author: chrisda Author: chrisda Manager: dansimp ms. Date: 04/21/2020 ms. Audience: ITPro ms. Topic: article ms. Service: o365-Administration robots: noindex, nofollow localization_priority: normal ms. Custom: 
-- 1956
-- 3500007
+title: NDR mit Fehlercode 554 5.2.2 Postfach voll
+ms.author: chrisda
+author: chrisda
+manager: dansimp
+audience: ITPro
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+ms.localizationpriority: medium
+ms.custom:
+- "3500007"
+- "1956"
+ms.date: 04/21/2020
+ms.openlocfilehash: 84d0543e699ec0e4e5c05130432503b5b769581b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66257663"
 ---
-
 # <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR mit Fehlercode 554 5.2.2 Postfach voll
 
-Wenn Sie NDR mit dem Fehlercode "554 5.2.2 Mailbox Full" erhalten, wenn Sie e-Mails an einen e-Mail-aktivierten Öffentlichen Ordner senden:  
+Wenn Sie NDR mit dem Fehlercode "554 5.2.2 mailbox full" erhalten, beim Senden von E-Mails an einen E-Mail-aktivierten öffentlichen Ordner:  
 
-Verwenden Sie die Schritte in [diesem](https://aka.ms/554522) Artikel, um sicherzustellen, dass der öffentliche Ordner oder das Postfachkontingent für Öffentliche Ordner nicht erreicht wurde.
+Führen Sie die Schritte in [diesem](https://aka.ms/554522) Artikel aus, um sicherzustellen, dass das Postfachkontingent für öffentliche Ordner oder öffentliche Ordner nicht erreicht wurde.

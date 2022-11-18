@@ -3,22 +3,21 @@ title: Konfigurieren und Problembehandlung von SAML-Ansprüchen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/17/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7799"
 - "9004356"
-ms.openlocfilehash: 306d2f451856a66f06447e3acd73e065da71cd64
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+- "7799"
+ms.date: 01/17/2021
+ms.openlocfilehash: d15fb3a6cf91bea7bba88da2b03964fa0395bd82
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886838"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66356367"
 ---
 # <a name="configure-and-troubleshoot-saml-claims"></a>Konfigurieren und Problembehandlung von SAML-Ansprüchen
 

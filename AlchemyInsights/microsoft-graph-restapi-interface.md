@@ -1,32 +1,29 @@
 ---
-title: Microsoft Graph-Rest-API-Schnittstelle
-ms.author: pebaum
-author: pebaum
-manager: mnirke
-ms.date: 04/21/2020
-ms.audience: Admin
+title: Microsoft Graph REST-API-Schnittstelle
+author: cmcatee-MSFT
+ms.author: cmcatee
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "7071"
 - "9004013"
-ms.openlocfilehash: 3c9bf956624775c394534ab150d39193e5e10144
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+- "7071"
+ms.date: 04/21/2020
+ms.openlocfilehash: 6aee6ffcaa72995216ea5b6ae448779de4a39db4
+ms.sourcegitcommit: d11262728f0617a843a0117cb5172aa322022b27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086243"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63088642"
 ---
-# <a name="microsoft-graph-rest-api-interface"></a>Microsoft Graph-Rest-API-Schnittstelle
+# <a name="microsoft-graph-rest-api-interface"></a>Microsoft Graph REST-API-Schnittstelle
 
-Die Graph-API-Sätze auf dem v 1.0-Endpunkt befinden sich im allgemeinen Verfügbarkeitsstatus (GA) und haben einen rigorosen Überprüfungs-und Feedbackprozess mit Kunden durchlaufen, um die praktischen Produktionsanforderungen zu erfüllen.
+Die Graph API-Sätze auf dem v1.0-Endpunkt befinden sich im Allgemeinen Verfügbarkeitsstatus (GA) und haben einen strengen Überprüfungs- und Feedbackprozess mit Kunden durchlaufen, um praktische Produktionsanforderungen zu erfüllen.
 
-- Weitere Informationen zur Graph-API v 1.0 finden Sie in der [Microsoft Graph-Rest-API v 1.0 Reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
-- Weitere Informationen zur Beta Version der Graph-API finden Sie unter [Microsoft Graph Beta Endpoint Reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta).
+- Weitere Informationen zu Graph API v1.0 finden Sie in der [Referenz zu Microsoft Graph REST-API v1.0](https://docs.microsoft.com/graph/api/overview?view=graph-rest-1.0&preserve-view=true).
+- Weitere Informationen zu Graph API-Betaversion finden Sie unter [Microsoft Graph Beta-Endpunktreferenz](https://docs.microsoft.com/graph/api/overview?view=graph-rest-beta&preserve-view=true).
 
-Weitere Informationen zu Microsoft Graph finden Sie in der [Microsoft Graph-Dokumentation](https://docs.microsoft.com/graph/).
-
-
+Weitere Informationen zu Microsoft Graph finden Sie in der [Dokumentation zu Microsoft Graph](https://docs.microsoft.com/graph/).

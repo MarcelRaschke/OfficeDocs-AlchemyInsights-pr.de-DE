@@ -1,47 +1,45 @@
 ---
-title: Rückruf oder Ersetzen einer e-Mail-Nachricht
+title: Zurückrufen oder Ersetzen einer E-Mail-Nachricht
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1860"
 - "9000260"
-ms.assetid: ''
-ms.openlocfilehash: 05016213a1387c5290cb5899359f1f10b5a413c0
-ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
+- "1860"
+ms.date: 04/21/2020
+ms.openlocfilehash: 88ef10ee887416ed6594fa5d81c6ecafdb3f7adc
+ms.sourcegitcommit: f9d7390a97f6fff46165c17b5cc413c21f1642f6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49353505"
+ms.lasthandoff: 10/14/2022
+ms.locfileid: "68575273"
 ---
-# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Rückruf oder Ersetzen einer e-Mail-Nachricht in Microsoft 365
+# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Zurückrufen oder Ersetzen einer E-Mail-Nachricht in Microsoft 365
 
-- Sie können **nur Nachrichten abrufen, die an Personen in Ihrer Organisation gesendet werden**. Wenn die Nachricht beispielsweise an eine gmail-Adresse gesendet wurde, können Sie Sie nicht mehr abrufen.
-- Sie können **nur Nachrichten abrufen, die von Outlook für den PC gesendet wurden**. Wenn ein Benutzer eine Nachricht mit Outlook für Mac oder Outlook im Internet sendet, kann er nicht mehr daran erinnert werden.
-- Als mandantenadministrator können Sie **Nachrichten im Namen von Benutzern mithilfe von PowerShell abrufen** (Weitere Informationen finden Sie unter: [Suchen nach und Löschen von e-Mail-Nachrichten](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)).
-- Sie können keine Nachrichten aus dem Admin Center abrufen. Scrollen Sie nach unten zu "suchen und Löschen von e-Mail-Nachrichten in Ihrer Organisation", um weitere Informationen zu erhalten.
+- Sie können **nur Nachrichten zurückrufen, die an Personen in Ihrer Organisation gesendet werden**. Wenn die Nachricht beispielsweise an eine Gmail-Adresse gesendet wurde, können Sie sie nicht zurückrufen.
+- Sie können **nur Nachrichten zurückrufen, die von Outlook für den PC gesendet wurden**. Wenn ein Benutzer eine Nachricht mit Outlook für Mac oder Outlook im Web sendet, können Sie sie nicht zurückrufen.
+- Als Mandantenadministrator können Sie **Nachrichten im Namen von Benutzern mithilfe von PowerShell zurückrufen** (Weitere Informationen finden Sie unter: [Suchen nach und Löschen von E-Mail-Nachrichten](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)).
+- Sie können keine Nachrichten aus dem Admin Center zurückrufen. Scrollen Sie nach unten zu "Suchen und Löschen von E-Mail-Nachrichten in Ihrer Organisation", um weitere Informationen zu erhalten.
 
-**Zurückrufen oder Ersetzen einer von Ihnen gesendeten e-Mail-Nachricht**
+**Zurückrufen oder Ersetzen einer von Ihnen gesendeten E-Mail-Nachricht**
 
-1. Wählen Sie im Bereich Ordner auf der linken Seite des Outlook-Fensters den Ordner Gesendete Elemente aus.
-2. Öffnen Sie die Nachricht, die Sie abrufen möchten. Sie müssen doppelklicken, um die Nachricht zu öffnen. Wenn Sie die Nachricht auswählen, damit Sie im Lesebereich angezeigt wird, können Sie die Nachricht nicht mehr abrufen.
-3. Wählen Sie auf der Registerkarte Nachricht die Option **Aktionen**  >  **Rückruf dieser Nachricht** aus.
-4. Wählen Sie **Ungelesene Kopien dieser Nachricht löschen** oder **Ungelesene Kopien löschen aus, und ersetzen Sie Sie durch eine neue Nachricht, und** wählen Sie dann **OK** aus.
-5. Wenn Sie eine Ersatznachricht senden, verfassen Sie die Nachricht, und wählen Sie dann **senden** aus.
-6. Der Erfolg oder Misserfolg eines Nachrichtenrückrufs hängt von den Einstellungen der Empfänger in Outlook ab.
+1. Wählen Sie im Ordnerbereich links im Outlook-Fenster den Ordner " **Gesendete Elemente" aus** .
+2. Öffnen Sie die Nachricht, die Sie zurückrufen möchten. Sie müssen doppelklicken, um die Nachricht zu öffnen. Wenn Sie die Nachricht so auswählen, dass sie im Lesebereich angezeigt wird, können Sie die Nachricht nicht zurückrufen.
+3. Wählen Sie auf der Registerkarte " **Nachricht** " **die Option "Aktionen** > **" aus, um diese Nachricht zurückzurufen**.
+4. Wählen Sie **"Ungelesene Kopien dieser Nachricht löschen** " oder **"Ungelesene Kopien löschen" aus, ersetzen Sie sie durch eine neue Nachricht**, und wählen Sie dann **"OK**" aus.
+5. Wenn Sie eine Ersatznachricht senden, verfassen Sie die Nachricht, und wählen Sie " **Senden**" aus.
+6. Der Erfolg oder Fehler eines Nachrichtenrückrufs hängt von den Einstellungen der Empfänger in Outlook ab.
 
-Weitere Informationen, einschließlich der Vorgehensweise zum Überprüfen des Rückrufs, finden Sie unter [Rückruf oder Ersetzen einer von Ihnen gesendeten e-Mail-Nachricht](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+Weitere Informationen, einschließlich der Überprüfung des Rückrufs, finden Sie unter ["Rückruf" oder "Ersetzen einer von Ihnen gesendeten E-Mail-Nachricht](https://support.microsoft.com/office/recall-or-replace-an-email-message-that-you-sent-35027f88-d655-4554-b4f8-6c0729a723a0)".
 
-**_Zum Suchen nach und Löschen von e-Mail-Nachrichten in Ihrer Organisation_** ist es am einfachsten, wenn Sie ein globaler Administrator sind. Wenn Sie kein globaler Administrator sind, muss Ihr Konto der Rollengruppe "eDiscovery-Manager" oder der Rolle "Compliance Search Management" hinzugefügt werden. Wenn Sie Nachrichten löschen möchten, müssen Sie der Rollengruppe "Organisationsverwaltung" oder der Rolle "Such-und Lösch Verwaltung" beitreten. Berechtigungen für diese Rollen werden im [Security & Compliance Center](https://protection.office.com/)zugewiesen.
+***Wenn Sie in Ihrer Organisation nach E-Mail-Nachrichten suchen und diese löschen*** möchten, ist es am einfachsten, wenn Sie ein globaler Administrator sind. Wenn Sie kein globaler Administrator sind, muss Ihr Konto der Rollengruppe "eDiscovery-Manager" oder der Verwaltungsrolle "Compliancesuche" hinzugefügt werden. Zum Löschen von Nachrichten müssen Sie der Rollengruppe "Organisationsverwaltung" oder der Verwaltungsrolle "Suchen und Löschen" beitreten. Berechtigungen für diese Rollen werden im [Microsoft Purview Compliance-Portal](https://compliance.microsoft.com/homepage) zugewiesen.
 
-1. [Erstellen Sie eine Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search) , um die zu löschende Nachricht zu suchen.
+1. [Erstellen Sie eine Inhaltssuche](https://docs.microsoft.com/microsoft-365/compliance/content-search) , um die zu löschende Nachricht zu finden.
 2. [Stellen Sie eine Verbindung mit der Security & Compliance Center PowerShell her](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell).
 
-Wenn Sie MFA (Multi-Factor Authentication) verwenden, finden Sie unter [Connect to Microsoft 365 Security & Compliance Center PowerShell mit mehr](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell)stufiger Authentifizierung.
+Wenn Sie MFA (mehrstufige Authentifizierung) verwenden, lesen Sie ["Herstellen einer Verbindung mit Microsoft 365 Security & Compliance Center PowerShell mithilfe der mehrstufigen Authentifizierung](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell)".

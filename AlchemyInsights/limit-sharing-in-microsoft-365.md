@@ -1,24 +1,29 @@
 ---
 title: Einschränken der Freigabe in Microsoft 365
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9000192"
 - "3545"
-ms.openlocfilehash: a569fdb9af1183624d39c4e0244b96480ebaa7d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b33ade852d5ce485d5bee29f131baf626f74b154
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675944"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66568138"
 ---
 # <a name="limit-sharing-in-microsoft-365"></a>Einschränken der Freigabe in Microsoft 365
 
-Sie können zwar die interne Freigabe nicht vollständig deaktivieren oder die Schaltfläche Freigeben von Websites entfernen, es gibt jedoch eine Vielzahl von Möglichkeiten, um die Freigabe in Microsoft 365 auf die Anforderungen Ihrer Organisation einzuschränken. Weitere Informationen finden Sie unter [Limit Sharing in Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing).
+Sie können die interne Freigabe zwar nicht vollständig deaktivieren oder die Schaltfläche "Freigeben" von Websites entfernen, aber Sie können die Freigabe in Microsoft 365 auf vielfältige Weise einschränken, um die Anforderungen Ihrer Organisation zu erfüllen. 
+
+Weitere Informationen finden Sie unter:
+
+- [Einschränken der Freigabe in Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing).
+- [Beenden der Freigabe von OneDrive- oder SharePoint-Dateien oder -Ordnern](https://support.microsoft.com/office/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [So entfernen Sie Benutzer aus SharePoint](https://docs.microsoft.com/sharepoint/remove-users)

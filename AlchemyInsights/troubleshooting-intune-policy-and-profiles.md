@@ -1,39 +1,38 @@
 ---
-title: Behandeln von InTune-Richtlinien und Profilen
+title: Problembehandlung bei Intune Richtlinie und Profilen
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1063"
 - "6700005"
-ms.openlocfilehash: 71cbb52d73261d59732f42789997d0ee55e71906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1063"
+ms.date: 04/21/2020
+ms.openlocfilehash: 26ef420d90d4e765e072e6bec73155db4df70861
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689845"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66395967"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Problembehandlung für InTune-Richtlinien und profile
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Problembehandlung bei Intune Richtlinie und Profilen
 
-Um vorhandene Richtlinien anzuzeigen, Konflikte zu beheben, Protokolldaten zu überprüfen und allgemeine Fragen und Probleme anzuzeigen, helfen Ihnen möglicherweise die folgenden Anleitungen.
+Um vorhandene Richtlinien anzuzeigen, Konflikte zu beheben, Protokolldaten zu überprüfen und allgemeine Fragen und Probleme anzuzeigen, können die folgenden Leitfäden hilfreich sein.
 
-- [Problembehandlung bei Richtlinien und Profilen in InTune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
+- [Problembehandlung von Richtlinien und Profilen in Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Häufige Fragen, Probleme und Lösungen mit Geräterichtlinien und-Profilen in InTune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Allgemeine Fragen, Probleme und Lösungen mit Geräterichtlinien und Profilen in Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Überwachen von Geräte Konfigurationsprofilen und Anzeigen von Konflikten in InTune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Überwachen von Gerätekonfigurationsprofilen und Anzeigen von Konflikten in Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Problembehandlung bei der Geräte Konformität und bedingtem Zugriff in InTune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Problembehandlung bei der Gerätecompliance und beim bedingten Zugriff in Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Überwachen von Konformitätsrichtlinien und Anzeigen von Konflikten in InTune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Überwachen von Compliancerichtlinien und Anzeigen von Konflikten in Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Senden von InTune-Protokolldaten an Azure Storage, Event Hubs oder Log Analytics](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Senden Intune Protokolldaten an Azure Storage, Event Hubs oder Protokollanalysen](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Weitere Informationen finden Sie in der Übersicht zum [Konfigurieren von Geräten](https://docs.microsoft.com/intune/device-profiles) oder [Verwenden von Konformitätsrichtlinien](https://docs.microsoft.com/intune/device-compliance-get-started).
+Sehen Sie sich die Übersicht an, um [Geräte zu konfigurieren](https://docs.microsoft.com/intune/device-profiles) oder [Compliancerichtlinien zu verwenden](https://docs.microsoft.com/intune/device-compliance-get-started).

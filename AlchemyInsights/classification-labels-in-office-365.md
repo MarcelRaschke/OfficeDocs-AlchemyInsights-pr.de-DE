@@ -1,22 +1,22 @@
 ---
-title: Klassifikations Bezeichnungen
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+title: Klassifizierungsbezeichnungen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 6bfa1924-ec45-42b7-b1e3-10093e4e446f
-ms.openlocfilehash: b81f2915a3b8674dcbe30b735fc10858956ba94e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.openlocfilehash: 5828f94511b8212a3132cff74a1cdb6cd07b19e1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681475"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66357987"
 ---
-# <a name="classification-labels"></a>Klassifikations Bezeichnungen
+# <a name="classification-labels"></a>Klassifizierungsbezeichnungen
 
-Mit Sensitivitäts-oder Klassifizierungs Bezeichnungen können Sie Ihren vertraulichen Inhalt klassifizieren und schützen und gleichzeitig sicherstellen, dass die Produktivität und die Zusammenarbeit ihrer Mitarbeiter nicht behindert werden.
+Mit Vertraulichkeits- oder Klassifizierungsbezeichnungen können Sie Ihre vertraulichen Inhalte klassifizieren und schützen und gleichzeitig sicherstellen, dass die Produktivität und Zusammenarbeitsfähigkeit Ihrer Mitarbeiter nicht beeinträchtigt wird.
 
-Lesen Sie den folgenden [Artikel](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels), um weitere Informationen zu erhalten.
+Weitere Informationen finden Sie im folgenden [Artikel](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).

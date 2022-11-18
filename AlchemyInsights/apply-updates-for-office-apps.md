@@ -1,28 +1,27 @@
 ---
 title: Anwenden von Updates für Office-Apps
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1747"
 - "9000140"
-ms.openlocfilehash: 8306d1acafe48f8779a8c02db8e3fe2f5d5f0e95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1747"
+ms.date: 07/24/2020
+ms.openlocfilehash: 3e5aba86904e184dbf512bc9ebebf358ebabd524
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716748"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66515568"
 ---
 # <a name="apply-updates-for-office-apps"></a>Anwenden von Updates für Office-Apps
 
-Standardmäßig werden kostenlose Updates für Office-Apps automatisch heruntergeladen und im Hintergrund angewendet, und zwar ohne Eingriff von Benutzern. Wenn Sie Probleme beim Anwenden von Updates haben, finden Sie unter [Installieren von Office-Updates](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) Informationen zum manuellen Ausführen von Updates. Weitere Informationen hierzu finden Sie unter [Problembehandlung beim Installieren von Office](https://support.microsoft.com/office/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2?ui=en-us&rs=en-us&ad=us#O365Plans=signinorgid).
+Standardmäßig werden kostenlose Updates für Office-Apps automatisch heruntergeladen und im Hintergrund angewendet, und zwar ohne Eingriff von Benutzern. Wenn Sie Probleme beim Anwenden von Updates haben, finden Sie unter [Installieren von Office-Updates](https://support.microsoft.com/office/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) Informationen zum manuellen Ausführen von Updates. Weitere Informationen hierzu finden Sie unter [Problembehandlung beim Installieren von Office](https://support.microsoft.com/office/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2?ui=en-us&rs=en-us&ad=us#O365Plans=signinorgid).
 
 Um Office-Updates für Ihre Benutzer zu verwalten, ziehen Sie diese Optionen in Betracht:
 

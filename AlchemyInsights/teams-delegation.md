@@ -1,24 +1,23 @@
 ---
 title: Teams-Delegierung
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6181"
 - "9003115"
-ms.openlocfilehash: a127d46edd669fa9c34b42b930f3d631ecff9f37
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6181"
+ms.date: 08/27/2020
+ms.openlocfilehash: 8327a967ecb0841822a31b9fac0d4419f3a44c7e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736849"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66382773"
 ---
 # <a name="teams-delegation"></a>Teams-Delegierung
 

@@ -3,22 +3,21 @@ title: Abmeldeprobleme
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/17/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7793"
 - "9004355"
-ms.openlocfilehash: 794e5c43340ba4b5c653eda4c11b4480cd3fa710
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+- "7793"
+ms.date: 01/17/2021
+ms.openlocfilehash: b6313834d4a2373f01078a247456e201cd8adea0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886845"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66334965"
 ---
 # <a name="sign-out-issues"></a>Abmeldeprobleme
 

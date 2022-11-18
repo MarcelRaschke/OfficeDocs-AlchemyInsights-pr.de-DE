@@ -1,28 +1,26 @@
 ---
 title: Vererbung von Berechtigungen
-ms.author: mikeplum
-author: MikePlumleyMSFT
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: f086bd7312772b399146cd81261f147364d64665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 807543ea893442d41d26dfb6d46671daf06d9682
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741950"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66305478"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Funktionsweise von Berechtigungsvererbung in SharePoint
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Funktionsweise der Berechtigungsvererbung in SharePoint
 
-Standardmäßig werden Berechtigungen in SharePoint von oben in der Hierarchie vererbt. Eine Datei erbt also Ihre Berechtigungen aus dem Ordner, der Ihre Berechtigungen von der Bibliothek erbt, die ihre Berechtigungen von der Website erbt, die ihre Berechtigungen von der Websitesammlung erbt.
+Standardmäßig werden Berechtigungen in SharePoint von oben in der Hierarchie geerbt. Eine Datei erbt also ihre Berechtigungen von dem Ordner, der seine Berechtigungen von der Bibliothek erbt, die ihre Berechtigungen von der Website erbt, die ihre Berechtigungen von der Websitesammlung erbt.
   
-Informationen zum Entfernen eindeutiger Berechtigungen und zum Wiederherstellen der Vererbung finden Sie unter [Bearbeiten und Verwalten von Berechtigungen für eine Liste oder Bibliothek](https://go.microsoft.com/fwlink/?linkid=869946).
+Informationen zum Entfernen eindeutiger Berechtigungen und zum Wiederherstellen der Vererbung finden [Sie unter Bearbeiten und Verwalten von Berechtigungen für eine Liste oder Bibliothek](https://go.microsoft.com/fwlink/?linkid=869946).
   
 

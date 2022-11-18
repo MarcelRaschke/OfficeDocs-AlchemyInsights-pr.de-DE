@@ -1,28 +1,26 @@
 ---
-title: 608 Kalenderinformationen zu Hybrid-Setups
-ms.author: chrisda
-author: chrisda
-manager: dansimp
-ms.date: 04/21/2020
-ms.audience: Admin
+title: 608 Kalenderinformationen zu Hybridsetups
+author: cmcatee-MSFT
+ms.author: cmcatee
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "896"
 - "3800005"
-ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: beeaeeacffc8e56f7b25458a9978d0bdfe954af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "896"
+ms.date: 04/21/2020
+ms.openlocfilehash: a80fb2771454b72251f2d4791e1937cd91783c05
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684589"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66395571"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Frei/Gebucht-Kalender Probleme in Hybrid Umgebungen
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Frei/Gebucht-Kalenderprobleme in Hybridumgebungen
 
-Wenn Benutzer Probleme beim Anzeigen von Kalender Frei/Gebucht-Informationen in Hybrid Umgebungen haben, führen Sie den Assistenten für die Hybrid Konfiguration erneut aus. Weitere Informationen zum Assistenten für die Hybrid Konfiguration finden Sie unter [Hybrid Configuration Wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Wenn Benutzer Probleme beim Anzeigen von Frei/Gebucht-Kalenderinformationen in Hybridumgebungen haben, führen Sie den Assistenten für die Hybridkonfiguration erneut aus. Weitere Informationen zum Assistenten für die Hybridkonfiguration finden Sie im [Assistenten für die Hybridkonfiguration](https://go.microsoft.com/fwlink/p/?linkid=528149).
 
-Informationen zur Problembehandlung für Schritte in Hybrid Umgebungen finden Sie unter [Problembehandlung bei einer hybridbereitstellung](https://technet.microsoft.com/library/jj659053.aspx).
+Informationen zur Problembehandlung in Hybridumgebungen finden Sie [unter Problembehandlung bei einer Hybridbereitstellung](https://docs.microsoft.com/exchange/hybrid-deployment/troubleshoot-a-hybrid-deployment).

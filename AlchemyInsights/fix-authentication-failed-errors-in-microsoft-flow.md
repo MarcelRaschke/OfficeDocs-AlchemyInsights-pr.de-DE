@@ -1,24 +1,23 @@
 ---
 title: Beheben von Authentifizierungsfehlern in Microsoft Flow
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/24/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1577"
 - "9000088"
-ms.openlocfilehash: 1afaba71eb3b5b102476b4e3bd3172311427a86b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1577"
+ms.date: 07/24/2020
+ms.openlocfilehash: 12baaac0b03fd0993e2f9eb6ad666064ca49d17c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745165"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66407488"
 ---
 # <a name="fix-authentication-failed-errors-in-microsoft-flow"></a>Beheben von Authentifizierungsfehlern in Microsoft Flow
 

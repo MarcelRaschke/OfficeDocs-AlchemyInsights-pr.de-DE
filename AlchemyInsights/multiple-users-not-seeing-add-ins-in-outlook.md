@@ -1,27 +1,26 @@
 ---
 title: Mehreren Benutzern werden keine Add-Ins in Outlook angezeigt
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/16/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom: ''
-ms.openlocfilehash: a0c272f40044795754ed8630e88e00ed14ea6ad7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 07/16/2020
+ms.openlocfilehash: 3d4a8c9172d39311b110fbd584034cfa15c1fe4e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729870"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66364836"
 ---
 # <a name="multiple-users-not-seeing-add-ins-in-outlook"></a>Mehreren Benutzern werden keine Add-Ins in Outlook angezeigt
 
 Wenn Sie Outlook-Add-Ins testen und keine angezeigt werden, verwenden Sie als ersten Schritt zur Problembehandlung das PowerShell-Cmdlet **Get-OrganizationConfig**, um den Parameter _AppsForOffice Enabled_ abzufragen. Wenn die Abfrage den Wert **False** zurückgibt, setzen Sie diesen Parameter mit dem Cmdlet **Set-OrganizationConfig** auf **True**, damit Add-Ins wie erwartet angezeigt werden.
 
-Es wird nicht empfohlen, den Parameter _AppsForOfficeEnabled_ auf **False** zu setzen. Der Wert **False**setzt alle vorstehenden Administrator- und Benutzerrolleneinstellungen außer Kraft und verhindert, dass neue Apps von einem Benutzer in der Organisation aktiviert werden.
+Es wird nicht empfohlen, den Parameter _AppsForOfficeEnabled_ auf **False** festzulegen. Der Wert **False** überschreibt alle oben genannten Administrator- und Benutzerrolleneinstellungen und verhindert, dass neue Apps von Benutzern in der Organisation aktiviert werden.
 
 Weitere Informationen finden Sie unter [Festlegen der Administratoren und Benutzer, die Add-Ins für Outlook installieren und verwalten dürfen](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins#user-roles).

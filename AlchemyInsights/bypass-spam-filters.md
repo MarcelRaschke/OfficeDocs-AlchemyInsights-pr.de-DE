@@ -1,25 +1,24 @@
 ---
-title: 2637 umgehen der Spamfilterung zum Zulassen bestimmter Nachrichten?
+title: 2637 Spamfilterung umgehen, um bestimmte Nachrichten zuzulassen?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "2637"
 - "9000682"
-ms.assetid: ''
-ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "2637"
+ms.date: 04/21/2020
+ms.openlocfilehash: 9b9e10fa8950a748dca9c22795411441d2dc33eb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684877"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66274456"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Spamfilterung umgehen, um bestimmte Nachrichten zuzulassen?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Spamfilter umgehen, um bestimmte Nachrichten zuzulassen?
 
-Es wird empfohlen, beim Erstellen einer Zulassungsliste [Vorsicht walten](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) zu lassen. Wenn Sie beispielsweise Ihre eigene Domäne zulassen, können böswillige Absender Spoofing als Ihre Domäne senden und diese senden.  Stattdessen wird dieser Leitfaden zur [Fehlerbehebung bei falsch positiven Lösungen](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)empfohlen, mit dem Sie ermitteln können, warum eine legitime Nachricht als Spam markiert wurde, und wie Sie die Zustellung der Nachricht sicher zuzulassen haben.
+Wir empfehlen [Vorsicht](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) beim Erstellen einer Zulassungsliste. Wenn Sie beispielsweise Ihre eigene Domäne zulassen, können böswillige Absender spoofieren und als Ihre Domäne senden.  Stattdessen empfehlen wir diesen [Leitfaden zur Problembehandlung bei falsch positiven](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection) Ergebnissen, der Ihnen hilft zu ermitteln, warum eine legitime Nachricht als Spam gekennzeichnet wurde und was Sie tun können, um die Zustellung der Nachricht sicher zuzulassen.

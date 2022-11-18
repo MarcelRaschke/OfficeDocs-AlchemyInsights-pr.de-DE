@@ -1,23 +1,22 @@
 ---
 title: Aktivieren von Microsoft Stream
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002642"
 - "5077"
-ms.openlocfilehash: 17153b83a851895bbe19277a2db7f499e44375eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb20e6dcd8104b6fc2eb09bedd756bb45786d4a7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710050"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66259138"
 ---
 # <a name="enable-microsoft-stream"></a>Aktivieren von Microsoft Stream
 

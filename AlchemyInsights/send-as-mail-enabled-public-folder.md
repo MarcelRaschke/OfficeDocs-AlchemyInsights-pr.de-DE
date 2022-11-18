@@ -1,29 +1,29 @@
 ---
-title: Öffentlichen Ordner "als e-Mail-aktiviert senden" in Exo
+title: Als E-Mail aktivierter öffentlicher Ordner in EXO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1956"
 - "3500007"
-ms.openlocfilehash: ed62c6d7db0ae532f806ce4fdc48f42623bcd545
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+- "1956"
+ms.date: 04/21/2020
+ms.openlocfilehash: fb39d365a297ecc31f1ee733ee54d2b44c2e9793
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451382"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66418018"
 ---
-# <a name="sendas-mail-enabled-public-folder"></a>E-Mail-aktivierter Öffentlicher Ordner für Absender
+# <a name="sendas-mail-enabled-public-folder"></a>Öffentlicher Ordner "SendAs Mail enabled"
 
-Im folgenden Beispiel wird dem Benutzer Jason die Berechtigung "Senden als" für den e-Mail-aktivierten Öffentlichen Ordner NewPF1 zugewiesen.
+Im folgenden Beispiel werden dem Benutzer Jason "Send As"-Berechtigungen für den E-Mail-aktivierten öffentlichen Ordner NewPF1 zugewiesen.
 
-Add-RecipientPermission-Identity ' NewPF1 ' – Trustee "Jason" – AccessRights ' Sends '
+Add-RecipientPermission -Identity 'NewPF1' -Trustee "Jason" -AccessRights 'SendAs'
 
-Ausführliche Informationen zu Syntax und Parametern finden Sie unter Zuweisen von " [Senden als"-oder "Senden im Auftrag von"-Berechtigungen für e-Mail-aktivierte Öffentliche Ordner](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
+Ausführliche Informationen zu Syntax und Parametern finden [Sie unter "Senden als"- oder "Senden im Auftrag"-Berechtigungen für E-Mail-aktivierte öffentliche Ordner](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
 

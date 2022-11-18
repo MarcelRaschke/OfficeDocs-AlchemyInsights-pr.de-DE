@@ -1,27 +1,33 @@
 ---
-title: Bereitstellen von Microsoft Defender für Endpoint
+title: Einrichten von Microsoft Defender for Endpoint (MDE)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9004195"
+- "13878"
 - "7377"
-ms.openlocfilehash: 2501046d49d8b290668bef8ea04881e8379b43ee
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: 86f40c74389a9f889290ace0ef4c1f2b3b380d55
+ms.sourcegitcommit: 6c12ac97959a108b901df139dd88cd90d562ee23
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617857"
+ms.lasthandoff: 08/15/2022
+ms.locfileid: "67339510"
 ---
-# <a name="deploy-microsoft-defender-for-endpoint"></a>Bereitstellen von Microsoft Defender für Endpoint
+# <a name="set-up-microsoft-defender-for-endpoint-mde"></a>Einrichten von Microsoft Defender for Endpoint (MDE)
 
-Der [Microsoft Defender für Endpoint Advisor](https://go.microsoft.com/fwlink/?linkid=2146241) stellt Anweisungen bereit, mit denen Ihr Unternehmensnetzwerk erweiterte Bedrohungen verhindern, erkennen, untersuchen und reagieren kann. Informieren Sie sich über die Sicherheitsanfälligkeit in Ihrer Organisation, und entscheiden Sie, welches Bereitstellungspaket und welche Konfigurationsmethoden am besten geeignet sind.
+Das Microsoft Defender for Endpoint Setuphandbuch vereinfacht die Implementierung mit den richtigen Tools und Ressourcen sowie automatisierte Untersuchung und Reaktion. Ausführliche Informationen finden Sie [Microsoft Defender for Endpoint Setuphandbuch](https://go.microsoft.com/fwlink/?linkid=2204352).
 
-> [!NOTE]
-> Für Defender for Endpoint ist eine Microsoft-Volumenlizenz erforderlich.
+Das Handbuch enthält Schritte zum Konfigurieren:
+
+- Verringerung der Angriffsfläche
+- Schutz der nächsten Generation
+- Konfigurationsbewertung
+- Microsoft-Bedrohungsexperten
+
+**Hinweis**: Für Defender für Endpunkt ist eine Microsoft-Volumenlizenz erforderlich.

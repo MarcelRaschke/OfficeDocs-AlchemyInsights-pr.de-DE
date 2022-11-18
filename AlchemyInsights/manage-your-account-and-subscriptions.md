@@ -1,23 +1,22 @@
 ---
 title: Verwalten Ihres Kontos und Ihrer Abonnements
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: c17485c40af22dd30339d819a08818d02e4ac737
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4c28b37c19b170657df77b47b64a711cf9d2cc2a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703082"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66388353"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Verwalten Ihres Kontos und Ihrer Abonnements
 

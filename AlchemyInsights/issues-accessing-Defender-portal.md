@@ -1,24 +1,23 @@
 ---
 title: Probleme beim Zugriff auf das Microsoft Defender ATP-Portal
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/16/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6029"
 - "9001222"
-ms.openlocfilehash: a00096dd85e7b1ff87ea10dd8c69c8c27c02c07a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6029"
+ms.date: 07/16/2020
+ms.openlocfilehash: 81f183ddf7af9c6bde02ed5ae94c632ca10aede5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "49768540"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66404896"
 ---
 # <a name="issues-accessing-the-microsoft-defender-atp-portal"></a>Probleme beim Zugriff auf das Microsoft Defender ATP-Portal
 

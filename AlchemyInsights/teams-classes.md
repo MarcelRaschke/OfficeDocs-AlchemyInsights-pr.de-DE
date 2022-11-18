@@ -1,30 +1,30 @@
 ---
 title: Teams Kurse
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9001725"
 - "3829"
-ms.openlocfilehash: 68e78abcedecbf2f0e81426fa584fe70a7e04ce6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 03/30/2022
+ms.openlocfilehash: bf4e5942e0f61ded30a87d41269f31b8de4731af
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691214"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66280018"
 ---
 # <a name="teams-classes"></a>Teams Kurse
 
-Wenn Sie einen EDU-Mandanten haben, müssen Sie Microsoft Teams manuell aktivieren. Navigieren Sie im Microsoft 365  **Admin Center zu Einstellungen > Einstellungen > Microsoft Teams**. Wenn Microsoft Teams in der Liste „Dienste“ nicht angezeigt wird, deaktivieren Sie **Testen Sie das neue Admin Center**, um **Einstellungen > Dienste und Add-Ins > Microsoft Teams** zu finden. Weitere Informationen finden Sie unter [Aktivieren von Microsoft Teams für Ihre Bildungseinrichtung](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1). 
+Um ein Klassenteam in Microsoft Teams zu erstellen, stellen Sie sicher, dass Sie ein EDU-Konto verwenden. Wählen Sie **Beitreten zu oder Erstellen eines Teams** > **Erstellen eines Teams** aus, und wählen Sie **Klasse** als den Typ des Teams aus.
 
-**Wichtig**: Sie müssen ggf. bis zu 24 Stunden warten, bis Ihre Änderungen wirksam werden. 
+Informationen zum Aktivieren von Microsoft Teams mit einem EDU-Mandanten finden Sie unter [Aktivieren von Microsoft Teams für Ihre Schule/Uni](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1).
 
-Hilfe zu Teams-Kursen finden Sie unter [Fernstudium (Lehren und Lernen) in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), um die aktuellste Anleitung zur Organisation Ihrer Bildungseinrichtung, zur Unterrichtsplanung, zu virtuellen Treffen und zum Austausch von Inhalten mit den Schülern zu erhalten.
+Schauen Sie sich bitte [Remoteunterricht und -lernen in Office 365 Education](https://support.microsoft.com/topic/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) an, um die aktuellste Anleitung zum Einrichten Ihrer Schule/Uni, zur Unterrichtsplanung, zu virtuellen Besprechungen und zum Teilen von Inhalten mit den Lernenden zu erhalten.
 
-Zusätzliche IT-Anleitungen finden Sie unter[Erste Schritte mit Microsoft Teams für Fernunterricht](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)und[Übergang zum Fernunterricht](https://www.microsoft.com/education/remote-learning).
+Es gibt zusätzliche IT-Anleitungen in [Erste Schritte mit Microsoft Teams für Remotelernen](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) und [Aktivieren von Microsoft Teams für Ihre Schule/Uni](https://docs.microsoft.com/microsoft-365/education/deploy/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1).

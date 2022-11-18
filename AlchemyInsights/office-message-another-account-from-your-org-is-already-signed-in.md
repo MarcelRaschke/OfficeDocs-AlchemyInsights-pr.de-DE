@@ -1,29 +1,28 @@
 ---
 title: 'Meldung in Microsoft 365-Apps: Leider ist ein anderes Konto aus Ihrer Organisation auf diesem Computer bereits angemeldet.'
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 8e444aa1ded1e4cff8a9463b89ffd21c7e4c7938
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236016"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66565537"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Meldung in Microsoft 365-Apps: Leider ist ein anderes Konto aus Ihrer Organisation auf diesem Computer bereits angemeldet.
 
 Um diesen Fehler zu beheben, versuchen Sie Folgendes:
 
-- Öffnen Sie eine Office-Anwendung und [melden Sie sich von allen vorhandenen Benutzerkonten ab](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071).
+- Öffnen Sie eine Office-Anwendung und [melden Sie sich von allen vorhandenen Benutzerkonten ab](https://support.microsoft.com/office/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071).
 
 - Wechseln Sie zu **Windows-Einstellungen > Konten > E-Mail- und Konten**, und entfernen Sie vorhandene Geschäftskonten.
 

@@ -1,23 +1,22 @@
 ---
 title: Anrufqualität oder Anrufabbrüche
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9000675"
 - "5987"
-ms.openlocfilehash: b5bd7544dd219b32d563c0c375de70122297fb47
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69f382146675fe47a6e2ed71fcdbfb184804fa93
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734406"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66415417"
 ---
 # <a name="call-quality-or-dropped-calls"></a>Anrufqualität oder Anrufabbrüche
 

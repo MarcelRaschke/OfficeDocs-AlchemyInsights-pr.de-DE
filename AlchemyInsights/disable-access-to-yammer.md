@@ -1,26 +1,26 @@
 ---
-title: Deaktivieren des Zugriffs auf "jammern"
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Zugriff auf Yammer deaktivieren
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "722"
 - "6000004"
-ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 088b3abf4b46b4a3f0424bae1d5549c6ab50963b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "722"
+ms.date: 04/21/2020
+ms.openlocfilehash: 460d7a63f5ab3b1f1eb39a8ceae36e89fdb3e9a2
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730554"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66521526"
 ---
-# <a name="disable-access-to-yammer"></a>Deaktivieren des Zugriffs auf "jammern"
+# <a name="disable-access-to-yammer"></a>Zugriff auf Yammer deaktivieren
 
-Die Lösung zum Deaktivieren des Zugriffs auf jammern ist das Blockieren und Aufheben der Zuweisung von Jammer Lizenzen für Benutzer in Ihrer Organisation. Weitere Informationen finden Sie im folgenden Artikel.
+Die Lösung zum Deaktivieren Yammer Zugriffs besteht darin, Yammer Lizenzen für Benutzer in Ihrer Organisation zu blockieren und aufzuheben. Weitere Informationen finden Sie im folgenden Artikel.
   
-- [Deaktivieren von "Jammer Zugriff"](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)
+- [Deaktivieren Yammer Zugriffs](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)

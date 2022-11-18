@@ -1,40 +1,33 @@
 ---
-title: 1245-Import-PST-Services
-ms.author: markjjo
-author: markjjo
-manager: lauraw
-ms.date: 04/21/2020
-ms.audience: Admin
+title: Importdienst im Office 365 Security & Compliance Center
+author: cmcatee-MSFT
+ms.author: cmcatee
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1245"
 - "1800027"
-ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1245"
+ms.date: 04/21/2020
+ms.openlocfilehash: c199dafe6d136dcd88c54a0c3615e7816d26b39a
+ms.sourcegitcommit: f9d7390a97f6fff46165c17b5cc413c21f1642f6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664061"
+ms.lasthandoff: 10/14/2022
+ms.locfileid: "68574949"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365-Import Dienst
+# <a name="import-service-in-the-office-365-security--compliance-center"></a>Importdienst im Office 365 Security & Compliance Center
 
-Mit dem Microsoft 365-Import Dienst können Sie mehrere PST-Dateien in Exchange Online Postfächern Massenimportieren.
+Office 365 Importdienst ermöglicht es Ihnen, mehrere PST-Dateien in die Postfächer von Benutzern Exchange Online zu importieren. Verwenden Sie den Importdienst zum Massenimport von PST-Dateien in Ihre Organisation mithilfe der Option **"Netzwerkupload** " oder " **Laufwerkversand** ".
 
-So greifen Sie auf den Import Dienst zu und starten den Importvorgang:
+So greifen Sie auf den Importdienst und die Tools zum Importieren mehrerer PST-Dateien zu:
 
-1. Wechseln Sie zum [Security & Compliance Center](https://protection.office.com) , und melden Sie sich mit den Anmeldeinformationen für ein Administratorkonto in Ihrer Organisation an.
+1. Wechseln Sie zum [Microsoft Purview Compliance Portal](https://compliance.microsoft.com/homepage), und melden Sie sich mit Ihrem Office 365-Konto an.
+1. Wählen Sie **"Datengovernance**" aus, wählen Sie **"Importieren**" aus, und führen Sie die Schritte im Assistenten aus.
 
-2. Klicken Sie im linken Bereich des **Security & Compliance Centers**auf **Data Governance > Import**.
+Weitere Informationen und schrittweise Anleitungen zum Importieren mehrerer PST-Dateien finden Sie [in der Übersicht über das Importieren der PST-Dateien Ihrer Organisation](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365).
 
-3. Klicken Sie auf der Seite **importieren** auf **neuer Importauftrag**.
-
-4. Führen Sie die folgenden [schrittweisen Anleitungen](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)aus, um die Schritte im Assistenten abzuschließen.
-
-**Wichtig**: für den Zugriff auf die **Import** Seite im Security & Compliance Center sind Ihnen  [die entsprechenden Berechtigungen](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)zugewiesen.
-
-Wenn Sie nur eine PST-Datei in Ihr Postfach importieren möchten, lesen Sie [diesen Artikel](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Informationen zum Importieren einer einzelnen PST-Datei finden Sie unter [Importieren und Exportieren von Outlook-E-Mails, Kontakten und Kalendern](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).

@@ -1,34 +1,29 @@
 ---
 title: Umbenennen einer Website
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "977"
 - "5300028"
-ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 2cf5047714594c86eff86e5371e08ef110e5f3de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "977"
+ms.openlocfilehash: 6a1861b3362ed3183be7f2da2d94bf51baa5680a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721005"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66385581"
 ---
 # <a name="rename-a-sharepoint-site"></a>Umbenennen einer SharePoint-Website
 
-Die Schritte zum ändern/Umbenennen einer Website-URL sind unter [Ändern einer Websiteadresse](https://docs.microsoft.com/sharepoint/change-site-address)dokumentiert. Ändern Sie beispielsweise von https://contoso.sharepoint.com/sites/sample1 in https://contoso.sharepoint.com/sites/sample2 .
+Die Schritte zum Ändern/Umbenennen einer Website-URL sind unter ["Ändern einer Websiteadresse](https://docs.microsoft.com/sharepoint/change-site-address)" dokumentiert. Um z. B. von https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2zu wechseln
 
-Informationen zu bekannten Fehlern bei der Umbenennung finden Sie unter [Fehler beim Umbenennen einer SharePoint-Websiteadresse](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
+Bekannte Fehler beim Umbenennen finden [Sie unter Fehler beim Umbenennen einer SharePoint-Websiteadresse](https://support.microsoft.com/office/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
 
-Informationen zu bekannten Effekten nach dem Umbenennen finden Sie unter [Effects of Changing a Site Address](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
+Informationen zu bekannten Effekten nach dem Umbenennen finden Sie unter [Auswirkungen des Änderns einer Websiteadresse](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
 
-**Hinweis:** Sie können den Domänennamen (im obigen Beispiel den "Contoso"-Teil der URL) nicht in einer SharePoint Online-URL ändern. 
-
-Weitere Informationen finden Sie unter:
-
-- [Ändern des SharePoint-Domänennamens](https://go.microsoft.com/fwlink/?Linkid=2018696)
-- [Fehler beim Umbenennen einer SharePoint-Websiteadresse](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
+Wenn Sie den Domänennamen (im obigen Beispiel den "contoso"-Teil der URL) in einer SharePoint Online-URL ändern möchten, lesen Sie ["Ändern Des SharePoint-Domänennamens](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name)".

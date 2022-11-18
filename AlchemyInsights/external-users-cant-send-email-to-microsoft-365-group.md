@@ -1,24 +1,23 @@
 ---
 title: Externe Benutzer können keine E-Mails an eine Microsoft 365-Gruppe senden
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/23/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6115"
 - "9003200"
-ms.openlocfilehash: 8a136074caed7a5c374ac486e44abad311665e89
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6115"
+ms.date: 07/23/2020
+ms.openlocfilehash: fa4531129393908ea589eef335d39bf8640907e3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782794"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66367419"
 ---
 # <a name="external-users-cant-send-email-to-microsoft-365-group"></a>Externe Benutzer können keine E-Mails an eine Microsoft 365-Gruppe senden
 
@@ -29,3 +28,5 @@ Mit diesen Schritten können Sie externen Benutzern ermöglichen, Ihrer Microsof
 3. Wählen Sie auf der Registerkarte **Einstellungen** die Option **Externen Absendern das Senden von E-Mail an diese Gruppe gestatten**.
 4. Wählen Sie **Speichern** aus.</br>
     Es kann bis zu einer Stunde dauern, bis die Einstellungen wirksam werden. 
+
+Wenn beim Senden von E-Mails an eine Microsoft 365-Gruppe weiterhin Probleme auftreten, lesen Sie [Suchen und Beheben von Problemen mit der E-Mail-Zustellung als ein Microsoft 365 for Business-Administrator](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/email-delivery-issues).

@@ -1,35 +1,33 @@
 ---
 title: Wiederherstellen gelöschter Elemente aus SharePoint oder OneDrive
-ms.author: pebaum
-author: bentoncity
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: ''
-ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: a2c97d53a67fa658c8bd4be3c0c5f782ac8657a7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728178"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66291772"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Wiederherstellen gelöschter Elemente aus SharePoint oder OneDrive
 
-1. Wechseln Sie zu ihrer OneDrive-oder SharePoint-Website.
+1. Wechseln Sie zu Ihrem OneDrive oder zur SharePoint-Website.
     
-2. Klicken Sie im linken Bereich auf **Papierkorb** . 
+2. Klicken Sie im linken Bereich auf " **Papierkorb** ". 
     
-3. Klicken Sie links neben den Elementen oder Dateien, die Sie wiederherstellen möchten.
+3. Klicken Sie links neben die Elemente oder Dateien, die Sie wiederherstellen möchten.
     
 4. Klicken Sie auf **Wiederherstellen**. 
     
-Wenn Dateien, Ordner, Bibliotheken, Listen und Listenelemente aus einer SharePoint-Website gelöscht werden, wechseln Sie in den Papierkorb, wo Sie für 93 Tage aufbewahrt werden, es sei denn, jemand löscht sie aus diesem Papierkorb. Wenn Sie aus diesem Papierkorb gelöscht werden (als Website Papierkorb bezeichnet), werden Sie für die verbleibende Zeit in den Papierkorb der Websitesammlung wechseln und dann endgültig gelöscht. Gelöschte Websites und Websitesammlungen wechseln für die 93 Tage direkt in den Papierkorb der Websitesammlung.
+Wenn Dateien, Ordner, Bibliotheken, Listen und Listenelemente von einer SharePoint-Website gelöscht werden, wechseln sie in den Papierkorb, wo sie 93 Tage lang aufbewahrt werden, es sei denn, jemand löscht sie aus diesem Papierkorb. Wenn sie aus diesem Papierkorb (als Websitepapierkorb bezeichnet) gelöscht werden, wechseln sie für die verbleibende Zeit in den Papierkorb der Websitesammlung und werden dann endgültig gelöscht. Gelöschte Websites und Websitesammlungen werden für die 93 Tage direkt in den Papierkorb der Websitesammlung verschoben.
   
 [Wiederherstellen von Elementen im Papierkorb der Websitesammlung](https://go.microsoft.com/fwlink/?linkid=867800) (Websitesammlungsadministratoren) 
   

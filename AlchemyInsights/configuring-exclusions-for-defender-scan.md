@@ -1,24 +1,23 @@
 ---
 title: Konfigurieren von Ausschlüssen für den Microsoft Defender ATP-Scan
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/16/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6027"
 - "9001464"
-ms.openlocfilehash: 912e77b9b1a149fef373f2d0814fb2f0671a48c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6027"
+ms.date: 07/16/2020
+ms.openlocfilehash: 2b56a53aacb91a6f0c8366ebf5cf768696a5f341
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "49768490"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66342165"
 ---
 # <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Konfigurieren von Ausschlüssen für den Microsoft Defender ATP-Scan
 

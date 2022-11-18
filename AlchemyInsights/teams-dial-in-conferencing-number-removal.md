@@ -1,23 +1,23 @@
 ---
 title: Entfernen einer Teams-Konferenzeinwahlnummer
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002248"
 - "4352"
-ms.openlocfilehash: 5d7010a0b660c1fa7c1aa48835de6af7efe025db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6792"
+ms.openlocfilehash: bb4e16299698d8295c6c7a75ab1f2f58d13f3b81
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736872"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66382701"
 ---
 # <a name="teams-dial-in-conferencing-number-removal"></a>Entfernen einer Teams-Konferenzeinwahlnummer
 
@@ -25,19 +25,11 @@ Benötigen Sie Hilfe beim Entfernen einer Konferenzeinwahlnummer aus Ihrer Konfe
 
 Die Standardtelefonnummer der Konferenzbrücke definiert die Anrufer-ID, die verwendet wird, wenn ein ausgehender Anruf von einem Teilnehmer oder dem Organisator innerhalb einer Besprechung platziert wird.
 
-1. Melden Sie sich mit Ihrem Geschäftskonto an.
+1. Wechseln Sie im Teams Admin Center zu den [Konferenzbrückeneinstellungen](https://admin.teams.microsoft.com/meetings/conf-bridges).
 
-2. Navigieren Sie zum **Microsoft 365 Admin Center**.
+1. Markieren Sie die Dienstgebührennummer, die Sie als Standard konfigurieren möchten.
 
-3. Navigieren Sie zum **Admin Center > Teams & Skype**.
-
-4. Navigieren Sie zu **Besprechungen**.
-
-5. Navigieren Sie zu **Konferenzbrücken**.
-
-6. Markieren Sie die gebührenpflichtige Nummer des Dienstes, die Sie als Standard konfigurieren möchten.
-
-7. Klicken Sie auf **Als Standard festlegen**.
+1. Wählen Sie **Als Standard festlegen** aus.
 
 Weitere Informationen finden Sie unter [Ändern der Telefonnummern in Ihrer Audiokonferenzbrücke](https://docs.microsoft.com/microsoftteams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
 

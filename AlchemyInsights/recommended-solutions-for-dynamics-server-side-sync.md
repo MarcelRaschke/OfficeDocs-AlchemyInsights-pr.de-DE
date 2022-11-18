@@ -1,37 +1,38 @@
 ---
-title: Dynamics Server-Side Sync Recommended Solutions
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+title: Dynamics Server-side Sync Empfohlene Lösungen
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
+- "6200009"
 - "1453"
 - "1454"
 - "1456"
-- "6200009"
-ms.openlocfilehash: 3356ba938978573274b9d41e3e73f91807baf384
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13c12988c4814c2d02d4a6d00c12f0d6885ad661
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797907"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66385941"
 ---
-# <a name="dynamics-server-side-sync-recommended-solutions"></a>Dynamics Server-Side Sync Recommended Solutions
+# <a name="dynamics-server-side-sync-recommended-solutions"></a>Empfohlene Lösungen für Dynamics Server-side Sync
 
-* [Anzeigen detaillierter Server Fehler, die in meinem Portal angezeigt werden](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Anzeigen des detaillierten Serverfehlers, der in meinem Portal angezeigt wird](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
 * [Zurücksetzen eines Portals](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
 * [Löschen des serverseitigen Caches für ein Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Vorgehensweise ändern der Benutzergruppe und des Typs eines Dynamics 365-Portals](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Ändern der Benutzergruppe und des Typs eines Dynamics 365-Portals](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [Vorgehensweise ändern der Basis-URL eines Portals](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [So ändern Sie die Basis-URL eines Portals](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Konfigurieren eines externen Identitätsanbieters mit Portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Konfigurieren eines externen Identitätsanbieters mit portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Häufig gestellte Fragen](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 

@@ -1,41 +1,40 @@
 ---
 title: Schritte zum Erstellen eines SharePoint-Workflows
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
-ms.assetid: ''
+ms.localizationpriority: medium
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 0d3ffde45f32224632b1b9e29b7e798aadd1a6b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 114bcd24a0a415b0e941efa3830c29094d7b05b4
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737916"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66596299"
 ---
 # <a name="steps-to-create-a-sharepoint-workflow"></a>Schritte zum Erstellen eines SharePoint-Workflows
 
-- Wenn Sie keinen SharePoint 2010 Genehmigungsworkflow hinzufügen können, finden Sie unter cannot [Add default 2010 Approval Workflow](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
-- Vorgehensweise erstellen von Workflows:
-    - [2013 Workflow aus SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
-    - [2010 Workflow aus SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
-    - [Einführung in SharePoint-Workflow](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
+- Wenn Sie keinen SharePoint 2010-Genehmigungsworkflow hinzufügen können, lesen Sie " [Kann den Standardmäßigen Genehmigungsworkflow 2010 nicht hinzufügen](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow)".
+- So erstellen Sie Workflows:
+    - [2013-Workflow aus SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
+    - [2010-Workflow aus SharePoint Designer](https://support.microsoft.com/office/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
+    - [Einführung in SharePoint-Workflow](https://support.microsoft.com/office/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
 
-- Workflow-Problembehandlung und Debugging:
-    - Das Debuggen von Workflows ähnelt denen früherer Versionen.  Weitere Informationen finden Sie unter [Debuggen von SharePoint-Workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-    - Weitere Informationen zur Problembehandlung finden Sie unter [Problembehandlung bei SharePoint Server Workflow Validierungsfehlern](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+- Workflowproblembehandlung und Debuggen:
+    - Das Debuggen von Workflows ähnelt dem von früheren Versionen.  Weitere Informationen finden Sie [unter Debuggen von SharePoint-Workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+    - Weitere Informationen zur Problembehandlung finden Sie [unter Beheben von SharePoint Server-Workflowüberprüfungsfehlern](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>Verwandte Themen
 Möchten Sie Microsoft Flow in SharePoint Online testen?
-- [Fluss erstellen](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [Fluss erstellen](https://support.microsoft.com/office/create-a-flow-for-a-list-or-library-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint und Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

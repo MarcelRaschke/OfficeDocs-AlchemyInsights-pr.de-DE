@@ -1,23 +1,22 @@
 ---
 title: Abrufen neuer Service-Telefonnummern für Teams
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002532"
 - "5140"
-ms.openlocfilehash: c777669405ac9d4ba4b4b5afbd15345b65aedd72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 813ca79547d97b25ff9a930e7e4659923709e036
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707494"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66311004"
 ---
 # <a name="get-new-service-numbers-for-teams"></a>Abrufen neuer Service-Telefonnummern für Teams
 
@@ -29,7 +28,7 @@ Unter Verwendung des Microsoft Teams Admin Centers:
 
     - Wählen Sie unter **Land oder Region** ein Land oder eine Region aus.
     - Wählen Sie unter **Nummerntyp** die gewünschte Service-Telefonnummer aus.
-    - Wählen Sie unter **Ort** einen Ort aus. Wenn Sie einen neuen Standort erstellen müssen, klicken Sie auf **Ort hinzufügen**.
+    - Wählen Sie unter **Standort** einen Standort aus. Wenn Sie einen neuen Standort erstellen müssen, klicken Sie auf **Standort hinzufügen**.
     - Wählen Sie unter **Ortsvorwahl** eine Ortsvorwahl aus.
     - Geben Sie unter **Menge** die gewünschte Anzahl von Nummern für Ihre Organisation ein, und klicken Sie dann auf **Weiter**, um Ihre Nummern auszuwählen.
     

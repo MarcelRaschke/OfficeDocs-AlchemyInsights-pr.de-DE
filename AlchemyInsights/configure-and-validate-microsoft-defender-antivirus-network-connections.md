@@ -3,22 +3,21 @@ title: Konfigurieren und Validieren von Microsoft Defender Antivirus-Netzwerkver
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/25/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6035"
 - "9001464"
-ms.openlocfilehash: 42fb806913356babf4fc9d06274e8db7cbdcadae
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+- "6035"
+ms.date: 02/25/2021
+ms.openlocfilehash: 97b2186b944208fa4291e447bc5f8524f370dc76
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50449092"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66311652"
 ---
 # <a name="configure-and-validate-microsoft-defender-antivirus-network-connections"></a>Konfigurieren und Validieren von Microsoft Defender Antivirus-Netzwerkverbindungen
 

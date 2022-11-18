@@ -3,30 +3,29 @@ title: Leeren des Ordners "Gelöschte Elemente" in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: b166ce9a3a67a7156bfd5c0ed1804fae67121a19
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672451"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66307350"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Leeren des Ordners "Gelöschte Elemente"
 
-1. Öffnen Sie den Ordner Gelöschte Elemente, und wählen Sie **leeren Ordner**aus.
-2. Wählen Sie wieder **herstellbare Elemente** oben auf der Seite aus, und wählen Sie erneut **leeren Ordner** aus.
+1. Öffnen Sie den Ordner "Gelöschte Elemente", und wählen Sie **"Ordner leeren**" aus.
+2. Wählen Sie oben auf der Seite " **Wiederherstellbare Elemente** " und dann erneut **"Ordner leeren** " aus.
 
-**Der Ordner "Gelöschte Elemente" kann nicht geleert werden**
+**Der Ordner "Gelöschte Elemente" kann nicht geleert werden.**
 
-- Wenn Sie viele e-Mails gelöscht haben, kann es einige Zeit dauern, bis diese Elemente in den Ordner "Gelöschte Elemente" wechseln oder aus diesem gelöscht werden. Lassen Sie das Browserfenster geöffnet, während das Löschen erfolgt.
-- Wenn die e-Mail immer noch nicht ordnungsgemäß gelöscht wird, wählen Sie einen kleineren zu löschenden Batch aus.
-- Wenn gelöschte e-Mails zurückkommen, kann dies daran liegen, dass Sie kürzlich viele e-Mails gelöscht haben. Versuchen Sie es bitte später erneut.
+- Wenn Sie viele E-Mails gelöscht haben, kann es einige Zeit dauern, bis diese Elemente in den Ordner "Gelöschte Elemente" verschoben oder aus dem Ordner "Gelöschte Elemente" gelöscht wurden. Lassen Sie das Browserfenster geöffnet, während das Löschen stattfindet.
+- Wenn die E-Mail immer noch nicht ordnungsgemäß gelöscht werden kann, wählen Sie einen kleineren Batch aus, der gelöscht werden soll.
+- Wenn gelöschte E-Mails zurückgegeben werden, kann dies daran liegt, dass Sie kürzlich viele E-Mails gelöscht haben. Versuchen Sie es später noch mal.

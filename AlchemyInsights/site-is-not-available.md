@@ -1,23 +1,23 @@
 ---
-title: Website ist nicht verfügbar
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Die Website ist nicht verfügbar.
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: a8343f03-1b8c-4c29-be84-72b025e51d72
-ms.openlocfilehash: eb5d13b60f7a8e23638a27f6be42422d0ceb0a95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.date: 04/21/2020
+ms.openlocfilehash: 91fe329558fe405938b6b03a00ee81159d5b483b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738888"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66263044"
 ---
-# <a name="site-is-not-available"></a>Website ist nicht verfügbar
+# <a name="site-is-not-available"></a>Die Website ist nicht verfügbar.
 
-Wenn Ihre SharePoint-oder OneDrive-Website nicht für mehrere Benutzer verfügbar ist, liegt möglicherweise ein vorübergehendes Dienst Problem vor. Überprüfen Sie das [Dienststatus-Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , um zu sehen, ob Ihr Mandant betroffen ist. 
+Wenn Ihre SharePoint- oder OneDrive-Website nicht für mehrere Benutzer verfügbar ist, liegt möglicherweise ein temporäres Dienstproblem vor. Überprüfen Sie das [Dashboard "Dienststatus](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ", um festzustellen, ob Ihr Mandant betroffen ist. 
   
 

@@ -1,28 +1,27 @@
 ---
-title: 8000063 klicken mit der rechten Maustaste auf einen Mac
+title: 8000063 Klicken mit der rechten Maustaste auf einen Mac
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1071"
 - "8000063"
-ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 95d8a88bc1f0db2e2cadca887cb42f0c85b38f43
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1071"
+ms.date: 04/21/2020
+ms.openlocfilehash: bcc7776190831b6251972816b3c27c40a9ed3fe1
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779302"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66296992"
 ---
-# <a name="how-to-right-click-on-a-mac"></a>Klicken mit der rechten Maustaste auf einen Mac
+# <a name="how-to-right-click-on-a-mac"></a>So klicken Sie mit der rechten Maustaste auf einen Mac
 
-Klicken Sie unter Mac-Computern mit der rechten Maustaste auf sekundärer Mausklick oder auf Steuerelement. Wenn die Maus, das Trackpad oder ein anderes Eingabegerät keine Rechtsklick Schaltfläche oder andere Möglichkeit zum Durchführen eines Rechtsklicks enthält, halten Sie die **STRG-Taste** auf der Tastatur gedrückt, während Sie auf klicken.
+Auf Mac-Computern wird das Klicken mit der rechten Maustaste als sekundäres Klicken oder Klicken auf das Steuerelement bezeichnet. Wenn Ihre Maus, Ihr Trackpad oder ein anderes Eingabegerät keine Rechtsklicktaste oder eine andere Möglichkeit zum Ausführen eines Rechtsklicks enthält, halten Sie die **CTRL-TASTE** auf der Tastatur gedrückt, während Sie klicken.
   
-Weitere Informationen finden Sie unter [Apple Support](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
+Weitere Informationen finden Sie im [Apple-Support](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
   

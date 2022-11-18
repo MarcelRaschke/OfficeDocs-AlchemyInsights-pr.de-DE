@@ -1,27 +1,25 @@
 ---
-title: Installieren Office 2013 Benachrichtigung
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+title: Office 2013-Benachrichtigung installieren
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "54"
 - "1700001"
-ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
-ms.openlocfilehash: f966b407fcbd70ab883027f113fe3aeb2b0f6a91
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "54"
+ms.date: 04/21/2020
+ms.openlocfilehash: 41d4a34a0438aeee8bede16a19a7c6f0f58cf14f
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755346"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66565645"
 ---
 # <a name="upgrade-to-office-2016"></a>Upgrade auf Office 2016
 
-Leider steht Office 2013 nicht mehr zum Download zur Verfügung, aber Sie können ein Upgrade auf Office 2016 kostenlos durchführen. Weitere Informationen und Schritte zum installieren Office 2016 finden Sie in diesem Artikel: [installieren oder Aktualisieren auf Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).
+Leider steht Office 2013 nicht mehr zum Download zur Verfügung, aber Sie können kostenlos auf Office 2016 aktualisieren! Weitere Informationen und Schritte zum Installieren von Office 2016 finden Sie in diesem Artikel: [Installieren oder Upgrade auf Office 2016](https://support.microsoft.com/office/office-2013-and-office-for-mac-2011-are-no-longer-available-for-installation-with-a-microsoft-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75).
   

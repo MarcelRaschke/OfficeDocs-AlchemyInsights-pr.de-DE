@@ -1,24 +1,23 @@
 ---
 title: Formularkopf – Webressource
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/27/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1929"
 - "9000308"
-ms.openlocfilehash: c3bd238ea600c4f982e41eaa566fa9a17448a356
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1929"
+ms.date: 07/27/2020
+ms.openlocfilehash: b95b34c98db7a1d3ba55f43cb02f3f4038c2aad8
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708070"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66323283"
 ---
 # <a name="form-header---web-resource"></a>Formularkopf – Webressource
 

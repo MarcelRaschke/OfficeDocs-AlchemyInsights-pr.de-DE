@@ -1,29 +1,29 @@
 ---
-title: Haben Sie einen "Parameter kann nicht gefunden"-Fehler?
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Gibt es einen Fehler vom Typ "Parameter kann nicht gefunden werden"?
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "683"
 - "3500008"
-ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 82279e0b369d06277d83e0af686a46e1107dbabe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "683"
+ms.date: 04/21/2020
+ms.openlocfilehash: 9f076e10b9c3b6a849f540e615697c42b8d440cc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706162"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66376672"
 ---
-# <a name="migrating-email-from-imap-email-system-to-microsoft-365"></a>Migrieren von e-Mails vom IMAP-e-Mail-System zu Microsoft 365
+# <a name="migrating-email-from-imap-email-system-to-microsoft-365"></a>Migrieren von E-Mails aus dem IMAP-E-Mail-System zu Microsoft 365
 
-Um e-Mails von einem IMAP-e-Mail-System zu migrieren, führen Sie den folgenden Vorgang aus: [IMAP-Migration im Microsoft 365 Admin Center](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
+Um E-Mails aus einem IMAP-E-Mail-System zu migrieren, führen Sie bitte diesen Prozess aus: [IMAP-Migration im Microsoft 365 Admin Center](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
-Viele große Organisationen müssen sorgfältig planen, um die Benutzererwartungen zu verwalten. Das, [was Sie über die Migration Ihrer IMAP-Postfächer zu Microsoft 365-Artikel wissen müssen](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) , hilft Ihnen bei der Verwaltung der Änderung. Beachten Sie, dass G Suite (Google) Migrationen [nicht mehr über IMAP erfolgen müssen](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
+Viele große Organisationen müssen sorgfältig planen, um die Erwartungen der Benutzer zu verwalten. Der Artikel ["Was Sie über die Migration Ihrer IMAP-Postfächer zu Microsoft 365 wissen müssen](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) " hilft Ihnen bei der Verwaltung der Änderung. Beachten Sie, dass G Suite (Google)-Migrationen [nicht mehr über IMAP durchgeführt werden müssen](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
 
-Überprüfen Sie auch die Seite [Microsoft 365 mit](https://www.microsoft.com/fasttrack/microsoft-365/office-365) kurzschlag annehmen, um unterstützte Hilfe bei der Migration zu erhalten, sofern berechtigt.
+Bitte überprüfen Sie auch die Seite ["Einführung von Microsoft 365 mit FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) ", um Hilfe bei der Migration zu erhalten, falls berechtigt.
   

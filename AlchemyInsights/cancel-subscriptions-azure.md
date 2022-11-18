@@ -1,39 +1,38 @@
 ---
 title: Abonnement in Azure kündigen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: f85608446c8b230753dccd06ee5b5ea36aed7802
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: b2374aed5e25971fe6f6095f573ae03a4a07b1dc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791466"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66395463"
 ---
 # <a name="cancel-subscription"></a>Abonnement kündigen
 
-Nur Kontoverwalter oder -Besitzer direkt über das Abonnement Sie können Ihr Azure-Abonnement im Azure-Portal kündigen, wenn Sie das Abonnement nicht mehr benötigen. Führen Sie die folgenden Schritte aus.
+Wenn Sie Ihr Azure-Abonnement nicht mehr benötigen, können Sie es im Azure-Portal kündigen. Azure-Abonnements können nur vom Kontoadministrator oder von Benutzern mit Besitzerrechten für das Abonnement gekündigt werden.
 
 1. Wählen Sie Ihr Abonnement über die Seite [Abonnements im Azure-Portal](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)aus.
 2. Wählen Sie das Abonnement aus, das Sie stornieren möchten.
-3. Wählen Sie **Übersicht** aus und wählen Sie dann **Abonnement kündigen** aus.
+3. Wählen Sie **Übersicht** und dann **Abonnement kündigen** aus.
 
 **Was geschieht nach der Kündigung meines Abonnements?**
 
 Nachdem Sie gekündigt haben, wird die Abrechnung sofort gestoppt. Es kann jedoch bis zu 10 Minuten dauern, bis die Kündigung im Portal angezeigt wird. Wenn Sie in der Mitte eines Abrechnungszeitraums kündigen, senden wir die endgültige Rechnung nach Ablauf des Zeitpunkts, an dem Ihr typisches Rechnungsdatum liegt.
 
-Nach der Kündigung sind ihre Dienste deaktiviert. Dies bedeutet, dass Ihre virtuellen Computer nicht zugewiesen werden, temporäre IP-Adressen freigegeben und der Speicher schreibgeschützt ist.
+Nach der Kündigung sind ihre Dienste deaktiviert. Dies bedeutet, dass die Zuordnung Ihrer virtuellen Computer aufgehoben wird, temporäre IP-Adressen freigegeben werden und der Speicher schreibgeschützt ist.
 
-Nachdem Ihr Abonnement gekündigt wurde, wartet Microsoft 30-90 Tage, bevor die Daten endgültig gelöscht werden, für den Fall, dass Sie darauf zugreifen müssen, oder Sie es sich anders überlegen. Es gibt keine Gebühr für die Aufbewahrung der Daten. Weitere Informationen hierzu finden Sie unter [Microsoft Trust Center – wie wir Ihre Daten verwalten](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
+Nachdem Ihr Abonnement gekündigt wurde, wartet Microsoft 30-90 Tage, bevor die Daten endgültig gelöscht werden, für den Fall, dass Sie darauf zugreifen müssen, oder Sie es sich anders überlegen. Für die Aufbewahrung der Daten wird keine Gebühr erhoben. Weitere Informationen hierzu finden Sie unter [Microsoft Trust Center – so verwalten wir Ihre Daten](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
 
 **Kündigen des Azure-Abonnements**
 

@@ -1,40 +1,39 @@
 ---
 title: Wiederherstellen eines gelöschten öffentlichen Ordners
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: bb7fe248714e9a7e7f4c48913b159b5c23132192
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a803d35e94f2dfd18756b11a2c6817d7b5ae7da7
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774530"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66264250"
 ---
 # <a name="restore-a-deleted-public-folder"></a>Wiederherstellen eines gelöschten öffentlichen Ordners
 
-**So stellen Sie gelöschte Elemente in einem öffentlichen Ordner wieder her**:
+**So stellen Sie gelöschte Elemente aus einem öffentlichen Ordner wieder her**:
 
-- Weitere Informationen finden [Sie unter Sie können gelöschte Elemente nicht aus einem öffentlichen Ordner außerhalb von e-Mail in Outlook 2016 wiederherstellen](https://aka.ms/pfrec).
+- Siehe [Sie können gelöschte Elemente aus einem öffentlichen Ordner ohne E-Mail in Outlook 2016 nicht wiederherstellen](https://aka.ms/pfrec).
  
-**So stellen Sie einen gelöschten öffentlichen Ordner (eines beliebigen Typs) wieder her**: 
+**So stellen Sie einen gelöschten öffentlichen Ordner (beliebigen Typs) wieder her**: 
 
-- Verwenden Sie den folgenden Exo PowerShell-Befehl:
+- Verwenden Sie den folgenden EXO PowerShell-Befehl:
 
     Syntax:
 
      `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse  | ?{$_.Name -eq "\<name_of_deleted_public_Folder"};Set-PublicFolder $pf.identity -Path \<path where the folder will be restored>`
 
-    Beispiel: mit dem folgenden Befehl wird Unterordner1 wiederhergestellt und unter \Parent1 platziert:
+    Beispiel: Mit dem folgenden Befehl wird der Unterordner1 wiederhergestellt und unter \Parent1 platziert:
 
     `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse | ?{$_.Name -eq "Subfolder1"};Set-PublicFolder $pf.identity -Path \Parent1`
 
-Weitere Informationen finden Sie unter [Wiederherstellen eines gelöschten öffentlichen Ordners](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) .
+Weitere Informationen finden [Sie unter Wiederherstellen eines gelöschten öffentlichen Ordners](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) .

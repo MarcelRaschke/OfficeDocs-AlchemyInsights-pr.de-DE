@@ -1,38 +1,38 @@
 ---
-title: Netzwerk Migration
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Netzwerkmigration
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "716"
 - "6000002"
-ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 6f026f932bb35d12d32ce7eddf49e49a44db7f31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "716"
+ms.date: 04/21/2020
+ms.openlocfilehash: 7016947ebac327686cac2eecdaab760e5f8a94f5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799563"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66336909"
 ---
-# <a name="network-migration"></a>Netzwerk Migration
+# <a name="network-migration"></a>Netzwerkmigration
 
-Ihr O365-Mandant ist möglicherweise mehreren Jammer Netzwerken in einem 1-Mandanten zugeordnet: Viele Netzwerkkonfigurationen. Ab dem 16. Oktober 2018 unterstützt jammern nicht mehr mehrere Jammer Netzwerke, die einem Mandanten zugeordnet sind. Sie können eine Netzwerk Migration durchführen, um eine bevorzugte 1:1-Konfiguration zu erhalten.
+Ihr O365-Mandant ist möglicherweise mehreren Yammer Netzwerken in einer Konfiguration mit 1 Mandant zugeordnet: Viele Netzwerke. Ab dem 16. Oktober 2018 unterstützt Yammer nicht mehr mehrere Yammer Netzwerke, die einem Mandanten zugeordnet sind. Sie können eine Netzwerkmigration durchführen, um zu einer bevorzugten 1:1-Konfiguration zu gelangen.
   
-- Um eine Liste der Netzwerke anzuzeigen, die Ihrem Mandanten zugeordnet sind, melden Sie sich bei jammern als globaler Administrator an, und navigieren Sie zu **Netzwerkadministrator**und dann zur **Netzwerk Migration**. Wählen Sie **Weiter** aus.
+- Um eine Liste der Netzwerke anzuzeigen, die Ihrem Mandanten zugeordnet sind, melden Sie sich bei Yammer als globaler Administrator an, navigieren Sie zu **"Network Admin**" und dann zur **Netzwerkmigration**. Wählen Sie **Weiter** aus.
 
-- Wenn Sie mehrere Netzwerke in Schritt 2 von 3 aufgelistet sehen, haben Sie mehrere Jammer Netzwerke, die mit Ihrem O365-Mandanten verknüpft sind.
+- Wenn in Schritt 2 von 3 mehrere Netzwerke aufgeführt sind, sind Ihrem O365-Mandanten mehrere Yammer Netzwerke zugeordnet.
 
-- Um die Konfiguration in einer 1:1-Konfiguration zu korrigieren, fahren Sie mit dem Netzwerk Migrationstool fort.
+- Um Ihre Konfiguration auf eine 1:1-Konfiguration zu korrigieren, verwenden Sie weiterhin das Netzwerkmigrationstool.
 
-- Weitere Informationen zur Netzwerk Migration finden Sie unter [Netzwerk Migration: Konsolidieren von mehreren Jammer Netzwerken](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+- Weitere Informationen zur Netzwerkmigration finden Sie unter [Netzwerkmigration: Konsolidieren mehrerer Yammer Netzwerke](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
 Bitte beachten Sie:
   
-- **Bei einer Netzwerk Migration werden nur die aktiven und ausstehenden Benutzer migriert.** Zusammen mit den aktiven Benutzern werden die Benutzerinformationen wie Name und Profilbild ebenfalls migriert. Alle Netzwerk Inhalte, einschließlich Gruppen, werden nicht migriert.
+- **Bei einer Netzwerkmigration werden nur die aktiven und ausstehenden Benutzer migriert.** Zusammen mit den aktiven Benutzern werden auch die Informationen der Benutzer, z. B. Name und Profilbild, migriert. Netzwerkinhalte, einschließlich Gruppen, werden nicht migriert.
 
-- **Die Netzwerkmigration kann nicht rückgängig gemacht werden.** Sie können nach der Migration nicht auf Ihr Tochter Netzwerk und dessen Inhalte zugreifen. Bevor Sie also eine Migration in Frage stellen, möchten Sie sorgfältig planen.
+- **Die Netzwerkmigration kann nicht rückgängig gemacht werden.** Sie können nach der Migration nicht mehr auf Ihr untergeordnetes Netzwerk und dessen Inhalte zugreifen. Bevor Sie also eine Migration in Betracht ziehen, sollten Sie sorgfältig planen.

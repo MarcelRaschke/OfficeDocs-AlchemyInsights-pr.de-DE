@@ -1,29 +1,29 @@
 ---
-title: Microsoft Teams PS-Modulinstallation und Referenz
-ms.author: heidip
-author: heidip
-manager: serdards
-ms.audience: Admin
+title: Installieren und Referenz für Teams-PS-Modul
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1787"
 - "9000212"
-ms.openlocfilehash: 34f2165d2914a178a5232f92c32c0dffd2f62b90
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1787"
+ms.openlocfilehash: d4ea19f05c2b38dd10bfad2bfa3b7229d1047818
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735882"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66315291"
 ---
-# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Was Sie mit dem PowerShell-Modul von Microsoft Teams erreichen können
+# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Was Sie mit dem Microsoft Teams PowerShell-Modul erreichen können
 
-Wenn Sie wissen möchten, wie das PowerShell-Modul von Teams installiert werden muss, können Sie sich [diesen Blog](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)ansehen.
+Wenn Sie wissen müssen, wie Sie das Teams PowerShell-Modul installieren, lesen Sie [diesen Blog](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/).
 
 Weitere Informationen:
 
-- Lesen Sie die [PowerShell-Übersicht für Teams](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) , um die Funktionen der [Administratorrolle](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)zu verstehen, [Teams über PowerShell zu erstellen und zu verwalten](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)und [Richtlinien](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) oder [Konfigurationen](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell)zu verwalten. 
-- Lesen Sie die [PowerShell-Befehlsreferenz von Microsoft Teams](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) , um eine Liste der über PowerShell verfügbaren Befehle zu erhalten. 
+- Informationen zum Migrieren finden Sie unter [Migrieren von Skype for Business Online Connector zum Teams PowerShell-Modul](https://docs.microsoft.com/microsoftteams/teams-powershell-move-from-sfbo#how-to-migrate).
+- Überprüfen Sie die [PowerShell-Übersicht über Teams](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview), um die [Administratorrollenfunktionen](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles) zu verstehen, [Teams über PowerShell zu erstellen und zu verwalten](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell) sowie Richtlinien oder [Konfigurationen](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) [zu verwalten](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell). 
+- In der [PowerShell-Befehlsreferenz für Microsoft Teams](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps&preserve-view=true) finden Sie eine Liste der befehle, die über PowerShell verfügbar sind.

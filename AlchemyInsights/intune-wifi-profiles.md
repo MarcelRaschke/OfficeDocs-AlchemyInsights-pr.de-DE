@@ -1,24 +1,23 @@
 ---
 title: Intune-WLAN-Profile
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/28/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "1548"
 - "9000076"
-ms.openlocfilehash: afc8142a635b8a9d715eb4325b570be20ad26645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1548"
+ms.date: 07/28/2020
+ms.openlocfilehash: f3ebea1ad277a182181ef0d9fe26bfef95928de2
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696260"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66321159"
 ---
 # <a name="intune-wi-fi-profiles"></a>Intune-WLAN-Profile
 

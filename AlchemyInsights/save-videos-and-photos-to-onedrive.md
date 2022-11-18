@@ -1,24 +1,23 @@
 ---
 title: Speichern von Videos und Fotos auf OneDrive
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002296"
 - "4580"
-ms.openlocfilehash: a98ba557a4e10cd5c9b5f13a0d39b6b726fab21a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d26fc4d86092b52b5bd583cfbc03f12b9359f75a
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774314"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66588307"
 ---
 # <a name="save-videos-and-photos-to-onedrive"></a>Speichern von Videos und Fotos auf OneDrive
 
-Hier erfahren Sie, wie Sie [Videos und Fotos automatisch auf OneDrive](https://support.office.com/article/Save-photos-and-videos-to-OneDrive-automatically-42a0202d-c944-4ebc-bb17-32d0082226f8)speichern.
+Hier erfahren Sie, wie Sie [Videos und Fotos automatisch auf OneDrive](https://support.microsoft.com/office/save-photos-and-videos-to-onedrive-automatically-42a0202d-c944-4ebc-bb17-32d0082226f8)speichern.

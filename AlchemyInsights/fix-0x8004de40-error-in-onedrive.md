@@ -1,33 +1,23 @@
 ---
-title: Fix 0x8004de40-Fehler in OneDrive
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Beheben 0x8004de40/0x8004de88 Fehlers in OneDrive
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: ''
-ms.openlocfilehash: b9bd6dff48f78063e3d47f5fe2f834f59eb9868a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.date: 09/13/2022
+ms.openlocfilehash: 49b2b892020d35b1cf1b18fd02b3484b4c81f761
+ms.sourcegitcommit: d8257778f0613eae471afd537cec40bbd2d40c58
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745129"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "67655126"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Fix 0x8004de40-Fehler in OneDrive
+# <a name="fix-0x8004de400x8004de88-error-in-onedrive"></a>Beheben 0x8004de40/0x8004de88 Fehlers in OneDrive
 
-Wenn Sie einen 0x8004de40-Fehler mit OneDrive erhalten:
+Fehlercode 0x8004de40 oder 0x8004de88 könnte bedeuten, dass OneDrive Schwierigkeiten beim Herstellen einer Verbindung mit der Cloud hat. 
 
-- Starten Sie den betroffenen Computer neu, während eine Verbindung mit ihrer Acitve-Verzeichnisdomäne besteht.
-- Wenn das Problem durch einen Neustart nicht behoben werden kann, trennen Sie die Verbindung und fügen Sie Ihr Gerät von Azure AD wieder hinzu. 
-
-**Hinweis**: Wenn Sie diese Schritte ausführen, sollten Sie sich im Unternehmensnetzwerk befinden. Führen Sie diese Schritte nicht aus, wenn Sie nicht in der Lage sind, eine Verbindung mit Ihrer Unternehmensinfrastruktur herzustellen (beispielsweise auf Reisen). 
-
-- Öffnen Sie eine Eingabeaufforderung mit erhöhten Rechten. 
-- Klicken Sie zum Öffnen einer Eingabeaufforderung mit erhöhten Rechten auf- **Start**, klicken Sie mit der rechten Maustaste auf **Eingabeaufforderung**, und klicken Sie dann auf **als Administrator ausführen**.
-- Geben Sie *dsregcmd/Leave* ein, und drücken **Sie die Eingabe**Taste.
-- Geben Sie nach Abschluss *dsregcmd/Join* ein, und drücken **Sie die Eingabe**Taste.
-- Schließen Sie nach Abschluss der Eingabeaufforderung.
-- Starten Sie den Computer neu, und melden Sie sich bei OneDrive an.
+Weitere Informationen finden Sie unter [Fehlercode: 0x8004de40 oder 0x8004de88 bei der Anmeldung bei OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)

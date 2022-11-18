@@ -2,36 +2,37 @@
 title: Gutschrift/Rückerstattung
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: ITPro
+manager: scotv
+ms.reviewer: amberb, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "897"
+- commerce_billing
 - "1500035"
-ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 27f1b43c7e00114d51bb3f1c5769936b72635a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "897"
+ms.date: 04/21/2020
+ms.openlocfilehash: 5bdeca7cea14600074de0584a4f8f45b1e357d81
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746578"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66155377"
 ---
 # <a name="creditrefund"></a>Gutschrift/Rückerstattung
 
-**Unterdrückung**
+**Stornierung**
   
-Wenn Sie ein Abonnement kündigen, erhalten Sie eine abschließende Rechnung mit einem Guthaben, das am nächsten Abrechnungsdatum fällig ist. Dies kann bis zu 30 Tage dauern, bis ab dem Datum, an dem das Abonnement storniert wurde.
+Wenn Sie ein Abonnement kündigen, erhalten Sie am nächsten Abrechnungsdatum eine Endgültige Rechnung mit einer gutgeschriebenen Gutschrift. Es kann bis zu 30 Tage dauern, bis das Abonnement gekündigt wurde.
   
 **Sitzplatzänderung**
   
-Wenn Lizenzen aus einem Abonnement entfernt werden, wird die nicht verwendete Zeit auf diesen Lizenzen als Guthaben auf der nächsten Rechnung angewendet. Dies kann bis zu 30 Tage dauern, bis Sie ab dem Datum, an dem die Lizenzen entfernt wurden, empfangen werden.
+Wenn Lizenzen aus einem Abonnement entfernt werden, wird die nicht verwendete Zeit für diese Lizenzen als Gutschrift auf die nächste Rechnung angewendet. Dies kann bis zu 30 Tage dauern, bis die Lizenzen entfernt werden.
 
 **Rückerstattung**
 
-**Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.**
+**Jede anteilige Gutschrift wird Ihnen innerhalb des nächsten Abrechnungszyklus zurückgegeben.**
 
-Weitere Informationen finden Sie unter [Abbruch-und Erstattungs Prozess](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide). 
+Weitere Informationen finden Sie unter [Stornierungs- und Rückerstattungsprozess](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). 

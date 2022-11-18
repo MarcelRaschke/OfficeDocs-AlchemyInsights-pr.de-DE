@@ -1,33 +1,35 @@
 ---
-title: 204 suchen nach fehlenden oder wiederhergestellten fehlenden Outlook-Nachrichten, Kalendern oder Kontakten
-ms.author: pdigia
-author: pebaum
-manager: jackiesm
-ms.audience: Admin
+title: 204 So finden Sie fehlende outlook-E-Mails, Kalender oder Kontakte, die fehlen oder wiederhergestellt werden
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "204"
 - "1800008"
-ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "204"
+ms.openlocfilehash: 0d23757e82e0cca4964a45a7cf73ea2f47c9800f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780346"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66353379"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Vorgehensweise suchen und Wiederherstellen fehlender Nachrichten, Kontakte oder Kalenderelemente in Outlook
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Suchen und Wiederherstellen fehlender Nachrichten, Kontakte oder Kalenderelemente in Outlook
 
-1. Wechseln Sie in Outlook zu Ihrer Liste e-Mail-Ordner, und wählen Sie dann **Gelöschte Elemente**aus. **Wichtig**: Wenn Sie den Ordner " **Gelöschte Elemente** " nicht sehen, sondern stattdessen den Ordner " **Trash** " sehen, unterstützt Ihr Konto nicht die Rückgewinnung eines Elements, das sich nicht mehr im Ordner " **Gelöschte Elemente** " befindet.
+1. Wechseln Sie in Outlook zu Ihrer E-Mail-Ordnerliste, und wählen Sie dann **"Gelöschte Elemente" aus**. 
 
-2. Klicken Sie im Menü **Start** auf **Gelöschte Elemente aus dem Server wiederherstellen**. **Wichtig**: Wenn im Menü kein Befehl **Gelöschte Elemente aus dem Server wiederherstellen** vorhanden ist, wird das Wiederherstellen eines Elements, das sich nicht mehr im Ordner " **Gelöschte Elemente** " befindet, von Ihrem Konto nicht unterstützt.
+    **Wichtig**: Wenn der Ordner **"Gelöschte Elemente** " nicht angezeigt wird, sondern stattdessen der **Ordner "Papierkorb** " angezeigt wird, unterstützt Ihr Konto nicht die Wiederherstellung eines Elements, das sich nicht mehr in Ihrem Ordner **"Gelöschte Elemente"** befindet.
 
-3. Wählen Sie die Elemente aus, die Sie wiederherstellen möchten, klicken Sie auf **ausgewählte Elemente wiederherstellen**, und klicken Sie dann auf **OK**.
+2. Klicken Sie im Menü **"Start** " auf " **Gelöschte Elemente vom Server wiederherstellen"**. 
 
-**Wo werden wiederhergestellte Elemente hin?** Wenn Sie Elemente aus dem Ordner "Wiederherstellbare Elemente" wiederherstellen, werden Sie in den Ordner " **Gelöschte Elemente** " verschoben. Nachdem Sie ein Element wiederhergestellt haben, können Sie es im Ordner " **Gelöschte Elemente** " suchen und dann in einen anderen Ordner verschoben werden.
+    **Wichtig**: Wenn im Menü kein Befehl " **Gelöschte Elemente vom Server wiederherstellen** " vorhanden ist, unterstützt Ihr Konto das Wiederherstellen eines Elements, das sich nicht mehr im Ordner **"Gelöschte Elemente"** befindet.
 
-Sie können auch das [Tool ich habe Probleme beim Senden, empfangen oder suchen von e-Mail-Nachrichten](https://aka.ms/SaRA-OutlookSendReceive) **auf dem betroffenen Computer**verwenden. Dieses Tool prüft eine Reihe von Problemen und schlägt mögliche Lösungen vor.
+3. Wählen Sie die Elemente aus, die Sie wiederherstellen möchten, klicken Sie auf **"Ausgewählte Elemente wiederherstellen**", und klicken Sie dann auf **"OK**".
+
+**Wohin gehen wiederhergestellte Elemente?** Wenn Sie Elemente aus dem Ordner "Wiederherstellbare Elemente" wiederherstellen, werden sie in den Ordner **"Gelöschte Elemente"** verschoben. Nachdem Sie ein Element wiederhergestellt haben, können Sie es im Ordner **"Gelöschte Elemente"** finden und dann in einen anderen Ordner verschieben.
+
+Sie können auch das [Tool "Ich habe Probleme beim Senden, Empfangen oder Auffinden von E-Mail-Nachrichten](https://aka.ms/SaRA-OutlookSendReceive)**" auf dem betroffenen Computer** verwenden. Dieses Tool sucht nach einer Reihe von Problemen und schlägt mögliche Lösungen vor.

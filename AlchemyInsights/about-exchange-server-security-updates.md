@@ -1,42 +1,32 @@
 ---
-title: Informationen Exchange Server Sicherheitsupdates
+title: Informationen zu Exchange Server Updates
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 03/04/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9005482"
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 87a5cf1ac4dfb96a5406f6b1431adb6ead074fd6
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.date: 03/04/2021
+ms.openlocfilehash: cda2cf1005e2c2a8bfe5b074c33105b3ae98354b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50449099"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66303202"
 ---
-# <a name="about-exchange-server-security-updates"></a>Informationen Exchange Server Sicherheitsupdates
+# <a name="about-exchange-server-updates"></a>Informationen zu Exchange Server Updates
 
-Microsoft hat eine Reihe wichtiger Sicherheitsupdates für Exchange Server veröffentlicht. Bei den betroffenen Serverversionen handelt es sich um Updatestufen von Exchange Server 2010, 2013, 2016 und 2019. Exchange Online ist NICHT betroffen, aber wenn Sie aufgrund der Hybridkonfiguration über einige lokale Exchange-Server verfügen, sind sie potenziell anfällig.
+Microsoft veröffentlicht in der Regel Exchange Server Updates am Update-Dienstag (Sicherheits-Aktualisierungen) oder vierteljährlich (kumulative Aktualisierungen). Die Ankündigungen der neuesten veröffentlichten Updates finden Sie im [Exchange-Teamblog](https://aka.ms/ehlo).
 
-Zum Aktualisieren Ihrer lokalen Server müssen mindestens die folgenden Versionen von Exchange ausgeführt werden:
+- Verwenden Sie zum Inventarisieren Ihrer Exchange-Server das [Skript Exchange Server Integritätsprüfung (GitHub, neueste Version verwenden).](https://aka.ms/ExchangeHealthChecker) Wenn Sie dieses Skript ausführen, erfahren Sie, ob sich ein Exchange-Server bei Updates (CUs und SUs) befindet.
 
-- Exchange 2010 Service Pack 3
-- Exchange Server 2013 CU 23
-- Exchange Server 2016 KU 19 oder CU 18
-- Exchange Server 2019 KU 8 oder CU 7
+- Um auf das neueste kumulative Update zu aktualisieren, wechseln Sie zum [Exchange Update-Assistenten](https://aka.ms/ExchangeUpdateWizard) , und wählen Sie Ihr derzeit ausgeführtes CU und Ihr Ziel-CU aus. Wählen **Sie "Sie wünschen" aus** , um Wegbeschreibungen für Ihre Umgebung abzurufen.
 
-Informationen zum Speicherort von Korrekturen finden Sie in der folgenden Ankündigung: [Veröffentlicht: März 2021 Exchange Server Sicherheitsupdates](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
-
-**Wichtige Hinweise:**
-
-Die Installation von Updates funktioniert nicht, wenn auf ihren lokalen Servern keine erforderlichen Exchange-Versionen ausgeführt werden, wie in der obigen Liste angegeben.
-
-Wenn Sie Updates manuell installieren, lesen Sie den Abschnitt "Bekannte Probleme" der Update-KB-Artikel, um wichtige Informationen zu erhalten. Sicherheitsupdates MÜSSEN über eine CMD/PowerShell-Eingabeaufforderung mit erhöhten Rechten ausgeführt werden!
+- Wenn während oder nach der Installation von Exchange Server Updates Fehler auftreten, lesen Sie "[Reparieren fehlgeschlagener Installationen von kumulativen und Sicherheitsupdates für Exchange](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)".

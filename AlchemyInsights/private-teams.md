@@ -1,32 +1,31 @@
 ---
 title: Private Teams
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001223"
 - "6258"
-ms.openlocfilehash: d81ac4790ab62f882bd35f0b8b4ea95a4b789abd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5289ff722b372cc953f1e6736c7b0ab90db3bf53
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801751"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66400539"
 ---
 # <a name="managing-discovery-of-private-teams"></a>Verwalten der Ermittlung von privaten Teams
 
 **Neue Teams**
 
-Wenn ein Teambesitzer ein privates Team erstellt, kann er festlegen, dass er auffindbar ist, indem er die Ermittlungs Einstellung des Teams konfiguriert. Standardmäßig sind neue private Teams durchsuchbar und auffindbar. Wenn der Teambesitzer nicht möchte, dass das private Team in Suchergebnissen und Vorschlägen angezeigt wird, kann der Besitzer die Einstellung deaktivieren, indem er die Einstellung ändern neben diesem Team ist durchsuchbar und auffindbar.  
+Wenn ein Teambesitzer ein privates Team erstellt, kann er es durch Konfigurieren der Ermittlungseinstellung des Teams auffindbar machen. Standardmäßig sind neue private Teams durchsuchbar und auffindbar. Wenn der Teambesitzer nicht möchte, dass das private Team in Suchergebnissen und Vorschlägen angezeigt wird, kann der Besitzer die Einstellung deaktivieren, indem er neben "Dieses Team" die Einstellung "Ändern" auswählt, die durchsuchbar und auffindbar ist.  
 
 **Vorhandene Teams**
 
-Teambesitzer können die Ermittlungs Einstellung für ein vorhandenes privates Team direkt in den Team Einstellungen festlegen, und Administratoren können dies mithilfe von PowerShell tun.  
+Teambesitzer können die Ermittlungseinstellung für ein vorhandenes privates Team direkt in den Teameinstellungen festlegen, und Administratoren können dies mithilfe von PowerShell tun.  
 
-Weitere Informationen finden Sie unter  [Manage Discovery of Private Teams in Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams).
+Weitere Informationen finden  [Sie unter Verwalten der Ermittlung privater Teams in Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams).

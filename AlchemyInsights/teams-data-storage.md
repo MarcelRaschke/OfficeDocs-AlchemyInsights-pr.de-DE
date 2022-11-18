@@ -1,22 +1,22 @@
 ---
 title: Teams-Datenspeicherung
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - "9002239"
 - "4348"
-ms.assetid: ''
-ms.openlocfilehash: be4bdfe5374407a8ccecec5be8a5273d3b825414
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65bc6b4f513f8e2f31bac6909940382ffbe66520
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736821"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66590647"
 ---
 # <a name="teams-data-storage"></a>Teams-Datenspeicherung
 
@@ -24,6 +24,6 @@ Jedes Team in Microsoft Teams hat eine Teamwebsite in SharePoint Online, und jed
 
 - Informationen zum Verwalten von Speicher für eine Teamwebsite finden Sie unter [Verwalten von Sitespeicher](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
 
-- Informationen, wie Microsoft Teams mit diesem Speicher interagiert, finden Sie unter [Dateispeicher in Teams](https://support.office.com/article/file-storage-in-teams-df5cc0a5-d1bb-414c-8870-46c6eb76686a).
+- Informationen, wie Microsoft Teams mit diesem Speicher interagiert, finden Sie unter [Dateispeicher in Teams](https://support.microsoft.com/office/file-storage-in-teams-df5cc0a5-d1bb-414c-8870-46c6eb76686a).
 
 Weitere Informationen finden Sie unter [Speicherorte von Daten in Microsoft Teams](https://docs.microsoft.com/microsoftteams/location-of-data-in-teams).

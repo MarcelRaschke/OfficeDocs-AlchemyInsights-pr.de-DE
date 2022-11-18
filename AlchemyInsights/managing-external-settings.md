@@ -1,30 +1,29 @@
 ---
 title: Externe Einstellungen verwalten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 02/10/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "8322"
 - "9003227"
-ms.openlocfilehash: 7caf46f9988ddbcbb16c0a2751dbda85bd7da34c
-ms.sourcegitcommit: 616ae0cbd5769e12ae428e00088840cf05e52b6a
+- "8322"
+ms.date: 02/10/2021
+ms.openlocfilehash: 4b08e72b8ff3670a822cdd0a2aa75388bd1c5b4f
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50282836"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66365889"
 ---
 # <a name="managing-external-settings"></a>Externe Einstellungen verwalten
 
 **Ankündigung**
 
-- [Die Einstellung der WebView-Anmeldeunterstützung von Google beginnt ab dem 4. Januar 2021](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation?WT.mc_id=Portal-Microsoft_Azure_Support#deprecation-of-webview-sign-in-support). Testen Sie, ob Ihre Apps betroffen sind, indem Sie die Anweisungen von Google zum Testen der Kompatibilität befolgen
+- [Die Einstellung der WebView-Anmeldeunterstützung von Google beginnt ab dem 4. Januar 2021](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation?WT.mc_id=Portal-Microsoft_Azure_Support#deprecation-of-webview-sign-in-support). Testen Sie, ob Ihre Apps betroffen sind, indem Sie die Anleitung von Google zum Testen der Kompatibilität befolgen
 - Stellen Sie sicher, dass Sie die Systemwebansicht oder den Systembrowser verwenden, wenn Sie Ihre Benutzer mit Google-Heimanwenderkonten anmelden.
 
 **Einladungseinstellungen verwalten**
@@ -33,8 +32,8 @@ Stellen Sie sicher, dass Sie die [Einstellungen für die externe Zusammenarbeit 
 
 **Zugriffsberechtigungen für Gastbenutzer verwalten**
 
-1. Globale Administratoren können Zugriffsberechtigungen für Gäste im Verzeichnis über das Azure-Portal verwalten, indem sie die Gastzugriffsberechtigungen auf der Seite „Einstellungen für die externe Zusammenarbeit“ konfigurieren. [Erfahren Sie mehr über diese Einstellung](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions?WT.mc_id=Portal-Microsoft_Azure_Support).
-2. Wenn Sie möchten, dass Ihre Gäste auf Apps wie Teams oder SharePoint zugreifen können, bestätigen Sie, dass Sie diese Apps so konfiguriert haben, dass der Gastzugriff ermöglicht ist. Erfahren Sie mehr über die [Teams-Einstellungen](https://docs.microsoft.com/microsoftteams/guest-access?WT.mc_id=Portal-Microsoft_Azure_Support) und [SharePoint](https://docs.microsoft.com/sharepoint/external-sharing-overview?WT.mc_id=Portal-Microsoft_Azure_Support).
+1. Globale Administratoren können Zugriffsberechtigungen für Gäste im Verzeichnis über das Azure-Portal verwalten, indem sie die Gastzugriffsberechtigungen auf der Seite „Einstellungen für die externe Zusammenarbeit“ konfigurieren. [Weitere Informationen zu dieser Einstellung](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions?WT.mc_id=Portal-Microsoft_Azure_Support).
+2. Wenn Sie möchten, dass Ihre Gäste auf Apps wie Teams oder SharePoint zugreifen können, bestätigen Sie, dass Sie diese Apps so konfiguriert haben, dass der Gastzugriff ermöglicht ist. Weitere Informationen zu [Teams-Einstellungen](https://docs.microsoft.com/microsoftteams/guest-access?WT.mc_id=Portal-Microsoft_Azure_Support) und [SharePoint](https://docs.microsoft.com/sharepoint/external-sharing-overview?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Einladungen konfigurieren:**
 

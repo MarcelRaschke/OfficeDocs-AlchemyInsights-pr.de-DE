@@ -1,23 +1,22 @@
 ---
 title: Nachrichtenflussregeln in Exchange Online
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002635"
 - "5068"
-ms.openlocfilehash: 84e7b2584cd622c93e3fbb55cce41b6f9436fc24
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e178cd20ae268a6a7e0cc51552252a135fc1466
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662936"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66511314"
 ---
 # <a name="mail-flow-transport-rules-in-exchange-online"></a>Nachrichtenflussregeln (Transportregeln) in Exchange Online
 
@@ -25,7 +24,7 @@ Sie können Transportregeln einrichten, um Aktionen mit Nachrichten in Ihrer Org
 
 - Verwenden Sie das [Exchange Admin Center](https://go.microsoft.com/fwlink/p/?linkid=834822) (EAC) zum Konfigurieren von Transportregeln.
 
-- Erfahren Sie, wie [Nachrichtenflussregeln (Transportregeln) in Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules) funktionieren. Möglicherweise möchten Sie auch:
+- Erfahren Sie, wie [Nachrichtenflussregeln (Transportregeln) in Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules) funktionieren. Sie sollten es auch in Erwägung ziehen folgende Aktionen auszuführen:
 
     - Die Schritte zum [Verwalten von Nachrichtenflussregeln](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/manage-mail-flow-rules) anzeigen.
     - Die [Aktionen für Nachrichtenflussregeln](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions) basierend auf Übereinstimmungskriterien analysieren.

@@ -3,22 +3,21 @@ title: Öffentliche Ordner ausblenden
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/18/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "3500007"
 - "8417"
-ms.openlocfilehash: 70179296e9c1bb7391535f55796bc5af80b825f8
-ms.sourcegitcommit: a019bd8b0244914edb59e124bc6538cdc5c158f9
+ms.date: 02/18/2021
+ms.openlocfilehash: 52accef7918cd222df1f4eb6b493a9219e4d7d7b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50294642"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66268480"
 ---
 # <a name="hide-public-folders"></a>Öffentliche Ordner ausblenden
 

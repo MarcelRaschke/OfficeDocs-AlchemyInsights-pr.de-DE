@@ -1,25 +1,25 @@
 ---
-title: 8000036 Profil pic/Name in Outlook.com ändern
+title: 8000036 Profilbild/-name in Outlook.com ändern
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: 8000036
-ms.openlocfilehash: bf719490da8142ae193af2825ddb8cf6ad24ac16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 668de7ab8943f046f3de51e3bd35c893852a9f27
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662684"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66348771"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Ändern des Profilbilds oder-namens in Outlook.com
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Ändern meines Profilbilds oder -namens in Outlook.com
 
-1. Wechseln [Sie zu Ihren Microsoft-Kontoinformationen](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. Wählen Sie **Namen bearbeiten** oder **Grafik ändern**aus.
+1. Wechseln Sie zu [Ihren Microsoft-Kontoinformationen](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Wählen Sie **"Name bearbeiten"** oder **"Bild ändern" aus**.
 
-Lassen Sie bitte bis zu 24 Stunden zu, bis Änderungen an Ihrem Profilfoto oder-Namen wirksam werden.
+Bitte lassen Sie bis zu 24 Stunden zu, bis Änderungen an Ihrem Profilfoto oder -namen wirksam werden.

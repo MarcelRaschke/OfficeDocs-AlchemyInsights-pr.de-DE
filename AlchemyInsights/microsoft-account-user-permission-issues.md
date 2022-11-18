@@ -1,39 +1,38 @@
 ---
-title: Problembehandlung – Benutzer wurde nicht im Verzeichnis gefunden
-ms.author: pebaum
-author: pebaum
-manager: pamgreen
-ms.audience: ITPro
+title: Problembehandlung – Benutzer im Verzeichnis nicht gefunden
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 512494a69ab274af00962cb9777a3479b4200fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.openlocfilehash: e5dc7510013d90e4fd1e610eec69b7c66b6cd8ba
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725406"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66309277"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Problembehandlung – Benutzer wurde nicht im Verzeichnis gefunden
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Problembehandlung – Benutzer im Verzeichnis nicht gefunden
 
-Wenn Benutzer Fehlermeldung "Benutzer kann nicht gefunden werden" im Verzeichnis erhalten, versuchen Sie es erneut, wobei der Problemtyp Benutzer nicht im Verzeichnis ist.
+Wenn Benutzer die Fehlermeldung "Benutzer kann nicht gefunden werden" im Verzeichnis erhalten, versuchen Sie es bitte erneut, wenn der Problemtyp "Benutzer" ist, der sich nicht im Verzeichnis befindet.
 
-Die folgenden Schritte können zur Behandlung des Problems ausgeführt werden.
+Die folgenden Schritte können ausgeführt werden, um das Problem zu beheben.
 
-- Stellen Sie sicher, dass das Konto, mit dem die e-Mail-Einladung angenommen wurde, das gleiche Konto ist, mit dem Sie sich später anmelden. Stellen Sie sicher, dass der Benutzer dasselbe Konto verwendet, um die Einladung zu akzeptieren und sich bei der Website anzumelden. 
+- Stellen Sie sicher, dass das Konto, das die E-Mail-Einladung akzeptiert hat, dasselbe Konto ist, das für die spätere Anmeldung verwendet wird. Stellen Sie sicher, dass der Benutzer dasselbe Konto verwendet, um die Einladung anzunehmen und sich bei der Website anzumelden. 
 
-Weitere Informationen finden Sie unter [Vorgehensweise Verwalten von Aliasen für Ihr Microsoft-Konto </a> zum Verwalten der Microsoft 365-Anmeldung](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Weitere Informationen finden Sie unter [Verwalten von Aliasen für Ihr Microsoft-Konto</a> zum Verwalten der Microsoft 365-Anmeldung](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- Wechseln Sie zu jedem Standort (en), in dem der Benutzer den Fehler empfängt. 
+- Navigieren Sie zu den einzelnen Websites, auf denen der Benutzer den Fehler empfängt. 
 
-Fügen Sie "/_layouts/15/people.aspx/membershipgroupid = 0" (innerhalb der Anführungszeichen) an das Ende der Website-URL an. 
+Fügen Sie "/_layouts/15/people.aspx/membershipgroupid=0" (innerhalb der doppelten Anführungszeichen) am Ende der Website-URL hinzu. 
 
-Beispiel: https://< "Contoso" >. SharePoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Beispiel: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Wählen Sie den Benutzer aus der Liste aus.
 
-- Klicken Sie im Menüband auf **Benutzerberechtigungen entfernen** . 
--  Fügen Sie den Benutzer wieder hinzu, und senden Sie die Einladung erneut an den Benutzer.
+- Klicken Sie im Menüband auf " **Benutzerberechtigungen entfernen** ". 
+-  Fügen Sie den Benutzer zurück, und senden Sie die Einladung erneut an den Benutzer.
 

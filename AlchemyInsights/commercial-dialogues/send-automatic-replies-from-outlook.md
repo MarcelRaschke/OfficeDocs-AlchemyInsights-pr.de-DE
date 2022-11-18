@@ -1,0 +1,30 @@
+---
+title: Senden automatischer Antworten aus Outlook
+ms.author: v-jmathew
+author: v-jmathew
+manager: dansimp
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+ms.localizationpriority: medium
+ms.custom:
+- "9000761"
+- "7254"
+ms.openlocfilehash: d1e591877fea6125851505bba5da5b17d5905884
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66368571"
+---
+# <a name="send-automatic-replies-from-outlook"></a>Senden automatischer Antworten aus Outlook
+
+Führen Sie dazu die folgenden Schritte aus:
+
+1. Wählen Sie **"Automatische Dateiantworten** > " aus.
+2. Wählen Sie im Feld **"Automatische Antworten** " die Option " **Automatische Antworten senden" aus**.
+3. Geben Sie auf der Registerkarte **Innerhalb meiner Organisation** die während Ihrer Abwesenheit an Teammitglieder oder Kollegen zu sendende Antwort ein.
+4. Wenn Ihre automatischen Antworten optional an Personen außerhalb Ihrer Organisation gesendet werden sollen, wählen Sie die Registerkarte **"Außerhalb meiner Organisation** " aus, aktivieren Sie das Feld " **Automatische Antwort an Personen außerhalb meiner Organisation** ", und geben Sie dann die Antwort ein, die Sie senden möchten, während Sie nicht im Büro sind. Wählen Sie aus, ob Antworten nur an **"Meine Kontakte** " oder an **"Jeder außerhalb meiner Organisation** " gesendet werden sollen, der Ihnen Nachrichten sendet.
+
+    **Hinweis**: Das Senden automatischer Antworten an **alle Personen außerhalb meiner Organisation** sendet Ihre automatische Antwort an jede E-Mail, einschließlich Newslettern, Anzeigen und potenziell Junk-E-Mails. Wenn Sie automatische Antworten an Personen außerhalb Ihrer Organisation senden möchten, empfehlen wir **, nur "Meine Kontakte**" auszuwählen.

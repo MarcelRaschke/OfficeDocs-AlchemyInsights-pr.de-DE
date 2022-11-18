@@ -3,24 +3,23 @@ title: Delegierte Postfachberechtigungen in einer Hybridumgebung
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "685"
 - "3500009"
-ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: 84ce7c1a31ad3d44b10c892c1d6a1a5ef85de58d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "685"
+ms.date: 04/21/2020
+ms.openlocfilehash: 7e39bb8578769b1e6bd66c74a6d5b825c8aecac3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680459"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66259714"
 ---
 # <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>Delegierte Postfachberechtigungen in einer Hybridumgebung
 
-Je nach der Version von Exchange, die Sie in Ihrer lokalen Organisation installiert haben, müssen Sie möglicherweise einige zusätzliche Schritte ausführen, um Berechtigungen für Delegierte Postfächer zwischen Ihrer lokalen Organisation und Exchange Online in Microsoft 365 einzurichten. Weitere Informationen zum Einrichten von Delegierten Berechtigungen finden Sie unter [Configure Exchange to Support Delegierte Mailbox Permissions in a Hybrid Deployment](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).
+Abhängig von der Version von Exchange, die Sie in Ihrer lokalen Organisation installiert haben, müssen Sie möglicherweise einige zusätzliche Schritte ausführen, um delegierte Postfachberechtigungen zwischen Ihrer lokalen Organisation und Exchange Online in Microsoft 365 einzurichten. Weitere Informationen zum Einrichten delegierter Berechtigungen erhalten Sie unter [Konfigurieren von Exchange zur Unterstützung delegierter Postfachberechtigungen in einer Hybridbereitstellung](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).
   

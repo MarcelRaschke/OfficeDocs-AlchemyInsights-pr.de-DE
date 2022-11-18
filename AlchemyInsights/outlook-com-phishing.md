@@ -3,28 +3,28 @@ title: Umgang mit Phishing in Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ms.custom:
-- "1895"
-- "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: c678710c49366d77f7ef8ea3f0b0c02dc252529d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.custom:
+- "9000289"
+- "1895"
+ms.date: 04/21/2020
+ms.openlocfilehash: ed73a7ce4f7d128be8a62e511abcff8a65c3465e
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798231"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66579170"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Umgang mit einer Phishing-e-Mail
+# <a name="how-to-deal-with-a-phishing-email"></a>Umgang mit einer Phishing-E-Mail
 
-Bei einem Phishing-Betrug handelt es sich um eine e-Mail-Nachricht, die legitim erscheint, aber tatsächlich versucht, persönliche Informationen oder Geld zu stehlen. Betrüger können auch eine Technik namens Spoofing verwenden, um es so aussehen zu lassen, als hätten Sie eine e-Mail von sich selbst erhalten.
+Ein Phishing-Betrug ist eine E-Mail, die legitim erscheint, aber tatsächlich ein Versuch ist, Ihre persönlichen Informationen oder Ihr Geld zu stehlen. Die Betrüger können außerdem eine Technik mit der Bezeichnung Spoofing verwenden, um den Anschein zu erwecken, dass Sie eine von Ihnen selbst stammende E-Mail erhalten haben.
 
-Wenn Sie eine e-Mail erhalten, die wie ein Phishing-Betrug aussieht, können Sie Sie melden, indem Sie die Nachricht auswählen und dann **Junk**-  >  **Phishing**auswählen.
+Wenn Sie eine E-Mail erhalten, die wie ein Phishing-Betrug aussieht, können Sie sie melden, indem Sie die Nachricht und dann **Junk-Phishing** >  auswählen.
 
-*Hinweis:* Wenn Sie eine Nachricht als Phishing markieren, meldet Sie nur den Absender.Es blockiert nicht, dass der Absender Ihnen Nachrichten zukünftig sendet. Um den Absender zu blockieren, müssen Sie den Absender der Liste blockierter Absender hinzufügen. Weitere Informationen finden Sie unter [Blockieren von Absendern oder unblocken von Absendern in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+*Hinweis:* Wenn Sie eine Nachricht als Phishing markieren, meldet sie nur den Absender. Dadurch wird nicht verhindert, dass dieser Absender Ihnen in Zukunft Nachrichten sendet. Um den Absender zu blockieren, müssen Sie den Absender zur Liste der blockierten Absender hinzufügen. Weitere Informationen finden Sie unter [Blockieren von Absendern oder Aufheben der Blockierung von Absendern in Outlook.com](https://support.microsoft.com/office/block-senders-or-mark-email-as-junk-in-outlook-com-a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
 
-In diesem Artikel erfahren Sie, wie Sie [mit Missbrauch, Phishing oder Spoofing in Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) und [Erweiterter Outlook.com-Sicherheit für Microsoft 365-Abonnenten](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)umgehen.
+Erfahren Sie mehr über den [Umgang mit Missbrauch, Phishing oder Spoofing in Outlook.com](https://support.microsoft.com/office/phishing-and-suspicious-behaviour-0d882ea5-eedc-4bed-aebc-079ffa1105a3) und [erweiterte Outlook.com Sicherheit für Microsoft 365-Abonnenten]https://support.microsoft.com/office/advanced-outlook-com-security-for-microsoft-365-subscribers-882d2243-eab9-4545-a58a-b36fee4a46e2).

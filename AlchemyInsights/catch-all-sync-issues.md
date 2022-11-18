@@ -1,35 +1,34 @@
 ---
 title: Abfangen aller Synchronisierungsprobleme
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9000037"
-- "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1674"
+ms.openlocfilehash: 7a42a2fa9f8cd34c0203cff55f102ebd2f4560d1
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757047"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66536603"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Grundlegende Outlook-Synchronisierungsproblem Behandlung
+# <a name="basic-outlook-sync-troubleshooting"></a>Grundlegende Outlook-Synchronisierungsproblembehandlung
 
-Wenn Sie Probleme mit der Synchronisierung haben, versuchen Sie Folgendes:
+Wenn Synchronisierungsprobleme auftreten, versuchen Sie Folgendes:
 
 - Führen Sie [dieses Diagnosetool](https://aka.ms/sara-outlooksendreceive) auf dem betroffenen Computer aus.
-- Verringern Sie die Anzahl der Ordner im primären oder freigegebenen Postfach. Weitere Informationen finden Sie unter [Outlook-Leistungsprobleme, wenn zu viele Elemente oder Ordner in einem Cache-Modus Ost-oder PST-Datei Ordner vorhanden sind](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).
+- Verringern Sie die Anzahl der Ordner im primären oder freigegebenen Postfach. Sehen Sie [sich Leistungsprobleme bei Outlook an, wenn sich zu viele Elemente oder Ordner in einem OST- oder PST-Dateiordner im Cachemodus befinden](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).
 - Deaktivieren Sie die Zwischenspeicherung aller freigegebenen Ordner.
 - Ändern Sie die Konfiguration des sekundären Exchange-Postfachs in ein zweites Exchange-Konto in Ihrem Profil.
 - Stellen Sie sicher, dass der Benutzer eine Verbindung mit dem Internet herstellen kann. 
-- [Stellen Sie sicher, dass Sie online sind](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
-- [Bestimmen, ob eine Regel angewendet wird](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
-- Stellen Sie sicher, dass **freigegebene Ordner herunterladen** aktiviert ist, indem Sie auf Kontoeinstellungen für **Datei**  >  **Konto**Einstellungen  >  **Account Settings**  >  **Weitere Einstellungen**  >  **erweitert**vornehmen.
+- [Vergewissern Sie sich, dass Sie online sind](https://support.microsoft.com/office/switch-from-working-offline-to-online-2460e4a8-16c7-47fc-b204-b1549275aac9).
+- [Bestimmen Sie, ob eine Regel angewendet wird](https://support.microsoft.com/office/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
+- Stellen Sie sicher, dass "**Freigegebene Ordner herunterladen**" aktiviert ist, indem Sie zu "**Kontoeinstellungen** für **Dateikonteneinstellungen** >  >  > **" "Weitere Einstellungen erweitert"** >  wechseln.

@@ -1,24 +1,23 @@
 ---
 title: Websitelogo ändern
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002502"
 - "4869"
 - "4870"
-ms.openlocfilehash: 44dd76383b2ca6b071c9f7cbbc9166509ff808fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5017297db0070d611ad3fb1c91d82b89e2fdc1c1
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681907"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66538082"
 ---
 # <a name="change-site-logo"></a>Websitelogo ändern
 
@@ -33,5 +32,5 @@ SharePoint Online-Teamwebsites, die mit einer Office 365-Gruppe verbunden sind, 
 
 **Zusätzliche Informationen**
 
-- [Verwalten der Einstellungen Ihrer SharePoint-Website](https://support.office.com/article/manage-your-sharepoint-site-settings-8376034d-d0c7-446e-9178-6ab51c58df42)
+- [Verwalten der Einstellungen Ihrer SharePoint-Website](https://support.microsoft.com/office/change-a-site-s-title-description-logo-and-site-information-settings-8376034d-d0c7-446e-9178-6ab51c58df42)
 - [Website-Logo kann nicht geändert werden](https://docs.microsoft.com/sharepoint/troubleshoot/sites/error-when-changing-o365-site-logo)

@@ -1,27 +1,29 @@
 ---
-title: . uk Domaintransfers
+title: .uk-Domänenübertragungen
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/05/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 42fa6189bc41c573fcb06fb41c9c6c4af82a0c8f
-ms.sourcegitcommit: 9604f7cec8bf18ae2d7e5915cab4671a3a04d316
+ms.openlocfilehash: dff54c8fafc222dbed99b2ba892a56a5bce97f5e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598567"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66416038"
 ---
-# <a name="uk-domain-transfers"></a>. uk Domaintransfers
+# <a name="uk-domain-transfers"></a>.uk-Domänenübertragungen
 
-Wenden Sie sich an den Microsoft-Support, und fordern Sie eine **IPS-Tag-Änderung** an, die der Registrierungsstelle entspricht, für die Sie Ihre Domäne verwalten möchten. Nachdem sich das Tag geändert hat, wird die Domäne sofort an die neue Registrierungsstelle übertragen. Anschließend müssen Sie mit der neuen Registrierungsstelle zusammenarbeiten, um die Übertragung abzuschließen, wahrscheinlich Gebühren für die Übertragung zu bezahlen und die übertragene Domäne Ihrem Konto bei ihrer neuen Registrierungsstelle hinzuzufügen.
+Domänenübertragungen in Großbritannien erfordern das IPS-Tag der neuen Registrierungsstelle. Das IPS-Tag kann im Domänenübertragungs-Assistenten im Microsoft-Verwaltungsportal eingegeben werden:
 
-Weitere Informationen zu Domänen Übertragungen finden Sie unter [übertragen einer Domäne von Microsoft auf einen anderen Host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+- Wechseln **Sie zu "Einstellungsdomänen"** > , doppelklicken Sie auf die Domäne, und wählen Sie **"Domäne übertragen**" aus, um den Übertragungs-Assistenten zu starten.[](https://admin.microsoft.com/#/Domains)
+
+Sobald sich das Tag ändert, wird die Domäne sofort an die neue Registrierungsstelle übertragen. Sie müssen dann mit der neuen Registrierungsstelle zusammenarbeiten, um die Übertragung abzuschließen, wahrscheinlich Überweisungsgebühren zu zahlen und die übertragene Domäne zu Ihrem Konto bei Ihrer neuen Registrierungsstelle hinzuzufügen.
+
+Weitere Informationen zu Domänenübertragungen finden [Sie unter Übertragen einer Domäne von Microsoft auf einen anderen Host](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).

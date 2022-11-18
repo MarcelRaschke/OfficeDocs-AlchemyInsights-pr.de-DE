@@ -1,26 +1,24 @@
 ---
-title: 3800017 Problembehandlung beim Synchronisieren von Kalender mit Ihrem Gerät
+title: 3800017 Problembehandlung beim Synchronisieren des Kalenders mit Ihrem Gerät
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "619"
 - "3800017"
-ms.assetid: 1ea8bd4d-1352-4904-b426-2724876d4244
-ms.openlocfilehash: 271c2161868b43aa7f8b18bb9bbad967b121125e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "619"
+ms.openlocfilehash: 7a7cb1e76a98168af9406896ebc5e322792a5066
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664781"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66595543"
 ---
 # <a name="troubleshoot-syncing-your-calendar-to-your-device"></a>Problembehandlung beim Synchronisieren Ihres Kalenders mit Ihrem Gerät
 
-Wenn beim ersten Einrichten Ihrer mobilen e-Mail Synchronisierungsprobleme auftreten, finden Sie unter cannot [Sync Calendar and Contacts with My Phone or Table](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f).
+Wenn beim erstmaligen Einrichten Ihrer mobilen E-Mails Synchronisierungsprobleme auftreten, lesen Sie " [Kalender und Kontakte können nicht mit meinem Smartphone oder Tablet synchronisiert werden](https://support.microsoft.com/office/can-t-sync-calendar-and-contacts-with-my-phone-or-tablet-8479d764-b9f5-4fff-ba88-edd7c265df9f)".
   

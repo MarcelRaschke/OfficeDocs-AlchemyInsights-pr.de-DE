@@ -1,32 +1,30 @@
 ---
-title: 1575-PowerApps und Microsoft Flow Plan Extension
-ms.author: toresing
-author: tomresing
+title: 1575-PowerApps und Microsoft Flow-Planerweiterung
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1575"
 - "9000087"
-ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1575"
+ms.date: 04/21/2020
+ms.openlocfilehash: 66a7ce66655e27dd9887df2396f913ef67e5dfe6
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728394"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66281422"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps und Microsoft Flow Plan Extension
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps und Microsoft Flow-Planerweiterung
 
-Wenn Sie beabsichtigen, eine Plan Erweiterung für **Microsoft Flow** oder **PowerApps** anzufordern, und Ihr Mandant bereits über eine der folgenden Funktionen verfügt, müssen Sie keine Supportanfrage einreichen.
+Wenn Sie eine Planerweiterung für **Microsoft Flow** oder **PowerApps** anfordern möchten und Ihr Mandant bereits über aktive Benutzer eines der folgenden Features verfügt, ist es nicht erforderlich, eine Supportanfrage zu stellen.
 
 - Erstellen und Veröffentlichen von benutzerdefinierten Connectors in PowerApps und Microsoft Flow
-- In Flow außerhalb von SharePoint und OneDrive integrierte HTTP-benutzerdefinierte Aktionen
-- Integration von lokalen Daten über das lokale Daten Gateway
+- In Flow außerhalb von SharePoint und OneDrive integrierte benutzerdefinierte HTTP-Aktionen
+- Integration lokaler Daten über das lokale Datengateway
 
-Kunden mit aktiven Benutzern dieser Features erhalten eine automatische Erweiterung bis zum 31. Januar 2020 oder den Ablauf des vorhandenen Microsoft 365-Abonnementzeitraums, je nachdem, welcher Zeitraum länger ist.
+Kunden mit aktiven Benutzern dieser Features erhalten eine automatische Erweiterung bis zum 31. Januar 2020 oder den Ablauf ihrer bestehenden Microsoft 365-Abonnementlaufzeit, je nachdem, welcher Zeitraum länger ist.

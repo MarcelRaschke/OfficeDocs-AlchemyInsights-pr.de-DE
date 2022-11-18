@@ -1,39 +1,35 @@
 ---
 title: Möchten Sie ein neues Abonnement kaufen?
-ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+ms.author: cmcatee
+manager: scotv
+ms.reviewer: nalinkla, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
-ms.collection: Adm_O365
-ms.custom: ''
-ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 7ad6b96485d098be76b98c1bb53c67c885978fce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ROBOTS: NOINDEX, NOFOLLOW
+ms.custom:
+- commerce_purchase
+- empty
+ms.localizationpriority: medium
+ms.date: 04/05/2022
+ms.openlocfilehash: 490767e78dbb4233f82550b716c2f7fc65499447
+ms.sourcegitcommit: 085bab9640d94a170df2f8e67aa05577d7413009
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675174"
+ms.lasthandoff: 08/01/2022
+ms.locfileid: "67111154"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Möchten Sie ein neues Abonnement kaufen?
 
-Wenn Sie bereits ein Microsoft 365 for Business-Abonnement haben und ein weiteres Abonnement für Ihre Organisation erwerben möchten, wechseln Sie zur Seite **Gebühren** pflichtige \> [Dienste](https://go.microsoft.com/fwlink/p/?linkid=868433) , um eine Liste der Abonnements anzuzeigen, die Ihrer Organisation zur Verfügung stehen.
- 
-1. Wählen Sie das gewünschte Abonnement aus, und wählen Sie dann **kaufen**aus.
+Wenn Sie bereits über ein Microsoft 365 Business-Abonnement verfügen und ein weiteres Abonnement für Ihre Organisation erwerben möchten, führen Sie die folgenden Schritte aus.
 
-2. Wählen Sie aus, wie Sie zahlen möchten und wie viele Benutzerlizenzen benötigt werden.
+1. Wechseln Sie im Admin Center zur Seite "[Abrechnungskaufdienste](https://go.microsoft.com/fwlink/p/?linkid=868433)  \>", um eine Liste der Abonnements anzuzeigen, die für Ihre Organisation verfügbar sind.
+2. Wählen Sie auf der Seite **Dienste kaufen** den Plan aus, den Sie erwerben möchten. Wählen Sie dann **Details** und danach **Kaufen** aus.
+3. Geben Sie die Anzahl der benötigten Lizenzen ein, und wählen Sie aus, ob Sie monatlich oder für das ganze Jahr bezahlen möchten. Wählen Sie aus, ob Sie Lizenzen automatisch edem zuweisen möchten, der derzeit nicht über eine Lizenz verfügt. Wählen Sie dann **Jetzt auschecken** aus.
+4. Prüfen Sie die angegebenen Preise, und wählen Sie **Weiter** aus.
+5. Geben Sie Ihre Zahlungsinformationen an, und wählen Sie dann **"Bestellung** >  aufgeben **" aus, um zu Admin Start zu wechseln**.
 
-3. Wählen Sie **Jetzt auschecken** aus. Auf der nächsten Seite können Sie die Bestellung überprüfen und den Kauf abschließen.
+Wenn Ihr Kauf abgeschlossen ist, müssen Sie [möglicherweise Lizenzen neu zuweisen](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) oder [ein Abonnement kündigen](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-4. Wenn Ihr Einkauf abgeschlossen ist, müssen Sie möglicherweise Lizenzen neu zuweisen oder ein Abonnement kündigen. Hilfe hierzu finden Sie im Abschnitt Weitere Ressourcen unten.
-
- **Zusätzliche Ressourcen:**
-  
-- [Zuweisen von Lizenzen zu Benutzern in Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-    
-- [Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-    
-- Wenn Sie Interesse an einem Wechsel von Abonnements haben, finden Sie weitere Informationen unter [Wechseln zu einem anderen Microsoft 365 for Business-Plan.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+Wenn Sie an einem Upgrade auf ein anderes Abonnement interessiert sind, lesen Sie ["Upgrade auf einen anderen Plan"](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).

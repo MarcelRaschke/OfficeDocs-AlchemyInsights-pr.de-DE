@@ -1,28 +1,27 @@
 ---
-title: Kreditanforderung aufgrund eines Dienstausfalls
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Kreditanfrage aufgrund eines Dienstausfalls
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51c312e13e08f6b898c820d21a51ccdbcea4b33c
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726846"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66514992"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a>Kreditanforderung aufgrund eines Dienstausfalls
+# <a name="credit-request-due-to-a-service-outage"></a>Kreditanfrage aufgrund eines Dienstausfalls
 
-Wenn Sie eine Kreditanforderung aufgrund eines Dienstausfalls beantragen möchten, öffnen Sie eine Serviceanfrage.
+Um eine Kreditanfrage aufgrund eines Serviceausfalls zu beantragen, öffnen Sie bitte eine Serviceanfrage.
 
-Stellen Sie sicher, dass die Vorfall-ID auf der [Seite Dienst Integrität](https://docs.microsoft.com/office365/enterprise/view-service-health) im Microsoft 365 Admin Center vorhanden ist.
+Stellen Sie sicher, dass Sie die Vorfall-ID auf der [Seite "Dienststatus](https://docs.microsoft.com/office365/enterprise/view-service-health)" im Microsoft 365 Admin Center.
 
-Bitte beachten Sie, dass bei der Verarbeitung Ihrer Anforderung eine Validierung durchgeführt wird, um die Auswirkungen des Ausfalls zu beobachten.
+Bitte beachten Sie, dass ihre Anfrage bei der Bearbeitung einer Überprüfung unterzogen wird, um die Auswirkungen des Ausfalls zu beobachten.

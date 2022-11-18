@@ -1,26 +1,25 @@
 ---
 title: GatewayNotReachable beim Festlegen von Anmeldeinformationen
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "1321"
 - "2500002"
-ms.openlocfilehash: eefd024944282f26460b8ae6da04829dd4239983
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1321"
+ms.openlocfilehash: e74c8942d51704c34c730d8480d85fe079d49bd0
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690854"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66255538"
 ---
 # <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable beim Festlegen von Anmeldeinformationen
 
-Beim Versuch, Anmeldeinformationen für eine Datenquelle innerhalb des Power BI-Diensts festzulegen, können GatewayNotReachable auftreten. Dies kann das Ergebnis eines veralteten Gateways sein. Installieren Sie das neueste Gateway, und versuchen Sie es erneut.
+Möglicherweise tritt GatewayNotReachable auf, wenn Sie versuchen, Anmeldeinformationen für eine Datenquelle innerhalb der Power BI-Dienst festzulegen. Dies könnte das Ergebnis eines veralteten Gateways sein. Installieren Sie das neueste Gateway, und versuchen Sie es erneut.
 
 Weitere Informationen: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

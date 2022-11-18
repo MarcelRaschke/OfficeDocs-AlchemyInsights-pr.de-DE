@@ -1,38 +1,38 @@
 ---
-title: 9000236 Outlook.com-Konto hinzufügen
+title: 9000236 Outlook.com Konto hinzufügen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1819"
 - "9000236"
-ms.openlocfilehash: 96b0b38522707d0abd3ee9e9b64652061f0c7791
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1819"
+ms.date: 04/21/2020
+ms.openlocfilehash: b4b0191ae65ec30fc6d2ab2da31fe67ed0cedfe3
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672775"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66565501"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Hinzufügen Ihrer anderen e-Mail-Konten zu Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Hinzufügen Ihrer anderen E-Mail-Konten zu Outlook.com
 
-Wenn Sie Outlook.com weitere e-Mail-Konten hinzufügen, können Sie Outlook.com verwenden, um e-Mail-Nachrichten von diesen Konten zu senden und zu lesen, ohne Outlook.com zu verlassen. Jedes Konto, das Sie Outlook.com hinzufügen, wird als verbundenes Konto bezeichnet.
+Wenn Sie Outlook.com andere E-Mail-Konten hinzufügen, können Sie Outlook.com verwenden, um E-Mail-Nachrichten von diesen Konten zu senden und zu lesen, ohne Outlook.com zu verlassen. Jedes Konto, das Sie Outlook.com hinzufügen, wird als verbundenes Konto bezeichnet.
 
-Hinweis: das Synchronisieren von Ihrem verbundenen Konto mit Ihrem Outlook.com-Konto ist nur unidirektional. E-Mail-Nachrichten, die von Ihrem verbundenen Konto mithilfe von Outlook.com gesendet werden, werden nicht in Ihrem verbundenen Konto angezeigt.
+Hinweis: Die Synchronisierung von Ihrem verbundenen Konto mit Ihrem Outlook.com Konto ist nur unidirektionale. E-Mails, die von Ihrem verbundenen Konto mithilfe von Outlook.com gesendet wurden, werden in Ihrem verbundenen Konto "Gesendete Elemente" nicht angezeigt.
 
 So fügen Sie ein verbundenes Konto hinzu:
 
-1. Öffnen Sie Ihre [e-Mail-Synchronisierungseinstellungen](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Wählen Sie unter **Verbundene Konten**die Option **Gmail** oder **andere e-Mail-Konten**aus.
-3. Geben Sie auf der Seite Konto verbinden einen Anzeigenamen ein (der Name der Empfänger wird angezeigt, wenn Sie eine e-Mail-Nachricht von Ihnen erhalten) und die vollständige e-Mail-Adresse und das Kennwort des e-Mail-Kontos, das Sie mit Ihrem Outlook.com-Konto verbinden möchten.
+1. Öffnen Sie Ihre [E-Mail-Synchronisierungseinstellungen](https://go.microsoft.com/fwlink/?linkid=875264).
+2. Wählen Sie unter **"Verbundene Konten**" **Gmail** - oder **andere E-Mail-Konten** aus.
+3. Geben Sie auf der Seite "Ihr Konto verbinden" einen Anzeigenamen (der Name, den Empfänger sehen, wenn sie eine E-Mail-Nachricht von Ihnen erhalten) sowie die vollständige E-Mail-Adresse und das Kennwort des E-Mail-Kontos ein, das Sie mit Ihrem Outlook.com Konto verbinden möchten.
 
-Sie können e-Mails von einem Konto senden, das Sie mit Ihrem Outlook.com-Konto verbunden haben. Wenn Sie eine e-Mail verfassen, wählen Sie **aus aus** , und wählen Sie die gewünschte e-Mail-Adresse aus, oder [Aktualisieren Sie die standardmäßige Absenderadresse](https://go.microsoft.com/fwlink/?linkid=875264).
+Sie können E-Mails von jedem Konto senden, das Sie mit Ihrem Outlook.com-Konto verbunden haben. Wenn Sie eine E-Mail verfassen, wählen Sie **"Von" aus** , und wählen Sie aus, welche E-Mail-Adresse Sie verwenden möchten, oder [aktualisieren Sie Ihre standardmäßige Absenderadresse](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Weitere Informationen finden Sie unter [Hinzufügen Ihrer anderen e-Mail-Konten zu Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Weitere Informationen finden Sie unter ["Hinzufügen Ihrer anderen E-Mail-Konten zu Outlook.com](https://support.microsoft.com/office/add-your-other-email-accounts-to-outlook-com-c5224df4-5885-4e79-91ba-523aa743f0ba)".
 
-Wenn Sie eine neue e-Mail-Adresse erstellen möchten, die dasselbe Outlook.com-Konto verwendet, lesen Sie [Hinzufügen oder Entfernen eines e-Mail-Alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Wenn Sie eine neue E-Mail-Adresse erstellen möchten, die dasselbe Outlook.com Konto verwendet, lesen Sie ["Hinzufügen" oder "Entfernen eines E-Mail-Alias"](https://support.microsoft.com/office/add-or-remove-an-email-alias-in-outlook-com-459b1989-356d-40fa-a689-8f285b13f1f2).

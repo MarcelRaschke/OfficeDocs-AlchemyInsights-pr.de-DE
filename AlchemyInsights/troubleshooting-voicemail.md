@@ -3,35 +3,34 @@ title: 'Problembehandlung bei Voicemail '
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/09/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.date: 12/09/2020
+ms.openlocfilehash: d80ee5401090cba7702d632af747a96b4f6af9e4
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49608005"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66261514"
 ---
 # <a name="troubleshooting-voicemail"></a>Problembehandlung bei Voicemail
 
-Stellen Sie sicher, dass das Feature busy on Busy beabsichtigt ist.
+Stellen Sie sicher, dass die Funktion "Beschäftigt bei Beschäftigt" beabsichtigt ist.
 
-Wenn dieses Feature für diesen Benutzer nicht erforderlich ist:
+Wenn dieses Feature für diesen Benutzer nicht benötigt wird:
 
-1. Wechseln Sie zu [Teams Admin Center](https://admin.teams.microsoft.com/policies/calling).
-1. Navigieren Sie auf der linken Seite in Richtlinien für **VoIP**  >  -**Anrufe**  >  **Verwalten von Richtlinien** für die **Anrufrichtlinie**.
+1. Wechseln Sie zum [Teams Admin Center](https://admin.teams.microsoft.com/policies/calling).
+1. Navigieren Sie auf der linken Schiene durch **VoIP-Richtlinien** >  > **Verwalten von Richtlinien** für die **Anrufrichtlinie**.
 1. Wählen Sie **Benutzer verwalten** aus.
-1. Suchen Sie nach dem Benutzer, und ändern Sie die Anrufrichtlinie in eine, die **beschäftigt in beschäftigt ist, ist verfügbar, wenn in einem Aufruf** **von Off**.
+1. Suchen Sie nach einem Benutzer, und ändern Sie die Anrufrichtlinie in eine Anrufrichtlinie, für die " **Beschäftigt bei Beschäftigt" verfügbar ist, wenn Sie in einem Anruf** " **Aus" anrufen**.
 1. Klicken Sie auf **Anwenden**.
-> [!NOTE]
-> Änderungen an Richtlinien können bis zu 24 Stunden dauern, bis Sie repliziert werden.
 
-Weitere Informationen zu diesem Feature finden Sie unter: [busy on Busy steht während eines Anrufs zur Verfügung](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+**Hinweis**: Das Replizieren von Änderungen an Richtlinien kann bis zu 24 Stunden dauern.
+
+Weitere Informationen zu diesem Feature finden Sie unter: ["Beschäftigt bei Beschäftigt" ist während eines Anrufs verfügbar.For more information on this feature refer to: Busy on Busy is available while in a call](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).

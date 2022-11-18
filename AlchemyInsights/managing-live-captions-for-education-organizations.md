@@ -1,28 +1,27 @@
 ---
 title: Live-Untertitel für Bildungseinrichtungen verwalten
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 08/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "6140"
+ms.date: 08/03/2020
+ms.openlocfilehash: ead3f7fca1a33418f4a041958385de3f59ae5bdc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812762"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66432967"
 ---
 # <a name="managing-live-captions-for-education-organizations"></a>Live-Untertitel für Bildungseinrichtungen verwalten
 
-Wir empfehlen Admins von Bildungseinrichtungen, den Einsatz von Richtlinienpaketen für die Sicherheit von Schülern, Studenten und Pädagogen in Erwägung ziehen. Weitere Informationen finden Sie unter:  
+Wir empfehlen Admins von Bildungseinrichtungen, den Einsatz von Richtlinienpaketen für die Sicherheit von Schüler:innen, Studierenden und Pädagog:innen in Erwägung ziehen. Weitere Informationen finden Sie hier:  
 
 - [Richtlinienpakete in Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     

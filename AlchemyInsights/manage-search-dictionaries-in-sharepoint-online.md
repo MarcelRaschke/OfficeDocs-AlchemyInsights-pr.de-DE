@@ -1,27 +1,27 @@
 ---
-title: Verwalten von Such Wörterbüchern in SharePoint Online
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
-ms.audience: ITPro
+title: Verwalten von Suchwörterbüchern in SharePoint Online
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1244"
 - "5200021"
-ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 5fcb235bb0a72a3c3c0c6909fdb835127885d73f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1244"
+ms.date: 04/21/2020
+ms.openlocfilehash: c77cc60c15921b4413a462402793e888db289167
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777898"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66257554"
 ---
 # <a name="manage-search-dictionaries"></a>Verwalten von Suchwörterbüchern
 
-Such Wörterbücher in SharePoint Online werden im SharePoint Online Term Store verwaltet, der sich im neuen SharePoint Admin Center befindet. Weitere Informationen zum Hinzufügen oder Bearbeiten von Such Wörterbüchern finden Sie unter [Manage Search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Suchwörterbücher in SharePoint Online werden im SharePoint Online-Terminologiespeicher verwaltet, der sich im neuen SharePoint Admin Center befindet. Weitere Informationen zum Hinzufügen oder Bearbeiten von Suchwörterbüchern finden [Sie unter Verwalten von Suchwörterbüchern](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
   
-Wenn im Terminologiespeicher kein Suchwörter Buch-Ausdruckssatz angezeigt wird, warten Sie bitte 24 Stunden. Wenn das Wörterbuch nach 24 Stunden immer noch nicht angezeigt wird, melden Sie sich ein Support Ticket an.
+Wenn kein Suchwörterbuchausdruckssatz im Terminologiespeicher angezeigt wird, warten Sie 24 Stunden. Wenn das Wörterbuch nach 24 Stunden immer noch nicht angezeigt wird, melden Sie sich bitte ein Supportticket an.
   

@@ -1,25 +1,24 @@
 ---
-title: 973 Migrations StalledDueTo * Rule
+title: 973 Migration StalledDueTo*-Regel
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "973"
 - "3500008"
-ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 5c1127878dfe2c4a2c79712eceaa9181e95c794a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "973"
+ms.date: 04/21/2020
+ms.openlocfilehash: 42f51dc36ead4e0614f8d9e0a71b2f13dbc34022
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674145"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66364917"
 ---
 # <a name="stalleddueto-errors-during-migration"></a>StalledDueTo-Fehler während der Migration
 
-Möglicherweise wird eine Vielzahl von Fehlern angezeigt, die mit "StalledDueTo..." beginnen. während der Migration zu Exchange Online. Viele dieser Fehler sind vollkommen normal. Weitere Informationen finden Sie unter [ressourcenbasierte Drosselung und Priorisierung in Exchange Online Migrationen](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020).
+Möglicherweise werden eine Vielzahl von Fehlern angezeigt, die mit "StalledDueTo..." beginnen. während der Migration zu Exchange Online. Viele dieser Fehler sind vollkommen normal. Weitere Informationen finden Sie [unter Ressourcenbasierte Einschränkung und Priorisierung in Exchange Online Migrationen](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020).

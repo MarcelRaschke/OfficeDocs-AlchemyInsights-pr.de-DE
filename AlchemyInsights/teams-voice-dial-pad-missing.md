@@ -1,27 +1,26 @@
 ---
-title: Microsoft Teams Voice Dial Pad fehlt
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Teams-VoIP-Wähltastatur fehlt
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "2641"
 - "9000719"
-ms.openlocfilehash: 185c261311acc527b0f0469ef1d72ed00e56d17b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+- "2641"
+ms.openlocfilehash: 72c910afc7738e7ccb793af3d3ab63f4d845225a
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452047"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66396723"
 ---
 # <a name="dial-pad-is-missing-in-microsoft-teams"></a>Wähltastatur fehlt in Microsoft Teams 
 
-Wenn Ihre Wähltastatur in Microsoft Teams nicht vorhanden ist, überprüfen Sie Folgendes:
+Wenn Ihre Wähltastatur in Microsoft Teams fehlt, überprüfen Sie Folgendes:
 
 - Stellen Sie sicher, dass dem Benutzer eine [Teams-Lizenz](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses) zugewiesen wurde.
 - Stellen Sie sicher, dass dem Benutzer ein [Anrufplan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) zugewiesen wurde.

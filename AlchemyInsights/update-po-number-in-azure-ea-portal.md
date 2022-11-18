@@ -1,42 +1,41 @@
 ---
-title: Aktualisieren der Bestellnummer im Azure EA-Portal – empfohlene Schritte
+title: Aktualisieren der Auftragsnummer im Azure EA-Portal – empfohlene Schritte
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 12/17/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.date: 12/17/2020
+ms.openlocfilehash: e465a840ba1ed477b264a305814b023ad59b2106
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49707886"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66514812"
 ---
-# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Aktualisieren der Bestellnummer im Azure EA-Portal – empfohlene Schritte
+# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Aktualisieren der Auftragsnummer im Azure EA-Portal – empfohlene Schritte
 
-Änderungen an der MwSt/USt-ID oder der Einkaufs Bestellungsnummer (PO) werden auf der nächsten Rechnung wirksam. Wenn Sie die MwSt/USt-ID oder die Bestellnummer in eine bereits generierte Rechnung ändern möchten, öffnen Sie ein Support Ticket. Wenn Sie Probleme im Zusammenhang mit ihrer MwSt/USt-ID haben, wenden Sie sich an Ihren Microsoft-Lizenzierungspartner (Partner oder Software Berater). Sie wenden sich an das regionale Operations Center (ROC), um Fragen zu ihrer MwSt/USt-ID zu erhalten. 
+Änderungen an der Umsatzsteuer-/Steuernummer oder auftragsnummer werden auf der nächsten Rechnung wirksam. Öffnen Sie ein Supportticket, um die Umsatzsteuer-/STEUER-ID oder Auftragsnummer in eine bereits generierte Rechnung zu ändern. Wenn Sie Probleme im Zusammenhang mit Ihrer Umsatzsteuer-/STEUER-ID haben, wenden Sie sich an Ihren Microsoft-Lizenzierungspartner (Partner oder Softwareberater). Sie wenden sich an das Regional Operations Center (ROC) für Fragen zu Ihrer Umsatzsteuer-/STEUER-ID. 
 
-Das Azure EA-Portal generiert automatisch eine Standard-Bestellnummer, es sei denn, der EA-Administrator legt einen vor dem Rechnungsdatum fest. Als EA-Administrator (direkte Registrierung)/Partner Administrator (indirekte Registrierung) können Sie die Bestellnummer im Azure EA-Portal aktualisieren. Sie können die Bestellnummer jederzeit aktualisieren, bevor die Rechnung für den aktuellen Abrechnungszeitraum und bis zu sieben Tage nach Erhalt der automatisierten Rechnungs Benachrichtigungs-e-Mail generiert wird.    
+Das Azure EA-Portal generiert automatisch eine Standard-Auftragsnummer, es sei denn, der EA-Administrator legt eine vor dem Rechnungsdatum fest. Als EA-Administrator (direkte Registrierung) / Partneradministrator (indirekte Registrierung) können Sie die Auftragsnummer im Azure EA-Portal aktualisieren. Sie können die Auftragsnummer jederzeit aktualisieren, bevor die Rechnung für den aktuellen Abrechnungszeitraum generiert wird, und bis zu sieben Tage nach Erhalt der automatisierten Rechnungsbenachrichtigungs-E-Mail.You can update the PO number at any time prior to the invoice being generated for the current billing period and up to seven days after receiving the automated invoice notification email.    
 
-So aktualisieren Sie die Bestellnummer:
+So aktualisieren Sie die Auftragsnummer:
 
-1. Melden Sie sich beim [EA-Portal](https://ea.azure.com/)an.
-1. Klicken Sie im linken Bereich auf **Berichte**.
-1. Klicken Sie oben auf der Seite auf **Verwendungszusammenfassung** , und wählen Sie den entsprechenden Zeitraum aus der Dropdownliste aus.
-1. Klicken Sie auf **Bestellnummern anzeigen/bearbeiten**.
-1. Geben Sie die neue Bestellnummer ein, und klicken Sie auf **Speichern**.
+1. Melden Sie sich beim [EA-Portal an](https://ea.azure.com/).
+1. Klicken Sie im linken Bereich auf **"Berichte"**.
+1. Klicken Sie oben auf der Seite auf **"Nutzungszusammenfassung** ", und wählen Sie den entsprechenden Zeitraum aus der Dropdownliste aus.
+1. Klicken Sie auf **"Auftragsnummern anzeigen/bearbeiten"**.
+1. Geben Sie die neue Auftragsnummer ein, und klicken Sie auf **"Speichern"**.
 
 **Empfohlene Dokumente** 
 
-- [Azure Enterprise-Registrierungs Rechnungen](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- [Grundlegendes zur Azure Enterprise Agreement-Rechnung](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- [Azure Enterprise-Registrierungsrechnungen](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
+- [Grundlegendes zu Ihrer Azure Enterprise Agreement-Rechnung](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
 - [Grundlegendes zu Azure Enterprise-Rollen](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
-- [Erstellen eines weiteren Unternehmensadministrators (EA admin)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
+- [Erstellen eines anderen Unternehmensadministrators (EA Admin)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 

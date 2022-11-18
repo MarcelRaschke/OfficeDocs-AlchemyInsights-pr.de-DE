@@ -1,35 +1,35 @@
 ---
 title: Elemente in SharePoint oder OneDrive können nicht gelöscht werden.
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
+- "9000255"
 - "1851"
 - "2377"
-- "9000255"
-ms.assetid: ''
-ms.openlocfilehash: db45aa8df40484fdcda7c430f1ca27482a1dd4ce
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 5ff74a867623d6ecff8d9ea1b86f4b63b8dea0f3
+ms.sourcegitcommit: 28a0efb945a4827518e4b6a3a8c804d4ba2e3349
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019582"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66600217"
 ---
-# <a name="unable-to-delete-items"></a>Elemente können nicht gelöscht werden
+# <a name="unable-to-delete-items"></a>Elemente können nicht gelöscht werden.
 
-- Aufbewahrungsrichtlinien können dazu führen, dass Sie die entsprechenden Haltestatus, die dieses Problem verursachen, entweder deaktivieren oder ausschließen müssen. Nach dem Entfernen einer Aufbewahrungsrichtlinie oder eines Haltestatus kann es bis zu 24 Stunden dauern, bis die Änderung wirksam wird. Stellen Sie sicher, dass kein [Aufbewahrungsrichtlinien](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) Setup für das Element vorhanden ist.
+- Aufbewahrungsrichtlinien können dies verursachen. Sie müssen entweder den jeweiligen Haltebereich deaktivieren oder ausschließen, der dieses Problem verursacht. Nachdem eine Aufbewahrungsrichtlinie oder ein Haltebereich entfernt wurde, kann es bis zu 24 Stunden dauern, bis die Änderung wirksam wird. Stellen Sie sicher, dass für das Element keine [Aufbewahrungsrichtlinie](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) eingerichtet ist.
 
-- Die Website hat möglicherweise die Speichergrenzwerte überschritten, das [Websitekontingent](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) erhöht und das Element gelöscht.
+- Möglicherweise hat die Website den Speichergrenzwert überschritten, das [Websitekontingent](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps&preserve-view=true) erhöht und das Element gelöscht.
 
-- Stellen Sie sicher, dass das Element nicht für einen anderen Benutzer [ausgecheckt](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) ist.
+- Stellen Sie sicher, dass das Element nicht für einen anderen Benutzer [ausgecheckt](https://support.microsoft.com/office/check-out-check-in-or-discard-changes-to-files-in-a-sharepoint-library-7e2c12a9-a874-4393-9511-1378a700f6de) ist.
 
-- Schließlich können Administratoren [SharePoint-Muster und-Methoden](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PNP) verwenden, das eine Bibliothek mit PowerShell-Befehlen enthält, mit denen Sie komplexe Verwaltungsaktionen wie das Löschen hartnäckiger Elemente erzwingen können.
-- [PNP-Datei entfernen](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
-- [PNP-Ordner entfernen](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
-- [PNP-Listenelement entfernen](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
-- [PNP-Liste entfernen](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
-- [PNP-Feld entfernen (Spalte)](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
+- Schließlich können Administratoren [SharePoint Patterns and Practices](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation&preserve-view=true) (PnP) verwenden, das eine Bibliothek von PowerShell-Befehlen enthält, mit denen Sie komplexe Verwaltungsaktionen ausführen können, z. B. das Löschen hartnäckiger Elemente.
+- [PNP-Datei entfernen](https://github.com/pnp/powershell/blob/dev/documentation/Remove-PnPFile.md)
+- [PNP-Ordner entfernen](https://github.com/pnp/powershell/blob/dev/documentation/Remove-PnPFolder.md)
+- [PNP-Listenelement entfernen](https://github.com/pnp/powershell/blob/dev/documentation/Remove-PnPListItem.md)
+- [PNP-Liste entfernen](https://github.com/pnp/powershell/blob/dev/documentation/Remove-PnPList.md)
+- [PNP-Feld entfernen (Spalte)](https://github.com/pnp/powershell/blob/dev/documentation/Remove-PnPField.md)

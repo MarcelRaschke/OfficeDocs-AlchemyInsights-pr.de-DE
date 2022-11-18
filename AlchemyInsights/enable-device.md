@@ -3,29 +3,28 @@ title: Gerät aktivieren
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9003257"
 - "8278"
-ms.openlocfilehash: 9e4b03dcba7a2c98a5d63213ee49f9ba8f91d670
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 568f415953b68f2787ba8398567ee6bb7c61af96
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50255161"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66391467"
 ---
 # <a name="enable-device"></a>Gerät aktivieren
 
-**So aktivieren Sie das Gerät mithilfe des Befehls "Powershell"**
+**So aktivieren Sie das Gerät mithilfe des Powershell-Befehls**
 
 Führen Sie die folgenden Befehle aus:
 
-- So erhalten Sie das Geräteobjekt: `Get-MsolDevice -Name <Name>`
+- So rufen Sie das Geräteobjekt ab: `Get-MsolDevice -Name <Name>`
 - So aktivieren Sie das Gerät: `Enable-MsolDevice -DeviceId <DeviceId>`
 
-Weitere Informationen zum Konfigurieren des Hybrid join für verwaltete Domänen finden Sie unter [Configure Hybrid Join](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains).
+Weitere Informationen zum Konfigurieren der Hybridbeitrittsfunktion für verwaltete Domänen finden [Sie unter Konfigurieren der Hybridbeitrittsfunktion](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains).

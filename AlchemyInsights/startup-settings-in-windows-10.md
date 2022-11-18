@@ -1,54 +1,53 @@
 ---
-title: Start Einstellungen in Windows 10
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Starteinstellungen in Windows 10
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: e49faca66785c6611dda702a381c39cdb10884f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 117a69da7706051d9bc5f445b4e6f8f2f9a3a406
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751134"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66372639"
 ---
-# <a name="startup-settings-in-windows-10"></a>Start Einstellungen in Windows 10
+# <a name="startup-settings-in-windows-10"></a>Starteinstellungen in Windows 10
 
-**Ändern der automatisch ausgeführten apps beim Start**
+**Ändern, welche Apps beim Start automatisch ausgeführt werden**
 
-1. Wechseln Sie zu [Einstellungen > apps > Start](ms-settings:startupapps?activationSource=GetHelp).
+1. Wechseln Sie > [Start zu "Einstellungen > Apps](ms-settings:startupapps?activationSource=GetHelp)".
 
-2. Stellen Sie sicher, dass jede APP, die Sie beim Start ausführen möchten **, aktiviert ist.**
+2. Stellen Sie sicher, dass alle Apps, die Sie beim Start ausführen möchten **, aktiviert** sind.
 
-**Hinzufügen einer App zum automatischen Ausführen beim Start**
+**Hinzufügen einer App, die beim Start automatisch ausgeführt werden soll**
 
-1. Klicken oder tippen Sie auf **Start** , und suchen Sie die APP, die Sie beim Start ausführen möchten.
+1. Klicken oder tippen Sie auf **"Start** ", und suchen Sie die App, die Sie beim Start ausführen möchten.
 
-2. Klicken Sie mit der rechten Maustaste auf die APP, klicken Sie auf **Weitere**, und klicken Sie dann auf **Dateispeicherort öffnen**. Dadurch wird der Speicherort geöffnet, an dem die Verknüpfung zur APP gespeichert wird. Wenn keine Option zum Öffnen des Dateispeicherorts vorhanden ist, bedeutet dies, dass die APP beim Start nicht ausgeführt werden kann.
+2. Klicken Sie mit der rechten Maustaste auf die App, klicken Sie auf **"Mehr**", und klicken Sie dann auf **"Dateispeicherort öffnen"**. Dadurch wird der Speicherort geöffnet, an dem die Verknüpfung mit der App gespeichert wird. Wenn keine Option zum Öffnen des Dateispeicherorts vorhanden ist, bedeutet dies, dass die App beim Start nicht ausgeführt werden kann.
 
-3. Wenn der Dateispeicherort geöffnet ist, drücken Sie die **Windows-Logo-Taste + R**, geben Sie **Shell: Startup**ein, und klicken Sie dann auf **OK**. Dadurch wird der Startordner geöffnet.
+3. Drücken Sie bei geöffnetem Dateispeicherort die **Windows-Logo-Taste +R**, geben Sie **"shell:startup**" ein, und klicken Sie dann auf **"OK**". Dadurch wird der Ordner "Start" geöffnet.
 
-4. Kopieren Sie die Verknüpfung zur APP aus dem Dateispeicherort in den Startordner, und fügen Sie Sie ein.
+4. Kopieren Sie die Verknüpfung mit der App, und fügen Sie sie aus dem Dateispeicherort in den Ordner "Start" ein.
 
-**Erweiterte Startoptionen (einschließlich abgesicherter Modus, UEFI-Einstellungen und Booten von einem anderen Gerät)**
+**Erweiterte Startoptionen (einschließlich abgesicherter Modus, UEFI-Einstellungen und Starten von einem anderen Gerät)**
 
-1. Speichern Sie Ihre Arbeit, und schließen Sie alle geöffneten Dokumente, da mit diesen Schritten Ihr PC neu gestartet wird.
+1. Speichern Sie Ihre Arbeit, und schließen Sie alle geöffneten Dokumente, da diese Schritte ihren PC neu starten.
 
-2. Wechseln Sie zu [Einstellungen > Update & Security > Recovery](ms-settings:recovery?activationSource=GetHelp).
+2. Wechseln [Sie zu "Einstellungen" > "& Sicherheit > Wiederherstellung aktualisieren](ms-settings:recovery?activationSource=GetHelp)".
 
-3. Klicken Sie unter **Erweiterter Start**auf **jetzt neu starten**. 
+3. Klicken Sie unter **"Erweiterter Start**" auf **"Jetzt neu starten**". 
 
-4. Nach dem Neustart des Computers auf dem Bildschirm Option auswählen:
+4. Nach dem Neustart des PCs auf dem Optionsbildschirm "Auswählen":
 
-    - Wenn Sie von einem Gerät wie einem USB-Laufwerk booten möchten, klicken Sie auf **Gerät verwenden**.
+    - Um von einem Gerät wie einem USB-Laufwerk zu starten, klicken Sie auf **"Gerät verwenden"**.
 
-    - Klicken Sie zum Eingeben der UEFI-Einstellungen (auch als BIOS-Setup bezeichnet) auf **Problembehandlung > erweiterte Optionen > UEFI-Firmwareeinstellungen**. 
+    - Um die UEFI-Einstellungen (manchmal auch ALS BIOS-Setup bezeichnet) einzugeben, klicken Sie auf **Problembehandlung > Erweiterte Optionen > UEFI-Firmwareeinstellungen**. 
 
-    - Um in den abgesicherten Modus zu wechseln oder erweiterte Start Einstellungen zu ändern, klicken Sie **> Start Einstellungen auf Problembehandlung > erweiterte Optionen**, und klicken Sie dann auf **neu starten**. Möglicherweise werden Sie aufgefordert, Ihren [BitLocker-Wiederherstellungsschlüssel](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key)einzugeben. Wenn Ihr PC erneut gestartet wird, klicken Sie auf die Starteinstellung, die Sie verwenden möchten.
+    - Um in den abgesicherten Modus zu wechseln oder erweiterte Starteinstellungen zu ändern, klicken Sie auf **Problembehandlung > Erweiterte Optionen > Starteinstellungen**, und klicken Sie dann auf **"Neu starten**". Möglicherweise werden Sie aufgefordert, Ihren [BitLocker-Wiederherstellungsschlüssel](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) einzugeben. Nachdem Der PC erneut gestartet wurde, klicken Sie auf die Starteinstellung, die Sie verwenden möchten.

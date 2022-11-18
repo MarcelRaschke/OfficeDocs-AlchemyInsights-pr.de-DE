@@ -1,27 +1,26 @@
 ---
-title: Aktuelle Daten Exposition
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+title: Aktuelle Datenexposition
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: eab23e211045bb103ebe61157bef86c712541956
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693230"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66265456"
 ---
-# <a name="recent-data-exposure"></a>Aktuelle Daten Exposition
+# <a name="recent-data-exposure"></a>Aktuelle Datenexposition
 
-Microsoft wurde von einer Drittanbieter-Forscherin darauf hingewiesen, dass eine Datenbank, auf der die Microsoft-Support Daten gehostet werden, ohne Authentifizierung zugänglich war. Am 31. Dezember 2019 hat Microsoft die Datenbank gesichert.
+Microsoft wurde von einem Drittanbieter darauf hingewiesen, dass auf eine Datenbank, die bearbeitete Microsoft-Supportdaten hostet, ohne Authentifizierung zugegriffen werden konnte. Am 31. Dezember 2019 hat Microsoft die Datenbank gesichert.
 
-Wir bemühen uns um die Privatsphäre und Sicherheit unserer Kunden und ergreifen Maßnahmen, um zukünftige Vorkommen dieses Problems zu verhindern. Wir haben Benachrichtigungen an Kunden begonnen, deren Daten in dieser behandelten Datenbank vorhanden waren. Weitere Informationen finden Sie unter Informationen zur [Kunden Bekanntheit im Zusammenhang mit einer aktuellen Informations Exposition](https://aka.ms/privacyinfo).
+Wir engagieren uns für die Privatsphäre und Sicherheit unserer Kunden und ergreifen Maßnahmen, um zukünftige Vorkommnisse dieses Problems zu verhindern. Wir haben mit Benachrichtigungen für Kunden begonnen, deren Daten in dieser bearbeiteten Datenbank vorhanden waren. Weitere Informationen finden Sie unter [Kundeninformationen im Zusammenhang mit einer aktuellen Informationsexposition](https://aka.ms/privacyinfo).

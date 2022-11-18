@@ -1,28 +1,28 @@
 ---
-title: Outlook.com kann sich nicht abmelden
+title: Outlook.com können sich nicht abmelden
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
-ms.custom:
-- "1872"
-- "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.custom:
+- "8000008"
+- "1872"
+ms.date: 04/21/2020
+ms.openlocfilehash: bad957765a1342bae0f0c105a1262f0b69ea5aed
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752754"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66401979"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Abmelden bei Outlook.com nicht möglich
+# <a name="unable-to-sign-out-of-outlookcom"></a>Abmelden von Outlook.com nicht möglich
 
-Wenn Sie sich bei Outlook.com abmelden möchten, wählen Sie Ihren Namen oder Ihr Bild in der rechten oberen Ecke des Bildschirms aus, und wählen Sie dann **Abmelden aus**.
+Um sich von Outlook.com abzumelden, wählen Sie ihren Namen oder Ihr Bild in der oberen rechten Ecke des Bildschirms und dann **"Abmelden" aus**.
 
-Wenn Ihr Bild oben auf dem Bildschirm nicht angezeigt wird, überprüfen Sie, ob AD-Blockierung aktiviert ist. In einigen Fällen wird dadurch die Anzeige des Bilds verhindert.
+Wenn Ihr Bild am oberen Bildschirmrand nicht angezeigt wird, überprüfen Sie, ob das Blockieren von Anzeigen aktiviert ist. In einigen Fällen wird dadurch die Anzeige des Bilds verhindert.
 
-Wenn Sie sich immer noch nicht von Outlook.com abmelden können, klicken Sie auf  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) alle Browserfenster schließen.
+Wenn Sie sich immer noch nicht von Outlook.com abmelden können, klicken Sie auf [https://login.live.com/logout.srf](https://login.live.com/logout.srf) alle Browserfenster schließen.

@@ -1,26 +1,25 @@
 ---
-title: Aufrufen eines Hybrid Schlüssels
+title: Abrufen eines Hybridschlüssels
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "694"
 - "3500010"
-ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "694"
+ms.date: 04/21/2020
+ms.openlocfilehash: 56e6c983869d8185b7a811fe184b8e5e7b6df4a3
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706846"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66389822"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Aufrufen eines Exchange-Hybrid Schlüssels
+# <a name="getting-an-exchange-hybrid-key"></a>Abrufen eines Exchange-Hybridschlüssels
 
-Um die lokale Organisation mit Exchange Online in Microsoft 365 zu verbinden, müssen Sie mindestens einen Exchange-Server in Ihrer lokalen Organisation einrichten. Dieser Server dient zum Erstellen einer hybridbereitstellung, die Ihre lokale Exchange-Organisation mit Exchange Online verbindet. Um einen Hybrid Schlüssel für diesen Server zu erhalten, führen Sie die Schritte unter [Exchange Hybrid Product Key Distribution Wizard](https://aka.ms/hybridkey)aus.
+Um Ihre lokale Organisation mit Exchange Online in Microsoft 365 zu verbinden, müssen Sie mindestens einen Exchange-Server in Ihrer lokalen Organisation einrichten. Dieser Server wird verwendet, um eine Hybridbereitstellung zu erstellen, die Ihre lokale Exchange-Organisation mit Exchange Online verbindet. Um einen Hybridschlüssel für diesen Server abzurufen, führen Sie die Schritte im [Exchange-Assistenten für die Verteilung von Product Key-Hybridschlüsseln](https://aka.ms/hybridkey) aus.
   

@@ -1,27 +1,26 @@
 ---
 title: Installieren von Office auf einem iPhone
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
+ms.localizationpriority: medium
 ms.custom:
-- "753"
 - "2000016"
-ms.openlocfilehash: 2da851956f7de295895ccc5e52c30538796c4f77
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "753"
+ms.date: 04/21/2020
+ms.openlocfilehash: 8970bbf40ea77bf10f63cbadd1b560c19c9a1a94
+ms.sourcegitcommit: 8324c868c664bfdee6d5bb99ad8d41e9dd46d10f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704092"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66539198"
 ---
 # <a name="how-to-install-office-on-an-iphone"></a>Installieren von Office auf einem iPhone
 
-- Lassen Sie den Benutzer auf dem mobilen Gerät auf [den Download Link tippen](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) , für Word, Excel, PowerPoint und OneNote.
+- Lassen Sie den Benutzer [auf den Downloadlink](https://support.microsoft.com/office/install-and-set-up-office-on-an-iphone-or-ipad-9df6d10c-7281-4671-8666-6ca8e339b628) von ihrem mobilen Gerät für Word, Excel, PowerPoint und OneNote tippen.
 
-- Wenn der Benutzer die app starten soll, tippen Sie auf **Anmelden** , und geben Sie Ihre Arbeits-oder Schul Anmeldeinformationen ein.
+- Lassen Sie den Benutzer die App starten, tippen **Sie auf "Anmelden"** , und geben Sie seine Geschäfts-, Schul- oder Unianmeldeinformationen ein.

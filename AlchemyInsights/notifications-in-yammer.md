@@ -1,23 +1,22 @@
 ---
 title: Benachrichtigungen in Yammer
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002878"
 - "5480"
-ms.openlocfilehash: c1fbeea7bf4269e90e52cf5c129e904c99714926
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5076bdd592e78ced236bf00bcd7932dd3a294b6d
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662792"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66387633"
 ---
 # <a name="notifications-in-yammer"></a>Benachrichtigungen in Yammer
 

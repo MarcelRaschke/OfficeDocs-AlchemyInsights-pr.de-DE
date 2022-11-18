@@ -3,22 +3,21 @@ title: Probleme bei der Entwicklung von Anwendungen
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "7754"
 - "9004342"
-ms.openlocfilehash: 652fd6431201380e8e96619f63ecac15a6704d4f
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+- "7754"
+ms.date: 01/25/2021
+ms.openlocfilehash: 91bed409b771101420d848667fd9f7e6a8d3ff3c
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950733"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66404824"
 ---
 # <a name="issues-developing-applications"></a>Probleme bei der Entwicklung von Anwendungen
 
@@ -30,7 +29,7 @@ Informationen zur Behebung der häufigsten Probleme beim Entwickeln von Azure Ac
 - [Ich weiß nicht, wie Berechtigungen für meine Anwendung erteilt werden](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
 - [Mir ist der Unterschied zwischen delegierten und Anwendungsberechtigungen nicht klar](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
 
-***Ende der Unterstützung von Azure Active Directory-Authentifizierungsbibliothek (ADAL) und Azure AD Graph-API (AAD Graph)** _
+***Ende der Unterstützung für die Azure Active Directory-Authentifizierungsbibliothek (ADAL) und die Azure AD-Graph-API (AAD Graph)***
 
 - Ab dem 30. Juni 2020 werden der Azure Active Directory-Authentifizierungsbibliothek (ADAL) und der Azure AD Graph-API (AAD Graph) keine neuen Features mehr hinzugefügt. Wir werden weiterhin technischen Support und Sicherheitsupdates bereitstellen, jedoch keine Funktionsupdates mehr.
 
@@ -40,7 +39,7 @@ Informationen zur Behebung der häufigsten Probleme beim Entwickeln von Azure Ac
 
     - Apps, die AAD Graph nach diesem Zeitpunkt verwenden, werden keine Antworten mehr vom AAD Graph-Endpunkt erhalten.
 
-_ *ADAL-Migration**
+**ADAL-Migration**
 
 Wenn Sie Microsoft-Apps verwenden, wird ein Update auf die Microsoft-Authentifizierungsbibliothek (MSAL) empfohlen, die über die neuesten Features und Sicherheitsupdates verfügt. Diese Empfehlung steht in Zusammenhang mit dem Beginn der Migration der eigenen Anwendungen durch Microsoft nach MSAL bis zum Enddatum des Supports. 
 

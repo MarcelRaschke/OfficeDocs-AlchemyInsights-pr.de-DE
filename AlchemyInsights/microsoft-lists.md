@@ -1,24 +1,23 @@
 ---
 title: Microsoft Lists
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/14/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "5677"
 - "9002964"
-ms.openlocfilehash: a773279a47a6e5462e9c06837513e75ce3d4f318
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "5677"
+ms.date: 07/14/2020
+ms.openlocfilehash: e97c371acdc9387e35f42ed6f917a27cd46c563e
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576220"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66432499"
 ---
 # <a name="microsoft-lists"></a>Microsoft Lists
 
@@ -29,7 +28,6 @@ Das Feature steht nun zu 100 % jedem Benutzer mit einer SharePoint-Lizenz zur V
 Als globaler Administrator oder SharePoint-Administrator in Microsoft 365 können Sie die Einstellungen für Microsoft Lists steuern. Sie können:
 
 - Die Erstellung persönlicher Listen deaktivieren (und so Benutzer davon abhalten, neue Listen auf „Meine Listen“ zu speichern).
-- Integrierte Listenvorlagen deaktivieren, die für Ihre Organisation nicht relevant sind.
-Sie [Listen steuern](https://docs.microsoft.com/sharepoint/control-lists)
+- Integrierte Listenvorlagen deaktivieren, die für Ihre Organisation nicht relevant sind. Weitere Informationen finden Sie unter [Steuerelementlisten](https://docs.microsoft.com/sharepoint/control-lists)
 
 Weitere Informationen finden Sie unter [Microsoft Lists](https://aka.ms/microsoftlists).

@@ -1,27 +1,26 @@
 ---
 title: Freigabe mit Outlook im Web
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "3800014"
 - "5699"
-ms.openlocfilehash: 74af770276711de42928b400173a7c378a2d4c40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95b16fc0fe6a167688397434a5b195cf6d882328
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800283"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66255754"
 ---
 # <a name="sharing-with-outlook-on-the-web"></a>Freigabe mit Outlook im Web
 
-Wählen Sie aus Ihrem Kalender aus der Symbolleiste oben auf der Seite die Option  **Freigeben** und dann den Kalender aus, den Sie freigeben möchten.
+Wählen Sie aus Ihrem Kalender aus der Symbolleiste oben auf der Seite die Option **Freigeben** und dann den Kalender aus, den Sie freigeben möchten.
 
 <img src='data:image/png;base64,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' />
 
@@ -29,11 +28,11 @@ Wählen Sie aus Ihrem Kalender aus der Symbolleiste oben auf der Seite die Optio
 
 - Geben Sie den Namen oder die E-Mail-Adresse der Person ein, für die Sie Ihren Kalender freigeben möchten.
 - Wählen Sie aus, wie Ihr Kalender von der Person verwendet werden soll:
-    - Bei Auswahl von **Kann sehen, wenn ich beschäftigt bin**  kann die Person sehen, wann Sie beschäftigt sind, es werden jedoch keine Details wie z. B. der Veranstaltungsort angezeigt.
-    - Bei Auswahl von **Kann Titel und Orte anzeigen**  kann die Person sehen, wann Sie beschäftigt sind, und es werden Titel und Ort der Ereignisse angezeigt.
-    - Bei Auswahl von **Kann anzeigen**  kann die Person alle Details Ihrer Ereignisse sehen.
-    - Bei Auswahl von **Kann anzeigen**  kann die Person Ihren Kalender bearbeiten.
-    - Bei Auswahl von **Übertragen** kann die Person Ihren Kalender bearbeiten und mit anderen teilen.
-- Wählen Sie  **Freigeben** aus.
+    - Bei Auswahl von **Kann sehen, wenn ich beschäftigt bin** kann die Person sehen, wann Sie beschäftigt sind, es werden jedoch keine Details wie z. B. der Veranstaltungsort angezeigt.
+    - Bei Auswahl von **Kann Titel und Orte anzeigen** kann die Person sehen, wann Sie beschäftigt sind, und es werden Titel und Ort der Ereignisse angezeigt.
+    - Bei Auswahl von **Kann alle Details anzeigen** kann die Person alle Details Ihrer Ereignisse sehen.
+    - Bei Auswahl von **Kann bearbeiten** kann die Person Ihren Kalender bearbeiten.
+    - Bei Auswahl von **Stellvertretung** kann die Person Ihren Kalender bearbeiten und mit anderen teilen.
+- Wählen Sie **Freigeben** aus.
 
 Weitere Informationen finden Sie unter [Freigeben Ihres Kalenders in Outlook im Web](https://support.microsoft.com/office/7ecef8ae-139c-40d9-bae2-a23977ee58d5).

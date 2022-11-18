@@ -1,23 +1,22 @@
 ---
-title: 324 Probleme mit e-Mail-Adresse (n), die an das falsche Ziel gesendet werden
+title: 324 Probleme mit E-Mails, die an das falsche Ziel gelangen
 ms.author: chrisda
 author: chrisda
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: dansimp
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom: 324
-ms.assetid: 5f6ae28e-cd87-4265-9ad4-d13c201c12da
-ms.openlocfilehash: 719d6f0c8d33056d93dbfad6f2f32b3949ab1011
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: 87cd5deab73cba1720626e2dbca35d3080fed113
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769794"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66287542"
 ---
-# <a name="email-messages-are-going-to-the-wrong-destination"></a>E-Mail-Nachrichten gehen an das falsche Ziel
+# <a name="email-messages-are-going-to-the-wrong-destination"></a>E-Mail-Nachrichten werden an das falsche Ziel gesendet
 
-Es sieht so aus, als ob Sie ein Nachrichtenflussproblem haben. Wir verfügen über eine Diagnose, mit der viele häufige Probleme beim Nachrichtenfluss identifiziert werden können. Klicken Sie unten auf **Diagnose ausführen** .
+Es sieht so aus, als hätten Sie ein Problem mit dem Nachrichtenfluss. Wir verfügen über Diagnosen, die dazu beitragen, viele häufige Probleme mit dem Nachrichtenfluss zu identifizieren. Klicken Sie unten auf **Diagnose ausführen** .

@@ -1,31 +1,30 @@
 ---
 title: Einrichten eines externen Monitors
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "3453"
+ms.openlocfilehash: 8ec848ee8b2b4cc83b593ab2e6dadd9cc68a79ca
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773909"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66426838"
 ---
 # <a name="set-up-one-monitor"></a>Einrichten eines Monitors
 
 **Überprüfen der Projekteinstellungen Ihres PCs**
 
-1. Öffnen Sie Ihre Projekteinstellungen, indem Sie die folgenden Tasten gleichzeitig drücken: Windows-Taste (Windows-Logo-Start Schaltfläche) + P.
-2. Wählen Sie nur **Duplizieren**, **erweitern**oder **zweiten Bildschirm**, je nach Ihren Einstellungen.
+1. Öffnen Sie Ihre Projekteinstellungen, indem Sie die folgenden Tasten gleichzeitig drücken: Windows-Taste (Windows-Logo-Schaltfläche "Start") + P.
+2. Wählen Sie nur den Bildschirm **"Duplizieren**", " **Erweitern**" oder " **Zweiter Bildschirm**" aus, je nach Ihren Einstellungen.
 
-**Hinweis:** Wenn Ihr PC nur über einen Anzeige-Port verfügt (wie HDMI oder VGA), benötigen Sie eine Dockingstation oder einen USB-Adapter, um mehrere Monitore einzurichten.
+**Hinweis:** Wenn Ihr PC nur über einen Anzeigeanschluss (z. B. HDMI oder VGA) verfügt, benötigen Sie eine Dockingstation oder einen USB-Adapter, um mehrere Monitore einzurichten.
 
-Auch wenn Sie einen Monitor einrichten können, aber nicht mehrere, ist Ihr PC möglicherweise nicht mit mehreren Monitoren kompatibel. Weitere Informationen finden Sie in den Originaldokumenten Ihres PCs.
+Wenn Sie einen Monitor, aber nicht mehrere Monitore einrichten können, ist Ihr PC möglicherweise nicht mit mehreren Monitoren kompatibel. Weitere Informationen finden Sie in den Originaldokumenten Ihres PCs.

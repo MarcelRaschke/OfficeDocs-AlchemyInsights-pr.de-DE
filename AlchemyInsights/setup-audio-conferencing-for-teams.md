@@ -1,23 +1,22 @@
 ---
 title: Einrichten von Audiokonferenzen für Teams
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: 4cabc559d0f201fc2ad5004e459a871d0caaf545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89770ab6f775ea605ea034f02026cd2adcb4f659
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739608"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66384141"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Einrichten von Audiokonferenzen für Teams
 
@@ -43,4 +42,4 @@ So überprüfen Sie, ob der Benutzer für Audiokonferenzen lizenziert ist und ü
 
 7. Wählen Sie den betreffenden Benutzer aus, und vergewissern Sie sich, dass er über eine **gebührenpflichtige Standardnummer** verfügt.
 
-Weitere Informationen finden Sie unter [Anrufpläne für Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365). Sie können sich auch an das Microsoft Commerce-Abrechnungsteam wenden, um Fragen zur Lizenzierung zu beantworten.
+Weitere Informationen finden Sie unter [Microsoft Teams-Anrufpläne für Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365). Sie können sich auch an das Microsoft Commerce-Abrechnungsteam wenden, um Fragen zur Lizenzierung zu beantworten.

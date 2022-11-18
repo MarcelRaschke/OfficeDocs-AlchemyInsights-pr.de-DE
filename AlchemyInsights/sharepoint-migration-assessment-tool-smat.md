@@ -1,23 +1,22 @@
 ---
 title: Tool zur Überprüfung der SharePoint-Migrationsbeurteilung (SharePoint Migration Assessment Tool, SMAT)
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "5300030"
 - "5035"
-ms.openlocfilehash: 6e8ad270af42c78638038e991d35b3c03a43af3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 46299b37edd96964a101a87cb6690cad6ec74668
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661955"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66263242"
 ---
 # <a name="sharepoint-migration-assessment-tool-smat"></a>Tool zur Überprüfung der SharePoint-Migrationsbeurteilung (SharePoint Migration Assessment Tool, SMAT)
 

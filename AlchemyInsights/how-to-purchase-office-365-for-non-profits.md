@@ -1,28 +1,28 @@
 ---
-title: Microsoft 365 für gemeinnützige Organisationen – unter Review
-ms.author: cmcatee
+title: Microsoft 365 für gemeinnützige Organisationen – wird überprüft
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+ms.author: cmcatee
+manager: scotv
+ms.reviewer: zainzaigham, pablom
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "341"
+- commerce_purchase
 - "1500010"
-ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: e101cc34f28eee2abeae55e0cb5abc078f78bf41
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "341"
+ms.date: 04/18/2022
+ms.openlocfilehash: 4853b5b1c7d060f330656dc7b0931996f8480012
+ms.sourcegitcommit: 085bab9640d94a170df2f8e67aa05577d7413009
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779734"
+ms.lasthandoff: 08/01/2022
+ms.locfileid: "67111262"
 ---
-# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 für gemeinnützige Organisationen – unter Review
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 für gemeinnützige Organisationen – wird überprüft
 
-Ihre Berechtigung als eine von Microsoft qualifizierte gemeinnützige Organisation wird **derzeit überprüft**. Sie können davon ausgehen, dass Sie innerhalb von **48 Stunden** nach Einreichen des Antrags eine Benachrichtigung über die Entscheidung zu Ihrer Berechtigung erhalten. Bitte warten Sie mindestens **48 Stunden** auf diese Benachrichtigung, bevor Sie eine Serviceanfrage öffnen. 
+Ihre Berechtigung als microsoftqualifizierte gemeinnützige Organisation wird **überprüft**. Diese Überprüfung kann bis zu **sieben Tage** dauern. Sie erhalten eine E-Mail, in der Sie benachrichtigt werden, wenn Ihre Registrierung genehmigt wurde. Bitte erlauben Sie mindestens **sieben Tagen** , diese Benachrichtigung zu erhalten, bevor Sie eine Serviceanfrage öffnen.
 
-Weitere Informationen finden Sie unter [Microsoft 365 für gemeinnützige Organisationen](https://www.microsoft.com/nonprofits/microsoft-365). 
+Um den Status Ihrer gemeinnützigen Registrierung zu überprüfen, melden Sie sich beim [Gemeinnützigen Hub](https://nonprofit.microsoft.com/) an.

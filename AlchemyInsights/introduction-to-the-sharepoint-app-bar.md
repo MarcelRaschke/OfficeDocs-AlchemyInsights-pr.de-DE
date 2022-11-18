@@ -7,21 +7,20 @@ audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9004628"
 - "8343"
-ms.openlocfilehash: 660bbd53820a5c70709af85bbaa82446c7bf1cd3
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 07070194bd6336b2899c6ecec52046ead513e2bc
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416994"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66321339"
 ---
 # <a name="introduction-to-the-sharepoint-app-bar"></a>Einführung in die SharePoint-App-Leiste
 
-Die App-Leiste wurde entwickelt, um die globale Suche zu verbessern und gleichzeitig personalisierte Inhalte dynamisch anzuzeigen. Die App-Leiste ist standardmäßig **aktiviert** und kann mit der neuesten Version von PowerShell vorübergehend deaktiviert werden (**Set-SPOTemporarilyDisableAppBar $true**). Die App-Leiste kann bis Ende Oktober deaktiviert werden und wird dann automatisch wieder aktiviert.
+Die App-Leiste wurde entwickelt, um die globale Suche zu verbessern und gleichzeitig personalisierte Inhalte dynamisch anzuzeigen. Die App-Leiste ist **standardmäßig aktiviert** und kann vorübergehend deaktiviert werden (**Set-SPOTemporarilyDisableAppBar $true**) mit der neuesten Version von PowerShell. Die App-Leiste kann bis Ende Oktober deaktiviert werden und wird dann automatisch wieder aktiviert.
 
 Weitere Informationen finden Sie unter:
 

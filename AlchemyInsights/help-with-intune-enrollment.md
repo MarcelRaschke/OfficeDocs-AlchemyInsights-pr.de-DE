@@ -1,23 +1,24 @@
 ---
 title: Hilfe zur InTune-Registrierung
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002973"
+- "6700002"
 - "5687"
-ms.openlocfilehash: 516ec77ac29b17509f39bc03cbea8fb7a5a8adbb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "5762"
+ms.openlocfilehash: 799dc08882f075310f793ecc97957d781858d022
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705190"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66309924"
 ---
 # <a name="help-with-intune-enrollment"></a>Hilfe zur InTune-Registrierung
 

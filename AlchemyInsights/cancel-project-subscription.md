@@ -1,33 +1,37 @@
 ---
-title: Projekt Abonnement kündigen
+title: Kündigen Project Abonnements
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+ms.reviewer: sgautam, jmueller
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
+- commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.date: 10/26/2021
+ms.openlocfilehash: cb1f31b9aa501cb99492e9c8b61d628a497963a2
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416480"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66154009"
 ---
-# <a name="cancel-project-subscription"></a>Projekt Abonnement kündigen
+# <a name="cancel-project-subscription"></a>Kündigen Project Abonnements
 
-Administratoren können das Projekt Abonnement für Ihre Organisation im Microsoft 365 Admin Center abbrechen.
+Administratoren können das Project Abonnement für ihre Organisation im Microsoft 365 Admin Center kündigen.
 
-1. Wechseln Sie zur Seite **Abrechnung** \> [ihrer Produkte](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Suchen Sie auf der Registerkarte **Produkte** nach dem Projekt Abonnement, das Sie stornieren möchten. Wählen Sie **Weitere Aktionen** (drei Punkte) aus, und wählen Sie dann **Abonnement kündigen**aus.
-3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund aus, warum Sie abbrechen möchten. Geben Sie optional Feedback ein.
+1. Navigieren Sie zur Seite **Abrechnung** \> [Ihre Produkte](https://admin.microsoft.com/AdminPortal/Home?ref=subscriptions).
+2. Suchen Sie auf der Registerkarte "**Produkte**" das Project Abonnement, das Sie kündigen möchten. Wählen Sie die drei Punkte (weitere Aktionen) und dann **Abonnement kündigen** aus.
+3. Wählen Sie im Bereich **Abonnement kündigen** einen Grund für Ihre Kündigung aus. Geben Sie optional Feedback.
 4. Wählen Sie **Speichern** aus.
+
+**HINWEIS:** Für einige Abonnements können Sie das Abonnement nur in einem begrenzten Zeitraum kündigen, nachdem Sie Ihr Abonnement gekauft oder verlängert haben. Wenn das Kündigungsfenster abgelaufen ist, deaktivieren Sie die fortlaufende Abrechnung, um das Abonnement am Ende der Laufzeit zu kündigen.
 
 **Rückerstattung:** Eine anteilsmäßige Gutschrift wird Ihnen mit dem nächsten Abrechnungszyklus erstattet.
 
-Weitere Informationen finden Sie unter [kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Weitere Informationen finden [Sie unter Kündigen Ihres Abonnements](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

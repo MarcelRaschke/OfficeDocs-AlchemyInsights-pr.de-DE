@@ -2,29 +2,29 @@
 title: Wann wird meine Kreditkarte belastet?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.reviewer: lishepar, vikdesai
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "446"
+- commerce_billing
 - "1500018"
-ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: dd0dde092494fbea5a262bfee59725bde9ebeb28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "446"
+ms.date: 04/21/2020
+ms.openlocfilehash: 1eacb11e7c4e88cd406ea41dd6623c577e3c19c5
+ms.sourcegitcommit: e2ae33f4a65ab8e99c25a26f4106a467fce2f7a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796395"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66156241"
 ---
 # <a name="when-is-my-credit-card-charged"></a>Wann wird meine Kreditkarte belastet?
 
-Bei einem Ersterwerb kann es bis zu zwei Tage dauern, bis die Gebühr eintritt.
+Bei einem ersten Kauf kann es bis zu zwei Tage dauern, bis die Gebühr anfallen kann.
   
-Wiederkehrende Gebühren erfolgen innerhalb eines Tages, an dem die Rechnung erstellt wird.
+Wiederkehrende Gebühren erfolgen innerhalb eines Tages nach Erstellung der Rechnung.
   
-Wenn die Gebühr nicht erfolgreich ist, wird das System weiterhin versuchen, den Saldo in den nächsten Wochen abzurechnen. Sie können jederzeit Aktualisierungen an Ihren Zahlungsinformationen vornehmen, um sicherzustellen, dass der nächste Ladeversuch erfolgreich verläuft. Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Wenn die Gebühr nicht erfolgreich ist, wird das System in den nächsten Wochen weiterhin versuchen, den Saldo auszugleichen. Sie können Ihre Zahlungsinformationen jederzeit aktualisieren, um sicherzustellen, dass der nächste Belastungsversuch erfolgreich ist. Weitere Informationen finden Sie unter [Verwalten von Zahlungsmethoden](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

@@ -1,23 +1,22 @@
 ---
 title: Microsoft 365-Lernpfade
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002632"
 - "5054"
-ms.openlocfilehash: 8da865beecef8a6c3a36c2d7973e424d6cc8da50
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3ebd35a8360cad336d89ffdabff8df3ff99434df
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742700"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66365457"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365-Lernpfade
 

@@ -3,34 +3,34 @@ title: 9000238 Outlook.com Alias hinzufügen
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1821"
 - "9000238"
-ms.openlocfilehash: 178917a3d7aa5110fdaab9fb5210b3585180c37b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1821"
+ms.date: 04/21/2020
+ms.openlocfilehash: 73264b9fe793f21caa0a7f894e678a6f921891f2
+ms.sourcegitcommit: 161627c9e0f44923e80332c9a8d12e40d838433c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672847"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66566293"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Hinzufügen eines e-Mail-Alias in Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>Hinzufügen eines E-Mail-Alias in Outlook.com
 
-Ein Alias ist eine zusätzliche e-Mail-Adresse, die den gleichen Posteingang, die Kontaktliste und die Kontoeinstellungen als primäre e-Mail-Adresse verwendet. Sie können auswählen, von welcher e-Mail-Adresse e-Mails gesendet werden sollen, und Sie können sich mit einem ihrer Aliase bei Ihrem Outlook.com-Konto anmelden – Sie verwenden alle dasselbe Kennwort.
+Ein Alias ist eine zusätzliche E-Mail-Adresse, die dieselben Posteingangs-, Kontaktlisten- und Kontoeinstellungen wie Ihre primäre E-Mail-Adresse verwendet. Sie können auswählen, von welcher E-Mail-Adresse E-Mails gesendet werden sollen, und Sie können sich mit einem Ihrer Aliase bei Ihrem Outlook.com-Konto anmelden – alle verwenden dasselbe Kennwort.
 
-So fügen Sie eine e-Mail-Adresse hinzu:
+So fügen Sie eine E-Mail-Adresse hinzu:
 
-1. Wechseln [Sie zum Hinzufügen eines Alias](https://go.microsoft.com/fwlink/p/?linkid=864833). Melden Sie sich bei Ihrem Microsoft-Konto an, wenn Sie dazu aufgefordert werden.
-2. **Geben Sie unter Alias hinzufügen**entweder Folgendes ein:
-    1. Erstellen Sie eine neue Outlook.com-e-Mail-Adresse, und fügen Sie Sie als Alias hinzu.
-    2. Fügen Sie eine vorhandene e-Mail-Adresse als Alias hinzu.
-3. Wählen Sie **Alias hinzufügen**aus.
+1. Wechseln [Sie zu "Alias hinzufügen"](https://go.microsoft.com/fwlink/p/?linkid=864833). Melden Sie sich bei Ihrem Microsoft-Konto an, wenn Sie dazu aufgefordert werden.
+2. **Führen Sie unter "Alias hinzufügen**" eine der folgenden Aktionen aus:
+    1. Erstellen Sie eine neue Outlook.com E-Mail-Adresse, und fügen Sie sie als Alias hinzu.
+    2. Fügen Sie eine vorhandene E-Mail-Adresse als Alias hinzu.
+3. Wählen Sie **"Alias hinzufügen"** aus.
 
-Lesen Sie mehr über das [Hinzufügen oder Entfernen eines e-Mail-Alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
+Weitere Informationen zum [Hinzufügen oder Entfernen eines E-Mail-Alias in Outlook.com](https://support.microsoft.com/office/add-or-remove-an-email-alias-in-outlook-com-459b1989-356d-40fa-a689-8f285b13f1f2).  
 
-Hier erfahren Sie [, wie Sie ein anderes e-Mail-Konto](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) mit Ihrem Outlook.com-Konto verbinden.
+Lesen Sie [, wie Sie ein anderes E-Mail-Konto mit](https://support.microsoft.com/office/add-your-other-email-accounts-to-outlook-com-c5224df4-5885-4e79-91ba-523aa743f0ba) Ihrem Outlook.com-Konto verbinden.

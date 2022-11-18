@@ -1,42 +1,37 @@
 ---
-title: 'OneDrive: fehlende Dateien oder Ordner'
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+title: 'OneDrive: Fehlende Dateien oder Ordner'
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: e0004c1389b25b8f84d9b32d981728e7bb3f45fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.localizationpriority: medium
+ms.openlocfilehash: 6d18ec47000fca53f53c1d3596652181e0d0587e
+ms.sourcegitcommit: f9d7390a97f6fff46165c17b5cc413c21f1642f6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802596"
+ms.lasthandoff: 10/14/2022
+ms.locfileid: "68575309"
 ---
-# <a name="onedrive-missing-files-or-folders"></a>OneDrive: fehlende Dateien oder Ordner
+# <a name="onedrive-missing-files-or-folders"></a>OneDrive: Fehlende Dateien oder Ordner
 
 **Überprüfen Sie den Papierkorb der Website**.
 
-- [Wiederherstellen von Elementen im Papierkorb einer SharePoint-Website](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
-- [Wiederherstellen gelöschter Dateien oder Ordner in OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [Wiederherstellen von Elementen im Papierkorb einer SharePoint-Website](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
+- [Wiederherstellen gelöschter Dateien oder Ordner in OneDrive](https://support.microsoft.com/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
+**Verwenden Sie das Feature "OneDrive-Dateiwiederherstellung"**.
 
-**Verwenden Sie das OneDrive-Datei Wiederherstellungsfeature**. 
+Wenn viele Ihrer OneDrive-Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie Ihr gesamtes OneDrive mithilfe des [OneDrive-Dateiwiederherstellungsfeatures](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) auf ein früheres Mal wiederherstellen.
 
-Wenn viele ihrer OneDrive-Dateien gelöscht, überschrieben, beschädigt oder durch Schadsoftware infiziert werden, können Sie die gesamte OneDrive mithilfe der OneDrive-Funktion zum [Wiederherstellen der Dateien](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15) auf eine frühere Uhrzeit zurücksetzen.
+**Verwenden Sie die Überwachungsprotokollierung oder den Dateiaktivitätsbereich, um den Verlauf der Datei zu überprüfen**.
 
+Überprüfen Sie die [Überwachungsberichte](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) , indem Sie [hier](https://compliance.microsoft.com) navigieren.
 
-**Verwenden Sie die Überwachungsprotokollierung oder den Bereich Dateiaktivität, um den Verlauf der Datei zu überprüfen**.
+Verwenden Sie den [Dateiaktivitätsbereich](https://support.microsoft.com/office/file-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) , um den Verlauf der Datei zu überprüfen.
 
-Überprüfen Sie die [Überwachungsberichte](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) , indem Sie [hier](https://sip.protection.office.com/)navigieren.
+**Überprüfen Sie den OneDrive-Synchronisierungsclient auf Ihrem lokalen Computer**.
 
-
-Verwenden Sie den [Bereich Dateiaktivität](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) , um den Verlauf der Datei zu überprüfen.
-
-
-**Überprüfen Sie den OneDrive-Synchronisierungs Client auf Ihrem lokalen Computer**.
-
-Wenn Sie die Dateien auf Ihrem Computer mithilfe des OneDrive-Synchronisierungs Clients synchronisieren, überprüfen Sie den Ordner lokale Synchronisierung, um sicherzustellen, dass er ordnungsgemäß hochgeladen wurde. Stellen Sie sicher, dass Sie auch den Papierkorb auf Ihrem lokalen Computer überprüfen.
-
+Wenn Sie die Dateien auf Ihrem Computer mithilfe des OneDrive-Synchronisierungsclients synchronisieren, überprüfen Sie den lokalen Synchronisierungsordner, um sicherzustellen, dass er ordnungsgemäß hochgeladen wurde. Stellen Sie sicher, dass Sie auch den Papierkorb auf Ihrem lokalen Computer überprüfen.

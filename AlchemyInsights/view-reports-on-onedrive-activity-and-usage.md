@@ -1,26 +1,25 @@
 ---
-title: 'Anzeigen von Berichten über #A0 und -Nutzung'
+title: Anzeigen von Berichten zu OneDrive-Aktivitäten und -Nutzung
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "5300020"
 - "7972"
-ms.openlocfilehash: 7f37a4061b9d958c68157281ea65035112bdf618
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: a6f992bee4bd5e66376e3d522268768298bf2ba4
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950766"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66524316"
 ---
-# <a name="view-reports-on-onedrive-activity-and-usage"></a>Anzeigen von Berichten über #A0 und -Nutzung
+# <a name="view-reports-on-onedrive-activity-and-usage"></a>Anzeigen von Berichten zu OneDrive-Aktivitäten und -Nutzung
 
-Wechseln Sie zur [Seite "Verwendungsberichte" im Microsoft 365 Admin Center.](https://admin.microsoft.com/AdminPortal/Home) Wählen **Sie unter "Bericht auswählen"** die #A0 oder den Nutzungsbericht aus.
+Wechseln Sie zur [Seite "Verwendungsberichte" in der Microsoft 365 Admin Center](https://admin.microsoft.com/Adminportal/Home?ref=reportsUsage). **Wählen Sie unter "Bericht auswählen**" den OneDrive-Aktivitäts- oder Nutzungsbericht aus.
 
-Weitere Informationen finden Sie unter [Informationen zu OneDrive-Berichten.](https://go.microsoft.com/fwlink/?linkid=875239)
+Weitere Informationen finden Sie unter ["Informationen zu OneDrive-Berichten"](https://go.microsoft.com/fwlink/?linkid=875239).

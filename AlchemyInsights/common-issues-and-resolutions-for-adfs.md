@@ -1,23 +1,22 @@
 ---
 title: Häufige Probleme und Lösungen für ADFS
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 3bcf65b93e5c5adbfa0ca275c69da882aa125c39
-ms.sourcegitcommit: aabc5178929892d532782036bfb338b4b480d4e5
+ms.openlocfilehash: df8b39674e02cade7e7f8a93084fa53a74addae5
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48213026"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66271000"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Häufige Probleme und Lösungen für ADFS
 

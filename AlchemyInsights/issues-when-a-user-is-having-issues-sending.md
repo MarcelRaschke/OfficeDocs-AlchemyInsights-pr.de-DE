@@ -1,24 +1,23 @@
 ---
-title: 322 Probleme, wenn ein Benutzer Probleme beim Senden hat
+title: 322 Probleme beim Senden eines Benutzers
 ms.author: chrisda
 author: chrisda
-ms.audience: Admin
+manager: dansimp
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "322"
 - "3100011"
-ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
-ms.openlocfilehash: e32347b4ad49b05ee34e21482f3e7d491290ad6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "322"
+ms.openlocfilehash: 4dab5fcdd96c84b5ec7ee72e3d7c3bb09d95556b
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676917"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66404464"
 ---
-# <a name="a-user-is-having-issues-sending-email-messages"></a>Ein Benutzer hat Probleme beim Senden von e-Mail-Nachrichten
+# <a name="a-user-is-having-issues-sending-email-messages"></a>Ein Benutzer hat Probleme beim Senden von E-Mail-Nachrichten.
 
-Es sieht so aus, als ob Sie ein Nachrichtenflussproblem haben. Wir verfügen über eine Diagnose, mit der viele häufige Probleme beim Nachrichtenfluss identifiziert werden können. Klicken Sie unten auf **Diagnose ausführen** .
+Es sieht so aus, als hätten Sie ein Problem mit dem Nachrichtenfluss. Wir verfügen über Diagnosen, die dazu beitragen, viele häufige Probleme mit dem Nachrichtenfluss zu identifizieren. Klicken Sie unten auf **Diagnose ausführen** .

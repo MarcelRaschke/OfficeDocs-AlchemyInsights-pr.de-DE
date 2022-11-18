@@ -1,29 +1,29 @@
 ---
-title: 8000091 Outlook.com reagieren Popup
+title: popup 8000091 Outlook.com React
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
+- "8000091"
 - "1412"
 - "1413"
-- "8000091"
-ms.openlocfilehash: e12b13d193a9cb381fd455ac4fc3c2170fa2f66c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.date: 04/21/2020
+ms.openlocfilehash: a11ef6936d7cf70e6078131caa99beb0f18a1716
+ms.sourcegitcommit: f46cee4a3897c6bac0fc8d353ba3642f76be9964
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728934"
+ms.lasthandoff: 07/01/2022
+ms.locfileid: "66584556"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com ist für Prime Time verfügbar
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com ist bereit für die Prime Time
 
-Wir sind uns bewusst, dass einige Kunden bei jeder Anmeldung das Popup "Outlook.com is ready for Prime Time" sehen können, und wir arbeiten an einer Lösung.
+Wir sind uns bewusst, dass einigen Kunden bei jeder Anmeldung das Popup "Outlook.com ist bereit für die Hauptzeit" angezeigt wird, und wir arbeiten an einem Fix.
 
-Das tut mir leid.
+Das tut uns leid.
 
-[Erfahren Sie mehr über die neuen Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Erfahren Sie mehr über die neue Outlook.com.](https://support.microsoft.com/office/get-help-with-outlook-com-40676ad0-c831-45ac-a023-5be633be798d)

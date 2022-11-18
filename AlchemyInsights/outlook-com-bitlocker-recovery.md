@@ -3,25 +3,24 @@ title: Outlook.com BitLocker-Wiederherstellung
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "2381"
 - "9000545"
-ms.openlocfilehash: b41797fbae6972bc0a9e0fa2252fec36f9b02ace
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "2381"
+ms.date: 04/21/2020
+ms.openlocfilehash: ad7bcd22299d8a0a970957c7ac6119373aa26271
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753762"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66402123"
 ---
 # <a name="bitlocker-recovery"></a>BitLocker-Wiederherstellung
 
-Wechseln Sie zu [Geräte](https://account.microsoft.com/devices/recoverykey) , um ihre BitLocker-Wiederherstellungsschlüssel anzuzeigen.
+Wechseln Sie zu ["Geräte](https://account.microsoft.com/devices/recoverykey) ", um Ihre BitLocker-Wiederherstellungsschlüssel anzuzeigen.
 
-Weitere Informationen finden Sie unter [Find My BitLocker Recovery Key](https://support.microsoft.com/help/4026181)   .
+Weitere Informationen finden [Sie unter "Suchen des BitLocker-Wiederherstellungsschlüssels](https://support.microsoft.com/help/4026181) ".

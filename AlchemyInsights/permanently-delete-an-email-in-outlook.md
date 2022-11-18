@@ -1,34 +1,33 @@
 ---
-title: Dauerhaftes Löschen einer e-Mail in Outlook
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.audience: Admin
+title: Dauerhaftes Löschen einer E-Mail in Outlook
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3da6533acfd0339dec5c66c45db9f7312dca7634
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771684"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66305658"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>Dauerhaftes Löschen einer e-Mail in Outlook
+# <a name="permanently-delete-an-email-in-outlook"></a>Dauerhaftes Löschen einer E-Mail in Outlook
 
-- Drücken Sie in der Ansicht Posteingang lange eine Nachricht, und Sie sehen das Papierkorbsymbol. Tippen Sie auf dieses Symbol, um die Nachricht zu löschen.
+- Drücken Sie in der Posteingangsansicht lange eine Nachricht, und das Papierkorbsymbol wird angezeigt. Tippen Sie auf dieses Symbol, um die Nachricht zu löschen.
 
-- Sie können auch "Delete" als Swipe-Option festlegen (**Einstellungen – > Swipe-Optionen**); Verwenden Sie dann den Finger, um die e-Mail zu streichen, die Sie löschen möchten. 
+- Sie können "Löschen" auch als Wischoption festlegen (**Einstellungen -> Wischoptionen**); und wischen Sie dann mit dem Finger auf die E-Mail, die Sie löschen möchten. 
 
-- Wenn Sie eine Nachricht aus einer geöffneten e-Mail-Ansicht löschen möchten, tippen Sie oben auf dem Bildschirm auf das Papierkorbsymbol. Gelöschte Nachrichten werden in ihren Papierkorbordner verschoben. 
+- Um eine Nachricht aus einer geöffneten E-Mail-Ansicht zu löschen, tippen Sie oben auf dem Bildschirm auf das Papierkorbsymbol. Gelöschte Nachrichten werden in Ihren Papierkorb verschoben. 
 
-**So löschen Sie eine e-Mail endgültig**
+**So löschen Sie eine E-Mail endgültig**
 
-- Greifen Sie in der e-Mail-Ansicht auf den Ordner Papierkorb zu, tippen Sie auf das Kontosymbol (3 Zeilen), und tippen Sie auf den Ordner Papierkorb.
+- Greifen Sie in der E-Mail-Ansicht auf den Papierkorbordner zu, tippen Sie auf das Kontosymbol (3 Zeilen), und tippen Sie auf den Papierkorbordner.
 
-- Einzelne e-Mails löschen oder mehrere e-Mails markieren und von hier löschen; Sie werden endgültig gelöscht.
+- Einzelne E-Mails löschen oder mehrere E-Mails markieren und von hier löschen; sie werden endgültig gelöscht.

@@ -3,22 +3,21 @@ title: Workday zu AD-Benutzerbereitstellung wechselt in den Quarantänezustand
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 02/19/2021
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
-ms.collection: Adm_O365
+ms.localizationpriority: high
 ms.custom:
-- "8471"
 - "9004687"
-ms.openlocfilehash: 0fc519c8170de498c9bcb1fc41a76116bda48b1f
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+- "8471"
+ms.date: 02/19/2021
+ms.openlocfilehash: 6ab8cfe28ab807a6c5b7b2837ce76c4193ff6ea6
+ms.sourcegitcommit: 5fb344efe019d0f7e641a59b2bd0535e6cbafb72
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430745"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66505479"
 ---
 # <a name="workday-to-ad-user-provisioning-goes-into-quarantine-state"></a>Workday zu AD-Benutzerbereitstellung wechselt in den Quarantänezustand
 

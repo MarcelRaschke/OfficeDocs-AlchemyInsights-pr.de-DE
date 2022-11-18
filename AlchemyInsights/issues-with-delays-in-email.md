@@ -1,25 +1,24 @@
 ---
-title: 323 Probleme mit Verzögerungen bei e-Mails
+title: 323 Probleme mit Verzögerungen bei E-Mails
 ms.author: chrisda
 author: chrisda
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: dansimp
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.collection: Adm_O365
+ms.localizationpriority: medium
 ms.custom:
-- "323"
 - "3100002"
-ms.assetid: a825b451-9746-4ab5-bc31-7679b3a48d5e
-ms.openlocfilehash: 378476218b3605b94fc18ed37047f10be1c0ec97
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "323"
+ms.date: 04/21/2020
+ms.openlocfilehash: e005c9ee70504fc680ba577d654afc54fbec35bb
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769758"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66352659"
 ---
-# <a name="delays-in-email-message-delivery"></a>Verzögerungen bei der Zustellung von e-Mail Nachrichten
+# <a name="delays-in-email-message-delivery"></a>Verzögerungen bei der Zustellung von E-Mail-Nachrichten
 
-Es sieht so aus, als ob Sie ein Nachrichtenflussproblem haben. Wir verfügen über eine Diagnose, mit der viele häufige Probleme beim Nachrichtenfluss identifiziert werden können. Klicken Sie unten auf **Diagnose ausführen** .
+Es sieht so aus, als hätten Sie ein Problem mit dem Nachrichtenfluss. Wir verfügen über Diagnosen, die dazu beitragen, viele häufige Probleme mit dem Nachrichtenfluss zu identifizieren. Klicken Sie unten auf **Diagnose ausführen** .

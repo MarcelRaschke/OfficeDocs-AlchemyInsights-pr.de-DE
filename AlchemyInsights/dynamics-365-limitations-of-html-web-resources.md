@@ -1,26 +1,27 @@
 ---
-title: Dynamics 365-Formular-XML-Schema
-ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+title: Dynamics 365 Form XML Schema
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
-- "1473"
 - "6200020"
-ms.openlocfilehash: a8ece1151885f6905b00dbd0daf7b18fdff60b29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "1473"
+ms.openlocfilehash: fcdfc495c8e4e2ea599d0bb45c06f49387595325
+ms.sourcegitcommit: c4e8c29a94f840816a023131ea7b4a2bf876c305
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711310"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66341433"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Webressourcen Einschränkungen für Webseiten (HTML)
+# <a name="webpage-html-web-resources-limitations"></a>Einschränkungen für Webseitenwebressourcen (HTML)
 
-* Eine HTML-Webressource darf keinen Code enthalten, der auf dem Server ausgeführt werden muss. ASP.NET-Seiten können nicht als HTML-Webressourcen hochgeladen werden.
+* Eine HTML-Webressource darf keinen Code enthalten, der auf dem Server ausgeführt werden muss. ASP.NET Seiten können nicht als HTML-Webressourcen hochgeladen werden.
 
-* HTML-Webressourcen können nur eine beschränkte Anzahl von Abfragezeichenfolgen-Parametern akzeptieren. Weitere Informationen: [übergeben von Parametern an HTML-Webressourcen](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* HTML-Webressourcen können nur eine begrenzte Anzahl von Abfragezeichenfolgenparametern akzeptieren. Weitere Informationen: [Übergeben von Parametern an HTML-Webressourcen](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Webseiten Ressourcen (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Webseitenwebressourcen (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
